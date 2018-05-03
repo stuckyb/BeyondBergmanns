@@ -1,2 +1,2 @@
 ## Beyond Bergman's 
-Code and data realted to paper 'Influence of Climate Factors on Endotherm Body Size'
+Code and data related to paper 'Influence of Climate Factors on Endotherm Body Size'
