@@ -1,0 +1,548 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-117.047413,46.876431,NA,1950,"Empidonax oberholseri","Empidonax_oberholseri",11.3,149,"male",6.8,840,8.82418766112711,65.1420968481076,"Spring",30390
+6,-117.4853,47.4262,NA,1956,"Empidonax oberholseri","Empidonax_oberholseri",11.9,143,"female",8.5,389,8.89130917176311,60.9552786267856,"Summer",30391
+6,-117.1622,46.8663,"Ad",1952,"Empidonax oberholseri","Empidonax_oberholseri",12.1,141,"male",7.7,487,8.24299518967285,66.5791891927519,"Summer",30392
+6,-117.1622,46.8663,"Ad",1952,"Empidonax oberholseri","Empidonax_oberholseri",14.5,130,"female",7.7,487,8.24299518967285,66.5791891927519,"Summer",30393
+9,-117.74231,47.603254,"Ad",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.9,148,"female",8.3,476,9.07127918546255,79.8415958829748,"Fall",30394
+5,-117.377536,47.186696,NA,1977,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"female",8.1,436,8.26504138470638,87.3788674640472,"Spring",30395
+5,-117.377536,47.186696,NA,1977,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"female",8.1,436,8.26504138470638,87.3788674640472,"Spring",30396
+6,-117.508616,46.124377,NA,1977,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",5.3,1026,7.53514492832813,100.213363856259,"Summer",30397
+5,-117.174371,46.710567,NA,1982,"Empidonax oberholseri","Empidonax_oberholseri",13,NA,"male",7.7,639,7.9498237068313,45.8327832713863,"Spring",30398
+6,-105.71972,39.4575,NA,1902,"Empidonax oberholseri","Empidonax_oberholseri",2.73,5.8,"male",2.5,389,7.63155331899123,45.8357335508579,"Summer",30399
+9,-104.745217,39.942502,"immature",1993,"Empidonax oberholseri","Empidonax_oberholseri",10.7,134,"undetermined",9.5,369,9.15530976918296,51.2904399856504,"Fall",30400
+6,-107.705833,39.746111,NA,1995,"Empidonax oberholseri","Empidonax_oberholseri",11.95,136,"female",5.9,702,7.25514968623646,55.5393572830843,"Summer",30401
+6,-107.7058333333,39.7461111111,"adult",1995,"Empidonax oberholseri","Empidonax_oberholseri",10.2,127,"male",5.9,702,7.25514968623646,55.5393572830843,"Summer",30402
+5,-103.84325,44.45248,NA,2008,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",30403
+5,-103.84325,44.45248,NA,2008,"Empidonax oberholseri","Empidonax_oberholseri",10.6,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",30404
+6,-108.72642,42.56598,NA,2008,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",30405
+6,-108.72642,42.56598,NA,2008,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",30406
+6,-108.72642,42.56598,NA,2008,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",30407
+6,-107.3395,44.87775,NA,2008,"Empidonax oberholseri","Empidonax_oberholseri",14.5,NA,"male",5.7,524,9.07274890687892,88.2358115594708,"Summer",30408
+8,-114.8514776,44.5471332,"immature",1948,"Empidonax oberholseri","Empidonax_oberholseri",9.4,NA,"male",2.5,743,8.8947848186281,63.0290492854406,"Summer",30409
+8,-114.8514776,44.5471332,"immature",1948,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",2.5,743,8.8947848186281,63.0290492854406,"Summer",30410
+8,-114.650189,43.795881,"immature",1948,"Empidonax oberholseri","Empidonax_oberholseri",13.4,NA,"female",1.3,802,8.99630816535653,62.5794697022649,"Summer",30411
+8,-114.5931166,43.8162955,"adult",1948,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"female",1.7,655,9.07383851820967,58.7479213583617,"Summer",30412
+6,-100.1352107,38.7649162,"adult",1965,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"female",12.1,733,9.85419461524642,91.7356367749967,"Summer",30413
+5,-100.8405876,37.1876726,NA,1967,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",13.9,453,8.59243412790719,110.519143888945,"Spring",30414
+5,-101.78469,37.1521231,NA,1950,"Empidonax oberholseri","Empidonax_oberholseri",15,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",30415
+5,-101.78469,37.1521231,NA,1950,"Empidonax oberholseri","Empidonax_oberholseri",14,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",30416
+4,-101.8171557,37.1349256,NA,1967,"Empidonax oberholseri","Empidonax_oberholseri",14.4,NA,"male",13.6,411,8.56951520852206,116.423617683538,"Spring",30417
+5,-110.806924,32.16544,NA,1967,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female",19.1,399,7.12453613588388,116.12845552154,"Spring",30418
+4,-115.3362885,33.9482841,NA,1984,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",19.9,144,8.07477835327667,156.951707170831,"Spring",30419
+4,-121.298418,51.6850089,NA,1934,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"male",4.9,363,7.87567697907855,47.0723503964921,"Spring",30420
+6,-119.9803162,51.6425244,NA,1935,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",5.5,443,8.63665111164289,79.3760112717692,"Summer",30421
+6,-119.9803162,51.6425244,NA,1935,"Empidonax oberholseri","Empidonax_oberholseri",10.9,NA,"male",5.5,443,8.63665111164289,79.3760112717692,"Summer",30422
+5,-103.529842,34.111886,NA,2011,"Empidonax oberholseri","Empidonax_oberholseri",11.49,NA,"female",15.3,179,9.8091330355486,99.1569054962257,"Spring",30423
+2,-99.587214,22.432612,"u ad.",1948,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",21.1,629,3.80002990418855,112.09703068905,"Winter",30424
+10,-105.83417,23.46889,"u juv.",1946,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",17.6,1187,2.77319419814157,108.597016186447,"Fall",30425
+6,-120.7617707,41.8993424,"u ad.",1949,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"male",6.8,368,8.90928609866575,93.7607611271232,"Summer",30426
+8,-123.8193291,41.1515112,"juv.",1949,"Empidonax oberholseri","Empidonax_oberholseri",10.6,NA,"undetermined",11.1,1784,6.60419403015075,99.056239467751,"Summer",30427
+8,-108.3333,29.91071,"juv.sk.",1948,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"female",11.2,444,6.70388286402332,119.926397434996,"Summer",30428
+9,-116.1719494,33.9621982,"imm.",1950,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",14.3,86,6.07129360685234,98.9622950116048,"Fall",30429
+8,-105.991857,36.626226,"u juv.",1952,"Empidonax oberholseri","Empidonax_oberholseri",10.9,NA,"female",4.6,355,8.91304797711895,78.3136889195579,"Summer",30430
+4,-102.5421973639,29.06028,"u ad.",1953,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"male",19.2,213,6.60240429118381,106.416775602656,"Spring",30431
+4,-102.5421973639,29.06028,"ad.",1953,"Empidonax oberholseri","Empidonax_oberholseri",13,NA,"male",19.2,213,6.60240429118381,106.416775602656,"Spring",30432
+4,-102.5421973639,29.06028,"ad.",1953,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"male",19.2,213,6.60240429118381,106.416775602656,"Spring",30433
+4,-102.5421973639,29.06028,"u ad.",1953,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",19.2,213,6.60240429118381,106.416775602656,"Spring",30434
+5,-118.268436,37.74241,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",3.4,280,6.35726141725136,88.2308477643851,"Spring",30435
+6,-118.261045,37.712773,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"male",1.4,303,6.17008300125892,86.7206712367888,"Summer",30436
+6,-118.099737,37.432159,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"female",6.2,289,6.69886353997995,93.1612499083614,"Summer",30437
+6,-118.099737,37.432159,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",30438
+6,-118.099737,37.432159,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",30439
+6,-118.261045,37.712773,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",1.4,303,6.17008300125892,86.7206712367888,"Summer",30440
+6,-115.21645,41.84056,"u ad.",1955,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",30441
+6,-115.36343,41.86105,"u ad.",1955,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",30442
+6,-115.21645,41.84056,"u ad.",1955,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",30443
+6,-115.21645,41.84056,"u ad.",1955,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",30444
+5,-116.4543,46.7906,"u ad.",1955,"Empidonax oberholseri","Empidonax_oberholseri",14,NA,"male",5.9,814,8.4497937934316,58.5269406522745,"Spring",30445
+6,-115.43111,41.87361,"u ad.",1956,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"female",4.6,594,8.26298794002325,109.66750568223,"Summer",30446
+6,-115.40583,40.65028,"u ad.",1956,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",4.3,644,8.23510593113226,101.722999908376,"Summer",30447
+6,-115.40583,40.65028,"u ad.",1956,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"female",4.3,644,8.23510593113226,101.722999908376,"Summer",30448
+6,-115.40583,40.65028,"u ad.",1956,"Empidonax oberholseri","Empidonax_oberholseri",14.2,NA,"female",4.3,644,8.23510593113226,101.722999908376,"Summer",30449
+6,-115.40583,40.65028,"u ad.",1956,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"female",4.3,644,8.23510593113226,101.722999908376,"Summer",30450
+6,-118.580792,37.814991,"sk.double",1957,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"male",8,222,7.86666827169989,100.907974083612,"Summer",30451
+5,-119.94706,39.58972,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"male",6.4,850,6.91189137821497,112.509150517367,"Spring",30452
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",13.1,NA,"female",9.8,604,7.22587941591425,68.5061719692501,"Summer",30453
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"female",9.8,604,7.22587941591425,68.5061719692501,"Summer",30454
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",13.2,NA,"female",9.8,604,7.22587941591425,68.5061719692501,"Summer",30455
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.9,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30456
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30457
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30458
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30459
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30460
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30461
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30462
+6,-120.07434,39.41822,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.6,NA,"male",6.4,693,6.81817424242003,101.497322782696,"Summer",30463
+6,-120.16367,39.37144,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",6,752,6.78306156852673,104.689371970041,"Summer",30464
+7,-119.91126,38.51603,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",4.1,1363,6.47706910897392,90.0916109137602,"Summer",30465
+7,-119.91126,38.51603,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12.9,NA,"female",4.1,1363,6.47706910897392,90.0916109137602,"Summer",30466
+7,-119.81108,38.544535,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",13.9,NA,"female",2.9,1478,6.40669039506217,85.3426092102678,"Summer",30467
+7,-119.81108,38.544535,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",2.9,1478,6.40669039506217,85.3426092102678,"Summer",30468
+7,-120.0133094,39.313414,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",4.7,987,6.80875105354065,105.356248364895,"Summer",30469
+7,-120.0133094,39.313414,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",4.7,987,6.80875105354065,105.356248364895,"Summer",30470
+7,-120.216214,39.5403287,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.9,NA,"male",5.5,954,6.59722163742688,109.365593148618,"Summer",30471
+7,-120.216214,39.5403287,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"female",5.5,954,6.59722163742688,109.365593148618,"Summer",30472
+7,-120.216214,39.5403287,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",5.5,954,6.59722163742688,109.365593148618,"Summer",30473
+7,-120.216214,39.5403287,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",5.5,954,6.59722163742688,109.365593148618,"Summer",30474
+7,-119.97375,38.699392,"imm.sk.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",4.1,1381,6.52914213122191,95.4172087493478,"Summer",30475
+7,-119.97375,38.699392,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",4.1,1381,6.52914213122191,95.4172087493478,"Summer",30476
+7,-119.97375,38.699392,"ad.sk.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"female",4.1,1381,6.52914213122191,95.4172087493478,"Summer",30477
+8,-119.91126,38.51603,"imm.sk.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"female ?",4.1,1363,6.47706910897392,90.0916109137602,"Summer",30478
+8,-119.91126,38.51603,"ad.sk.",1958,"Empidonax oberholseri","Empidonax_oberholseri",9.8,NA,"female",4.1,1363,6.47706910897392,90.0916109137602,"Summer",30479
+7,-118.6741,42.72,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",4.4,618,7.33714088481585,68.5041700739467,"Summer",30480
+6,-118.6332,42.5529,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",12.9,NA,"female",6.3,544,7.73578853397792,73.4025850420823,"Summer",30481
+6,-118.6332,42.5529,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"male",6.3,544,7.73578853397792,73.4025850420823,"Summer",30482
+6,-118.8442,43.8033,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",12.6,NA,"female",5.2,415,7.720628605276,63.6665705467491,"Summer",30483
+6,-120.87009,40.34568,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"male ?",7.5,615,6.8668284770579,136.403694201774,"Summer",30484
+6,-120.87009,40.34568,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",7.5,615,6.8668284770579,136.403694201774,"Summer",30485
+5,-120.2348983,39.5617778,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",6,605,6.58130962374787,133.799643833287,"Spring",30486
+6,-120.0589699,39.5576281,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"female",7.1,451,7.13138071547796,149.229072047137,"Summer",30487
+6,-120.0589699,39.5576281,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"male",7.1,451,7.13138071547796,149.229072047137,"Summer",30488
+6,-120.0589699,39.5576281,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",7.1,451,7.13138071547796,149.229072047137,"Summer",30489
+6,-120.14686,39.40084,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",6.1,485,6.80420992674923,136.005951218048,"Summer",30490
+6,-120.14686,39.40084,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female",6.1,485,6.80420992674923,136.005951218048,"Summer",30491
+6,-120.14686,39.40084,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",6.1,485,6.80420992674923,136.005951218048,"Summer",30492
+5,-120.13752,39.38635,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",9.4,NA,"male",6.2,465,6.83433843310249,135.884340409056,"Spring",30493
+5,-120.13752,39.38635,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",6.2,465,6.83433843310249,135.884340409056,"Spring",30494
+5,-120.1088166,39.2986532,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",6,527,6.74379625128072,138.360041655719,"Spring",30495
+5,-120.0281,39.5653,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"female",7.3,478,7.66140959417371,117.927173212191,"Spring",30496
+5,-120.8664562,40.3589957,"ad.sk.",1960,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"male",7.6,949,7.50423617739078,108.220613625056,"Spring",30497
+5,-120.8664562,40.3589957,"ad.sk.",1960,"Empidonax oberholseri","Empidonax_oberholseri",10.3,NA,"female",7.6,949,7.50423617739078,108.220613625056,"Spring",30498
+5,-120.72455,40.43429,"ad.sk.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"male",8.6,486,7.8811628122205,105.170956339168,"Spring",30499
+6,-120.14686,39.40084,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",5.9,648,7.49731264985641,115.346510720111,"Summer",30500
+6,-120.14686,39.40084,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",5.9,648,7.49731264985641,115.346510720111,"Summer",30501
+6,-120.14686,39.40084,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"female",5.9,648,7.49731264985641,115.346510720111,"Summer",30502
+6,-120.14686,39.40084,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"female",5.9,648,7.49731264985641,115.346510720111,"Summer",30503
+6,-120.14686,39.40084,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",5.9,648,7.49731264985641,115.346510720111,"Summer",30504
+7,-120.14686,39.40084,"sk.oss.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"female",5.9,648,7.49731264985641,115.346510720111,"Summer",30505
+6,-120.14686,39.40084,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",5.9,648,7.49731264985641,115.346510720111,"Summer",30506
+7,-120.0509094,39.2916774,"ad.sk.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",5.1,780,7.3605829808638,115.226931882664,"Summer",30507
+7,-120.0509094,39.2916774,"ad.sk.",1960,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"male",5.1,780,7.3605829808638,115.226931882664,"Summer",30508
+9,-106.7359053467,29.82389,"ad.sk.",1961,"Empidonax oberholseri","Empidonax_oberholseri",12.6,NA,"female",16.8,272,6.54723513238893,111.942865153066,"Fall",30509
+9,-106.7359053467,29.82389,"imm.sk.",1961,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"undetermined",16.8,272,6.54723513238893,111.942865153066,"Fall",30510
+8,-107.01155,29.27428,"s.n.o.",1961,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male ?",14.5,405,6.18004486597424,117.118632753466,"Summer",30511
+6,-114.256346,38.929166,"ad.sk.",1962,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",5.7,338,8.58892874401092,76.4282508032243,"Summer",30512
+6,-114.260809,38.931237,"ad.sk.",1962,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",5.5,364,8.50523902715796,77.1140771301572,"Summer",30513
+6,-114.21871,38.856596,"ad. sk.oss.",1962,"Empidonax oberholseri","Empidonax_oberholseri",13.5,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",30514
+6,-114.21871,38.856596,"ad.",1962,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",30515
+6,-114.21871,38.856596,"ad. sk.oss.",1962,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",30516
+6,-114.21871,38.856596,"u ad.",1962,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",30517
+6,-114.22917,39.095,"ad. sk.oss.",1962,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",30518
+6,-114.45813,37.45917,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",10.1,445,8.22479621189928,85.1166081006915,"Summer",30519
+6,-115.28361,36.63,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",30520
+6,-115.28361,36.63,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",30521
+6,-115.28361,36.63,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",30522
+6,-115.20694,36.63139,"u ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13.7,NA,"female",6.5,394,7.65416800696117,142.812990429918,"Summer",30523
+6,-115.28361,36.63,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",30524
+6,-115.28361,36.63,"u ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",30525
+6,-115.28361,36.63,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",30526
+6,-115.28361,36.63,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",30527
+6,-115.18786,36.64677,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"female",5,445,7.6021926661545,148.042279466453,"Summer",30528
+6,-115.70313,36.32298,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",4.2,577,7.54483066058939,165.537799876979,"Summer",30529
+6,-115.69549,36.31491,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"female",4.6,584,7.53892927049024,166.913089131655,"Summer",30530
+6,-115.69417,36.31573,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",4.7,585,7.53659255053152,166.320927145513,"Summer",30531
+6,-115.69417,36.31573,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13.4,NA,"female",4.7,585,7.53659255053152,166.320927145513,"Summer",30532
+6,-115.56667,36.4,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",10.9,NA,"male",11.9,310,7.88863778231743,150.844373985848,"Summer",30533
+6,-115.56667,36.4,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",15.1,NA,"female",11.9,310,7.88863778231743,150.844373985848,"Summer",30534
+6,-115.56667,36.4,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",11.9,310,7.88863778231743,150.844373985848,"Summer",30535
+6,-115.65611,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",30536
+6,-115.65611,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",14.2,NA,"female",9.9,447,7.74891488004493,157.395981687623,"Summer",30537
+6,-115.65611,36.40167,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13.4,NA,"female",9.9,447,7.74891488004493,157.395981687623,"Summer",30538
+6,-115.65611,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"female",9.9,447,7.74891488004493,157.395981687623,"Summer",30539
+6,-115.65611,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",30540
+6,-115.65611,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",30541
+6,-115.64714,36.40167,"1st.yr.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",9.9,443,7.75036656024615,157.805418806367,"Summer",30542
+6,-115.63817,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"male",10,441,7.73533314007088,157.815192110921,"Summer",30543
+6,-115.63817,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13.2,NA,"female",10,441,7.73533314007088,157.815192110921,"Summer",30544
+6,-121.5351,44.0323,"ad.sk.",1964,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"female",4.5,1129,6.27391787119862,170.882226635673,"Summer",30545
+6,-122.0921,42.2089,"ad.sk.",1964,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",6.2,765,6.90434645712395,157.501906375894,"Summer",30546
+6,-120.289512,41.9885085,"u ad.",1964,"Empidonax oberholseri","Empidonax_oberholseri",12.6,NA,"male",7,710,7.4748619121734,116.183190869799,"Summer",30547
+6,-120.2971805,41.5590607,"ad.sk.",1964,"Empidonax oberholseri","Empidonax_oberholseri",12.9,NA,"male",5.8,847,7.61698162600574,109.235639777376,"Summer",30548
+6,-120.3230086,41.1729877,"ad.sk.",1964,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",6.3,600,7.47046710640498,115.887092386591,"Summer",30549
+4,-106.30778,29.47,"u ad.",1964,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",16.1,175,7.15560280585441,137.063613469408,"Spring",30550
+7,-117.52944,41.70556,"ad.",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"female",5.8,616,8.55493832221891,73.635279801778,"Summer",30551
+8,-110.7682,45.033,"sk. 1/2 double",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",4.2,517,9.14780980576358,44.4716076609678,"Summer",30552
+8,-110.7682,45.033,"imm. sk.1 layer",1967,"Empidonax oberholseri","Empidonax_oberholseri",13.5,NA,"male",4.2,517,9.14780980576358,44.4716076609678,"Summer",30553
+8,-120.21188,39.43922,"ad. sk.oss.",1967,"Empidonax oberholseri","Empidonax_oberholseri",9.7,NA,"male",5.3,1012,7.4625682068859,116.833989648116,"Summer",30554
+8,-120.21188,39.43922,"ad. sk.oss.",1967,"Empidonax oberholseri","Empidonax_oberholseri",10.4,NA,"male",5.3,1012,7.4625682068859,116.833989648116,"Summer",30555
+8,-120.21188,39.43922,"ad. sk.oss.",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"undetermined",5.3,1012,7.4625682068859,116.833989648116,"Summer",30556
+9,-122.75167,41.21563,"s.n.o.",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"undetermined",6.9,1475,7.96383872719226,110.973925960497,"Fall",30557
+6,-114.83167,39.39528,"ad.sk.",1973,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"male",7.5,209,9.05512997078887,55.8847249289138,"Summer",30558
+6,-117.54611,37.41083,"ad.sk.",1969,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"female",6,350,7.81540824657331,114.404613475225,"Summer",30559
+5,-117.10361,36.94307,"ad.sk.",1971,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",8.8,196,7.83772443011518,103.16030642574,"Spring",30560
+5,-115.40083,37.66592,"ad.sk.",1972,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"male",7.5,348,8.11094938955977,126.064808585424,"Spring",30561
+6,-119.282405,37.447278,"sk.oss.",1978,"Empidonax oberholseri","Empidonax_oberholseri",14.2,NA,"female",9,1563,6.17680779573515,122.345695621931,"Summer",30562
+7,-103.6836,43.9486,"ad.sk.",1981,"Empidonax oberholseri","Empidonax_oberholseri",13.6,NA,"female",5.5,535,8.00217300033389,118.075255014877,"Summer",30563
+7,-105.8919,45.5644,"ad.sk.",1981,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",8.4,333,8.68240994334191,93.1772448201234,"Summer",30564
+7,-106.2188,45.3046,"ad.sk.",1981,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",8.5,373,8.77657004861135,90.3153263949048,"Summer",30565
+7,-106.2188,45.3046,"ad.sk.",1981,"Empidonax oberholseri","Empidonax_oberholseri",9.9,NA,"female",8.5,373,8.77657004861135,90.3153263949048,"Summer",30566
+7,-106.2189,45.275,"ad.sk.",1981,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"male",8.6,375,8.82298994191603,90.937653762045,"Summer",30567
+5,-122.3698,42.7076,"unknown",1982,"Empidonax oberholseri","Empidonax_oberholseri",9.9,NA,"male",7.3,1220,6.58059590191059,73.7426074784302,"Spring",30568
+5,-122.3698,42.7076,"unknown",1982,"Empidonax oberholseri","Empidonax_oberholseri",9.9,NA,"male",7.3,1220,6.58059590191059,73.7426074784302,"Spring",30569
+5,-122.3698,42.7076,"unknown",1982,"Empidonax oberholseri","Empidonax_oberholseri",10.3,NA,"male",7.3,1220,6.58059590191059,73.7426074784302,"Spring",30570
+5,-122.3698,42.7076,"unknown",1982,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",7.3,1220,6.58059590191059,73.7426074784302,"Spring",30571
+5,-122.3698,42.7801,"unknown",1982,"Empidonax oberholseri","Empidonax_oberholseri",10.6,NA,"female",7.9,1339,6.47510383677125,74.1390088613543,"Spring",30572
+6,-120.2954878,39.5460959,"ad.sk.",1982,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"male",4.9,1292,6.75216575805441,68.2248371848973,"Summer",30573
+6,-120.2954878,39.5460959,"ad.sk.",1982,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",4.9,1292,6.75216575805441,68.2248371848973,"Summer",30574
+7,-117.408,45.2897,"u ad.",1956,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",1.8,1538,7.35483761640163,69.7005809529908,"Summer",30575
+6,-119.83936,37.74886,"ad.",1915,"Empidonax oberholseri","Empidonax_oberholseri",10.4,NA,"female",10.4,981,6.15961923262381,117.655754849278,"Summer",30576
+6,-119.83936,37.74886,"ad.",1915,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",10.4,981,6.15961923262381,117.655754849278,"Summer",30577
+9,-119.1594,37.75857,"imm.",1915,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",2.6,838,6.51894093462204,127.602226349369,"Fall",30578
+4,-119.1053,37.90891,"u ad.",1916,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"male",6.5,514,8.25665938757463,131.268195947851,"Spring",30579
+7,-118.17378,37.49611,"ad.",1917,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",0.9,179,8.08132902361232,159.763341981202,"Summer",30580
+7,-118.17378,37.49611,"ad.",1917,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female ?",0.9,179,8.08132902361232,159.763341981202,"Summer",30581
+7,-118.17378,37.49611,"ad.",1917,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",0.9,179,8.08132902361232,159.763341981202,"Summer",30582
+8,-118.175135,37.604022,"ad.",1917,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",4.1,156,8.33209839334388,157.645396399378,"Summer",30583
+8,-118.099737,37.432159,"ad.",1917,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",5.6,160,8.42134283541023,153.363953658046,"Summer",30584
+6,-131.2752,57.9,"u ad.",1919,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"female",0.6,398,10.845146240125,50.0379208421188,"Summer",30585
+8,-122.0691039,41.5779164,"u juv.",1920,"Empidonax oberholseri","Empidonax_oberholseri",10.9,NA,"male",8.1,632,6.74534631947812,105.603309441085,"Summer",30586
+7,-119.033039,37.608573,"u ad.",1922,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",2.9,1061,7.46267479872433,117.4494112838,"Summer",30587
+7,-118.9986843,37.6060704,"u ad.",1922,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"female",2.5,1061,7.45501153384064,118.080979959059,"Summer",30588
+8,-133.7,59.5667,"juv.",1924,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",-0.3,390,8.84507652809623,42.7361199847268,"Summer",30589
+8,-133.7,59.5667,"imm.",1924,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",-0.3,390,8.84507652809623,42.7361199847268,"Summer",30590
+6,-121.5601336,40.3581265,"ad.",1924,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"female",8.1,904,6.88238859170802,103.758398764678,"Summer",30591
+6,-121.5601336,40.3581265,"u ad.",1924,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",8.1,904,6.88238859170802,103.758398764678,"Summer",30592
+7,-121.5319,40.4147,"ad.",1924,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"female",6.9,1423,6.82073487554122,104.276018204552,"Summer",30593
+6,-121.5955981,40.3477021,"u ad.",1925,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"female",8.9,1214,6.18185884567731,87.6898019824462,"Summer",30594
+5,-123.015054,40.394887,"u ad.",1926,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",30595
+6,-121.567023,40.5342838,"u ad.",1926,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",8.7,1190,6.53500481092309,127.108430590412,"Summer",30596
+7,-120.2675673,41.3349759,"u ad.",1926,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"female",7.5,540,7.4901703261776,88.669308318122,"Summer",30597
+5,-118.05361,37.73806,"u ad.",1928,"Empidonax oberholseri","Empidonax_oberholseri",9,NA,"female",11.2,32,8.76598107700583,153.648802616404,"Spring",30598
+6,-123.497716,40.5198417,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",9.5,1452,5.94191582205299,101.49793029978,"Summer",30599
+5,-117.1143,38.96403,"ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"male",9,181,9.03966009015021,85.0909976284415,"Spring",30600
+5,-117.22056,38.94861,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",8.5,190,8.92793963132626,90.6090010271271,"Spring",30601
+5,-117.20361,38.93611,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",13,NA,"male",8.5,181,8.95415935177444,88.6992599198498,"Spring",30602
+6,-117.1625,39.25556,"ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female",6,598,8.3549114570141,84.8288639681795,"Summer",30603
+6,-116.98667,39.23861,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",8.2,223,9.05938321534221,90.698323731634,"Summer",30604
+6,-116.98667,39.23861,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",13.9,NA,"female",8.2,223,9.05938321534221,90.698323731634,"Summer",30605
+6,-116.94528,39.24556,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",8,222,9.01587824929222,87.4454411123066,"Summer",30606
+6,-117.0343964,39.3959732,"ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"female",7.2,451,8.55925425100419,90.2768268235405,"Summer",30607
+5,-116.09972,37.44222,"u ad.",1931,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"female",8.6,303,8.55840451712747,88.6235405964366,"Spring",30608
+8,-117.0343964,39.3959732,"u juv.",1931,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Summer",30609
+8,-117.0343964,39.3959732,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",10.9,NA,"female",8.1,344,9.16536216613199,46.429631740672,"Summer",30610
+9,-117.0343964,39.3959732,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",12.8,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Fall",30611
+9,-116.94528,39.24556,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"undetermined",8.9,185,9.5724470447343,48.9411099092045,"Fall",30612
+9,-116.98667,39.23861,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"female",9.1,185,9.60889739204812,49.4793629683915,"Fall",30613
+9,-116.98667,39.23861,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female",9.1,185,9.60889739204812,49.4793629683915,"Fall",30614
+9,-117.1143,38.96403,"u juv.",1931,"Empidonax oberholseri","Empidonax_oberholseri",10.4,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",30615
+8,-119.7675,39.35528,"ad.",1932,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"female",9.2,196,8.28989892836,143.164260387408,"Summer",30616
+8,-117.155,39.42556,"ad.",1932,"Empidonax oberholseri","Empidonax_oberholseri",10.3,NA,"female",6.5,190,9.3193306756668,99.67360482781,"Summer",30617
+5,-123.3148591,40.2454766,"u ad.",1933,"Empidonax oberholseri","Empidonax_oberholseri",13.2,NA,"male",10.6,1446,6.86428503858261,127.79145067454,"Spring",30618
+6,-123.7317033,40.8748542,"u ad.",1933,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"female",9.5,2671,7.14598849111524,110.780670855594,"Summer",30619
+7,-116.47028,38.73167,"u ad.",1933,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",6.7,134,9.37583935636504,88.9797515396781,"Summer",30620
+5,-114.10722,39.01722,"u ad.",1934,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"female",12,145,8.45472792243631,67.979497800529,"Spring",30621
+7,-118.79,38.65,"u ad.",1934,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"undetermined",10.4,140,6.85049765942725,108.39110494377,"Summer",30622
+7,-118.79,38.65,"u ad.",1934,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",10.4,140,6.85049765942725,108.39110494377,"Summer",30623
+7,-118.79,38.65,"u ad.",1934,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"female",10.4,140,6.85049765942725,108.39110494377,"Summer",30624
+7,-118.79,38.65,"u ad.",1934,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"undetermined",10.4,140,6.85049765942725,108.39110494377,"Summer",30625
+7,-118.79,38.65,"u ad.",1934,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"female",10.4,140,6.85049765942725,108.39110494377,"Summer",30626
+9,-117.53528,41.68472,"imm.",1934,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",7,716,6.72856304169476,91.774891703395,"Fall",30627
+5,-117.53361,41.56606,"u ad.",1935,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",7.7,322,8.5757012258562,85.6352238426565,"Spring",30628
+6,-117.53528,41.68472,"u ad.",1935,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"male",4.1,690,8.15818978732786,87.6886178079824,"Summer",30629
+6,-116.9190818,34.2297108,"nestling",1926,"Empidonax oberholseri","Empidonax_oberholseri",8,NA,"undetermined",8.7,568,5.83983187802837,118.60558431066,"Summer",30630
+7,-118.24639,40.5275,"u juv.",1936,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"undetermined",11.2,225,8.60827649662952,77.957771526732,"Summer",30631
+6,-120.1507,42.3685,"u ad.",1937,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"female",4.8,738,9.08348484722119,80.9378517642773,"Summer",30632
+7,-118.4086,44.2483,"u ad.",1938,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",30633
+7,-117.3669,45.2558,"u ad.",1938,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",30634
+7,-117.3669,45.2558,"u ad.",1938,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"female",3.1,1418,6.90458784673881,79.3035636140644,"Summer",30635
+8,-109.83667,43.30329,"imm.",1939,"Empidonax oberholseri","Empidonax_oberholseri",9.7,NA,"undetermined",0.5,432,8.61082387921086,62.4349229099711,"Summer",30636
+8,-109.83667,43.30329,"ad.",1939,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"female",0.5,432,8.61082387921086,62.4349229099711,"Summer",30637
+6,-117.10315,36.95078,"u ad.",1940,"Empidonax oberholseri","Empidonax_oberholseri",12.9,NA,"male",10,173,7.54121503754032,91.8049180411786,"Summer",30638
+6,-118.580792,37.814991,"ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"female",8,141,7.9230914918281,67.397246054092,"Summer",30639
+5,-118.0571557,36.2424885,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"undetermined",12.3,123,7.48494954538571,121.862495441147,"Spring",30640
+5,-118.261104,36.567786,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",0.7,369,6.49383740498823,163.057311666118,"Spring",30641
+5,-118.289486,36.78325,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",9.8,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",30642
+6,-118.334535,36.773919,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"male",4.1,346,6.8014481523935,156.079720318373,"Summer",30643
+6,-118.868273,37.872789,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",4.2,324,7.1714659758256,76.7990048348649,"Summer",30644
+6,-118.580792,37.814991,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"female",8,141,7.9230914918281,67.397246054092,"Summer",30645
+9,-123.47575,40.48705,"ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",9.7,NA,"female ?",9.4,2382,6.26715222167908,98.2621376079615,"Fall",30646
+8,-120.6362917,36.368126,"ad.",1944,"Empidonax oberholseri","Empidonax_oberholseri",9.7,NA,"male",12.3,486,6.49279320757743,119.642749795481,"Summer",30647
+7,-119.341261,38.436943,"u ad.",1946,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female",0.5,814,6.51443618342208,137.052235443508,"Summer",30648
+6,-106.2394,45.3018,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",6.7,444,10.5011218736886,88.6627303491813,"Summer",30649
+7,-108.4843,45.2077,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",4.7,423,9.06660539194981,47.8632843818864,"Summer",30650
+7,-108.4843,45.2077,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",4.7,423,9.06660539194981,47.8632843818864,"Summer",30651
+6,-106.2394,45.3018,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"female",6.7,444,10.5011218736886,88.6627303491813,"Summer",30652
+7,-112.8635,45.4231,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",13.3,NA,"male",3.3,484,8.29594187028522,64.1789972549058,"Summer",30653
+5,-112.2576561,34.2581237,NA,1969,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"female",16.2,426,8.17469765912977,74.1935294173119,"Spring",30654
+7,-119.5479971,49.0651778,"ad",1973,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",8.1,369,8.65323113587688,87.5532889919102,"Summer",30655
+6,-114.6619034,50.612221,NA,1960,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",1.2,454,9.24539197261386,78.8122518808839,"Summer",30656
+1,-109.0548096,31.345005,NA,1966,"Empidonax oberholseri","Empidonax_oberholseri",13.6,NA,"female",15.8,352,7.53235445504018,140.85576170256,"Winter",30657
+8,-103.8502007,44.4774837,"juvenile",1935,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",7.6,503,9.31825757544962,102.659048969064,"Summer",30658
+6,-118.6479809,35.9746704,"adult",1974,NA,"Empidonax_oberholseri",10.7,NA,"male",8.2,922,7.4043547792478,113.441803028185,"Summer",30659
+6,-118.8995361,37.974515,"adult",1972,NA,"Empidonax_oberholseri",11.5,NA,"male",7,222,7.72579308471815,77.5559680713338,"Summer",30660
+5,-118.6301375,35.9746704,"adult",1984,NA,"Empidonax_oberholseri",10.5,NA,"in question",9,695,7.04367328411343,141.916718383901,"Spring",30661
+8,-117.1622,46.8663,"Juv",1952,"Empidonax oberholseri","Empidonax_oberholseri",11.9,146,"male",7.7,487,8.24299518967285,66.5791891927519,"Summer",30662
+5,-117.377536,47.186696,NA,1977,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"female",8.1,436,8.26504138470638,87.3788674640472,"Spring",30663
+5,-103.84325,44.45248,NA,2008,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",30664
+6,-108.72642,42.56598,NA,2008,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",30665
+6,-107.40025,44.20397,NA,2008,"Empidonax oberholseri","Empidonax_oberholseri",13.3,NA,"male",4.8,574,9.04699849774398,88.7495767255469,"Summer",30666
+8,-114.8514776,44.5471332,"adult",1948,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female",2.5,743,8.8947848186281,63.0290492854406,"Summer",30667
+8,-114.650189,43.795881,"immature",1948,"Empidonax oberholseri","Empidonax_oberholseri",10.1,NA,"female",1.3,802,8.99630816535653,62.5794697022649,"Summer",30668
+5,-101.78469,37.1521231,NA,1950,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"female",13.5,457,8.51972310689625,120.003987155499,"Spring",30669
+5,-122.1936226,41.8887558,NA,1965,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",6.8,534,6.50754224424291,98.0207193645876,"Spring",30670
+5,-122.1152344,41.9273505,NA,1964,"Empidonax oberholseri","Empidonax_oberholseri",13,NA,"male",7.2,542,7.14912052230372,145.507188590203,"Spring",30671
+4,-101.8171557,37.1349256,NA,1967,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",13.6,411,8.56951520852206,116.423617683538,"Spring",30672
+5,-118.2940292,37.1661072,NA,1996,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",15,289,7.92319188818305,121.100801155087,"Spring",30673
+5,-121.298418,51.6850089,NA,1934,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",4.9,363,7.87567697907855,47.0723503964921,"Spring",30674
+5,-107.34605,33.5637833333,"AHY",2008,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"female",12.9,310,7.13293683406687,141.718195034325,"Spring",30675
+4,-103.529842,34.111866,NA,2011,"Empidonax oberholseri","Empidonax_oberholseri",10.02,NA,"male",15.3,179,9.8091330355486,99.1569054962257,"Spring",30676
+4,-96.6077777777,17.2122222222,"ad.",1948,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"male",14.5,1032,1.21991057794488,89.4504145631503,"Spring",30677
+5,-120.742395,41.8959486,"u ad.",1948,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",5.9,556,7.59079885603138,55.1023653639579,"Spring",30678
+5,-120.742395,41.8959486,"u ad.",1948,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",5.9,556,7.59079885603138,55.1023653639579,"Spring",30679
+8,-123.8193291,41.1515112,"ad.",1949,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female",11.1,1784,6.60419403015075,99.056239467751,"Summer",30680
+8,-123.8193291,41.1515112,"ad.",1949,"Empidonax oberholseri","Empidonax_oberholseri",9.6,NA,"female",11.1,1784,6.60419403015075,99.056239467751,"Summer",30681
+9,-108.083333,30.6,"imm.sk.",1948,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",30682
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",30683
+9,-108.083333,30.6,"u juv.",1948,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female",16.9,273,7.46488750448026,117.153040309365,"Fall",30684
+5,-120.07434,39.4290904,"u ad.",1950,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"male",6,1048,6.87697079190593,89.9378258940193,"Spring",30685
+9,-116.2346518,33.9625431,"u juv.",1950,"Empidonax oberholseri","Empidonax_oberholseri",9,NA,"undetermined",14.4,82,5.88054702670877,100.197198889473,"Fall",30686
+8,-105.991857,36.626226,"u ad.",1952,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female",4.6,355,8.91304797711895,78.3136889195579,"Summer",30687
+5,-119.04884,38.021988,"ad.",1953,"Empidonax oberholseri","Empidonax_oberholseri",9.6,NA,"female",7.1,169,6.97065276713738,62.9182054670919,"Spring",30688
+4,-102.5421973639,29.06028,"u ad.",1953,"Empidonax oberholseri","Empidonax_oberholseri",13.1,NA,"undetermined",19.2,213,6.60240429118381,106.416775602656,"Spring",30689
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",30690
+6,-118.168469,37.53385,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",13.6,NA,"female ?",2.4,304,6.26691650050026,89.9139197279071,"Summer",30691
+6,-118.168469,37.53385,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",13.3,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",30692
+6,-118.099737,37.432159,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",30693
+6,-118.099737,37.432159,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",13.1,NA,"female",6.2,289,6.69886353997995,93.1612499083614,"Summer",30694
+6,-118.099737,37.432159,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",30695
+6,-118.168469,37.53385,"u ad.",1954,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",30696
+6,-115.36343,41.86105,"u ad.",1955,"Empidonax oberholseri","Empidonax_oberholseri",10.4,NA,"female",0.2,1075,8.88933221747996,89.1715823564443,"Summer",30697
+6,-115.36343,41.86105,"u ad.",1955,"Empidonax oberholseri","Empidonax_oberholseri",12.8,NA,"female",0.2,1075,8.88933221747996,89.1715823564443,"Summer",30698
+6,-115.36343,41.86105,"u ad.",1955,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",30699
+6,-115.21645,41.84056,"u ad.",1955,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",30700
+6,-115.45278,40.93833,"u ad.",1956,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"female",6.5,286,9.02533051522718,114.98373023295,"Summer",30701
+5,-119.94706,39.58972,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"male",6.4,850,6.91189137821497,112.509150517367,"Spring",30702
+5,-119.94706,39.58972,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",6.4,850,6.91189137821497,112.509150517367,"Spring",30703
+5,-119.94706,39.58972,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",6.4,850,6.91189137821497,112.509150517367,"Spring",30704
+5,-119.94706,39.58972,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",6.4,850,6.91189137821497,112.509150517367,"Spring",30705
+5,-119.94706,39.58972,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"female",6.4,850,6.91189137821497,112.509150517367,"Spring",30706
+5,-119.94706,39.58972,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"female",6.4,850,6.91189137821497,112.509150517367,"Spring",30707
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",13.9,NA,"female",9.8,604,7.22587941591425,68.5061719692501,"Summer",30708
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",14.3,NA,"female",9.8,604,7.22587941591425,68.5061719692501,"Summer",30709
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30710
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30711
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30712
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30713
+6,-121.0618645,41.4301297,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",30714
+7,-119.960048,38.497378,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",4.9,1358,6.56110555170438,94.4007879074789,"Summer",30715
+6,-120.3139055,39.5414021,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",6.4,816,6.52663540401712,110.400127307302,"Summer",30716
+6,-120.07434,39.41822,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",6.4,693,6.81817424242003,101.497322782696,"Summer",30717
+6,-120.16367,39.37144,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",13,NA,"female",6,752,6.78306156852673,104.689371970041,"Summer",30718
+6,-120.16367,39.37144,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",6,752,6.78306156852673,104.689371970041,"Summer",30719
+6,-120.14686,39.41534,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",6,750,6.73909332090592,104.250631481871,"Summer",30720
+7,-119.81108,38.544535,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",2.9,1478,6.40669039506217,85.3426092102678,"Summer",30721
+7,-119.81108,38.544535,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",2.9,1478,6.40669039506217,85.3426092102678,"Summer",30722
+7,-120.216214,39.5403287,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"male",5.5,954,6.59722163742688,109.365593148618,"Summer",30723
+7,-120.295933,38.56049,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",9.5,1463,6.82406614767755,110.10654277097,"Summer",30724
+7,-119.97375,38.699392,"u ad.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",4.1,1381,6.52914213122191,95.4172087493478,"Summer",30725
+7,-119.97375,38.699392,"ad.sk.",1958,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",4.1,1381,6.52914213122191,95.4172087493478,"Summer",30726
+5,-118.9144,42.8994,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",8.6,248,7.90593850446382,81.2668073745705,"Spring",30727
+5,-118.9144,43.0008,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",8.3,269,7.80751386340573,84.1285846663436,"Spring",30728
+6,-120.87009,40.34568,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",7.5,615,6.8668284770579,136.403694201774,"Summer",30729
+5,-120.1781507,39.5112966,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",12.6,NA,"male",5.9,561,6.70135671473932,137.275019728718,"Spring",30730
+5,-120.2348983,39.5617778,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",10.9,NA,"male",6,605,6.58130962374787,133.799643833287,"Spring",30731
+5,-120.2348983,39.5617778,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",6,605,6.58130962374787,133.799643833287,"Spring",30732
+6,-120.216214,39.5403287,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",10.3,NA,"male",5.6,628,6.58163192436943,133.981798599187,"Summer",30733
+6,-120.216214,39.5403287,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"male",5.6,628,6.58163192436943,133.981798599187,"Summer",30734
+6,-120.0945262,39.4501753,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",6.5,493,6.88456772261503,142.041611478647,"Summer",30735
+6,-120.14686,39.40084,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",6.1,485,6.80420992674923,136.005951218048,"Summer",30736
+5,-120.13752,39.38635,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",6.2,465,6.83433843310249,135.884340409056,"Spring",30737
+5,-120.13752,39.38635,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"male",6.2,465,6.83433843310249,135.884340409056,"Spring",30738
+5,-120.13752,39.38635,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",6.2,465,6.83433843310249,135.884340409056,"Spring",30739
+5,-120.13752,39.38635,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",10.9,NA,"male",6.2,465,6.83433843310249,135.884340409056,"Spring",30740
+5,-120.60614,39.31895,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"male",9.2,1181,6.45506613350156,129.868923016214,"Spring",30741
+5,-120.1088166,39.2986532,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"female",6,527,6.74379625128072,138.360041655719,"Spring",30742
+5,-120.1088166,39.2986532,"ad.sk.",1959,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",6,527,6.74379625128072,138.360041655719,"Spring",30743
+5,-120.0281,39.5653,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",7.3,478,7.66140959417371,117.927173212191,"Spring",30744
+5,-120.8664562,40.3589957,"ad.sk.",1960,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"female",7.6,949,7.50423617739078,108.220613625056,"Spring",30745
+5,-120.8664562,40.3589957,"unknown",1960,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female",7.6,949,7.50423617739078,108.220613625056,"Spring",30746
+6,-120.14686,39.40084,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",5.9,648,7.49731264985641,115.346510720111,"Summer",30747
+6,-120.14686,39.40084,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",5.9,648,7.49731264985641,115.346510720111,"Summer",30748
+6,-120.14686,39.40084,"u ad.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",5.9,648,7.49731264985641,115.346510720111,"Summer",30749
+7,-120.0509094,39.2916774,"ad.sk.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",5.1,780,7.3605829808638,115.226931882664,"Summer",30750
+7,-120.0509094,39.2916774,"ad.sk.",1960,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"female",5.1,780,7.3605829808638,115.226931882664,"Summer",30751
+7,-120.0509094,39.2916774,"ad.sk.",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",5.1,780,7.3605829808638,115.226931882664,"Summer",30752
+9,-106.7359053467,29.82389,"imm.sk.",1961,"Empidonax oberholseri","Empidonax_oberholseri",12.9,NA,"undetermined",16.8,272,6.54723513238893,111.942865153066,"Fall",30753
+8,-106.8987177777,29.3920969444,"u juv.",1961,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female",13.9,408,6.2050504844966,116.088641244644,"Summer",30754
+8,-107.01155,29.27428,"ad.sk.",1961,"Empidonax oberholseri","Empidonax_oberholseri",12.6,NA,"male",14.5,405,6.18004486597424,117.118632753466,"Summer",30755
+9,-106.401684,29.480204,"imm.sk.",1961,"Empidonax oberholseri","Empidonax_oberholseri",13.7,NA,"male",16.1,300,6.45126250270347,106.69242113324,"Fall",30756
+9,-106.45,29.3226,"imm.sk.",1961,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",15.4,349,6.34184635193215,109.893276713282,"Fall",30757
+6,-114.256346,38.929166,"ad.sk.",1962,"Empidonax oberholseri","Empidonax_oberholseri",13.6,NA,"male",5.7,338,8.58892874401092,76.4282508032243,"Summer",30758
+6,-114.260809,38.931237,"tiny sk.winds.",1962,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",5.5,364,8.50523902715796,77.1140771301572,"Summer",30759
+6,-114.2075,38.84417,"ad.sk.",1962,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female",5.9,324,8.59439563690411,72.0186456043525,"Summer",30760
+6,-114.21871,38.856596,"ad. sk.oss.",1962,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",30761
+6,-114.21871,38.856596,"ad. sk.oss.",1962,"Empidonax oberholseri","Empidonax_oberholseri",13,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",30762
+6,-114.21871,38.856596,"ad. sk.oss.",1962,"Empidonax oberholseri","Empidonax_oberholseri",12.6,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",30763
+6,-114.21871,38.856596,"u ad.",1962,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",30764
+6,-114.22917,39.095,"u ad.",1962,"Empidonax oberholseri","Empidonax_oberholseri",13,NA,"female",8.6,183,9.17767383216994,70.0943316473903,"Summer",30765
+6,-114.22917,39.095,"ad. sk.oss.",1962,"Empidonax oberholseri","Empidonax_oberholseri",13.4,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",30766
+6,-114.22917,39.095,"ad. sk.oss.",1962,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",30767
+8,-120.2194551,39.6098234,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"undetermined",6.7,891,6.32519612823239,86.057674432838,"Summer",30768
+6,-115.28361,36.63,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13.5,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",30769
+6,-115.20694,36.63139,"u ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"female",6.5,394,7.65416800696117,142.812990429918,"Summer",30770
+6,-115.20694,36.63139,"u ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"female",6.5,394,7.65416800696117,142.812990429918,"Summer",30771
+6,-115.28361,36.63,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",30772
+6,-115.28361,36.63,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",30773
+6,-115.28361,36.63,"u ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",30774
+6,-115.28361,36.63,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13.8,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",30775
+6,-115.2133,36.63652,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.4,NA,"female",6.3,394,7.66281853359375,143.701858226263,"Summer",30776
+6,-115.20694,36.65314,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.6,NA,"male",4.6,453,7.55614840959856,149.219594941492,"Summer",30777
+6,-115.1974,36.63908,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"male",6.1,411,7.65416800696117,142.725162888583,"Summer",30778
+6,-115.69417,36.32661,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",14.4,NA,"female",4.7,582,7.54483066058939,166.677590484626,"Summer",30779
+6,-115.69417,36.31573,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",4.7,585,7.53659255053152,166.320927145513,"Summer",30780
+6,-115.69417,36.31573,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"female",4.7,585,7.53659255053152,166.320927145513,"Summer",30781
+6,-115.56667,36.4,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",11.9,310,7.88863778231743,150.844373985848,"Summer",30782
+6,-115.65611,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13.5,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",30783
+6,-115.65611,36.40167,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13.5,NA,"female",9.9,447,7.74891488004493,157.395981687623,"Summer",30784
+6,-115.64714,36.40167,"ad.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"male",9.9,443,7.75036656024615,157.805418806367,"Summer",30785
+6,-115.64714,36.40167,"2 small wind.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"female",9.9,443,7.75036656024615,157.805418806367,"Summer",30786
+6,-115.64714,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13,NA,"male",9.9,443,7.75036656024615,157.805418806367,"Summer",30787
+6,-115.64714,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",13.1,NA,"male",9.9,443,7.75036656024615,157.805418806367,"Summer",30788
+6,-115.64714,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",9.9,443,7.75036656024615,157.805418806367,"Summer",30789
+6,-115.64714,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"female",9.9,443,7.75036656024615,157.805418806367,"Summer",30790
+6,-115.63817,36.40167,"ad.sk.",1963,"Empidonax oberholseri","Empidonax_oberholseri",12.1,NA,"male",10,441,7.73533314007088,157.815192110921,"Summer",30791
+6,-120.2937973,41.5730714,"u ad.",1964,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",5.3,941,7.53844188546984,109.273012940984,"Summer",30792
+6,-120.2937973,41.5730714,"u ad.",1964,"Empidonax oberholseri","Empidonax_oberholseri",10.6,NA,"female",5.3,941,7.53844188546984,109.273012940984,"Summer",30793
+6,-120.2971805,41.5590607,"small sk.wind.",1964,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",5.8,847,7.61698162600574,109.235639777376,"Summer",30794
+6,-120.2971805,41.5590607,"ad.sk.",1964,"Empidonax oberholseri","Empidonax_oberholseri",12.8,NA,"male",5.8,847,7.61698162600574,109.235639777376,"Summer",30795
+6,-120.2971805,41.5590607,"ad.sk.",1964,"Empidonax oberholseri","Empidonax_oberholseri",13.8,NA,"male",5.8,847,7.61698162600574,109.235639777376,"Summer",30796
+7,-117.52944,41.70556,"juv. s.n.o.",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"undetermined",5.8,616,8.55493832221891,73.635279801778,"Summer",30797
+7,-117.52944,41.70556,"sk.partly oss.",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",5.8,616,8.55493832221891,73.635279801778,"Summer",30798
+7,-117.52944,41.70556,"sk.part oss.",1967,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",5.8,616,8.55493832221891,73.635279801778,"Summer",30799
+8,-110.7682,45.033,"ad. sk.2 layer",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"undetermined",4.2,517,9.14780980576358,44.4716076609678,"Summer",30800
+8,-110.7682,45.033,"ad.",1967,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",4.2,517,9.14780980576358,44.4716076609678,"Summer",30801
+8,-110.7682,45.033,"ad. sk.2 layer",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"female",4.2,517,9.14780980576358,44.4716076609678,"Summer",30802
+8,-110.7682,45.033,"imm. sk.1 layer",1967,"Empidonax oberholseri","Empidonax_oberholseri",13.5,NA,"female",4.2,517,9.14780980576358,44.4716076609678,"Summer",30803
+8,-110.57953,44.94243,"imm. sk.1 layer",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",2.8,587,9.16860585549043,42.0217077195831,"Summer",30804
+8,-110.7682,45.033,"sk.1 layer",1967,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",4.2,517,9.14780980576358,44.4716076609678,"Summer",30805
+8,-110.7682,45.033,"imm. sk.1 layer",1967,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",4.2,517,9.14780980576358,44.4716076609678,"Summer",30806
+5,-114.1083,36.60278,"ad.sk.",1970,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"female",10.3,354,8.13425230774535,109.151393920592,"Spring",30807
+5,-115.58796,35.54264,"ad.sk.",1973,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"male",11.9,169,8.56207281615211,122.067799975476,"Spring",30808
+5,-115.2972579,35.2414365,"u ad.",1977,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"female",13.6,231,7.61113120250979,182.911099127091,"Spring",30809
+7,-118.31139,37.86297,"sk.oss.",1979,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",3.4,238,7.04919402227208,78.9298069531613,"Summer",30810
+7,-106.2188,45.3046,"ad.sk.",1981,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",8.5,373,8.77657004861135,90.3153263949048,"Summer",30811
+7,-114.2183285,46.0687355,"u ad.",1982,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"female",5.2,508,8.56518676051049,30.4903866408606,"Summer",30812
+7,-114.21257,45.90017,"u ad.",1982,"Empidonax oberholseri","Empidonax_oberholseri",13.2,NA,"male",4.6,703,8.53528771416854,36.5920363461612,"Summer",30813
+6,-120.6375431,36.3751787,"ad.sk.",1983,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",13.5,1013,6.65013100805108,93.6639172358029,"Summer",30814
+5,-122.3698,42.7801,"unknown",1982,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Spring",30815
+7,-120.39202,39.46204,"adult skull",1986,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",5.6,1666,5.71056967916565,167.117828571113,"Summer",30816
+7,-117.3874,45.2753,"u ad.",1956,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"female",2.5,1567,7.40590980231329,70.8193606895193,"Summer",30817
+6,-120.781906,40.54848,"skull",2006,"Empidonax oberholseri","Empidonax_oberholseri",10.67,NA,"male",9.2,752,8.20380547321938,92.8542524944321,"Summer",30818
+7,-119.26257,37.782508,"ad.",1915,"Empidonax oberholseri","Empidonax_oberholseri",12.8,NA,"male",1.3,948,6.41193843899445,124.662675546409,"Summer",30819
+8,-119.39231,37.73082,"u ad.",1915,"Empidonax oberholseri","Empidonax_oberholseri",10.4,NA,"female",4.7,933,6.33711410276911,122.055904220382,"Summer",30820
+8,-119.39231,37.73082,"imm.",1915,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"undetermined",4.7,933,6.33711410276911,122.055904220382,"Summer",30821
+9,-119.1594,37.75857,"ad.",1915,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"female",2.6,838,6.51894093462204,127.602226349369,"Fall",30822
+5,-119.141074,37.990578,"u ad.",1916,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",6.8,455,8.43831449491849,130.724498411799,"Spring",30823
+5,-119.141074,37.990578,"u ad.",1916,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",6.8,455,8.43831449491849,130.724498411799,"Spring",30824
+5,-119.141074,37.990578,"u ad.",1916,"Empidonax oberholseri","Empidonax_oberholseri",10.6,NA,"female",6.8,455,8.43831449491849,130.724498411799,"Spring",30825
+8,-118.4038291,36.7726259,"juv.",1916,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",1.5,1725,6.74689603155451,154.344209769969,"Summer",30826
+9,-118.5934098,36.7931105,"juv.",1916,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",8.7,1660,7.29873380467565,159.466876232978,"Fall",30827
+4,-116.865597,36.456792,"u ad.",1917,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",23.3,31,10.6578467323234,99.6636097827943,"Spring",30828
+7,-118.17378,37.49611,"juv.",1917,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"female",0.9,179,8.08132902361232,159.763341981202,"Summer",30829
+7,-118.17378,37.49611,"juv.",1917,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"female",0.9,179,8.08132902361232,159.763341981202,"Summer",30830
+7,-118.17378,37.49611,"juv.",1917,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"female",0.9,179,8.08132902361232,159.763341981202,"Summer",30831
+7,-118.17378,37.49611,"juv.",1917,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",0.9,179,8.08132902361232,159.763341981202,"Summer",30832
+7,-118.17378,37.49611,"ad.",1917,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"male",0.9,179,8.08132902361232,159.763341981202,"Summer",30833
+5,-119.67919,37.66469,"u ad.",1919,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"male",6.2,759,6.51438385188476,137.636319657237,"Spring",30834
+5,-131.1667,57.9578,"u ad.",1919,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",-0.3,493,10.4450365187867,49.2878273494409,"Spring",30835
+6,-131.1833,57.9167,"u ad.",1919,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"female",0.4,393,10.7032563722307,47.6274398471146,"Summer",30836
+8,-122.0691039,41.5779164,"u juv.",1920,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",8.1,632,6.74534631947812,105.603309441085,"Summer",30837
+8,-122.0691039,41.5779164,"u juv.",1920,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"male",8.1,632,6.74534631947812,105.603309441085,"Summer",30838
+6,-133.7,59.5667,"u ad.",1924,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",-0.3,390,8.84507652809623,42.7361199847268,"Summer",30839
+6,-121.5601336,40.3581265,"u ad.",1924,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male ?",8.1,904,6.88238859170802,103.758398764678,"Summer",30840
+6,-121.5955981,40.3477021,"u ad.",1925,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"female",8.9,1214,6.18185884567731,87.6898019824462,"Summer",30841
+6,-121.5955981,40.3477021,"u ad.",1925,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",8.9,1214,6.18185884567731,87.6898019824462,"Summer",30842
+6,-121.5955981,40.3477021,"u ad.",1925,"Empidonax oberholseri","Empidonax_oberholseri",11.9,NA,"female",8.9,1214,6.18185884567731,87.6898019824462,"Summer",30843
+6,-121.5955981,40.3477021,"ad.",1925,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female",8.9,1214,6.18185884567731,87.6898019824462,"Summer",30844
+6,-120.7469427,40.6367113,"u ad.",1925,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",8.1,497,6.79337355387029,67.6187610790991,"Summer",30845
+5,-123.015054,40.394887,"u ad.",1926,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female",11.7,1312,6.52795851888187,123.826324692807,"Spring",30846
+5,-123.015054,40.394887,"u ad.",1926,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",30847
+5,-123.015054,40.394887,"u ad.",1926,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",30848
+5,-118.00528,37.82389,"u ad.",1927,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"female",11.9,54,8.72033499495532,87.1348306992916,"Spring",30849
+5,-118.07806,37.8244,"u ad.",1927,"Empidonax oberholseri","Empidonax_oberholseri",9.5,NA,"female",11.8,59,8.45656908007382,88.9231585636429,"Spring",30850
+6,-119.1162287,34.8077162,"ad.",1929,"Empidonax oberholseri","Empidonax_oberholseri",9.9,NA,"male",8,257,6.9901662528458,140.427028144661,"Summer",30851
+5,-114.2756391,39.016972,"unknown",1929,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",5.1,446,8.49389709607951,79.8224599797969,"Spring",30852
+5,-117.23,38.89,"ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",8.2,204,8.83386647905078,88.3383599642939,"Spring",30853
+5,-117.1143,38.96403,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",9,181,9.03966009015021,85.0909976284415,"Spring",30854
+5,-117.22,38.95,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",30855
+5,-117.22,38.95,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",30856
+5,-117.22056,38.94861,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",8.5,190,8.92793963132626,90.6090010271271,"Spring",30857
+5,-117.22056,38.94861,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",10,NA,"female",8.5,190,8.92793963132626,90.6090010271271,"Spring",30858
+5,-117.22056,38.94861,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",9.5,NA,"male",8.5,190,8.92793963132626,90.6090010271271,"Spring",30859
+5,-117.22056,38.94861,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",9.5,NA,"male",8.5,190,8.92793963132626,90.6090010271271,"Spring",30860
+6,-117.1625,39.25556,"ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",10.6,NA,"female",6,598,8.3549114570141,84.8288639681795,"Summer",30861
+6,-116.98667,39.23861,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",12.7,NA,"male",8.2,223,9.05938321534221,90.698323731634,"Summer",30862
+6,-116.98667,39.23861,"u ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",13,NA,"female",8.2,223,9.05938321534221,90.698323731634,"Summer",30863
+6,-117.14386,39.25556,"ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",5.1,622,8.24041684000086,85.6752551249091,"Summer",30864
+6,-117.0343964,39.3959732,"ad.",1930,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"male",7.2,451,8.55925425100419,90.2768268235405,"Summer",30865
+8,-117.0343964,39.3959732,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",10.4,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Summer",30866
+8,-117.0343964,39.3959732,"ad.",1931,"Empidonax oberholseri","Empidonax_oberholseri",9.7,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Summer",30867
+8,-117.0343964,39.3959732,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Summer",30868
+8,-117.0343964,39.3959732,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Summer",30869
+9,-116.94528,39.24556,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"female",8.9,185,9.5724470447343,48.9411099092045,"Fall",30870
+9,-116.98667,39.23861,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",9.1,185,9.60889739204812,49.4793629683915,"Fall",30871
+9,-117.1143,38.96403,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",30872
+9,-117.1143,38.96403,"u juv.",1931,"Empidonax oberholseri","Empidonax_oberholseri",9.9,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",30873
+9,-117.1143,38.96403,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",11.3,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",30874
+9,-116.67194,37.7175,"imm.",1931,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"female",10.2,180,9.12628571265939,97.6077493197785,"Fall",30875
+8,-119.7675,39.35528,"imm.",1932,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"female",9.2,196,8.28989892836,143.164260387408,"Summer",30876
+6,-122.0658,43.0806,"u ad.",1932,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"male",4.3,1086,7.10671897189234,85.0488651217144,"Summer",30877
+7,-116.7491,47.6982,"u ad.",1932,"Empidonax oberholseri","Empidonax_oberholseri",10.6,NA,"male",7.2,931,8.54011478881055,73.0900986461379,"Summer",30878
+5,-123.50169,40.50056,"u ad.",1932,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",9.5,1385,7.04283431237134,100.769699777914,"Spring",30879
+6,-123.4808944,40.4808574,"u ad.",1932,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"female",9.6,1341,7.15579866579927,101.519217222941,"Summer",30880
+6,-123.4808944,40.4808574,"u ad.",1932,"Empidonax oberholseri","Empidonax_oberholseri",10.5,NA,"male",9.6,1341,7.15579866579927,101.519217222941,"Summer",30881
+5,-123.274491,40.2300137,"u ad.",1933,"Empidonax oberholseri","Empidonax_oberholseri",9,NA,"female",10.3,1544,6.90539973169877,127.728675406576,"Spring",30882
+6,-123.8109441,41.1693229,"u ad.",1933,"Empidonax oberholseri","Empidonax_oberholseri",12.9,NA,"female",11.1,2583,5.85887050858471,103.789473649597,"Summer",30883
+5,-116.33486,36.42528,"u ad.",1933,"Empidonax oberholseri","Empidonax_oberholseri",11.6,NA,"female",16.7,29,9.51577637400123,104.446593573419,"Spring",30884
+5,-114.10722,39.01722,"u ad.",1934,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",30885
+9,-117.53528,41.68472,"imm.",1934,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"female",7,716,6.72856304169476,91.774891703395,"Fall",30886
+5,-117.53361,41.56606,"u ad.",1935,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female",7.7,322,8.5757012258562,85.6352238426565,"Spring",30887
+8,-116.9190818,34.2297108,"u juv.",1926,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",8.7,568,5.83983187802837,118.60558431066,"Summer",30888
+5,-119.9287611,42.1136267,"u ad.",1937,"Empidonax oberholseri","Empidonax_oberholseri",12.5,NA,"male",9.4,318,9.43030254342914,79.396199210954,"Spring",30889
+8,-109.83667,43.30329,"ad.",1939,"Empidonax oberholseri","Empidonax_oberholseri",9,NA,"female",0.5,432,8.61082387921086,62.4349229099711,"Summer",30890
+8,-109.83667,43.30329,"imm.",1939,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female ?",0.5,432,8.61082387921086,62.4349229099711,"Summer",30891
+6,-118.868273,37.872789,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",11.2,NA,"female",4.2,324,7.1714659758256,76.7990048348649,"Summer",30892
+6,-118.580792,37.814991,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",12.6,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",30893
+5,-118.06827,36.236369,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"female",10.1,159,7.11093907620186,131.780492070492,"Spring",30894
+5,-118.1683,36.55839,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",9.9,NA,"female",9.7,135,7.15873592193482,132.213105980386,"Spring",30895
+6,-118.868273,37.872789,"u ad.",1942,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",4.2,324,7.1714659758256,76.7990048348649,"Summer",30896
+6,-123.0218589,40.2528009,"u ad.",1946,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female",9.1,900,6.53199584330622,100.72331767489,"Summer",30897
+7,-108.4843,45.2077,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",12.8,NA,"male",4.7,423,9.06660539194981,47.8632843818864,"Summer",30898
+7,-112.8635,45.4231,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",11.7,NA,"male",3.3,484,8.29594187028522,64.1789972549058,"Summer",30899
+7,-112.8635,45.4231,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",11.4,NA,"male",3.3,484,8.29594187028522,64.1789972549058,"Summer",30900
+7,-112.8635,45.4231,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",10.3,NA,"male",3.3,484,8.29594187028522,64.1789972549058,"Summer",30901
+6,-106.2394,45.3018,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",6.7,444,10.5011218736886,88.6627303491813,"Summer",30902
+6,-106.2394,45.3018,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"female",6.7,444,10.5011218736886,88.6627303491813,"Summer",30903
+7,-112.8635,45.4231,"2116",1947,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"female",3.3,484,8.29594187028522,64.1789972549058,"Summer",30904
+7,-112.8635,45.4231,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"female",3.3,484,8.29594187028522,64.1789972549058,"Summer",30905
+7,-112.8635,45.4231,"u ad.",1947,"Empidonax oberholseri","Empidonax_oberholseri",10.4,NA,"female",3.3,484,8.29594187028522,64.1789972549058,"Summer",30906
+5,-112.2678939,34.2786409,NA,1969,"Empidonax oberholseri","Empidonax_oberholseri",10.5,141,"undetermined",15.7,428,8.15621625733181,73.2741432370881,"Spring",30907
+5,-112.2678939,34.2786409,NA,1969,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"female",15.7,428,8.15621625733181,73.2741432370881,"Spring",30908
+7,-119.5479971,49.0651778,"imm",1973,"Empidonax oberholseri","Empidonax_oberholseri",12.3,NA,"male",8.1,369,8.65323113587688,87.5532889919102,"Summer",30909
+8,-112.2329398,34.3076567,NA,1977,"Empidonax oberholseri","Empidonax_oberholseri",14.5,NA,"undetermined",17.6,293,7.84837369758663,79.7520851999554,"Summer",30910
+4,-118.5175895,35.7098621,"adult",1992,NA,"Empidonax_oberholseri",11.5,NA,"male",12.6,609,7.09011262038178,134.329728180104,"Spring",30911
+12,-114.58563,32.75473,"Sk.Not Comp. Oss",1971,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"f?",21,80,7.95660103310453,162.24273387354,"Winter",30912
+8,-119.60266,38.31189,"U-Ad",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",2.7,859,7.18311888873468,109.158237188393,"Summer",30913
+4,-123.00645,37.69837,"immature",1968,"Empidonax oberholseri","Empidonax_oberholseri",8,NA,"male",-9999,-9999,0,0,"Spring",30914
+5,-104.9127777778,39.1216666667,NA,1902,"Empidonax oberholseri","Empidonax_oberholseri",2.8,6.05,"male",7,437,7.79590024346519,59.5507384664646,"Spring",30916
+9,-105.0806727,40.574852,"immature",1990,"Empidonax oberholseri","Empidonax_oberholseri",12,130,"male",9.1,428,9.04699431085297,83.6464024007784,"Fall",30917
+5,-108.3064333333,36.5995166667,NA,2013,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"female",10,284,10.1718714943205,92.1103211188107,"Spring",30918
+5,-108.3064333333,36.5995166667,NA,2013,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"male",10,284,10.1718714943205,92.1103211188107,"Spring",30919
+5,-108.3064333333,36.5995166667,NA,2013,"Empidonax oberholseri","Empidonax_oberholseri",12.6,NA,"male",10,284,10.1718714943205,92.1103211188107,"Spring",30920
+5,-108.3064333333,36.5995166667,NA,2013,"Empidonax oberholseri","Empidonax_oberholseri",10.6,NA,"female",10,284,10.1718714943205,92.1103211188107,"Spring",30921
+5,-108.3064333333,36.5995166667,NA,2013,"Empidonax oberholseri","Empidonax_oberholseri",10.8,NA,"female",10,284,10.1718714943205,92.1103211188107,"Spring",30922
+5,-108.3064333333,36.5995166667,NA,2013,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"female",10,284,10.1718714943205,92.1103211188107,"Spring",30923
+4,-96.4419187,16.8124604,NA,1965,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"female",15.8,733,1.34848399727586,112.564289181129,"Spring",30924
+12,-96.7169246,16.9091151,"adult",1964,NA,"Empidonax_oberholseri",11.1,NA,"undetermined",20.3,602,1.83913681993055,106.236619336279,"Winter",30925
+10,-97.866949,17.1840994,"adult",1964,NA,"Empidonax_oberholseri",12.9,NA,"female",16.4,1072,1.42467433811976,110.507533992294,"Fall",30926
+6,-120.57767,39.56572,"U-Ad.",1976,"Empidonax oberholseri","Empidonax_oberholseri",11.1,NA,"m?",8.3,635,6.23340828021707,90.7231341899721,"Summer",30927
+12,-96.71692,16.96745,"U-Ad.",1964,"Empidonax oberholseri","Empidonax_oberholseri",11,NA,"male",20.2,596,1.90714366781765,105.365824223548,"Winter",30928
+8,-119.60266,38.31189,"U-Imm",1960,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"male",2.7,859,7.18311888873468,109.158237188393,"Summer",30929
+8,-123.00645,37.69837,"adult",1968,"Empidonax oberholseri","Empidonax_oberholseri",11.8,NA,"male",-9999,-9999,0,0,"Summer",30930
+4,-123.00645,37.69837,"adult",1968,"Empidonax oberholseri","Empidonax_oberholseri",10.2,NA,"male",-9999,-9999,0,0,"Spring",30931
+12,-103.2987222,21.8383889,NA,2002,"Empidonax oberholseri","Empidonax_oberholseri",12,NA,"female",19.8,721,3.63704633742905,111.556368293905,"Winter",30933
+5,-108.3064333333,36.5995166667,NA,2013,"Empidonax oberholseri","Empidonax_oberholseri",10.7,NA,"male",10,284,10.1718714943205,92.1103211188107,"Spring",30934
+5,-108.3064333333,36.5995166667,NA,2013,"Empidonax oberholseri","Empidonax_oberholseri",11.5,NA,"female",10,284,10.1718714943205,92.1103211188107,"Spring",30935
+5,-108.3064333333,36.5995166667,NA,2013,"Empidonax oberholseri","Empidonax_oberholseri",14.2,NA,"male",10,284,10.1718714943205,92.1103211188107,"Spring",30936
+9,-88.64929,48.33928,"imm",1993,"Empidonax oberholseri","Empidonax_oberholseri",9.3,NA,"undetermined",2.1,701,10.7314709940888,83.6000871196396,"Fall",30937
+6,-114.5833333,50.6666667,NA,1965,"Empidonax oberholseri","Empidonax_oberholseri",12.2,NA,"female",0.5,911,9.49487900253222,92.2234523562517,"Summer",30938

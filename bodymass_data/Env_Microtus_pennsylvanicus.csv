@@ -1,0 +1,400 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+3,-89.826208,39.098658,"",1929,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27.5,132,"male",11.4,1156,10.4222227606556,64.2293372496922,"Spring",63451
+12,-87.970346,42.003918,"",1929,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22.5,130,"female",8.4,898,11.1296593919948,49.7626332397625,"Winter",63452
+7,-113.9746,48.6445,"",1964,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31.5,140,"female",4,858,8.16728043457366,67.1009447111537,"Summer",63453
+7,-113.9746,48.6445,"",1964,"Microtus pennsylvanicus","Microtus_pennsylvanicus",29.8,121,"male",4,858,8.16728043457366,67.1009447111537,"Summer",63454
+7,-113.9746,48.6445,"",1964,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34,145,"female",4,858,8.16728043457366,67.1009447111537,"Summer",63455
+7,-113.8156,48.6002,"",1964,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36.9,44,"female",1.6,1837,7.94589182972541,74.5087614983736,"Summer",63456
+3,-79.955897,39.629526,"",1948,"Microtus pennsylvanicus pennsylvanicus","Microtus_pennsylvanicus",51.3,165,"male",12.1,1227,9.11939325467069,30.3413602984387,"Spring",63457
+3,-79.955897,39.629526,"",1948,"Microtus pennsylvanicus pennsylvanicus","Microtus_pennsylvanicus",41.2,160,"male",12.1,1227,9.11939325467069,30.3413602984387,"Spring",63458
+11,-76.4636,42.4442,"subad.",1975,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24.5,156,"male",8.8,1070,9.70945727659691,51.83723340112,"Fall",63459
+9,-76.4636,42.4442,"immature",1975,"Microtus pennsylvanicus","Microtus_pennsylvanicus",15.1,128,"female",8.8,1070,9.70945727659691,51.83723340112,"Fall",63460
+9,-74.124146,41.694094,"",1973,"Microtus pennsylvanicus","Microtus_pennsylvanicus",10,132,"male",9.8,1330,9.30750755947568,52.6737195828487,"Fall",63461
+5,-74.024368,41.362536,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",40.5,161,"female",10.8,1178,9.38994868801935,32.8364648740522,"Spring",63462
+6,-75.627724,44.113591,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34.5,148,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",63463
+6,-75.627724,44.113591,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26.5,140,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",63464
+6,-75.627724,44.113591,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35.5,178,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",63465
+6,-75.627724,44.113591,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31.5,152,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",63466
+6,-75.627724,44.113591,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24.5,145,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",63467
+6,-75.627724,44.113591,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36,160,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",63468
+7,-75.627724,44.113591,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22,137,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",63469
+5,-74.024368,41.362536,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",32.5,132,"female",10.8,1178,9.38994868801935,32.8364648740522,"Spring",63470
+5,-74.024368,41.362536,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21,11,"female",10.8,1178,9.38994868801935,32.8364648740522,"Spring",63471
+6,-75.627724,44.113591,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",12,113,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",63472
+6,-75.627724,44.113591,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",17.5,135,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",63473
+7,-75.469299,44.151524,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",17.5,183,"male",7.4,958,10.1296556823233,27.7730995676294,"Summer",63474
+6,-75.627724,44.113591,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",25,142,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",63475
+4,-76.637236,42.273309,"",1994,"Microtus pennsylvanicus","Microtus_pennsylvanicus",44.6,150,"male",7.2,1229,10.7247766099501,54.0825816645276,"Spring",63476
+7,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",39.5,171,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63477
+7,-79.406653,42.439706,"subadult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21.8,135,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63478
+6,-79.406653,42.439706,"juvenile",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20.3,120,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63479
+7,-79.233822,42.519466,"adult",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28.5,142,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63480
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45.8,157,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63481
+6,-75.627724,44.113591,"juvenile",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",17,125,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",63482
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20.6,121,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63483
+7,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",44.5,161,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63484
+7,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",48.5,172,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63485
+7,-79.406653,42.439706,"juvenile",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16.4,120,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63486
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24.6,130,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63487
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30.5,143,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63488
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31.5,105,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63489
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",37.5,115,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63490
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21.5,121,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63491
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24.5,141,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63492
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27.5,140,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63493
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28.1,132,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63494
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",25.5,133,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63495
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33,164,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63496
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24.2,135,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63497
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",56,161,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63498
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",25.5,131,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63499
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",48,142,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63500
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30,130,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63501
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",17,129,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63502
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31,137,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63503
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",37.8,164,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63504
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45.1,160,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63505
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",18.7,120,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63506
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",48.5,164,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63507
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",12.7,104,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63508
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",43,159,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63509
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28,144,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63510
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",15.5,119,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63511
+6,-79.406653,42.439706,"juvenile",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",14.9,120,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63512
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",40,158,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63513
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34.2,153,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63514
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26.5,139,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63515
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36,163,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63516
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",41,145,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63517
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",14,105,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63518
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34,146,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63519
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27,135,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63520
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",37,157,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63521
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35,153,"female",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63522
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33.5,155,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63523
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36,163,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63524
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31,148,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63525
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31,139,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63526
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",29,149,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63527
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",42,137,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63528
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30.5,134,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63529
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28,143,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63530
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",47,159,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63531
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45,170,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63532
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",14,95,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63533
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",42,150,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63534
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28,135,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63535
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20.7,135,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63536
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",38,131,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63537
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45,146,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63538
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",47,143,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63539
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16,102,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63540
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23,122,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63541
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21,123,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63542
+6,-79.233822,42.519466,"juvenile",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",14.3,113,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63543
+6,-79.233822,42.519466,"juvenile",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16.5,112,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63544
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33.5,136,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63545
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45.5,148,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63546
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31.5,139,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63547
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35.5,118,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63548
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23.5,135,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63549
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",65,157,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63550
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35.6,140,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63551
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27.5,132,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63552
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34.1,140,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63553
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",12.5,105,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63554
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",41.5,169,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63555
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",17,114,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63556
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31.5,140,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63557
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28,121,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63558
+6,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",15.3,115,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63559
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27.5,133,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63560
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",25.5,128,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63561
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23,112,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63562
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27,118,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63563
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24,118,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63564
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24.5,117,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63565
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35,162,"undetermined",9.3,1093,8.2849626469047,46.504542706523,"Fall",63566
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23,122,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63567
+6,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",14,117,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63568
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",41,152,"female",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63569
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35,159,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63570
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",25,142,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63571
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33,137,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63572
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",43,137,"female",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63573
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26,124,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63574
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",18,110,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63575
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28,143,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63576
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24,133,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63577
+10,-79.406653,42.439706,"juvenile",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",12.5,93,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63578
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",29,122,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63579
+5,-71.57908,41.17209,"adult",1952,"Microtus pennsylvanicus provectus","Microtus_pennsylvanicus",47,172,"female",10.4,933,7.69744152693647,63.6055901309944,"Spring",63580
+5,-71.57908,41.17209,"adult",1952,"Microtus pennsylvanicus provectus","Microtus_pennsylvanicus",46.3,161,"female",10.4,933,7.69744152693647,63.6055901309944,"Spring",63581
+5,-71.57908,41.17209,"subadult",1952,"Microtus pennsylvanicus provectus","Microtus_pennsylvanicus",26.2,147,"female",10.4,933,7.69744152693647,63.6055901309944,"Spring",63582
+5,-71.57908,41.17209,"juvenile",1952,"Microtus pennsylvanicus provectus","Microtus_pennsylvanicus",22.4,133,"female",10.4,933,7.69744152693647,63.6055901309944,"Spring",63583
+5,-71.57908,41.17209,"juvenile",1952,"Microtus pennsylvanicus provectus","Microtus_pennsylvanicus",20.4,125,"male",10.4,933,7.69744152693647,63.6055901309944,"Spring",63584
+5,-71.57908,41.17209,"juvenile",1952,"Microtus pennsylvanicus provectus","Microtus_pennsylvanicus",21.1,130,"male",10.4,933,7.69744152693647,63.6055901309944,"Spring",63585
+6,-75.627724,44.113591,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22.5,137,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",63586
+10,-79.406653,42.439706,"adult",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",29,92,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63587
+10,-79.406653,42.439706,"adult",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31,99,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63588
+10,-79.406653,42.439706,"adult",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",39,92,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",63589
+6,-76.359054,42.507781,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35,149,"male",7.3,1060,8.88834357544484,47.7582507318011,"Summer",63590
+6,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23.4,123,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63591
+7,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45.6,155,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63592
+6,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",37.2,153,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63593
+6,-79.233822,42.519466,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",39.8,167,"female",11,885,9.20186081313135,34.6118065463564,"Summer",63594
+6,-79.233822,42.519466,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",43.5,162,"female",11,885,9.20186081313135,34.6118065463564,"Summer",63595
+6,-79.233822,42.519466,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26.2,150,"female",11,885,9.20186081313135,34.6118065463564,"Summer",63596
+6,-79.406653,42.439706,"juvenile",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",11,104,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63597
+6,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24.5,141,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63598
+6,-79.233822,42.519466,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",49,155,"female",11,885,9.20186081313135,34.6118065463564,"Summer",63599
+6,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",19.1,128,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63600
+10,-79.233822,42.519466,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",29.7,184,"male",11,885,9.20186081313135,34.6118065463564,"Fall",63601
+10,-79.233822,42.519466,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22.5,128,"male",11,885,9.20186081313135,34.6118065463564,"Fall",63602
+6,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36.9,145,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63603
+10,-79.233822,42.519466,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23.5,137,"male",11,885,9.20186081313135,34.6118065463564,"Fall",63604
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23.5,126,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63605
+10,-79.233822,42.519466,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33,158,"male",11,885,9.20186081313135,34.6118065463564,"Fall",63606
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",40,170,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63607
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23,138,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63608
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20,120,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63609
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20,114,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63610
+10,-79.233822,42.519466,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",25,132,"female",11,885,9.20186081313135,34.6118065463564,"Fall",63611
+10,-79.233822,42.519466,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27.6,160,"female",11,885,9.20186081313135,34.6118065463564,"Fall",63612
+10,-79.233822,42.519466,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36.7,168,"male",11,885,9.20186081313135,34.6118065463564,"Fall",63613
+10,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",32,149,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",63614
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",43.5,140,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63615
+7,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27,98,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63616
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21,130,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63617
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",40,136,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63618
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27,138,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",63619
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33.5,136,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63620
+6,-79.233822,42.519466,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23.5,135,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",63621
+10,-79.406653,42.439706,"adult",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",52,151,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63622
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",42,137,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",63623
+10,-79.233822,42.519466,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22.5,128,"female",11,885,9.20186081313135,34.6118065463564,"Fall",63624
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26,117,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63625
+10,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",43,159,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63626
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",37,152,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63627
+10,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33,150,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63628
+10,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45,115,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63629
+6,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",32,152,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63630
+10,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30.6,110,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63631
+6,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",51,161,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63632
+7,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26.5,136,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63633
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26.9,133,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63634
+7,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22.5,123,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63635
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24,101,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63636
+10,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",25.2,135,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63637
+7,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34.1,150,"female",11,858,9.20281165863142,34.6128559411243,"Summer",63638
+10,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20,127,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63639
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27,137,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63640
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",37,140,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63641
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",19,120,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63642
+9,-76.655259,42.276659,"",1980,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34,154,"male",7.2,860,10.5220115601879,59.1380748517893,"Fall",63643
+10,-79.406653,42.439706,"juvenile",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",25,140,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63644
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23.4,131,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63645
+6,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",42.7,140,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63646
+10,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36.3,109,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63647
+7,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45.7,165,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63648
+7,-79.406653,42.439706,"adult",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22.5,147,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63649
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30.4,147,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63650
+7,-79.406653,42.439706,"adult",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26.5,149,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",63651
+10,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",18,97,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63652
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21.1,98,"female",11,858,9.20281165863142,34.6128559411243,"Fall",63653
+6,-79.406653,42.439706,"adult",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",38.6,147,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63654
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",15,111,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63655
+10,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16.5,109,"male",11,858,9.20281165863142,34.6128559411243,"Fall",63656
+7,-76.655259,42.276659,"adult",1995,"Microtus pennsylvanicus","Microtus_pennsylvanicus",17.5,130,"male",7.6,876,10.4148786344199,52.2206706348975,"Summer",63657
+3,-75.93419,43.17458,"",1998,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34.7,155,"female",9.9,1025,8.82535946559514,35.756010972529,"Spring",63658
+9,-76.6620399,42.2772652,"",1995,"Microtus pennsylvanicus","Microtus_pennsylvanicus",8.8,85,"male",7.6,873,10.3932670513174,52.3340692760607,"Fall",63659
+10,-79.406653,42.439706,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21.4,140,"undetermined",9.3,1093,8.2849626469047,46.504542706523,"Fall",63660
+7,-79.406653,42.439706,"",1991,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30.1,149,"male",11,858,9.20281165863142,34.6128559411243,"Summer",63661
+3,-76.3457,42.5115,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23.5,130,"female",9.1,1161,8.50949558737268,52.5962859870402,"Spring",63662
+5,-71.57908,41.17209,"adult",1952,"Microtus pennsylvanicus provectus","Microtus_pennsylvanicus",58.1,182,"male",10.4,933,7.69744152693647,63.6055901309944,"Spring",63663
+9,-76.655259,42.276659,"adult",1993,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28.6,139,"female",7.1,1020,10.2401578763871,47.9865543775618,"Fall",63664
+8,-76.655259,42.276659,"adult",1993,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26.2,130,"female",7.1,1020,10.2401578763871,47.9865543775618,"Summer",63665
+5,-76.6620399,42.2772652,"",1993,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36.4,147,"male",7.1,1018,10.231542879594,48.1318821204798,"Spring",63666
+8,-76.6620399,42.2772652,"adult",1993,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34.4,154,"female",7.1,1018,10.231542879594,48.1318821204798,"Summer",63667
+10,-76.655259,42.276659,"adult",1993,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28.4,127,"female",7.1,1020,10.2401578763871,47.9865543775618,"Fall",63668
+10,-76.655259,42.276659,"",2012,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33.9,38,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",63669
+10,-76.655259,42.276659,"",2012,"Microtus pennsylvanicus","Microtus_pennsylvanicus",18.4,115,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",63670
+10,-76.655259,42.276659,"",2012,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27.3,130,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",63671
+6,-73.902663,44.365571,"adult",1954,"Microtus pennsylvanicus","Microtus_pennsylvanicus",40.5,162,"male",2.2,1615,9.96058900534167,20.8975263448147,"Summer",63672
+8,-73.923783,44.112733,"juvenile",1954,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21.6,140,"female",0.8,1853,9.879301901481,23.8381102788102,"Summer",63673
+4,-76.3652,42.4502,"adult",1939,"Microtus pennsylvanicus pennsylvanicus","Microtus_pennsylvanicus",32,NA,"female",7.7,785,10.3876675131444,32.095335486546,"Spring",63674
+4,-76.4636,42.4442,"",1947,"Microtus pennsylvanicus","Microtus_pennsylvanicus",48.6,161,"female",8.6,993,10.3754481465826,56.5225595856317,"Spring",63675
+2,-83.432898,38.185043,"",1939,"Microtus pennsylvanicus","Microtus_pennsylvanicus",60,155,"male",13.2,1258,8.76215605817876,60.4759262457404,"Winter",63676
+7,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34.2,148,"",13.7,1186,8.44590630621328,52.6159430119039,"Summer",63677
+6,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28.3,120,"",13.7,1186,8.44590630621328,52.6159430119039,"Summer",63678
+4,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20,126,"male",13.7,1186,8.44590630621328,52.6159430119039,"Spring",63679
+4,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20,122,"male",13.7,1186,8.44590630621328,52.6159430119039,"Spring",63680
+4,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35.2,158,"male",13.7,1186,8.44590630621328,52.6159430119039,"Spring",63681
+7,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",37.7,110,"female",13.7,1186,8.44590630621328,52.6159430119039,"Summer",63683
+7,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",39.6,116,"male",13.7,1186,8.44590630621328,52.6159430119039,"Summer",63684
+7,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",32.5,145,"",13.7,1186,8.44590630621328,52.6159430119039,"Summer",63685
+7,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30,160,"",13.7,1186,8.44590630621328,52.6159430119039,"Summer",63686
+6,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",44.1,125,"male",13.7,1186,8.44590630621328,52.6159430119039,"Summer",63687
+7,-83.432898,38.185043,"",1938,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30.5,160,"",13.7,1186,8.44590630621328,52.6159430119039,"Summer",63688
+9,-76.4636,42.4442,"",1939,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30,155,"female",8.5,730,10.2499076122961,31.1938993138668,"Fall",63689
+5,-76.3652,42.4502,"",1943,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27,130,"female",6.8,1023,10.7027467445879,62.2778902686079,"Spring",63690
+3,-73.054623,41.191394,"",1950,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34.4,151,"female",10.2,1066,8.4708546669081,30.2813434637501,"Spring",63691
+3,-73.054623,41.191394,"",1950,"Microtus pennsylvanicus","Microtus_pennsylvanicus",34.7,157,"male",10.2,1066,8.4708546669081,30.2813434637501,"Spring",63692
+7,-73.951263,44.29997,"adult",1953,"Microtus pennsylvanicus pennsylvanicus","Microtus_pennsylvanicus",53.5,185,"male",5.9,906,9.17633649748915,37.9636361421128,"Summer",63693
+7,-73.951263,44.29997,"adult",1953,"Microtus pennsylvanicus pennsylvanicus","Microtus_pennsylvanicus",56,182,"male",5.9,906,9.17633649748915,37.9636361421128,"Summer",63694
+7,-73.951263,44.29997,"adult",1953,"Microtus pennsylvanicus pennsylvanicus","Microtus_pennsylvanicus",58,173,"female",5.9,906,9.17633649748915,37.9636361421128,"Summer",63695
+10,-76.359185,42.440546,"",1954,"Microtus pennsylvanicus pennsylvanicus","Microtus_pennsylvanicus",37,166,"",7.8,998,9.541690816431,33.2457844901164,"Fall",63696
+10,-76.46632,42.44127,"young",1953,"Microtus pennsylvanicus pennsylvanicus","Microtus_pennsylvanicus",33.5,154,"female",9.7,772,8.50965583465292,31.7337565581881,"Fall",63697
+6,-104.941679,39.560542,"",1998,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",24.1,128,"female",9.9,471,8.61694507492316,88.7049644781791,"Summer",63698
+7,-105.104175,39.129213,"",2001,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",36,157,"female",7.6,462,8.41330115731253,64.7661432728713,"Summer",63699
+6,-104.8674,39.349372,"",1999,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",31.9,148,"female",9.4,479,7.15585689339773,91.6019054982433,"Summer",63700
+7,-104.768343,39.180591,"",1999,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",36.6,159,"female",8.1,544,6.87010983106595,100.433552141313,"Summer",63701
+7,-104.768343,39.180591,"",1999,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",46.6,168,"male",8.1,544,6.87010983106595,100.433552141313,"Summer",63702
+8,-105.220833,39.991667,"",1999,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",21.6,125,"female",10.7,460,7.50948894682083,76.1236501018508,"Summer",63703
+9,-105.875567,39.109994,"adult",2004,"Microtus pennsylvanicus","Microtus_pennsylvanicus",49.5,151,"female",3.1,283,7.84027577591657,63.936385143067,"Fall",63704
+5,-106.2078516287,37.2825859323,"",2007,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35,144,"female",5.6,343,9.37462726531761,58.9100592985046,"Spring",63705
+8,-99.18694,43.94806,"",1984,"Microtus pennsylvanicus drummondi","Microtus_pennsylvanicus",21.5,124,"male",8.3,570,11.3471228498548,84.6000297612244,"Summer",63706
+6,-105.097066,39.996766,"",1987,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",54,167,"female",10.6,447,8.78553822017649,64.978688358759,"Summer",63707
+6,-105.873904,38.715216,"",1988,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",53.8,170,"female",3.1,269,9.12233356641653,59.6824016561071,"Summer",63708
+7,-105.873904,38.715216,"",1988,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",30.5,114.4,"female",3.1,269,9.12233356641653,59.6824016561071,"Summer",63709
+7,-105.873904,38.715216,"",1988,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",50.8,137,"female",3.1,269,9.12233356641653,59.6824016561071,"Summer",63710
+7,-105.873904,38.715216,"",1988,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",28.6,NA,"female",3.1,269,9.12233356641653,59.6824016561071,"Summer",63711
+9,-105.873904,38.715216,"",1989,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",46.5,165,"female",3.4,264,8.26762121810504,46.3050265890885,"Fall",63712
+7,-101.631486,47.328918,"",1989,"Microtus pennsylvanicus insperatus","Microtus_pennsylvanicus",32.6,145,"male",4.7,304,13.92877988522,73.9698836808961,"Summer",63713
+7,-101.631486,47.328918,"",1989,"Microtus pennsylvanicus insperatus","Microtus_pennsylvanicus",21.5,114,"male",4.7,304,13.92877988522,73.9698836808961,"Summer",63714
+7,-101.631486,47.328918,"",1989,"Microtus pennsylvanicus insperatus","Microtus_pennsylvanicus",39.3,139,"female",4.7,304,13.92877988522,73.9698836808961,"Summer",63715
+7,-101.631486,47.328918,"",1989,"Microtus pennsylvanicus insperatus","Microtus_pennsylvanicus",32.6,152,"female",4.7,304,13.92877988522,73.9698836808961,"Summer",63716
+7,-101.631486,47.328918,"Mature",1989,"Microtus pennsylvanicus insperatus","Microtus_pennsylvanicus",48.9,167,"male",4.7,304,13.92877988522,73.9698836808961,"Summer",63717
+10,-105.094218,39.82682,"",1994,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",26,143,"male",11.1,358,8.78449046486321,53.0903303345913,"Fall",63718
+4,-97.057968,40.121057,"",1992,"Microtus pennsylvanicus","Microtus_pennsylvanicus",69.3,181,"male",11.5,878,8.74831152540046,88.355891269458,"Spring",63719
+7,-104.3469444444,37.0063888889,"",1995,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",42,166,"female",7.8,584,6.71336861656041,90.6122462166418,"Summer",63720
+5,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",44,156,"female",7.2,615,7.22425942518846,73.5048280805736,"Spring",63721
+6,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",50,164,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",63722
+7,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",37,170,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",63723
+7,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",38,169,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",63724
+7,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",20.6,132,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",63725
+7,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",61,188,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",63726
+7,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",54,170,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",63727
+7,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",45,177,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",63728
+7,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",27.2,154,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",63729
+7,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",20.6,140,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",63730
+8,-104.37095,37.013466,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",37.5,146,"female",8,593,7.37762280018558,76.4356747460702,"Summer",63731
+8,-104.37095,37.013466,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",31,158,"female",8,593,7.37762280018558,76.4356747460702,"Summer",63732
+8,-104.3608333333,37.0005555556,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",33,154,"male",8.1,594,7.39907344731676,76.3259729404991,"Summer",63733
+8,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",54,182,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",63734
+8,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",32,164,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",63735
+8,-104.3608333333,37.0005555556,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",5,91,"",8.1,594,7.39907344731676,76.3259729404991,"Summer",63736
+8,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",27.4,151,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",63737
+8,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",29,157,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",63738
+8,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",40,182,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",63739
+8,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",23,153,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",63740
+8,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",22,148,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",63741
+8,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",30,154,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",63742
+8,-104.395015,37.006588,"",1996,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",31,151,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",63743
+8,-104.76025,39.391051,"",1996,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",53.6,162,"male",9,399,8.50551959825875,77.5300528241087,"Summer",63744
+8,-105.047302,39.651618,"",1996,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",34,165,"female",10.6,383,8.61963930905359,77.3175658287379,"Summer",63745
+7,-105.252799,39.05474,"",1997,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",30.5,126,"male",4.6,641,7.93478628151593,86.5988498506449,"Summer",63746
+7,-105.096416,39.125788,"",1997,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",52,160,"male",5.9,734,8.23666507241563,77.5735836962047,"Summer",63747
+7,-105.096416,39.125788,"",1997,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",45,170,"female",5.9,734,8.23666507241563,77.5735836962047,"Summer",63748
+7,-105.096416,39.125788,"",1997,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",10.5,100,"female",5.9,734,8.23666507241563,77.5735836962047,"Summer",63749
+8,-104.862015,39.943241,"",1997,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",54.6,181,"male",9.4,522,9.52551199610177,74.0286997154235,"Summer",63750
+9,-104.585697,38.933058,"",1998,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",43.3,163,"female",8.2,504,8.38178038511165,95.8583697230967,"Fall",63751
+9,-104.60806,38.93306,"",1998,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",46.3,171,"male",8.3,501,8.37011277575087,97.39889863107,"Fall",63752
+7,-152.5702778,60.1033333,"",1952,"Microtus (Mynomes) pennsylvanicus Ord, 1815","Microtus_pennsylvanicus",12,140,"female",2.3,825,8.10212747967901,76.3504120780816,"Summer",63753
+7,-116.9884,48.6339,"Adult",1970,"Microtus (Mynomes) pennsylvanicus Ord, 1815","Microtus_pennsylvanicus",28,145,"male",6.2,813,8.47926168884289,70.2624599110543,"Summer",63754
+7,-104.986584,40.170037,"",1974,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",54.3,187,"female",9.6,263,9.34572905209388,72.9593404876146,"Summer",63755
+6,-107.053341,38.550472,"",1968,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",37.8,147,"male",2.3,289,9.69573476984972,81.4771025905629,"Summer",63756
+7,-105.199829,39.091857,"",1968,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",36,148,"female",6,440,7.27421765032106,65.7465936418545,"Summer",63757
+7,-105.199829,39.091857,"",1968,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",31.6,145,"male",6,440,7.27421765032106,65.7465936418545,"Summer",63758
+7,-105.199829,39.091857,"",1968,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",30.7,137,"female",6,440,7.27421765032106,65.7465936418545,"Summer",63759
+7,-105.199829,39.091857,"",1968,"Microtus pennsylvanicus modestus","Microtus_pennsylvanicus",41.2,161,"male",6,440,7.27421765032106,65.7465936418545,"Summer",63760
+7,-105.869877,38.71822,"",1988,"Microtus pennsylvanicus uligocola","Microtus_pennsylvanicus",45,152,"male",3.1,268,9.15027321996453,61.5381304710867,"Summer",63761
+5,-104.44156,44.50364,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",39.5,148,"male",5.9,639,9.10658686020313,78.4871153293792,"Spring",63762
+7,-104.3910598,36.9721811,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",52.5,180,"male",8.6,554,7.62036247447746,92.0401370936949,"Summer",63763
+7,-104.3796443,36.9904534,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",48.5,170,"male",8.1,589,7.58219605191642,89.0117564533418,"Summer",63764
+7,-104.3859958,36.958431,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",54.5,183,"female",9.1,525,7.7047161865413,95.1109107475488,"Summer",63765
+7,-104.3796443,36.9904534,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",40,163,"male",8.1,589,7.58219605191642,89.0117564533418,"Summer",63766
+7,-104.3796443,36.9904534,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",52,181,"male",8.1,589,7.58219605191642,89.0117564533418,"Summer",63767
+7,-104.3796443,36.9904534,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",59,180,"male",8.1,589,7.58219605191642,89.0117564533418,"Summer",63768
+7,-104.3796443,36.9904534,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",42,170,"male",8.1,589,7.58219605191642,89.0117564533418,"Summer",63769
+7,-104.3796443,36.9904534,"",2007,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45,169,"male",7.8,477,8.52307029612729,60.7585167266508,"Summer",63770
+8,-149.29,65.28,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",3.8,91,"male",-1.9,412,13.8314420028711,97.2281106414838,"Summer",63771
+8,-149.29,65.28,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",14,111,"male",-1.9,412,13.8314420028711,97.2281106414838,"Summer",63772
+8,-149.29,65.28,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",23,139,"female",-1.9,412,13.8314420028711,97.2281106414838,"Summer",63773
+8,-150.46,66.35,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22,129,"male",-5.5,566,15.1100809215088,79.8678598863811,"Summer",63774
+11,-126.85,65.283333,"",2002,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28,146,"female",-4.2,360,13.8098669161735,89.6675336465179,"Fall",63775
+11,-126.85,65.283333,"",2001,"Microtus pennsylvanicus","Microtus_pennsylvanicus",18,125,"female",-4.2,294,14.6763569916194,80.3224027672534,"Fall",63776
+7,-135.4614,63.8413,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21.5,131,"male",-1.3,523,11.9143153009692,57.4386640472672,"Summer",63777
+7,-135.4614,63.8413,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36,158,"female",-1.3,523,11.9143153009692,57.4386640472672,"Summer",63778
+6,-141.2301,64.7533,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31,144,"male",-2.2,245,14.0264981914643,71.7074679093999,"Summer",63779
+6,-141.2301,64.7533,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31,134,"female",-2.2,245,14.0264981914643,71.7074679093999,"Summer",63780
+6,-136.4361,62.3601,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",10.7,104,"male",-0.9,328,13.869478153212,72.4745148115639,"Summer",63781
+7,-136.5553,62.3985,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35,148,"female",-1.1,329,13.9183985494675,72.2730558143034,"Summer",63782
+7,-124.053908,60.123817,"",2004,"Microtus pennsylvanicus","Microtus_pennsylvanicus",29,154,"male",-0.8,377,13.3880091081082,48.9071730249158,"Summer",63783
+7,-124.053908,60.123817,"",2004,"Microtus pennsylvanicus","Microtus_pennsylvanicus",13.5,108,"male",-0.8,377,13.3880091081082,48.9071730249158,"Summer",63784
+7,-124.075909,60.132005,"",2004,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21.5,140,"male",-0.6,393,12.7974429264031,49.004194785838,"Summer",63785
+7,-135.2934,61.1,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31,142,"female",0.4,353,11.3709758116483,76.0337947556633,"Summer",63786
+7,-135.2934,61.1,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27.54,139,"male",0.4,353,11.3709758116483,76.0337947556633,"Summer",63787
+6,-139.4417,64.0842,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",32,146,"male",-2.4,299,15.1342377249451,49.755767139462,"Summer",63788
+6,-139.4417,64.0842,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",13,110,"female",-2.4,299,15.1342377249451,49.755767139462,"Summer",63789
+6,-136.4361,62.3601,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",32,147,"male",-0.9,328,13.869478153212,72.4745148115639,"Summer",63790
+7,-135.2934,61.1,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22.5,129,"female",0.4,353,11.3709758116483,76.0337947556633,"Summer",63791
+7,-135.2934,61.1,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22,126,"male",0.4,353,11.3709758116483,76.0337947556633,"Summer",63792
+7,-137.1948,63.5431,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33,145,"female",-1.2,444,14.4458864859044,55.2508042275986,"Summer",63793
+7,-137.1948,63.5431,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27.5,145,"female",-1.2,444,14.4458864859044,55.2508042275986,"Summer",63794
+7,-137.1948,63.5431,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",32.5,128,"female",-1.2,444,14.4458864859044,55.2508042275986,"Summer",63795
+7,-137.1948,63.5431,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",7.4,90,"female",-1.2,444,14.4458864859044,55.2508042275986,"Summer",63796
+7,-135.2325,60.0588,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",15.8,113,"male",-0.4,1026,8.42432894548985,67.1906435117599,"Summer",63797
+7,-135.2325,60.0588,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",39.5,157,"male",-0.4,1026,8.42432894548985,67.1906435117599,"Summer",63798
+7,-135.2325,60.0588,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",15.5,160,"female",-0.4,1026,8.42432894548985,67.1906435117599,"Summer",63799
+7,-135.2325,60.0588,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",18,117,"female",-0.4,1026,8.42432894548985,67.1906435117599,"Summer",63800
+7,-135.2325,60.0588,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30,140,"male",-0.4,1026,8.42432894548985,67.1906435117599,"Summer",63801
+7,-136.1366,63.6961,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",21,125,"male",-2,456,12.8957239800523,60.21948853995,"Summer",63802
+7,-136.1366,63.6961,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36.5,161,"male",-2,456,12.8957239800523,60.21948853995,"Summer",63803
+7,-136.1366,63.6961,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",22,140,"female",-2,456,12.8957239800523,60.21948853995,"Summer",63804
+7,-137.1948,63.5431,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",44.5,145,"female",-1.2,444,14.4458864859044,55.2508042275986,"Summer",63805
+7,-137.1948,63.5431,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",40,160,"male",-1.2,444,14.4458864859044,55.2508042275986,"Summer",63806
+7,-135.4614,63.8413,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28.5,145,"female",-1.3,523,11.9143153009692,57.4386640472672,"Summer",63807
+7,-135.4614,63.8413,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",29.5,146,"female",-1.3,523,11.9143153009692,57.4386640472672,"Summer",63808
+7,-135.4614,63.8413,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16.5,117,"male",-1.3,523,11.9143153009692,57.4386640472672,"Summer",63809
+7,-135.4614,63.8413,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16.5,117,"female",-1.3,523,11.9143153009692,57.4386640472672,"Summer",63810
+7,-136.1366,63.6961,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33,145,"male",-2,456,12.8957239800523,60.21948853995,"Summer",63811
+7,-136.1366,63.6961,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",32,148,"male",-2,456,12.8957239800523,60.21948853995,"Summer",63812
+7,-136.1366,63.6961,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",27,136,"male",-2,456,12.8957239800523,60.21948853995,"Summer",63813
+7,-136.1366,63.6961,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24,130,"female",-2,456,12.8957239800523,60.21948853995,"Summer",63814
+7,-136.1366,63.6961,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",17,119,"male",-2,456,12.8957239800523,60.21948853995,"Summer",63815
+7,-136.1366,63.6961,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",25,125,"female",-2,456,12.8957239800523,60.21948853995,"Summer",63816
+7,-138.5789,64.0259,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",14,112,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63817
+7,-138.5789,64.0259,"sub-adult",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20,121,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63818
+7,-138.5789,64.0259,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",13.5,108,"undetermined",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63819
+7,-138.5789,64.0259,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",18.5,120,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63820
+7,-138.5789,64.0259,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16.5,117,"male",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63821
+7,-138.5789,64.0259,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16,118,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63822
+7,-138.5789,64.0259,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",15,113,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63823
+7,-138.5789,64.0259,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",10.5,110,"male",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63824
+7,-137.1948,63.5431,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",8.8,95,"male",-1.2,444,14.4458864859044,55.2508042275986,"Summer",63825
+7,-137.1948,63.5431,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",45,159,"male",-1.2,444,14.4458864859044,55.2508042275986,"Summer",63826
+7,-138.5789,64.0259,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35,148,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63827
+7,-138.5789,64.0259,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16,150,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63828
+7,-138.5789,64.0259,"juvenile",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",8.5,NA,"male",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63829
+7,-136.3397,66.9198,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",37,151,"female",-4.5,412,12.8621714552969,65.5570225256361,"Summer",63830
+7,-136.3511,66.914,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36,158,"male",-4.5,400,12.8630166356768,64.3780839587614,"Summer",63831
+7,-137.4123,63.5551,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",47,147,"female",-1.2,453,15.0371056209147,52.8013251458528,"Summer",63832
+7,-136.2345,66.9487,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",31,145,"male",-4.3,459,12.5323097583322,68.5686933648474,"Summer",63833
+7,-137.4123,63.5551,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",33,142,"female",-1.2,453,15.0371056209147,52.8013251458528,"Summer",63834
+7,-138.5789,64.0259,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",43,NA,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63835
+7,-138.5789,64.0259,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",36,155,"male",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63836
+7,-138.5789,64.0259,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",43.5,158,"male",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63837
+7,-138.5789,64.0259,"sub-adult",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",17.5,122,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63838
+7,-138.5789,64.0259,"subadult",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",20,122,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",63839
+6,-103.44045,43.8722666667,"",2005,"Microtus pennsylvanicus","Microtus_pennsylvanicus",28,125,"female",7.9,546,9.0411642787393,93.7559928437104,"Summer",63840
+7,-132.2689833333,56.7805333333,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",35,157,"male",0.8,3558,6.87967471923086,44.8229939874749,"Summer",63841
+8,-130.2688,57.2823,"adult",2007,"Microtus pennsylvanicus","Microtus_pennsylvanicus",39,164,"male",0.9,693,9.11033379290692,51.6133802812795,"Summer",63842
+8,-131.3983,57.8203,"adult",2007,"Microtus pennsylvanicus","Microtus_pennsylvanicus",41,145,"male",3,379,10.3900702887931,50.5418094993485,"Summer",63843
+8,-131.3983,57.8203,"",2007,"Microtus pennsylvanicus","Microtus_pennsylvanicus",16,122,"female",3,379,10.3900702887931,50.5418094993485,"Summer",63844
+8,-133.58922,67.61585,"",2003,"Microtus pennsylvanicus","Microtus_pennsylvanicus",30,138,"male",-7,259,15.2246411113595,58.9531395657759,"Summer",63845
+8,-133.59,67.61713,"",2003,"Microtus pennsylvanicus","Microtus_pennsylvanicus",19.3,129,"male",-7,259,15.2246411113595,58.9531395657759,"Summer",63846
+8,-115.0342,51.02791,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",39,155,"male",2.5,544,8.43761419675807,66.0247815867629,"Summer",63847
+8,-115.0342,51.02791,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",24,158,"male",2.5,544,8.43761419675807,66.0247815867629,"Summer",63848
+7,-115.0342,51.02791,"",2007,"Microtus pennsylvanicus","Microtus_pennsylvanicus",26,150,"undetermined",2,639,8.98898315616501,63.6111595441683,"Summer",63849
+7,-115.0342,51.02791,"",2006,"Microtus pennsylvanicus","Microtus_pennsylvanicus",40,159,"male",2.5,544,8.43761419675807,66.0247815867629,"Summer",63850

@@ -1,0 +1,810 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+4,-89.2606,37.100143,NA,1955,"Microtus ochrogaster","Microtus_ochrogaster",40.2,153,"female",15.1,1026,9.44556974876518,64.3359577652801,"Spring",61864
+6,-104.941679,39.560542,NA,1998,"Microtus ochrogaster haydenii","Microtus_ochrogaster",26.1,127,"male",9.9,471,8.61694507492316,88.7049644781791,"Summer",61865
+8,-109.8228575,43.544304,NA,1997,"Microtus ochrogaster similis","Microtus_ochrogaster",25.3,140,"female",0.6,800,8.1999260898369,41.5768678045615,"Summer",61866
+8,-109.8228575,43.544304,NA,1997,"Microtus ochrogaster similis","Microtus_ochrogaster",22.7,131,"male",0.6,800,8.1999260898369,41.5768678045615,"Summer",61867
+8,-109.8228575,43.544304,NA,1997,"Microtus ochrogaster similis","Microtus_ochrogaster",25.2,140,"female",0.6,800,8.1999260898369,41.5768678045615,"Summer",61868
+6,-105.220833,39.991667,NA,1999,"Microtus ochrogaster","Microtus_ochrogaster",28.8,NA,"female",10.7,460,7.50948894682083,76.1236501018508,"Summer",61869
+2,-104.78205,39.370718,NA,1998,"Microtus ochrogaster","Microtus_ochrogaster",33.7,137,"female",8.9,475,8.51649024308759,95.8304799058348,"Winter",61870
+8,-104.862015,39.943241,NA,1997,"Microtus ochrogaster haydenii","Microtus_ochrogaster",43.3,165,"female",9.4,522,9.52551199610177,74.0286997154235,"Summer",61871
+9,-105.1052219367,39.8397621857,NA,1999,"Microtus ochrogaster haydenii","Microtus_ochrogaster",42.6,148,"male",10.8,439,7.33453330402683,80.3657685181824,"Fall",61872
+5,-104.514719,45.037494,NA,1979,"Microtus ochrogaster haydenii","Microtus_ochrogaster",36.5,134,"female",6.3,311,12.0279567019607,76.3533649862053,"Spring",61873
+6,-104.65489,38.606142,NA,1979,"Microtus ochrogaster haydenii","Microtus_ochrogaster",53,146,"female",10.2,504,9.74375868611971,86.5400340257472,"Summer",61874
+6,-104.65489,38.606142,NA,1979,"Microtus ochrogaster haydenii","Microtus_ochrogaster",51,147,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",61875
+6,-104.65489,38.606142,NA,1979,"Microtus ochrogaster haydenii","Microtus_ochrogaster",50,151,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",61876
+10,-104.7193790389,40.81931,NA,1996,"Microtus ochrogaster","Microtus_ochrogaster",32,125,"female",8.6,371,9.14259097285719,84.8242686994771,"Fall",61877
+11,-105.1404001,40.62389,NA,1951,"Microtus ochrogaster","Microtus_ochrogaster",37.67,129,"male",7.3,405,8.88005511175909,51.2910932525047,"Fall",61878
+6,-105.084423,40.58526,NA,1984,"Microtus ochrogaster","Microtus_ochrogaster",44,157,"female",8.3,401,9.27458240504007,72.579496177701,"Summer",61879
+9,-105.2162755,40.1089089,NA,1981,"Microtus ochrogaster","Microtus_ochrogaster",61.9,150,"female",11.1,356,8.03520662177056,86.4869223462188,"Fall",61880
+9,-105.137551,40.312123,NA,1981,"Microtus ochrogaster","Microtus_ochrogaster",31,118,"female",10.4,355,8.12957563468106,92.727370021369,"Fall",61881
+8,-105.3532538,40.7754022,NA,1981,"Microtus ochrogaster","Microtus_ochrogaster",50,176,"male",8,426,7.58555245586016,94.7113892177817,"Summer",61882
+9,-105.137551,40.312123,NA,1981,"Microtus ochrogaster","Microtus_ochrogaster",35,145,"female",10.4,355,8.12957563468106,92.727370021369,"Fall",61883
+6,-103.0785583,38.1067078,NA,1979,"Microtus ochrogaster","Microtus_ochrogaster",25,128,"male",11.4,384,10.7494467792815,73.7059454316266,"Summer",61884
+6,-103.0785583,38.1067078,NA,1979,"Microtus ochrogaster","Microtus_ochrogaster",56,166,"female",11.4,384,10.7494467792815,73.7059454316266,"Summer",61885
+12,-90.786358,39.078648,NA,1981,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45.2,159,"female",12.6,1211,9.58145304347114,71.524010748159,"Winter",61886
+12,-90.786358,39.078648,NA,1981,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36.1,159,"female",12.6,1211,9.58145304347114,71.524010748159,"Winter",61887
+12,-90.357141,38.655625,NA,1981,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43.5,130,"female",13,1164,9.42601172127942,67.3102651452984,"Winter",61888
+12,-90.357162,38.657267,NA,1980,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32.2,142,"female",13.1,714,11.0158425859663,49.2122078396949,"Winter",61889
+12,-90.357162,38.657267,NA,1982,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,141,"male",12.3,1357,10.0487900673754,42.3061141654704,"Winter",61890
+8,-96.178093,40.8852005,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39.8,165,"male",11,1144,11.0858734842632,72.1587022418676,"Summer",61891
+12,-108.82,45.54,NA,1993,"Microtus ochrogaster","Microtus_ochrogaster",33.2,149,"male",7,368,9.44644794554434,72.6800611350428,"Winter",61892
+9,-89.96083,39.2177,"unknown",1962,"Microtus ochrogaster","Microtus_ochrogaster",45.3,161,"male",12,942,10.6456848563447,42.8952691306156,"Fall",61893
+3,-90.0329,38.9031,"unknown",1964,"Microtus ochrogaster","Microtus_ochrogaster",39.5,146,"female",13.1,772,9.77876487212176,47.5525430772382,"Spring",61894
+5,-89.9844444,38.6702778,"unknown",1967,"Microtus ochrogaster","Microtus_ochrogaster",28.7,144,"male",12.3,1120,8.66942992079151,38.8795413862413,"Spring",61895
+12,-87.0971,40.6039,"unknown",1963,"Microtus ochrogaster","Microtus_ochrogaster",28.3,134,"female",9.5,691,11.9098475933561,79.9205757264862,"Winter",61896
+12,-86.2941,38.2288,"unknown",1967,"Microtus ochrogaster","Microtus_ochrogaster",24.8,115,"female",12.5,1165,8.09344572085114,40.5604082534324,"Winter",61897
+12,-86.2941,38.2288,"unknown",1967,"Microtus ochrogaster","Microtus_ochrogaster",25.2,114,"female",12.5,1165,8.09344572085114,40.5604082534324,"Winter",61898
+11,-86.9083,38.8433,"unknown",1967,"Microtus ochrogaster","Microtus_ochrogaster",57.5,167,"female",12.2,1067,8.70936016854594,43.8215342514053,"Fall",61899
+12,-86.7446,37.9122,"unknown",1967,"Microtus ochrogaster","Microtus_ochrogaster",55.5,148,"female",12.9,1200,8.25933356325381,43.461945517403,"Winter",61900
+12,-86.7446,37.9122,"unknown",1967,"Microtus ochrogaster","Microtus_ochrogaster",35.1,135,"male",12.9,1200,8.25933356325381,43.461945517403,"Winter",61901
+5,-86.9086,40.4267,"unknown",1965,"Microtus ochrogaster","Microtus_ochrogaster",34.7,133,"male",10.8,942,9.84978080051439,38.7961581796183,"Spring",61902
+11,-87.0969,40.4318,"unknown",1968,"Microtus ochrogaster","Microtus_ochrogaster",41,145,"male",10.4,993,10.399504650208,49.5834566966739,"Fall",61903
+11,-86.9086,40.4267,"unknown",1967,"Microtus ochrogaster","Microtus_ochrogaster",37.6,134,"male",10.1,884,9.53882020530269,56.8821819499924,"Fall",61904
+10,-86.8655,40.6311,"unknown",1969,"Microtus ochrogaster","Microtus_ochrogaster",34.9,130,"female",9.9,985,10.3700143186833,56.8017119604657,"Fall",61905
+10,-86.8655,40.6311,"unknown",1969,"Microtus ochrogaster","Microtus_ochrogaster",31,141,"male",9.9,985,10.3700143186833,56.8017119604657,"Fall",61906
+10,-86.8655,40.6311,"unknown",1969,"Microtus ochrogaster","Microtus_ochrogaster",29.4,122,"female",9.9,985,10.3700143186833,56.8017119604657,"Fall",61907
+10,-86.8655,40.6311,"unknown",1969,"Microtus ochrogaster","Microtus_ochrogaster",37.3,145,"male",9.9,985,10.3700143186833,56.8017119604657,"Fall",61908
+10,-86.8655,40.6311,"unknown",1969,"Microtus ochrogaster","Microtus_ochrogaster",40,150,"male",9.9,985,10.3700143186833,56.8017119604657,"Fall",61909
+3,-86.8789,40.8093,"unknown",1970,"Microtus ochrogaster","Microtus_ochrogaster",22.8,137,"female",10.1,982,10.9254047841245,65.880373683235,"Spring",61910
+10,-86.8655,40.6311,"unknown",1969,"Microtus ochrogaster","Microtus_ochrogaster",26.1,135,"female",9.9,985,10.3700143186833,56.8017119604657,"Fall",61911
+11,-92.334551,38.952112,NA,1950,"Microtus ochrogaster","Microtus_ochrogaster",46.7,145,"male",12.1,809,9.49345468300038,67.5769841361922,"Fall",61912
+10,-95.265899,38.960459,NA,1945,"Microtus ochrogaster","Microtus_ochrogaster",42,154,"male",11.8,1129,9.73487949529314,83.0343873836499,"Fall",61913
+4,-89.269546,37.234898,NA,1955,"Microtus ochrogaster","Microtus_ochrogaster",36.8,151,"female",15,1004,9.4311861781683,64.0861480826998,"Spring",61914
+4,-89.269546,37.234898,NA,1955,"Microtus ochrogaster","Microtus_ochrogaster",34.1,141,"male",15,1004,9.4311861781683,64.0861480826998,"Spring",61915
+8,-109.8228575,43.544304,"juvenile",1997,"Microtus ochrogaster similis","Microtus_ochrogaster",17.1,124,"female",0.6,800,8.1999260898369,41.5768678045615,"Summer",61916
+8,-109.8228575,43.544304,"juvenile",1997,"Microtus ochrogaster similis","Microtus_ochrogaster",17.2,123,"male",0.6,800,8.1999260898369,41.5768678045615,"Summer",61917
+8,-109.8228575,43.544304,"juvenile",1997,"Microtus ochrogaster similis","Microtus_ochrogaster",19.5,123,"female",0.6,800,8.1999260898369,41.5768678045615,"Summer",61918
+8,-109.8228575,43.544304,"juvenile",1997,"Microtus ochrogaster similis","Microtus_ochrogaster",23.9,130,"female",0.6,800,8.1999260898369,41.5768678045615,"Summer",61919
+8,-109.8228575,43.544304,"juvenile",1997,"Microtus ochrogaster similis","Microtus_ochrogaster",26.6,139.5,"male",0.6,800,8.1999260898369,41.5768678045615,"Summer",61920
+8,-109.8228575,43.544304,NA,1997,"Microtus ochrogaster similis","Microtus_ochrogaster",28.4,142,"male",0.6,800,8.1999260898369,41.5768678045615,"Summer",61921
+8,-109.8228575,43.544304,NA,1997,"Microtus ochrogaster similis","Microtus_ochrogaster",25,138,"female",0.6,800,8.1999260898369,41.5768678045615,"Summer",61922
+6,-105.282212,40.129933,NA,2002,"Microtus ochrogaster","Microtus_ochrogaster",43.6,140,"female",10,307,9.07899256859515,73.2494212554335,"Summer",61923
+6,-104.66694,39.85833,NA,2013,"Microtus ochrogaster","Microtus_ochrogaster",38.6,149,"female",10.1,316,9.64688676425842,63.9619229492216,"Summer",61924
+8,-106.317307,42.858114,NA,1993,"Microtus ochrogaster similis","Microtus_ochrogaster",41.6,145,"female",7.4,461,9.53089076570909,80.2037887229038,"Summer",61925
+2,-104.78205,39.370718,NA,1998,"Microtus ochrogaster","Microtus_ochrogaster",30.4,138,"male",8.9,475,8.51649024308759,95.8304799058348,"Winter",61926
+5,-104.514719,45.037494,NA,1979,"Microtus ochrogaster haydenii","Microtus_ochrogaster",56,174,"male",6.3,311,12.0279567019607,76.3533649862053,"Spring",61927
+6,-104.65489,38.606142,NA,1979,"Microtus ochrogaster haydenii","Microtus_ochrogaster",29,112,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",61928
+8,-104.851679,42.1167209,NA,1974,"Microtus ochrogaster haydenii","Microtus_ochrogaster",55.8,164,"male",8.7,220,9.12154874542429,77.7095093519868,"Summer",61929
+11,-104.979466,40.579416,NA,1989,"Microtus ochrogaster","Microtus_ochrogaster",60,178,"female",8.8,319,9.60648060930587,69.9075535244009,"Fall",61930
+6,-105.068373,40.605791,NA,1984,"Microtus ochrogaster","Microtus_ochrogaster",159,150,"female",8.3,396,9.33793176763301,72.9166664759158,"Summer",61931
+6,-105.068373,40.605791,NA,1984,"Microtus ochrogaster","Microtus_ochrogaster",50,152,"female",8.3,396,9.33793176763301,72.9166664759158,"Summer",61932
+6,-105.068373,40.605791,NA,1982,"Microtus ochrogaster","Microtus_ochrogaster",47,150,"male",8.4,464,8.96334285584988,99.9648624896241,"Summer",61933
+9,-105.155025,40.345095,NA,1981,"Microtus ochrogaster","Microtus_ochrogaster",43.5,149,"male",10.2,361,8.12957563468106,93.2091522205389,"Fall",61934
+9,-105.2162755,40.1089089,NA,1981,"Microtus ochrogaster","Microtus_ochrogaster",54,161,"female",11.1,356,8.03520662177056,86.4869223462188,"Fall",61935
+9,-105.137551,40.312123,NA,1981,"Microtus ochrogaster","Microtus_ochrogaster",32.5,136,"male",10.4,355,8.12957563468106,92.727370021369,"Fall",61936
+9,-105.137551,40.312123,NA,1981,"Microtus ochrogaster","Microtus_ochrogaster",58,167,"female",10.4,355,8.12957563468106,92.727370021369,"Fall",61937
+6,-105.068373,40.605791,NA,1984,"Microtus ochrogaster","Microtus_ochrogaster",49,150,"female",8.3,396,9.33793176763301,72.9166664759158,"Summer",61938
+7,-103.1701175,38.0775751,NA,1979,"Microtus ochrogaster","Microtus_ochrogaster",37.5,151,"female",11.4,376,10.7559814226149,71.5297776517521,"Summer",61939
+8,-105.9116797,39.8472087,NA,1983,"Microtus ochrogaster","Microtus_ochrogaster",29.1,131,"male",1.3,991,8.01899260657113,54.3531484152559,"Summer",61940
+6,-105.1080373,36.6476064,NA,2005,"Microtus ochrogaster","Microtus_ochrogaster",52,166,"female",7.8,509,7.24152587302545,57.1148697135737,"Summer",61941
+1,-97.801069,36.958847,NA,1970,"Microtus ochrogaster","Microtus_ochrogaster",37.6,150,"male",14.8,576,10.2715258079918,102.376799657413,"Winter",61942
+12,-90.357162,38.657267,NA,1980,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32.1,132,"male",13.1,714,11.0158425859663,49.2122078396949,"Winter",61943
+12,-90.357162,38.657267,NA,1980,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",24.5,157,"female",13.1,714,11.0158425859663,49.2122078396949,"Winter",61944
+8,-99.8648987,43.9074936,NA,1970,"Microtus ochrogaster haydenii","Microtus_ochrogaster",56.5,153,"female",7.6,423,13.0526904227721,82.2889573530449,"Summer",61945
+12,-108.82,45.54,NA,1993,"Microtus ochrogaster","Microtus_ochrogaster",22.3,138,"male",7,368,9.44644794554434,72.6800611350428,"Winter",61946
+1,-108.83,45.29,NA,1995,"Microtus ochrogaster","Microtus_ochrogaster",32.4,151,"female",8.4,469,8.50080210119236,74.5877038346507,"Winter",61947
+6,-95.2424,38.9598,"unknown",1945,"Microtus ochrogaster","Microtus_ochrogaster",42,147,"male",11.9,1129,9.73395727555983,83.130947352854,"Summer",61948
+9,-89.9941667,38.7930556,"unknown",1983,"Microtus ochrogaster","Microtus_ochrogaster",30.8,143,"female",12.7,1122,11.0452889998818,65.3593686957542,"Fall",61949
+12,-86.2941,38.2288,"unknown",1967,"Microtus ochrogaster","Microtus_ochrogaster",43.3,149,"male",12.5,1165,8.09344572085114,40.5604082534324,"Winter",61950
+12,-86.2941,38.2288,"unknown",1967,"Microtus ochrogaster","Microtus_ochrogaster",39,142,"male",12.5,1165,8.09344572085114,40.5604082534324,"Winter",61951
+11,-85.3868,40.1941,"unknown",1962,"Microtus ochrogaster","Microtus_ochrogaster",39,145,"undetermined",9.9,853,10.4050796161385,56.0609486333091,"Fall",61952
+10,-86.795,38.8439,"unknown",1969,"Microtus ochrogaster","Microtus_ochrogaster",36.6,146,"female",12.1,1168,9.8360307034901,44.8325725581633,"Fall",61953
+12,-86.7446,37.9122,"unknown",1968,"Microtus ochrogaster","Microtus_ochrogaster",31.6,130,"male",12.8,1140,9.92521658415695,44.3447495413626,"Winter",61954
+2,-86.8763,40.2652,"unknown",1968,"Microtus ochrogaster","Microtus_ochrogaster",29.3,135,"male",10.2,1013,10.3828931274944,56.2527772557507,"Winter",61955
+11,-86.9086,40.4267,"unknown",1968,"Microtus ochrogaster","Microtus_ochrogaster",34.9,148,"female",10.4,986,10.4312903411715,53.926084467199,"Fall",61956
+10,-86.9086,40.4267,"unknown",1969,"Microtus ochrogaster","Microtus_ochrogaster",24,120,"male",10.1,952,10.394794005859,54.3201109100787,"Fall",61957
+10,-86.8655,40.6311,"unknown",1969,"Microtus ochrogaster","Microtus_ochrogaster",27.4,128,"female",9.9,985,10.3700143186833,56.8017119604657,"Fall",61958
+3,-86.8789,40.8093,"unknown",1970,"Microtus ochrogaster","Microtus_ochrogaster",27.3,147,"male",10.1,982,10.9254047841245,65.880373683235,"Spring",61959
+7,-86.932074,40.435524,NA,1946,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,138,"male",11.9,810,8.69519198387037,53.2777983776006,"Summer",61962
+8,-105.2310469,39.9856542,"juvenile",1998,"Microtus ochrogaster haydenii","Microtus_ochrogaster",16,114,"male",10.3,458,8.74113836980058,65.3431972896193,"Summer",61963
+8,-104.7841,38.6647,NA,2007,"Microtus ochrogaster","Microtus_ochrogaster",45.1,160,"female",11,420,9.39376001783776,89.4820264277025,"Summer",61964
+5,-104.89,39.8105555556,NA,1993,"Microtus ochrogaster haydenii","Microtus_ochrogaster",35.9,152,"male",9.7,381,8.94045538125673,46.6127928288033,"Spring",61965
+8,-104.8141666667,39.7205555556,NA,1996,"Microtus ochrogaster haydenii","Microtus_ochrogaster",51,153,"female",10.1,392,8.82201103988647,86.9314585752655,"Summer",61966
+9,-105.103155,39.933659,NA,1997,"Microtus ochrogaster haydenii","Microtus_ochrogaster",34.8,149,"female",9.4,541,9.14423149843494,69.7878751479554,"Fall",61967
+8,-104.8312484,39.9723597,NA,1997,"Microtus ochrogaster haydenii","Microtus_ochrogaster",44,154,"male",9.3,513,9.59643241791006,75.0687717367003,"Summer",61968
+9,-105.1041666667,39.8405555556,NA,1999,"Microtus ochrogaster haydenii","Microtus_ochrogaster",42.6,135,"male",10.8,436,7.349762931654,80.7627672948765,"Fall",61969
+10,-105.1041666667,39.8405555556,NA,1999,"Microtus ochrogaster haydenii","Microtus_ochrogaster",52.7,151,"female",10.8,436,7.349762931654,80.7627672948765,"Fall",61970
+3,-95.61161,38.48732,NA,1958,"Microtus ochrogaster","Microtus_ochrogaster",29,128,"male",11.9,1093,10.3861030402955,85.8547317402112,"Spring",61971
+11,-96.17883,38.38452,NA,1958,"Microtus ochrogaster","Microtus_ochrogaster",51.7,155,"female",12.1,1029,10.4825504356699,89.5233122221273,"Fall",61972
+11,-96.17883,38.38452,NA,1958,"Microtus ochrogaster","Microtus_ochrogaster",46.2,150,"male",12.1,1029,10.4825504356699,89.5233122221273,"Fall",61973
+11,-96.17883,38.38452,NA,1958,"Microtus ochrogaster","Microtus_ochrogaster",42,140,"female",12.1,1029,10.4825504356699,89.5233122221273,"Fall",61974
+11,-96.17883,38.38452,NA,1958,"Microtus ochrogaster","Microtus_ochrogaster",44.8,142,"male",12.1,1029,10.4825504356699,89.5233122221273,"Fall",61975
+6,-97.76616,37.35485,NA,1964,"Microtus ochrogaster","Microtus_ochrogaster",50,144,"male",14.6,711,10.2953174116227,76.2613729738994,"Summer",61976
+5,-97.41219,37.28849,NA,1978,"Microtus ochrogaster","Microtus_ochrogaster",50,140,"male",13.8,637,12.3510857086257,64.3350761518053,"Spring",61977
+5,-97.4325,37.26048,NA,1978,"Microtus ochrogaster","Microtus_ochrogaster",29.5,128,"male",13.9,638,12.3385912215833,64.5347332858049,"Spring",61978
+1,-96.13775,38.41571,NA,1983,"Microtus ochrogaster","Microtus_ochrogaster",34.9,135,"male",12.2,879,11.5920296546874,62.9552607092515,"Winter",61979
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",27,125,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61980
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,153,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61981
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38.5,145,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61982
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,141,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61983
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,131,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61984
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,136,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61985
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,149,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61986
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29,126,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61987
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",56,156,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",61988
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,160,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61989
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29,139,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",61990
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,157,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61991
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,157,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",61992
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53,159,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61993
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,152,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",61994
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,135,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",61995
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",58,168,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",61996
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",49,164,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",61997
+3,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45.9,158,"male",12.3,833,10.4862211178924,50.8506389843807,"Spring",61998
+3,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40.4,143,"male",12.3,833,10.4862211178924,50.8506389843807,"Spring",61999
+6,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,153,"female",12.3,833,10.4862211178924,50.8506389843807,"Summer",62000
+6,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,142,"female",12.3,833,10.4862211178924,50.8506389843807,"Summer",62001
+6,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,145,"female",12.3,833,10.4862211178924,50.8506389843807,"Summer",62002
+6,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,144,"male",12.3,833,10.4862211178924,50.8506389843807,"Summer",62003
+12,-95.17,39.04,NA,1970,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",15.5,117,"male",12.3,896,10.6656628315526,99.2545513765443,"Winter",62004
+8,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41.5,150,"female",12.3,833,10.4862211178924,50.8506389843807,"Summer",62005
+8,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,142,"male",12.3,833,10.4862211178924,50.8506389843807,"Summer",62006
+9,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,155,"male",12.3,833,10.4862211178924,50.8506389843807,"Fall",62007
+9,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,143,"male",12.3,833,10.4862211178924,50.8506389843807,"Fall",62008
+9,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,157,"female",12.3,833,10.4862211178924,50.8506389843807,"Fall",62009
+9,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",27,133,"male",12.3,833,10.4862211178924,50.8506389843807,"Fall",62010
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,152,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62011
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,154,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62012
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,156,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62013
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,155,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62014
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,141,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62015
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,151,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62016
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,138,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62017
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,155,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62018
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,150,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62019
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,151,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62020
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,145,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62021
+8,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,128,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62022
+8,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,147,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62023
+8,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,135,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62024
+8,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,154,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62025
+8,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,136,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62026
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,150,"male",12.2,854,10.4295145010337,51.3982012490378,"Summer",62027
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,133,"male",12.2,854,10.4295145010337,51.3982012490378,"Summer",62028
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,147,"male",12.2,854,10.4295145010337,51.3982012490378,"Summer",62029
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,154,"female",12.2,854,10.4295145010337,51.3982012490378,"Summer",62030
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,150,"female",12.2,854,10.4295145010337,51.3982012490378,"Summer",62031
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,152,"female",12.2,854,10.4295145010337,51.3982012490378,"Summer",62032
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,133,"male",12.2,854,10.4295145010337,51.3982012490378,"Summer",62033
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,NA,"male",12.2,854,10.4295145010337,51.3982012490378,"Fall",62034
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,153,"female",12.2,854,10.4295145010337,51.3982012490378,"Fall",62035
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,138,"male",12.2,854,10.4295145010337,51.3982012490378,"Fall",62036
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,155,"male",12.2,854,10.4295145010337,51.3982012490378,"Fall",62037
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,128,"female",12.2,854,10.4295145010337,51.3982012490378,"Fall",62038
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,152,"female",12.2,854,10.4295145010337,51.3982012490378,"Fall",62039
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,145,"female",12.2,854,10.4295145010337,51.3982012490378,"Fall",62040
+6,-101.68,43.96,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",66.6,178,"female",7.8,591,11.9147826440328,82.6395762789829,"Summer",62041
+6,-101.74,43.96,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",15.1,104,"female",7.8,598,11.9728575612432,81.7627300881795,"Summer",62042
+6,-101.74,43.96,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",46.5,158,"female",7.8,598,11.9728575612432,81.7627300881795,"Summer",62043
+7,-101.66,43.96,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",58.6,150,"female",7.8,587,11.9337914674205,83.1148406145165,"Summer",62044
+6,-101.86,43.89,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",72.3,177,"female",7.9,593,11.8725683315734,79.7541918913648,"Summer",62045
+6,-101.86,43.89,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",48.4,153,"female",7.9,593,11.8725683315734,79.7541918913648,"Summer",62046
+7,-101.86,43.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",54.2,152,"female",7.8,587,11.9412069843222,78.7056833507759,"Summer",62047
+5,-94.68,38.24,NA,1976,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",17,NA,"female",13.2,628,9.19123429571828,75.1822414075327,"Spring",62048
+9,-95.19,39.04,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34.4,138,"female",12.6,866,9.8813721289867,58.6145512714804,"Fall",62049
+2,-95.19,39.04,NA,1975,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40.1,146,"male",12.5,823,10.3178096982692,58.616967770378,"Winter",62050
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",37.6,136,"female",14.5,901,9.61843243071564,72.6128549961266,"Spring",62051
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",24.9,115,"undetermined",14.5,901,9.61843243071564,72.6128549961266,"Spring",62052
+5,-96.57,36.94,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",23.1,155,"male",14.6,904,9.62164542092778,73.047130734428,"Spring",62053
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",16.9,113,"female",14.5,901,9.61843243071564,72.6128549961266,"Spring",62054
+8,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",34,141,"male",14.5,901,9.61843243071564,72.6128549961266,"Summer",62055
+10,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",44.6,157,"male",14.5,901,9.61843243071564,72.6128549961266,"Fall",62056
+10,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",47.6,155,"female",14.5,901,9.61843243071564,72.6128549961266,"Fall",62057
+10,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",13,98,"female",14.5,901,9.61843243071564,72.6128549961266,"Fall",62058
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",19.5,113,"female",14.5,901,9.61843243071564,72.6128549961266,"Spring",62059
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",41.8,141,"male",14.5,901,9.61843243071564,72.6128549961266,"Spring",62060
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",40.1,147,"female",14.5,901,9.61843243071564,72.6128549961266,"Spring",62061
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",20.8,112,"male",14.5,901,9.61843243071564,72.6128549961266,"Spring",62062
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",14.5,92,"male",14.5,901,9.61843243071564,72.6128549961266,"Spring",62063
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",61.5,163,"female",13.7,992,10.0183316823197,63.7400403899528,"Fall",62064
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",52.6,154,"male",13.7,992,10.0183316823197,63.7400403899528,"Fall",62065
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",56.9,154,"female",13.7,992,10.0183316823197,63.7400403899528,"Fall",62066
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45.8,144,"male",13.7,992,10.0183316823197,63.7400403899528,"Fall",62067
+10,-100.44,37.17,NA,1972,"Microtus ochrogaster haydenii","Microtus_ochrogaster",54,149,"male",13.1,628,9.81066210350203,87.8729099657597,"Fall",62068
+3,-95.21,38.99,NA,1970,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29.5,123,"female",12.5,894,10.6323121006703,97.5190512509555,"Spring",62069
+4,-95.3,38.95,NA,1970,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29,131,"male",12.2,890,10.6394740984181,96.8215107580458,"Spring",62070
+8,-108.42,45.16,NA,1970,"Microtus ochrogaster similis","Microtus_ochrogaster",46.6,167,"male",4.5,524,8.60084562438749,78.5055213543409,"Summer",62071
+10,-97.12,39.93,NA,1978,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35.3,142,"male",10.5,806,12.8479305019065,78.9090398295853,"Fall",62072
+10,-97.12,39.93,NA,1978,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43.4,150,"female",10.5,806,12.8479305019065,78.9090398295853,"Fall",62073
+10,-95.17,39.63,NA,1983,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,157,"male",11.7,845,11.7411830233533,65.7383934798327,"Fall",62074
+10,-95.17,39.63,NA,1983,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39.9,NA,"male",11.7,845,11.7411830233533,65.7383934798327,"Fall",62075
+10,-95.19,39.04,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,143,"female",11.1,1257,11.3669476993606,60.8060354801296,"Fall",62076
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42.8,156,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62077
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44.7,152,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62078
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51.6,162,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62079
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40.2,158,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62080
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45.4,171,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62081
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",21.7,110,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62082
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35.5,142,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62083
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",59.1,155,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62084
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",57,172,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62085
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",55.9,151,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62086
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53.8,155,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62087
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46.7,153,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62088
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41.2,133,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62089
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",26.7,122,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62090
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,144,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62091
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",63.4,173,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62092
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",49.8,171,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62093
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38.9,146,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62094
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",25.5,123,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62095
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46.9,153,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62096
+7,-91.99,44.17,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33.1,148,"female",7.6,1060,11.57951430394,83.5125102599169,"Summer",62097
+7,-91.99,44.17,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39.3,149,"male",7.6,1060,11.57951430394,83.5125102599169,"Summer",62098
+7,-91.99,44.17,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,144,"male",7.6,1060,11.57951430394,83.5125102599169,"Summer",62099
+7,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34.4,147,"female",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62100
+7,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",14.2,108,"female",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62101
+7,-91.99,44.17,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",16.4,117,"female",7.6,1060,11.57951430394,83.5125102599169,"Summer",62102
+8,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32.8,141,"male",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62103
+8,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",17.6,121,"female",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62104
+8,-91.99,44.17,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28.6,142,"male",7.6,1060,11.57951430394,83.5125102599169,"Summer",62105
+8,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",19.7,126,"male",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62106
+6,-95.23,39.05,NA,1988,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33.4,142,"female",13.4,568,10.7952114805172,60.5950966078591,"Summer",62107
+5,-95.19,39.04,NA,1988,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40.8,135,"male",13.3,580,10.7903541380365,62.3456031575174,"Spring",62108
+12,-82.44,38.45,NA,1952,"Microtus ochrogaster ohionensis","Microtus_ochrogaster",30.5,140,"male",13.8,1012,8.34347413288138,49.2341034790848,"Winter",62109
+11,-92.59,40.28,NA,1995,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",18,109,"female",10.9,1012,10.7462008790704,77.572402668997,"Fall",62110
+6,-91.8,40.2,NA,1996,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",23.7,128,"male",11.2,784,10.6404139529865,81.666273225241,"Summer",62111
+7,-92.49,39.87,NA,1996,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34.8,138,"female",10.9,873,10.70559185518,82.2367819876745,"Summer",62112
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43.4,154,"male",13.7,992,10.0183316823197,63.7400403899528,"Fall",62113
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,140,"female",11.8,938,10.5024095359401,54.557887488523,"Fall",62114
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,156,"female",11.8,938,10.5024095359401,54.557887488523,"Fall",62115
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,151,"male",11.8,938,10.5024095359401,54.557887488523,"Fall",62116
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,145,"male",11.8,938,10.5024095359401,54.557887488523,"Fall",62117
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,140,"female",11.8,938,10.5024095359401,54.557887488523,"Fall",62118
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,152,"male",11.8,938,10.5024095359401,54.557887488523,"Fall",62119
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",22,123,"female",11.8,938,10.5024095359401,54.557887488523,"Fall",62120
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,147,"male",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62121
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,142,"female",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62122
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,145,"female",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62123
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31,135,"female",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62124
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,148,"male",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62125
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,146,"male",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62126
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,NA,"female",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62127
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,NA,"male",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62128
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,NA,"female",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62129
+4,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,155,"female",12.7,1447,10.0849572947219,71.0498573339556,"Spring",62130
+4,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,148,"male",12.7,1447,10.0849572947219,71.0498573339556,"Spring",62131
+4,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,153,"female",12.7,1447,10.0849572947219,71.0498573339556,"Spring",62132
+4,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,140,"female",12.7,1447,10.0849572947219,71.0498573339556,"Spring",62133
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",26,133,"male",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62134
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",20,112,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62135
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",27,144,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62136
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,146,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62137
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,143,"male",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62138
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,148,"male",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62139
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,143,"male",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62140
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,143,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62141
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31,143,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62142
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,134,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62143
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,142,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62144
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,148,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62145
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51,163,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62146
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,146,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62147
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,157,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62148
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,157,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62149
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,158,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62150
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,158,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62151
+5,-95.2,39.02,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,139,"male",12.4,843,10.4729377083235,50.5210925931415,"Spring",62152
+11,-95.2,39.02,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29,144,"male",12.4,843,10.4729377083235,50.5210925931415,"Fall",62153
+2,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,131,"female",12,933,10.5373326220576,54.1060436524172,"Winter",62154
+2,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,142,"female",12,933,10.5373326220576,54.1060436524172,"Winter",62155
+2,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,153,"male",12,933,10.5373326220576,54.1060436524172,"Winter",62156
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,154,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62157
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,154,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62158
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,158,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62159
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,151,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62160
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,157,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62161
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",55,156,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62162
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",62,162,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62163
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,164,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62164
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,149,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62165
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,152,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62166
+11,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,153,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62167
+12,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,145,"male",12,933,10.5373326220576,54.1060436524172,"Winter",62168
+12,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,148,"female",12,933,10.5373326220576,54.1060436524172,"Winter",62169
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",25,123,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62170
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,144,"female",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62171
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,153,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62172
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,137,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62173
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,143,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62174
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",23,123,"female",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62175
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",25,128,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62176
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,153,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62177
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,142,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62178
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,154,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62179
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,136,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62180
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",23,128,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62181
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,151,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62182
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,156,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62183
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,149,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62184
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,162,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62185
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,143,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62186
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,153,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62187
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,149,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62188
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,144,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62189
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,153,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62190
+10,-95.29,38.96,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,149,"male",12.2,857,10.4078168467336,52.0508196844428,"Fall",62191
+10,-95.29,38.96,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31,142,"male",12.2,857,10.4078168467336,52.0508196844428,"Fall",62192
+10,-95.29,38.96,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,157,"female",12.2,857,10.4078168467336,52.0508196844428,"Fall",62193
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,151,"female",11.8,938,10.5024095359401,54.557887488523,"Summer",62194
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,162,"male",11.8,938,10.5024095359401,54.557887488523,"Summer",62195
+11,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,167,"female",12.4,830,10.481484396378,50.4749520815972,"Fall",62196
+11,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,162,"female",12.4,830,10.481484396378,50.4749520815972,"Fall",62197
+11,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",59,167,"female",12.4,830,10.481484396378,50.4749520815972,"Fall",62198
+11,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,147,"male",12.4,830,10.481484396378,50.4749520815972,"Fall",62199
+1,-95.17,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,146,"female",11.8,924,10.5459564274511,54.5579267233566,"Winter",62200
+1,-95.17,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,142,"male",11.8,924,10.5459564274511,54.5579267233566,"Winter",62201
+1,-95.17,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,149,"female",11.8,924,10.5459564274511,54.5579267233566,"Winter",62202
+10,-95.2,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,150,"male",12.2,834,10.509342885204,50.3887533612972,"Fall",62203
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,150,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62204
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,154,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62205
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,145,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62206
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,134,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62207
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,136,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62208
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,137,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62209
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51,154,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62210
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",56,154,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62211
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53,168,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62212
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",60,167,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62213
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,157,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62214
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29,129,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62215
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,158,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62216
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",62,NA,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62217
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,150,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62218
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,147,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62219
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,146,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62220
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,155,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62221
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,165,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62222
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,153,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62223
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,156,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62224
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,164,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62225
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,154,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62226
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,157,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62227
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,148,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62228
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,150,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62229
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,162,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62230
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",18,119,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62231
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,156,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62232
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,170,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62233
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",22,127,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62234
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,148,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62235
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,150,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62236
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,147,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62237
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,133,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62238
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",26,130,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62239
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",24,121,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62240
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,133,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62241
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,148,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62242
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,157,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62243
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,141,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62244
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,144,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62245
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,148,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62246
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,141,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62247
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,165,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62248
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,162,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62249
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31,139,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62250
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,148,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62251
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,135,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62252
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,150,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62253
+11,-95.19,39.04,NA,1996,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",26,131,"female",12.2,1175,10.3515004036159,82.8435637831031,"Fall",62254
+6,-98.36,43.25,NA,1998,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",60.8,170,"female",10.4,779,10.9114167343895,75.7067015013787,"Summer",62255
+12,-97.11,37.4,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,150,"male",14.3,900,9.69665671843402,60.9656728608851,"Winter",62256
+4,-96.96,37.24,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",23.5,128,"female",14.4,824,9.70449364828979,57.7649506044408,"Spring",62257
+2,-96.93,37.24,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51.9,140,"female",14.4,1114,9.81428689578246,73.0564398377004,"Winter",62258
+4,-96.99,37.25,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42.6,141,"female",14.4,815,9.70279559839546,57.7008124960962,"Spring",62259
+5,-96.99,37.25,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41.8,131,"female",14.4,815,9.70279559839546,57.7008124960962,"Spring",62260
+5,-96.99,37.25,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38.2,123,"female",14.4,815,9.70279559839546,57.7008124960962,"Spring",62261
+4,-96.95,37.25,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",62,140,"female",14.4,1114,9.79044060666972,74.1905178749186,"Spring",62262
+4,-96.95,37.25,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",55,138,"female",14.4,1114,9.79044060666972,74.1905178749186,"Spring",62263
+2,-96.93,37.25,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44.3,150,"female",14.3,1119,9.83443239877425,74.0393073391341,"Winter",62264
+3,-96.93,37.25,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,130,"female",14.3,1119,9.83443239877425,74.0393073391341,"Spring",62265
+3,-96.93,37.25,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,130,"female",14.3,1119,9.83443239877425,74.0393073391341,"Spring",62266
+3,-96.92,37.25,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,142,"female",14.3,1117,9.81913715890834,73.5843887244927,"Spring",62267
+11,-97,37.29,NA,1977,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",56.8,153,"female",15,1052,10.2549618441144,85.5372727244449,"Fall",62268
+3,-96.86,37.34,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37.9,132,"female",14.1,828,9.82647937817492,57.4814638961319,"Spring",62269
+3,-96.86,37.34,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",54.3,141,"female",14.1,828,9.82647937817492,57.4814638961319,"Spring",62270
+4,-96.98,37.22,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",27.5,121,"male",14.5,820,9.67284154922242,57.7834935785378,"Spring",62271
+2,-96.98,37.22,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51,145,"female",14.5,820,9.67284154922242,57.7834935785378,"Winter",62272
+2,-96.95,37.22,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45.4,150,"female",14.3,839,9.72769788082494,57.287168883304,"Winter",62273
+5,-96.93,37.22,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43.7,136,"male",14.5,1108,9.76975465713475,72.6774641379867,"Spring",62274
+3,-96.83,37.22,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,145,"male",14.3,836,9.7128156514364,58.739642355026,"Spring",62275
+2,-96.97,37.21,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53.1,136,"female",14.5,824,9.67284154922242,57.6809015290339,"Winter",62276
+2,-96.97,37.21,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41.5,149,"female",14.5,824,9.67284154922242,57.6809015290339,"Winter",62277
+5,-97.1,37.21,NA,1969,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,145,"female",14.3,859,10.0935135186671,61.2483972552386,"Spring",62278
+5,-97.1,37.21,NA,1969,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,130,"male",14.3,859,10.0935135186671,61.2483972552386,"Spring",62279
+5,-96.98,37.23,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30.8,126,"female",14.5,1088,9.74319887113181,74.3592747904786,"Spring",62280
+12,-97.11,37.4,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,123,"female",14.3,900,9.69665671843402,60.9656728608851,"Winter",62281
+4,-101.34,37.56,NA,1969,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",15.2,96,"male",12.8,650,9.86080010890996,85.5875494306053,"Spring",62282
+3,-95.89,38.44,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,131,"male",12.9,1360,10.0832406707488,65.325906411185,"Spring",62283
+2,-95.91,38.46,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",14.4,101,"female",12.9,1364,10.0930068799535,66.0454603461321,"Winter",62284
+11,-97.64,37.47,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,120,"male",14.1,810,9.7403993135743,61.1434461949528,"Fall",62285
+5,-97.2,37.3,NA,1969,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38.4,130,"female",14.1,839,10.1548913426889,61.9775873635008,"Spring",62286
+2,-97.18,37.15,NA,1989,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47.8,150,"female",13.8,930,9.81293209818739,95.9832740662385,"Winter",62287
+4,-94.07,38.35,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37.5,155,"female",13.5,906,9.76873103635299,53.7940929882073,"Spring",62288
+4,-94.07,38.35,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,130,"male",13.5,906,9.76873103635299,53.7940929882073,"Spring",62289
+11,-96.9,37.83,NA,1972,"Microtus ochrogaster haydenii","Microtus_ochrogaster",61.4,149,"female",13.2,754,10.3151660924656,68.4248297799864,"Fall",62290
+11,-96.81,39.28,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,140,"female",12.3,671,10.073679325426,70.4395818689858,"Fall",62291
+11,-96.81,39.28,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",26.1,105,"male",12.3,671,10.073679325426,70.4395818689858,"Fall",62292
+9,-90.72,43.97,NA,1995,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28.4,128,"female",7.6,748,11.8507767294346,61.0254386029124,"Fall",62293
+9,-90.72,43.97,NA,1995,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",17.9,115,"female",7.6,748,11.8507767294346,61.0254386029124,"Fall",62294
+5,-95.22,39.04,NA,2000,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40.5,145,"female",13.4,723,11.0595358552397,77.1404506819249,"Spring",62295
+5,-95.19,39.04,NA,2000,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39.6,146,"female",13.2,729,11.0681360835344,76.5569511924519,"Spring",62296
+4,-95.19,39.04,NA,1999,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36.4,142,"female",13.6,988,9.28718161899736,81.9271578978967,"Spring",62297
+5,-97.2,37.18,NA,1994,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38.7,132,"female",15.1,786,9.39782373260378,85.4850295093918,"Spring",62298
+9,-97.2,37.18,NA,1994,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",61,159,"female",15.1,786,9.39782373260378,85.4850295093918,"Fall",62299
+5,-97.2,37.18,NA,1994,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42.1,148,"male",15.1,786,9.39782373260378,85.4850295093918,"Spring",62300
+6,-97.2,37.17,NA,1994,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34.6,134,"male",15.2,790,9.3719439463397,85.0801397090033,"Summer",62301
+6,-97.2,37.17,NA,1994,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44.5,145,"female",15.2,790,9.3719439463397,85.0801397090033,"Summer",62302
+4,-105.0861111111,36.6497222222,NA,2001,"Microtus ochrogaster","Microtus_ochrogaster",52,166,"male",8.6,422,8.03384413062337,75.4274877988965,"Spring",62305
+4,-105.0861111111,36.6497222222,NA,2001,"Microtus ochrogaster","Microtus_ochrogaster",55,160,"female",8.6,422,8.03384413062337,75.4274877988965,"Spring",62306
+4,-105.0861111111,36.6497222222,NA,2001,"Microtus ochrogaster","Microtus_ochrogaster",32,145,"female",8.6,422,8.03384413062337,75.4274877988965,"Spring",62307
+4,-105.0861111111,36.6497222222,NA,2001,"Microtus ochrogaster","Microtus_ochrogaster",31,144,"female",8.6,422,8.03384413062337,75.4274877988965,"Spring",62308
+3,-95.401039,39.049565,NA,1945,"Microtus ochrogaster","Microtus_ochrogaster",47,142,"male",11.7,1099,9.79852725482949,82.8282505587909,"Spring",62309
+4,-101.570205,40.040721,NA,1963,"Microtus ochrogaster","Microtus_ochrogaster",50,146,"male",11.8,452,11.6043976773698,86.5053763941625,"Spring",62310
+7,-87.098444,40.425674,NA,1969,"Microtus ochrogaster","Microtus_ochrogaster",41,139,"female",10.1,918,10.4279744684743,54.0693109652494,"Summer",62311
+3,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",31.2,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62312
+3,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",19.5,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62313
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",15.5,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62314
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",29,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62315
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",24.3,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62316
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",23,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62317
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",25.5,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62318
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",15.6,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62319
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",19.4,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62320
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",26,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62321
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",21.2,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62322
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",21,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62323
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",21.5,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62324
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",20.7,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62325
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",28.6,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62326
+10,-105.208529,40.00775,NA,1998,"Microtus ochrogaster haydenii","Microtus_ochrogaster",43.9,149,"female",10.3,435,8.82923432625269,64.7822158316258,"Fall",62327
+8,-104.886723,38.994773,NA,1999,"Microtus ochrogaster haydenii","Microtus_ochrogaster",47.4,161,"female",8.3,545,6.7908304932371,97.345726168732,"Summer",62328
+6,-104.886723,38.994773,NA,2000,"Microtus ochrogaster haydenii","Microtus_ochrogaster",38.1,161,"female",8.2,515,8.41086508720426,69.0112541696864,"Summer",62329
+8,-105.2287,39.7603,NA,2008,"Microtus ochrogaster","Microtus_ochrogaster",50.4,165,"female",9.7,384,8.64694726303433,78.8848069396594,"Summer",62330
+4,-104.9877597,39.6477653,NA,1986,"Microtus ochrogaster haydenii","Microtus_ochrogaster",42.4,150,"male",11.3,370,7.73462796112196,61.5476681912732,"Spring",62331
+10,-104.89,39.8105555556,NA,1991,"Microtus ochrogaster haydenii","Microtus_ochrogaster",39.2,148,"female",10.8,464,8.64759118676024,75.9216759626352,"Fall",62332
+8,-104.85,39.7833333333,NA,1997,"Microtus ochrogaster haydenii","Microtus_ochrogaster",40.7,148,"female",9.5,594,9.26953302082917,77.3946469312895,"Summer",62333
+10,-105.1041666667,39.8405555556,NA,1999,"Microtus ochrogaster haydenii","Microtus_ochrogaster",22.1,118,"female",10.8,436,7.349762931654,80.7627672948765,"Fall",62334
+10,-105.1041666667,39.8405555556,NA,1999,"Microtus ochrogaster haydenii","Microtus_ochrogaster",25.4,115,"male",10.8,436,7.349762931654,80.7627672948765,"Fall",62335
+7,-105.1041666667,39.8405555556,NA,1999,"Microtus ochrogaster haydenii","Microtus_ochrogaster",37.1,155,"female",10.8,436,7.349762931654,80.7627672948765,"Summer",62336
+3,-96.33843,38.49608,NA,1965,"Microtus ochrogaster","Microtus_ochrogaster",38.6,135,"male",13,1085,10.0168456596724,87.8884231648095,"Spring",62337
+10,-96.21705,38.47061,NA,1966,"Microtus ochrogaster","Microtus_ochrogaster",51,151,"male",12.6,497,10.1761753844234,72.2855055667988,"Fall",62338
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53,157,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",62339
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,152,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62340
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,155,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62341
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,141,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62342
+6,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,142,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62343
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,150,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",62344
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,146,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",62345
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,155,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62346
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53,168,"female",12.4,830,10.481484396378,50.4749520815972,"Summer",62347
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",49,158,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62348
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,139,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62349
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29,142,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62350
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,152,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62351
+8,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,157,"male",12.4,830,10.481484396378,50.4749520815972,"Summer",62352
+6,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,153,"female",12.3,833,10.4862211178924,50.8506389843807,"Summer",62353
+6,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,155,"male",12.3,833,10.4862211178924,50.8506389843807,"Summer",62354
+6,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",55,157,"female",12.3,833,10.4862211178924,50.8506389843807,"Summer",62355
+6,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",59,149,"female",12.3,833,10.4862211178924,50.8506389843807,"Summer",62356
+6,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",11,96,"male",12.3,833,10.4862211178924,50.8506389843807,"Summer",62357
+11,-95.17,39.04,NA,1970,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31.4,138,"male",12.3,896,10.6656628315526,99.2545513765443,"Fall",62358
+12,-95.17,39.04,NA,1970,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30.4,134,"male",12.3,896,10.6656628315526,99.2545513765443,"Winter",62359
+12,-95.17,39.04,NA,1970,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29.8,146,"male",12.3,896,10.6656628315526,99.2545513765443,"Winter",62360
+8,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,153,"male",12.3,833,10.4862211178924,50.8506389843807,"Summer",62361
+8,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,156,"female",12.3,833,10.4862211178924,50.8506389843807,"Summer",62362
+8,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,149,"male",12.3,833,10.4862211178924,50.8506389843807,"Summer",62363
+8,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,149,"male",12.3,833,10.4862211178924,50.8506389843807,"Summer",62364
+8,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,127,"female",12.3,833,10.4862211178924,50.8506389843807,"Summer",62365
+9,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",22,137,"female",12.3,833,10.4862211178924,50.8506389843807,"Fall",62366
+9,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,158,"female",12.3,833,10.4862211178924,50.8506389843807,"Fall",62367
+9,-95.17,39.04,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,146,"male",12.3,833,10.4862211178924,50.8506389843807,"Fall",62368
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,163,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62369
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,146,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62370
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,144,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62371
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29,145,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62372
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,151,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62373
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,NA,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62374
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,153,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62375
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,149,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62376
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,146,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62377
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,150,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62378
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,146,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62379
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,145,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62380
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,155,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62381
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,135,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62382
+7,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,150,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62383
+8,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,134,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62384
+8,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,131,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62385
+8,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,145,"female",12.2,853,10.4157078346587,51.6384746312062,"Summer",62386
+8,-95.3,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,152,"male",12.2,853,10.4157078346587,51.6384746312062,"Summer",62387
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,146,"male",12.2,854,10.4295145010337,51.3982012490378,"Summer",62388
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,151,"male",12.2,854,10.4295145010337,51.3982012490378,"Summer",62389
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,152,"female",12.2,854,10.4295145010337,51.3982012490378,"Summer",62390
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31,138,"female",12.2,854,10.4295145010337,51.3982012490378,"Summer",62391
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",26,128,"male",12.2,854,10.4295145010337,51.3982012490378,"Summer",62392
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,136,"female",12.2,854,10.4295145010337,51.3982012490378,"Summer",62393
+7,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31,131,"male",12.2,854,10.4295145010337,51.3982012490378,"Summer",62394
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,147,"female",12.2,854,10.4295145010337,51.3982012490378,"Fall",62395
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,149,"male",12.2,854,10.4295145010337,51.3982012490378,"Fall",62396
+9,-95.29,38.97,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,167,"male",12.2,854,10.4295145010337,51.3982012490378,"Fall",62397
+6,-101.68,43.96,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",53.3,159,"male",7.8,591,11.9147826440328,82.6395762789829,"Summer",62398
+6,-101.68,43.96,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",46.1,159,"male",7.8,591,11.9147826440328,82.6395762789829,"Summer",62399
+6,-101.74,43.96,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",56,172,"male",7.8,598,11.9728575612432,81.7627300881795,"Summer",62400
+6,-101.66,43.96,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",46.8,151,"female",7.8,587,11.9337914674205,83.1148406145165,"Summer",62401
+6,-101.86,43.89,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",15.8,105,"male",7.9,593,11.8725683315734,79.7541918913648,"Summer",62402
+7,-101.85,43.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",50.4,160,"female",7.8,586,11.9312773326195,79.2971955575654,"Summer",62403
+7,-101.85,43.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",55.4,161,"male",7.8,586,11.9312773326195,79.2971955575654,"Summer",62404
+6,-101.67,43.96,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",26.2,130,"male",7.8,589,11.9229343551142,82.4826593414245,"Summer",62405
+8,-95.29,37.81,NA,1976,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,145,"female",13.2,732,8.98842268833873,75.3163279250547,"Summer",62406
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",15.7,116,"male",14.5,901,9.61843243071564,72.6128549961266,"Spring",62407
+8,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",36.1,158,"male",14.5,901,9.61843243071564,72.6128549961266,"Summer",62408
+8,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",43.6,139,"male",14.5,901,9.61843243071564,72.6128549961266,"Summer",62409
+10,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",47.7,157,"female",14.5,901,9.61843243071564,72.6128549961266,"Fall",62410
+10,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",24,125,"female",14.5,901,9.61843243071564,72.6128549961266,"Fall",62411
+10,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",14.5,105,"male",14.5,901,9.61843243071564,72.6128549961266,"Fall",62412
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",45.7,156,"female",14.5,901,9.61843243071564,72.6128549961266,"Spring",62413
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",38.4,137,"female",14.5,901,9.61843243071564,72.6128549961266,"Spring",62414
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",27.9,120,"male",14.5,901,9.61843243071564,72.6128549961266,"Spring",62415
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",38.9,134,"male",14.5,901,9.61843243071564,72.6128549961266,"Spring",62416
+5,-96.57,36.95,NA,1971,"Microtus ochrogaster haydenii","Microtus_ochrogaster",38.1,144,"male",14.5,901,9.61843243071564,72.6128549961266,"Spring",62417
+8,-95.19,39.04,NA,1976,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,NA,"female",12.4,549,9.8469653839509,79.1264871807091,"Summer",62418
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53.5,159,"female",13.7,992,10.0183316823197,63.7400403899528,"Fall",62419
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,146,"male",13.7,992,10.0183316823197,63.7400403899528,"Fall",62420
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",52,151,"female",13.7,992,10.0183316823197,63.7400403899528,"Fall",62421
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48.6,147,"female",13.7,992,10.0183316823197,63.7400403899528,"Fall",62422
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",60,160,"female",13.7,992,10.0183316823197,63.7400403899528,"Fall",62423
+10,-97.12,39.93,NA,1978,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",55.5,141,"female",10.5,806,12.8479305019065,78.9090398295853,"Fall",62424
+10,-97.12,39.93,NA,1978,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35.5,121,"male",10.5,806,12.8479305019065,78.9090398295853,"Fall",62425
+3,-95.23,39.03,NA,1945,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,138,"female",12.1,1111,9.75605484100033,82.9491598414412,"Spring",62426
+10,-95.17,39.63,NA,1983,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,134,"female",11.7,845,11.7411830233533,65.7383934798327,"Fall",62427
+10,-95.17,39.63,NA,1983,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,131,"female",11.7,845,11.7411830233533,65.7383934798327,"Fall",62428
+10,-95.17,39.63,NA,1983,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46.7,NA,"female",11.7,845,11.7411830233533,65.7383934798327,"Fall",62429
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",24.6,129,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62430
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32.7,145,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62431
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40.4,156,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62432
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",52,168,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62433
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",55.1,173,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62434
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37.2,133,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62435
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41.7,150,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62436
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",62.8,156,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62437
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",49.4,151,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62438
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50.5,151,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62439
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46.3,155,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62440
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38.1,137,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62441
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33.5,136,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62442
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47.1,NA,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62443
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46.7,152,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62444
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35.6,140,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62445
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",22.7,119,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62446
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45.5,144,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62447
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43.7,158,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62448
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37.4,139,"male",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62449
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51.5,152,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62450
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,128,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62451
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",22.2,145,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62452
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37.6,146,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62453
+10,-96.53,38.69,NA,1985,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",49.5,169,"female",11.1,1031,11.2601873066934,61.0477700464274,"Fall",62454
+7,-105.39,41.88,NA,1973,"Microtus ochrogaster similis","Microtus_ochrogaster",38.6,150,"male",5.4,479,9.24601470249685,76.6034623362091,"Summer",62455
+10,-93.61,42.03,NA,1969,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46.5,148,"female",8.5,926,11.7331568512898,80.5150562389468,"Fall",62456
+7,-91.99,44.17,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33.9,148,"female",7.6,1060,11.57951430394,83.5125102599169,"Summer",62457
+7,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",18.5,115,"male",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62458
+7,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30.7,134,"male",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62459
+7,-91.99,44.17,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29.8,139,"male",7.6,1060,11.57951430394,83.5125102599169,"Summer",62460
+7,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29.8,138,"male",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62461
+7,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29.6,135,"female",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62462
+7,-91.99,44.17,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",25,139,"female",7.6,1060,11.57951430394,83.5125102599169,"Summer",62463
+8,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",23.3,132,"male",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62464
+8,-91.96,44.15,NA,1986,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32.1,156,"male",7.3,1057,11.6138631893879,82.5246357143369,"Summer",62465
+5,-95.24,38.98,NA,1988,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",24.6,129,"female",13.5,591,10.7450164628947,60.7419513668714,"Spring",62466
+9,-82.5,38.56,NA,1951,"Microtus ochrogaster ohionensis","Microtus_ochrogaster",29.4,142,"male",12.9,1171,8.63872097014367,35.2870512451151,"Fall",62467
+12,-82.44,38.45,NA,1952,"Microtus ochrogaster ohionensis","Microtus_ochrogaster",28.5,140,"male",13.8,1012,8.34347413288138,49.2341034790848,"Winter",62468
+7,-91.8,40.2,NA,1996,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",21.5,130,"male",11.2,784,10.6404139529865,81.666273225241,"Summer",62469
+7,-91.8,40.2,NA,1996,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",24.7,135,"male",11.2,784,10.6404139529865,81.666273225241,"Summer",62470
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",10.4,90,"male",13.7,992,10.0183316823197,63.7400403899528,"Fall",62471
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",7.8,90,"male",13.7,992,10.0183316823197,63.7400403899528,"Fall",62472
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31.4,124,"female",13.7,992,10.0183316823197,63.7400403899528,"Fall",62473
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43.2,153,"male",13.7,992,10.0183316823197,63.7400403899528,"Fall",62474
+10,-95.13,37.5,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",25.1,147,"male",13.7,992,10.0183316823197,63.7400403899528,"Fall",62475
+10,-95.19,39.04,NA,1996,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,133,"female",12.2,1175,10.3515004036159,82.8435637831031,"Fall",62476
+10,-95.19,39.04,NA,1996,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33.9,140,"male",12.2,1175,10.3515004036159,82.8435637831031,"Fall",62477
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,148,"female",11.8,938,10.5024095359401,54.557887488523,"Fall",62478
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,145,"female",11.8,938,10.5024095359401,54.557887488523,"Fall",62479
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,136,"male",11.8,938,10.5024095359401,54.557887488523,"Fall",62480
+11,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,144,"female",11.8,938,10.5024095359401,54.557887488523,"Fall",62481
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,147,"male",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62482
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,154,"male",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62483
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,151,"male",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62484
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,160,"female",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62485
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31,139,"male",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62486
+1,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,NA,"male",12.7,1447,10.0849572947219,71.0498573339556,"Winter",62487
+4,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53,158,"female",12.7,1447,10.0849572947219,71.0498573339556,"Spring",62488
+4,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,151,"male",12.7,1447,10.0849572947219,71.0498573339556,"Spring",62489
+4,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,144,"female",12.7,1447,10.0849572947219,71.0498573339556,"Spring",62490
+4,-95.29,38.97,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,146,"male",12.7,1447,10.0849572947219,71.0498573339556,"Spring",62491
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,158,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62492
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,146,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62493
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",27,138,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62494
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,144,"male",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62495
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",18,115,"female",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62496
+2,-95.3,38.98,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",34,148,"male",12.7,1451,10.0734085892542,70.9005524406973,"Winter",62497
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,146,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62498
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,150,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62499
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,143,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62500
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51,154,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62501
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,143,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62502
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,157,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62503
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,159,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62504
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,146,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62505
+10,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51,164,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62506
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,153,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62507
+11,-95.2,39.02,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",26,130,"male",12.4,843,10.4729377083235,50.5210925931415,"Fall",62508
+11,-95.2,39.02,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,156,"female",12.4,843,10.4729377083235,50.5210925931415,"Fall",62509
+2,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,156,"male",12,933,10.5373326220576,54.1060436524172,"Winter",62510
+2,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,152,"male",12,933,10.5373326220576,54.1060436524172,"Winter",62511
+2,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,142,"male",12,933,10.5373326220576,54.1060436524172,"Winter",62512
+2,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,136,"female",12,933,10.5373326220576,54.1060436524172,"Winter",62513
+2,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,146,"female",12,933,10.5373326220576,54.1060436524172,"Winter",62514
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,151,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62515
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",64,167,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62516
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,162,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62517
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",55,170,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62518
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,153,"female",12,933,10.5373326220576,54.1060436524172,"Fall",62519
+9,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,150,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62520
+11,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",24,128,"male",12,933,10.5373326220576,54.1060436524172,"Fall",62521
+12,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",20,133,"female",12,933,10.5373326220576,54.1060436524172,"Winter",62522
+12,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",25,136,"female",12,933,10.5373326220576,54.1060436524172,"Winter",62523
+12,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,164,"male",12,933,10.5373326220576,54.1060436524172,"Winter",62524
+12,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,162,"male",12,933,10.5373326220576,54.1060436524172,"Winter",62525
+12,-95.2,39.02,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,148,"male",12,933,10.5373326220576,54.1060436524172,"Winter",62526
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",25,122,"female",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62527
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,144,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62528
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",26,127,"male",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62529
+1,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,129,"female",12.9,1471,10.0908899808719,70.6593264506533,"Winter",62530
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,146,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62531
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,NA,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62532
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,NA,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62533
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,154,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62534
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,146,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62535
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35,145,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62536
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,151,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62537
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",56,161,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62538
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,142,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62539
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,155,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62540
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,155,"female",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62541
+3,-95.2,39.02,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,172,"male",12.9,1471,10.0908899808719,70.6593264506533,"Spring",62542
+9,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,138,"female",12.4,830,10.481484396378,50.4749520815972,"Fall",62543
+10,-95.29,38.96,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,154,"female",12.2,857,10.4078168467336,52.0508196844428,"Fall",62544
+10,-95.29,38.96,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,160,"female",12.2,857,10.4078168467336,52.0508196844428,"Fall",62545
+10,-95.29,38.96,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",56,171,"male",12.2,857,10.4078168467336,52.0508196844428,"Fall",62546
+10,-95.29,38.96,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",49,162,"male",12.2,857,10.4078168467336,52.0508196844428,"Fall",62547
+10,-95.29,38.96,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,154,"male",12.2,857,10.4078168467336,52.0508196844428,"Fall",62548
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,153,"female",11.8,938,10.5024095359401,54.557887488523,"Summer",62549
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,146,"male",11.8,938,10.5024095359401,54.557887488523,"Summer",62550
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",52,162,"male",11.8,938,10.5024095359401,54.557887488523,"Summer",62551
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,158,"male",11.8,938,10.5024095359401,54.557887488523,"Summer",62552
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,159,"male",11.8,938,10.5024095359401,54.557887488523,"Summer",62553
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,155,"female",11.8,938,10.5024095359401,54.557887488523,"Summer",62554
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53,166,"male",11.8,938,10.5024095359401,54.557887488523,"Summer",62555
+8,-95.29,38.97,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,151,"male",11.8,938,10.5024095359401,54.557887488523,"Summer",62556
+11,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,162,"male",12.4,830,10.481484396378,50.4749520815972,"Fall",62557
+11,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,155,"female",12.4,830,10.481484396378,50.4749520815972,"Fall",62558
+11,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45,163,"female",12.4,830,10.481484396378,50.4749520815972,"Fall",62559
+11,-95.17,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,140,"male",12.4,830,10.481484396378,50.4749520815972,"Fall",62560
+1,-95.17,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,157,"male",11.8,924,10.5459564274511,54.5579267233566,"Winter",62561
+1,-95.17,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,156,"male",11.8,924,10.5459564274511,54.5579267233566,"Winter",62562
+1,-95.17,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,148,"male",11.8,924,10.5459564274511,54.5579267233566,"Winter",62563
+1,-95.17,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",28,124,"male",11.8,924,10.5459564274511,54.5579267233566,"Winter",62564
+10,-95.2,39.05,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,160,"female",12.2,834,10.509342885204,50.3887533612972,"Fall",62565
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",56,157,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62566
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51,154,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62567
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,148,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62568
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,147,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62569
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",51,148,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62570
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",59,152,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62571
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",49,154,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62572
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,160,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62573
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47,167,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62574
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",29,138,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62575
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31,141,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62576
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46,166,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62577
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,171,"female",11.7,934,10.5599120462361,54.3461725503997,"Fall",62578
+10,-95.2,39.05,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",27,139,"male",11.7,934,10.5599120462361,54.3461725503997,"Fall",62579
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,160,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62580
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,154,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62581
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,152,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62582
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33,142,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62583
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",30,146,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62584
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,160,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62585
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,154,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62586
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,158,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62587
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,157,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62588
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,151,"female",11.8,931,10.5531662633457,54.1311067149428,"Winter",62589
+12,-95.19,39.04,NA,1972,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,162,"male",11.8,931,10.5531662633457,54.1311067149428,"Winter",62590
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",49,148,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62591
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,146,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62592
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",55,152,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62593
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,145,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62594
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42,134,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62595
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39,134,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62596
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,137,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62597
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37,149,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62598
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43,158,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62599
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32,145,"male",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62600
+2,-95.19,39.04,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38,148,"female",12.7,1478,10.0793518310124,70.7502038210949,"Winter",62601
+11,-95.19,39.04,NA,1996,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",27,123,"male",12.2,1175,10.3515004036159,82.8435637831031,"Fall",62602
+5,-95.22,39.04,NA,1998,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",53.2,146,"female",14.1,1230,9.7559733062117,70.1101214353801,"Spring",62603
+6,-98.36,43.25,NA,1998,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",9.7,91,"male",10.4,779,10.9114167343895,75.7067015013787,"Summer",62604
+6,-98.36,43.25,NA,1998,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42.9,159,"male",10.4,779,10.9114167343895,75.7067015013787,"Summer",62605
+11,-97.11,37.4,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44,120,"male",14.3,900,9.69665671843402,60.9656728608851,"Fall",62606
+12,-97.1,37.4,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",47.5,150,"male",14.3,903,9.69665671843402,60.8315285988338,"Winter",62607
+12,-96.99,37.24,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",57,160,"male",14.7,1003,9.59818480313603,61.653333519352,"Winter",62608
+3,-96.93,37.24,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41.8,143,"male",14.3,836,9.74357208469753,56.9390783572983,"Spring",62609
+12,-96.99,37.24,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",25.3,98,"male",14.7,1003,9.59818480313603,61.653333519352,"Winter",62611
+4,-96.97,37.24,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",33.3,115,"male",14.7,1011,9.59000031598571,61.4655644052197,"Spring",62612
+3,-96.93,37.24,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31.9,125,"female",14.3,836,9.74357208469753,56.9390783572983,"Spring",62613
+2,-96.93,37.24,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39.7,132,"female",14.4,1114,9.81428689578246,73.0564398377004,"Winter",62614
+4,-96.99,37.25,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",58.3,156,"female",14.4,815,9.70279559839546,57.7008124960962,"Spring",62615
+5,-96.99,37.25,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37.2,142,"female",14.4,815,9.70279559839546,57.7008124960962,"Spring",62616
+5,-96.99,37.25,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",35.4,135,"male",14.4,815,9.70279559839546,57.7008124960962,"Spring",62617
+3,-96.93,37.25,"JUVENILE",1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",4.7,NA,"undetermined",14.3,1119,9.83443239877425,74.0393073391341,"Spring",62618
+3,-96.92,37.25,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",19.8,102,"male",14.3,1117,9.81913715890834,73.5843887244927,"Spring",62619
+2,-96.84,37.25,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41,130,"female",14.4,1107,9.81918345059118,71.9593883546281,"Winter",62620
+4,-96.93,37.26,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39.8,130,"female",14.3,1117,9.84445698519392,73.728220510944,"Spring",62621
+10,-96.99,37.28,NA,1968,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",58.7,165,"male",14.2,931,9.60329804459558,71.6208545449629,"Fall",62622
+3,-97.01,37.28,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",31.6,144,"female",14.3,804,9.74607924275504,57.6408276787592,"Spring",62623
+5,-96.9,37.28,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",14,90,"male",14.3,1120,9.87732327867804,73.5164178271749,"Spring",62624
+5,-96.9,37.28,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",11,85,"female",14.3,1120,9.87732327867804,73.5164178271749,"Spring",62625
+11,-97,37.29,NA,1977,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",49.1,152,"male",15,1052,10.2549618441144,85.5372727244449,"Fall",62626
+4,-96.86,37.34,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",26.2,114,"male",14.1,828,9.82647937817492,57.4814638961319,"Spring",62627
+3,-96.86,37.34,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",36,132,"male",14.1,828,9.82647937817492,57.4814638961319,"Spring",62628
+3,-96.86,37.34,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43.7,149,"female",14.1,828,9.82647937817492,57.4814638961319,"Spring",62629
+3,-96.86,37.34,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44.6,136,"female",14.1,828,9.82647937817492,57.4814638961319,"Spring",62630
+2,-96.9,37.37,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41.9,149,"male",14,828,9.83121189237254,56.6786107256359,"Winter",62631
+2,-96.9,37.37,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",38.6,132,"male",14,828,9.83121189237254,56.6786107256359,"Winter",62632
+11,-97,37.22,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40,148,"female",14.7,1005,9.59818480313603,61.885889674737,"Fall",62633
+3,-96.93,37.22,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",48,150,"female",14.5,1108,9.76975465713475,72.6774641379867,"Spring",62634
+3,-96.93,37.22,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32.2,142,"male",14.4,836,9.70159312128215,57.2212870252552,"Spring",62635
+4,-96.92,37.22,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",42.7,140,"female",14.5,1109,9.76975465713475,72.4408591445316,"Spring",62636
+3,-96.83,37.22,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",40.1,164,"female",14.3,836,9.7128156514364,58.739642355026,"Spring",62637
+2,-96.97,37.21,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",41.4,123,"male",14.5,824,9.67284154922242,57.6809015290339,"Winter",62638
+2,-96.97,37.21,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43.3,134,"male",14.5,824,9.67284154922242,57.6809015290339,"Winter",62639
+4,-96.93,37.2,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",45.1,131,"female",14.5,1102,9.76035192485239,71.9275511240461,"Spring",62640
+9,-97.13,37.19,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",50,146,"female",14.8,944,9.68558754338662,62.7588550739637,"Fall",62641
+5,-96.93,37.16,NA,1969,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",46.1,134,"male",14.2,911,10.0834998734055,63.1412510014362,"Spring",62642
+4,-96.98,37.23,NA,1971,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",57.7,153,"female",14.5,817,9.70018743961354,57.7516068495796,"Spring",62643
+5,-96.98,37.23,NA,1973,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",32.8,138,"male",14.5,1088,9.74319887113181,74.3592747904786,"Spring",62644
+5,-97.08,37.23,NA,1969,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",43.2,140,"female",14.2,861,10.0874471948601,60.9894549646385,"Spring",62645
+2,-97.18,37.15,NA,1969,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",39.6,138,"female",14.5,864,10.0802349359346,60.7141471253753,"Winter",62646
+10,-97.24,37.82,NA,1974,"Microtus ochrogaster haydenii","Microtus_ochrogaster",49,140,"male",13.4,799,9.84825395999748,66.3287268082239,"Fall",62647
+11,-96.81,39.28,NA,1974,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",37.8,140,"female",12.3,671,10.073679325426,70.4395818689858,"Fall",62648
+6,-97.2,37.18,NA,1994,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",44.4,128,"female",15.1,786,9.39782373260378,85.4850295093918,"Summer",62650
+5,-97.2,37.17,NA,1994,"Microtus ochrogaster ochrogaster","Microtus_ochrogaster",18.5,103,"female",15.2,790,9.3719439463397,85.0801397090033,"Spring",62651
+4,-105.0861111111,36.6497222222,NA,2001,"Microtus ochrogaster","Microtus_ochrogaster",47.5,157,"female",8.6,422,8.03384413062337,75.4274877988965,"Spring",62653
+4,-105.0861111111,36.6497222222,NA,2001,"Microtus ochrogaster","Microtus_ochrogaster",55,152,"female",8.6,422,8.03384413062337,75.4274877988965,"Spring",62654
+4,-105.0861111111,36.6497222222,NA,2001,"Microtus ochrogaster","Microtus_ochrogaster",55,161,"male",8.6,422,8.03384413062337,75.4274877988965,"Spring",62655
+4,-105.0861111111,36.6497222222,NA,2001,"Microtus ochrogaster","Microtus_ochrogaster",38,141,"male",8.6,422,8.03384413062337,75.4274877988965,"Spring",62656
+3,-100.10416,39.379216,NA,1963,"Microtus ochrogaster","Microtus_ochrogaster",38.8,131,"female",13,475,11.6625533874513,101.377958627131,"Spring",62657
+4,-101.570205,40.040721,NA,1963,"Microtus ochrogaster","Microtus_ochrogaster",29.4,119,"male",11.8,452,11.6043976773698,86.5053763941625,"Spring",62658
+4,-102.006883,39.975143,NA,1963,"Microtus ochrogaster","Microtus_ochrogaster",37,143,"female",11.5,421,11.1448690463642,88.1304480940702,"Spring",62659
+10,-96.58056,39.19167,NA,1955,"Microtus ochrogaster","Microtus_ochrogaster",43.5,145,"female",12.5,633,11.6096452846917,68.1560270388323,"Fall",62660
+6,-89.164819,37.76822,NA,1962,"Microtus ochrogaster","Microtus_ochrogaster",28,130,"male",13.5,991,9.88906267580809,35.0192860090477,"Summer",62661
+12,-80.766414,40.657755,NA,1964,"Microtus ochrogaster","Microtus_ochrogaster",25,112,"male",9.9,984,9.19045535852113,51.2933687759446,"Winter",62662
+10,-87.11056,37.829331,NA,1967,"Microtus ochrogaster","Microtus_ochrogaster",40.2,142,"female",13.1,1170,8.26421181781402,41.2430138725807,"Fall",62663
+4,-93.5833333,45.3,"adult",1926,"Microtus ochrogaster minor","Microtus_ochrogaster",27.4,NA,"female",5.8,761,11.9824745762174,94.1031773336835,"Spring",62664
+3,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",19.3,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62665
+3,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",25.6,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62666
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",27.5,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62667
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",25,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62668
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",19.3,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62669
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",17.3,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62670
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",19.3,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62671
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",19.3,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62672
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",19.5,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62673
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",19.4,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62674
+8,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",19,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Summer",62675
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",16,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62676
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",18.2,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62677
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",15.8,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",62678
+4,-93.5833333,45.3,"adult",1927,"Microtus ochrogaster minor","Microtus_ochrogaster",14.7,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",62679

@@ -1,0 +1,514 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-121.10596,47.471238,NA,1999,"Empidonax difficilis","Empidonax_difficilis",10.7,NA,"female",4.5,1718,5.92162830800632,86.3265506456002,"Summer",29874
+6,-104.789927,39.925507,NA,1989,"Empidonax difficilis","Empidonax_difficilis",9,135,"undetermined",10.2,359,9.54019804762348,75.277535448084,"Summer",29875
+5,-122.1363289,41.8989992,"juvenile",1965,"Empidonax difficilis","Empidonax_difficilis",11.2,NA,"female",7.8,348,6.57757323767434,97.4729763867584,"Spring",29876
+5,-115.288311,33.2580891,NA,1989,"Empidonax difficilis difficilis","Empidonax_difficilis",9.5,NA,"female",23.3,56,7.71886217867202,227.829587248865,"Spring",29877
+5,-118.3758545,33.7719269,NA,1998,"Empidonax difficilis difficilis","Empidonax_difficilis",9,NA,"female",15.2,617,2.8359568958557,181.822398331948,"Spring",29878
+5,-115.089416,33.307532,NA,1989,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"undetermined",23.1,58,7.99971116902847,183.328501687167,"Spring",29879
+6,-118.28825,33.7360463,"ADULT",2002,"Empidonax difficilis difficilis","Empidonax_difficilis",10.6,NA,"female",15.3,193,2.34746801056075,165.300701674631,"Summer",29880
+5,-126.5532116,54.1565763,NA,1933,"Empidonax difficilis difficilis","Empidonax_difficilis",12.23,NA,"male",0.2,618,8.84018030804734,60.3022689155527,"Spring",29881
+5,-126.5532116,54.1565763,NA,1933,"Empidonax difficilis difficilis","Empidonax_difficilis",10.22,NA,"undetermined",0.2,618,8.84018030804734,60.3022689155527,"Spring",29882
+9,-127.9402542,51.5254066,NA,1934,"Empidonax difficilis difficilis","Empidonax_difficilis",11.23,NA,"male",8.5,3413,3.66047686908289,53.860157157734,"Fall",29883
+9,-127.9402542,51.5254066,"immature",1934,"Empidonax difficilis difficilis","Empidonax_difficilis",10.02,NA,"female",8.5,3413,3.66047686908289,53.860157157734,"Fall",29884
+6,-129.286766,52.7375389,NA,1936,"Empidonax difficilis difficilis","Empidonax_difficilis",10,4,"male",7.3,3072,5.53213066521116,44.2569051173733,"Summer",29885
+5,-122.6504869,39.0099636,"imm.sk.",1949,"Empidonax difficilis difficilis","Empidonax_difficilis",11.3,NA,"female",13.7,405,7.23741855033459,178.996199980684,"Spring",29886
+8,-120.281732,35.597748,"imm.",1947,"Empidonax difficilis difficilis","Empidonax_difficilis",9.7,NA,"male",14.6,104,6.07759796051836,93.2076166137476,"Summer",29887
+8,-123.8193291,41.1515112,"imm.",1949,"Empidonax difficilis difficilis","Empidonax_difficilis",11.5,NA,"female",11.1,1784,6.60419403015075,99.056239467751,"Summer",29888
+9,-116.39528,34.05639,"imm.",1950,"Empidonax difficilis difficilis","Empidonax_difficilis",8.9,NA,"female",14.3,82,5.90174601796842,107.145599754757,"Fall",29889
+9,-116.257,34.03749,"imm.",1950,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",15,75,6.33367024622207,105.057559980664,"Fall",29890
+8,-116.3038572,34.0304563,"ad.",1950,"Empidonax difficilis difficilis","Empidonax_difficilis",12,NA,"male",13.9,82,5.9258805764258,102.312243370886,"Summer",29891
+9,-115.8090522,33.7365557,"u imm.",1950,"Empidonax difficilis difficilis","Empidonax_difficilis",9,NA,"male",17,47,6.75875974815893,129.246065528299,"Fall",29892
+9,-115.8090522,33.7365557,"imm.",1950,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",17,47,6.75875974815893,129.246065528299,"Fall",29893
+4,-115.6895421,33.9355317,"u ad.",1960,"Empidonax difficilis difficilis","Empidonax_difficilis",11.4,NA,"male",21,55,8.522519189379,98.6581649365126,"Spring",29894
+4,-115.6895421,33.9355317,"u ad.",1960,"Empidonax difficilis difficilis","Empidonax_difficilis",12.6,NA,"male",21,55,8.522519189379,98.6581649365126,"Spring",29895
+5,-120.64307,37.053124,"ad.",1927,"Empidonax difficilis difficilis","Empidonax_difficilis",12,NA,"male",17.1,251,6.48991642099613,114.604379565449,"Spring",29896
+6,-115.28361,36.63,"ad.sk. 1st.yr.",1963,"Empidonax difficilis difficilis","Empidonax_difficilis",8.8,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",29897
+6,-122.3814,42.7406,"1st.yr.sk.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",10.8,NA,"male",8.4,1608,6.36516918768691,139.88098899444,"Summer",29898
+6,-122.3814,42.7406,"1st.yr.sk.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",8.4,1608,6.36516918768691,139.88098899444,"Summer",29899
+6,-122.4242,42.7317,"1st.yr.sk.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"male",8.8,1497,6.3887448380774,143.954239069041,"Summer",29900
+6,-122.4242,42.7317,"u ad.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",8.8,1497,6.3887448380774,143.954239069041,"Summer",29901
+6,-122.1607774,41.8826619,"first yr.sk.",1964,"Empidonax difficilis difficilis ?","Empidonax_difficilis",11.4,NA,"male",6.9,597,7.17449185192466,154.198921294861,"Summer",29902
+4,-123.04193,38.69335,"ad.sk.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",9.9,NA,"male",14.1,1130,5.29396454522134,141.957051946159,"Spring",29903
+6,-122.36,42.7366,"ad.sk.",1965,"Empidonax difficilis difficilis","Empidonax_difficilis",11.8,NA,"male",9,922,6.04791474206381,98.9814170682783,"Summer",29904
+6,-122.36,42.7366,"1st.yr.sk.",1965,"Empidonax difficilis difficilis","Empidonax_difficilis",11.5,NA,"female",9,922,6.04791474206381,98.9814170682783,"Summer",29905
+6,-122.36,42.7366,"ad.sk.",1965,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",9,922,6.04791474206381,98.9814170682783,"Summer",29906
+6,-122.36,42.7366,"ad.sk.",1965,"Empidonax difficilis difficilis","Empidonax_difficilis",11,NA,"male",9,922,6.04791474206381,98.9814170682783,"Summer",29907
+6,-122.36,42.7366,"1st.yr.sk.",1965,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"male",9,922,6.04791474206381,98.9814170682783,"Summer",29908
+6,-122.36,42.7366,"1st.yr.sk.",1965,"Empidonax difficilis difficilis","Empidonax_difficilis",11,NA,"male",9,922,6.04791474206381,98.9814170682783,"Summer",29909
+5,-123.002005,37.698188,"u ad.",1963,"Empidonax difficilis difficilis","Empidonax_difficilis",11.3,NA,"male",-9999,-9999,0,0,"Spring",29910
+5,-122.1144364,40.8631281,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",13.3,NA,"female",14.9,1935,7.22074032970934,104.288191319238,"Spring",29911
+5,-122.1144364,40.8631281,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"male",14.9,1935,7.22074032970934,104.288191319238,"Spring",29912
+7,-122.1157672,40.8732744,"1st.yr.sk.",1967,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"male",15,1887,8.31761092593008,109.214516382286,"Summer",29913
+5,-122.0391752,40.8587106,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.6,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Spring",29914
+5,-122.0391752,40.8587106,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"female",14.8,1928,7.22606812907688,104.2389469883,"Spring",29915
+6,-122.0391752,40.8587106,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Summer",29916
+6,-122.0359719,41.112231,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.1,NA,"male",11.9,1487,7.07560897903795,106.436083800094,"Summer",29917
+8,-120.6204582,38.0745266,"juv.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",9.1,NA,"female",15,757,6.72175910417396,134.081198260555,"Summer",29918
+5,-119.714089,33.9955568,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",14.7,NA,"female",13.9,464,3.39237112034957,138.692099084374,"Spring",29919
+5,-119.714089,33.9955568,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",11.5,NA,"female",13.9,464,3.39237112034957,138.692099084374,"Spring",29920
+5,-119.714089,33.9955568,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",11.4,NA,"male",13.9,464,3.39237112034957,138.692099084374,"Spring",29921
+5,-119.714089,33.9955568,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",11.7,NA,"female",13.9,464,3.39237112034957,138.692099084374,"Spring",29922
+5,-119.698875,34.0075973,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",11.2,NA,"male",13.9,491,3.35210246100726,140.16229194389,"Spring",29923
+4,-118.467225,33.367194,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",10.7,NA,"male",16.4,259,3.54515247353426,119.98924104539,"Spring",29924
+4,-118.467225,33.367194,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",11.2,NA,"male",16.4,259,3.54515247353426,119.98924104539,"Spring",29925
+4,-118.467225,33.367194,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",10.4,NA,"male",16.4,259,3.54515247353426,119.98924104539,"Spring",29926
+4,-118.427435,33.350233,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",11.6,NA,"male ?",16.3,262,3.75438127896978,119.033246016768,"Spring",29927
+5,-122.1607774,41.8826619,"ad.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",7.8,428,7.01411995818996,75.5292429785616,"Spring",29928
+5,-122.1607774,41.8826619,"first yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",7.8,428,7.01411995818996,75.5292429785616,"Spring",29929
+6,-122.1297294,41.8554989,"first yr.sk.",1968,"Empidonax difficilis difficilis ?","Empidonax_difficilis",10.8,NA,"male",8.1,329,7.08961575229233,70.6312016711112,"Summer",29930
+6,-122.1297294,41.8554989,"first yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",11.3,NA,"female",8.1,329,7.08961575229233,70.6312016711112,"Summer",29931
+6,-122.1297294,41.8554989,"first yr.sk.",1968,"Empidonax difficilis difficilis ?","Empidonax_difficilis",10.9,NA,"male",8.1,329,7.08961575229233,70.6312016711112,"Summer",29932
+5,-122.8245446,39.4433764,"1st.yr.",1980,"Empidonax difficilis difficilis","Empidonax_difficilis",9.7,NA,"female",12.2,1273,5.6001352797513,129.470652174676,"Spring",29933
+5,-122.866367,39.3759636,"1st.yr.",1980,"Empidonax difficilis difficilis","Empidonax_difficilis",10.6,NA,"male",13.1,1169,5.45832697200647,129.517940448317,"Spring",29934
+5,-122.866367,39.3759636,"1st.yr.",1980,"Empidonax difficilis difficilis","Empidonax_difficilis",10.8,NA,"female",13.1,1169,5.45832697200647,129.517940448317,"Spring",29935
+5,-122.866367,39.3759636,"1st.yr.",1980,"Empidonax difficilis difficilis","Empidonax_difficilis",8.5,NA,"male",13.1,1169,5.45832697200647,129.517940448317,"Spring",29936
+5,-122.1177029,40.8679597,"sk.wind. 4x2mm.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",15.6,2550,7.04012310498427,103.205306351336,"Spring",29937
+5,-122.1177029,40.8679597,"large sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"male",15.6,2550,7.04012310498427,103.205306351336,"Spring",29938
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.3,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",29939
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",11.5,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",29940
+5,-122.0391752,40.8587106,"sk.wind. 4x2mm",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",29941
+5,-122.0391752,40.8587106,"large sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",11.4,NA,"female",15.5,2546,7.01576147619837,103.153972873617,"Spring",29942
+5,-122.0391752,40.8587106,"small sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",11.3,NA,"female",15.5,2546,7.01576147619837,103.153972873617,"Spring",29943
+5,-122.1160438,40.8516013,"sk.wind. 3x2mm",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.1,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",29944
+5,-122.1160438,40.8516013,"sk.wind. 3x1mm",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",11.9,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",29945
+5,-122.1160438,40.8516013,"large sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.8,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",29946
+5,-122.1160438,40.8516013,"mod.sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",9.9,NA,"female",15.3,2652,6.98815014322406,102.602093150686,"Spring",29947
+5,-122.1160438,40.8516013,"small sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",29948
+6,-122.157881,41.8844387,"ad.sk.",1981,"Empidonax difficilis difficilis ?","Empidonax_difficilis",13.2,NA,"female",8.7,593,6.56642054607217,111.254603062775,"Summer",29949
+6,-122.157881,41.8844387,"sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.6,NA,"male",8.7,593,6.56642054607217,111.254603062775,"Summer",29950
+6,-122.1297294,41.8554989,"tiny sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",8.8,457,6.59627994333996,103.95348031854,"Summer",29951
+5,-118.415564,33.379945,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10.6,NA,"male",16.4,340,3.55300768875662,117.688645809522,"Spring",29952
+5,-118.415564,33.379945,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10.7,NA,"male",16.4,340,3.55300768875662,117.688645809522,"Spring",29953
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.5,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",29954
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.3,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",29955
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.2,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",29956
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.9,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",29957
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10.5,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",29958
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",12,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",29959
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",29960
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.5,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",29961
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10.4,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",29962
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.2,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",29963
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10.8,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",29964
+5,-122.866367,39.3759636,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",9.5,NA,"male",11.9,1728,6.30351032554421,94.2981302012903,"Spring",29965
+5,-122.866367,39.3759636,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",8.9,NA,"male",11.9,1728,6.30351032554421,94.2981302012903,"Spring",29966
+5,-122.3698,42.7801,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Spring",29967
+5,-122.3698,42.7801,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.8,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Spring",29968
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",29969
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"undetermined",13.8,1038,5.67730062831293,95.6362291553654,"Summer",29970
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.8,NA,"female",13.8,1038,5.67730062831293,95.6362291553654,"Summer",29971
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",29972
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",29973
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"female",13.8,1038,5.67730062831293,95.6362291553654,"Summer",29974
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",11.2,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",29975
+4,-121.5568207,36.37851365,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",13.7,940,4.89913412262975,94.9916629701913,"Spring",29976
+7,-122.3698,42.7801,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",11.3,NA,"female",7.9,1339,6.47510383677125,74.1390088613543,"Summer",29977
+7,-122.3698,42.7801,"1st.yr.sk.",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Summer",29978
+5,-120.6352893,36.3771377,"sm.sk.winds.",1984,"Empidonax difficilis difficilis","Empidonax_difficilis",10.3,NA,"female",13.7,302,7.29063326010391,141.340042457013,"Spring",29979
+7,-120.7560335,42.3569474,"juvenile",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"undetermined",5.2,732,7.36225015010542,58.4924582107647,"Summer",29980
+7,-120.7560335,42.3569474,"juvenile",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"female ?",5.2,732,7.36225015010542,58.4924582107647,"Summer",29981
+8,-122.2513811,37.8636476,"medium to large skull windows",2003,"Empidonax difficilis difficilis","Empidonax_difficilis",9.75,NA,"undetermined",14.6,572,3.2611928473917,113.297267996874,"Summer",29982
+6,-119.83936,37.74886,"ad.",1915,"Empidonax difficilis difficilis","Empidonax_difficilis",12.2,NA,"male",10.4,981,6.15961923262381,117.655754849278,"Summer",29983
+7,-121.419286,36.143417,"juv.",1919,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"male",11,758,6.18626900824918,156.448586803088,"Summer",29984
+7,-121.24134,36.450906,"ad.?",1919,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",13.3,330,4.80611983608273,152.609785183058,"Summer",29985
+7,-121.270888,36.451383,"juv.",1919,"Empidonax difficilis difficilis","Empidonax_difficilis",11.6,NA,"male",13.2,307,4.3959606113988,152.141642715445,"Summer",29986
+8,-132.4255555556,56.5897222222,"imm.",1919,"Empidonax difficilis difficilis","Empidonax_difficilis",12.2,NA,"male",5.4,2071,6.1481889425039,42.5336794471752,"Summer",29987
+7,-120.11166,37.75634,"ad.",1920,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",29988
+7,-124.0586921,40.5379163,"juv.",1923,"Empidonax difficilis difficilis","Empidonax_difficilis",9.4,NA,"female",11.5,697,3.76453747812961,87.7679153537944,"Summer",29989
+10,-115.458333,30.883333,"imm.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",8.9,NA,"male ?",10.6,544,4.245452112127,120.503426548805,"Fall",29990
+10,-115.7333333333,30.9666666667,"imm.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",10.8,NA,"female",16,268,4.08169416697617,123.676529282106,"Fall",29991
+4,-115.7666666667,30.8666666667,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",9.7,NA,"male",16,266,4.03021730371348,124.899293379329,"Spring",29992
+4,-115.7666666667,30.8666666667,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",9.5,NA,"male",16,266,4.03021730371348,124.899293379329,"Spring",29993
+5,-115.458333,30.883333,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",9.2,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",29994
+5,-115.458333,30.883333,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",8.6,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",29995
+5,-115.458333,30.883333,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",10,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",29996
+5,-115.458333,30.883333,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",9.1,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",29997
+5,-115.458333,30.883333,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",9.5,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",29998
+6,-115.442739,31.008554,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",10.8,NA,"female",8,674,4.13110888334604,118.374400142833,"Summer",29999
+6,-115.442739,31.008554,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",9.8,NA,"male",8,674,4.13110888334604,118.374400142833,"Summer",30000
+4,-114.8667,31,"u ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",9,NA,"female",21.3,85,5.24377697558706,168.172831604019,"Spring",30001
+4,-114.8667,31,"u ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",9.6,NA,"female",21.3,85,5.24377697558706,168.172831604019,"Spring",30002
+4,-114.8667,31,"u ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",9.6,NA,"female",21.3,85,5.24377697558706,168.172831604019,"Spring",30003
+5,-115.266667,30.866667,"ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",12,NA,"female",16.1,229,4.85095273366402,118.032658763523,"Spring",30004
+5,-115.266667,30.866667,"ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",30005
+6,-115.526687,31.029931,"ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",12.6,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",30006
+6,-115.526687,31.029931,"u ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",9.9,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",30007
+6,-115.526687,31.029931,"ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",9.5,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",30008
+6,-115.526687,31.029931,"u ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",9.8,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",30009
+6,-115.526687,31.029931,"u ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",9.4,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",30010
+6,-115.14084,32.4169,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Summer",30011
+9,-122.2574231,37.871928,"imm.",1927,"Empidonax difficilis difficilis","Empidonax_difficilis",8,NA,"male",13.5,619,2.57451083909275,102.606471544846,"Fall",30012
+11,-110,23.566667,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",11.5,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",30013
+11,-110,23.566667,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",9.9,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",30014
+12,-110,23.566667,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",30015
+12,-110,23.566667,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10.3,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",30016
+12,-110.036049,23.537556,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",17.6,439,3.51835016432246,141.547739595244,"Winter",30017
+12,-110,23.566667,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",30018
+2,-110.3,24.12311,"ad.",1929,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",22.8,160,4.47933808692419,113.012449126554,"Winter",30019
+12,-110,23.566667,"unknown",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Winter",30020
+7,-109.716873,23.387557,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",10,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",30021
+7,-109.716873,23.387557,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",10.8,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",30022
+7,-109.716873,23.387557,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",11.9,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",30023
+7,-109.716873,23.387557,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",10.2,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",30024
+7,-109.716873,23.387557,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",10.9,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",30025
+7,-109.716873,23.387557,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",10.6,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",30026
+7,-109.716873,23.387557,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",10.1,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",30027
+7,-109.716873,23.387557,"juv.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",12.1,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",30028
+7,-109.716873,23.387557,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",10,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",30029
+4,-111.8125,26.0625,"u ad.",1931,"Empidonax difficilis difficilis","Empidonax_difficilis",12.7,NA,"male",21.1,215,4.20982796740574,93.8923460859446,"Spring",30030
+5,-123.50169,40.43534,"u ad.",1932,"Empidonax difficilis difficilis","Empidonax_difficilis",11.4,NA,"male",10.8,1084,6.87213852296269,103.719277536632,"Spring",30031
+5,-123.3052,40.2337238,"u ad.",1933,"Empidonax difficilis difficilis","Empidonax_difficilis",11.3,NA,"male",10.6,1441,6.87685512161165,127.945322087102,"Spring",30032
+6,-123.7317033,40.8748542,"u ad.",1933,"Empidonax difficilis difficilis","Empidonax_difficilis",9.4,NA,"female",9.5,2671,7.14598849111524,110.780670855594,"Summer",30033
+6,-110.9258,32.2942,"u ad.",1936,"Empidonax difficilis difficilis","Empidonax_difficilis",11,NA,"female",20,317,7.60471843162141,83.2291116072534,"Summer",30034
+5,-115.5697,33.1714,"u ad.",1937,"Empidonax difficilis difficilis","Empidonax_difficilis",11,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",30035
+5,-115.5697,33.1714,"u ad.",1937,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"female",22.5,40,8.84871159941926,110.656667034498,"Spring",30036
+5,-115.5697,33.1714,"u ad.",1937,"Empidonax difficilis difficilis","Empidonax_difficilis",11,NA,"female",22.5,40,8.84871159941926,110.656667034498,"Spring",30037
+5,-115.4207,35.1716,"ad.",1938,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",30038
+5,-115.4207,35.1716,"ad.",1938,"Empidonax difficilis difficilis","Empidonax_difficilis",11.7,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",30039
+5,-115.4207,35.1716,"u ad.",1938,"Empidonax difficilis difficilis","Empidonax_difficilis",11.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",30040
+5,-115.5768055,35.5406156,"u ad.",1939,"Empidonax difficilis difficilis","Empidonax_difficilis",12,NA,"male",9.9,379,7.65933773543474,101.939884813746,"Spring",30041
+5,-115.63011,35.51779,"u ad.",1939,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"female",12.8,271,7.92523300489129,96.0639517627858,"Spring",30042
+6,-115.88742,35.77286,"u ad.",1939,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"female",13.8,234,8.0216562938691,91.1478545268865,"Summer",30043
+5,-117.510504,35.943643,"u ad.",1940,"Empidonax difficilis difficilis","Empidonax_difficilis",9.7,NA,"male",12.9,257,7.39600629332541,151.451365416565,"Spring",30044
+9,-123.88759,40.77914,"imm.",1942,"Empidonax difficilis difficilis","Empidonax_difficilis",7.4,NA,"female",12,1606,3.98157689181743,97.2485971118486,"Fall",30045
+5,-121.8604466,37.9578875,"u ad.",1944,"Empidonax difficilis difficilis","Empidonax_difficilis",12.4,NA,"male",14.5,568,4.94487031419859,108.929385750828,"Spring",30046
+8,-120.63,36.35,"imm.",1944,"Empidonax difficilis difficilis","Empidonax_difficilis",10.1,NA,"female",12.3,479,6.51284860638546,117.560293787102,"Summer",30047
+5,-123.0218589,40.2528009,"u ad.",1946,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"male",9.1,900,6.53199584330622,100.72331767489,"Spring",30048
+6,-133.0169678,54.2200842,NA,1969,"Empidonax difficilis difficilis","Empidonax_difficilis",11.4,NA,"male",6.9,1560,5.31627005265226,71.1845520591079,"Summer",30049
+5,-112.4560534,34.4550641,NA,1970,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.8,NA,"undetermined",10.5,694,7.32684458106977,122.289304851251,"Spring",30050
+4,-112.2576561,34.2581237,NA,1970,"Empidonax difficilis hellmayri","Empidonax_difficilis",13,NA,"male",15.9,454,7.8643422349157,130.954223360873,"Spring",30051
+5,-115.1644614,37.1909562,NA,1972,"Empidonax difficilis hellmayri","Empidonax_difficilis",10.5,NA,"undetermined",15.1,187,8.66244069462405,145.754858842151,"Spring",30052
+7,-122.5057983,49.018058,"ad",1973,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",9.3,1285,5.16165201414736,72.4097595791019,"Summer",30053
+9,-119.9514771,50.6390103,"imm",1974,"Empidonax difficilis difficilis","Empidonax_difficilis",11,NA,"undetermined",7.9,292,8.19556421042949,59.5541848597439,"Fall",30054
+5,-123.81418,48.50414,"ad",1980,"Empidonax difficilis difficilis","Empidonax_difficilis",11.4,NA,"male",7.4,2793,5.13658889288849,87.9850653849214,"Spring",30055
+8,-103.6958385,30.507234,"imm",1980,"Empidonax difficilis hellmayri","Empidonax_difficilis",11,NA,"female",16.8,425,7.64559687108544,147.658502324407,"Summer",30056
+10,-105.0666666667,19.5333333333,"unknown",1999,"Empidonax difficilis","Empidonax_difficilis",9.4,NA,"female",25.8,941,2.13470599778276,141.506303431545,"Fall",30057
+10,-105.0666666667,19.5333333333,"unknown",2000,"Empidonax difficilis","Empidonax_difficilis",10.3,NA,"male",26.3,667,2.03087904538151,130.413839143712,"Fall",30058
+10,-105.0666666667,19.5333333333,"unknown",1999,"Empidonax difficilis","Empidonax_difficilis",10.5,NA,"male",25.8,941,2.13470599778276,141.506303431545,"Fall",30059
+7,-131.7166,55.3441,"AHY",2001,"Empidonax difficilis","Empidonax_difficilis",12,NA,"male",6.7,3695,4.62492424180378,40.8023229766941,"Summer",30060
+7,-131.619,55.331,"AHY",2000,"Empidonax difficilis","Empidonax_difficilis",10,NA,"female",7.2,3020,4.85863804335779,37.2454760329806,"Summer",30061
+7,-131.619,55.331,"AHY",2000,"Empidonax difficilis","Empidonax_difficilis",11.1,NA,"male",7.2,3020,4.85863804335779,37.2454760329806,"Summer",30062
+6,-132.3,53.37,"AHY",1999,"Empidonax difficilis","Empidonax_difficilis",12.2,NA,"male",6.4,2736,4.23559054592477,46.7754844059209,"Summer",30063
+6,-132.3,53.37,"AHY",1998,"Empidonax difficilis","Empidonax_difficilis",11.1,NA,"male",7.7,1981,4.6825595176531,67.7625246196731,"Summer",30064
+6,-132.3,53.37,"AHY",1999,"Empidonax difficilis","Empidonax_difficilis",10.8,NA,"male",6.4,2736,4.23559054592477,46.7754844059209,"Summer",30065
+10,-105.0666666667,19.5333333333,"unknown",1999,"Empidonax difficilis","Empidonax_difficilis",9.5,NA,"female",25.8,941,2.13470599778276,141.506303431545,"Fall",30066
+10,-105.0666666667,19.5333333333,"unknown",2001,"Empidonax difficilis","Empidonax_difficilis",12.4,NA,"male",26.5,515,1.94910624428612,131.026962303942,"Fall",30067
+10,-105.0666666667,19.5333333333,"unknown",2001,"Empidonax difficilis","Empidonax_difficilis",14.4,NA,"male",26.5,515,1.94910624428612,131.026962303942,"Fall",30068
+10,-105.0666666667,19.5333333333,"unknown",1999,"Empidonax difficilis","Empidonax_difficilis",9.9,NA,"female",25.8,941,2.13470599778276,141.506303431545,"Fall",30069
+10,-105.0666666667,19.5333333333,"unknown",1999,"Empidonax difficilis","Empidonax_difficilis",10.6,NA,"male",25.8,941,2.13470599778276,141.506303431545,"Fall",30070
+10,-105.0666666667,19.5333333333,"unknown",1999,"Empidonax difficilis","Empidonax_difficilis",11.4,NA,"male",25.8,941,2.13470599778276,141.506303431545,"Fall",30071
+10,-105.0666666667,19.5333333333,"unknown",1999,"Empidonax difficilis","Empidonax_difficilis",11.5,NA,"male",25.8,941,2.13470599778276,141.506303431545,"Fall",30072
+6,-130.014,55.917,"SY",1997,"Empidonax difficilis","Empidonax_difficilis",12.3,NA,"male",5.8,1970,6.69902751874999,54.568761871554,"Summer",30073
+6,-132.3,53.37,"AHY",1998,"Empidonax difficilis","Empidonax_difficilis",10.9,NA,"male",7.7,1981,4.6825595176531,67.7625246196731,"Summer",30074
+6,-132.3,53.37,"AHY",1998,"Empidonax difficilis","Empidonax_difficilis",11,NA,"male",7.7,1981,4.6825595176531,67.7625246196731,"Summer",30075
+7,-111.20247,42.378044,"adult",1934,"Empidonax difficilis","Empidonax_difficilis",10.3,NA,"male",5.4,373,7.66008940528566,57.8032571383785,"Summer",30076
+7,-103.8502007,44.4774837,"adult",1935,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.4,NA,"male",7.6,503,9.31825757544962,102.659048969064,"Summer",30077
+3,-118.7806322,36.2666699,"adult",1984,NA,"Empidonax_difficilis",10,NA,"female",15.4,484,7.22740470624683,134.011355440779,"Spring",30078
+4,-115.993824,33.6277702,"adult",1990,NA,"Empidonax_difficilis",8.4,NA,"female",20.5,42,7.99262444097966,97.5276646875848,"Spring",30079
+4,-115.993824,33.6277702,"adult",1990,NA,"Empidonax_difficilis",9.2,NA,"female",20.5,42,7.99262444097966,97.5276646875848,"Spring",30080
+10,-119.0828704,34.1200474,"immature",1999,NA,"Empidonax_difficilis",9,NA,"undetermined",14.5,188,2.5502673656626,130.140306763207,"Fall",30081
+8,-104.670507,39.337738,NA,1987,"Empidonax difficilis","Empidonax_difficilis",12.9,149,"female",8.4,562,8.15518054349318,85.959287100976,"Summer",30082
+5,-115.288311,33.2580891,NA,1989,"Empidonax difficilis difficilis","Empidonax_difficilis",9.5,NA,"undetermined",23.3,56,7.71886217867202,227.829587248865,"Spring",30083
+10,-118.4984131,34.0085106,NA,1989,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",17,102,2.62936505758721,124.240121723321,"Fall",30084
+5,-118.3758545,33.7719269,NA,1999,"Empidonax difficilis difficilis","Empidonax_difficilis",5.1,NA,"female",15.1,175,2.62031689038952,142.416775814492,"Spring",30086
+5,-115.2335572,33.2583912,NA,1989,"Empidonax difficilis difficilis","Empidonax_difficilis",12,NA,"male",22.9,64,7.78430335918885,225.346067015405,"Spring",30087
+4,-118.3361435,34.1555681,NA,1993,"Empidonax difficilis difficilis","Empidonax_difficilis",8,NA,"female",18,683,3.99655154382178,185.074088288077,"Spring",30088
+9,-127.9402542,51.5254066,NA,1934,"Empidonax difficilis difficilis","Empidonax_difficilis",9.3,NA,"undetermined",8.5,3413,3.66047686908289,53.860157157734,"Fall",30089
+9,-127.9402542,51.5254066,"immature",1934,"Empidonax difficilis difficilis","Empidonax_difficilis",10.6,NA,"female",8.5,3413,3.66047686908289,53.860157157734,"Fall",30090
+5,-128.3972168,52.967665,NA,1936,"Empidonax difficilis difficilis","Empidonax_difficilis",11.5,NA,"male",6.9,4160,7.74870468158545,51.9775793559666,"Spring",30091
+6,-129.286766,52.7375389,NA,1936,"Empidonax difficilis difficilis","Empidonax_difficilis",11.4,NA,"male",7.3,3072,5.53213066521116,44.2569051173733,"Summer",30092
+6,-129.286766,52.7375389,NA,1936,"Empidonax difficilis difficilis","Empidonax_difficilis",11.4,NA,"male",7.3,3072,5.53213066521116,44.2569051173733,"Summer",30093
+8,-120.28173,35.59775,"ad.",1947,"Empidonax difficilis difficilis","Empidonax_difficilis",10.1,NA,"female",14.6,104,6.07759796051836,93.2076166137476,"Summer",30094
+8,-120.281732,35.597748,"ad.",1947,"Empidonax difficilis difficilis","Empidonax_difficilis",9.4,NA,"male",14.6,104,6.07759796051836,93.2076166137476,"Summer",30095
+8,-120.33745,35.57592,"imm.",1947,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"undetermined",15.1,104,5.95622287268458,94.5531093024022,"Summer",30096
+8,-116.39528,34.05639,"ad.",1950,"Empidonax difficilis difficilis","Empidonax_difficilis",8.2,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Summer",30097
+8,-116.3038572,34.0304563,"ad.",1950,"Empidonax difficilis difficilis","Empidonax_difficilis",8.5,NA,"female",13.9,82,5.9258805764258,102.312243370886,"Summer",30098
+9,-116.2346518,33.9625431,"imm.",1950,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",14.4,82,5.88054702670877,100.197198889473,"Fall",30099
+9,-116.2346518,33.9625431,"imm.",1950,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"female",14.4,82,5.88054702670877,100.197198889473,"Fall",30100
+6,-118.168469,37.53385,"u ad.",1954,"Empidonax difficilis difficilis","Empidonax_difficilis",11.3,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",30101
+7,-122.277108,37.871028,"imm.sk.",1960,"Empidonax difficilis difficilis","Empidonax_difficilis",8.9,NA,"female",13.9,434,2.96038234631333,108.346322141387,"Summer",30102
+6,-115.56667,36.4,"1st.yr.sk.",1963,"Empidonax difficilis difficilis","Empidonax_difficilis",11.4,NA,"female",11.9,310,7.88863778231743,150.844373985848,"Summer",30103
+6,-122.3814,42.7406,"1st.yr.sk.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",11,NA,"male",8.4,1608,6.36516918768691,139.88098899444,"Summer",30104
+6,-122.3777,42.7409,"1st.yr.sk.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",11,NA,"male",8.4,1615,6.37687583810015,139.570509238018,"Summer",30105
+6,-122.3592797,42.7432627,"1st.yr.sk.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",11.7,NA,"male",8.1,1615,6.42077593724961,139.382176762044,"Summer",30106
+6,-122.36,42.7366,"1st.yr.sk.",1965,"Empidonax difficilis difficilis","Empidonax_difficilis",14.9,NA,"female",9,922,6.04791474206381,98.9814170682783,"Summer",30107
+8,-119.7310769,33.9979684,"subad.sk.pt.os.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",9.2,NA,"female",13.9,472,3.36104015285312,139.060527870808,"Summer",30108
+8,-119.7396207,33.9934223,"imm. sk.1/2oss.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",9.3,NA,"undetermined",13.8,496,3.40217176627999,140.08437557694,"Summer",30109
+9,-119.73169,33.99555,"sk. 1/2 oss.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",10.4,NA,"male",13.9,470,3.3501243758006,139.095512609324,"Fall",30110
+4,-123.002005,37.698188,"u ad.",1963,"Empidonax difficilis difficilis","Empidonax_difficilis",10.1,NA,"undetermined",-9999,-9999,0,0,"Spring",30111
+5,-123.002005,37.698188,"sk.2/3 oss.",1963,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",-9999,-9999,0,0,"Spring",30112
+5,-114.67889,35.16917,"first year",1967,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"male",20.7,123,8.82748376928384,97.7661768376951,"Spring",30113
+5,-122.1301216,40.8373598,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",14.8,1919,7.20637344174018,104.035804246989,"Spring",30114
+5,-122.1301216,40.8373598,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",9.7,NA,"male",14.8,1919,7.20637344174018,104.035804246989,"Spring",30115
+5,-122.1144364,40.8631281,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.3,NA,"male",14.9,1935,7.22074032970934,104.288191319238,"Spring",30116
+5,-122.1144364,40.8631281,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"male",14.9,1935,7.22074032970934,104.288191319238,"Spring",30117
+5,-122.1144364,40.8631281,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.6,NA,"male",14.9,1935,7.22074032970934,104.288191319238,"Spring",30118
+5,-122.1144364,40.8631281,"ad.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"male",14.9,1935,7.22074032970934,104.288191319238,"Spring",30119
+7,-122.1157672,40.8732744,"1st.yr.sk.",1967,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"male",15,1887,8.31761092593008,109.214516382286,"Summer",30120
+7,-122.1157672,40.8732744,"1st.yr.sk.",1967,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",15,1887,8.31761092593008,109.214516382286,"Summer",30121
+5,-122.0391752,40.8587106,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Spring",30122
+5,-122.0391752,40.8587106,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.8,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Spring",30123
+5,-122.0391752,40.8587106,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"female",14.8,1928,7.22606812907688,104.2389469883,"Spring",30124
+5,-122.0391752,40.8587106,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",11.7,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Spring",30125
+6,-122.0391752,40.8587106,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Summer",30126
+6,-122.0359719,41.112231,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"male",11.9,1487,7.07560897903795,106.436083800094,"Summer",30127
+6,-122.0359719,41.112231,"1st.yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",10.1,NA,"female",11.9,1487,7.07560897903795,106.436083800094,"Summer",30128
+9,-119.58,39.25,"juv.",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",12.2,NA,"female",9.5,201,7.81267424048122,130.958734976142,"Fall",30129
+5,-119.714089,33.9955568,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",11.2,NA,"female",13.9,464,3.39237112034957,138.692099084374,"Spring",30130
+5,-119.714089,33.9955568,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",10.7,NA,"male",13.9,464,3.39237112034957,138.692099084374,"Spring",30131
+5,-119.698875,34.0075973,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",10.1,NA,"female",13.9,491,3.35210246100726,140.16229194389,"Spring",30132
+4,-118.467225,33.367194,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",10.9,NA,"male",16.4,259,3.54515247353426,119.98924104539,"Spring",30133
+4,-118.427435,33.350233,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",11.5,NA,"male",16.3,262,3.75438127896978,119.033246016768,"Spring",30134
+4,-118.394186,33.399723,"1st.yr.sk.",1967,"Empidonax difficilis insulicola","Empidonax_difficilis",11.4,NA,"male",16.5,290,3.90364049201628,117.818237868165,"Spring",30135
+5,-122.1607774,41.8826619,"ad.sk.",1968,"Empidonax difficilis difficilis ?","Empidonax_difficilis",11.7,NA,"female",7.8,428,7.01411995818996,75.5292429785616,"Spring",30136
+5,-122.1607774,41.8826619,"ad.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",11.4,NA,"male",7.8,428,7.01411995818996,75.5292429785616,"Spring",30137
+6,-122.1607774,41.8826619,"ad.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",11.3,NA,"male",7.8,428,7.01411995818996,75.5292429785616,"Summer",30138
+6,-122.1297294,41.8554989,"first yr.sk.",1968,"Empidonax difficilis difficilis","Empidonax_difficilis",11.6,NA,"female",8.1,329,7.08961575229233,70.6312016711112,"Summer",30139
+5,-122.8245446,39.4433764,"1st.yr.",1980,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",30140
+5,-122.866367,39.3759636,"1st.yr.",1980,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",13.1,1169,5.45832697200647,129.517940448317,"Spring",30141
+5,-122.866367,39.3759636,"1st.yr.",1980,"Empidonax difficilis difficilis","Empidonax_difficilis",9,NA,"female",13.1,1169,5.45832697200647,129.517940448317,"Spring",30142
+5,-122.0391752,40.8587106,"sk.wind. 4x2mm",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.3,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",30143
+5,-122.0391752,40.8587106,"small sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",30144
+5,-122.0391752,40.8587106,"large sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",30145
+5,-122.1160438,40.8516013,"2 sm. sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",11.5,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",30146
+5,-122.1160438,40.8516013,"sk.wind. 4x2mm",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",30147
+5,-122.1160438,40.8516013,"small sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",30148
+6,-122.157881,41.8844387,"tiny sk.wind.",1981,"Empidonax difficilis difficilis ?","Empidonax_difficilis",10.6,NA,"male",8.7,593,6.56642054607217,111.254603062775,"Summer",30149
+6,-122.157881,41.8844387,"med.sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",8.7,593,6.56642054607217,111.254603062775,"Summer",30150
+6,-122.157881,41.8844387,"sk.wind.",1981,"Empidonax difficilis difficilis ?","Empidonax_difficilis",10.8,NA,"female",8.7,593,6.56642054607217,111.254603062775,"Summer",30151
+6,-122.1297294,41.8554989,"tiny sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"male",8.8,457,6.59627994333996,103.95348031854,"Summer",30152
+6,-122.1297294,41.8554989,"med.sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",11.8,NA,"female",8.8,457,6.59627994333996,103.95348031854,"Summer",30153
+6,-122.1560704,41.8388919,"med.sk.wind.",1981,"Empidonax difficilis difficilis ?","Empidonax_difficilis",11.3,NA,"male",7.7,668,6.51683135496776,106.751537942198,"Summer",30154
+6,-122.15607,41.83889,"tiny sk.wind.",1981,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"female",7.7,668,6.51683135496776,106.751537942198,"Summer",30155
+5,-118.415564,33.379945,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",12.4,NA,"female",16.4,340,3.55300768875662,117.688645809522,"Spring",30156
+5,-118.415564,33.379945,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11,NA,"male",16.4,340,3.55300768875662,117.688645809522,"Spring",30157
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10.8,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",30158
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.3,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",30159
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.2,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",30160
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.5,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",30161
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10.8,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",30162
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10.8,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",30163
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11.5,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",30164
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10.5,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",30165
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",11,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",30166
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",14,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",30167
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",12.5,NA,"female",16.3,322,3.29637082350585,120.474108219305,"Spring",30168
+5,-118.427435,33.350233,"unknown",1982,"Empidonax difficilis insulicola","Empidonax_difficilis",10,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",30169
+5,-122.866367,39.3759636,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",9.9,NA,"male",11.9,1728,6.30351032554421,94.2981302012903,"Spring",30170
+5,-122.866367,39.3759636,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",12.5,NA,"female",11.9,1728,6.30351032554421,94.2981302012903,"Spring",30171
+5,-122.866367,39.3759636,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",9,NA,"female",11.9,1728,6.30351032554421,94.2981302012903,"Spring",30172
+5,-122.866367,39.3759636,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",11.9,1728,6.30351032554421,94.2981302012903,"Spring",30173
+5,-122.866367,39.3759636,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",9.5,NA,"male",11.9,1728,6.30351032554421,94.2981302012903,"Spring",30174
+5,-122.866367,39.3759636,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.3,NA,"female",11.9,1728,6.30351032554421,94.2981302012903,"Spring",30175
+5,-122.3797,42.7511,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"male",7.6,1321,6.52428447255236,75.468988229324,"Spring",30176
+5,-122.3797,42.7511,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",7.6,1321,6.52428447255236,75.468988229324,"Spring",30177
+5,-122.3698,42.7801,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.3,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Spring",30178
+5,-122.3698,42.7801,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",9.9,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Spring",30179
+5,-122.3698,42.7801,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.6,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Spring",30180
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",30181
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.6,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",30182
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.1,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",30183
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.1,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",30184
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",9.1,NA,"female",13.8,1038,5.67730062831293,95.6362291553654,"Summer",30185
+6,-121.5341,36.32858,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",9.5,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",30186
+4,-121.5568207,36.37851365,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.1,NA,"male",13.7,940,4.89913412262975,94.9916629701913,"Spring",30187
+4,-121.5568207,36.37851365,"unknown",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",13.7,940,4.89913412262975,94.9916629701913,"Spring",30188
+7,-122.3698,42.7801,"ad.sk.",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Summer",30189
+5,-120.6352893,36.3771377,"sm.sk.winds.",1984,"Empidonax difficilis difficilis","Empidonax_difficilis",9.5,NA,"male",13.7,302,7.29063326010391,141.340042457013,"Spring",30190
+4,-119.7310769,33.9979684,"ad.sk.",1995,"Empidonax difficilis insulicola","Empidonax_difficilis",11.2,NA,"male",15.2,668,2.1422693999164,178.26775298496,"Spring",30191
+7,-120.7560335,42.3569474,"juvenile",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",11,NA,"male",5.2,732,7.36225015010542,58.4924582107647,"Summer",30192
+7,-120.7560335,42.3569474,"juvenile",1982,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"male ?",5.2,732,7.36225015010542,58.4924582107647,"Summer",30193
+5,-122.7340259,37.9286764,"adult skull",2004,"Empidonax difficilis difficilis","Empidonax_difficilis",9.5,NA,"male",13.8,658,2.4000473480178,130.697488633875,"Spring",30194
+8,-118.91056,36.78619,"ad.",1916,"Empidonax difficilis difficilis","Empidonax_difficilis",12.9,NA,"male",9.5,1484,7.31330771244925,152.529949124809,"Summer",30195
+9,-120.84938,35.366994,"imm.",1918,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"male",12.4,469,2.33958038195664,149.267532058884,"Fall",30196
+7,-121.481404,36.206072,"ad.",1919,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"female",13.6,542,5.33350615250305,160.375408367308,"Summer",30197
+7,-121.42052,36.14456,"imm.",1919,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",11,761,6.20299903028341,156.606197540788,"Summer",30198
+7,-121.419286,36.143417,"juv.",1919,"Empidonax difficilis difficilis","Empidonax_difficilis",9.3,NA,"female",11,758,6.18626900824918,156.448586803088,"Summer",30199
+7,-121.24134,36.450906,"juv.",1919,"Empidonax difficilis difficilis","Empidonax_difficilis",10.8,NA,"female ?",13.3,330,4.80611983608273,152.609785183058,"Summer",30200
+7,-120.11166,37.75634,"juv.",1920,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",30201
+7,-124.0586921,40.5379163,"juv.",1923,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",11.5,697,3.76453747812961,87.7679153537944,"Summer",30202
+9,-115.7333333333,30.9666666667,"imm.",1925,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"female",16,268,4.08169416697617,123.676529282106,"Fall",30203
+5,-115.458333,30.883333,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",9.8,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",30204
+5,-115.458333,30.883333,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",8.9,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",30205
+5,-115.458333,30.883333,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",10.4,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",30206
+5,-115.458333,30.883333,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",11.6,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",30207
+5,-115.442739,31.008554,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",9.1,NA,"female",8,674,4.13110888334604,118.374400142833,"Spring",30208
+5,-115.442739,31.008554,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",9,NA,"male",8,674,4.13110888334604,118.374400142833,"Spring",30209
+6,-115.442739,31.008554,"u ad.",1925,"Empidonax difficilis cineritius","Empidonax_difficilis",14,NA,"female",8,674,4.13110888334604,118.374400142833,"Summer",30210
+4,-114.8667,31,"u ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",12,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",30211
+4,-114.8667,31,"u ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",12,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",30212
+4,-115.284722,32.134722,"u ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",8.6,NA,"female",22.2,88,6.43129187267342,137.946707573484,"Spring",30213
+5,-115.266667,30.866667,"ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",11.5,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",30214
+5,-115.266667,30.866667,"u ad.",1926,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",30215
+6,-115.526687,31.029931,"ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",9.3,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",30216
+6,-115.526687,31.029931,"ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",9.5,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",30217
+6,-115.526687,31.029931,"u ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",9.8,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",30218
+6,-115.526687,31.029931,"ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",9.8,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",30219
+6,-115.526687,31.029931,"u ad.",1926,"Empidonax difficilis cineritius","Empidonax_difficilis",9.6,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",30220
+4,-112.9,27.3,"u ad.",1927,"Empidonax difficilis difficilis","Empidonax_difficilis",11.7,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",30221
+4,-112.9,27.3,"u ad.",1927,"Empidonax difficilis difficilis","Empidonax_difficilis",9.4,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",30222
+9,-122.488403,37.779951,"imm.",1927,"Empidonax difficilis difficilis","Empidonax_difficilis",10.3,NA,"female",12.7,614,1.63614476650744,99.7424624823463,"Fall",30223
+10,-110.2167,23.45,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",22.2,164,3.36140077222505,130.878889965229,"Fall",30224
+11,-110.2167,23.45,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",9.5,NA,"female",22.2,164,3.36140077222505,130.878889965229,"Fall",30225
+11,-110,23.566667,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10.6,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",30226
+11,-110,23.566667,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",11.9,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",30227
+11,-110,23.566667,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",30228
+12,-110,23.566667,"ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",11.5,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",30229
+12,-110,23.566667,"u ad.",1928,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"undetermined",16.7,461,3.40884544570845,138.309335975346,"Winter",30230
+4,-109.6833,23.05,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",10.2,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",30231
+4,-109.9,22.8833,"ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",8.6,NA,"female",23,165,3.59750544885556,121.293124556952,"Spring",30232
+7,-109.716873,23.387557,"u ad.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",11.8,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",30233
+7,-109.716873,23.387557,"juv.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",11.8,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",30234
+8,-109.716873,23.387557,"juv.",1929,"Empidonax difficilis cineritius","Empidonax_difficilis",10.1,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",30235
+9,-116.98667,39.23861,"imm.",1931,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"female",9.1,185,9.60889739204812,49.4793629683915,"Fall",30236
+4,-111.8125,26.0625,"u ad.",1931,"Empidonax difficilis difficilis","Empidonax_difficilis",9.9,NA,"female",21.1,215,4.20982796740574,93.8923460859446,"Spring",30237
+4,-123.4644508,40.4048454,"u ad.",1932,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",30238
+4,-123.4644508,40.4048454,"u ad.",1932,"Empidonax difficilis difficilis","Empidonax_difficilis",9.9,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",30239
+5,-123.4644508,40.4048454,"u ad.",1932,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"female",11.2,1031,7.06169243170502,104.669249158388,"Spring",30240
+5,-111.5169,32.8617,"u ad.",1936,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"male",20.9,302,8.10500687005485,96.9033725076262,"Spring",30241
+6,-120.63,36.35,"u ad.",1936,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"male",13.1,748,7.08600840752501,154.523842266632,"Summer",30242
+5,-115.5697,33.1714,"u ad.",1937,"Empidonax difficilis difficilis","Empidonax_difficilis",12,NA,"female",22.5,40,8.84871159941926,110.656667034498,"Spring",30243
+5,-115.4207,35.1716,"ad.",1938,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",30244
+6,-115.4207,35.1716,"ad.",1938,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",30245
+6,-115.4207,35.1716,"ad.",1938,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",30246
+5,-122.3616331,38.2500657,"u ad.",1940,"Empidonax difficilis difficilis","Empidonax_difficilis",10.8,NA,"male",14.9,1051,3.55267718087573,124.467489105211,"Spring",30247
+5,-123.9603,45.7833,"u ad.",1941,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",30248
+5,-122.8741356,46.0084949,"u ad.",1941,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",12.1,959,4.73545620342385,69.8215869796105,"Spring",30249
+9,-123.88759,40.77914,"juv.",1942,"Empidonax difficilis difficilis","Empidonax_difficilis",9.5,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",30250
+9,-124.0415543,40.5359463,"imm.",1942,"Empidonax difficilis difficilis","Empidonax_difficilis",11.2,NA,"male",11.9,1325,3.37916970257309,96.5542687630148,"Fall",30251
+6,-123.14392,40.55443,"u ad.",1943,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"male",11.5,837,5.90030173856055,120.785766804994,"Summer",30252
+6,-123.47471,40.61736,"u ad.",1943,"Empidonax difficilis difficilis","Empidonax_difficilis",9.9,NA,"male",13.1,998,6.018676739697,124.778735426946,"Summer",30253
+8,-122.2715302,37.8697904,"imm.",1943,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"undetermined",14.2,444,2.21897806126235,135.889784756503,"Summer",30254
+8,-120.63092,36.35948,"juv.",1944,"Empidonax difficilis difficilis","Empidonax_difficilis",10.2,NA,"female",12.5,473,6.48828781635639,119.498492680805,"Summer",30255
+8,-120.63092,36.35948,"juv.",1944,"Empidonax difficilis difficilis","Empidonax_difficilis",9.7,NA,"male",12.5,473,6.48828781635639,119.498492680805,"Summer",30256
+5,-115.8090522,33.7365557,"imm.sk.",1945,"Empidonax difficilis difficilis","Empidonax_difficilis",8.5,NA,"male",15.9,300,7.56030302423004,194.693231894318,"Spring",30257
+4,-115.7412793,34.0544561,"u ad.",1947,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"female",19.7,41,8.00539117587566,116.712304142452,"Spring",30258
+5,-112.4560534,34.4550641,"ad",1970,"Empidonax difficilis hellmayri","Empidonax_difficilis",10.8,NA,"female",10.5,694,7.32684458106977,122.289304851251,"Spring",30259
+7,-122.6094818,49.2960238,NA,1973,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,145,"male",9.3,1521,5.43462524146344,77.6522963192103,"Summer",30260
+9,-119.9514771,50.6390103,"ad",1974,"Empidonax difficilis difficilis","Empidonax_difficilis",11.1,NA,"female",7.9,292,8.19556421042949,59.5541848597439,"Fall",30261
+5,-123.81418,48.50414,"ad",1980,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"male",7.4,2793,5.13658889288849,87.9850653849214,"Spring",30262
+7,-131.619,55.331,"AHY",2000,"Empidonax difficilis","Empidonax_difficilis",11.7,NA,"male",7.2,3020,4.85863804335779,37.2454760329806,"Summer",30263
+6,-135.4454,59.2295,"AHY",2002,"Empidonax difficilis","Empidonax_difficilis",10.5,NA,"male",5.7,747,6.49481728112127,48.1542629923122,"Summer",30264
+6,-132.3,53.37,"SY",1998,"Empidonax difficilis","Empidonax_difficilis",11.9,NA,"male",7.7,1981,4.6825595176531,67.7625246196731,"Summer",30265
+6,-132.3,53.37,"AHY",1999,"Empidonax difficilis","Empidonax_difficilis",11,NA,"male",6.4,2736,4.23559054592477,46.7754844059209,"Summer",30266
+10,-105.0666666667,19.5333333333,"unknown",1999,"Empidonax difficilis","Empidonax_difficilis",9.7,NA,"male",25.8,941,2.13470599778276,141.506303431545,"Fall",30267
+10,-105.0666666667,19.5333333333,"unknown",1999,"Empidonax difficilis","Empidonax_difficilis",10.4,NA,"male",25.8,941,2.13470599778276,141.506303431545,"Fall",30268
+6,-132.3,53.37,"SY",1998,"Empidonax difficilis","Empidonax_difficilis",10.9,NA,"male",7.7,1981,4.6825595176531,67.7625246196731,"Summer",30269
+7,-111.2702042,42.370761,NA,1934,"Empidonax difficilis","Empidonax_difficilis",10.9,NA,"male",6,331,7.96423825039727,55.8533595923151,"Summer",30270
+7,-110.83602,42.634249,NA,1934,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.7,NA,NA,4.5,580,7.59359279360906,74.391915621053,"Summer",30271
+7,-104.2049408,43.9126368,NA,1935,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.2,NA,NA,6.5,367,9.24253589102957,112.919892919165,"Summer",30272
+7,-102.3046875,33.7243397,"adult",1935,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.5,NA,"male",14.8,511,7.72832256682973,101.727357459446,"Summer",30273
+7,-103.8502007,44.4774837,"adult",1935,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.2,NA,"male",7.6,503,9.31825757544962,102.659048969064,"Summer",30274
+4,-119.247112,34.6072895,"adult",1995,NA,"Empidonax_difficilis",11,NA,"male",13.2,1127,5.25708756793814,178.022838180476,"Spring",30275
+4,-119.247112,34.6072895,"adult",1995,NA,"Empidonax_difficilis",10,NA,"female",13.2,1127,5.25708756793814,178.022838180476,"Spring",30276
+4,-119.247112,34.6072895,"adult",1995,NA,"Empidonax_difficilis",8,NA,"female",13.2,1127,5.25708756793814,178.022838180476,"Spring",30277
+10,-109.85554,24.23539,"Imm.",1961,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"male",23.4,309,4.96350316171589,183.188777428929,"Fall",30279
+6,-122.7263,38.8801,"U-Juv.",1970,"Empidonax difficilis difficilis","Empidonax_difficilis",6.6,NA,"m?",14.4,1816,5.99792893548694,148.058103530986,"Summer",30280
+10,-122.44408,37.74589,"U-Ad.",1977,"Empidonax difficilis","Empidonax_difficilis",10.6,NA,"male",13,426,2.43215517347861,108.208141917083,"Fall",30281
+11,-97.07359,16.17082,"U-Ad.",1964,"Empidonax difficilis occidentalis","Empidonax_difficilis",12.2,NA,"male",21.1,1076,1.49362280744139,125.928260241033,"Fall",30282
+4,-97.11693,16.23414,"U-Ad.",1965,"Empidonax difficilis occidentalis","Empidonax_difficilis",11.5,NA,"female",18.1,1003,1.42411588735119,122.25438176947,"Spring",30283
+5,-97.10026,16.22749,"U-Ad.",1965,"Empidonax difficilis occidentalis","Empidonax_difficilis",12,NA,"male",19.1,970,1.50624960706646,123.066688251009,"Spring",30284
+5,-96.46691,16.06749,"U-Ad.",1965,"Empidonax difficilis occidentalis","Empidonax_difficilis",12.2,NA,"female",15.4,1058,0.946284600664381,118.293539357867,"Spring",30285
+9,-122.46718,37.87558,"U-Ad.",1985,"Empidonax difficilis difficilis","Empidonax_difficilis",12.3,NA,"male",13.4,461,3.37863160394138,118.047354335507,"Fall",30286
+8,-123.00674,37.69917,"U-Ad",1985,"Empidonax difficilis","Empidonax_difficilis",7.9,NA,"undetermined",-9999,-9999,0,0,"Summer",30287
+6,-120.27836,40.41565,"U-Imm?",1988,"Empidonax difficilis","Empidonax_difficilis",11.2,NA,"undetermined",9.7,183,8.50705144232855,117.705291648258,"Summer",30288
+5,-122.20197,40.12247,"U",1988,"Empidonax difficilis","Empidonax_difficilis",4.8,NA,"undetermined",17.6,498,7.20079961889755,127.458470596754,"Spring",30289
+5,-115.88644,33.63198,"Ad",1987,"Empidonax difficilis","Empidonax_difficilis",13,NA,"female",20.5,108,7.7542314938752,137.396017206949,"Spring",30290
+5,-115.88644,33.63198,"U",1987,"Empidonax difficilis","Empidonax_difficilis",11.5,NA,"female",20.5,108,7.7542314938752,137.396017206949,"Spring",30291
+2,-121.93957,37.46675,"U",1964,"Empidonax difficilis difficilis","Empidonax_difficilis",10.9,NA,"male",14,364,4.12696234315485,135.62969850645,"Winter",30292
+9,-121.93957,37.46675,"U",1990,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",14.9,219,4.73974171397045,102.265839988483,"Fall",30293
+9,-121.93957,37.46675,"U",1986,"Empidonax difficilis difficilis","Empidonax_difficilis",9.8,NA,"undetermined",15.2,401,3.07319791984595,155.586865535857,"Fall",30294
+4,-122.4958,38.6278,"U-Ad",1966,"Empidonax difficilis","Empidonax_difficilis",9.4,NA,"male",14.6,947,5.72982627056956,136.387866592824,"Spring",30295
+8,-122.54249,37.90446,"immature",2002,"Empidonax difficilis","Empidonax_difficilis",10.4,NA,"undetermined",14.1,874,3.01334154597969,176.40592906484,"Summer",30296
+5,-123.00645,37.69837,"adult",1979,"Empidonax difficilis","Empidonax_difficilis",7.7,NA,"female",-9999,-9999,0,0,"Spring",30297
+10,-122.45018,37.76418,"adult",1998,"Empidonax difficilis","Empidonax_difficilis",7.1,NA,"undetermined",13.1,909,2.4050924508155,145.788490095158,"Fall",30298
+5,-122.79967,38.04094,NA,2007,"Empidonax difficilis","Empidonax_difficilis",10.1,129,NA,13.3,566,3.21477413316593,131.452952251138,"Spring",30299
+7,-122.81661,38.05615,"nestling",2007,"Empidonax difficilis","Empidonax_difficilis",8.3,86,"undetermined",13.2,568,3.27861528420432,129.982526712422,"Summer",30300
+7,-122.4764,37.58056,"U",2010,"Empidonax difficilis","Empidonax_difficilis",21.5,159,"undetermined",13.7,911,2.75576530645163,103.036220997674,"Summer",30301
+9,-122.46569,37.76946,"HY",2013,"Empidonax difficilis","Empidonax_difficilis",10.8,130,"male",13.5,130,2.69522585774225,92.2937052339992,"Fall",30302
+5,-96.64,18.11166667,NA,1994,"Empidonax difficilis","Empidonax_difficilis",10.5,NA,NA,19.1,3386,1.56406134112057,64.0086778267311,"Spring",30303
+3,-105.854958,22.991986,NA,1959,"Empidonax difficilis","Empidonax_difficilis",8.5,NA,NA,25.7,940,2.6520860857183,141.735406551024,"Spring",30304
+3,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",9.6,NA,"female",22.9,609,2.96295307237406,128.639107662274,"Spring",30305
+3,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",9.7,NA,"male",22.9,609,2.96295307237406,128.639107662274,"Spring",30306
+3,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",8.9,NA,"male",22.9,609,2.96295307237406,128.639107662274,"Spring",30307
+3,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",9.3,NA,"female",22.9,609,2.96295307237406,128.639107662274,"Spring",30308
+3,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",11,NA,"female",22.9,609,2.96295307237406,128.639107662274,"Spring",30309
+3,-106.425646,21.463515,NA,1963,"Empidonax difficilis","Empidonax_difficilis",10.7,NA,"male",23.3,548,2.5656678497326,102.889348753329,"Spring",30310
+3,-106.425646,21.463515,NA,1963,"Empidonax difficilis","Empidonax_difficilis",9.7,NA,"female",23.3,548,2.5656678497326,102.889348753329,"Spring",30311
+8,-123.113521,49.261096,NA,1964,"Empidonax difficilis difficilis","Empidonax_difficilis",11.3,NA,"male",9.3,1302,5.32446469069185,58.4671325994836,"Summer",30312
+6,-108.7,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",10.8,NA,"male",7.8,643,7.89903618976852,101.707291132455,"Summer",30313
+6,-108.7,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",13.1,NA,"male",7.8,643,7.89903618976852,101.707291132455,"Summer",30314
+5,-108.6666667,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",13.8,NA,"male",6.4,784,7.70737545235967,100.271734777244,"Spring",30315
+6,-108.65,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",12.1,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",30316
+6,-108.65,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.6,NA,"female",6.6,739,7.73885807095751,101.789373511029,"Summer",30317
+6,-108.65,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.6,NA,"female",6.6,739,7.73885807095751,101.789373511029,"Summer",30318
+7,-108.5333333,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",10.7,NA,"male",7.2,558,7.85231098968882,108.533828075558,"Summer",30319
+1,-108.085515,25.5870145,NA,1966,"Empidonax difficilis","Empidonax_difficilis",9.8,NA,"male",24.8,467,4.85819364111245,173.37684357981,"Winter",30320
+6,-133,54.2333333,"adult",1971,"Empidonax difficilis difficilis","Empidonax_difficilis",10.4,NA,"male",5.7,1658,5.14990438275461,42.3703163516478,"Summer",30321
+11,-97.1185919,16.1008267,"immature",1964,NA,"Empidonax_difficilis",12.5,NA,"male",24.3,1324,1.36789486571021,124.863220288061,"Fall",30322
+5,-97.116932,16.2008215,"adult",1965,NA,"Empidonax_difficilis",11.4,NA,"male",18.1,948,1.41635468935596,125.961998190857,"Spring",30323
+9,-96.6185828,17.1174445,"not indicated",1964,NA,"Empidonax_difficilis",13.3,NA,"male",16.8,670,1.644734481657,99.5010945176118,"Fall",30324
+11,-97.1002616,16.1691532,"adult",1964,NA,"Empidonax_difficilis",10.7,NA,"male",21.8,1111,1.49179574521935,125.032778724407,"Fall",30325
+11,-97.1185919,16.1008267,"immature",1964,NA,"Empidonax_difficilis",11.2,NA,"female",24.3,1324,1.36789486571021,124.863220288061,"Fall",30326
+6,-97.116932,16.2008215,"juvenile",1965,NA,"Empidonax_difficilis",12.2,NA,"female",18.1,948,1.41635468935596,125.961998190857,"Summer",30327
+7,-121.5,36.3,NA,1977,"Empidonax difficilis","Empidonax_difficilis",9,NA,"female",14.8,436,5.36223466532943,182.266816411933,"Summer",30328
+10,-122.46606,37.64487,"U-Ad.",1974,"Empidonax difficilis difficilis","Empidonax_difficilis",11.6,NA,"female",13,615,2.57464325272219,108.58552921219,"Fall",30329
+5,-122.3283,37.38188,"Skull Oss.",1983,"Empidonax difficilis difficilis","Empidonax_difficilis",9,NA,"male",14.2,1647,3.77636188558632,100.092036685357,"Spring",30330
+10,-97.03359,16.23414,"Skull Oss.",1964,"Empidonax difficilis occidentalis","Empidonax_difficilis",12.3,NA,"female",16.5,1033,1.25263358931928,126.639857472511,"Fall",30331
+5,-97.08193,16.12082,"U-Ad.",1965,"Empidonax difficilis occidentalis","Empidonax_difficilis",12.4,NA,"male",21.6,1048,1.53997245154423,120.516784377971,"Spring",30332
+6,-97.10026,16.22749,"U-Ad.",1965,"Empidonax difficilis occidentalis","Empidonax_difficilis",11.6,NA,"female",19.1,970,1.50624960706646,123.066688251009,"Summer",30333
+5,-96.46691,16.06749,"U-Ad.",1965,"Empidonax difficilis occidentalis","Empidonax_difficilis",10.9,NA,"female",15.4,1058,0.946284600664381,118.293539357867,"Spring",30334
+10,-97.03359,16.23414,"Skull Not Oss.",1964,"Empidonax difficilis occidentalis","Empidonax_difficilis",12,NA,"male",16.5,1033,1.25263358931928,126.639857472511,"Fall",30335
+8,-122.69903,37.907,"U-Ad.",1979,"Empidonax difficilis","Empidonax_difficilis",12.3,NA,"undetermined",13.1,854,2.64109424062808,104.722558311356,"Summer",30336
+8,-123.00674,37.69917,"U-Ad",1985,"Empidonax difficilis","Empidonax_difficilis",11.1,NA,"undetermined",-9999,-9999,0,0,"Summer",30337
+5,-115.88644,33.63198,"U",1987,"Empidonax difficilis","Empidonax_difficilis",10,NA,"male",20.5,108,7.7542314938752,137.396017206949,"Spring",30338
+9,-121.93957,37.46675,"Imm",1990,"Empidonax difficilis difficilis","Empidonax_difficilis",10,NA,"female",14.9,219,4.73974171397045,102.265839988483,"Fall",30339
+9,-121.93957,37.46675,"U",1989,"Empidonax difficilis difficilis","Empidonax_difficilis",8.3,NA,"male",14.7,225,4.03111947756752,110.058203150915,"Fall",30340
+9,-121.93957,37.46675,"U",1988,"Empidonax difficilis difficilis","Empidonax_difficilis",8.6,NA,"male",15.3,249,3.81071058354149,117.700752047076,"Fall",30341
+9,-121.93957,37.46675,"U",1989,"Empidonax difficilis difficilis","Empidonax_difficilis",10.5,NA,"male",14.7,225,4.03111947756752,110.058203150915,"Fall",30342
+8,-121.93957,37.46675,"U",1987,"Empidonax difficilis difficilis","Empidonax_difficilis",10.7,NA,"undetermined",15.2,335,4.00677456618692,114.172692506262,"Summer",30343
+4,-121.93957,37.46675,"U",1987,"Empidonax difficilis difficilis","Empidonax_difficilis",8.3,NA,"undetermined",15.2,335,4.00677456618692,114.172692506262,"Spring",30344
+7,-121.93957,37.46675,"U",1986,"Empidonax difficilis difficilis","Empidonax_difficilis",9.2,NA,"undetermined",15.2,401,3.07319791984595,155.586865535857,"Summer",30345
+9,-121.93957,37.46675,"U-Ad",1990,"Empidonax difficilis","Empidonax_difficilis",6.7,NA,"undetermined",14.9,219,4.73974171397045,102.265839988483,"Fall",30346
+4,-122.4958,38.6278,"U-Ad",1966,"Empidonax difficilis","Empidonax_difficilis",15,NA,"undetermined",14.6,947,5.72982627056956,136.387866592824,"Spring",30347
+7,-123.00361,37.69852,"U-Ad",1970,"Empidonax difficilis","Empidonax_difficilis",8.4,NA,"female",-9999,-9999,0,0,"Summer",30348
+9,-122.48251,37.7695,"U-Ad",1961,"Empidonax difficilis","Empidonax_difficilis",10.1,NA,"male",13,450,2.81419561681433,104.238225266353,"Fall",30349
+7,-122.12436,37.89761,"U-Fledgling",2001,"Empidonax difficilis","Empidonax_difficilis",9.1,NA,"undetermined",14.9,745,4.68293970091696,132.487876171636,"Summer",30350
+9,-122.8373,38.08342,"immature",2002,"Empidonax difficilis","Empidonax_difficilis",7.7,NA,"undetermined",13.4,837,2.86719956287199,179.803263946363,"Fall",30351
+10,-122.73417,37.93,"immature",1969,"Empidonax difficilis difficilis","Empidonax_difficilis",8.2,NA,"female",12.7,875,2.58648878644858,134.260303282315,"Fall",30352
+9,-122.71774,37.91352,"adult",2002,"Empidonax difficilis","Empidonax_difficilis",10.4,NA,"male",12.9,690,2.05978816209999,178.011007767516,"Fall",30353
+8,-122.8373,38.08342,"adult",2003,"Empidonax difficilis","Empidonax_difficilis",8.6,NA,"undetermined",13.9,851,3.01189560767221,125.182314640719,"Summer",30354
+3,-97.62245,17.1519167,NA,1993,"Empidonax difficilis","Empidonax_difficilis",9,NA,"male",14.4,1293,1.13147128674451,134.56286266239,"Spring",30356
+2,-106.425646,21.463515,NA,1959,"Empidonax difficilis","Empidonax_difficilis",9.1,NA,"male",23.4,774,2.37174018710978,117.592140832527,"Winter",30357
+2,-102.033333,17.966667,NA,1960,"Empidonax difficilis","Empidonax_difficilis",8.7,NA,"female",27.4,842,1.41193505730986,144.959647155031,"Winter",30358
+2,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",10.3,NA,"male",22.9,609,2.96295307237406,128.639107662274,"Winter",30359
+3,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",9,NA,"male",22.9,609,2.96295307237406,128.639107662274,"Spring",30360
+3,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",9.3,NA,"female",22.9,609,2.96295307237406,128.639107662274,"Spring",30361
+3,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",8.6,NA,"female",22.9,609,2.96295307237406,128.639107662274,"Spring",30362
+3,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",9.3,NA,"male",22.9,609,2.96295307237406,128.639107662274,"Spring",30363
+2,-106.425646,21.463515,NA,1961,"Empidonax difficilis","Empidonax_difficilis",9.9,NA,"female",22.9,609,2.96295307237406,128.639107662274,"Winter",30364
+3,-106.425646,21.463515,NA,1963,"Empidonax difficilis","Empidonax_difficilis",10.8,NA,"female",23.3,548,2.5656678497326,102.889348753329,"Spring",30365
+6,-102.363706,19.3373222,NA,1945,"Empidonax difficilis occidentalis","Empidonax_difficilis",9.5,NA,"male",15.7,1014,2.06329759600911,133.2776726156,"Summer",30366
+6,-102.363706,19.3373222,NA,1945,"Empidonax difficilis occidentalis","Empidonax_difficilis",10,NA,"female",15.7,1014,2.06329759600911,133.2776726156,"Summer",30367
+6,-108.7,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.8,NA,"male",7.8,643,7.89903618976852,101.707291132455,"Summer",30368
+5,-108.6666667,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",13.3,NA,"male",6.4,784,7.70737545235967,100.271734777244,"Spring",30369
+5,-108.65,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",12.7,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Spring",30370
+6,-108.65,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.4,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",30371
+6,-108.65,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",10.7,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",30372
+6,-108.65,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",10.2,52.6,"female",6.6,739,7.73885807095751,101.789373511029,"Summer",30373
+6,-108.65,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",12.2,NA,"in question",6.6,739,7.73885807095751,101.789373511029,"Summer",30374
+7,-108.5333333,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",11.1,NA,"male",7.2,558,7.85231098968882,108.533828075558,"Summer",30375
+7,-108.5333333,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",10.8,56.8,"male",7.2,558,7.85231098968882,108.533828075558,"Summer",30376
+7,-108.5333333,33.4,NA,1964,"Empidonax difficilis hellmayri","Empidonax_difficilis",10.4,NA,"female",7.2,558,7.85231098968882,108.533828075558,"Summer",30377
+5,-96.4669183,16.0674993,"adult",1965,NA,"Empidonax_difficilis",12.5,NA,"female",15.4,1058,0.946284600664381,118.293539357867,"Spring",30378
+11,-97.1185919,16.1008267,"immature",1964,NA,"Empidonax_difficilis",13.2,NA,"undetermined",24.3,1324,1.36789486571021,124.863220288061,"Fall",30379
+11,-97.1185919,16.1008267,"immature",1964,NA,"Empidonax_difficilis",11.3,NA,"male",24.3,1324,1.36789486571021,124.863220288061,"Fall",30380
+5,-96.4669183,16.0674993,"adult",1965,NA,"Empidonax_difficilis",11.6,NA,"male",15.4,1058,0.946284600664381,118.293539357867,"Spring",30381
+5,-96.4669183,16.0674993,"adult",1965,NA,"Empidonax_difficilis",11.5,NA,"male",15.4,1058,0.946284600664381,118.293539357867,"Spring",30382
+11,-97.1302622,16.1324951,"adult",1964,NA,"Empidonax_difficilis",11.7,NA,"male",23.8,1254,1.40224387279384,124.28374619915,"Fall",30383
+11,-97.1185919,16.1008267,"immature",1964,NA,"Empidonax_difficilis",10.2,NA,"male",24.3,1324,1.36789486571021,124.863220288061,"Fall",30384
+4,-97.116932,16.2341498,"adult",1965,NA,"Empidonax_difficilis",11.2,NA,"male",18.1,1003,1.42411588735119,122.25438176947,"Spring",30385
+5,-96.4669183,16.0674993,"adult",1965,NA,"Empidonax_difficilis",12.1,NA,"male",15.4,1058,0.946284600664381,118.293539357867,"Spring",30386
+11,-97.1185919,16.1008267,"immature",1964,NA,"Empidonax_difficilis",10.2,NA,"female",24.3,1324,1.36789486571021,124.863220288061,"Fall",30387
+6,-106.3333,39.0436,NA,1987,"Empidonax difficilis","Empidonax_difficilis",10.4,NA,"male",0.7,430,7.63453080457867,33.9641631671561,"Summer",30388
+7,-121.5,36.3,NA,1977,"Empidonax difficilis","Empidonax_difficilis",12,NA,"female",14.8,436,5.36223466532943,182.266816411933,"Summer",30389

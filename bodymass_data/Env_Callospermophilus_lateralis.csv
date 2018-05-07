@@ -1,0 +1,758 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-111.7282,35.2156,NA,2003,"Callospermophilus lateralis","Callospermophilus_lateralis",74.4,210,"female",8.6,564,7.85128343108001,91.0419821926039,"Summer",12100
+7,-106.3945,39.1602,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",180,260,"female",1.8,449,8.87789218773069,61.4800558581532,"Summer",12101
+7,-106.3945,39.1602,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",167,255,"male",1.8,449,8.87789218773069,61.4800558581532,"Summer",12102
+7,-108.7349,40.8295,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",260.7,286,"female",7.4,227,10.3083667107076,57.797381247736,"Summer",12103
+4,-105.5142,40.0205,NA,2008,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",151.2,275,"male",3.5,560,8.02693854618574,52.197653500167,"Spring",12104
+7,-106.1548,39.0995,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",190.7,264,"male",0.4,748,8.23521632252534,47.8520671901861,"Summer",12105
+7,-106.1548,39.0995,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",167.1,254,"male",0.4,748,8.23521632252534,47.8520671901861,"Summer",12106
+5,-105.0244,38.0196,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",178,298,"female",6.3,651,7.53639150852031,49.9333194368536,"Spring",12107
+7,-105.7391,39.5368,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",179,242,"male",1.4,537,7.726028420315,52.6699265969774,"Summer",12108
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",196.4,253,"male",2.5,588,7.80517990396976,72.1106837838127,"Summer",12109
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",172.2,263,"female",2.5,588,7.80517990396976,72.1106837838127,"Summer",12110
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",162.8,255,"female",2.5,588,7.80517990396976,72.1106837838127,"Summer",12111
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",154.2,253,"male",2.5,588,7.80517990396976,72.1106837838127,"Summer",12112
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",86.7,209,"female",2.5,588,7.80517990396976,72.1106837838127,"Summer",12113
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",118.3,247,"female",2.5,588,7.80517990396976,72.1106837838127,"Summer",12114
+7,-105.6264,40.6596,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",193.3,303,"male",1.3,544,7.89469998662317,64.428361932797,"Summer",12115
+7,-105.6264,40.6596,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",178.1,270,"female",1.3,544,7.89469998662317,64.428361932797,"Summer",12116
+7,-105.7391,39.5368,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",134.5,230,"female",1.4,537,7.726028420315,52.6699265969774,"Summer",12117
+7,-105.7391,39.5368,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",213.8,236,"female",1.4,537,7.726028420315,52.6699265969774,"Summer",12118
+7,-105.7391,39.5368,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",175.2,258,"female",1.4,537,7.726028420315,52.6699265969774,"Summer",12119
+6,-110.40022,41.05548,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",140,271,"female",4.4,368,8.2702231474786,52.879370970211,"Summer",12120
+8,-112.9915,44.06136,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",169,282,"female",3.2,428,10.485863499652,57.5249773479178,"Summer",12121
+8,-106.688,38.2074,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",136.4,265,"male",2.1,349,9.14544099041106,52.3163588684599,"Summer",12122
+7,-105.814317,38.210439,NA,1982,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",208.5,275,"female",3.2,463,7.71791991917433,75.7387956707733,"Summer",12125
+6,-105.873904,38.715216,NA,1988,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",157,260,"female",3.1,269,9.12233356641653,59.6824016561071,"Summer",12126
+8,-105.856738,38.698849,NA,1989,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",202,255,"male",3.3,284,8.02486193594065,45.6140311049092,"Summer",12127
+7,-109.439895,41.492318,NA,1993,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",210.2,242,"female",4.8,244,10.1848483721475,57.3664031000469,"Summer",12128
+7,-105.875536,38.727965,NA,1997,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",128,245,"male",2.4,400,8.4235015752286,54.5022341710696,"Summer",12129
+5,-107.4530098,38.8763581,NA,1992,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",121,232,"male",7.4,545,8.07098713499987,58.3255763145321,"Spring",12130
+5,-107.4530098,38.8763581,NA,1992,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",108.6,229,"female",7.4,545,8.07098713499987,58.3255763145321,"Spring",12131
+6,-108.969273,40.4411202,"juvenile",1993,"Callospermophilus lateralis","Callospermophilus_lateralis",85,206,"male",4.7,493,9.40056413523178,59.4371294978565,"Summer",12132
+6,-108.969273,40.4411202,NA,1993,"Callospermophilus lateralis","Callospermophilus_lateralis",313,304,"female",4.7,493,9.40056413523178,59.4371294978565,"Summer",12133
+7,-108.3142513,38.5015294,"adult",1981,"Callospermophilus lateralis","Callospermophilus_lateralis",132,235,"female",8.1,485,8.03293881842792,63.121104989987,"Summer",12134
+7,-108.3281822,38.4941833,"adult",1981,"Callospermophilus lateralis","Callospermophilus_lateralis",142,235,"female",8.2,472,8.09209771657173,63.0856855151208,"Summer",12135
+5,-106.71645,35.9022,"adult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",167,223,"female",8.2,328,7.89025098498524,72.9264214035417,"Spring",12136
+5,-106.46315,37.8250166667,"adult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",217,264,"male",3.5,397,7.87802851818482,59.8176107627533,"Spring",12137
+5,-106.44735,37.8280833333,"subadult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",166,274,"male",4,322,8.16043670845668,63.303529801406,"Spring",12138
+5,-105.1089,38.0627333333,"adult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",198,292,"male",6.5,309,7.53293777454397,72.1445994455732,"Spring",12139
+5,-105.1092333333,38.05865,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",259,300,"female",6.4,311,7.53396350273918,72.1788764791349,"Spring",12140
+8,-112.9917,44.0625,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",139,270,"undetermined",3.2,427,10.5086111875409,56.7708594375972,"Summer",12141
+8,-112.9915,44.06136,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",169,282,"female",3.2,428,10.485863499652,57.5249773479178,"Summer",12142
+5,-106.731644,35.859732,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",169,284,"male",7.1,514,8.50577344032756,110.400368172308,"Spring",12143
+5,-106.731644,35.859732,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",239,265,"female",7.1,514,8.50577344032756,110.400368172308,"Spring",12144
+5,-106.662423,35.896824,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",235,273,"female",6.5,569,8.43605178368232,106.630355609206,"Spring",12145
+6,-106.731644,35.859732,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",245,277,"female",7.1,514,8.50577344032756,110.400368172308,"Summer",12146
+8,-106.731644,35.859732,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",218,263,"male",7.1,514,8.50577344032756,110.400368172308,"Summer",12147
+8,-106.731644,35.859732,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",224,263,"female",7.1,514,8.50577344032756,110.400368172308,"Summer",12148
+6,-119.7699,37.75775,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",210,292,"male",10.3,932,6.79879668497569,144.507029334145,"Summer",12152
+6,-119.7699,37.75775,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",181,264,"female",10.3,932,6.79879668497569,144.507029334145,"Summer",12153
+6,-119.7699,37.75775,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",164,280,"male",10.3,932,6.79879668497569,144.507029334145,"Summer",12154
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",142,259,"female",9.1,946,6.82786181536336,139.944865609835,"Summer",12155
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",148,265,"female",9.1,946,6.82786181536336,139.944865609835,"Summer",12156
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",183,272,"male",9.1,946,6.82786181536336,139.944865609835,"Summer",12157
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",196,276,"male",9.1,946,6.82786181536336,139.944865609835,"Summer",12158
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,252,"female",9.1,946,6.82786181536336,139.944865609835,"Summer",12159
+7,-119.58647,37.69924,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",212,264,"female",8.8,984,6.79725323311935,132.975133110045,"Summer",12160
+7,-119.58647,37.69924,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",207,271,"male",8.8,984,6.79725323311935,132.975133110045,"Summer",12161
+7,-119.58647,37.69924,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",228,278,"male",8.8,984,6.79725323311935,132.975133110045,"Summer",12162
+7,-119.58647,37.69924,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,279,"male",8.8,984,6.79725323311935,132.975133110045,"Summer",12163
+7,-119.69941,37.65271,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",159,270,"female",10.7,942,6.93984979315224,132.298176284579,"Summer",12164
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",262,290,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12165
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",141,257,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12166
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,272,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12167
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",201,263,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12168
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",168,276,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12169
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",217,272,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12170
+7,-119.25506,37.76807,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",210,280,"female",3.1,947,7.04818910763394,104.40056065537,"Summer",12171
+7,-119.26395,37.77719,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",165,272,"male",3.3,944,7.03437447413942,109.831917328178,"Summer",12172
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,274,"female",6,786,6.92680345185325,112.869954099475,"Summer",12173
+8,-119.41385,37.91586,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",166,260,"male",5.8,770,6.94346760806461,111.226216814284,"Summer",12174
+8,-119.4286,37.91343,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",210,287,"male",6.1,803,6.92006305804165,114.342751579096,"Summer",12175
+8,-119.43121,37.90344,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",71,202,"female",5.7,826,6.94700720389069,113.638166678034,"Summer",12176
+8,-119.43205,37.9007,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",157,NA,"male",5.7,832,6.92247109496356,113.483395648658,"Summer",12177
+8,-119.43205,37.9007,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171,261,"male",5.7,832,6.92247109496356,113.483395648658,"Summer",12178
+7,-119.49919,37.82637,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",179,227,"female",5.9,1124,6.24055043221106,118.834376093719,"Summer",12179
+7,-119.33617,37.79778,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",197,263,"male",3,1051,6.54015568344029,119.994062932908,"Summer",12180
+7,-119.33617,37.79778,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",162,254,"female",3,1051,6.54015568344029,119.994062932908,"Summer",12181
+7,-119.39641,37.74036,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",191,277,"male",6.4,915,6.42379572489284,116.502953103523,"Summer",12182
+7,-119.39641,37.74036,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",106,239,"female",6.4,915,6.42379572489284,116.502953103523,"Summer",12183
+7,-119.39529,37.73314,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",202,270,"female",6.2,920,6.44719224769883,116.689174985058,"Summer",12184
+7,-119.40923,37.73954,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",120,250,"male",6.7,960,6.37097466498009,117.898261225516,"Summer",12185
+7,-119.41345,37.74051,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",140,259,"male",6.7,967,6.35487763036942,117.95444146101,"Summer",12186
+8,-119.74298,37.75456,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",190,270,"female",10.2,796,6.29417118523884,118.428529106889,"Summer",12187
+8,-119.74298,37.75456,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",245,280,"female",10.2,796,6.29417118523884,118.428529106889,"Summer",12188
+8,-119.74298,37.75456,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,275,"female",10.2,796,6.29417118523884,118.428529106889,"Summer",12189
+7,-119.12977,37.90028,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",219,271,"female",7.8,570,7.12281864534999,112.757162916464,"Summer",12190
+7,-119.12977,37.90028,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",91,235,"male",7.8,570,7.12281864534999,112.757162916464,"Summer",12191
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",205,258,"female",5.5,787,6.73523075575985,110.195097308404,"Summer",12192
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,255,"male",5.5,787,6.73523075575985,110.195097308404,"Summer",12193
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,255,"female",5.5,787,6.73523075575985,110.195097308404,"Summer",12194
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,246,"female",5.5,787,6.73523075575985,110.195097308404,"Summer",12195
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",165,265,"male",5.5,787,6.73523075575985,110.195097308404,"Summer",12196
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",82,281,"male",5.5,787,6.73523075575985,110.195097308404,"Summer",12197
+8,-119.48162,38.11332,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",159.8,255,"male",3.1,1588,6.44040277302498,104.733312360683,"Summer",12198
+1,-121.5021307,40.474897,NA,1995,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,247,"female",5.1,5137,5.65926432739033,131.372240894881,"Winter",12199
+9,-121.1244416,40.72145238,"adult",2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",167.4,255,"male",8.9,613,7.43515400993921,95.7303892930747,"Fall",12200
+9,-121.148229,40.7308689,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",230,266,"male",9.1,587,7.40435989499062,95.5622091886684,"Fall",12201
+9,-121.1148134,40.73790614,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",160,267,"male",9.1,628,7.33738352341603,93.438347754951,"Fall",12202
+6,-120.812027,40.5478952,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",236,263,"female",9.1,805,8.19106590170416,92.440398556701,"Summer",12203
+6,-120.76608,40.52491,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",150,250,"female",9.2,808,8.29495556822265,95.6341149844027,"Summer",12204
+6,-120.76608,40.52491,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",184,278,"female",9.2,808,8.29495556822265,95.6341149844027,"Summer",12205
+6,-120.76846,40.52672,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",184,254,"female",9.1,810,8.25581062591125,95.7023951662587,"Summer",12206
+9,-120.215,39.4463,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",144.5,243,"female",7.4,934,7.26316985644948,105.221956210293,"Fall",12207
+7,-121.62932,40.34688,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",240,286,"female",9.8,1784,7.30881576445787,101.723103231663,"Summer",12208
+7,-121.62932,40.34688,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",230,287,"male",9.8,1784,7.30881576445787,101.723103231663,"Summer",12209
+7,-121.62932,40.34688,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",270,300,"undetermined",9.8,1784,7.30881576445787,101.723103231663,"Summer",12210
+7,-121.55757,40.35804,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",211,272,"female",8.9,1989,7.22862051469397,102.679257186209,"Summer",12211
+7,-121.55757,40.35804,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",178,262,"female",8.9,1989,7.22862051469397,102.679257186209,"Summer",12212
+7,-121.55757,40.35804,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",185,264,"male",8.9,1989,7.22862051469397,102.679257186209,"Summer",12213
+8,-120.13889,40.82822,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,253,"male",8.7,324,8.26861078068282,86.1821328347855,"Summer",12214
+9,-121.51794,40.46886,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",169,261,"male",6.2,3672,7.33633547364201,107.901368148459,"Fall",12215
+9,-121.51794,40.46886,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",177,272,"female",6.2,3672,7.33633547364201,107.901368148459,"Fall",12216
+9,-121.5104,40.47066,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",194,278,"male",6.2,3707,7.33205395175971,107.855436124231,"Fall",12217
+9,-121.5104,40.47066,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",179,255,"female",6.2,3707,7.33205395175971,107.855436124231,"Fall",12218
+9,-121.5104,40.47066,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",161,266,"female",6.2,3707,7.33205395175971,107.855436124231,"Fall",12219
+9,-121.57018,40.53759,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",137,245,"female",8.3,1373,7.24449111498879,99.1054248429766,"Fall",12220
+9,-121.57018,40.53759,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",133,241,"female",8.3,1373,7.24449111498879,99.1054248429766,"Fall",12221
+9,-121.57018,40.53759,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",169,253,"female",8.3,1373,7.24449111498879,99.1054248429766,"Fall",12222
+9,-121.57018,40.53759,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",207,258,"male",8.3,1373,7.24449111498879,99.1054248429766,"Fall",12223
+5,-118.34076,36.77276,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",167,262,"female",5.5,374,6.73320581937465,177.798512828184,"Spring",12224
+5,-119.12848,37.90753,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",145,262,"female",7.9,204,7.70856961144838,154.692923475356,"Spring",12225
+8,-121.29406,40.5895,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",103,231,"male",8.2,527,7.57561378651422,114.155837440044,"Summer",12226
+9,-120.61235,40.80434,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",162,275,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",12227
+8,-121.36086,40.40637,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",125.6,256,"male",8.3,855,7.36778409185845,136.890222323681,"Summer",12228
+5,-118.59486,37.24442,NA,2010,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,265,"male",5.3,294,6.48150632510871,129.967098704534,"Spring",12229
+5,-118.59486,37.24442,NA,2010,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",162,271,"male",5.3,294,6.48150632510871,129.967098704534,"Spring",12230
+8,-118.555,37.1031,NA,2010,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,277,"female",0.9,879,6.12433669877808,128.694135692102,"Summer",12231
+6,-118.74615,41.69606,NA,2012,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",231,263,"male",6.2,441,8.1648312718004,89.3045154984675,"Summer",12232
+8,-118.69147,41.6663,NA,2012,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",125,245,"female",5.6,498,8.21256889644086,92.6465359307118,"Summer",12233
+8,-118.68986,41.66658,NA,2012,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",155,262,"male",5.1,517,8.15699643919813,92.9785818127202,"Summer",12234
+8,-118.69147,41.6663,NA,2012,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",164,265,"male",5.6,498,8.21256889644086,92.6465359307118,"Summer",12235
+8,-118.69147,41.6663,NA,2012,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",169,271,"male",5.6,498,8.21256889644086,92.6465359307118,"Summer",12236
+9,-118.22762,36.48025,NA,2012,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",165,264,"male",0.9,444,6.05990298952254,98.4979158742415,"Fall",12237
+6,-118.52769,37.24055,NA,2013,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",203,282,"male",2.4,223,6.45776488211883,93.0761654624133,"Summer",12238
+6,-118.52769,37.24055,NA,2013,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",87,211,"male",2.4,223,6.45776488211883,93.0761654624133,"Summer",12239
+6,-118.52769,37.24055,NA,2013,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",214,278,"male",2.4,223,6.45776488211883,93.0761654624133,"Summer",12240
+7,-119.26826,38.41682,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",181,266,"female",2.5,360,7.36422042202991,57.9968651190421,"Summer",12241
+7,-119.26826,38.41682,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",175,274,"male",2.5,360,7.36422042202991,57.9968651190421,"Summer",12242
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",195,289,"male",4.9,546,9.65330450564924,51.9799333507099,"Summer",12243
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",105,247,"female",4.9,546,9.65330450564924,51.9799333507099,"Summer",12244
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",130,264,"female",4.9,546,9.65330450564924,51.9799333507099,"Summer",12245
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",195,277,"male",4.9,546,9.65330450564924,51.9799333507099,"Summer",12246
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",122,251,"male",4.9,546,9.65330450564924,51.9799333507099,"Summer",12247
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",128,258,"male",4.9,546,9.65330450564924,51.9799333507099,"Summer",12248
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",123,257,"male",4.9,546,9.65330450564924,51.9799333507099,"Summer",12249
+7,-119.809105,38.554416,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",268,255,"female",2.3,1643,6.5727340835708,107.700986584479,"Summer",12250
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",174,265,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12251
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",198,260,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12252
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",160,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12253
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",196,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12254
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",156,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12255
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",208,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12256
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",152,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12257
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",135,235,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12258
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",111,220,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12259
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",174,270,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12260
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",158,255,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12261
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",140,240,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12262
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",141,230,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12263
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,245,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12264
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",156,270,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12265
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",164,255,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12266
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",121,220,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12267
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",246,225,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12268
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",126,240,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12269
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",162,265,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12270
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",207,220,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12271
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",162,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12272
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",165,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12273
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",187,260,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12274
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",153,240,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12275
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",145,252,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12276
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",234,255,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12277
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",136,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12278
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",195,NA,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12279
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",158,250,"female",7.5,399,7.59429610519193,114.188838811378,"Spring",12280
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",163,260,"female",7.5,399,7.59429610519193,114.188838811378,"Spring",12281
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",130,245,"female",7.5,399,7.59429610519193,114.188838811378,"Spring",12282
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",201,270,"male",7.5,399,7.59429610519193,114.188838811378,"Spring",12283
+5,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",184,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Spring",12284
+6,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",166,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Summer",12285
+6,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",144,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Summer",12286
+5,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",151,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Spring",12287
+5,-120.70559,40.4198,NA,1976,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",160,NA,"male",7.8,187,7.03650653679965,76.1131252331027,"Spring",12288
+5,-120.70559,40.4198,NA,1976,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",144,NA,"male",7.8,187,7.03650653679965,76.1131252331027,"Spring",12289
+5,-120.70559,40.4198,NA,1976,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",158,NA,"male",7.8,187,7.03650653679965,76.1131252331027,"Spring",12290
+7,-120.35965,39.36419,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",152,257,"female",4.3,1893,6.96008098176503,107.347724675408,"Summer",12291
+7,-120.35965,39.36419,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",190.5,265,"female",4.3,1893,6.96008098176503,107.347724675408,"Summer",12292
+7,-120.35965,39.36419,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",210,268,"female",4.3,1893,6.96008098176503,107.347724675408,"Summer",12293
+7,-120.35965,39.36419,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",190,271,"female",4.3,1893,6.96008098176503,107.347724675408,"Summer",12294
+7,-120.35965,39.36419,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171.1,257,"female",4.3,1893,6.96008098176503,107.347724675408,"Summer",12295
+6,-120.22159,39.45013,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171.5,263,"female",5.2,958,6.95027250392299,101.791793044603,"Summer",12296
+6,-120.22159,39.45013,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",190,270,"male",5.2,958,6.95027250392299,101.791793044603,"Summer",12297
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",215,265,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12298
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",138,265,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12299
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",211,270,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12300
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",164,250,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12301
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,260,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12302
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,245,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12303
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",228,255,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12304
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,250,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12305
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",198,275,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12306
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",187,265,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12307
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",202,245,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12308
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",190,240,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12309
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",220,265,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12310
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",205,255,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12311
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",164,245,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12312
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",217,275,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12313
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",206,255,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12314
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,265,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12315
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",159,235,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12316
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",162,250,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12317
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,NA,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12318
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",225,245,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12319
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",174,250,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12320
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",240,260,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12321
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",195,260,"female",5.3,720,6.93766072704888,115.00582480776,"Spring",12322
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",167,NA,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12323
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,250,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12324
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",152,245,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12325
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",138,245,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12326
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",236,285,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12327
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",202,275,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12328
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",164,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12329
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",220,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12330
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",177,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12331
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",193,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12332
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12333
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",201,NA,"female",5.3,720,6.93766072704888,115.00582480776,"Summer",12334
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",177,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12335
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12336
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",197,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12337
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",187,NA,"female",5.3,720,6.93766072704888,115.00582480776,"Summer",12338
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",177,NA,"female",5.3,720,6.93766072704888,115.00582480776,"Summer",12339
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",192,NA,"female",5.3,720,6.93766072704888,115.00582480776,"Spring",12340
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",172,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12341
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",131,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12342
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",150,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12343
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12344
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",202,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12345
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",140,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12346
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",196.2,249,"male",2.2,1679,6.82510406181074,102.993934389177,"Summer",12347
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",198,260,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12348
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",67,195,"male",2.2,1679,6.82510406181074,102.993934389177,"Summer",12349
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",202.6,NA,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12350
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",161,NA,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12351
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,NA,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12352
+7,-120.05328,39.55457,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",84,205,"female",6.9,765,7.34791250504646,98.4234893264666,"Summer",12353
+7,-120.05328,39.55457,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,263,"female",6.9,765,7.34791250504646,98.4234893264666,"Summer",12354
+7,-120.05328,39.56906,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",262,255,"female",6.8,744,7.36082999272624,98.2953122596611,"Summer",12355
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",169,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12356
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",177,255,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12357
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",161,240,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12358
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12359
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",187,254,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12360
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",212,255,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12361
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",191,247,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12362
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",152,255,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12363
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,255,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12364
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",177,250,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12365
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,268,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12366
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",147,245,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12367
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",198,265,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12368
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",161,270,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12369
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",178,252,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12370
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",193,245,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12371
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",210,260,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12372
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,270,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12373
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",222,260,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12374
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",186,255,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12375
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",231,255,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12376
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,250,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12377
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",212,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12378
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",179,270,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12379
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",172,255,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12380
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",161,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12381
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",157,235,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12382
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",179,250,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12383
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",245,275,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12384
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",149,255,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12385
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",191,265,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12386
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12387
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",144,245,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12388
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",165,250,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12389
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",157,250,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12390
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",201,265,"female",6.5,517,7.54025057858681,112.971999618369,"Spring",12391
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",178,260,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12392
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",195,NA,"male",7.2,438,7.29065404224041,107.310966001979,"Spring",12393
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",166,NA,"male",7.2,438,7.29065404224041,107.310966001979,"Spring",12394
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",186,NA,"male",7.2,438,7.29065404224041,107.310966001979,"Summer",12395
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",131,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12396
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",134,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12397
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",189,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12398
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",197,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12399
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",169,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12400
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",201,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12401
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",196,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12402
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",167,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12403
+6,-113.69987,45.35043,NA,2010,"Callospermophilus lateralis","Callospermophilus_lateralis",226,274,"female",1.8,1051,7.32159011541768,53.0433481340002,"Summer",12404
+6,-113.79028,45.34333,NA,2010,"Callospermophilus lateralis","Callospermophilus_lateralis",172,282,"male",5.4,677,8.35291184938739,56.1599971457031,"Summer",12405
+7,-121.50557,46.32541,NA,2010,"Callospermophilus lateralis","Callospermophilus_lateralis",258,318,"male",3.4,1788,5.55591412984234,58.8859855709865,"Summer",12406
+6,-105.32333,39.41,"juvenile",2001,"Callospermophilus lateralis","Callospermophilus_lateralis",91.9,217,"male",8.1,531,8.40838326260816,60.1044432240925,"Summer",12407
+5,-105.5142,40.0205,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",137.3,270,"female",4.4,594,8.48283025239272,49.4587561313317,"Spring",12408
+7,-108.7349,40.8295,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",252.1,273,"female",7.4,227,10.3083667107076,57.797381247736,"Summer",12409
+7,-105.1383,38.0139,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",173,258,"male",1.1,522,7.60302969914366,66.0683503802918,"Summer",12410
+7,-105.1383,38.0139,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",180,269,"female",1.1,522,7.60302969914366,66.0683503802918,"Summer",12411
+7,-107.1103,40.0347,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",175.7,274,"male",-0.4,1048,8.39582778780176,55.804707613276,"Summer",12412
+7,-107.1103,40.0347,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",177,278,"female",-0.4,1048,8.39582778780176,55.804707613276,"Summer",12413
+7,-106.1548,39.0995,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",213.5,295,"female",0.4,748,8.23521632252534,47.8520671901861,"Summer",12414
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",228,228,"female",2.5,588,7.80517990396976,72.1106837838127,"Summer",12415
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",178.5,283,"male",2.5,588,7.80517990396976,72.1106837838127,"Summer",12416
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",204.8,269,"female",2.5,588,7.80517990396976,72.1106837838127,"Summer",12417
+7,-105.6413,40.8005,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",103.7,250,"female",2.5,588,7.80517990396976,72.1106837838127,"Summer",12418
+7,-105.7391,39.5368,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",140.3,251,"male",1.4,537,7.726028420315,52.6699265969774,"Summer",12419
+7,-105.7391,39.5368,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",122.9,230,"female",1.4,537,7.726028420315,52.6699265969774,"Summer",12420
+7,-105.7391,39.5368,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",131.9,240,"male",1.4,537,7.726028420315,52.6699265969774,"Summer",12421
+8,-112.9917,44.0625,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",139,270,"undetermined",3.2,427,10.5086111875409,56.7708594375972,"Summer",12422
+8,-112.9918,44.06136,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",140,261,"male",3.2,428,10.485863499652,57.5249773479178,"Summer",12423
+8,-112.9918,44.06136,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",269,265,"female",3.2,428,10.485863499652,57.5249773479178,"Summer",12424
+9,-118.98678,37.890149,NA,2004,"Callospermophilus lateralis","Callospermophilus_lateralis",140,255,"male",7.3,485,7.19081906237939,122.154750163989,"Fall",12425
+9,-118.3409,36.7726,NA,2005,"Callospermophilus lateralis","Callospermophilus_lateralis",142.96,260,"male",5.6,960,6.26706156073647,131.580598284156,"Fall",12427
+9,-118.3409,36.7726,NA,2005,"Callospermophilus lateralis","Callospermophilus_lateralis",149.87,249,"female",5.6,960,6.26706156073647,131.580598284156,"Fall",12428
+9,-118.3409,36.7726,NA,2005,"Callospermophilus lateralis","Callospermophilus_lateralis",182.54,247,"female",5.6,960,6.26706156073647,131.580598284156,"Fall",12429
+6,-105.873904,38.715216,NA,1988,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",137.7,255,"male",3.1,269,9.12233356641653,59.6824016561071,"Summer",12430
+7,-109.439895,41.492318,NA,1993,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",90,239,"male",4.8,244,10.1848483721475,57.3664031000469,"Summer",12431
+7,-120.203517,39.432825,NA,1970,"Callospermophilus lateralis","Callospermophilus_lateralis",183,NA,"male",5.6,1054,6.76521293534846,127.527938591505,"Summer",12432
+5,-106.6637666667,35.8972666667,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",132,245,"male",8.2,364,7.68853436007544,69.3445246165789,"Spring",12433
+5,-106.6616,35.89715,"adult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",164,267,"male",8.2,364,7.68853436007544,69.3445246165789,"Spring",12434
+5,-106.44525,37.8305333333,"subadult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",170,281,"male",4,323,8.15278349938711,63.3407499269038,"Spring",12435
+5,-108.7138,33.564,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",226,291,"female",11.5,335,7.14229824653271,109.264703862703,"Spring",12436
+5,-105.1082333333,38.0593333333,"adult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",215,248,"female",6.5,309,7.52528565852647,71.6976592839532,"Spring",12437
+5,-105.1089,38.0627333333,"adult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",221,294,"female",6.5,309,7.53293777454397,72.1445994455732,"Spring",12438
+5,-105.1089,38.0627333333,"adult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",175,273,"male",6.5,309,7.53293777454397,72.1445994455732,"Spring",12439
+5,-105.1092333333,38.05865,"adult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",228,294,"female",6.4,311,7.53396350273918,72.1788764791349,"Spring",12440
+8,-112.9918,44.06136,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",140,261,"male",3.2,428,10.485863499652,57.5249773479178,"Summer",12441
+8,-112.9918,44.06136,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",269,265,"female",3.2,428,10.485863499652,57.5249773479178,"Summer",12442
+5,-106.731644,35.859732,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",195,285,"male",7.1,514,8.50577344032756,110.400368172308,"Spring",12443
+5,-106.731644,35.859732,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",169.5,265,"female",7.1,514,8.50577344032756,110.400368172308,"Spring",12444
+5,-106.662423,35.896824,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",240,236,"female",6.5,569,8.43605178368232,106.630355609206,"Spring",12445
+5,-106.662423,35.896824,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",175,266,"male",6.5,569,8.43605178368232,106.630355609206,"Spring",12446
+6,-106.731644,35.859732,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",251,281,"female",7.1,514,8.50577344032756,110.400368172308,"Summer",12447
+8,-106.751561,35.949284,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",305,277,"female",5.3,554,8.57601924325069,108.46001126113,"Summer",12448
+8,-106.731644,35.859732,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",241,274,"female",7.1,514,8.50577344032756,110.400368172308,"Summer",12449
+8,-106.731644,35.859732,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",275,264,"female",7.1,514,8.50577344032756,110.400368172308,"Summer",12450
+8,-114.27636,42.17619,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",227,279,"male",5.1,611,10.1128481136472,60.3717816405516,"Summer",12451
+8,-114.2765,42.17581,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",130,258,"male",5.1,611,10.1002662731177,60.3717816405516,"Summer",12452
+8,-114.2722,42.19138,"subadult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",145,266,"female",4.8,628,10.0995349427885,60.3409109501772,"Summer",12453
+6,-119.7699,37.75775,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",208,273,"female",10.3,932,6.79879668497569,144.507029334145,"Summer",12461
+6,-119.7699,37.75775,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",198,285,"female",10.3,932,6.79879668497569,144.507029334145,"Summer",12462
+6,-119.7699,37.75775,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,273,"male",10.3,932,6.79879668497569,144.507029334145,"Summer",12463
+6,-119.7699,37.75775,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,274,"female",10.3,932,6.79879668497569,144.507029334145,"Summer",12464
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",169,277,"female",9.1,946,6.82786181536336,139.944865609835,"Summer",12465
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",226,293,"female",9.1,946,6.82786181536336,139.944865609835,"Summer",12466
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",152,236,"female",9.1,946,6.82786181536336,139.944865609835,"Summer",12467
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",208,268,"male",9.1,946,6.82786181536336,139.944865609835,"Summer",12468
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",175,263,"male",9.1,946,6.82786181536336,139.944865609835,"Summer",12469
+7,-119.58527,37.67037,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",211,274,"female",9.1,946,6.82786181536336,139.944865609835,"Summer",12470
+7,-119.58647,37.69924,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",152,257,"male",8.8,984,6.79725323311935,132.975133110045,"Summer",12471
+7,-119.65707,37.67152,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",179,274,"male",8.8,956,6.88522242769163,141.78418154374,"Summer",12472
+7,-119.65707,37.67152,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",212,283,"female",8.8,956,6.88522242769163,141.78418154374,"Summer",12473
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,274,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12474
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",228,267,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12475
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,272,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12476
+7,-119.26115,37.77819,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",229,283,"female",3.3,931,7.02262037772917,108.160544579976,"Summer",12477
+7,-119.25506,37.76807,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",294,268,"male",3.1,947,7.04818910763394,104.40056065537,"Summer",12478
+7,-119.25506,37.76807,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",159,268,"female",3.1,947,7.04818910763394,104.40056065537,"Summer",12479
+7,-119.25828,37.77211,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,276,"male",3.1,950,7.03878325401271,105.954251337495,"Summer",12480
+7,-119.25506,37.76807,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",174,267,"male",3.1,947,7.04818910763394,104.40056065537,"Summer",12481
+7,-119.25723,37.7672,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,274,"male",3.1,957,7.03211248918887,105.686991680603,"Summer",12482
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",206,280,"female",6,786,6.92680345185325,112.869954099475,"Summer",12483
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",197,212,"male",6,786,6.92680345185325,112.869954099475,"Summer",12484
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",209,271,"female",6,786,6.92680345185325,112.869954099475,"Summer",12485
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",191,267,"male",6,786,6.92680345185325,112.869954099475,"Summer",12486
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",203,273,"male",6,786,6.92680345185325,112.869954099475,"Summer",12487
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",100,222,"female",6,786,6.92680345185325,112.869954099475,"Summer",12488
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",91,216,"female",6,786,6.92680345185325,112.869954099475,"Summer",12489
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",83,216,"female",6,786,6.92680345185325,112.869954099475,"Summer",12490
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",182,276,"male",6,786,6.92680345185325,112.869954099475,"Summer",12491
+8,-119.42225,37.91355,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",89,222,"male",6,786,6.92680345185325,112.869954099475,"Summer",12492
+8,-119.42421,37.9136,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",103,237,"male",6,792,6.93421468757157,113.472676970335,"Summer",12493
+8,-119.41385,37.91586,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",151,258,"female",5.8,770,6.94346760806461,111.226216814284,"Summer",12494
+8,-119.41607,37.91042,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,286,"male",5.8,772,6.91968535805968,110.977634367504,"Summer",12495
+8,-119.43121,37.90344,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",61,200,"male",5.7,826,6.94700720389069,113.638166678034,"Summer",12496
+8,-119.43121,37.90344,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",79,211,"male",5.7,826,6.94700720389069,113.638166678034,"Summer",12497
+8,-119.43121,37.90344,NA,2003,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",74,203,"male",5.7,826,6.94700720389069,113.638166678034,"Summer",12498
+6,-119.59254,37.83979,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",87,222,"male",7.9,1017,6.32500449155428,120.717432698633,"Summer",12499
+6,-119.75385,37.7748166667,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",150,245,"female",9.6,835,6.25422887236139,119.745925695103,"Summer",12500
+6,-119.63327,37.84631,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",212,278,"female",6.9,1067,6.2072538211354,122.863380391217,"Summer",12501
+7,-119.3469,37.78769,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",177,263,"female",3.2,1014,6.54707892301921,119.79766705276,"Summer",12502
+7,-119.39641,37.74036,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",125,257,"female",6.4,915,6.42379572489284,116.502953103523,"Summer",12503
+7,-119.39641,37.74036,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",189,279,"male",6.4,915,6.42379572489284,116.502953103523,"Summer",12504
+7,-119.39641,37.74036,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",97,233,"female",6.4,915,6.42379572489284,116.502953103523,"Summer",12505
+7,-119.39641,37.74036,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",91,230,"female",6.4,915,6.42379572489284,116.502953103523,"Summer",12506
+7,-119.39529,37.73314,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",192,267,"female",6.2,920,6.44719224769883,116.689174985058,"Summer",12507
+7,-119.39529,37.73314,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",164,265,"female",6.2,920,6.44719224769883,116.689174985058,"Summer",12508
+7,-119.39529,37.73314,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",165,283,"male",6.2,920,6.44719224769883,116.689174985058,"Summer",12509
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",190,260,"female",5.5,787,6.73523075575985,110.195097308404,"Summer",12510
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",165,258,"male",5.5,787,6.73523075575985,110.195097308404,"Summer",12511
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",95,230,"undetermined",5.5,787,6.73523075575985,110.195097308404,"Summer",12512
+7,-119.16125,37.87078,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",160,255,"female",5.5,787,6.73523075575985,110.195097308404,"Summer",12513
+8,-119.48164,38.11107,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",186.2,272,"female",3.1,1589,6.44098500842751,104.635755750294,"Summer",12514
+7,-118.14757,37.50348,NA,2006,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",112,241,"male",2.5,256,7.21981175780794,105.505833127196,"Summer",12515
+7,-118.14757,37.50348,NA,2006,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",119,245,"female",2.5,256,7.21981175780794,105.505833127196,"Summer",12516
+7,-118.19846,37.50742,NA,2006,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",173,252,"female",1.6,267,7.16216384265893,106.394510264083,"Summer",12517
+9,-121.4653115,40.515618,NA,2000,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",208,175,"male",6.5,2037,6.14971667245859,122.478888732681,"Fall",12518
+8,-121.5267805,40.4449639,NA,2000,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",135,250,"female",6.7,2704,6.17135980300791,123.204371494307,"Summer",12519
+10,-121.1823575,40.73068605,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",145,242,"female",9.1,571,7.28104117596245,97.5778169984543,"Fall",12520
+9,-121.1165673,40.74415939,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",140,258,"female",9.2,642,7.2468331641546,92.7229871973285,"Fall",12521
+6,-120.8382851,40.6306992,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171,249,"female",8.8,752,8.13184909457681,92.7039724237763,"Summer",12522
+6,-120.7791,40.5486,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",236,285,"female",9.2,752,8.22201405687896,92.8262496383356,"Summer",12523
+6,-120.76608,40.52491,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,258,"male",9.2,808,8.29495556822265,95.6341149844027,"Summer",12524
+6,-120.76846,40.52672,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",166,277,"female",9.1,810,8.25581062591125,95.7023951662587,"Summer",12525
+7,-121.62932,40.34688,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",224,273,"female",9.8,1784,7.30881576445787,101.723103231663,"Summer",12526
+7,-121.62932,40.34688,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",192,273,"female",9.8,1784,7.30881576445787,101.723103231663,"Summer",12527
+7,-121.62932,40.34688,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",220,279,"male",9.8,1784,7.30881576445787,101.723103231663,"Summer",12528
+7,-121.62932,40.34688,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",225,285,"female",9.8,1784,7.30881576445787,101.723103231663,"Summer",12529
+7,-121.62932,40.34688,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,270,"female",9.8,1784,7.30881576445787,101.723103231663,"Summer",12530
+7,-121.55757,40.35804,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",223,267,"female",8.9,1989,7.22862051469397,102.679257186209,"Summer",12531
+7,-121.55757,40.35804,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",192,264,"male",8.9,1989,7.22862051469397,102.679257186209,"Summer",12532
+9,-121.51794,40.46886,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,271,"male",6.2,3672,7.33633547364201,107.901368148459,"Fall",12533
+9,-121.51794,40.46886,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",181,247,"male",6.2,3672,7.33633547364201,107.901368148459,"Fall",12534
+9,-121.5104,40.47066,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",154,269,"female",6.2,3707,7.33205395175971,107.855436124231,"Fall",12535
+9,-121.57018,40.53759,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",131,239,"female",8.3,1373,7.24449111498879,99.1054248429766,"Fall",12536
+9,-121.57018,40.53759,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",219,264,"female",8.3,1373,7.24449111498879,99.1054248429766,"Fall",12537
+9,-121.57018,40.53759,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",172,271,"male",8.3,1373,7.24449111498879,99.1054248429766,"Fall",12538
+7,-121.52932,40.3774,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",345,260,"female",8.4,2333,7.20874889325884,104.39279140605,"Summer",12539
+9,-120.61235,40.80434,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",154,280,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",12540
+9,-120.77229,40.84426,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",130,240,"female",8.7,275,8.16026496153307,91.7677138119501,"Fall",12541
+9,-120.61235,40.80434,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",129,233,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",12542
+8,-121.36086,40.40637,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",143.2,244,"female",8.3,855,7.36778409185845,136.890222323681,"Summer",12543
+8,-121.36086,40.40637,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",120.8,248,"male",8.3,855,7.36778409185845,136.890222323681,"Summer",12544
+5,-118.59486,37.24442,NA,2010,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",172,272,"female",5.3,294,6.48150632510871,129.967098704534,"Spring",12545
+6,-118.74615,41.69606,NA,2012,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",212,268,"female",6.2,441,8.1648312718004,89.3045154984675,"Summer",12546
+8,-118.68986,41.66658,NA,2012,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",201,279,"male",5.1,517,8.15699643919813,92.9785818127202,"Summer",12547
+8,-118.68986,41.66658,NA,2012,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",219,2291,"male",5.1,517,8.15699643919813,92.9785818127202,"Summer",12548
+8,-118.69147,41.6663,NA,2012,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",211,283,"male",5.6,498,8.21256889644086,92.6465359307118,"Summer",12549
+6,-118.52769,37.24055,NA,2013,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",135,253,"female",2.4,223,6.45776488211883,93.0761654624133,"Summer",12550
+7,-119.26826,38.41682,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",182,NA,"male",2.5,360,7.36422042202991,57.9968651190421,"Summer",12551
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",186,280,"male",4.9,546,9.65330450564924,51.9799333507099,"Summer",12552
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",105,226,"male",4.9,546,9.65330450564924,51.9799333507099,"Summer",12553
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",134,252,"female",4.9,546,9.65330450564924,51.9799333507099,"Summer",12554
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",114,238,"female",4.9,546,9.65330450564924,51.9799333507099,"Summer",12555
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",130,261,"male",4.9,546,9.65330450564924,51.9799333507099,"Summer",12556
+7,-115.40357,40.64835,NA,2013,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",115,255,"female",4.9,546,9.65330450564924,51.9799333507099,"Summer",12557
+8,-118.69411,37.23799,NA,2013,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",120,241,"female",1.2,436,6.54640775887468,108.429909361419,"Summer",12558
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",148,245,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12559
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",172,245,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12560
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",112,NA,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12561
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",197,255,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12562
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",144,230,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12563
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",145,240,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12564
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",186,255,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12565
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171,240,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12566
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",124,230,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12567
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",137,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12568
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",151,245,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12569
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",174,265,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12570
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12571
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",156,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12572
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",134,235,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12573
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12574
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",166,260,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12575
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",209,260,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12576
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",189,260,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12577
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",123,235,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12578
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",127,250,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12579
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",194,260,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12580
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,270,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12581
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,270,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12582
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",141,255,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12583
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171,255,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12584
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,245,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12585
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",147,240,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12586
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",115,225,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12587
+5,-120.68405,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",209,270,"female",7.8,373,7.59886355139552,114.267456855835,"Spring",12588
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",160,270,"female",7.5,399,7.59429610519193,114.188838811378,"Spring",12589
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",133,245,"female",7.5,399,7.59429610519193,114.188838811378,"Spring",12590
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",188,240,"female",7.5,399,7.59429610519193,114.188838811378,"Spring",12591
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",168,265,"female",7.5,399,7.59429610519193,114.188838811378,"Spring",12592
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,270,"male",7.5,399,7.59429610519193,114.188838811378,"Spring",12593
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",160,255,"male",7.5,399,7.59429610519193,114.188838811378,"Spring",12594
+4,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",179,265,"male",7.5,399,7.59429610519193,114.188838811378,"Spring",12595
+5,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",182,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Spring",12596
+6,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",161,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Summer",12597
+6,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",187,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Summer",12598
+6,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",184,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Summer",12599
+6,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",188,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Summer",12600
+5,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",196,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Spring",12601
+5,-120.6487,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",140,NA,"male",8.3,345,7.6532623267744,115.063884808919,"Spring",12602
+5,-120.70559,40.4198,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",161,NA,"male",7.5,399,7.59429610519193,114.188838811378,"Spring",12603
+5,-120.70559,40.4198,NA,1976,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",158,NA,"male",7.8,187,7.03650653679965,76.1131252331027,"Spring",12604
+5,-120.70559,40.4198,NA,1976,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",165,NA,"male",7.8,187,7.03650653679965,76.1131252331027,"Spring",12605
+5,-120.70559,40.4198,NA,1976,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",145,NA,"male",7.8,187,7.03650653679965,76.1131252331027,"Spring",12606
+7,-120.35965,39.36419,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",202.5,275,"male",4.3,1893,6.96008098176503,107.347724675408,"Summer",12607
+7,-120.35965,39.36419,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",216,258,"female",4.3,1893,6.96008098176503,107.347724675408,"Summer",12608
+7,-120.35965,39.36419,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180.5,259,"female",4.3,1893,6.96008098176503,107.347724675408,"Summer",12609
+7,-120.35965,39.36419,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",146.8,265,"female",4.3,1893,6.96008098176503,107.347724675408,"Summer",12610
+6,-120.22159,39.45013,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180.5,280,"male",5.2,958,6.95027250392299,101.791793044603,"Summer",12611
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",216,255,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12612
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,255,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12613
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",173,250,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12614
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",193,250,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12615
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",182,255,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12616
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",232,NA,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12617
+6,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,250,"female",5.3,720,6.93766072704888,115.00548954838,"Summer",12618
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",272,NA,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12619
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",206,260,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12620
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",145,245,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12621
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",226,265,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12622
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",202,250,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12623
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",189,255,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12624
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",179,250,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12625
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",186,240,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12626
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",214,260,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12627
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",276,265,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12628
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",144,245,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12629
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",150,245,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12630
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",173,250,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12631
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,265,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12632
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",194,255,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12633
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",219,260,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12634
+5,-120.2201198,39.4439565,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",187,255,"female",5.3,720,6.93766072704888,115.00548954838,"Spring",12635
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12636
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",170,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12637
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",196,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12638
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",201,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12639
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",204,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12640
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",175,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12641
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",184,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12642
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",136,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12643
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",214,NA,"female",5.3,720,6.93766072704888,115.00582480776,"Summer",12644
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,NA,"female",5.3,720,6.93766072704888,115.00582480776,"Summer",12645
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",179,NA,"female",5.3,720,6.93766072704888,115.00582480776,"Summer",12646
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",147,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12647
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",133,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12648
+6,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Summer",12649
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12650
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",141,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12651
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",127,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12652
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12653
+5,-120.22159,39.44433,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,NA,"male",5.3,720,6.93766072704888,115.00582480776,"Spring",12654
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",208.1,270,"male",2.2,1679,6.82510406181074,102.993934389177,"Summer",12655
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",68,175,"male",2.2,1679,6.82510406181074,102.993934389177,"Summer",12656
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",198,250,"male",2.2,1679,6.82510406181074,102.993934389177,"Summer",12657
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",199,259,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12658
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",212,258,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12659
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",181,254,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12660
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",258.2,NA,"male",2.2,1679,6.82510406181074,102.993934389177,"Summer",12661
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,NA,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12662
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",209,NA,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12663
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",238,NA,"male",2.2,1679,6.82510406181074,102.993934389177,"Summer",12664
+7,-119.9111614,39.3243193,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",225,NA,"female",2.2,1679,6.82510406181074,102.993934389177,"Summer",12665
+7,-120.05328,39.55457,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",188.2,265,"female",6.9,765,7.34791250504646,98.4234893264666,"Summer",12666
+7,-120.05328,39.56906,NA,1973,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",100.5,225,"female",6.8,744,7.36082999272624,98.2953122596611,"Summer",12667
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171,NA,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12668
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",168,252,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12669
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",178,264,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12670
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",205,266,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12671
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",202,242,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12672
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",186,250,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12673
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",175,251,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12674
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",152,257,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12675
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,251,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12676
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",190,NA,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12677
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",169,230,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12678
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",201,285,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12679
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",210,260,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12680
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",188,265,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12681
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",198,257,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12682
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",191,270,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12683
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",161,255,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12684
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",189,265,"female",7.2,438,7.29065404224041,107.310966001979,"Summer",12685
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",187,246,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12686
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",189,255,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12687
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",182,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12688
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",121,240,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12689
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",187,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12690
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",163,255,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12691
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",181,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12692
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",185,250,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12693
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",233,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12694
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",190,255,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12695
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",158,235,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12696
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",194,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12697
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",215,270,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12698
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",177,260,"female",7.2,438,7.29065404224041,107.310966001979,"Spring",12699
+6,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",212,270,"female",6.5,517,7.54025057858681,112.971999618369,"Summer",12700
+6,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",146,250,"female",6.5,517,7.54025057858681,112.971999618369,"Summer",12701
+6,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",173,245,"female",6.5,517,7.54025057858681,112.971999618369,"Summer",12702
+6,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",197,250,"female",6.5,517,7.54025057858681,112.971999618369,"Summer",12703
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",140,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12704
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",135,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12705
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",127,NA,"female",6.5,517,7.54025057858681,112.971999618369,"Spring",12706
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",203,265,"female",6.5,517,7.54025057858681,112.971999618369,"Spring",12707
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",186,NA,"male",7.2,438,7.29065404224041,107.310966001979,"Spring",12708
+5,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,NA,"male",7.2,438,7.29065404224041,107.310966001979,"Spring",12709
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",146,NA,"male",7.2,438,7.29065404224041,107.310966001979,"Summer",12710
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",176,NA,"male",7.2,438,7.29065404224041,107.310966001979,"Summer",12711
+6,-120.0281,39.5653,NA,1974,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",181,NA,"male",7.2,438,7.29065404224041,107.310966001979,"Summer",12712
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",183,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12713
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",165,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12714
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",140,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12715
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",158,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12716
+5,-120.0281,39.5653,NA,1975,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",151,NA,"male",6.5,517,7.54025057858681,112.971999618369,"Spring",12717
+7,-119.90981,38.66816,NA,2009,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",203,370,"female",5.7,848,7.43596399978245,91.8878635490836,"Summer",12719
+7,-121.54021,46.34,NA,2010,"Callospermophilus lateralis","Callospermophilus_lateralis",186,284,"male",4.3,1728,5.50765307769493,59.1063277301521,"Summer",12720
+6,-114.53173,46.10779,NA,2010,"Callospermophilus lateralis","Callospermophilus_lateralis",184,284,"male",3.7,1301,7.14064337989147,56.5618601642401,"Summer",12721
+5,-105.6341,39.8042,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",220,265,"female",3.2,605,8.56608888512598,50.7185884543643,"Spring",12722
+5,-105.5152,40.0221,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",143.9,255,"male",4.4,596,8.48283025239272,49.4587561313317,"Spring",12723
+5,-105.4936,40.6884,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",166.2,241,"male",5.9,368,8.32851982192769,82.9702942480936,"Spring",12724
+8,-105.8572,40.2556,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",185.2,292,"female",2.8,519,9.33648350517604,58.211945252652,"Summer",12725
+8,-105.8572,40.2556,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",231,310,"male",2.8,519,9.33648350517604,58.211945252652,"Summer",12726
+7,-107.4729,37.3128,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",114.8,260,"male",6.2,676,8.37171916742205,69.921793692402,"Summer",12727
+7,-107.4729,37.3128,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",179.7,256,"male",6.2,676,8.37171916742205,69.921793692402,"Summer",12728
+7,-107.4729,37.3128,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",183.9,277,"female",6.2,676,8.37171916742205,69.921793692402,"Summer",12729
+8,-106.0665,39.9012,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",167.4,250,"male",2.2,519,8.80552082330721,27.6631548179325,"Summer",12730
+5,-105.4024,40.2605,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",174.8,245,"female",6.3,564,7.69987701594032,77.0996209641601,"Spring",12731
+5,-105.2655,39.3428,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",205.8,286,"female",7.1,676,7.38000985463742,76.2559203673901,"Spring",12732
+5,-105.2655,39.3428,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",158,265,"male",7.1,676,7.38000985463742,76.2559203673901,"Spring",12733
+6,-105.7512,38.8437,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",1,255,"female",2.6,357,8.18780967492084,68.3493095271931,"Summer",12734
+6,-105.7512,39.8437,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",212.9,289,"female",0.8,831,7.78920679044037,54.2521766366721,"Summer",12735
+6,-105.7512,39.8437,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",171,310,"female",0.8,831,7.78920679044037,54.2521766366721,"Summer",12736
+6,-105.7512,39.8437,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",179.6,284,"female",0.8,831,7.78920679044037,54.2521766366721,"Summer",12737
+8,-113.4081,44.3768,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",102.5,251,"female",1.8,578,9.50493890755557,80.8057656854682,"Summer",12738
+8,-107.3971,38.6156,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",112.1,237,"male",0.8,589,8.3241661699081,46.275311720683,"Summer",12739
+6,-106.7056,38.8286666667,"of",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",144,251,"male",1.2,574,8.67916348433873,65.7456549870946,"Summer",12740
+7,-106.8697166667,38.8234333333,"subadult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",115,230,"male",2.8,609,9.30224801764703,68.5735791816121,"Summer",12741
+7,-106.8697166667,38.8234333333,"adult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",215,279,"female",2.8,609,9.30224801764703,68.5735791816121,"Summer",12742
+7,-106.8697166667,38.8234333333,"adult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",246,282,"female",2.8,609,9.30224801764703,68.5735791816121,"Summer",12743
+7,-106.8697166667,38.8234333333,"adult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",259,232,"female",2.8,609,9.30224801764703,68.5735791816121,"Summer",12744
+9,-115.6209,36.3131,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",239,238,"female",9,805,7.41905817758725,140.067363506602,"Fall",12745
+8,-106.688,38.2074,"immature",2009,"Callospermophilus lateralis","Callospermophilus_lateralis",118.2,232,"female",2.1,349,9.14544099041106,52.3163588684599,"Summer",12746
+8,-106.688,39.2074,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",164.6,261,"male",0.6,677,8.26729133759093,51.2360509662099,"Summer",12747
+6,-106.79,37.54,NA,1973,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",130,265,"female",0.5,660,8.08033058879663,78.2014307355686,"Summer",12749
+7,-119.83,41.93,NA,1977,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",275,295,"female",6.7,286,8.28490778281189,88.7403595719597,"Summer",12750
+8,-120.09,41.08,NA,1977,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",200,226,"male",6.4,553,7.90172113970728,102.139964952473,"Summer",12751
+6,-120.78,40.41,NA,1961,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",68.4,210,"female",8.3,390,7.27437907378292,76.3503151884171,"Summer",12752
+6,-120.78,40.41,NA,1961,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",119.5,247,"female",8.3,390,7.27437907378292,76.3503151884171,"Summer",12753
+7,-121.04,43.53,NA,2000,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",158.5,256,"female",6.2,238,6.8246156512934,74.9918383692167,"Summer",12754
+7,-121.2,43.46,NA,2000,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",154.6,249,"female",6.2,258,6.79041213548169,74.0078516264654,"Summer",12755
+5,-105.45,36.59,NA,1968,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",222,268,"female",3.5,530,7.31490798218807,83.9605458669364,"Spring",12756
+7,-105.45,36.59,NA,1970,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",198.2,260,"female",3.8,539,7.22916546589807,56.6082091027677,"Summer",12757
+7,-106.4543,38.1271,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",104,239,"female",4,309,9.66654258018582,72.3972266972293,"Summer",12758
+7,-106.4543,38.1271,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",117,236,"male",4,309,9.66654258018582,72.3972266972293,"Summer",12759
+7,-106.4543,38.1271,"young",2011,"Callospermophilus lateralis","Callospermophilus_lateralis",98,220,"female",4,309,9.66654258018582,72.3972266972293,"Summer",12760
+6,-106.47375,38.0504166667,"adult",2012,"Callospermophilus lateralis","Callospermophilus_lateralis",163,263,"female",4.4,224,8.69465178698777,69.9875890873705,"Summer",12761
+6,-106.732356,35.954713,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",275,214,"female",5.1,578,8.53383195749646,105.513214095688,"Summer",12762
+6,-106.732356,35.954713,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",242,258,"female",5.1,578,8.53383195749646,105.513214095688,"Summer",12763
+8,-106.732356,35.954713,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",182,247,"male",5.1,578,8.53383195749646,105.513214095688,"Summer",12764
+6,-106.70942,35.928873,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",197,272,"female",5.8,552,8.59924239087198,107.744313432926,"Summer",12765
+6,-105.6334333333,35.7544,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",215,270,"female",5.5,444,8.21773304285533,81.9550919869128,"Summer",12769
+5,-105.57046,35.77982,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",175,265,"female",4.7,615,7.18841660822001,61.9667560873243,"Spring",12770
+6,-105.6454,35.7508333333,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",198,243,"male",5.9,405,8.26747460616822,80.4935517405243,"Summer",12771
+6,-105.6546166667,35.7428,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",153,256,"female",6.1,390,8.27828027083067,79.1509544348677,"Summer",12772
+5,-105.64251,35.75452,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",200,262,"female",6.8,425,7.34959801003367,64.0271443401128,"Spring",12773
+6,-105.5572666667,35.7809833333,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",205.9,260,"undetermined",3,613,8.09232239954525,90.4174895225952,"Summer",12774
+5,-105.5759,35.77611,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",131,256,"female",4.8,600,7.19816369680911,61.7620065618456,"Spring",12775
+6,-105.6454,35.7508333333,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",22.5,120,"male",5.9,405,8.26747460616822,80.4935517405243,"Summer",12776
+5,-105.61955,35.7515,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",182,256,"female",6.3,470,7.3173517315786,60.365838167556,"Spring",12777
+6,-105.6562166667,35.73995,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",211,275,"female",6.2,385,8.27828027083067,79.3572297680496,"Summer",12778
+8,-118.96021,37.88811,NA,2004,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",124,248,"female",7.3,472,7.13021738799035,122.728446128541,"Summer",12779
+8,-118.96021,37.88811,NA,2004,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",117,243,"male",7.3,472,7.13021738799035,122.728446128541,"Summer",12780
+7,-119.26213,37.95477,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",147,147,"female",3.6,1040,6.75629336248804,113.010898378132,"Summer",12781
+7,-119.26213,37.95477,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",160,262,"male",3.6,1040,6.75629336248804,113.010898378132,"Summer",12782
+7,-119.26213,37.95477,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",152,267,"male",3.6,1040,6.75629336248804,113.010898378132,"Summer",12783
+7,-119.26213,37.95477,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",126,263,"female",3.6,1040,6.75629336248804,113.010898378132,"Summer",12784
+7,-119.27189,37.96321,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,256,"female",3.4,1094,6.67484536195863,113.454708986675,"Summer",12785
+7,-119.48155,38.12206,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",111,256,"female",3.1,1321,6.97599238079929,123.435665981772,"Summer",12786
+8,-119.48155,38.12206,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",200,266,"female",3.1,1321,6.97599238079929,123.435665981772,"Summer",12787
+8,-120.2170333333,41.3844,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",192,263,"female",3.6,1068,7.55109363943496,84.1186299231284,"Summer",12788
+8,-119.41978,37.64537,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",101,235,"male",4.9,537,6.91420912894511,158.855449861696,"Summer",12789
+8,-119.41978,37.64537,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",169,227,"male",4.9,537,6.91420912894511,158.855449861696,"Summer",12790
+9,-121.51827,40.46888,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",158,270,"male",6.2,1759,7.1111308396191,128.477321691121,"Fall",12791
+9,-121.51827,40.46888,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",142,243,"male",6.2,1759,7.1111308396191,128.477321691121,"Fall",12792
+9,-121.51053,40.4705,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",210,253,"male",6.2,1778,7.11788187765451,129.133035331142,"Fall",12793
+9,-121.51053,40.4705,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",197,263,"male",6.2,1778,7.11788187765451,129.133035331142,"Fall",12794
+6,-113.70317,45.41631,NA,2010,"Callospermophilus lateralis","Callospermophilus_lateralis",158,271,"male",2.4,921,7.52994023880668,51.4500525049342,"Summer",12795
+5,-105.522,40.0287,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",141.9,254,"female",4.2,620,8.46452042708895,49.5611237295649,"Spring",12796
+5,-105.3583,40.4208,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",182.1,260,"male",6.4,425,8.28765054253324,86.4794713324366,"Spring",12797
+8,-105.8572,40.2556,NA,2007,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",172.5,290,"male",2.8,519,9.33648350517604,58.211945252652,"Summer",12798
+7,-106.0271,39.0347,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",191,295,"male",2.2,380,8.47659880333659,39.7701783548456,"Summer",12799
+7,-106.0271,39.0347,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",197.7,266,"female",2.2,380,8.47659880333659,39.7701783548456,"Summer",12800
+7,-107.4729,37.3128,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",108,228,"female",6.2,676,8.37171916742205,69.921793692402,"Summer",12801
+7,-107.4729,37.3128,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",106.2,244,"male",6.2,676,8.37171916742205,69.921793692402,"Summer",12802
+5,-105.4936,40.6847,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",205.5,280,"female",5.8,370,8.29886355856248,82.7340397911659,"Spring",12803
+8,-106.1799,40.0625,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",154,250,"male",2.8,322,9.95503146731096,35.7562293435361,"Summer",12804
+8,-107.3213,40.7724,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",135,257,"female",0.9,951,8.70574087843328,55.856130278752,"Summer",12805
+7,-108.715,39.8189,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",235,288,"male",7,347,10.1099710757012,36.9371065591057,"Summer",12806
+7,-108.8213,39.5827,NA,2008,"Callospermophilus lateralis","Callospermophilus_lateralis",160,269,"female",5.9,470,9.84843857797988,53.2992332375857,"Summer",12807
+5,-105.4695,40.1598,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",175.2,269,"male",4.6,638,7.59946170342467,70.010460334831,"Spring",12808
+5,-105.4695,40.1598,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",146.5,260,"female",4.6,638,7.59946170342467,70.010460334831,"Spring",12809
+5,-105.4695,40.1598,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",181.8,281,"female",4.6,638,7.59946170342467,70.010460334831,"Spring",12810
+5,-105.6025,40.6708,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",171.4,270,"male",2.4,514,7.85938446969126,70.5983771723897,"Spring",12811
+5,-105.5044,40.6714,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",201.2,275,"female",4.7,534,7.69408962460895,83.0895642415334,"Spring",12812
+5,-105.2655,39.3428,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",181.3,287,"female",7.1,676,7.38000985463742,76.2559203673901,"Spring",12813
+5,-105.2976,39.3427,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",140,263,"male",7.1,700,7.49812097673932,73.9703154147608,"Spring",12814
+5,-105.2976,39.3427,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",253,280,"female",7.1,700,7.49812097673932,73.9703154147608,"Spring",12815
+5,-105.2976,39.3427,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",176.5,289,"male",7.1,700,7.49812097673932,73.9703154147608,"Spring",12816
+5,-105.2976,39.3427,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",231.3,292,"female",7.1,700,7.49812097673932,73.9703154147608,"Spring",12817
+6,-105.7512,39.8437,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",18.1,245,"female",0.8,831,7.78920679044037,54.2521766366721,"Summer",12818
+6,-105.534,40.08,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",171.7,281,"male",1,928,7.47778021672856,63.6665208940147,"Summer",12819
+8,-107.3971,38.6156,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",187.5,286,"male",0.8,589,8.3241661699081,46.275311720683,"Summer",12820
+7,-106.8697166667,38.8234333333,"subadult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",133,254,"female",2.8,609,9.30224801764703,68.5735791816121,"Summer",12821
+7,-106.8697166667,38.8234333333,"adult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",199,289,"male",2.8,609,9.30224801764703,68.5735791816121,"Summer",12822
+7,-106.8697166667,38.8234333333,"subadult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",153,255,"female",2.8,609,9.30224801764703,68.5735791816121,"Summer",12823
+7,-106.8697166667,38.8234333333,"adult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",239,290,"female",2.8,609,9.30224801764703,68.5735791816121,"Summer",12824
+7,-106.8697166667,38.8234333333,"adult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",207,265,"female",2.8,609,9.30224801764703,68.5735791816121,"Summer",12825
+7,-106.8697166667,38.8234333333,"adult",2010,"Callospermophilus lateralis","Callospermophilus_lateralis",149,257,"male",2.8,609,9.30224801764703,68.5735791816121,"Summer",12826
+7,-106.8697166667,38.8234333333,NA,2010,"Callospermophilus lateralis","Callospermophilus_lateralis",196,281,"male",2.8,609,9.30224801764703,68.5735791816121,"Summer",12827
+8,-107.6835,37.4606,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",109,239,"male",4.4,713,8.03592313340917,57.2655488295851,"Summer",12828
+8,-105.85797,40.64672,NA,2013,"Callospermophilus lateralis","Callospermophilus_lateralis",150,260,"male",1.4,598,9.19055427484044,62.7170937887421,"Summer",12829
+8,-106.688,38.2074,NA,2009,"Callospermophilus lateralis","Callospermophilus_lateralis",142.2,256,"female",2.1,349,9.14544099041106,52.3163588684599,"Summer",12830
+8,-106.1845,41.3866,NA,2010,"Callospermophilus lateralis","Callospermophilus_lateralis",156.3,250,"male",-0.2,785,8.62923150481179,70.1411524089202,"Summer",12831
+6,-105.5943388,39.0897928,NA,1990,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",180,264,"female",3.5,511,8.05350949285559,71.1120534773009,"Summer",12832
+6,-105.5943388,39.0897928,NA,1990,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",196.3,260,"female",3.5,511,8.05350949285559,71.1120534773009,"Summer",12833
+6,-120.04,41.96,NA,1977,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",85,209,"male",7.7,397,8.18899853276925,99.5020577045337,"Summer",12834
+7,-119.83,41.93,NA,1977,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",146,261,"female",6.7,286,8.28490778281189,88.7403595719597,"Summer",12835
+8,-119.92,41.46,NA,1977,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",165,256,"female",6.4,343,8.21467183357518,92.8562794932488,"Summer",12836
+5,-120.65,40.54,NA,1958,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180.4,265,"male",8.7,551,7.05645524368012,80.0895271525057,"Spring",12837
+5,-120.65,40.54,NA,1958,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",142.9,261,"female",8.7,551,7.05645524368012,80.0895271525057,"Spring",12838
+6,-118.34,42.91,NA,1992,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",149,269,"male",10.5,247,8.2962340854149,86.1007329679567,"Summer",12839
+5,-105.45,36.59,NA,1968,"Callospermophilus lateralis lateralis","Callospermophilus_lateralis",242,281,"female",3.5,530,7.31490798218807,83.9605458669364,"Spring",12840
+7,-106.4543,38.1271,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",84,221,"male",4,309,9.66654258018582,72.3972266972293,"Summer",12841
+7,-106.4543,38.1271,"young of year",2011,"Callospermophilus lateralis","Callospermophilus_lateralis",99,236,"female",4,309,9.66654258018582,72.3972266972293,"Summer",12842
+7,-106.4543,38.1271,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",189,225,"female",4,309,9.66654258018582,72.3972266972293,"Summer",12843
+6,-106.732356,35.954713,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",220,246,"female",5.1,578,8.53383195749646,105.513214095688,"Summer",12844
+6,-106.732356,35.954713,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",180,255,"female",5.1,578,8.53383195749646,105.513214095688,"Summer",12845
+6,-106.732356,35.954713,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",210,267,"male",5.1,578,8.53383195749646,105.513214095688,"Summer",12846
+6,-106.732356,35.954713,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",197,262,"female",5.1,578,8.53383195749646,105.513214095688,"Summer",12847
+6,-106.732356,35.954713,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",230,276,"female",5.1,578,8.53383195749646,105.513214095688,"Summer",12848
+6,-106.732356,35.954713,"adult",2013,"Callospermophilus lateralis","Callospermophilus_lateralis",185,272,"female",5.1,578,8.53383195749646,105.513214095688,"Summer",12849
+5,-105.64251,35.75452,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",151,268,"female",6.8,425,7.34959801003367,64.0271443401128,"Spring",12852
+6,-105.6619333333,35.7466833333,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",180,240,"female",6.5,354,8.30247772436857,79.014349079266,"Summer",12853
+6,-105.643,35.75561,NA,2012,"Callospermophilus lateralis","Callospermophilus_lateralis",174,267,"male",6.8,425,7.35545046310228,64.0271443401128,"Summer",12854
+6,-105.5703166667,35.7799333333,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",201,280,"male",3.7,592,8.12006026996591,88.8212760077871,"Summer",12855
+6,-105.5912166667,35.77075,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",220,270,"female",4.1,557,8.1696175868367,86.2338532519757,"Summer",12856
+6,-105.65875,35.7450166667,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",180,265,"female",6.5,355,8.30041985064429,79.014349079266,"Summer",12857
+6,-105.55525,35.7720666667,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",257,250,"female",3,612,8.09414303772497,90.3920418195826,"Summer",12858
+6,-105.6689,35.7555666667,NA,2011,"Callospermophilus lateralis","Callospermophilus_lateralis",207,276,"female",7,317,8.33495741749861,81.2908772666249,"Summer",12859
+8,-119.22578,37.95421,NA,2004,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",124,258,"female",4.8,638,6.80418765885904,111.03405943381,"Summer",12860
+8,-118.96021,37.88811,NA,2004,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",124,247,"female",7.3,472,7.13021738799035,122.728446128541,"Summer",12861
+7,-119.26138,37.95217,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",144,261,"male",3.6,1036,6.77794998953268,113.272158143756,"Summer",12862
+7,-119.26138,37.95217,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,272,"female",3.6,1036,6.77794998953268,113.272158143756,"Summer",12863
+8,-119.3605,37.88325,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",152,252,"male",3.9,1034,6.44386012676667,111.490977701682,"Summer",12864
+7,-119.1158,37.90779,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",115,240,"male",8.3,520,7.22585320536299,114.285675862592,"Summer",12865
+7,-119.27189,37.96321,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",171,268,"male",3.4,1094,6.67484536195863,113.454708986675,"Summer",12866
+7,-119.33899,38.06129,NA,2005,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",180,286,"male",3.1,1212,6.62421521938465,110.617510025956,"Summer",12867
+7,-119.48155,38.12206,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",151,272,"female",3.1,1321,6.97599238079929,123.435665981772,"Summer",12868
+7,-119.47916,38.13027,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",168,280,"female",3,1311,7.05295983429953,123.590900264629,"Summer",12869
+8,-119.48155,38.12206,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",155,277,"female",3.1,1321,6.97599238079929,123.435665981772,"Summer",12870
+8,-119.48155,38.12206,NA,2006,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",139,273,"male",3.1,1321,6.97599238079929,123.435665981772,"Summer",12871
+7,-118.16508,37.53101,NA,2007,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",135,258,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",12872
+7,-118.16508,37.53101,NA,2007,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",94,233,"male",3.4,218,7.03266728140249,97.947285750455,"Summer",12873
+7,-118.16508,37.53101,NA,2007,"Callospermophilus lateralis trepidus","Callospermophilus_lateralis",170,274,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",12874
+9,-121.51827,40.46888,NA,2007,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",210,280,"male",6.2,1759,7.1111308396191,128.477321691121,"Fall",12875
+8,-121.08495721,41.4763707,NA,2009,"Callospermophilus lateralis chrysodeirus","Callospermophilus_lateralis",139.7,252,"female",9.2,363,8.46622523306401,62.0547532844411,"Summer",12876

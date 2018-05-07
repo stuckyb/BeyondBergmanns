@@ -1,0 +1,324 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-99.590807,42.723598,NA,1955,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",34,NA,"male",9.1,414,12.9757115762139,91.1517683604069,"Summer",105495
+3,-87.857676,31.131627,NA,1991,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38,188.5,"female",18.8,1873,6.63612701944303,55.7619459683915,"Spring",105496
+5,-105.151213,40.506,NA,1996,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38.3,196,"male",8.8,412,8.45802469954905,85.6342501104915,"Spring",105500
+3,-104.78205,39.370718,"adult",1999,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",39.5,198,"male",9.3,474,7.14060094237045,93.8998240140694,"Spring",105501
+8,-104.78205,39.370718,"immature",2006,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",41,195,"undetermined",9.7,427,8.3913871789996,68.888539114069,"Summer",105503
+7,-104.78205,39.370718,"immature",2006,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",31.3,192,"undetermined",9.7,427,8.3913871789996,68.888539114069,"Summer",105504
+7,-104.78205,39.370718,"immature",2007,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",33.7,180,"male",9.5,442,9.24450287107605,60.6092285673409,"Summer",105505
+1,-105.169372,39.610951,"immature",1998,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",43.3,205,"male",9.3,458,8.2818348135415,71.2759443916584,"Winter",105506
+6,-103.253161,45.391505,NA,2009,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",35.5,NA,NA,5,426,11.1143914349683,83.7481933902129,"Summer",105507
+6,-103.253161,45.391505,NA,2009,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",40,NA,NA,5,426,11.1143914349683,83.7481933902129,"Summer",105508
+6,-103.253161,45.391505,NA,2009,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38,NA,NA,5,426,11.1143914349683,83.7481933902129,"Summer",105509
+2,-90.9094756,31.472394,NA,1959,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",48.3,NA,"male",18.5,1477,7.17091663977106,24.6524462529765,"Winter",105510
+7,-100.4903539,39.836584,"young",1963,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",41.5,NA,"male",12.4,488,11.8326557637853,97.1835099616336,"Summer",105511
+12,-95.2598661,38.9549568,NA,1965,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",41.3,NA,"male",12.8,1106,9.91253797424802,105.088767483944,"Winter",105512
+6,-82.7075204,27.9618088,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.2,NA,"male",21.6,1303,5.06780539436466,80.4535397741321,"Summer",105513
+7,-82.4000705,27.8764614,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",37.9,NA,"male",21.7,1210,5.0972957774122,70.4526539206449,"Summer",105514
+6,-82.7102586,27.8938749,"snco",1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",35.7,NA,"undetermined",21.6,1312,5.0919722915764,80.9449882038197,"Summer",105515
+6,-82.7075204,27.9618088,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",39.9,NA,"female",21.6,1303,5.06780539436466,80.4535397741321,"Summer",105516
+10,-95.4372024,38.874864,"SKULL 50 %",1988,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",37.6,NA,"female",13.1,590,10.6303560475165,60.0219293616209,"Fall",105517
+10,-76.3233948,38.0449818,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",49.1,NA,"male",13.3,1011,8.94126880698639,43.1154351196843,"Fall",105518
+10,-76.3233948,38.0449818,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38,NA,"female",13.3,1011,8.94126880698639,43.1154351196843,"Fall",105519
+9,-75.3877335,39.9168091,"immature",1968,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",44.5,NA,"male",11.7,954,9.9617906385987,44.89222131632,"Fall",105520
+7,-83.542,31.4503,"ad.",1951,"Pipilo erythrophthalmus rileyi","Pipilo_erythrophthalmus",34.3,NA,"female",19.6,1140,6.48043676043989,54.8067275619413,"Summer",105521
+8,-82.3325,31.2376,"ad.",1951,"Pipilo erythrophthalmus rileyi","Pipilo_erythrophthalmus",46.7,NA,"male",20,1065,6.47440180927001,70.5476855230177,"Summer",105522
+10,-85.31367,42.3997,"imm.",1951,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",47.2,NA,"male",8.9,987,9.78184388021858,25.9637848866777,"Fall",105523
+10,-84.00509,42.44221,"imm.",1951,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.5,NA,"male",8.4,847,9.90137348905176,29.4637169832086,"Fall",105524
+1,-79.64524,43.6843,"ad",1970,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",36.3,205,"male",7.3,773,10.980847651776,32.8743594145251,"Winter",105525
+5,-72.5236702,42.6807318,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45,NA,"male",7.3,1016,10.5843330475097,29.5783385840481,"Spring",105526
+5,-72.5236702,42.6807318,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41,NA,"male",7.3,1016,10.5843330475097,29.5783385840481,"Spring",105527
+5,-72.5495338,42.6709156,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45,NA,"female",7.6,1009,10.6048302316644,29.8097765100875,"Spring",105528
+5,-72.5236702,42.6807318,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45,NA,"male",7.3,1016,10.5843330475097,29.5783385840481,"Spring",105529
+7,-72.8224925,40.9004862,"ad",1973,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"female",11.7,1212,8.70918619863098,43.2621446294932,"Summer",105530
+4,-75.2734041,38.8356031,"ad",1974,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.5,NA,"male",13.5,1004,7.64343152350732,57.0433258183956,"Spring",105531
+10,-79.71593,43.46917,"imm",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",35.8,NA,"male",7.9,735,10.3190321369024,39.8224068640758,"Fall",105532
+6,-80.46841,45.72264,"ad",1978,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40,NA,"male",4.4,852,11.4075832035298,46.808322366911,"Summer",105533
+6,-80.46841,45.72264,"ad",1978,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",37,NA,"female",4.4,852,11.4075832035298,46.808322366911,"Summer",105534
+12,-103.6575929,30.4524996,"ad",1978,"Pipilo erythrophthalmus ssp?","Pipilo_erythrophthalmus",38,NA,"male",16.8,594,7.19968433651466,108.783569427635,"Winter",105535
+7,-84.02525,46.353393,"ad",1931,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",105536
+7,-84.06512,46.48516,NA,1931,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43,NA,"male",6.6,774,10.5790387373362,64.550304802024,"Summer",105537
+6,-79.42377,43.74502,"nestl",1943,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",19,NA,"female",6.5,793,10.6814480915901,35.545197380933,"Summer",105538
+10,-79.83131,43.94852,"imm",1948,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43,NA,"male",6.7,759,10.4228187893272,31.4412812459755,"Fall",105539
+10,-79.395368,43.628075,"juv",2002,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.8,NA,"male",8.8,758,9.63036155273329,26.9334244563536,"Fall",105540
+5,-95.1210022,39.8712767,"ad",1966,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.3,NA,"male",11.2,654,10.1418537245267,108.863034913809,"Spring",105541
+5,-80.24294,42.5613,"ad",1962,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",29,204,"male",8.5,809,10.2490021687258,41.278942878751,"Spring",105542
+7,-83.6215433,45.9522238,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"male",6.2,756,10.6461118240274,24.8313674024005,"Summer",105543
+7,-83.6215433,45.9522238,"adult",1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43.4,NA,"female",6.2,756,10.6461118240274,24.8313674024005,"Summer",105544
+9,-83.6422,42.30201,NA,1939,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44.2,NA,"female",10.1,665,10.2263770651579,62.7384799477183,"Fall",105545
+9,-90.3315639,46.6064669,NA,1940,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",48,NA,"male",4.6,852,10.6879144434972,59.3264746954683,"Fall",105546
+2,-83.7263412,42.2708397,NA,1941,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",39.6,NA,"female",10.3,683,10.3579862322692,48.7778988168438,"Winter",105547
+6,-119.7497894,48.6297319,"adult",1940,"Pipilo erythrophthalmus curtatus","Pipilo_erythrophthalmus",36.1,NA,"female",5.3,593,8.33842420255879,66.892445399053,"Summer",105548
+4,-83.6422,42.30201,NA,1942,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44,NA,"male",9.4,905,10.457891756946,34.4116054483883,"Spring",105549
+6,-84.0151977,44.5713934,"adult",1944,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.7,NA,"male",6.6,662,10.3814373968272,51.5129379478679,"Summer",105550
+2,-83.4257278,41.7401466,NA,1944,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44.2,NA,"female",10.1,707,10.6857877859361,57.8081087839255,"Winter",105551
+4,-83.7341177,42.3122368,NA,1949,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44.7,NA,"male",10.3,831,9.76854878958719,22.9493051774149,"Spring",105552
+2,-81.6428473,30.7716654,NA,1950,"Pipilo erythrophthalmus alleni","Pipilo_erythrophthalmus",38,NA,"male",20.7,1337,5.72313222145378,97.4664510316756,"Winter",105553
+6,-84.5856118,44.5797578,"adult",1951,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.5,NA,"male",5.9,939,10.0880066806024,44.0380729926081,"Summer",105554
+7,-84.179298,42.3530903,NA,1952,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.3,NA,"male",9.6,695,9.60083645345866,44.0989217355924,"Summer",105555
+4,-84.1609499,42.3377233,NA,1953,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.4,NA,"male",10.2,571,9.40462490995625,36.0862815055797,"Spring",105556
+4,-101.78469,37.1521231,NA,1950,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",44,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",105557
+4,-101.78469,37.1521231,NA,1950,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",45,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",105558
+4,-84.1747618,42.3274787,NA,1954,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44,NA,"male",9.4,828,9.58728640471644,48.2058622922971,"Spring",105559
+7,-83.7263412,42.2708397,NA,1961,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",37.1,NA,"male",9.6,830,10.1137620012625,59.4126364108948,"Summer",105560
+5,-83.4257278,41.7401466,NA,1963,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",38.7,NA,"female",9,556,11.4143317674304,52.2127752866266,"Spring",105561
+5,-73.6579056,40.5882774,NA,1940,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43.6,NA,"male",10.1,1164,9.30799591097825,34.0248783223919,"Spring",105562
+4,-83.8928032,42.2924849,NA,2006,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",41.77,NA,"male",10.3,1100,8.79031836566213,30.2834096259404,"Spring",105563
+10,-84.5591282,42.7348776,NA,2008,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",25.5,NA,"female",8.8,982,10.27758667581,52.2049992759661,"Fall",105564
+2,-83.4263563,41.7403857,NA,1944,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.6,NA,"male",10.1,708,10.6857877859361,57.8081087839255,"Winter",105565
+4,-84.0323639,42.1743452,"adult",1934,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.3,NA,"male",9.2,503,11.6850688202224,50.0566572419729,"Spring",105566
+7,-84.1820526,42.366408,NA,1934,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",44.9,NA,"female",9.1,503,11.5622786629102,45.3275561914416,"Summer",105567
+7,-84.1820526,42.366408,"immature",1934,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.6,NA,"male",9.1,503,11.5622786629102,45.3275561914416,"Summer",105568
+10,-84.2366409,42.337103,NA,1934,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",46.5,NA,"male",9.1,509,11.5211630042152,44.8754695474902,"Fall",105569
+8,-83.6880112,42.6119803,"adult",1934,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",40.6,NA,"female",8.8,457,11.5967341275138,52.2805267233165,"Summer",105570
+10,-83.6880112,42.6119803,"immature",1934,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.8,NA,"female",8.8,457,11.5967341275138,52.2805267233165,"Fall",105571
+8,-84.2168579,42.3190842,"juvenile",1934,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38.5,NA,"female",9.1,508,11.5403737925913,44.8234559143155,"Summer",105572
+10,-74.8782234,41.0359287,NA,1934,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.1,NA,"female",8.8,1147,10.6570043832328,45.7121321062282,"Fall",105573
+5,-83.6429791,42.2708702,NA,1935,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",43.1,NA,"female",9,657,10.2044961866935,43.1320668552585,"Spring",105574
+5,-84.2366409,42.337103,NA,1937,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.9,NA,"female",8.9,875,10.2074356438942,56.9535774244878,"Spring",105575
+9,-83.7517354,42.6481017,"adult",1935,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",47.9,NA,"male",8,633,10.2097101730745,45.0801251867448,"Fall",105576
+7,-103.8502007,44.4774837,"juvenile",1935,"Pipilo erythrophthalmus arcticus","Pipilo_erythrophthalmus",36,NA,"male",7.6,503,9.31825757544962,102.659048969064,"Summer",105577
+7,-104.132813,44.902217,"adult",1935,"Pipilo erythrophthalmus arcticus","Pipilo_erythrophthalmus",38.8,NA,"male",7.3,313,10.3236562703278,93.6887494675631,"Summer",105578
+7,-104.132813,44.902217,"juvenile",1935,"Pipilo erythrophthalmus arcticus","Pipilo_erythrophthalmus",37.3,NA,"female",7.3,313,10.3236562703278,93.6887494675631,"Summer",105579
+7,-104.1118851,43.8137779,"adult",1935,"Pipilo erythrophthalmus arcticus","Pipilo_erythrophthalmus",38.6,NA,"male",7.6,292,9.57566359754421,123.739313880793,"Summer",105580
+7,-104.136672,43.805699,"adult",1935,"Pipilo erythrophthalmus arcticus","Pipilo_erythrophthalmus",40.5,NA,"male",7.7,288,9.62935458361409,126.805147586939,"Summer",105581
+11,-89.1200943,47.8276978,NA,1936,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",48.2,NA,"male",2,681,11.8776687591259,40.442352132259,"Fall",105582
+7,-83.7263412,42.2708397,NA,1937,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41,NA,"male",9.1,869,10.1089819047971,60.2853375909974,"Summer",105583
+7,-83.2804871,42.9272685,"adult",1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.2,NA,"female",9.7,644,9.83993101725019,49.6188332689933,"Summer",105584
+12,-84.1438895,36.2749988,NA,1937,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44.5,NA,"male",13.6,1402,8.46054568768075,58.464969530583,"Winter",105585
+10,-83.6422,42.30201,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.5,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",105586
+10,-83.6422,42.30201,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",52.3,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",105587
+6,-85.499382,45.6742827,"adult",1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",28.6,NA,"male",6.5,714,10.4568485605455,72.7434806136737,"Summer",105588
+6,-85.499382,45.6742827,"adult",1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.6,NA,"female",6.5,714,10.4568485605455,72.7434806136737,"Summer",105589
+7,-85.5868796,45.6307106,"juvenile",1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",40,NA,"male",6.3,740,10.4821168056492,72.6267038508205,"Summer",105590
+6,-85.5868796,45.6307106,NA,1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",44.4,NA,"male",6.3,740,10.4821168056492,72.6267038508205,"Summer",105591
+12,-84.0185811,36.2366714,NA,1937,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.5,NA,"male",13.8,1408,8.37971938490168,57.908015482066,"Winter",105592
+3,-84.0129412,36.2449499,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.2,NA,"male",14.3,1310,8.09330063395122,39.4783419977885,"Spring",105593
+3,-84.0018082,36.206884,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.6,NA,"male",14.5,1313,8.0556398463023,39.4639297658041,"Spring",105594
+3,-84.0018082,36.206884,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"female",14.5,1313,8.0556398463023,39.4639297658041,"Spring",105595
+4,-84.1438895,36.2749988,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44.6,NA,"male",14.1,1267,8.19726488013847,38.6317792113863,"Spring",105596
+4,-83.8069143,36.3411805,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",46.4,NA,"male",14.4,1303,7.94816540676736,43.0876878187572,"Spring",105597
+4,-83.8069143,36.3411805,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.7,NA,"male",14.4,1303,7.94816540676736,43.0876878187572,"Spring",105598
+1,-83.8069143,36.3411805,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44.5,NA,"male",14.4,1303,7.94816540676736,43.0876878187572,"Winter",105599
+1,-83.8069143,36.3411805,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",48.5,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Winter",105600
+3,-104.050827,30.6373212,NA,1937,"Pipilo erythrophthalmus montanus","Pipilo_erythrophthalmus",42,NA,"female",14.5,438,6.73322832201342,64.9110084832134,"Spring",105601
+3,-104.0834725,30.6332045,NA,1937,"Pipilo erythrophthalmus montanus","Pipilo_erythrophthalmus",37.8,NA,"female",14,464,6.62358046541432,64.5299909134053,"Spring",105602
+2,-89.1200943,47.8276978,NA,1940,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",47,NA,"female",3.2,737,10.3253292558845,37.0476872990409,"Winter",105603
+10,-83.6422,42.30201,"adult",1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.7,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",105604
+4,-83.6422,42.30201,NA,1939,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.4,NA,"female",10.1,665,10.2263770651579,62.7384799477183,"Spring",105605
+2,-118.506,34.074,"adult",2004,NA,"Pipilo_erythrophthalmus",45,NA,"male",16.4,463,3.00730172020761,171.401810649652,"Winter",105606
+8,-118.7354278,34.0347371,"juvenile",2005,NA,"Pipilo_erythrophthalmus",34.5,NA,"female",15.7,657,1.99400617001568,172.902500731559,"Summer",105607
+2,-119.0828704,34.1200474,"adult",2006,NA,"Pipilo_erythrophthalmus",32,NA,"male",15.7,305,2.96372002112824,118.644712830088,"Winter",105608
+6,-105.356605,40.687915,"adult",1986,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",36,199,"female",8.1,417,7.24900724655494,57.2933931713131,"Summer",105611
+4,-105.190515,39.6251,"adult",1993,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",34.7,191,"female",7.9,438,8.17082763509452,45.1469487868896,"Spring",105612
+8,-105.1444444444,40.8272222222,"juvenile",1992,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",31,207,"undetermined",8.2,500,8.11199542017682,84.3224978067161,"Summer",105613
+9,-105.2552777778,39.9311111111,"immature",1994,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",39,195,"male",10.2,422,8.50726516608367,54.9146304834348,"Fall",105614
+6,-107.7541666667,39.6769444444,"adult",1995,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",40.8,192,"female",7.2,612,7.50383235420408,54.4774303244854,"Summer",105615
+6,-107.7541666667,39.6769444444,"adult",1995,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",34.8,204,"male",7.2,612,7.50383235420408,54.4774303244854,"Summer",105616
+7,-104.78205,39.370718,"immature",1998,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38.5,176,"undetermined",8.9,475,8.51649024308759,95.8304799058348,"Summer",105617
+4,-104.78205,39.370718,"adult",2007,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38.4,195,"male",9.5,442,9.24450287107605,60.6092285673409,"Spring",105618
+6,-103.253161,45.391505,NA,2009,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",40.5,NA,NA,5,426,11.1143914349683,83.7481933902129,"Summer",105619
+6,-81.3585663,27.1556986,NA,1961,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",36,NA,"female",22.2,960,4.12670534078906,65.3661018627184,"Summer",105620
+6,-82.4000705,27.8764614,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38.1,NA,"male",21.7,1210,5.0972957774122,70.4526539206449,"Summer",105621
+7,-82.3892632,28.0352964,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",43.1,NA,"male",21.6,1229,5.04695377670951,69.8497727879099,"Summer",105622
+7,-82.7075204,27.9618088,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",31.4,NA,"female",21.6,1303,5.06780539436466,80.4535397741321,"Summer",105623
+4,-95.2598661,38.9549568,NA,1999,"Pipilo erythrophthalmus erythropthalmus","Pipilo_erythrophthalmus",40,NA,"female",13.6,994,9.27735512858154,83.1395271184683,"Spring",105624
+10,-76.3233948,38.0449818,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",43.7,NA,"female",13.3,1011,8.94126880698639,43.1154351196843,"Fall",105625
+7,-84.4794,31.1899,"ad.",1951,"Pipilo erythrophthalmus rileyi","Pipilo_erythrophthalmus",48.1,NA,"male",20.2,1207,6.60653372645504,51.3031598636248,"Summer",105626
+7,-84.4794,31.1899,"ad.",1951,"Pipilo erythrophthalmus rileyi","Pipilo_erythrophthalmus",44.2,NA,"male",20.2,1207,6.60653372645504,51.3031598636248,"Summer",105627
+10,-85.31367,42.3997,"ad.",1951,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44.2,NA,"female",8.9,987,9.78184388021858,25.9637848866777,"Fall",105628
+4,-84.0378,42.1503,"unknown",1934,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.9,NA,"female",9.2,509,11.6744054420019,50.2680374520124,"Spring",105629
+8,-84.2169,42.31905,"unknown",1934,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.5,NA,"male",9.1,508,11.5403737925913,44.8234559143155,"Summer",105630
+5,-72.5236702,42.6807318,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",48,NA,"female",7.3,1016,10.5843330475097,29.5783385840481,"Spring",105631
+5,-72.4835872,42.6685211,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"female",7.5,999,10.6204205817535,29.5439780431208,"Spring",105632
+5,-72.5236702,42.6807318,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43,NA,"male",7.3,1016,10.5843330475097,29.5783385840481,"Spring",105633
+5,-72.5236702,42.6807318,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45,NA,"male",7.3,1016,10.5843330475097,29.5783385840481,"Spring",105634
+5,-72.5236702,42.6807318,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41,NA,"female",7.3,1016,10.5843330475097,29.5783385840481,"Spring",105635
+5,-72.5236702,42.6807318,"ad",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40,NA,"female",7.3,1016,10.5843330475097,29.5783385840481,"Spring",105636
+7,-84.02525,46.353393,NA,1931,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",105637
+6,-79.42377,43.74502,"juv",1943,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",27,NA,"female",6.5,793,10.6814480915901,35.545197380933,"Summer",105638
+6,-80.152343,43.341235,"ad",2003,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",39,NA,"male",6.9,910,10.2206972127713,31.5959352506126,"Summer",105639
+5,-95.1210022,39.8712767,"ad",1966,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44.6,NA,"female",11.2,654,10.1418537245267,108.863034913809,"Spring",105640
+5,-95.1210022,39.8712767,"ad",1966,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.2,NA,"male",11.2,654,10.1418537245267,108.863034913809,"Spring",105641
+8,-83.8222991,46.0204493,"juvenile",1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",38.8,NA,"male",6.1,747,10.7843707055698,26.3410174589826,"Summer",105642
+7,-85.7747268,45.4763828,NA,1939,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45,NA,"female",6,735,10.410611573454,45.7785130576713,"Summer",105643
+5,-83.6422,42.30201,NA,1942,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.2,NA,"male",9.4,905,10.457891756946,34.4116054483883,"Spring",105644
+4,-83.7180305,42.2758005,"adult",1947,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38.9,NA,"male",8.7,698,10.6488973678741,61.9027453702421,"Spring",105645
+7,-84.0114212,42.4561409,NA,1946,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.2,NA,"male",9.8,628,9.0243567721758,43.3893574986964,"Summer",105646
+7,-84.0114212,42.4561409,NA,1946,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.3,NA,"female",9.8,628,9.0243567721758,43.3893574986964,"Summer",105647
+6,-79.4450306,39.1133418,"adult",1947,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.5,NA,"male",7.2,1159,9.424275552899,32.2771079254765,"Summer",105648
+5,-83.6560364,42.2687721,NA,1949,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.5,NA,"male",10.6,835,9.67841631798521,24.7893935237094,"Spring",105649
+5,-83.7263412,42.2708397,NA,1951,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",39,NA,"female",8.9,880,9.86622644390571,38.1301303035367,"Spring",105650
+4,-101.78469,37.1521231,NA,1950,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",105651
+12,-83.7263412,42.2708397,NA,1954,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",36.5,NA,"female",9.5,821,9.58692291139816,63.8357105504427,"Winter",105652
+8,-74.088823,39.836494,NA,1963,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",48.7,NA,"male",10.9,919,9.23968302617803,57.843172607389,"Summer",105653
+10,-74.088823,39.836494,NA,1963,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",17191.2,NA,"male",10.9,919,9.23968302617803,57.843172607389,"Fall",105654
+8,-74.088823,39.836494,NA,1963,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.5,NA,"male",10.9,919,9.23968302617803,57.843172607389,"Summer",105655
+3,-83.8048392,42.2727362,NA,1943,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44,NA,"male",8.5,809,10.6134420201531,60.4759744036691,"Spring",105656
+8,-83.8885498,42.3383369,NA,1948,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",21.35,NA,"male",9.1,707,10.489417466565,41.3929218497762,"Summer",105657
+8,-83.8885498,42.3383369,"juvenile",1948,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",19.2,NA,"female",9.1,707,10.489417466565,41.3929218497762,"Summer",105658
+3,-83.6422,42.30201,"adult",1948,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.7,NA,"male",9.4,734,10.417453303631,42.5124400763285,"Spring",105659
+6,-86.564493,41.976731,NA,1977,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",39.6,NA,"female",9.6,929,11.0667670678177,49.7874088217176,"Summer",105660
+4,-83.7386084,42.2793409,NA,2009,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",36.5,NA,"female",9,1002,10.0626635126937,46.2045223788606,"Spring",105661
+2,-103.6608124,30.2869387,NA,1935,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",39.3,NA,"male",15.2,422,5.98049227729523,85.6729475924544,"Winter",105662
+3,-103.259468,29.338189,NA,1935,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",45.4,NA,"female",18.2,377,6.17435433994126,86.0268937457852,"Spring",105663
+4,-83.7263412,42.2708397,NA,1935,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",37.5,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Spring",105664
+4,-83.4423637,41.7970399,NA,1933,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",49,NA,"male",10.6,683,10.3218949399573,51.6950776187274,"Spring",105665
+8,-84.2168579,42.3190842,"adult",1934,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"female",9.1,508,11.5403737925913,44.8234559143155,"Summer",105666
+8,-83.6880112,42.6119803,"juvenile",1934,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",41.2,NA,"female",8.8,457,11.5967341275138,52.2805267233165,"Summer",105667
+10,-83.7517354,42.6481017,NA,1934,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",40.7,NA,"female",8.8,460,11.5803909495947,55.800871044146,"Fall",105668
+3,-83.6429791,42.2708702,NA,1936,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.7,NA,"male",9.1,621,11.5091366866819,64.401070422279,"Spring",105669
+4,-83.6429791,42.2708702,NA,1936,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",43.4,NA,"male",9.1,621,11.5091366866819,64.401070422279,"Spring",105670
+4,-83.7517354,42.6481017,"adult",1936,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",46,NA,"male",8,570,11.3742498920175,64.4745851662606,"Spring",105671
+5,-83.7517354,42.6481017,NA,1935,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",35,NA,"male",8,633,10.2097101730745,45.0801251867448,"Spring",105672
+10,-83.6429791,42.2708702,"immature",1935,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",49.8,NA,"male",9,657,10.2044961866935,43.1320668552585,"Fall",105673
+8,-103.8502007,44.4774837,"juvenile",1935,"Pipilo erythrophthalmus arcticus","Pipilo_erythrophthalmus",34.8,NA,"female",7.6,503,9.31825757544962,102.659048969064,"Summer",105674
+7,-103.8497086,44.6330009,"adult",1935,"Pipilo erythrophthalmus arcticus","Pipilo_erythrophthalmus",41.2,NA,"male",7.9,413,9.87219465330416,99.5594751043943,"Summer",105675
+7,-104.132813,44.902217,"adult",1935,"Pipilo erythrophthalmus arcticus","Pipilo_erythrophthalmus",34.5,NA,"female",7.3,313,10.3236562703278,93.6887494675631,"Summer",105676
+8,-83.7048339,41.77336,"immature",1935,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41,NA,"male",9,652,10.2880741490801,37.7705087022108,"Summer",105677
+6,-84.1328785,36.2680917,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43.2,NA,"male",14.1,1273,8.19177340477332,38.7012028207999,"Summer",105678
+11,-84.0185811,36.2366714,NA,1937,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.5,NA,"male",13.8,1408,8.37971938490168,57.908015482066,"Fall",105679
+11,-84.0185811,36.2366714,NA,1937,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"female",13.8,1408,8.37971938490168,57.908015482066,"Fall",105680
+11,-83.7219494,36.3327785,NA,1937,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",47.2,NA,"male",13.7,1336,8.14227185182925,57.695269086932,"Fall",105681
+12,-84.1438895,36.2749988,NA,1937,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40,NA,"female",13.6,1402,8.46054568768075,58.464969530583,"Winter",105682
+12,-84.1438895,36.2749988,NA,1937,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43.2,NA,"female",13.6,1402,8.46054568768075,58.464969530583,"Winter",105683
+8,-84.7893993,42.1458435,"adult",1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43.5,NA,"male",10.3,852,9.46299010980049,50.6451756679459,"Summer",105684
+10,-83.6422,42.30201,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",47.5,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",105685
+10,-83.6422,42.30201,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.1,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",105686
+6,-85.5868796,45.6307106,"adult",1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",53,NA,"male",6.3,740,10.4821168056492,72.6267038508205,"Summer",105687
+7,-85.5868796,45.6307106,"adult",1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",44.5,NA,"male",6.3,740,10.4821168056492,72.6267038508205,"Summer",105688
+7,-85.5690765,45.6754822,NA,1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.5,NA,"male",6.3,734,10.4803278921641,72.8637051432819,"Summer",105689
+7,-85.5868796,45.6307106,"juvenile",1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",36.8,NA,"female",6.3,740,10.4821168056492,72.6267038508205,"Summer",105690
+7,-85.5568848,45.6646004,"juvenile",1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.5,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",105691
+6,-85.505268,45.751109,NA,1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",44.1,NA,"male",6.4,717,10.4445831980897,73.6194079222295,"Summer",105692
+6,-85.5170631,45.749079,NA,1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",40.6,NA,"male",6.4,720,10.4641777102415,73.4713816247856,"Summer",105693
+6,-85.5568848,45.6646004,NA,1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.4,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",105694
+6,-85.5868796,45.6307106,NA,1937,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",41.6,NA,"female",6.3,740,10.4821168056492,72.6267038508205,"Summer",105695
+5,-84.0836572,35.2751224,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",39.8,NA,"male",12.5,1859,6.65771368527902,51.3290453451952,"Spring",105696
+3,-84.0018082,36.206884,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.7,NA,"male",14.5,1313,8.0556398463023,39.4639297658041,"Spring",105697
+5,-84.1438895,36.2749988,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.9,NA,"male",14.1,1267,8.19726488013847,38.6317792113863,"Spring",105698
+4,-84.1438895,36.2749988,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.8,NA,"male",14.1,1267,8.19726488013847,38.6317792113863,"Spring",105699
+4,-83.8069143,36.3411805,"adult",1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43.2,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Spring",105700
+5,-84.0706177,36.1963806,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",46.2,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Spring",105701
+2,-89.1200943,47.8276978,NA,1940,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",50.7,NA,"male",3.2,737,10.3253292558845,37.0476872990409,"Winter",105702
+10,-83.6422,42.30201,NA,1938,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",50.7,NA,"female",10.4,697,9.64633703443013,49.7333643051101,"Fall",105703
+2,-117.763568,33.890196,"juvenile",2005,NA,"Pipilo_erythrophthalmus",26.5,NA,"male",16.6,678,3.28175627407403,187.626557103217,"Winter",105704
+4,-118.0322876,33.9741287,"adult",2006,NA,"Pipilo_erythrophthalmus",34,NA,"female",17.4,270,4.13135644318014,114.768101716972,"Spring",105705
+7,-118.0298691,34.0689316,"juvenile",2007,NA,"Pipilo_erythrophthalmus",34.5,NA,"male",17.2,162,3.91116312235848,110.028394797903,"Summer",105706
+9,-72.34377809,41.39648832,"adult",2004,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",48,NA,"male",10.1,1297,9.24317930348447,52.5833357808342,"Fall",105707
+9,-79.372722,43.73418,"imm",1994,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",37.1,NA,"female",7.3,765,10.9848104492549,33.0606440716419,"Fall",105708
+NA,-85.5800018,42.2011547,"immature",2005,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.3,NA,"female",10,767,10.8929362710915,52.7129287219837,"",105709
+NA,-85.5800018,42.2011547,"immature",2005,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",33.5,NA,"male",10,767,10.8929362710915,52.7129287219837,"",105710
+3,-110.98387,18.75066,"U-Ad.",1932,"Pipilo erythrophthalmus socorroensis","Pipilo_erythrophthalmus",34,NA,"male",-9999,-9999,0,0,"Spring",105712
+11,-123.28003,38.94921,"U-Ad.",1939,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",34.4,NA,"female",13.5,766,4.9140722482078,125.151341761363,"Fall",105713
+11,-121.40628,36.62632,"U-Ad.",1972,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",41.6,NA,"female",13.7,303,5.03993145696537,165.236816624146,"Fall",105714
+6,-122.50468,37.97732,"U-Ad.",1976,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",43.4,NA,"female",14.3,349,3.86111147445678,91.4576466732686,"Summer",105715
+6,-122.2017,37.38057,"U-Ad.",1977,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",40,NA,"male",14.7,476,3.86956852970207,122.936853917653,"Summer",105716
+6,-96.94858,16.4858,"U-Ad.",1963,"Pipilo erythrophthalmus oaxacae","Pipilo_erythrophthalmus",40.2,NA,"male",21,621,1.79348568689324,127.200487627197,"Summer",105717
+10,-97.86694,17.10077,"U-Ad.",1964,"Pipilo erythrophthalmus oaxacae","Pipilo_erythrophthalmus",38.2,NA,"female",21.2,1334,1.7736070078182,115.569669406645,"Fall",105718
+10,-85.39226,38.72382,"U-Ad.",1986,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",46.8,NA,"male",13.1,992,9.27443537446628,31.4937567919943,"Fall",105720
+2,-123.00018,38.51069,"U-Ad.",1980,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",41,NA,"male",13.6,1054,3.22841315744307,135.828160186046,"Winter",105721
+6,-76.4509,42.4793,NA,1967,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",12.6999998092651,190,"male",7.6,929,9.8012986152578,45.9849481611473,"Summer",105722
+4,-76.409031,42.476492,NA,1990,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",44.55,189,"male",9.5,1128,8.16164347680198,41.5737348135814,"Spring",105723
+5,-105.0477777778,39.7808333333,NA,1903,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",3.35,8.55,"male",9.6,327,9.05994765521035,63.4239418174458,"Spring",105728
+10,-105.06854,39.4290558,"immature",1987,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",35,187,"female",8.9,666,8.1572564832383,67.7438639967878,"Fall",105729
+10,-95.9166667,39.0333333,NA,1986,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",40.7,NA,"male",13.2,1103,9.80638320254474,68.6826424865198,"Fall",105730
+10,-95.9166667,39.0333333,NA,1986,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",37.5,NA,"male",13.2,1103,9.80638320254474,68.6826424865198,"Fall",105731
+4,-94.2978333,36.6596667,NA,2006,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.2,NA,"male",15.5,1037,8.12099784882412,57.0154804136833,"Spring",105732
+6,-87.62694,55.99405,"ad",1940,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.1,NA,"male",-4.1,483,13.8470103982664,73.9597259021186,"Summer",105733
+12,-82.50596,41.90342,"imm",1911,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",47.5,89,"female",10.6,981,9.76789344865322,49.5351060305829,"Winter",105734
+7,-85.8666667,45.4333333,NA,1939,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44,NA,"male",6.2,749,10.3052355037563,45.0409106964284,"Summer",105735
+7,-85.8666667,45.4333333,NA,1939,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",46.5,NA,"male",6.2,749,10.3052355037563,45.0409106964284,"Summer",105736
+4,-83.6561111,42.3127778,NA,1948,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",41.2,NA,"female",9.4,733,10.4204744555509,42.8516163598439,"Spring",105737
+10,-82.8166667,41.65,"immature",1948,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43.5,NA,"in question",9.9,800,10.3883202188658,35.1567916624939,"Fall",105738
+2,-83.6561111,42.3127778,NA,1949,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",46.3,NA,"male",10.5,841,9.74649898292933,23.8253832581416,"Winter",105739
+4,-83.6561111,42.3127778,NA,1949,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",35.1,NA,"male",10.5,841,9.74649898292933,23.8253832581416,"Spring",105740
+4,-83.6561111,42.3127778,NA,1949,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",43.6,NA,"male",10.5,841,9.74649898292933,23.8253832581416,"Spring",105741
+5,-83.7333333,42.3666667,NA,1961,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",39.2,NA,"female",9.3,813,10.1393771848654,58.2107543547583,"Spring",105742
+5,-83.9666667,42.3666667,NA,1961,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",36,NA,"female",9.2,788,10.1276810890956,55.3118528960705,"Spring",105743
+12,-84.5833333,31.0666667,"adult",1946,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44,NA,"male",20.1,1420,5.62237817686043,49.9954762684942,"Winter",105744
+12,-84.5833333,31.0666667,"immature",1946,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",43,NA,"male",20.1,1420,5.62237817686043,49.9954762684942,"Winter",105745
+12,-84.5833333,31.0666667,"immature",1946,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.3,NA,"female",20.1,1420,5.62237817686043,49.9954762684942,"Winter",105746
+12,-84.5833333,31.0666667,"immature",1946,"Pipilo erythrophthalmus rileyi","Pipilo_erythrophthalmus",46.7,NA,"female",20.1,1420,5.62237817686043,49.9954762684942,"Winter",105747
+12,-84.8833333,31.0333333,"adult",1946,"Pipilo erythrophthalmus canaster","Pipilo_erythrophthalmus",44.3,NA,"female",20,1528,5.66493734753661,49.4320343478921,"Winter",105748
+2,-84.5833333,30.7666667,"adult",1945,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",46,NA,"male",20,1305,6.5161977665916,50.5726227363385,"Winter",105749
+3,-122.1166667,37.8833333,NA,1940,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",39.3,NA,"female",14.9,973,3.69294987616658,127.36572631006,"Spring",105750
+4,-83.8666667,42.7333333,NA,1977,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",39.4,NA,"male",8.5,704,11.1619856765015,44.1262204255699,"Spring",105751
+1,-99.2336407,19.0273436,NA,1966,"Pipilo erythrophthalmus macronyx","Pipilo_erythrophthalmus",53.8,NA,"female",13.5,1314,2.34835532389643,107.172840669992,"Winter",105752
+5,-104.0333333,50.75,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"male",0.6,373,14.6689813944771,95.0753829618757,"Spring",105753
+5,-104.0333333,50.75,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",41,NA,"male",0.6,373,14.6689813944771,95.0753829618757,"Spring",105754
+5,-104.0333333,50.75,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"female",0.6,373,14.6689813944771,95.0753829618757,"Spring",105755
+5,-104.0333333,50.75,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"female",0.6,373,14.6689813944771,95.0753829618757,"Spring",105756
+5,-86.95,37,NA,1949,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.2,NA,"male",14.6,1447,8.09745564228591,45.8371686718701,"Spring",105757
+7,-83.95,42.45,"juvenile",1934,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",30.9,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",105758
+8,-83.95,42.45,"juvenile",1934,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",36.7,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",105759
+8,-83.95,42.45,NA,1934,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.9,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",105760
+12,-83.4655,41.7862,NA,1936,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",49.2,NA,"male",9.5,722,11.607508019564,46.9757777929966,"Winter",105761
+5,-72.9286,41.3081,"adult",2007,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",39.1,NA,"female",11.7,1130,9.53072781729038,54.0595045571392,"Spring",105762
+3,-73.298648,41.195158,"adult",1979,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.1,NA,"male",10.6,1459,9.28639849294101,56.3836947683283,"Spring",105763
+9,-72.7576,41.2445,"adult adult",2003,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",39,NA,"male male",10.6,1373,9.49224164858605,27.5565637051222,"Fall",105764
+5,-72.65,41.2167,NA,1978,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",34,NA,"female",9.7,1228,9.42651000684192,53.450882076514,"Spring",105765
+6,-72.7175,41.9958,NA,1968,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41,NA,"male",8.8,1006,10.503805226794,59.0183438276553,"Summer",105766
+5,-72.65,41.2167,NA,1978,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",34.5,NA,"female",9.7,1228,9.42651000684192,53.450882076514,"Spring",105767
+5,-72.65,41.2167,NA,1978,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",33.5,NA,"female",9.7,1228,9.42651000684192,53.450882076514,"Spring",105768
+3,-110.98387,18.75066,"U-Ad.",1932,"Pipilo erythrophthalmus socorroensis","Pipilo_erythrophthalmus",30.3,NA,"male",-9999,-9999,0,0,"Spring",105769
+3,-110.98387,18.75066,"U-Ad.",1932,"Pipilo erythrophthalmus socorroensis","Pipilo_erythrophthalmus",29,NA,"female",-9999,-9999,0,0,"Spring",105770
+11,-123.3072,38.89795,"Imm.",1939,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",36.2,NA,"female",13.4,762,4.6994116330632,125.070869868312,"Fall",105771
+5,-122.46675,37.76946,"U-Ad.",1945,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",48.7,NA,"female",12.7,649,2.17386333935273,116.192928991635,"Spring",105772
+6,-122.46675,37.76946,"U-Ad.",1945,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",43.6,NA,"male",12.7,649,2.17386333935273,116.192928991635,"Summer",105773
+4,-122.62922,38.01217,"U-Ad.",1973,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",41.7,NA,"male",14.4,1671,4.10472750359727,135.507814158149,"Spring",105774
+4,-122.26167,38.45083,"U-Ad.",1975,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",40.8,NA,"male",12.7,834,5.37290480658331,141.355797645393,"Spring",105775
+3,-122.1814,37.78087,"U-Ad.",1976,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",34.1,NA,"female",14.5,228,3.449494912522,89.6564415530849,"Spring",105776
+1,-122.68142,37.91697,"U-Ad.",1974,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",53.1,NA,"female",12.7,555,2.51829668264448,109.524457241164,"Winter",105777
+7,-122.30168,38.30421,"U-Ad.",1981,"Pipilo erythrophthalmus falcifer","Pipilo_erythrophthalmus",41,NA,"female",15,790,4.55381957561701,120.185723927011,"Summer",105778
+10,-121.93957,37.46675,"U-Ad",1989,"Pipilo erythrophthalmus falcifer?","Pipilo_erythrophthalmus",27.8,NA,"male",14.7,225,4.03111947756752,110.058203150915,"Fall",105779
+6,-92.20389,37.77389,"AHY",2005,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",36.2,NA,"female",14.2,1018,9.26944720655722,63.0870992272245,"Summer",105780
+8,-71.0608,41.621,"ad.",2008,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38.6,179,"female",11.5,1524,8.49646539700035,45.0417227111297,"Summer",105781
+5,-105.0477777778,39.7808333333,NA,1902,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",3.4,8.2,"male",10.3,367,8.52669160325209,69.5363265950276,"Spring",105782
+5,-79.97972,43.63902,"ad",1976,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.2,NA,"female",6.1,932,10.1320673052832,33.4958975574402,"Spring",105786
+5,-77.27931,43.96989,"ad",1930,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Spring",105787
+6,-76.86601,43.94689,"ad",1930,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44,NA,"male",7.8,622,9.99043481930531,37.8935375302102,"Summer",105788
+12,-82.50596,41.90342,"ad",1911,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",52.5,91,"female",10.6,981,9.76789344865322,49.5351060305829,"Winter",105789
+2,-86.946,49.681,NA,1963,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",46,NA,"male",-0.4,737,14.2350479770562,43.6957259158129,"Winter",105790
+8,-83.95,42.45,"juvenile",1940,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.5,NA,"female",8.1,811,10.6975039569561,57.0342322994254,"Summer",105791
+4,-98.2666667,29.4666667,NA,1947,"Pipilo erythrophthalmus arcticus","Pipilo_erythrophthalmus",38.1,NA,"male",20.2,576,7.75245806571091,84.1041752075044,"Spring",105792
+4,-83.6561111,42.3127778,NA,1948,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",46.05,NA,"male",9.4,733,10.4204744555509,42.8516163598439,"Spring",105793
+6,-96.3552469,16.8191202,NA,1956,"Pipilo erythrophthalmus oaxacae","Pipilo_erythrophthalmus",41.5,NA,"male",16.3,900,0.985808390012066,117.382465655656,"Summer",105794
+4,-83.6561111,42.3127778,NA,1949,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",45.1,NA,"male",10.5,841,9.74649898292933,23.8253832581416,"Spring",105795
+5,-83.6561111,42.3127778,NA,1949,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.9,NA,"female",10.5,841,9.74649898292933,23.8253832581416,"Spring",105796
+4,-83.4666667,41.8,NA,1961,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45.4,NA,"male",9.9,792,10.0170612033428,52.3151303242169,"Spring",105797
+3,-83.4666667,41.8,NA,1963,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",44.8,NA,"male",9.1,551,11.4112484377955,52.3218532021928,"Spring",105798
+8,-99.153639,19.022344,NA,1963,"Pipilo erythrophthalmus macronyx","Pipilo_erythrophthalmus",60,NA,"female",14.9,1325,2.00854236306891,112.849299367692,"Summer",105799
+12,-84.8833333,31.0333333,"adult",1946,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.9,NA,"male",20,1528,5.66493734753661,49.4320343478921,"Winter",105800
+2,-84.5833333,30.7666667,NA,1945,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42.8,NA,"female",20,1305,6.5161977665916,50.5726227363385,"Winter",105801
+12,-84.5833333,31.0666667,"adult",1946,"Pipilo erythrophthalmus rileyi","Pipilo_erythrophthalmus",49.7,NA,"male",20.1,1420,5.62237817686043,49.9954762684942,"Winter",105802
+12,-84.5833333,31.0666667,"immature",1946,"Pipilo erythrophthalmus rileyi","Pipilo_erythrophthalmus",45.8,NA,"male",20.1,1420,5.62237817686043,49.9954762684942,"Winter",105803
+2,-84.5833333,30.9,"adult",1945,"Pipilo erythrophthalmus canaster","Pipilo_erythrophthalmus",46.3,NA,"male",20.1,1342,6.67139415714587,50.7127530883841,"Winter",105804
+3,-89.9833333,32.2666667,NA,1939,"Pipilo erythrophthalmus canaster","Pipilo_erythrophthalmus",47.8,NA,"female",18.6,1306,6.80077981268369,58.2111287582553,"Spring",105805
+3,-89.9833333,32.2666667,NA,1939,"Pipilo erythrophthalmus canaster","Pipilo_erythrophthalmus",50.1,NA,"male",18.6,1306,6.80077981268369,58.2111287582553,"Spring",105806
+12,-84.5833333,31.0666667,"immature",1946,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",34.5,NA,"female",20.1,1420,5.62237817686043,49.9954762684942,"Winter",105807
+12,-84.5833333,31.0666667,"adult",1946,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",45.6,NA,"female",20.1,1420,5.62237817686043,49.9954762684942,"Winter",105808
+4,-96.4419187,16.8124604,NA,1965,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42.5,NA,"male",15.8,733,1.34848399727586,112.564289181129,"Spring",105809
+1,-99.1753095,19.0556723,NA,1966,"Pipilo erythrophthalmus macronyx","Pipilo_erythrophthalmus",53.6,NA,"male",12.3,1298,2.19232476581091,105.002012277705,"Winter",105810
+5,-104.0333333,50.75,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",40,NA,"male",0.6,373,14.6689813944771,95.0753829618757,"Spring",105811
+5,-104.0333333,50.75,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",44,NA,"male",0.6,373,14.6689813944771,95.0753829618757,"Spring",105812
+5,-104.0333333,50.75,NA,1966,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",38,NA,"female",0.6,373,14.6689813944771,95.0753829618757,"Spring",105813
+9,-87.6333333,37.8333333,"juvenile",1949,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",37.99,NA,"female",14.4,1293,8.67067506371944,50.4137413706337,"Fall",105814
+7,-84.2833333,42.2,"juvenile",1967,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",41.6,NA,"male",8.4,869,9.80625573372179,49.5022498606785,"Summer",105815
+3,-83.75,42.2833333,"adult",2004,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.1,NA,"male",9.8,848,10.010751795702,62.8723882555722,"Spring",105816
+4,-83.3666667,43.9,NA,1933,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",43.7,NA,"male",7.9,726,10.5977234547917,51.1691859496215,"Spring",105817
+6,-83.3666667,43.9,"adult",1933,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"male",7.9,726,10.5977234547917,51.1691859496215,"Summer",105818
+8,-83.95,42.45,NA,1935,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",42,NA,"male",8.4,658,10.1983473111474,44.4104509785528,"Summer",105819
+8,-83.95,42.45,"juvenile",1935,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",39,NA,"female",8.4,658,10.1983473111474,44.4104509785528,"Summer",105820
+6,-72.1333,42,NA,1975,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.3,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Summer",105821
+8,-74.8492,39.8225,"immature",1971,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",45,NA,"female",12.5,1278,9.07615507299709,54.2174529058646,"Summer",105822
+10,-72.5989,41.2794,"immature",1977,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",35.7,NA,"male",10.4,1352,9.44167101286375,37.0204213964468,"Fall",105823
+5,-72.1333,42,NA,1975,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",40.5,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Spring",105824
+10,-72.5989,41.2794,"immature",1977,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",33.4,NA,"female",10.4,1352,9.44167101286375,37.0204213964468,"Fall",105825
+5,-72.65,41.2167,NA,1978,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",34.5,NA,"female",9.7,1228,9.42651000684192,53.450882076514,"Spring",105826
+5,-72.65,41.2167,NA,1979,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",43,NA,"male",10.8,1440,9.13597617149151,59.6142240038024,"Spring",105827
+5,-72.65,41.2167,NA,1978,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",38.8,NA,"male",9.7,1228,9.42651000684192,53.450882076514,"Spring",105828
+10,-72.5989,41.2794,"immature",1977,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",36,NA,"male",10.4,1352,9.44167101286375,37.0204213964468,"Fall",105829
+6,-71.0608,41.621,"ad",2006,"Pipilo erythrophthalmus","Pipilo_erythrophthalmus",39.7,187,"male",12.2,1454,7.95816714089521,65.8772639933196,"Summer",105831
+NA,-72.6822,41.2889,NA,1966,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",37,NA,"male",10.2,937,9.09706496124387,38.2550791246822,"",105832
+NA,-72.6822,41.2889,NA,1966,"Pipilo erythrophthalmus erythrophthalmus","Pipilo_erythrophthalmus",31,NA,"female",10.2,937,9.09706496124387,38.2550791246822,"",105833

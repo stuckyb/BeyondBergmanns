@@ -1,0 +1,556 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+3,-117.3673,46.6092,NA,1949,"Callipepla californica","Callipepla_californica",175,NA,"male",10.7,365,9.61017453251784,75.1727739213474,"Spring",11537
+9,-117.16469,46.73798,NA,2005,"Callipepla californica","Callipepla_californica",62.5,NA,"male",8.8,449,7.66058388470131,68.2664806563706,"Fall",11538
+4,-118.133053,47.34402,NA,2011,"Callipepla californica","Callipepla_californica",190.1,NA,"male",8.5,335,8.32951579224947,67.1618271863198,"Spring",11539
+3,-117.174,46.731,NA,1999,"Callipepla californica","Callipepla_californica",158.1,NA,"female",8.9,494,6.45964160747094,75.4625698974,"Spring",11540
+7,-119.12085,47.423201,"Juv",1949,"Callipepla californica","Callipepla_californica",20.5,111,NA,9.5,135,10.5849664690785,88.7418613824566,"Summer",11541
+10,-117.2834,46.6054,"Juv",1954,"Callipepla californica","Callipepla_californica",148,241,"male",8.6,480,6.74098162980239,42.3977430613404,"Fall",11542
+1,-117.006294,46.064556,NA,1955,"Callipepla californica","Callipepla_californica",189.4,273,"male",9.8,450,8.60550827826414,55.687439419414,"Winter",11543
+12,-117.295924,46.039203,NA,1956,"Callipepla californica","Callipepla_californica",190,275,"male",9.3,501,8.22329930837687,56.6491531327769,"Winter",11544
+12,-117.295924,46.039203,NA,1956,"Callipepla californica","Callipepla_californica",169,267,"female",9.3,501,8.22329930837687,56.6491531327769,"Winter",11545
+10,-117.048025,46.339271,"Ad",1948,"Callipepla californica","Callipepla_californica",200,282,"male",10,432,8.360019392467,59.7675163515032,"Fall",11546
+10,-117.128498,46.56794,NA,1951,"Callipepla californica","Callipepla_californica",181,279,"female",8.2,574,7.98947698064413,64.8638641455008,"Fall",11547
+10,-117.801993,46.945162,NA,1964,"Callipepla californica","Callipepla_californica",178.3,282,"male",9.4,382,7.44885592191543,88.6797368522903,"Fall",11548
+4,-122.41541,37.236479,NA,1964,"Callipepla californica brunnescens","Callipepla_californica",158,NA,"male",12.1,573,2.58824557403565,119.292604899014,"Spring",11549
+11,-121.8628506,41.9622187,"adult",1960,"Callipepla californica","Callipepla_californica",200,NA,"male",7.9,326,7.27787743782485,80.7042041562444,"Fall",11550
+12,-122.0375778,41.9485663,"adult",1961,"Callipepla californica californica","Callipepla_californica",165,NA,"female",7.8,410,7.17917864804924,62.5334873341334,"Winter",11551
+11,-121.8822647,41.9655361,"immature",1963,"Callipepla californica","Callipepla_californica",184.5,NA,"male",7.5,321,6.22434126975893,64.9283583942412,"Fall",11552
+12,-121.8046082,41.9462967,"immature",1961,"Callipepla californica","Callipepla_californica",220,NA,"female",7.8,287,6.99491157047663,56.1660841005365,"Winter",11553
+12,-119.7806166,48.2117651,NA,1999,"Callipepla californica","Callipepla_californica",198,NA,"female",9.2,295,7.59285948451011,77.3628576150686,"Winter",11554
+12,-118.3957214,37.3652992,NA,2005,"Callipepla californica canfieldae","Callipepla_californica",151,NA,"female",14.8,187,7.53999437344055,121.616424676485,"Winter",11555
+12,-118.3957214,37.3652992,NA,2005,"Callipepla californica canfieldae","Callipepla_californica",154,NA,"female",14.8,187,7.53999437344055,121.616424676485,"Winter",11556
+6,-118.2940292,37.1661072,"adult",2004,"Callipepla californica canfieldae","Callipepla_californica",191,NA,"male",15,197,8.04545326142773,140.509228006342,"Summer",11557
+8,-122.6160965,38.7523041,NA,1990,"Callipepla californica californica","Callipepla_californica",167,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Summer",11558
+8,-122.6160965,38.7523041,NA,1990,"Callipepla californica californica","Callipepla_californica",176,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Summer",11559
+6,-120.6670456,35.486084,"juvenile",2002,"Callipepla californica californica","Callipepla_californica",110,NA,"female",14.4,329,4.3166695916686,157.477318047137,"Summer",11560
+2,-122.8405075,38.9778976,NA,1990,"Callipepla californica californica","Callipepla_californica",190,NA,"male",14,399,6.79845682133197,121.564237077454,"Winter",11561
+1,-118.3328819,34.1213265,NA,1993,"Callipepla californica californica","Callipepla_californica",140,NA,"female",17.9,705,3.69873033088465,185.320621222452,"Winter",11562
+2,-118.3957214,37.3652992,NA,2006,"Callipepla californica canfieldae","Callipepla_californica",176,NA,"male",14.5,91,8.45490712813893,175.556834159773,"Winter",11563
+7,-118.473078,35.712119,NA,2006,"Callipepla californica californica","Callipepla_californica",132,NA,"male",15.9,225,7.6453590596855,123.508191991709,"Summer",11564
+4,-122.6160965,38.7523041,NA,1990,"Callipepla californica californica","Callipepla_californica",205,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Spring",11565
+3,-120.6670456,35.486084,"adult",2002,"Callipepla californica californica","Callipepla_californica",203,NA,"male",14.4,329,4.3166695916686,157.477318047137,"Spring",11566
+9,-118.7354278,34.0347371,NA,2003,"Callipepla californica californica","Callipepla_californica",144.5,NA,"male",15.7,292,2.41917842302387,139.265115618096,"Fall",11567
+12,-118.2940292,37.1661072,NA,1996,"Callipepla californica canfieldae","Callipepla_californica",174,NA,"female",15,289,7.92319188818305,121.100801155087,"Winter",11568
+10,-118.3957214,37.3652992,NA,1996,"Callipepla californica canfieldae","Callipepla_californica",182,NA,"female",14.5,216,7.8972185360455,113.558896153595,"Fall",11569
+12,-118.2940292,37.1661072,NA,1996,"Callipepla californica canfieldae","Callipepla_californica",183,NA,"male",15,289,7.92319188818305,121.100801155087,"Winter",11570
+6,-118.7354278,34.0347371,NA,2003,"Callipepla californica californica","Callipepla_californica",162.7,NA,"female",15.7,292,2.41917842302387,139.265115618096,"Summer",11571
+5,-118.7354278,34.0347371,NA,2001,"Callipepla californica californica","Callipepla_californica",152,NA,"female",15,448,2.71069710367625,135.796772812589,"Spring",11572
+4,-118.3957214,37.3652992,"adult",2005,"Callipepla californica canfieldae","Callipepla_californica",169,NA,"male",14.8,187,7.53999437344055,121.616424676485,"Spring",11573
+9,-118.2,34.1833333,NA,1992,"Callipepla californica californica","Callipepla_californica",94,NA,"female",18.4,819,4.51303667168792,148.89116002069,"Fall",11574
+11,-118.2,34.1833333,NA,1996,"Callipepla californica californica","Callipepla_californica",161,NA,"male",18.6,597,4.07761814016096,122.251937693213,"Fall",11575
+5,-120.742395,41.8959486,"u ad.",1948,"Callipepla californica californica","Callipepla_californica",207,NA,"female",5.9,556,7.59079885603138,55.1023653639579,"Spring",11576
+11,-122.0953353,37.8783134,"u ad.",1948,"Callipepla californica brunnescens","Callipepla_californica",171.2,NA,"female",13.9,485,4.95790614406256,112.888741939558,"Fall",11577
+1,-122.084859,37.8567632,"u ad.",1949,"Callipepla californica brunnescens","Callipepla_californica",160,NA,"male",13.5,425,5.46376493571304,132.41441439065,"Winter",11578
+2,-122.084859,37.8567632,"u ad.",1949,"Callipepla californica brunnescens","Callipepla_californica",194.1,NA,"male",13.5,425,5.46376493571304,132.41441439065,"Winter",11579
+8,-120.2887243,35.4464832,"u ad.",1947,"Callipepla californica californica","Callipepla_californica",177,NA,"female",14.7,120,5.94935061391348,93.5171350366046,"Summer",11580
+1,-122.2715302,37.8697904,"u ad.",1926,"Callipepla californica brunnescens","Callipepla_californica",5.75,NA,"female",14.3,650,2.82846730098251,124.29536738734,"Winter",11581
+1,-122.2715302,37.8697904,"u ad.",1926,"Callipepla californica brunnescens","Callipepla_californica",7.12,NA,"male",14.3,650,2.82846730098251,124.29536738734,"Winter",11582
+8,-120.19801,35.65541,"u ad.",1963,"Callipepla californica californica","Callipepla_californica",152,NA,"undetermined",13.8,461,6.04535258515067,93.3193719985583,"Summer",11583
+7,-122.25906,37.87876,"u juv.",1968,"Callipepla californica brunnescens","Callipepla_californica",36.4,NA,"female",14.3,549,3.77506772967537,113.266850463737,"Summer",11584
+12,-120.146403,35.445351,"u ad.",1971,"Callipepla californica californica","Callipepla_californica",173.5,NA,"female",14.1,155,6.67757440991862,150.380546508366,"Winter",11585
+10,-121.5568207,36.37851365,"u ad.",1975,"Callipepla californica californica","Callipepla_californica",168.9,NA,"female",13.2,511,4.84870335681863,145.801458543813,"Fall",11586
+8,-121.588138,36.408122,"u imm.",1976,"Callipepla californica californica","Callipepla_californica",164.5,NA,"female",14.1,301,4.76987865927871,90.6706706869645,"Summer",11587
+8,-121.588138,36.408122,"ad.",1976,"Callipepla californica californica","Callipepla_californica",202.3,NA,"male",14.1,301,4.76987865927871,90.6706706869645,"Summer",11588
+8,-121.594679,36.477499,"ad.",1976,"Callipepla californica californica","Callipepla_californica",164.1,NA,"female",14.2,328,5.10017082304529,91.5510917776214,"Summer",11589
+9,-121.594679,36.477499,"u imm.",1976,"Callipepla californica californica","Callipepla_californica",167.7,NA,"female",14.2,328,5.10017082304529,91.5510917776214,"Fall",11590
+7,-121.589069,36.482951,"juv.",1976,"Callipepla californica californica","Callipepla_californica",65.6,NA,"female ?",14.2,339,5.22623771044339,91.6206190881109,"Summer",11591
+4,-121.58112,36.488991,"ad.",1976,"Callipepla californica californica","Callipepla_californica",191,NA,"male",14.2,346,5.31564300965185,91.9486517955578,"Spring",11592
+5,-121.58112,36.488991,"ad.",1976,"Callipepla californica californica","Callipepla_californica",189.2,NA,"male",14.2,346,5.31564300965185,91.9486517955578,"Spring",11593
+8,-121.58112,36.488991,"ad.",1976,"Callipepla californica californica","Callipepla_californica",183.2,NA,"female",14.2,346,5.31564300965185,91.9486517955578,"Summer",11594
+4,-121.573639,36.494202,"imm.",1976,"Callipepla californica californica","Callipepla_californica",190,NA,"female",14.1,354,5.38439805588725,92.2416760898569,"Spring",11595
+6,-121.589455,36.406052,"u ad.",1976,"Callipepla californica californica","Callipepla_californica",195,NA,"male",14.1,300,4.76987865927871,90.424279533017,"Summer",11596
+10,-121.5493125,36.38659947,"ad.",1975,"Callipepla californica californica","Callipepla_californica",145.3,NA,"female",13.2,517,4.91104969338624,146.305099577384,"Fall",11597
+9,-121.5493125,36.38659947,"imm.",1975,"Callipepla californica californica","Callipepla_californica",168.8,NA,"male",13.2,517,4.91104969338624,146.305099577384,"Fall",11598
+7,-121.542957,36.353636,"ad.",1976,"Callipepla californica californica","Callipepla_californica",172.8,NA,"male",14.3,323,5.19594830496597,92.1365866578084,"Summer",11599
+6,-121.542957,36.353636,"1-3 days old",1976,"Callipepla californica californica","Callipepla_californica",6.4,NA,"female",14.3,323,5.19594830496597,92.1365866578084,"Summer",11600
+2,-121.543635,36.350772,"u ad.",1976,"Callipepla californica californica","Callipepla_californica",188.9,NA,"male",14.3,323,5.23093218414763,91.7094927168558,"Winter",11601
+2,-121.543635,36.350772,"u ad.",1976,"Callipepla californica californica","Callipepla_californica",182,NA,"male",14.3,323,5.23093218414763,91.7094927168558,"Winter",11602
+4,-121.54363,36.350772,"imm.",1976,"Callipepla californica californica","Callipepla_californica",194.2,NA,"female",14.3,323,5.23093218414763,91.7094927168558,"Spring",11603
+7,-121.43953,36.235557,"unknown",1976,"Callipepla californica californica","Callipepla_californica",182.1,NA,"female",15.4,263,5.33265383929024,104.399772449926,"Summer",11604
+1,-121.56134,36.206428,"u ad.",1975,"Callipepla californica californica","Callipepla_californica",172.2,NA,"female",13.4,759,5.6039488241991,145.650098337787,"Winter",11605
+1,-121.321858,36.281374,"unknown",1975,"Callipepla californica californica","Callipepla_californica",178.2,NA,"male",13.6,325,4.06316602931977,145.681948367561,"Winter",11606
+9,-121.731819,36.479311,"unknown",1978,"Callipepla californica californica","Callipepla_californica",177,NA,"female",14.1,675,3.62186123255417,120.579937992051,"Fall",11607
+9,-121.5568207,36.37851365,"unknown",1979,"Callipepla californica californica","Callipepla_californica",168,NA,"male",14.2,678,5.39906697887924,109.660525754091,"Fall",11608
+1,-122.1520166667,37.8655666667,"ad.",1997,"Callipepla californica brunnescens","Callipepla_californica",199,NA,"male",15.1,661,4.46897554527236,156.942125547219,"Winter",11609
+11,-122.1520166667,37.8655666667,"adult",1998,"Callipepla californica brunnescens","Callipepla_californica",182,NA,"male",13.6,963,4.2925940451391,140.990928900912,"Fall",11610
+2,-121.5568207,36.37851365,"adult",2003,"Callipepla californica californica","Callipepla_californica",199.2,NA,"male",14.7,512,4.80072595520404,128.754430224971,"Winter",11611
+1,-122.1344666667,37.8599166667,"adult skull",2004,"Callipepla californica brunnescens","Callipepla_californica",187,NA,"male",14.7,655,4.471526076693,124.923700696692,"Winter",11612
+7,-122.1344666667,37.8599166667,"juvenile",2003,"Callipepla californica brunnescens","Callipepla_californica",49,NA,"undetermined",14.5,640,4.48866417329322,115.408040312091,"Summer",11613
+6,-120.84406,40.57595,"adult skull",2006,"Callipepla californica californica","Callipepla_californica",142,NA,"male",9.2,768,8.16694650108075,91.4466087086787,"Summer",11614
+12,-121.929581,37.821234,"skull ossified",2003,"Callipepla californica brunnescens","Callipepla_californica",170.9,NA,"male",15.2,487,4.99487616250772,114.612495674908,"Winter",11615
+4,-121.81513,40.51234,"skull has half windows",2007,"Callipepla californica californica","Callipepla_californica",172,NA,"male",12.4,752,7.26227278891437,123.124223725817,"Spring",11616
+1,-121.54965,36.38688,"not recorded",2006,"Callipepla californica californica","Callipepla_californica",178.9,NA,"male",14.6,739,5.15160316324105,118.20029352112,"Winter",11617
+12,-121.55,36.38749,"adult plumage",2004,"Callipepla californica californica","Callipepla_californica",181.2,NA,"male",14.8,694,4.90289802982982,146.409377602564,"Winter",11618
+10,-121.56701,36.3791,"medium skull windows",2004,"Callipepla californica californica","Callipepla_californica",154,NA,"female",14.7,669,4.7169825357345,145.26253782088,"Fall",11619
+1,-121.731819,36.479311,"adult plumage",2003,"Callipepla californica californica","Callipepla_californica",230,NA,"male",14.7,381,3.50519095576313,126.924801676845,"Winter",11620
+1,-122.6853,37.9094,"juvenile",2003,"Callipepla californica brunnescens","Callipepla_californica",52,NA,"female",13.5,695,2.27800750258163,126.807702214926,"Winter",11621
+5,-122.1370495856,37.8651315761,"adult",2008,"Callipepla californica brunnescens","Callipepla_californica",174.5,NA,"female",13.9,500,4.70965320733208,171.822487680534,"Spring",11622
+11,-121.737,37.3816,"not recorded",2006,"Callipepla californica brunnescens","Callipepla_californica",170.8,NA,"male",14.8,727,5.17601549105452,118.450972459494,"Fall",11623
+1,-121.5964589,36.07240277,"not recorded",2007,"Callipepla californica californica","Callipepla_californica",194,NA,"female",13.6,300,2.52447114173534,128.612172476368,"Winter",11624
+5,-122.573546,37.863634,"not recorded",2007,"Callipepla californica brunnescens","Callipepla_californica",156,NA,"male",13.1,462,2.57274467281834,123.759196796683,"Spring",11625
+9,-122.21755,40.4178,"adult",2009,"Callipepla californica californica","Callipepla_californica",162.3,NA,"male",16.4,598,7.75821656325887,113.88944661714,"Fall",11626
+12,-119.8059,37.6731,"u ad.",1914,"Callipepla californica californica","Callipepla_californica",174.5,NA,"male",13.3,917,6.67662135569127,180.354638224118,"Winter",11627
+7,-118.2352,37.40611,"ad.",1917,"Callipepla californica canfieldae ?","Callipepla_californica",154.5,NA,"female",8.5,118,8.81095650570666,155.358295351485,"Summer",11628
+10,-121.17385,35.970848,"u ad.",1918,"Callipepla californica californica","Callipepla_californica",195.5,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",11629
+10,-120.84938,35.366994,"u ad.",1918,"Callipepla californica californica","Callipepla_californica",175.2,NA,"male",12.4,469,2.33958038195664,149.267532058884,"Fall",11630
+1,-121.835607,36.60922,"ad.",1919,"Callipepla californica californica","Callipepla_californica",185.5,NA,"male",11.7,339,1.95393929994736,149.535305151252,"Winter",11631
+6,-122.0691489,40.3152627,"u ad.",1924,"Callipepla californica californica","Callipepla_californica",169,NA,"male",16.7,494,7.4583032841785,107.492321804429,"Summer",11632
+12,-122.1631844,40.2812856,"u ad.",1924,"Callipepla californica californica","Callipepla_californica",178.6,NA,"male",16.9,498,7.45840993696906,109.793109892061,"Winter",11633
+12,-122.1631844,40.2812856,"u ad.",1924,"Callipepla californica californica","Callipepla_californica",172.7,NA,"male",16.9,498,7.45840993696906,109.793109892061,"Winter",11634
+12,-122.1631844,40.2812856,"u ad.",1924,"Callipepla californica californica","Callipepla_californica",190.7,NA,"male",16.9,498,7.45840993696906,109.793109892061,"Winter",11635
+10,-115.458333,30.883333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",155,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",11636
+10,-115.458333,30.883333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",166,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",11637
+10,-116.2,31.066667,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",148,NA,"male",16.8,240,3.34510044239287,123.886633030575,"Fall",11638
+12,-99.1672222222,19.3233333333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",166.3,NA,"male",14.2,907,2.53377189186399,93.0830759313347,"Winter",11639
+12,-99.1672222222,19.3233333333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",159.9,NA,"female",14.2,907,2.53377189186399,93.0830759313347,"Winter",11640
+12,-99.1672222222,19.3233333333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",167,NA,"male",14.2,907,2.53377189186399,93.0830759313347,"Winter",11641
+12,-99.1672222222,19.3233333333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",161.3,NA,"female",14.2,907,2.53377189186399,93.0830759313347,"Winter",11642
+12,-116.0175,30.7197222222,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",151.5,NA,"male",18.7,187,3.44524265759278,129.978629666692,"Winter",11643
+4,-115.7666666667,30.8666666667,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",166.1,NA,"male",16,266,4.03021730371348,124.899293379329,"Spring",11644
+4,-114.8667,31,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",142.9,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",11645
+5,-121.8688123,40.4352952,"u ad.",1926,"Callipepla californica californica","Callipepla_californica",170.6,NA,"male",16.6,936,7.0718980779026,118.443020177421,"Spring",11646
+10,-115.864167,32.288333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",155,NA,"female",16.9,304,5.85312659260766,129.574444396434,"Fall",11647
+10,-115.864167,32.288333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",162.5,NA,"male",16.9,304,5.85312659260766,129.574444396434,"Fall",11648
+10,-115.864167,32.288333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",169.8,NA,"male",16.9,304,5.85312659260766,129.574444396434,"Fall",11649
+4,-112.9,27.3,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",154.2,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",11650
+4,-112.9,27.3,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",156.4,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",11651
+4,-112.9,27.3,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",147.1,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",11652
+5,-112.9,27.3,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",140,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",11653
+12,-122.10929,40.17771,"u ad.",1927,"Callipepla californica californica","Callipepla_californica",179,NA,"female",17.1,697,7.27884023396002,99.7969233031601,"Winter",11654
+1,-122.22274,40.28692,"u ad.",1928,"Callipepla californica californica","Callipepla_californica",188.2,NA,"female",17.3,564,7.66432111682556,112.740950553323,"Winter",11655
+12,-117.111769,32.460771,"ad.",1927,"Callipepla californica californica","Callipepla_californica",153,NA,"male",16.5,463,3.17846684978018,138.467360163425,"Winter",11656
+1,-116.736859,32.39092,"u ad.",1928,"Callipepla californica californica","Callipepla_californica",148,NA,"male",16.8,212,3.95523243771635,107.166852477321,"Winter",11657
+1,-116.736859,32.39092,"u ad.",1928,"Callipepla californica californica","Callipepla_californica",149,NA,"female",16.8,212,3.95523243771635,107.166852477321,"Winter",11658
+1,-116.736859,32.39092,"u ad.",1928,"Callipepla californica californica","Callipepla_californica",164.6,NA,"male",16.8,212,3.95523243771635,107.166852477321,"Winter",11659
+11,-116.35,32.6,"u ad.",1927,"Callipepla californica plumbea","Callipepla_californica",151,NA,"female",13.6,713,5.21695226248917,130.774518605179,"Fall",11660
+11,-116.35,32.6,"u ad.",1927,"Callipepla californica plumbea","Callipepla_californica",155.5,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",11661
+11,-116.35,32.6,"u ad.",1927,"Callipepla californica plumbea","Callipepla_californica",161.6,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",11662
+11,-116.35,32.6,"u ad.",1927,"Callipepla californica plumbea","Callipepla_californica",180.1,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",11663
+5,-118.08361,37.67833,"u ad.",1928,"Callipepla californica californica","Callipepla_californica",142.5,NA,"male",10.9,37,8.67848262117639,164.82402878027,"Spring",11664
+2,-110.3,24.12311,"u ad.",1929,"Callipepla californica achrustera","Callipepla_californica",132.4,NA,"female",22.8,160,4.47933808692419,113.012449126554,"Winter",11665
+2,-110.3,24.12311,"u ad.",1929,"Callipepla californica achrustera","Callipepla_californica",140,NA,"male",22.8,160,4.47933808692419,113.012449126554,"Winter",11666
+4,-109.9,22.8833,"u ad.",1929,"Callipepla californica achrustera","Callipepla_californica",143.4,NA,"male",23,165,3.59750544885556,121.293124556952,"Spring",11667
+1,-115.2833333,29.9833333,"u ad.",1931,"Callipepla californica plumbea","Callipepla_californica",172.9,NA,"male",17.7,236,4.68000259000187,115.738901824293,"Winter",11668
+1,-115.2833333,29.9833333,"u ad.",1931,"Callipepla californica plumbea","Callipepla_californica",164.3,NA,"female",17.7,236,4.68000259000187,115.738901824293,"Winter",11669
+1,-115.2833333,29.9833333,"u ad.",1931,"Callipepla californica plumbea","Callipepla_californica",168.4,NA,"male",17.7,236,4.68000259000187,115.738901824293,"Winter",11670
+5,-123.52347,40.49,"u ad.",1932,"Callipepla californica brunnescens","Callipepla_californica",295.4,NA,"male",10.5,1214,6.85452184305876,101.017400304421,"Spring",11671
+10,-118.49432,35.4277106,"imm.",1933,"Callipepla californica californica","Callipepla_californica",151.5,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",11672
+2,-122.18164,37.78105,"imm.",1934,"Callipepla californica brunnescens","Callipepla_californica",181.9,NA,"female",14.8,392,2.40773689793901,119.01122703736,"Winter",11673
+7,-118.97694,38.57189,"u ad.",1934,"Callipepla californica californica","Callipepla_californica",169,NA,"female",11,133,7.01334226292783,102.473532474341,"Summer",11674
+7,-118.79,38.65,"u ad.",1934,"Callipepla californica californica","Callipepla_californica",165.7,NA,"undetermined",10.4,140,6.85049765942725,108.39110494377,"Summer",11675
+5,-119.8975,42.0471,"u ad.",1937,"Callipepla californica californica","Callipepla_californica",176.6,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",11676
+5,-119.8975,42.0471,"u ad.",1937,"Callipepla californica californica","Callipepla_californica",154.5,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",11677
+5,-119.8975,42.0471,"u ad.",1937,"Callipepla californica californica","Callipepla_californica",147,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",11678
+8,-119.69908,38.90292,"u ad.",1939,"Callipepla californica californica","Callipepla_californica",176.4,NA,"male",9.6,233,7.19955280597765,70.2082391431695,"Summer",11679
+2,-118.82268,39.43774,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",168.5,NA,"female",11.9,158,8.483763458763,106.17282612329,"Winter",11680
+2,-118.82268,39.43774,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",159.2,NA,"female",11.9,158,8.483763458763,106.17282612329,"Winter",11681
+2,-118.82268,39.43774,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",161,NA,"female",11.9,158,8.483763458763,106.17282612329,"Winter",11682
+2,-118.82268,39.43774,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",184.5,NA,"male",11.9,158,8.483763458763,106.17282612329,"Winter",11683
+4,-118.82268,39.43774,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",187.9,NA,"male",11.9,158,8.483763458763,106.17282612329,"Spring",11684
+4,-118.82268,39.43774,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",170.6,NA,"male",11.9,158,8.483763458763,106.17282612329,"Spring",11685
+4,-118.84185,39.47361,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",163.9,NA,"male",11.9,161,8.43766806791085,107.61357636554,"Spring",11686
+9,-118.82823,39.45697,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",164.1,NA,"male",11.9,159,8.45674824676074,108.276791771661,"Fall",11687
+9,-118.82823,39.45697,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",158.9,NA,"male",11.9,159,8.45674824676074,108.276791771661,"Fall",11688
+9,-118.82823,39.45697,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",149.7,NA,"female",11.9,159,8.45674824676074,108.276791771661,"Fall",11689
+9,-118.82823,39.45697,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",144.8,NA,"female",11.9,159,8.45674824676074,108.276791771661,"Fall",11690
+10,-120.801169,35.935341,"u ad.",1941,"Callipepla californica californica","Callipepla_californica",167.7,NA,"female",15.1,663,4.69341091964107,113.796100301503,"Fall",11691
+12,-124.1530252,41.104244,"u ad.",1941,"Callipepla californica brunnescens","Callipepla_californica",159.6,NA,"female",12.2,1865,2.44619370376993,94.5728935259856,"Winter",11692
+1,-123.61833,40.91792,"u ad.",1942,"Callipepla californica brunnescens","Callipepla_californica",182.4,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",11693
+6,-118.289486,36.78325,"u ad.",1942,"Callipepla californica canfieldae","Callipepla_californica",165.5,NA,"male",10.1,122,7.43901977087809,136.149129141004,"Summer",11694
+8,-122.2715302,37.8697904,"u ad.",1942,"Callipepla californica brunnescens","Callipepla_californica",200.7,NA,"male",13.5,650,2.44589947512653,87.8668854818576,"Summer",11695
+9,-122.27846,37.90166,"imm.",1940,"Callipepla californica brunnescens","Callipepla_californica",133.7,NA,"female",14.3,950,2.38968743993981,121.418660168076,"Fall",11696
+9,-123.88759,40.77914,"u ad.",1942,"Callipepla californica brunnescens","Callipepla_californica",195,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",11697
+9,-124.1323646,41.1604001,"u juv.",1942,"Callipepla californica brunnescens","Callipepla_californica",132.4,NA,"female",11.2,1547,2.53783491594825,101.279849352356,"Fall",11698
+12,-120.277486,40.5427277,"u ad.",1942,"Callipepla californica californica","Callipepla_californica",190.3,NA,"male",8.8,219,8.35674287717119,92.5221304861657,"Winter",11699
+6,-123.47471,40.61736,"u ad.",1943,"Callipepla californica californica","Callipepla_californica",208.1,NA,"female",13.1,998,6.018676739697,124.778735426946,"Summer",11700
+12,-121.261287,37.323787,"u ad.",1943,"Callipepla californica californica","Callipepla_californica",176.2,NA,"male",15.7,324,5.37356041327829,129.229782559349,"Winter",11701
+12,-121.261287,37.323787,"u ad.",1943,"Callipepla californica californica","Callipepla_californica",175,NA,"female",15.7,324,5.37356041327829,129.229782559349,"Winter",11702
+10,-119.42944,40.45639,"u ad.",1947,"Callipepla californica californica","Callipepla_californica",165,NA,"male",10.6,125,8.40485069180382,80.7611696446165,"Fall",11703
+12,-121.0046385,36.3815686,"u ad.",1946,"Callipepla californica californica","Callipepla_californica",189,NA,"male",13.7,346,5.79458341640682,116.074890936388,"Winter",11704
+12,-121.0046385,36.3815686,"u ad.",1946,"Callipepla californica californica","Callipepla_californica",190,NA,"female",13.7,346,5.79458341640682,116.074890936388,"Winter",11705
+6,-119.6952863,48.557371,"immature",1940,"Callipepla californica","Callipepla_californica",19.5,NA,"male",7.7,423,8.69707369803723,64.6884954486685,"Summer",11706
+10,-118.8170494,39.4427798,NA,1940,"Callipepla californica","Callipepla_californica",168.6,NA,NA,11.9,158,8.483763458763,107.223188698012,"Fall",11707
+7,-119.7189578,48.5369043,NA,1940,"Callipepla californica","Callipepla_californica",193.6,NA,NA,8.5,383,8.94096378101004,64.8287735991021,"Summer",11708
+9,-118.4738159,34.359309,"adult",1999,"Callipepla californica","Callipepla_californica",161.5,NA,"male",14.8,276,4.95680585078983,121.215701384946,"Fall",11709
+10,-118.4738159,34.359309,NA,1999,"Callipepla californica","Callipepla_californica",153.52,NA,"female",14.8,276,4.95680585078983,121.215701384946,"Fall",11710
+4,-118.1367378,34.6980419,NA,1999,"Callipepla californica","Callipepla_californica",148.4,NA,"female",15,73,7.15776226247146,123.304274515052,"Spring",11711
+7,-117.3522684,34.2822272,"adult",2000,"Callipepla californica","Callipepla_californica",163.2,NA,"male",13.7,414,5.6001352797513,157.58434988317,"Summer",11712
+6,-118.136,34.266794,"chick",2000,"Callipepla californica","Callipepla_californica",27.2,NA,"male",13.8,645,5.35697647649278,170.044494878198,"Summer",11713
+6,-118.136,34.266794,"chick",2000,"Callipepla californica","Callipepla_californica",25,NA,NA,13.8,645,5.35697647649278,170.044494878198,"Summer",11714
+9,-118.3957214,37.3652992,NA,2000,"Callipepla californica canfieldae","Callipepla_californica",160.9,NA,"male",14.2,80,7.99830948047489,124.451659242517,"Fall",11715
+6,-119.5431804,38.6653403,NA,2000,"Callipepla californica","Callipepla_californica",134.5,NA,"female",10.2,298,7.47673158214973,107.940132613054,"Summer",11716
+4,-118.564367,37.431505,NA,2000,"Callipepla californica","Callipepla_californica",152.6,NA,"male",13.5,99,8.01281171095088,92.1500752231726,"Spring",11717
+6,-119.241921,46.98496,NA,2012,"Callipepla californica californica","Callipepla_californica",182.9,NA,"male",11.3,222,8.53152798137413,59.8983268898357,"Summer",11718
+6,-119.540319,47.048083,NA,2012,"Callipepla californica","Callipepla_californica",172.5,NA,"male",11,180,8.73284899188985,61.3275964859575,"Summer",11719
+9,-117.8337335,33.9197168,"adult",1975,NA,"Callipepla_californica",149.8,NA,"male",16.5,236,4.31761718796586,154.172085305313,"Fall",11720
+5,-118.8767586,34.1408405,"adult",1982,NA,"Callipepla_californica",149.4,NA,"male",16.9,513,4.35315107048035,115.822763031063,"Spring",11721
+12,-119.261063,34.441252,"adult",2000,NA,"Callipepla_californica",168,NA,"undetermined",15.4,494,3.84727372973579,177.932930177009,"Winter",11722
+8,-119.306032,34.413874,"adult",2003,NA,"Callipepla_californica",171,NA,"female",15.7,349,3.61950733295753,128.408901603945,"Summer",11723
+5,-118.049511,34.0291786,"chick",1988,NA,"Callipepla_californica",7.2,NA,"female",18.9,280,3.8417562271819,129.138039433011,"Spring",11724
+10,-118.3388042,35.6718703,"adult",1992,NA,"Callipepla_californica",145,NA,"male",16.8,347,7.72290964166572,146.559850288937,"Fall",11725
+5,-118.910656,34.1841717,"n/a",1994,NA,"Callipepla_californica",160,NA,"female",16.4,251,4.11629246244283,136.782836729723,"Spring",11726
+8,-120.7914161,35.3254199,"juvenile",1993,NA,"Callipepla_californica",75.2,NA,"female",14.2,546,2.09797882532573,149.016529090533,"Summer",11727
+11,-119.060476,34.249664,"adult",1995,NA,"Callipepla_californica",135,NA,"male",16,624,2.49538968839933,187.312753912742,"Fall",11728
+10,-119.2922115,34.438593,"adult",2003,NA,"Callipepla_californica",182,NA,"undetermined",15.7,386,3.67518294741496,130.633427637614,"Fall",11729
+1,-120.5809164,35.3884202,"adult",2006,NA,"Callipepla_californica",153.4,NA,"male",15.2,497,4.9642967703636,122.212075163889,"Winter",11730
+12,-117.165636,46.729564,NA,2007,"Callipepla californica","Callipepla_californica",200.6,NA,"female",9.2,483,7.90092054475587,72.7000113158857,"Winter",11731
+6,-118.34743,46.05875,NA,2000,"Callipepla californica","Callipepla_californica",219.5,NA,"female",11.3,492,8.08209300074722,63.5263034571232,"Summer",11732
+10,-119.26441,46.330818,NA,2000,"Callipepla californica","Callipepla_californica",202.1,NA,"male",11.5,212,8.34216653059878,65.1329718050575,"Fall",11733
+11,-117.16469,46.737986,NA,2005,"Callipepla californica","Callipepla_californica",219.3,NA,"female",8.8,449,7.66058388470131,68.2664806563706,"Fall",11734
+11,-117.60269,46.474874,"Ad",1947,"Callipepla californica","Callipepla_californica",190.5,274,"male",10.4,470,7.58780420986683,68.5465870241638,"Fall",11735
+11,-117.60269,46.474874,NA,1947,"Callipepla californica","Callipepla_californica",184.7,273,"female",10.4,470,7.58780420986683,68.5465870241638,"Fall",11736
+11,-117.60269,46.474874,NA,1947,"Callipepla californica","Callipepla_californica",177.2,262,"female",10.4,470,7.58780420986683,68.5465870241638,"Fall",11737
+6,-118.16909,46.754601,NA,1954,"Callipepla californica","Callipepla_californica",8.8,85,"male",10.2,265,7.19723747508218,42.3403228795883,"Summer",11738
+7,-117.24014,46.341092,"Juv",1954,"Callipepla californica","Callipepla_californica",38.8,143,"male",9.1,340,6.7055099460342,44.9052688535369,"Summer",11739
+10,-117.37814,46.635567,"Imm",1959,"Callipepla californica","Callipepla_californica",191.3,281,"male",10.9,483,7.54988962391725,58.4842474535123,"Fall",11740
+5,-118.086616,46.611159,NA,1986,"Callipepla californica","Callipepla_californica",174.2,NA,"male",12.1,306,8.06302823028819,77.4163576347724,"Spring",11741
+10,-117.862286,46.539575,NA,1948,"Callipepla californica","Callipepla_californica",188,285,"male",10.1,498,8.15257442143092,59.2781769999591,"Fall",11742
+11,-117.37679,46.614658,NA,1948,"Callipepla californica","Callipepla_californica",197,270,"female",10.4,573,8.15779976278512,64.1668367221653,"Fall",11743
+4,-117.16566,46.729549,NA,1994,"Callipepla californica","Callipepla_californica",170,NA,"female",9.4,491,8.01042880855761,84.5443613966003,"Spring",11744
+1,-117.896765,46.465679,NA,1995,"Callipepla californica","Callipepla_californica",199.8,NA,"female",11.3,512,7.25889214353782,46.0994631210069,"Winter",11745
+1,-117.896765,46.465679,NA,1995,"Callipepla californica","Callipepla_californica",187.2,NA,"female",11.3,512,7.25889214353782,46.0994631210069,"Winter",11746
+9,-117.179457,46.728691,NA,1996,"Callipepla californica","Callipepla_californica",169.3,NA,"male",8.2,761,7.94974270595653,72.8413861734011,"Fall",11747
+11,-117.22604,46.403886,NA,1980,"Callipepla californica","Callipepla_californica",164.5,NA,"male",11,459,7.49858572524099,49.0108376790452,"Fall",11748
+10,-118.273095,46.076463,NA,1991,"Callipepla californica","Callipepla_californica",150.2,NA,"male",11.4,564,7.86859407564482,79.3249016268393,"Fall",11749
+6,-118.8302745,39.4325302,NA,1940,"Callipepla californica californica","Callipepla_californica",179.4,NA,"male",11.9,158,8.483763458763,106.880147244789,"Summer",11750
+8,-122.4503946,37.4890931,"immature",1964,"Callipepla californica brunnescens","Callipepla_californica",105.4,NA,"female",12.4,597,2.48832120600264,119.280474983287,"Summer",11751
+11,-121.7436104,41.9184856,"immature",1961,"Callipepla californica","Callipepla_californica",205,NA,"male",7.9,294,7.10076286981429,55.1635089383675,"Fall",11752
+12,-119.7806166,48.2117651,NA,1999,"Callipepla californica","Callipepla_californica",200,NA,"male",9.2,295,7.59285948451011,77.3628576150686,"Winter",11753
+12,-120.190849,47.227414,NA,1998,"Callipepla californica","Callipepla_californica",217,NA,"male",9.3,595,8.60496685324555,91.2633046403566,"Winter",11754
+12,-119.5972882,48.2187888,NA,2000,"Callipepla californica","Callipepla_californica",195,NA,"male",7.8,240,8.81335075412022,60.9545248203686,"Winter",11755
+5,-118.2940292,37.1661072,NA,2002,"Callipepla californica canfieldae","Callipepla_californica",171,NA,"male",14.9,87,8.10986585847289,176.159929695094,"Spring",11756
+1,-118.3957214,37.3652992,NA,2006,"Callipepla californica canfieldae","Callipepla_californica",176,NA,"female",14.5,91,8.45490712813893,175.556834159773,"Winter",11757
+12,-118.7918615,34.1067945,NA,2002,"Callipepla californica californica","Callipepla_californica",168,NA,"male",16.4,284,3.68176299996059,174.153610589943,"Winter",11758
+3,-118.2940292,37.1661072,NA,2003,"Callipepla californica canfieldae","Callipepla_californica",154,NA,"male",15.5,143,8.16949239920119,111.520967962477,"Spring",11759
+8,-118.63333,34.08333,NA,1984,"Callipepla californica californica","Callipepla_californica",166,NA,"male",18.8,386,5.07855712030912,205.057043004136,"Summer",11760
+11,-118.3957214,37.3652992,NA,2006,"Callipepla californica canfieldae","Callipepla_californica",105,NA,"female",14.5,91,8.45490712813893,175.556834159773,"Fall",11761
+4,-119.0652924,34.3549957,NA,1996,"Callipepla californica californica","Callipepla_californica",190,NA,"female",16.9,560,3.20268589931903,124.105332603821,"Spring",11762
+3,-118.0617294,36.6070404,NA,1998,"Callipepla californica canfieldae","Callipepla_californica",144,NA,"female",14.1,332,7.96383397084291,211.046373876121,"Spring",11763
+4,-122.6160965,38.7523041,NA,1990,"Callipepla californica californica","Callipepla_californica",200,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Spring",11764
+12,-116.4526748,33.6018952,NA,1997,"Callipepla californica californica","Callipepla_californica",180,NA,"male",15.7,303,6.60969787967696,132.600104490547,"Winter",11765
+5,-118.251442,34.1428413,NA,1982,"Callipepla californica californica","Callipepla_californica",166,NA,"male",17.7,461,4.42104985474964,110.318054452551,"Spring",11766
+12,-116.4526748,33.6018952,NA,1997,"Callipepla californica californica","Callipepla_californica",160,NA,NA,15.7,303,6.60969787967696,132.600104490547,"Winter",11767
+5,-118.441108,35.131336,NA,1992,"Callipepla californica californica","Callipepla_californica",170,NA,"male",13,378,6.86278943199329,130.664557539664,"Spring",11768
+4,-122.6160965,38.7523041,NA,1990,"Callipepla californica californica","Callipepla_californica",195,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Spring",11769
+5,-120.742395,41.8959486,"u ad.",1948,"Callipepla californica californica","Callipepla_californica",190.6,NA,"male",5.9,556,7.59079885603138,55.1023653639579,"Spring",11770
+11,-117.3691,46.6104,"u ad.",1948,"Callipepla californica californica","Callipepla_californica",192,NA,"male",10.2,579,8.13682240115137,63.6234446941736,"Fall",11771
+3,-119.7310769,33.9979684,"u ad.",1950,"Callipepla californica catalinensis","Callipepla_californica",208,NA,"male",13.7,307,2.47170349795807,98.8919931492558,"Spring",11772
+3,-119.7310769,33.9979684,"u ad.",1950,"Callipepla californica catalinensis","Callipepla_californica",194.8,NA,"female",13.7,307,2.47170349795807,98.8919931492558,"Spring",11773
+6,-122.8926043,38.1068362,"juv.",1952,"Callipepla californica brunnescens","Callipepla_californica",6.2,NA,"female",11.9,1124,2.78252120251118,143.857437848178,"Summer",11774
+6,-118.099737,37.432159,"u ad.",1954,"Callipepla californica canfieldae ?","Callipepla_californica",148.6,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",11775
+11,-122.0052672,39.2134848,"ad.",1923,"Callipepla californica californica","Callipepla_californica",176.05,NA,"male",15.5,211,6.77268913961199,113.061655565259,"Fall",11776
+8,-121.588138,36.408122,"u ad.",1976,"Callipepla californica californica","Callipepla_californica",189,NA,"male",14.1,301,4.76987865927871,90.6706706869645,"Summer",11777
+8,-121.588138,36.408122,"u ad.",1976,"Callipepla californica californica","Callipepla_californica",190.5,NA,"male",14.1,301,4.76987865927871,90.6706706869645,"Summer",11778
+7,-121.594679,36.477499,"imm.",1976,"Callipepla californica californica","Callipepla_californica",156.9,NA,"female",14.2,328,5.10017082304529,91.5510917776214,"Summer",11779
+8,-121.588138,36.408122,"ad.",1976,"Callipepla californica californica","Callipepla_californica",201.8,NA,"male",14.1,301,4.76987865927871,90.6706706869645,"Summer",11780
+8,-121.588138,36.408122,"ad.",1976,"Callipepla californica californica","Callipepla_californica",177.1,NA,"male",14.1,301,4.76987865927871,90.6706706869645,"Summer",11781
+8,-121.595741,36.468318,"imm.",1976,"Callipepla californica californica","Callipepla_californica",158.5,NA,"male",14.2,325,5.04599300975987,90.9681830539305,"Summer",11782
+7,-121.594679,36.477499,"imm.",1976,"Callipepla californica californica","Callipepla_californica",181.8,NA,"male",14.2,328,5.10017082304529,91.5510917776214,"Summer",11783
+7,-121.589069,36.482951,"imm.",1976,"Callipepla californica californica","Callipepla_californica",188.4,NA,"male",14.2,339,5.22623771044339,91.6206190881109,"Summer",11784
+7,-121.589069,36.482951,"ad.",1976,"Callipepla californica californica","Callipepla_californica",174.7,NA,"female",14.2,339,5.22623771044339,91.6206190881109,"Summer",11785
+5,-121.58112,36.488991,"ad.",1976,"Callipepla californica californica","Callipepla_californica",186,NA,"male",14.2,346,5.31564300965185,91.9486517955578,"Spring",11786
+6,-121.573639,36.494202,"imm.",1976,"Callipepla californica californica","Callipepla_californica",212,NA,"female",14.1,354,5.38439805588725,92.2416760898569,"Summer",11787
+6,-121.568835,36.498344,"imm.",1976,"Callipepla californica californica","Callipepla_californica",172,NA,"female",14.1,355,5.32737356404721,92.4993937895617,"Summer",11788
+5,-121.569751,36.501952,"ad.",1976,"Callipepla californica californica","Callipepla_californica",216,NA,"female",14,360,5.36416278875301,92.8636486959682,"Spring",11789
+3,-121.527456,36.367788,"imm.",1975,"Callipepla californica californica","Callipepla_californica",183.6,NA,"male",13.3,507,4.94653230234897,144.894757777999,"Spring",11790
+11,-121.5493125,36.38659947,"imm.",1975,"Callipepla californica californica","Callipepla_californica",170.1,NA,"male",13.2,517,4.91104969338624,146.305099577384,"Fall",11791
+4,-121.5493125,36.38659947,"ad.",1976,"Callipepla californica californica","Callipepla_californica",167.4,NA,"male",14.3,319,5.11163260405009,92.2757698246095,"Spring",11792
+8,-121.5493125,36.38659947,"juv.",1975,"Callipepla californica californica","Callipepla_californica",146,NA,"female",13.2,517,4.91104969338624,146.305099577384,"Summer",11793
+9,-121.722972,36.483211,"ad.",1975,"Callipepla californica californica","Callipepla_californica",186.5,NA,"male",13,419,3.61608360053534,148.230644731225,"Fall",11794
+5,-121.543127,36.352877,"imm.",1976,"Callipepla californica californica","Callipepla_californica",214.2,NA,"female",14.3,323,5.19682303883533,92.1365866578084,"Spring",11795
+6,-121.543127,36.352877,"imm.",1976,"Callipepla californica californica","Callipepla_californica",160.4,NA,"male",14.3,323,5.19682303883533,92.1365866578084,"Summer",11796
+2,-121.543635,36.350772,"u ad.",1976,"Callipepla californica californica","Callipepla_californica",202.3,NA,"male",14.3,323,5.23093218414763,91.7094927168558,"Winter",11797
+4,-121.54363,36.350772,"imm.",1976,"Callipepla californica californica","Callipepla_californica",172.1,NA,"male",14.3,323,5.23093218414763,91.7094927168558,"Spring",11798
+6,-121.545504,36.350185,"imm.",1976,"Callipepla californica californica","Callipepla_californica",184,NA,"male",14.3,324,5.24878052214959,91.7094927168558,"Summer",11799
+9,-122.3041738,38.0047053,"u ad.",1974,"Callipepla californica brunnescens","Callipepla_californica",108,NA,"male",14,459,3.61922476212626,113.571035866916,"Fall",11800
+8,-122.2178421,37.8682376,"imm.",1980,"Callipepla californica brunnescens","Callipepla_californica",90,NA,"male",14,615,3.3109895069528,141.779773461863,"Summer",11801
+10,-121.731819,36.479311,"unknown",1978,"Callipepla californica californica","Callipepla_californica",191,NA,"male",14.1,675,3.62186123255417,120.579937992051,"Fall",11802
+11,-122.1520166667,37.8655666667,"Medium skull windows.",2001,"Callipepla californica brunnescens","Callipepla_californica",175,NA,"female",14.2,812,4.34361251689992,129.772413630232,"Fall",11803
+5,-120.37675,35.7077,NA,1962,"Callipepla californica californica","Callipepla_californica",178.6,NA,"male",14.3,412,5.64255341941121,196.724045314708,"Spring",11804
+1,-122.2715302,37.8697904,NA,1964,"Callipepla californica brunnescens","Callipepla_californica",190,NA,"female",13.3,485,3.25739252479741,135.458263131027,"Winter",11805
+7,-122.15199,37.86391,"adult",2003,"Callipepla californica brunnescens","Callipepla_californica",170,NA,"male",14.5,647,4.42420169138576,114.996237926054,"Summer",11806
+1,-122.1344666667,37.8599166667,"adult",2004,"Callipepla californica brunnescens","Callipepla_californica",184,NA,"male",14.7,655,4.471526076693,124.923700696692,"Winter",11807
+10,-122.71858,38.36322,"adult",2003,"Callipepla californica brunnescens","Callipepla_californica",179.5,NA,"male",14.5,863,4.18810545148129,124.2419174795,"Fall",11808
+7,-122.6853,37.9094,"adult plumage",2003,"Callipepla californica brunnescens","Callipepla_californica",172,NA,"male",13.5,695,2.27800750258163,126.807702214926,"Summer",11809
+7,-122.1344666667,37.8599166667,"juvenile",2003,"Callipepla californica brunnescens","Callipepla_californica",42.5,NA,"undetermined",14.5,640,4.48866417329322,115.408040312091,"Summer",11810
+10,-123.43036,45.02396,"adult",2005,"Callipepla californica brunnescens","Callipepla_californica",189,NA,"female",11.5,1144,5.46476315714015,92.4509810829043,"Fall",11811
+9,-120.29798,42.01243,"adult",2005,"Callipepla californica brunnescens","Callipepla_californica",163,NA,"female",8.2,560,7.67002726082627,103.296302004044,"Fall",11812
+11,-121.55011,36.38749,"not recorded",2005,"Callipepla californica californica","Callipepla_californica",173.5,NA,"male",14.8,854,4.29194982884625,115.173920194187,"Fall",11813
+11,-121.628196,36.433288,"not recorded",2005,"Callipepla californica californica","Callipepla_californica",175.9,NA,"male",14.8,712,3.55144016882268,113.81401781029,"Fall",11814
+4,-121.737,37.3816,"adult",2006,"Callipepla californica californica","Callipepla_californica",167.9,NA,"male",14.8,727,5.17601549105452,118.450972459494,"Spring",11815
+1,-122.6853,37.9094,"adult",2003,"Callipepla californica brunnescens","Callipepla_californica",210.5,NA,"male",13.5,695,2.27800750258163,126.807702214926,"Winter",11816
+10,-122.1288780397,37.8615923372,"adult",2004,"Callipepla californica brunnescens","Callipepla_californica",166.82,NA,"male",14.8,647,4.54189254372975,125.447198557355,"Fall",11817
+11,-121.737,37.3816,"not recorded",2006,"Callipepla californica brunnescens","Callipepla_californica",170.5,NA,"male",14.8,727,5.17601549105452,118.450972459494,"Fall",11818
+3,-121.5964589,36.07240277,"not recorded",2004,"Callipepla californica californica","Callipepla_californica",181.7,NA,"male",13.7,638,2.70234185756568,137.342327693822,"Spring",11819
+8,-122.049762,37.816142,"juvenile",2009,"Callipepla californica brunnescens","Callipepla_californica",94.1,NA,"female",14.5,566,4.69999194067652,118.510309510791,"Summer",11820
+10,-122.250662,38.367617,"not recorded",2009,"Callipepla californica brunnescens or Callipepla californica californica","Callipepla_californica",163,NA,"undetermined",15.3,593,5.56163127366804,143.791253893257,"Fall",11821
+10,-122.856389,38.044643,"not recorded",2009,"Callipepla californica brunnescens","Callipepla_californica",167.9,NA,"male",13.2,664,2.94247885602969,120.363304144138,"Fall",11822
+11,-121.619697,36.4256,"skull",2005,"Callipepla californica californica","Callipepla_californica",166,NA,"female",14.7,744,3.56753034006338,114.411790061349,"Fall",11823
+4,-121.550333,36.386755,"not recorded",2007,"Callipepla californica californica","Callipepla_californica",216.35,NA,"female",14.6,334,4.69861359306867,134.163988082388,"Spring",11824
+4,-122.6853,37.9094,"adult",2000,"Callipepla californica brunnescens","Callipepla_californica",158.5,NA,"female",13.3,689,1.88846177583447,129.282906636778,"Spring",11825
+12,-119.8059,37.6731,"u ad.",1914,"Callipepla californica californica","Callipepla_californica",169.9,NA,"female",13.3,917,6.67662135569127,180.354638224118,"Winter",11826
+12,-119.8059,37.6731,"u ad.",1914,"Callipepla californica californica","Callipepla_californica",159.8,NA,"female",13.3,917,6.67662135569127,180.354638224118,"Winter",11827
+12,-119.8059,37.6731,"u ad.",1914,"Callipepla californica californica","Callipepla_californica",162.6,NA,"female",13.3,917,6.67662135569127,180.354638224118,"Winter",11828
+12,-120.29042,37.65638,"ad.",1915,"Callipepla californica californica","Callipepla_californica",170.09,NA,"male",17,515,6.71698435221333,126.132219286824,"Winter",11829
+7,-118.2352,37.40611,"ad.",1917,"Callipepla californica canfieldae ?","Callipepla_californica",167.2,NA,"male",8.5,118,8.81095650570666,155.358295351485,"Summer",11830
+11,-120.738174,36.125587,"u ad.",1918,"Callipepla californica californica","Callipepla_californica",167,NA,"male",13.7,518,6.07533513229492,144.536250689281,"Fall",11831
+1,-121.835607,36.60922,"ad.?",1919,"Callipepla californica californica","Callipepla_californica",173,NA,"female",11.7,339,1.95393929994736,149.535305151252,"Winter",11832
+1,-121.835607,36.60922,"ad.",1919,"Callipepla californica californica","Callipepla_californica",170.9,NA,"female",11.7,339,1.95393929994736,149.535305151252,"Winter",11833
+2,-121.898014,36.57092,"u ad.",1919,"Callipepla californica californica","Callipepla_californica",192.6,NA,"male",11.7,407,2.0042946314594,151.109017656632,"Winter",11834
+2,-121.898014,36.57092,"u ad.",1919,"Callipepla californica californica","Callipepla_californica",200.8,NA,"female",11.7,407,2.0042946314594,151.109017656632,"Winter",11835
+4,-122.2715302,37.8697904,"u ad.",1919,"Callipepla californica brunnescens","Callipepla_californica",172.6,NA,"male",13.2,482,2.63615594793217,166.522401506164,"Spring",11836
+6,-121.42276,35.96988,"ad.",1919,"Callipepla californica californica","Callipepla_californica",180,NA,"male",12,830,4.81955455001871,153.244125473405,"Summer",11837
+12,-122.229382,37.867099,"u ad.",1920,"Callipepla californica brunnescens","Callipepla_californica",178,NA,"female",13.2,594,3.25702038958644,125.031542970495,"Winter",11838
+7,-120.11166,37.75634,"juv.",1920,"Callipepla californica californica","Callipepla_californica",56,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",11839
+7,-120.11166,37.75634,"juv.",1920,"Callipepla californica californica","Callipepla_californica",76.7,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",11840
+7,-120.11166,37.75634,"juv.",1920,"Callipepla californica californica","Callipepla_californica",72.7,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",11841
+10,-122.26671,37.89435,"ad.",1924,"Callipepla californica brunnescens","Callipepla_californica",188.5,NA,"male",13.2,509,2.91968242357717,113.721867020779,"Fall",11842
+12,-122.1631844,40.2812856,"u ad.",1924,"Callipepla californica californica","Callipepla_californica",167.8,NA,"female",16.9,498,7.45840993696906,109.793109892061,"Winter",11843
+10,-115.458333,30.883333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",156,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",11844
+10,-115.458333,30.883333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",173,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",11845
+10,-115.458333,30.883333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",146,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",11846
+11,-116.1,30.9667,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",127,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Fall",11847
+12,-116.0175,30.7197222222,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",177.8,NA,"female",18.7,187,3.44524265759278,129.978629666692,"Winter",11848
+3,-116.0175,30.7197222222,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",159,NA,"male",18.7,187,3.44524265759278,129.978629666692,"Spring",11849
+5,-115.458333,30.883333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",160.8,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",11850
+5,-115.458333,30.883333,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",143.3,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",11851
+4,-114.8667,31,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",146.9,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",11852
+5,-122.18016,40.37479,"u ad.",1926,"Callipepla californica californica","Callipepla_californica",178.8,NA,"male",18,804,7.37236855981971,110.49542409175,"Spring",11853
+6,-121.8688123,40.4352952,"u ad.",1926,"Callipepla californica californica","Callipepla_californica",167.7,NA,"male",16.6,936,7.0718980779026,118.443020177421,"Summer",11854
+6,-121.8688123,40.4352952,"u ad.",1926,"Callipepla californica californica","Callipepla_californica",200.4,NA,"female",16.6,936,7.0718980779026,118.443020177421,"Summer",11855
+10,-115.864167,32.288333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",159.7,NA,"male",16.9,304,5.85312659260766,129.574444396434,"Fall",11856
+4,-112.9,27.3,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",167.8,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",11857
+4,-112.9,27.3,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",197.1,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",11858
+4,-112.9,27.3,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",145.5,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",11859
+12,-122.2347225,40.0929487,"u ad.",1927,"Callipepla californica californica","Callipepla_californica",176.2,NA,"female",17.2,653,7.39512533956516,101.847259349563,"Winter",11860
+12,-117.111769,32.460771,"ad.",1927,"Callipepla californica californica","Callipepla_californica",165.5,NA,"male",16.5,463,3.17846684978018,138.467360163425,"Winter",11861
+1,-117.111769,32.460771,"ad.",1928,"Callipepla californica californica","Callipepla_californica",143.2,NA,"male",16.4,190,2.95833440034125,113.071816346663,"Winter",11862
+1,-117.111769,32.460771,"u ad.",1928,"Callipepla californica californica","Callipepla_californica",137,NA,"female",16.4,190,2.95833440034125,113.071816346663,"Winter",11863
+1,-116.736859,32.39092,"u ad.",1928,"Callipepla californica californica","Callipepla_californica",148,NA,"female",16.8,212,3.95523243771635,107.166852477321,"Winter",11864
+11,-116.35,32.6,"u ad.",1927,"Callipepla californica plumbea","Callipepla_californica",150,NA,"female",13.6,713,5.21695226248917,130.774518605179,"Fall",11865
+11,-116.35,32.6,"u ad.",1927,"Callipepla californica plumbea","Callipepla_californica",150.5,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",11866
+10,-110.2167,23.45,"imm.",1928,"Callipepla californica achrustera","Callipepla_californica",127.6,NA,"male",22.2,164,3.36140077222505,130.878889965229,"Fall",11867
+10,-110.2167,23.45,"u ad.",1928,"Callipepla californica achrustera","Callipepla_californica",145.3,NA,"female",22.2,164,3.36140077222505,130.878889965229,"Fall",11868
+2,-110.3,24.12311,"u ad.",1929,"Callipepla californica achrustera","Callipepla_californica",164.6,NA,"male",22.8,160,4.47933808692419,113.012449126554,"Winter",11869
+2,-110.3,24.12311,"u ad.",1929,"Callipepla californica achrustera","Callipepla_californica",153,NA,"male",22.8,160,4.47933808692419,113.012449126554,"Winter",11870
+1,-114.583333,29.716667,"u ad.",1931,"Callipepla californica plumbea","Callipepla_californica",165.8,NA,"male",17,228,4.84042322216735,117.151622456414,"Winter",11871
+5,-123.50169,40.47157,"u ad.",1932,"Callipepla californica brunnescens","Callipepla_californica",174.6,NA,"female",10.6,1177,6.91222018448399,101.695625034038,"Spring",11872
+6,-123.5041,40.4781,"u ad.",1932,"Callipepla californica brunnescens","Callipepla_californica",134,NA,"male",10.4,1222,6.95084472738691,101.481681981503,"Summer",11873
+8,-121.0361,36.4814,"ad.",1936,"Callipepla californica californica","Callipepla_californica",186.1,NA,"male",14.4,614,5.96130832701153,160.513533885601,"Summer",11874
+5,-119.8975,42.0471,"u ad.",1937,"Callipepla californica californica","Callipepla_californica",169.5,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",11875
+5,-119.8975,42.0471,"u ad.",1937,"Callipepla californica californica","Callipepla_californica",188,NA,"female",7.8,384,9.29636618482858,83.5759812858421,"Spring",11876
+5,-119.8975,42.0471,"u ad.",1937,"Callipepla californica californica","Callipepla_californica",159.6,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",11877
+5,-119.8975,42.0471,"u ad.",1937,"Callipepla californica californica","Callipepla_californica",163.2,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",11878
+10,-122.164309,37.0775149,"u ad.",1937,"Callipepla californica brunnescens","Callipepla_californica",162.3,NA,"male",13.7,1896,4.44048181933884,117.558693090932,"Fall",11879
+12,-121.9721266,36.9917254,"u ad.",1937,"Callipepla californica brunnescens","Callipepla_californica",164.6,NA,"female",13.2,965,3.54465025842402,119.253482161197,"Winter",11880
+12,-121.9721266,36.9917254,"u ad.",1937,"Callipepla californica brunnescens","Callipepla_californica",157,NA,"female",13.2,965,3.54465025842402,119.253482161197,"Winter",11881
+12,-121.9130424,37.8816953,"u ad.",1938,"Callipepla californica brunnescens","Callipepla_californica",191.4,NA,"male",13.9,696,5.68737970235748,136.589436213758,"Winter",11882
+2,-118.82268,39.43774,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",165,NA,"female",11.9,158,8.483763458763,106.17282612329,"Winter",11883
+2,-118.82268,39.43774,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",175.2,NA,"male",11.9,158,8.483763458763,106.17282612329,"Winter",11884
+4,-118.82268,39.43774,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",182.1,NA,"male",11.9,158,8.483763458763,106.17282612329,"Spring",11885
+9,-118.82823,39.45697,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",141.6,NA,"female",11.9,159,8.45674824676074,108.276791771661,"Fall",11886
+11,-121.7523,36.3711,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",191.5,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",11887
+11,-121.7523,36.3711,"u ad.",1940,"Callipepla californica californica","Callipepla_californica",177.2,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",11888
+1,-123.3713575,38.9631181,"u ad.",1937,"Callipepla californica brunnescens","Callipepla_californica",193.3,NA,"male",13.5,1432,5.0636778465196,103.619203428826,"Winter",11889
+10,-122.2234022,37.8272495,"u ad.",1941,"Callipepla californica brunnescens","Callipepla_californica",179.9,NA,"male",14.2,952,2.5065369083114,103.225104785058,"Fall",11890
+10,-122.2234022,37.8272495,"u imm.",1941,"Callipepla californica brunnescens","Callipepla_californica",176.2,NA,"male",14.2,952,2.5065369083114,103.225104785058,"Fall",11891
+10,-122.2234022,37.8272495,"u imm.",1941,"Callipepla californica brunnescens","Callipepla_californica",162.2,NA,"male",14.2,952,2.5065369083114,103.225104785058,"Fall",11892
+1,-123.61833,40.91792,"u ad.",1942,"Callipepla californica brunnescens","Callipepla_californica",166.2,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",11893
+5,-118.0475,36.265,"u ad.",1942,"Callipepla californica canfieldae","Callipepla_californica",140.8,NA,"male",13.1,110,7.64452666152639,122.003611142581,"Spring",11894
+6,-118.289486,36.78325,"u ad.",1942,"Callipepla californica canfieldae ?","Callipepla_californica",171.1,NA,"male",10.1,122,7.43901977087809,136.149129141004,"Summer",11895
+9,-123.88759,40.77914,"u imm.",1942,"Callipepla californica brunnescens","Callipepla_californica",166.1,NA,"female",12,1606,3.98157689181743,97.2485971118486,"Fall",11896
+9,-123.88759,40.77914,"u imm.",1942,"Callipepla californica brunnescens","Callipepla_californica",183,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",11897
+9,-123.88759,40.77914,"u imm.",1942,"Callipepla californica brunnescens","Callipepla_californica",181.8,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",11898
+9,-124.0415543,40.5359463,"u juv.",1942,"Callipepla californica brunnescens","Callipepla_californica",148.3,NA,"male",11.9,1325,3.37916970257309,96.5542687630148,"Fall",11899
+12,-120.277486,40.5427277,"u ad.",1942,"Callipepla californica californica","Callipepla_californica",180,NA,"female",8.8,219,8.35674287717119,92.5221304861657,"Winter",11900
+6,-123.14392,40.55443,"u ad.",1943,"Callipepla californica californica","Callipepla_californica",162,NA,"male",11.5,837,5.90030173856055,120.785766804994,"Summer",11901
+6,-123.47471,40.61736,"u ad.",1943,"Callipepla californica californica","Callipepla_californica",185.3,NA,"male",13.1,998,6.018676739697,124.778735426946,"Summer",11902
+12,-121.261287,37.323787,"u ad.",1943,"Callipepla californica californica","Callipepla_californica",161.4,NA,"female",15.7,324,5.37356041327829,129.229782559349,"Winter",11903
+12,-121.261287,37.323787,"u ad.",1943,"Callipepla californica californica","Callipepla_californica",168,NA,"female",15.7,324,5.37356041327829,129.229782559349,"Winter",11904
+6,-123.49373,40.61736,"u ad.",1946,"Callipepla californica californica","Callipepla_californica",185.5,NA,"male",11.8,868,6.50782745482839,107.408417197194,"Summer",11905
+10,-119.42944,40.45639,"u ad.",1947,"Callipepla californica californica","Callipepla_californica",164,NA,"male",10.6,125,8.40485069180382,80.7611696446165,"Fall",11906
+10,-119.42944,40.45639,"u ad.",1947,"Callipepla californica californica","Callipepla_californica",160,NA,"female",10.6,125,8.40485069180382,80.7611696446165,"Fall",11907
+10,-119.42944,40.45639,"u ad.",1947,"Callipepla californica californica","Callipepla_californica",158,NA,"male",10.6,125,8.40485069180382,80.7611696446165,"Fall",11908
+6,-119.6952863,48.557371,"juvenile",1940,"Callipepla californica","Callipepla_californica",22.1,NA,"female",7.7,423,8.69707369803723,64.6884954486685,"Summer",11909
+10,-118.4738159,34.359309,NA,1999,"Callipepla californica","Callipepla_californica",158.4,NA,"male",14.8,276,4.95680585078983,121.215701384946,"Fall",11910
+6,-118.136,34.266794,"chick",2000,"Callipepla californica","Callipepla_californica",30.5,NA,NA,13.8,645,5.35697647649278,170.044494878198,"Summer",11911
+8,-122.1692794,37.4289436,NA,1999,"Callipepla californica","Callipepla_californica",139.9,NA,"female",14.3,357,3.84048410774191,123.377093672678,"Summer",11912
+6,-119.241921,46.98496,NA,2012,"Callipepla californica","Callipepla_californica",189.8,NA,"male",11.3,222,8.53152798137413,59.8983268898357,"Summer",11913
+6,-117.8152008,33.6631355,"chick",1984,NA,"Callipepla_californica",3.6,NA,"undetermined",18.6,213,4.46666949344099,197.513898485293,"Summer",11914
+11,-118.4675502,34.4738376,"juvenile",1986,NA,"Callipepla_californica",189.8,NA,"male",17.3,393,4.28704885425719,138.557126474865,"Fall",11915
+3,-118.1501,34.8014,"adult",1989,NA,"Callipepla_californica",150,NA,"female",17.2,64,8.0331651560417,134.81363398815,"Spring",11916
+3,-118.1501,34.8014,"adult",1989,NA,"Callipepla_californica",168,NA,"male",17.2,64,8.0331651560417,134.81363398815,"Spring",11917
+4,-118.451076,35.702423,"adult",1994,NA,"Callipepla_californica",165,NA,"female",16.4,261,7.96450458806656,108.224785334029,"Spring",11918
+12,-119.060476,34.249664,"adult",1995,NA,"Callipepla_californica",176,NA,"female",16,624,2.49538968839933,187.312753912742,"Winter",11919
+12,-118.8186836,34.1072563,"adult",1993,NA,"Callipepla_californica",155,NA,"male",17.4,764,3.78116344128325,182.152581536867,"Winter",11920
+5,-119.2423706,34.4532204,"adult",1999,NA,"Callipepla_californica",162,NA,"undetermined",14.8,331,3.94564393484841,141.618107074493,"Spring",11921
+12,-122.6160965,38.7523041,NA,1989,"Callipepla californica californica","Callipepla_californica",166,NA,"male",14.5,612,6.51136535512167,149.544062583856,"Winter",11922
+2,-118.521389,35.409722,NA,1986,"Callipepla californica","Callipepla_californica",172,NA,"male",14.6,259,6.22036611024259,137.096380953274,"Winter",11923
+12,-122.6160965,38.7523041,NA,1989,"Callipepla californica californica","Callipepla_californica",202,NA,"male",14.5,612,6.51136535512167,149.544062583856,"Winter",11924
+12,-122.6160965,38.7523041,NA,1989,"Callipepla californica californica","Callipepla_californica",196,NA,"male",14.5,612,6.51136535512167,149.544062583856,"Winter",11925
+12,-122.6160965,38.7523041,NA,1989,"Callipepla californica californica","Callipepla_californica",188,NA,"male",14.5,612,6.51136535512167,149.544062583856,"Winter",11926
+12,-122.6160965,38.7523041,NA,1989,"Callipepla californica californica","Callipepla_californica",188,NA,"female",14.5,612,6.51136535512167,149.544062583856,"Winter",11927
+12,-122.6160965,38.7523041,NA,1989,"Callipepla californica californica","Callipepla_californica",208,NA,"male",14.5,612,6.51136535512167,149.544062583856,"Winter",11928
+12,-122.6160965,38.7523041,NA,1989,"Callipepla californica californica","Callipepla_californica",210,NA,"male",14.5,612,6.51136535512167,149.544062583856,"Winter",11929
+1,-117.195503,46.758264,NA,1982,"Callipepla californica","Callipepla_californica",197.1,NA,NA,7.6,640,7.94519103647361,47.3959322368019,"Winter",11930
+4,-122.5241508,38.3640804,NA,1998,"Callipepla californica brunnescens","Callipepla_californica",195,NA,"male",14.6,1299,4.7283397688509,148.519234976757,"Spring",11931
+12,-122.6160965,38.7523041,NA,1989,"Callipepla californica californica","Callipepla_californica",198,NA,"male",14.5,612,6.51136535512167,149.544062583856,"Winter",11932
+2,-117.6520729,34.1082513,"adult",2001,"Callipepla californica californica","Callipepla_californica",149,NA,"male",15.7,482,4.52249428362873,139.362556837308,"Winter",11933
+12,-122.6160965,38.7523041,NA,1989,"Callipepla californica californica","Callipepla_californica",226,NA,"female",14.5,612,6.51136535512167,149.544062583856,"Winter",11934
+12,-122.2444,37.44636,"U-Ad.",1975,"Callipepla californica brunnescens","Callipepla_californica",182.7,NA,"male",13.8,547,3.74857548701079,130.39734099489,"Winter",11938
+7,-122.2444,37.44636,"Downy",1975,"Callipepla californica brunnescens","Callipepla_californica",6.1,NA,"undetermined",13.8,547,3.74857548701079,130.39734099489,"Summer",11939
+7,-122.2444,37.44636,"Downy",1975,"Callipepla californica brunnescens","Callipepla_californica",7.7,NA,"undetermined",13.8,547,3.74857548701079,130.39734099489,"Summer",11940
+7,-122.72071,38.44014,"U-Ad.",1976,"Callipepla californica brunnescens","Callipepla_californica",144.9,NA,"female",14,285,4.40484409657726,91.5310879727467,"Summer",11941
+11,-122.45567,38.32081,"U-Ad.",1977,"Callipepla californica brunnescens","Callipepla_californica",176.4,NA,"undetermined",14.7,783,4.55907353693176,126.050189107911,"Fall",11942
+12,-122.30168,38.30421,"U-Ad.",1976,"Callipepla californica californica","Callipepla_californica",185,NA,"male",14.9,242,4.62905841593966,83.3195580901062,"Winter",11943
+8,-122.26167,38.45083,"U-Ad.",1984,"Callipepla californica brunnescens","Callipepla_californica",168.6,NA,"female",13.7,681,6.11582646363787,145.0473863622,"Summer",11944
+7,-122.71442,38.44046,"Downy",1990,"Callipepla californica brunnescens","Callipepla_californica",5.4,NA,"undetermined",14.4,409,4.97371880868619,121.829646097051,"Summer",11946
+11,-122.78771,38.0405,"Ad",1995,"Callipepla californica brunnescens","Callipepla_californica",193.4,NA,"male",14.3,1298,2.56898753786331,156.639325286047,"Fall",11947
+11,-122.47953,37.72402,"U-Ad",1963,"Callipepla californica brunnescens","Callipepla_californica",173,NA,"female",12.7,564,2.85269675708421,100.416280740481,"Fall",11948
+5,-122.03331,36.87639,"U-Ad",1962,"Callipepla californica brunnescens","Callipepla_californica",175,NA,"female",12.7,676,2.39936860381428,150.045748360687,"Spring",11949
+8,-122.51448,37.92596,"U-Nestling",2001,"Callipepla californica brunnescens","Callipepla_californica",6.3,NA,"undetermined",14.3,1057,3.26054234194809,132.493978482019,"Summer",11950
+8,-122.54249,37.90446,"U-Nestling",2001,"Callipepla californica brunnescens","Callipepla_californica",15.4,NA,"undetermined",14.1,1103,3.15290870995868,133.136163603895,"Summer",11951
+11,-122.69648,37.90533,"U-Ad",2001,"Callipepla californica brunnescens","Callipepla_californica",179.5,NA,"female",13,870,2.2247914440902,131.728989463996,"Fall",11952
+6,-122.54249,37.90446,"chick",2002,"Callipepla californica brunnescens","Callipepla_californica",17,NA,"undetermined",14.1,874,3.01334154597969,176.40592906484,"Summer",11953
+8,-122.52624,38.00035,"chick",2002,"Callipepla californica brunnescens","Callipepla_californica",12.9,NA,"undetermined",14.6,802,3.61997823532717,176.45408880087,"Summer",11954
+10,-122.72475,37.91413,"adult",2002,"Callipepla californica brunnescens","Callipepla_californica",186,NA,"male",12.9,701,2.03104690126829,178.105376022796,"Fall",11955
+6,-121.07267,35.54188,"adult",1999,"Callipepla californica californica","Callipepla_californica",170.4,NA,"female",12.1,374,2.14341839691704,123.570758726911,"Summer",11956
+1,-121.07267,35.54188,"adult",2002,"Callipepla californica californica","Callipepla_californica",174.1,NA,"male",12.8,432,2.04443072019987,156.211810608006,"Winter",11957
+6,-122.58829,38.09309,"nestling",2003,"Callipepla californica brunnescens","Callipepla_californica",346.1,NA,"undetermined",15.3,884,4.15342137170178,118.031205254929,"Summer",11958
+5,-122.53984,37.93513,"nestling",2003,"Callipepla californica brunnescens","Callipepla_californica",6.8,NA,"undetermined",14.8,943,3.44228386130752,119.917772355099,"Spring",11959
+6,-122.56541,37.86642,"nestling",2003,"Callipepla californica brunnescens","Callipepla_californica",7.2,NA,"undetermined",13.7,826,2.60981538880365,115.54443042377,"Summer",11960
+6,-116.703,33.1029,"hatchling",2005,"Callipepla californica","Callipepla_californica",4.2,51,NA,15.4,622,5.12660174526415,158.178993981653,"Summer",11961
+6,-117.82919,45.3609,"adult",2006,"Callipepla californica","Callipepla_californica",246.9,268,"female",9.4,487,7.46232456268071,61.4490854788304,"Summer",11962
+6,-122.68405,37.9101,"adult",2010,"Callipepla californica","Callipepla_californica",187.6,242,"male",13.5,868,2.31927039206625,107.778228787348,"Summer",11963
+4,-119.13245,35.35174,"Adult",1988,"Callipepla californica californica","Callipepla_californica",175.5,NA,"female",18.4,143,7.52057279411051,116.612541557436,"Spring",11964
+7,-122.72591,37.92362,"ASY",1995,"Callipepla californica","Callipepla_californica",174.96,216,"male",13.6,925,1.87428774350539,155.162816006326,"Summer",11965
+10,-122.09134,37.90414,"Adult",2009,"Callipepla californica","Callipepla_californica",172.8,250,"male",14.9,525,4.84314573454698,125.213168885456,"Fall",11966
+9,-122.71774,37.91352,"Adult",2011,"Callipepla californica","Callipepla_californica",178.6,239,"male",12.5,514,2.25514563125795,129.722790406589,"Fall",11967
+4,-114.8339833,29.7028,NA,2001,"Callipepla californica","Callipepla_californica",148,NA,"male",18.8,98,4.45280810275943,99.3140659887822,"Spring",11968
+7,-119.81,38.733,NA,2008,"Callipepla californica californica","Callipepla_californica",151,NA,"male",9.2,453,7.96857464156431,126.881008800963,"Summer",11969
+12,-116.622398,31.7567356,NA,1977,"Callipepla californica plumbea","Callipepla_californica",150,NA,"female",16.8,222,2.76109332758535,143.652930425899,"Winter",11970
+12,-116.622398,31.7567356,NA,1977,"Callipepla californica plumbea","Callipepla_californica",170,NA,"male",16.8,222,2.76109332758535,143.652930425899,"Winter",11971
+9,-115.682,30.9845,"u ad.",1925,"Callipepla californica californica","Callipepla_californica",153,NA,"male",14.4,347,4.3397737687161,110.932259762074,"Fall",11972
+12,-115.9361111,30.554722,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",157.2,NA,"male",19.3,188,3.56195171219375,125.156399099498,"Winter",11973
+12,-115.9361111,30.554722,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",146.1,NA,"female",19.3,188,3.56195171219375,125.156399099498,"Winter",11974
+5,-115.682,30.9845,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",164.6,NA,"female",14.4,347,4.3397737687161,110.932259762074,"Spring",11975
+5,-115.4436111,31.05,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",150,NA,"male",10.8,587,4.5745259731242,129.82135315136,"Spring",11976
+5,-115.4436111,31.05,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",149.3,NA,"male",10.8,587,4.5745259731242,129.82135315136,"Spring",11977
+5,-115.4436111,31.05,"juv.",1926,"Callipepla californica plumbea","Callipepla_californica",23.5,NA,"female",10.8,587,4.5745259731242,129.82135315136,"Spring",11978
+5,-115.4436111,31.05,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",159.5,NA,"male",10.8,587,4.5745259731242,129.82135315136,"Spring",11979
+5,-115.4436111,31.05,"u juv.",1926,"Callipepla californica plumbea","Callipepla_californica",75.9,NA,"undetermined",10.8,587,4.5745259731242,129.82135315136,"Spring",11980
+5,-115.4436111,31.05,"u juv.",1926,"Callipepla californica plumbea","Callipepla_californica",48.2,NA,"male",10.8,587,4.5745259731242,129.82135315136,"Spring",11981
+5,-115.4436111,31.05,"u juv.",1926,"Callipepla californica plumbea","Callipepla_californica",47.5,NA,"female",10.8,587,4.5745259731242,129.82135315136,"Spring",11982
+6,-115.4436111,31.05,"juv.",1926,"Callipepla californica plumbea","Callipepla_californica",85,NA,"male",10.8,587,4.5745259731242,129.82135315136,"Summer",11983
+6,-115.4436111,31.05,"juv.",1926,"Callipepla californica plumbea","Callipepla_californica",69,NA,"female",10.8,587,4.5745259731242,129.82135315136,"Summer",11984
+10,-115.9072222,32.053333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",151.8,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",11985
+10,-115.9072222,32.053333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",164.2,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",11986
+11,-115.7230556,31.4,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",153.9,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Fall",11987
+5,-112.5427778,27.406944,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",153.5,NA,"female",20.2,156,4.60500386602016,125.168165566312,"Spring",11988
+12,-110.33,24.12,"u ad.",1908,"Callipepla californica achrustera","Callipepla_californica",163.6,NA,"female",23.2,156,4.50059760341655,126.975394948528,"Winter",11989
+12,-110.33,24.12,"u ad.",1928,"Callipepla californica achrustera","Callipepla_californica",155.2,NA,"male",23.6,159,4.15322984938447,128.930957062497,"Winter",11990
+12,-110.33,24.12,"u ad.",1928,"Callipepla californica achrustera","Callipepla_californica",131.6,NA,"male",23.6,159,4.15322984938447,128.930957062497,"Winter",11991
+12,-110.33,24.12,"u ad.",1928,"Callipepla californica achrustera","Callipepla_californica",160.5,NA,"male",23.6,159,4.15322984938447,128.930957062497,"Winter",11992
+12,-110.33,24.12,"u ad.",1928,"Callipepla californica achrustera","Callipepla_californica",154.6,NA,"female",23.6,159,4.15322984938447,128.930957062497,"Winter",11993
+6,-109.7747222,23.441944,"u natal",1929,"Callipepla californica achrustera","Callipepla_californica",8.5,NA,"undetermined",22.5,318,4.72709789886507,128.387621440706,"Summer",11994
+6,-109.7747222,23.441944,"u ad.",1929,"Callipepla californica achrustera","Callipepla_californica",120.7,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",11995
+6,-109.7747222,23.441944,"ad.",1929,"Callipepla californica achrustera","Callipepla_californica",129.6,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",11996
+6,-109.7747222,23.441944,"ad.",1929,"Callipepla californica achrustera","Callipepla_californica",159.8,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",11997
+12,-115.5788889,30.064444,"u ad.",1930,"Callipepla californica plumbea","Callipepla_californica",156.2,NA,"male",19,145,4.06786184622831,114.9527972004,"Winter",11998
+1,-114.7016667,29.735556,"u ad.",1931,"Callipepla californica decolorata","Callipepla_californica",173.3,NA,"female",17.9,191,4.8280352362451,122.720385041159,"Winter",11999
+4,-111.8172222,26.056667,"u ad.",1931,"Callipepla californica decolorata","Callipepla_californica",159.1,NA,"male",20.9,213,4.21522313295584,94.0918085008082,"Spring",12000
+3,-109.883333,22.866667,NA,1959,"Callipepla californica achrustera","Callipepla_californica",158.1,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",12001
+3,-109.883333,22.866667,NA,1959,"Callipepla californica achrustera","Callipepla_californica",172.3,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",12002
+9,-119.630241,49.495707,NA,1982,"Callipepla californica","Callipepla_californica",197.5,271,"female",8.3,408,8.46989320529432,46.055131284416,"Fall",12003
+5,-119.630241,49.495707,"adult",1985,"Callipepla californica","Callipepla_californica",190,261,"male",7.6,248,9.92799836397808,65.6980621376137,"Spring",12004
+1,-119.594211,49.49871,NA,1986,"Callipepla californica","Callipepla_californica",189,275,"female",9.5,308,8.06584643964158,50.5940419859249,"Winter",12005
+11,-119.630241,49.495707,"adult",1986,"Callipepla californica","Callipepla_californica",203,270,"male",9.2,327,8.04228879678597,49.9518174462939,"Fall",12006
+12,-119.630241,49.495707,"adult",1986,"Callipepla californica","Callipepla_californica",198,NA,"male",9.2,327,8.04228879678597,49.9518174462939,"Winter",12007
+2,-119.630241,49.495707,NA,1989,"Callipepla californica","Callipepla_californica",211,289,"male",9.2,297,8.65316109694584,49.5782735966688,"Winter",12008
+2,-119.630241,49.495707,NA,1989,"Callipepla californica","Callipepla_californica",188,279,"female",9.2,297,8.65316109694584,49.5782735966688,"Winter",12009
+7,-119.465132,49.031411,"adult",1992,"Callipepla californica","Callipepla_californica",173,243,"male",11.2,292,8.95366439289557,76.5504532689766,"Summer",12010
+12,-119.58656,49.594018,NA,1991,"Callipepla californica","Callipepla_californica",121,255,"male",9.4,264,8.14034099501682,63.3802969450503,"Winter",12011
+12,-119.630241,49.495707,"adult",1993,"Callipepla californica","Callipepla_californica",209,NA,"male",8.3,344,8.81790533774629,65.4296379482169,"Winter",12012
+6,-119.465132,49.031411,"adult",1999,"Callipepla californica","Callipepla_californica",200.7,NA,"male",10.7,259,7.38300669637973,48.5595651577235,"Summer",12013
+12,-119.594211,49.49871,NA,1997,"Callipepla californica","Callipepla_californica",232,280,"male",9.7,375,7.93242291694873,49.8863889311035,"Winter",12014
+8,-119.7,48.5,NA,1940,"Callipepla californica","Callipepla_californica",178.8,NA,NA,8.3,402,8.91581417618393,65.0706433247271,"Summer",12015
+7,-120.85,35.5333333,"immature",2002,"Callipepla californica","Callipepla_californica",103.9,NA,"male",13.5,543,3.71763813910571,156.499852612329,"Summer",12016
+6,-120.42,35.3538,"immature",2002,"Callipepla californica","Callipepla_californica",90.8,NA,NA,14,477,5.00378644507125,149.708878915344,"Summer",12017
+11,-123.3072,38.89795,"U-Ad.",1939,"Callipepla californica brunnescens","Callipepla_californica",162.5,NA,"female",13.4,762,4.6994116330632,125.070869868312,"Fall",12018
+7,-122.8308,38.39691,"Downy",1976,"Callipepla californica brunnescens","Callipepla_californica",6.5,NA,"male",13.9,329,4.40512786592529,101.380338665734,"Summer",12019
+6,-122.7228,38.43761,"U-Ad.",1976,"Callipepla californica brunnescens","Callipepla_californica",137.6,NA,"female",14,286,4.40484409657726,91.8354678261849,"Summer",12020
+2,-122.26167,38.45083,"U-Ad.",1980,"Callipepla californica californica","Callipepla_californica",188.7,NA,"female",13.4,972,4.52404351183426,145.725610306933,"Winter",12021
+10,-122.26167,38.45083,"U-Ad.",1979,"Callipepla californica brunnescens","Callipepla_californica",174.8,NA,"female",13.8,1260,5.63583636341151,116.116775807422,"Fall",12022
+12,-119.61207,36.57078,"U-Ad.",1930,"Callipepla californica californica","Callipepla_californica",170,NA,"male",17.1,204,6.75331568396389,115.273232491735,"Winter",12023
+7,-122.90139,38.48743,"Downy Chick",1987,"Callipepla californica brunnescens","Callipepla_californica",6.2,NA,"undetermined",14.6,1056,3.99791612384919,118.114121008088,"Summer",12024
+3,-120.57187,38.43663,"U-Ad",1991,"Callipepla californica californica","Callipepla_californica",141.7,NA,"male",14.1,932,6.976519059088,149.775734170159,"Spring",12025
+5,-123.20183,39.40403,"U-Ad",1960,"Callipepla californica brunnescens","Callipepla_californica",175.5,NA,"female",13.3,1368,6.50642456392607,100.053015736328,"Spring",12026
+5,-122.42801,38.43685,"U-Ad",1960,"Callipepla californica brunnescens","Callipepla_californica",191.7,NA,"female",14.9,825,5.47481146762705,106.297831325031,"Spring",12027
+9,-122.59329,37.98512,"U-Imm",1971,"Callipepla californica brunnescens","Callipepla_californica",187.1,NA,"male",13.8,558,4.59567484410367,128.144190073693,"Fall",12028
+12,-122.47953,37.72402,"U-Ad",1963,"Callipepla californica brunnescens","Callipepla_californica",177.6,NA,"female",12.7,564,2.85269675708421,100.416280740481,"Winter",12029
+12,-122.47953,37.72402,"U-Ad",1963,"Callipepla californica brunnescens","Callipepla_californica",175.5,NA,"female",12.7,564,2.85269675708421,100.416280740481,"Winter",12030
+8,-121.90522,37.67126,"U-Nestling",2001,"Callipepla californica brunnescens","Callipepla_californica",5.8,NA,"undetermined",15.4,577,5.00825833151122,124.396622475391,"Summer",12031
+10,-122.50966,37.97559,"U-Ad",2001,"Callipepla californica brunnescens","Callipepla_californica",140,NA,"female",14.5,1094,3.62491379207837,132.362616175161,"Fall",12032
+1,-122.54249,37.90446,"U-Ad",2002,"Callipepla californica brunnescens","Callipepla_californica",170,NA,"female",14.1,874,3.01334154597969,176.40592906484,"Winter",12033
+4,-121.75186,38.03159,"Ad",2002,"Callipepla californica brunnescens","Callipepla_californica",100,NA,"male",15.5,341,5.44726787231244,174.684577040893,"Spring",12034
+7,-122.53244,37.88972,"chick",2002,"Callipepla californica brunnescens","Callipepla_californica",8,NA,"undetermined",13.9,828,2.82258209747205,173.528122315505,"Summer",12035
+7,-122.53244,37.88972,"chick",2002,"Callipepla californica brunnescens","Callipepla_californica",8,NA,"undetermined",13.9,828,2.82258209747205,173.528122315505,"Summer",12036
+6,-122.30558,38.29096,"chick",2002,"Callipepla californica brunnescens","Callipepla_californica",25,NA,"undetermined",14.5,702,4.50047135578513,178.130340104298,"Summer",12037
+1,-121.07267,35.54188,"adult",2002,"Callipepla californica californica","Callipepla_californica",163.7,NA,"male",12.8,432,2.04443072019987,156.211810608006,"Winter",12038
+11,-121.07288,35.54405,"adult",2001,"Callipepla californica californica","Callipepla_californica",169.5,NA,"female",13,700,2.40088367569993,113.433707234315,"Fall",12039
+12,-122.6699,37.9182,"adult",2002,"Callipepla californica brunnescens","Callipepla_californica",194.2,NA,"male",13.4,730,2.32240405745008,186.447715501736,"Winter",12040
+4,-122.68101,38.4526,"nestling",2003,"Callipepla californica brunnescens","Callipepla_californica",6.4,NA,"undetermined",14.5,879,4.35931604310084,127.372599539495,"Spring",12041
+7,-122.62172,38.21765,"nestling",2003,"Callipepla californica brunnescens","Callipepla_californica",4.4,NA,"undetermined",14.7,797,4.25536203637318,119.614412621955,"Summer",12042
+8,-122.79633,38.06913,"adult",1999,"Callipepla californica brunnescens","Callipepla_californica",186.5,NA,"female",13,693,3.16141510316906,114.001190922702,"Summer",12043
+3,-122.70639,37.94474,"SY",2007,"Callipepla californica","Callipepla_californica",196.2,265.5,"female",13.4,529,2.98981858170611,126.875378939688,"Spring",12044
+6,-122.87669,38.41902,"Adult",2008,"Callipepla californica","Callipepla_californica",196,267,"male",13.7,799,4.54281817484444,169.025613188608,"Summer",12045
+4,-114.8339833,29.7028,NA,2001,"Callipepla californica","Callipepla_californica",190,NA,"female",18.8,98,4.45280810275943,99.3140659887822,"Spring",12046
+12,-116.622398,31.7567356,NA,1977,"Callipepla californica plumbea","Callipepla_californica",160,NA,"male",16.8,222,2.76109332758535,143.652930425899,"Winter",12047
+12,-116.622398,31.7567356,NA,1977,"Callipepla californica plumbea","Callipepla_californica",165,NA,"male",16.8,222,2.76109332758535,143.652930425899,"Winter",12048
+2,-118.3911,37.2881,NA,2000,"Callipepla californica canfieldae","Callipepla_californica",174,NA,"male",13.8,104,7.8371299632331,116.047049500136,"Winter",12049
+12,-115.9361111,30.554722,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",158.7,NA,"female",19.3,188,3.56195171219375,125.156399099498,"Winter",12050
+4,-113.64,28.09,"u ad.",1948,"Callipepla californica decolorata","Callipepla_californica",151.9,NA,"male",20,107,4.23730724957168,169.239402352531,"Spring",12051
+10,-115.682,30.9845,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",148,NA,"female",14.4,347,4.3397737687161,110.932259762074,"Fall",12052
+10,-115.682,30.9845,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",158.6,NA,"male",14.4,347,4.3397737687161,110.932259762074,"Fall",12053
+12,-115.9361111,30.554722,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",175.3,NA,"male",19.3,188,3.56195171219375,125.156399099498,"Winter",12054
+12,-115.9361111,30.554722,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",166.8,NA,"male",19.3,188,3.56195171219375,125.156399099498,"Winter",12055
+12,-115.9361111,30.554722,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",167,NA,"female",19.3,188,3.56195171219375,125.156399099498,"Winter",12056
+5,-115.682,30.9845,"u ad.",1925,"Callipepla californica plumbea","Callipepla_californica",162.6,NA,"male",14.4,347,4.3397737687161,110.932259762074,"Spring",12057
+5,-115.4436111,31.05,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",160,NA,"male",10.8,587,4.5745259731242,129.82135315136,"Spring",12058
+5,-115.4436111,31.05,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",178.1,NA,"female",10.8,587,4.5745259731242,129.82135315136,"Spring",12059
+5,-115.4436111,31.05,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",7.7,NA,"undetermined",10.8,587,4.5745259731242,129.82135315136,"Spring",12060
+5,-115.4436111,31.05,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",169.1,NA,"female",10.8,587,4.5745259731242,129.82135315136,"Spring",12061
+10,-115.9072222,32.053333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",168.1,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",12062
+10,-115.9072222,32.053333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",141.2,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",12063
+10,-115.9072222,32.053333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",141.4,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",12064
+10,-115.9072222,32.053333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",159,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",12065
+10,-115.9072222,32.053333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",142.9,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",12066
+10,-115.9072222,32.053333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",153,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",12067
+11,-116.3016667,31.913333,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",142.2,NA,"male",16,409,4.49339582727875,136.49202302624,"Fall",12068
+11,-115.7230556,31.4,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",142.8,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",12069
+11,-115.7230556,31.4,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",160.3,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Fall",12070
+11,-115.7230556,31.4,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",160.9,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",12071
+12,-115.7230556,31.4,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",169.4,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",12072
+12,-115.7230556,31.4,"u ad.",1926,"Callipepla californica plumbea","Callipepla_californica",141.1,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Winter",12073
+1,-116.3833333,31.916667,"u ad.",1927,"Callipepla californica plumbea","Callipepla_californica",150.4,NA,"male",14.6,497,4.44815249357085,121.762320320808,"Winter",12074
+5,-113.8058333,28.264167,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",157,NA,"female",20.7,108,4.12408851270266,88.2384584220692,"Spring",12075
+5,-113.8058333,28.264167,"u ad.",1927,"Callipepla californica decolorata","Callipepla_californica",162,NA,"male",20.7,108,4.12408851270266,88.2384584220692,"Spring",12076
+12,-110.33,24.12,"u ad.",1928,"Callipepla californica achrustera","Callipepla_californica",135.2,NA,"female",23.6,159,4.15322984938447,128.930957062497,"Winter",12077
+2,-110.3411111,24.111667,"ad.",1929,"Callipepla californica achrustera","Callipepla_californica",127.5,NA,"female",22.9,144,4.45961677929638,109.175051725163,"Winter",12078
+4,-109.7011111,23.178333,"u ad.",1925,"Callipepla californica achrustera","Callipepla_californica",163.2,NA,"male",23.2,307,3.97499761768558,125.618250172833,"Spring",12079
+6,-109.7747222,23.441944,"ad.",1929,"Callipepla californica achrustera","Callipepla_californica",176.3,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",12080
+6,-109.7747222,23.441944,"juv.",1929,"Callipepla californica achrustera","Callipepla_californica",9,NA,"undetermined",22.5,318,4.72709789886507,128.387621440706,"Summer",12081
+6,-109.7747222,23.441944,"ad.",1929,"Callipepla californica achrustera","Callipepla_californica",136.8,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",12082
+4,-111.8172222,26.056667,"u ad.",1931,"Callipepla californica decolorata","Callipepla_californica",159.6,NA,"male",20.9,213,4.21522313295584,94.0918085008082,"Spring",12083
+6,-123.364945,48.428382,NA,1971,"Callipepla californica","Callipepla_californica",182,NA,"male",9.4,902,4.85713314870433,77.1218852573339,"Summer",12084
+1,-119.630241,49.495707,NA,1992,"Callipepla californica","Callipepla_californica",201,280,"male",10.1,318,8.30897196718795,69.8841254458756,"Winter",12085
+10,-119.630241,49.495707,NA,1994,"Callipepla californica","Callipepla_californica",190,235,"male",10,300,8.61207749546407,40.6283945542385,"Fall",12086
+1,-119.594211,49.49871,"adult",1995,"Callipepla californica","Callipepla_californica",202,278,"female",9.7,387,8.02535753947222,51.6685447447669,"Winter",12087
+12,-119.630241,49.495707,NA,2009,"Callipepla californica","Callipepla_californica",219.5,254,"male",8.7,262,9.43090904709326,34.6647058044958,"Winter",12088
+12,-119.627228,49.49097,"young adult",1996,"Callipepla californica","Callipepla_californica",194.2,36.7,"male",7.3,375,9.07585458034869,51.9196873574451,"Winter",12089
+8,-119.6666667,48.5,NA,1940,"Callipepla californica","Callipepla_californica",169.5,NA,NA,8.9,378,9.03179568708977,65.3800786013648,"Summer",12090
+1,-119.8333333,39.0166667,NA,2001,"Callipepla californica","Callipepla_californica",178.5,NA,"male",11.4,215,8.30764525584535,130.181605000797,"Winter",12091
+3,-122.6,40.65,NA,2002,"Callipepla californica","Callipepla_californica",170.2,NA,"male",14.1,1400,7.14096165326025,148.397684748776,"Spring",12092
+12,-119.6666667,34.4166667,NA,2003,"Callipepla californica","Callipepla_californica",188,NA,"female",15.4,331,2.43117380304372,120.559676560289,"Winter",12093
+7,-115.717377,31.3834136,"adult",1927,NA,"Callipepla_californica",154,NA,"male",16,343,4.68883263885069,100.808123566318,"Summer",12094
+7,-122.26167,38.45083,"U-Ad.",1984,"Callipepla californica brunnescens","Callipepla_californica",176.2,NA,"male",13.7,681,6.11582646363787,145.0473863622,"Summer",12095

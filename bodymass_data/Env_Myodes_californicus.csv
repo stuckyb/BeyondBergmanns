@@ -1,0 +1,760 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+9,-121.72019,44.51035,"adult",2012,"Myodes californicus","Myodes_californicus",25,153,"male",7.4,1235,6.24562877442126,74.3913050904571,"Fall",186076
+11,-122.2782504,43.320035,NA,1996,"Myodes californicus","Myodes_californicus",17,129,"male",8.4,2426,6.29994588721349,85.7760543103838,"Fall",186077
+11,-122.2782504,43.320035,NA,1996,"Myodes californicus","Myodes_californicus",17.5,135,"male",8.4,2426,6.29994588721349,85.7760543103838,"Fall",186078
+11,-122.2380791,43.2606936,NA,1996,"Myodes californicus","Myodes_californicus",21.5,144,"male",7.4,2316,6.30322187937297,86.832020557396,"Fall",186079
+11,-122.2380791,43.2606936,NA,1996,"Myodes californicus","Myodes_californicus",19.5,142,"male",7.4,2316,6.30322187937297,86.832020557396,"Fall",186080
+11,-122.2380791,43.2606936,NA,1996,"Myodes californicus","Myodes_californicus",21,146,"male",7.4,2316,6.30322187937297,86.832020557396,"Fall",186081
+10,-122.7903614,43.2453709,NA,1996,"Myodes californicus","Myodes_californicus",14,127,"male",9.7,2688,5.82609074194123,88.7943051631483,"Fall",186082
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",17.5,134,"male",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186083
+11,-122.2380791,43.2606936,NA,1996,"Myodes californicus","Myodes_californicus",17.5,137,"male",7.4,2316,6.30322187937297,86.832020557396,"Fall",186084
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",14.5,125,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186085
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",16,130,"female",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186086
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",14.5,132,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186087
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",13.5,129,"female",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186088
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",15.5,136,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186089
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",17,136,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186090
+11,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",20,133,"female",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186091
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",12.5,120,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186092
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",18,131,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186093
+1,-123.8833333333,44.4833333333,NA,1995,"Myodes californicus","Myodes_californicus",27,150,"female",11.9,2873,4.12710001641038,81.2181007979655,"Winter",186094
+1,-123.8833333333,44.4833333333,NA,1995,"Myodes californicus","Myodes_californicus",29,158,"undetermined",11.9,2873,4.12710001641038,81.2181007979655,"Winter",186095
+9,-122,41.3333333333,NA,1990,"Myodes californicus","Myodes_californicus",16.2,123,"undetermined",8.7,926,7.35790648749954,103.052150874467,"Fall",186096
+9,-122.2,41.3166666667,NA,1990,"Myodes californicus","Myodes_californicus",14.8,126,"female",7.4,1097,7.01738101884431,109.184651635173,"Fall",186097
+9,-122.1166666667,41.3166666667,NA,1990,"Myodes californicus","Myodes_californicus",20.7,133,"female",8.5,1057,7.07483804290482,107.644727240956,"Fall",186098
+9,-122.1166666667,41.3166666667,NA,1990,"Myodes californicus","Myodes_californicus",20,142,"male",8.5,1057,7.07483804290482,107.644727240956,"Fall",186099
+9,-122,41.3333333333,NA,1990,"Myodes californicus","Myodes_californicus",16,128,"male",8.7,926,7.35790648749954,103.052150874467,"Fall",186100
+1,-123.8,44.5,NA,1995,"Myodes californicus","Myodes_californicus",23,151,"female",11.9,2886,4.25899226948291,82.4436323310074,"Winter",186101
+1,-123.8,44.5,NA,1995,"Myodes californicus","Myodes_californicus",18,144,"male",11.9,2886,4.25899226948291,82.4436323310074,"Winter",186102
+1,-123.8,44.5,NA,1995,"Myodes californicus","Myodes_californicus",24,151,"female",11.9,2886,4.25899226948291,82.4436323310074,"Winter",186103
+1,-123.8,44.5,NA,1995,"Myodes californicus","Myodes_californicus",29,165,"male",11.9,2886,4.25899226948291,82.4436323310074,"Winter",186104
+10,-122.7911046,43.2751187,NA,1996,"Myodes californicus","Myodes_californicus",18.5,138,"male",10.1,2536,5.88039243176126,89.719753212169,"Fall",186105
+10,-122.7911046,43.2751187,NA,1996,"Myodes californicus","Myodes_californicus",21,142,"female",10.1,2536,5.88039243176126,89.719753212169,"Fall",186106
+10,-122.7911046,43.2751187,NA,1996,"Myodes californicus","Myodes_californicus",13.5,119,"male",10.1,2536,5.88039243176126,89.719753212169,"Fall",186107
+10,-122.7911046,43.2751187,NA,1996,"Myodes californicus","Myodes_californicus",23.5,141,"female",10.1,2536,5.88039243176126,89.719753212169,"Fall",186108
+10,-122.8108393,43.2751187,NA,1996,"Myodes californicus","Myodes_californicus",16.5,132,"male",10.5,2572,5.83965025934903,88.5123282713629,"Fall",186109
+11,-122.7911046,43.2591955,NA,1996,"Myodes californicus","Myodes_californicus",11.5,107,"male",9.9,2619,5.85258295735543,89.1556142138389,"Fall",186110
+11,-122.7911046,43.2591955,NA,1996,"Myodes californicus","Myodes_californicus",13,113,"female",9.9,2619,5.85258295735543,89.1556142138389,"Fall",186111
+11,-122.7911046,43.2591955,NA,1996,"Myodes californicus","Myodes_californicus",16.5,135,"female",9.9,2619,5.85258295735543,89.1556142138389,"Fall",186112
+11,-122.7911046,43.2591955,NA,1996,"Myodes californicus","Myodes_californicus",16.5,127,"male",9.9,2619,5.85258295735543,89.1556142138389,"Fall",186113
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",20.5,142,"female",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186114
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",12.5,117,"female",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186115
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",18,139,"male",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186116
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",14,126,"female",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186117
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",17,142,"female",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186118
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",16.5,127,"female",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186119
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",15,130,"female",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186120
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",16.5,133,"female",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186121
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",16.5,131,"male",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186122
+9,-122.0892,44.39946,"class.",2012,"Myodes californicus","Myodes_californicus",16,135,"male",6.7,3375,5.72084836895771,70.0957799692899,"Fall",186123
+11,-122.4378312,43.2511622,NA,1996,"Myodes californicus","Myodes_californicus",15.5,131,"female",9.9,1992,5.9880879226759,84.3397715253274,"Fall",186124
+11,-122.2380791,43.2606936,NA,1996,"Myodes californicus","Myodes_californicus",11.5,111,"male",7.4,2316,6.30322187937297,86.832020557396,"Fall",186125
+11,-122.2380791,43.2606936,"mature",1996,"Myodes californicus","Myodes_californicus",22,143,"female",7.4,2316,6.30322187937297,86.832020557396,"Fall",186126
+11,-122.6746689,43.201066,NA,1996,"Myodes californicus","Myodes_californicus",17,135,"female",8.7,2539,6.00973956981246,89.7252598704468,"Fall",186127
+11,-122.6746689,43.201066,NA,1996,"Myodes californicus","Myodes_californicus",16,128,"male",8.7,2539,6.00973956981246,89.7252598704468,"Fall",186128
+11,-122.7903614,43.2453709,NA,1996,"Myodes californicus","Myodes_californicus",16.5,136,"female",9.7,2688,5.82609074194123,88.7943051631483,"Fall",186129
+11,-122.7855186,43.2453709,NA,1996,"Myodes californicus","Myodes_californicus",17.5,137,"male",9.8,2661,5.85042733481923,89.1741645389166,"Fall",186130
+11,-122.7903614,43.2453709,NA,1996,"Myodes californicus","Myodes_californicus",24.5,144,"female",9.7,2688,5.82609074194123,88.7943051631483,"Fall",186131
+10,-122.7903614,43.2453709,NA,1996,"Myodes californicus","Myodes_californicus",18,140,"male",9.7,2688,5.82609074194123,88.7943051631483,"Fall",186132
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",14.5,133,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186133
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",14,124,"female",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186134
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",17.5,131,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186135
+11,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",22.5,143,"female",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186136
+11,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",18,137,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186137
+11,-122.7118,43.7453,NA,1996,"Myodes californicus","Myodes_californicus",14.5,123,"female",11.1,2361,5.88593598540134,84.3142624023069,"Fall",186138
+1,-123.9393611111,44.545,NA,1995,"Myodes californicus","Myodes_californicus",21,144,"female",11.8,2425,3.83235824225368,78.4444680358566,"Winter",186139
+1,-123.8833333333,44.4833333333,NA,1995,"Myodes californicus","Myodes_californicus",26,155,"female",11.9,2873,4.12710001641038,81.2181007979655,"Winter",186140
+9,-122,41.3333333333,NA,1990,"Myodes californicus","Myodes_californicus",12.4,117,"undetermined",8.7,926,7.35790648749954,103.052150874467,"Fall",186141
+9,-122.2,41.3166666667,NA,1990,"Myodes californicus","Myodes_californicus",13.4,NA,"undetermined",7.4,1097,7.01738101884431,109.184651635173,"Fall",186142
+9,-122.1166666667,41.3166666667,NA,1990,"Myodes californicus","Myodes_californicus",17.7,123,"undetermined",8.5,1057,7.07483804290482,107.644727240956,"Fall",186143
+9,-122.1166666667,41.3166666667,NA,1990,"Myodes californicus","Myodes_californicus",26,146,"female",8.5,1057,7.07483804290482,107.644727240956,"Fall",186144
+1,-123.9393611111,44.545,NA,1998,"Myodes californicus","Myodes_californicus",28,147,"male",10.6,2743,4.00192188677875,90.5462469822349,"Winter",186145
+1,-123.9393611111,44.545,NA,1995,"Myodes californicus","Myodes_californicus",32,155,"female",11.8,2425,3.83235824225368,78.4444680358566,"Winter",186146
+1,-123.8,44.5,NA,1995,"Myodes californicus","Myodes_californicus",27,159,"undetermined",11.9,2886,4.25899226948291,82.4436323310074,"Winter",186147
+1,-123.8,44.52,NA,1995,"Myodes californicus","Myodes_californicus",23,157,"male",11.9,2651,4.1705678706426,81.2108713830246,"Winter",186148
+1,-123.9,44.5,NA,1995,"Myodes californicus","Myodes_californicus",26,154,"male",11.8,2781,4.02630554772441,80.8611214905268,"Winter",186149
+1,-123.8,44.5,NA,1995,"Myodes californicus","Myodes_californicus",26,154,"male",11.9,2886,4.25899226948291,82.4436323310074,"Winter",186150
+1,-123.8,44.5,NA,1995,"Myodes californicus","Myodes_californicus",25,154,"female",11.9,2886,4.25899226948291,82.4436323310074,"Winter",186151
+1,-123.9,44.5,NA,1995,"Myodes californicus","Myodes_californicus",23,152,"male",11.8,2781,4.02630554772441,80.8611214905268,"Winter",186152
+1,-123.9393611111,44.545,NA,1995,"Myodes californicus","Myodes_californicus",29,158,"male",11.8,2425,3.83235824225368,78.4444680358566,"Winter",186153
+10,-122.7911046,43.2751187,NA,1996,"Myodes californicus","Myodes_californicus",17.5,129,"female",10.1,2536,5.88039243176126,89.719753212169,"Fall",186154
+10,-122.7911046,43.2751187,NA,1996,"Myodes californicus","Myodes_californicus",13,111,"female",10.1,2536,5.88039243176126,89.719753212169,"Fall",186155
+10,-122.7911046,43.2751187,NA,1996,"Myodes californicus","Myodes_californicus",15,126,"female",10.1,2536,5.88039243176126,89.719753212169,"Fall",186156
+10,-122.8108393,43.2751187,NA,1996,"Myodes californicus","Myodes_californicus",16,130,"male",10.5,2572,5.83965025934903,88.5123282713629,"Fall",186157
+11,-122.7911046,43.2591955,NA,1996,"Myodes californicus","Myodes_californicus",12.5,119,"female",9.9,2619,5.85258295735543,89.1556142138389,"Fall",186158
+11,-122.7911046,43.2591955,NA,1996,"Myodes californicus","Myodes_californicus",20,142,"female",9.9,2619,5.85258295735543,89.1556142138389,"Fall",186159
+11,-122.7911046,43.2591955,NA,1996,"Myodes californicus","Myodes_californicus",27.5,158,"male",9.9,2619,5.85258295735543,89.1556142138389,"Fall",186160
+11,-122.7911046,43.2591955,NA,1996,"Myodes californicus","Myodes_californicus",19.5,139,"male",9.9,2619,5.85258295735543,89.1556142138389,"Fall",186161
+11,-122.7911046,43.2591955,NA,1996,"Myodes californicus","Myodes_californicus",11,110,"male",9.9,2619,5.85258295735543,89.1556142138389,"Fall",186162
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",15,136,"female",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186163
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",17,131,"male",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186164
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",19,143,"male",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186165
+11,-122.432827,43.2473736,NA,1996,"Myodes californicus","Myodes_californicus",16.5,137,"female",9.8,1997,6.00264461918598,84.3477076241971,"Fall",186166
+8,-121.33,40.41,NA,1959,"Myodes californicus mazama","Myodes_californicus",27.5,150,"female",7.5,873,6.65493095836509,136.09351541143,"Summer",186167
+12,-123.86,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",20.7,149,"female",10.7,1882,5.00145433394582,87.4371983952222,"Winter",186168
+11,-123.87,44.46,NA,1988,"Myodes californicus californicus","Myodes_californicus",26.7,143,"female",10.8,2445,4.49632846853627,102.970623490284,"Fall",186169
+11,-123.87,44.46,NA,1988,"Myodes californicus californicus","Myodes_californicus",23.7,163,"male",10.8,2445,4.49632846853627,102.970623490284,"Fall",186170
+11,-123.87,44.46,NA,1988,"Myodes californicus californicus","Myodes_californicus",27.7,143,"male",10.8,2445,4.49632846853627,102.970623490284,"Fall",186171
+12,-123.87,44.46,NA,1988,"Myodes californicus californicus","Myodes_californicus",16.2,161,"male",10.8,2445,4.49632846853627,102.970623490284,"Winter",186172
+11,-123.96,44.54,NA,1988,"Myodes californicus californicus","Myodes_californicus",14.3,142,"female",10.6,1934,4.02714275732545,99.4476444200359,"Fall",186173
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",20,137,"male",11.2,2362,4.73026202105959,103.619331625641,"Fall",186174
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",22.2,139,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186175
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",17.6,131,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186176
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",21.6,142,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186177
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",19.1,145,"male",11.2,2362,4.73026202105959,103.619331625641,"Fall",186178
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",21.9,148,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186179
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",30.7,154,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186180
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",26.9,168,"male",11.2,2362,4.73026202105959,103.619331625641,"Fall",186181
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",25.4,154,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186182
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",24.9,162,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186183
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",29,163,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186184
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",27.5,161,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186185
+11,-123.86,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",16.8,141,"male",10.7,1882,5.00145433394582,87.4371983952222,"Fall",186186
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",25.5,156,"female",10.8,2335,4.38133091720548,102.685204584881,"Fall",186187
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",18.3,153,"male",10.8,2335,4.38133091720548,102.685204584881,"Fall",186188
+5,-123.88,44.44,NA,1989,"Myodes californicus californicus","Myodes_californicus",27.4,155,"female",10.7,1886,5.02005070600976,87.6877877226231,"Spring",186189
+5,-123.96,44.54,NA,1989,"Myodes californicus californicus","Myodes_californicus",27.7,160,"male",10.6,1584,4.70808460056323,85.6142881050833,"Spring",186190
+5,-123.87,44.46,NA,1989,"Myodes californicus californicus","Myodes_californicus",26.9,157,"male",10.7,1974,5.10581219609752,87.5214652339075,"Spring",186191
+5,-123.87,44.46,NA,1989,"Myodes californicus californicus","Myodes_californicus",23.8,150,"female",10.7,1974,5.10581219609752,87.5214652339075,"Spring",186192
+4,-123.87,44.46,NA,1990,"Myodes californicus californicus","Myodes_californicus",24.8,147,"male",10.7,2390,5.37871788260047,84.3693491156043,"Spring",186193
+4,-123.87,44.46,NA,1990,"Myodes californicus californicus","Myodes_californicus",33.9,162,"male",10.7,2390,5.37871788260047,84.3693491156043,"Spring",186194
+4,-123.88,44.44,NA,1989,"Myodes californicus californicus","Myodes_californicus",28,140,"female",10.7,1886,5.02005070600976,87.6877877226231,"Spring",186195
+5,-123.88,44.44,NA,1989,"Myodes californicus californicus","Myodes_californicus",26.6,155,"male",10.7,1886,5.02005070600976,87.6877877226231,"Spring",186196
+5,-123.88,44.44,NA,1989,"Myodes californicus californicus","Myodes_californicus",25.1,154,"male",10.7,1886,5.02005070600976,87.6877877226231,"Spring",186197
+4,-123.92,44.51,NA,1990,"Myodes californicus californicus","Myodes_californicus",23,156,"male",10.6,2116,5.06485214717343,81.8795951717665,"Spring",186198
+4,-123.92,44.51,NA,1990,"Myodes californicus californicus","Myodes_californicus",32.5,158,"female",10.6,2116,5.06485214717343,81.8795951717665,"Spring",186199
+4,-123.92,44.51,NA,1990,"Myodes californicus californicus","Myodes_californicus",28.1,149,"male",10.6,2116,5.06485214717343,81.8795951717665,"Spring",186200
+5,-123.92,44.51,NA,1990,"Myodes californicus californicus","Myodes_californicus",24.4,147,"male",10.6,2116,5.06485214717343,81.8795951717665,"Spring",186201
+11,-123.88,44.44,NA,1988,"Myodes californicus californicus","Myodes_californicus",17.5,143,"female",10.8,2334,4.40353680166708,102.352770250882,"Fall",186202
+4,-123.88,44.44,NA,1990,"Myodes californicus californicus","Myodes_californicus",29.9,168,"female",10.7,2275,5.27679310325367,83.6818343164243,"Spring",186203
+4,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",23.6,144,"female",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186204
+4,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",22.8,NA,"male",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186205
+4,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",21,154,"male",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186206
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",20.6,167,"female",10.8,2335,4.38133091720548,102.685204584881,"Fall",186207
+11,-123.96,44.54,NA,1988,"Myodes californicus californicus","Myodes_californicus",24,162,"female",10.6,1934,4.02714275732545,99.4476444200359,"Fall",186208
+5,-123.96,44.54,NA,1990,"Myodes californicus californicus","Myodes_californicus",29.2,160,"male",10.6,1884,4.93899143182455,79.6223253202786,"Spring",186209
+12,-123.96,44.54,NA,1988,"Myodes californicus californicus","Myodes_californicus",15.5,143,"female",10.6,1934,4.02714275732545,99.4476444200359,"Winter",186210
+12,-123.96,44.54,NA,1988,"Myodes californicus californicus","Myodes_californicus",25.6,162,"female",10.6,1934,4.02714275732545,99.4476444200359,"Winter",186211
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",24,148,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186212
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",15.7,128,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186213
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",12.4,112,"male",11.2,2362,4.73026202105959,103.619331625641,"Fall",186214
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",19,NA,"male",11.2,2362,4.73026202105959,103.619331625641,"Fall",186215
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",25,152,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186216
+4,-123.79,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",20.4,145,"male",11.1,2317,5.60867158689979,85.5083557205388,"Spring",186217
+4,-123.79,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",27,151,"male",11.1,2317,5.60867158689979,85.5083557205388,"Spring",186218
+5,-123.86,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",27,157,"male",10.7,1882,5.00145433394582,87.4371983952222,"Spring",186219
+5,-123.79,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",20.7,141,"male",11.1,2317,5.60867158689979,85.5083557205388,"Spring",186220
+5,-123.79,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",22.9,144,"male",11.1,1889,5.33240522227498,86.8354643804827,"Spring",186221
+5,-123.86,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",23.9,145,"male",10.7,1882,5.00145433394582,87.4371983952222,"Spring",186222
+5,-123.79,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",21.1,143,"male",11.1,2317,5.60867158689979,85.5083557205388,"Spring",186223
+5,-123.79,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",21.1,139,"female",11.1,2317,5.60867158689979,85.5083557205388,"Spring",186224
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",20.5,139,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186225
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",18,139,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186226
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",19.5,145,"female",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186227
+11,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",19,146,"female",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186228
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",19.5,145,"male",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186229
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",21,133,"male",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186230
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",21.5,145,"female",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186231
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",22.5,150,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186232
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",19,136,"female",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186233
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",17,131,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186234
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",17.5,135,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186235
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",17.5,131,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186236
+11,-122.31,43.19,NA,1999,"Myodes californicus obscurus","Myodes_californicus",17,130,"male",5.7,1497,5.93992016067148,81.8578681920804,"Fall",186237
+10,-122.29,43.19,NA,1999,"Myodes californicus obscurus","Myodes_californicus",25,150,"male",5.1,1512,5.97374939365402,81.005163492262,"Fall",186238
+8,-123.41,45.55,NA,2000,"Myodes californicus californicus","Myodes_californicus",5.3,125,"female",8,2186,5.27730274310886,72.978288445236,"Summer",186239
+6,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",22.8,138,"female",8.8,1562,5.31093782735786,78.0581211906566,"Summer",186240
+8,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",14,129,"female",8.8,1562,5.31093782735786,78.0581211906566,"Summer",186241
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",19.2,132,"female",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186242
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",15.3,127,"female",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186243
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",17.1,141,"male",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186244
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",12,128,"female",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186245
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",19.5,148,"female",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186246
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",18.1,143,"male",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186247
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",14.8,132,"female",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186248
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",18.1,149,"female",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186249
+5,-123.7911111111,45.3330555556,NA,1996,"Myodes californicus","Myodes_californicus",20.8,150,"female",10,3754,3.85553517882427,81.9083725699149,"Spring",186250
+5,-123.7280555556,45.2138888889,NA,1996,"Myodes californicus","Myodes_californicus",25.5,145,"male",9.2,4231,4.19944981966433,85.134165700974,"Spring",186251
+5,-123.6419444444,45.3288888889,NA,1996,"Myodes californicus","Myodes_californicus",21.8,148,"male",9.6,4059,4.62657016753788,81.9359985675231,"Spring",186252
+5,-123.6661111111,45.34,NA,1996,"Myodes californicus","Myodes_californicus",25.6,150,"male",9.5,4048,4.47027217665025,81.5826545350827,"Spring",186253
+5,-123.6408333333,45.2188888889,NA,1996,"Myodes californicus","Myodes_californicus",21.5,152,"male",10.1,3175,4.50201133501528,83.4885199486216,"Spring",186254
+4,-123.7911111111,45.3330555556,NA,1996,"Myodes californicus","Myodes_californicus",21.5,149,"male",10,3754,3.85553517882427,81.9083725699149,"Spring",186255
+5,-123.5830555556,45.2611111111,NA,1996,"Myodes californicus","Myodes_californicus",28.2,152,"male",10.4,3518,5.01249952769589,83.156924186887,"Spring",186256
+5,-123.6419444444,45.3344444444,NA,1996,"Myodes californicus","Myodes_californicus",19.3,152,"female",9.7,4103,4.64216511659128,82.2788893343984,"Spring",186257
+5,-123.5688888889,44.2980555556,NA,1996,"Myodes californicus","Myodes_californicus",19.1,144,"male",11.1,3065,5.13685436111174,90.1766251780041,"Spring",186258
+5,-123.6619444444,45.335,NA,1996,"Myodes californicus","Myodes_californicus",19.6,148,"female",9.5,3988,4.45859741500518,81.2578377314822,"Spring",186259
+5,-123.6569444444,45.33,NA,1996,"Myodes californicus","Myodes_californicus",21.5,151,"male",9.6,3949,4.46388708176942,81.0105187721323,"Spring",186260
+5,-123.8030555556,44.23,NA,1996,"Myodes californicus","Myodes_californicus",16.2,152,"male",11.8,2919,4.9254672136486,89.6199256486931,"Spring",186261
+5,-123.6569444444,45.3361111111,NA,1996,"Myodes californicus","Myodes_californicus",20.6,148,"female",9.6,4032,4.52329827368562,81.5919437473911,"Spring",186262
+5,-123.5719444444,44.2911111111,NA,1996,"Myodes californicus","Myodes_californicus",21.4,145,"female",11,3154,5.1549549567441,89.9348167448271,"Spring",186263
+5,-123.7761111111,44.2961111111,NA,1996,"Myodes californicus","Myodes_californicus",27,149,"male",11.9,2785,4.89644274092443,89.2537358979972,"Spring",186264
+5,-123.5669444444,44.2880555556,NA,1996,"Myodes californicus","Myodes_californicus",25,153,"male",11,3141,5.16458658030384,89.8725742896057,"Spring",186265
+5,-123.7738888889,44.2988888889,NA,1996,"Myodes californicus","Myodes_californicus",28,165,"male",11.9,2782,4.88487926714115,89.2712941567141,"Spring",186266
+5,-123.58,44.2630555556,NA,1996,"Myodes californicus","Myodes_californicus",22,150,"female",11.3,3075,5.12220359776627,90.5482254158146,"Spring",186267
+5,-123.56,44.295,NA,1996,"Myodes californicus","Myodes_californicus",24,156,"male",11,3023,5.14312574454897,90.1468017432738,"Spring",186268
+5,-123.7861111111,44.3011111111,NA,1996,"Myodes californicus","Myodes_californicus",28,164,"male",11.9,2810,4.83478557075198,89.2141678138615,"Spring",186269
+5,-123.5819444444,44.2561111111,NA,1996,"Myodes californicus","Myodes_californicus",13,169,"undetermined",11.3,3034,5.11547710977247,90.6598780678896,"Spring",186270
+5,-123.5719444444,44.285,NA,1996,"Myodes californicus","Myodes_californicus",24,152,"male",11,3191,5.17262608411439,89.9254615155931,"Spring",186271
+6,-122.26,44.26,NA,1989,"Myodes californicus obscurus","Myodes_californicus",15.6,139,"female",8.9,1938,6.22830172874134,83.7383910359096,"Summer",186272
+11,-123.87,44.46,NA,1988,"Myodes californicus californicus","Myodes_californicus",21.5,153,"male",10.8,2445,4.49632846853627,102.970623490284,"Fall",186273
+11,-123.87,44.46,NA,1988,"Myodes californicus californicus","Myodes_californicus",27,149,"male",10.8,2445,4.49632846853627,102.970623490284,"Fall",186274
+11,-123.87,44.46,NA,1988,"Myodes californicus californicus","Myodes_californicus",24.6,158,"male",10.8,2445,4.49632846853627,102.970623490284,"Fall",186275
+11,-123.87,44.46,NA,1988,"Myodes californicus californicus","Myodes_californicus",24.7,165,"male",10.8,2445,4.49632846853627,102.970623490284,"Fall",186276
+11,-123.79,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",20.6,139,"male",11.1,1889,5.33240522227498,86.8354643804827,"Fall",186277
+11,-123.79,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",17.8,150,"female",11.1,1889,5.33240522227498,86.8354643804827,"Fall",186278
+11,-123.79,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",15.6,136,"male",11.1,1889,5.33240522227498,86.8354643804827,"Fall",186279
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",23.3,147,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186280
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",26.1,158,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186281
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",24.4,154,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186282
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",19.8,147,"male",11.2,2362,4.73026202105959,103.619331625641,"Fall",186283
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",20.7,140,"male",11.2,2362,4.73026202105959,103.619331625641,"Fall",186284
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",21.2,139,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186285
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",27.7,161,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186286
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",30.5,151,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186287
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",29.3,167,"male",11.2,2362,4.73026202105959,103.619331625641,"Fall",186288
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",27.3,168,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186289
+11,-123.86,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",21.1,144,"male",10.7,1882,5.00145433394582,87.4371983952222,"Fall",186290
+11,-123.86,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",18.5,147,"female",10.7,1882,5.00145433394582,87.4371983952222,"Fall",186291
+5,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",27.3,168,"male",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186292
+5,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",28,160,"male",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186293
+5,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",27.6,159,"female",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186294
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",15.5,168,"undetermined",10.8,2335,4.38133091720548,102.685204584881,"Fall",186295
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",14.4,143,"male",10.8,2335,4.38133091720548,102.685204584881,"Fall",186296
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",21.3,147,"female",10.8,2335,4.38133091720548,102.685204584881,"Fall",186297
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",24.4,159,"female",10.8,2335,4.38133091720548,102.685204584881,"Fall",186298
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",30.7,157,"male",10.8,2335,4.38133091720548,102.685204584881,"Fall",186299
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",17.3,153,"male",10.8,2335,4.38133091720548,102.685204584881,"Fall",186300
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",16.2,148,"undetermined",10.8,2335,4.38133091720548,102.685204584881,"Fall",186301
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",23.7,167,"male",10.8,2335,4.38133091720548,102.685204584881,"Fall",186302
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",23.8,162,"male",10.8,2335,4.38133091720548,102.685204584881,"Fall",186303
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",18.5,153,"male",10.8,2335,4.38133091720548,102.685204584881,"Fall",186304
+5,-123.92,44.51,NA,1989,"Myodes californicus californicus","Myodes_californicus",23.2,154,"male",10.6,1774,4.82763509454273,87.9273258202136,"Spring",186305
+5,-123.92,44.51,NA,1989,"Myodes californicus californicus","Myodes_californicus",24.1,155,"male",10.6,1774,4.82763509454273,87.9273258202136,"Spring",186306
+5,-123.87,44.46,NA,1989,"Myodes californicus californicus","Myodes_californicus",21.1,157,"male",10.7,1974,5.10581219609752,87.5214652339075,"Spring",186307
+4,-123.88,44.44,NA,1989,"Myodes californicus californicus","Myodes_californicus",21.5,142,"female",10.7,1886,5.02005070600976,87.6877877226231,"Spring",186308
+4,-123.88,44.44,NA,1989,"Myodes californicus californicus","Myodes_californicus",33.8,169,"male",10.7,1886,5.02005070600976,87.6877877226231,"Spring",186309
+4,-123.88,44.44,NA,1989,"Myodes californicus californicus","Myodes_californicus",24.5,140,"male",10.7,1886,5.02005070600976,87.6877877226231,"Spring",186310
+5,-123.88,44.44,NA,1989,"Myodes californicus californicus","Myodes_californicus",27.5,158,"male",10.7,1886,5.02005070600976,87.6877877226231,"Spring",186311
+5,-123.88,44.44,NA,1989,"Myodes californicus californicus","Myodes_californicus",25.6,162,"male",10.7,1886,5.02005070600976,87.6877877226231,"Spring",186312
+11,-123.92,44.51,NA,1988,"Myodes californicus californicus","Myodes_californicus",20.9,165,"female",10.7,2179,4.19888152495472,101.429731105981,"Fall",186313
+5,-123.92,44.51,NA,1990,"Myodes californicus californicus","Myodes_californicus",17.7,140,"male",10.6,2116,5.06485214717343,81.8795951717665,"Spring",186314
+4,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",25.3,148,"male",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186315
+4,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",25.3,163,"male",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186316
+4,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",24.3,149,"female",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186317
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",12.2,132,"female",10.8,2335,4.38133091720548,102.685204584881,"Fall",186318
+11,-123.86,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",15.6,154,"female",10.8,2335,4.38133091720548,102.685204584881,"Fall",186319
+4,-123.87,44.46,NA,1990,"Myodes californicus californicus","Myodes_californicus",27.4,148,"male",10.7,2390,5.37871788260047,84.3693491156043,"Spring",186320
+4,-123.87,44.46,NA,1990,"Myodes californicus californicus","Myodes_californicus",29.5,158,"female",10.7,2390,5.37871788260047,84.3693491156043,"Spring",186321
+5,-123.96,44.54,NA,1990,"Myodes californicus californicus","Myodes_californicus",44.7,158,"male",10.6,1884,4.93899143182455,79.6223253202786,"Spring",186322
+4,-123.96,44.54,NA,1990,"Myodes californicus californicus","Myodes_californicus",25.4,159,"male",10.6,1884,4.93899143182455,79.6223253202786,"Spring",186323
+11,-123.96,44.54,NA,1988,"Myodes californicus californicus","Myodes_californicus",22.6,149,"female",10.6,1934,4.02714275732545,99.4476444200359,"Fall",186324
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",13.8,133,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186325
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",26.4,158,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186326
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",10.7,111,"male",11.2,2362,4.73026202105959,103.619331625641,"Fall",186327
+4,-123.79,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",22.7,142,"male",11.1,2317,5.60867158689979,85.5083557205388,"Spring",186328
+11,-123.79,44.43,NA,1988,"Myodes californicus californicus","Myodes_californicus",13.4,120,"female",11.2,2362,4.73026202105959,103.619331625641,"Fall",186329
+5,-123.86,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",25.8,151,"male",10.7,1882,5.00145433394582,87.4371983952222,"Spring",186330
+4,-123.86,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",28.2,156,"male",10.7,2280,5.26480596206373,84.0345050307268,"Spring",186331
+5,-123.86,44.43,NA,1989,"Myodes californicus californicus","Myodes_californicus",31.8,169,"female",10.7,1882,5.00145433394582,87.4371983952222,"Spring",186332
+5,-123.79,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",27.8,150,"female",11.1,2317,5.60867158689979,85.5083557205388,"Spring",186333
+5,-123.79,44.43,NA,1990,"Myodes californicus californicus","Myodes_californicus",27.6,145,"male",11.1,2317,5.60867158689979,85.5083557205388,"Spring",186334
+5,-123.87,44.46,NA,1989,"Myodes californicus californicus","Myodes_californicus",25.3,150,"male",10.7,1974,5.10581219609752,87.5214652339075,"Spring",186335
+11,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",15.1,129,"female",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186336
+11,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",21.2,151,"female",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186337
+11,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",15.2,132,"female",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186338
+11,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",16.7,141,"female",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186339
+11,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",17.2,141,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186340
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",15.5,133,"female",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186341
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",16,124,"male",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186342
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",19.1,137,"male",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186343
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",19,133,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186344
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",17.5,133,"female",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186345
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",17,135,"male",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186346
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",20,147,"male",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186347
+10,-122.25,43.26,NA,1996,"Myodes californicus obscurus","Myodes_californicus",17,129,"female",7.5,2325,6.30040883714315,86.7976396518481,"Fall",186348
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",16.5,133,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186349
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",17.5,139,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186350
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",22,142,"female",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186351
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",25,151,"female",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186352
+10,-122.42,43.24,NA,1996,"Myodes californicus obscurus","Myodes_californicus",17.5,131,"male",9.6,2022,6.00186839596006,84.3396507648835,"Fall",186353
+8,-123.61,45.62,NA,2000,"Myodes californicus californicus","Myodes_californicus",12.8,130,"female",9.4,2932,5.40291728157253,72.607649626509,"Summer",186354
+6,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",19,133,"male",8.8,1562,5.31093782735786,78.0581211906566,"Summer",186355
+8,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",14.8,124,"female",8.8,1562,5.31093782735786,78.0581211906566,"Summer",186356
+8,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",12.5,117,"male",8.8,1562,5.31093782735786,78.0581211906566,"Summer",186357
+8,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",18.5,136,"female",8.8,1562,5.31093782735786,78.0581211906566,"Summer",186358
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",11.8,123,"female",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186359
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",22.8,140,"male",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186360
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",14.9,133,"female",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186361
+9,-123.3,45.57,NA,2000,"Myodes californicus californicus","Myodes_californicus",16.9,144,"female",8.8,1562,5.31093782735786,78.0581211906566,"Fall",186362
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",14.4,128,"female",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186363
+10,-122.3312,43.2055,NA,1996,"Myodes californicus","Myodes_californicus",13,130,"male",7.1,2304,6.29947087725099,86.5852758625565,"Fall",186364
+1,-123.8561111111,44.5538888889,NA,1995,"Myodes californicus","Myodes_californicus",29,175,"male",11.9,2421,3.97319617924762,79.0169734590269,"Winter",186365
+1,-123.895,44.495,NA,1995,"Myodes californicus","Myodes_californicus",30,161,"male",11.8,2813,4.04080512529447,80.9874178709613,"Winter",186366
+5,-123.6469444444,45.34,NA,1996,"Myodes californicus","Myodes_californicus",16.8,134,"male",9.7,4126,4.64903867547481,82.4187676029743,"Spring",186367
+5,-123.6411111111,45.2138888889,NA,1996,"Myodes californicus","Myodes_californicus",24.5,150,"male",10,3134,4.51263378043949,83.6314151184077,"Spring",186368
+4,-123.715,45.3288888889,NA,1996,"Myodes californicus","Myodes_californicus",26.5,151,"male",9.5,3882,4.17064052925236,81.5648452325221,"Spring",186369
+5,-123.6261111111,45.3288888889,NA,1996,"Myodes californicus","Myodes_californicus",23.3,143,"male",9.7,4191,4.77254617261027,82.9761627490379,"Spring",186370
+5,-123.755,45.2561111111,NA,1996,"Myodes californicus","Myodes_californicus",17.8,138,"female",9.9,3937,3.96770103651365,82.8961567962959,"Spring",186371
+5,-123.6419444444,45.2119444444,NA,1996,"Myodes californicus","Myodes_californicus",21.3,140,"female",10,3122,4.51499186213569,83.6722726581165,"Spring",186372
+5,-123.6469444444,45.34,NA,1996,"Myodes californicus","Myodes_californicus",21.7,148,"male",9.7,4126,4.64903867547481,82.4187676029743,"Spring",186373
+5,-123.76,45.2519444444,NA,1996,"Myodes californicus","Myodes_californicus",26.3,153,"female",9.8,4002,4.00075750403103,83.1511494052117,"Spring",186374
+5,-123.2272222222,45.3369444444,NA,1996,"Myodes californicus","Myodes_californicus",21,150,"female",11.5,1921,5.55066881037089,92.3714619398406,"Spring",186375
+5,-123.6469444444,45.3338888889,NA,1996,"Myodes californicus","Myodes_californicus",32,159,"male",9.6,4066,4.59377048542124,81.935158269107,"Spring",186376
+5,-123.5861111111,44.255,NA,1996,"Myodes californicus","Myodes_californicus",20,143,"male",11.4,3040,5.0948206023075,90.6469653344862,"Spring",186377
+5,-123.765,44.285,NA,1996,"Myodes californicus","Myodes_californicus",26,159,"male",11.8,2752,4.92755855706792,89.3196321880855,"Spring",186378
+5,-123.5830555556,44.2569444444,NA,1996,"Myodes californicus","Myodes_californicus",30,163,"female",11.3,3051,5.11547710977247,90.6715466210322,"Spring",186379
+5,-123.5819444444,44.2561111111,NA,1996,"Myodes californicus","Myodes_californicus",24,162,"male",11.3,3034,5.11547710977247,90.6598780678896,"Spring",186380
+5,-123.5811111111,44.2680555556,NA,1996,"Myodes californicus","Myodes_californicus",23,152,"male",11.2,3127,5.16541529322814,90.2275009685936,"Spring",186381
+5,-123.5861111111,44.2630555556,NA,1996,"Myodes californicus","Myodes_californicus",21,147,"male",11.3,3103,5.11547710977247,90.4234010436361,"Spring",186382
+7,-122.4982,46.3568,NA,1956,"Clethrionomys californicus","Myodes_californicus",33.5,159,NA,8.7,1688,6.08522179073403,76.3261277023871,"Summer",186384
+7,-121.53831,40.3689,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",26.5,160,"female",8.5,2137,7.20284034884219,103.461511459309,"Summer",186385
+7,-121.55757,40.35804,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",19.5,138,"male",8.9,2003,7.21418531068961,102.792262822803,"Summer",186386
+7,-121.55757,40.35804,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",14.5,120,"female",8.9,2003,7.21418531068961,102.792262822803,"Summer",186387
+9,-121.57018,40.53759,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",22.75,146,"male",8.2,1390,7.23074244899072,99.3231076424111,"Fall",186388
+11,-122.3115,43.191,NA,1996,"Clethrionomys californicus","Myodes_californicus",21.1,150,"female",6,2365,6.35973960778174,85.4349611990048,"Fall",186389
+11,-122.3115,43.191,NA,1996,"Clethrionomys californicus","Myodes_californicus",23,146,"male",6,2365,6.35973960778174,85.4349611990048,"Fall",186390
+11,-122.3115,43.191,NA,1996,"Clethrionomys californicus","Myodes_californicus",19.5,139,"female",6,2365,6.35973960778174,85.4349611990048,"Fall",186391
+11,-122.3115,43.191,NA,1996,"Clethrionomys californicus","Myodes_californicus",13,118,"male",6,2365,6.35973960778174,85.4349611990048,"Fall",186392
+11,-122.7118,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",26,153,"female",11.1,2347,5.88740309062622,84.2757302936615,"Fall",186393
+10,-122.7118,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",25,158,"female",11.1,2347,5.88740309062622,84.2757302936615,"Fall",186394
+10,-122.7118,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",29,170,"male",11.1,2347,5.88740309062622,84.2757302936615,"Fall",186395
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",18.5,139,"female",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186396
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",28.5,164,"male",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186397
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",20.5,152,"male",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186398
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",21,149,"male",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186399
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",27.5,159,"female",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186400
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",16,127,"male",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186401
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",15.5,126,"female",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186402
+10,-122.7118,43.7453,NA,1996,"Clethrionomys californicus","Myodes_californicus",26.5,153,"male",11.1,2361,5.88593598540134,84.3142624023069,"Fall",186403
+10,-122.7118,43.7453,NA,1996,"Clethrionomys californicus","Myodes_californicus",21.5,142,"male",11.1,2361,5.88593598540134,84.3142624023069,"Fall",186404
+5,-123.8115,43.1194,"unknown",1987,"Clethrionomys californicus","Myodes_californicus",24.6,151,"female",11.2,1912,4.57273706246316,113.037592695342,"Spring",186405
+5,-122.1567,44.2325,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",26.4,144,"male",9,2744,5.13546049984367,72.7746514186689,"Spring",186406
+5,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",24.2,140,"male",8.7,2725,5.19927151074304,72.0204342564401,"Spring",186407
+5,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",29.7,143,"female",8.7,2725,5.19927151074304,72.0204342564401,"Spring",186408
+8,-122.1567,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",21.3,135,"male",8.9,2731,5.14448071414228,72.309180166213,"Summer",186409
+8,-122.1567,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",28,150,"male",8.9,2731,5.14448071414228,72.309180166213,"Summer",186410
+8,-122.1567,44.2472,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",27,143,"male",9,2756,5.14283850405473,72.918431544153,"Summer",186411
+8,-122.1567,44.2325,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",18.4,135,"male",9,2744,5.13546049984367,72.7746514186689,"Summer",186412
+8,-122.1567,44.2325,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",26.4,145,"male",9,2744,5.13546049984367,72.7746514186689,"Summer",186413
+5,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",20.3,128,"female",8.6,2462,5.2678844008393,75.3403159913341,"Spring",186414
+5,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",17.4,130,"female",8.6,2462,5.2678844008393,75.3403159913341,"Spring",186415
+8,-122.1567,44.2325,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",18.9,125,"female",9,2744,5.13546049984367,72.7746514186689,"Summer",186416
+8,-122.1567,44.2325,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",18.7,136,"male",9,2744,5.13546049984367,72.7746514186689,"Summer",186417
+8,-122.1567,44.2325,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",30,153,"male",9,2744,5.13546049984367,72.7746514186689,"Summer",186418
+9,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",22.1,142,"male",8.7,2725,5.19927151074304,72.0204342564401,"Fall",186419
+9,-122.1567,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",9.8,100,"female",8.4,2789,5.17080235260418,70.859112812666,"Fall",186420
+8,-122.0516,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",12.9,113,"female",8.9,2425,5.32867457509583,73.5133345694533,"Summer",186421
+8,-122.0516,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",27.9,154,"female",8.9,2425,5.32867457509583,73.5133345694533,"Summer",186422
+5,-122.2521,44.2072,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",31.4,161,"male",10,2663,5.49867063824328,76.5405936726036,"Spring",186423
+5,-122.1719,44.1495,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",28.4,147,"female",9.9,2381,5.38451061336632,72.5360422493168,"Spring",186424
+5,-122.0568,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",26.6,152,"female",8.9,2500,5.51962751268488,74.8453298395493,"Spring",186425
+5,-122.0568,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",17.1,128,"male",8.9,2500,5.51962751268488,74.8453298395493,"Spring",186426
+5,-122.2021,44.2072,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",15.8,129,"male",9.5,2667,5.27004111305911,74.334674841531,"Spring",186427
+5,-122.2021,44.2072,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",21.6,148,"female",9.5,2667,5.27004111305911,74.334674841531,"Spring",186428
+5,-122.2021,44.2072,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",27.3,142,"female",9.5,2667,5.27004111305911,74.334674841531,"Spring",186429
+5,-122.2366,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",26,135,"male",9.8,2677,5.41854279863194,76.0612915427372,"Spring",186430
+5,-122.1567,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",22.2,146,"male",8.4,2789,5.17080235260418,70.859112812666,"Spring",186431
+5,-122.1567,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",18.8,143,"female",8.4,2789,5.17080235260418,70.859112812666,"Spring",186432
+9,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",20.6,144,"male",8.6,2462,5.2678844008393,75.3403159913341,"Fall",186433
+9,-122.2366,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",24.1,147,"male",9.8,2677,5.41854279863194,76.0612915427372,"Fall",186434
+8,-122.1567,44.2472,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",21.8,144,"male",9,2756,5.14283850405473,72.918431544153,"Summer",186435
+8,-122.1519,44.1495,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",16.2,130,"male",9.6,2388,5.39266477108798,72.243772115691,"Summer",186436
+8,-122.1567,44.2325,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",28.6,148,"female",9,2744,5.13546049984367,72.7746514186689,"Summer",186437
+9,-122.1567,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",30.6,155,"female",8.4,2789,5.17080235260418,70.859112812666,"Fall",186438
+8,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",18.5,138,"male",8.6,2462,5.2678844008393,75.3403159913341,"Summer",186439
+8,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",23.4,154,"female",8.6,2462,5.2678844008393,75.3403159913341,"Summer",186440
+8,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",16.9,132,"female",8.6,2462,5.2678844008393,75.3403159913341,"Summer",186441
+8,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",10,108,"female",8.6,2462,5.2678844008393,75.3403159913341,"Summer",186442
+8,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",20.2,140,"female",8.6,2462,5.2678844008393,75.3403159913341,"Summer",186443
+8,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",10,107,"female",8.6,2462,5.2678844008393,75.3403159913341,"Summer",186444
+9,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",28.1,159,"male",8.7,2725,5.19927151074304,72.0204342564401,"Fall",186445
+9,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",18.7,136,"male",8.7,2725,5.19927151074304,72.0204342564401,"Fall",186446
+9,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",15.4,124,"female",8.7,2725,5.19927151074304,72.0204342564401,"Fall",186447
+5,-122.1106,44.1309,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",28.9,140,"female",8.1,2593,5.12169331610576,71.5029618046248,"Spring",186448
+5,-122.1519,44.1495,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",11.5,111,"female",9.6,2388,5.39266477108798,72.243772115691,"Spring",186449
+7,-122.8441182,39.7275109,"unknown",1949,"Clethrionomys californicus","Myodes_californicus",19.5,125,"male",9.7,798,7.36508450032786,174.384818165408,"Summer",186450
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.7,154,"female",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186451
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.2,155,"male",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186452
+7,-123.6334,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.1,154,"male",10.8,924,5.60208294595263,89.8436469295666,"Summer",186453
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.8,154,"female",10.8,882,5.54674351636739,85.2141696719934,"Summer",186454
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20.8,147,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186455
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.5,154,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186456
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.1,143,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186457
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",13,114,"female",10.8,882,5.54674351636739,85.2141696719934,"Summer",186458
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.7,143,"female",10.8,882,5.54674351636739,85.2141696719934,"Summer",186459
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",18,133,"female",10.8,882,5.54674351636739,85.2141696719934,"Summer",186460
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.1,147,"female",10.8,882,5.54674351636739,85.2141696719934,"Summer",186461
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.6,157,"male",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186462
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.8,159,"female",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186463
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26,159,"male",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186464
+7,-123.4957,42.89,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.1,148,"male",11.3,732,5.99143327821255,86.3104875463162,"Summer",186465
+7,-123.4957,42.89,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.2,145,"female",11.3,732,5.99143327821255,86.3104875463162,"Summer",186466
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.5,154,"female",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186467
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",29.7,160,"female",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186468
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",31.9,161,"male",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186469
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.8,143,"female",10.8,882,5.54674351636739,85.2141696719934,"Summer",186470
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",16.9,127,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186471
+7,-123.5147,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",18.1,137,"female",11.1,834,5.6462913545624,86.0615290084683,"Summer",186472
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",19.1,147,"female",11.2,829,5.59550685547761,88.5718962167454,"Summer",186473
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.5,142,"male",11.2,829,5.59550685547761,88.5718962167454,"Summer",186474
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.4,156,"male",11.2,829,5.59550685547761,88.5718962167454,"Summer",186475
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.8,149,"male",11.2,829,5.59550685547761,88.5718962167454,"Summer",186476
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",16.9,131,"female",11.2,829,5.59550685547761,88.5718962167454,"Summer",186477
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",29.5,157,"male",11.2,829,5.59550685547761,88.5718962167454,"Summer",186478
+7,-123.5147,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.7,145,"male",11.1,834,5.6462913545624,86.0615290084683,"Summer",186479
+7,-123.4957,42.89,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",19.6,139,"female",11.3,732,5.99143327821255,86.3104875463162,"Summer",186480
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.5,157,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186481
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",14.8,121,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186482
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.5,149,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186483
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22,142,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186484
+7,-123.5147,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20,139,"male",11.1,834,5.6462913545624,86.0615290084683,"Summer",186485
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.6,146,"male",11.2,829,5.59550685547761,88.5718962167454,"Summer",186486
+7,-123.5147,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.2,144,"male",11.1,834,5.6462913545624,86.0615290084683,"Summer",186487
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.8,147,"male",11.2,829,5.59550685547761,88.5718962167454,"Summer",186488
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",29.25,146,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186489
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",27.2,157,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186490
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.8,148,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186491
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20.5,137,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186492
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",12.3,115,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186493
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",18,132,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186494
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.8,142,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186495
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.1,145,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186496
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.7,157,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186497
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.4,148,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186498
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20.4,152,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186499
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.7,147,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186500
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.7,147,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186501
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25,147,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186502
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22,154,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186503
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.8,148,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186504
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.6,150,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186505
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.9,148,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186506
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.2,147,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186507
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.9,144,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186508
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.7,145,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186509
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.5,140,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186510
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.8,146,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186511
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.1,151,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186512
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",19.4,145,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186513
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.7,155,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186514
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.15,153,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186515
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20.75,145,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186516
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.5,150,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186517
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.3,150,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186518
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.05,160,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186519
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.75,155,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186520
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.5,155,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186521
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.5,148,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186522
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.1,151,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186523
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.25,141,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186524
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.1,154,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186525
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.2,146,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186526
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.9,151,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186527
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.3,143,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186528
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",13.6,119,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186529
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",12.8,124,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186530
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",14.4,129,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186531
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.3,145,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186532
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.75,141,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186533
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.85,147,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186534
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.25,148,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186535
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21,143,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186536
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.9,144,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186537
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.3,140,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186538
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.9,147,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186539
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.4,143,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186540
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25,147,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186541
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.6,136,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186542
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.1,143,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186543
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",27,153,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186544
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.1,144,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186545
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",16,122,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186546
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",17.4,127,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186547
+5,-123.2157,43.7601,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.1,144,"female",11.5,1207,5.24410202614385,100.571210295512,"Spring",186548
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.4,146,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186549
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.1,150,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186550
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",27.1,153,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186551
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.9,144,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186552
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.5,156,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186553
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.5,142,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186554
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.8,150,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186555
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.5,145,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186556
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.3,162,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186557
+7,-123.1558,43.7174,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.6,145,"male",11.4,1249,5.39485585506876,99.7020170312897,"Summer",186558
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25,152,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186559
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.6,153,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186560
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.5,160,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186561
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",27.4,158,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186562
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.9,152,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186563
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.7,160,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186564
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",21.5,143,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186565
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.8,153,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186566
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",21.6,147,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186567
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.8,148,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186568
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",31.4,158,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186569
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.2,146,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186570
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",19.8,140,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186571
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",27.7,157,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186572
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.5,149,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186573
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.7,145,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186574
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.7,154,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186575
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",21.8,146,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186576
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.1,149,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186577
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.8,151,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186578
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.9,151,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186579
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.5,142,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186580
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.4,146,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186581
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.3,153,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186582
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.2,147,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186583
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.9,155,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186584
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.6,149,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186585
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.1,138,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186586
+8,-123.6334,43.3967,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",18.3,131,"male",11.1,1191,5.18549112252814,110.163233483628,"Summer",186587
+8,-123.6334,43.3967,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.2,131,"female",11.1,1191,5.18549112252814,110.163233483628,"Summer",186588
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.2,146,"male",11.5,1070,5.17888340603777,110.383031531853,"Summer",186589
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",28,155,"male",11.5,1070,5.17888340603777,110.383031531853,"Summer",186590
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.75,139,"female",11.5,1070,5.17888340603777,110.383031531853,"Summer",186591
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.8,143,"female",11.5,1070,5.17888340603777,110.383031531853,"Summer",186592
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",27.25,145,"female",11.5,1070,5.17888340603777,110.383031531853,"Summer",186593
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.8,155,"male",11.5,1070,5.17888340603777,110.383031531853,"Summer",186594
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.2,146,"female",11.5,1070,5.17888340603777,110.383031531853,"Summer",186595
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.7,151,"female",11.5,1070,5.17888340603777,110.383031531853,"Summer",186596
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.4,143,"female",11.5,1070,5.17888340603777,110.383031531853,"Summer",186597
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.5,133,"female",11.1,1330,5.23215582197764,111.800572080325,"Summer",186598
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",29.6,148,"male",11.1,1330,5.23215582197764,111.800572080325,"Summer",186599
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.4,129,"male",11.1,1330,5.23215582197764,111.800572080325,"Summer",186600
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.6,128,"female",11.1,1330,5.23215582197764,111.800572080325,"Summer",186601
+8,-123.4751,43.4259,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.9,147,"female",11.2,1141,5.23075838988319,106.659187097821,"Summer",186602
+8,-123.4751,43.4259,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.7,142,"male",11.2,1141,5.23075838988319,106.659187097821,"Summer",186603
+8,-123.4751,43.4259,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.4,146,"male",11.2,1141,5.23075838988319,106.659187097821,"Summer",186604
+8,-123.4751,43.4259,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.5,145,"female",11.2,1141,5.23075838988319,106.659187097821,"Summer",186605
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",9.4,97,"female",11.1,1330,5.23215582197764,111.800572080325,"Summer",186606
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",8.7,91,"female",11.1,1330,5.23215582197764,111.800572080325,"Summer",186607
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",19,123,"male",11.1,1330,5.23215582197764,111.800572080325,"Summer",186608
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",10.2,117,"female",11.1,1330,5.23215582197764,111.800572080325,"Summer",186609
+8,-123.4751,43.4259,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",28.8,155,"male",11.2,1141,5.23075838988319,106.659187097821,"Summer",186610
+8,-123.4751,43.4259,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.5,142,"male",11.2,1141,5.23075838988319,106.659187097821,"Summer",186611
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",30,165,"female",11.1,1330,5.23215582197764,111.800572080325,"Summer",186612
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",19.9,154,"male",11.1,1330,5.23215582197764,111.800572080325,"Summer",186613
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",19.2,132,"female",11.1,1330,5.23215582197764,111.800572080325,"Summer",186614
+7,-121.62932,40.34688,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",29,145,"male",9.5,1822,7.25840682911682,101.633573172205,"Summer",186615
+7,-121.62932,40.34688,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",20,128,"male",9.5,1822,7.25840682911682,101.633573172205,"Summer",186616
+7,-121.53831,40.3689,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",21.25,143,"female",8.5,2137,7.20284034884219,103.461511459309,"Summer",186617
+7,-121.55757,40.35804,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",24.5,134,"male",8.9,2003,7.21418531068961,102.792262822803,"Summer",186618
+7,-121.55757,40.35804,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",26.5,134,"male",8.9,2003,7.21418531068961,102.792262822803,"Summer",186619
+7,-121.55757,40.35804,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",21.5,138,"female",8.9,2003,7.21418531068961,102.792262822803,"Summer",186620
+7,-121.53831,40.3689,NA,2006,"Clethrionomys californicus mazama","Myodes_californicus",17,115,"male",8.5,2137,7.20284034884219,103.461511459309,"Summer",186621
+11,-122.7118,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",21.5,151,"female",11.1,2347,5.88740309062622,84.2757302936615,"Fall",186622
+11,-122.3115,43.191,NA,1996,"Clethrionomys californicus","Myodes_californicus",18.5,137,"female",6,2365,6.35973960778174,85.4349611990048,"Fall",186623
+11,-122.3115,43.191,NA,1996,"Clethrionomys californicus","Myodes_californicus",17.5,130,"female",6,2365,6.35973960778174,85.4349611990048,"Fall",186624
+11,-122.3115,43.191,NA,1996,"Clethrionomys californicus","Myodes_californicus",21,153,"female",6,2365,6.35973960778174,85.4349611990048,"Fall",186625
+11,-122.3115,43.191,NA,1996,"Clethrionomys californicus","Myodes_californicus",11.5,115,"female",6,2365,6.35973960778174,85.4349611990048,"Fall",186626
+11,-122.7118,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",13.5,125,"male",11.1,2347,5.88740309062622,84.2757302936615,"Fall",186627
+10,-122.7118,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",18,137,"female",11.1,2347,5.88740309062622,84.2757302936615,"Fall",186628
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",13.5,127,"female",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186629
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",22.5,139,"female",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186630
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",18,138,"male",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186631
+10,-122.6922,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",25,155,"female",11.1,2374,5.92421839877326,84.4008227341018,"Fall",186632
+11,-122.47,43.21,NA,1996,"Clethrionomys californicus","Myodes_californicus",17.5,134,"male",9.1,2204,6.04911087881867,85.5439212215744,"Fall",186633
+10,-122.7118,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",27,161,"male",11.1,2347,5.88740309062622,84.2757302936615,"Fall",186634
+10,-122.7118,43.731,NA,1996,"Clethrionomys californicus","Myodes_californicus",24.5,143,"female",11.1,2347,5.88740309062622,84.2757302936615,"Fall",186635
+10,-122.7118,43.7453,NA,1996,"Clethrionomys californicus","Myodes_californicus",17.5,138,"male",11.1,2361,5.88593598540134,84.3142624023069,"Fall",186636
+11,-122.7118,43.7453,NA,1996,"Clethrionomys californicus","Myodes_californicus",16.5,131,"female",11.1,2361,5.88593598540134,84.3142624023069,"Fall",186637
+11,-122.3115,43.191,NA,1996,"Clethrionomys californicus","Myodes_californicus",14.7,131,"male",6,2365,6.35973960778174,85.4349611990048,"Fall",186638
+3,-123.2953,45.8734,"unknown",1961,"Clethrionomys californicus","Myodes_californicus",20.45,151,"male",9.8,1778,5.2420430322075,89.5470822414732,"Spring",186639
+5,-124.0049,43.2139,"unknown",1986,"Clethrionomys californicus","Myodes_californicus",26.7,155,"female",12,1912,3.52019068009709,83.3999896806542,"Spring",186640
+5,-124.0049,43.2139,"unknown",1986,"Clethrionomys californicus","Myodes_californicus",24.3,151,"female",12,1912,3.52019068009709,83.3999896806542,"Spring",186641
+5,-123.3951,43.7459,"unknown",1991,"Clethrionomys californicus","Myodes_californicus",18.2,144,"female",11.8,1140,5.64390258275569,80.730971650704,"Spring",186642
+5,-122.1767,44.2619,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",24.2,140,"female",9.3,2683,5.24436205208349,73.8408683368442,"Spring",186643
+8,-122.1567,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",17.5,128,"male",8.9,2731,5.14448071414228,72.309180166213,"Summer",186644
+9,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",30,153,"female",8.7,2725,5.19927151074304,72.0204342564401,"Fall",186645
+9,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",27.5,157,"male",8.7,2725,5.19927151074304,72.0204342564401,"Fall",186646
+8,-122.1567,44.2472,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",22.1,151,"female",9,2756,5.14283850405473,72.918431544153,"Summer",186647
+8,-122.1567,44.2472,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",22.5,135,"female",9,2756,5.14283850405473,72.918431544153,"Summer",186648
+5,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",22.1,126,"female",8.6,2462,5.2678844008393,75.3403159913341,"Spring",186649
+5,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",21.2,127,"male",8.6,2462,5.2678844008393,75.3403159913341,"Spring",186650
+5,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",23,131,"female",8.6,2462,5.2678844008393,75.3403159913341,"Spring",186651
+5,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",16.3,124,"female",8.6,2462,5.2678844008393,75.3403159913341,"Spring",186652
+8,-122.1767,44.2472,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",29.9,154,"male",9.5,2671,5.25964482036227,74.6499253537173,"Summer",186653
+8,-122.0516,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",23.6,143,"male",8.9,2425,5.32867457509583,73.5133345694533,"Summer",186654
+9,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",5.9,111,"female",8.7,2725,5.19927151074304,72.0204342564401,"Fall",186655
+9,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",10.6,96,"male",8.6,2462,5.2678844008393,75.3403159913341,"Fall",186656
+5,-122.2521,44.2072,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",12.1,105,"female",10,2663,5.49867063824328,76.5405936726036,"Spring",186657
+5,-122.1567,44.2325,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",28.4,153,"male",9,2744,5.13546049984367,72.7746514186689,"Spring",186658
+5,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",20.05,126,"female",8.6,2462,5.2678844008393,75.3403159913341,"Spring",186659
+5,-122.1719,44.1495,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",24.3,142,"male",9.9,2381,5.38451061336632,72.5360422493168,"Spring",186660
+5,-122.0568,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",19.3,142,"male",8.9,2500,5.51962751268488,74.8453298395493,"Spring",186661
+5,-122.0568,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",21.6,138,"female",8.9,2500,5.51962751268488,74.8453298395493,"Spring",186662
+5,-122.2366,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",24.1,148,"female",9.8,2677,5.41854279863194,76.0612915427372,"Spring",186663
+8,-122.2021,44.2072,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",21.8,149,"male",9.5,2667,5.27004111305911,74.334674841531,"Summer",186664
+8,-122.1519,44.1495,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",24.3,147,"male",9.6,2388,5.39266477108798,72.243772115691,"Summer",186665
+8,-122.1519,44.1495,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",20.2,140,"male",9.6,2388,5.39266477108798,72.243772115691,"Summer",186666
+8,-122.1519,44.1495,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",20.9,145,"female",9.6,2388,5.39266477108798,72.243772115691,"Summer",186667
+8,-122.1767,44.2619,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",21.3,153,"female",9.3,2683,5.24436205208349,73.8408683368442,"Summer",186668
+9,-122.2366,44.2178,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",29,159,"male",9.8,2677,5.41854279863194,76.0612915427372,"Fall",186669
+9,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",24.1,146,"female",8.6,2462,5.2678844008393,75.3403159913341,"Fall",186670
+8,-122.2021,44.2072,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",27.1,154,"female",9.5,2667,5.27004111305911,74.334674841531,"Summer",186671
+9,-122.1567,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",13.2,119,"female",8.4,2789,5.17080235260418,70.859112812666,"Fall",186672
+8,-122.1567,44.2325,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",18.9,140,"male",9,2744,5.13546049984367,72.7746514186689,"Summer",186673
+8,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",11.6,112,"male",8.6,2462,5.2678844008393,75.3403159913341,"Summer",186674
+8,-121.9915,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",16.4,127,"male",8.6,2462,5.2678844008393,75.3403159913341,"Summer",186675
+9,-122.1767,44.2914,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",19.4,140,"female",8.7,2725,5.19927151074304,72.0204342564401,"Fall",186676
+8,-122.0516,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",23,138,"female",8.9,2425,5.32867457509583,73.5133345694533,"Summer",186677
+8,-122.0516,44.1351,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",29,149,"female",8.9,2425,5.32867457509583,73.5133345694533,"Summer",186678
+5,-122.2321,44.2072,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",26.1,160,"male",9.8,2660,5.41854279863194,75.7772948624682,"Spring",186679
+5,-122.2321,44.2072,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",11.5,109,"female",9.8,2660,5.41854279863194,75.7772948624682,"Spring",186680
+10,-121.8612,44.4016,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",17,138,"male",5.3,2895,5.58960073383031,76.4220487556156,"Fall",186681
+10,-121.8612,44.4016,"unknown",1983,"Clethrionomys californicus","Myodes_californicus",18,140,"male",5.3,2895,5.58960073383031,76.4220487556156,"Fall",186682
+7,-122.8441182,39.7275109,"unknown",1949,"Clethrionomys californicus","Myodes_californicus",21.5,130,"male",9.7,798,7.36508450032786,174.384818165408,"Summer",186683
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",28,168,"male",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186684
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.8,159,"male",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186685
+7,-123.6334,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",17.1,119,"male",10.8,924,5.60208294595263,89.8436469295666,"Summer",186686
+7,-123.6334,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.8,157,"male",10.8,924,5.60208294595263,89.8436469295666,"Summer",186687
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",18.8,137,"female",10.8,882,5.54674351636739,85.2141696719934,"Summer",186688
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",15.3,123,"female",10.8,882,5.54674351636739,85.2141696719934,"Summer",186689
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.9,150,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186690
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25,147,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186691
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.1,148,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186692
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",19,134,"female",10.8,882,5.54674351636739,85.2141696719934,"Summer",186693
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",19.3,144,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186694
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",28,164,"female",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186695
+7,-123.673,43.4551,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",30.5,161,"male",10.8,1015,5.64759938273589,91.7954719525923,"Summer",186696
+7,-123.6334,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",10.7,106,"male",10.8,924,5.60208294595263,89.8436469295666,"Summer",186697
+7,-123.6334,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.7,145,"female",10.8,924,5.60208294595263,89.8436469295666,"Summer",186698
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",19.1,132,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186699
+7,-123.4751,43.4259,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.4,146,"male",10.8,882,5.54674351636739,85.2141696719934,"Summer",186700
+7,-123.6334,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.9,144,"female",10.8,924,5.60208294595263,89.8436469295666,"Summer",186701
+7,-123.5147,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",18.7,143,"female",11.1,834,5.6462913545624,86.0615290084683,"Summer",186702
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.8,153,"male",11.2,829,5.59550685547761,88.5718962167454,"Summer",186703
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.3,149,"female",11.2,829,5.59550685547761,88.5718962167454,"Summer",186704
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.9,146,"male",11.2,829,5.59550685547761,88.5718962167454,"Summer",186705
+7,-123.5147,43.3967,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.8,142,"male",11.1,834,5.6462913545624,86.0615290084683,"Summer",186706
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.1,150,"female",11.2,829,5.59550685547761,88.5718962167454,"Summer",186707
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.1,146,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186708
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20,137,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186709
+7,-123.5741,43.4113,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",29.1,148,"female",11.2,829,5.59550685547761,88.5718962167454,"Summer",186710
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.4,149,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186711
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.5,150,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186712
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.2,145,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186713
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.7,143,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186714
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",18,127,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186715
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.3,137,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186716
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",18.5,139,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186717
+7,-123.1224,42.9047,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.8,150,"male",10.9,803,6.09542799352453,83.7658252940639,"Summer",186718
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24,147,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186719
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20.4,139,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186720
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22,141,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186721
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.9,144,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186722
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22,141,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186723
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20.4,143,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186724
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.7,158,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186725
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.3,148,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186726
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",27.9,157,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186727
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.9,106,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186728
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.5,154,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186729
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.4,150,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186730
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.3,144,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186731
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",19.4,136,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186732
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22,149,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186733
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",25.8,150,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186734
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",29.3,166,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186735
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22,145,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186736
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",28.1,154,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186737
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",17.15,108,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186738
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",18.1,138,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186739
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.4,158,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186740
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.4,156,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186741
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.2,152,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186742
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.4,145,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186743
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.55,140,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186744
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.9,164,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186745
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.2,148,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186746
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.3,141,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186747
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.1,150,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186748
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",14,122,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186749
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",28,149,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186750
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23,146,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186751
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.95,151,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186752
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",26.35,153,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186753
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",17.2,128,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186754
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.85,143,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186755
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.35,150,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186756
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",27.3,144,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186757
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",28,159,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186758
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.15,143,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186759
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.35,150,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186760
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.05,145,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186761
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",15,128,"female",11.3,995,5.81400477426288,83.2223698472667,"Summer",186762
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.85,146,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186763
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.45,148,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186764
+7,-123.3951,43.7459,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.6,151,"male",11.3,995,5.81400477426288,83.2223698472667,"Summer",186765
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.6,150,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186766
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20.5,132,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186767
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",21.75,142,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186768
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",15.7,120,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186769
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",23.4,143,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186770
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",15.3,135,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186771
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",22.7,142,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186772
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",20.2,135,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186773
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.4,144,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186774
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",12.3,100,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186775
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",13.2,121,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186776
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",24.8,147,"male",10.6,742,5.95060475663583,89.484425384111,"Summer",186777
+7,-123.201,42.8753,"unknown",1989,"Clethrionomys californicus","Myodes_californicus",16.7,133,"female",10.6,742,5.95060475663583,89.484425384111,"Summer",186778
+5,-123.2157,43.7601,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",19.6,125,"female",11.5,1207,5.24410202614385,100.571210295512,"Spring",186779
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",19.7,140,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186780
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.9,141,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186781
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.3,162,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186782
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.9,144,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186783
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.2,150,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186784
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25,156,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186785
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.5,158,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186786
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23,149,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186787
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.8,154,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186788
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.4,154,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186789
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.5,151,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186790
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.1,154,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186791
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.9,153,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186792
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.4,148,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186793
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",21.9,138,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186794
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.1,154,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186795
+7,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26,152,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186796
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.1,140,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186797
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.2,158,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186798
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",21.4,150,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186799
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.4,147,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186800
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25,143,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186801
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25,135,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186802
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.2,144,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186803
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.9,143,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186804
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",30.1,152,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186805
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",22.3,146,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186806
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",21.3,145,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186807
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.7,150,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186808
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.5,152,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186809
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.3,143,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186810
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",29.9,161,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186811
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",28.8,152,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186812
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",21.5,147,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186813
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.5,151,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186814
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.8,149,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186815
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.9,152,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186816
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.4,156,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186817
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",28.2,153,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186818
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.1,150,"male",11.7,1293,5.49403946991371,104.539868183924,"Summer",186819
+8,-123.3951,43.7459,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.6,141,"female",11.7,1293,5.49403946991371,104.539868183924,"Summer",186820
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",30.7,145,"male",11.5,1070,5.17888340603777,110.383031531853,"Summer",186821
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",21.8,116,"female",11.5,1070,5.17888340603777,110.383031531853,"Summer",186822
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",25.9,144,"male",11.5,1070,5.17888340603777,110.383031531853,"Summer",186823
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",12.5,128,"female",11.5,1070,5.17888340603777,110.383031531853,"Summer",186824
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",20.8,146,"female",11.5,1070,5.17888340603777,110.383031531853,"Summer",186825
+8,-123.5147,43.3967,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",19.9,136,"female",11.5,1075,5.31181501822859,108.398225668999,"Summer",186826
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",24.9,148,"male",11.5,1070,5.17888340603777,110.383031531853,"Summer",186827
+8,-123.5741,43.4113,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26.9,158,"male",11.5,1070,5.17888340603777,110.383031531853,"Summer",186828
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",30.2,152,"male",11.1,1330,5.23215582197764,111.800572080325,"Summer",186829
+8,-123.4751,43.4259,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.9,144,"female",11.2,1141,5.23075838988319,106.659187097821,"Summer",186830
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.4,151,"female",11.1,1330,5.23215582197764,111.800572080325,"Summer",186831
+8,-123.673,43.4551,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",26,148,"male",11.1,1330,5.23215582197764,111.800572080325,"Summer",186832
+8,-123.4751,43.4259,"unknown",1988,"Clethrionomys californicus","Myodes_californicus",23.5,151,"female",11.2,1141,5.23075838988319,106.659187097821,"Summer",186833
+9,-121.51053,40.4705,NA,2007,"Clethrionomys californicus mazama","Myodes_californicus",13.5,128,"male",6.4,1741,7.122366605322,129.446465122382,"Fall",186834
+10,-122.7118,43.7453,NA,1996,"Clethrionomys californicus","Myodes_californicus",29.5,161,"male",11.1,2361,5.88593598540134,84.3142624023069,"Fall",186835

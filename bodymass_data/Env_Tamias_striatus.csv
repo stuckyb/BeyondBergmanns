@@ -1,0 +1,210 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+10,-83.572666,35.696758,NA,1932,"Tamias striatus","Tamias_striatus",78.01,228,"male",11.8,1794,6.76687564985541,39.5613440004681,"Fall",152388
+10,-83.572666,35.696758,NA,1932,"Tamias striatus","Tamias_striatus",79.56,214,"female",11.8,1794,6.76687564985541,39.5613440004681,"Fall",152389
+12,-83.382936,35.707039,NA,1932,"Tamias striatus","Tamias_striatus",71.48,208,"female",13.3,1605,6.86466578673983,43.5172000856432,"Winter",152390
+5,-78.469102,38.491772,NA,1934,"Tamias striatus","Tamias_striatus",89.95,198,"male",9.7,1255,9.74878391794525,49.8670996519749,"Spring",152391
+8,-76.476678,42.451405,"adult",1949,"Tamias striatus lysteri","Tamias_striatus",92,237,"male",10.1,764,9.47824862354311,37.8020450624792,"Summer",152392
+4,-76.3652,42.4502,NA,1968,"Tamias striatus","Tamias_striatus",87.1,258,"male",7,1056,10.6928891693442,50.1798997894379,"Spring",152393
+5,-76.451,42.4465,"adult",1939,"Tamias striatus lysteri","Tamias_striatus",93,241,"female",8.5,732,10.2502180316796,31.2532522555778,"Spring",152394
+6,-75.627724,44.113591,NA,1991,"Tamias striatus","Tamias_striatus",98.2,208,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",152395
+6,-75.627724,44.113591,NA,1991,"Tamias striatus","Tamias_striatus",61.6,210,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",152396
+6,-75.627724,44.113591,NA,1991,"Tamias striatus","Tamias_striatus",100.5,240,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",152397
+6,-75.627724,44.113591,NA,1991,"Tamias striatus","Tamias_striatus",93.5,245,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",152398
+6,-75.627724,44.113591,NA,1991,"Tamias striatus","Tamias_striatus",55,202,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",152399
+6,-75.627724,44.113591,"adult",1991,"Tamias striatus","Tamias_striatus",108.5,227,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",152400
+6,-75.469299,44.151524,"adult",1991,"Tamias striatus","Tamias_striatus",94,236,"female",7.4,958,10.1296556823233,27.7730995676294,"Summer",152401
+7,-75.627724,44.113591,"adult",1991,"Tamias striatus","Tamias_striatus",91,247,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",152402
+7,-75.469299,44.151524,NA,1991,"Tamias striatus","Tamias_striatus",63,210,"female",7.4,958,10.1296556823233,27.7730995676294,"Summer",152403
+6,-75.627724,44.113591,NA,1991,"Tamias striatus","Tamias_striatus",108.4,257,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",152404
+6,-75.469299,44.151524,NA,1991,"Tamias striatus","Tamias_striatus",89.7,187,"female",7.4,958,10.1296556823233,27.7730995676294,"Summer",152405
+10,-86.8949,40.389,"adult",1949,"Tamias striatus griseus","Tamias_striatus",9.1,244,"female",11.7,960,9.34315500537936,46.5393284320809,"Fall",152406
+7,-76.451,42.4465,"adult",1938,"Tamias striatus lysteri","Tamias_striatus",87,242,"male",8.9,841,9.45140682169014,50.2071592853632,"Summer",152407
+5,-76.3857,42.3443,NA,1995,"Tamias striatus","Tamias_striatus",39,184,"male",7.9,855,10.5385403796414,53.768654830872,"Spring",152408
+4,-76.46632,42.44127,"adult",1950,"Tamias striatus","Tamias_striatus",83.8,186,"male",8.1,998,9.40136595491218,23.572450424902,"Spring",152409
+9,-76.3857,42.3443,NA,1995,"Tamias striatus","Tamias_striatus",76.6,227,"female",7.9,855,10.5385403796414,53.768654830872,"Fall",152410
+10,-76.3857,42.3443,"adult",1995,"Tamias striatus","Tamias_striatus",74.9,214,"male",7.9,855,10.5385403796414,53.768654830872,"Fall",152411
+8,-76.3857,42.3443,NA,1995,"Tamias striatus","Tamias_striatus",54.2,213,"female",7.9,855,10.5385403796414,53.768654830872,"Summer",152412
+5,-76.3857,42.3443,NA,1997,"Tamias striatus","Tamias_striatus",53.3,182,"male",7,813,9.07505321797569,42.4560816284044,"Spring",152413
+10,-76.3857,42.3443,NA,1997,"Tamias striatus","Tamias_striatus",79,230,"female",7,813,9.07505321797569,42.4560816284044,"Fall",152414
+2,-76.3857,42.3443,NA,1996,"Tamias striatus","Tamias_striatus",61,195,"male",7.2,1251,10.1307923947465,31.8512634334971,"Winter",152415
+6,-76.3652,42.4502,NA,1941,"Tamias striatus lysteri","Tamias_striatus",76.4,246,"female",7.8,796,10.6399618363408,45.2797094850359,"Summer",152416
+10,-76.507442,42.255907,NA,1926,"Tamias striatus lysteri","Tamias_striatus",39.5,NA,"male",6.2,934,10.1384357170068,33.3126557973646,"Fall",152417
+7,-78.62,46.0233,"juvenile",1993,"Tamias striatus","Tamias_striatus",68,240,"female",3.1,877,11.725651755485,38.8088132706512,"Summer",152418
+7,-78.3333,48.47,"adult",1993,"Tamias striatus","Tamias_striatus",90,258,"male",0.7,890,13.2716603971383,47.582789320604,"Summer",152419
+7,-78.3333,48.47,"juvenile",1993,"Tamias striatus","Tamias_striatus",62,241,"male",0.7,890,13.2716603971383,47.582789320604,"Summer",152420
+7,-78.9362,48.5348,"juvenile",1993,"Tamias striatus","Tamias_striatus",60,232,"female",0.7,871,13.3539461878457,52.6705833977314,"Summer",152421
+7,-78.9362,48.5348,"juvenile",1993,"Tamias striatus","Tamias_striatus",68,237,"male",0.7,871,13.3539461878457,52.6705833977314,"Summer",152422
+8,-73.49241,40.87136,NA,1969,"Tamias striatus fisheri","Tamias_striatus",84,250,"undetermined",10.7,1286,9.32137897848843,46.7578603113018,"Summer",152423
+5,-71.5092,41.8876,"unknown",1928,"Tamias striatus","Tamias_striatus",80.3,227,"female",8.8,1056,8.63938742918242,33.8281887798211,"Spring",152424
+9,-85.5872,42.2917,"unknown",1987,"Tamias striatus","Tamias_striatus",47.2,182,"male",10.3,918,9.72096687422074,65.7106729074355,"Fall",152425
+8,-86.9497,41.1568,"unknown",1966,"Tamias striatus","Tamias_striatus",102.2,226,"male",9.4,963,10.177336676075,52.2156534866785,"Summer",152426
+7,-94.94405,47.36504,"unknown",1967,"Tamias striatus","Tamias_striatus",50,208,"male",2.5,535,12.845241425241,101.278184143367,"Summer",152427
+5,-94.9227,47.27095,"unknown",1967,"Tamias striatus","Tamias_striatus",111,220,"male",2.6,540,12.7464433541996,101.106521349363,"Spring",152428
+8,-94.94405,47.35056,"unknown",1967,"Tamias striatus","Tamias_striatus",91,256,"male",2.5,536,12.8484405373736,101.46927012195,"Summer",152429
+4,-86.9086,40.4267,"unknown",1965,"Tamias striatus","Tamias_striatus",126,207,"female",10.8,942,9.84978080051439,38.7961581796183,"Spring",152430
+10,-86.9311,40.4179,"unknown",1966,"Tamias striatus","Tamias_striatus",78,219,"male",10.2,836,10.0666265301227,57.3220046836224,"Fall",152431
+2,-86.9919,40.482,"unknown",1968,"Tamias striatus","Tamias_striatus",171,235,"male",10.4,991,10.4026329709008,52.3289838156391,"Winter",152432
+10,-86.9497,41.1568,"unknown",1972,"Tamias striatus","Tamias_striatus",100.8,245,"female",9.1,1046,10.2282252081723,54.7076740482714,"Fall",152433
+6,-86.8911,41.7087,"unknown",1969,"Tamias striatus","Tamias_striatus",108,225,"male",9.5,909,10.1185997354407,59.7135085635065,"Summer",152434
+6,-78.14653,40.84004,"unknown",1967,"Tamias striatus","Tamias_striatus",88,230,"male",6.8,1125,8.81862268501188,44.7471549798183,"Summer",152435
+8,-85.3076,46.0815,"unknown",1961,"Tamias striatus","Tamias_striatus",91.2,237,"male",5.6,714,9.87581987390506,67.2655322745494,"Summer",152436
+10,-86.9497,41.1568,"unknown",1972,"Tamias striatus","Tamias_striatus",78.2,223,"female",9.1,1046,10.2282252081723,54.7076740482714,"Fall",152437
+5,-88.643714,42.63307,NA,1929,"Tamias striatus","Tamias_striatus",116,249,"male",6.9,839,11.7480462592335,63.1576007574315,"Spring",152438
+10,-83.572666,35.696758,NA,1932,"Tamias striatus","Tamias_striatus",112.37,228,"male",11.8,1794,6.76687564985541,39.5613440004681,"Fall",152439
+8,-76.46632,42.44127,"adult",1949,"Tamias striatus lysteri","Tamias_striatus",104.2,246,"female",9.9,777,9.47239610018436,37.6813549210693,"Summer",152440
+10,-76.39509,42.38263,NA,1967,"Tamias striatus","Tamias_striatus",64.5,204,"female",7.5,967,9.89516257694852,44.8164773484694,"Fall",152441
+5,-76.451,42.4465,"adult",1939,"Tamias striatus lysteri","Tamias_striatus",84,233,"female",8.5,732,10.2502180316796,31.2532522555778,"Spring",152442
+10,-78.864438,43.038597,"adult",1974,"Tamias striatus","Tamias_striatus",95.4,260,"male",8.7,878,9.33700685282478,30.64914674967,"Fall",152443
+6,-75.627724,44.113591,NA,1991,"Tamias striatus","Tamias_striatus",97.1,250,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",152444
+7,-75.469299,44.151524,"adult",1991,"Tamias striatus","Tamias_striatus",76,232,"female",7.4,958,10.1296556823233,27.7730995676294,"Summer",152445
+6,-75.627724,44.113591,"adult",1991,"Tamias striatus","Tamias_striatus",95.5,233,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",152446
+6,-75.627724,44.113591,NA,1991,"Tamias striatus","Tamias_striatus",61,211,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",152447
+6,-75.627724,44.113591,"adult",1991,"Tamias striatus","Tamias_striatus",87.5,241,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",152448
+6,-75.627724,44.113591,"adult",1991,"Tamias striatus","Tamias_striatus",82.5,214,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",152449
+6,-75.627724,44.113591,"adult",1991,"Tamias striatus","Tamias_striatus",92.5,232,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",152450
+6,-75.627724,44.113591,NA,1991,"Tamias striatus","Tamias_striatus",57.5,216,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",152451
+5,-76.3857,42.3443,NA,1995,"Tamias striatus","Tamias_striatus",59.7,124,"male",7.9,855,10.5385403796414,53.768654830872,"Spring",152452
+11,-76.3857,42.3443,NA,1994,"Tamias striatus","Tamias_striatus",86.5,241,"male",7.3,1138,10.7311038998367,52.24032112153,"Fall",152453
+8,-74.835438,41.981478,NA,1950,"Tamias striatus","Tamias_striatus",103.3,240,"male",6.4,1145,9.25321811342116,25.9402680658582,"Summer",152454
+10,-76.46632,42.44127,NA,1950,"Tamias striatus","Tamias_striatus",80,211,"female",8.1,998,9.40136595491218,23.572450424902,"Fall",152455
+11,-76.3857,42.3443,NA,1994,"Tamias striatus","Tamias_striatus",83.2,225,"male",7.3,1138,10.7311038998367,52.24032112153,"Fall",152456
+11,-76.3857,42.3443,NA,1993,"Tamias striatus","Tamias_striatus",68.4,216,"male",7.3,1018,10.343274787674,46.0859285389469,"Fall",152457
+10,-76.3857,42.3443,NA,1995,"Tamias striatus","Tamias_striatus",91.6,206,"male",7.9,855,10.5385403796414,53.768654830872,"Fall",152458
+5,-76.3857,42.3443,"larvae",1997,"Tamias striatus","Tamias_striatus",46.4,130,"male",7,813,9.07505321797569,42.4560816284044,"Spring",152459
+10,-76.3857,42.3443,NA,1996,"Tamias striatus","Tamias_striatus",72.2,194,"male",7.2,1251,10.1307923947465,31.8512634334971,"Fall",152460
+9,-76.3652,42.4502,"immature",1939,"Tamias striatus lysteri","Tamias_striatus",43,212,"female",7.7,785,10.3876675131444,32.095335486546,"Fall",152461
+5,-76.451,42.4465,"adult",1939,"Tamias striatus lysteri","Tamias_striatus",84,233,"female",8.5,732,10.2502180316796,31.2532522555778,"Spring",152462
+4,-76.38849,42.42766,NA,2010,"Tamias striatus","Tamias_striatus",99.1,243,"male",9.2,1033,10.1310952472618,47.3652892216942,"Spring",152463
+9,-76.453704,42.467523,NA,2010,"Tamias striatus","Tamias_striatus",104.8,248,"female",9.2,1025,10.1121401685241,48.2974935452532,"Fall",152464
+10,-76.655259,42.276659,NA,2012,"Tamias striatus","Tamias_striatus",94.5,247,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",152465
+6,-76.4636,42.4442,"juvenile",1954,"Tamias striatus","Tamias_striatus",62.6,212,"female",8.7,898,9.40816457158678,31.4202110420691,"Summer",152466
+6,-73.876053,44.227508,"immature",1954,"Tamias striatus","Tamias_striatus",86.8,241,"female",3.6,1426,10.0778635301999,22.4883142530704,"Summer",152467
+6,-73.876053,44.227508,"juvenile",1954,"Tamias striatus","Tamias_striatus",69,225,"male",3.6,1426,10.0778635301999,22.4883142530704,"Summer",152468
+4,-76.476678,42.451405,NA,1947,"Tamias striatus","Tamias_striatus",83.5,180,NA,8.8,977,10.36237366045,56.890098875183,"Spring",152469
+4,-81.536611,41.474075,NA,1943,"Tamias striatus fisheri","Tamias_striatus",14,247,"female",8.8,976,9.77281324838855,53.4037852717534,"Spring",152470
+4,-81.536611,41.474075,NA,1943,"Tamias striatus fisheri","Tamias_striatus",12,204,"female",8.8,976,9.77281324838855,53.4037852717534,"Spring",152471
+5,-76.451,42.4465,"immature",1939,"Tamias striatus lysteri","Tamias_striatus",26,170,"female",8.5,732,10.2502180316796,31.2532522555778,"Spring",152472
+7,-76.3652,42.4502,"adult",1949,"Tamias striatus lysteri","Tamias_striatus",103,NA,"female",9,850,9.61011146783649,37.275819438081,"Summer",152473
+6,-76.3652,42.4502,"adult",1949,"Tamias striatus","Tamias_striatus",101,224,"male",9,850,9.61011146783649,37.275819438081,"Summer",152474
+6,-76.3652,42.4502,NA,1949,"Tamias striatus","Tamias_striatus",87,196,"female",9,850,9.61011146783649,37.275819438081,"Summer",152475
+6,-74.195923,42.180206,NA,1952,"Tamias striatus lysteri","Tamias_striatus",95.1,238.5,"female",6.3,1399,9.00913257183896,31.4839380634625,"Summer",152476
+9,-89.40694,37.68,"adult",1954,"Tamias striatus","Tamias_striatus",115.4,261,"male",15.2,1067,9.30858189896275,46.3418914049823,"Fall",152477
+7,-78.9362,48.5348,"juvenile",1993,"Tamias striatus","Tamias_striatus",70,242,"undetermined",0.7,871,13.3539461878457,52.6705833977314,"Summer",152478
+7,-78.3333,48.47,"adult",1993,"Tamias striatus","Tamias_striatus",86,262,"female",0.7,890,13.2716603971383,47.582789320604,"Summer",152479
+7,-78.3333,48.47,"juvenile",1993,"Tamias striatus","Tamias_striatus",66,247,"male",0.7,890,13.2716603971383,47.582789320604,"Summer",152480
+7,-78.9362,48.5348,"juvenile",1993,"Tamias striatus","Tamias_striatus",51,218,"female",0.7,871,13.3539461878457,52.6705833977314,"Summer",152481
+7,-78.62,46.0233,"juvenile",1993,"Tamias striatus","Tamias_striatus",74,242,"undetermined",3.1,877,11.725651755485,38.8088132706512,"Summer",152482
+6,-74.3166666667,42.3833333333,NA,2000,"Tamias striatus","Tamias_striatus",95.4,217,"female",5.5,1246,9.26925105666662,30.5516122066841,"Summer",152483
+10,-84.0128,42.4563,"unknown",1951,"Tamias striatus","Tamias_striatus",57.5,216,"female",8.4,845,9.90137348905176,28.8599503565209,"Fall",152484
+5,-94.9227,47.38675,"unknown",1967,"Tamias striatus","Tamias_striatus",108,263,"female",2.5,532,12.8853305128057,101.49844293816,"Spring",152485
+7,-94.94405,47.3578,"unknown",1967,"Tamias striatus","Tamias_striatus",80,238,"male",2.5,535,12.845241425241,101.278184143367,"Summer",152486
+7,-94.94405,47.36504,"unknown",1967,"Tamias striatus","Tamias_striatus",89,254,"female",2.5,535,12.845241425241,101.278184143367,"Summer",152487
+8,-94.94405,47.37227,"unknown",1967,"Tamias striatus","Tamias_striatus",95,268,"male",2.5,534,12.8545800115261,101.26430959694,"Summer",152488
+10,-86.9229,40.4289,"unknown",1966,"Tamias striatus","Tamias_striatus",114.5,219,"male",10.1,837,10.0376412779219,57.5757114751399,"Fall",152489
+3,-85.7299,40.8384,"unknown",1968,"Tamias striatus","Tamias_striatus",103.3,244,"male",9.9,957,10.2969545365255,36.7690161322476,"Spring",152490
+10,-86.5222,41.4946,"unknown",1970,"Tamias striatus","Tamias_striatus",100,212,"male",9.5,1009,10.8619819331074,57.8257761179506,"Fall",152491
+6,-86.9083,40.4382,"unknown",1969,"Tamias striatus","Tamias_striatus",90,265,"female",10,952,10.4050104480602,54.3669430209685,"Summer",152492
+10,-86.9083,40.4382,"unknown",1966,"Tamias striatus","Tamias_striatus",130,230,"male",10.1,839,10.0592637841339,57.6270222024157,"Fall",152493
+5,-90.1842,38.91959,"unknown",1958,"Tamias striatus","Tamias_striatus",91.2,258,"female",11.4,899,10.4785892816416,66.3256375040815,"Spring",152494
+8,-97.5044,47.9375,"unknown",1961,"Tamias striatus","Tamias_striatus",101.4,278,"female",4.3,422,13.2799461481201,105.080355015543,"Summer",152495
+8,-87.979519,42.219469,NA,2012,"Tamias striatus","Tamias_striatus",89,263,"undetermined",11.5,702,9.62060604151634,45.7259510965394,"Summer",152496
+8,-87.979519,42.219469,NA,2012,"Tamias striatus","Tamias_striatus",105,233,"undetermined",11.5,702,9.62060604151634,45.7259510965394,"Summer",152497
+5,-76.5094764,42.4381028,"adult",1929,"Tamias striatus lysteri","Tamias_striatus",103,NA,"female",8.8,918,9.39623957665077,44.1432442829202,"Spring",152498
+6,-76.5094764,42.4381028,"immature",1946,"Tamias striatus lysteri","Tamias_striatus",50,NA,"female",10,854,8.7870902206279,55.5429434270567,"Summer",152499
+9,-76.5094764,42.4381028,NA,1972,"Tamias striatus","Tamias_striatus",102.7,232,"male",8.3,1079,9.85977441502347,55.9787894129809,"Fall",152500
+10,-76.5094764,42.4381028,NA,1952,"Tamias striatus","Tamias_striatus",87,268,"female",10,821,9.18590405639713,40.5512633587367,"Fall",152501
+6,-76.5094764,42.4381028,"immature",1951,"Tamias striatus","Tamias_striatus",31.8,177,"male",9.5,779,9.10498947464155,34.625484152143,"Summer",152502
+6,-76.5094764,42.4381028,NA,1948,"Tamias striatus","Tamias_striatus",60,225,"female",9.3,887,10.1178510114999,37.9049236006954,"Summer",152503
+5,-76.5094764,42.4381028,"adult",1946,"Tamias striatus lysteri","Tamias_striatus",74,242,"female",10,854,8.7870902206279,55.5429434270567,"Spring",152504
+5,-76.5094764,42.4381028,"adult",1946,"Tamias striatus lysteri","Tamias_striatus",100,NA,"male",10,854,8.7870902206279,55.5429434270567,"Spring",152505
+7,-76.5094764,42.4381028,"adult",1949,"Tamias striatus lysteri","Tamias_striatus",89,NA,"male",10.8,727,9.43864958882393,38.6913357749824,"Summer",152506
+7,-76.5094764,42.4381028,"Young",1949,"Tamias striatus lysteri","Tamias_striatus",65.5,NA,"female",10.8,727,9.43864958882393,38.6913357749824,"Summer",152507
+10,-76.5094764,42.4381028,NA,1939,"Tamias striatus lysteri","Tamias_striatus",86,225,"female",9.5,688,10.2050306964336,30.703559881706,"Fall",152508
+10,-76.5094764,42.4381028,NA,1939,"Tamias striatus lysteri","Tamias_striatus",77.5,230,"male",9.5,688,10.2050306964336,30.703559881706,"Fall",152509
+10,-76.5094764,42.4381028,NA,1949,"Tamias striatus","Tamias_striatus",88.7,254,NA,10.8,727,9.43864958882393,38.6913357749824,"Fall",152510
+6,-76.5094764,42.4381028,NA,1927,"Tamias striatus lysteri","Tamias_striatus",31,NA,"male",9,875,8.77372109302443,54.3418656962285,"Summer",152511
+11,-76.5094764,42.4381028,NA,1928,"Tamias striatus lysteri","Tamias_striatus",59,NA,"male",9.1,777,9.3288896347948,55.6508447102543,"Fall",152512
+7,-89.89,45.96,NA,1972,"Tamias striatus griseus","Tamias_striatus",109,260,"male",3.1,974,12.5085031684511,61.4863338472028,"Summer",152513
+7,-89.89,45.96,NA,1972,"Tamias striatus griseus","Tamias_striatus",122,245,"male",3.1,974,12.5085031684511,61.4863338472028,"Summer",152514
+6,-89.89,45.96,NA,1973,"Tamias striatus griseus","Tamias_striatus",71.7,229,"male",5.4,806,10.941192666693,58.2822598371807,"Summer",152515
+6,-89.89,45.96,NA,1973,"Tamias striatus griseus","Tamias_striatus",78.4,220,"male",5.4,806,10.941192666693,58.2822598371807,"Summer",152516
+9,-90.94,36.82,NA,1972,"Tamias striatus venustus","Tamias_striatus",105,219,"male",14.1,1329,9.0861991586975,45.7033204919011,"Fall",152517
+5,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",104,248,"female",13,1080,9.57497923092929,42.2833157152888,"Spring",152518
+5,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",105,250,"female",13,1080,9.57497923092929,42.2833157152888,"Spring",152519
+5,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",114,256,"male",13,1080,9.57497923092929,42.2833157152888,"Spring",152520
+5,-89.42,37.51,NA,1973,"Tamias striatus griseus","Tamias_striatus",71,222,"male",14.4,1437,9.14851784650819,47.165542726491,"Spring",152521
+5,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",82,203,"female",13,1080,9.57497923092929,42.2833157152888,"Spring",152522
+5,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",93,260,"female",13,1080,9.57497923092929,42.2833157152888,"Spring",152523
+6,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",124,195,"male",13,1080,9.57497923092929,42.2833157152888,"Summer",152524
+6,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",118,250,"male",13,1080,9.57497923092929,42.2833157152888,"Summer",152525
+6,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",105,261,"female",13,1080,9.57497923092929,42.2833157152888,"Summer",152526
+6,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",88,250,"male",13,1080,9.57497923092929,42.2833157152888,"Summer",152527
+7,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",90,254,"female",13,1080,9.57497923092929,42.2833157152888,"Summer",152528
+7,-75.7,39.26,NA,1968,"Tamias striatus fisheri","Tamias_striatus",82,217,"female",12.8,890,9.48189263168424,49.2579421916179,"Summer",152529
+10,-75.82,44.03,NA,1971,"Tamias striatus lysteri","Tamias_striatus",105,247,"male",7.1,928,11.0355486194993,28.5620409782789,"Fall",152530
+6,-75.9,43.96,NA,1972,"Tamias striatus lysteri","Tamias_striatus",116,250,"male",6.2,1247,10.5914917254227,32.1583293960175,"Summer",152531
+7,-75.9,43.96,NA,1972,"Tamias striatus lysteri","Tamias_striatus",104.9,243,"male",6.2,1247,10.5914917254227,32.1583293960175,"Summer",152532
+10,-95.19,39.04,NA,1994,"Tamias striatus griseus","Tamias_striatus",141.7,269,"male",13.5,841,9.91045896867027,68.8895670512225,"Fall",152533
+6,-93.08,35.72,NA,1995,"Tamias striatus venustus","Tamias_striatus",102,255,"female",14.1,1222,8.00925127965193,46.2588276331569,"Summer",152534
+6,-95.19,39.04,NA,1995,"Tamias striatus griseus","Tamias_striatus",77.8,235,"female",13,990,9.83817548988109,98.8111429609326,"Summer",152535
+5,-95.19,39.04,NA,1995,"Tamias striatus griseus","Tamias_striatus",108.8,254,"female",13,990,9.83817548988109,98.8111429609326,"Spring",152536
+9,-95.19,39.04,NA,1996,"Tamias striatus griseus","Tamias_striatus",115.9,245,"female",12.2,1175,10.3515004036159,82.8435637831031,"Fall",152537
+7,-95.19,39.04,NA,1998,"Tamias striatus griseus","Tamias_striatus",84.5,234,"female",13.9,1238,9.75420266843834,70.4681804134682,"Summer",152538
+7,-89.55,45.5,NA,1993,"Tamias striatus griseus","Tamias_striatus",91.3,236,"female",4.4,793,10.9523624129337,73.1393285614466,"Summer",152539
+8,-73.49,40.87,NA,1969,"Tamias striatus fisheri","Tamias_striatus",104,229,"male",10.8,1282,9.3044466397915,46.9831699484296,"Summer",152540
+6,-92.4213889,42.5383333,NA,2002,"Tamias striatus","Tamias_striatus",81,232,"female",9,707,10.3714168693958,80.0161287000603,"Summer",152543
+10,-78.013659,40.491698,NA,1959,"Tamias striatus","Tamias_striatus",80.9,223,"female",11.3,951,9.76262197766501,39.0971871832735,"Fall",152544
+7,-79.58111,42.34556,NA,1960,"Tamias striatus","Tamias_striatus",67.8,185,"female",9.2,721,10.2939044923182,32.9866022674943,"Summer",152545
+7,-79.58111,42.34556,NA,1960,"Tamias striatus","Tamias_striatus",72.5,240,"male",9.2,721,10.2939044923182,32.9866022674943,"Summer",152546
+5,-79.58111,42.34556,NA,1960,"Tamias striatus","Tamias_striatus",87.5,250,"female",9.2,721,10.2939044923182,32.9866022674943,"Spring",152547
+3,-93.5833333,45.3,"adult",1927,"Tamias striatus griseus","Tamias_striatus",96.5,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",152548
+4,-76.5094764,42.4381028,NA,1973,"Tamias striatus","Tamias_striatus",76.2,242,"male",10,845,9.66252915633219,34.0799263592132,"Spring",152549
+3,-76.5094764,42.4381028,"adult",1938,"Tamias striatus lysteri","Tamias_striatus",96,241,"female",9.9,785,9.4059781119469,50.7312382008264,"Spring",152550
+6,-76.5094764,42.4381028,NA,1946,"Tamias striatus lysteri","Tamias_striatus",70,NA,"female",10,854,8.7870902206279,55.5429434270567,"Summer",152551
+5,-76.5094764,42.4381028,"adult",1939,"Tamias striatus lysteri","Tamias_striatus",90,235,"male",9.5,688,10.2050306964336,30.703559881706,"Spring",152552
+6,-76.5094764,42.4381028,NA,1946,"Tamias striatus lysteri","Tamias_striatus",66,NA,"female",10,854,8.7870902206279,55.5429434270567,"Summer",152553
+5,-76.5094764,42.4381028,NA,1946,"Tamias striatus lysteri","Tamias_striatus",70,236,"female",10,854,8.7870902206279,55.5429434270567,"Spring",152554
+7,-76.5094764,42.4381028,"adult",1946,"Tamias striatus lysteri","Tamias_striatus",102,NA,"female",10,854,8.7870902206279,55.5429434270567,"Summer",152555
+5,-76.5094764,42.4381028,"immature",1939,"Tamias striatus lysteri","Tamias_striatus",22.5,160,"female",9.5,688,10.2050306964336,30.703559881706,"Spring",152556
+7,-76.5094764,42.4381028,NA,1949,"Tamias striatus lysteri","Tamias_striatus",93,NA,"female",10.8,727,9.43864958882393,38.6913357749824,"Summer",152557
+7,-76.5094764,42.4381028,NA,1949,"Tamias striatus lysteri","Tamias_striatus",79,NA,"male",10.8,727,9.43864958882393,38.6913357749824,"Summer",152558
+10,-76.5094764,42.4381028,NA,1947,"Tamias striatus lysteri","Tamias_striatus",84.2,254,"female",9.6,936,10.3193074409384,58.3812157686076,"Fall",152559
+10,-76.5094764,42.4381028,"immature",1950,"Tamias striatus lysteri","Tamias_striatus",61.5,211,"male",9,942,9.34026798655189,22.1277688905802,"Fall",152560
+10,-76.5094764,42.4381028,NA,1939,"Tamias striatus lysteri","Tamias_striatus",85.5,228,"male",9.5,688,10.2050306964336,30.703559881706,"Fall",152561
+11,-76.5094764,42.4381028,NA,1939,"Tamias striatus lysteri","Tamias_striatus",93,240,"female",9.5,688,10.2050306964336,30.703559881706,"Fall",152562
+9,-76.5094764,42.4381028,NA,1927,"Tamias striatus lysteri","Tamias_striatus",76,NA,"female",9,875,8.77372109302443,54.3418656962285,"Fall",152563
+11,-89.3851,37.9883,"Subadult",1954,"Tamias striatus","Tamias_striatus",82.1,27,"male",15,970,9.68386662068787,44.0960243872071,"Fall",152564
+4,-76.5094764,42.4381028,"immature",1925,"Tamias striatus lysteri","Tamias_striatus",85,NA,"male",8.6,818,9.46100449532744,34.2891557129745,"Spring",152565
+8,-76.5094764,42.4381028,NA,1927,"Tamias striatus lysteri","Tamias_striatus",90,NA,"female",9,875,8.77372109302443,54.3418656962285,"Summer",152566
+5,-76.5094764,42.4381028,NA,1927,"Tamias striatus lysteri","Tamias_striatus",101.5,NA,"male",9,875,8.77372109302443,54.3418656962285,"Spring",152567
+7,-89.89,45.96,NA,1972,"Tamias striatus griseus","Tamias_striatus",105,263,"female",3.1,974,12.5085031684511,61.4863338472028,"Summer",152568
+7,-89.89,45.96,NA,1972,"Tamias striatus griseus","Tamias_striatus",83.9,254,"male",3.1,974,12.5085031684511,61.4863338472028,"Summer",152569
+7,-89.89,45.96,NA,1972,"Tamias striatus griseus","Tamias_striatus",106,247,"female",3.1,974,12.5085031684511,61.4863338472028,"Summer",152570
+10,-89.95,38.81,NA,1972,"Tamias striatus griseus","Tamias_striatus",125,262,"male",12.2,933,10.0615793386465,58.6152635652903,"Fall",152571
+5,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",111,246,"female",13,1080,9.57497923092929,42.2833157152888,"Spring",152572
+5,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",79,253,"male",13,1080,9.57497923092929,42.2833157152888,"Spring",152573
+6,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",78,199,"male",13,1080,9.57497923092929,42.2833157152888,"Summer",152574
+6,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",90,241,"female",13,1080,9.57497923092929,42.2833157152888,"Summer",152575
+6,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",76,242,"female",13,1080,9.57497923092929,42.2833157152888,"Summer",152576
+7,-89.99,38.79,NA,1973,"Tamias striatus griseus","Tamias_striatus",109,257,"male",13,1080,9.57497923092929,42.2833157152888,"Summer",152577
+7,-75.7,39.26,NA,1968,"Tamias striatus fisheri","Tamias_striatus",84,230,"female",12.8,890,9.48189263168424,49.2579421916179,"Summer",152578
+5,-75.9,43.96,NA,1972,"Tamias striatus lysteri","Tamias_striatus",98.3,235,"female",6.2,1247,10.5914917254227,32.1583293960175,"Spring",152579
+5,-75.9,43.96,NA,1972,"Tamias striatus lysteri","Tamias_striatus",110.4,230,"female",6.2,1247,10.5914917254227,32.1583293960175,"Spring",152580
+6,-75.98,43.78,NA,1972,"Tamias striatus lysteri","Tamias_striatus",97.4,238,"male",6.1,1427,10.3664084543502,33.0206479156109,"Summer",152581
+6,-75.98,43.78,NA,1972,"Tamias striatus lysteri","Tamias_striatus",82.3,233,"female",6.1,1427,10.3664084543502,33.0206479156109,"Summer",152582
+8,-76.09,43.88,NA,1972,"Tamias striatus lysteri","Tamias_striatus",111.2,247,"male",6.3,1155,10.2265993044283,28.2623711872165,"Summer",152583
+7,-75.7,43.73,NA,1972,"Tamias striatus lysteri","Tamias_striatus",94.5,235,"female",4.1,1729,10.3416596464216,38.8905661970063,"Summer",152584
+2,-94.62,39.02,NA,1991,"Tamias striatus griseus","Tamias_striatus",130,241,"male",13.5,778,10.3694006430926,55.5458148876992,"Winter",152585
+2,-94.62,39.02,NA,1991,"Tamias striatus griseus","Tamias_striatus",87.6,239,"male",13.5,778,10.3694006430926,55.5458148876992,"Winter",152586
+7,-76.46,42.45,NA,1999,"Tamias striatus lysteri","Tamias_striatus",89.5,238,"male",9,791,9.72835592949338,57.2449536925808,"Summer",152587
+8,-73.49,40.87,NA,1969,"Tamias striatus fisheri","Tamias_striatus",90.2,243,"male",10.8,1282,9.3044466397915,46.9831699484296,"Summer",152588
+8,-74.61,42.4,NA,1968,"Tamias striatus lysteri","Tamias_striatus",92,226,"male",5.7,992,10.384779071489,54.6573570576657,"Summer",152589
+6,-92.4213889,42.5383333,NA,2002,"Tamias striatus","Tamias_striatus",96,222,"female",9,707,10.3714168693958,80.0161287000603,"Summer",152596
+6,-92.4213889,42.5383333,NA,2002,"Tamias striatus","Tamias_striatus",78,241,"male",9,707,10.3714168693958,80.0161287000603,"Summer",152597
+9,-89.38086,44.333544,NA,2010,"Tamias striatus","Tamias_striatus",107,261,"male",7.4,999,11.5427532034238,85.3666358620589,"Fall",152598
+10,-78.013659,40.491698,NA,1959,"Tamias striatus","Tamias_striatus",93,231,"female",11.3,951,9.76262197766501,39.0971871832735,"Fall",152599
+8,-89.21861,37.71306,NA,1962,"Tamias striatus","Tamias_striatus",113.9,249,"female",13.6,1003,9.82921973536357,35.0407559757944,"Summer",152600
+10,-86.90806,40.42583,NA,1962,"Tamias striatus","Tamias_striatus",108,265,"female",10.2,838,10.7687644546061,70.7646325299975,"Fall",152601
+5,-87.065638,40.416514,NA,1964,"Tamias striatus","Tamias_striatus",109,250,"male",11,788,10.0005871039776,74.485909630922,"Spring",152602
+5,-93.5833333,45.3,"adult",1927,"Tamias striatus griseus","Tamias_striatus",97.5,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",152603
+5,-93.5833333,45.3,"adult",1927,"Tamias striatus griseus","Tamias_striatus",98.5,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",152604

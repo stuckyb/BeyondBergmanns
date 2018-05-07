@@ -1,0 +1,518 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-117.128922,47.61915,"Ad",1959,"Setophaga ruticilla","Setophaga_ruticilla",8.3,140,"male",8.4,569,7.73627327868039,65.2971480253113,"Spring",116305
+5,-76.5095,42.4381,NA,1941,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",9.6,683,10.4461787996928,46.2294395870154,"Spring",116306
+7,-76.45219,42.477118,"imm.",1990,"Setophaga ruticilla","Setophaga_ruticilla",8.19999980926514,129,"male",9.5,1120,8.15614195040471,41.4266121345918,"Summer",116307
+5,-76.46632,42.44127,"imm.",1954,"Setophaga ruticilla","Setophaga_ruticilla",8.19999980926514,NA,"male",8.7,898,9.41855036133963,31.0989493282767,"Spring",116308
+5,-76.46632,42.44127,NA,1954,"Setophaga ruticilla","Setophaga_ruticilla",7.69999980926514,NA,"female",8.7,898,9.41855036133963,31.0989493282767,"Spring",116309
+5,-76.46632,42.44127,NA,1952,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",9,873,9.24361778185196,39.4320112942418,"Spring",116310
+6,-76.479382,42.448207,NA,1995,"Setophaga ruticilla","Setophaga_ruticilla",7.09999990463257,116,"undetermined",8.5,787,10.5171144792522,55.0991996000785,"Summer",116311
+7,-76.4506,42.4801,NA,2003,"Setophaga ruticilla","Setophaga_ruticilla",8.10000038146973,NA,"male",7.4,1112,10.2071387674599,33.8459825009096,"Summer",116312
+5,-76.451,42.4799,NA,2007,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"male",8.5,984,10.3389342103556,29.2580911832691,"Spring",116313
+5,-103.9333,44.4833,NA,2012,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,NA,8.7,436,9.44539329755276,84.4517033427315,"Spring",116314
+5,-103.9333,44.4833,NA,2012,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"male",8.7,436,9.44539329755276,84.4517033427315,"Spring",116315
+6,-104.00402,44.560435,NA,2012,"Setophaga ruticilla","Setophaga_ruticilla",10.3,NA,NA,9.4,339,10.1182403548635,88.3232433068409,"Summer",116316
+9,-95.6966263,39.0483341,NA,1954,"Setophaga ruticilla","Setophaga_ruticilla",9.1,NA,"female",13.8,845,10.2905369886684,89.9334865400063,"Fall",116318
+5,-95.3738182,38.8378412,"snco",1957,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,"male",12.5,1054,10.0917908432667,65.6524842450367,"Spring",116319
+5,-101.78469,37.1521231,NA,1950,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",116320
+9,-77.2878957,38.9660325,"adult",1969,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"female",12.4,1036,9.49080495995354,62.0693284642199,"Fall",116321
+9,-77.2878957,38.9660325,"adult",1969,"Setophaga ruticilla","Setophaga_ruticilla",9.8,NA,"male",12.4,1036,9.49080495995354,62.0693284642199,"Fall",116322
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116323
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",8.9,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116324
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116325
+9,-79.3501282,35.0635845,NA,1988,"Setophaga ruticilla","Setophaga_ruticilla",8.9,NA,"undetermined",15.3,1073,8.32393409319648,48.5252028931618,"Fall",116326
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116327
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",7.3,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116328
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116329
+5,-80.6725693,28.5413761,NA,2004,"Setophaga ruticilla","Setophaga_ruticilla",5.1,NA,"female",22.1,1311,4.62217153478424,77.6115672969703,"Spring",116330
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116331
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",7.4,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116332
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116333
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116334
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116335
+9,-91.4907073,44.8098524,NA,1979,"Setophaga ruticilla","Setophaga_ruticilla",6.9,NA,"undetermined",5.5,803,12.6994154005274,68.400130323942,"Fall",116336
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116337
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.6,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116338
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116339
+8,-83.4478,31.6689,"imm.",1951,"Setophaga ruticilla","Setophaga_ruticilla",10,NA,"male",19.4,1130,6.68337489596386,55.8131044660853,"Summer",116340
+8,-83.4478,31.6689,"ad.",1951,"Setophaga ruticilla","Setophaga_ruticilla",9.7,NA,"male",19.4,1130,6.68337489596386,55.8131044660853,"Summer",116341
+10,-83.4669,41.75,"imm.",1951,"Setophaga ruticilla","Setophaga_ruticilla",8.7,NA,"female",9.7,917,9.89264725424745,28.3726131867097,"Fall",116342
+5,-116.6126,48.1055,"u ad.",1951,"Setophaga ruticilla","Setophaga_ruticilla",10,NA,"male",6.8,898,8.36430003954396,69.1239019102394,"Spring",116343
+5,-70.2103,44.5867,"u ad.",1952,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",116344
+10,-83.6,32.6208,"ad.",1954,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",19.2,668,7.76102832143142,40.8879247064414,"Fall",116345
+6,-122.1074435,37.8458933,"u ad.",1961,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"male",13.8,471,5.07417704926353,105.818892114672,"Summer",116346
+8,-107.01155,29.27428,"imm.",1961,"Setophaga ruticilla","Setophaga_ruticilla",7.3,NA,"undetermined",14.5,405,6.18004486597424,117.118632753466,"Summer",116347
+9,-106.7359053467,29.82389,"imm.sk.",1961,"Setophaga ruticilla","Setophaga_ruticilla",9.2,NA,"male",16.8,272,6.54723513238893,111.942865153066,"Fall",116348
+5,-106.3304805555,29.4621811111,"u ad.",1964,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"undetermined",16.2,175,7.15102768626279,136.342973641135,"Spring",116349
+5,-123.002005,37.698188,"ad.sk.oss.",1963,"Setophaga ruticilla","Setophaga_ruticilla",9.9,NA,"male",-9999,-9999,0,0,"Spring",116350
+9,-81.3652,28.5482,"unknown",1970,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",21.8,1370,5.42471197392083,69.1288417281707,"Fall",116351
+9,-81.3652,28.5482,"unknown",1970,"Setophaga ruticilla","Setophaga_ruticilla",9.7,NA,"female",21.8,1370,5.42471197392083,69.1288417281707,"Fall",116352
+9,-81.3652,28.5482,"unknown",1970,"Setophaga ruticilla","Setophaga_ruticilla",9.6,NA,"female",21.8,1370,5.42471197392083,69.1288417281707,"Fall",116353
+10,-82.253366,29.565505,"medium skull windows",1999,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",21,1012,5.38102023670965,80.1368168758153,"Fall",116354
+6,-131.1833,57.9167,"u ad.",1919,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",0.4,393,10.7032563722307,47.6274398471146,"Summer",116355
+6,-131.1833,57.9167,"u ad.",1919,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"male",0.4,393,10.7032563722307,47.6274398471146,"Summer",116356
+8,-131.8833,56.85,"imm.",1919,"Setophaga ruticilla","Setophaga_ruticilla",9.8,NA,"male",1.5,1760,7.96345345369023,53.2059174047591,"Summer",116357
+8,-131.8833,56.85,"imm.",1919,"Setophaga ruticilla","Setophaga_ruticilla",9.3,NA,"male",1.5,1760,7.96345345369023,53.2059174047591,"Summer",116358
+6,-127.6667,55.25,"unknown",1921,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"female",4.1,528,9.01276871998833,42.8930178884019,"Summer",116359
+6,-127.6667,55.25,"u ad.",1921,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",116360
+6,-127.6667,55.25,"u ad.",1921,"Setophaga ruticilla","Setophaga_ruticilla",8.7,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",116361
+6,-127.6667,55.25,"unknown",1921,"Setophaga ruticilla","Setophaga_ruticilla",10.8,NA,"female",4.1,528,9.01276871998833,42.8930178884019,"Summer",116362
+5,-114.2158,46.7589,"u ad.",1940,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"male",6.7,657,9.12951839149284,63.8455749630087,"Spring",116363
+6,-106.785312,46.26478,"u ad.",1940,"Setophaga ruticilla","Setophaga_ruticilla",8.7,NA,"female",8.2,314,12.0179758039465,84.4856629974161,"Summer",116364
+6,-106.785312,46.26478,"u ad.",1940,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",116365
+6,-106.785312,46.26478,"u ad.",1940,"Setophaga ruticilla","Setophaga_ruticilla",9.1,NA,"female",8.2,314,12.0179758039465,84.4856629974161,"Summer",116366
+6,-106.785312,46.26478,"u ad.",1940,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",116367
+5,-121.2667,53.2667,"u ad.",1934,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",3.5,795,7.41474268541459,47.699967462015,"Spring",116368
+6,-104.654479,47.198491,"u ad.",1947,"Setophaga ruticilla","Setophaga_ruticilla",7.6,NA,"female",6.2,418,12.165011302913,130.932971477031,"Summer",116369
+6,-104.654479,47.198491,"u ad.",1947,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",6.2,418,12.165011302913,130.932971477031,"Summer",116370
+5,-80.62832,51.2809,"ad",1972,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",-2.5,513,14.0265008919804,67.5067394623325,"Spring",116371
+6,-81.78235,46.28831,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"undetermined",3.7,792,10.4518339698511,33.5952643954295,"Summer",116372
+6,-81.78235,46.28831,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",6.8,NA,"undetermined",3.7,792,10.4518339698511,33.5952643954295,"Summer",116373
+6,-81.78235,46.28831,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"undetermined",3.7,792,10.4518339698511,33.5952643954295,"Summer",116374
+6,-80.45638,45.70165,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",4.4,857,11.3947223296444,46.6763789344193,"Summer",116375
+5,-80.45638,45.70165,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",4.4,857,11.3947223296444,46.6763789344193,"Spring",116376
+6,-80.45638,45.70165,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",4.4,857,11.3947223296444,46.6763789344193,"Summer",116377
+6,-80.46841,45.72264,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",4.4,852,11.4075832035298,46.808322366911,"Summer",116378
+7,-79.75435,51.14935,"ad",1982,"Setophaga ruticilla","Setophaga_ruticilla",6.5,NA,"male",-0.8,732,13.6119265886408,45.4362182397203,"Summer",116379
+7,-79.75435,51.14935,"ad",1982,"Setophaga ruticilla","Setophaga_ruticilla",5.8,NA,"female",-0.8,732,13.6119265886408,45.4362182397203,"Summer",116380
+7,-79.75435,51.14935,"nestl",1982,"Setophaga ruticilla","Setophaga_ruticilla",5.2,NA,"undetermined",-0.8,732,13.6119265886408,45.4362182397203,"Summer",116381
+7,-77.62782,45.37805,"juv",1943,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",3.3,796,12.3135888227994,35.8673792020314,"Summer",116382
+5,-79.02983,43.84509,"ad",1960,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"male",7.4,806,10.5871276901373,49.6786549558249,"Spring",116383
+8,-79.372722,43.73418,"ad",1976,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",6.9,802,10.2743133664258,38.6025071093611,"Summer",116384
+9,-79.372722,43.73418,"imm",1995,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"female",7.7,860,10.6979890492078,43.0238240393688,"Fall",116385
+5,-80.24294,42.5613,"ad",1928,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",9.2,821,9.33141890539048,43.0734582008226,"Spring",116386
+5,-80.24294,42.5613,"ad",1928,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"female",9.2,821,9.33141890539048,43.0734582008226,"Spring",116387
+5,-79.425049,43.6909,"ad",1934,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",6.9,636,11.4500066163803,37.0433893288318,"Spring",116388
+7,-79.425049,43.6909,"juv",1933,"Setophaga ruticilla","Setophaga_ruticilla",10,NA,"undetermined",7.9,709,10.4209433644973,39.2807518248992,"Summer",116389
+7,-87.72961,52.24829,"ad",1939,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",116390
+7,-87.72961,52.24829,"ad",1939,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",116391
+6,-87.72961,52.24829,"ad",1939,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",116392
+8,-87.72961,52.24829,"imm",1939,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",116393
+7,-87.72961,52.24829,"ad",1939,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",116394
+7,-87.72961,52.24829,NA,1939,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",116395
+5,-79.383013,43.647699,"ad",2001,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,"male",9.1,697,9.65735314136175,37.9595219328747,"Spring",116396
+9,-79.33279,44.75102,"juv",1987,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.1,812,10.0638717773785,29.6349668127346,"Fall",116397
+9,-79.372722,43.73418,"ad",1966,"Setophaga ruticilla","Setophaga_ruticilla",8.7,128,"male",7.3,744,10.0636271249034,52.584333209989,"Fall",116398
+10,-79.684894,44.366155,"ad",1966,"Setophaga ruticilla","Setophaga_ruticilla",6.8,114,"female",6,801,10.036248695543,46.1460133213536,"Fall",116399
+12,-87.6333333333,19.8,"unknown",1997,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",27,1228,1.56175891516294,49.536330864854,"Winter",116400
+2,-95.0666666667,18.5833333333,"AHY",2003,"Setophaga ruticilla","Setophaga_ruticilla",6.4,NA,"female",25.6,3789,2.27436304769649,91.8285670442412,"Winter",116401
+3,-95.0666666667,18.5833333333,"AHY",2003,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"female",25.6,3789,2.27436304769649,91.8285670442412,"Spring",116402
+7,-83.6215433,45.9522238,"adult",1938,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"male",6.2,756,10.6461118240274,24.8313674024005,"Summer",116403
+7,-83.7391662,46.0204493,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",116404
+7,-85.7747268,45.4763828,"young",1939,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",6,735,10.410611573454,45.7785130576713,"Summer",116405
+6,-85.8380699,45.702463,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",6.8,906,10.0071300338884,32.6908727229931,"Summer",116406
+6,-85.8380699,45.702463,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",6.8,906,10.0071300338884,32.6908727229931,"Summer",116407
+6,-85.8380699,45.702463,"adult",1938,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"male",6.8,906,10.0071300338884,32.6908727229931,"Summer",116408
+6,-85.6908951,45.7727966,"adult",1938,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",7.1,862,9.85719242098086,33.614823098794,"Summer",116409
+6,-85.6908951,45.7727966,"adult",1938,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"male",7.1,862,9.85719242098086,33.614823098794,"Summer",116410
+7,-85.2999115,45.816358,"juvenile",1938,"Setophaga ruticilla","Setophaga_ruticilla",6.4,NA,"male",7,865,9.95369582647876,32.6123347076169,"Summer",116411
+6,-85.3811932,45.2163895,NA,1937,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"male",7.5,752,10.4691610615815,68.4234808234294,"Summer",116412
+8,-83.7391662,46.0204493,"immature",1938,"Setophaga ruticilla","Setophaga_ruticilla",8.9,NA,"female",6.1,746,10.7863550166613,25.6582764962601,"Summer",116413
+7,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",7.2,848,9.45869809735831,42.4204910203786,"Summer",116414
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116415
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116416
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116417
+6,-84.2218781,44.5806866,"adult",1944,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"male",6.8,662,10.3488105011097,52.1018647449509,"Summer",116418
+5,-84.118395,46.188029,"adult",1982,"Setophaga ruticilla","Setophaga_ruticilla",6.5,NA,"male",3.9,825,10.8638544418329,50.406491895828,"Spring",116419
+5,-84.118395,46.188029,NA,1982,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",3.9,825,10.8638544418329,50.406491895828,"Spring",116420
+11,-83.7263412,42.2708397,NA,1972,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",8.5,745,10.1826464084141,36.6112261865124,"Fall",116421
+9,-83.425914,45.071854,NA,1973,"Setophaga ruticilla tricolora","Setophaga_ruticilla",6.9,NA,"female",7.2,840,9.75661391833843,56.0446416286836,"Fall",116422
+5,-85.036899,45.64225,NA,1985,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"female",5.9,912,10.0513228437401,34.0739146598462,"Spring",116423
+6,-85.11306,45.56722,NA,1984,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"male",6.7,784,9.83671231107778,48.5836558680987,"Summer",116424
+8,-85.071239,45.553496,"immature",1984,"Setophaga ruticilla","Setophaga_ruticilla",6.4,NA,"male",6.6,826,9.71290924803717,49.1037632390575,"Summer",116425
+6,-86.1017303,42.5939255,NA,1987,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",8.1,NA,"female",10.5,954,9.23814555705491,74.7968686584385,"Summer",116426
+5,-85.112114,45.5652056,NA,1988,"Setophaga ruticilla","Setophaga_ruticilla",8.7,NA,"female",6.9,833,10.6090405986707,56.7403470710799,"Spring",116427
+6,-89.3152428,46.8722797,"adult",2002,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",6.1,892,9.9599501033191,42.2637764973999,"Summer",116428
+5,-83.7400246,42.2754036,"adult",2001,"Setophaga ruticilla","Setophaga_ruticilla",8.7,NA,"male",10.6,907,9.3667812459292,51.3512338404498,"Spring",116429
+9,-83.6831081,42.1898482,"immature",2004,"Setophaga ruticilla","Setophaga_ruticilla",6,NA,"in question",9.8,832,9.99539287811534,63.3462079814308,"Fall",116430
+5,-85.1507378,46.7618551,NA,1998,"Setophaga ruticilla","Setophaga_ruticilla",6.3,NA,"female",6.7,691,8.68823656131983,48.4809539961048,"Spring",116431
+8,-70.3282,43.5933,"adult",2007,"Setophaga ruticilla","Setophaga_ruticilla",7.6,NA,"male",8.1,1173,9.88900522006254,53.5269022509129,"Summer",116432
+5,-84.9760723,46.7607967,"adult",2012,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",7.7,NA,"male",7.2,822,8.28439112811777,46.0995413083787,"Spring",116433
+5,-83.7263412,42.2708397,NA,2012,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",7.5,NA,"female",11.5,682,9.21854192112371,37.699178293142,"Spring",116434
+5,-83.7517354,42.6481017,NA,1933,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"male",9.4,584,10.5298817225508,47.7486696062437,"Spring",116435
+5,-83.2610435,42.0204658,"adult",1934,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,"male",9.9,544,11.5840374758727,50.0049148260762,"Spring",116436
+8,-83.6880112,42.6119803,"adult",1934,"Setophaga ruticilla","Setophaga_ruticilla",9.1,NA,"male",8.8,457,11.5967341275138,52.2805267233165,"Summer",116437
+5,-83.7268066,42.2147828,NA,1936,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",8.9,NA,"male",9,623,11.5756896515539,63.6553636305433,"Spring",116438
+5,-83.6422,42.30201,NA,1937,"Setophaga ruticilla","Setophaga_ruticilla",12.5,NA,"male",9.1,851,10.0927967112464,58.0362612941202,"Spring",116439
+9,-84.2366409,42.337103,"immature",1938,"Setophaga ruticilla","Setophaga_ruticilla",8.9,NA,"female",10.2,739,9.58655545305745,54.1951228383305,"Fall",116440
+7,-85.5568848,45.6646004,NA,1937,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",116441
+7,-85.3811932,45.2163895,NA,1937,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",7.5,752,10.4691610615815,68.4234808234294,"Summer",116442
+7,-85.3811932,45.2163895,NA,1937,"Setophaga ruticilla","Setophaga_ruticilla",9.6,NA,"male",7.5,752,10.4691610615815,68.4234808234294,"Summer",116443
+5,-84.1438895,36.2749988,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,"male",14.1,1267,8.19726488013847,38.6317792113863,"Spring",116444
+9,-84.4316483,45.6394876,NA,1939,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",6.3,712,10.6809196914192,61.4686392509975,"Fall",116445
+8,-79.4658279,33.0984445,"Skull 10% ossified",1986,NA,"Setophaga_ruticilla",9.5,115,"female",18.9,1065,7.0097929334394,54.282873526872,"Summer",116446
+9,-96.9337463,32.9427082,"Skull ossified",1958,NA,"Setophaga_ruticilla",10.7,NA,"male",18.1,936,9.38494522997854,52.496526087741,"Fall",116447
+5,-117.179457,46.728691,"Ad",1948,"Setophaga ruticilla","Setophaga_ruticilla",9,143,"male",7.3,651,7.8468098130657,62.1931607295183,"Spring",116448
+6,-117.144,46.936,"Ad",1949,"Setophaga ruticilla","Setophaga_ruticilla",8.6,137,"male",7.7,466,9.49108034212155,74.0467756451642,"Summer",116449
+5,-117.225427,46.760094,"Ad",1950,"Setophaga ruticilla","Setophaga_ruticilla",8.5,142,"male",7.7,664,8.66696969167215,67.7164616626842,"Spring",116450
+7,-117.24014,46.341092,"Ad",1954,"Setophaga ruticilla","Setophaga_ruticilla",9.1,139,"male",9.1,340,6.7055099460342,44.9052688535369,"Summer",116451
+5,-76.46632,42.44127,NA,1952,"Setophaga ruticilla","Setophaga_ruticilla",8.80000019073486,NA,"female",9,873,9.24361778185196,39.4320112942418,"Spring",116453
+5,-76.46632,42.44127,"1st yr",1951,"Setophaga ruticilla","Setophaga_ruticilla",10,NA,"male",8.5,835,9.16024017152389,35.9174725578837,"Spring",116454
+5,-76.5095,42.4381,NA,1954,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"female",9.7,834,9.39066267387693,31.6517032910352,"Spring",116455
+5,-76.46632,42.44127,NA,1952,"Setophaga ruticilla","Setophaga_ruticilla",8.89999961853027,NA,"male",9,873,9.24361778185196,39.4320112942418,"Spring",116456
+5,-76.46632,42.44127,"ad.",1951,"Setophaga ruticilla","Setophaga_ruticilla",8.80000019073486,NA,"female",8.5,835,9.16024017152389,35.9174725578837,"Spring",116457
+6,-103.95742,44.40666,NA,2007,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,NA,6.8,591,10.2574437125022,64.0352596716035,"Summer",116458
+7,-103.95742,44.40666,NA,2007,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,NA,6.8,591,10.2574437125022,64.0352596716035,"Summer",116459
+7,-103.95742,44.40666,NA,2007,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,NA,6.8,591,10.2574437125022,64.0352596716035,"Summer",116460
+5,-103.9333,44.4833,NA,2012,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,NA,8.7,436,9.44539329755276,84.4517033427315,"Spring",116461
+7,-100.3369074,41.8888463,NA,1957,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",8.9,764,10.6036443135024,83.7479148427961,"Summer",116462
+5,-95.2864532,39.0223999,NA,1966,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"male",12.1,668,9.94432989042987,99.8354278786169,"Spring",116463
+5,-101.78469,37.1521231,NA,1950,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"female",13.5,457,8.51972310689625,120.003987155499,"Spring",116464
+9,-95.913,39.026,NA,1994,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",12.8,753,10.0322623509749,69.8395021181335,"Fall",116465
+5,-95.6780357,39.0483341,NA,1995,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",12.5,958,9.86286269832753,88.9561597697045,"Spring",116466
+9,-97.2100135,37.3875217,NA,1956,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",15.4,406,10.8113856931506,58.6247545158518,"Fall",116467
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116468
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116469
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116470
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116471
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",6.9,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116472
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116473
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116474
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",6.9,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116475
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",8.9,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116476
+5,-91.4907073,44.8098524,NA,1963,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"undetermined",6.4,637,13.3922184551894,71.3645284508542,"Spring",116477
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116478
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116479
+9,-91.4907073,44.8098524,NA,1973,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"undetermined",7.5,874,11.3317300559361,65.561849245128,"Fall",116480
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116481
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",6.8,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116482
+9,-79.3501282,35.0635845,NA,1988,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"undetermined",15.3,1073,8.32393409319648,48.5252028931618,"Fall",116483
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116484
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.3,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116485
+9,-91.4907073,44.8098524,NA,1979,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"male",5.5,803,12.6994154005274,68.400130323942,"Fall",116486
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116487
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.3,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116488
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116489
+9,-91.4907073,44.8098524,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.6,NA,"undetermined",6.4,564,11.2195851487072,73.5477810807178,"Fall",116490
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116491
+8,-91.4907073,44.8098524,NA,1969,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"undetermined",6,687,11.8725810933504,57.5654900742905,"Summer",116492
+10,-80.4803467,26.1652989,NA,2007,"Setophaga ruticilla","Setophaga_ruticilla",7.91,NA,"male",24.5,1477,3.35446333150688,80.7639168733882,"Fall",116493
+10,-83.4669,41.75,"ad.",1951,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"female",9.7,917,9.89264725424745,28.3726131867097,"Fall",116494
+6,-70.2103,44.5867,"u ad.",1952,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Summer",116495
+11,-104.4081650057,19.1442750057,"ad.sk.oss.",1957,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"male",24.5,1086,1.57890928981197,151.197227515538,"Fall",116496
+9,-106.401684,29.480204,"imm.sk.",1961,"Setophaga ruticilla","Setophaga_ruticilla",7.3,NA,"female",16.1,300,6.45126250270347,106.69242113324,"Fall",116497
+9,-106.401684,29.480204,"imm.sk.",1961,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",16.1,300,6.45126250270347,106.69242113324,"Fall",116498
+8,-106.401684,29.480204,"imm.sk.",1961,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"undetermined",16.1,300,6.45126250270347,106.69242113324,"Summer",116499
+9,-122.7993943,38.0719461,"imm.sk.",1963,"Setophaga ruticilla","Setophaga_ruticilla",9.1,NA,"male",13,837,3.64894131595354,103.414379918207,"Fall",116500
+9,-81.3652,28.5482,"unknown",1970,"Setophaga ruticilla","Setophaga_ruticilla",10,NA,"female",21.8,1370,5.42471197392083,69.1288417281707,"Fall",116501
+9,-81.3652,28.5482,"unknown",1970,"Setophaga ruticilla","Setophaga_ruticilla",9.3,NA,"female",21.8,1370,5.42471197392083,69.1288417281707,"Fall",116502
+9,-81.3652,28.5482,"unknown",1970,"Setophaga ruticilla","Setophaga_ruticilla",10.4,NA,"male",21.8,1370,5.42471197392083,69.1288417281707,"Fall",116503
+9,-81.3652,28.5482,"unknown",1970,"Setophaga ruticilla","Setophaga_ruticilla",9.4,NA,"female",21.8,1370,5.42471197392083,69.1288417281707,"Fall",116504
+6,-116.92,38.1,"ad.sk.",1972,"Setophaga ruticilla","Setophaga_ruticilla",6.8,NA,"female",9.7,187,8.73572862132602,124.615545244686,"Summer",116505
+5,-115.19222,37.45331,"ad.sk.",1969,"Setophaga ruticilla","Setophaga_ruticilla",7.6,NA,"female",14,208,8.97268582471775,96.660948012882,"Spring",116506
+6,-131.205,57.9204,"u ad.",1919,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",0.3,409,10.6502631920815,48.4288880813961,"Summer",116507
+6,-131.205,57.9204,"u ad.",1919,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",0.3,409,10.6502631920815,48.4288880813961,"Summer",116508
+6,-131.1833,57.9167,"u ad.",1919,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",0.4,393,10.7032563722307,47.6274398471146,"Summer",116509
+6,-131.3833,57.8333,"u ad.",1919,"Setophaga ruticilla","Setophaga_ruticilla",9.6,NA,"male",1.2,379,10.9927352043396,49.0966307949911,"Summer",116510
+8,-131.8833,56.85,"imm.",1919,"Setophaga ruticilla","Setophaga_ruticilla",9.3,NA,"undetermined",1.5,1760,7.96345345369023,53.2059174047591,"Summer",116511
+8,-131.8833,56.85,"imm.",1919,"Setophaga ruticilla","Setophaga_ruticilla",9.8,NA,"male",1.5,1760,7.96345345369023,53.2059174047591,"Summer",116512
+6,-127.6667,55.25,"unknown",1921,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",116513
+5,-127.6667,55.25,"u ad.",1921,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Spring",116514
+6,-127.6667,55.25,"unknown",1921,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",116515
+6,-127.6667,55.25,"unknown",1921,"Setophaga ruticilla","Setophaga_ruticilla",9.3,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",116516
+6,-133.7,59.5667,"u juv.",1924,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",-0.3,390,8.84507652809623,42.7361199847268,"Summer",116517
+6,-120.4269,44.3964,"u ad.",1932,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",6.4,261,7.23250239606534,87.4673627281652,"Summer",116518
+7,-115.9076,46.3966,"u ad.",1932,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"female",7,1072,8.53623293539209,73.013224462104,"Summer",116519
+5,-121.2667,53.2667,"u ad.",1934,"Setophaga ruticilla","Setophaga_ruticilla",9.2,NA,"male",3.5,795,7.41474268541459,47.699967462015,"Spring",116520
+6,-121.2667,53.2667,"u ad.",1934,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",3.5,795,7.41474268541459,47.699967462015,"Summer",116521
+6,-121.2667,53.2667,"u ad.",1934,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",3.5,795,7.41474268541459,47.699967462015,"Summer",116522
+6,-106.785312,46.26478,"unknown",1940,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",116523
+6,-106.785312,46.26478,"u ad.",1940,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",116524
+6,-106.785312,46.26478,"u ad.",1940,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"female",8.2,314,12.0179758039465,84.4856629974161,"Summer",116525
+5,-119.9636,51.65,"u ad.",1935,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",4.9,504,8.46901661494665,78.7973925087114,"Spring",116526
+6,-104.654479,47.198491,"u ad.",1947,"Setophaga ruticilla","Setophaga_ruticilla",9.2,NA,"male",6.2,418,12.165011302913,130.932971477031,"Summer",116527
+6,-104.654479,47.198491,"u ad.",1947,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"male",6.2,418,12.165011302913,130.932971477031,"Summer",116528
+6,-104.654479,47.198491,"u ad.",1947,"Setophaga ruticilla","Setophaga_ruticilla",9.1,NA,"male",6.2,418,12.165011302913,130.932971477031,"Summer",116529
+9,-79.98485,43.48854,"imm",1968,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"female",6.8,968,10.3235351884846,41.8738549000059,"Fall",116530
+9,-79.04217,43.82607,"ad",1969,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",7.6,685,10.3014562077407,42.3967985024524,"Fall",116531
+6,-81.78235,46.28831,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",6.8,NA,"undetermined",3.7,792,10.4518339698511,33.5952643954295,"Summer",116532
+6,-81.78235,46.28831,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"undetermined",3.7,792,10.4518339698511,33.5952643954295,"Summer",116533
+6,-81.78235,46.28831,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.4,NA,"undetermined",3.7,792,10.4518339698511,33.5952643954295,"Summer",116534
+6,-81.78235,46.28831,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"undetermined",3.7,792,10.4518339698511,33.5952643954295,"Summer",116535
+6,-80.45638,45.70165,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",4.4,857,11.3947223296444,46.6763789344193,"Summer",116536
+6,-80.45638,45.70165,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",4.4,857,11.3947223296444,46.6763789344193,"Summer",116537
+6,-80.45638,45.70165,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",4.4,857,11.3947223296444,46.6763789344193,"Summer",116538
+6,-80.63539,45.77283,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",4.4,828,11.3435704656466,47.544394324923,"Summer",116539
+6,-80.49686,45.83375,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",4.2,850,11.4801376562331,47.1808044737429,"Summer",116540
+6,-80.46841,45.72264,"ad",1978,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",4.4,852,11.4075832035298,46.808322366911,"Summer",116541
+5,-80.46883,51.363,"ad",1980,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"male",-1.3,681,13.4674101579939,52.801028675052,"Spring",116542
+6,-80.46883,51.363,NA,1980,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"male",-1.3,681,13.4674101579939,52.801028675052,"Summer",116543
+7,-79.75435,51.14935,"nestl",1982,"Setophaga ruticilla","Setophaga_ruticilla",5,NA,"undetermined",-0.8,732,13.6119265886408,45.4362182397203,"Summer",116544
+7,-79.75435,51.14935,"nestl",1982,"Setophaga ruticilla","Setophaga_ruticilla",5.4,NA,"undetermined",-0.8,732,13.6119265886408,45.4362182397203,"Summer",116545
+5,-79.372722,43.73418,"ad",1973,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",8.4,822,10.2319871289042,37.5482130486895,"Spring",116546
+6,-79.372722,43.73418,"ad",1973,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"female",8.4,822,10.2319871289042,37.5482130486895,"Summer",116547
+5,-79.425049,43.6909,"ad",1934,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",6.9,636,11.4500066163803,37.0433893288318,"Spring",116548
+8,-79.99343,43.80176,"imm",1933,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",6.9,745,10.3470095225918,39.980176160617,"Summer",116549
+7,-93.82525,48.90185,"ad",1929,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",1.5,422,14.4096558535651,41.9524409763164,"Summer",116550
+7,-93.82525,48.90185,"ad",1929,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,"male",1.5,422,14.4096558535651,41.9524409763164,"Summer",116551
+6,-77.35176,43.95265,"ad",1930,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"[male]",7.7,616,10.0967891685997,38.0773454456694,"Summer",116552
+7,-84.581461,46.5292,"juv",1931,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"undetermined",6.5,819,10.1155445935571,63.5604668040549,"Summer",116553
+7,-84.02525,46.353393,"ad",1931,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"female",6.7,772,10.5130618611787,65.7387277263846,"Summer",116554
+6,-81.59189,52.25485,"ad",1942,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",-1.5,703,13.437904327955,49.7651862110958,"Summer",116555
+9,-79.380261,43.648655,"imm",2000,"Setophaga ruticilla","Setophaga_ruticilla",8.7,NA,"male",7.8,798,9.83740542290219,57.635392170637,"Fall",116556
+5,-81.3215733,42.9541611,"ad",1908,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",7.6,901,10.2185622839769,40.0098847661511,"Spring",116557
+7,-91.92887,50.10403,"ad",1947,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",0.6,690,13.748377314719,41.0975349699112,"Summer",116558
+9,-80.24294,42.5613,"ad",1960,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",8.6,748,10.1760078794995,31.4323394247317,"Fall",116559
+9,-80.24294,42.5613,"imm",1960,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"female",8.6,748,10.1760078794995,31.4323394247317,"Fall",116560
+7,-77.7106,44.00201,NA,1966,"Setophaga ruticilla","Setophaga_ruticilla",7.3,NA,"[female]",7.5,743,10.2354516117741,46.086672896245,"Summer",116561
+9,-79.381924,43.647863,"juv",2004,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",7.8,791,10.0818882009755,42.2467756077651,"Fall",116562
+6,-135.4454,59.2295,"AHY",2001,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",5.3,1079,6.55716124831193,64.5183360719514,"Summer",116563
+7,-135.4454,59.2295,"AD",2002,"Setophaga ruticilla","Setophaga_ruticilla",8.7,NA,"female",5.7,747,6.49481728112127,48.1542629923122,"Summer",116564
+7,-135.4454,59.2295,"AD",2002,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"female",5.7,747,6.49481728112127,48.1542629923122,"Summer",116565
+4,-95.0666666667,18.5833333333,"AHY",2003,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",25.6,3789,2.27436304769649,91.8285670442412,"Spring",116566
+3,-95.0666666667,18.5833333333,"AHY",2003,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"female",25.6,3789,2.27436304769649,91.8285670442412,"Spring",116567
+3,-95.0666666667,18.5833333333,"AHY",2003,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"female",25.6,3789,2.27436304769649,91.8285670442412,"Spring",116568
+3,-95.0666666667,18.5833333333,"AHY",2003,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"female",25.6,3789,2.27436304769649,91.8285670442412,"Spring",116569
+4,-95.0666666667,18.5833333333,"AHY",2003,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"female",25.6,3789,2.27436304769649,91.8285670442412,"Spring",116570
+7,-83.8524198,45.9617112,"immature",1938,"Setophaga ruticilla","Setophaga_ruticilla",6.1,NA,"male",6.1,742,10.7301155067352,27.0515272176554,"Summer",116571
+7,-83.7391662,46.0204493,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",116572
+7,-83.7391662,46.0204493,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",116573
+7,-83.7391662,46.0204493,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",9.8,NA,"female",6.1,746,10.7863550166613,25.6582764962601,"Summer",116574
+7,-83.7391662,46.0204493,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",116575
+7,-85.7747268,45.4763828,"young",1939,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"female",6,735,10.410611573454,45.7785130576713,"Summer",116576
+6,-85.8380699,45.702463,"adult",1938,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"male",6.8,906,10.0071300338884,32.6908727229931,"Summer",116577
+6,-85.8380699,45.702463,"adult",1938,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"male",6.8,906,10.0071300338884,32.6908727229931,"Summer",116578
+7,-85.6116943,45.8112946,"adult",1938,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"female",7.1,868,9.86098449200257,32.1692744332039,"Summer",116579
+7,-85.2999115,45.816358,"juvenile",1938,"Setophaga ruticilla","Setophaga_ruticilla",6.7,NA,"female",7,865,9.95369582647876,32.6123347076169,"Summer",116580
+9,-83.6422,42.30201,"immature",1940,"Setophaga ruticilla tricolora","Setophaga_ruticilla",9,NA,"male",8.5,818,10.7377378973187,50.0190807731619,"Fall",116581
+6,-85.5568848,45.6646004,NA,1937,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",116582
+6,-85.3811932,45.2163895,NA,1937,"Setophaga ruticilla","Setophaga_ruticilla",6.8,NA,"male",7.5,752,10.4691610615815,68.4234808234294,"Summer",116583
+6,-85.3811932,45.2163895,"immature",1937,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",7.5,752,10.4691610615815,68.4234808234294,"Summer",116584
+7,-83.7391662,46.0204493,"adult",1938,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"female",6.1,746,10.7863550166613,25.6582764962601,"Summer",116585
+7,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"female",7.2,848,9.45869809735831,42.4204910203786,"Summer",116586
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116587
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116588
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116589
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116590
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116591
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116592
+6,-86.1218261,45.0237958,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",116593
+5,-83.6422,42.30201,NA,1942,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",9.4,905,10.457891756946,34.4116054483883,"Spring",116594
+9,-83.7263412,42.2708397,NA,1946,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"male",10.1,607,8.82578865906869,50.6298829879788,"Fall",116597
+9,-83.8885498,42.3383369,"adult",1955,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"male",9.9,658,10.9425323920706,48.2622108191846,"Fall",116598
+9,-83.6422,42.30201,NA,1948,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"male",9.4,734,10.417453303631,42.5124400763285,"Fall",116599
+5,-84.118395,46.188029,"immature",1982,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",3.9,825,10.8638544418329,50.406491895828,"Spring",116600
+6,-84.684615,45.699623,NA,1988,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",6.4,833,10.8992493486311,59.366164837466,"Summer",116601
+5,-84.684615,45.699623,NA,1988,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"male",6.4,833,10.8992493486311,59.366164837466,"Spring",116602
+6,-83.7318182,46.0153303,NA,1938,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",8.4,NA,"male",6.1,752,10.7703155464312,26.0465540977989,"Summer",116603
+9,-83.7263412,42.2708397,"immature",1997,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",7.5,NA,"male",8.8,966,9.51882902780621,35.8510146973812,"Fall",116604
+9,-84.5552444,42.7335852,NA,2004,"Setophaga ruticilla","Setophaga_ruticilla",5.3,NA,"female",8.9,890,9.99582867545712,59.7887963093479,"Fall",116605
+8,-86.965319,46.014536,"immature",2007,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",7.8,NA,"female",5.4,753,11.5252949742045,45.7778432267289,"Summer",116606
+7,-85.0428485,43.937678,"adult",2009,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"female",7,906,10.0091889599689,52.1312378609266,"Summer",116607
+8,-86.965319,46.014536,"adult",2009,"Setophaga ruticilla","Setophaga_ruticilla",6.8,NA,"male",4.3,779,10.7032811451782,50.1678846368201,"Summer",116608
+7,-86.965319,46.014536,"fledgling",2012,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"in question",7.2,952,9.61745178245666,36.8818946756125,"Summer",116609
+6,-85.03556,46.58278,NA,2013,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"female",4.3,1183,10.4701704712469,26.9770265588744,"Summer",116610
+7,-85.00685,46.7332167,"adult",2013,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",7.7,NA,"female",4.4,1195,10.2246878888425,27.1403656616297,"Summer",116611
+9,-84.0221481,42.4342346,"adult",1934,"Setophaga ruticilla tricolora","Setophaga_ruticilla",9,NA,"female",9,485,11.5965087483913,49.4890095543903,"Fall",116613
+5,-83.7268066,42.2147828,NA,1936,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",7.9,NA,"female",9,623,11.5756896515539,63.6553636305433,"Spring",116614
+7,-84.1328785,36.2680917,"juvenile",1938,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"male",14.1,1273,8.19177340477332,38.7012028207999,"Summer",116615
+9,-85.436554,46.6732343,"immature",1938,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"male",5.2,939,10.0161082383541,23.7434522788991,"Fall",116616
+8,-84.8364019,42.1253534,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,NA,10.3,855,9.47095640109884,50.4854355713016,"Summer",116617
+7,-85.5568848,45.6646004,NA,1937,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",116618
+7,-85.5568848,45.6646004,NA,1937,"Setophaga ruticilla","Setophaga_ruticilla",7.3,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",116619
+7,-84.657744,45.468596,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.1,952,10.231131931808,32.126008148747,"Summer",116620
+6,-84.657744,45.468596,NA,1938,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",7.1,952,10.231131931808,32.126008148747,"Summer",116621
+6,-84.657744,45.468596,"juvenile",1938,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,NA,7.1,952,10.231131931808,32.126008148747,"Summer",116622
+9,-83.6422,42.30201,NA,1939,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"male",10.1,665,10.2263770651579,62.7384799477183,"Fall",116623
+9,-80.24294,42.5613,NA,1929,"Setophaga ruticilla","Setophaga_ruticilla",7.6,NA,"undetermined",9.5,805,9.69732859184331,53.5645909269032,"Fall",116624
+7,-84.9823076,45.9896204,NA,1998,"Setophaga ruticilla","Setophaga_ruticilla",5.4,NA,"male",7.6,735,8.92943294544915,39.249653697151,"Summer",116625
+NA,-80.24294,42.5613,"ad",1929,"Setophaga ruticilla","Setophaga_ruticilla",8.65,NA,"male",9.5,805,9.69732859184331,53.5645909269032,"",116626
+NA,-80.24294,42.5613,NA,1929,"Setophaga ruticilla","Setophaga_ruticilla",11.9,NA,"undetermined",9.5,805,9.69732859184331,53.5645909269032,"",116627
+NA,-80.24294,42.5613,"imm",1929,"Setophaga ruticilla","Setophaga_ruticilla",9.1,NA,"undetermined",9.5,805,9.69732859184331,53.5645909269032,"",116628
+NA,-80.24294,42.5613,"ad",1929,"Setophaga ruticilla","Setophaga_ruticilla",11.8,NA,"male",9.5,805,9.69732859184331,53.5645909269032,"",116629
+NA,-80.24294,42.5613,NA,1965,"Setophaga ruticilla","Setophaga_ruticilla",8.2,126,"[male]",8.4,945,9.43816799763149,20.4494304713377,"",116630
+NA,-79.684894,44.366155,NA,1965,"Setophaga ruticilla","Setophaga_ruticilla",8.7,127,"[male]",5.7,942,9.59928580045348,38.2449666811119,"",116631
+NA,-80.24294,42.5613,NA,1965,"Setophaga ruticilla","Setophaga_ruticilla",8.45,132,"[male]",8.4,945,9.43816799763149,20.4494304713377,"",116632
+NA,-79.684894,44.366155,NA,1964,"Setophaga ruticilla","Setophaga_ruticilla",8.3,122,"undetermined",6.6,729,9.34908843393058,36.4291025677644,"",116633
+NA,-79.684894,44.366155,NA,1965,"Setophaga ruticilla","Setophaga_ruticilla",8,122,"[male]",5.7,942,9.59928580045348,38.2449666811119,"",116634
+NA,-79.684894,44.366155,NA,1965,"Setophaga ruticilla","Setophaga_ruticilla",8.2,119,"undetermined",5.7,942,9.59928580045348,38.2449666811119,"",116635
+NA,-82.8736496,42.5942909,NA,1984,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"female",8.9,785,9.76348717509179,40.7144922004404,"",116636
+10,-123.00674,37.69917,"Imm.; Sk.Unoss.",1969,"Setophaga ruticilla","Setophaga_ruticilla",5.7,NA,"undetermined",-9999,-9999,0,0,"Fall",116638
+10,-120.5,39.1561,"U-Ad.",1971,"Setophaga ruticilla","Setophaga_ruticilla",9.6,NA,"male",6.9,1386,7.21237887876872,98.7478918174725,"Fall",116639
+6,-123.00361,37.69852,"U-Ad",1965,"Setophaga ruticilla","Setophaga_ruticilla",7.4,NA,"female",-9999,-9999,0,0,"Summer",116640
+9,-123.00361,37.69852,"U-Imm",1965,"Setophaga ruticilla","Setophaga_ruticilla",7.4,NA,"male",-9999,-9999,0,0,"Fall",116641
+7,-76.329447,42.403965,NA,1989,"Setophaga ruticilla","Setophaga_ruticilla",8,119,"female ?",7.1,1026,10.5380120027307,56.6862316853922,"Summer",116642
+5,-76.345437,42.828398,NA,2011,"Setophaga ruticilla","Setophaga_ruticilla",9,117,"male",9,1410,10.2460746363935,45.6714126537545,"Spring",116643
+5,-74.77569,43.94688,NA,2013,"Setophaga ruticilla","Setophaga_ruticilla",7.5,121,"male",5.6,1369,10.3658384157098,46.9953564864524,"Spring",116644
+6,-92.33,37.6916667,NA,2000,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",13.2,788,9.80714025595637,43.3562992549911,"Summer",116645
+5,-91.5,37.9333333,"1st yr. Male",2001,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",13.3,1019,8.98191364505765,37.4472613060383,"Spring",116646
+4,-88.000000051,13.00000002,NA,2004,"Setophaga ruticilla","Setophaga_ruticilla",6,NA,"female",-9999,-9999,0,0,"Spring",116647
+5,-73.2366833333,42.351,"adult",2011,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",8.3,1595,9.95100116784358,48.0470646762576,"Spring",116648
+5,-103.529842,34.11186,NA,2011,"Setophaga ruticilla","Setophaga_ruticilla",7.52,NA,"male",15.3,179,9.8091330355486,99.1569054962257,"Spring",116649
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",9.3,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116650
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",9.6,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116651
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116652
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116653
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116654
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116655
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116656
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116657
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116658
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.7,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116659
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116660
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116661
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116662
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",7.4,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116663
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116664
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116665
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116666
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116667
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116668
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116669
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",9.2,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116670
+8,-80.05214,42.79957,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",7.9,138,"male",8.4,910,10.5680335603807,37.9925835072968,"Summer",116671
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8,128,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",116672
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.9,131,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116673
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.5,133,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116674
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.3,133,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116675
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.3,133,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116676
+8,-80.05214,42.79957,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,139,"female",8.4,910,10.5680335603807,37.9925835072968,"Summer",116677
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",9.7,137,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",116678
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.7,128,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116679
+9,-80.05214,42.79957,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"female",8.4,910,10.5680335603807,37.9925835072968,"Fall",116680
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",7.9,136,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116681
+11,-86.9400483,20.3189526,NA,1971,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"undetermined",26.1,1026,1.34974745112491,84.7670705846423,"Fall",116682
+5,-87.0083798,20.3156227,NA,1973,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,"undetermined",26.2,1278,1.76864526138117,65.7980324631846,"Spring",116683
+8,-80.07309,42.80729,"ad",1974,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"female",8.2,898,9.25806364334586,37.9292150727009,"Summer",116684
+8,-80.07309,42.80729,"ad",1974,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"female",8.2,898,9.25806364334586,37.9292150727009,"Summer",116685
+5,-77.27931,43.96989,"ad",1930,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Spring",116686
+8,-93.63727,52.84037,"imm",1938,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"female",0,617,13.8670636598183,60.9325865622278,"Summer",116687
+9,-82.50596,41.90342,"imm",1910,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"female",9.6,824,10.1534999190457,45.890419937926,"Fall",116688
+7,-94.98538,49.92533,"ad",1947,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",116689
+7,-79.01076,45.33157,"ad",1966,"Setophaga ruticilla","Setophaga_ruticilla",8.5,130,"female",4.5,935,10.7579005499412,50.77217344115,"Summer",116690
+5,-92.783,-45.8,NA,1985,"Setophaga ruticilla","Setophaga_ruticilla",9.2,NA,NA,-9999,-9999,0,0,"Spring",116691
+4,-83.75,14.35,"adult",1967,"Setophaga ruticilla","Setophaga_ruticilla",7.7,NA,"female",-9999,-9999,0,0,"Spring",116692
+6,-85.8666667,45.4333333,NA,1939,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",6.2,749,10.3052355037563,45.0409106964284,"Summer",116693
+5,-83.6561111,42.3127778,NA,1942,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",9.4,909,10.4641234123016,34.9597143023653,"Spring",116694
+6,-85.9965,45.0939,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",116695
+6,-85.9965,45.0939,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",116696
+6,-85.9965,45.0939,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",116697
+6,-85.9965,45.0939,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",116698
+6,-85.9965,45.0939,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",116699
+7,-88.9,46.2,NA,1944,"Setophaga ruticilla","Setophaga_ruticilla",8.9,NA,NA,5.4,777,10.9331716543848,56.1654525311865,"Summer",116700
+5,-82.8166667,41.65,NA,1949,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"male",11.4,702,9.62869370289877,33.1110474493077,"Spring",116701
+5,-83.75,42.3833333,NA,1935,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",8.5,644,10.2368762991274,44.4396413243119,"Spring",116702
+5,-83.9666667,42.3833333,NA,1961,"Setophaga ruticilla","Setophaga_ruticilla",10,NA,"male",9.1,787,10.1305530974674,55.0078898463246,"Spring",116703
+5,-83.75,42.3833333,NA,1935,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"male",8.5,644,10.2368762991274,44.4396413243119,"Spring",116704
+5,-83.5833333,42.3666667,NA,1960,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",8.8,661,10.5632689786425,60.6199738745806,"Spring",116705
+5,-83.6666667,42.2833333,NA,1960,"Setophaga ruticilla","Setophaga_ruticilla",9.3,NA,"male",9.1,681,10.5314644007489,62.2297238795917,"Spring",116706
+5,-83.75,42.2833333,NA,1960,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"male",9,691,10.5767326111268,64.10073396908,"Spring",116707
+5,-83.75,42.2833333,NA,1960,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"male",9,691,10.5767326111268,64.10073396908,"Spring",116708
+5,-83.6666667,42.2833333,"immature",1960,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"male",9.1,681,10.5314644007489,62.2297238795917,"Spring",116709
+5,-83.6666667,42.2833333,NA,1960,"Setophaga ruticilla","Setophaga_ruticilla",9.1,NA,"male",9.1,681,10.5314644007489,62.2297238795917,"Spring",116710
+9,-83.4666667,41.8,NA,1965,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",9.6,976,9.83338084220675,40.2154498905308,"Fall",116711
+5,-91.4,36.6,NA,1949,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"male",14.6,1360,8.16861603203308,48.309907076462,"Spring",116712
+9,-87.5833333,37.8833333,"immature",1949,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",7.1,NA,"female",14.4,1302,8.70271204681029,50.099624890425,"Fall",116713
+9,-85.7666667,38.15,"adult",1950,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",8.1,NA,"female",13,1471,8.70052245035268,45.3148189287599,"Fall",116714
+9,-86.9333333,45.7,"subadult",2008,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",4.1,662,10.8737660393623,47.3875491325273,"Fall",116715
+6,-83.3666667,43.9,"immature",1933,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",7.9,726,10.5977234547917,51.1691859496215,"Summer",116716
+5,-83.3666667,43.9,NA,1934,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"male",7.1,534,11.2357755190797,54.2249588208805,"Spring",116717
+9,-83.4655,41.7862,NA,1935,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"male",9.4,650,10.278408525554,38.5226996202882,"Fall",116718
+7,-84.7166667,44.8833333,"immature",1939,"Setophaga ruticilla","Setophaga_ruticilla",12,NA,"male",6.4,809,10.660917010987,61.4189059037445,"Summer",116719
+5,-73.2642,41.1411,"immature",1983,"Setophaga ruticilla","Setophaga_ruticilla",9.2,NA,"male",11.1,1491,8.92848692600705,54.9612716252835,"Spring",116720
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116721
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116722
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",6.7,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116723
+9,-75.4167,38.1,NA,1975,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116724
+7,-72.6372,41.3597,NA,1968,"Setophaga ruticilla","Setophaga_ruticilla",9.4,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Summer",116725
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116726
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",11.5,NA,"male",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116727
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116728
+9,-72.9286,41.3081,"immature",1974,"Setophaga ruticilla","Setophaga_ruticilla",7.8,NA,"female",10.9,1068,8.86366006212838,44.8544482256288,"Fall",116729
+9,-72.9286,41.3081,"immature",1974,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"female",10.9,1068,8.86366006212838,44.8544482256288,"Fall",116730
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116731
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"male",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116732
+5,-73.39,41.065,"adult",1981,"Setophaga ruticilla","Setophaga_ruticilla",5,NA,"female",10.3,1023,9.43642202352463,50.7282834007856,"Spring",116733
+9,-123.00674,37.69917,"Imm.; Sk.Unoss.",1969,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",-9999,-9999,0,0,"Fall",116734
+11,-97.10026,16.16915,"Ad.",1964,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",21.8,1111,1.49179574521935,125.032778724407,"Fall",116735
+9,-123.00674,37.69917,"U-Ad.",1971,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"male",-9999,-9999,0,0,"Fall",116736
+9,-123.00674,37.69917,"Imm.; Hy",1977,"Setophaga ruticilla","Setophaga_ruticilla",6.5,NA,"male",-9999,-9999,0,0,"Fall",116737
+9,-123.00674,37.69917,"U-Ad.",1971,"Setophaga ruticilla","Setophaga_ruticilla",3.4,NA,"female",-9999,-9999,0,0,"Fall",116738
+10,-123.00674,37.69917,"U-Ad.",1971,"Setophaga ruticilla","Setophaga_ruticilla",9.3,NA,"female",-9999,-9999,0,0,"Fall",116739
+6,-123.00361,37.69852,"U-Ad",1965,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",-9999,-9999,0,0,"Summer",116740
+6,-123.00361,37.69852,"U-Imm",1965,"Setophaga ruticilla","Setophaga_ruticilla",8.3,NA,"male",-9999,-9999,0,0,"Summer",116741
+9,-123.00361,37.69852,"U-Ad",1965,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",-9999,-9999,0,0,"Fall",116742
+8,-123.00361,37.69852,"U-Imm",1965,"Setophaga ruticilla","Setophaga_ruticilla",9.7,NA,"male",-9999,-9999,0,0,"Summer",116743
+5,-93.85,36.5166667,"1 year",2000,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",14,1038,9.34902360806958,66.331183363513,"Spring",116744
+5,-91.2,38.0166667,"adult",2001,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",13.2,1017,9.11306089016631,38.7837536993484,"Spring",116745
+4,-88.000000051,13.00000002,NA,2004,"Setophaga ruticilla","Setophaga_ruticilla",6.25,NA,"female",-9999,-9999,0,0,"Spring",116746
+1,-89.67,15.4,NA,1959,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",-9999,-9999,0,0,"Winter",116747
+1,-89.67,15.4,NA,1959,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",-9999,-9999,0,0,"Winter",116748
+5,-73.2366833333,42.351,"adult",2011,"Setophaga ruticilla","Setophaga_ruticilla",7.1,NA,"female",8.3,1595,9.95100116784358,48.0470646762576,"Spring",116749
+5,-103.529842,34.11186,NA,2011,"Setophaga ruticilla","Setophaga_ruticilla",7.28,NA,"male",15.3,179,9.8091330355486,99.1569054962257,"Spring",116750
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116751
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116752
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116753
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.9,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116754
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116755
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116756
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116757
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",9.3,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116758
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.9,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116759
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116760
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",9.2,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116761
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116762
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116763
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116764
+9,-80.05214,42.79957,NA,1970,"Setophaga ruticilla","Setophaga_ruticilla",7.6,NA,"undetermined",8.4,910,10.5680335603807,37.9925835072968,"Fall",116765
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.1,127,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116766
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.9,135,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",116767
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.8,134,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116768
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,134,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116769
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.4,134,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",116770
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.6,139,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116771
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",9.4,132,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116772
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.6,139,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",116773
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.6,133,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116774
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.6,132,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116775
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.5,135,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",116776
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8,134,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",116777
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.4,133,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116778
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,134,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",116779
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.5,133,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116780
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.9,134,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",116781
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",9.2,133,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116782
+9,-80.05214,42.79957,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,"female",8.4,910,10.5680335603807,37.9925835072968,"Fall",116783
+9,-80.05214,42.79957,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,133,"male",8.4,910,10.5680335603807,37.9925835072968,"Fall",116784
+9,-80.07309,42.80729,"ad",1970,"Setophaga ruticilla","Setophaga_ruticilla",8.2,134,"female",8.4,908,10.5469046155589,38.025836374342,"Fall",116785
+5,-86.9350482,20.4339471,NA,1973,"Setophaga ruticilla","Setophaga_ruticilla",10,NA,"undetermined",26.1,1339,1.7730302771347,65.0980252458171,"Spring",116786
+5,-86.9350482,20.4339471,NA,1973,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"undetermined",26.1,1339,1.7730302771347,65.0980252458171,"Spring",116787
+8,-80.07309,42.80729,"ad",1974,"Setophaga ruticilla","Setophaga_ruticilla",8.9,NA,"male",8.2,898,9.25806364334586,37.9292150727009,"Summer",116788
+6,-77.27889,43.8979,"ad",1930,"Setophaga ruticilla","Setophaga_ruticilla",6,NA,"male",7.8,618,10.0551321134126,38.1251518698444,"Summer",116789
+7,-93.63727,52.84037,"ad",1938,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",116790
+5,-81.4957,43.01923,"ad",1915,"Setophaga ruticilla","Setophaga_ruticilla",12,63,"male",7.1,950,9.36403500181153,54.9758855413083,"Spring",116791
+8,-94.98538,49.92533,NA,1947,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",116792
+2,-102.033333,17.966667,NA,1960,"Setophaga ruticilla","Setophaga_ruticilla",6.2,NA,"male",27.4,842,1.41193505730986,144.959647155031,"Winter",116793
+6,-85.8666667,45.4333333,NA,1939,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",6.2,749,10.3052355037563,45.0409106964284,"Summer",116794
+6,-85.9965,45.0939,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",7.5,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",116795
+6,-85.9965,45.0939,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",116796
+6,-85.9965,45.0939,NA,1940,"Setophaga ruticilla","Setophaga_ruticilla",8,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",116797
+1,-83.6833333,9.75,NA,1952,"Setophaga ruticilla","Setophaga_ruticilla",7.9,NA,"female",-9999,-9999,0,0,"Winter",116798
+5,-83.6833333,42.2833333,NA,1939,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"male",10.1,668,10.247660486889,65.1152082954545,"Spring",116799
+6,-118.3166667,46.3,NA,1908,"Setophaga ruticilla","Setophaga_ruticilla",2.4,132.1,"male",11.2,322,7.72538123017338,70.2585038939748,"Summer",116800
+5,-83.75,42.2833333,NA,1960,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"male",9,691,10.5767326111268,64.10073396908,"Spring",116801
+5,-83.75,42.2833333,"immature",1960,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"male",9,691,10.5767326111268,64.10073396908,"Spring",116802
+5,-83.75,42.2833333,NA,1960,"Setophaga ruticilla","Setophaga_ruticilla",8.8,NA,"male",9,691,10.5767326111268,64.10073396908,"Spring",116803
+6,-83.7,37.8,NA,1948,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",8.7,NA,"female",12.8,1333,8.77880971430638,42.2617219504307,"Summer",116804
+7,-83.7,37.8,NA,1948,"Setophaga ruticilla ruticilla","Setophaga_ruticilla",7.5,NA,"female",12.8,1333,8.77880971430638,42.2617219504307,"Summer",116805
+9,-79.3833333,43.65,"immature",1973,"Setophaga ruticilla","Setophaga_ruticilla",8.5,NA,NA,8.7,821,10.2250879821361,38.9037765764301,"Fall",116806
+4,-89.65,17.4,"adult",1931,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"female",-9999,-9999,0,0,"Spring",116807
+6,-83.3666667,43.9,NA,1933,"Setophaga ruticilla","Setophaga_ruticilla",11,NA,"female",7.9,726,10.5977234547917,51.1691859496215,"Summer",116808
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",7.3,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116809
+7,-72.6372,41.3597,NA,1968,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Summer",116810
+9,-72.9286,41.3081,NA,1974,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"female",10.9,1068,8.86366006212838,44.8544482256288,"Fall",116811
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",10.4,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116812
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",7.6,NA,NA,14.4,1191,8.05531539175258,42.0969838039138,"Fall",116813
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",7,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116814
+9,-72.9286,41.3081,"immature",1974,"Setophaga ruticilla","Setophaga_ruticilla",9.1,NA,"female",10.9,1068,8.86366006212838,44.8544482256288,"Fall",116815
+9,-72.9286,41.3081,"immature",1974,"Setophaga ruticilla","Setophaga_ruticilla",8.2,NA,"female",10.9,1068,8.86366006212838,44.8544482256288,"Fall",116816
+6,-72.9975,41.4217,"adult",2003,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"male",9.2,1450,9.70930512758797,23.788116672448,"Summer",116817
+7,-72.6372,41.3597,NA,1968,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"female",9.3,1011,9.86779272853526,57.3532884782539,"Summer",116818
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",10.5,NA,"male",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116819
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",7.2,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116820
+9,-72.9286,41.3081,"immature",1974,"Setophaga ruticilla","Setophaga_ruticilla",9,NA,"male",10.9,1068,8.86366006212838,44.8544482256288,"Fall",116821
+9,-75.4167,38.1,NA,1975,"Setophaga ruticilla","Setophaga_ruticilla",7.6,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116822
+6,-72.6372,41.3597,NA,1968,"Setophaga ruticilla","Setophaga_ruticilla",8.1,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Summer",116823
+9,-75.4167,38.1,"immature",1975,"Setophaga ruticilla","Setophaga_ruticilla",8.4,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116824
+9,-75.4167,38.1,NA,1975,"Setophaga ruticilla","Setophaga_ruticilla",9.5,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",116825
+6,-72.1333,42,NA,1975,"Setophaga ruticilla","Setophaga_ruticilla",8.6,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Summer",116826
+NA,-72.6822,41.2889,NA,1966,"Setophaga ruticilla","Setophaga_ruticilla",9.3,NA,"female",10.2,937,9.09706496124387,38.2550791246822,"",116827

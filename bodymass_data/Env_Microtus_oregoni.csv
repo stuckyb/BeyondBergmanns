@@ -1,0 +1,769 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-123.8666666667,44.55,NA,1996,"Microtus oregoni","Microtus_oregoni",23,143,"male",11,3665,4.1714306099147,92.0266077653585,"Spring",62681
+10,-122.7166666667,43.7333333333,NA,1995,"Microtus oregoni","Microtus_oregoni",16,124,"male",11.8,1911,5.46095645968227,75.4184223859873,"Fall",62682
+10,-122.7166666667,43.7333333333,NA,1995,"Microtus oregoni","Microtus_oregoni",17,127,"female",11.8,1911,5.46095645968227,75.4184223859873,"Fall",62683
+10,-122.3,43.2,NA,1995,"Microtus oregoni","Microtus_oregoni",18,128,"male",5.7,2097,5.7571233873324,76.3526552002324,"Fall",62684
+5,-123.86222,45.23056,NA,1996,"Microtus oregoni","Microtus_oregoni",23,137,"male",11.1,3174,3.62201810480223,79.3092653139997,"Spring",62685
+1,-123.9,45,NA,1995,"Microtus oregoni","Microtus_oregoni",10,96,"undetermined",11.7,2660,3.6227396296508,75.4818007047478,"Winter",62686
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",15,118,"female",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62687
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",22.6,142,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62688
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",24,134,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62689
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",18.7,128,"male",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62690
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",22.5,142,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62691
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",18,128,"male",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62692
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",18.3,129,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62693
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",16.4,118,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62694
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",15.9,121,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62695
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",17.4,121,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62696
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",20.8,122,"male",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62697
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",20.3,128,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62698
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",20.5,125,"undetermined",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62699
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",16.5,121,"undetermined",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62700
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",13.5,108,"undetermined",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62701
+5,-123.9166666667,45.25,NA,1996,"Microtus oregoni","Microtus_oregoni",21,133,"male",10.2,3791,4.34353403103831,83.5754717495116,"Spring",62702
+4,-123.5666666667,44.2833333333,NA,1996,"Microtus oregoni","Microtus_oregoni",15,124,"female",10.9,3131,5.25324574992365,89.9888956453805,"Spring",62703
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",25,139,"male",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62704
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",13,132,"male",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62705
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",20,129,"male",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62706
+5,-123.8666666667,44.5333333333,NA,1995,"Microtus oregoni","Microtus_oregoni",23,133,"male",11.7,2677,3.98744240957747,80.6583006994274,"Spring",62707
+1,-123.8,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",19,122,"female",11.9,2869,4.25899226948291,82.4377486649928,"Winter",62708
+1,-123.8,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",14,125,"male",11.9,2869,4.25899226948291,82.4377486649928,"Winter",62709
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",18,126,"male",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62710
+10,-120.326844,49.458596,NA,1974,"Microtus oregoni serpens","Microtus_oregoni",25,117,"female",5.8,404,7.55065720599368,87.8059736782909,"Fall",62711
+3,-122.4869,48.7597,"unknown",1928,"Microtus oregoni","Microtus_oregoni",20,133,"female",10,730,4.70122485651507,70.6271804234902,"Spring",62712
+8,-122.4869,48.7597,"unknown",1931,"Microtus oregoni","Microtus_oregoni",17,129,"female",10.1,1013,4.53019331984315,58.1024322160195,"Summer",62713
+9,-122.4869,48.7597,"unknown",1931,"Microtus oregoni","Microtus_oregoni",18,132,"female",10.1,1013,4.53019331984315,58.1024322160195,"Fall",62714
+6,-122.4869,48.7597,"unknown",1940,"Microtus oregoni","Microtus_oregoni",40,174,"male",10.7,827,4.71618746896519,63.3127824393524,"Summer",62715
+7,-122.3706,47.7097,"unknown",1974,"Microtus oregoni","Microtus_oregoni",17.8,124,"male",10.6,1040,5.06780539436466,76.0459507378365,"Summer",62716
+8,-122.3706,47.7097,"unknown",1974,"Microtus oregoni","Microtus_oregoni",24.1,141,"female",10.6,1040,5.06780539436466,76.0459507378365,"Summer",62717
+8,-122.3706,47.7097,"unknown",1974,"Microtus oregoni","Microtus_oregoni",25.2,148,"female",10.6,1040,5.06780539436466,76.0459507378365,"Summer",62718
+8,-121.895,46.9244,"unknown",1975,"Microtus oregoni","Microtus_oregoni",20.2,138,"female",4.5,2405,6.03547592961563,67.5743514614871,"Summer",62719
+8,-121.8569,46.9164,"unknown",1975,"Microtus oregoni","Microtus_oregoni",18.6,144,"male",3.9,2463,6.10846407318021,68.7848605667914,"Summer",62720
+8,-121.575,48.8375,"unknown",1977,"Microtus oregoni","Microtus_oregoni",15.6,107,"female",3.3,2943,6.09463251185381,70.4931320308303,"Summer",62721
+8,-121.575,48.8375,"unknown",1977,"Microtus oregoni","Microtus_oregoni",28.8,152,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",62722
+8,-121.575,48.8375,"unknown",1977,"Microtus oregoni","Microtus_oregoni",23.9,137,"female",3.3,2943,6.09463251185381,70.4931320308303,"Summer",62723
+8,-121.5703,46.7311,"unknown",1976,"Microtus oregoni","Microtus_oregoni",17.5,126,"male",8,1386,5.68168242262054,82.9474036248947,"Summer",62724
+7,-121.3589,47.7094,"unknown",1980,"Microtus oregoni","Microtus_oregoni",20.5,140,"male",7.8,2505,5.8392286227798,80.9006167397904,"Summer",62725
+7,-121.9211,47.3952,"unknown",1969,"Microtus oregoni","Microtus_oregoni",16.27,132,"female",9.5,1409,5.88346424440155,58.1460284663425,"Summer",62726
+9,-121.815,47.3515,"unknown",1969,"Microtus oregoni","Microtus_oregoni",15.11,128,"male",8.1,1971,6.03110623552947,56.4306116894839,"Fall",62727
+9,-121.815,47.3515,"unknown",1969,"Microtus oregoni","Microtus_oregoni",16.17,122,"male",8.1,1971,6.03110623552947,56.4306116894839,"Fall",62728
+9,-121.815,47.3515,"unknown",1969,"Microtus oregoni","Microtus_oregoni",16.6,132,"male",8.1,1971,6.03110623552947,56.4306116894839,"Fall",62729
+9,-121.815,47.3515,"unknown",1969,"Microtus oregoni","Microtus_oregoni",14.52,121,"female",8.1,1971,6.03110623552947,56.4306116894839,"Fall",62730
+3,-121.9211,47.3952,"unknown",1970,"Microtus oregoni","Microtus_oregoni",18.09,129,"male",9.3,1523,5.26960984122998,70.1922925801664,"Spring",62731
+9,-121.5861,46.9175,"unknown",1979,"Microtus oregoni","Microtus_oregoni",10.7,93,"male",3.6,1528,6.70474165095573,92.696976572322,"Fall",62732
+9,-121.8192,47.8608,"unknown",1979,"Microtus oregoni","Microtus_oregoni",14.5,121,"female",11,1230,6.0933396326471,90.0182139384441,"Fall",62733
+10,-124.7311,48.1661,"unknown",1982,"Microtus oregoni","Microtus_oregoni",18,123,"undetermined",8.6,2508,4.01394350037995,72.9936386494071,"Fall",62734
+10,-124.7311,48.1661,"unknown",1982,"Microtus oregoni","Microtus_oregoni",18.5,131,"female",8.6,2508,4.01394350037995,72.9936386494071,"Fall",62735
+9,-123.4389,47.9947,"unknown",1978,"Microtus oregoni","Microtus_oregoni",20.4,125,"female",3.9,1654,5.92582304729721,73.9725598081895,"Fall",62736
+9,-123.4389,47.9947,"unknown",1978,"Microtus oregoni","Microtus_oregoni",12.8,106,"female",3.9,1654,5.92582304729721,73.9725598081895,"Fall",62737
+9,-123.4389,47.9947,"unknown",1978,"Microtus oregoni","Microtus_oregoni",13,106,"male",3.9,1654,5.92582304729721,73.9725598081895,"Fall",62738
+9,-121.6319,46.9161,"unknown",1975,"Microtus oregoni","Microtus_oregoni",19.4,138,"female",2.1,2382,6.34550664214092,85.7294240407232,"Fall",62739
+7,-122.4751157,47.0044,"unknown",1963,"Microtus oregoni","Microtus_oregoni",20,122,"female",10.3,1031,5.19236035542662,56.4654998456673,"Summer",62740
+8,-123.9503662,46.4257194,"unknown",1989,"Microtus oregoni","Microtus_oregoni",10.6,102,"female",10.2,1731,4.57485717611142,65.3536330638812,"Summer",62741
+8,-123.9503662,46.4257194,"unknown",1989,"Microtus oregoni","Microtus_oregoni",15.4,118,"male",10.2,1731,4.57485717611142,65.3536330638812,"Summer",62742
+9,-123.9503649,46.4328806,"unknown",1989,"Microtus oregoni","Microtus_oregoni",15.3,119,"male",10.2,1729,4.58571563431357,65.4908852253671,"Fall",62743
+7,-123.0044,47.9618,"unknown",1987,"Microtus oregoni","Microtus_oregoni",14.5,111,"male",8.9,1088,5.28539296437633,88.6608221753076,"Summer",62744
+7,-124.1504,47.9396631,"unknown",1987,"Microtus oregoni","Microtus_oregoni",21,140,"male",9.9,2685,4.72196671917218,82.1871149579926,"Summer",62745
+8,-123.8724,47.4388,"unknown",1987,"Microtus oregoni","Microtus_oregoni",13.1,98,"male",10.3,2988,4.51995575199581,86.6534352848594,"Summer",62746
+8,-123.8724,47.4388,"unknown",1987,"Microtus oregoni","Microtus_oregoni",23.9,133,"female",10.3,2988,4.51995575199581,86.6534352848594,"Summer",62747
+8,-123.8724,47.4388,"unknown",1987,"Microtus oregoni","Microtus_oregoni",13.2,118,"female",10.3,2988,4.51995575199581,86.6534352848594,"Summer",62748
+8,-123.8724,47.4388,"unknown",1987,"Microtus oregoni","Microtus_oregoni",22.1,139,"male",10.3,2988,4.51995575199581,86.6534352848594,"Summer",62749
+9,-123.8687,47.2215,"unknown",1987,"Microtus oregoni","Microtus_oregoni",13.2,112,"female",10.2,2338,4.33040693727786,86.723662241631,"Fall",62750
+9,-123.9096,47.236,"unknown",1987,"Microtus oregoni","Microtus_oregoni",19.6,133,"female",10.3,2280,4.21105147741684,85.3990325058507,"Fall",62751
+9,-123.9096,47.236,"unknown",1987,"Microtus oregoni","Microtus_oregoni",18.5,132,"female",10.3,2280,4.21105147741684,85.3990325058507,"Fall",62752
+9,-123.9096,47.236,"unknown",1987,"Microtus oregoni","Microtus_oregoni",12.8,119,"female",10.3,2280,4.21105147741684,85.3990325058507,"Fall",62753
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.3,118,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62754
+7,-120.7579,49.1346,"unknown",1962,"Microtus oregoni","Microtus_oregoni",27.2,144,"male",0.7,1252,5.80962498137723,74.3002139815998,"Summer",62755
+6,-120.7362,49.0518,"unknown",1962,"Microtus oregoni","Microtus_oregoni",22.6,127,"female",3.3,946,6.64987468553606,74.2654848443862,"Summer",62756
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",19.9,130,"female",2.3,1051,6.23448377003164,73.2926249664132,"Spring",62757
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",22.8,122,"male",2.3,1051,6.23448377003164,73.2926249664132,"Spring",62758
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",7.1,NA,"male",2.3,1051,6.23448377003164,73.2926249664132,"Spring",62759
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",24.4,134,"male",2.3,1051,6.23448377003164,73.2926249664132,"Spring",62760
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",23.7,142,"female",2.3,1051,6.23448377003164,73.2926249664132,"Spring",62761
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",22.7,136,"female",2.3,1051,6.23448377003164,73.2926249664132,"Spring",62762
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",30.6,149,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",62763
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",28.9,147,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",62764
+5,-120.9506,49.168,"unknown",1962,"Microtus oregoni","Microtus_oregoni",22.5,124,"male",4.6,1059,6.5543127138942,76.7732465670013,"Spring",62765
+5,-120.9522,49.1691,"unknown",1962,"Microtus oregoni","Microtus_oregoni",25.2,133,"male",4.6,1060,6.5543127138942,76.9893657033133,"Spring",62766
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",39.2,152,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",62767
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",31.3,146,"female",1.7,1113,6.02954217066924,73.4883080632086,"Spring",62768
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",31,151,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",62769
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",33.7,149,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",62770
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",29.1,152,"female",1.7,1113,6.02954217066924,73.4883080632086,"Spring",62771
+4,-120.9533,49.1704,"unknown",1962,"Microtus oregoni","Microtus_oregoni",21.3,122,"male",4.6,1061,6.55646800703494,76.9153379713407,"Spring",62772
+8,-121.9917,48.7083,"unknown",1961,"Microtus oregoni","Microtus_oregoni",22.2,131,"male",3.4,5812,5.81259734359674,78.2628863171499,"Summer",62773
+8,-121.9917,48.7083,"unknown",1961,"Microtus oregoni","Microtus_oregoni",22.4,134,"male",3.4,5812,5.81259734359674,78.2628863171499,"Summer",62774
+6,-122.3175,46.8344,"unknown",1961,"Microtus oregoni","Microtus_oregoni",15.6,126,"male",10.3,1129,5.87079959450056,65.8887012686499,"Summer",62775
+8,-123.9759,46.4943,"unknown",1991,"Microtus oregoni","Microtus_oregoni",16.9,123,"male",10.3,1681,3.73651109345538,70.376589478768,"Summer",62776
+9,-122.1106,44.1309,"unknown",1983,"Microtus oregoni","Microtus_oregoni",26.5,105,"female",7.4,2703,4.93263713351277,70.81916336436,"Fall",62777
+9,-122.1106,44.1309,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19,123,"female",7.4,2703,4.93263713351277,70.81916336436,"Fall",62778
+9,-122.1567,44.2914,"unknown",1983,"Microtus oregoni","Microtus_oregoni",10.8,111,"male",7.9,2854,5.06959893219704,69.3636487210527,"Fall",62779
+9,-122.1567,44.2914,"unknown",1983,"Microtus oregoni","Microtus_oregoni",9,97,"female",7.9,2854,5.06959893219704,69.3636487210527,"Fall",62780
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.2,112,"female",8.3,2465,5.18747763777582,75.2228592197597,"Fall",62781
+5,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",21.6,124,"female",8.3,2465,5.18747763777582,75.2228592197597,"Spring",62782
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",13.2,85,"male",8.3,2465,5.18747763777582,75.2228592197597,"Fall",62783
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",10.8,78,"male",8.3,2465,5.18747763777582,75.2228592197597,"Fall",62784
+9,-121.9303,45.8619,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.2,131,"male",8.6,2826,5.95113943762542,86.1418882864332,"Fall",62785
+9,-121.9303,45.8619,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.7,120,"female",8.6,2826,5.95113943762542,86.1418882864332,"Fall",62786
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",23.2,137,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62787
+10,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",9.2,98,"male",8,3255,5.96350009083033,90.1437389662815,"Fall",62788
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",22.2,125,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62789
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",10,106,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62790
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.9,132,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62791
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.6,114,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62792
+9,-121.8893,45.8473,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.1,120,"male",8.7,2901,5.95062385321272,87.3816142969289,"Fall",62793
+10,-121.9712,45.8035,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16.6,121,"female",8.7,3185,5.87141896018847,84.7241502620602,"Fall",62794
+10,-121.9712,45.8035,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.6,117,"female",8.7,3185,5.87141896018847,84.7241502620602,"Fall",62795
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20,131,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62796
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",11,102,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62797
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.8,118,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62798
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.9,130,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62799
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.7,119,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62800
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15,111,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62801
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.6,129,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62802
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.4,123,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62803
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",12.1,109,"male",7.6,3376,5.96830009806863,89.9691564291899,"Summer",62804
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16,116,"male",7.6,3376,5.96830009806863,89.9691564291899,"Summer",62805
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",9,101,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62806
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",21.4,133,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62807
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",10.8,102,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62808
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.8,124,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62809
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.9,117,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62810
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",10.3,101,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62811
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.6,131,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62812
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",21.7,135,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62813
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.6,126,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62814
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.2,120,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62815
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14,121,"female",8,3255,5.96350009083033,90.1437389662815,"Fall",62816
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.3,114,"female",8,3255,5.96350009083033,90.1437389662815,"Fall",62817
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.5,117,"female",8,3255,5.96350009083033,90.1437389662815,"Fall",62818
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.8,122,"male",8,3255,5.96350009083033,90.1437389662815,"Fall",62819
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16.8,118,"female",8,3255,5.96350009083033,90.1437389662815,"Fall",62820
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",13.4,105,"female",8,3255,5.96350009083033,90.1437389662815,"Fall",62821
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15,123,"male",8,3255,5.96350009083033,90.1437389662815,"Fall",62822
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",23,126,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62823
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",25.7,127,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62824
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.5,127,"female",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62825
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",18.7,114,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62826
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",30.2,135,"female",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62827
+9,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14,112,"female",8.2,2939,5.9139985447985,86.5070049251525,"Fall",62828
+9,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",10.5,102,"female",8.2,2939,5.9139985447985,86.5070049251525,"Fall",62829
+9,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",18.6,126,"female",8.2,2939,5.9139985447985,86.5070049251525,"Fall",62830
+9,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",11.9,118,"undetermined",8.2,2939,5.9139985447985,86.5070049251525,"Fall",62831
+9,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.9,119,"female",8.2,2939,5.9139985447985,86.5070049251525,"Fall",62832
+6,-121.9303,45.8619,"unknown",1983,"Microtus oregoni","Microtus_oregoni",24.1,136,"female",8.6,2826,5.95113943762542,86.1418882864332,"Summer",62833
+6,-121.9303,45.8619,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.8,111,"male",8.6,2826,5.95113943762542,86.1418882864332,"Summer",62834
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.3,107,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62835
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",22.9,130,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62836
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",25.4,131,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62837
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17,111,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62838
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",8.2,91,"female",8.2,2939,5.9139985447985,86.5070049251525,"Summer",62839
+9,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16.2,118,"female",8.2,2939,5.9139985447985,86.5070049251525,"Fall",62840
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",21.7,115,"male",7.6,3376,5.96830009806863,89.9691564291899,"Summer",62841
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.3,121,"female",7.6,3376,5.96830009806863,89.9691564291899,"Fall",62842
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16.1,119,"undetermined",7.6,3376,5.96830009806863,89.9691564291899,"Fall",62843
+8,-122.0153037,46.1021804,"unknown",1984,"Microtus oregoni","Microtus_oregoni",17.7,130,"male",8.3,3095,5.85853430837648,69.7630453386378,"Summer",62844
+10,-121.9421339,46.4194806,"unknown",1985,"Microtus oregoni","Microtus_oregoni",18.2,125,"male",6.3,1478,6.68541492558784,67.450797520169,"Fall",62845
+8,-121.8132592,46.6861,"unknown",1984,"Microtus oregoni","Microtus_oregoni",12.2,106,"male",6,2205,5.74795747648807,65.4408525703103,"Summer",62846
+8,-121.5149,46.6574,"unknown",1984,"Microtus oregoni","Microtus_oregoni",20.3,137,"female",5.4,2117,6.06726811870404,71.5389285044308,"Summer",62847
+8,-121.5149,46.6574,"unknown",1984,"Microtus oregoni","Microtus_oregoni",19.7,133,"female",5.4,2117,6.06726811870404,71.5389285044308,"Summer",62848
+7,-121.494,46.6861,"unknown",1984,"Microtus oregoni","Microtus_oregoni",18.6,117,"female",5.4,2190,6.20320054243751,71.4786449007351,"Summer",62849
+5,-121.6039592,46.6897192,"unknown",1986,"Microtus oregoni","Microtus_oregoni",26.6,135,"male",8.1,1700,5.75128444152024,79.0746550347409,"Spring",62850
+5,-121.6039592,46.6897192,"unknown",1986,"Microtus oregoni","Microtus_oregoni",20.7,135,"male",8.1,1700,5.75128444152024,79.0746550347409,"Spring",62851
+10,-121.6098595,46.6931192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",13.4,111,"male",7.4,1208,7.15140905802147,74.244986633963,"Fall",62852
+10,-121.6039592,46.6897192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",17,123,"male",6.9,1262,7.11813731167633,74.013264395882,"Fall",62853
+8,-121.8969648,46.7397808,"unknown",1985,"Microtus oregoni","Microtus_oregoni",19.3,125,"female",6.9,1404,6.76371782290471,69.6719482713331,"Summer",62854
+10,-121.567176,46.7184192,"unknown",1984,"Microtus oregoni","Microtus_oregoni",14.6,123,"male",7.5,1882,6.00294750833945,71.7502582951164,"Fall",62855
+10,-121.8917,46.7578,"unknown",1985,"Microtus oregoni","Microtus_oregoni",18.4,122,"female",6.3,1456,6.86825702383469,70.0574425129254,"Fall",62856
+10,-121.5262,46.9179191,"unknown",1985,"Microtus oregoni","Microtus_oregoni",15.6,124,"male",3.6,1159,7.23815647046326,75.8205058739346,"Fall",62857
+7,-121.5462705,46.7470192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",12.9,106,"female",5.5,1480,7.20531685001367,75.2434126914978,"Summer",62858
+7,-121.5462705,46.7470192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",19.3,125,"female",5.5,1480,7.20531685001367,75.2434126914978,"Summer",62859
+8,-121.5462705,46.7470192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",15.8,119,"male",5.5,1480,7.20531685001367,75.2434126914978,"Summer",62860
+8,-121.5462705,46.7470192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",26.2,144,"male",5.5,1480,7.20531685001367,75.2434126914978,"Summer",62861
+8,-121.5462705,46.7470192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",15.6,122,"male",5.5,1480,7.20531685001367,75.2434126914978,"Summer",62862
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.5,133,"female",8.3,2465,5.18747763777582,75.2228592197597,"Fall",62863
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",25.1,132,"female",8.3,2465,5.18747763777582,75.2228592197597,"Fall",62864
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",23.2,134,"female",8.3,2465,5.18747763777582,75.2228592197597,"Fall",62865
+8,-122.1567,44.2325,"unknown",1983,"Microtus oregoni","Microtus_oregoni",12.9,113,"male",9.5,2668,5.22809282104426,75.2342356438965,"Summer",62866
+5,-122.1567,44.2325,"unknown",1983,"Microtus oregoni","Microtus_oregoni",11,113,"male",9.5,2668,5.22809282104426,75.2342356438965,"Spring",62867
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",13.3,117,"female",8.3,2465,5.18747763777582,75.2228592197597,"Fall",62868
+5,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",8.1,85,"female",8.3,2465,5.18747763777582,75.2228592197597,"Spring",62869
+5,-122.1106,44.1309,"unknown",1983,"Microtus oregoni","Microtus_oregoni",22.6,131,"male",7.4,2703,4.93263713351277,70.81916336436,"Spring",62870
+5,-122.1106,44.1309,"unknown",1983,"Microtus oregoni","Microtus_oregoni",21.25,128,"female",7.4,2703,4.93263713351277,70.81916336436,"Spring",62871
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",18.8,120,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62872
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.3,131,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62873
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.9,115,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62874
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.9,65,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62875
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",22.2,132,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62876
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",23.2,124,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62877
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",22.1,125,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",62878
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14,104,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62879
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.4,113,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62880
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.1,110,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62881
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",13.2,119,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",62882
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16.7,115,"male",7.6,3376,5.96830009806863,89.9691564291899,"Summer",62883
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",26.2,133,"male",7.6,3376,5.96830009806863,89.9691564291899,"Summer",62884
+9,-122.1106,44.1309,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.3,112,"female",7.4,2703,4.93263713351277,70.81916336436,"Fall",62885
+9,-122.1106,44.1309,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16.8,120,"female",7.4,2703,4.93263713351277,70.81916336436,"Fall",62886
+10,-121.2868378,48.663882,"unknown",1993,"Microtus oregoni","Microtus_oregoni",16.8,131,"male",9.5,1439,6.79778818752278,61.2065072368058,"Fall",62887
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",16.6,127,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",62888
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",19.3,128,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",62889
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",13.7,126,"female",11.5,935,5.09399527667507,81.1254766131381,"Summer",62890
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",13.5,123,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",62891
+7,-122.6881888,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",18.1,131,"male",11.5,940,5.13463432943084,81.0491313072884,"Summer",62892
+7,-122.6881888,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",10.9,111,"male",11.5,940,5.13463432943084,81.0491313072884,"Summer",62893
+7,-122.6881888,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",16,124,"male",11.5,940,5.13463432943084,81.0491313072884,"Summer",62894
+7,-122.6881888,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",15.9,127,"female",11.5,940,5.13463432943084,81.0491313072884,"Summer",62895
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",19,139,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",62896
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",7.8,99,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",62897
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",17.7,124,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",62898
+8,-122.6776112,46.984881,"unknown",1992,"Microtus oregoni","Microtus_oregoni",14.1,138,"female",11.5,935,5.13248714001548,80.575403209284,"Summer",62899
+8,-122.6670845,46.9412809,"unknown",1992,"Microtus oregoni","Microtus_oregoni",14.5,123,"male",11.4,970,5.14895546924252,80.6589431328281,"Summer",62900
+8,-122.6776112,46.984881,"unknown",1992,"Microtus oregoni","Microtus_oregoni",14.5,117,"female",11.5,935,5.13248714001548,80.575403209284,"Summer",62901
+8,-122.6776112,46.984881,"unknown",1992,"Microtus oregoni","Microtus_oregoni",13.2,116,"female",11.5,935,5.13248714001548,80.575403209284,"Summer",62902
+8,-122.6776112,46.984881,"unknown",1992,"Microtus oregoni","Microtus_oregoni",17.5,122,"male",11.5,935,5.13248714001548,80.575403209284,"Summer",62903
+8,-122.6776112,46.984881,"unknown",1992,"Microtus oregoni","Microtus_oregoni",8,96,"female",11.5,935,5.13248714001548,80.575403209284,"Summer",62904
+8,-122.6776112,46.984881,"unknown",1992,"Microtus oregoni","Microtus_oregoni",14.2,126,"female",11.5,935,5.13248714001548,80.575403209284,"Summer",62905
+5,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",10.1,99,"male",10,1996,6.59152348233561,78.4895568017706,"Spring",62906
+10,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",18.2,122,"female",10,1996,6.59152348233561,78.4895568017706,"Fall",62907
+6,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",17.7,121,"male",10,1996,6.59152348233561,78.4895568017706,"Summer",62908
+6,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",23.4,144,"male",10,1996,6.59152348233561,78.4895568017706,"Summer",62909
+5,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",13.1,110,"male",10,1996,6.59152348233561,78.4895568017706,"Spring",62910
+6,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",32.85,115,"male",10,1996,6.59152348233561,78.4895568017706,"Summer",62911
+6,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",18.7,123,"female",10,1996,6.59152348233561,78.4895568017706,"Summer",62912
+1,-121.5833,46.8672,"unknown",1977,"Microtus oregoni","Microtus_oregoni",13.1,133,"male",3.3,1979,6.05570104542118,94.1355811495693,"Winter",62913
+7,-122.015,47.0106,"unknown",1985,"Microtus oregoni","Microtus_oregoni",17.5,129,"female",7.5,1177,6.2447250467167,70.0780425015924,"Summer",62914
+6,-122.0078,47.003,"unknown",1991,"Microtus oregoni","Microtus_oregoni",22.2,145,"male",8.7,1633,5.19367330742341,65.909294290886,"Summer",62915
+12,-123.2158774,46.8760191,"unknown",1991,"Microtus oregoni","Microtus_oregoni",13.5,122,"female",10.4,1517,5.10052730488513,70.3323106762378,"Winter",62916
+4,-123.1101831,46.9266809,"unknown",1992,"Microtus oregoni","Microtus_oregoni",18.3,128,"male",11,1624,5.37516736878251,88.267859778998,"Spring",62917
+7,-123.8724,47.4388,"unknown",1988,"Microtus oregoni","Microtus_oregoni",21,140,"male",10,3485,4.69303158465245,67.0849963315012,"Summer",62918
+7,-123.8724,47.4388,"unknown",1988,"Microtus oregoni","Microtus_oregoni",14.75,119,"male",10,3485,4.69303158465245,67.0849963315012,"Summer",62919
+7,-123.7239,47.3515,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13,119,"male",9.8,3713,5.13640453188332,68.1939619050404,"Summer",62920
+7,-123.7239,47.3515,"unknown",1988,"Microtus oregoni","Microtus_oregoni",21.4,129,"female",9.8,3713,5.13640453188332,68.1939619050404,"Summer",62921
+7,-124.1504,47.9396631,"unknown",1988,"Microtus oregoni","Microtus_oregoni",15.5,120,"female",9.4,3128,4.68786311724869,62.288145528402,"Summer",62922
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",20.5,140,"male",8.7,2275,4.77578329288569,65.312732756536,"Summer",62923
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",14.3,118,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",62924
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13.4,118,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",62925
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",19.4,130,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",62926
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",19.3,122,"male",8.7,2275,4.77578329288569,65.312732756536,"Summer",62927
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",14.5,122,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",62928
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",18.4,133,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",62929
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13.6,116,"male",8.7,2275,4.77578329288569,65.312732756536,"Summer",62930
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",11.2,111,"male",8.7,2275,4.77578329288569,65.312732756536,"Summer",62931
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13.3,117,"male",8.7,2275,4.77578329288569,65.312732756536,"Summer",62932
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",12.4,110,"male",8.7,2275,4.77578329288569,65.312732756536,"Summer",62933
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",11.8,112,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",62934
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",19.4,127,"male",8.7,2275,4.77578329288569,65.312732756536,"Summer",62935
+8,-124.2890344,47.9179,"unknown",1988,"Microtus oregoni","Microtus_oregoni",17.2,127,"female",10,2917,4.53881408887094,60.2153199379982,"Summer",62936
+8,-124.2890344,47.9179,"unknown",1988,"Microtus oregoni","Microtus_oregoni",17.5,113,"female",10,2917,4.53881408887094,60.2153199379982,"Summer",62937
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",12.4,109,"female",8.5,1268,5.39816888145668,62.7266467917652,"Summer",62938
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",19.3,129,"male",8.5,1268,5.39816888145668,62.7266467917652,"Summer",62939
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",20.1,135,"female",8.5,1268,5.39816888145668,62.7266467917652,"Summer",62940
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",20.2,123,"female",10.1,988,5.39309322610453,58.0560179707617,"Summer",62941
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",8.6,93,"male",10.1,988,5.39309322610453,58.0560179707617,"Summer",62942
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",22.2,137,"male",10.1,988,5.39309322610453,58.0560179707617,"Summer",62943
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",18.9,130,"male",10.1,988,5.39309322610453,58.0560179707617,"Summer",62944
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",11.8,108,"female",8.5,1268,5.39816888145668,62.7266467917652,"Summer",62945
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",20.2,136,"male",10.1,988,5.39309322610453,58.0560179707617,"Summer",62946
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",12.9,117,"female",10.1,988,5.39309322610453,58.0560179707617,"Summer",62947
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",18.3,130,"male",10.1,988,5.39309322610453,58.0560179707617,"Summer",62948
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13.2,115,"male",8.5,1268,5.39816888145668,62.7266467917652,"Summer",62949
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",18.3,120,"female",9.9,2645,4.35054855475407,64.4078872860435,"Summer",62950
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",23.3,130,"male",9.9,2645,4.35054855475407,64.4078872860435,"Summer",62951
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",18,122,"male",9.9,2645,4.35054855475407,64.4078872860435,"Summer",62952
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",15.6,115,"male",9.9,2645,4.35054855475407,64.4078872860435,"Summer",62953
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",14.7,114,"female",9.9,2645,4.35054855475407,64.4078872860435,"Summer",62954
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",16.5,127,"male",9.9,2645,4.35054855475407,64.4078872860435,"Summer",62955
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13.6,117,"male",9.9,2645,4.35054855475407,64.4078872860435,"Summer",62956
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",17.3,124,"female",9.9,2645,4.35054855475407,64.4078872860435,"Summer",62957
+7,-124.2998,47.8889,"unknown",1989,"Microtus oregoni","Microtus_oregoni",14.6,115,"male",9.7,2677,5.31677590844358,68.8505880659201,"Summer",62958
+7,-124.0188,48.0811,"unknown",1989,"Microtus oregoni","Microtus_oregoni",17.8,126,"male",8.5,2066,5.47564165328151,74.5874304888543,"Summer",62959
+7,-124.0188,48.0811,"unknown",1989,"Microtus oregoni","Microtus_oregoni",17.7,121,"female",8.5,2066,5.47564165328151,74.5874304888543,"Summer",62960
+7,-124.1504,47.9396631,"unknown",1989,"Microtus oregoni","Microtus_oregoni",13.4,115,"female",9.2,2834,5.36873666082937,70.5665616964764,"Summer",62961
+7,-123.9148,47.3515,"unknown",1989,"Microtus oregoni","Microtus_oregoni",16.3,122,"female",9.9,2759,5.34148997485862,71.1342623107081,"Summer",62962
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",9.1,96,"male",10,3184,5.44676718129871,72.7393739745718,"Summer",62963
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",20,132,"male",10,3184,5.44676718129871,72.7393739745718,"Summer",62964
+11,-122.2797,47.7569,"unknown",1975,"Microtus oregoni","Microtus_oregoni",13.8,118,"male",10.3,1154,4.9537558447805,68.3896198060125,"Fall",62965
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",16,108,"female",4.3,1744,5.36594198005656,74.5746060121853,"Summer",62966
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",19,130,"female",4.3,1744,5.36594198005656,74.5746060121853,"Summer",62967
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",22,123,"female",4.3,1744,5.36594198005656,74.5746060121853,"Summer",62968
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",14,115,"female",4.3,1744,5.36594198005656,74.5746060121853,"Summer",62969
+7,-123.6869,47.9764,"unknown",1931,"Microtus oregoni","Microtus_oregoni",11,112,"male",7,2384,5.00819782502104,71.6928970046414,"Summer",62970
+11,-123.54946,44.52605,"subadult",2011,"Microtus oregoni","Microtus_oregoni",17,127,"female",9.7,2527,5.65001340840458,85.1012294180914,"Fall",62971
+10,-124.4811202,42.818005,NA,2005,"Microtus oregoni oregoni","Microtus_oregoni",21,123,"male",10.9,1910,2.66917022630062,77.8655100642485,"Fall",62972
+10,-122.3,43.2,NA,1995,"Microtus oregoni","Microtus_oregoni",20,132,"male",5.7,2097,5.7571233873324,76.3526552002324,"Fall",62973
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",9,121,"female",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62974
+8,-121.0166666667,47.1,NA,1994,"Microtus oregoni","Microtus_oregoni",13.5,129,"male",5.7,1691,7.15965125272216,80.8256077737738,"Summer",62975
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",20.5,131,"male",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62976
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",17.6,123,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62977
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",17.3,122,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62978
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",15.3,116,"undetermined",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62979
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",16.5,123,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62980
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",18.5,124,"male",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62981
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",16.7,123,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62982
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",22.6,138,"male",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62983
+9,-122.2413333333,47.7853333333,NA,2001,"Microtus oregoni","Microtus_oregoni",19,126,"undetermined",9.9,1060,4.48195033304462,60.5695277737877,"Fall",62984
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",14,123,"female",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62985
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",17,125,"female",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62986
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",17,131,"male",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62987
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",16,132,"male",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62988
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",17,125,"female",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62989
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",20,137,"male",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62990
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",17,121,"male",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62991
+1,-123.9,44.5,NA,1995,"Microtus oregoni","Microtus_oregoni",16,126,"male",11.8,2983,4.12122186941806,81.8757703449476,"Winter",62992
+3,-122.4869,48.7597,"unknown",1932,"Microtus oregoni","Microtus_oregoni",30,141,"male",9.5,1199,5.09131762430072,66.0519802472392,"Spring",62993
+9,-122.4869,48.7597,"unknown",1931,"Microtus oregoni","Microtus_oregoni",27,145,"male",10.1,1013,4.53019331984315,58.1024322160195,"Fall",62994
+9,-122.4869,48.7597,"unknown",1931,"Microtus oregoni","Microtus_oregoni",27,140,"female",10.1,1013,4.53019331984315,58.1024322160195,"Fall",62995
+7,-122.4869,48.7597,"unknown",1932,"Microtus oregoni","Microtus_oregoni",9,99,"undetermined",9.5,1199,5.09131762430072,66.0519802472392,"Summer",62996
+4,-122.4869,48.7597,"unknown",1936,"Microtus oregoni","Microtus_oregoni",24,136,"male",9.6,916,5.63229325166288,63.0965624967987,"Spring",62997
+8,-122.4869,48.7597,"unknown",1932,"Microtus oregoni","Microtus_oregoni",12,NA,"undetermined",9.5,1199,5.09131762430072,66.0519802472392,"Summer",62998
+7,-121.7397,48.5478,"unknown",1930,"Microtus oregoni","Microtus_oregoni",20,120,"female",8.6,1368,6.60777205381296,66.447618401372,"Summer",62999
+8,-121.575,48.8375,"unknown",1977,"Microtus oregoni","Microtus_oregoni",16.9,117,"female",3.3,2943,6.09463251185381,70.4931320308303,"Summer",63000
+7,-121.9211,47.3952,"unknown",1969,"Microtus oregoni","Microtus_oregoni",17.83,130,"female",9.5,1409,5.88346424440155,58.1460284663425,"Summer",63001
+7,-121.9211,47.3952,"unknown",1969,"Microtus oregoni","Microtus_oregoni",14.63,120,"male",9.5,1409,5.88346424440155,58.1460284663425,"Summer",63002
+7,-121.9211,47.3952,"unknown",1969,"Microtus oregoni","Microtus_oregoni",13.06,116,"female",9.5,1409,5.88346424440155,58.1460284663425,"Summer",63003
+7,-121.9211,47.3952,"unknown",1969,"Microtus oregoni","Microtus_oregoni",17.45,129,"male",9.5,1409,5.88346424440155,58.1460284663425,"Summer",63004
+7,-121.9211,47.3952,"unknown",1969,"Microtus oregoni","Microtus_oregoni",13.62,120,"female",9.5,1409,5.88346424440155,58.1460284663425,"Summer",63005
+3,-121.9211,47.3952,"unknown",1970,"Microtus oregoni","Microtus_oregoni",19.73,139,"male",9.3,1523,5.26960984122998,70.1922925801664,"Spring",63006
+3,-121.9211,47.3952,"unknown",1970,"Microtus oregoni","Microtus_oregoni",17.19,130,"male",9.3,1523,5.26960984122998,70.1922925801664,"Spring",63007
+3,-121.9211,47.3952,"unknown",1970,"Microtus oregoni","Microtus_oregoni",16.47,140,"female",9.3,1523,5.26960984122998,70.1922925801664,"Spring",63008
+5,-121.8192,47.8608,"unknown",1979,"Microtus oregoni","Microtus_oregoni",18.6,124,"female",11,1230,6.0933396326471,90.0182139384441,"Spring",63009
+1,-122.315676,46.8544809,"unknown",1980,"Microtus oregoni","Microtus_oregoni",14,117,"female",10.1,975,5.19813486364158,65.0613235769399,"Winter",63010
+10,-124.7311,48.1661,"unknown",1982,"Microtus oregoni","Microtus_oregoni",24.5,139,"female",8.6,2508,4.01394350037995,72.9936386494071,"Fall",63011
+10,-124.7311,48.1661,"unknown",1982,"Microtus oregoni","Microtus_oregoni",23.5,132,"female",8.6,2508,4.01394350037995,72.9936386494071,"Fall",63012
+9,-123.4389,47.9947,"unknown",1978,"Microtus oregoni","Microtus_oregoni",18.7,118,"female",3.9,1654,5.92582304729721,73.9725598081895,"Fall",63013
+7,-123.9503649,46.4328806,"unknown",1989,"Microtus oregoni","Microtus_oregoni",19.7,123,"male",10.2,1729,4.58571563431357,65.4908852253671,"Summer",63014
+8,-123.9503662,46.4257194,"unknown",1989,"Microtus oregoni","Microtus_oregoni",23.9,126,"female",10.2,1731,4.57485717611142,65.3536330638812,"Summer",63015
+8,-123.9503662,46.4257194,"unknown",1989,"Microtus oregoni","Microtus_oregoni",18.6,122,"female",10.2,1731,4.57485717611142,65.3536330638812,"Summer",63016
+8,-123.9503662,46.4257194,"unknown",1989,"Microtus oregoni","Microtus_oregoni",14.4,117,"female",10.2,1731,4.57485717611142,65.3536330638812,"Summer",63017
+8,-123.9503662,46.4257194,"unknown",1989,"Microtus oregoni","Microtus_oregoni",14,112,"female",10.2,1731,4.57485717611142,65.3536330638812,"Summer",63018
+4,-123.9503662,46.4257194,"unknown",1991,"Microtus oregoni","Microtus_oregoni",15.8,120,"male",10.2,1822,3.88730451130811,70.2535746196471,"Spring",63019
+7,-122.9387,47.9463,"unknown",1987,"Microtus oregoni","Microtus_oregoni",16,127,"female",10.5,844,5.33785792923784,82.9008630094191,"Summer",63020
+7,-122.9387,47.9463,"unknown",1987,"Microtus oregoni","Microtus_oregoni",14.8,122,"male",10.5,844,5.33785792923784,82.9008630094191,"Summer",63021
+8,-124.0188,48.0811,"unknown",1987,"Microtus oregoni","Microtus_oregoni",16.5,131,"male",9.2,1919,4.84211323763299,86.2825600927551,"Summer",63022
+8,-123.8724,47.4388,"unknown",1987,"Microtus oregoni","Microtus_oregoni",20.3,132,"female",10.3,2988,4.51995575199581,86.6534352848594,"Summer",63023
+8,-123.8724,47.4388,"unknown",1987,"Microtus oregoni","Microtus_oregoni",15.5,126,"male",10.3,2988,4.51995575199581,86.6534352848594,"Summer",63024
+8,-123.8724,47.4388,"unknown",1987,"Microtus oregoni","Microtus_oregoni",12.7,122,"male",10.3,2988,4.51995575199581,86.6534352848594,"Summer",63025
+8,-123.8724,47.4388,"unknown",1987,"Microtus oregoni","Microtus_oregoni",19.4,127,"female",10.3,2988,4.51995575199581,86.6534352848594,"Summer",63026
+9,-123.8687,47.2215,"unknown",1987,"Microtus oregoni","Microtus_oregoni",15.9,122,"male",10.2,2338,4.33040693727786,86.723662241631,"Fall",63027
+9,-123.8687,47.2215,"unknown",1987,"Microtus oregoni","Microtus_oregoni",17.7,126,"female",10.2,2338,4.33040693727786,86.723662241631,"Fall",63028
+9,-123.9096,47.236,"unknown",1987,"Microtus oregoni","Microtus_oregoni",16.3,129,"male",10.3,2280,4.21105147741684,85.3990325058507,"Fall",63029
+9,-123.9096,47.236,"unknown",1987,"Microtus oregoni","Microtus_oregoni",16.7,130,"female",10.3,2280,4.21105147741684,85.3990325058507,"Fall",63030
+9,-123.9096,47.236,"unknown",1987,"Microtus oregoni","Microtus_oregoni",20.5,133,"male",10.3,2280,4.21105147741684,85.3990325058507,"Fall",63031
+7,-121.16667,49.24545,"unknown",1962,"Microtus oregoni","Microtus_oregoni",17.7,122,"female",5.9,1200,6.17139049210635,82.5524626580521,"Summer",63032
+6,-120.7362,49.0518,"unknown",1962,"Microtus oregoni","Microtus_oregoni",30.4,148,"male",3.3,946,6.64987468553606,74.2654848443862,"Summer",63033
+6,-120.7362,49.0518,"unknown",1962,"Microtus oregoni","Microtus_oregoni",24.1,138,"male",3.3,946,6.64987468553606,74.2654848443862,"Summer",63034
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",24.3,139,"female",2.3,1051,6.23448377003164,73.2926249664132,"Spring",63035
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",20.8,135,"female",2.3,1051,6.23448377003164,73.2926249664132,"Spring",63036
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",33,130,"female",2.3,1051,6.23448377003164,73.2926249664132,"Spring",63037
+5,-120.8667,49.1167,"unknown",1962,"Microtus oregoni","Microtus_oregoni",9.9,108,"female",2.3,1051,6.23448377003164,73.2926249664132,"Spring",63038
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",26.1,152,"female",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63039
+5,-120.9506,49.168,"unknown",1962,"Microtus oregoni","Microtus_oregoni",22.6,127,"female",4.6,1059,6.5543127138942,76.7732465670013,"Spring",63040
+5,-120.9522,49.1691,"unknown",1962,"Microtus oregoni","Microtus_oregoni",22.3,129,"female",4.6,1060,6.5543127138942,76.9893657033133,"Spring",63041
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",31.3,152,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63042
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",23.9,144,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63043
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",29.3,136,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63044
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",31.9,145,"female",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63045
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",32.5,146,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63046
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",35.3,152,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63047
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",32,150,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63048
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",22.4,118,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63049
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",35.5,152,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63050
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",28.1,148,"female",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63051
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",24.3,125,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63052
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",23.4,118,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63053
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",24.6,132,"female",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63054
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",32.3,144,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63055
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",33.6,150,"female",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63056
+5,-120.8,49.1,"unknown",1962,"Microtus oregoni","Microtus_oregoni",30.8,144,"male",1.7,1113,6.02954217066924,73.4883080632086,"Spring",63057
+4,-120.9419,49.1641,"unknown",1962,"Microtus oregoni","Microtus_oregoni",23.5,127,"male",4.3,1058,6.55176936546013,76.3200444435862,"Spring",63058
+7,-120.7579,49.1346,"unknown",1962,"Microtus oregoni","Microtus_oregoni",31,138,"male",0.7,1252,5.80962498137723,74.3002139815998,"Summer",63059
+7,-121.9917,48.7083,"unknown",1961,"Microtus oregoni","Microtus_oregoni",25,137,"male",3.4,5812,5.81259734359674,78.2628863171499,"Summer",63060
+8,-123.9759,46.4943,"unknown",1991,"Microtus oregoni","Microtus_oregoni",17.9,127,"male",10.3,1681,3.73651109345538,70.376589478768,"Summer",63061
+9,-123.9759,46.4943,"unknown",1991,"Microtus oregoni","Microtus_oregoni",14.7,119,"male",10.3,1681,3.73651109345538,70.376589478768,"Fall",63062
+9,-122.1106,44.1309,"unknown",1983,"Microtus oregoni","Microtus_oregoni",12.5,77,"male",7.4,2703,4.93263713351277,70.81916336436,"Fall",63063
+9,-121.9303,45.8619,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.5,126,"female",8.6,2826,5.95113943762542,86.1418882864332,"Fall",63064
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.8,135,"female",7.6,3376,5.96830009806863,89.9691564291899,"Fall",63065
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16.7,118,"male",7.6,3376,5.96830009806863,89.9691564291899,"Fall",63066
+9,-121.8516,45.8607,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.1,114,"female",8.4,3106,5.93389723231169,90.125426773713,"Fall",63067
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",12.9,114,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63068
+10,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",9.4,101,"male",8,3255,5.96350009083033,90.1437389662815,"Fall",63069
+10,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.2,124,"female",8,3255,5.96350009083033,90.1437389662815,"Fall",63070
+10,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",23.5,138,"male",8,3255,5.96350009083033,90.1437389662815,"Fall",63071
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",21.6,130,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",63072
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",25,131,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63073
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16.4,124,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63074
+9,-121.8893,45.8473,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.1,119,"male",8.7,2901,5.95062385321272,87.3816142969289,"Fall",63075
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.3,119,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",63076
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.6,124,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",63077
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.2,123,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63078
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.6,121,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63079
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",7.6,103,"undetermined",7.6,3376,5.96830009806863,89.9691564291899,"Summer",63080
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",12.9,115,"female",7.6,3376,5.96830009806863,89.9691564291899,"Summer",63081
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.5,129,"female",7.6,3376,5.96830009806863,89.9691564291899,"Summer",63082
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.2,126,"female",7.6,3376,5.96830009806863,89.9691564291899,"Summer",63083
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",23.2,130,"male",7.6,3376,5.96830009806863,89.9691564291899,"Summer",63084
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.9,134,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",63085
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.8,116,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63086
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",12.4,16,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63087
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.5,127,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",63088
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",21.2,133,"male",8,3255,5.96350009083033,90.1437389662815,"Fall",63089
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.8,118,"female",8,3255,5.96350009083033,90.1437389662815,"Fall",63090
+9,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.2,119,"female",8,3255,5.96350009083033,90.1437389662815,"Fall",63091
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",21,135,"female",8.2,2939,5.9139985447985,86.5070049251525,"Summer",63092
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",18.3,122,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",63093
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",21.9,130,"female",8.2,2939,5.9139985447985,86.5070049251525,"Summer",63094
+9,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.5,126,"male",8.2,2939,5.9139985447985,86.5070049251525,"Fall",63095
+9,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",18.2,130,"female",8.2,2939,5.9139985447985,86.5070049251525,"Fall",63096
+6,-121.9303,45.8619,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.7,120,"male",8.6,2826,5.95113943762542,86.1418882864332,"Summer",63097
+6,-121.9303,45.8619,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.5,122,"male",8.6,2826,5.95113943762542,86.1418882864332,"Summer",63098
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",26.6,136,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",63099
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.5,118,"female",8.2,2939,5.9139985447985,86.5070049251525,"Summer",63100
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",27.5,138,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",63101
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",18.5,115,"male",8.2,2939,5.9139985447985,86.5070049251525,"Summer",63102
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",18.1,131,"female",7.6,3376,5.96830009806863,89.9691564291899,"Fall",63103
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",17.7,122,"female",7.6,3376,5.96830009806863,89.9691564291899,"Fall",63104
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16,113,"male",7.6,3376,5.96830009806863,89.9691564291899,"Fall",63105
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",18.9,122,"male",7.6,3376,5.96830009806863,89.9691564291899,"Fall",63106
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.9,116,"male",7.6,3376,5.96830009806863,89.9691564291899,"Fall",63107
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.9,116,"male",7.6,3376,5.96830009806863,89.9691564291899,"Fall",63108
+9,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15.2,118,"female",7.6,3376,5.96830009806863,89.9691564291899,"Fall",63109
+11,-122.0153037,46.1021804,"unknown",1985,"Microtus oregoni","Microtus_oregoni",18.2,115,"male",7.7,2013,7.13206587437074,69.2140200554238,"Fall",63110
+7,-122.0153037,46.1021804,"unknown",1985,"Microtus oregoni","Microtus_oregoni",17.8,95,"female",7.7,2013,7.13206587437074,69.2140200554238,"Summer",63111
+10,-121.8004646,46.4287418,"unknown",1985,"Microtus oregoni","Microtus_oregoni",16.4,117,"male",6.9,1389,7.05864503265108,68.8129812644608,"Fall",63112
+7,-121.4731,46.7076384,"unknown",1984,"Microtus oregoni","Microtus_oregoni",19.8,135,"male",4.9,2143,6.23171263973576,71.3417526635545,"Summer",63113
+8,-121.8499,46.6288,"unknown",1984,"Microtus oregoni","Microtus_oregoni",12.8,110,"female",5.8,2359,5.65015419473154,65.0850378970118,"Summer",63114
+8,-121.8499,46.6288,"unknown",1984,"Microtus oregoni","Microtus_oregoni",24,138,"female",5.8,2359,5.65015419473154,65.0850378970118,"Summer",63115
+8,-121.8499,46.6288,"unknown",1984,"Microtus oregoni","Microtus_oregoni",23.2,134,"female",5.8,2359,5.65015419473154,65.0850378970118,"Summer",63116
+7,-121.8499,46.6324193,"unknown",1984,"Microtus oregoni","Microtus_oregoni",9.9,98,"male",5.8,2370,5.65901667226469,65.1309094692479,"Summer",63117
+7,-121.8499,46.6324193,"unknown",1984,"Microtus oregoni","Microtus_oregoni",9.5,103,"male",5.8,2370,5.65901667226469,65.1309094692479,"Summer",63118
+5,-121.6039592,46.6897192,"unknown",1986,"Microtus oregoni","Microtus_oregoni",16.8,122,"male",8.1,1700,5.75128444152024,79.0746550347409,"Spring",63119
+10,-121.6098595,46.6931192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",16.7,124,"female",7.4,1208,7.15140905802147,74.244986633963,"Fall",63120
+10,-121.6098595,46.6931192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",8.1,105,"male",7.4,1208,7.15140905802147,74.244986633963,"Fall",63121
+10,-121.6098595,46.6931192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",11.1,107,"female",7.4,1208,7.15140905802147,74.244986633963,"Fall",63122
+10,-121.6098595,46.6931192,"unknown",1985,"Microtus oregoni","Microtus_oregoni",16.6,127,"female",7.4,1208,7.15140905802147,74.244986633963,"Fall",63123
+7,-121.8706224,46.992119,"unknown",1984,"Microtus oregoni","Microtus_oregoni",20.5,130,"male",6.3,2036,5.2472503622027,57.6754631171634,"Summer",63124
+7,-121.8706224,46.992119,"unknown",1984,"Microtus oregoni","Microtus_oregoni",21.7,130,"female",6.3,2036,5.2472503622027,57.6754631171634,"Summer",63125
+7,-121.8706224,46.992119,"unknown",1984,"Microtus oregoni","Microtus_oregoni",17.4,121,"female",6.3,2036,5.2472503622027,57.6754631171634,"Summer",63126
+10,-121.8917,46.7578,"unknown",1985,"Microtus oregoni","Microtus_oregoni",21.1,129,"male",6.3,1456,6.86825702383469,70.0574425129254,"Fall",63127
+10,-121.8917,46.7578,"unknown",1985,"Microtus oregoni","Microtus_oregoni",14.8,125,"male",6.3,1456,6.86825702383469,70.0574425129254,"Fall",63128
+10,-121.8917,46.7578,"unknown",1985,"Microtus oregoni","Microtus_oregoni",11.8,122,"female",6.3,1456,6.86825702383469,70.0574425129254,"Fall",63129
+11,-121.8969648,46.7397808,"unknown",1985,"Microtus oregoni","Microtus_oregoni",12.6,112,"undetermined",6.9,1404,6.76371782290471,69.6719482713331,"Fall",63130
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",22.4,130,"male",8.3,2465,5.18747763777582,75.2228592197597,"Fall",63131
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.1,128,"female",8.3,2465,5.18747763777582,75.2228592197597,"Fall",63132
+9,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",11.9,101,"female",8.3,2465,5.18747763777582,75.2228592197597,"Fall",63133
+8,-122.1567,44.2325,"unknown",1983,"Microtus oregoni","Microtus_oregoni",13.3,125,"female",9.5,2668,5.22809282104426,75.2342356438965,"Summer",63134
+5,-121.9915,44.1351,"unknown",1983,"Microtus oregoni","Microtus_oregoni",15,129,"female",8.3,2465,5.18747763777582,75.2228592197597,"Spring",63135
+6,-121.9071,45.8711,"unknown",1983,"Microtus oregoni","Microtus_oregoni",22.6,130,"female",8.2,2939,5.9139985447985,86.5070049251525,"Summer",63136
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",20.3,142,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63137
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14.2,60,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63138
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",10.8,103,"male",7.6,3376,5.96830009806863,89.9691564291899,"Summer",63139
+6,-121.8308,45.8462,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16.6,117,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",63140
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.7,112,"female",7.6,3376,5.96830009806863,89.9691564291899,"Summer",63141
+6,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",19.1,111,"female",7.6,3376,5.96830009806863,89.9691564291899,"Summer",63142
+10,-121.2868378,48.663882,"unknown",1993,"Microtus oregoni","Microtus_oregoni",14.8,124,"female",9.5,1439,6.79778818752278,61.2065072368058,"Fall",63143
+5,-121.2868378,48.663882,"unknown",1993,"Microtus oregoni","Microtus_oregoni",18.8,122,"male",9.5,1439,6.79778818752278,61.2065072368058,"Spring",63144
+10,-121.2868378,48.663882,"unknown",1993,"Microtus oregoni","Microtus_oregoni",19.7,158,"female",9.5,1439,6.79778818752278,61.2065072368058,"Fall",63145
+4,-121.2868378,48.663882,"unknown",1993,"Microtus oregoni","Microtus_oregoni",23.1,136,"male",9.5,1439,6.79778818752278,61.2065072368058,"Spring",63146
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",12.5,117,"female",11.5,935,5.09399527667507,81.1254766131381,"Summer",63147
+7,-122.6881888,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",12.9,116,"female",11.5,940,5.13463432943084,81.0491313072884,"Summer",63148
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",16.9,124,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",63149
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",17.3,129,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",63150
+7,-122.6881888,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",13.9,127,"male",11.5,940,5.13463432943084,81.0491313072884,"Summer",63151
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",15.3,119,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",63152
+7,-122.6829,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",8.1,103,"male",11.5,935,5.09399527667507,81.1254766131381,"Summer",63153
+7,-122.6881888,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",9.2,118,"male",11.5,940,5.13463432943084,81.0491313072884,"Summer",63154
+7,-122.6881888,46.992119,"unknown",1992,"Microtus oregoni","Microtus_oregoni",13.1,118,"male",11.5,940,5.13463432943084,81.0491313072884,"Summer",63155
+8,-122.6670845,46.9412809,"unknown",1992,"Microtus oregoni","Microtus_oregoni",9.7,106,"female",11.4,970,5.14895546924252,80.6589431328281,"Summer",63156
+8,-122.6776112,46.984881,"unknown",1992,"Microtus oregoni","Microtus_oregoni",14.2,114,"female",11.5,935,5.13248714001548,80.575403209284,"Summer",63157
+8,-122.6776112,46.984881,"unknown",1992,"Microtus oregoni","Microtus_oregoni",7.3,98,"male",11.5,935,5.13248714001548,80.575403209284,"Summer",63158
+6,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",22.6,140,"male",10,1996,6.59152348233561,78.4895568017706,"Summer",63159
+5,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",24.5,140,"male",10,1996,6.59152348233561,78.4895568017706,"Spring",63160
+5,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",20.95,137,"male",10,1996,6.59152348233561,78.4895568017706,"Spring",63161
+4,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",28.75,135,"male",10,1996,6.59152348233561,78.4895568017706,"Spring",63162
+5,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",8.6,100,"female",10,1996,6.59152348233561,78.4895568017706,"Spring",63163
+4,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",16.15,125,"male",10,1996,6.59152348233561,78.4895568017706,"Spring",63164
+5,-121.2705,48.6675,"unknown",1994,"Microtus oregoni","Microtus_oregoni",19.35,130,"male",10,1996,6.59152348233561,78.4895568017706,"Spring",63165
+9,-121.8664,46.9508,"unknown",1992,"Microtus oregoni","Microtus_oregoni",10.8,111,"male",6.1,1738,5.53662735103623,68.3825328640616,"Fall",63166
+3,-122.2667,49,"unknown",1943,"Microtus oregoni","Microtus_oregoni",22.8,131,"male",9.9,1028,6.04889170915556,43.0551704178551,"Spring",63167
+7,-123.8724,47.4388,"unknown",1988,"Microtus oregoni","Microtus_oregoni",19.3,131,"female",10,3485,4.69303158465245,67.0849963315012,"Summer",63168
+7,-123.8724,47.4388,"unknown",1988,"Microtus oregoni","Microtus_oregoni",20.45,135,"male",10,3485,4.69303158465245,67.0849963315012,"Summer",63169
+7,-123.7239,47.3515,"unknown",1988,"Microtus oregoni","Microtus_oregoni",19.5,132,"female",9.8,3713,5.13640453188332,68.1939619050404,"Summer",63170
+7,-123.8724,47.4388,"unknown",1988,"Microtus oregoni","Microtus_oregoni",17.9,133,"male",10,3485,4.69303158465245,67.0849963315012,"Summer",63171
+7,-123.8724,47.4388,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13.7,115,"male",10,3485,4.69303158465245,67.0849963315012,"Summer",63172
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",17.2,122,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",63173
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",18.4,122,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",63174
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",10.2,105,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",63175
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",18.5,133,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",63176
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",19,135,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",63177
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",9.4,104,"male",8.7,2275,4.77578329288569,65.312732756536,"Summer",63178
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",18.7,120,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",63179
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",16.9,126,"female",8.7,2275,4.77578329288569,65.312732756536,"Summer",63180
+8,-124.0188,48.0811,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13.2,112,"male",8.7,2275,4.77578329288569,65.312732756536,"Summer",63181
+8,-124.2890344,47.9179,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13.9,115,"female",10,2917,4.53881408887094,60.2153199379982,"Summer",63182
+8,-124.2998,47.8889,"unknown",1988,"Microtus oregoni","Microtus_oregoni",14.3,116,"male",9.9,2945,4.57542844491589,60.0832551144491,"Summer",63183
+8,-124.2890344,47.9179,"unknown",1988,"Microtus oregoni","Microtus_oregoni",9,97,"male",10,2917,4.53881408887094,60.2153199379982,"Summer",63184
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",20.6,129,"female",8.5,1268,5.39816888145668,62.7266467917652,"Summer",63185
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",15.6,121,"female",8.5,1268,5.39816888145668,62.7266467917652,"Summer",63186
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",15.6,122,"female",10.1,988,5.39309322610453,58.0560179707617,"Summer",63187
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",13.4,122,"male",8.5,1268,5.39816888145668,62.7266467917652,"Summer",63188
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",15.1,115,"male",8.5,1268,5.39816888145668,62.7266467917652,"Summer",63189
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",11.6,109,"female",8.5,1268,5.39816888145668,62.7266467917652,"Summer",63190
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",9.8,107,"female",10.1,988,5.39309322610453,58.0560179707617,"Summer",63191
+8,-122.9387,47.9463,"unknown",1988,"Microtus oregoni","Microtus_oregoni",12,113,"female",10.1,988,5.39309322610453,58.0560179707617,"Summer",63192
+8,-123.0044,47.9618,"unknown",1988,"Microtus oregoni","Microtus_oregoni",14.5,120,"female",8.5,1268,5.39816888145668,62.7266467917652,"Summer",63193
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",12,115,"male",9.9,2645,4.35054855475407,64.4078872860435,"Summer",63194
+8,-123.9096,47.2287622,"unknown",1988,"Microtus oregoni","Microtus_oregoni",20.5,132,"male",9.9,2645,4.35054855475407,64.4078872860435,"Summer",63195
+8,-123.8580762,47.2215,"unknown",1988,"Microtus oregoni","Microtus_oregoni",14.1,113,"male",9.9,2666,4.44245188920249,65.5131530180074,"Summer",63196
+7,-124.1504,47.9396631,"unknown",1989,"Microtus oregoni","Microtus_oregoni",17.3,125,"female",9.2,2834,5.36873666082937,70.5665616964764,"Summer",63197
+7,-124.0188,48.0811,"unknown",1989,"Microtus oregoni","Microtus_oregoni",12.4,106,"female",8.5,2066,5.47564165328151,74.5874304888543,"Summer",63198
+7,-124.0188,48.0811,"unknown",1989,"Microtus oregoni","Microtus_oregoni",19.2,132,"male",8.5,2066,5.47564165328151,74.5874304888543,"Summer",63199
+7,-124.0188,48.0811,"unknown",1989,"Microtus oregoni","Microtus_oregoni",18.6,125,"female",8.5,2066,5.47564165328151,74.5874304888543,"Summer",63200
+7,-123.0044,47.9618,"unknown",1989,"Microtus oregoni","Microtus_oregoni",13.1,105,"male",8.5,1187,5.89058699549673,70.7464383526264,"Summer",63201
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",9,98,"female",10,3184,5.44676718129871,72.7393739745718,"Summer",63202
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",26.4,135,"female",10,3184,5.44676718129871,72.7393739745718,"Summer",63203
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",20,130,"female",10,3184,5.44676718129871,72.7393739745718,"Summer",63204
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",16.5,123,"female",10,3184,5.44676718129871,72.7393739745718,"Summer",63205
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",17.9,128,"male",10,3184,5.44676718129871,72.7393739745718,"Summer",63206
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",13.7,115,"male",10,3184,5.44676718129871,72.7393739745718,"Summer",63207
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",19.8,125,"female",10,3184,5.44676718129871,72.7393739745718,"Summer",63208
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",13.2,112,"male",10,3184,5.44676718129871,72.7393739745718,"Summer",63209
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",12.8,107,"male",10,3184,5.44676718129871,72.7393739745718,"Summer",63210
+7,-123.8724,47.4388,"unknown",1989,"Microtus oregoni","Microtus_oregoni",21.4,135,"female",10,3184,5.44676718129871,72.7393739745718,"Summer",63211
+11,-121.5703,47.8881,"unknown",1991,"Microtus oregoni","Microtus_oregoni",13.6,115,"female",7,3742,5.64727743467969,74.5914602960379,"Fall",63212
+8,-121.8642,47.5497,"unknown",1987,"Microtus oregoni","Microtus_oregoni",19.8,131,"female",11,1265,5.38567122515426,85.4446946987683,"Summer",63213
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",16,116,"female",4.3,1744,5.36594198005656,74.5746060121853,"Summer",63214
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",18,111,"male",4.3,1744,5.36594198005656,74.5746060121853,"Summer",63215
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",27,138,"male",4.3,1744,5.36594198005656,74.5746060121853,"Summer",63216
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",6.5,118,"female",4.3,1744,5.36594198005656,74.5746060121853,"Summer",63217
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",23,126,"female",4.3,1744,5.36594198005656,74.5746060121853,"Summer",63218
+7,-123.4294,47.9446206,"unknown",1931,"Microtus oregoni","Microtus_oregoni",21,135,"female",4.3,1744,5.36594198005656,74.5746060121853,"Summer",63219
+7,-123.6869,47.9764,"unknown",1931,"Microtus oregoni","Microtus_oregoni",14,119,"female",7,2384,5.00819782502104,71.6928970046414,"Summer",63220
+5,-122.4769,47.4292,"unknown",1983,"Microtus oregoni","Microtus_oregoni",40.2,158,"male",10.7,1522,4.82439350875037,76.8764682213868,"Spring",63221
+NA,-121.8308,45.8317,"unknown",1983,"Microtus oregoni","Microtus_oregoni",22.2,126,"female",7.6,3376,5.96830009806863,89.9691564291899,"",63222
+8,-122.677033,46.948055,NA,1996,"Microtus oregoni","Microtus_oregoni",12,109,"male",10.3,1553,5.24857123415506,77.1600979256178,"Summer",63223
+5,-123.92,44.51,NA,1989,"Microtus oregoni oregoni","Microtus_oregoni",15.2,164,"female",10.6,1797,4.84945326502864,87.8036762785473,"Spring",63224
+4,-123.87,44.46,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",20.1,136,"male",10.7,2389,5.37871788260047,84.3637904300376,"Spring",63225
+4,-123.96,44.54,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",17.8,123,"female",10.5,2039,5.05930735467721,81.0270436643973,"Spring",63226
+4,-123.96,44.54,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",21.5,130,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",63227
+5,-123.96,44.54,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",21.9,128,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",63228
+4,-123.96,44.54,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",17,125,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",63229
+10,-122.27,43.32,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",17.5,125,"male",8.4,2455,6.28872849315393,85.7940092966188,"Fall",63230
+10,-122.27,43.32,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",16,124,"male",8.4,2455,6.28872849315393,85.7940092966188,"Fall",63231
+11,-122.42,43.24,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",17,120,"male",9.4,2077,5.99668469012064,84.3043877340466,"Fall",63232
+11,-122.42,43.24,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",18.5,128,"male",9.4,2077,5.99668469012064,84.3043877340466,"Fall",63233
+10,-122.42,43.24,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",18,128,"female",9.4,2077,5.99668469012064,84.3043877340466,"Fall",63234
+10,-122.33,43.2,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",20,129,"female",6.7,2324,6.30028258144511,86.5661502411426,"Fall",63235
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",16,120,"female",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63236
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",18.5,120,"female",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63237
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",18.5,119,"female",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63238
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",19,126,"male",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63239
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",17.5,120,"female",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63240
+10,-122.25,43.26,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",16,114,"female",7.7,2322,6.28337754184271,86.8417436013537,"Fall",63241
+10,-122.71,43.73,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",17,119,"female",11.3,2299,5.90828898987505,84.0575624978013,"Fall",63242
+11,-122.71,43.74,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",16,111,"female",11.1,2367,5.89946068413345,84.3103136546834,"Fall",63243
+4,-123.8,43.77,NA,1995,"Microtus oregoni oregoni","Microtus_oregoni",17.6,124,"male",12.5,2505,4.40752627658507,83.3036654740226,"Spring",63244
+4,-123.8,43.77,NA,1995,"Microtus oregoni oregoni","Microtus_oregoni",16.1,121,"female",12.5,2505,4.40752627658507,83.3036654740226,"Spring",63245
+4,-123.53,43.76,NA,1995,"Microtus oregoni oregoni","Microtus_oregoni",14.3,NA,"female",12.5,1757,5.03809728393808,83.8636389141363,"Spring",63246
+7,-123.28,44.52,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",9,95,"female",11.2,856,5.38161854666588,85.6090672337008,"Summer",63247
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17.7,121,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63248
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15,124,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63249
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",20.4,131,"male",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63250
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",9.8,97,"male",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63251
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.5,131,"male",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63252
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.8,124,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63253
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.6,124,"male",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63254
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.2,124,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63255
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",20.3,128,"male",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63256
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.6,128,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63257
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.6,119,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63258
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",27.5,135,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63259
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.4,123,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63260
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",18.8,132,"male",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63261
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.5,112,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63262
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.3,130,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63263
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.1,114,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63264
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.1,126,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63265
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.3,117,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63266
+8,-123.61,45.62,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.2,119,"male",9.4,2945,5.42728097557873,72.6195244582211,"Summer",63267
+5,-123.61,45.62,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",10.8,107,"female",9.4,2945,5.42728097557873,72.6195244582211,"Spring",63268
+5,-123.61,45.62,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17,128,"male",9.4,2945,5.42728097557873,72.6195244582211,"Spring",63269
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.5,118,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63270
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.6,121,"male",7.9,2186,5.29347082105242,72.978288445236,"Summer",63271
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.7,114,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63272
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.8,116,"male",7.9,2186,5.29347082105242,72.978288445236,"Summer",63273
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",11.4,112,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63274
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",9.7,107,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63275
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",8.6,99,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63276
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.7,115,"male",7.9,2186,5.29347082105242,72.978288445236,"Summer",63277
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",9.3,100,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63278
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.2,113,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63279
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.4,110,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63280
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",22.2,122,"female",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63281
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17.1,126,"male",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63282
+9,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",11.2,116,"female",8.3,1715,5.25616521118512,78.3384944446739,"Fall",63283
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.4,115,"female",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63284
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.5,132,"female",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63285
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.9,128,"male",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63286
+9,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",7.1,101,"female",8.3,1715,5.25616521118512,78.3384944446739,"Fall",63287
+5,-123.5830555556,44.2611111111,NA,1996,"Microtus oregoni","Microtus_oregoni",12,110,"male",11.2,3088,5.12872924186524,90.5039761418516,"Spring",63288
+5,-123.7880555556,45.2330555556,NA,1996,"Microtus oregoni","Microtus_oregoni",13,127,"female",9.2,4695,4.24723617797682,86.2074646485968,"Spring",63289
+4,-123.645,45.2169444444,NA,1996,"Microtus oregoni","Microtus_oregoni",20,142,"female",10.1,3176,4.38962274902843,83.4539818519905,"Spring",63290
+5,-123.8788888889,45.2611111111,NA,1996,"Microtus oregoni","Microtus_oregoni",17,124,"female",10.5,3380,3.88314149610697,81.0684118462119,"Spring",63291
+5,-123.7338888889,44.3188888889,NA,1996,"Microtus oregoni","Microtus_oregoni",5,102,"male",11.9,2703,4.91111139677315,89.1911290625737,"Spring",63292
+5,-123.7338888889,44.3188888889,NA,1996,"Microtus oregoni","Microtus_oregoni",12,136,"female",11.9,2703,4.91111139677315,89.1911290625737,"Spring",63293
+5,-123.5819444444,44.2561111111,NA,1996,"Microtus oregoni","Microtus_oregoni",10,111,"male",11.3,3035,5.12329055008654,90.6620400075037,"Spring",63294
+4,-123.7661111111,45.2369444444,NA,1996,"Microtus oregoni","Microtus_oregoni",11,123,"female",9.4,4266,4.14227100645396,84.5989103276557,"Spring",63295
+5,-123.76,44.2861111111,NA,1996,"Microtus oregoni","Microtus_oregoni",23,153,"male",11.8,2736,4.9203581416828,89.286011477578,"Spring",63296
+5,-123.59,44.2419444444,NA,1996,"Microtus oregoni","Microtus_oregoni",22,132,"female",11.5,2949,5.09785308346622,90.9569653508311,"Spring",63297
+5,-123.6238888889,44.29,NA,1996,"Microtus oregoni","Microtus_oregoni",22,134,"male",11.2,3125,5.07139183573062,90.54690368833,"Spring",63298
+5,-123.6219444444,44.2919444444,NA,1996,"Microtus oregoni","Microtus_oregoni",21,136,"male",11.3,3015,4.99383711097079,89.8972678890629,"Spring",63299
+4,-123.6419444444,45.2161111111,NA,1996,"Microtus oregoni","Microtus_oregoni",23,140,"male",10.1,3157,4.46531243604691,83.5718783884237,"Spring",63300
+5,-123.5838888889,44.2619444444,NA,1996,"Microtus oregoni","Microtus_oregoni",16,127,"male",11.3,3093,5.11689862271586,90.4750859937609,"Spring",63301
+5,-123.635,45.3319444444,NA,1996,"Microtus oregoni","Microtus_oregoni",20,135,"female",9.7,4137,4.71325500342096,82.5392999918392,"Spring",63302
+5,-123.7338888889,45.1630555556,NA,1996,"Microtus oregoni","Microtus_oregoni",21,131,"male",9.5,3644,4.2061553019643,84.1987430821107,"Spring",63303
+5,-123.6219444444,44.2919444444,NA,1996,"Microtus oregoni","Microtus_oregoni",19,132,"female",11.3,3015,4.99383711097079,89.8972678890629,"Spring",63304
+5,-123.7288888889,44.3211111111,NA,1996,"Microtus oregoni","Microtus_oregoni",24,137,"male",11.9,2685,4.91641499099052,89.1310232430004,"Spring",63305
+5,-123.7338888889,45.1630555556,NA,1996,"Microtus oregoni","Microtus_oregoni",21,136,"male",9.5,3644,4.2061553019643,84.1987430821107,"Spring",63306
+4,-123.5038888889,45.2980555556,NA,1996,"Microtus oregoni","Microtus_oregoni",16,125,"male",9.6,3603,5.12380067267779,85.7477300667473,"Spring",63307
+5,-123.8788888889,45.2611111111,NA,1996,"Microtus oregoni","Microtus_oregoni",18,128,"undetermined",10.5,3380,3.88314149610697,81.0684118462119,"Spring",63308
+2,-122.264439,49.006408,NA,1943,"Microtus oregoni serpens","Microtus_oregoni",22,123,"female",9.9,1031,6.04951162566789,43.1477195921867,"Winter",63309
+2,-122.264439,49.006408,NA,1943,"Microtus oregoni serpens","Microtus_oregoni",21,125,"male",9.9,1031,6.04951162566789,43.1477195921867,"Winter",63310
+1,-123.113521,49.261096,NA,1944,"Microtus oregoni serpens","Microtus_oregoni",16.2,125,"male",10.7,996,5.40714314307444,66.8647562675258,"Winter",63311
+1,-123.250567,49.263456,NA,1945,"Microtus oregoni serpens","Microtus_oregoni",19.5,129,"male",9.9,1150,5.04334995691146,67.0545353149727,"Winter",63312
+1,-123.250567,49.263456,NA,1945,"Microtus oregoni serpens","Microtus_oregoni",20,143,"female",9.9,1150,5.04334995691146,67.0545353149727,"Winter",63313
+11,-123.218391,49.243558,NA,1971,"Microtus oregoni serpens","Microtus_oregoni",21,131,"female",9.3,1416,5.8766873785709,61.7045868240279,"Fall",63314
+1,-123.186806,44.85123,NA,1972,"Microtus oregoni oregoni","Microtus_oregoni",15,112,"male",11.2,1258,6.04655549328155,87.7869315517827,"Winter",63315
+6,-123.218391,49.243558,NA,1972,"Microtus oregoni serpens","Microtus_oregoni",31,146,"male",9.2,1317,5.82132964088779,71.9572634941993,"Summer",63316
+4,-122.600108,49.28745,NA,1973,"Microtus oregoni serpens","Microtus_oregoni",29,147,"male",8.7,1702,5.46733412407203,76.2269095650281,"Spring",63317
+11,-123.00757,49.073518,NA,1973,"Microtus oregoni serpens","Microtus_oregoni",17,123,"male",9.7,946,5.10711773069229,83.2974429687411,"Fall",63318
+11,-123.00757,49.073518,NA,1973,"Microtus oregoni serpens","Microtus_oregoni",15,121,"male",9.7,946,5.10711773069229,83.2974429687411,"Fall",63319
+11,-123.00757,49.073518,NA,1973,"Microtus oregoni serpens","Microtus_oregoni",18,133,"female",9.7,946,5.10711773069229,83.2974429687411,"Fall",63320
+4,-122.588189,49.305189,NA,1974,"Microtus oregoni serpens","Microtus_oregoni",19,136,"female",8.4,2597,5.5186392152304,67.0472987722342,"Spring",63321
+4,-122.588189,49.305189,NA,1974,"Microtus oregoni serpens","Microtus_oregoni",22,136,"male",8.4,2597,5.5186392152304,67.0472987722342,"Spring",63322
+5,-123.218391,49.243558,NA,1974,"Microtus oregoni serpens","Microtus_oregoni",23,132,"female",10.1,1329,5.09624787704076,69.5372851036243,"Spring",63323
+5,-123.218391,49.243558,NA,1974,"Microtus oregoni serpens","Microtus_oregoni",25,146,"male",10.1,1329,5.09624787704076,69.5372851036243,"Spring",63324
+2,-123.113521,49.261096,"1 mo",1972,"Microtus oregoni serpens","Microtus_oregoni",17,122,"female",9.3,1454,5.84970861745189,69.8719679314888,"Winter",63325
+2,-123.113521,49.261096,"1 mo",1972,"Microtus oregoni serpens","Microtus_oregoni",21,123,"female",9.3,1454,5.84970861745189,69.8719679314888,"Winter",63326
+2,-123.113521,49.261096,"1 mo",1972,"Microtus oregoni serpens","Microtus_oregoni",21,124,"male",9.3,1454,5.84970861745189,69.8719679314888,"Winter",63327
+2,-123.113521,49.261096,NA,1972,"Microtus oregoni serpens","Microtus_oregoni",23,135,"female",9.3,1454,5.84970861745189,69.8719679314888,"Winter",63328
+8,-122.0833333,46.3083333,"unknown",1983,"Microtus oregoni","Microtus_oregoni",14,135,"male",5.3,2871,5.18275111219023,77.9553379730319,"Summer",63329
+8,-121.8,46.4833333,"unknown",1983,"Microtus oregoni","Microtus_oregoni",16,134,"female",6.2,2128,5.25579045751763,82.2078254288458,"Summer",63330
+8,-123.0563333,47.7416667,"unknown",1999,"Microtus oregoni","Microtus_oregoni",15,115,"female",8.6,2283,4.79014139096692,84.8088989160248,"Summer",63331
+7,-122.530287,47.01908,NA,1999,"Microtus oregoni","Microtus_oregoni",15.4,116,"male",9.9,1252,4.4879890212149,84.445323646908,"Summer",63332
+8,-122.671733,46.944801,NA,1996,"Microtus oregoni","Microtus_oregoni",10.7,103,"male",10.3,1534,5.25151493294165,76.9581869971638,"Summer",63333
+8,-122.512259,47.072132,NA,1999,"Microtus oregoni","Microtus_oregoni",17.2,116,"female",9.9,1223,4.49723820974068,84.7829252855688,"Summer",63334
+11,-123.79,44.43,NA,1989,"Microtus oregoni oregoni","Microtus_oregoni",12,119,"male",11.1,1808,5.2766136408829,86.7817762223114,"Fall",63335
+4,-123.87,44.46,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",8.1,126,"female",10.7,2389,5.37871788260047,84.3637904300376,"Spring",63336
+4,-123.87,44.46,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",20,NA,"male",10.7,2389,5.37871788260047,84.3637904300376,"Spring",63337
+4,-123.87,44.46,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",17.9,139,"female",10.7,2389,5.37871788260047,84.3637904300376,"Spring",63338
+5,-123.96,44.54,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",20.3,122,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",63339
+4,-123.96,44.54,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",20.8,133,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",63340
+5,-123.96,44.54,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",19.9,127,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",63341
+4,-123.96,44.54,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",16.1,123,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",63342
+4,-123.96,44.54,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",20.6,122,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",63343
+5,-123.79,44.43,NA,1990,"Microtus oregoni oregoni","Microtus_oregoni",19.7,135,"female",11.2,2212,5.57355770173284,85.0012638402664,"Spring",63344
+11,-122.27,43.32,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",17.5,112,"male",8.4,2455,6.28872849315393,85.7940092966188,"Fall",63345
+11,-122.27,43.32,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",21,124,"male",8.4,2455,6.28872849315393,85.7940092966188,"Fall",63346
+10,-122.27,43.32,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",16,122,"female",8.4,2455,6.28872849315393,85.7940092966188,"Fall",63347
+11,-122.42,43.24,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",17,115,"female",9.4,2077,5.99668469012064,84.3043877340466,"Fall",63348
+11,-122.42,43.24,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",16.5,115,"male",9.4,2077,5.99668469012064,84.3043877340466,"Fall",63349
+10,-122.42,43.24,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",16.5,122,"female",9.4,2077,5.99668469012064,84.3043877340466,"Fall",63350
+11,-122.33,43.2,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",16,119,"male",6.7,2324,6.30028258144511,86.5661502411426,"Fall",63351
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",17.5,116,"male",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63352
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",18,122,"male",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63353
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",19.5,128,"female",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63354
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",17,119,"female",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63355
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",18,115,"female",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63356
+11,-122.31,43.19,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",19,123,"male",6.4,2363,6.31035704699869,85.5160451697123,"Fall",63357
+10,-122.71,43.73,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",18,118,"female",11.3,2299,5.90828898987505,84.0575624978013,"Fall",63358
+11,-122.71,43.73,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",19.5,123,"male",11.3,2299,5.90828898987505,84.0575624978013,"Fall",63359
+11,-122.71,43.73,NA,1996,"Microtus oregoni oregoni","Microtus_oregoni",18,118,"male",11.3,2299,5.90828898987505,84.0575624978013,"Fall",63360
+4,-123.8,43.77,NA,1995,"Microtus oregoni oregoni","Microtus_oregoni",16.4,125,"male",12.5,2505,4.40752627658507,83.3036654740226,"Spring",63361
+4,-123.8,43.77,NA,1995,"Microtus oregoni oregoni","Microtus_oregoni",8.1,123,"female",12.5,2505,4.40752627658507,83.3036654740226,"Spring",63362
+4,-123.53,43.76,NA,1995,"Microtus oregoni oregoni","Microtus_oregoni",16.3,125,"male",12.5,1757,5.03809728393808,83.8636389141363,"Spring",63363
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15,131,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63364
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.8,119,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63365
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",6.1,85,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63366
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",21.2,136,"male",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63367
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",5.6,123,"male",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63368
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.6,117,"male",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63369
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.8,116,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63370
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",20.3,134,"male",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63371
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.9,113,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63372
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",20.1,124,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63373
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",19.4,124,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63374
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.1,126,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63375
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17.2,127,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63376
+5,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17.4,137,"female",8.8,2554,5.10141840050095,69.5988008898222,"Spring",63377
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15,122,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63378
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17.4,128,"male",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63379
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17.2,134,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63380
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",6.7,89,"male",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63381
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.9,114,"female",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63382
+7,-123.49,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.4,114,"male",8.8,2554,5.10141840050095,69.5988008898222,"Summer",63383
+5,-123.61,45.62,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",20.7,141,"male",9.4,2945,5.42728097557873,72.6195244582211,"Spring",63384
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.9,118,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63385
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17.8,113,"male",7.9,2186,5.29347082105242,72.978288445236,"Summer",63386
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.8,110,"male",7.9,2186,5.29347082105242,72.978288445236,"Summer",63387
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.2,109,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63388
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13,119,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63389
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",11.4,113,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63390
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15,120,"male",7.9,2186,5.29347082105242,72.978288445236,"Summer",63391
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",9.8,102,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63392
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",13.3,120,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63393
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",21.8,122,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63394
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",19.6,124,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63395
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.4,110,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63396
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",10,96,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63397
+6,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17,138,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63398
+8,-123.41,45.55,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.5,120,"female",7.9,2186,5.29347082105242,72.978288445236,"Summer",63399
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.4,128,"female",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63400
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",22.1,120,"male",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63401
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.6,125,"female",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63402
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.1,117,"female",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63403
+9,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",17.8,122,"male",8.3,1715,5.25616521118512,78.3384944446739,"Fall",63404
+9,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.6,120,"male",8.3,1715,5.25616521118512,78.3384944446739,"Fall",63405
+9,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14.2,127,"female",8.3,1715,5.25616521118512,78.3384944446739,"Fall",63406
+6,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",16.4,125,"female",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63407
+8,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",15.8,120,"female",8.3,1715,5.25616521118512,78.3384944446739,"Summer",63408
+9,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",19.7,126,"female",8.3,1715,5.25616521118512,78.3384944446739,"Fall",63409
+9,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",14,125,"female",8.3,1715,5.25616521118512,78.3384944446739,"Fall",63410
+9,-123.3,45.57,NA,2000,"Microtus oregoni oregoni","Microtus_oregoni",8.6,110,"female",8.3,1715,5.25616521118512,78.3384944446739,"Fall",63411
+5,-123.89,45.2680555556,NA,1996,"Microtus oregoni","Microtus_oregoni",20,131,"male",10.3,3531,4.0342754972707,82.3007714843634,"Spring",63412
+5,-123.5861111111,44.2438888889,NA,1996,"Microtus oregoni","Microtus_oregoni",19,131,"male",11.5,2952,5.08819191557246,91.0538393402444,"Spring",63413
+5,-123.6419444444,45.2161111111,NA,1996,"Microtus oregoni","Microtus_oregoni",16,136,"female",10.1,3157,4.46531243604691,83.5718783884237,"Spring",63414
+5,-123.6261111111,44.2938888889,NA,1996,"Microtus oregoni","Microtus_oregoni",19,127,"male",11.4,2945,4.97602585738191,89.7630080283753,"Spring",63415
+5,-123.635,45.3319444444,NA,1996,"Microtus oregoni","Microtus_oregoni",27,140,"male",9.7,4137,4.71325500342096,82.5392999918392,"Spring",63416
+5,-123.5861111111,44.2438888889,NA,1996,"Microtus oregoni","Microtus_oregoni",16,124,"female",11.5,2952,5.08819191557246,91.0538393402444,"Spring",63417
+1,-123.8961111111,44.5388888889,NA,1995,"Microtus oregoni","Microtus_oregoni",21,135,"male",11.8,2592,3.96060142356734,79.8263660815508,"Winter",63418
+4,-123.645,45.2169444444,NA,1996,"Microtus oregoni","Microtus_oregoni",21,142,"male",10.1,3176,4.38962274902843,83.4539818519905,"Spring",63419
+5,-123.635,45.3319444444,NA,1996,"Microtus oregoni","Microtus_oregoni",24,135,"male",9.7,4137,4.71325500342096,82.5392999918392,"Spring",63420
+5,-123.5738888889,44.2611111111,NA,1996,"Microtus oregoni","Microtus_oregoni",20,133,"male",11.2,3006,5.13319559043847,90.7187874473291,"Spring",63421
+5,-123.6380555556,45.3369444444,NA,1996,"Microtus oregoni","Microtus_oregoni",20,136,"female",9.6,4186,4.86311877733047,82.6662939317911,"Spring",63422
+4,-123.5119444444,45.3111111111,NA,1996,"Microtus oregoni","Microtus_oregoni",16,120,"female",8.9,3882,5.14557768350354,86.2931415318583,"Spring",63423
+5,-123.6430555556,45.22,NA,1996,"Microtus oregoni","Microtus_oregoni",24,126,"male",10.1,3194,4.38910496846936,83.3395331712344,"Spring",63424
+4,-123.5038888889,45.2980555556,NA,1996,"Microtus oregoni","Microtus_oregoni",18,132,"male",9.6,3603,5.12380067267779,85.7477300667473,"Spring",63425
+5,-123.7338888889,44.3138888889,NA,1996,"Microtus oregoni","Microtus_oregoni",7,106,"undetermined",11.9,2703,4.90326885399378,89.2023542779077,"Spring",63426
+2,-123.250567,49.263456,NA,1943,"Microtus oregoni serpens","Microtus_oregoni",26,146,"male",10.2,853,5.58772328548502,49.0792476868881,"Winter",63427
+2,-122.264439,49.006408,NA,1943,"Microtus oregoni serpens","Microtus_oregoni",20.6,129,"female",9.9,1031,6.04951162566789,43.1477195921867,"Winter",63428
+1,-123.250567,49.263456,NA,1945,"Microtus oregoni serpens","Microtus_oregoni",19,133,"female",9.9,1150,5.04334995691146,67.0545353149727,"Winter",63429
+1,-123.186806,44.85123,NA,1972,"Microtus oregoni oregoni","Microtus_oregoni",16,114,"male",11.2,1258,6.04655549328155,87.7869315517827,"Winter",63430
+6,-122.574618,49.298909,NA,1972,"Microtus oregoni serpens","Microtus_oregoni",8,110,"male",7.6,2622,6.26677143690627,61.8637440019071,"Summer",63431
+6,-123.218391,49.243558,NA,1972,"Microtus oregoni serpens","Microtus_oregoni",30,149,"male",9.2,1317,5.82132964088779,71.9572634941993,"Summer",63432
+4,-122.600108,49.28745,NA,1973,"Microtus oregoni serpens","Microtus_oregoni",30,143,"male",8.7,1702,5.46733412407203,76.2269095650281,"Spring",63433
+4,-122.600108,49.28745,NA,1973,"Microtus oregoni serpens","Microtus_oregoni",24,143,"female",8.7,1702,5.46733412407203,76.2269095650281,"Spring",63434
+10,-123.00757,49.073518,NA,1973,"Microtus oregoni serpens","Microtus_oregoni",15,125,"male",9.7,946,5.10711773069229,83.2974429687411,"Fall",63435
+5,-123.218391,49.243558,NA,1974,"Microtus oregoni serpens","Microtus_oregoni",26,138,"male",10.1,1329,5.09624787704076,69.5372851036243,"Spring",63436
+8,-123.218391,49.243558,NA,1970,"Microtus oregoni serpens","Microtus_oregoni",14,115,"male",9.6,938,5.29289832958019,67.5803754369592,"Summer",63437
+8,-123.218391,49.243558,NA,1970,"Microtus oregoni serpens","Microtus_oregoni",18,128,"male",9.6,938,5.29289832958019,67.5803754369592,"Summer",63438
+6,-123.218391,49.243558,NA,1972,"Microtus oregoni serpens","Microtus_oregoni",13,108,"male",9.2,1317,5.82132964088779,71.9572634941993,"Summer",63439
+1,-122.574618,49.298909,NA,1973,"Microtus oregoni serpens","Microtus_oregoni",12.5,128,"female",8,1955,5.4622395229485,74.4014758193739,"Winter",63440
+2,-123.113521,49.261096,"1 mo",1972,"Microtus oregoni serpens","Microtus_oregoni",24,130,"male",9.3,1454,5.84970861745189,69.8719679314888,"Winter",63441
+7,-124.15,41.0666667,"adult",1926,"Microtus oregoni oregoni","Microtus_oregoni",17,NA,"male",11.9,1374,2.30629901606777,123.440482651865,"Summer",63442
+8,-121.8,46.4833333,"unknown",1983,"Microtus oregoni","Microtus_oregoni",10,120,"male",6.2,2128,5.25579045751763,82.2078254288458,"Summer",63443
+9,-121.3333333,48.2166667,"unknown",1999,"Microtus oregoni","Microtus_oregoni",19,122,"female",4.2,3441,5.25964482036227,83.758228125954,"Fall",63444
+7,-121.611,48.395,"unknown",1999,"Microtus oregoni","Microtus_oregoni",11.5,101,"male",7.9,3529,5.15378648679931,81.4383503767518,"Summer",63445
+1,-123.250567,49.263456,NA,1972,"Microtus oregoni serpens","Microtus_oregoni",10,130,"female",9.3,1309,5.82681887326337,72.018065480588,"Winter",63446
+1,-123.113521,49.261096,"4.5 mo old",1972,"Microtus oregoni serpens","Microtus_oregoni",20,136,"male",9.3,1454,5.84970861745189,69.8719679314888,"Winter",63447
+1,-123.113521,49.261096,"4.5 mo old",1972,"Microtus oregoni serpens","Microtus_oregoni",10,130,"female",9.3,1454,5.84970861745189,69.8719679314888,"Winter",63448

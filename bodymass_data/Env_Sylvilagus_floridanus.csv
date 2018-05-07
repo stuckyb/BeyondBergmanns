@@ -1,0 +1,142 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-78.2806015,41.81750107,NA,1940,"Sylvilagus floridanus","Sylvilagus_floridanus",1616,466,"female",6.1,997,10.0719344535379,34.118447791723,"Summer",143805
+7,-73.46917,41.99444,"adult",1977,"Sylvilagus floridanus","Sylvilagus_floridanus",973,415,"female",6.7,1459,10.1580688930704,41.5078398909646,"Summer",143806
+7,-73.46917,41.99444,"juvenile",1977,"Sylvilagus floridanus","Sylvilagus_floridanus",243,267,"male",6.7,1459,10.1580688930704,41.5078398909646,"Summer",143807
+8,-73.2755,41.175747,"adult",1977,"Sylvilagus floridanus","Sylvilagus_floridanus",1109,428,"male",10.6,1366,9.56093693899898,41.5469706754249,"Summer",143808
+7,-73.46917,41.99444,"juvenile",1977,"Sylvilagus floridanus","Sylvilagus_floridanus",432,310,"female",6.7,1459,10.1580688930704,41.5078398909646,"Summer",143809
+1,-70.864,42.916,"adult",1978,"Sylvilagus floridanus","Sylvilagus_floridanus",1120,412,"female",8.1,990,9.83010219127498,52.7377210128657,"Winter",143810
+4,-76.450379,42.472812,NA,2008,"Sylvilagus floridanus","Sylvilagus_floridanus",1158.4,425,"male",8.3,1058,9.45927474957139,38.1953575079017,"Spring",143811
+9,-105.149729,39.979393,"immature",2011,"Sylvilagus floridanus","Sylvilagus_floridanus",90000,362,"male",10.4,448,9.32592915185691,61.223040335347,"Fall",143812
+7,-105.149165,39.93701,NA,2012,"Sylvilagus floridanus","Sylvilagus_floridanus",509.1,362,"male",12.1,237,8.82056824940572,68.3681609147321,"Summer",143813
+5,-105.235117,40.11637,"adult",2012,"Sylvilagus floridanus","Sylvilagus_floridanus",1340,354,"female",11.6,249,8.99676709611948,70.6831458051484,"Spring",143814
+1,-88.83722,43.45778,"adult",1903,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",1233.2,356,"male",7,893,11.1103930323519,70.8739226078527,"Winter",143820
+3,-102.348759,41.732211,NA,1941,"Sylvilagus floridanus similis","Sylvilagus_floridanus",5,15,"female",9.2,567,9.46346643517569,67.6616285395793,"Spring",143821
+8,-109.00663,33.84005,NA,2008,"Sylvilagus floridanus","Sylvilagus_floridanus",200,453,"male",8.4,467,6.91533210929296,79.2263861598771,"Summer",143822
+8,-109.00663,33.84005,NA,2008,"Sylvilagus floridanus","Sylvilagus_floridanus",490,320,"male",8.4,467,6.91533210929296,79.2263861598771,"Summer",143823
+4,-94.4421508,29.5626114,NA,1997,"Sylvilagus floridanus","Sylvilagus_floridanus",1015,325,"female",20.1,1534,6.69929892306696,40.0589751357678,"Spring",143824
+2,-83.7264,42.2708,"unknown",1929,"Sylvilagus floridanus","Sylvilagus_floridanus",1233.3,422,"male",8.5,799,10.5178203756551,50.1458517794893,"Winter",143825
+1,-83.7264,42.2708,"unknown",1929,"Sylvilagus floridanus","Sylvilagus_floridanus",1415,440.5,"male",8.5,799,10.5178203756551,50.1458517794893,"Winter",143826
+10,-98.17783,30.267,"unknown",1980,"Sylvilagus floridanus","Sylvilagus_floridanus",133.6,74,"male",19.4,778,7.82747201731301,63.9681451463513,"Fall",143827
+9,-122.3975129,47.9351791,"unknown",1985,"Sylvilagus floridanus","Sylvilagus_floridanus",83,155,"male",9.6,701,6.06157170337459,75.8793452845129,"Fall",143828
+4,-85.455,42.3761,"unknown",1986,"Sylvilagus floridanus","Sylvilagus_floridanus",1609.2,467,"female",9.5,1110,9.89197333011146,66.921530673472,"Spring",143829
+6,-122.3975129,47.9351791,"unknown",1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1314.1,432,"female",11.3,772,4.66541108650252,66.7730723050239,"Summer",143830
+8,-122.3112871,47.9496527,"unknown",1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1332.8,422,"female",10.9,807,4.8696337986889,58.641626790716,"Summer",143831
+9,-122.3975129,47.9351791,"unknown",1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1047.6,341,"male",10.7,785,4.85245173894474,60.4391561722655,"Fall",143832
+8,-122.39754,47.960165,"unknown",1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1324.2,397,"female",10.6,784,4.89470957444687,59.8829860676262,"Summer",143833
+6,-71.7219,41.56,"adult",1977,"Sylvilagus floridanus","Sylvilagus_floridanus",1137,406,"male",9.3,1384,9.71197324143885,34.7319662254463,"Summer",143834
+7,-73.46917,41.99444,"juvenile",1977,"Sylvilagus floridanus","Sylvilagus_floridanus",510,335,"male",6.7,1459,10.1580688930704,41.5078398909646,"Summer",143835
+1,-70.864,42.916,"adult",1978,"Sylvilagus floridanus","Sylvilagus_floridanus",1019,400,"female",8.1,990,9.83010219127498,52.7377210128657,"Winter",143836
+1,-70.834,43.1,"adult",1978,"Sylvilagus floridanus","Sylvilagus_floridanus",1240,451,"male",7.7,937,9.97665077097824,54.0692025169825,"Winter",143837
+5,-105.17351,40.144288,"immature",2012,"Sylvilagus floridanus","Sylvilagus_floridanus",109.1,175,"male",11.5,219,9.21554598918522,69.7469306391174,"Spring",143838
+5,-105.10515,40.003836,"adult",2013,"Sylvilagus floridanus","Sylvilagus_floridanus",8800,342,"male",10.1,340,9.63179708836908,63.6960942510873,"Spring",143839
+1,-105.26721,40.20473,NA,2013,"Sylvilagus floridanus","Sylvilagus_floridanus",960,392,"female",9.1,426,9.51220507845292,68.9464691074945,"Winter",143840
+5,-95.563221,36.098337,NA,1974,"Sylvilagus floridanus alacei","Sylvilagus_floridanus",935,350,"male",15.7,1238,8.62892861778964,62.1985181496539,"Spring",143848
+3,-76.5789,43.3631,"adult",1993,"Sylvilagus floridanus","Sylvilagus_floridanus",1345,350,"male",8.1,1015,10.1695736032897,32.3840738690052,"Spring",143849
+3,-83.7264,42.2708,"unknown",1929,"Sylvilagus floridanus","Sylvilagus_floridanus",1200,390,"female",8.5,799,10.5178203756551,50.1458517794893,"Spring",143852
+2,-83.7264,42.2708,"unknown",1929,"Sylvilagus floridanus","Sylvilagus_floridanus",1241.6,464,"female",8.5,799,10.5178203756551,50.1458517794893,"Winter",143853
+1,-83.7264,42.2708,"unknown",1929,"Sylvilagus floridanus","Sylvilagus_floridanus",1505,450.5,"male",8.5,799,10.5178203756551,50.1458517794893,"Winter",143854
+10,-98.17783,30.267,"unknown",1980,"Sylvilagus floridanus","Sylvilagus_floridanus",80.2,57,"female",19.4,778,7.82747201731301,63.9681451463513,"Fall",143855
+2,-122.3975129,47.9351791,"unknown",1986,"Sylvilagus floridanus","Sylvilagus_floridanus",1041,405,"female",10.9,888,4.55992922592605,65.504968520802,"Winter",143856
+3,-122.3975129,47.9351791,"unknown",1986,"Sylvilagus floridanus","Sylvilagus_floridanus",895,410,"male",10.9,888,4.55992922592605,65.504968520802,"Spring",143857
+7,-122.3975129,47.9351791,"unknown",1992,"Sylvilagus floridanus","Sylvilagus_floridanus",116.3,157,"female",11.3,772,4.66541108650252,66.7730723050239,"Summer",143858
+7,-122.3975129,47.9351791,"unknown",1992,"Sylvilagus floridanus","Sylvilagus_floridanus",140.2,192,"female",11.3,772,4.66541108650252,66.7730723050239,"Summer",143859
+12,-109.750265,29.97864,"unknown",1951,"Sylvilagus floridanus","Sylvilagus_floridanus",690,353,"male",21.1,336,7.03626967285158,131.901736169837,"Winter",143860
+6,-105.077875,40.177815,"juvenile",2012,"Sylvilagus floridanus","Sylvilagus_floridanus",624.9,3180,"male",11.3,218,9.31773723994873,70.3692613964098,"Summer",143861
+10,-104.824639,39.530455,NA,2011,"Sylvilagus floridanus","Sylvilagus_floridanus",820,390,"male",10,493,9.39161457058499,61.1643705413932,"Fall",143862
+12,-98.49,45.45,NA,1980,"Sylvilagus floridanus similis","Sylvilagus_floridanus",1000,390,"female",6.7,404,12.5258611268726,102.211018631783,"Winter",143864
+8,-95.73,39.05,NA,1989,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",1133.98,449,"male",11.8,861,10.5149244582943,78.7697480357023,"Summer",143865
+6,-109.13,31.91,NA,1992,"Sylvilagus floridanus holzneri","Sylvilagus_floridanus",1129,396,"male",14.4,424,7.15280724716887,78.7599392310689,"Summer",143866
+3,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1463,409,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143867
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1224,389,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143868
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1017,404,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143869
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",899.4,381,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143870
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1025,409,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143871
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1228,408,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143872
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",915.9,382,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143873
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",968.5,386,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143874
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",993.4,377,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143875
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1465,405,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143876
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1290,381,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143877
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1060,407,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143878
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1123,394,"female",12.7,903,5.38361712358274,84.778954210164,"Spring",143879
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1076,379,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143880
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1082,408,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143881
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1088,NA,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143882
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1054,391,"female",12.7,903,5.38361712358274,84.778954210164,"Spring",143883
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1090,404,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143884
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1041,396,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143885
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1065,387,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143886
+3,-123.2,44.69,NA,1994,"Sylvilagus floridanus","Sylvilagus_floridanus",1249,405,"female",11.8,967,5.56130434885613,85.0455504435416,"Spring",143887
+3,-123.21,44.59,NA,1994,"Sylvilagus floridanus","Sylvilagus_floridanus",1285,400,"female",12,922,5.56343582526285,84.9444567326995,"Spring",143888
+9,-123.33,44.45,NA,1997,"Sylvilagus floridanus rupicola","Sylvilagus_floridanus",42.6,138,"male",11.6,1157,5.54657278839552,64.2323875344273,"Fall",143889
+2,-95.9,38.46,NA,1973,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",1109,373,"male",12.9,1362,10.1028761281432,65.9132771902139,"Winter",143890
+11,-97.31,37.54,NA,1977,"Sylvilagus floridanus alacer","Sylvilagus_floridanus",845.1,350,"female",14.9,958,10.3078375594261,83.1913742783581,"Fall",143891
+5,-99.74,40.77,NA,2005,"Sylvilagus floridanus similis","Sylvilagus_floridanus",1300,410,"male",11.2,508,10.2412823238286,83.1716473682886,"Spring",143892
+5,-99.74,40.77,NA,2005,"Sylvilagus floridanus similis","Sylvilagus_floridanus",1250,423,"female",11.2,508,10.2412823238286,83.1716473682886,"Spring",143893
+8,-95.22,39.04,"JUVENILE",2004,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",98.9,168,"female",13,1033,9.48307902944966,65.3701531356185,"Summer",143894
+5,-96.57,39.18,"JUVENILE",2003,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",100.7,142,"female",13,816,10.2817984218656,69.9050613562552,"Spring",143895
+11,-97.32,35.2,NA,1968,"Sylvilagus floridanus alacer","Sylvilagus_floridanus",711,310,"female",15.4,1066,8.95335978921609,52.0495016442018,"Fall",143896
+1,-89.40111,43.07306,NA,1955,"Sylvilagus floridanus","Sylvilagus_floridanus",1235,419,"female",8.4,639,12.1916513908643,68.753591324339,"Winter",143897
+12,-78.1,40.85,NA,1942,"Sylvilagus floridanus","Sylvilagus_floridanus",946,410,"female",7.8,1183,9.7170383004974,33.9127457246135,"Winter",143898
+9,-93.5833333,45.3,"adult",1923,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",1134,NA,"female",6.7,556,12.6256923002506,83.6469639756476,"Fall",143899
+6,-76.5094764,42.4381028,NA,1955,"Sylvilagus floridanus","Sylvilagus_floridanus",199,143,NA,9.8,870,10.7663723104522,75.6794603011292,"Summer",143900
+11,-96.17921,38.41062,NA,1975,"Sylvilagus floridanus","Sylvilagus_floridanus",1010,345,"male",12.6,859,10.2402466530427,80.2244823207297,"Fall",143901
+11,-97.00819,37.92538,NA,1975,"Sylvilagus floridanus","Sylvilagus_floridanus",960,415,"male",12.8,814,9.96803983648832,88.6214227558424,"Fall",143902
+8,-95.7346,39.053,NA,1989,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",1133.98,449,"male",11.8,862,10.5149244582943,78.7697480357023,"Summer",143903
+10,-95.43,39.07,NA,1978,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",1133.98,425,"male",11.2,848,12.4994636248557,64.3122393251102,"Fall",143904
+12,-76.16,43.96,NA,1974,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",1360.77,432,"male",6.8,912,9.84886933981395,24.9338081168371,"Winter",143905
+5,-95.22,39.04,NA,1990,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",1360.77,447,"female",13.8,960,9.31383379709988,67.3841598597178,"Spring",143906
+11,-101.19,37.74,NA,1994,"Sylvilagus floridanus llanensis","Sylvilagus_floridanus",1052,431,"female",13.1,581,10.1243031933815,100.222755365468,"Fall",143907
+3,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1232,392,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143908
+3,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1140,426,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143909
+3,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1092,339,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143910
+3,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1271,414,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143911
+3,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1128,388,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143912
+3,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1149,415,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143913
+3,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",960.2,374,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143914
+3,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1027,NA,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143915
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1291,394,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143916
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1166,409,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143917
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1028,384,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143918
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1207,429,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143919
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1134,390,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143920
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1382,414,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143921
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1392,396,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143922
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1198,404,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143923
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1056,410,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143924
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",941.9,372,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143925
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1081,381,"female",11.6,924,5.34967430331185,68.5219491621571,"Spring",143926
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",755.6,340,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143927
+4,-123.2,44.69,NA,1991,"Sylvilagus floridanus","Sylvilagus_floridanus",1163,394,"male",11.6,924,5.34967430331185,68.5219491621571,"Spring",143928
+3,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1308,404,"female",12.7,903,5.38361712358274,84.778954210164,"Spring",143929
+3,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1036,396,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143930
+3,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1195,405,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143931
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1026,377,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143932
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1106,383,"female",12.7,903,5.38361712358274,84.778954210164,"Spring",143933
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1256,384,"female",12.7,903,5.38361712358274,84.778954210164,"Spring",143934
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1071,416,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143935
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1106,408,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143936
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1034,404,"female",12.7,903,5.38361712358274,84.778954210164,"Spring",143937
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",981.2,370,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143938
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1247,412,"female",12.7,903,5.38361712358274,84.778954210164,"Spring",143939
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",986.6,384,"male",12.7,903,5.38361712358274,84.778954210164,"Spring",143940
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1190,388,"female",12.7,903,5.38361712358274,84.778954210164,"Spring",143941
+4,-123.2,44.69,NA,1992,"Sylvilagus floridanus","Sylvilagus_floridanus",1155,414,"female",12.7,903,5.38361712358274,84.778954210164,"Spring",143942
+3,-123.28,44.49,NA,1994,"Sylvilagus floridanus","Sylvilagus_floridanus",988.4,415,"female",12,917,5.49239143145894,86.2828493673368,"Spring",143943
+3,-123.21,44.67,NA,1994,"Sylvilagus floridanus","Sylvilagus_floridanus",1104,425,"male",11.8,971,5.56081392560042,85.4647639887165,"Spring",143944
+3,-123.16,44.28,NA,1994,"Sylvilagus floridanus","Sylvilagus_floridanus",970,370,"female",12,913,5.5911388225775,84.5276624035452,"Spring",143945
+9,-123.33,44.45,NA,1997,"Sylvilagus floridanus rupicola","Sylvilagus_floridanus",48.3,147,"female",11.6,1157,5.54657278839552,64.2323875344273,"Fall",143946
+5,-96.94,37.19,NA,1960,"Sylvilagus floridanus alacer","Sylvilagus_floridanus",35.7,116,"undetermined",13.9,827,10.3970676227249,69.1236112254741,"Spring",143947
+5,-96.75,37.3,NA,1969,"Sylvilagus floridanus alacer","Sylvilagus_floridanus",1318,494,"female",13.7,938,10.2607224035359,67.9054343134323,"Spring",143948
+5,-99.74,40.77,NA,2005,"Sylvilagus floridanus similis","Sylvilagus_floridanus",1518.3,415,"female",11.2,508,10.2412823238286,83.1716473682886,"Spring",143949
+5,-99.74,40.77,NA,2005,"Sylvilagus floridanus similis","Sylvilagus_floridanus",1000,397,"male",11.2,508,10.2412823238286,83.1716473682886,"Spring",143950
+12,-97.16,39.02,NA,2004,"Sylvilagus floridanus mearnsii","Sylvilagus_floridanus",1000,387,"female",13.2,873,9.68574006496461,74.9891429632726,"Winter",143951
+8,-73.49,40.87,NA,1969,"Sylvilagus floridanus hitchensi","Sylvilagus_floridanus",309.2,285,"female",10.8,1282,9.3044466397915,46.9831699484296,"Summer",143952
+10,-106.6969833333,34.3107333333,"Juvenile",2005,"Sylvilagus floridanus","Sylvilagus_floridanus",340,266,"female",14.2,254,8.15841265012361,71.8533811360455,"Fall",143953
+12,-111.181508,31.938889,NA,1954,"Sylvilagus floridanus","Sylvilagus_floridanus",1134.4,397,"male",18.3,529,6.2341374461083,126.746265875517,"Winter",143954
+4,-110.663526,31.730451,NA,1957,"Sylvilagus floridanus","Sylvilagus_floridanus",823.1,317.5,"male",15.8,497,6.41963725020678,93.0955478759511,"Spring",143955
+12,-84.912945,35.029536,NA,1957,"Sylvilagus floridanus","Sylvilagus_floridanus",850,370,"female",15.4,1616,7.53912522053514,54.4409504475773,"Winter",143956
+1,-89.40111,43.07306,NA,1955,"Sylvilagus floridanus","Sylvilagus_floridanus",1247.7,405,"male",8.4,639,12.1916513908643,68.753591324339,"Winter",143957
+9,-77.95,40.73333,NA,1942,"Sylvilagus floridanus","Sylvilagus_floridanus",590,390,"male",9.8,1096,9.8506229613803,39.2458092554587,"Fall",143958
+8,-77.95,40.73333,NA,1942,"Sylvilagus floridanus","Sylvilagus_floridanus",997,415,"male",9.8,1096,9.8506229613803,39.2458092554587,"Summer",143959
+9,-77.87639,40.81667,NA,1942,"Sylvilagus floridanus","Sylvilagus_floridanus",1336,424,"male",10.1,1071,9.85382559150906,38.3827435467316,"Fall",143960

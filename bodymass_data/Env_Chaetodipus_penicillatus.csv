@@ -1,0 +1,570 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-109.14083,31.91361,NA,1990,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",14.2,162,"female",15,456,7.30421215132167,93.2975426988234,"Summer",19928
+7,-113.082753,37.171652,NA,1995,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,164,"female",15.8,452,7.86435668447242,97.3641464646032,"Summer",19929
+11,-109.075814,31.928533,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,158,"female",17.2,242,7.37092979620659,106.201051221613,"Fall",19930
+10,-111.0848166667,27.98725,NA,1998,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,168,"male",25.1,147,5.4408318771261,143.439048088209,"Fall",19931
+3,-110.34734,31.5528,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.5,161,"male",16.8,456,7.10247502742189,99.3050645479642,"Spring",19932
+1,-103.7474221583,26.6855533417,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,179,"male",19.3,321,5.69558574421428,95.5441949142813,"Winter",19933
+1,-103.7474221583,26.6855533417,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,191,"female",19.3,321,5.69558574421428,95.5441949142813,"Winter",19934
+8,-109.0432205,31.8455944,NA,1972,"Chaetodipus penicillatus pricei","Chaetodipus_penicillatus",16.2,168,"female",16.4,346,7.51717226009081,122.7255351121,"Summer",19938
+8,-109.0432205,31.8455944,NA,1972,"Chaetodipus penicillatus pricei","Chaetodipus_penicillatus",10.5,152,"undetermined",16.4,346,7.51717226009081,122.7255351121,"Summer",19939
+8,-109.0432205,31.8455944,NA,1972,"Chaetodipus penicillatus pricei","Chaetodipus_penicillatus",11.5,156,"male",16.4,346,7.51717226009081,122.7255351121,"Summer",19940
+3,-113.0573,31.9526,"unknown",1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",32,188,"male",21.6,264,7.86798268396363,141.766254532301,"Spring",19941
+3,-116.0061179,33.5706706,"unknown",1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,133,"male",21.1,51,8.19010859438865,122.107940636162,"Spring",19942
+3,-111.0465,32.119,"unknown",1951,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12.2,175,"male",19.5,344,7.73862312551709,87.501184590942,"Spring",19943
+10,-107.9228,32.5815,NA,2009,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.7,187,"undetermined",15.7,250,7.56024290134072,89.9758109224659,"Fall",19944
+9,-108.98671,31.51627,NA,2010,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,179,"female",15.2,472,7.18822690658872,108.636697331294,"Fall",19945
+10,-111.13005,28.0046833333,NA,1998,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,173,"male",25,146,5.47271468839789,142.439407469106,"Fall",19946
+10,-111.1348166667,27.98725,NA,1998,"Chaetodipus penicillatus","Chaetodipus_penicillatus",9,165,"female",25.5,127,5.5330138644542,142.30512918037,"Fall",19947
+3,-110.34734,31.5528,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.5,150,"male",16.8,456,7.10247502742189,99.3050645479642,"Spring",19948
+1,-103.7474221583,26.6855533417,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,177,"male",19.3,321,5.69558574421428,95.5441949142813,"Winter",19949
+7,-102.0851212,26.9861088,NA,1972,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",15.1,153,"male",21.4,175,5.53935643346496,101.978934854159,"Summer",19958
+7,-102.0851212,26.9861088,NA,1972,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",19.2,183,"male",21.4,175,5.53935643346496,101.978934854159,"Summer",19959
+7,-102.0851212,26.9861088,NA,1972,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",16.3,159,"female",21.4,175,5.53935643346496,101.978934854159,"Summer",19960
+7,-102.0851212,26.9861088,NA,1972,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",20.4,171,"male",21.4,175,5.53935643346496,101.978934854159,"Summer",19961
+8,-109.0432205,31.8455944,NA,1972,"Chaetodipus penicillatus pricei","Chaetodipus_penicillatus",13.2,166,"undetermined",16.4,346,7.51717226009081,122.7255351121,"Summer",19962
+8,-109.0432205,31.8455944,NA,1972,"Chaetodipus penicillatus pricei","Chaetodipus_penicillatus",14.4,100,"male",16.4,346,7.51717226009081,122.7255351121,"Summer",19963
+8,-109.0432205,31.8455944,NA,1972,"Chaetodipus penicillatus pricei","Chaetodipus_penicillatus",15.1,161,"female",16.4,346,7.51717226009081,122.7255351121,"Summer",19964
+8,-109.0432205,31.8455944,NA,1972,"Chaetodipus penicillatus pricei","Chaetodipus_penicillatus",10.1,NA,"female",16.4,346,7.51717226009081,122.7255351121,"Summer",19965
+3,-116.0061179,33.5706706,"unknown",1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,174,"female",21.1,51,8.19010859438865,122.107940636162,"Spring",19966
+1,-114.7842,32.4964,"unknown",1941,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,170,"female",22.1,153,6.71781891011442,108.426553483278,"Winter",19967
+1,-114.7842,32.4964,"unknown",1941,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.2,177,"male",22.1,153,6.71781891011442,108.426553483278,"Winter",19968
+9,-110.8522,31.8333,NA,1981,"Chaetodipus penicillatus pricei J. A. Allen, 1894","Chaetodipus_penicillatus",9.7,164,"female",18.8,357,6.58806887601758,97.9220973927198,"Fall",19969
+9,-110.8522,31.8333,NA,1981,"Chaetodipus penicillatus pricei J. A. Allen, 1894","Chaetodipus_penicillatus",14.7,155,"female",18.8,357,6.58806887601758,97.9220973927198,"Fall",19970
+5,-115.88557,33.63197,NA,1987,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.6,NA,NA,20.5,108,7.7542314938752,137.396017206949,"Spring",19971
+6,-108.94,31.91,NA,1992,"Chaetodipus penicillatus pricei","Chaetodipus_penicillatus",13.5,172,"male",14.8,363,7.45432556955824,82.5967606864427,"Summer",19972
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",25.5,202,"male",18.5,361,7.31610924914702,149.260804897963,"Winter",19973
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",20.3,187,"female",18.5,361,7.31610924914702,149.260804897963,"Winter",19974
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",23.7,204,"female",18.5,361,7.31610924914702,149.260804897963,"Winter",19975
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",31,235,"male",18.5,361,7.31610924914702,149.260804897963,"Winter",19976
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",26,200,"female",18.5,361,7.31610924914702,149.260804897963,"Winter",19977
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",26.6,200,"female",18.5,361,7.31610924914702,149.260804897963,"Winter",19978
+5,-115.3256,33.6262,NA,2001,"Chaetodipus penicillatus angustirostris Osgood, 1900","Chaetodipus_penicillatus",16.5,163,"female",20.2,93,7.83157459302155,143.796363415233,"Spring",19979
+4,-116.25,35.11,NA,1968,"Chaetodipus penicillatus Woodhouse, 1852","Chaetodipus_penicillatus",17,172,"male",20.1,59,8.72174225019221,148.819490880731,"Spring",19980
+10,-108.5,30.8333333333,NA,1988,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,NA,"female",16.3,327,7.01323424287643,107.109415339002,"Fall",19981
+5,-104.093,32.242,NA,1987,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,163,"female",16.8,370,7.95350123016158,112.432904931912,"Spring",19982
+5,-104.093,32.242,NA,1987,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,172,"female",16.8,370,7.95350123016158,112.432904931912,"Spring",19983
+5,-104.093,32.242,NA,1987,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,172,"female",16.8,370,7.95350123016158,112.432904931912,"Spring",19984
+3,-117.042,33.049,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.5,130,"female",18,272,4.50766182754598,144.789210148698,"Spring",19985
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,182,"female",21.1,164,8.9646274576552,130.324682677923,"Fall",19986
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,140,"female",21.1,164,8.9646274576552,130.324682677923,"Fall",19987
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,190,"female",21.1,164,8.9646274576552,130.324682677923,"Fall",19988
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,160,"female",21.1,164,8.9646274576552,130.324682677923,"Fall",19989
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,204,"male",21.1,164,8.9646274576552,130.324682677923,"Fall",19990
+10,-110.9333333,29.7133333,NA,1999,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,164,"female",22.7,357,5.52110962716296,190.675684562728,"Fall",19991
+10,-110.9333333,29.7133333,NA,1999,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,170,"male",22.7,357,5.52110962716296,190.675684562728,"Fall",19992
+3,-109.1491667,31.7822222,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,183,"male",15.9,304,7.48542017200873,112.083190764614,"Spring",19993
+3,-109.1491667,31.7822222,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,174,"male",15.9,304,7.48542017200873,112.083190764614,"Spring",19994
+7,-107.2894444,32.7211111,NA,2003,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,171,"male",17.1,163,8.14201598146456,101.887516944768,"Summer",19995
+7,-108.9133333,31.8936111,NA,2003,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,158,"female",16,258,7.34238422180466,90.7654108202394,"Summer",19996
+7,-108.9133333,31.8936111,NA,2003,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,168,"female",16,258,7.34238422180466,90.7654108202394,"Summer",19997
+7,-108.9683333,32.3425,NA,2003,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,161,"female",16.9,176,7.84811789828966,88.2939986797234,"Summer",19998
+1,-109.4241667,27.8961111,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,167,"male",24.2,505,5.2736264907212,160.667130224993,"Winter",19999
+1,-108.5055556,29.5875,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,155,"male",13,557,5.83858637934654,115.728264602888,"Winter",20000
+5,-108.5055556,29.5880556,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,174,"male",13,556,5.83858637934654,115.862877364035,"Spring",20001
+5,-108.5055556,29.5880556,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,260,"female",13,556,5.83858637934654,115.862877364035,"Spring",20002
+5,-108.5055556,29.5880556,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",23,268,"male",13,556,5.83858637934654,115.862877364035,"Spring",20003
+5,-111.8658333,30.6913889,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,222,"female",21.9,140,6.81368386988917,119.012000981846,"Spring",20004
+5,-111.8658333,30.6913889,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,260,"female",21.9,140,6.81368386988917,119.012000981846,"Spring",20005
+5,-111.8658333,30.6913889,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,270,"female",21.9,140,6.81368386988917,119.012000981846,"Spring",20006
+5,-111.8658333,30.6913889,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,260,"male",21.9,140,6.81368386988917,119.012000981846,"Spring",20007
+4,-109.2280833,28.04425,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,164,"male",23.3,735,4.98405791833656,132.333633927659,"Spring",20008
+11,-111.91,29.91,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,176,"male",20.7,260,5.90723105929324,139.563018587923,"Fall",20009
+11,-112.66,29.88,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,168,"female",23.1,58,5.84045452776658,112.920564735192,"Fall",20010
+11,-110.76,28.05,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,160,"male",26,252,5.02963189206695,151.055477100269,"Fall",20011
+11,-110.76,28.05,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,180,"female",26,252,5.02963189206695,151.055477100269,"Fall",20012
+6,-116.64503,34.9225,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,165,"female",19.4,114,7.66899997431612,124.508603495893,"Summer",20013
+9,-106.0690002,31.4570007,NA,1972,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",13.8,155,"male",16.9,276,7.14567044164549,107.136879944898,"Fall",20014
+7,-104.8840027,31.8360004,NA,1973,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",12,167,"male",15.2,262,7.16282490404872,123.882674748756,"Summer",20015
+4,-104.935997,31.8980007,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",11.3,165,"female",16,364,7.85028468891222,124.216042924154,"Spring",20016
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",16.2,145,"male",15.7,412,7.52733906060657,125.358635984935,"Fall",20017
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",14.8,166,"male",15.7,412,7.52733906060657,125.358635984935,"Fall",20018
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",12.5,161,"female",15.7,412,7.52733906060657,125.358635984935,"Fall",20019
+1,-104.9729996,31.9109993,NA,1975,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",12.9,169,"female",15.7,178,7.67267386524569,129.513143670967,"Winter",20020
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",14.3,168,"male",16.2,312,8.10615179784446,126.252595598029,"Fall",20021
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",13.8,163,"male",16.2,312,8.10615179784446,126.252595598029,"Fall",20022
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",12.7,167,"female",16.2,312,8.10615179784446,126.252595598029,"Fall",20023
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",14.1,165,"female",16.2,312,8.10615179784446,126.252595598029,"Fall",20024
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",13.5,160,"female",16.2,312,8.10615179784446,126.252595598029,"Fall",20025
+9,-103.3270035,29.2679996,NA,1990,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",12,166,"female",17.6,610,5.75481353198162,105.494864330461,"Fall",20026
+5,-106.0917511,32.508625,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,152,"female",16.6,348,8.70041360911635,72.9903229835733,"Spring",20027
+5,-106.0917511,32.508625,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,181,"male",16.6,348,8.70041360911635,72.9903229835733,"Spring",20028
+5,-106.0917511,32.508625,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,165,"male",16.6,348,8.70041360911635,72.9903229835733,"Spring",20029
+5,-106.0917511,32.508625,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,169,"male",16.6,348,8.70041360911635,72.9903229835733,"Spring",20030
+6,-114.1678056,32.6353611,"adult",2001,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.8,184,"female",22,93,8.10986585847289,106.84633120562,"Summer",20031
+7,-110.92583,32.054773,NA,1939,"Chaetodipus penicillatus","Chaetodipus_penicillatus",26.6,190,"male",19,228,7.55550672147023,87.3805260536767,"Summer",20032
+11,-110.871625,32.305719,NA,1963,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.4,175,"male",19.6,309,7.4900084961719,88.7911717683392,"Fall",20033
+9,-109.082697,31.913597,NA,1963,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.5,165,"male",16.5,260,7.35741225917884,120.937702633362,"Fall",20034
+10,-112.214029,33.706793,NA,1959,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.9,181,"male",21.3,254,8.20823680915405,133.608761528381,"Fall",20035
+10,-111.1742,32.2718,NA,1951,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,164,"male",19.5,393,7.48511654531643,89.8138369708325,"Fall",20036
+8,-109.888385,31.904982,NA,1956,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,180,"female",15.8,209,7.42067137369414,136.322193285738,"Summer",20037
+11,-110.483903,32.471037,NA,1953,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.1,164,"male",18.7,218,7.7730108046816,172.772653522927,"Fall",20038
+9,-110.801863,32.217713,NA,1954,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,160,"male",20.6,330,6.82719606138611,101.587696623086,"Fall",20039
+10,-110.64,32.744267,NA,1954,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.1,176,"male",20.1,381,7.3402171547433,109.56253458849,"Fall",20040
+9,-110.801863,32.217713,NA,1954,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,164,"male",20.6,330,6.82719606138611,101.587696623086,"Fall",20041
+10,-110.664394,32.74302,NA,1954,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.3,137,"male",20.2,379,7.29982876511497,109.254473200777,"Fall",20042
+12,-109.741481,32.862913,NA,1957,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10.1,148,"male",17.7,262,7.39235887230657,93.9818907543293,"Winter",20043
+9,-109.123732,31.928123,NA,1957,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10,165,"male",15.4,343,6.65682607053341,113.732149020547,"Fall",20044
+10,-109.14083,31.88168,NA,1958,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.5,167,"female",12.3,676,7.16791567692556,99.5759132801507,"Fall",20045
+5,-111.39995,32.430485,NA,1962,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.5,169,"male",20.6,232,7.94074170262947,111.726744437726,"Spring",20046
+5,-111.39995,32.430485,NA,1962,"Chaetodipus penicillatus","Chaetodipus_penicillatus",23,178,"male",20.6,232,7.94074170262947,111.726744437726,"Spring",20047
+8,-110.715923,32.209054,NA,1961,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.5,184,"male",18.6,329,7.31678746362629,93.0622000677435,"Summer",20048
+8,-110.201876,32.71703,NA,1961,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.5,171,"female",16.4,450,7.40466683309188,79.2274391039695,"Summer",20049
+3,-109.566289,31.876177,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.5,141,"male",15.1,307,7.77078834579552,142.281871212588,"Spring",20050
+4,-110.881325,31.792351,NA,1963,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.9,171,"male",18.2,401,6.96412343023263,96.1099635504213,"Spring",20051
+6,-115.045418,32.97595,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.6,192,"male",21.2,44,8.1725519919182,91.0544292767194,"Summer",20052
+7,-115.07111,33.30223,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.6,171,"male",21.6,46,8.39160384858074,80.0075127952459,"Summer",20053
+6,-115.114365,32.997493,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.1,NA,"male",21.4,43,8.19837382249269,87.4287411932822,"Summer",20054
+6,-114.860037,32.835408,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.6,197,"female",21.1,52,8.23710654553067,136.494512578658,"Summer",20055
+7,-109.068856,31.343562,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.3,185,"male",15.4,302,7.84583946876923,139.092653867141,"Summer",20056
+7,-109.068856,31.343562,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,179,"female",15.4,302,7.84583946876923,139.092653867141,"Summer",20057
+7,-109.068856,31.343562,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,171,"female",15.4,302,7.84583946876923,139.092653867141,"Summer",20058
+5,-109.204818,31.343992,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",24,172,"female",16.3,248,7.98439766423279,146.726652736998,"Spring",20059
+5,-109.204818,31.343992,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.5,167,"female",16.3,248,7.98439766423279,146.726652736998,"Spring",20060
+5,-109.204818,31.343992,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,178,"male",16.3,248,7.98439766423279,146.726652736998,"Spring",20061
+5,-109.204818,31.343992,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,176,"male",16.3,248,7.98439766423279,146.726652736998,"Spring",20062
+8,-113.01694,31.94444,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,162,"female",20.9,235,8.36759170305835,115.262820982755,"Summer",20063
+10,-109.15292,31.923872,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,170,"female",13.5,368,7.70706091054092,134.436515651948,"Fall",20064
+10,-109.15292,31.923872,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.5,176,"male",13.5,368,7.70706091054092,134.436515651948,"Fall",20065
+8,-114.004894,36.811793,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.2,192,"male",17.6,107,9.67688201098605,65.0388780547996,"Summer",20066
+10,-109.14425,31.91361,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.5,165,"female",14,335,7.77175831280974,134.450600190303,"Fall",20067
+7,-109.65,30.530652,NA,1965,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,172,"male",17.3,481,5.86636535038881,118.393646776747,"Summer",20068
+4,-110.986,32.1122,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.9,194,"male",19.5,357,7.21909819768915,115.505103875713,"Spring",20069
+6,-111.15667,33.27944,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.2,175,"female",20.2,484,7.80541284602997,134.572624661717,"Summer",20070
+5,-111.15667,33.27944,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.5,170,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",20071
+5,-111.15667,33.27944,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.1,187,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",20072
+5,-111.15667,33.27944,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.9,188,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",20073
+5,-111.15667,33.27944,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.8,177,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",20074
+6,-110.85222,31.83333,NA,1965,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.9,169,"male",17.7,537,6.4779111859714,149.755914076909,"Summer",20075
+7,-112.820547,32.291218,NA,1968,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.5,177,"male",20.9,175,7.58852303272395,118.890911492267,"Summer",20076
+7,-113.07981,32.086939,NA,1968,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.8,170,"male",21.3,140,7.59142259195844,134.635901286045,"Summer",20077
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,165,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20078
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12.9,167,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20079
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,130,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20080
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12.3,161,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20081
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.5,148,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20082
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,180,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20083
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.3,182,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20084
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",23.3,192,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20085
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.8,195,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20086
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.3,185,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20087
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.7,188,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20088
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.42,180,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20089
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.5,180,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20090
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.9,176,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20091
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",24.5,198,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20092
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.6,180,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20093
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,187,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20094
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.6,181,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20095
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.5,177,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20096
+7,-112.820547,32.291218,NA,1968,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,186,"male",20.9,175,7.58852303272395,118.890911492267,"Summer",20097
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.7,179,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20098
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.4,167,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20099
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.4,162,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20100
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.7,168,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20101
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.6,168,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20102
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.1,168,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20103
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.7,184,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20104
+6,-110.75578,32.206087,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.7,177,"male",19.1,248,7.36212152394494,81.7374247901799,"Summer",20105
+6,-110.75578,32.206087,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,176,"female",19.1,248,7.36212152394494,81.7374247901799,"Summer",20106
+6,-110.75578,32.206087,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.1,176,"male",19.1,248,7.36212152394494,81.7374247901799,"Summer",20107
+11,-110.9861,32.0672,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.4,166,"male",19.5,211,7.44309726993387,94.2266639171201,"Fall",20108
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.3,163,"female",18.2,371,7.25953396116675,127.720909501946,"Spring",20109
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,170,"male",18.2,371,7.25953396116675,127.720909501946,"Spring",20110
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.7,161,"female",18.2,371,7.25953396116675,127.720909501946,"Spring",20111
+4,-111.432,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.6,145,"male",19.9,276,7.82993478822645,112.173606642349,"Spring",20112
+4,-111.432,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.8,170,"female",19.9,276,7.82993478822645,112.173606642349,"Spring",20113
+4,-111.432,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.4,165,"female",19.9,276,7.82993478822645,112.173606642349,"Spring",20114
+4,-111.432,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.6,172,"female",19.9,276,7.82993478822645,112.173606642349,"Spring",20115
+4,-111.432,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.4,172,"male",19.9,276,7.82993478822645,112.173606642349,"Spring",20116
+10,-109.1453,31.8801,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,180,"male",10.4,632,6.83285290254948,117.313308820499,"Fall",20117
+10,-109.5331,31.883,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.6,187,"female",15.3,289,7.25720123029324,121.998633255452,"Fall",20118
+10,-109.3804,31.9559,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,162,"male",12.8,409,6.95927547604743,113.697882527861,"Fall",20119
+10,-111.3979,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10.8,148,"male",20,266,7.89637431184257,110.723533677913,"Fall",20120
+10,-109.478074,31.904542,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,151,"male",15.4,410,6.87597376024045,117.107228821497,"Fall",20121
+10,-113.436958,32.07144,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.1,177,"female",22.2,138,8.08256634911702,136.590176014416,"Fall",20122
+10,-113.436958,32.07144,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.4,185,"male",22.2,138,8.08256634911702,136.590176014416,"Fall",20123
+10,-113.436958,32.07144,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,181,"female",22.2,138,8.08256634911702,136.590176014416,"Fall",20124
+10,-113.436958,32.07144,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.5,177,"male",22.2,138,8.08256634911702,136.590176014416,"Fall",20125
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,192,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",20126
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,172,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20127
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22.5,202,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20128
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",24,185,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20129
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",30,204,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20130
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,135,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20131
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,169,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20132
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",23,194,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20133
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,185,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",20134
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,163,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20135
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,178,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",20136
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",24,192,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",20137
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,200,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",20138
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",29,195,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20139
+9,-111.32278,32.45139,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,143,"male",20.3,244,8.06118176914226,110.699361185533,"Fall",20140
+9,-110.85222,31.83333,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.8,167,"female",17.8,428,6.8922002468315,108.303185638613,"Fall",20141
+9,-110.85222,31.83333,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.3,167,"male",17.8,428,6.8922002468315,108.303185638613,"Fall",20142
+10,-110.85222,31.83333,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.1,151,"male",17.2,448,7.05877382261168,126.774853202253,"Fall",20143
+11,-110.85222,31.83333,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,138,"female",17.2,448,7.05877382261168,126.774853202253,"Fall",20144
+10,-109.567,31.8685,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,165,"female",15.6,384,7.2875308617258,125.855458069689,"Fall",20145
+10,-109.5501,31.883,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.5,166,"male",15.5,389,7.23176389900203,122.590847701635,"Fall",20146
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,171,"male",20.4,276,8.0785162153965,104.624517098413,"Spring",20147
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,175,"female",20.4,276,8.0785162153965,104.624517098413,"Spring",20148
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,182,"female",20.4,276,8.0785162153965,104.624517098413,"Spring",20149
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,169,"female",20.4,276,8.0785162153965,104.624517098413,"Spring",20150
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.2,181,"male",20.4,276,8.0785162153965,104.624517098413,"Spring",20151
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.5,183,"male",20.4,276,8.0785162153965,104.624517098413,"Spring",20152
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.8,165,"female",20.4,276,8.0785162153965,104.624517098413,"Spring",20153
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.8,167,"female",20.4,276,8.0785162153965,104.624517098413,"Spring",20154
+8,-111.3637,32.4295,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,185,"male",19.9,202,8.26205272020913,130.728176043517,"Summer",20155
+5,-113.436958,32.07144,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,181,"male",22.2,138,8.08256634911702,136.590176014416,"Spring",20156
+10,-113.436958,32.07144,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.4,182,"male",22.2,138,8.08256634911702,136.590176014416,"Fall",20157
+7,-110.6977,32.028,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,170,"female",17.3,305,7.6746730262993,121.781985209334,"Summer",20158
+10,-109.7707,31.9122,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,158,"male",16,379,7.47680757510527,137.090683315925,"Fall",20159
+6,-111.18194,32.27861,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",9.2,160,"male",18.7,347,7.43755315743672,149.45402672838,"Summer",20160
+8,-110.7652,31.8392,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10,144,"female",14.1,504,6.78359764208469,134.280070123129,"Summer",20161
+10,-110.7314,31.8392,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,154,"female",15.3,442,6.89784221860194,126.735898782627,"Fall",20162
+10,-110.7314,31.8392,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,176,"female",15.3,442,6.89784221860194,126.735898782627,"Fall",20163
+10,-109.458,32.1446,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,171,"male",13.8,372,7.1554598776463,130.73627570127,"Fall",20164
+10,-109.458,32.1446,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,172,"male",13.8,372,7.1554598776463,130.73627570127,"Fall",20165
+10,-109.441,32.1446,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,171,"male",13.9,373,7.20733527860206,129.221601083964,"Fall",20166
+10,-109.441,32.1446,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,154,"female",13.9,373,7.20733527860206,129.221601083964,"Fall",20167
+11,-109.441,32.1446,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",23,162,"male",13.9,373,7.20733527860206,129.221601083964,"Fall",20168
+11,-109.458,32.159,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,186,"male",14.3,360,7.27017047859806,128.505934258119,"Fall",20169
+11,-112.316667,28.716667,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10,154,"female",22.1,59,5.74350753354418,146.270659735843,"Fall",20170
+9,-110.7314,31.8247,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,183,"male",15.7,479,6.22109680478816,88.7183577444048,"Fall",20171
+4,-113.059419,33.596149,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,190,"female",20.9,176,7.84634638001353,70.079520165079,"Spring",20172
+9,-112.72417,32.06833,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",25,196,"female",21.1,308,6.6000631310112,82.1501305370168,"Fall",20173
+9,-112.72417,32.06833,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,172,"female",21.1,308,6.6000631310112,82.1501305370168,"Fall",20174
+9,-112.72417,32.06833,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,164,"female",21.1,308,6.6000631310112,82.1501305370168,"Fall",20175
+9,-112.72417,32.06833,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.5,173,"male",21.1,308,6.6000631310112,82.1501305370168,"Fall",20176
+9,-112.7691,31.8738,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.9,167,"male",20.9,275,7.24855262459445,93.360989036804,"Fall",20177
+9,-112.776124,31.967817,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,171,"male",20.4,292,7.09562391815398,92.8459646064484,"Fall",20178
+9,-112.7521,31.8592,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,177,"female",20.9,275,7.24855262459445,93.0475415610117,"Fall",20179
+9,-112.7521,31.8592,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,175,"female",20.9,275,7.24855262459445,93.0475415610117,"Fall",20180
+9,-112.7691,31.8738,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.6,165,"male",20.9,275,7.24855262459445,93.360989036804,"Fall",20181
+9,-112.7521,31.8592,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,160,"male",20.9,275,7.24855262459445,93.0475415610117,"Fall",20182
+10,-113.011372,31.942545,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,135,"female",22.9,205,7.07690974332381,79.4992711872334,"Fall",20183
+10,-113.01162,31.939976,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.8,250,"female",23,204,7.10893590468853,79.4992711872334,"Fall",20184
+10,-113.011372,31.942545,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",31,170,"female",22.9,205,7.07690974332381,79.4992711872334,"Fall",20185
+9,-113.01694,31.94444,NA,1983,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,160,"female",21.7,477,7.30485517248009,83.2031843421755,"Fall",20186
+10,-113.01162,31.939976,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,260,"female",23,204,7.10893590468853,79.4992711872334,"Fall",20187
+10,-113.0295,32.1645,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.4,168,"female",21.3,248,7.63597446699542,92.4395810880593,"Fall",20188
+9,-112.7521,31.8592,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.1,146,"female",20.9,275,7.24855262459445,93.0475415610117,"Fall",20189
+9,-112.7521,31.8592,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.7,148,"female",20.9,275,7.24855262459445,93.0475415610117,"Fall",20190
+10,-112.9953,32.1645,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,178,"female",21.2,250,7.56054351100622,93.20663261612,"Fall",20191
+10,-110.9176,32.3444,NA,1984,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,202,"female",18.7,562,7.28433354202807,117.934988693951,"Fall",20192
+8,-110.9176,32.1122,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,154,"male",19,404,7.16500333058351,91.3957972492119,"Summer",20193
+9,-109.2595,31.3439,NA,1989,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,166,"male",17.9,218,7.32113482675433,130.551218565996,"Fall",20194
+4,-110.1274,31.5466,NA,1987,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,172,"male",16.9,318,7.33441452084871,98.0802161182983,"Spring",20195
+4,-110.1274,31.5466,NA,1987,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,159,"female",16.9,318,7.33441452084871,98.0802161182983,"Spring",20196
+10,-110.8833,32.4605,NA,1984,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,175,"male",18.8,524,7.38603822126995,109.128849308473,"Fall",20197
+9,-109.2595,31.3439,NA,1989,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,180,"male",17.9,218,7.32113482675433,130.551218565996,"Fall",20198
+5,-110.1785,31.5901,NA,1987,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,173,"female",16.7,326,7.31077971217845,98.2714770928699,"Spring",20199
+4,-110.0934,31.4598,NA,1988,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,175,"female",17.1,373,6.81048100468326,108.689783746722,"Spring",20200
+1,-110.85222,31.83333,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,180,"female",19,405,7.35306058726569,100.211431312849,"Winter",20201
+4,-111.41639,32.26639,NA,2000,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,190,"female",21,298,7.92445390528393,141.444228638135,"Spring",20202
+4,-111.53139,32.99694,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.5,184,"male",22.2,86,8.39994588727159,92.9580976947198,"Spring",20203
+10,-111.18194,32.27861,NA,2001,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,163,NA,20.7,247,8.01207422165655,63.3805127372817,"Fall",20204
+10,-111.18194,32.27861,NA,2001,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.2,155,"female",20.7,247,8.01207422165655,63.3805127372817,"Fall",20205
+8,-111.14754,32.40171,NA,2010,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.25,199,"female",21.6,262,8.08258509501643,97.4034629617909,"Summer",20206
+8,-111.14754,32.40171,NA,2010,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,190,"female",21.6,262,8.08258509501643,97.4034629617909,"Summer",20207
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",8,132,"male",20.4,233,7.27737777449593,79.5510683914342,"Fall",20208
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,165,"male",20.4,233,7.27737777449593,79.5510683914342,"Fall",20209
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,123,"female",20.4,233,7.27737777449593,79.5510683914342,"Fall",20210
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,165,"female",20.4,233,7.27737777449593,79.5510683914342,"Fall",20211
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,180,"male",20.4,233,7.27737777449593,79.5510683914342,"Fall",20212
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,150,"male",20.4,233,7.27737777449593,79.5510683914342,"Fall",20213
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,130,"male",20.4,233,7.27737777449593,79.5510683914342,"Fall",20214
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,85,"female",21.1,242,7.64922257883807,77.6859772139553,"Fall",20215
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,160,"female",21.1,242,7.64922257883807,77.6859772139553,"Fall",20216
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,93,"male",21.1,242,7.64922257883807,77.6859772139553,"Fall",20217
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",9,140,"male",21.1,242,7.64922257883807,77.6859772139553,"Fall",20218
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,158,"male",21.1,242,7.64922257883807,77.6859772139553,"Fall",20219
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,150,"female",21.1,242,7.64922257883807,77.6859772139553,"Fall",20220
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",7,95,"female",21.1,242,7.64922257883807,77.6859772139553,"Fall",20221
+9,-111.4146,32.4295,NA,1978,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,168,"female",20.9,471,8.09285131608399,75.7151182176521,"Fall",20222
+9,-111.4146,32.4295,NA,1978,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,185,"male",20.9,471,8.09285131608399,75.7151182176521,"Fall",20223
+9,-111.4146,32.4295,NA,1978,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,175,"female",20.9,471,8.09285131608399,75.7151182176521,"Fall",20224
+10,-111.4316,32.4585,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,105,"male",19.6,181,7.96919732850217,71.2070312203841,"Fall",20225
+10,-111.4316,32.4585,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,153,"male",19.6,181,7.96919732850217,71.2070312203841,"Fall",20226
+5,-115.88557,33.63197,NA,1987,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.5,NA,NA,20.5,108,7.7542314938752,137.396017206949,"Spring",20227
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",25.4,195,"female",18.5,361,7.31610924914702,149.260804897963,"Winter",20228
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",25.9,192,"male",18.5,361,7.31610924914702,149.260804897963,"Winter",20229
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",20.4,185,"male",18.5,361,7.31610924914702,149.260804897963,"Winter",20230
+1,-111.18,32.27,NA,1971,"Chaetodipus penicillatus penicillatus","Chaetodipus_penicillatus",30.5,215,"male",18.5,361,7.31610924914702,149.260804897963,"Winter",20231
+5,-115.3256,33.6262,NA,2001,"Chaetodipus penicillatus angustirostris Osgood, 1900","Chaetodipus_penicillatus",20,113,"male",20.2,93,7.83157459302155,143.796363415233,"Spring",20232
+4,-116.25,35.11,NA,1968,"Chaetodipus penicillatus Woodhouse, 1852","Chaetodipus_penicillatus",16.3,160,"male",20.1,59,8.72174225019221,148.819490880731,"Spring",20233
+5,-115.3256,33.6262,NA,2001,"Chaetodipus penicillatus angustirostris Osgood, 1900","Chaetodipus_penicillatus",27.5,176,"undetermined",20.2,93,7.83157459302155,143.796363415233,"Spring",20234
+7,-108.633,31.38465,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22.6,185,"male",15.7,319,8.11042632365988,70.7347027153257,"Summer",20235
+10,-111.1348166667,27.98725,NA,1998,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,180,"male",25.5,127,5.5330138644542,142.30512918037,"Fall",20236
+10,-111.1348166667,27.98725,NA,1998,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,180,"female",25.5,127,5.5330138644542,142.30512918037,"Fall",20237
+10,-111.1348166667,27.98725,NA,1998,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,179,"female",25.5,127,5.5330138644542,142.30512918037,"Fall",20238
+7,-108.83905,31.86092,NA,2013,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,181,"male",16.4,285,8.20049425709244,126.94816205377,"Summer",20239
+7,-108.8325833333,31.8055277778,NA,2013,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.5,176,"female",16.3,297,8.21299782864536,125.591236091839,"Summer",20240
+3,-117.042,33.049,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,187,"female",18,272,4.50766182754598,144.789210148698,"Spring",20241
+10,-111.0180556,36.8388889,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",25,184,"male",13.4,229,9.48371411069173,83.6591175948871,"Fall",20242
+10,-111.0180556,36.8388889,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,183,"female",13.4,229,9.48371411069173,83.6591175948871,"Fall",20243
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,179,"female",21.1,164,8.9646274576552,130.324682677923,"Fall",20244
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,172,"male",21.1,164,8.9646274576552,130.324682677923,"Fall",20245
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,190,"male",21.1,164,8.9646274576552,130.324682677923,"Fall",20246
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,179,"female",21.1,164,8.9646274576552,130.324682677923,"Fall",20247
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,181,"male",21.1,164,8.9646274576552,130.324682677923,"Fall",20248
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,193,"male",21.1,164,8.9646274576552,130.324682677923,"Fall",20249
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,192,"male",21.1,164,8.9646274576552,130.324682677923,"Fall",20250
+10,-114.8125,36.1736111,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,181,"male",21.1,164,8.9646274576552,130.324682677923,"Fall",20251
+10,-110.9333333,29.7133333,NA,1999,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,173,"male",22.7,357,5.52110962716296,190.675684562728,"Fall",20252
+10,-110.9333333,29.7133333,NA,1999,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,164,"male",22.7,357,5.52110962716296,190.675684562728,"Fall",20253
+10,-110.9333333,29.7133333,NA,1999,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,174,"male",22.7,357,5.52110962716296,190.675684562728,"Fall",20254
+10,-110.9333333,29.7133333,NA,1999,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,174,"male",22.7,357,5.52110962716296,190.675684562728,"Fall",20255
+10,-110.9333333,29.7133333,NA,1999,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,150,"male",22.7,357,5.52110962716296,190.675684562728,"Fall",20256
+3,-109.1413889,31.7838889,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,183,"male",14.5,391,7.24160956493162,117.081232748298,"Spring",20257
+3,-109.1491667,31.7822222,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,164,"male",15.9,304,7.48542017200873,112.083190764614,"Spring",20258
+3,-109.1491667,31.7822222,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.5,193,"female",15.9,304,7.48542017200873,112.083190764614,"Spring",20259
+7,-108.9133333,31.8936111,NA,2003,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,112,"male",16,258,7.34238422180466,90.7654108202394,"Summer",20260
+7,-108.9133333,31.8936111,NA,2003,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10,155,"male",16,258,7.34238422180466,90.7654108202394,"Summer",20261
+7,-108.9841667,32.3466667,NA,2003,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,179,"male",16.8,179,7.8152919253722,88.5802723323012,"Summer",20262
+7,-108.9988889,32.3455556,NA,2003,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,168,"female",16.7,180,7.7764212381228,88.8343064500341,"Summer",20263
+1,-109.4241667,27.8961111,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10,139,"female",24.2,505,5.2736264907212,160.667130224993,"Winter",20264
+1,-109.4241667,27.8961111,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,152,"female",24.2,505,5.2736264907212,160.667130224993,"Winter",20265
+5,-108.5055556,29.5880556,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,161,"female",13,556,5.83858637934654,115.862877364035,"Spring",20266
+5,-108.5055556,29.5880556,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,168,"female",13,556,5.83858637934654,115.862877364035,"Spring",20267
+5,-108.5055556,29.5880556,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",23,181,"female",13,556,5.83858637934654,115.862877364035,"Spring",20268
+5,-111.8658333,30.6913889,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,183,"male",21.9,140,6.81368386988917,119.012000981846,"Spring",20269
+5,-111.8658333,30.6913889,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,168,"female",21.9,140,6.81368386988917,119.012000981846,"Spring",20270
+5,-108.5055556,29.5880556,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,240,"male",13,556,5.83858637934654,115.862877364035,"Spring",20271
+5,-108.5055556,29.5880556,NA,2005,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,263,"male",13,556,5.83858637934654,115.862877364035,"Spring",20272
+4,-109.2280833,28.04425,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,182,"male",23.3,735,4.98405791833656,132.333633927659,"Spring",20273
+11,-110.76,28.05,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,165,"female",26,252,5.02963189206695,151.055477100269,"Fall",20274
+11,-112.72,29.91,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,180,"female",23.1,57,5.82618826480656,112.920564735192,"Fall",20275
+11,-112.66,29.88,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,180,"male",23.1,58,5.84045452776658,112.920564735192,"Fall",20276
+11,-110.76,28.05,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,165,"male",26,252,5.02963189206695,151.055477100269,"Fall",20277
+11,-110.76,28.05,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,175,"male",26,252,5.02963189206695,151.055477100269,"Fall",20278
+8,-117.3367,34.74,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,170,"female",16.8,77,7.76009606313549,94.7865938958312,"Summer",20279
+8,-115.6835,34.1091,NA,2006,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,160,"male",21.7,22,8.40832920383116,106.158946931117,"Summer",20280
+9,-106.0690002,31.4570007,NA,1972,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",10,142,"female",16.9,276,7.14567044164549,107.136879944898,"Fall",20281
+7,-104.8840027,31.8360004,NA,1973,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",12,163,"male",15.2,262,7.16282490404872,123.882674748756,"Summer",20282
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",12.5,151,"male",15.7,412,7.52733906060657,125.358635984935,"Fall",20283
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",15.3,165,"female",15.7,412,7.52733906060657,125.358635984935,"Fall",20284
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",14.5,160,"female",15.7,412,7.52733906060657,125.358635984935,"Fall",20285
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",12.6,158,"female",15.7,412,7.52733906060657,125.358635984935,"Fall",20286
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",13.2,161,"male",15.7,412,7.52733906060657,125.358635984935,"Fall",20287
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",13.1,170,"female",15.7,412,7.52733906060657,125.358635984935,"Fall",20288
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",13.8,121,"female",15.7,412,7.52733906060657,125.358635984935,"Fall",20289
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",15.6,171,"female",15.7,412,7.52733906060657,125.358635984935,"Fall",20290
+9,-104.8949966,31.8430004,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",15.5,172,"male",15.7,412,7.52733906060657,125.358635984935,"Fall",20291
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",14.5,159,"female",16.2,312,8.10615179784446,126.252595598029,"Fall",20292
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",15.3,167,"male",16.2,312,8.10615179784446,126.252595598029,"Fall",20293
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",13.9,164,"male",16.2,312,8.10615179784446,126.252595598029,"Fall",20294
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",14,160,"female",16.2,312,8.10615179784446,126.252595598029,"Fall",20295
+10,-104.9850006,31.8950005,NA,1974,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",14.3,175,"male",16.2,312,8.10615179784446,126.252595598029,"Fall",20296
+9,-103.3270035,29.2679996,NA,1990,"Chaetodipus penicillatus eremicus","Chaetodipus_penicillatus",120,165,"male",17.6,610,5.75481353198162,105.494864330461,"Fall",20297
+6,-114.1678056,32.6353611,"adult",2001,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.8,190,"female",22,93,8.10986585847289,106.84633120562,"Summer",20298
+9,-108.5761111111,32.9658333333,NA,1998,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,182,"undetermined",14.4,386,7.90866421698189,98.9720008938731,"Fall",20299
+7,-110.92583,32.06203,NA,1939,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,153,"female",19,227,7.55638902859793,86.9061306551863,"Summer",20300
+7,-110.92583,32.054773,NA,1939,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.5,179,"male",19,228,7.55550672147023,87.3805260536767,"Summer",20301
+7,-109.22694,32.035578,NA,1954,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,175,"male",15.8,307,6.5215900180582,146.993449521501,"Summer",20302
+7,-109.22694,32.035578,NA,1954,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.8,171,"male",15.8,307,6.5215900180582,146.993449521501,"Summer",20303
+9,-109.163322,31.592197,NA,1959,"Chaetodipus penicillatus","Chaetodipus_penicillatus",8.8,88,"male",15.7,372,7.09935443074462,142.610943918446,"Fall",20304
+9,-109.171842,31.592202,NA,1959,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.5,175,"female",15.7,373,7.09294891018004,143.012980747847,"Fall",20305
+6,-106.67194,32.57472,NA,1962,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.2,141,"female",15.1,311,8.07905541283363,109.647054620216,"Summer",20306
+10,-111.05444,31.4275,NA,1959,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.4,170,"female",16.5,554,6.80772733848467,130.263031597187,"Fall",20307
+10,-111.1571,32.3154,NA,1951,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,173,"female",20,367,7.73173311552442,88.8644990230128,"Fall",20308
+10,-111.1742,32.2718,NA,1951,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,175,"male",19.5,393,7.48511654531643,89.8138369708325,"Fall",20309
+10,-111.1571,32.3154,NA,1951,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,155,"male",20,367,7.73173311552442,88.8644990230128,"Fall",20310
+8,-109.888385,31.904982,NA,1956,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,176,"male",15.8,209,7.42067137369414,136.322193285738,"Summer",20311
+8,-109.888385,31.904982,NA,1956,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,172,"female",15.8,209,7.42067137369414,136.322193285738,"Summer",20312
+10,-110.64,32.744267,NA,1954,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.2,163,"male",20.1,381,7.3402171547433,109.56253458849,"Fall",20313
+9,-110.801863,32.217713,NA,1954,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.3,170,"male",20.6,330,6.82719606138611,101.587696623086,"Fall",20314
+9,-110.801863,32.217713,NA,1954,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,160,"male",20.6,330,6.82719606138611,101.587696623086,"Fall",20315
+10,-111.175864,32.31889,NA,1951,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12.8,162,"male",20.2,352,7.89792358596213,89.5770175526561,"Fall",20316
+10,-109.039102,31.871564,NA,1956,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.5,169,"male",16.1,121,8.14096915532044,129.600132768429,"Fall",20317
+9,-110.994555,32.096957,NA,1957,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.5,161,"female",20,305,7.16981784139513,80.5506893033019,"Fall",20318
+11,-110.780887,32.375689,NA,1958,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.1,170,"male",15.1,690,7.2597270171568,78.8303872040351,"Fall",20319
+6,-110.926926,32.337179,NA,1959,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.5,173,"male",19.5,381,7.37637506441403,130.539434438759,"Summer",20320
+8,-110.201876,32.71703,NA,1961,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.3,162,"female",16.4,450,7.40466683309188,79.2274391039695,"Summer",20321
+3,-109.566289,31.876177,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,169,"female",15.1,307,7.77078834579552,142.281871212588,"Spring",20322
+3,-109.517319,31.876315,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",9.9,112,"male",14.9,322,7.64747433054624,140.871477256017,"Spring",20323
+10,-110.894561,32.32746,NA,1963,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,124,"female",19.7,324,7.43706931526122,89.0430761494171,"Fall",20324
+6,-115.114365,32.997493,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",24.6,162,"male",21.4,43,8.19837382249269,87.4287411932822,"Summer",20325
+6,-115.045418,32.97595,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.6,191,"male",21.2,44,8.1725519919182,91.0544292767194,"Summer",20326
+6,-114.860037,32.835408,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22.2,192,"female",21.1,52,8.23710654553067,136.494512578658,"Summer",20327
+6,-114.860037,32.835408,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.7,189,"female",21.1,52,8.23710654553067,136.494512578658,"Summer",20328
+7,-115.07111,33.30223,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",5.8,114,"female",21.6,46,8.39160384858074,80.0075127952459,"Summer",20329
+7,-109.068856,31.343562,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.8,187,"male",15.4,302,7.84583946876923,139.092653867141,"Summer",20330
+7,-109.068856,31.343562,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.2,174,"female",15.4,302,7.84583946876923,139.092653867141,"Summer",20331
+7,-109.068856,31.343562,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,182,"female",15.4,302,7.84583946876923,139.092653867141,"Summer",20332
+5,-109.204818,31.343992,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.5,195,"male",16.3,248,7.98439766423279,146.726652736998,"Spring",20333
+5,-109.204818,31.343992,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,170,"male",16.3,248,7.98439766423279,146.726652736998,"Spring",20334
+8,-113.01694,31.94444,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.5,175,"female",20.9,235,8.36759170305835,115.262820982755,"Summer",20335
+10,-109.15292,31.923872,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,157,"male",13.5,368,7.70706091054092,134.436515651948,"Fall",20336
+10,-109.15292,31.923872,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,155,"male",13.5,368,7.70706091054092,134.436515651948,"Fall",20337
+10,-109.15292,31.923872,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,162,"male",13.5,368,7.70706091054092,134.436515651948,"Fall",20338
+4,-114.52444,33.683972,NA,1965,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.5,187,"male",22.2,142,7.51569569755068,155.850649215374,"Spring",20339
+5,-113.300721,31.916763,NA,1964,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.5,172,"male",21.2,148,8.40108218137294,111.453210729069,"Spring",20340
+4,-110.986,32.1122,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.4,187,"male",19.5,357,7.21909819768915,115.505103875713,"Spring",20341
+4,-110.986,32.1122,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,182,"male",19.5,357,7.21909819768915,115.505103875713,"Spring",20342
+5,-111.15667,33.27944,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.3,170,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",20343
+5,-111.15667,33.27944,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.2,188,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",20344
+5,-111.15667,33.27944,NA,1967,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.9,182,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",20345
+7,-112.820547,32.291218,NA,1968,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.7,131,"female",20.9,175,7.58852303272395,118.890911492267,"Summer",20346
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,162,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20347
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.7,172,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20348
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.7,174,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20349
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.1,175,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20350
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.6,178,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20351
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.6,118,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20352
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.6,165,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20353
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22.2,183,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20354
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.8,198,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20355
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.3,171,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20356
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.6,172,"female",21.7,184,8.09584161870472,93.6183342476444,"Spring",20357
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.3,179,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20358
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.4,179,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20359
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.7,175,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20360
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.8,168,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",20361
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.4,147,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20362
+5,-113.09694,32.08694,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",23.8,142,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",20363
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.5,178,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20364
+5,-113.436958,32.07144,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.3,168,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",20365
+11,-110.9861,32.0672,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.3,164,"male",19.5,211,7.44309726993387,94.2266639171201,"Fall",20366
+10,-110.763,32.2164,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,190,"female",19.2,247,7.39346558342793,81.0284148368547,"Fall",20367
+2,-110.842793,31.918017,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.4,170,"male",18.2,359,7.24861533276696,125.287548052349,"Winter",20368
+3,-110.9351,31.892,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12.8,170,"male",18.6,356,7.36742934486074,129.139634309575,"Spring",20369
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.6,151,"female",18.2,371,7.25953396116675,127.720909501946,"Spring",20370
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.7,166,"female",18.2,371,7.25953396116675,127.720909501946,"Spring",20371
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.9,167,"male",18.2,371,7.25953396116675,127.720909501946,"Spring",20372
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.9,166,"female",18.2,371,7.25953396116675,127.720909501946,"Spring",20373
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.1,162,"male",18.2,371,7.25953396116675,127.720909501946,"Spring",20374
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.1,173,"male",18.2,371,7.25953396116675,127.720909501946,"Spring",20375
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.7,107,"male",18.2,371,7.25953396116675,127.720909501946,"Spring",20376
+5,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.1,168,"female",18.2,371,7.25953396116675,127.720909501946,"Spring",20377
+3,-110.9011,31.8628,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.3,170,"male",18.2,382,7.22463693121521,129.838709608767,"Spring",20378
+4,-111.4149,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.4,175,"male",19.9,271,7.87508537712257,111.614480872417,"Spring",20379
+4,-111.4149,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.5,171,"female",19.9,271,7.87508537712257,111.614480872417,"Spring",20380
+4,-111.3809,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.6,178,"male",20.1,262,7.94366528636612,110.578697698396,"Spring",20381
+4,-111.432,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.6,170,"male",19.9,276,7.82993478822645,112.173606642349,"Spring",20382
+10,-109.584,31.883,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.4,167,"female",15.6,273,7.41331214570768,125.005388362931,"Fall",20383
+10,-109.3804,31.9559,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.7,172,"female",12.8,409,6.95927547604743,113.697882527861,"Fall",20384
+10,-109.5331,31.8685,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.4,186,"male",15.3,288,7.23581161287175,122.050420812574,"Fall",20385
+10,-109.3804,31.9559,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11.99,160,"male",12.8,409,6.95927547604743,113.697882527861,"Fall",20386
+9,-109.75861,32.84917,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.5,186,"male",17.6,207,8.16972886312451,87.2638594876108,"Fall",20387
+9,-109.75861,32.84917,NA,1969,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.2,114,"female",17.6,207,8.16972886312451,87.2638594876108,"Fall",20388
+5,-110.8841,31.8774,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,155,"male",17.6,393,7.33522014294421,126.689126681958,"Spring",20389
+5,-110.8841,31.8774,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,170,"male",17.6,393,7.33522014294421,126.689126681958,"Spring",20390
+9,-111.417144,32.430503,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,150,"female",19.3,308,7.94108991832413,145.231951452771,"Fall",20391
+10,-111.3979,32.3707,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12.5,142,"male",20,266,7.89637431184257,110.723533677913,"Fall",20392
+4,-113.436958,32.07144,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.5,175,"male",21.4,106,8.0567118640675,158.780518537259,"Spring",20393
+4,-113.436958,32.07144,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,155,"male",21.4,106,8.0567118640675,158.780518537259,"Spring",20394
+5,-111.116667,30.622583,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,165,"male",19.2,340,6.50978284793531,142.504449360183,"Spring",20395
+10,-109.478074,31.904542,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,161,"male",15.4,410,6.87597376024045,117.107228821497,"Fall",20396
+10,-109.478074,31.904542,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,146,"female",15.4,410,6.87597376024045,117.107228821497,"Fall",20397
+10,-113.436958,32.07144,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.3,181,"female",22.2,138,8.08256634911702,136.590176014416,"Fall",20398
+10,-113.436958,32.07144,NA,1972,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19.1,173,"female",22.2,138,8.08256634911702,136.590176014416,"Fall",20399
+6,-110.8841,31.8774,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.6,153,"female",18.2,371,7.25953396116675,127.720909501946,"Summer",20400
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,163,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20401
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,185,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20402
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",24.5,136,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20403
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,181,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20404
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,115,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20405
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,170,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",20406
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,182,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20407
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,168,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",20408
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,182,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20409
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,191,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20410
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,188,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20411
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,194,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",20412
+3,-113.5718,33.1825,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,178,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",20413
+3,-109.567,31.883,NA,1970,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.1,162,"male",15.5,277,7.37222469609391,124.475182852828,"Spring",20414
+6,-110.774612,32.046875,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.9,132,"male",17.6,370,7.45098630851627,120.878157406244,"Summer",20415
+4,-110.8671,31.8337,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",28,151,"female",17.2,438,7.11176468745254,128.395083164601,"Spring",20416
+5,-110.85222,31.83333,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.5,163,"male",17.2,448,7.05877382261168,126.774853202253,"Spring",20417
+5,-110.85222,31.83333,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.2,156,"female",17.2,448,7.05877382261168,126.774853202253,"Spring",20418
+4,-110.8671,31.8337,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.8,109,"female",17.2,438,7.11176468745254,128.395083164601,"Spring",20419
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,172,"female",20.4,276,8.0785162153965,104.624517098413,"Spring",20420
+9,-111.3637,32.444,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,185,"male",19.9,201,8.26205272020913,131.436815100018,"Fall",20421
+9,-111.3637,32.444,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,191,"male",19.9,201,8.26205272020913,131.436815100018,"Fall",20422
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.4,169,"female",20.4,276,8.0785162153965,104.624517098413,"Spring",20423
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,169,"male",20.4,276,8.0785162153965,104.624517098413,"Spring",20424
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,176,"male",20.4,276,8.0785162153965,104.624517098413,"Spring",20425
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.2,175,"female",20.4,276,8.0785162153965,104.624517098413,"Spring",20426
+5,-111.4316,32.4585,NA,1974,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.3,189,"male",20.4,276,8.0785162153965,104.624517098413,"Spring",20427
+8,-111.3637,32.4295,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,151,"male",19.9,202,8.26205272020913,130.728176043517,"Summer",20428
+6,-111.4655,32.4585,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,135,"male",20,214,8.07746584922861,130.324261321046,"Summer",20429
+6,-111.4655,32.4585,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,164,"male",20,214,8.07746584922861,130.324261321046,"Summer",20430
+9,-111.4146,32.4295,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,158,"male",19.8,203,8.20513512528846,131.541936496751,"Fall",20431
+9,-111.4146,32.4295,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,162,"male",19.8,203,8.20513512528846,131.541936496751,"Fall",20432
+7,-110.0477,32.5496,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,175,"male",15.2,325,7.72626374874373,106.682175670081,"Summer",20433
+10,-109.441,32.159,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,167,"male",14.3,360,7.29285141890206,128.998917519602,"Fall",20434
+10,-109.441,32.159,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,144,"male",14.3,360,7.29285141890206,128.998917519602,"Fall",20435
+10,-109.441,32.159,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,171,"female",14.3,360,7.29285141890206,128.998917519602,"Fall",20436
+8,-109.458,32.159,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,173,"female",14.5,317,7.04309246816706,81.8907053045508,"Summer",20437
+11,-109.441,32.1446,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,182,"female",13.9,373,7.20733527860206,129.221601083964,"Fall",20438
+10,-109.441,32.1446,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,110,"male",13.9,373,7.20733527860206,129.221601083964,"Fall",20439
+11,-109.458,32.1446,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,183,"female",13.8,372,7.1554598776463,130.73627570127,"Fall",20440
+8,-109.458,32.159,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,171,"female",14.5,317,7.04309246816706,81.8907053045508,"Summer",20441
+8,-109.458,32.159,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,127,"male",14.5,317,7.04309246816706,81.8907053045508,"Summer",20442
+11,-112.416667,29,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10,113,"male",21.3,65,5.76354136715519,116.162015410341,"Fall",20443
+9,-110.7145,31.8392,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,170,"male",16.1,448,6.25350204915517,85.7772448177827,"Fall",20444
+9,-110.7145,31.8392,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,179,"male",16.1,448,6.25350204915517,85.7772448177827,"Fall",20445
+6,-110.85222,31.83333,NA,1971,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16.6,146,"female",17.2,448,7.05877382261168,126.774853202253,"Summer",20446
+6,-110.2636,31.3294,NA,1978,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,150,"male",15.9,706,7.2742541010933,65.4007868053666,"Summer",20447
+11,-112.416667,29,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,177,"male",21.3,65,5.76354136715519,116.162015410341,"Fall",20448
+2,-113.3086,33.7181,NA,1980,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.6,184,"male",20.3,220,7.59478988078889,138.288823647602,"Winter",20449
+4,-113.059419,33.596149,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,178,"female",20.9,176,7.84634638001353,70.079520165079,"Spring",20450
+4,-113.059419,33.596149,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",23,116,"male",20.9,176,7.84634638001353,70.079520165079,"Spring",20451
+7,-110.85222,31.83333,NA,1973,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20,197,"male",17.4,333,7.35442043943641,119.58836709572,"Summer",20452
+9,-112.7521,31.8592,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.2,167,"male",20.9,275,7.24855262459445,93.0475415610117,"Fall",20453
+10,-112.72417,32.06833,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,225,"female",21.1,308,6.6000631310112,82.1501305370168,"Fall",20454
+9,-112.7216,32.0777,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12.5,159,"female",21,333,6.57296460026704,83.17613612673,"Fall",20455
+10,-112.9782,32.1645,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,171,"male",21.2,253,7.52822970054995,92.8230461893721,"Fall",20456
+10,-112.85722,31.96028,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,143,"male",22.1,230,6.73796907626677,81.2260125654622,"Fall",20457
+10,-112.9782,32.1645,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,165,"female",21.2,253,7.52822970054995,92.8230461893721,"Fall",20458
+10,-113.004846,31.954702,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,143,"male",22.9,206,7.07690974332381,80.1626166178668,"Fall",20459
+10,-112.85722,31.96028,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21,130,"male",22.1,230,6.73796907626677,81.2260125654622,"Fall",20460
+9,-112.74139,31.85861,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,150,"male",20.9,276,7.22556488302388,92.7886132948153,"Fall",20461
+9,-113.03333,32.01694,NA,1983,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,156,"male",21.5,462,7.28948495499448,83.3342788602016,"Fall",20462
+10,-113.01667,31.945805,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,167,"male",22.9,204,7.07690974332381,80.2429363286226,"Fall",20463
+9,-113.01694,31.94444,NA,1983,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,178,"male",21.7,477,7.30485517248009,83.2031843421755,"Fall",20464
+9,-113.03333,32.01694,NA,1983,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,184,"male",21.5,462,7.28948495499448,83.3342788602016,"Fall",20465
+9,-112.720344,32.09577,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,137,"female",21.3,294,6.63123920043104,82.8084590177482,"Fall",20466
+9,-112.974563,32.169998,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.5,120,"male",21.2,255,7.50288833272449,92.9147732075686,"Fall",20467
+5,-113.01694,31.94444,NA,1982,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18.5,161,"male",21.5,268,7.45286196807317,94.2069712166641,"Spring",20468
+9,-113.008388,31.969838,NA,1984,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.6,180,"male",21.8,371,7.24460091545714,130.177360406337,"Fall",20469
+10,-113.0072,31.9756,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,140,"female",22.8,208,7.01700855713523,81.6605021074163,"Fall",20470
+10,-110.763,32.3025,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.2,180,"female",20,314,7.00875534707494,79.6958506011527,"Fall",20471
+10,-111.1913,32.2138,NA,1983,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,167,"female",20,482,7.64779627597309,86.5811884079441,"Fall",20472
+10,-111.1913,32.2138,NA,1983,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.5,166,"male",20,482,7.64779627597309,86.5811884079441,"Fall",20473
+9,-109.1285,31.9226,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,170,"male",15.4,450,6.97591093215311,100.435123649382,"Fall",20474
+9,-109.2595,31.3439,NA,1989,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12.8,153,"female",17.9,218,7.32113482675433,130.551218565996,"Fall",20475
+9,-109.2595,31.3439,NA,1989,"Chaetodipus penicillatus","Chaetodipus_penicillatus",16,174,"female",17.9,218,7.32113482675433,130.551218565996,"Fall",20476
+4,-110.0934,31.4598,NA,1988,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17,171,"male",17.1,373,6.81048100468326,108.689783746722,"Spring",20477
+8,-110.9011,31.965,NA,1986,"Chaetodipus penicillatus","Chaetodipus_penicillatus",19,160,"female",20.3,338,6.72220990899615,88.5293579926615,"Summer",20478
+9,-111.437848,32.449429,NA,1984,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.8,173,"male",20.5,456,7.6737450854432,108.020458676101,"Fall",20479
+9,-110.8495,31.9118,NA,1984,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.6,189,"male",18.5,597,7.17195717339205,132.125451449883,"Fall",20480
+10,-110.9347,32.4315,NA,1984,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.7,171,"male",19.3,490,7.41403255913263,112.975109059174,"Fall",20481
+9,-109.911,32.5785,NA,1986,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,170,"male",16.4,473,6.57038811639008,67.1179328282906,"Fall",20482
+10,-109.161,33.2007,NA,1983,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,117,"female",15,582,7.65345534957112,77.3452003813372,"Fall",20483
+10,-113.0072,31.9756,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",12,156,"male",22.8,208,7.01700855713523,81.6605021074163,"Fall",20484
+10,-113.01028,31.93972,NA,1984,"Chaetodipus penicillatus","Chaetodipus_penicillatus",21.9,179,"female",22,366,7.29686524640838,130.224021087969,"Fall",20485
+3,-113.62644,31.9759,NA,1988,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,157,"male",22.7,56,7.2035502610613,123.717914826348,"Spring",20486
+9,-112.72417,32.06833,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",24,199,"female",21.1,308,6.6000631310112,82.1501305370168,"Fall",20487
+8,-111.4146,32.4295,NA,1981,"Chaetodipus penicillatus","Chaetodipus_penicillatus",23,193,"male",21.4,212,7.2386745396453,67.5464520984975,"Summer",20488
+8,-111.313996,32.549459,NA,1992,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,182,"female",21.5,402,8.17773677663195,97.4498895300532,"Summer",20489
+8,-110.868861,31.781633,NA,1997,"Chaetodipus penicillatus","Chaetodipus_penicillatus",22,190,"male",18.5,426,7.29439386228779,99.492559557738,"Summer",20490
+10,-110.2296,31.3584,NA,1996,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10,140,"male",16.8,400,6.41057365182357,112.833747369546,"Fall",20491
+4,-110.734346,32.134638,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,190,"female",20,234,7.62787452026904,106.934843086011,"Spring",20492
+4,-110.734346,32.134638,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13.5,167,"female",20,234,7.62787452026904,106.934843086011,"Spring",20493
+10,-111.18194,32.27861,NA,2001,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.6,155,"female",20.7,247,8.01207422165655,63.3805127372817,"Fall",20494
+4,-110.71139,32.08611,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.5,171,"female",19.6,246,7.62553525195365,108.26803085716,"Spring",20495
+9,-111.53139,32.99694,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",17.3,179,"male",22.2,86,8.39994588727159,92.9580976947198,"Fall",20496
+9,-111.53139,32.99694,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15.5,163,"female",22.2,86,8.39994588727159,92.9580976947198,"Fall",20497
+9,-111.53139,32.99694,NA,2002,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14.7,158,"male",22.2,86,8.39994588727159,92.9580976947198,"Fall",20498
+8,-111.14754,32.40171,NA,2010,"Chaetodipus penicillatus","Chaetodipus_penicillatus",20.5,200,"female",21.6,262,8.08258509501643,97.4034629617909,"Summer",20499
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",10,102,"male",20.4,233,7.27737777449593,79.5510683914342,"Fall",20500
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,170,"female",20.4,233,7.27737777449593,79.5510683914342,"Fall",20501
+9,-111.4146,32.4295,NA,1976,"Chaetodipus penicillatus","Chaetodipus_penicillatus",9.5,140,"female",20.4,233,7.27737777449593,79.5510683914342,"Fall",20502
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",13,140,"female",21.1,242,7.64922257883807,77.6859772139553,"Fall",20503
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",15,165,"female",21.1,242,7.64922257883807,77.6859772139553,"Fall",20504
+9,-111.4146,32.4295,NA,1977,"Chaetodipus penicillatus","Chaetodipus_penicillatus",18,181,"male",21.1,242,7.64922257883807,77.6859772139553,"Fall",20505
+9,-111.4146,32.4295,NA,1978,"Chaetodipus penicillatus","Chaetodipus_penicillatus",14,168,"female",20.9,471,8.09285131608399,75.7151182176521,"Fall",20506
+10,-111.4316,32.4585,NA,1975,"Chaetodipus penicillatus","Chaetodipus_penicillatus",11,155,"male",19.6,181,7.96919732850217,71.2070312203841,"Fall",20507

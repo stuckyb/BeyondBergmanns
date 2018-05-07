@@ -1,0 +1,351 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+9,-119.229436,46.900186,NA,2004,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",48.5,NA,"male",11.9,191,8.68436421496599,58.8687103363136,"Fall",102720
+9,-117.489145,46.291682,NA,1956,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",55,209,"female",6.6,679,7.60101667840918,58.6362101548503,"Fall",102721
+9,-103.8865246,40.107712,"adult",1985,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",48.6,197,"male",8.2,385,10.8419639280982,108.701277542918,"Fall",102722
+8,-108.233072,37.40167,NA,1988,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",33.2,224,"female",6.2,533,8.68687620389621,46.700563764634,"Summer",102723
+7,-104.9265,38.142,"adult",1990,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",30,196,"male",9.8,585,8.30707529760023,61.1360830716169,"Summer",102724
+9,-106.388658,40.01941,NA,1993,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",30.6,NA,"undetermined",3.4,340,9.23987980375712,34.950195994628,"Fall",102725
+6,-107.884918,37.26945,NA,1985,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",21.3,171,"undetermined",8.1,510,8.80438509889799,72.8652356103625,"Summer",102726
+10,-105.1515788,39.9516369,NA,1996,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",51.25,191,"undetermined",10.5,399,8.57199015115598,77.6776556148432,"Fall",102727
+11,-104.541452,39.158359,"adult",2000,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",43.6,181,"undetermined",8.1,481,8.60839970346088,72.99518115429,"Fall",102728
+6,-108.41403,37.332631,"adult",2005,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",39.3,190,"female",8.6,517,7.93020214500274,66.4540918219342,"Summer",102729
+8,-108.4756,37.1654,NA,1988,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",35.7,201,"undetermined",9.5,354,9.26305794131951,51.9780244688281,"Summer",102730
+6,-108.4914,37.2122,NA,1990,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",39.1,182,"undetermined",9.2,534,9.509453032099,40.382468455978,"Summer",102731
+1,-108.4979,39.2582,NA,1980,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",44.6,185,"undetermined",9.5,428,8.46558093730493,64.794241716695,"Winter",102732
+10,-108.4142425562,37.2985639878,NA,1993,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",55.5,195,"undetermined",8,644,7.78780612511792,95.4536285285328,"Fall",102733
+8,-108.4913705841,37.259627572,NA,1982,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",36.4,165,"undetermined",8.2,647,8.56102425902627,51.8443528732463,"Summer",102734
+7,-108.4491146875,37.2490827394,NA,1989,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",40.6,175,"male",9.3,272,8.5998238177866,82.8859754866206,"Summer",102735
+9,-108.503975,37.237772,NA,1984,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",32.6,166,"undetermined",8.7,507,8.9233223531475,62.5332246445418,"Fall",102736
+7,-99.4492323,39.3916878,NA,1996,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",41,NA,"male",10.8,820,10.7508984825371,88.4836205522284,"Summer",102737
+7,-100.3369074,41.8888463,NA,1957,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",48.7,NA,"female",8.9,764,10.6036443135024,83.7479148427961,"Summer",102738
+7,-106.7801833,45.7274507,NA,1970,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",51.9,NA,"female",6.5,521,10.7827689421876,82.3306070567859,"Summer",102739
+5,-99.4492323,39.3916878,NA,1997,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",47.8,NA,"male",11.2,653,10.1454385929059,73.3570330535075,"Spring",102740
+4,-94.6163177,39.088502,NA,2002,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",47,NA,"female",13.3,667,10.062573169318,100.270844890294,"Spring",102741
+4,-115.7716941,35.6625962,NA,2004,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",55,NA,"female",17.8,265,8.61778903656778,102.708332601653,"Spring",102742
+10,-118.3349152,33.8320503,NA,2013,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",46,NA,"male",16.3,115,2.68813329395337,112.700932036405,"Fall",102743
+9,-118.7343978,37.6217099,NA,2005,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",26,NA,"female",8.9,565,6.99296182969099,118.856856550575,"Fall",102744
+1,-117.8419342,33.5748482,NA,2003,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",41.5,NA,"female",15.7,270,2.81278197239715,144.219277389859,"Winter",102745
+5,-114.732426,33.433144,NA,1967,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",48,NA,"female",22.5,123,8.113232737605,122.194394449733,"Spring",102746
+7,-116.4593267,33.6012161,NA,2001,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",27,NA,"male",15.1,156,6.70813052582574,124.899098597844,"Summer",102747
+10,-117.4833333,36.3333333,NA,1984,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46,NA,"female",18.7,132,8.74178402151345,162.436512744724,"Fall",102748
+10,-115.621637,33.037369,NA,1999,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",47.1,NA,"female",21.8,22,7.02870197939502,120.746944939199,"Fall",102749
+10,-122.6160965,38.7523041,NA,1991,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",43,NA,"male",14.7,841,6.14200638425608,170.872474662839,"Fall",102750
+11,-118.251442,34.1428413,NA,1996,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",28.2,NA,"female",18.8,504,3.88653464093034,123.767891768329,"Fall",102751
+3,-104.7273333333,32.1174,"ad",2008,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",45.6,NA,"male",13.9,409,6.41567091841012,127.948329303699,"Spring",102752
+10,-106.0253796,34.1656598,NA,2007,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",56.5,NA,"male",12.3,265,8.07727826946826,67.4756822378519,"Fall",102753
+8,-107.5570666667,33.8475333333,NA,2011,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",44.5,NA,"male",10.5,307,8.19460280620819,98.1872152988979,"Summer",102754
+5,-121.12136,41.56081,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",57.5,NA,"male",6.9,534,7.6679182114163,55.7253413422282,"Spring",102756
+5,-121.12136,41.56081,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",55.2,NA,"female",6.9,534,7.6679182114163,55.7253413422282,"Spring",102757
+5,-121.12136,41.56081,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",41.5,NA,"male",6.9,534,7.6679182114163,55.7253413422282,"Spring",102758
+5,-122.277108,37.871028,"u ad.",1947,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",49.5,NA,"male",14.2,343,3.6365568130507,103.067653255272,"Spring",102759
+7,-114.588779,29.423401,"u ad.",1949,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",44,NA,"female",15.9,172,5.21474453890702,136.637478380038,"Summer",102760
+9,-123.1358556,40.315747,"u ad.",1949,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",48,NA,"female",9.4,1281,6.87278338922096,146.948460928128,"Fall",102761
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",52,NA,"female",13.1,351,6.92931300980687,121.571115249925,"Summer",102762
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",52.5,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",102763
+9,-108.083333,30.6,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42.3,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",102764
+9,-108.083333,30.6,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.2,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",102765
+9,-108.083333,30.6,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",48.1,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",102766
+9,-116.39528,34.05639,"u ad.",1950,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44,NA,"female",14.3,82,5.90174601796842,107.145599754757,"Fall",102767
+8,-116.3038572,34.0304563,"u ad.",1950,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",32.9,NA,"male",13.9,82,5.9258805764258,102.312243370886,"Summer",102768
+8,-116.3038572,34.0304563,"u ad.",1950,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",41,NA,"male",13.9,82,5.9258805764258,102.312243370886,"Summer",102769
+4,-116.5135639,34.0687473,"u ad.",1951,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.3,NA,"male",16.7,246,7.00523613687171,139.842888524595,"Spring",102770
+6,-105.00167,26.10278,"u ad.",1952,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",43.7,NA,"female",17.6,322,4.48359805459315,187.368115093645,"Summer",102771
+5,-119.04884,38.021988,"ad.",1953,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.8,NA,"male",7.1,169,6.97065276713738,62.9182054670919,"Spring",102772
+6,-118.099737,37.432159,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.5,NA,"female",6.2,289,6.69886353997995,93.1612499083614,"Summer",102773
+6,-118.099737,37.432159,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",102774
+5,-118.23917,37.76944,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49.3,NA,"male",7,220,6.73934625010378,89.5166081824812,"Spring",102775
+6,-118.23917,37.76944,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",54.5,NA,"male",7,220,6.73934625010378,89.5166081824812,"Summer",102776
+6,-118.23917,37.76944,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49.2,NA,"female",7,220,6.73934625010378,89.5166081824812,"Summer",102777
+6,-114.82083,40.5525,"u ad.",1956,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",52.5,NA,"female",3,727,7.97288967043754,111.831904649184,"Summer",102778
+6,-106.770421,29.485097,"u ad.",1959,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49.1,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",102779
+7,-106.8987177777,29.3920969444,"u ad.",1959,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",97.5,NA,"male",14.4,416,6.22801588133667,161.139334141977,"Summer",102780
+6,-115.28361,36.63,"u ad.",1963,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",48,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",102781
+6,-115.28361,36.63,"u ad.",1963,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",53.2,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",102782
+6,-115.28361,36.63,"u ad.",1963,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",50.4,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",102783
+7,-117.42459,41.57558,"sk.oss.",1967,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.5,NA,"female",7.9,521,8.80359774940526,72.1773859345451,"Summer",102784
+5,-115.63229,34.8592816,"u ad.",1976,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",34,NA,"male",16.6,207,7.13720512313447,116.103313380368,"Spring",102785
+6,-119.638922,42.470418,NA,1983,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.5,NA,"male",5.8,542,6.45717829358548,70.1167158548457,"Summer",102786
+10,-121.689474,38.163291,"adult",2004,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",33.9,NA,"male",15.9,455,5.68402199684397,118.296857577992,"Fall",102787
+9,-119.171,37.87338,"ad.",1915,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49,NA,"male",4,563,6.56382995181652,122.671740427124,"Fall",102788
+5,-119.1053,37.90891,"ad.",1916,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44,NA,"female",6.5,514,8.25665938757463,131.268195947851,"Spring",102789
+5,-119.141074,37.990578,"u ad.",1916,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",45,NA,"male",6.8,455,8.43831449491849,130.724498411799,"Spring",102790
+6,-119.1053,37.90891,"u ad.",1916,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",41,NA,"female",6.5,514,8.25665938757463,131.268195947851,"Summer",102791
+9,-119.11036,36.723617,"imm.",1916,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",43.5,NA,"male",15.9,1010,7.65119816325086,149.165087520743,"Fall",102792
+4,-116.865597,36.456792,"u ad.",1917,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",45.2,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",102793
+5,-117.02004,36.186238,"ad.",1917,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",40,NA,"female",15.9,94,9.16434130285159,106.837980451643,"Spring",102794
+10,-117.465934,36.58766,"ad.",1917,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.5,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",102795
+7,-121.14779,36.49089,"u ad.",1918,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",47.3,NA,"female",13.9,444,5.62971014916722,133.861318211973,"Summer",102796
+10,-121.17385,35.970848,"ad.",1918,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",51.5,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",102797
+8,-120.103982,37.775914,"juv.",1920,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",21,NA,"male",11.6,1013,6.37858039682717,104.597225625666,"Summer",102798
+8,-120.103982,37.775914,"juv.",1920,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",22.1,NA,"male",11.6,1013,6.37858039682717,104.597225625666,"Summer",102799
+4,-116.1,30.9667,"u ad.",1925,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",39.6,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Spring",102800
+4,-116.1,30.9667,"u ad.",1925,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",40,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Spring",102801
+5,-115.7677777778,30.8938888889,"u ad.",1925,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",21.5,NA,"male",15.9,271,4.09833669143515,123.476879586373,"Spring",102802
+5,-115.458333,30.883333,"u ad.",1925,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",43.3,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",102803
+5,-115.458333,30.883333,"u ad.",1924,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",49.9,NA,"male",10.4,339,4.7970555994529,130.660998225714,"Spring",102804
+5,-112.9,27.3,"unknown",1927,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",34,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",102805
+5,-118.00528,37.82389,"u ad.",1927,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.8,NA,"male",11.9,54,8.72033499495532,87.1348306992916,"Spring",102806
+6,-117.665,37.41722,"u ad.",1927,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47,NA,"male",8.9,108,8.13352582981344,94.8742448426108,"Summer",102807
+10,-115.3129,32.7124,"u ad.",1927,"Phalaenoptilus nuttallii hueyi","Phalaenoptilus_nuttallii",28.3,NA,"female",22.9,86,7.21689935939503,129.273767031457,"Fall",102808
+7,-120.4694816,40.5257959,"ad.",1928,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",41.2,NA,"female",10.2,264,7.68498634686589,116.807006572263,"Summer",102809
+7,-120.4694816,40.5257959,"ad.",1928,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",40.9,NA,"male",10.2,264,7.68498634686589,116.807006572263,"Summer",102810
+5,-118.05361,37.73806,"u ad.",1928,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.6,NA,"female",11.2,32,8.76598107700583,153.648802616404,"Spring",102811
+5,-118.05361,37.73806,"u ad.",1928,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",48.2,NA,"female",11.2,32,8.76598107700583,153.648802616404,"Spring",102812
+5,-118.05361,37.73806,"u ad.",1928,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",40.7,NA,"male",11.2,32,8.76598107700583,153.648802616404,"Spring",102813
+5,-118.05361,37.73806,"u ad.",1928,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",41.1,NA,"male",11.2,32,8.76598107700583,153.648802616404,"Spring",102814
+7,-109.716873,23.387557,"u ad.",1929,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",50.7,NA,"undetermined",22.2,342,4.69806536585201,128.498769417651,"Summer",102815
+7,-109.716873,23.387557,"ad.",1929,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",44.7,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",102816
+7,-109.716873,23.387557,"ad.",1929,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",38.5,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",102817
+5,-117.23,38.89,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",37.5,NA,"male",8.2,204,8.83386647905078,88.3383599642939,"Spring",102818
+5,-117.22,38.95,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",51,NA,"female",8.5,193,8.91510040052916,90.4141355601596,"Spring",102819
+6,-117.1625,39.25556,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",43.7,NA,"female",6,598,8.3549114570141,84.8288639681795,"Summer",102820
+6,-117.1625,39.25556,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.4,NA,"male",6,598,8.3549114570141,84.8288639681795,"Summer",102821
+6,-117.1625,39.25556,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46,NA,"female",6,598,8.3549114570141,84.8288639681795,"Summer",102822
+6,-117.0343964,39.3959732,"ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",55.7,NA,"female",7.2,451,8.55925425100419,90.2768268235405,"Summer",102823
+6,-117.0343964,39.3959732,"ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.6,NA,"male",7.2,451,8.55925425100419,90.2768268235405,"Summer",102824
+6,-117.0343964,39.3959732,"ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.4,NA,"female",7.2,451,8.55925425100419,90.2768268235405,"Summer",102825
+6,-117.0343964,39.3959732,"ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.5,NA,"male",7.2,451,8.55925425100419,90.2768268235405,"Summer",102826
+6,-117.0343964,39.3959732,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.6,NA,"male",7.2,451,8.55925425100419,90.2768268235405,"Summer",102827
+6,-117.0343964,39.3959732,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",36.6,NA,"male",7.2,451,8.55925425100419,90.2768268235405,"Summer",102828
+6,-117.0343964,39.3959732,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",45.8,NA,"male",7.2,451,8.55925425100419,90.2768268235405,"Summer",102829
+6,-117.0343964,39.3959732,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",45.7,NA,"male",7.2,451,8.55925425100419,90.2768268235405,"Summer",102830
+6,-117.0343964,39.3959732,"ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.1,NA,"female",7.2,451,8.55925425100419,90.2768268235405,"Summer",102831
+8,-114.81528,39.19112,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",29.6,NA,"male",6.7,365,9.06412759679105,79.0500848781682,"Summer",102832
+5,-116.71364,36.9445,"u ad.",1931,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",38.3,NA,"female",14.9,150,8.67075806689043,108.565944868244,"Spring",102833
+6,-115.73389,37.45,"u ad.",1931,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.5,NA,"male",6,298,8.09537840469187,80.8626724749812,"Summer",102834
+9,-117.0343964,39.3959732,"u ad.",1931,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",38,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Fall",102835
+9,-117.27444,38.94472,"u ad.",1931,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",30.5,NA,"female",7.2,346,8.99968012899583,49.7317417305378,"Fall",102836
+9,-117.27444,38.94472,"u ad.",1931,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",35.3,NA,"male",7.2,346,8.99968012899583,49.7317417305378,"Fall",102837
+10,-118.5227879,35.4095536,"ad.",1933,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",58.2,NA,"female",13.5,189,7.50107063065404,172.77659987883,"Fall",102838
+10,-118.49432,35.4277106,"ad.",1933,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",47.4,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",102839
+7,-117.53361,41.69648,"u ad.",1932,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",38,NA,"male",3.5,698,9.03288185162712,70.5036226114439,"Summer",102840
+7,-108.4582,41.2869,"u ad.",1935,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",54.3,NA,"male",6.8,168,9.5727319491197,85.9123778690208,"Summer",102841
+6,-120.6323,36.3557,"ad.",1936,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",49.7,NA,"female",13.1,750,7.08600840752501,154.893793525523,"Summer",102842
+6,-120.6724,36.4443,"u ad.",1936,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",38.5,NA,"male",15.7,456,6.74066694838804,164.92942332847,"Summer",102843
+5,-119.8975,42.0471,"u ad.",1937,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",50,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",102844
+6,-120.0958,42.0433,"u ad.",1937,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",43.6,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",102845
+11,-122.3721234,38.2518256,"u ad.",1939,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",47,NA,"male",15.2,278,4.40339916909928,112.987595976186,"Fall",102846
+5,-115.5882,35.5253,"u ad.",1939,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.7,NA,"male",10,378,7.62274805295229,103.246728037081,"Spring",102847
+5,-115.63,35.518,"u ad.",1939,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42.9,NA,"male",12.8,271,7.92523300489129,96.0639517627858,"Spring",102848
+5,-115.63028,35.51806,"u ad.",1939,"Phalaenoptilus nuttallii hueyi","Phalaenoptilus_nuttallii",42.3,NA,"female",12.8,271,7.92523300489129,95.8203768335297,"Spring",102849
+8,-115.62528,38.40472,"u juv.",1939,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",25.4,NA,"male",10.8,206,9.65696482840078,94.6109587483549,"Summer",102850
+6,-106.2394,45.3018,"u ad.",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.5,NA,"male",7.8,445,11.6803220949777,72.5812653346876,"Summer",102851
+6,-117.10315,36.95078,"u ad.",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",50.5,NA,"male",10,173,7.54121503754032,91.8049180411786,"Summer",102852
+6,-117.10315,36.95078,"u ad.",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",45.2,NA,"female",10,173,7.54121503754032,91.8049180411786,"Summer",102853
+6,-115.88742,35.77286,"u ad.",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.2,NA,"female",14.5,204,7.9177973674195,117.831236525882,"Summer",102854
+7,-116.8233,44.7674,"u ad.",1932,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",45.8,NA,"male",3.5,839,8.5071449471321,75.8709465848092,"Summer",102855
+5,-118.058085,36.241614,"u ad.",1942,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",45.3,NA,"male",12.4,123,7.48494954538571,122.697204898114,"Spring",102856
+6,-118.289486,36.78325,"u ad.",1942,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",50,NA,"male",10.1,122,7.43901977087809,136.149129141004,"Summer",102857
+6,-118.480402,37.81843,"u ad.",1942,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",50,NA,"male",10.1,77,8.15765117710194,65.9379462369891,"Summer",102858
+6,-122.82817,40.32421,"u ad.",1943,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",51.4,NA,"male",14.4,687,6.28728273918266,121.916631216622,"Summer",102859
+11,-112.280146,28.778293,"u ad.",1941,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.7,NA,"female",23.3,85,5.27808505219287,128.603081484426,"Fall",102860
+5,-122.82817,40.32421,"u ad.",1946,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",51.4,NA,"male",13.5,472,6.95093191920728,97.4720294844736,"Spring",102861
+5,-122.82817,40.32421,"u ad.",1946,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",57.4,NA,"male",13.5,472,6.95093191920728,97.4720294844736,"Spring",102862
+4,-121.9867,38.3567,"u ad.",1947,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",41.8,NA,"male",15.9,342,6.42487471874084,120.877991585383,"Spring",102863
+6,-119.269072,38.468374,"u ad.",1946,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",51.2,NA,"male",3.7,550,6.85622919598512,133.948219827167,"Summer",102864
+6,-119.269072,38.468374,"u ad.",1946,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49.1,NA,"male",3.7,550,6.85622919598512,133.948219827167,"Summer",102865
+6,-106.1985,45.3019,"u ad.",1947,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.5,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",102866
+6,-106.1985,45.3019,"u ad.",1947,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.2,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",102867
+5,-103.2040596,29.3965864,"not applicable",1968,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44,192,"undetermined",17.6,390,7.24131140810081,66.1421336627174,"Spring",102868
+5,-103.199894,29.3651991,"not applicable",1968,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42.1,205,"male",17.8,395,7.27400414927269,67.2029519265464,"Spring",102869
+5,-109.2169,31.93699,"not applicable",1971,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",37,NA,"male",12.8,473,6.89206834416245,105.991662819733,"Spring",102870
+6,-119.7497894,48.557371,"adult",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.3,NA,"female",8.1,393,8.840004627724,64.6569023039918,"Summer",102871
+7,-109.1074191,31.9137028,NA,1987,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",34.5,NA,"female",14.9,345,7.38405325172039,85.9595016087471,"Summer",102872
+10,-112.0740373,33.4483771,NA,1986,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",36.5,195,"male",21.8,217,7.48329452645671,80.4510168704771,"Fall",102873
+9,-110.728794,31.775792,NA,1987,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",49.6,221,"female",16,472,7.13431209654505,73.4658538248669,"Fall",102874
+8,-119.076519,37.7842828,"immature",2000,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",33.2,NA,"female",6,561,6.62000526411949,126.172305734209,"Summer",102875
+9,-111.2702042,42.370761,"immature",1934,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",44.1,NA,"male",6,331,7.96423825039727,55.8533595923151,"Fall",102876
+4,-103.7662125,30.725605,NA,1937,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",47,NA,"female",16.3,377,7.40222632357688,71.1643743417844,"Spring",102877
+4,-103.9122522,30.6035529,NA,1937,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",45.2,NA,"female",15.5,394,7.03611893709662,70.9808670830714,"Spring",102878
+4,-103.7662125,30.725605,NA,1937,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",44.5,NA,"male",16.3,377,7.40222632357688,71.1643743417844,"Spring",102879
+4,-104.0215588,30.6689237,NA,1937,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",39.4,NA,"male",14,453,6.49794839417284,68.6191885913047,"Spring",102880
+7,-103.47389,43.518582,NA,1966,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",55.3,NA,"male",7.6,427,10.6234267997524,85.9423584019611,"Summer",102881
+11,-104.81972,41.14,NA,1981,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",62,NA,"female",8.8,403,7.90458248375107,105.650401276275,"Fall",102882
+9,-110.6553594,31.7666173,NA,1956,NA,"Phalaenoptilus_nuttallii",39,NA,"male",15.9,319,7.07712383798544,160.365364158981,"Fall",102883
+10,-117.7542114,33.8433304,NA,1985,NA,"Phalaenoptilus_nuttallii",42.5,NA,"female",17.5,173,4.60936957498397,139.862146361958,"Fall",102884
+10,-111.838271,34.48926,NA,1985,NA,"Phalaenoptilus_nuttallii",43,NA,"undetermined",16.5,402,8.33468473890703,84.0568846623346,"Fall",102885
+10,-120.275689,34.741719,NA,1996,NA,"Phalaenoptilus_nuttallii",46,NA,"female",15.1,579,2.45188548350905,126.956507575215,"Fall",102886
+10,-117.821473,33.800967,"adult",2005,NA,"Phalaenoptilus_nuttallii",44,NA,"female",16.6,584,2.96866208003783,186.315148414505,"Fall",102887
+5,-108.487723,37.184388,NA,1987,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",40.1,166,"undetermined",9.3,528,8.58518809027819,56.9456623219289,"Spring",102888
+9,-104.11778,40.302309,NA,1990,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",55,203,"undetermined",9.9,480,9.92014708468671,101.516904100656,"Fall",102889
+9,-106.4408112,40.2741742,NA,1994,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",36.7,180,"undetermined",4.6,312,9.4474944570056,31.8376689247243,"Fall",102890
+8,-108.472995,37.275085,NA,1987,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",39.5,195,"undetermined",8.3,692,8.0032332481468,57.2362434501414,"Summer",102891
+10,-108.4750251561,37.1621707928,NA,1984,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",38.2,168,"female",9.5,398,9.24355631417548,61.6440046080358,"Fall",102892
+9,-108.4834469629,37.1859265572,NA,1984,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",22.5,190,"undetermined",9.3,427,9.17797099119144,61.8378250835362,"Fall",102893
+9,-108.5031880212,37.2376037302,NA,1984,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",35,177,"undetermined",8.7,508,8.9233223531475,62.5332246445418,"Fall",102894
+1,-108.46083,37.28083,NA,1979,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",42.6,155,"undetermined",7.3,701,8.79931126781402,79.1085771322002,"Winter",102895
+5,-108.49306,37.26056,NA,1987,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",32.7,202,"undetermined",8.6,669,8.17273275019198,59.299586238115,"Spring",102896
+7,-103.932084,42.7654787,NA,1949,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",41.9,NA,"female",6.9,443,10.9640286502008,85.0931997650697,"Summer",102897
+7,-99.4492323,39.3916878,NA,1996,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.2,NA,"male",10.8,820,10.7508984825371,88.4836205522284,"Summer",102898
+5,-99.4492323,39.3916878,NA,1997,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",51.8,NA,"male",11.2,653,10.1454385929059,73.3570330535075,"Spring",102899
+4,-97.3375435,37.692234,"adult",1995,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",30.2,NA,"male",13.6,959,9.33774922591417,93.7749966675553,"Spring",102900
+10,-118.1549,33.9651,NA,1973,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",46,NA,"female",17.1,379,3.8169776239609,158.172005357368,"Fall",102901
+10,-118.290009,35.665829,NA,1999,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",43.7,NA,"female",15.5,194,7.19385259450839,153.55140449221,"Fall",102902
+11,-117.9167747,33.6639251,NA,2005,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",39,NA,"female",15.8,465,2.35647078179521,178.330370638321,"Fall",102903
+5,-118.1131248,35.3821812,NA,2005,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",57,NA,"female",16.2,338,6.83286953341025,130.98823300292,"Spring",102904
+10,-118.299263,34.1328659,NA,1986,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",35.3,NA,"female",18.6,473,3.10145371584281,131.57252111581,"Fall",102905
+10,-118.301651,34.0320587,NA,1994,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",47,NA,"male",17.3,233,3.5808412757932,144.0634875553,"Fall",102906
+1,-118.1549,33.9651,NA,1982,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",57,NA,"undetermined",17.7,363,3.83239777779822,108.127016865099,"Winter",102907
+10,-118.1541748,37.3007584,NA,1984,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",41.5,NA,"male",8.1,265,7.71634923098647,89.7655348096886,"Fall",102908
+11,-118.4213094,34.0453572,NA,2002,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",44,NA,"female",15.4,190,2.24614147264849,151.443121750363,"Fall",102909
+4,-115.7716941,35.6625962,NA,2004,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",55.8,NA,"female",17.8,265,8.61778903656778,102.708332601653,"Spring",102910
+5,-121.12136,41.56081,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",56.2,NA,"male",6.9,534,7.6679182114163,55.7253413422282,"Spring",102911
+6,-120.742395,41.8959486,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",51.9,NA,"male",5.9,556,7.59079885603138,55.1023653639579,"Summer",102912
+8,-120.2887243,35.4464832,"u juv.",1947,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",34.8,NA,"undetermined",14.7,120,5.94935061391348,93.5171350366046,"Summer",102913
+9,-120.23726,35.27921,"u ad.",1947,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",48.3,NA,"male",14.9,218,6.65907901539945,99.9383731970119,"Fall",102914
+9,-108.083333,30.6,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",53,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",102915
+9,-108.083333,30.6,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",50.7,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",102916
+9,-108.083333,30.6,"u ad.",1948,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49.3,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",102917
+3,-105.11826,30.96872,"u ad.",1950,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.5,NA,"male",15.3,276,6.25301745341617,135.170931102904,"Spring",102918
+3,-105.11826,30.96872,"u ad.",1950,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49,NA,"male",15.3,276,6.25301745341617,135.170931102904,"Spring",102919
+9,-116.3954254,34.0563111,"u ad.",1950,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",36.7,NA,"female",14.3,83,5.90174601796842,107.145599754757,"Fall",102920
+9,-116.39528,34.05639,"u ad.",1950,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",31.8,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Fall",102921
+4,-116.5135639,34.0687473,"u ad.",1951,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.3,NA,"female",16.7,246,7.00523613687171,139.842888524595,"Spring",102922
+8,-106.004446,36.615864,"u ad.",1952,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49.5,NA,"male",4.6,374,8.83969610748736,76.5889731635705,"Summer",102923
+8,-106.004446,36.615864,"u ad.",1952,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46,NA,"male",4.6,374,8.83969610748736,76.5889731635705,"Summer",102924
+3,-123.0485339,39.0465221,"u ad.",1953,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",50,NA,"male",14,954,5.87977401132411,118.534250054038,"Spring",102925
+6,-118.099737,37.432159,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",52.5,NA,"female",6.2,289,6.69886353997995,93.1612499083614,"Summer",102926
+6,-118.099737,37.432159,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",43.2,NA,"female",6.2,289,6.69886353997995,93.1612499083614,"Summer",102927
+6,-118.099737,37.432159,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.8,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",102928
+6,-118.099737,37.432159,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",41,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",102929
+5,-118.23917,37.76944,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",56.3,NA,"female",7,220,6.73934625010378,89.5166081824812,"Spring",102930
+6,-118.23917,37.76944,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",53.2,NA,"male",7,220,6.73934625010378,89.5166081824812,"Summer",102931
+6,-118.23917,37.76944,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",54.2,NA,"male",7,220,6.73934625010378,89.5166081824812,"Summer",102932
+6,-118.23917,37.76944,"u ad.",1954,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",55.4,NA,"female",7,220,6.73934625010378,89.5166081824812,"Summer",102933
+7,-122.6818349,38.9943365,"u ad.",1955,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",45.3,NA,"male",13.6,653,6.61057463233696,192.656172031336,"Summer",102934
+6,-106.770421,29.485097,"u ad.",1959,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.1,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",102935
+6,-120.4990383,39.6805287,"u ad.",1960,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",51.3,NA,"female",7.7,867,7.3888736993844,114.502240928542,"Summer",102936
+6,-114.02278,38.94167,"u ad.",1962,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.3,NA,"male",9.8,140,9.36729885712994,66.135032660162,"Summer",102937
+6,-114.22917,39.095,"u ad.",1962,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",50,NA,"female",8.6,183,9.17767383216994,70.0943316473903,"Summer",102938
+6,-115.28361,36.63,"ad.sk.",1963,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",102939
+6,-115.28361,36.63,"u ad.",1963,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",38.9,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",102940
+1,-122.3364791,38.424348,"u ad.",1974,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",36.6,NA,"male",15.2,576,5.35658048996321,119.823365371237,"Winter",102941
+7,-118.2931,37.87022,"u ad.",1979,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42,NA,"male",4.9,217,7.17678813110627,77.1654285969163,"Summer",102942
+9,-121.5174772,40.5614224,"skull ossified",2003,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",43.9,NA,"male",8.9,1291,7.19454759880808,108.092919070968,"Fall",102943
+6,-120.844265,40.583679,"skull",2006,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",42.97,NA,"female",9.1,769,8.16022782658782,91.520427185855,"Summer",102944
+1,-122.6939294703,37.9024435549,"skull ossified",2004,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",51,NA,"male",13.7,683,2.25106035620388,129.583230637939,"Winter",102945
+5,-120.29042,37.65638,"u ad.",1915,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",38.8,NA,"female",17,515,6.71698435221333,126.132219286824,"Spring",102946
+5,-119.04884,38.021988,"u ad.",1916,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.6,NA,"male",6.9,387,8.49742830971747,137.178003438911,"Spring",102947
+6,-119.1053,37.90891,"u ad.",1916,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",38,NA,"female",6.5,514,8.25665938757463,131.268195947851,"Summer",102948
+4,-116.865597,36.456792,"ad.",1917,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",31.5,NA,"male",23.3,31,10.6578467323234,99.6636097827943,"Spring",102949
+4,-116.865597,36.456792,"u ad.",1917,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",40.2,NA,"male",23.3,31,10.6578467323234,99.6636097827943,"Spring",102950
+4,-116.766519,36.46112,"u ad.",1917,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.3,NA,"male",18.9,59,9.75771256726978,105.140598507643,"Spring",102951
+9,-120.84369,35.29653,"ad.",1918,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",52,NA,"female",12.3,594,2.64620941016093,147.53511475635,"Fall",102952
+9,-120.84369,35.29653,"ad.",1918,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",51.5,NA,"male",12.3,594,2.64620941016093,147.53511475635,"Fall",102953
+10,-121.17385,35.970848,"ad.",1918,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",58.1,NA,"female",14.1,479,5.62835758378136,134.003052882456,"Fall",102954
+8,-120.14187,37.73845,"ad.",1920,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",42.2,NA,"female",12.1,1018,6.52535265504687,105.714662219182,"Summer",102955
+4,-115.7666666667,30.8666666667,"u ad.",1925,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",48.8,NA,"male",16,266,4.03021730371348,124.899293379329,"Spring",102956
+5,-115.458333,30.883333,"u ad.",1925,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",46,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",102957
+5,-115.458333,30.883333,"u ad.",1925,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",41,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",102958
+7,-118.9132021,36.7821575,"u ad.",1926,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",43.7,NA,"female",9.7,828,6.44590544219328,128.305739232509,"Summer",102959
+5,-112.9,27.3,"u ad.",1927,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",37.8,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",102960
+6,-115.2833333,29.9833333,"u ad.",1927,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",33.2,NA,"female",17.8,222,4.30034353807397,98.5705455772625,"Summer",102961
+5,-118.05361,37.73806,"u ad.",1928,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.5,NA,"male",11.2,32,8.76598107700583,153.648802616404,"Spring",102962
+7,-109.716873,23.387557,"ad.",1929,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",44,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",102963
+8,-109.716873,23.387557,"u ad.",1929,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",35.4,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",102964
+5,-117.22,38.95,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.5,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",102965
+6,-117.1625,39.25556,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.9,NA,"female",6,598,8.3549114570141,84.8288639681795,"Summer",102966
+6,-117.1625,39.25556,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46,NA,"male",6,598,8.3549114570141,84.8288639681795,"Summer",102967
+6,-117.1625,39.25556,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",48.5,NA,"male",6,598,8.3549114570141,84.8288639681795,"Summer",102968
+6,-117.1625,39.25556,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.5,NA,"male",6,598,8.3549114570141,84.8288639681795,"Summer",102969
+6,-117.0343964,39.3959732,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",48.3,NA,"male",7.2,451,8.55925425100419,90.2768268235405,"Summer",102970
+6,-117.0343964,39.3959732,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",34,NA,"female",7.2,451,8.55925425100419,90.2768268235405,"Summer",102971
+6,-117.0343964,39.3959732,"ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.2,NA,"female",7.2,451,8.55925425100419,90.2768268235405,"Summer",102972
+8,-114.42192,39.09056,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42.3,NA,"female",7.5,377,9.31344336283457,64.8837379317398,"Summer",102973
+8,-114.89556,39.24806,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",43,NA,"male",6.8,380,9.09660276247027,78.2997359684712,"Summer",102974
+8,-115.41033,39.296,"ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",37.9,NA,"female",5.7,501,8.83870619902751,76.9727575559853,"Summer",102975
+8,-114.40833,39.01111,"u ad.",1930,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.1,NA,"male",7.4,388,9.26688467151456,63.6752065394743,"Summer",102976
+9,-117.1625,39.25556,"u ad.",1931,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",57,NA,"female",6.8,508,8.98289620570249,50.3657313219574,"Fall",102977
+12,-124.200556,41.756111,"u ad.",1931,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",38.7,NA,"female",11.4,1652,2.68377560819669,95.8694350895557,"Winter",102978
+6,-115.93306,37.51139,"u ad.",1932,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",48.4,NA,"male",9.1,129,9.23671855676948,72.3490749809248,"Summer",102979
+6,-115.42361,38.29,"u ad.",1931,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",38.6,NA,"female",9.4,328,9.20966225156378,64.985656721088,"Summer",102980
+10,-118.49432,35.4277106,"ad.",1933,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",44.8,NA,"female",13.1,192,7.6035677431218,174.984785049846,"Fall",102981
+10,-118.49432,35.4277106,"ad.",1933,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",55.4,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",102982
+2,-121.9395861,37.9381654,"u ad.",1934,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",36,NA,"female",15.6,365,4.31307912229205,118.600481195415,"Winter",102983
+5,-114.6344872,35.0394044,"u ad.",1934,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",34.3,NA,"male",23.9,73,7.79043702823591,116.081860511723,"Spring",102984
+6,-119.0960193,38.6594616,"u ad.",1934,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46,NA,"male",7.7,261,6.23787915590198,105.891223157822,"Summer",102985
+5,-111.0917,31.3886,"u ad.",1936,"Phalaenoptilus nuttallii hueyi","Phalaenoptilus_nuttallii",40.8,NA,"female",16.1,489,6.85266482118563,107.372214086655,"Spring",102986
+7,-119.99,42,"u ad.",1936,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",48.1,NA,"male",8.1,343,8.18118221434057,134.570594238949,"Summer",102987
+6,-120.6742,36.4003658,"u ad.",1936,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",49.3,NA,"female",14.3,667,6.88520592328658,164.814956441072,"Summer",102988
+5,-119.8975,42.0471,"u ad.",1937,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.5,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",102989
+6,-120.0958,42.0433,"u ad.",1937,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",44.7,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",102990
+6,-120.0958,42.0433,"u ad.",1937,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",48,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",102991
+6,-120.0958,42.0433,"u ad.",1937,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",45.3,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",102992
+5,-119.8975,42.0471,"u ad.",1937,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",52,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",102993
+10,-122.164309,37.0775149,"u ad.",1937,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",49,NA,"female",13.7,1896,4.44048181933884,117.558693090932,"Fall",102994
+5,-115.4207,35.1716,"u ad.",1938,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",102995
+5,-115.4207,35.1716,"u ad.",1938,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",102996
+5,-115.5882,35.5253,"u ad.",1939,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",38.5,NA,"male",10,378,7.62274805295229,103.246728037081,"Spring",102997
+7,-120.0118,42.9797,"u ad.",1939,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49.1,NA,"male",9,111,7.41159513358915,62.6968144169494,"Summer",102998
+9,-119.5625,40.05525,"juv.",1939,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",27,NA,"female",12.1,148,7.95835276849919,73.7739281156934,"Fall",102999
+9,-109.46535,41.54294,"u ad.",1939,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42.2,NA,"female",7.3,132,9.29722588146104,63.5773043534443,"Fall",103000
+6,-106.2394,45.3018,"u ad.",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",53.2,NA,"male",7.8,445,11.6803220949777,72.5812653346876,"Summer",103001
+6,-117.10315,36.95078,"u ad.",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",49,NA,"female",10,173,7.54121503754032,91.8049180411786,"Summer",103002
+6,-115.50028,35.96583,"u ad.",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42.5,NA,"female",8.4,568,7.43201000586468,145.832625928857,"Summer",103003
+6,-115.88742,35.77286,"u ad.",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.7,NA,"female",14.5,204,7.9177973674195,117.831236525882,"Summer",103004
+6,-115.88742,35.77286,"u ad.",1940,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",39.6,NA,"female",14.5,204,7.9177973674195,117.831236525882,"Summer",103005
+5,-118.058085,36.241614,"u ad.",1942,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.7,NA,"female",12.4,123,7.48494954538571,122.697204898114,"Spring",103006
+6,-118.289486,36.78325,"u ad.",1942,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",53,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Summer",103007
+6,-118.480402,37.81843,"u ad.",1942,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",47.7,NA,"female",10.1,77,8.15765117710194,65.9379462369891,"Summer",103008
+6,-118.480402,37.81843,"u ad.",1942,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",51.5,NA,"male",10.1,77,8.15765117710194,65.9379462369891,"Summer",103009
+6,-118.580792,37.814991,"u ad.",1942,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",52,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",103010
+6,-122.82817,40.32421,"u ad.",1943,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",51.7,NA,"female",14.4,687,6.28728273918266,121.916631216622,"Summer",103011
+11,-112.280146,28.778293,"u ad.",1941,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",40.2,NA,"male",23.3,85,5.27808505219287,128.603081484426,"Fall",103012
+5,-122.82817,40.32421,"u ad.",1946,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",43.6,NA,"female",13.5,472,6.95093191920728,97.4720294844736,"Spring",103013
+6,-106.1985,45.3019,"u ad.",1947,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",50,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",103014
+6,-106.1985,45.3019,"u ad.",1947,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",53.2,NA,"female",6.8,423,10.6045551961924,93.2076166137476,"Summer",103015
+5,-109.2169,31.93699,"not applicable",1971,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",37,NA,"male",12.8,473,6.89206834416245,105.991662819733,"Spring",103016
+2,-103.0598561,29.8169754,"adult",1984,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",45.2,NA,"female",18.6,386,7.23124533471995,92.9512726280413,"Winter",103017
+10,-112.0207031,33.5169871,NA,1986,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",44.3,206,"male",21.8,233,7.35081937300499,73.5873475727318,"Fall",103018
+10,-112.0740373,33.4483771,NA,1986,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",36.9,196,"female",21.8,217,7.48329452645671,80.4510168704771,"Fall",103019
+6,-112.3349591,36.7917308,NA,1986,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",40.7,208,"male",11.3,353,7.60567471555206,52.0053072627671,"Summer",103020
+5,-110.5253565,31.6598128,NA,1987,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",39.7,208,"female",15.5,383,7.122366605322,85.2906960981624,"Spring",103021
+5,-103.894455,30.6026723,NA,1937,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42.5,NA,"male",15.6,392,7.07382606172326,72.8912004711819,"Spring",103022
+4,-103.9181846,30.6086853,NA,1937,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",43.5,NA,"male",15,419,6.88793411435072,69.0224963410682,"Spring",103023
+5,-104.0461493,30.6298252,NA,1937,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",43.5,NA,"female",14.7,432,6.82421601668824,64.3002398762827,"Spring",103024
+2,-119.096947,34.1012866,NA,1996,NA,"Phalaenoptilus_nuttallii",42,NA,"male",15.9,457,1.89550904652406,127.652588118379,"Winter",103025
+10,-119.1969681,34.1500931,NA,1998,NA,"Phalaenoptilus_nuttallii",41.8,NA,"female",14.7,647,2.43472355471392,190.403231894599,"Fall",103026
+11,-119.209423,34.255666,"adult",2003,NA,"Phalaenoptilus_nuttallii",32,NA,"female",15.3,297,2.38039658014959,133.139798879844,"Fall",103027
+12,-117.6107712,33.4204559,"adult",2005,NA,"Phalaenoptilus_nuttallii",32,NA,"male",15.9,431,2.4558372021851,175.45367002792,"Winter",103028
+6,-117.133905,46.106038,"Ad",1967,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",43,214,"female",8.4,443,8.03802987319805,61.2636700398432,"Summer",103029
+3,-112.2718239,33.5975393,NA,2003,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",42.5,NA,"female",22.9,197,8.32252784296753,136.831154487811,"Spring",103030
+5,-118.7976551,34.0994386,NA,1994,NA,"Phalaenoptilus_nuttallii",42.5,NA,"female",17.3,324,4.33030197001493,130.755095023761,"Spring",103031
+3,-115.99227,33.6322,"U-Ad.",1959,"Phalaenoptilus nuttallii hueyi","Phalaenoptilus_nuttallii",31,NA,"female",21.2,90,7.61200706221109,147.43599878379,"Spring",103036
+10,-109.85554,24.23539,"U-Ad.",1961,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",27,NA,"female",23.4,309,4.96350316171589,183.188777428929,"Fall",103037
+10,-122.92235,38.11428,"U-Ad.",1972,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",41.4,NA,"female",12.1,650,2.97866148503388,107.879208122618,"Fall",103038
+8,-120.48993,39.6174,"U-Ad.",1976,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",47.5,NA,"female",5.9,532,6.18391731294439,86.8205759324605,"Summer",103039
+11,-122.86111,38.04389,"U-Ad.",1980,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",39.9,NA,"f?",12.8,689,2.07685659912603,136.968387081326,"Fall",103040
+3,-106.49854,31.87886,"Ad",1988,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",38.6,NA,"male",15.6,366,7.60906556601261,133.523575001916,"Spring",103041
+11,-122.59801,37.97558,"U-Ad",1995,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",47.6,NA,"male",15.3,1419,3.55786580563532,158.628820076984,"Fall",103042
+10,-104.035246,37.320557,NA,2007,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",28.7,NA,"undetermined",12.1,279,9.81138794123101,71.4476114910755,"Fall",103043
+8,-105.8133333333,38.2116666667,NA,1980,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",51.4,NA,"male",4.3,438,7.56342875589204,79.3834790161562,"Summer",103045
+4,-104.6833333,27.9333333,NA,1960,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.5,NA,"female",18.1,375,6.98458801197105,151.717139703803,"Spring",103046
+4,-114.8339833,29.7028,NA,2001,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",39.5,NA,"male",18.8,98,4.45280810275943,99.3140659887822,"Spring",103047
+4,-115.95,31.31,"unknown",1980,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",55,NA,"undetermined",15.8,491,4.37273751022553,175.643628169647,"Spring",103048
+10,-121.7483333333,37.3875,"adult ovary",2003,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",46.8,NA,"female",15.1,555,5.0839915122834,125.686797743044,"Fall",103049
+5,-113.8058333,28.264167,"u ad.",1927,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",47,NA,"male",20.7,108,4.12408851270266,88.2384584220692,"Spring",103050
+6,-109.7747222,23.441944,"ad.",1929,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",28,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",103051
+10,-122.6,39.375,"u ad.",1933,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",57.7,NA,"male",14.7,467,7.40157640866683,164.300700473332,"Fall",103052
+7,-120.7856667,36.294333,"ad.",1936,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",39.8,NA,"male",14.5,835,6.81675187025361,151.496118517119,"Summer",103053
+5,-119.341194,50.238987,"adult",1984,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42.5,202,"female",8,424,8.62379987258658,39.5551986664842,"Spring",103054
+10,-122.787602,49.283419,"immature",1987,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",41.5,210,"female",11.2,1404,5.28074690539017,67.6257074927623,"Fall",103055
+7,-119.58656,49.594018,NA,1999,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",42,193,"female",9.9,262,6.71860826136611,45.7727962090425,"Summer",103056
+10,-119.594211,49.49871,"hatch-year",2005,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",29.3,173,"female",9.8,285,8.10390852202401,33.3671771841936,"Fall",103057
+12,-122.59329,37.92782,"U-Ad.",1961,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",27.5,NA,"female",13.3,1042,4.4139156669732,113.591125677564,"Winter",103058
+6,-122.7228,38.43761,"U-Ad.",1978,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",29.6,NA,"male",14.4,851,4.46062741883885,141.135453731317,"Summer",103059
+10,-122.8308,38.39691,"U-Ad.",1977,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",29.3,NA,"male",13.9,715,4.10951409057154,111.098068982855,"Fall",103060
+11,-122.91366,38.23325,"U-Ad.",1990,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",35.6,NA,"undetermined",13.2,490,3.90555160423382,118.579788176861,"Fall",103061
+9,-118.81752,36.49835,"U-Ad",1986,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",38,NA,"undetermined",17.1,847,6.19131845751971,142.850720612243,"Fall",103062
+8,-122.60158,38.51889,"U-Ad",1984,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",38.2,NA,"female",14.9,797,5.85892222998135,155.571886254039,"Summer",103063
+5,-122.72882,37.93096,"adult",1995,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",43.1,NA,"male",13.7,1208,2.10948435462893,157.722986601857,"Spring",103064
+10,-122.29514,37.8387,"adult",2002,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",51.6,NA,"female",14.5,510,2.8240713142339,170.358057789743,"Fall",103065
+11,-122.58274,37.87389,"U",2006,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",54.1,193,"female",13.2,822,2.47794819815251,107.973961231567,"Fall",103066
+5,-110.1063889,23.803333,"u ad.",1948,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",34.1,NA,"undetermined",21.4,529,3.9490984778654,148.420180441995,"Spring",103067
+9,-121.5277215,40.568576,"not recorded",2006,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",49.9,NA,"female",8.3,1435,7.26587603427519,99.4894907666302,"Fall",103068
+8,-120.7411667,39.0428333,"ad.",1916,"Phalaenoptilus nuttallii californicus","Phalaenoptilus_nuttallii",47.5,NA,"female",12.9,1630,7.01340707416009,139.669966232881,"Summer",103069
+4,-111.8172222,26.056667,"u ad.",1931,"Phalaenoptilus nuttallii dickeyi","Phalaenoptilus_nuttallii",31.7,NA,"male",20.9,213,4.21522313295584,94.0918085008082,"Spring",103070
+7,-119.342281,38.38288,"ad.",1947,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",46.8,NA,"female",4.2,236,6.45731907969319,72.3422357931584,"Summer",103071
+10,-99.5311167,33.2351167,NA,2008,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",60.7,NA,"male",18,539,8.22334076475816,81.206588331745,"Fall",103072
+8,-119.553054,49.181804,"juvenile",1996,"Phalaenoptilus nuttallii nuttallii","Phalaenoptilus_nuttallii",43.2,203,"male",8.4,346,9.55851199272939,53.0911560841851,"Summer",103073
+5,-110.732269,30.9367945,NA,1955,NA,"Phalaenoptilus_nuttallii",51.8,NA,"male",14.7,605,6.50628484038644,168.567103014893,"Spring",103074
+12,-122.72184,37.92308,"unknown",2007,"Phalaenoptilus nuttallii","Phalaenoptilus_nuttallii",47.54,185,"undetermined",12.8,474,2.51570822608423,126.329704102749,"Winter",103075

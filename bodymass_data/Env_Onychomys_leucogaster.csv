@@ -1,0 +1,378 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+10,-109.5795,31.8679,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",31,130,"female",15.6,275,7.37407415862966,124.254089991165,"Fall",80270
+8,-118.8545,46.6624,"adult",1950,"Onychomys leucogaster","Onychomys_leucogaster",23.1,135,"female",9.8,258,10.0544389412957,80.481505498299,"Summer",80271
+5,-106.144671,37.25563,NA,2007,"Onychomys leucogaster","Onychomys_leucogaster",15,118,"female",6,306,9.48448094456828,63.1915718490877,"Spring",80272
+7,-107.23806,42.182324,NA,2008,"Onychomys leucogaster","Onychomys_leucogaster",19,124,"male",4.8,305,9.58522774424744,96.1384366441668,"Summer",80273
+9,-105.8099,37.1586,NA,2009,"Onychomys leucogaster","Onychomys_leucogaster",28.6,130,"male",6.1,304,8.56371397056773,66.080695157326,"Fall",80274
+7,-105.814317,38.210439,NA,1982,"Onychomys leucogaster pallescens","Onychomys_leucogaster",43.5,152,"male",3.2,463,7.71791991917433,75.7387956707733,"Summer",80275
+7,-105.814317,38.210439,NA,1982,"Onychomys leucogaster pallescens","Onychomys_leucogaster",22.2,126,"male",3.2,463,7.71791991917433,75.7387956707733,"Summer",80276
+4,-104.782802,39.921394,NA,1991,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",41.6,132,"male",10.6,435,8.77770505659686,74.2431255901255,"Spring",80277
+7,-104.8439544081,39.8197137293,NA,1991,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",31.5,142,"male",10.6,481,8.62552589525398,76.6846693992428,"Summer",80278
+7,-103.6493,37.074831,NA,1991,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",33,147,"male",10.5,406,8.19920543083107,72.4078522837945,"Summer",80279
+7,-103.6493,37.074831,NA,1991,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",31.5,153,"male",10.5,406,8.19920543083107,72.4078522837945,"Summer",80280
+7,-103.6493,37.074831,NA,1991,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",27.4,133,"female",10.5,406,8.19920543083107,72.4078522837945,"Summer",80281
+7,-103.6493,37.074831,NA,1991,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",49,144,"female",10.5,406,8.19920543083107,72.4078522837945,"Summer",80282
+8,-107.2414939,42.3112478,NA,1990,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",25,125,"male",6.4,286,9.83079576914023,60.2487916684387,"Summer",80283
+8,-108.1054595,43.5505119,NA,1990,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",36,125,"female",7.8,327,9.76709069303959,80.6751624655398,"Summer",80284
+8,-108.1054595,43.5505119,NA,1990,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",39.7,136,"male",7.8,327,9.76709069303959,80.6751624655398,"Summer",80285
+8,-110.229329,41.591813,NA,1996,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",20.3,120,"male",5.8,219,9.1083835841027,37.5988554264144,"Summer",80286
+8,-110.186413,41.591556,NA,1996,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",23.1,119,"male",5.8,218,9.14524218079842,39.2770674062087,"Summer",80287
+8,-110.229329,41.591813,NA,1996,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",23.9,117,"male",5.8,219,9.1083835841027,37.5988554264144,"Summer",80288
+8,-110.229329,41.591813,NA,1996,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",24.5,128,"female",5.8,219,9.1083835841027,37.5988554264144,"Summer",80289
+8,-110.229329,41.591813,NA,1996,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",20,124,"male",5.8,219,9.1083835841027,37.5988554264144,"Summer",80290
+7,-106.94361,32.07278,NA,1985,"Onychomys leucogaster","Onychomys_leucogaster",27,NA,"male",15.9,298,8.17679643870385,99.2627470861979,"Summer",80291
+7,-118.47556,37.891667,NA,2003,"Onychomys leucogaster","Onychomys_leucogaster",15,NA,"male",11.5,172,8.13022792181167,87.1564321768448,"Summer",80292
+7,-118.457184,37.906165,NA,2003,"Onychomys leucogaster","Onychomys_leucogaster",14,NA,"male",11.2,176,8.10016834841889,85.9658083796584,"Summer",80293
+7,-118.457184,37.906165,NA,2003,"Onychomys leucogaster","Onychomys_leucogaster",19,NA,"male",11.2,176,8.10016834841889,85.9658083796584,"Summer",80294
+7,-118.457184,37.906165,NA,2003,"Onychomys leucogaster","Onychomys_leucogaster",19,NA,"female",11.2,176,8.10016834841889,85.9658083796584,"Summer",80295
+3,-99.2876557,27.7315181,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",44,171,"female",21.9,337,7.03586052543208,92.7071715998727,"Spring",80296
+2,-99.3609511,27.5354542,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",39.6,180,"male",22.4,360,7.01782902630324,88.1465910325603,"Winter",80297
+2,-99.3609511,27.5354542,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",47.3,185,"male",22.4,360,7.01782902630324,88.1465910325603,"Winter",80298
+8,-107.096435,41.454598,NA,1979,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",22.7,127,"male",3.5,457,9.90220361150165,53.0792709034949,"Summer",80299
+7,-102.6999415,40.858549,NA,1980,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",28,143,"male",9.8,394,10.255375530556,87.8493956791436,"Summer",80300
+7,-104.753588,38.271724,NA,1980,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",34,144,"male",12,326,9.3676910903187,118.821265940821,"Summer",80301
+7,-109.152043,41.426128,NA,1979,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",21.5,128,"male",3.5,244,10.9394615124246,65.6530162978189,"Summer",80302
+7,-102.816389,40.839453,NA,1981,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",23,136,"female",10.6,537,8.95833368569414,93.8001132753724,"Summer",80303
+7,-102.816389,40.839453,NA,1981,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",25,132,"male",10.6,537,8.95833368569414,93.8001132753724,"Summer",80304
+7,-107.9094213108,34.813069,NA,2003,"Onychomys leucogaster","Onychomys_leucogaster",26,155,"female",10.1,233,8.14104360073639,77.9874681234389,"Summer",80305
+7,-106.564329,42.280393,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",26.6,132,"undetermined",5.1,434,9.47646206837411,54.1416267609484,"Summer",80306
+7,-106.564329,42.280393,"Adult",1990,"Onychomys leucogaster","Onychomys_leucogaster",25.5,131,"female",5.1,434,9.47646206837411,54.1416267609484,"Summer",80307
+7,-106.509637,42.370622,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",25.1,137,"male",5.1,436,9.5510549948763,53.6435213293772,"Summer",80308
+7,-106.260347,42.209406,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",30,123,"male",5,310,9.48571493767275,60.0799049860542,"Summer",80309
+5,-104.7193790389,40.81931,NA,1997,"Onychomys leucogaster","Onychomys_leucogaster",26,120,"male",7.6,530,9.50190969641303,87.07899176014,"Spring",80310
+9,-104.8933125,37.8006313,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",29.5,133,"male",9.5,409,8.98120512261831,55.8713386788449,"Fall",80311
+7,-104.9485721,37.788488,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",46,139,"male",8.8,446,8.85420632789691,53.1655161136586,"Summer",80312
+9,-104.9485721,37.788488,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",37,132,"female",8.8,446,8.85420632789691,53.1655161136586,"Fall",80313
+7,-102.9859928,38.0487139,NA,1978,"Onychomys leucogaster","Onychomys_leucogaster",42,160,"male",11.2,343,11.1684722646955,108.685849360334,"Summer",80314
+7,-102.6999415,40.858549,NA,1980,"Onychomys leucogaster","Onychomys_leucogaster",26,137,"female",9.8,394,10.255375530556,87.8493956791436,"Summer",80315
+9,-104.948622,37.822124,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",22,138,"male",8.3,492,8.72510744919511,50.935731870513,"Fall",80316
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",26.5,130,"male",6.2,236,9.50780779627507,33.0542377168824,"Summer",80317
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",30.3,139,"female",6.2,236,9.50780779627507,33.0542377168824,"Summer",80318
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",27.4,137,"female",6.2,236,9.50780779627507,33.0542377168824,"Summer",80319
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",29.6,132,"female",6.2,236,9.50780779627507,33.0542377168824,"Summer",80320
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",27.7,129,"male",6.2,236,9.50780779627507,33.0542377168824,"Summer",80321
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",22,131,"female",6.2,236,9.50780779627507,33.0542377168824,"Summer",80322
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",22.2,128,"female",6.2,236,9.50780779627507,33.0542377168824,"Summer",80323
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",28,133,"male",6.2,236,9.50780779627507,33.0542377168824,"Summer",80324
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",31,137,"female",6.2,236,9.50780779627507,33.0542377168824,"Summer",80325
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",23,132,"male",6.2,236,9.50780779627507,33.0542377168824,"Summer",80326
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",24.5,128,"male",6.2,236,9.50780779627507,33.0542377168824,"Summer",80327
+10,-106.935975,34.29136,NA,1997,"Onychomys leucogaster","Onychomys_leucogaster",37.4,156,"male",13.5,320,9.02526336390683,78.259939948593,"Fall",80328
+9,-108.75667,35.105,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",36,150,"male",10.7,309,7.96735764722457,75.7549895550017,"Fall",80329
+5,-112.8191666667,43.5197222222,NA,2002,"Onychomys leucogaster","Onychomys_leucogaster",17.7,117,"male",5.2,171,10.6616560200988,39.485201226128,"Spring",80330
+5,-112.8191666667,43.5197222222,NA,2002,"Onychomys leucogaster","Onychomys_leucogaster",17.8,115,"male",5.2,171,10.6616560200988,39.485201226128,"Spring",80331
+3,-106.885,34.358,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",20,135,"female",14.9,186,8.97009763130544,87.4392198582918,"Spring",80332
+2,-106.885,34.358,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",21,143,"female",14.9,186,8.97009763130544,87.4392198582918,"Winter",80333
+4,-107.00145,34.4081,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",22.5,150,"male",14.1,219,8.67602059318288,90.1023861187393,"Spring",80334
+4,-107.00145,34.4081,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",16,131,"female",14.1,219,8.67602059318288,90.1023861187393,"Spring",80335
+4,-107.00145,34.4081,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",26,162,"male",14.1,219,8.67602059318288,90.1023861187393,"Spring",80336
+5,-106.886,34.358,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",14,123,"male",14.9,186,8.97009763130544,87.4392198582918,"Spring",80337
+8,-108.8484154,35.0694752,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",22,139,"male",11.1,316,8.3915361399376,104.879496225134,"Summer",80338
+3,-108.7581111111,35.1136111111,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",33.5,140,"male",10.7,310,7.98469653699367,76.1545234013195,"Spring",80339
+8,-108.7581111111,35.1136111111,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",29,140,"female",10.7,310,7.98469653699367,76.1545234013195,"Summer",80340
+6,-106.923831,34.295043,NA,1995,"Onychomys leucogaster","Onychomys_leucogaster",15,152,"female",14.9,128,8.19584151761234,97.9846978879042,"Summer",80341
+6,-106.931769,34.294287,NA,1995,"Onychomys leucogaster","Onychomys_leucogaster",38,159,"female",14.8,129,8.16939502971396,99.0813629159022,"Summer",80342
+6,-106.935975,34.29136,NA,1995,"Onychomys leucogaster","Onychomys_leucogaster",30,153,"female",14.7,130,8.17106869609867,99.3274857991493,"Summer",80343
+10,-106.931769,34.294287,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",23.9,141,"male",13.9,242,8.71638564933188,115.482343173423,"Fall",80344
+10,-106.931769,34.294287,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",32.9,151,"female",13.9,242,8.71638564933188,115.482343173423,"Fall",80345
+10,-106.931769,34.294287,NA,1997,"Onychomys leucogaster","Onychomys_leucogaster",26.1,142,"female",13.6,318,9.03920752761395,78.1392533694507,"Fall",80346
+10,-106.935975,34.29136,NA,1997,"Onychomys leucogaster","Onychomys_leucogaster",28.9,162,"female",13.5,320,9.02526336390683,78.259939948593,"Fall",80347
+6,-106.935975,34.29136,NA,1997,"Onychomys leucogaster","Onychomys_leucogaster",38.6,169,"male",13.5,320,9.02526336390683,78.259939948593,"Summer",80348
+6,-106.931769,34.294287,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",41,170,"female",13.9,242,8.71638564933188,115.482343173423,"Summer",80349
+6,-106.931769,34.294287,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",38.8,159,"male",13.9,242,8.71638564933188,115.482343173423,"Summer",80350
+6,-106.931769,34.294287,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",28.5,148,"female",13.9,242,8.71638564933188,115.482343173423,"Summer",80351
+10,-106.935975,34.29136,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",28.7,144,"female",13.9,244,8.69283926835499,116.082809141144,"Fall",80352
+10,-106.935975,34.29136,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",36.5,165,"female",13.9,244,8.69283926835499,116.082809141144,"Fall",80353
+10,-107.30399,33.55582,NA,2012,"Onychomys leucogaster","Onychomys_leucogaster",15.5,142,"female",14.7,201,7.62988541952967,123.931972536357,"Fall",80354
+3,-107.465,33.0206,NA,2013,"Onychomys leucogaster","Onychomys_leucogaster",22.3,153,"female",15.6,264,8.2975900115636,143.896615362723,"Spring",80355
+3,-107.4651,33.0205,NA,2013,"Onychomys leucogaster","Onychomys_leucogaster",19.6,151,"male",15.6,264,8.2975900115636,143.896615362723,"Spring",80356
+3,-107.4671,33.0201,NA,2013,"Onychomys leucogaster","Onychomys_leucogaster",18.7,142,"male",15.5,264,8.2975900115636,143.896615362723,"Spring",80357
+7,-106.260347,42.209406,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",27,132,"female",5,310,9.48571493767275,60.0799049860542,"Summer",80377
+6,-103.0785583,38.1067078,NA,1979,"Onychomys leucogaster","Onychomys_leucogaster",42,161,"female",11.4,384,10.7494467792815,73.7059454316266,"Summer",80378
+6,-102.9676758,38.0487032,NA,1979,"Onychomys leucogaster","Onychomys_leucogaster",27.5,158,"female",11.4,390,10.7006371942813,81.8969748923355,"Summer",80379
+6,-108.571586,40.4403588,NA,1992,"Onychomys leucogaster","Onychomys_leucogaster",40,147,"male",8.2,337,9.93181298106791,58.7160942609531,"Summer",80380
+7,-108.9787106,40.4411373,NA,1992,"Onychomys leucogaster","Onychomys_leucogaster",18,118,"male",6,401,9.5645296420016,60.0467194215424,"Summer",80381
+6,-108.647416,40.4515327,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",32,136,"female",8,286,10.2938051391322,40.0302076820901,"Summer",80382
+7,-108.9787106,40.4411373,NA,1992,"Onychomys leucogaster","Onychomys_leucogaster",18,118,"female",6,401,9.5645296420016,60.0467194215424,"Summer",80383
+7,-106.3675919,42.2231222,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",15,107,"male",5,317,9.50458820621372,57.8496385040087,"Summer",80384
+7,-104.9485721,37.788488,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",30,135,"male",8.8,446,8.85420632789691,53.1655161136586,"Summer",80385
+7,-108.991343,31.612138,NA,1967,"Onychomys leucogaster","Onychomys_leucogaster",30.5,150,"female",13.9,510,6.37086169900735,109.568630002922,"Summer",80389
+6,-103.337098,36.945123,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",25,135,"male",11.3,281,8.92009563068727,77.2924738349644,"Summer",80390
+7,-106.939751,32.312213,NA,1967,"Onychomys leucogaster","Onychomys_leucogaster",25,138,"male",15.9,238,7.89189745590662,101.842432036614,"Summer",80391
+6,-106.944173,32.072875,NA,1967,"Onychomys leucogaster","Onychomys_leucogaster",26,137,"male",16,198,7.98924940533252,101.147768740851,"Summer",80392
+5,-105.8755341,32.2504349,NA,1997,"Onychomys leucogaster","Onychomys_leucogaster",17,121,"male",15.7,432,8.41470574216786,76.5116486608806,"Spring",80393
+5,-100.5812759,34.196228,NA,1997,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",29,148,"male",16,672,8.91233397992338,63.5197636471334,"Spring",80394
+5,-100.5812759,34.196228,NA,1997,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",23,149,"female",16,672,8.91233397992338,63.5197636471334,"Spring",80395
+1,-110.892,32.5913,"unknown",1951,"Onychomys leucogaster","Onychomys_leucogaster",19,149,"male",17.4,490,7.75773318969042,69.8073095544411,"Winter",80396
+12,-109.3261,31.9979,"unknown",1951,"Onychomys leucogaster","Onychomys_leucogaster",18.3,146,"male",12.3,483,6.92312768694157,73.702303140405,"Winter",80397
+12,-111.055626,29.749058,"unknown",1951,"Onychomys leucogaster","Onychomys_leucogaster",23.5,150,"male",21.2,325,6.11755422509435,126.878491851296,"Winter",80398
+3,-104.6451256,34.9078963,NA,1984,"Onychomys leucogaster","Onychomys_leucogaster",32,144,"female",13.8,441,8.26920171296462,58.3468733167873,"Spring",80399
+3,-104.6451256,34.9078963,NA,1984,"Onychomys leucogaster","Onychomys_leucogaster",27,130,"female",13.8,441,8.26920171296462,58.3468733167873,"Spring",80400
+8,-106.8466975,32.3123169,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",42.5,152,NA,16.1,89,8.43923018175272,110.022954446109,"Summer",80401
+10,-109.592871,31.876468,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",27.5,120,"male",15.6,272,7.41225439063684,125.184670130709,"Fall",80402
+10,-109.592871,31.876468,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",33,130,"female",15.6,272,7.41225439063684,125.184670130709,"Fall",80403
+7,-101.631486,47.328918,NA,1989,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",26.8,124,"male",4.7,304,13.92877988522,73.9698836808961,"Summer",80404
+7,-101.631486,47.328918,NA,1989,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",25.9,132,"male",4.7,304,13.92877988522,73.9698836808961,"Summer",80405
+7,-103.6493,37.074831,NA,1991,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",36,143,"male",10.5,406,8.19920543083107,72.4078522837945,"Summer",80406
+7,-103.6493,37.074831,NA,1991,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",26.5,129,"female",10.5,406,8.19920543083107,72.4078522837945,"Summer",80407
+7,-99.13278,41.923837,NA,1993,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",43,145,"male",7.2,815,10.8399373810111,86.3151133764121,"Summer",80408
+8,-107.2414939,42.3112478,"adult",1990,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",22.8,121,"male",6.4,286,9.83079576914023,60.2487916684387,"Summer",80409
+9,-109.8093743,41.3601334,NA,1995,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",30,131,"male",7.2,245,8.25937483876793,80.4114653667588,"Fall",80410
+8,-108.1054355,43.5649721,NA,1990,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",38,130,"female",8.1,321,9.92146051687345,79.5939275140765,"Summer",80411
+8,-110.186413,41.591556,NA,1996,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",27.2,122,"female",5.8,218,9.14524218079842,39.2770674062087,"Summer",80412
+8,-110.186413,41.591556,NA,1996,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",23.5,120,"male",5.8,218,9.14524218079842,39.2770674062087,"Summer",80413
+8,-110.229329,41.591813,NA,1996,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",22.8,125,"male",5.8,219,9.1083835841027,37.5988554264144,"Summer",80414
+3,-113.41025,37.00755,NA,1978,"Onychomys leucogaster Wied-Neuwied, 1841","Onychomys_leucogaster",21.2,135,"female",16,422,8.82418766112711,87.6136009050731,"Spring",80415
+7,-106.94361,32.07278,NA,1985,"Onychomys leucogaster","Onychomys_leucogaster",29,NA,"female",15.9,298,8.17679643870385,99.2627470861979,"Summer",80416
+7,-118.47556,37.891667,NA,2003,"Onychomys leucogaster","Onychomys_leucogaster",15,NA,"female",11.5,172,8.13022792181167,87.1564321768448,"Summer",80417
+3,-99.2876557,27.7315181,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",47.2,170,"female",21.9,337,7.03586052543208,92.7071715998727,"Spring",80418
+3,-99.2876557,27.7315181,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",39.4,185,"female",21.9,337,7.03586052543208,92.7071715998727,"Spring",80419
+2,-99.3609511,27.5354542,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",47.9,181,"male",22.4,360,7.01782902630324,88.1465910325603,"Winter",80420
+2,-99.3609511,27.5354542,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",39.6,180,"male",22.4,360,7.01782902630324,88.1465910325603,"Winter",80421
+2,-99.3609511,27.5354542,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",43.9,170,"male",22.4,360,7.01782902630324,88.1465910325603,"Winter",80422
+2,-99.3609511,27.5354542,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",33,157,"undetermined",22.4,360,7.01782902630324,88.1465910325603,"Winter",80423
+2,-99.3609511,27.5354542,NA,1977,"Onychomys leucogaster longipes","Onychomys_leucogaster",37.1,174,"male",22.4,360,7.01782902630324,88.1465910325603,"Winter",80424
+8,-107.096435,41.454598,NA,1979,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",22.2,130,"female",3.5,457,9.90220361150165,53.0792709034949,"Summer",80425
+8,-107.096435,41.454598,NA,1979,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",21.3,130,"male",3.5,457,9.90220361150165,53.0792709034949,"Summer",80426
+8,-107.096435,41.454598,NA,1979,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",25.7,133,"male",3.5,457,9.90220361150165,53.0792709034949,"Summer",80427
+7,-102.6999415,40.858549,NA,1980,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",26,138,"male",9.8,394,10.255375530556,87.8493956791436,"Summer",80428
+6,-104.65489,38.606142,NA,1979,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",36,142,"female",10.2,504,9.74375868611971,86.5400340257472,"Summer",80429
+7,-108.844883,41.840742,NA,1979,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",21.5,121,"female",3.9,192,11.2093677003845,58.7142680614473,"Summer",80430
+7,-102.816389,40.839453,NA,1981,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",36,141,"male",10.6,537,8.95833368569414,93.8001132753724,"Summer",80431
+7,-102.816389,40.839453,NA,1981,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",25,135,"male",10.6,537,8.95833368569414,93.8001132753724,"Summer",80432
+5,-105.050288,35.825088,NA,2012,"Onychomys leucogaster","Onychomys_leucogaster",35,160,"male",11,270,7.69763344191321,78.5159773427806,"Spring",80433
+7,-106.42598,42.296024,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",13.8,107,"female",5.2,379,9.51759136833188,54.4555742526215,"Summer",80434
+7,-106.42598,42.296024,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",24.4,126,"male",5.2,379,9.51759136833188,54.4555742526215,"Summer",80435
+7,-106.298595,42.369306,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",27.2,130,"male",4.9,347,9.52637089474488,57.1572920452141,"Summer",80436
+8,-106.298595,42.369306,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",26.3,133,"male",4.9,347,9.52637089474488,57.1572920452141,"Summer",80437
+7,-106.564329,42.280393,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",26.2,135,"female",5.1,434,9.47646206837411,54.1416267609484,"Summer",80438
+7,-106.564329,42.280393,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",25.7,135,"male",5.1,434,9.47646206837411,54.1416267609484,"Summer",80439
+7,-106.485962,42.353253,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",27.7,144,"male",4.8,468,9.53972555351377,54.1386820575552,"Summer",80440
+6,-109.0331967,40.471914,NA,1991,"Onychomys leucogaster","Onychomys_leucogaster",32,138,"male",7,297,10.3205407128726,48.8427740285681,"Summer",80441
+7,-108.9787106,40.4411373,NA,1992,"Onychomys leucogaster","Onychomys_leucogaster",27,140,"undetermined",6,401,9.5645296420016,60.0467194215424,"Summer",80442
+7,-108.9787106,40.4411373,NA,1992,"Onychomys leucogaster","Onychomys_leucogaster",20,119,"male",6,401,9.5645296420016,60.0467194215424,"Summer",80443
+7,-108.9764812,40.4429262,NA,1989,"Onychomys leucogaster","Onychomys_leucogaster",19,120,"female",5.7,240,10.0159267109333,53.8152475152173,"Summer",80444
+6,-108.987517,40.651346,NA,1993,"Onychomys leucogaster","Onychomys_leucogaster",37,140,"female",5.7,446,9.44404574321832,58.8768958783883,"Summer",80445
+7,-108.753572,40.453266,NA,1995,"Onychomys leucogaster","Onychomys_leucogaster",23,125,"male",8.3,438,8.2413039568439,77.1248470829253,"Summer",80446
+9,-104.9485721,37.788488,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",28,135,"female",8.8,446,8.85420632789691,53.1655161136586,"Fall",80447
+7,-104.9485721,37.788488,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",35.5,150,"male",8.8,446,8.85420632789691,53.1655161136586,"Summer",80448
+7,-102.6999415,40.858549,NA,1980,"Onychomys leucogaster","Onychomys_leucogaster",31.1,152,"female",9.8,394,10.255375530556,87.8493956791436,"Summer",80449
+9,-104.948615,37.793126,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",20.1,126,"female",8.6,456,8.8186914098305,52.8734471898374,"Fall",80450
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",25.6,131,"female",6.2,236,9.50780779627507,33.0542377168824,"Summer",80451
+7,-106.834643,41.67238,NA,1990,"Onychomys leucogaster","Onychomys_leucogaster",24.7,130,"male",6.2,236,9.50780779627507,33.0542377168824,"Summer",80452
+5,-106.720344,34.336205,NA,1997,"Onychomys leucogaster","Onychomys_leucogaster",24.1,155,"female",13.2,345,8.9499957677322,73.494526998923,"Spring",80453
+5,-112.8191666667,43.5197222222,NA,2002,"Onychomys leucogaster","Onychomys_leucogaster",19.3,104,"male",5.2,171,10.6616560200988,39.485201226128,"Spring",80454
+3,-106.885,34.358,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",19,130,"female",14.9,186,8.97009763130544,87.4392198582918,"Spring",80455
+3,-106.885,34.358,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",23,146,"male",14.9,186,8.97009763130544,87.4392198582918,"Spring",80456
+4,-107.00145,34.4081,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",22,139,"male",14.1,219,8.67602059318288,90.1023861187393,"Spring",80457
+4,-107.00145,34.4081,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",13,147,"male",14.1,219,8.67602059318288,90.1023861187393,"Spring",80458
+4,-107.00145,34.4081,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",18.5,141,"female",14.1,219,8.67602059318288,90.1023861187393,"Spring",80459
+4,-107.00145,34.4081,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",30.5,179,"female",14.1,219,8.67602059318288,90.1023861187393,"Spring",80460
+5,-106.886,34.358,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",26,153,"female",14.9,186,8.97009763130544,87.4392198582918,"Spring",80461
+5,-106.886,34.358,NA,2000,"Onychomys leucogaster","Onychomys_leucogaster",23,150,"female",14.9,186,8.97009763130544,87.4392198582918,"Spring",80462
+5,-108.75685,35.105733,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",40,150,"male",10.7,309,7.96735764722457,75.7549895550017,"Spring",80463
+7,-108.75667,35.105,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",31,143,"undetermined",10.7,309,7.96735764722457,75.7549895550017,"Summer",80464
+8,-108.75685,35.105733,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",35,122,"female",10.7,309,7.96735764722457,75.7549895550017,"Summer",80465
+9,-108.75685,35.105733,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",38,150,"female",10.7,309,7.96735764722457,75.7549895550017,"Fall",80466
+9,-108.75685,35.105733,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",14,112,"male",10.7,309,7.96735764722457,75.7549895550017,"Fall",80467
+10,-108.75667,35.105,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",37,155,"male",10.7,309,7.96735764722457,75.7549895550017,"Fall",80468
+10,-108.7581111111,35.1136111111,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",18,130,"male",10.7,310,7.98469653699367,76.1545234013195,"Fall",80469
+11,-108.75685,35.105733,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",36,135,"male",10.7,309,7.96735764722457,75.7549895550017,"Fall",80470
+11,-108.75685,35.105733,NA,2005,"Onychomys leucogaster","Onychomys_leucogaster",21,136,"female",10.7,309,7.96735764722457,75.7549895550017,"Fall",80471
+6,-106.935975,34.29136,NA,1995,"Onychomys leucogaster","Onychomys_leucogaster",26,141,"male",14.7,130,8.17106869609867,99.3274857991493,"Summer",80472
+6,-106.931769,34.294287,NA,1995,"Onychomys leucogaster","Onychomys_leucogaster",27,152,"male",14.8,129,8.16939502971396,99.0813629159022,"Summer",80473
+6,-106.931769,34.294287,NA,1995,"Onychomys leucogaster","Onychomys_leucogaster",22,155,"male",14.8,129,8.16939502971396,99.0813629159022,"Summer",80474
+6,-106.931769,34.294287,NA,1995,"Onychomys leucogaster","Onychomys_leucogaster",26,148,"female",14.8,129,8.16939502971396,99.0813629159022,"Summer",80475
+6,-106.935975,34.29136,NA,1995,"Onychomys leucogaster","Onychomys_leucogaster",32,160,"male",14.7,130,8.17106869609867,99.3274857991493,"Summer",80476
+10,-106.935975,34.29136,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",34,161,"female",13.9,244,8.69283926835499,116.082809141144,"Fall",80477
+10,-106.935975,34.29136,NA,1997,"Onychomys leucogaster","Onychomys_leucogaster",33.7,165,"male",13.5,320,9.02526336390683,78.259939948593,"Fall",80478
+6,-106.935975,34.29136,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",33,155,"male",13.9,244,8.69283926835499,116.082809141144,"Summer",80479
+10,-106.904267,34.288474,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",21.3,132,"male",14.1,237,8.69585411491469,114.977864812337,"Fall",80480
+10,-106.935975,34.29136,NA,1998,"Onychomys leucogaster","Onychomys_leucogaster",37.5,149,"male",13.9,244,8.69283926835499,116.082809141144,"Fall",80481
+10,-107.30325,33.55566,NA,2012,"Onychomys leucogaster","Onychomys_leucogaster",13.6,125,"male",14.7,201,7.62988541952967,123.931972536357,"Fall",80482
+10,-107.30418,33.55583,NA,2012,"Onychomys leucogaster","Onychomys_leucogaster",18.5,141,"male",14.7,201,7.62988541952967,123.931972536357,"Fall",80483
+10,-107.463929,33.02141799,NA,2012,"Onychomys leucogaster","Onychomys_leucogaster",20.5,152,"male",16.5,185,7.66651020920724,117.033524000984,"Fall",80484
+3,-107.4631,32.9811,NA,2013,"Onychomys leucogaster","Onychomys_leucogaster",16.2,145,"female",15.7,255,8.32230937500723,143.48003754196,"Spring",80485
+3,-107.4664,33.0203,NA,2013,"Onychomys leucogaster","Onychomys_leucogaster",16,139,"male",15.6,264,8.2975900115636,143.896615362723,"Spring",80486
+7,-108.6617423,40.4624664,NA,1993,"Onychomys leucogaster","Onychomys_leucogaster",13,106,"male",6.9,431,9.65725900632014,56.2706502810546,"Summer",80493
+6,-102.9676758,38.0487032,NA,1979,"Onychomys leucogaster","Onychomys_leucogaster",46.5,143,"male",11.4,390,10.7006371942813,81.8969748923355,"Summer",80494
+6,-102.9676758,38.0487032,NA,1979,"Onychomys leucogaster","Onychomys_leucogaster",32.5,142,"female",11.4,390,10.7006371942813,81.8969748923355,"Summer",80495
+6,-102.9676758,38.0487032,NA,1979,"Onychomys leucogaster","Onychomys_leucogaster",16.5,128,"male",11.4,390,10.7006371942813,81.8969748923355,"Summer",80496
+6,-102.9676758,38.0487032,NA,1979,"Onychomys leucogaster","Onychomys_leucogaster",34,150,"male",11.4,390,10.7006371942813,81.8969748923355,"Summer",80497
+8,-103.0043461,38.0487463,NA,1979,"Onychomys leucogaster","Onychomys_leucogaster",47,169,"female",11.4,391,10.7047001854609,78.9372235312706,"Summer",80498
+7,-108.6569764,40.4624416,NA,1993,"Onychomys leucogaster","Onychomys_leucogaster",22,128,"male",6.9,430,9.65725900632014,56.4568868208547,"Summer",80499
+7,-104.9485721,37.788488,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",31,139,"male",8.8,446,8.85420632789691,53.1655161136586,"Summer",80501
+7,-104.9485721,37.788488,NA,1988,"Onychomys leucogaster","Onychomys_leucogaster",38,145,"male",8.8,446,8.85420632789691,53.1655161136586,"Summer",80502
+3,-97.299088,27.517869,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",30.6,159,"female",22,943,5.60494235366242,75.1494208110663,"Spring",80505
+6,-106.939751,32.312213,NA,1967,"Onychomys leucogaster","Onychomys_leucogaster",35,154,"male",15.9,238,7.89189745590662,101.842432036614,"Summer",80506
+7,-119.12977,37.90028,NA,2005,"Onychomys leucogaster brevicaudus","Onychomys_leucogaster",16,115,"female",7.8,570,7.12281864534999,112.757162916464,"Summer",80508
+8,-120.17653,40.84532,NA,2006,"Onychomys leucogaster brevicaudus","Onychomys_leucogaster",21,125,"male",8.7,295,8.29437103758271,83.9486705060081,"Summer",80509
+8,-120.17653,40.84532,NA,2006,"Onychomys leucogaster brevicaudus","Onychomys_leucogaster",20,122,"female",8.7,295,8.29437103758271,83.9486705060081,"Summer",80510
+8,-120.16599,40.89191,NA,2006,"Onychomys leucogaster brevicaudus","Onychomys_leucogaster",25,133,"female",8.6,294,8.22683616789184,81.7701320522019,"Summer",80511
+5,-119.12848,37.90753,NA,2007,"Onychomys leucogaster brevicaudus","Onychomys_leucogaster",26,140,"male",7.9,204,7.70856961144838,154.692923475356,"Spring",80512
+6,-105.8755341,32.2504349,NA,1994,"Onychomys leucogaster","Onychomys_leucogaster",29,149,"female",17.3,274,8.32378847313256,76.0702747578055,"Summer",80513
+7,-105.8755341,32.2504349,NA,1994,"Onychomys leucogaster","Onychomys_leucogaster",27,133,"male",17.3,274,8.32378847313256,76.0702747578055,"Summer",80514
+10,-118.9236773,46.2145942,"unknown",1977,"Onychomys leucogaster","Onychomys_leucogaster",25,130,"female",11.5,211,8.65185214012268,85.5131815072723,"Fall",80515
+12,-109.3261,31.9979,"unknown",1951,"Onychomys leucogaster","Onychomys_leucogaster",12.4,127,"female",12.3,483,6.92312768694157,73.702303140405,"Winter",80516
+1,-110.892,32.5913,"unknown",1951,"Onychomys leucogaster","Onychomys_leucogaster",28.5,163,"male",17.4,490,7.75773318969042,69.8073095544411,"Winter",80517
+1,-110.892,32.5913,"unknown",1951,"Onychomys leucogaster","Onychomys_leucogaster",20.8,150,"male",17.4,490,7.75773318969042,69.8073095544411,"Winter",80518
+7,-109.0561,32.2678,"unknown",1951,"Onychomys leucogaster","Onychomys_leucogaster",24.5,152,"female",15.8,248,7.78333008889686,75.0020343970729,"Summer",80519
+2,-98.7051,37.62587,NA,1962,"Onychomys leucogaster","Onychomys_leucogaster",33.6,151,"female",13.7,645,10.2706517747798,85.7177881794905,"Winter",80520
+10,-98.61542,37.12347,NA,1981,"Onychomys leucogaster","Onychomys_leucogaster",43,148,"female",15.3,691,9.57573875621473,82.6985480805156,"Fall",80521
+6,-101.44,37.58,NA,1979,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",38.5,140,"male",12.2,451,10.7592525368408,77.7344047597664,"Summer",80522
+6,-101.44,37.58,NA,1979,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",45.6,171,"female",12.2,451,10.7592525368408,77.7344047597664,"Summer",80523
+6,-101.44,37.58,NA,1979,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",30.3,135,"male",12.2,451,10.7592525368408,77.7344047597664,"Summer",80524
+6,-101.37,37.55,NA,1979,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",31.6,138,"male",12.1,470,10.7979340055345,76.7116199703736,"Summer",80525
+11,-101.88,37.71,NA,1974,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",21.5,147,"male",12.6,267,9.79536068295042,85.5270105805794,"Fall",80526
+6,-119.32,43.41,NA,1997,"Onychomys leucogaster brevicaudus","Onychomys_leucogaster",15.6,130,"female",7.7,238,7.61091719873897,87.5957349119196,"Summer",80527
+7,-106.995891,45.393118,NA,1959,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",1,154,"female",6.3,305,10.3913826478161,57.6550060531754,"Summer",80528
+5,-108.00045,36.84035,NA,2003,"Onychomys leucogaster pallescens","Onychomys_leucogaster",36.5,161,"female",11.7,240,9.12688336728371,82.4069723440262,"Spring",80529
+6,-112.8181666667,43.5185,NA,2002,"Onychomys leucogaster","Onychomys_leucogaster",22.7,131,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",80530
+3,-107.4714,32.9814,NA,2013,"Onychomys leucogaster","Onychomys_leucogaster",16.9,135,"male",15.6,260,8.29203707106274,143.507135744821,"Spring",80531
+3,-107.5011,32.9969,NA,2013,"Onychomys leucogaster","Onychomys_leucogaster",22.8,143,"male",15.4,273,8.2330634233761,144.524961897636,"Spring",80532
+3,-107.501,32.9964,NA,2013,"Onychomys leucogaster","Onychomys_leucogaster",17.3,140,"female",15.4,273,8.2330634233761,144.524961897636,"Spring",80533
+3,-115.87,38.4683333,NA,1999,"Onychomys leucogaster","Onychomys_leucogaster",21,133,"male",10.7,122,8.15612801778051,83.5606633653947,"Spring",80534
+8,-100.6444444,26.3797222,NA,2004,"Onychomys leucogaster","Onychomys_leucogaster",19,151,"female",21.3,477,5.45385601703469,86.2521610903975,"Summer",80535
+6,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",33,143,"male",15.4,400,8.18749971084894,123.224849914145,"Summer",80536
+6,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",28,133,"male",15.4,400,8.18749971084894,123.224849914145,"Summer",80537
+6,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",19,130,"male",15.4,400,8.18749971084894,123.224849914145,"Summer",80538
+6,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",18,121,"male",15.4,400,8.18749971084894,123.224849914145,"Summer",80539
+6,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",16,127,"female",15.4,400,8.18749971084894,123.224849914145,"Summer",80540
+11,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",39,144,"male",15.4,400,8.18749971084894,123.224849914145,"Fall",80541
+11,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",31,135,"male",15.4,400,8.18749971084894,123.224849914145,"Fall",80542
+11,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",30,141,"male",15.4,400,8.18749971084894,123.224849914145,"Fall",80543
+11,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",27,130,"female",15.4,400,8.18749971084894,123.224849914145,"Fall",80544
+11,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",25,139,"female",15.4,400,8.18749971084894,123.224849914145,"Fall",80545
+10,-110.58889,31.79028,NA,1959,"Onychomys leucogaster","Onychomys_leucogaster",9.5,101,"female",15.9,492,6.78016268688341,135.652614036436,"Fall",80546
+11,-109.246024,31.587088,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",31,145,"female",15.5,167,7.56997157834623,135.073777988608,"Fall",80547
+11,-109.246024,31.587088,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",27,141,"female",15.5,167,7.56997157834623,135.073777988608,"Fall",80548
+11,-109.205921,31.628505,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",31.2,149,"male",15.4,166,7.57525377112673,136.010033127926,"Fall",80549
+11,-109.123732,31.913609,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",26.2,150,"female",14.9,150,7.61893076885504,123.629946357521,"Fall",80550
+11,-109.205921,31.628505,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",26.7,135,"male",15.4,166,7.57525377112673,136.010033127926,"Fall",80551
+9,-97.813016,38.703783,NA,1955,"Onychomys leucogaster","Onychomys_leucogaster",36,137,"male",12.9,559,11.5509936605235,85.0655583256608,"Fall",80552
+6,-111.83802,36.731209,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",9.9,137,"female",10,229,9.13137697472541,78.681347377628,"Summer",80553
+7,-112.72914,36.86194,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",38.5,152,"female",11.5,177,9.316013421019,71.8728372529851,"Summer",80554
+7,-112.72914,36.86194,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",31,144,"male",11.5,177,9.316013421019,71.8728372529851,"Summer",80555
+7,-112.723702,36.861939,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",35.7,141,"male",11.6,173,9.31913964035112,71.3561192675176,"Summer",80556
+7,-112.72914,36.86194,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",38.2,149,"female",11.5,177,9.316013421019,71.8728372529851,"Summer",80557
+7,-112.826296,36.646044,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",22.9,147,"male",12,182,9.41103076182413,73.8251163881816,"Summer",80558
+11,-109.576558,31.876386,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",35,137,"male",15.2,303,7.80510710815021,142.300214704741,"Fall",80559
+11,-109.077568,31.913594,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",40,155,"male",15,285,7.0404190216208,105.554387561467,"Fall",80560
+11,-109.077568,31.913594,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",38.7,163,"male",15,285,7.0404190216208,105.554387561467,"Fall",80561
+11,-109.077568,31.913594,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",42.3,162,"female",15,285,7.0404190216208,105.554387561467,"Fall",80562
+10,-110.33432,31.563325,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",22.8,141,"male",15.8,346,6.40011837011747,113.802523567685,"Fall",80563
+10,-109.13167,31.712051,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",35,156,"female",14.8,329,7.01459517396018,107.149177028427,"Fall",80564
+10,-109.440342,31.876215,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",27,133,"female",13.9,375,6.5089390747485,105.252320207637,"Fall",80565
+10,-109.13167,31.712051,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",17.7,149,"female",14.8,329,7.01459517396018,107.149177028427,"Fall",80566
+10,-109.440342,31.876215,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",35.2,135,"male",13.9,375,6.5089390747485,105.252320207637,"Fall",80567
+10,-109.229979,31.589005,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",16,128,"female",15.6,335,7.38972976911917,127.540483219087,"Fall",80568
+10,-108.80667,31.513489,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",36,150,"male",13.7,364,7.20660471478431,101.040528471196,"Fall",80569
+10,-109.078,31.8942,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",48,160,"male",15.9,265,7.66769591246683,109.068036804854,"Fall",80570
+11,-109.1914,31.6335,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",40,169,"female",15.6,327,7.42617708249716,125.99239926681,"Fall",80571
+10,-109.2254,31.619,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",39,155,"male",15.4,349,7.35137072355568,125.078439211053,"Fall",80572
+10,-109.084007,31.865363,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",46,160,"female",16.1,254,7.76032547739794,107.729971910594,"Fall",80573
+2,-109.4822,31.883,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",29,132,"male",15,310,7.10920764455036,118.547842080576,"Winter",80574
+10,-109.478074,31.904542,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",43,154,"male",15.4,410,6.87597376024045,117.107228821497,"Fall",80575
+9,-109.529363,31.904669,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",39,148,"male",15.8,381,7.04904893649426,117.775914146995,"Fall",80576
+9,-109.529363,31.904669,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",31,142,"male",15.8,381,7.04904893649426,117.775914146995,"Fall",80577
+9,-109.529363,31.904669,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",30,148,"male",15.8,381,7.04904893649426,117.775914146995,"Fall",80578
+9,-109.529363,31.904669,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",44,144,"male",15.8,381,7.04904893649426,117.775914146995,"Fall",80579
+12,-110.9398,32.5628,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",26.1,150,"female",18.1,317,7.56989652064897,67.9753001248104,"Winter",80580
+10,-109.13167,31.574168,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",39.8,147,"male",15.2,337,7.3292016597783,117.820495048251,"Fall",80581
+2,-109.4822,31.883,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",32.6,149,"male",15,310,7.10920764455036,118.547842080576,"Winter",80582
+2,-109.4822,31.883,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",30.7,152,"male",15,310,7.10920764455036,118.547842080576,"Winter",80583
+10,-109.1116,31.9226,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",41,146,"male",15.3,292,7.4631772825999,109.578143916491,"Fall",80584
+2,-109.576276,31.876086,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",35.8,137,"male",15.6,275,7.38501246382896,124.448282053573,"Winter",80585
+11,-107.8522,36.0093,NA,1971,"Onychomys leucogaster","Onychomys_leucogaster",22,133,"female",9,218,9.18608961551336,79.2088107632919,"Fall",80586
+9,-109.4652,31.9705,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",26.5,139,"male",15.3,405,6.88758215042027,116.220098091223,"Fall",80587
+9,-109.1264,33.0414,NA,1973,"Onychomys leucogaster","Onychomys_leucogaster",25,134,"male",13.9,327,7.86700050652706,92.8153417123526,"Fall",80588
+9,-109.441,32.159,NA,1976,"Onychomys leucogaster","Onychomys_leucogaster",31,143,"female",14.5,316,7.05965918998841,81.8854025571251,"Fall",80589
+9,-110.7314,31.8247,NA,1976,"Onychomys leucogaster","Onychomys_leucogaster",33,129,"female",15.7,479,6.22109680478816,88.7183577444048,"Fall",80590
+12,-113.1291,34.1505,NA,1979,"Onychomys leucogaster","Onychomys_leucogaster",21,127,"female",17.9,304,8.12474708231063,128.311094975965,"Winter",80591
+1,-112.7207,34.3106,NA,1980,"Onychomys leucogaster","Onychomys_leucogaster",29.3,137,"female",15.3,526,6.86974041236882,125.724202678508,"Winter",80592
+9,-111.4316,32.4585,NA,1975,"Onychomys leucogaster","Onychomys_leucogaster",32,134,"female",19.6,181,7.96919732850217,71.2070312203841,"Fall",80593
+9,-109.1621,31.9226,NA,1975,"Onychomys leucogaster","Onychomys_leucogaster",37,145,"female",13.1,383,7.11781801771676,109.717187244862,"Fall",80594
+10,-109.5331,31.8685,NA,1982,"Onychomys leucogaster","Onychomys_leucogaster",30,142,"female",15.9,389,6.86592376093043,82.8383001387419,"Fall",80595
+10,-109.5331,31.8685,NA,1982,"Onychomys leucogaster","Onychomys_leucogaster",31,145,"female",15.9,389,6.86592376093043,82.8383001387419,"Fall",80596
+11,-109.1743,34.3796,NA,1989,"Onychomys leucogaster","Onychomys_leucogaster",22,127,"male",9.6,182,7.51621983486783,103.761321146866,"Fall",80597
+9,-109.5161,31.9705,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",35,151,"male",15.7,379,7.05334650855159,116.783865166694,"Fall",80598
+9,-109.9281,32.5785,NA,1986,"Onychomys leucogaster","Onychomys_leucogaster",28,126,"male",16.6,467,6.61153720721772,67.4750833564333,"Fall",80599
+5,-104.8216666667,39.8683333333,NA,1992,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",53.4,159,"female",10.6,411,8.59433834074221,80.8378619714879,"Spring",80600
+8,-108.1062,43.562,NA,1990,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",39,135,"male",8.1,320,9.9220140917237,80.0689719274912,"Summer",80601
+8,-98.44539,37.77865,NA,1963,"Onychomys leucogaster","Onychomys_leucogaster",36.6,143,"male",14.2,514,11.4062283623705,101.187176630546,"Summer",80602
+6,-119.88,41.45,NA,1977,"Onychomys leucogaster","Onychomys_leucogaster",12,140,"female",7,325,8.18266830600267,92.4278937658566,"Summer",80603
+3,-120.47,40.28,NA,1961,"Onychomys leucogaster brevicaudus","Onychomys_leucogaster",15.3,132,"male",10,208,7.4458652345385,67.2021604933249,"Spring",80604
+6,-118.65,42.24,NA,1992,"Onychomys leucogaster brevicaudus","Onychomys_leucogaster",15,122,"female",10.9,133,8.41690218692379,78.7053755396952,"Summer",80605
+5,-102.02,45.78,NA,1998,"Onychomys leucogaster missouriensis","Onychomys_leucogaster",16.5,107,"male",7.6,439,11.5634579865221,85.5911339393006,"Spring",80606
+6,-101.44,37.58,NA,1979,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",50,164,"male",12.2,451,10.7592525368408,77.7344047597664,"Summer",80607
+6,-101.37,37.55,NA,1979,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",39,141,"male",12.1,470,10.7979340055345,76.7116199703736,"Summer",80608
+4,-101.84,37.13,NA,1973,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",41.2,161,"female",12.3,405,9.29598724116373,90.9059516871316,"Spring",80609
+10,-101.88,37.71,NA,1974,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",37,148,"female",12.6,267,9.79536068295042,85.5270105805794,"Fall",80610
+4,-102.96,36.97,NA,1969,"Onychomys leucogaster arcticeps","Onychomys_leucogaster",30,163,"male",12.3,623,9.27619958754008,78.8400261974727,"Spring",80611
+6,-112.7756666667,43.4166666667,NA,2002,"Onychomys leucogaster","Onychomys_leucogaster",26.7,120,"female",5.6,181,10.4604413546147,45.0951323184381,"Summer",80612
+6,-112.8181666667,43.5185,NA,2002,"Onychomys leucogaster","Onychomys_leucogaster",36.9,136,"female",5.2,171,10.6544449395403,39.485201226128,"Summer",80613
+3,-107.4994,32.9973,NA,2013,"Onychomys leucogaster","Onychomys_leucogaster",17.8,136,"male",15.4,276,8.21100517967234,144.938076033086,"Spring",80614
+8,-119.12977,37.90028,NA,2004,"Onychomys leucogaster brevicaudus","Onychomys_leucogaster",19,135,"female",7.7,471,7.29183852611323,121.430219304826,"Summer",80617
+3,-115.87,38.4683333,NA,1999,"Onychomys leucogaster","Onychomys_leucogaster",17,141,"female",10.7,122,8.15612801778051,83.5606633653947,"Spring",80618
+8,-104.5383333,33.516,NA,2010,"Onychomys leucogaster articeps","Onychomys_leucogaster",36.4,145,"male",15.7,297,8.80225522066345,63.7818267188396,"Summer",80619
+6,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",24,136,"female",15.4,400,8.18749971084894,123.224849914145,"Summer",80620
+6,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",25,145,"female",15.4,400,8.18749971084894,123.224849914145,"Summer",80621
+11,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",32,138,"female",15.4,400,8.18749971084894,123.224849914145,"Fall",80622
+11,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",33,147,"male",15.4,400,8.18749971084894,123.224849914145,"Fall",80623
+11,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",34,150,"male",15.4,400,8.18749971084894,123.224849914145,"Fall",80624
+11,-102.625,33.3149986,NA,1996,"Onychomys leucogaster","Onychomys_leucogaster",29,139,"female",15.4,400,8.18749971084894,123.224849914145,"Fall",80625
+9,-109.163322,31.592197,NA,1959,"Onychomys leucogaster","Onychomys_leucogaster",37.7,153,"male",15.7,372,7.09935443074462,142.610943918446,"Fall",80626
+10,-108.42616,32.646781,NA,1959,"Onychomys leucogaster","Onychomys_leucogaster",19.8,137,"male",12.1,362,7.35013399176979,132.618029422211,"Fall",80627
+8,-109.211044,31.423793,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",39,150,"male",16.3,133,7.79247403044447,144.844967646113,"Summer",80628
+11,-109.188882,31.59221,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",23.5,135,"female",15.5,162,7.59187663948058,136.631554987059,"Fall",80629
+11,-109.246024,31.587088,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",28.3,142,"female",15.5,167,7.56997157834623,135.073777988608,"Fall",80630
+11,-109.24,31.59222,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",28,140,"female",15.5,167,7.56853034050545,135.073777988608,"Fall",80631
+11,-109.24,31.59222,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",29,144,"female",15.5,167,7.56853034050545,135.073777988608,"Fall",80632
+1,-109.039102,31.936875,NA,1957,"Onychomys leucogaster","Onychomys_leucogaster",35.4,164,"female",16.4,299,7.04252774007295,117.399623262734,"Winter",80633
+11,-109.24,31.59222,NA,1956,"Onychomys leucogaster","Onychomys_leucogaster",27.2,130,"female",15.5,167,7.56853034050545,135.073777988608,"Fall",80634
+7,-113.45472,36.10472,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",28.4,136,"female",10.2,261,8.92780386311112,99.7329180446549,"Summer",80635
+7,-112.73639,36.86194,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",12.1,116,"male",11.5,176,9.32224449498308,71.2333653324692,"Summer",80636
+7,-112.72914,36.86194,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",18.5,132,"female",11.5,177,9.316013421019,71.8728372529851,"Summer",80637
+7,-112.826296,36.646044,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",24.3,154,"female",12,182,9.41103076182413,73.8251163881816,"Summer",80638
+7,-112.826296,36.646044,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",14.5,132,"female",12,182,9.41103076182413,73.8251163881816,"Summer",80639
+10,-109.15292,31.923872,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",38.2,147,"female",13.5,368,7.70706091054092,134.436515651948,"Fall",80640
+10,-99.7698,38.8061,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",42.3,162,"female",12.8,395,10.5615476081296,81.438467156245,"Fall",80641
+12,-110.58889,31.79028,NA,1964,"Onychomys leucogaster","Onychomys_leucogaster",26.4,136,"female",14.8,460,7.35574399343599,126.046333922252,"Winter",80642
+11,-109.077568,31.913594,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",35.7,153,"male",15,285,7.0404190216208,105.554387561467,"Fall",80643
+10,-109.13167,31.712051,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",28,142,"male",14.8,329,7.01459517396018,107.149177028427,"Fall",80644
+10,-109.13167,31.712051,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",42.5,159,"female",14.8,329,7.01459517396018,107.149177028427,"Fall",80645
+10,-109.440342,31.876215,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",31.2,132,"female",13.9,375,6.5089390747485,105.252320207637,"Fall",80646
+10,-109.440342,31.876215,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",24.3,127,"female",13.9,375,6.5089390747485,105.252320207637,"Fall",80647
+10,-109.029694,31.913562,NA,1968,"Onychomys leucogaster","Onychomys_leucogaster",13.5,129,"female",15.4,265,7.27342089495387,110.07483048519,"Fall",80648
+2,-109.157928,31.913609,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",22.3,123,"female",14.3,353,7.26158426657751,109.991120466689,"Winter",80649
+6,-110.75578,32.206087,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",26,133,"male",19.1,248,7.36212152394494,81.7374247901799,"Summer",80650
+10,-109.035762,31.479385,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",31,146,"male",13.8,444,6.98021012100161,112.79905868906,"Fall",80651
+10,-109.229979,31.589005,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",54,160,"female",15.6,335,7.38972976911917,127.540483219087,"Fall",80652
+10,-109.2254,31.619,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",35,145,"male",15.4,349,7.35137072355568,125.078439211053,"Fall",80653
+10,-109.2084,31.619,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",38.1,147,"female",15.5,336,7.41466094772357,125.384381175135,"Fall",80654
+10,-109.084007,31.865363,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",48.7,160,"female",16.1,254,7.76032547739794,107.729971910594,"Fall",80655
+10,-109.2084,31.619,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",49.6,155,"female",15.5,336,7.41466094772357,125.384381175135,"Fall",80656
+10,-109.084007,31.865363,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",50.1,150,"male",16.1,254,7.76032547739794,107.729971910594,"Fall",80657
+10,-109.091246,31.9136,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",37,150,"male",15.7,272,7.58669089840088,109.470184507038,"Fall",80658
+2,-109.50097,31.875969,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",35,152,"female",15.2,297,7.15636504142016,119.735418652215,"Winter",80659
+10,-109.1453,31.8801,NA,1969,"Onychomys leucogaster","Onychomys_leucogaster",41,153,"male",10.4,632,6.83285290254948,117.313308820499,"Fall",80660
+7,-109.65944,36.09667,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",36.2,141,"male",11.1,175,9.06071690922362,91.9879770123249,"Summer",80661
+10,-109.478074,31.904542,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",32,135,"male",15.4,410,6.87597376024045,117.107228821497,"Fall",80662
+9,-109.529363,31.904669,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",48,168,"female",15.8,381,7.04904893649426,117.775914146995,"Fall",80663
+6,-111.3809,32.3853,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",35,163,"female",20.1,261,7.95561075117696,110.267217008488,"Summer",80664
+2,-109.4822,31.883,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",34.8,140,"male",15,310,7.10920764455036,118.547842080576,"Winter",80665
+2,-109.4143,31.883,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",35,143,"male",13.1,394,6.90926036474808,114.0585470882,"Winter",80666
+2,-109.550709,31.876018,NA,1970,"Onychomys leucogaster","Onychomys_leucogaster",39.8,157,"male",15.5,281,7.3180143026188,123.366506762263,"Winter",80667
+9,-109.2792,32.7085,NA,1973,"Onychomys leucogaster","Onychomys_leucogaster",25,141,"male",15.4,230,8.06546603887478,102.916424738655,"Fall",80668
+8,-108.937809,34.199777,NA,1973,"Onychomys leucogaster","Onychomys_leucogaster",24,124,"male",7.6,293,7.34650504414421,82.7108755860697,"Summer",80669
+11,-109.7876,32.0434,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",42.5,153,"male",16.2,322,7.39264068947195,113.645334029565,"Fall",80670
+9,-109.1116,31.9935,NA,1973,"Onychomys leucogaster","Onychomys_leucogaster",31.5,135,"female",15.3,238,7.88259974804498,113.678565197216,"Fall",80671
+1,-112.7207,34.3106,NA,1980,"Onychomys leucogaster","Onychomys_leucogaster",49,154,"female",15.3,526,6.86974041236882,125.724202678508,"Winter",80672
+1,-112.7207,34.3106,NA,1980,"Onychomys leucogaster","Onychomys_leucogaster",26,134,"female",15.3,526,6.86974041236882,125.724202678508,"Winter",80673
+1,-112.7207,34.3106,NA,1980,"Onychomys leucogaster","Onychomys_leucogaster",31.5,132,"female",15.3,526,6.86974041236882,125.724202678508,"Winter",80674
+9,-109.0443,31.9226,NA,1978,"Onychomys leucogaster","Onychomys_leucogaster",22,132,"male",16.2,335,7.71984848336161,63.2254411498627,"Fall",80675
+9,-109.5161,31.9705,NA,1972,"Onychomys leucogaster","Onychomys_leucogaster",30.7,139,"male",15.7,379,7.05334650855159,116.783865166694,"Fall",80676
+5,-109.3804,32.0143,NA,1985,"Onychomys leucogaster","Onychomys_leucogaster",34,140,"female",14.3,587,7.04046206300453,66.3541701662709,"Spring",80677
+10,-111.4316,32.4585,NA,1975,"Onychomys leucogaster","Onychomys_leucogaster",20,126,"male",19.6,181,7.96919732850217,71.2070312203841,"Fall",80678
+10,-111.4316,32.4585,NA,1975,"Onychomys leucogaster","Onychomys_leucogaster",25,135,"male",19.6,181,7.96919732850217,71.2070312203841,"Fall",80679
+10,-111.4316,32.4585,NA,1975,"Onychomys leucogaster","Onychomys_leucogaster",22,135,"male",19.6,181,7.96919732850217,71.2070312203841,"Fall",80680

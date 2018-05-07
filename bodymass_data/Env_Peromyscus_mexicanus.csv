@@ -1,0 +1,114 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",49,258,"male",23.3,795,1.7058722109232,89.7069027026606,"Summer",100857
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",43.5,251,"male",23.3,795,1.7058722109232,89.7069027026606,"Summer",100858
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",41,264,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100859
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",45,256,"male",23.3,795,1.7058722109232,89.7069027026606,"Summer",100860
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",35,231,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100861
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",30,232,"male",23.3,795,1.7058722109232,89.7069027026606,"Summer",100862
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",41,247,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100863
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",27,226,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100864
+11,-96.4102777778,19.5536111111,NA,1992,"Peromyscus mexicanus","Peromyscus_mexicanus",40,242,"female",25.5,1217,2.45078837037465,101.388717214799,"Fall",100865
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",45,260,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100866
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",27,214,"male",23.3,795,1.7058722109232,89.7069027026606,"Summer",100867
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",45,268,"male",23.3,795,1.7058722109232,89.7069027026606,"Summer",100868
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",35,241,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100869
+7,-84.7,10.3,NA,1980,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",29,227,"female",-9999,-9999,0,0,"Summer",100870
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",29,225,"male",23.3,795,1.7058722109232,89.7069027026606,"Summer",100871
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",30,228,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100872
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",40,268,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100873
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",42,254,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100874
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",42,241,"male",23.3,795,1.7058722109232,89.7069027026606,"Summer",100875
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",36,247,"male",23.3,795,1.7058722109232,89.7069027026606,"Summer",100876
+7,-93.2722222,16.9077778,NA,1986,"Peromyscus mexicanus Saussure, 1860","Peromyscus_mexicanus",42.5,262,"female",23.3,795,1.7058722109232,89.7069027026606,"Summer",100877
+2,-96.34,17.67,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",47,253,"male",20.6,2524,2.25890493716569,80.3815950659102,"Winter",100878
+2,-96.34,17.67,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",44,253,"male",20.6,2524,2.25890493716569,80.3815950659102,"Winter",100879
+2,-96.34,17.61,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",52,240,"female",21.3,2007,2.35429974147883,81.206176381029,"Winter",100880
+2,-96.3,17.92,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",48,NA,"female",25.3,3179,2.89371052561596,89.0118157409282,"Winter",100881
+4,-96.34,17.61,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",47.3,247,"male",21.3,2007,2.35429974147883,81.206176381029,"Spring",100882
+10,-96.34,17.63,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",44.7,254,"male",20.4,2178,2.28372038303265,80.7420944731238,"Fall",100883
+12,-93.035903,17.357528,NA,1962,"Peromyscus mexicanus","Peromyscus_mexicanus",46,240,"female",20.3,3414,1.79365464058636,94.8364464262052,"Winter",100884
+1,-93.035903,17.357528,NA,1963,"Peromyscus mexicanus","Peromyscus_mexicanus",48,296,"male",20,4460,1.93743035065428,62.1162248764544,"Winter",100885
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",20,NA,"male",-9999,-9999,0,0,"Winter",100886
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",37.7,NA,"male",-9999,-9999,0,0,"Winter",100887
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",45.4,NA,"male",-9999,-9999,0,0,"Winter",100888
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",36,NA,"male",-9999,-9999,0,0,"Winter",100889
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",45.3,NA,"male",-9999,-9999,0,0,"Winter",100890
+11,-87,12.7,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",40.5,NA,"male",-9999,-9999,0,0,"Fall",100891
+11,-87,12.7,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",22.7,NA,"male",-9999,-9999,0,0,"Fall",100892
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",48.9,NA,"male",-9999,-9999,0,0,"Spring",100893
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",45.5,NA,"male",-9999,-9999,0,0,"Spring",100894
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",27,NA,"male",-9999,-9999,0,0,"Spring",100895
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",38.5,NA,"female",-9999,-9999,0,0,"Spring",100896
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",43,NA,"male",-9999,-9999,0,0,"Spring",100897
+10,-91.7208,15.9153,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",54,130,"female",21.4,2149,1.2936617046433,94.3607503468971,"Fall",100898
+8,-91.1297,14.6311,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",50,257,"male",-9999,-9999,0,0,"Summer",100899
+5,-89.7778,14.3975,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",46,244,"female",-9999,-9999,0,0,"Spring",100900
+7,-90.1444,14.5306,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",53,240,"female",-9999,-9999,0,0,"Summer",100901
+7,-90.1444,14.5306,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",55,258,"male",-9999,-9999,0,0,"Summer",100902
+7,-91.5514,15.9875,"unknown",1997,"Peromyscus mexicanus","Peromyscus_mexicanus",39,89.85,"female",19.7,2701,0.975572869775715,81.2661248692376,"Summer",100903
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",22,100,"female",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100904
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",27,103,"male",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100905
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",30,107,"female",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100906
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",26,103,"male",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100907
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",25,101,"female",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100908
+7,-89.3558,14.4194,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",41,250,"male",-9999,-9999,0,0,"Summer",100909
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",44,249,"female",-9999,-9999,0,0,"Summer",100910
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",17,170,"male",-9999,-9999,0,0,"Summer",100911
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",46,242,"male",-9999,-9999,0,0,"Summer",100912
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",41,240,"male",-9999,-9999,0,0,"Summer",100913
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",43,239,"male",-9999,-9999,0,0,"Summer",100914
+7,-89.3806,14.5047,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",32,225,"male",-9999,-9999,0,0,"Summer",100915
+7,-89.3806,14.5047,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",31,204,"female",-9999,-9999,0,0,"Summer",100916
+2,-96.34,17.61,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",54,270,"male",21.3,2007,2.35429974147883,81.206176381029,"Winter",100917
+2,-96.34,17.61,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",56,NA,"male",21.3,2007,2.35429974147883,81.206176381029,"Winter",100918
+2,-96.34,17.61,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",68,263,"female",21.3,2007,2.35429974147883,81.206176381029,"Winter",100919
+2,-96.34,17.61,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",53,248,"male",21.3,2007,2.35429974147883,81.206176381029,"Winter",100920
+2,-96.34,17.67,NA,1975,"Peromyscus mexicanus totontepecus","Peromyscus_mexicanus",44,245,"male",20.6,2524,2.25890493716569,80.3815950659102,"Winter",100921
+6,-92.006951,16.12863,NA,1964,"Peromyscus mexicanus","Peromyscus_mexicanus",37,220,"female",18.7,1174,1.39052529860503,93.2586427694092,"Summer",100922
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",43.4,NA,"female",-9999,-9999,0,0,"Winter",100923
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",50.4,NA,"male",-9999,-9999,0,0,"Winter",100924
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",34.3,NA,"female",-9999,-9999,0,0,"Winter",100925
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",35.9,NA,"male",-9999,-9999,0,0,"Winter",100926
+12,-85.9166667,13.0166667,"adult",1961,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",43.4,NA,"male",-9999,-9999,0,0,"Winter",100927
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",40.8,NA,"male",-9999,-9999,0,0,"Spring",100928
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",42.1,NA,"female",-9999,-9999,0,0,"Spring",100929
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",16.7,NA,"male",-9999,-9999,0,0,"Spring",100930
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",44,NA,"male",-9999,-9999,0,0,"Spring",100931
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",39.7,NA,"male",-9999,-9999,0,0,"Spring",100932
+3,-85.9666667,11.8333333,"adult",1962,"Peromyscus mexicanus saxatalis","Peromyscus_mexicanus",31.6,NA,"female",-9999,-9999,0,0,"Spring",100933
+10,-91.7208,15.9153,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",42,117,"female",21.4,2149,1.2936617046433,94.3607503468971,"Fall",100934
+8,-91.2289,14.5908,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",41,245,"male",-9999,-9999,0,0,"Summer",100935
+5,-89.7778,14.3975,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",35,244,"female",-9999,-9999,0,0,"Spring",100936
+5,-89.7794,14.3997,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",43,241,"male",-9999,-9999,0,0,"Spring",100937
+5,-89.7794,14.3997,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",41,228,"female",-9999,-9999,0,0,"Spring",100938
+5,-89.7794,14.3997,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",40,222,"female",-9999,-9999,0,0,"Spring",100939
+5,-89.7794,14.3997,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",48,252,"male",-9999,-9999,0,0,"Spring",100940
+9,-91.9208,14.9778,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",52,255,"male",-9999,-9999,0,0,"Fall",100941
+7,-90.1444,14.5306,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",48,241,"male",-9999,-9999,0,0,"Summer",100942
+7,-90.1444,14.5306,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",51,269,"female",-9999,-9999,0,0,"Summer",100943
+7,-90.1444,14.5306,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",58,258,"male",-9999,-9999,0,0,"Summer",100944
+7,-90.1444,14.5306,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",58,272,"male",-9999,-9999,0,0,"Summer",100945
+7,-90.1481,14.5206,"unknown",1999,"Peromyscus mexicanus","Peromyscus_mexicanus",46,261,"female",-9999,-9999,0,0,"Summer",100946
+7,-89.3558,14.4192,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",47,270,"female",-9999,-9999,0,0,"Summer",100947
+7,-91.5514,15.9875,"unknown",1997,"Peromyscus mexicanus","Peromyscus_mexicanus",49,126.15,"male",19.7,2701,0.975572869775715,81.2661248692376,"Summer",100948
+7,-91.5514,15.9875,"unknown",1997,"Peromyscus mexicanus","Peromyscus_mexicanus",37,107.5,"female",19.7,2701,0.975572869775715,81.2661248692376,"Summer",100949
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",41,110,"female",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100950
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",28,107,"male",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100951
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",27,81,"female",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100952
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",29,106,"female",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100953
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",34,115,"male",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100954
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",36,114,"male",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100955
+7,-91.5514,15.9875,"unknown",1997,"Peromyscus mexicanus","Peromyscus_mexicanus",70,139.15,"male",19.7,2701,0.975572869775715,81.2661248692376,"Summer",100956
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",32,110,"female",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100957
+9,-91.9778,15.5583,"unknown",1996,"Peromyscus mexicanus","Peromyscus_mexicanus",22,90,"male",16.2,1510,1.20689308105188,87.2599976362812,"Fall",100958
+7,-89.3558,14.4192,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",32,268,"male",-9999,-9999,0,0,"Summer",100959
+7,-89.3558,14.4194,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",39,241,"male",-9999,-9999,0,0,"Summer",100960
+7,-89.3558,14.4194,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",41,246,"male",-9999,-9999,0,0,"Summer",100961
+11,-89.3558,14.4194,"unknown",2005,"Peromyscus mexicanus","Peromyscus_mexicanus",41,258,"male",-9999,-9999,0,0,"Fall",100962
+7,-89.3647,14.4167,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",41,162,"male",-9999,-9999,0,0,"Summer",100963
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",39,279,"female",-9999,-9999,0,0,"Summer",100964
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",46,243,"male",-9999,-9999,0,0,"Summer",100965
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",49,252,"male",-9999,-9999,0,0,"Summer",100966
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",52,246,"male",-9999,-9999,0,0,"Summer",100967
+7,-89.3561,14.5058,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",18,170,"male",-9999,-9999,0,0,"Summer",100968
+7,-89.3808,14.5047,"unknown",2004,"Peromyscus mexicanus","Peromyscus_mexicanus",42,265,"female",-9999,-9999,0,0,"Summer",100969

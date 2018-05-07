@@ -1,0 +1,709 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-117.3673,46.6092,NA,1949,"Falco sparverius","Falco_sparverius",137,NA,"female",10.7,365,9.61017453251784,75.1727739213474,"Spring",35850
+1,-117.1063,46.7326,NA,1950,"Falco sparverius","Falco_sparverius",115,NA,"male",7.6,645,8.67198554734343,65.3857631362492,"Winter",35851
+7,-117.0744,46.8938,NA,1968,"Falco sparverius","Falco_sparverius",90.5,260,"male",8.3,602,7.2278921022954,60.6667997001611,"Summer",35852
+4,-117.5035,47.1076,NA,2003,"Falco sparverius","Falco_sparverius",101.1,NA,"female",9.6,454,8.00999375780031,79.5736665369909,"Spring",35853
+6,-119.295868,46.980362,NA,1953,"Falco sparverius","Falco_sparverius",39.5,111,"male",11.9,196,6.91863425829116,77.8543074366767,"Summer",35854
+7,-117.04572,46.339589,"Juv",1957,"Falco sparverius","Falco_sparverius",87,226,"male",10.6,378,9.05983477004995,66.6254252976306,"Summer",35855
+4,-117.501,46.922,NA,1973,"Falco sparverius","Falco_sparverius",97,NA,"male",9.4,482,7.56256730498475,113.353311846599,"Spring",35856
+1,-117.181888,46.643235,NA,1978,"Falco sparverius","Falco_sparverius",117.2,NA,"female",7.9,526,7.67834420281936,52.8743390770853,"Winter",35857
+4,-117.519,46.68,NA,1979,"Falco sparverius","Falco_sparverius",128.9,NA,"female",11.4,406,9.65715310330151,54.3221866079087,"Spring",35858
+9,-119.737949,46.252375,NA,1980,"Falco sparverius","Falco_sparverius",87,NA,"undetermined",10.5,298,8.31207591763971,74.3443326491821,"Fall",35859
+4,-117.1498,46.638414,NA,1984,"Falco sparverius","Falco_sparverius",110.3,NA,"male",8,623,7.4950286554125,50.9910003716528,"Spring",35860
+6,-118.672293,46.040283,NA,1990,"Falco sparverius","Falco_sparverius",103.2,NA,"female",12.6,243,8.66543114736347,55.706843679197,"Summer",35861
+10,-117.388809,46.726549,NA,1990,"Falco sparverius","Falco_sparverius",118,NA,"female",10,522,8.36000579962101,55.194178918331,"Fall",35862
+1,-118.66989,46.053718,NA,1992,"Falco sparverius","Falco_sparverius",124.3,NA,"male",13,261,7.97729258393454,51.4547031661353,"Winter",35863
+8,-117.179457,46.728691,NA,1991,"Falco sparverius","Falco_sparverius",98.6,NA,"male",9,469,7.1352040169596,70.015532612568,"Summer",35864
+9,-117.2167,46.6143,NA,1992,"Falco sparverius","Falco_sparverius",122,NA,"female",10.6,427,7.37951197368071,51.3665947696546,"Fall",35865
+7,-98.178441,44.378414,NA,1955,"Falco sparverius","Falco_sparverius",123.300003051758,NA,"male",7.2,378,14.4046604411295,82.7080589735066,"Summer",35866
+8,-76.39509,42.38263,NA,1987,"Falco sparverius","Falco_sparverius",170,NA,"female",8.4,879,9.82783230823501,46.9413124187965,"Summer",35867
+8,-105.257474,40.523654,"adult",2011,"Falco sparverius","Falco_sparverius",64.7,263,"female",8,534,9.03981093929413,72.8047568162911,"Summer",35868
+8,-104.56111,40.3875,"immature",2012,"Falco sparverius","Falco_sparverius",71,275,"female",11.4,212,9.95302603597154,76.2449379388788,"Summer",35869
+5,-105.023133,40.525472,"adult",2012,"Falco sparverius","Falco_sparverius",91,265,"male",10.8,230,9.42750649895712,79.0270730031103,"Spring",35870
+10,-103.06611,40.75917,"adult",2012,"Falco sparverius","Falco_sparverius",91.9,270,"male",11.6,255,9.99549519745892,75.9099149878134,"Fall",35871
+5,-104.685634,40.404121,"adult",2012,"Falco sparverius","Falco_sparverius",91.8,258,"male",11.4,214,9.78573482476436,76.2114896839099,"Spring",35872
+6,-103.678562,40.220594,"immature",2012,"Falco sparverius","Falco_sparverius",56.1,211,"male",11.3,206,10.1008400490736,78.5410108893441,"Summer",35873
+7,-105.128838,40.549844,"immature",2012,"Falco sparverius","Falco_sparverius",85,220,"male",10.4,251,9.23781343011954,84.3100770424811,"Summer",35874
+12,-104.907995,40.54127,"adult",2011,"Falco sparverius","Falco_sparverius",115.8,253,"male",9.1,403,9.92525093187099,74.2460773091121,"Winter",35875
+8,-104.95026,40.638672,"immature",2011,"Falco sparverius","Falco_sparverius",79.2,254,"male",8.6,451,9.69484008338581,79.5989949685296,"Summer",35876
+12,-105.114118,40.544502,"adult",2012,"Falco sparverius","Falco_sparverius",120,275,"male",10.5,248,9.24833727889735,82.9529409098222,"Winter",35877
+12,-105.077025,40.427458,"adult",2011,"Falco sparverius","Falco_sparverius",106.7,252,"male",9.1,431,9.74363428556866,66.9291968888322,"Winter",35878
+10,-104.996965,40.580799,"adult",2011,"Falco sparverius","Falco_sparverius",92.1,271,"female",9,439,9.84898087328959,75.0176538201054,"Fall",35879
+7,-104.975438,40.38365,"adult",2011,"Falco sparverius","Falco_sparverius",70.8,245,"male",9.4,402,9.94379279508152,70.1396886114594,"Summer",35880
+7,-104.66552,40.290588,"immature",2012,"Falco sparverius","Falco_sparverius",77.6,268,"male",11.3,215,9.68949368536808,74.4444986663253,"Summer",35881
+6,-105.9441,40.425306,"immature",2012,"Falco sparverius","Falco_sparverius",106.4,253,"male",0.5,671,8.0195735925335,89.2575432956866,"Summer",35882
+4,-104.997995,39.746205,"adult",2013,"Falco sparverius","Falco_sparverius",89.3,266,"male",10.6,338,9.57393478527649,61.8799232652803,"Spring",35883
+12,-103.961915,40.224741,"Adult",2012,"Falco sparverius","Falco_sparverius",114.7,262,"female",11.3,208,10.0942828103113,81.7127705397667,"Winter",35884
+8,-104.750849,40.428888,"immature",2013,"Falco sparverius","Falco_sparverius",60.6,193,"female",9.4,308,10.2719793908507,76.9271635939874,"Summer",35885
+4,-105.048737,40.71125,"Adult",2009,"Falco sparverius","Falco_sparverius",127.2,275,"female",8.1,504,8.62190216655797,98.3275859469177,"Spring",35886
+5,-104.771675,39.877697,"adult",1989,"Falco sparverius","Falco_sparverius",113.5,264,"male",10.2,382,9.45249686430506,77.8255839227854,"Spring",35889
+4,-105.4309731,40.0097216,"adult",1992,"Falco sparverius","Falco_sparverius",134.7,277,"female",6,529,7.287031860321,81.0628588034337,"Spring",35890
+10,-104.85212,39.978262,"adult",1989,"Falco sparverius","Falco_sparverius",94.8,255,"male",10.2,339,9.60698924867944,71.9317658750127,"Fall",35891
+9,-108.364498,37.33222,"adult",1988,"Falco sparverius","Falco_sparverius",124.9,261,"female",8.3,345,9.22116718438746,45.4750941694827,"Fall",35892
+2,-105.154568,40,NA,1984,"Falco sparverius","Falco_sparverius",55,250,"male",9.8,406,8.98798440343349,69.9013253536389,"Winter",35893
+6,-104.264365,39.490665,"adult",1995,"Falco sparverius","Falco_sparverius",128.2,270,"female",9.2,482,8.03720043977322,88.2416927332018,"Summer",35894
+4,-102.2227777778,40.0758333333,"adult",1990,"Falco sparverius","Falco_sparverius",102.7,24.9,"male",11.2,520,9.98782213042918,81.2497165427971,"Spring",35895
+12,-104.771342,39.906018,"adult",1998,"Falco sparverius","Falco_sparverius",111.5,254,"male",10.3,395,9.03372469240577,93.1585784811922,"Winter",35896
+9,-105.055346,40.20218,NA,1995,"Falco sparverius","Falco_sparverius",106.2,258,"male",9.8,478,8.18192297912683,112.592854611043,"Fall",35897
+9,-104.78652,39.986773,"adult",2000,"Falco sparverius","Falco_sparverius",136.3,281,"female",10.6,315,9.67029190120678,71.0464320971869,"Fall",35898
+1,-106.13267,39.919336,NA,1994,"Falco sparverius","Falco_sparverius",107.9,249,"male",3.8,319,9.12349614008697,47.5239174234693,"Winter",35899
+1,-105.047777,40.634744,"adult",2011,"Falco sparverius","Falco_sparverius",96.8,263,"male",8.7,465,9.6685369141668,81.4521500519439,"Winter",35900
+9,-105.007019,40.705232,"Immature",2011,"Falco sparverius","Falco_sparverius",80.6,524,"female",8.5,475,9.60931918251835,89.263248171842,"Fall",35901
+3,-104.905862,40.481295,"adult",2011,"Falco sparverius","Falco_sparverius",79.1,255,"male",9.4,381,10.0261929691456,73.1439181971904,"Spring",35902
+4,-105.08056,40.30833,"adult",2011,"Falco sparverius","Falco_sparverius",90,246,"female",9.3,422,9.74996503490234,67.497324725508,"Spring",35903
+8,-105.047112,40.66983,"immature",2012,"Falco sparverius","Falco_sparverius",65.2,235,"male",10.3,247,9.25665608187869,91.7926038978993,"Summer",35907
+4,-102.86517,40.894227,"Adult",2013,"Falco sparverius","Falco_sparverius",109.9,258,"female",9.5,415,10.2820341991615,65.0198070537438,"Spring",35908
+6,-105.162514,40.304478,"immature",2012,"Falco sparverius","Falco_sparverius",80,233,"male",10.9,241,9.14788847966369,75.5740388034474,"Summer",35909
+5,-106.85117,40.514041,NA,2013,"Falco sparverius","Falco_sparverius",86.5,258,"female",3.6,686,10.7689227395175,55.9553318832307,"Spring",35910
+4,-104.66694,39.85833,"adult",2013,"Falco sparverius","Falco_sparverius",107.3,252,"male",10.1,316,9.64688676425842,63.9619229492216,"Spring",35911
+7,-104.4718355,42.588624,NA,1949,"Falco sparverius sparverius","Falco_sparverius",89.1,NA,"male",6.6,411,10.5257656455121,88.1655579941384,"Summer",35912
+12,-101.4062691,36.2360252,NA,1955,"Falco sparverius sparverius","Falco_sparverius",145.1,NA,"male",14.5,404,9.35055904988865,114.788341650521,"Winter",35913
+12,-98.0975891,38.427025,NA,1993,"Falco sparverius sparverius","Falco_sparverius",124.5,NA,"male",11.7,1050,10.581788243215,77.4902782906018,"Winter",35914
+11,-95.4529953,38.6806857,NA,1996,"Falco sparverius sparverius","Falco_sparverius",108.7,NA,"male",12.2,1075,10.2594930171864,75.7866849363967,"Fall",35915
+1,-95.2598661,38.9549568,NA,1998,"Falco sparverius sparverius","Falco_sparverius",123,NA,"male",13.9,1225,9.8228243793666,69.5373055135808,"Winter",35916
+12,-111.4953971,32.8903146,"immature",1970,"Falco sparverius sparverius","Falco_sparverius",109,NA,"female",20.5,189,8.369691895419,111.58616930677,"Winter",35917
+11,-112.0740051,33.4483414,"adult",1981,"Falco sparverius sparverius","Falco_sparverius",63,NA,"male",22.3,169,7.59710870042417,75.0515068019188,"Fall",35918
+6,-118.1549,33.9651,NA,1982,"Falco sparverius sparverius","Falco_sparverius",112,NA,"male",17.7,363,3.83239777779822,108.127016865099,"Summer",35919
+12,-118.1549,33.9651,NA,1982,"Falco sparverius sparverius","Falco_sparverius",79,NA,"female",17.7,363,3.83239777779822,108.127016865099,"Winter",35920
+9,-118.301651,34.0320587,NA,1996,"Falco sparverius sparverius","Falco_sparverius",95,NA,"female",17.8,420,3.03624568814644,124.139826732119,"Fall",35921
+10,-117.821473,33.800967,NA,1985,"Falco sparverius sparverius","Falco_sparverius",76.1,NA,"male",17.6,159,4.32946214029438,146.314196555762,"Fall",35922
+5,-118.1335831,34.0913359,"juvenile",1996,"Falco sparverius sparverius","Falco_sparverius",97,NA,"undetermined",18.9,511,4.01508519099024,122.269173178541,"Spring",35923
+10,-118.448967,34.1866722,NA,1995,"Falco sparverius sparverius","Falco_sparverius",89.5,NA,"female",18.3,686,4.22706825833296,194.226104384043,"Fall",35924
+1,-111.8225937,33.422245,NA,1981,"Falco sparverius sparverius","Falco_sparverius",63,NA,"male",22.1,163,7.44000244379236,76.6878904893022,"Winter",35925
+6,-114.7594833,42.5991058,NA,2001,"Falco sparverius sparverius","Falco_sparverius",92,NA,"male",10.2,192,9.79413863058674,73.2066696198534,"Summer",35926
+11,-118.301651,34.0320587,NA,1993,"Falco sparverius sparverius","Falco_sparverius",62,NA,"male",17.3,581,3.17159504847563,190.287760970558,"Fall",35927
+6,-117.0375532,36.0943947,NA,1967,"Falco sparverius sparverius","Falco_sparverius",105,NA,"male",13.8,174,8.34117207082743,134.046391321453,"Summer",35928
+2,-118.301651,34.0320587,NA,2002,"Falco sparverius sparverius","Falco_sparverius",108,NA,"female",15.7,180,2.56402855371043,150.134355676384,"Winter",35929
+6,-118.2967341,33.8108199,NA,1992,"Falco sparverius sparverius","Falco_sparverius",73.5,NA,"female",17.3,504,3.05151477536033,147.978437215021,"Summer",35930
+3,-114.59293,33.610655,NA,2005,"Falco sparverius sparverius","Falco_sparverius",108,NA,"female",23.7,108,7.78185048492304,162.903681596225,"Spring",35931
+3,-118.1549,33.9651,NA,1981,"Falco sparverius","Falco_sparverius",78.4,NA,"male",19,267,3.64774733308937,125.186161315031,"Spring",35932
+6,-117.821473,33.800967,"immature",1986,"Falco sparverius sparverius","Falco_sparverius",74,NA,"male",18.2,345,3.16891865697835,149.57467972342,"Summer",35933
+6,-118.0063819,33.6904955,NA,2002,"Falco sparverius sparverius","Falco_sparverius",95,NA,"male",15.1,161,2.46704030749153,146.744189286706,"Summer",35934
+7,-118.301651,34.0320587,NA,1995,"Falco sparverius sparverius","Falco_sparverius",84,NA,"female",17.5,617,3.19156084166675,191.457191750775,"Summer",35935
+11,-118.65,34.033333,NA,1986,"Falco sparverius sparverius","Falco_sparverius",110,NA,"male",17.6,315,1.86667343072368,141.873984623385,"Fall",35936
+5,-112.0740051,33.4483414,"juvenile",1982,"Falco sparverius sparverius","Falco_sparverius",54,NA,"undetermined",21.1,276,7.89304930129841,82.5876788385802,"Spring",35937
+7,-117.9636383,34.1461921,NA,1989,"Falco sparverius sparverius","Falco_sparverius",91,NA,"female",18.5,153,4.19693250174963,128.729921138496,"Summer",35938
+11,-118.301651,34.0320587,NA,2002,"Falco sparverius sparverius","Falco_sparverius",78,NA,"male",15.7,180,2.56402855371043,150.134355676384,"Fall",35939
+8,-118.1313019,33.9377136,NA,1982,"Falco sparverius sparverius","Falco_sparverius",65,NA,"male",17.7,363,3.84069122566617,106.985591182374,"Summer",35940
+11,-115.4932594,33.1691688,NA,1993,"Falco sparverius sparverius","Falco_sparverius",84,NA,"female",22.9,98,7.65239118897426,167.557859748913,"Fall",35941
+12,-117.8152008,33.6631355,NA,1984,"Falco sparverius sparverius","Falco_sparverius",88,NA,"female",18.6,213,4.46666949344099,197.513898485293,"Winter",35942
+10,-118.1549,33.9651,"immature",1983,"Falco sparverius sparverius","Falco_sparverius",126,NA,"female",18.6,757,4.03577749634442,101.717989530704,"Fall",35943
+7,-111.8225937,33.422245,"juvenile",1982,"Falco sparverius sparverius","Falco_sparverius",61,NA,"undetermined",20.9,288,7.83016699384599,78.0329300355448,"Summer",35944
+12,-118.3964653,34.1486206,NA,1994,"Falco sparverius sparverius","Falco_sparverius",76,NA,"male",17.9,260,4.4004390276839,139.057831055328,"Winter",35945
+7,-118.0617294,36.6070404,NA,1994,"Falco sparverius sparverius","Falco_sparverius",87.5,NA,"female",15.6,99,8.76205230559945,109.571497665267,"Summer",35946
+6,-118.25,34,"juvenile",1982,"Falco sparverius sparverius","Falco_sparverius",72.5,NA,"male",17.6,346,3.60843918243516,111.266387191655,"Summer",35947
+1,-112.0740051,33.4483414,NA,1981,"Falco sparverius sparverius","Falco_sparverius",74,NA,"male",22.3,169,7.59710870042417,75.0515068019188,"Winter",35948
+9,-117.7641561,33.6662353,NA,1982,"Falco sparverius sparverius","Falco_sparverius",61,NA,"male",16.7,350,4.11479223673749,111.980707324622,"Fall",35949
+9,-112.0740051,33.4483414,"adult",1982,"Falco sparverius sparverius","Falco_sparverius",61,NA,"male",21.1,276,7.89304930129841,82.5876788385802,"Fall",35950
+9,-108.2186852,36.7280598,NA,2006,"Falco sparverius","Falco_sparverius",93.9,NA,"male",11.7,185,8.99968012899583,87.5787684163505,"Fall",35951
+4,-106.7664408,34.6023301,"ad",2007,"Falco sparverius","Falco_sparverius",105.7,NA,"female",14.2,216,9.06034901327892,99.2586711061734,"Spring",35952
+10,-106.7283592,34.7408886,NA,2009,"Falco sparverius","Falco_sparverius",99.7,NA,"male",14,219,8.43676568072832,99.6796246374023,"Fall",35953
+6,-105.9350204,35.6868439,NA,2010,"Falco sparverius","Falco_sparverius",97,NA,"male",10.3,357,8.5667786810269,56.1223053726691,"Summer",35954
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Falco sparverius sparverius","Falco_sparverius",95,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",35955
+8,-108.3333,29.91071,"imm.",1948,"Falco sparverius sparverius","Falco_sparverius",88,NA,"female",11.2,444,6.70388286402332,119.926397434996,"Summer",35956
+3,-119.6859402,34.0195873,"u ad.",1950,"Falco sparverius sparverius","Falco_sparverius",129,NA,"female",13.9,274,2.36258717972865,98.4298061910462,"Spring",35957
+4,-92.5733333333,16.6744444444,"u ad.",1950,"Falco sparverius sparverius","Falco_sparverius",93.4,NA,"male",13.5,1057,0.98761267097926,77.8117725986951,"Spring",35958
+7,-84.4794,31.1899,"ad.",1951,"Falco sparverius paulus","Falco_sparverius",95.6,NA,"female",20.2,1207,6.60653372645504,51.3031598636248,"Summer",35959
+7,-84.2896,31.2599,"ad.",1951,"Falco sparverius paulus","Falco_sparverius",99.5,NA,"female",20.4,1148,6.57411706250468,51.5901980079945,"Summer",35960
+6,-114.82083,40.5525,"u ad.",1956,"Falco sparverius sparverius","Falco_sparverius",104,NA,"male",3,727,7.97288967043754,111.831904649184,"Summer",35961
+6,-106.770421,29.485097,"u ad.",1959,"Falco sparverius sparverius","Falco_sparverius",107.5,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",35962
+6,-106.770421,29.485097,"u ad.",1959,"Falco sparverius sparverius","Falco_sparverius",97.5,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",35963
+5,-121.994205,37.9733762,"u hatchling",1924,"Falco sparverius sparverius","Falco_sparverius",73.42,NA,"female",14.7,332,4.5034330339097,112.141783334927,"Spring",35964
+11,-95.506,33.87,"u ad.",1971,"Falco sparverius sparverius","Falco_sparverius",147.7,NA,"female",17.7,1249,7.81461335052361,74.8811143096723,"Fall",35965
+3,-96.00812,33.138,"ad.",1971,"Falco sparverius sparverius","Falco_sparverius",103.4,NA,"male",18,1038,7.7782281615631,82.0059570717107,"Spring",35966
+11,-122.3749,37.9541,"adult",2001,"Falco sparverius sparverius","Falco_sparverius",108,NA,"male",14.2,707,3.14844839130758,130.210914074335,"Fall",35967
+7,-121.9654,37.7803,"adult",1999,"Falco sparverius sparverius","Falco_sparverius",121,NA,"female",14,439,4.76222509745055,126.337621554653,"Summer",35968
+9,-121.9579,37.5329,"adult",1999,"Falco sparverius sparverius","Falco_sparverius",116,NA,"female",14.2,346,3.9011264884374,126.030843110981,"Fall",35969
+5,-121.79763,37.96112,"adult",2000,"Falco sparverius sparverius","Falco_sparverius",92.5,NA,"female",15.3,419,5.04905481703799,134.839972492648,"Spring",35970
+2,-122.1231968,37.8601747,"adult",2000,"Falco sparverius sparverius","Falco_sparverius",95.1,NA,"male",14.2,712,4.17252920900501,133.87411518668,"Winter",35971
+7,-122.150912,37.766834,"adult",2000,"Falco sparverius sparverius","Falco_sparverius",120,NA,"female",14.3,630,3.16064818821978,131.672912122331,"Summer",35972
+7,-122.150912,37.766834,"skull completely ossified",2000,"Falco sparverius sparverius","Falco_sparverius",105,NA,"female",14.3,630,3.16064818821978,131.672912122331,"Summer",35973
+12,-121.975923,37.973318,"adult",2004,"Falco sparverius sparverius","Falco_sparverius",107.8,NA,"female",15.4,462,5.10344506340095,121.367055774655,"Winter",35974
+5,-121.941687,37.964509,"juvenile",2004,"Falco sparverius sparverius","Falco_sparverius",132.9,NA,"female",15.2,498,5.05577227862701,121.618180459098,"Spring",35975
+12,-121.694859,37.922501,"adult",2004,"Falco sparverius sparverius","Falco_sparverius",73.9,NA,"male",16.2,356,5.77116001153909,115.328497004223,"Winter",35976
+6,-121.620981,37.909354,"fledgling",2004,"Falco sparverius sparverius","Falco_sparverius",54.5,NA,"undetermined",16.2,346,5.95545967999113,114.052076772568,"Summer",35977
+6,-122.105851,37.874012,"immature",2004,"Falco sparverius sparverius","Falco_sparverius",78.6,NA,"male",15.1,633,4.68022111624757,126.440924220328,"Summer",35978
+4,-121.67751,37.75675,"adult",2004,"Falco sparverius sparverius","Falco_sparverius",113.95,NA,"female",15.4,442,5.05828902681409,119.581043005927,"Spring",35979
+2,-121.745613,37.715689,"not recorded",2004,"Falco sparverius sparverius","Falco_sparverius",95.7,NA,"male",15.5,359,5.16728490924715,119.058416681724,"Winter",35980
+5,-121.8741,37.68224,"adult by plumage",2004,"Falco sparverius sparverius","Falco_sparverius",114.9,NA,"female",15.9,444,5.10890488176371,120.373061559194,"Spring",35981
+8,-121.778619,37.669511,"not recorded",2004,"Falco sparverius sparverius","Falco_sparverius",78.5,NA,"male",15.6,368,5.09768218275361,119.337728249464,"Summer",35982
+1,-120.43822,37.52078,"u ad.",1915,"Falco sparverius sparverius","Falco_sparverius",96.6,NA,"male",16.6,353,6.44614049433669,121.944960269831,"Winter",35983
+4,-116.865597,36.456792,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",115.5,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",35984
+4,-116.865597,36.456792,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",94.7,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",35985
+4,-116.865597,36.456792,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",86,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",35986
+7,-118.34519,37.40065,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",110,NA,"female",13.5,48,9.24909086441375,165.488258303614,"Summer",35987
+7,-118.182829,37.488762,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",94.6,NA,"male",1,182,8.07072431130508,162.208847686414,"Summer",35988
+7,-118.18701,37.48215,"juv.",1917,"Falco sparverius sparverius","Falco_sparverius",100.7,NA,"female",0.8,185,8.07950549791935,163.72584481333,"Summer",35989
+9,-118.48803,37.88755,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",114.3,NA,"male",9.6,86,9.31430961673293,162.578402961469,"Fall",35990
+9,-120.727,35.327062,"u ad.",1918,"Falco sparverius sparverius","Falco_sparverius",123,NA,"female",13.2,543,3.14222224008115,152.820997113642,"Fall",35991
+11,-120.843604,35.322367,"u ad.",1918,"Falco sparverius sparverius","Falco_sparverius",120,NA,"male",12.6,462,2.37065391822594,148.862009193832,"Fall",35992
+1,-121.809669,36.630428,"u ad.",1919,"Falco sparverius sparverius","Falco_sparverius",11.8,NA,"male",11.6,362,1.90827543911123,153.226597146784,"Winter",35993
+2,-121.897276,36.585478,"u ad.",1919,"Falco sparverius sparverius","Falco_sparverius",92,NA,"male",11.8,359,2.04292941778726,149.984745547762,"Winter",35994
+6,-127.6667,55.25,"u ad.",1921,"Falco sparverius sparverius","Falco_sparverius",116.5,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",35995
+10,-115.7333333333,30.9666666667,"u ad.",1925,"Falco sparverius sparverius","Falco_sparverius",95.1,NA,"male",16,268,4.08169416697617,123.676529282106,"Fall",35996
+5,-115.458333,30.883333,"u ad.",1925,"Falco sparverius sparverius","Falco_sparverius",92,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",35997
+5,-115.7333333333,30.9666666667,"ad.",1926,"Falco sparverius sparverius","Falco_sparverius",117.3,NA,"female",16.4,307,4.29873131389843,135.563101091426,"Spring",35998
+1,-116.8,31.816667,"u ad.",1927,"Falco sparverius sparverius","Falco_sparverius",106.7,NA,"male",16,452,2.56318634563003,133.484233464158,"Winter",35999
+1,-116.8,31.816667,"u ad.",1927,"Falco sparverius sparverius","Falco_sparverius",121.4,NA,"male",16,452,2.56318634563003,133.484233464158,"Winter",36000
+5,-112.9,27.3,"u ad.",1927,"Falco sparverius peninsularis","Falco_sparverius",89.3,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",36001
+12,-117.111769,32.460771,"u ad.",1927,"Falco sparverius sparverius","Falco_sparverius",122.3,NA,"female",16.5,463,3.17846684978018,138.467360163425,"Winter",36002
+1,-116.736859,32.39092,"u ad.",1928,"Falco sparverius sparverius","Falco_sparverius",127,NA,"female",16.8,212,3.95523243771635,107.166852477321,"Winter",36003
+1,-116.736859,32.39092,"u ad.",1928,"Falco sparverius sparverius","Falco_sparverius",118.2,NA,"female",16.8,212,3.95523243771635,107.166852477321,"Winter",36004
+4,-122.1615073,40.1161018,"u ad.",1928,"Falco sparverius sparverius","Falco_sparverius",102,NA,"male",17.4,472,7.75165182787553,113.468144533082,"Spring",36005
+10,-110.2167,23.45,"u ad.",1928,"Falco sparverius peninsularis","Falco_sparverius",97.6,NA,"female",22.2,164,3.36140077222505,130.878889965229,"Fall",36006
+11,-110.2167,23.45,"u ad.",1928,"Falco sparverius peninsularis","Falco_sparverius",87,NA,"female",22.2,164,3.36140077222505,130.878889965229,"Fall",36007
+11,-110,23.566667,"u imm.",1928,"Falco sparverius peninsularis","Falco_sparverius",95.4,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",36008
+2,-110.3,24.12311,"u ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",102,NA,"female",22.8,160,4.47933808692419,113.012449126554,"Winter",36009
+4,-109.9,22.8833,"u ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",84.6,NA,"male",23,165,3.59750544885556,121.293124556952,"Spring",36010
+4,-109.9,22.8833,"u ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",98.6,NA,"female",23,165,3.59750544885556,121.293124556952,"Spring",36011
+8,-109.6,23.6,"ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",81.3,NA,"female",23.2,176,4.89356410982524,115.963556434036,"Summer",36012
+8,-109.6,23.6,"u ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",90,NA,"female",23.2,176,4.89356410982524,115.963556434036,"Summer",36013
+8,-109.6,23.6,"u ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",91,NA,"female",23.2,176,4.89356410982524,115.963556434036,"Summer",36014
+8,-114.47222,39.23333,"u ad.",1930,"Falco sparverius sparverius","Falco_sparverius",89,NA,"male",8.2,302,9.29426346373575,71.8179516682158,"Summer",36015
+8,-114.89556,39.24806,"u ad.",1930,"Falco sparverius sparverius","Falco_sparverius",96.5,NA,"male",6.8,380,9.09660276247027,78.2997359684712,"Summer",36016
+8,-117.0343964,39.3959732,"u ad.",1931,"Falco sparverius sparverius","Falco_sparverius",80,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Summer",36017
+9,-117.27444,38.94472,"u ad.",1931,"Falco sparverius sparverius","Falco_sparverius",43,NA,"female",7.2,346,8.99968012899583,49.7317417305378,"Fall",36018
+3,-122.11396,37.8855504,"u ad.",1933,"Falco sparverius sparverius","Falco_sparverius",83.6,NA,"female",13.9,514,4.66790297476481,135.367692014003,"Spring",36019
+5,-123.3052,40.2337238,"u ad.",1933,"Falco sparverius sparverius","Falco_sparverius",100.6,NA,"male",10.6,1441,6.87685512161165,127.945322087102,"Spring",36020
+10,-118.49432,35.4277106,"ad.",1933,"Falco sparverius sparverius","Falco_sparverius",113.5,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",36021
+2,-114.632183,34.998219,"u ad.",1934,"Falco sparverius sparverius","Falco_sparverius",85.1,NA,"male",23.7,70,7.81631452330782,114.734714672768,"Winter",36022
+7,-119.16194,38.81187,"u ad.",1934,"Falco sparverius sparverius","Falco_sparverius",109.8,NA,"female",11.5,163,6.93336247080125,115.913289868419,"Summer",36023
+7,-119.16194,38.83361,"u ad.",1934,"Falco sparverius sparverius","Falco_sparverius",125.5,NA,"male",11.7,147,7.01407135476229,116.280751883103,"Summer",36024
+6,-117.72,34.1,"u ad.",1926,"Falco sparverius sparverius","Falco_sparverius",98.2,NA,"male",17.7,449,4.3028531760386,131.608234061275,"Summer",36025
+12,-122.16799,37.431008,"u ad.",1934,"Falco sparverius sparverius","Falco_sparverius",131,NA,"male",15,309,3.00609229883098,125.562135880569,"Winter",36026
+4,-120.6800042,38.1976503,"u ad.",1936,"Falco sparverius sparverius","Falco_sparverius",101.5,NA,"male",16.7,921,6.94033009432418,145.430380059671,"Spring",36027
+7,-120.80128,36.5844,"juv.",1936,"Falco sparverius sparverius","Falco_sparverius",112.7,NA,"male",16.2,329,6.65156623159789,162.789359779441,"Summer",36028
+7,-120.80128,36.5844,"u ad.",1936,"Falco sparverius sparverius","Falco_sparverius",121.3,NA,"female",16.2,329,6.65156623159789,162.789359779441,"Summer",36029
+6,-120.0958,42.0433,"u ad.",1937,"Falco sparverius sparverius","Falco_sparverius",124.6,NA,"female",5.7,1038,9.03090233419103,92.8962877607081,"Summer",36030
+7,-116.7863,42.0975,"juv.",1937,"Falco sparverius sparverius","Falco_sparverius",128.3,NA,"male",7.4,217,10.0723255717953,59.0326052690247,"Summer",36031
+7,-117.3669,45.2558,"u ad.",1938,"Falco sparverius sparverius","Falco_sparverius",96.4,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",36032
+5,-115.4233438,35.1761885,"u ad.",1938,"Falco sparverius sparverius","Falco_sparverius",98.5,NA,"male",12.6,262,7.63478383730831,131.951547168018,"Spring",36033
+1,-122.296663,37.8372262,"u ad.",1940,"Falco sparverius sparverius","Falco_sparverius",97.7,NA,"male",14.6,820,1.95564451129173,122.656232631634,"Winter",36034
+5,-121.6331,42.313,"u ad.",1940,"Falco sparverius sparverius","Falco_sparverius",96,NA,"male",8.7,445,7.01068448653175,83.3188335438579,"Spring",36035
+6,-106.7813,46.268,"u ad.",1940,"Falco sparverius sparverius","Falco_sparverius",89.2,NA,"male",8.3,314,12.0339765210462,84.4856629974161,"Summer",36036
+8,-123.8761,46.1339,"u ad.",1940,"Falco sparverius sparverius","Falco_sparverius",110.7,NA,"male",11.6,1862,3.86086620835116,78.3867931523987,"Summer",36037
+6,-118.60426,37.790812,"unknown",1942,"Falco sparverius sparverius","Falco_sparverius",108,NA,"female",6.4,199,7.59956139085233,72.3674242153719,"Summer",36038
+8,-123.4568,40.45807,"u ad.",1942,"Falco sparverius sparverius","Falco_sparverius",80.5,NA,"male",10.2,2118,6.39962120091115,99.0391196236951,"Summer",36039
+5,-120.0333,51.65,"u ad.",1935,"Falco sparverius sparverius","Falco_sparverius",133,19,"female",5.7,443,8.65900739639995,81.4969381434999,"Spring",36040
+7,-119.269072,38.468374,"u ad.",1946,"Falco sparverius sparverius","Falco_sparverius",97,NA,"female",3.7,550,6.85622919598512,133.948219827167,"Summer",36041
+3,-79.70034,43.51008,"adult",1969,"Falco sparverius sparverius","Falco_sparverius",95.1,NA,"male",7.4,735,10.1646855993352,42.7964938830595,"Spring",36042
+4,-78.39672,44.25608,"not applicable",1969,"Falco sparverius sparverius","Falco_sparverius",83.8,264,"male",6.3,703,10.0617939240325,43.8495846265544,"Spring",36043
+8,-79.5239,43.83346,"adult",2006,"Falco sparverius sparverius","Falco_sparverius",69.5,NA,"male",8.9,907,8.99119097514424,32.9408884155531,"Summer",36044
+7,-116.2490935,52.4666672,"not applicable",1972,"Falco sparverius sparverius","Falco_sparverius",115,NA,"female",-0.7,703,10.380255149547,74.5454442712473,"Summer",36045
+4,-79.8736,43.55031,"adult",1976,"Falco sparverius sparverius","Falco_sparverius",129.6,NA,"male",6.9,886,10.0431342445745,36.6387062574719,"Spring",36046
+1,-79.372722,43.73418,"adult",1974,"Falco sparverius sparverius","Falco_sparverius",110.1,NA,"male",7.3,818,9.77893143446665,44.9764184473273,"Winter",36047
+8,-80.38561,45.61904,"not applicable",1968,"Falco sparverius sparverius","Falco_sparverius",88.4,260,"male",5.5,871,11.0643948471362,36.2052544783633,"Summer",36048
+12,-78.8818359,43.9137233,"not applicable",1974,"Falco sparverius sparverius","Falco_sparverius",80.1,NA,"male",7.1,825,9.8814181291161,30.2506688064833,"Winter",36049
+12,-78.8818359,43.9137233,"not applicable",1974,"Falco sparverius sparverius","Falco_sparverius",75.5,NA,"male",7.1,825,9.8814181291161,30.2506688064833,"Winter",36050
+10,-84.7482186,49.2678238,"not applicable",1975,"Falco sparverius sparverius","Falco_sparverius",115,NA,"[male]",0.5,731,12.615706900767,35.0626017277789,"Fall",36051
+10,-66.3608551,44.2576178,"immature",1972,"Falco sparverius sparverius","Falco_sparverius",90.5,NA,"male",5.6,1392,7.2910696725307,39.2128161546037,"Fall",36052
+5,-79.833333,43.25,"adult",1973,"Falco sparverius sparverius","Falco_sparverius",100,NA,"male",9.5,865,9.88133762874912,50.1610761228288,"Spring",36053
+10,-80.5352783,25.0034835,"adult",1972,"Falco sparverius paulus","Falco_sparverius",80,NA,"female",25.2,1322,2.40055233543273,66.5827487480123,"Fall",36054
+8,-79.395348,43.663612,"adult",1984,"Falco sparverius sparverius","Falco_sparverius",68.2,NA,"male",7.9,746,9.95392415385038,31.7474665459327,"Summer",36055
+7,-79.343141,43.743194,"juvenile",1982,"Falco sparverius sparverius","Falco_sparverius",68.9,NA,"male",7.2,876,10.0200821081738,45.052384255958,"Summer",36056
+3,-80.24294,42.5613,"not applicable",1966,"Falco sparverius sparverius","Falco_sparverius",86,243,"male",8.4,899,9.68766788710828,37.2336331069563,"Spring",36057
+4,-77.11689,45.61856,"adult",1950,"Falco sparverius sparverius","Falco_sparverius",92,NA,"male",4.7,807,11.6184381936905,32.9898637090296,"Spring",36058
+3,-79.380261,43.648655,"adult",1996,"Falco sparverius sparverius","Falco_sparverius",130.5,NA,"female",7.4,965,10.4237890801704,43.9702335395459,"Spring",36059
+8,-76.2224,44.60881,"adult",1997,"Falco sparverius sparverius","Falco_sparverius",86.7,NA,"male",6.3,808,10.4991341634355,37.4850179229185,"Summer",36060
+4,-79.342632,43.685473,"adult",1997,"Falco sparverius sparverius","Falco_sparverius",126.1,NA,"male",7.5,699,9.55815929407483,31.7406698420767,"Spring",36061
+10,-79.404054,43.700229,"adult",1997,"Falco sparverius sparverius","Falco_sparverius",109.5,NA,"female",7.3,704,9.55853973252096,32.4827296192323,"Fall",36062
+4,-77.35176,43.95265,"not applicable",1937,"Falco sparverius sparverius","Falco_sparverius",120,281,"female",8.1,813,10.0215676509126,36.6452097256802,"Spring",36063
+7,-87.72961,52.24829,"not applicable",1939,"Falco sparverius sparverius","Falco_sparverius",106.3,257,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",36064
+4,-80.27422,43.147362,"not applicable",1934,"Falco sparverius sparverius","Falco_sparverius",112,265,"male",7.4,688,11.2101786810294,41.7292478419047,"Spring",36065
+8,-79.488085,43.658272,"adult",2000,"Falco sparverius sparverius","Falco_sparverius",55.2,NA,"male",7.6,800,9.82440915024996,59.0769913679675,"Summer",36066
+10,-79.803143,43.123707,"not applicable",1941,"Falco sparverius sparverius","Falco_sparverius",134,274,"female",8.5,630,10.1052154251099,36.3541525460118,"Fall",36067
+2,-82.73856,42.03748,"not applicable",1910,"Falco sparverius sparverius","Falco_sparverius",133,291,"female",9.4,758,10.1017062765144,48.164516601685,"Winter",36068
+7,-79.424248,43.658553,"immature",2001,"Falco sparverius sparverius","Falco_sparverius",128.4,NA,"female",9,701,9.64504897328001,38.3645184597625,"Summer",36069
+7,-91.92887,50.10403,"not applicable",1947,"Falco sparverius sparverius","Falco_sparverius",124,259,"female",0.6,690,13.748377314719,41.0975349699112,"Summer",36070
+5,-79.39412,43.688088,"adult",2000,"Falco sparverius sparverius","Falco_sparverius",110.7,NA,"male",7.5,806,9.83740542290219,58.738003775479,"Spring",36071
+3,-76.69664,44.48616,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",95,NA,"female",6.4,890,11.0219890411959,37.6424770389813,"Spring",36072
+7,-79.356485,43.65737,"juvenile",2003,"Falco sparverius sparverius","Falco_sparverius",65,NA,"male",7.5,809,10.4988599669707,37.1835069036833,"Summer",36073
+1,-79.63447,43.60016,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",95,NA,"female",7.1,833,10.4247483800751,36.3427139785162,"Winter",36074
+7,-76.66441,44.40518,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",102,NA,"female",6.4,901,10.967676337421,36.8982970166425,"Summer",36075
+8,-149.1712,61.5988,"HY",1999,"Falco sparverius","Falco_sparverius",70.5,NA,"male",0.7,498,10.6328927903421,81.2677728813268,"Summer",36076
+7,-147.8043,64.857,"U",2000,"Falco sparverius","Falco_sparverius",85.5,NA,"male",-1.6,285,12.314745411313,108.166813357895,"Summer",36077
+1,-147.8043,64.857,"U",2000,"Falco sparverius","Falco_sparverius",174,NA,"undetermined",-1.6,285,12.314745411313,108.166813357895,"Winter",36078
+8,-147,64,"immature",1986,"Falco sparverius","Falco_sparverius",22,NA,"male",-2.6,726,10.3708909351067,102.862761548858,"Summer",36079
+1,-147.8043,64.857,"U",1990,"Falco sparverius","Falco_sparverius",110,NA,"male",-2.5,501,16.6588292178379,105.82936249707,"Winter",36080
+8,-147.8043,64.857,"HY",1999,"Falco sparverius","Falco_sparverius",120.5,NA,"male",-4.1,278,16.3509243552995,93.4095215432179,"Summer",36081
+9,-147.8043,64.857,"HY",1988,"Falco sparverius","Falco_sparverius",135,NA,"female",-1,296,13.8668888385465,84.3597990552307,"Fall",36082
+3,-83.7263412,42.2708397,NA,1956,"Falco sparverius sparverius","Falco_sparverius",115.5,NA,"male",9.4,705,9.67381658254524,61.8738767305599,"Spring",36083
+9,-83.7263412,42.2708397,NA,1958,"Falco sparverius sparverius","Falco_sparverius",91,NA,"male",9,572,10.398466524474,68.1346112678721,"Fall",36084
+1,-83.1499252,42.2142372,"adult",1986,"Falco sparverius sparverius","Falco_sparverius",105.2,NA,"male",10,969,9.83957300748853,54.6997680570156,"Winter",36085
+1,-85.5031586,43.6838877,NA,1998,"Falco sparverius","Falco_sparverius",75.5,NA,"male",8.8,761,9.44268195081474,53.2814869114209,"Winter",36086
+5,-84.9648743,46.7660217,NA,1996,"Falco sparverius","Falco_sparverius",76.9,NA,"female",3.8,826,10.1728992321697,58.4532099001847,"Spring",36087
+5,-83.7263412,42.2708397,NA,2000,"Falco sparverius","Falco_sparverius",116.4,NA,"male",9.5,1110,10.2283918579609,50.3887536637219,"Spring",36088
+12,-119.1917037,34.2742404,NA,2001,"Falco sparverius sparverius","Falco_sparverius",109,NA,"male",14.8,573,3.00256203730727,124.513733715744,"Winter",36089
+3,-83.9408684,42.2748955,NA,2004,"Falco sparverius sparverius","Falco_sparverius",108.75,NA,"male",9.4,831,9.9846662741456,63.5422272396796,"Spring",36090
+11,-120.1544666,34.4742269,NA,2002,"Falco sparverius","Falco_sparverius",92.4,NA,"male",13.5,317,2.40825600169437,161.832766557121,"Fall",36091
+12,-86.378426,41.921679,NA,2008,"Falco sparverius sparverius","Falco_sparverius",107.4,NA,"male",9,1183,10.3568451964989,56.8746071008914,"Winter",36092
+4,-83.1967163,42.1542413,NA,1909,"Falco sparverius","Falco_sparverius",201,NA,"female",9.2,997,9.61830247103107,43.2699262464461,"Spring",36093
+9,-111.2424846,42.3631281,NA,1934,"Falco sparverius","Falco_sparverius",102.1,NA,"male",4.9,451,7.27515489786154,58.8262292903876,"Fall",36094
+7,-111.214844,42.337704,"adult",1934,"Falco sparverius sparverius","Falco_sparverius",94.9,NA,"male",6,324,7.99834736717909,59.3466306244979,"Summer",36095
+4,-103.9181846,30.5676261,NA,1937,"Falco sparverius sparverius","Falco_sparverius",94,NA,"male",15.6,393,7.05444197049997,72.5749447004988,"Spring",36096
+4,-103.9537789,30.5368318,NA,1937,"Falco sparverius sparverius","Falco_sparverius",114.5,NA,"female",15.5,401,7.01636075054712,69.6037222295071,"Spring",36097
+4,-105.59056,41.31139,NA,2011,"Falco sparverius sparverius","Falco_sparverius",76,NA,"male",5.1,387,9.44458719440544,77.706609695001,"Spring",36099
+5,-105.693626,41.245619,NA,2013,"Falco sparverius sparverius","Falco_sparverius",82,NA,"female",4.9,308,9.97303941391566,79.9929487342823,"Spring",36100
+5,-110.76167,43.48,NA,2008,"Falco sparverius sparverius","Falco_sparverius",110.2,NA,"male",3,464,9.63300434585559,44.9967677709052,"Spring",36101
+8,-117.23441,33.186585,"juvenile",1975,NA,"Falco_sparverius",96.1,NA,"female",15.7,285,3.74457182890356,145.839751069644,"Summer",36102
+9,-76.0239296,38.4090498,"juvenile",1951,NA,"Falco_sparverius",4.5,NA,"female",13.9,1149,8.15145924842834,34.8894213612539,"Fall",36103
+9,-76.0239296,38.4090498,"adult",1951,NA,"Falco_sparverius",99.2,NA,"male",13.9,1149,8.15145924842834,34.8894213612539,"Fall",36104
+9,-116.1766739,33.673336,"adult",1980,NA,"Falco_sparverius",100,NA,"female",22.6,140,7.15647619399041,181.582407425544,"Fall",36105
+6,-116.1340714,33.6409192,"adult",1981,NA,"Falco_sparverius",93.5,NA,"undetermined",23.3,106,7.40826729015795,129.127225809544,"Summer",36106
+10,-118.9658686,34.2371155,"adult",1982,NA,"Falco_sparverius",104,NA,"undetermined",15.5,435,3.58553491212408,116.820191258705,"Fall",36107
+2,-116.1340714,33.6409192,"adult",1984,NA,"Falco_sparverius",93,NA,"female",23.2,65,8.00857022006406,139.372296033179,"Winter",36108
+6,-117.883877,33.740259,"chick",1984,NA,"Falco_sparverius",66,NA,"undetermined",18.7,212,4.43856207947274,195.280744722428,"Summer",36109
+10,-117.7614212,33.5468314,"juvenile",1985,NA,"Falco_sparverius",90.5,NA,"male",17.1,170,3.81631267380471,148.605792608942,"Fall",36110
+11,-120.6670456,35.486084,"adult",1984,NA,"Falco_sparverius",103.5,NA,"male",15.3,242,5.29638956500014,144.257140344818,"Fall",36111
+12,-117.9167747,33.663925,"adult",1985,NA,"Falco_sparverius",63.5,NA,"male",16.9,149,3.63279465008648,147.565009067536,"Winter",36112
+7,-117.8906136,33.8258495,"adult",1987,NA,"Falco_sparverius",83.3,NA,"male",17.9,274,3.87180953701355,100.026892564692,"Summer",36113
+9,-116.5489768,33.7987996,"juvenile",1987,NA,"Falco_sparverius",112.5,NA,"female",21.8,150,7.32900009716485,106.32162944035,"Fall",36114
+7,-117.6297379,33.7079353,"adult",1988,NA,"Falco_sparverius",65.3,NA,"male",17.6,353,3.86201391959577,139.195795812052,"Summer",36115
+8,-117.9672431,33.7744386,"juvenile",1988,NA,"Falco_sparverius",90,NA,"female",17.8,221,3.07955132505311,135.244998490996,"Summer",36116
+10,-117.821473,33.800967,"adult",1984,NA,"Falco_sparverius",80.5,NA,"female",18.9,218,4.80179101687037,204.33585811015,"Fall",36117
+4,-118.8502778,34.4580556,"adult",1988,NA,"Falco_sparverius",119.5,NA,"female",16.5,427,5.68594092850288,119.309681659397,"Spring",36118
+5,-118.0353432,34.1397305,"adult",1988,NA,"Falco_sparverius",97.3,NA,"female",18.7,340,4.02921151772223,122.58957387449,"Spring",36119
+12,-118.176845,33.795357,"adult",1988,NA,"Falco_sparverius",83.2,NA,"male",17.8,205,3.00509668074191,129.581803700471,"Winter",36120
+9,-117.883877,33.740259,"adult",1988,NA,"Falco_sparverius",97,NA,"female",17.8,243,3.15262036273243,138.04896296915,"Fall",36121
+11,-119.0959167,34.5065566,"adult",1988,NA,"Falco_sparverius",74,NA,"male",12.2,554,5.8513595933688,119.60682328977,"Fall",36122
+1,-117.9279327,33.8895124,"adult",1989,NA,"Falco_sparverius",95.7,NA,"male",18,111,3.60533064931763,128.174543985969,"Winter",36123
+5,-117.883877,33.740259,"adult",1989,NA,"Falco_sparverius",69.6,NA,"male",17.5,106,3.24634993165985,117.731230942547,"Spring",36124
+6,-117.8671646,33.8427601,"chick",1993,NA,"Falco_sparverius",96.2,NA,"undetermined",18.2,531,3.54583622654157,189.823476769514,"Summer",36125
+5,-117.5669632,33.8713799,"juvenile",2004,NA,"Falco_sparverius",73.8,NA,"undetermined",17.1,320,4.49999158248371,152.992188051738,"Spring",36126
+8,-119.270859,34.273174,"adult",2007,NA,"Falco_sparverius",106,NA,"female",15.2,136,2.40265005207318,122.414907801609,"Summer",36127
+12,-119.107933,34.111236,"juvenile",2007,NA,"Falco_sparverius",195,NA,"undetermined",15.2,135,2.24787778703704,128.522188652238,"Winter",36128
+6,-117.8671646,33.8427601,"chick",2002,NA,"Falco_sparverius",68,NA,"undetermined",16,174,3.12772305601879,146.204248183599,"Summer",36129
+7,-117.207675,46.792868,NA,1968,"Falco sparverius","Falco_sparverius",117.9,292,"female",8.6,563,7.20165700629818,66.0124254064809,"Summer",36130
+4,-117.126469,46.879179,NA,2003,"Falco sparverius","Falco_sparverius",100,NA,"male",9.3,594,7.7432032757572,78.5375351213563,"Spring",36131
+12,-117.179631,46.58577,NA,1950,"Falco sparverius","Falco_sparverius",118.5,270,"male",8,704,8.74595577534225,63.1469826946534,"Winter",36132
+2,-117.37814,46.635567,NA,1957,"Falco sparverius","Falco_sparverius",100,259,"male",10.8,448,9.00821174195405,59.5049360530479,"Winter",36133
+4,-117.298473,46.815477,NA,1969,"Falco sparverius","Falco_sparverius",97,268,NA,8.2,420,8.4137333622423,89.5810208865431,"Spring",36134
+6,-117.7042,46.7738,NA,1978,"Falco sparverius","Falco_sparverius",131.1,NA,"female",9.7,363,8.24869135626428,51.0568295436987,"Summer",36135
+5,-117.977924,46.321167,NA,1976,"Falco sparverius","Falco_sparverius",112.7,NA,NA,10.2,351,7.18413129224699,54.1959016689323,"Spring",36136
+6,-119.754521,46.204651,NA,1982,"Falco sparverius","Falco_sparverius",102.9,NA,"female",10.3,263,8.38087198037979,63.6395041744446,"Summer",36137
+12,-117.16389,46.730622,NA,1985,"Falco sparverius","Falco_sparverius",63.5,NA,"male",6.5,398,9.77626609641323,50.7990717528705,"Winter",36138
+4,-117.180394,46.684027,NA,1990,"Falco sparverius","Falco_sparverius",115.6,NA,"male",9.1,585,8.19761606144793,59.5719136099447,"Spring",36139
+8,-117.179435,46.630019,"Ad",1954,"Falco sparverius","Falco_sparverius",107,258,"male",8.1,513,6.61504254550096,41.727287813797,"Summer",36140
+1,-117.16389,46.730622,NA,1996,"Falco sparverius","Falco_sparverius",83.4,NA,"male",8.2,774,7.91608929314025,71.5732167831782,"Winter",36141
+5,-76.5095,42.4381,NA,1931,"Falco sparverius sparverius","Falco_sparverius",197,272,"female",10.6,734,9.79039031010728,45.7361463765925,"Spring",36142
+1,-76.5095,42.4381,"ad.",1938,"Falco sparverius sparverius","Falco_sparverius",131.600006103516,NA,"male",9.9,785,9.4059781119469,50.7312382008264,"Winter",36143
+7,-101.176396,44.68895,NA,1955,"Falco sparverius","Falco_sparverius",125.800003051758,NA,"female",7.8,323,13.5291492263142,92.0281452786052,"Summer",36144
+8,-76.384381,42.458128,"imm.",2003,"Falco sparverius","Falco_sparverius",99.5999984741211,265,"male",6.8,1178,10.3070548066787,36.1380887260781,"Summer",36145
+7,-104.982224,40.550553,"immature",2011,"Falco sparverius","Falco_sparverius",96.7,256,"male",9.1,423,9.87606150796414,74.7133512755964,"Summer",36148
+7,-104.81972,41.14,"immature",2011,"Falco sparverius","Falco_sparverius",60.3,202,"male",7.4,486,9.35807462067174,91.6366667079534,"Summer",36149
+5,-105.049961,40.334604,"adul",2011,"Falco sparverius","Falco_sparverius",110,254,"female",9.3,421,9.75584906141392,67.6317189400895,"Spring",36150
+7,-103.80594,40.259732,"immature",2011,"Falco sparverius","Falco_sparverius",65.3,259,"male",9.5,380,10.5572465418524,89.3145244850372,"Summer",36151
+7,-104.925618,40.62985,"immature",2011,"Falco sparverius","Falco_sparverius",71.4,206,"male",8.6,450,9.70333822595465,81.4772695574996,"Summer",36152
+12,-105.080786,40.87656,"adult",2011,"Falco sparverius","Falco_sparverius",96.7,271,"male",7.8,509,9.42933848381869,96.9574055159488,"Winter",36153
+7,-104.892349,40.466839,"immature",2011,"Falco sparverius","Falco_sparverius",44.6,112,"male",9.4,380,10.0506746343746,73.4209515399826,"Summer",36154
+11,-105.07724,40.392387,"adult",2011,"Falco sparverius","Falco_sparverius",80,272,"male",9.2,428,9.73349029553805,66.6315875492509,"Fall",36155
+5,-104.762308,40.396314,"adult",2012,"Falco sparverius","Falco_sparverius",119.8,270,"female",11.2,220,9.57200780052614,79.0894841706922,"Spring",36156
+10,-105.117613,40.378494,"adult",2012,"Falco sparverius","Falco_sparverius",94.5,279,"female",10.9,237,9.27414130632572,75.7534873358446,"Fall",36157
+7,-104.985786,40.468198,"immature",2012,"Falco sparverius","Falco_sparverius",74.3,234,"male",11,224,9.44538928725962,79.4689444456961,"Summer",36158
+4,-104.58718,40.479379,"adult",2013,"Falco sparverius","Falco_sparverius",97.2,286,"female",9.4,300,10.4046318356953,75.703010379331,"Spring",36159
+4,-104.731492,40.58241,"adult",2013,"Falco sparverius","Falco_sparverius",85.2,256,"male",9.1,310,10.2023021763213,79.3798687368838,"Spring",36160
+4,-104.99975,40.718996,"adult",2013,"Falco sparverius","Falco_sparverius",60,264,"female",8.3,367,9.88290151849356,84.8701176308879,"Spring",36161
+9,-104.82992,40.261115,"adult",2012,"Falco sparverius","Falco_sparverius",120,265,"female",11.4,209,9.65245690186826,75.6366181032009,"Fall",36162
+7,-105.000936,40.621688,"Immature",2013,"Falco sparverius","Falco_sparverius",81.7,193,"female",8.7,368,9.99093528548693,84.9344945370346,"Summer",36163
+7,-104.980207,40.594014,"immature",2013,"Falco sparverius","Falco_sparverius",62.5,203,"male",8.7,360,10.0371884268032,82.3206105324592,"Summer",36164
+4,-105.911376,40.11573,"adult",2013,"Falco sparverius","Falco_sparverius",111.4,251,"male",2.1,389,10.190767509086,59.6209605756706,"Spring",36165
+12,-105.093233,39.751215,"adult",2011,"Falco sparverius","Falco_sparverius",85.1,280,"female",10.6,469,9.26500012265123,58.0569362259515,"Winter",36166
+7,-105.047153,40.57371,NA,2013,"Falco sparverius","Falco_sparverius",85,208,"male",8.8,364,10.0226410358415,84.2161362100038,"Summer",36167
+8,-104.699906,40.305127,"adult",1993,"Falco sparverius","Falco_sparverius",122.5,260,"male",8.7,379,9.62391276818826,53.0233804088898,"Summer",36170
+6,-105.137936,40.699898,NA,1986,"Falco sparverius","Falco_sparverius",91.4,245,"male",9.3,328,7.96839875934173,61.3447804510183,"Summer",36171
+7,-105.153602,39.638672,"adult",1996,"Falco sparverius","Falco_sparverius",107.1,262,"male",9.9,422,8.30754950559302,71.0521225854414,"Summer",36172
+5,-104.9841666667,39.7391666667,"adult",1997,"Falco sparverius","Falco_sparverius",88.9,270,"female",9.8,548,9.2056636058593,68.4303323295997,"Spring",36173
+6,-105.020247,39.899572,"adult",1998,"Falco sparverius","Falco_sparverius",97.9,264,"male",10.4,386,8.73430627242977,85.776943932846,"Summer",36174
+9,-102.744339,37.021722,NA,1995,"Falco sparverius","Falco_sparverius",110,NA,"female",12.9,348,8.3000912736858,101.974468830565,"Fall",36175
+4,-108.492259,37.271179,"Immature",2004,"Falco sparverius","Falco_sparverius",118.2,265,"male",8.5,555,8.18016818379375,82.5786314537603,"Spring",36176
+8,-106.0914212061,38.8125317589,NA,2005,"Falco sparverius","Falco_sparverius",77.7,238,"male",6.5,251,8.05552699402809,60.0508875114189,"Summer",36177
+4,-106.6666037769,41.2076319877,NA,1992,"Falco sparverius","Falco_sparverius",52.7,253,"male",5.2,385,8.67802431781601,48.1850799406388,"Spring",36178
+7,-105.137917,40.629122,"Adult",2012,"Falco sparverius","Falco_sparverius",99.9,272,"male",10.5,252,9.29475251109056,89.4294245277717,"Summer",36179
+6,-105.086628,40.359727,"Adult",2011,"Falco sparverius","Falco_sparverius",95.3,272,"female",9.2,432,9.69829725761021,68.0225270164577,"Summer",36180
+7,-104.759956,40.625724,"immature",2011,"Falco sparverius","Falco_sparverius",66.6,529,"female",9,408,9.96428470573627,85.438577107273,"Summer",36181
+7,-105.211782,40.473611,"adult",2011,"Falco sparverius","Falco_sparverius",103.4,256,"female",8.5,508,9.41800339131325,75.2344975405233,"Summer",36182
+9,-104.982342,40.53026,"adult",2012,"Falco sparverius","Falco_sparverius",112.8,258,"female",10.9,223,9.52327292860639,80.2582396652074,"Fall",36188
+8,-106.2486369,41.3630462,NA,1946,"Falco sparverius sparverius","Falco_sparverius",110,NA,"male",-0.6,798,8.02286505161115,54.558975596888,"Summer",36189
+7,-102.0074452,38.0115142,NA,1963,"Falco sparverius sparverius","Falco_sparverius",100.5,NA,"female",13.3,286,11.4721368647007,96.8731690651687,"Summer",36190
+8,-113.307972,46.395811,NA,1964,"Falco sparverius sparverius","Falco_sparverius",100.9,NA,"male",3.7,432,8.28657183202274,82.1635061985657,"Summer",36191
+8,-112.0341374,43.4665809,NA,1964,"Falco sparverius sparverius","Falco_sparverius",103.9,NA,"male",5.2,289,10.672745663605,82.0945140812958,"Summer",36192
+8,-107.50201,44.636408,NA,1964,"Falco sparverius sparverius","Falco_sparverius",112.9,NA,"female",-0.5,827,8.31841695312639,82.5219709808472,"Summer",36193
+1,-95.2426529,38.9598045,NA,1962,"Falco sparverius sparverius","Falco_sparverius",98.9,NA,"male",12.2,913,10.888178187485,67.0410366238197,"Winter",36194
+3,-101.7459297,37.9649068,NA,1950,"Falco sparverius sparverius","Falco_sparverius",129,NA,"female",12.5,319,9.33273807625608,119.275298789378,"Spring",36195
+6,-95.6862445,39.0370273,NA,1994,"Falco sparverius","Falco_sparverius",114,NA,"male",12.9,765,9.97059312542274,70.4528179071646,"Summer",36196
+12,-95.2598661,38.9549568,NA,1995,"Falco sparverius sparverius","Falco_sparverius",123.5,NA,"female",13,991,9.80922185157076,98.5360153692598,"Winter",36197
+2,-95.2426529,38.9598045,NA,1998,"Falco sparverius sparverius","Falco_sparverius",130,NA,"male",14,1229,9.79379441743133,69.6444056598667,"Winter",36198
+2,-95.6862445,39.0370273,NA,2003,"Falco sparverius","Falco_sparverius",118,NA,"male",13,769,10.2490206479656,74.8653955214219,"Winter",36199
+2,-97.2275811,37.3875217,"adult",1956,"Falco sparverius","Falco_sparverius",159.9,NA,"female",15.4,403,10.7937236251893,59.2882663357947,"Winter",36200
+1,-110.96796,32.17402,"adult",1968,"Falco sparverius sparverius","Falco_sparverius",99.7,NA,"male",19.6,273,7.07053210461732,100.20234000066,"Winter",36201
+12,-111.032303,32.337329,"immature",1970,"Falco sparverius sparverius","Falco_sparverius",110,NA,"female",19.6,269,7.73678736866141,108.494441198818,"Winter",36202
+4,-97.1572495,37.3887086,"immature",1995,"Falco sparverius","Falco_sparverius",127,NA,"undetermined",14.3,955,9.21765433910122,89.8685055741531,"Spring",36203
+12,-118.3883286,33.9968887,NA,1989,"Falco sparverius sparverius","Falco_sparverius",80,NA,"male",17.3,102,2.81784088846891,119.187772320725,"Winter",36204
+6,-118.7354278,34.0347371,NA,2000,"Falco sparverius sparverius","Falco_sparverius",70,NA,"undetermined",15.5,297,2.27814052297575,180.076461341721,"Summer",36205
+6,-118.1549,33.9651,"juvenile",1982,"Falco sparverius sparverius","Falco_sparverius",62,NA,"male",17.7,363,3.83239777779822,108.127016865099,"Summer",36206
+9,-110.926445,32.2217751,NA,1981,"Falco sparverius sparverius","Falco_sparverius",57.5,NA,"male",20.5,236,7.05671826894575,78.8421340912787,"Fall",36207
+2,-119.018911,35.373405,NA,1997,"Falco sparverius sparverius","Falco_sparverius",97,NA,"male",17.8,143,7.03374442285619,137.960212176956,"Winter",36208
+3,-118.5106506,32.9169846,NA,2002,"Falco sparverius sparverius","Falco_sparverius",81,NA,"male",15.2,223,2.86180436830057,148.625427249956,"Spring",36209
+3,-116.9666667,33.7333333,NA,1982,"Falco sparverius","Falco_sparverius",98,NA,"female",16.2,420,5.85395489210396,88.7277239376079,"Spring",36210
+9,-117.7614212,33.5468314,NA,1986,"Falco sparverius sparverius","Falco_sparverius",82,NA,"male",17.6,362,2.64751169625711,136.873517774714,"Fall",36211
+8,-120.4343987,41.9165554,NA,1992,"Falco sparverius sparverius","Falco_sparverius",105,NA,"undetermined",9.4,337,7.70104282588148,78.0012984001763,"Summer",36212
+6,-118.243103,34.0390047,NA,2002,"Falco sparverius sparverius","Falco_sparverius",86,NA,"male",16,178,2.78452161170651,148.510313645182,"Summer",36213
+7,-118.0333,34.133,NA,1980,"Falco sparverius sparverius","Falco_sparverius",115.2,NA,"female",18.7,721,3.81027319469114,173.515622345373,"Summer",36214
+3,-117.9,33.7333333,NA,1982,"Falco sparverius sparverius","Falco_sparverius",96.5,NA,"female",16.8,338,3.69802363268257,111.102725587772,"Spring",36215
+3,-118.301651,34.0320587,NA,1998,"Falco sparverius sparverius","Falco_sparverius",115,NA,"female",15.6,557,3.29888640531188,185.44682078573,"Spring",36216
+2,-117.9672431,33.7744386,NA,2003,"Falco sparverius sparverius","Falco_sparverius",104,NA,"female",16.2,295,2.95681032072185,146.708893752232,"Winter",36217
+6,-117.7641561,33.6662353,NA,1982,"Falco sparverius sparverius","Falco_sparverius",88,NA,"male",16.7,350,4.11479223673749,111.980707324622,"Summer",36218
+5,-117.9846239,37.3729538,NA,1999,"Falco sparverius sparverius","Falco_sparverius",108,NA,"female",12,103,7.88073985143911,88.2335349237877,"Spring",36219
+9,-118.2940292,37.1661072,NA,2004,"Falco sparverius sparverius","Falco_sparverius",96,NA,"female",15,197,8.04545326142773,140.509228006342,"Fall",36220
+5,-119.7657332,38.9540739,NA,2002,"Falco sparverius sparverius","Falco_sparverius",104.7,NA,"female",11.2,208,7.90391157477221,110.264740778426,"Spring",36221
+1,-118.301651,34.0320587,NA,1995,"Falco sparverius sparverius","Falco_sparverius",85,NA,"female",17.5,617,3.19156084166675,191.457191750775,"Winter",36222
+12,-118.2967341,33.8108199,NA,2001,"Falco sparverius sparverius","Falco_sparverius",95,NA,"female",15.5,428,3.05237115976575,146.568430862176,"Winter",36223
+10,-118.3531303,33.9618211,NA,2001,"Falco sparverius sparverius","Falco_sparverius",93.8,NA,"male",15.2,413,2.81952069857573,144.868258173852,"Fall",36224
+1,-118.301651,34.0320587,NA,1994,"Falco sparverius sparverius","Falco_sparverius",110,NA,"female",17.3,233,3.5808412757932,144.0634875553,"Winter",36225
+9,-119.1793213,34.1867027,NA,1982,"Falco sparverius sparverius","Falco_sparverius",88,NA,"female",14.8,416,2.80652648465873,118.380713474317,"Fall",36226
+6,-118.4833333,34.1666667,NA,1987,"Falco sparverius sparverius","Falco_sparverius",93,NA,"female",18.3,254,4.6396185841145,100.512683888765,"Summer",36227
+9,-117.7641561,33.6662353,NA,1982,"Falco sparverius sparverius","Falco_sparverius",91.5,NA,"male",16.7,350,4.11479223673749,111.980707324622,"Fall",36228
+7,-118.9841651,37.6310909,NA,2003,"Falco sparverius sparverius","Falco_sparverius",67,NA,"male",6.3,651,7.06160660747877,115.048403099166,"Summer",36229
+1,-117.7641561,33.6662353,NA,1982,"Falco sparverius sparverius","Falco_sparverius",65,NA,"male",16.7,350,4.11479223673749,111.980707324622,"Winter",36230
+6,-117.8152008,33.6631355,"immature",1985,"Falco sparverius sparverius","Falco_sparverius",61,NA,"male",17.2,154,4.00465638067397,149.511232390706,"Summer",36231
+1,-119.1793213,34.1867027,NA,1983,"Falco sparverius sparverius","Falco_sparverius",106,NA,"male",16.1,774,2.96612184306019,102.124121089097,"Winter",36232
+5,-112.0740051,33.4483414,NA,1982,"Falco sparverius sparverius","Falco_sparverius",63,NA,"male",21.1,276,7.89304930129841,82.5876788385802,"Spring",36233
+1,-118.6162796,34.162014,NA,1990,"Falco sparverius sparverius","Falco_sparverius",101,NA,"male",18.7,199,5.08828124818254,159.656449347284,"Winter",36234
+11,-118.3349152,33.8320503,NA,2000,"Falco sparverius sparverius","Falco_sparverius",80,NA,"male",16,241,2.58749908505327,150.855881473767,"Fall",36235
+10,-118.0298691,34.0689316,NA,1994,"Falco sparverius sparverius","Falco_sparverius",76,NA,"male",18.6,276,4.57801068349363,135.170931102904,"Fall",36236
+2,-117.7804756,33.7974088,NA,1986,"Falco sparverius sparverius","Falco_sparverius",74.5,NA,"male",18.1,373,3.28933077839505,152.224905380762,"Winter",36237
+8,-117.7641561,33.6662353,"juvenile",1982,"Falco sparverius sparverius","Falco_sparverius",83.5,NA,"female",16.7,350,4.11479223673749,111.980707324622,"Summer",36238
+6,-117.0375532,36.0943947,NA,1967,"Falco sparverius sparverius","Falco_sparverius",99.8,NA,"male",13.8,174,8.34117207082743,134.046391321453,"Summer",36239
+8,-119.227684,38.2558212,NA,2004,"Falco sparverius sparverius","Falco_sparverius",77,NA,"male",8.2,204,7.77669400818688,100.861342349896,"Summer",36240
+2,-116.9717789,33.7410426,NA,1998,"Falco sparverius sparverius","Falco_sparverius",102,NA,"female",16.3,403,5.6650978220445,148.327181262724,"Winter",36241
+4,-119.1793213,34.1867027,NA,1982,"Falco sparverius sparverius","Falco_sparverius",113,NA,"female",14.8,416,2.80652648465873,118.380713474317,"Spring",36242
+12,-118.2218726,33.9450115,NA,2001,"Falco sparverius sparverius","Falco_sparverius",95,NA,"female",15.8,423,3.24862441751283,147.218774700332,"Winter",36243
+1,-118.394165,33.7854251,NA,1998,"Falco sparverius sparverius","Falco_sparverius",102,NA,"female",15.2,592,2.78317455544215,180.481652992403,"Winter",36244
+7,-112.0740051,33.4483414,NA,1982,"Falco sparverius sparverius","Falco_sparverius",62,NA,"male",21.1,276,7.89304930129841,82.5876788385802,"Summer",36245
+7,-119.0342812,34.2220475,NA,2004,"Falco sparverius sparverius","Falco_sparverius",66,NA,"male",15.4,343,2.84775296851693,176.833371091367,"Summer",36246
+2,-117.7641561,33.6662353,NA,1983,"Falco sparverius sparverius","Falco_sparverius",87,NA,"male",18,617,4.38871659296124,108.716458573886,"Winter",36247
+7,-118.7354278,34.0347371,NA,2002,"Falco sparverius sparverius","Falco_sparverius",66.1,NA,"male",15.2,208,2.1537845479035,166.143162049655,"Summer",36248
+1,-117.7641561,33.6662353,NA,1982,"Falco sparverius sparverius","Falco_sparverius",100,NA,"female",16.7,350,4.11479223673749,111.980707324622,"Winter",36249
+1,-118.2014084,34.2107048,NA,1983,"Falco sparverius sparverius","Falco_sparverius",110,NA,"female",17.7,1176,4.75365090953227,97.4697564898072,"Winter",36250
+6,-114.7594833,42.5991058,NA,2001,"Falco sparverius sparverius","Falco_sparverius",97,NA,"male",10.2,192,9.79413863058674,73.2066696198534,"Summer",36251
+12,-106.6442871,35.1648275,NA,2006,"Falco sparverius","Falco_sparverius",77.4,NA,"male",13.7,252,8.35871437845594,125.09078312442,"Winter",36252
+9,-119.7886632,34.0144997,"u ad.",1948,"Falco sparverius sparverius","Falco_sparverius",120,NA,"female",12.4,354,2.82692680335292,136.894452961892,"Fall",36253
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Falco sparverius sparverius","Falco_sparverius",91.7,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",36254
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Falco sparverius sparverius","Falco_sparverius",87.8,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",36255
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Falco sparverius sparverius","Falco_sparverius",95.9,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",36256
+3,-105.11826,30.96872,"u ad.",1950,"Falco sparverius sparverius","Falco_sparverius",100.5,NA,"male",15.3,276,6.25301745341617,135.170931102904,"Spring",36257
+4,-91.7391666666,16.0944444444,"u ad.",1950,"Falco sparverius tropicalis","Falco_sparverius",105,NA,"female",18.6,1513,1.00856183236179,70.3160107863977,"Spring",36258
+6,-100.581088,23.366591,"u ad.",1958,"Falco sparverius sparverius","Falco_sparverius",116,NA,"male",19.8,410,4.27675181190189,79.6596930330114,"Summer",36259
+6,-106.770421,29.485097,"u ad.",1959,"Falco sparverius sparverius","Falco_sparverius",115,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",36260
+6,-122.3080531,37.9663868,"u ad.",1973,"Falco sparverius sparverius","Falco_sparverius",101,NA,"male",14.2,868,3.47235838116873,131.59522928086,"Summer",36261
+3,-122.1754448,37.8718423,"ad.",1975,"Falco sparverius sparverius","Falco_sparverius",111,NA,"male",13.4,590,4.19639094576482,131.462663532496,"Spring",36262
+12,-121.6321701,39.0547261,"u ad.",1973,"Falco sparverius sparverius","Falco_sparverius",114,NA,"male",16.5,829,6.85129383932169,119.197172917657,"Winter",36263
+9,-121.8047,38.005,"adult",1999,"Falco sparverius sparverius","Falco_sparverius",66,NA,"male",14.7,280,5.35655927557301,132.084450073598,"Fall",36264
+8,-122.2954,37.9724,"adult",1999,"Falco sparverius sparverius","Falco_sparverius",83.5,NA,"female",13.6,491,3.58078838449656,125.360164314625,"Summer",36265
+12,-121.7284,37.9334,"adult",1999,"Falco sparverius sparverius","Falco_sparverius",100,NA,"female",14.8,264,5.43715472606321,131.668481539068,"Winter",36266
+1,-121.9885,37.899,"adult",1999,"Falco sparverius sparverius","Falco_sparverius",103.7,NA,"male",14,394,4.71352020545926,129.607375079635,"Winter",36267
+5,-121.95284,37.81069,"nestling",2000,"Falco sparverius sparverius","Falco_sparverius",82.6,NA,"female",14.8,554,4.44140299973563,135.558256501663,"Spring",36268
+7,-121.763498,37.740873,"skull ossified",2003,"Falco sparverius sparverius","Falco_sparverius",85.9,NA,"male",15.3,349,5.17952700543206,115.168361019243,"Summer",36269
+5,-121.701736,38.105251,"nestling",2004,"Falco sparverius sparverius","Falco_sparverius",80.6,NA,"undetermined",15.9,438,5.60994787422443,119.072788812828,"Spring",36270
+5,-121.942349,38.027887,"adult",2004,"Falco sparverius sparverius","Falco_sparverius",99.2,NA,"male",15.8,461,5.30393650265936,121.285665249581,"Spring",36271
+5,-121.930598,38.013929,"nestling",2004,"Falco sparverius sparverius","Falco_sparverius",83.1,NA,"female",15.6,478,5.21646577210233,120.866856316133,"Spring",36272
+7,-122.048401,37.987337,"adult",2004,"Falco sparverius sparverius","Falco_sparverius",82.9,NA,"female",16,446,5.13109947459429,123.951423644276,"Summer",36273
+11,-121.752026,37.964481,"adult",2004,"Falco sparverius sparverius","Falco_sparverius",98,NA,"male",16,361,5.59514806043431,116.73158367067,"Fall",36274
+3,-122.109293,37.949985,"adult",2004,"Falco sparverius sparverius","Falco_sparverius",99.5,NA,"male",15.3,579,4.72827568031845,126.916951578659,"Spring",36275
+5,-121.92227,37.940923,"fledgling",2004,"Falco sparverius sparverius","Falco_sparverius",87.2,NA,"female",15.2,527,5.01799036196038,121.740605140206,"Spring",36276
+7,-121.72822,37.9402,"adult",2004,"Falco sparverius sparverius","Falco_sparverius",96,NA,"male",16.1,359,5.68586764786966,115.953502704319,"Summer",36277
+3,-122.022863,37.865183,"adult",2004,"Falco sparverius sparverius","Falco_sparverius",83.5,NA,"female",15.4,534,4.81042901129694,126.573991143686,"Spring",36278
+5,-121.875108,37.991174,"fledgling",2004,"Falco sparverius sparverius","Falco_sparverius",82.9,NA,"male",15.5,476,5.3556823405924,119.993515947848,"Spring",36279
+8,-121.8665,37.7334,"immature",2004,"Falco sparverius sparverius","Falco_sparverius",72.2,NA,"male",15.6,515,4.9975372722851,120.020864237419,"Summer",36280
+5,-121.8755641,37.6944481,"fledgling",2004,"Falco sparverius sparverius","Falco_sparverius",79.8,NA,"female",15.9,452,5.14213138217171,120.035307601627,"Spring",36281
+1,-120.43822,37.52078,"u ad.",1915,"Falco sparverius sparverius","Falco_sparverius",113.9,NA,"male",16.6,353,6.44614049433669,121.944960269831,"Winter",36282
+6,-118.959868,37.887635,"u ad.",1916,"Falco sparverius sparverius","Falco_sparverius",101.2,NA,"male",5.5,516,7.89443129392773,134.832679706332,"Summer",36283
+1,-123.2608,44.5647,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",105.5,NA,"male",10.9,1021,5.94754851458425,114.76992604631,"Winter",36284
+4,-123.2608,44.5647,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",103.3,NA,"male",10.9,1021,5.94754851458425,114.76992604631,"Spring",36285
+4,-123.2608,44.5647,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",107,NA,"female",10.9,1021,5.94754851458425,114.76992604631,"Spring",36286
+4,-116.865597,36.456792,"u ad.",1917,"Falco sparverius sparverius","Falco_sparverius",106.5,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",36287
+7,-118.197539,37.47946,"imm.",1917,"Falco sparverius sparverius","Falco_sparverius",100.8,NA,"female",1.7,185,8.11128562839791,165.534332988159,"Summer",36288
+8,-118.216609,37.590582,"imm.",1919,"Falco sparverius sparverius","Falco_sparverius",93.6,NA,"male",-1.2,337,7.44169254126962,126.501408470583,"Summer",36289
+9,-120.839609,35.38855,"u ad.",1918,"Falco sparverius sparverius","Falco_sparverius",126.3,NA,"female",12.5,466,2.40919954014657,149.718371068161,"Fall",36290
+9,-120.868149,35.405698,"u ad.",1918,"Falco sparverius sparverius","Falco_sparverius",105.4,NA,"female",12.4,450,2.33608063372665,149.728089111073,"Fall",36291
+9,-120.756879,35.337058,"u ad.",1918,"Falco sparverius sparverius","Falco_sparverius",128.3,NA,"female",13,517,2.87985426819841,152.1052923136,"Fall",36292
+9,-120.741589,35.33321,"u ad.",1918,"Falco sparverius sparverius","Falco_sparverius",130,NA,"female",13.1,547,3.05647598625369,152.618241715332,"Fall",36293
+9,-120.741589,35.33321,"u ad.",1918,"Falco sparverius sparverius","Falco_sparverius",119.4,NA,"female",13.1,547,3.05647598625369,152.618241715332,"Fall",36294
+11,-121.021143,36.136932,"u ad.",1918,"Falco sparverius sparverius","Falco_sparverius",106.4,NA,"male",14.3,354,4.76237622124998,145.058678878895,"Fall",36295
+1,-121.835607,36.60922,"u ad.",1919,"Falco sparverius sparverius","Falco_sparverius",110,NA,"female",11.7,339,1.95393929994736,149.535305151252,"Winter",36296
+4,-116.865597,36.456792,"u ad.",1920,"Falco sparverius sparverius","Falco_sparverius",82.5,NA,"female",21.9,51,10.12934530775,114.471914711275,"Spring",36297
+7,-120.11166,37.75634,"juv.",1920,"Falco sparverius sparverius","Falco_sparverius",70.5,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",36298
+7,-120.11166,37.75634,"ad.",1920,"Falco sparverius sparverius","Falco_sparverius",102.8,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",36299
+5,-127.6667,55.25,"u ad.",1921,"Falco sparverius sparverius","Falco_sparverius",165.8,NA,"female",4.1,528,9.01276871998833,42.8930178884019,"Spring",36300
+10,-115.7333333333,30.9666666667,"u ad.",1925,"Falco sparverius sparverius","Falco_sparverius",98,NA,"male",16,268,4.08169416697617,123.676529282106,"Fall",36301
+5,-115.458333,30.883333,"u ad.",1925,"Falco sparverius sparverius","Falco_sparverius",74,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",36302
+5,-115.7333333333,30.9666666667,"imm.",1926,"Falco sparverius sparverius","Falco_sparverius",97.2,NA,"male",16.4,307,4.29873131389843,135.563101091426,"Spring",36303
+12,-122.2347225,40.0929487,"u ad.",1927,"Falco sparverius sparverius","Falco_sparverius",153.5,NA,"female",17.2,653,7.39512533956516,101.847259349563,"Winter",36304
+12,-117.111769,32.460771,"u ad.",1927,"Falco sparverius sparverius","Falco_sparverius",100,NA,"male",16.5,463,3.17846684978018,138.467360163425,"Winter",36305
+1,-116.736859,32.39092,"u ad.",1928,"Falco sparverius sparverius","Falco_sparverius",109.5,NA,"female",16.8,212,3.95523243771635,107.166852477321,"Winter",36306
+4,-122.1615073,40.1161018,"u ad.",1928,"Falco sparverius sparverius","Falco_sparverius",86.5,NA,"male",17.4,472,7.75165182787553,113.468144533082,"Spring",36307
+7,-120.25399,40.8995,"u ad.",1928,"Falco sparverius sparverius","Falco_sparverius",115.2,NA,"female",8.9,224,7.41968614054816,124.571552066878,"Summer",36308
+7,-118.08361,37.67833,"u ad.",1928,"Falco sparverius sparverius","Falco_sparverius",113,NA,"female ?",10.9,37,8.67848262117639,164.82402878027,"Summer",36309
+7,-118.08361,37.67833,"u ad.",1928,"Falco sparverius sparverius","Falco_sparverius",87,NA,"female",10.9,37,8.67848262117639,164.82402878027,"Summer",36310
+10,-110.2167,23.45,"u ad.",1928,"Falco sparverius peninsularis","Falco_sparverius",83.2,NA,"female",22.2,164,3.36140077222505,130.878889965229,"Fall",36311
+4,-109.6833,23.05,"u ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",98.2,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",36312
+5,-123.4644508,40.4048454,"u ad.",1932,"Falco sparverius sparverius","Falco_sparverius",109,NA,"female",11.2,1031,7.06169243170502,104.669249158388,"Spring",36313
+5,-123.3052,40.2337238,"u ad.",1933,"Falco sparverius sparverius","Falco_sparverius",80.6,NA,"male",10.6,1441,6.87685512161165,127.945322087102,"Spring",36314
+7,-116.96204,38.69795,"u ad.",1933,"Falco sparverius sparverius","Falco_sparverius",94,NA,"female",3.8,340,8.84393303429823,103.919033833107,"Summer",36315
+12,-118.21,35.37,"ad.",1933,"Falco sparverius sparverius","Falco_sparverius",109.5,NA,"male",13.3,200,8.08130558758917,160.922341519132,"Winter",36316
+1,-114.5815,32.7698,"ad.",1934,"Falco sparverius sparverius","Falco_sparverius",122.08,NA,"female",24.2,62,6.92590110098362,121.246014244209,"Winter",36317
+1,-114.582295,32.781595,"u ad.",1934,"Falco sparverius sparverius","Falco_sparverius",104.93,NA,"female",24.2,62,6.93062483518338,121.246014244209,"Winter",36318
+4,-120.6800042,38.1976503,"u ad.",1936,"Falco sparverius sparverius","Falco_sparverius",141.3,NA,"female ?",16.7,921,6.94033009432418,145.430380059671,"Spring",36319
+4,-120.6800042,38.1976503,"u ad.",1936,"Falco sparverius sparverius","Falco_sparverius",145.7,NA,"female",16.7,921,6.94033009432418,145.430380059671,"Spring",36320
+12,-115.4358336,35.186457,"ad.",1937,"Falco sparverius sparverius","Falco_sparverius",108.1,NA,"male",13.7,133,8.80228534374609,118.973824217707,"Winter",36321
+1,-115.4971,35.2926,"u ad.",1938,"Falco sparverius sparverius","Falco_sparverius",104.2,NA,"male",14.4,209,8.15220271404662,139.045246970219,"Winter",36322
+1,-115.4971,35.2926,"u ad.",1938,"Falco sparverius sparverius","Falco_sparverius",110.7,NA,"male",14.4,209,8.15220271404662,139.045246970219,"Winter",36323
+6,-120.8904,44.259,"u ad.",1938,"Falco sparverius sparverius","Falco_sparverius",95.7,NA,"male",8.3,230,7.12823557580994,52.944784510839,"Summer",36324
+6,-120.8904,44.259,"u ad.",1938,"Falco sparverius sparverius","Falco_sparverius",83.1,NA,"male",8.3,230,7.12823557580994,52.944784510839,"Summer",36325
+6,-120.9544,44.4383,"u ad.",1938,"Falco sparverius sparverius","Falco_sparverius",93.1,NA,"female",7.1,360,7.35198901143374,59.0537256981254,"Summer",36326
+5,-115.4358336,35.186457,"u ad.",1938,"Falco sparverius sparverius","Falco_sparverius",117.2,NA,"female",13.2,247,7.75392373791059,133.70390113739,"Spring",36327
+8,-111.106,44.1296,"ad.",1939,"Falco sparverius sparverius","Falco_sparverius",123,NA,"female",4.3,639,9.28354686659374,67.6867962566796,"Summer",36328
+5,-114.0872,46.7548,"u ad.",1940,"Falco sparverius sparverius","Falco_sparverius",142,NA,"female",8.5,282,9.49634698505726,54.3760614923966,"Spring",36329
+6,-106.7813,46.268,"u ad.",1940,"Falco sparverius sparverius","Falco_sparverius",117.8,NA,"female",8.3,314,12.0339765210462,84.4856629974161,"Summer",36330
+6,-106.2394,45.3018,"u ad.",1940,"Falco sparverius sparverius","Falco_sparverius",104,NA,"male",7.8,445,11.6803220949777,72.5812653346876,"Summer",36331
+6,-118.403201,37.12681,"u ad.",1942,"Falco sparverius sparverius","Falco_sparverius",107.3,NA,"female",6.4,164,7.09812181730726,107.009233949972,"Summer",36332
+6,-118.315237,37.149547,"u ad.",1942,"Falco sparverius sparverius","Falco_sparverius",88.8,NA,"male",13.3,81,8.11860937487561,108.623419341519,"Summer",36333
+6,-118.566964,37.876794,"u ad.",1942,"Falco sparverius sparverius","Falco_sparverius",91.5,NA,"male",7.9,115,7.86052662280835,66.7743217428091,"Summer",36334
+8,-123.4568,40.45807,"u ad.",1942,"Falco sparverius sparverius","Falco_sparverius",107.5,NA,"female",10.2,2118,6.39962120091115,99.0391196236951,"Summer",36335
+1,-120.54143,40.50179,"u ad.",1943,"Falco sparverius sparverius","Falco_sparverius",134,NA,"male",8.5,479,7.14632242782428,120.783427520651,"Winter",36336
+7,-119.322873,38.436872,"u ad.",1946,"Falco sparverius sparverius","Falco_sparverius",94.8,NA,"male",-0.1,875,6.45818132763443,138.652419229058,"Summer",36337
+6,-106.1985,45.3019,"u ad.",1947,"Falco sparverius sparverius","Falco_sparverius",130.8,NA,"female",6.8,423,10.6045551961924,93.2076166137476,"Summer",36338
+10,-79.71593,43.46917,"not applicable",1967,"Falco sparverius sparverius","Falco_sparverius",95.8,256,"undetermined",7.2,824,9.68677245557366,45.9845481427537,"Fall",36339
+4,-82.73856,42.03748,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",103,NA,"male",9.5,954,10.0772019926168,40.0393535650996,"Spring",36340
+8,-94.56915,48.72362,"not applicable",1929,"Falco sparverius sparverius","Falco_sparverius",114,261,"female",1.9,355,14.4086122184132,45.1910240663824,"Summer",36341
+1,-79.824195,43.076348,"adult",2005,"Falco sparverius sparverius","Falco_sparverius",87.2,NA,"male",8.6,859,10.7173040481553,33.5562280888761,"Winter",36342
+1,-79.98717,43.144083,"not applicable",1969,"Falco sparverius sparverius","Falco_sparverius",84.3,268,"male",7.8,815,9.93937303674816,47.7293874875906,"Winter",36343
+3,-79.88859,43.76343,"not applicable",1971,"Falco sparverius sparverius","Falco_sparverius",123.5,258,"male",6.9,771,10.3700143186833,44.9744622736337,"Spring",36344
+1,-79.71593,43.46917,"not applicable",1970,"Falco sparverius sparverius","Falco_sparverius",86.7,265,"female",7.7,811,10.873915828925,31.4528346230628,"Winter",36345
+7,-79.46879,43.99938,"immature",2006,"Falco sparverius sparverius","Falco_sparverius",96.7,NA,"male",8.5,897,9.02717698078554,33.7432715414736,"Summer",36346
+12,-79.7886,43.74331,"not applicable",1974,"Falco sparverius sparverius","Falco_sparverius",127.1,NA,"female",6.9,830,9.59236991603538,47.388648879851,"Winter",36347
+1,-79.63447,43.60016,"adult",1977,"Falco sparverius sparverius","Falco_sparverius",100.6,NA,"male",7.6,945,10.6002965939066,42.7725100966007,"Winter",36348
+6,-79.372722,43.73418,"immature",1980,"Falco sparverius sparverius","Falco_sparverius",81.5,233,"male",6.8,855,10.6367715539495,46.4224763229504,"Summer",36349
+9,-79.395348,43.663612,"adult",1984,"Falco sparverius sparverius","Falco_sparverius",112.2,NA,"male",7.9,746,9.95392415385038,31.7474665459327,"Fall",36350
+6,-79.71593,43.46917,"adult",1983,"Falco sparverius sparverius","Falco_sparverius",118.2,NA,"male",8.1,883,10.0010416124188,30.1563813271205,"Summer",36351
+8,-75.84425,45.3341,"adult",1990,"Falco sparverius sparverius","Falco_sparverius",111.9,NA,"male",7.1,911,10.0953634722264,29.4005415060018,"Summer",36352
+8,-79.462557,43.646168,"adult",1997,"Falco sparverius sparverius","Falco_sparverius",63.2,NA,"male",7.6,695,9.57352726232209,31.9103164402897,"Summer",36353
+9,-79.31261,43.658433,"adult",1998,"Falco sparverius sparverius","Falco_sparverius",92.9,NA,"female",10.2,712,9.04980746488649,39.1196710170785,"Fall",36354
+9,-79.62304,43.99192,"not applicable",1929,"Falco sparverius sparverius","Falco_sparverius",110,263,"male",6.3,748,9.9256630951684,43.8194278359289,"Fall",36355
+6,-93.83787,48.63186,"not applicable",1929,"Falco sparverius sparverius","Falco_sparverius",136,267,"female",1.8,428,14.3487381981409,51.6416404531459,"Summer",36356
+6,-84.02525,46.353393,"not applicable",1931,"Falco sparverius sparverius","Falco_sparverius",110,255,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",36357
+2,-79.506855,43.6629045,"not applicable",1933,"Falco sparverius sparverius","Falco_sparverius",84,262,"male",8.1,701,10.4233130311554,39.3178763414081,"Winter",36358
+9,-82.73856,42.03748,"not applicable",1935,"Falco sparverius sparverius","Falco_sparverius",111,275,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",36359
+5,-81.31263,42.95644,"not applicable",1908,"Falco sparverius sparverius","Falco_sparverius",101,272,"male",7.6,903,10.1956727303421,40.2365229610206,"Spring",36360
+6,-79.395348,43.663612,"not applicable",1944,"Falco sparverius sparverius","Falco_sparverius",105,270,"male",7.8,754,10.4046755224405,36.757526137834,"Summer",36361
+6,-76.23254,44.47582,"hatch year",2000,"Falco sparverius sparverius","Falco_sparverius",70,NA,"female",6.3,1026,10.4041367064289,29.6452480357808,"Summer",36362
+4,-89.67241,48.48218,"not applicable",1948,"Falco sparverius sparverius","Falco_sparverius",95,265,"male",1.5,740,12.6708924370588,42.6880825904065,"Spring",36363
+1,-79.39181,43.663335,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",109,NA,"male",7.3,817,10.4662335849409,37.2272244800058,"Winter",36364
+6,-79.801951,43.231997,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",130,NA,"male",7.8,857,10.2110568413941,29.7326454244168,"Summer",36365
+8,-147.8043,64.857,"HY",2000,"Falco sparverius","Falco_sparverius",104.5,NA,"male",-1.6,285,12.314745411313,108.166813357895,"Summer",36366
+6,-147.8043,64.857,"AHY",1999,"Falco sparverius","Falco_sparverius",84.3,NA,"undetermined",-4.1,278,16.3509243552995,93.4095215432179,"Summer",36367
+7,-147.8043,64.857,"AHY",2008,"Falco sparverius","Falco_sparverius",111.4,NA,"female",-2.8,379,14.4723456246314,112.814485663953,"Summer",36368
+5,-147.8043,64.857,"AHY",2012,"Falco sparverius","Falco_sparverius",111.6,NA,"male",-2.5,295,15.6269653309446,58.5024616331023,"Spring",36369
+2,-83.5897769,42.2708702,NA,1949,"Falco sparverius sparverius","Falco_sparverius",112,NA,"male",10.6,844,9.67146302116164,26.8728798626852,"Winter",36370
+2,-81.3305893,29.4703522,NA,1950,"Falco sparverius","Falco_sparverius",123,NA,"female",21.3,1165,5.23238748449298,72.0108141071893,"Winter",36371
+6,-83.6038971,42.2953419,NA,1979,"Falco sparverius sparverius","Falco_sparverius",38.8,NA,"male",8.5,787,10.646563679508,51.3651081353976,"Summer",36372
+9,-85.5295561,42.2448504,NA,1982,"Falco sparverius","Falco_sparverius",83.6,NA,"male",9.1,982,10.4617774722457,53.8955688441981,"Fall",36373
+10,-88.5844803,46.6289283,"adult",1993,"Falco sparverius sparverius","Falco_sparverius",63.4,NA,"female",3.9,725,10.6065017224285,55.3722400105658,"Fall",36374
+4,-84.5425415,39.1918195,NA,1988,"Falco sparverius","Falco_sparverius",78,NA,"female",11.7,985,10.2167272231138,44.1879114835791,"Spring",36375
+6,-84.9648743,46.7660217,NA,1998,"Falco sparverius","Falco_sparverius",103.4,NA,"male",6.7,709,8.47160587259618,47.1673800063025,"Summer",36376
+4,-84.5425415,39.1918195,"adult",1988,"Falco sparverius","Falco_sparverius",106.9,NA,"male",11.7,985,10.2167272231138,44.1879114835791,"Spring",36377
+8,-84.879262,45.53576,NA,1991,"Falco sparverius","Falco_sparverius",116,NA,"female",6.7,875,10.3509332034275,64.5172296238536,"Summer",36378
+6,-82.9145908,42.3845106,NA,2009,"Falco sparverius sparverius","Falco_sparverius",83.7,NA,"female",9.3,898,9.96533385230414,45.0869411681801,"Summer",36379
+3,-88.991136,17.051182,NA,1931,"Falco sparverius sparverius","Falco_sparverius",94,NA,"male",-9999,-9999,0,0,"Spring",36381
+1,-83.2646942,42.5739418,NA,1934,"Falco sparverius","Falco_sparverius",182,NA,"male",9.2,501,11.5843513832108,44.4277107597621,"Winter",36383
+7,-104.174318,43.925743,"adult",1935,"Falco sparverius sparverius","Falco_sparverius",123,NA,"female",6.6,359,9.27905347184363,112.916762030738,"Summer",36384
+9,-83.7263412,42.2708397,"adult",1937,"Falco sparverius sparverius","Falco_sparverius",142,NA,"female",9.1,869,10.1089819047971,60.2853375909974,"Fall",36385
+4,-103.9893733,30.5060375,NA,1937,"Falco sparverius sparverius","Falco_sparverius",135,NA,"female",15.1,419,6.91701897605836,66.096296041932,"Spring",36386
+8,-104.618521,41.505637,NA,2007,"Falco sparverius sparverius","Falco_sparverius",97.7,NA,"female",8.8,419,9.81005591063053,61.6681243023292,"Summer",36387
+2,-118.4005127,34.0826073,"adult",1982,NA,"Falco_sparverius",96.3,NA,"male",16.8,411,3.51139918585515,109.004901700488,"Winter",36388
+11,-116.3744545,33.7222404,"adult",1984,NA,"Falco_sparverius",74,NA,"male",23,85,8.04056005888931,164.138058646737,"Fall",36389
+9,-116.2724304,33.7423272,"adult",1984,NA,"Falco_sparverius",64,NA,"female",23.2,51,7.98503809216546,159.938648193323,"Fall",36390
+11,-117.821473,33.800967,"adult",1985,NA,"Falco_sparverius",67,NA,"female",17.6,159,4.32946214029438,146.314196555762,"Fall",36391
+5,-118.0322876,33.9741287,"chick",1986,NA,"Falco_sparverius",69,NA,"undetermined",18.9,349,3.22772083956804,137.553929380228,"Spring",36392
+11,-119.1927338,34.392179,"adult",2001,NA,"Falco_sparverius",86,NA,"undetermined",15.4,827,4.33463849808619,131.479830850046,"Fall",36393
+9,-119.2959023,34.2977138,"adult",2002,NA,"Falco_sparverius",88.8,NA,"undetermined",14.5,277,2.31967866113156,178.33589549795,"Fall",36394
+7,-117.804399,33.741155,"adult",1988,NA,"Falco_sparverius",92.2,NA,"female",18.1,254,3.40881210981186,140.68016948059,"Summer",36395
+9,-116.1340714,33.6409192,"adult",1984,NA,"Falco_sparverius",60.2,NA,"undetermined",23.2,65,8.00857022006406,139.372296033179,"Fall",36396
+8,-117.9672431,33.7744386,"adult",1988,NA,"Falco_sparverius",88.7,NA,"female",17.8,221,3.07955132505311,135.244998490996,"Summer",36397
+12,-118.0063819,33.6904955,"adult",1988,NA,"Falco_sparverius",87,NA,"female",17.2,206,2.75388155815816,131.965834873166,"Winter",36398
+5,-117.8671646,33.8427601,"chick",1989,NA,"Falco_sparverius",96.9,NA,"male",17.9,107,3.60109410983368,127.647473735364,"Spring",36399
+2,-122.0586633,36.9930585,"adult",1985,NA,"Falco_sparverius",120,NA,"female",13.7,678,3.55590631161307,114.291740288014,"Winter",36400
+2,-115.4659653,33.140426,"juvenile",1991,NA,"Falco_sparverius",105,NA,"female",22.4,113,7.47052795181089,98.0069653990605,"Winter",36401
+10,-119.0966034,34.169204,"adult",1993,NA,"Falco_sparverius",112,NA,"female",15.5,477,2.16850737661283,176.389810170965,"Fall",36402
+9,-119.224087,34.166077,"adult",1995,NA,"Falco_sparverius",115,NA,"female",15.5,527,1.77653049680004,185.561786211093,"Fall",36403
+7,-118.3317232,34.0620102,"adult",1996,NA,"Falco_sparverius",81.2,NA,"male",17.9,435,3.03598369061775,126.591564799778,"Summer",36404
+2,-117.9832382,33.7555809,"n/a",1995,NA,"Falco_sparverius",89,NA,"female",17,498,2.69785268146893,186.092762792206,"Winter",36405
+10,-119.2752457,34.2785149,"adult",1999,NA,"Falco_sparverius",108.5,NA,"male",14.3,212,2.55182644037916,133.782160960091,"Fall",36406
+1,-118.9387608,34.2349381,"adult",2004,NA,"Falco_sparverius",91.6,NA,"male",15.7,354,3.38351619150579,174.945260500185,"Winter",36407
+6,-118.0281829,33.8199448,"juvenile",2004,NA,"Falco_sparverius",102,NA,"undetermined",16.4,255,3.27037899759015,151.216936260098,"Summer",36408
+7,-117.2211718,33.791998,"juvenile",2004,NA,"Falco_sparverius",71.5,NA,"undetermined",17.1,261,5.46151133484186,133.969601353629,"Summer",36409
+6,-117.7291453,33.9482237,"adult",2004,NA,"Falco_sparverius",69,NA,"male",16.4,449,4.22557150518774,157.997876826344,"Summer",36410
+1,-117.9562607,33.7120781,"adult",2002,NA,"Falco_sparverius",85.5,NA,"male",15.3,163,2.6022571787282,145.233126254589,"Winter",36411
+4,-117.8599548,34.9017004,"adult",2007,NA,"Falco_sparverius",108,NA,"male",16.3,59,7.79654157983273,110.719812396945,"Spring",36412
+10,-119.0959167,34.5065566,"adult",2006,NA,"Falco_sparverius",114,130,"female",11.5,686,6.24965453590691,106.933820310748,"Fall",36413
+4,-79.7886,43.74331,"adult",1974,"Falco sparverius sparverius","Falco_sparverius",105,NA,"female",6.9,830,9.59236991603538,47.388648879851,"Spring",36414
+3,-80.252038,43.504758,"not applicable",1965,"Falco sparverius sparverius","Falco_sparverius",100.7,NA,"female",6.2,971,9.44461927942749,34.0879037761346,"Spring",36415
+5,-117.10047,47.9125,NA,1992,"Falco sparverius","Falco_sparverius",100.8,NA,"male",6.2,941,7.81782636612691,62.2428729938681,"Spring",36416
+12,-118.2967341,33.8108199,NA,1981,"Falco sparverius sparverius","Falco_sparverius",52,NA,"male",18.6,257,3.12539694448658,125.170050695135,"Winter",36417
+12,-118.2967341,33.8108199,NA,1981,"Falco sparverius","Falco_sparverius",61,NA,"male",18.6,257,3.12539694448658,125.170050695135,"Winter",36418
+1,-118.301651,34.0320587,NA,1992,"Falco sparverius sparverius","Falco_sparverius",74.5,NA,"female",17.8,564,3.47016504716209,153.456041112067,"Winter",36419
+12,-118.2967341,33.8108199,NA,1981,"Falco sparverius sparverius","Falco_sparverius",102,NA,"female",18.6,257,3.12539694448658,125.170050695135,"Winter",36420
+5,-85.6167831,45.1314011,"adult",1937,"Falco sparverius","Falco_sparverius",102,NA,"male",7.4,789,10.4206525707366,71.1256307817896,"Spring",36421
+5,-85.6167831,45.1314011,"adult",1937,"Falco sparverius","Falco_sparverius",108,NA,"female",7.4,789,10.4206525707366,71.1256307817896,"Spring",36422
+NA,-79.8736,43.55031,"not applicable",1974,"Falco sparverius sparverius","Falco_sparverius",101.1,NA,"female",7.4,813,9.50302583391206,44.6963306207379,"",36423
+NA,-114.9169922,54.4700376,"not applicable",1958,"Falco sparverius sparverius","Falco_sparverius",609.5,260.35,"male",2.5,392,10.4809784414867,73.8828630005526,"",36424
+83,-83.672384,42.794253,"adult",1981,"Falco sparverius","Falco_sparverius",96,NA,"male",8.1,854,9.92465555466727,64.8330047398353,"Winter",36425
+NA,-83.9131206,42.6026099,NA,2000,"Falco sparverius","Falco_sparverius",74.2,NA,"female",8.6,929,10.2221239564886,51.2598921949016,"",36426
+NA,-118.5106506,32.9169846,NA,2001,"Falco sparverius sparverius","Falco_sparverius",106,NA,"male",15.5,376,3.00427725388018,117.809024325819,"",36427
+NA,-78.8818359,43.9137233,"not applicable",1973,"Falco sparverius sparverius","Falco_sparverius",76,NA,"[female]",8.2,794,10.3478588035488,35.2204882502828,"",36428
+2010,-83.2063293,42.3037216,NA,2005,"Falco sparverius sparverius","Falco_sparverius",64,NA,"male",10,733,10.9036552114278,54.9056418425761,"Winter",36429
+5,-112.2456,27.22025,"U-Ad.",1927,"Falco sparverius peninsularis","Falco_sparverius",82.5,NA,"male",23.1,112,5.23777074949281,145.427755811174,"Spring",36437
+5,-112.23366,27.16693,"U-Ad.",1927,"Falco sparverius peninsularis","Falco_sparverius",84,NA,"male",22.6,124,5.16893400885316,146.363631846414,"Spring",36438
+3,-122.7228,38.43761,"U-Ad.",1976,"Falco sparverius sparverius","Falco_sparverius",76.7,NA,"female",14,286,4.40484409657726,91.8354678261849,"Spring",36439
+8,-122.70846,38.32936,"U-Ad.",1976,"Falco sparverius sparverius","Falco_sparverius",71.5,NA,"male",13.9,295,4.27593689893062,95.3819921840669,"Summer",36440
+11,-122.7228,38.43761,"U-Ad.",1976,"Falco sparverius sparverius","Falco_sparverius",97.6,NA,"female",14,286,4.40484409657726,91.8354678261849,"Fall",36441
+6,-122.71361,38.43235,"U-Ad.",1977,"Falco sparverius sparverius","Falco_sparverius",76,NA,"male",14.1,626,4.1801388261708,112.546338992165,"Summer",36442
+4,-122.7228,38.43761,"U-Ad.",1977,"Falco sparverius sparverius","Falco_sparverius",125.7,NA,"female",14,629,4.18426888005612,112.352000343389,"Spring",36443
+7,-122.8308,38.39691,"U-Ad.",1979,"Falco sparverius sparverius","Falco_sparverius",76.3,NA,"male",14.3,1226,4.66940395910799,100.965291411544,"Summer",36444
+7,-121.526,39.35569,"U-Ad.",1981,"Falco sparverius sparverius","Falco_sparverius",204,NA,"female",16.9,812,6.57658841281064,104.356577981256,"Summer",36445
+10,-97.10026,16.24081,"U-Ad.",1964,"Falco sparverius tropicalis","Falco_sparverius",83.7,NA,"female",19.4,1097,1.48352058743158,123.138896829754,"Fall",36446
+8,-122.97385,43.98393,"U-Ad.",1984,"Falco sparverius sparverius","Falco_sparverius",75.6,NA,"male",11,1361,5.07300490714121,85.3031527576765,"Summer",36447
+7,-122.28923,37.56705,"U-Ad.",1988,"Falco sparverius","Falco_sparverius",93.2,NA,"male",14.7,308,3.08382878902185,121.540200451519,"Summer",36448
+12,-106.62583,31.88586,"U-Ad.",1988,"Falco sparverius sparverius","Falco_sparverius",91.6,NA,"male",17.3,266,7.94429469379241,130.294088134855,"Winter",36449
+8,-120.1388,39.17212,"U-Ad",1990,"Falco sparverius","Falco_sparverius",136.5,NA,"female",6.4,504,7.43289168412125,99.8865956503915,"Summer",36450
+8,-121.93957,37.46675,"U",1989,"Falco sparverius sparverius","Falco_sparverius",70.7,NA,"female",14.7,225,4.03111947756752,110.058203150915,"Summer",36451
+8,-122.56908,37.98244,"U-Ad",2001,"Falco sparverius","Falco_sparverius",81,NA,"male",14.8,1180,3.89361365221657,131.247939611779,"Summer",36452
+6,-121.6275,37.86806,"U-Ad",2001,"Falco sparverius","Falco_sparverius",78,NA,"female",16.1,364,6.12166421222797,117.861574984665,"Summer",36453
+6,-121.94075,37.96503,"U-Ad",2001,"Falco sparverius","Falco_sparverius",82.3,NA,"female",14.8,578,5.00778182311079,127.573835461903,"Summer",36454
+6,-122.19809,38.13011,"U-Ad",2001,"Falco sparverius","Falco_sparverius",85.2,NA,"female",15,675,4.47581886870487,131.28366671372,"Summer",36455
+5,-121.77118,37.98222,"U-Nestling",2001,"Falco sparverius","Falco_sparverius",69.1,NA,"female",15.7,409,5.56229187557529,123.420661516268,"Spring",36456
+6,-121.94183,37.7603,"FLEDGLING",2002,"Falco sparverius sparverius","Falco_sparverius",73,NA,"female",15,537,4.81477366597283,176.586771401636,"Summer",36457
+5,-121.92612,37.2474,"immature",1992,"Falco sparverius sparverius","Falco_sparverius",125.3,NA,"female",15.9,516,4.34959942425911,145.941708400471,"Spring",36458
+10,-122.55927,38.09214,"adult",2001,"Falco sparverius","Falco_sparverius",116.1,NA,"female",14.8,912,4.05066399345574,132.285548224377,"Fall",36459
+10,-121.91726,37.94064,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",92.1,NA,"female",15,490,5.09024616895942,115.070457120199,"Fall",36460
+10,-121.63302,37.94084,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",90.1,NA,"female",16.1,302,5.91363985745128,114.260265427745,"Fall",36461
+11,-121.81176,37.69256,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",116.3,NA,"female",15.6,333,5.1862507623231,115.503348488342,"Fall",36462
+6,-122.52137,37.97568,"immature",2002,"Falco sparverius sparverius","Falco_sparverius",83,NA,"female",14.5,888,3.53111708653053,172.889055667929,"Summer",36463
+9,-119.01869,35.37267,"Adult",2008,"Falco sparverius","Falco_sparverius",85.5,6,"male",18,98,7.42893605498734,132.870852071026,"Fall",36464
+10,-121.78592,37.96808,"Adult",2001,"Falco sparverius","Falco_sparverius",95.2,NA,"male",15.6,421,5.54832079429115,123.64591112635,"Fall",36465
+2,-86.4715,38.73252,"U",2006,"Falco sparverius","Falco_sparverius",85.7,NA,"female",13.5,1568,8.09717496564341,33.536151113757,"Winter",36466
+5,-104.5731,38.2347,NA,2008,"Falco sparverius","Falco_sparverius",81.8,NA,"male",11.9,267,9.5049707888541,122.279522376261,"Spring",36467
+7,-104.84917,39.57,NA,2007,"Falco sparverius","Falco_sparverius",64.2,253,"male",10.3,451,9.4331579917316,53.3534785610464,"Summer",36469
+6,-156.49,71.17,NA,1955,"Falco sparverius sparverius","Falco_sparverius",89.2,NA,"male",-14.6,204,13.0292764747144,89.379848967875,"Summer",36470
+1,-166.5,68.2,NA,1964,"Falco sparverius peninsularis","Falco_sparverius",98.8,NA,"female",-9999,-9999,0,0,"Winter",36471
+4,-71.5333333,18.2,NA,2003,"Falco sparverius dominicensis","Falco_sparverius",8,NA,"female",-9999,-9999,0,0,"Spring",36472
+1,-108.33665,36.7316666667,NA,2013,"Falco sparverius","Falco_sparverius",89.6,NA,"male",10.9,240,10.4017007641962,81.3399921975354,"Winter",36473
+6,-118.073615,37.518805,"u ad.",1954,"Falco sparverius sparverius","Falco_sparverius",124,NA,"female",4.9,295,6.4418318023445,89.4070381006888,"Summer",36474
+10,-109.8583333,24.258333,"u imm.",1960,"Falco sparverius peninsularis","Falco_sparverius",84.2,NA,"male",24,228,5.07957138492466,139.054327009674,"Fall",36475
+1,-116.3016667,31.873889,"u ad.",1927,"Falco sparverius sparverius","Falco_sparverius",100,NA,"male",14.8,456,4.52668853478004,120.374635548377,"Winter",36476
+5,-112.2222222,27.224722,"u ad.",1927,"Falco sparverius peninsularis","Falco_sparverius",88.3,NA,"male",23.4,113,5.30479342984563,139.796764755099,"Spring",36477
+5,-112.7652778,27.221111,"juv.",1927,"Falco sparverius peninsularis","Falco_sparverius",92.2,NA,"female",20.6,117,4.44089125643886,117.226842557579,"Spring",36478
+10,-114.7983333,32.579444,"u ad.",1927,"Falco sparverius sparverius","Falco_sparverius",120,NA,"male",22.6,107,7.15147791464368,114.101181789438,"Fall",36479
+2,-115.2713889,30.194167,"u ad.",1928,"Falco sparverius sparverius","Falco_sparverius",92,NA,"male",18.4,101,4.50121195800743,82.241330021081,"Winter",36480
+3,-108.1519699,32.7619748,"u ad.",1946,"Falco sparverius sparverius","Falco_sparverius",122,NA,"female",12.8,317,7.93608941176416,99.0435094149097,"Spring",36481
+3,-108.1519699,32.7619748,"u ad.",1946,"Falco sparverius sparverius","Falco_sparverius",96,NA,"male",12.8,317,7.93608941176416,99.0435094149097,"Spring",36482
+9,-78.32586,45.59385,"adult",1984,"Falco sparverius sparverius","Falco_sparverius",94.2,NA,"male",4.2,1003,10.9006672022654,26.7768226269695,"Fall",36483
+6,-93.63727,52.84037,"not applicable",1938,"Falco sparverius sparverius","Falco_sparverius",106,262,"male",0,617,13.8670636598183,60.9325865622278,"Summer",36484
+8,-93.63727,52.84037,"juvenile",1938,"Falco sparverius sparverius","Falco_sparverius",113.8,272,"female",0,617,13.8670636598183,60.9325865622278,"Summer",36485
+7,-119.571883,49.343986,"adult",1991,"Falco sparverius sparverius","Falco_sparverius",58.7,262,"female",9.7,266,8.37635561168062,60.1509477005321,"Summer",36487
+11,-86.5333333,12.2833333,"adult",1961,"Falco sparverius sparverius","Falco_sparverius",113.5,NA,"female",-9999,-9999,0,0,"Fall",36488
+11,-86.5333333,12.2833333,"adult",1961,"Falco sparverius sparverius","Falco_sparverius",100,NA,"female",-9999,-9999,0,0,"Fall",36489
+11,-87,12.7,"adult",1961,"Falco sparverius sparverius","Falco_sparverius",97.6,NA,"male",-9999,-9999,0,0,"Fall",36490
+1,-86.05,12.3333333,"adult",1962,"Falco sparverius sparverius","Falco_sparverius",91,NA,"male",-9999,-9999,0,0,"Winter",36491
+3,-84.1666667,14.5333333,"adult",1966,"Falco sparverius nicaraguensis","Falco_sparverius",83.5,NA,"female",-9999,-9999,0,0,"Spring",36492
+6,-85.52015,46.33934,NA,1942,"Falco sparverius sparverius","Falco_sparverius",101,NA,"male",5.3,753,10.3295215354592,45.8571857383736,"Summer",36493
+10,-98.2666667,29.4666667,"adult",1946,"Falco sparverius sparverius","Falco_sparverius",140.7,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Fall",36494
+10,-98.2666667,29.4666667,NA,1946,"Falco sparverius sparverius","Falco_sparverius",105.7,NA,"male",20.8,1074,6.50879940518754,44.2576588163986,"Fall",36495
+7,-111.2666667,42.35,"immature",1934,"Falco sparverius sparverius","Falco_sparverius",91.5,NA,"male",5.4,397,7.59067909286838,57.8289344380064,"Summer",36496
+1,-82.5833333,43.15,NA,1997,"Falco sparverius","Falco_sparverius",106.8,NA,"female",8.2,764,9.37531817641892,40.6366447728614,"Winter",36497
+1,-115.531,33.017,NA,2004,"Falco sparverius","Falco_sparverius",111.6,NA,"female",22.9,99,7.82158532330224,105.527247666183,"Winter",36498
+1,-116,33.5,NA,2004,"Falco sparverius","Falco_sparverius",99.4,NA,"male",23.1,93,7.84151249325143,145.477010846706,"Winter",36499
+1,-83.65,42.4666667,NA,1907,"Falco sparverius","Falco_sparverius",181,NA,"male",6.9,760,9.77635908555414,41.1278210357813,"Winter",36500
+5,-83.3666667,43.9,NA,1932,"Falco sparverius sparverius","Falco_sparverius",188,NA,"female",7.8,771,9.59227514327245,38.6385710678725,"Spring",36501
+2,-88.5784142,20.6689352,NA,1936,"Falco sparverius sparverius","Falco_sparverius",116.5,NA,"female",25.8,1372,1.76710257629587,60.9052551150767,"Winter",36502
+3,-112.850649,31.695088,"adult",1964,NA,"Falco_sparverius",100.5,NA,"male",19.9,262,7.87090441840303,119.304898906459,"Spring",36503
+10,-72.6822,41.2889,NA,1974,"Falco sparverius","Falco_sparverius",104,NA,"male",10.6,1090,8.73049340825106,44.7951602854713,"Fall",36504
+10,-72.6822,41.2889,NA,1974,"Falco sparverius","Falco_sparverius",108,NA,"female",10.6,1090,8.73049340825106,44.7951602854713,"Fall",36505
+4,-112.89395,27.29858,"U-Ad.",1927,"Falco sparverius peninsularis","Falco_sparverius",87.2,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",36507
+5,-112.70728,27.36858,"U-Ad.",1927,"Falco sparverius peninsularis","Falco_sparverius",89,NA,"female",21,127,4.53391261895988,119.414417324964,"Spring",36508
+5,-112.30061,27.36692,"U-Ad.",1927,"Falco sparverius peninsularis","Falco_sparverius",79.5,NA,"female",23.3,100,5.22769431764979,146.463771505572,"Spring",36509
+1,-122.04231,39.15469,"U-Ad.",1954,"Falco sparverius sparverius","Falco_sparverius",104,NA,"female",15.9,439,6.85381446548363,104.418535967729,"Winter",36510
+12,-122.8659,38.6151,"U-Ad.",1975,"Falco sparverius sparverius","Falco_sparverius",72.7,NA,"male",13.5,922,4.53688586293873,140.374149649818,"Winter",36511
+7,-122.7228,38.43761,"U-Ad.",1976,"Falco sparverius sparverius","Falco_sparverius",73.1,NA,"female",14,286,4.40484409657726,91.8354678261849,"Summer",36512
+11,-122.76985,38.37032,"U-Ad.",1976,"Falco sparverius sparverius","Falco_sparverius",107.9,NA,"female",13.9,310,4.36712061022391,101.948768104982,"Fall",36513
+7,-122.7228,38.43761,"U-Ad.",1976,"Falco sparverius sparverius","Falco_sparverius",77.8,NA,"male",14,286,4.40484409657726,91.8354678261849,"Summer",36514
+4,-122.91071,38.37312,"U-Ad.",1978,"Falco sparverius sparverius","Falco_sparverius",119,NA,"female",13.8,1050,3.98462955960435,142.061159057645,"Spring",36515
+11,-97.10026,16.36914,"U-Ad.",1964,"Falco sparverius sparverius","Falco_sparverius",94.8,NA,"male",21.9,1125,1.58923938353598,117.380981862487,"Fall",36516
+7,-97.08359,16.38414,"U-Ad.",1965,"Falco sparverius tropicalis","Falco_sparverius",80.8,NA,"male",21.2,1094,1.65389805849054,122.122213747472,"Summer",36517
+9,-122.71442,38.44046,"U-Ad.",1984,"Falco sparverius sparverius","Falco_sparverius",114.1,NA,"male",14.7,597,5.01558178141485,157.834262016166,"Fall",36518
+12,-118.78063,36.26666,"U-Ad.",1985,"Falco sparverius sparverius","Falco_sparverius",121,NA,"male",14.9,515,7.20180953691922,127.914942236082,"Winter",36519
+1,-122.80586,38.29236,"U-Ad",1990,"Falco sparverius sparverius","Falco_sparverius",110.4,NA,"female",14,508,4.64819124156718,122.240241962317,"Winter",36520
+10,-122.38472,37.74983,"U-Ad",1993,"Falco sparverius sparverius","Falco_sparverius",91.8,NA,"male",14.9,566,3.16754373818789,143.304883871064,"Fall",36521
+11,-120.23248,36.23602,"U-Ad",1979,"Falco sparverius sparverius","Falco_sparverius",103.54,25.2,"male",17.2,191,7.28660040447845,135.179278445538,"Fall",36522
+8,-121.96793,37.78378,"U-Fledgling",2001,"Falco sparverius","Falco_sparverius",88,NA,"female",15,645,4.90091982708503,127.379500491192,"Summer",36523
+6,-121.83473,37.99642,"U-Imm",2001,"Falco sparverius","Falco_sparverius",86,NA,"male",15.6,455,5.46883733696494,125.314999198481,"Summer",36524
+6,-121.82503,38.00147,"U-Imm",2001,"Falco sparverius","Falco_sparverius",76.7,NA,"female",15.6,435,5.50423390755616,124.924709786891,"Summer",36525
+8,-121.97395,37.78847,"adult",2002,"Falco sparverius","Falco_sparverius",81,NA,"male",14.8,544,4.72872428180512,175.380631531966,"Summer",36526
+10,-121.78082,37.97289,"adult",2002,"Falco sparverius","Falco_sparverius",79.1,NA,"male",15.4,357,5.41552202357989,175.605577601548,"Fall",36527
+9,-121.0698,35.54811,"adult",1996,"Falco sparverius","Falco_sparverius",182.5,NA,"male",14,853,1.8812270334851,120.052409317215,"Fall",36528
+8,-121.768,37.68187,"adult",2003,"Falco sparverius","Falco_sparverius",79.3,NA,"male",15.5,324,5.2007575205809,116.459109623167,"Summer",36529
+2,-122.11631,37.95087,"adult",2004,"Falco sparverius","Falco_sparverius",98.7,NA,"male",15.3,583,4.69554108283657,126.88676911463,"Winter",36530
+11,-121.64109,37.93275,"adult",2003,"Falco sparverius sparverius","Falco_sparverius",92.6,NA,"female",16.1,301,5.90374816741385,114.496409773351,"Fall",36531
+6,-76.29779,42.49073,"juv.",2004,"Falco sparverius","Falco_sparverius",27,NA,"male",7.4,1178,10.0335195794654,55.1143376747716,"Summer",36532
+3,-76.28712,42.349548,NA,2005,"Falco sparverius","Falco_sparverius",91.5999984741211,221,"male",7.7,1145,10.9447233723365,52.6190442215342,"Spring",36533
+5,-76.29779,42.49073,NA,2007,"Falco sparverius","Falco_sparverius",143.6,250,"male",8.2,1026,10.2956411783204,31.8413133158991,"Spring",36534
+4,-76.445297,42.470367,"larvae",2009,"Falco sparverius","Falco_sparverius",113,242,"male",7.8,932,9.47479911036736,46.4064650546823,"Spring",36535
+7,-73.970548,40.66186,NA,2005,"Falco sparverius","Falco_sparverius",60.5,225,"male",12.7,1143,10.1034160139784,48.85044499957,"Summer",36536
+1,-76.439261,42.45476,NA,2013,"Falco sparverius","Falco_sparverius",93.8,239,"male",8.6,1072,9.71139209195244,45.438619904003,"Winter",36537
+3,-77.017792,42.878351,"ad.",2006,"Falco sparverius","Falco_sparverius",111,NA,"male",10.3,1001,8.5895770171373,50.9390065264367,"Spring",36538
+8,-104.693618,40.379508,"Immature",2013,"Falco sparverius","Falco_sparverius",80.4,265,"male",9.5,302,10.3478990694496,74.8538812096055,"Summer",36539
+11,-104.9713888889,39.8680555556,"adult",1991,"Falco sparverius","Falco_sparverius",117.3,260,"female",10.7,412,8.50331040705841,75.7111801192792,"Fall",36540
+1,-89.53,14.97,NA,1959,"Falco sparverius sparverius","Falco_sparverius",123,NA,"female",-9999,-9999,0,0,"Winter",36542
+10,-89.67,15.4,NA,1958,"Falco sparverius sparverius","Falco_sparverius",100,NA,"male",-9999,-9999,0,0,"Fall",36543
+4,-71.0333333333,42.3666666667,NA,1998,"Falco sparverius sparverius","Falco_sparverius",120,NA,"male",11.5,1360,7.92227393129171,59.916670046754,"Spring",36544
+10,-114.7983333,32.579444,"u ad.",1927,"Falco sparverius sparverius","Falco_sparverius",80,NA,"male",22.6,107,7.15147791464368,114.101181789438,"Fall",36545
+1,-115.1486111,32.6275,"ad.",1928,"Falco sparverius sparverius","Falco_sparverius",110.3,NA,"female",22.5,24,7.26235624173162,83.0333996325903,"Winter",36546
+6,-109.7747222,23.441944,"ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",82.7,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",36547
+6,-109.7747222,23.441944,"ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",77,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",36548
+6,-109.7747222,23.441944,"ad.",1929,"Falco sparverius peninsularis","Falco_sparverius",87.3,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",36549
+7,-120.27,40.08,"u ad.",1941,"Falco sparverius sparverius","Falco_sparverius",112,NA,"male",7.6,924,5.9029204379671,113.762294009179,"Summer",36550
+3,-108.2935011,32.8076978,"u ad.",1946,"Falco sparverius sparverius","Falco_sparverius",110,NA,"male",12.4,376,7.81901334549121,87.9232723354961,"Spring",36551
+1,-79.83012,43.33647,"not applicable",1969,"Falco sparverius sparverius","Falco_sparverius",122.5,269,"male",8,753,10.0462981272012,46.2781670656988,"Winter",36552
+5,-93.63727,52.84037,"not applicable",1938,"Falco sparverius sparverius","Falco_sparverius",168,269,"female",0,617,13.8670636598183,60.9325865622278,"Spring",36553
+6,-93.63727,52.84037,"not applicable",1938,"Falco sparverius sparverius","Falco_sparverius",122.6,275,"female",0,617,13.8670636598183,60.9325865622278,"Summer",36554
+6,-93.63727,52.84037,"not applicable",1938,"Falco sparverius sparverius","Falco_sparverius",100,260,"male",0,617,13.8670636598183,60.9325865622278,"Summer",36555
+7,-93.63727,52.84037,"not applicable",1938,"Falco sparverius sparverius","Falco_sparverius",108.2,280,"female",0,617,13.8670636598183,60.9325865622278,"Summer",36556
+8,-93.63727,52.84037,"juvenile",1938,"Falco sparverius sparverius","Falco_sparverius",101,263,"female",0,617,13.8670636598183,60.9325865622278,"Summer",36557
+7,-94.98538,49.92533,"not applicable",1947,"Falco sparverius sparverius","Falco_sparverius",104,252,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",36558
+12,-96.380107,30.630357,NA,1995,"Falco sparverius","Falco_sparverius",111,NA,"male",20.5,955,6.94961847655661,42.8816645326229,"Winter",36559
+3,-109.883333,22.866667,NA,1959,"Falco sparverius","Falco_sparverius",77.8,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",36561
+3,-109.883333,22.866667,NA,1959,"Falco sparverius","Falco_sparverius",116,NA,"female",24.8,234,3.45779751234274,179.516890124789,"Spring",36562
+8,-114.427284,62.470124,NA,1987,"Falco sparverius sparverius","Falco_sparverius",154,264,"female",-2.5,307,13.1283956646375,62.241742121102,"Summer",36563
+7,-119.680632,49.604415,"juvenile",1987,"Falco sparverius sparverius","Falco_sparverius",90,229,"female",9.9,246,7.81313967078226,54.5197016180953,"Summer",36564
+9,-119.553054,49.181804,NA,1991,"Falco sparverius sparverius","Falco_sparverius",78.1,257,"female",10.2,269,8.61323857720653,65.823023413994,"Fall",36565
+9,-119.553054,49.181804,"adult",1990,"Falco sparverius sparverius","Falco_sparverius",113,264,"female",10.2,365,9.36549113727754,78.2463982526378,"Fall",36566
+11,-86.5333333,12.2833333,"adult",1961,"Falco sparverius sparverius","Falco_sparverius",113.5,NA,"female",-9999,-9999,0,0,"Fall",36567
+11,-86.5333333,12.2833333,"adult",1961,"Falco sparverius sparverius","Falco_sparverius",121.5,NA,"female",-9999,-9999,0,0,"Fall",36568
+11,-87,12.7,"adult",1961,"Falco sparverius sparverius","Falco_sparverius",86.6,NA,"male",-9999,-9999,0,0,"Fall",36569
+3,-84.2333333,14.4666667,"adult",1966,"Falco sparverius nicaraguensis","Falco_sparverius",75.7,NA,"male",-9999,-9999,0,0,"Spring",36570
+3,-84.2333333,14.4666667,"adult",1966,"Falco sparverius nicaraguensis","Falco_sparverius",134.5,NA,"female",-9999,-9999,0,0,"Spring",36571
+3,-84.05,14.5333333,"adult",1966,"Falco sparverius nicaraguensis","Falco_sparverius",73.2,NA,"male",-9999,-9999,0,0,"Spring",36572
+8,-111.25,42.1333333,"immature",1934,"Falco sparverius sparverius","Falco_sparverius",80.1,NA,"male",5.8,344,7.65344050183651,52.3861914635034,"Summer",36573
+6,-83.5,41.8166667,NA,1963,"Falco sparverius sparverius","Falco_sparverius",95,NA,"male",9.1,546,11.4364747429203,52.341932563797,"Summer",36574
+7,-83.8166667,42.25,NA,1978,"Falco sparverius","Falco_sparverius",73.3,NA,"male",7.9,743,11.4768112718515,37.4600485906161,"Summer",36575
+1,-116.4111667,33.6745,NA,2004,"Falco sparverius","Falco_sparverius",100,NA,"male",20.9,149,7.53251537527723,164.004434529846,"Winter",36576
+1,-120.4176667,32.8818333,NA,2004,"Falco sparverius","Falco_sparverius",135,NA,"female",-9999,-9999,0,0,"Winter",36577
+5,-84.55,42.7333333,NA,2006,"Falco sparverius sparverius","Falco_sparverius",104,NA,"male",9.8,1031,8.86663391427079,32.3468144631927,"Spring",36578
+3,-88.5784142,20.6689352,NA,1936,"Falco sparverius sparverius","Falco_sparverius",133.2,NA,"female",25.8,1372,1.76710257629587,60.9052551150767,"Spring",36579
+10,-97.1002619,16.3691427,"adult",1964,NA,"Falco_sparverius",108.5,NA,"female",21.9,1125,1.58923938353598,117.380981862487,"Fall",36580
+10,-97.1002619,16.3691427,"juvenile",1964,NA,"Falco_sparverius",85.5,NA,"male",21.9,1125,1.58923938353598,117.380981862487,"Fall",36581
+3,-110.91,36.349,"adult",1991,"Falco sparverius sparverius","Falco_sparverius",85,NA,"male",11.8,219,9.43916727195142,101.974496303333,"Spring",36582
+6,-76.7897,42.3313,NA,2004,"Falco sparverius","Falco_sparverius",78.8,245,"male",7.8,1198,9.84323718000426,55.6485390580251,"Summer",36583
+4,-122.45848,38.29186,"U-Ad.",1976,"Falco sparverius sparverius","Falco_sparverius",84.6,NA,"male",14.7,263,4.53721146507278,84.3077863635139,"Spring",36584
+8,-119.680632,49.604415,NA,1986,"Falco sparverius sparverius","Falco_sparverius",75.5,282,"female",8.7,343,7.91297362027396,47.4422013862038,"Summer",36585
+NA,-73.2642,41.1411,"immature",1970,"Falco sparverius sparverius","Falco_sparverius",70,NA,"male",10.6,933,9.82659887522359,29.9036941341701,"",36586

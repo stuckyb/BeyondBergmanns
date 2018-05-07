@@ -1,0 +1,1049 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+2,-105.6756,41.324,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.4,115,"male",5,236,9.6899627856808,94.8458128715669,"Winter",114306
+8,-120.310976,40.395613,NA,1957,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8.6,137,"male",8.8,260,7.79811554547674,68.515906337936,"Summer",114307
+8,-99.18694,43.94806,NA,1984,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.44,133,"female",8.3,570,11.3471228498548,84.6000297612244,"Summer",114308
+7,-103.6493,37.074831,NA,1991,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",10,129,"male",10.5,406,8.19920543083107,72.4078522837945,"Summer",114309
+3,-103.394632,29.424097,NA,1993,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7,137,"female",18.6,305,6.98717439746612,127.96687034124,"Spring",114310
+3,-103.394632,29.424097,NA,1993,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8.2,141,"female",18.6,305,6.98717439746612,127.96687034124,"Spring",114311
+3,-103.394632,29.424097,NA,1993,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8.3,144,"female",18.6,305,6.98717439746612,127.96687034124,"Spring",114312
+7,-99.13278,41.909441,NA,1993,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",15,150,"female",7.2,815,10.8636033979467,86.5071705523725,"Summer",114313
+10,-104.8439544081,39.8197137293,"immature",1991,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",5.7,105,"male",10.6,481,8.62552589525398,76.6846693992428,"Fall",114314
+7,-104.395015,37.006588,NA,1996,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.5,143,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",114315
+7,-104.395015,37.006588,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",6,123,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",114316
+7,-104.395015,37.006588,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",13.5,144,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",114317
+8,-104.395015,37.006588,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",11,137,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",114318
+8,-104.395015,37.006588,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",13,144,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",114319
+4,-119.5134646,34.3956912,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.1,148,"female",15.5,312,2.32965077367247,125.597014317137,"Spring",114320
+4,-118.0769737,33.7378931,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,140,"female",17.4,196,2.82439320380449,132.301187024983,"Spring",114321
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,142,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114322
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,149,"female",17.3,256,2.83303028682374,109.246612172435,"Spring",114323
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,142,"female",17.3,256,2.83303028682374,109.246612172435,"Spring",114324
+4,-118.0769737,33.7378931,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",13,162,"male",17.4,196,2.82439320380449,132.301187024983,"Spring",114325
+11,-118.4574214,33.9709611,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,147,"female",17.1,226,2.32548463505541,132.130524206154,"Fall",114326
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7,147,"female",17.5,274,3.02147615939927,147.65557827981,"Spring",114327
+3,-119.6829193,34.0194143,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,155,"male",14.7,270,2.2022543546158,123.314305801084,"Spring",114328
+7,-121.78592,36.7962,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,153,"male",12.9,298,2.56916446741077,141.808530314849,"Summer",114329
+7,-121.78592,36.7962,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.7,142,"female",12.9,298,2.56916446741077,141.808530314849,"Summer",114330
+3,-119.7708622,34.0324199,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11.5,157,"male",13.7,438,2.61892876550468,122.624979651314,"Spring",114331
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.4,143,"female",17.1,200,2.72380082037782,130.812843406143,"Fall",114332
+4,-119.8780577,34.4090214,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11.2,147,"male",14.7,299,2.51906367886598,122.602091039561,"Spring",114333
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,146,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114334
+11,-118.4574214,33.9709611,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,147,"male",17.1,226,2.32548463505541,132.130524206154,"Fall",114335
+7,-121.78592,36.7962,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",5.7,123,"female",12.9,298,2.56916446741077,141.808530314849,"Summer",114336
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,150,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114337
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,148,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114338
+4,-117.8822552,33.6464909,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,153,"male",17.2,224,2.88647577925789,134.841057086589,"Spring",114339
+4,-119.8780577,34.4090214,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,146,"male",14.7,299,2.51906367886598,122.602091039561,"Spring",114340
+4,-118.0769737,33.7378931,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,165,"male",17.4,196,2.82439320380449,132.301187024983,"Spring",114341
+3,-120.5996529,34.6924062,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,145,"male",13.9,273,1.77908727024604,128.118538321321,"Spring",114342
+2,-118.4599358,33.4072828,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12,149,"male",16.8,184,2.62682836758081,119.070121196775,"Winter",114343
+3,-119.7708622,34.0324199,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",13,184,"male",13.7,438,2.61892876550468,122.624979651314,"Spring",114344
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7,146,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114345
+5,-118.5849813,34.3234131,NA,1974,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.8,128,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",114346
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,153,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114347
+3,-120.5996529,34.6924062,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,130,"female",13.9,273,1.77908727024604,128.118538321321,"Spring",114348
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12.5,149,"female",17.1,200,2.72380082037782,130.812843406143,"Fall",114349
+11,-118.4574214,33.9709611,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,139,"male",17.1,226,2.32548463505541,132.130524206154,"Fall",114350
+3,-119.6829193,34.0194143,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,160,"male",14.7,270,2.2022543546158,123.314305801084,"Spring",114351
+3,-119.7708622,34.0324199,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,161,"female",13.7,438,2.61892876550468,122.624979651314,"Spring",114352
+7,-121.78592,36.7962,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,143,"male",12.9,298,2.56916446741077,141.808530314849,"Summer",114353
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,150,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114354
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,139,"female",17.3,256,2.83303028682374,109.246612172435,"Spring",114355
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11.5,151,"female",17.1,200,2.72380082037782,130.812843406143,"Fall",114356
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,147,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114357
+5,-117.5537211,33.6297662,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,152,"female",17.6,313,3.38967907661245,136.739721110957,"Spring",114358
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,147,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114359
+4,-118.0769737,33.7378931,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,142,"female",17.4,196,2.82439320380449,132.301187024983,"Spring",114360
+12,-118.80646,34.25001,NA,1973,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,143,"male",17,497,4.56156538787715,157.33274285533,"Winter",114361
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,147,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114362
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6,126,"female",17.5,274,3.02147615939927,147.65557827981,"Spring",114363
+2,-119.114084,34.1015175,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.7,125,"male",16.3,251,2.23070854350375,119.764077850724,"Winter",114364
+11,-123.0606448,38.352599,NA,1994,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,147,"female",12.6,759,2.93540302328163,117.945731204258,"Fall",114365
+4,-118.0769737,33.7378931,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12,145,"female",17.4,196,2.82439320380449,132.301187024983,"Spring",114366
+4,-118.0769737,33.7378931,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,133,"male",17.4,196,2.82439320380449,132.301187024983,"Spring",114367
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,148,"female",17.3,256,2.83303028682374,109.246612172435,"Spring",114368
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.5,136,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114369
+12,-117.9009315,34.2234339,NA,1986,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7,119,"male",16,746,5.25099557659827,138.456452854759,"Winter",114370
+3,-120.5996529,34.6924062,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,140,"male",13.9,273,1.77908727024604,128.118538321321,"Spring",114371
+11,-118.4574214,33.9709611,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,148,"male",17.1,226,2.32548463505541,132.130524206154,"Fall",114372
+5,-117.5537211,33.6297662,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,154,"male",17.6,313,3.38967907661245,136.739721110957,"Spring",114373
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6,126,"female",17.5,274,3.02147615939927,147.65557827981,"Spring",114374
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",4.5,117,"male",17.1,200,2.72380082037782,130.812843406143,"Fall",114375
+4,-118.0474709,33.6954002,NA,1982,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,134,"male",16.6,291,3.18703576536207,110.928919891333,"Spring",114376
+6,-115.933333,30.433333,NA,1991,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12,163,"male",19.3,242,3.89101529166874,156.13523899357,"Summer",114377
+8,-118.55714,35.0483281,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.2,138,"male",10.3,231,7.27417078477407,174.008351677846,"Summer",114378
+6,-117.4082436,33.2347919,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,135,"male",16,229,2.70592783616738,120.992629363112,"Summer",114379
+3,-119.6829193,34.0194143,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12,170,"female",14.7,270,2.2022543546158,123.314305801084,"Spring",114380
+9,-120.01208,37.8175,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,153,"female",12.9,606,7.05953041617994,102.428770151038,"Fall",114381
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,138,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114382
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",5.5,50,"male",17.1,200,2.72380082037782,130.812843406143,"Fall",114383
+3,-120.5996529,34.6924062,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.1,145,"male",13.9,273,1.77908727024604,128.118538321321,"Spring",114384
+11,-118.3704072,34.4383913,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,137,"female",16.6,166,5.53585420853745,176.166712927845,"Fall",114385
+3,-119.3595314,35.3109557,NA,1991,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,151,"female",17.9,173,7.31478370193272,206.159351507997,"Spring",114386
+4,-119.5134646,34.3956912,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.8,145,"female",15.5,312,2.32965077367247,125.597014317137,"Spring",114387
+9,-120.01208,37.8175,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,158,"female",12.9,606,7.05953041617994,102.428770151038,"Fall",114388
+11,-118.4419488,33.9666063,NA,1968,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",NA,152,"female",17,164,2.46146051741398,131.819262542604,"Fall",114389
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,147,"male",17.1,200,2.72380082037782,130.812843406143,"Fall",114390
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",3.5,111,"male",17.1,200,2.72380082037782,130.812843406143,"Fall",114391
+4,-117.8822552,33.6464909,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,145,"male",17.2,224,2.88647577925789,134.841057086589,"Spring",114392
+4,-118.0474709,33.6954002,NA,1982,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,134,"male",16.6,291,3.18703576536207,110.928919891333,"Spring",114393
+5,-117.8822552,33.6464909,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12.5,160,"female",17.2,224,2.88647577925789,134.841057086589,"Spring",114394
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,151,"female",17.3,256,2.83303028682374,109.246612172435,"Spring",114395
+5,-118.5958292,34.3285019,NA,1974,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,150,"female",16.2,661,5.86444732470524,178.623167346365,"Spring",114396
+11,-118.4419488,33.9666063,NA,1968,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",NA,144,"female",17,164,2.46146051741398,131.819262542604,"Fall",114397
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,145,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114398
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",5,127,"male",17.1,200,2.72380082037782,130.812843406143,"Fall",114399
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,160,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114400
+4,-119.5134646,34.3956912,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.8,140,"male",15.5,312,2.32965077367247,125.597014317137,"Spring",114401
+4,-118.0769737,33.7378931,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,149,"male",17.4,196,2.82439320380449,132.301187024983,"Spring",114402
+7,-117.5537211,33.6297662,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,129,"male",17.6,313,3.38967907661245,136.739721110957,"Summer",114403
+5,-118.5849813,34.3234131,"Juvenile",1974,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.2,129,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",114404
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,151,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114405
+11,-118.4574214,33.9709611,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,156,"female",17.1,226,2.32548463505541,132.130524206154,"Fall",114406
+3,-120.5996529,34.6924062,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,143,"male",13.9,273,1.77908727024604,128.118538321321,"Spring",114407
+8,-118.4486928,35.0962049,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.8,146,"male",12.1,169,6.95809970574952,168.342935285414,"Summer",114408
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,154,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114409
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6,150,"female",17.5,274,3.02147615939927,147.65557827981,"Spring",114410
+7,-121.7872135,36.7731694,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.2,123,"female",12.9,284,2.55608305930394,142.470910053715,"Summer",114411
+4,-119.8780577,34.4090214,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.2,141,"male",14.7,299,2.51906367886598,122.602091039561,"Spring",114412
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",5.5,133,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114413
+3,-120.5996529,34.6924062,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11.2,148,"male",13.9,273,1.77908727024604,128.118538321321,"Spring",114414
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,152,"female",17.3,256,2.83303028682374,109.246612172435,"Spring",114415
+4,-118.3162788,33.7144177,NA,1975,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11.5,158,"male",15.3,252,3.46806862677197,167.302436123812,"Spring",114416
+9,-100.5311666667,42.88995,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12.5,138,"male",9.3,508,12.0028027030054,88.8477216566428,"Fall",114417
+9,-100.5311666667,42.88995,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",13,149,"male",9.3,508,12.0028027030054,88.8477216566428,"Fall",114418
+9,-100.5311666667,42.88995,"subadult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9,116,"female",9.3,508,12.0028027030054,88.8477216566428,"Fall",114419
+9,-100.5311666667,42.88995,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",13,81,"male",9.3,508,12.0028027030054,88.8477216566428,"Fall",114420
+9,-100.5311666667,42.88995,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11.5,137,"male",9.3,508,12.0028027030054,88.8477216566428,"Fall",114421
+9,-100.5311666667,42.88995,"subadult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,141,"male",9.3,508,12.0028027030054,88.8477216566428,"Fall",114422
+9,-100.5311666667,42.88995,"subadult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10,142,"male",9.3,508,12.0028027030054,88.8477216566428,"Fall",114423
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.5,145,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114424
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",8,128,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114425
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12.5,147,"female",9.2,518,11.9484593909919,89.684936497442,"Fall",114426
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,146,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114427
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,139,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114428
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",13.5,150,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114429
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12.5,145,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114430
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",14,138,"female",9.2,518,11.9484593909919,89.684936497442,"Fall",114431
+10,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.5,138,"female",9.2,518,11.9484593909919,89.684936497442,"Fall",114432
+7,-119.840663,35.133722,NA,2003,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,NA,"male",15.2,204,6.23047252451914,102.326102347045,"Summer",114433
+7,-119.840663,35.133722,NA,2003,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,NA,"female",15.2,204,6.23047252451914,102.326102347045,"Summer",114434
+10,-107.985206,38.627396,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",8.2,125,"male",10.9,162,9.7772928024814,66.8513550734226,"Fall",114435
+10,-107.982288,38.63398,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",16.5,142,"female",10.9,161,9.76752116439835,66.8513550734226,"Fall",114436
+10,-107.982288,38.63398,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",8.4,115,"male",10.9,161,9.76752116439835,66.8513550734226,"Fall",114437
+10,-107.982288,38.63398,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",6.8,115,"female",10.9,161,9.76752116439835,66.8513550734226,"Fall",114438
+10,-107.982288,38.63398,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",5.6,112,"female",10.9,161,9.76752116439835,66.8513550734226,"Fall",114439
+7,-108.738167,40.788019,NA,1976,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",5.8,121,"female",7.7,194,9.51185862728492,62.5401498660546,"Summer",114440
+7,-108.036841,38.755218,NA,1978,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",12.1,151,"male",10.6,185,10.1695140076365,58.9624075915998,"Summer",114441
+8,-107.9949992,38.5838242,NA,1978,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",12.3,147,"male",10,201,9.84778086061971,57.2268214293708,"Summer",114442
+9,-105.008091,40.585235,NA,1977,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",8.2,120,"female",9.7,289,9.37386356748476,124.596955026774,"Fall",114443
+9,-105.008091,40.585235,NA,1977,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",6.9,114,"male",9.7,289,9.37386356748476,124.596955026774,"Fall",114444
+9,-105.008091,40.585235,NA,1977,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",7.8,95,"male",9.7,289,9.37386356748476,124.596955026774,"Fall",114445
+6,-104.9719838,40.6607,NA,1980,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",8.9,124,"male",8.9,346,9.38368587528699,80.9301101814744,"Summer",114446
+7,-102.6999415,40.858549,NA,1980,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11.9,132,"male",9.8,394,10.255375530556,87.8493956791436,"Summer",114447
+7,-102.6999415,40.858549,NA,1980,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",8.2,118,"male",9.8,394,10.255375530556,87.8493956791436,"Summer",114448
+5,-108.471944,39.018279,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",10,127,"male",11.9,280,8.93384355168931,61.7914380653325,"Spring",114449
+5,-108.471944,39.018279,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",8,133,"female",11.9,280,8.93384355168931,61.7914380653325,"Spring",114450
+5,-108.471944,39.018279,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",11,134,"male",11.9,280,8.93384355168931,61.7914380653325,"Spring",114451
+5,-108.1666685,38.7334734,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",14,150,"female",11.6,251,8.72885757390133,57.387115792927,"Spring",114452
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,NA,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",114453
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",13,NA,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",114454
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10,NA,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",114455
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,NA,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",114456
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",15,129,"female",10.2,504,9.74375868611971,86.5400340257472,"Summer",114457
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",22,145,"female",10.2,504,9.74375868611971,86.5400340257472,"Summer",114458
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9,134,"female",14.6,186,9.81659078017692,52.4940769496555,"Summer",114459
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",16,129,"male",14.6,186,9.81659078017692,52.4940769496555,"Summer",114460
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8,132,"female",14.6,186,9.81659078017692,52.4940769496555,"Summer",114461
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8,130,"female",14.6,186,9.81659078017692,52.4940769496555,"Summer",114462
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,139,"female",14.6,186,9.81659078017692,52.4940769496555,"Summer",114463
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",6,126,"male",14.6,186,9.81659078017692,52.4940769496555,"Summer",114464
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9,142,"male",14.6,186,9.81659078017692,52.4940769496555,"Summer",114465
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11,137,"male",14.6,186,9.81659078017692,52.4940769496555,"Summer",114466
+7,-111.180009,38.185075,NA,1989,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,149,"male",9.4,137,9.63124256434928,90.7557107524965,"Summer",114467
+6,-111.328107,37.169847,NA,1994,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",4,112,"male",15.3,162,10.4038308795221,54.9055036873831,"Summer",114468
+7,-110.716793,37.899252,NA,1994,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",2,114,"female",8,367,8.73332176728357,68.2388304601228,"Summer",114469
+7,-109.7937279,34.892252,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",11,145,"male",13.4,200,8.51686384163617,135.168581610319,"Summer",114470
+6,-106.375272,34.450318,NA,2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,147,"male",12.4,300,8.66731932274473,99.2920394135859,"Summer",114471
+6,-106.375272,34.450318,NA,2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,148,"male",12.4,300,8.66731932274473,99.2920394135859,"Summer",114472
+9,-112.737148,36.861931,NA,2001,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,132,"male",13.8,241,8.85315814220604,57.1210763940181,"Fall",114473
+9,-108.686127,37.247789,NA,2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",18,146,"female",10.5,233,9.33570857222174,126.715800767155,"Fall",114474
+7,-107.8583135973,40.4104294844,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,134,"male",6.4,420,8.91866870755672,41.1882866069689,"Summer",114475
+7,-106.3211111111,35.7788888889,NA,1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,135,"male",9.8,603,8.66533935057399,58.6988013300369,"Summer",114476
+5,-105.052505,35.841301,NA,2012,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,143,"male",11.2,269,7.74871934677928,77.5106916706125,"Spring",114477
+5,-105.049177,35.825087,NA,2012,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,150,"female",11,271,7.67603511922106,78.5159773427806,"Spring",114478
+6,-109.0331967,40.471914,NA,1990,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,126,"female",7.8,277,10.4098729360859,55.0912893189426,"Summer",114479
+6,-109.0331967,40.471914,NA,1991,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,136,"male",7,297,10.3205407128726,48.8427740285681,"Summer",114480
+6,-104.700792,40.714184,NA,1981,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.5,121,"undetermined",10,332,8.47875687714999,92.0726322068194,"Summer",114481
+9,-104.08364,40.79389,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.6,120,"undetermined",9,394,8.90570127230389,97.4691390964736,"Fall",114482
+9,-106.873031,33.869909,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",3.9,122,"female",15.5,233,9.02096883864914,76.656326783265,"Fall",114483
+9,-106.873031,33.869909,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.7,115,"female",15.5,233,9.02096883864914,76.656326783265,"Fall",114484
+9,-106.873031,33.869909,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.7,97,"male",15.5,233,9.02096883864914,76.656326783265,"Fall",114485
+8,-102.7969454,40.8431689,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.5,135,"male",9.7,387,10.2244915410365,91.0218732777915,"Summer",114486
+6,-104.9719838,40.6607,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.3,142,"male",8.9,346,9.38368587528699,80.9301101814744,"Summer",114487
+6,-104.9719838,40.6607,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.6,129,"female",8.9,346,9.38368587528699,80.9301101814744,"Summer",114488
+5,-108.1666685,38.7334734,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,130,"male",11.6,251,8.72885757390133,57.387115792927,"Spring",114489
+9,-105.2162755,40.1089089,NA,1981,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,134,"male",11.1,356,8.03520662177056,86.4869223462188,"Fall",114490
+6,-104.700869,40.728704,NA,1981,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,135,"female",10,334,8.46534378832576,91.6738537225215,"Summer",114491
+6,-109.032925,37.360652,NA,1981,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",10,134,"male",12.5,277,9.22166010821886,60.2023117059225,"Summer",114492
+7,-104.948615,37.793126,NA,1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.9,102,"female",8.6,456,8.8186914098305,52.8734471898374,"Summer",114493
+7,-104.948615,37.793126,"juvenile",1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.4,100,"male",8.6,456,8.8186914098305,52.8734471898374,"Summer",114494
+7,-104.948615,37.793126,"juvenile",1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.3,109,"female",8.6,456,8.8186914098305,52.8734471898374,"Summer",114495
+7,-109.0354813,40.4410642,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.5,134,"male",7.1,369,9.53034626863054,98.3571846168235,"Summer",114496
+7,-109.0354813,40.4410642,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,145,"female",7.1,369,9.53034626863054,98.3571846168235,"Summer",114497
+7,-109.0354813,40.4410642,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,142,"female",7.1,369,9.53034626863054,98.3571846168235,"Summer",114498
+7,-109.0354813,40.4410642,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,139,"female",7.1,369,9.53034626863054,98.3571846168235,"Summer",114499
+7,-109.0354813,40.4410642,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,135,"male",7.1,369,9.53034626863054,98.3571846168235,"Summer",114500
+7,-109.0354813,40.4410642,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,142,"male",7.1,369,9.53034626863054,98.3571846168235,"Summer",114501
+7,-109.0354813,40.4410642,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.25,146,"female",7.1,369,9.53034626863054,98.3571846168235,"Summer",114502
+5,-108.1666685,38.7334734,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,132,"male",11.6,251,8.72885757390133,57.387115792927,"Spring",114503
+5,-108.1666231,38.7190606,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,126,"female",11.4,258,8.67882742394072,55.3331096464222,"Spring",114504
+7,-104.3796443,36.9904534,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,146,"female",8.1,589,7.58219605191642,89.0117564533418,"Summer",114505
+7,-104.3859958,36.958431,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",15.75,143,"female",9.1,525,7.7047161865413,95.1109107475488,"Summer",114506
+7,-104.3736362,36.9920645,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,143,"male",8.1,590,7.57029181615994,88.6972738766374,"Summer",114507
+10,-104.116083,30.6985,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,134,"male",15.2,429,6.6060750277852,135.351234694662,"Fall",114508
+11,-106.4819833,35.2834,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,142,"female",12.6,355,8.0876448982383,70.6857437348211,"Fall",114509
+10,-108.37087,32.38097,NA,2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.5,159,"undetermined",15.1,277,8.01831237439234,91.7865750361921,"Fall",114510
+9,-109.29667,38.56085,"adult",2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,145,"female",8.3,533,9.28923701077889,59.7663750867864,"Fall",114511
+11,-106.8839111,34.3500633,NA,2008,"Reithrodontomys megalotis","Reithrodontomys_megalotis",5.5,109,"undetermined",14.4,172,8.4631822942351,117.186263362459,"Fall",114512
+5,-105.89255,35.5820333333,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,142,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",114513
+5,-105.89255,35.5820333333,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,126,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",114514
+4,-107.009,34.4048,NA,2001,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,NA,"male",14,233,8.79829098418689,95.9274724534674,"Spring",114515
+3,-106.885,34.358,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,131,"male",14.9,186,8.97009763130544,87.4392198582918,"Spring",114516
+2,-106.885,34.358,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,127,"male",14.9,186,8.97009763130544,87.4392198582918,"Winter",114517
+4,-107.00145,34.4081,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,137,"female",14.1,219,8.67602059318288,90.1023861187393,"Spring",114518
+4,-107.00145,34.4081,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,132,"male",14.1,219,8.67602059318288,90.1023861187393,"Spring",114519
+5,-106.886,34.358,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,135,"male",14.9,186,8.97009763130544,87.4392198582918,"Spring",114520
+7,-107.00145,34.4081,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,150,"male",14.1,219,8.67602059318288,90.1023861187393,"Summer",114521
+8,-108.8484154,35.0694752,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,145,"male",11.1,316,8.3915361399376,104.879496225134,"Summer",114522
+8,-108.8484154,35.0694752,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,142,"female",11.1,316,8.3915361399376,104.879496225134,"Summer",114523
+8,-106.009,34.4048,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,NA,"female",11.8,405,8.15870514830446,90.2121918951697,"Summer",114524
+3,-108.75685,35.105733,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.5,123,"female",10.7,309,7.96735764722457,75.7549895550017,"Spring",114525
+1,-108.75667,35.105,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,137,"male",10.7,309,7.96735764722457,75.7549895550017,"Winter",114526
+11,-108.75685,35.105733,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,148,"female",10.7,309,7.96735764722457,75.7549895550017,"Fall",114527
+1,-106.4819833,35.2834,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,112,"female",12.4,370,8.12407570500214,120.720691289094,"Winter",114528
+1,-106.4819833,35.2834,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,120,"female",12.4,370,8.12407570500214,120.720691289094,"Winter",114529
+12,-108.75685,35.105733,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,94,"female",10.7,309,7.96735764722457,75.7549895550017,"Winter",114530
+12,-108.75685,35.105733,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,110,"female",10.7,309,7.96735764722457,75.7549895550017,"Winter",114531
+2,-106.4819833,35.2834,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,120,"male",12.4,370,8.12407570500214,120.720691289094,"Winter",114532
+3,-106.4819833,35.2834,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,117,"female",12.4,370,8.12407570500214,120.720691289094,"Spring",114533
+6,-106.935975,34.29136,NA,1995,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,154,"female",14.7,130,8.17106869609867,99.3274857991493,"Summer",114534
+10,-106.935975,34.29136,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.1,148,"male",13.9,244,8.69283926835499,116.082809141144,"Fall",114535
+10,-106.935975,34.29136,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.9,153,"male",13.9,244,8.69283926835499,116.082809141144,"Fall",114536
+10,-106.931769,34.294287,NA,1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",15.2,146,"female",13.6,318,9.03920752761395,78.1392533694507,"Fall",114537
+10,-106.935975,34.29136,NA,1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.2,138,"male",13.5,320,9.02526336390683,78.259939948593,"Fall",114538
+10,-106.923832,34.295043,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.8,151,"male",14,240,8.69764858505395,114.952219978034,"Fall",114539
+10,-106.935975,34.29136,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.5,134,"female",13.9,244,8.69283926835499,116.082809141144,"Fall",114540
+6,-108.139022,35.224153,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",15,134,"male",8.3,248,7.72457706991722,53.6786397334765,"Summer",114541
+6,-108.139022,35.224153,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,131,"male",8.3,248,7.72457706991722,53.6786397334765,"Summer",114542
+5,-105.68479,35.8162,NA,2011,"Reithrodontomys megalotis","Reithrodontomys_megalotis",20,158,"male",5.5,429,8.26549509048969,85.3379945235446,"Spring",114543
+6,-104.525583,38.832093,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,NA,"female",8.3,580,9.41199669667291,89.4171099310022,"Summer",114545
+6,-104.525583,38.832093,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",18,NA,"female",8.3,580,9.41199669667291,89.4171099310022,"Summer",114546
+7,-108.9184136,40.6150227,NA,1992,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,129,"male",6.4,394,9.67080501804114,67.5910569716523,"Summer",114547
+8,-103.0043461,38.0487463,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.5,128,"female",11.4,391,10.7047001854609,78.9372235312706,"Summer",114548
+6,-103.0785583,38.1067078,"Young",1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,141,"male",11.4,384,10.7494467792815,73.7059454316266,"Summer",114549
+6,-103.0785583,38.1067078,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,147,"male",11.4,384,10.7494467792815,73.7059454316266,"Summer",114550
+6,-103.0598145,38.0922821,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",19,148,"female",11.4,386,10.7379918838193,74.6194728627561,"Summer",114551
+6,-103.0598145,38.0922821,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,122,"male",11.4,386,10.7379918838193,74.6194728627561,"Summer",114552
+6,-104.525583,38.832093,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",17,141,"male",8.3,580,9.41199669667291,89.4171099310022,"Summer",114553
+7,-103.545834,37.109924,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",16,147,"female",9.4,524,8.76221225697961,84.4013036561316,"Summer",114554
+8,-116.208378,37.228006,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.7,129,"male",9.5,198,8.21888070238278,136.709379873711,"Summer",114564
+9,-116.208378,37.228006,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.6,148,"female",9.5,198,8.21888070238278,136.709379873711,"Fall",114565
+8,-104.9483758,37.8031972,NA,1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,135,"male",8.4,470,8.77694552377265,51.8565166281265,"Summer",114566
+6,-106.923832,34.295043,NA,1993,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,144,"female",14,220,8.69151449647438,161.997300809525,"Summer",114569
+2,-108.75685,35.105733,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,134,"female",10.7,372,8.34837581735985,122.708781481316,"Winter",114570
+9,-119.561,37.7316,NA,2003,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9,135,"female",11.9,832,7.28934465192485,118.961909919824,"Fall",114571
+4,-120.06969,37.50331,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9,142,"male",16.2,668,6.85372603815331,123.041871872366,"Spring",114572
+4,-120.47865,37.66512,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9,135,"male",16.7,353,6.78358089042725,121.019641942404,"Spring",114573
+5,-120.46229,37.66986,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.5,148,"male",16.8,360,6.7529735313528,122.595934619989,"Spring",114574
+5,-120.46229,37.66986,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7.1,121,"male",16.8,360,6.7529735313528,122.595934619989,"Spring",114575
+5,-120.462,37.6656,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.5,143,"male",16.8,362,6.76463060874186,122.746350930146,"Spring",114576
+5,-120.46484,37.66611,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,150,"male",16.8,361,6.7529735313528,122.459321392823,"Spring",114577
+5,-120.39391,37.51121,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",16,151,"female",17,374,6.84727329052606,120.978979301601,"Spring",114578
+5,-120.35648,37.54551,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11.5,150,"male",17.2,385,6.90104844911045,121.478687643419,"Spring",114579
+5,-120.35648,37.54551,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.1,142,"female",17.2,385,6.90104844911045,121.478687643419,"Spring",114580
+5,-120.35127,37.52911,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6,113,"undetermined",17.2,384,6.91375440697744,121.478687643419,"Spring",114581
+5,-120.48598,37.53619,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.5,143,"female",16.9,369,6.77566948498058,120.962905069357,"Spring",114582
+5,-120.09336,37.75496,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,141,"male",14.4,824,6.62110377139002,121.499463902821,"Spring",114583
+5,-120.17941,37.71951,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,160,"male",15.9,684,6.9019705135343,121.446093332469,"Spring",114584
+5,-120.2416,37.7006,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.2,140,"male",17,535,7.02089414145054,122.280710977058,"Spring",114585
+5,-120.2416,37.7006,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8,139,"male",17,535,7.02089414145054,122.280710977058,"Spring",114586
+3,-119.53062,34.40145,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",15,145,"female",15.3,686,1.86295626910727,147.3398349866,"Spring",114587
+4,-120.02312,34.45831,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",13,143,"female",14.6,637,1.92085839397311,129.132566860215,"Spring",114588
+4,-120.06716,34.46429,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.5,131,"male",14.4,596,1.84216193806641,127.785914241866,"Spring",114589
+3,-117.12426,32.56099,"adult",2003,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,140,"male",16.5,226,2.83884045897531,171.081550652004,"Spring",114590
+3,-122.3562999,37.9917999,NA,2006,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9,133,"male",14,651,3.35365020492145,109.281855482055,"Spring",114591
+7,-121.945812,37.71688,"juvenile",2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",2.3,81,"undetermined",15.6,560,4.9481784221034,121.854866682964,"Summer",114592
+8,-120.1599,40.86155,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",13.5,134,"female",8.7,292,8.30153326473216,82.941783579291,"Summer",114593
+8,-120.16599,40.89191,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7.5,118,"female",8.6,294,8.22683616789184,81.7701320522019,"Summer",114594
+8,-120.16599,40.89191,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",18,145,"female",8.6,294,8.22683616789184,81.7701320522019,"Summer",114595
+8,-120.16599,40.89191,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11.5,148,"female",8.6,294,8.22683616789184,81.7701320522019,"Summer",114596
+8,-120.16599,40.89191,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9,137,"male",8.6,294,8.22683616789184,81.7701320522019,"Summer",114597
+8,-120.13745,40.96636,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10.5,133,"male",8.1,386,8.13235215144742,82.834994476632,"Summer",114598
+8,-120.13745,40.96636,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",6.7,112,"female",8.1,386,8.13235215144742,82.834994476632,"Summer",114599
+8,-120.13745,40.96636,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",14,138,"female",8.1,386,8.13235215144742,82.834994476632,"Summer",114600
+8,-120.13745,40.96636,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10.5,138,"female",8.1,386,8.13235215144742,82.834994476632,"Summer",114601
+8,-120.13745,40.96636,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7.7,123,"male",8.1,386,8.13235215144742,82.834994476632,"Summer",114602
+8,-120.13745,40.96636,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9.5,131,"male",8.1,386,8.13235215144742,82.834994476632,"Summer",114603
+8,-120.13889,40.82822,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",15.5,153,"female",8.7,324,8.26861078068282,86.1821328347855,"Summer",114604
+4,-121.5533,37.6494,NA,1998,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7.1,113,"male",15.1,488,5.51682687673619,129.261362245024,"Spring",114605
+3,-119.18623,34.95863,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11.5,142,"female",15.2,97,5.89928090122136,97.9031161154852,"Spring",114606
+3,-119.18623,34.95863,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.5,148,"female",15.2,97,5.89928090122136,97.9031161154852,"Spring",114607
+4,-121.86558,40.43911,"immature",2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.5,127,"undetermined",15.4,536,7.32034835236685,117.638990911074,"Spring",114608
+4,-121.86558,40.43911,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,138,"male",15.4,536,7.32034835236685,117.638990911074,"Spring",114609
+4,-121.86558,40.43911,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,150,"male",15.4,536,7.32034835236685,117.638990911074,"Spring",114610
+4,-121.86558,40.43911,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.8,136,"female",15.4,536,7.32034835236685,117.638990911074,"Spring",114611
+4,-121.87949,40.43056,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,132,"male",15.6,530,7.34444234325067,119.006861545552,"Spring",114612
+4,-118.12305,36.59187,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11,147,"female",15.4,125,7.86354746840628,161.131273416203,"Spring",114613
+4,-118.12305,36.59187,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",16,143,"male",15.4,125,7.86354746840628,161.131273416203,"Spring",114614
+5,-118.26698,36.77765,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,143,"male",13.2,160,7.63776006351854,179.782488886896,"Spring",114615
+5,-118.26698,36.77765,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,157,"male",13.2,160,7.63776006351854,179.782488886896,"Spring",114616
+5,-118.26698,36.77765,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,145,"female",13.2,160,7.63776006351854,179.782488886896,"Spring",114617
+4,-118.31084,37.40482,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9,139,"male",13.8,79,8.51698392340359,135.624132828941,"Spring",114618
+4,-118.00818,37.41428,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9,145,"male",11,109,8.6451072166792,76.2824200900682,"Spring",114619
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.25,138,"male",16.5,354,7.43028202083144,120.445512414489,"Summer",114620
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.75,132,"male",16.5,354,7.43028202083144,120.445512414489,"Summer",114621
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.5,136,"female",16.5,354,7.43028202083144,120.445512414489,"Summer",114622
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6.75,127,"male",16.5,354,7.43028202083144,120.445512414489,"Summer",114623
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",12,136,"female",16.5,354,7.43028202083144,120.445512414489,"Summer",114624
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.5,138,"male",16.5,354,7.43028202083144,120.445512414489,"Summer",114625
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.75,149,"male",16.5,354,7.43028202083144,120.445512414489,"Summer",114626
+6,-122.21628,40.2026,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8,131,"male",16.7,358,7.47298163690067,127.453131096048,"Summer",114627
+6,-122.10614,40.30254,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,143,"female",16.4,449,7.42091128113147,117.448002574831,"Summer",114628
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",12,148,"male",13.1,613,7.17569551058335,127.054092031354,"Summer",114629
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",14,130,"male",13.1,613,7.17569551058335,127.054092031354,"Summer",114630
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,143,"male",13.1,613,7.17569551058335,127.054092031354,"Summer",114631
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",18,154,"female",13.1,613,7.17569551058335,127.054092031354,"Summer",114632
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.5,144,"female",13.1,613,7.17569551058335,127.054092031354,"Summer",114633
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11.5,141,"male",13.1,613,7.17569551058335,127.054092031354,"Summer",114634
+11,-116.61425,33.11547,"adult",2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",5.5,120,"male",14.1,737,5.4146826203193,151.624282440564,"Fall",114635
+8,-116.61792,33.12076,"adult",2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7.6,135,"male",14.3,728,5.36780526224018,151.745031319319,"Summer",114636
+9,-116.61792,33.12076,"adult",2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7.2,126,"male",14.3,728,5.36780526224018,151.745031319319,"Fall",114637
+12,-119.99339,35.06745,NA,2008,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8,133,"male",15.6,247,6.11829719824565,182.001610245267,"Winter",114638
+12,-119.99339,35.06745,NA,2008,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,152,"female",15.6,247,6.11829719824565,182.001610245267,"Winter",114639
+5,-120.141141,34.483687,NA,2009,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7.5,138,"undetermined",14.2,323,2.50847049861549,159.697003755326,"Spring",114640
+11,-119.94965,34.57041,NA,2011,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6,120,"female",15.6,511,4.47707967588722,151.50439007051,"Fall",114641
+1,-121.4814224,37.6551437,NA,1974,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.6,135,"female",15.3,195,5.73384423375537,102.0093017402,"Winter",114652
+3,-105.8755341,32.2504349,NA,1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,145,"female",15.7,432,8.41470574216786,76.5116486608806,"Spring",114653
+5,-101.3376312,33.9844818,NA,1997,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",9,131,"male",14.2,635,8.82252626502011,70.0833888093258,"Spring",114654
+11,-100.5812759,34.196228,NA,1997,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",8,128,"male",16,672,8.91233397992338,63.5197636471334,"Fall",114655
+10,-117.6705627,33.5158806,NA,1996,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,113,"male",17.9,397,3.6965176077279,108.907099509473,"Fall",114656
+4,-119.9083,46.657777,"unknown",1961,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.2,140,"female",12.3,208,8.72243710730602,79.452211735766,"Spring",114657
+5,-90.2018,38.8869,"unknown",1959,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.1,138,"female",12.7,776,10.4331493836045,37.563654320042,"Spring",114658
+2,-112.4494,34.5533,"unknown",1951,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.7,132,"male",11,586,7.83814971208709,99.2753388133283,"Winter",114659
+2,-112.4494,34.5533,"unknown",1951,"Reithrodontomys megalotis","Reithrodontomys_megalotis",17.1,153,"female",11,586,7.83814971208709,99.2753388133283,"Winter",114660
+7,-117.0552,45.9104,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,126,"male",8.8,425,6.89103501923794,53.3891916775638,"Summer",114661
+8,-117.1281,45.9433,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,140,"female",9.2,421,6.84514869130398,53.814857110424,"Summer",114662
+8,-117.1281,45.9433,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,110,"female",9.2,421,6.84514869130398,53.814857110424,"Summer",114663
+9,-117.1957,45.9433,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,135,"female",7.9,466,6.74305478835727,55.4047038011397,"Fall",114664
+3,-103.394632,29.424097,NA,1993,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7,138,"female",18.6,305,6.98717439746612,127.96687034124,"Spring",114665
+5,-104.8439544081,39.8197137293,NA,1993,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,136,"male",9.6,393,8.9074492148511,47.517802558758,"Spring",114666
+10,-104.8439544081,39.8197137293,NA,1991,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.4,125,"female",10.6,481,8.62552589525398,76.6846693992428,"Fall",114667
+7,-104.395015,37.006588,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",10.5,141,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",114668
+7,-104.395015,37.006588,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",11.4,150,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",114669
+7,-104.395015,37.006588,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",8.5,146,"male",7.2,615,7.22425942518846,73.5048280805736,"Summer",114670
+8,-104.395015,37.006588,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",11,145,"female",7.2,615,7.22425942518846,73.5048280805736,"Summer",114671
+10,-108.028112,43.941149,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",7,114,NA,7.8,241,9.99222045878541,87.762535752373,"Fall",114672
+1,-104.961425,39.792544,NA,1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.6,139,NA,11.2,394,7.64715732488322,87.0886197663793,"Winter",114673
+3,-119.3595314,35.3109557,NA,1991,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,123,"female",17.9,173,7.31478370193272,206.159351507997,"Spring",114674
+8,-118.92983,34.9405943,NA,1974,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.7,143,"male",17.3,229,7.15484048908447,115.033652512943,"Summer",114675
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,164,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114676
+4,-119.5134646,34.3956912,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,154,"male",15.5,312,2.32965077367247,125.597014317137,"Spring",114677
+5,-118.5849813,34.3234131,NA,1974,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.8,115,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",114678
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,152,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114679
+12,-123.0606448,38.352599,NA,1994,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,131,"female",12.6,759,2.93540302328163,117.945731204258,"Winter",114680
+8,-118.4486928,35.0962049,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.8,135,"female",12.1,169,6.95809970574952,168.342935285414,"Summer",114681
+4,-118.3162788,33.7144177,NA,1975,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,149,"male",15.3,252,3.46806862677197,167.302436123812,"Spring",114682
+8,-118.4486928,35.0962049,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.6,135,"female",12.1,169,6.95809970574952,168.342935285414,"Summer",114683
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,150,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114684
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6,142,"female",17.5,274,3.02147615939927,147.65557827981,"Spring",114685
+2,-117.4146178,33.661823,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,145,"male",18,326,4.98837284456201,127.327656902111,"Winter",114686
+3,-119.7708622,34.0324199,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12,167,"male",13.7,438,2.61892876550468,122.624979651314,"Spring",114687
+6,-117.4082436,33.2347919,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,130,"female",16,229,2.70592783616738,120.992629363112,"Summer",114688
+11,-118.4574214,33.9709611,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,156,"male",17.1,226,2.32548463505541,132.130524206154,"Fall",114689
+4,-119.5134646,34.3956912,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,150,"male",15.5,312,2.32965077367247,125.597014317137,"Spring",114690
+11,-118.4419488,33.9666063,NA,1968,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",NA,124,"female",17,164,2.46146051741398,131.819262542604,"Fall",114691
+11,-118.4574214,33.9709611,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,143,"female",17.1,226,2.32548463505541,132.130524206154,"Fall",114692
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7,144,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114693
+7,-121.78592,36.7962,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.8,149,"male",12.9,298,2.56916446741077,141.808530314849,"Summer",114694
+4,-119.5134646,34.3956912,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.4,150,"male",15.5,312,2.32965077367247,125.597014317137,"Spring",114695
+7,-117.5537211,33.6297662,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,134,"male",17.6,313,3.38967907661245,136.739721110957,"Summer",114696
+5,-117.8822552,33.6464909,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.5,126,"female",17.2,224,2.88647577925789,134.841057086589,"Spring",114697
+2,-118.1842071,34.8060329,NA,1976,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,123,"male",16.6,106,7.0043492981796,146.482098159026,"Winter",114698
+3,-119.6829193,34.0194143,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11.5,168,"male",14.7,270,2.2022543546158,123.314305801084,"Spring",114699
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,153,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114700
+9,-123.0606448,38.352599,NA,1994,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12,139,"male",12.6,759,2.93540302328163,117.945731204258,"Fall",114701
+7,-117.5537211,33.6297662,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,149,"female",17.6,313,3.38967907661245,136.739721110957,"Summer",114702
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,154,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114703
+11,-118.5752037,34.4082868,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,149,"male",17.4,144,5.22623771044339,178.632429625931,"Fall",114704
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,151,"female",17.1,200,2.72380082037782,130.812843406143,"Fall",114705
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6,127,"female",17.1,200,2.72380082037782,130.812843406143,"Fall",114706
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6,130,"male",17.1,200,2.72380082037782,130.812843406143,"Fall",114707
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,150,"female",17.5,274,3.02147615939927,147.65557827981,"Spring",114708
+8,-118.4486928,35.0962049,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.4,147,"female",12.1,169,6.95809970574952,168.342935285414,"Summer",114709
+6,-117.4082436,33.2347919,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,119,"male",16,229,2.70592783616738,120.992629363112,"Summer",114710
+7,-115.748641,30.042336,NA,1991,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,145,"male",19.6,184,3.96037188336467,151.174695078796,"Summer",114711
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",3,111,"female",17.1,200,2.72380082037782,130.812843406143,"Fall",114712
+6,-117.4082436,33.2347919,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,136,"male",16,229,2.70592783616738,120.992629363112,"Summer",114713
+3,-120.5996529,34.6924062,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,158,"male",13.9,273,1.77908727024604,128.118538321321,"Spring",114714
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,147,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114715
+5,-118.5849813,34.3234131,NA,1974,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.8,129,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",114716
+11,-118.4574214,33.9709611,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7,141,"female",17.1,226,2.32548463505541,132.130524206154,"Fall",114717
+8,-118.4486928,35.0962049,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.2,131,"male",12.1,169,6.95809970574952,168.342935285414,"Summer",114718
+3,-120.5996529,34.6924062,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.6,141,"male",13.9,273,1.77908727024604,128.118538321321,"Spring",114719
+5,-123.0604248,38.3525635,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,138,"male",12.5,492,3.433480432271,117.142440704475,"Spring",114720
+8,-118.4486928,35.0962049,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",3.8,117,"male",12.1,169,6.95809970574952,168.342935285414,"Summer",114721
+4,-117.5537211,33.6297662,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,138,"male",17.6,313,3.38967907661245,136.739721110957,"Spring",114722
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,135,"male",17.1,200,2.72380082037782,130.812843406143,"Fall",114723
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7,142,"female",17.3,256,2.83303028682374,109.246612172435,"Spring",114724
+4,-119.5134646,34.3956912,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,150,"male",15.5,312,2.32965077367247,125.597014317137,"Spring",114725
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,158,"male",17.3,256,2.83303028682374,109.246612172435,"Spring",114726
+4,-117.8822552,33.6464909,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,158,"male",17.2,224,2.88647577925789,134.841057086589,"Spring",114727
+8,-118.92983,34.9405943,NA,1974,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.7,145,"female",17.3,229,7.15484048908447,115.033652512943,"Summer",114728
+2,-118.4599358,33.4072828,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11.5,161,"male",16.8,184,2.62682836758081,119.070121196775,"Winter",114729
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,145,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114730
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6,116,"female",17.5,274,3.02147615939927,147.65557827981,"Spring",114731
+12,-117.9009315,34.2234339,NA,1986,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,121,"male",16,746,5.25099557659827,138.456452854759,"Winter",114732
+3,-120.5996529,34.6924062,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12,NA,"female",13.9,273,1.77908727024604,128.118538321321,"Spring",114733
+6,-118.4486928,35.0962049,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,140,"male",12.1,169,6.95809970574952,168.342935285414,"Summer",114734
+3,-118.3778164,33.7530742,NA,1987,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.5,147,"female",17.3,256,2.83303028682374,109.246612172435,"Spring",114735
+8,-118.4486928,35.0962049,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.1,136,"male",12.1,169,6.95809970574952,168.342935285414,"Summer",114736
+11,-119.8423584,34.4208803,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,135,"male",14.8,304,2.55342906696074,124.751074228959,"Fall",114737
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.8,128,"female",17.1,200,2.72380082037782,130.812843406143,"Fall",114738
+9,-120.01208,37.8175,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12.5,152,"male",12.9,606,7.05953041617994,102.428770151038,"Fall",114739
+5,-117.8822552,33.6464909,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,137,"male",17.2,224,2.88647577925789,134.841057086589,"Spring",114740
+6,-115.933333,30.433333,NA,1991,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12,144,"female",19.3,242,3.89101529166874,156.13523899357,"Summer",114741
+7,-119.3654075,34.6094588,NA,1974,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,149,"male",11.3,852,6.26729727645938,155.556872313846,"Summer",114742
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,150,"female",17.5,274,3.02147615939927,147.65557827981,"Spring",114743
+2,-119.114084,34.1015175,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.8,139,"female",16.3,251,2.23070854350375,119.764077850724,"Winter",114744
+2,-119.114084,34.1015175,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.4,135,"male",16.3,251,2.23070854350375,119.764077850724,"Winter",114745
+3,-119.6829193,34.0194143,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,158,"male",14.7,270,2.2022543546158,123.314305801084,"Spring",114746
+7,-121.78592,36.7962,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.1,155,"male",12.9,298,2.56916446741077,141.808530314849,"Summer",114747
+8,-123.0606448,38.352599,NA,1994,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,129,"male",12.6,759,2.93540302328163,117.945731204258,"Summer",114748
+4,-119.8780577,34.4090214,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,132,"male",14.7,299,2.51906367886598,122.602091039561,"Spring",114749
+9,-120.01208,37.8175,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,140,"male",12.9,606,7.05953041617994,102.428770151038,"Fall",114750
+10,-118.0479812,33.6960927,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,146,"male",17.1,200,2.72380082037782,130.812843406143,"Fall",114751
+4,-119.8780577,34.4090214,NA,1988,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11.1,140,"male",14.7,299,2.51906367886598,122.602091039561,"Spring",114752
+3,-118.3627234,33.9971988,NA,1977,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,140,"male",17.5,274,3.02147615939927,147.65557827981,"Spring",114753
+8,-119.0642895,35.1456685,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",4,105,"male",18.3,89,8.10379634193229,117.413195961351,"Summer",114754
+9,-100.5311666667,42.88995,"subadult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10,140,"male",9.3,508,12.0028027030054,88.8477216566428,"Fall",114755
+9,-100.5311666667,42.88995,"subadult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11.5,144,"female",9.3,508,12.0028027030054,88.8477216566428,"Fall",114756
+9,-100.5311666667,42.88995,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12.5,124,"male",9.3,508,12.0028027030054,88.8477216566428,"Fall",114757
+9,-100.5311666667,42.88995,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",21,144,"female",9.3,508,12.0028027030054,88.8477216566428,"Fall",114758
+9,-100.5311666667,42.88995,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",15.5,145,"female",9.3,508,12.0028027030054,88.8477216566428,"Fall",114759
+9,-100.5311666667,42.88995,"juvenile",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",5.5,116,"male",9.3,508,12.0028027030054,88.8477216566428,"Fall",114760
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10,141,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114761
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12,143,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114762
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",14,145,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114763
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12,146,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114764
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11.5,145,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114765
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11.5,141,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114766
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9,130,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114767
+9,-100.47815,42.91845,"adult",2007,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10,132,"male",9.2,518,11.9484593909919,89.684936497442,"Fall",114768
+10,-107.982288,38.63398,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",8.7,123,"male",10.9,161,9.76752116439835,66.8513550734226,"Fall",114769
+10,-107.995406,38.615236,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",11.6,134,"male",10.8,164,9.76518242936546,68.3772037165867,"Fall",114770
+10,-107.995406,38.615236,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",8.9,128,"male",10.8,164,9.76518242936546,68.3772037165867,"Fall",114771
+10,-107.995406,38.615236,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",7.7,125,"female",10.8,164,9.76518242936546,68.3772037165867,"Fall",114772
+10,-107.995406,38.615236,NA,1977,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",16.9,150,"female",10.8,164,9.76518242936546,68.3772037165867,"Fall",114773
+6,-104.9719838,40.6607,NA,1980,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.6,125,"male",8.9,346,9.38368587528699,80.9301101814744,"Summer",114774
+7,-102.6999154,40.829405,NA,1980,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.1,116,"male",9.7,395,10.1804142024445,89.2876521798449,"Summer",114775
+5,-108.471944,39.018279,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",11,140,"female",11.9,280,8.93384355168931,61.7914380653325,"Spring",114776
+5,-108.471944,39.018279,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",8.5,128,"female",11.9,280,8.93384355168931,61.7914380653325,"Spring",114777
+5,-108.471944,39.018279,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",9,128,"female",11.9,280,8.93384355168931,61.7914380653325,"Spring",114778
+5,-108.1480513,38.7337486,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",14.5,116,"female",11.6,246,8.74544037042888,56.1746763227652,"Spring",114779
+5,-108.1666685,38.7334734,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",13,135,"female",11.6,251,8.72885757390133,57.387115792927,"Spring",114780
+5,-108.1666685,38.7334734,NA,1980,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",12,130,"male",11.6,251,8.72885757390133,57.387115792927,"Spring",114781
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",13,129,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",114782
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",18,136,"female",10.2,504,9.74375868611971,86.5400340257472,"Summer",114783
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10,126,"undetermined",10.2,504,9.74375868611971,86.5400340257472,"Summer",114784
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,NA,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",114785
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",15,NA,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",114786
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",13,148,"undetermined",10.2,504,9.74375868611971,86.5400340257472,"Summer",114787
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",18,144,"female",10.2,504,9.74375868611971,86.5400340257472,"Summer",114788
+6,-104.65489,38.606142,NA,1979,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",14,140,"male",10.2,504,9.74375868611971,86.5400340257472,"Summer",114789
+7,-108.924977,40.7975011,NA,1981,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,130,"male",7.7,270,8.95417204266799,92.0430154353506,"Summer",114790
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",13,155,"male",14.6,186,9.81659078017692,52.4940769496555,"Summer",114791
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9,125,"female",14.6,186,9.81659078017692,52.4940769496555,"Summer",114792
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",12,154,"female",14.6,186,9.81659078017692,52.4940769496555,"Summer",114793
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11,146,"female",14.6,186,9.81659078017692,52.4940769496555,"Summer",114794
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7,126,"male",14.6,186,9.81659078017692,52.4940769496555,"Summer",114795
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9,138,"male",14.6,186,9.81659078017692,52.4940769496555,"Summer",114796
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,137,"male",14.6,186,9.81659078017692,52.4940769496555,"Summer",114797
+7,-110.781877,37.489666,NA,1982,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11,139,"male",14.6,186,9.81659078017692,52.4940769496555,"Summer",114798
+7,-111.180009,38.185075,NA,1989,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",6,120,"female",9.4,137,9.63124256434928,90.7557107524965,"Summer",114799
+6,-100.664327,42.564321,NA,1991,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10,146,"male",9.8,603,10.1966869248018,84.0679595535197,"Summer",114800
+7,-109.7937279,34.892252,NA,1996,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",12,138,"female",13.4,200,8.51686384163617,135.168581610319,"Summer",114801
+7,-107.910208484,34.813077,NA,2003,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",11,149,"female",10.1,233,8.14104360073639,77.9874681234389,"Summer",114802
+5,-107.99442145,36.831527,NA,2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,136,"female",11.1,192,9.42390577202468,124.914743652694,"Spring",114803
+6,-112.737455,36.863123,NA,2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.2,135,"male",13.3,162,8.89451652662607,111.978354679027,"Summer",114804
+9,-108.686127,37.247789,NA,2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,122,"female",10.5,233,9.33570857222174,126.715800767155,"Fall",114805
+5,-105.052505,35.841301,NA,2012,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,152,"female",11.2,269,7.74871934677928,77.5106916706125,"Spring",114806
+12,-106.672399,35.015396,NA,1995,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,109,"male",14.3,141,7.8928189456677,77.7726393664432,"Winter",114807
+9,-106.873031,33.869909,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",17.6,135,"female",15.5,233,9.02096883864914,76.656326783265,"Fall",114808
+9,-106.873031,33.869909,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.7,102,"male",15.5,233,9.02096883864914,76.656326783265,"Fall",114809
+6,-104.9719838,40.6607,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,140,"female",8.9,346,9.38368587528699,80.9301101814744,"Summer",114810
+6,-104.9719838,40.6607,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.2,139,"male",8.9,346,9.38368587528699,80.9301101814744,"Summer",114811
+6,-104.9719838,40.6607,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,98,"male",8.9,346,9.38368587528699,80.9301101814744,"Summer",114812
+7,-102.770708,40.834514,NA,1981,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,134,"male",10.6,539,8.95239937365702,94.0425196954132,"Summer",114813
+6,-104.700869,40.728704,NA,1981,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,123,"female",10,334,8.46534378832576,91.6738537225215,"Summer",114814
+7,-104.948615,37.793126,NA,1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.9,126,"female",8.6,456,8.8186914098305,52.8734471898374,"Summer",114815
+7,-109.0354813,40.4410642,NA,1996,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.8,132,"female",6.6,418,9.10287999714509,50.2758829852577,"Summer",114816
+7,-109.0354813,40.4410642,NA,1996,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,130,"female",6.6,418,9.10287999714509,50.2758829852577,"Summer",114817
+7,-109.0354813,40.4410642,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,140,"male",7.1,369,9.53034626863054,98.3571846168235,"Summer",114818
+6,-104.525583,38.832093,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,126,"female",8.3,580,9.41199669667291,89.4171099310022,"Summer",114819
+1,-108.7581111111,35.1136111111,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,126,"female",10.7,310,7.98469653699367,76.1545234013195,"Winter",114820
+11,-106.7858,34.67636,NA,2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.7,125,"female",14.1,198,9.0186801090343,124.446521604384,"Fall",114821
+7,-104.3796443,36.9904534,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,139,"male",8.1,589,7.58219605191642,89.0117564533418,"Summer",114822
+7,-104.3859958,36.958431,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,125,"female",9.1,525,7.7047161865413,95.1109107475488,"Summer",114823
+7,-104.3859958,36.958431,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,147,"male",9.1,525,7.7047161865413,95.1109107475488,"Summer",114824
+7,-107.7586,37.2388,"adult",2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,132,"male",8.3,475,9.10578820245007,60.4596219775759,"Summer",114825
+7,-118.8586,41.5981,"adult",2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,140,"male",9.2,146,9.02902726396002,65.4458014833769,"Summer",114826
+7,-118.8586,41.5981,"adult",2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,147,"male",9.2,146,9.02902726396002,65.4458014833769,"Summer",114827
+10,-108.3147547,32.439817,"adult",2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,136,"female",14.5,305,7.90248810070715,83.1307871752623,"Fall",114828
+11,-108.37087,32.38097,NA,2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",24,148,"female",15.1,277,8.01831237439234,91.7865750361921,"Fall",114829
+10,-107.18106,33.98998,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,135,"female",8.3,432,6.63532214741681,96.3858733153261,"Fall",114830
+10,-107.9193,32.5813,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.2,127,"undetermined",15.7,250,7.56024290134072,89.9758109224659,"Fall",114831
+5,-105.89255,35.5820333333,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,124,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",114832
+5,-105.89255,35.5820333333,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,145,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",114833
+5,-105.89255,35.5820333333,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,154,"female",9.9,354,7.87468133073371,73.7664392242334,"Spring",114834
+5,-105.89255,35.5820333333,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,142,"undetermined",9.9,354,7.87468133073371,73.7664392242334,"Spring",114835
+5,-105.89255,35.5820333333,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,137,"female",9.9,354,7.87468133073371,73.7664392242334,"Spring",114836
+10,-108.77034,31.5774,"adult",2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,134,"female",13.4,531,7.2862832941373,90.2536952528156,"Fall",114837
+10,-108.77018,31.57707,NA,2008,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,128,"male",13.2,483,6.56415888124151,138.621821815183,"Fall",114838
+4,-106.009,34.4048,NA,2001,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,NA,"male",11.7,357,8.31695967176817,100.485837861435,"Spring",114839
+4,-106.009,34.4048,NA,2001,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,NA,"female",11.7,357,8.31695967176817,100.485837861435,"Spring",114840
+4,-106.009,34.4048,NA,2001,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,NA,"female",11.7,357,8.31695967176817,100.485837861435,"Spring",114841
+7,-107.00145,34.4081,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,134,"male",13.3,263,8.52956977848594,111.053286564601,"Summer",114842
+7,-107.00145,34.4081,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,120,"female",13.3,263,8.52956977848594,111.053286564601,"Summer",114843
+2,-106.885,34.358,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",2,135,"female",14.9,186,8.97009763130544,87.4392198582918,"Winter",114844
+2,-106.885,34.358,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",25,186,"male",14.9,186,8.97009763130544,87.4392198582918,"Winter",114845
+4,-107.00145,34.4081,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,123,"male",14.1,219,8.67602059318288,90.1023861187393,"Spring",114846
+5,-106.886,34.358,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,NA,"female",14.9,186,8.97009763130544,87.4392198582918,"Spring",114847
+7,-107.00145,34.4081,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,136,"male",14.1,219,8.67602059318288,90.1023861187393,"Summer",114848
+7,-107.00145,34.4081,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.75,114,"female",14.1,219,8.67602059318288,90.1023861187393,"Summer",114849
+5,-106.49,35.2766667,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,120,"female",12.8,345,8.13644997414832,70.2855255376279,"Spring",114850
+10,-108.75685,35.105733,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,128,"female",10.7,309,7.96735764722457,75.7549895550017,"Fall",114851
+10,-108.75685,35.105733,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,100,"female",10.7,309,7.96735764722457,75.7549895550017,"Fall",114852
+10,-108.7581111111,35.1136111111,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,137,"female",10.7,310,7.98469653699367,76.1545234013195,"Fall",114853
+10,-108.75685,35.105733,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,125,"male",10.7,309,7.96735764722457,75.7549895550017,"Fall",114854
+10,-108.75685,35.105733,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,144,"male",10.7,309,7.96735764722457,75.7549895550017,"Fall",114855
+11,-108.75685,35.105733,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,159,"female",10.7,309,7.96735764722457,75.7549895550017,"Fall",114856
+11,-106.4819833,35.2834,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,105,"female",12.6,355,8.0876448982383,70.6857437348211,"Fall",114857
+6,-106.935975,34.29136,NA,1995,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,160,"female",14.7,130,8.17106869609867,99.3274857991493,"Summer",114858
+10,-106.931769,34.294287,"juvenile",1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6.7,119,"female",13.6,318,9.03920752761395,78.1392533694507,"Fall",114859
+10,-106.904267,34.288474,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6.4,115,"female",14.1,237,8.69585411491469,114.977864812337,"Fall",114860
+10,-106.923832,34.295043,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.4,136,"male",14,240,8.69764858505395,114.952219978034,"Fall",114861
+10,-106.923832,34.295043,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.9,155,"female",14,240,8.69764858505395,114.952219978034,"Fall",114862
+6,-108.139022,35.224153,NA,2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",17,146,"male",8.3,248,7.72457706991722,53.6786397334765,"Summer",114864
+6,-103.0785583,38.1067078,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.5,147,"male",11.4,384,10.7494467792815,73.7059454316266,"Summer",114865
+6,-103.0598145,38.0922821,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,140,"male",11.4,386,10.7379918838193,74.6194728627561,"Summer",114866
+3,-110.34734,31.5528,NA,1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,145,"male",16.8,456,7.10247502742189,99.3050645479642,"Spring",114874
+3,-110.34734,31.5528,NA,1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,159,"male",16.8,456,7.10247502742189,99.3050645479642,"Spring",114875
+8,-116.208378,37.228006,"juvenile",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",5.8,124,"female",9.5,198,8.21888070238278,136.709379873711,"Summer",114877
+9,-119.54425,37.75286,NA,2003,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",13.5,155,"female",12.5,798,7.34283819291102,115.467999480074,"Fall",114882
+5,-120.39391,37.51121,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,149,"male",17,374,6.84727329052606,120.978979301601,"Spring",114883
+5,-120.39391,37.51121,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,127,"female",17,374,6.84727329052606,120.978979301601,"Spring",114884
+5,-120.39391,37.51121,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,130,"male",17,374,6.84727329052606,120.978979301601,"Spring",114885
+5,-120.35059,37.52902,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",12,149,"female",17.2,384,6.91375440697744,121.478687643419,"Spring",114886
+5,-120.35648,37.54551,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,147,"male",17.2,385,6.90104844911045,121.478687643419,"Spring",114887
+5,-120.35127,37.52911,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.5,141,"male",17.2,384,6.91375440697744,121.478687643419,"Spring",114888
+5,-120.35127,37.52911,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",5.8,116,"undetermined",17.2,384,6.91375440697744,121.478687643419,"Spring",114889
+5,-120.35127,37.52911,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",5.9,118,"female",17.2,384,6.91375440697744,121.478687643419,"Spring",114890
+5,-120.48598,37.53619,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,127,"undetermined",16.9,369,6.77566948498058,120.962905069357,"Spring",114891
+5,-120.22121,37.70881,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6.7,125,"female",16.5,603,6.98484832051535,122.007254514656,"Spring",114892
+5,-120.22121,37.70881,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.3,142,"male",16.5,603,6.98484832051535,122.007254514656,"Spring",114893
+5,-120.22121,37.70881,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.7,129,"female",16.5,603,6.98484832051535,122.007254514656,"Spring",114894
+5,-120.22121,37.70881,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.5,141,"male",16.5,603,6.98484832051535,122.007254514656,"Spring",114895
+5,-120.22121,37.70881,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,142,"male",16.5,603,6.98484832051535,122.007254514656,"Spring",114896
+5,-120.26757,37.72268,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11.5,133,"male",16.4,621,6.90456041652577,121.975078252561,"Spring",114897
+5,-120.26757,37.72268,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11.5,145,"female",16.4,621,6.90456041652577,121.975078252561,"Spring",114898
+5,-120.09336,37.75496,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,150,"male",14.4,824,6.62110377139002,121.499463902821,"Spring",114899
+5,-120.09336,37.75496,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,145,"female",14.4,824,6.62110377139002,121.499463902821,"Spring",114900
+5,-120.17941,37.71951,NA,2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,157,"male",15.9,684,6.9019705135343,121.446093332469,"Spring",114901
+12,-120.3374651,36.6213574,NA,2002,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6.6,142,"male",17.4,154,7.03512292326542,133.146395783938,"Winter",114902
+3,-122.3562999,37.9917999,NA,2006,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6,130,"female",14,651,3.35365020492145,109.281855482055,"Spring",114903
+9,-118.31084,37.40482,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11,151,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",114904
+9,-118.31084,37.40482,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",12,145,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",114905
+9,-118.22488,37.40205,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,134,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",114906
+9,-118.22488,37.40205,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9,139,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",114907
+9,-118.22488,37.40205,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8,142,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",114908
+8,-120.1599,40.86155,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7.5,116,"male",8.7,292,8.30153326473216,82.941783579291,"Summer",114909
+8,-120.1599,40.86155,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7.5,130,"male",8.7,292,8.30153326473216,82.941783579291,"Summer",114910
+8,-120.16599,40.89191,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",12,145,"male",8.6,294,8.22683616789184,81.7701320522019,"Summer",114911
+8,-120.16599,40.89191,"juvenile",2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",6.3,125,"female",8.6,294,8.22683616789184,81.7701320522019,"Summer",114912
+8,-120.13745,40.96636,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",15,142,"female",8.1,386,8.13235215144742,82.834994476632,"Summer",114913
+8,-120.13889,40.82822,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",15.25,132,"female",8.7,324,8.26861078068282,86.1821328347855,"Summer",114914
+8,-120.13889,40.82822,NA,2006,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10.5,134,"male",8.7,324,8.26861078068282,86.1821328347855,"Summer",114915
+7,-121.945812,37.71688,"juvenile",2004,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",2.2,80,"undetermined",15.6,560,4.9481784221034,121.854866682964,"Summer",114916
+11,-121.8865638889,37.7609527778,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,130,"male",15.3,742,4.50120354275757,120.477010486703,"Fall",114917
+11,-121.8865638889,37.7609527778,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8,136,"female",15.3,742,4.50120354275757,120.477010486703,"Fall",114918
+11,-121.8865638889,37.7609527778,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6.5,130,"male",15.3,742,4.50120354275757,120.477010486703,"Fall",114919
+11,-121.8865638889,37.7609527778,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,131,"male",15.3,742,4.50120354275757,120.477010486703,"Fall",114920
+11,-121.8865638889,37.7609527778,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9,152,"female",15.3,742,4.50120354275757,120.477010486703,"Fall",114921
+11,-121.8865638889,37.7609527778,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6.5,128,"female",15.3,742,4.50120354275757,120.477010486703,"Fall",114922
+3,-119.18623,34.95863,"immature",2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6,135,"male",15.2,97,5.89928090122136,97.9031161154852,"Spring",114923
+4,-121.86558,40.43911,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,142,"female",15.4,536,7.32034835236685,117.638990911074,"Spring",114924
+4,-121.86558,40.43911,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.8,144,"male",15.4,536,7.32034835236685,117.638990911074,"Spring",114925
+4,-121.87949,40.43056,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,133,"male",15.6,530,7.34444234325067,119.006861545552,"Spring",114926
+4,-121.87949,40.43056,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,130,"male",15.6,530,7.34444234325067,119.006861545552,"Spring",114927
+4,-121.87949,40.43056,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,139,"female",15.6,530,7.34444234325067,119.006861545552,"Spring",114928
+4,-121.87949,40.43056,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,127,"male",15.6,530,7.34444234325067,119.006861545552,"Spring",114929
+4,-121.87949,40.43056,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,126,"female",15.6,530,7.34444234325067,119.006861545552,"Spring",114930
+4,-118.31084,37.40482,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8,135,"female",13.8,79,8.51698392340359,135.624132828941,"Spring",114931
+4,-118.00818,37.41428,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9,142,"male",11,109,8.6451072166792,76.2824200900682,"Spring",114932
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",15.3,157,"female",16.5,354,7.43028202083144,120.445512414489,"Summer",114933
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.75,141,"female",16.5,354,7.43028202083144,120.445512414489,"Summer",114934
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9,138,"female",16.5,354,7.43028202083144,120.445512414489,"Summer",114935
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.5,141,"male",16.5,354,7.43028202083144,120.445512414489,"Summer",114936
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6,121,"female",16.5,354,7.43028202083144,120.445512414489,"Summer",114937
+6,-122.22687,40.09325,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.25,145,"male",16.5,354,7.43028202083144,120.445512414489,"Summer",114938
+6,-122.21628,40.2026,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",5.8,112,"male",16.7,358,7.47298163690067,127.453131096048,"Summer",114939
+6,-122.12289,40.28261,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",12,140,"female",16.2,469,7.36866317385297,117.847605879079,"Summer",114940
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,137,"male",13.1,613,7.17569551058335,127.054092031354,"Summer",114941
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",14,153,"female",13.1,613,7.17569551058335,127.054092031354,"Summer",114942
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.5,135,"male",13.1,613,7.17569551058335,127.054092031354,"Summer",114943
+7,-121.76366,40.30804,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6.5,123,"male",13.1,613,7.17569551058335,127.054092031354,"Summer",114944
+1,-117.50874,33.3449,NA,2002,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.5,135,"male",15.2,148,2.8333912650049,141.59498596045,"Winter",114945
+5,-116.61792,33.12076,"adult",2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",5,114,"undetermined",14.3,728,5.36780526224018,151.745031319319,"Spring",114946
+11,-116.64305,33.1212,"adult",2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",5.6,129,"female",14.3,712,5.33027374361,152.880720763979,"Fall",114947
+11,-119.94965,34.57041,NA,2011,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,125,"male",15.6,511,4.47707967588722,151.50439007051,"Fall",114948
+6,-118.38717,34.66269,NA,2012,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.5,NA,"male",15.3,288,6.46507517123328,105.557421353201,"Summer",114949
+8,-99.4001846,43.8208923,NA,1970,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10,135,"male",7.9,461,13.1545590668188,80.4951076181567,"Summer",114959
+12,-118.1194,34.3291206,NA,1973,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.7,144,"male",14.6,687,6.39784528121963,165.150705103058,"Winter",114960
+12,-118.1194,34.3291206,NA,1973,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",14,127,"female",14.6,687,6.39784528121963,165.150705103058,"Winter",114961
+1,-121.4814224,37.6551437,NA,1974,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.1,141,"male",15.3,195,5.73384423375537,102.0093017402,"Winter",114962
+1,-121.4814224,37.6551437,NA,1974,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7.8,124,"female",15.3,195,5.73384423375537,102.0093017402,"Winter",114963
+1,-121.4814224,37.6551437,NA,1974,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.1,151,"male",15.3,195,5.73384423375537,102.0093017402,"Winter",114964
+7,-109.7526016,38.1493988,NA,1972,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",14.3,138,"male",11.9,240,9.69226495717074,155.838522096345,"Summer",114965
+11,-100.5812759,34.196228,NA,1997,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",8,134,"male",16,672,8.91233397992338,63.5197636471334,"Fall",114966
+8,-105.8755341,32.2504349,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,133,"male",17.3,274,8.32378847313256,76.0702747578055,"Summer",114967
+8,-105.8755341,32.2504349,NA,1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,131,"male",17.3,274,8.32378847313256,76.0702747578055,"Summer",114968
+3,-109.3657,31.8674,"unknown",1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,132,"male",12,476,7.33882886371586,135.988504409948,"Spring",114969
+7,-118.4725,40.17944,"unknown",1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6.8,60,"female",9.7,126,8.39849824238076,78.6900341539641,"Summer",114970
+7,-118.4725,40.17944,"unknown",1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.45,76,"female",9.7,126,8.39849824238076,78.6900341539641,"Summer",114971
+4,-119.9083,46.6722541,"unknown",1961,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.1,137,"male",12.2,208,8.7271216053835,79.452211735766,"Spring",114972
+5,-90.2018,38.8869,"unknown",1957,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.4,137,"female",12.7,1175,9.73385220700822,72.0856590197108,"Spring",114973
+5,-90.2291,38.8762,"unknown",1965,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,133,"female",13,778,9.6437450288681,49.0444923631901,"Spring",114974
+1,-97.0941667,18.5433333,"unknown",1969,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.6,140,"female",16.6,1263,1.94133662170884,115.403095201198,"Winter",114975
+2,-111.4889,32.8511,"unknown",1967,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,116,"undetermined",20.6,322,7.99605963565616,121.843090228226,"Winter",114976
+7,-117.1905,45.9433,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,128,"male",8,464,6.77063624421776,55.2180507105893,"Summer",114977
+7,-117.0552,45.9214,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,135,"male",9.3,415,6.9079006151718,53.2673331489084,"Summer",114978
+7,-117.0552,45.9104,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,130,"male",8.8,425,6.89103501923794,53.3891916775638,"Summer",114979
+8,-117.1957,45.9433,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,132,"female",7.9,466,6.74305478835727,55.4047038011397,"Summer",114980
+9,-117.2764,46.0036197,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,139,"female",10.1,446,6.76449621855974,64.6130470284846,"Fall",114981
+9,-117.2764,46.0036197,"unknown",1999,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,139,"female",10.1,446,6.76449621855974,64.6130470284846,"Fall",114982
+8,-118.4725,40.17944,"unknown",1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.45,70,"female",9.7,126,8.39849824238076,78.6900341539641,"Summer",114983
+9,-122.33861,38.31655,"Adult",2003,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,133,"female",15.3,767,4.92534416579341,116.245265055086,"Fall",114984
+8,-122.41308,37.7173,"U",2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",3.4,127,"undetermined",14.2,653,2.45707081088376,134.908976012615,"Summer",114985
+12,-121.0716,35.5223,"Adult",2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.3,130,"female",12.9,380,1.93218356615859,154.975789424406,"Winter",114986
+12,-121.0716,35.5223,"U",2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.1,130,"male",12.9,380,1.93218356615859,154.975789424406,"Winter",114987
+12,-122.46064,37.792,"U",2010,"Reithrodontomys megalotis","Reithrodontomys_megalotis",5.5,122,"undetermined",13.8,732,2.56602215441911,101.914191441848,"Winter",114991
+12,-122.47237,37.79982,"U",2010,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.9,129,"male",13.8,758,2.54093755066189,101.672943698137,"Winter",114992
+6,-122.4606,37.79196,"Adult",2011,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.4,104,"female",13,464,2.54062447584698,137.09529065956,"Summer",114993
+5,-106.2990587755,37.7775587134,NA,2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,135,"female",5.8,269,9.61925153013476,60.2255516233384,"Spring",114994
+6,-104.9232,38.4823,NA,2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.8,125,"male",11.3,415,9.35185931926228,79.6975607119312,"Summer",114995
+6,-104.0799,39.6477,NA,2003,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.3,117,"female",10.6,288,9.3400733239611,75.1265760819154,"Summer",114996
+8,-104.85,39.7833333333,NA,1997,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,140,"male",9.5,594,9.26953302082917,77.3946469312895,"Summer",114997
+6,-101.66,43.96,NA,1971,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",4.8,103,"female",7.8,587,11.9337914674205,83.1148406145165,"Summer",114998
+8,-119.67,42.54,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",12,138,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",114999
+9,-120.1,40.24,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,127,"female",10.6,156,7.98970929042193,111.482811985847,"Fall",115000
+9,-120.1,40.24,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8,131,"female",10.6,156,7.98970929042193,111.482811985847,"Fall",115001
+8,-119.91,41.4,NA,1977,"Reithrodontomys megalotis","Reithrodontomys_megalotis",5,128,"male",7,328,8.18862385300855,91.9640697057021,"Summer",115002
+8,-119.97,41.4,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,144,"male",8.6,324,8.30158801894937,94.5921423814811,"Summer",115003
+9,-120.12,40.26,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,147,"male",10.4,160,7.95030016585995,109.83974794409,"Fall",115004
+9,-120.12,40.26,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,145,"female",10.4,160,7.95030016585995,109.83974794409,"Fall",115005
+10,-95.17,39.63,NA,1983,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",6.5,126,"female",11.7,845,11.7411830233533,65.7383934798327,"Fall",115006
+9,-98.49,45.45,NA,1980,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10,128,"male",6.7,404,12.5258611268726,102.211018631783,"Fall",115007
+10,-120.46,40.41,NA,1958,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8.1,123,"male",10.4,380,7.26896683084184,82.483486591634,"Fall",115008
+12,-95.19,39.04,NA,1991,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",8.9,122,"male",13.8,769,10.500158728959,60.727016029447,"Winter",115009
+6,-95.24,38.92,NA,1971,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.8,119,"male",12.4,870,10.4055164565375,52.3933467310102,"Summer",115010
+11,-95.19,39.04,NA,1996,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12,107,"male",12.2,1175,10.3515004036159,82.8435637831031,"Fall",115011
+11,-95.19,39.04,NA,1996,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",7,103,"male",12.2,1175,10.3515004036159,82.8435637831031,"Fall",115012
+5,-98.42,44.29,NA,1998,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.8,128,"male",9.1,648,11.358376964722,77.2024577247253,"Spring",115013
+6,-98.39,43.4,NA,1998,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.7,120,"male",10.4,770,10.8308027347371,73.0391474667976,"Summer",115014
+5,-96.99,37.23,NA,1969,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11.6,126,"male",14.2,904,10.0491066993313,61.2704750402295,"Spring",115015
+2,-96.97,37.21,NA,1971,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.2,116,"female",14.5,824,9.67284154922242,57.6809015290339,"Winter",115016
+4,-101.35,37.56,NA,1969,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",10,135,"male",12.8,647,9.84212883475928,85.1688049239417,"Spring",115017
+10,-101.35,37.4,NA,1979,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",15.5,162,"female",12.2,496,10.7494608744304,80.6294628303878,"Fall",115018
+8,-92.6,40.2,NA,1997,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.9,135,"female",10.3,837,10.4021377464908,44.2582286834886,"Summer",115019
+6,-97.2,37.18,NA,1994,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",7.1,102,"male",15.1,786,9.39782373260378,85.4850295093918,"Summer",115020
+5,-97.2,37.18,NA,1994,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12.2,123,"male",15.1,786,9.39782373260378,85.4850295093918,"Spring",115021
+2,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.6,128,"male",14.8,941,9.12749343268109,85.4322960952819,"Winter",115022
+2,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.3,125,"male",14.8,941,9.12749343268109,85.4322960952819,"Winter",115023
+5,-97.2,37.17,NA,1994,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.9,122,"male",15.2,790,9.3719439463397,85.0801397090033,"Spring",115024
+6,-97.2,37.17,NA,1994,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",8.3,125,"male",15.2,790,9.3719439463397,85.0801397090033,"Summer",115025
+3,-97.2,37.17,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.8,124,"male",14.7,928,9.14394567045553,85.9736263994788,"Spring",115026
+2,-97.17,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11.1,123,"male",14.7,944,9.14583859667136,85.409822975053,"Winter",115027
+2,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.2,125,"male",14.8,941,9.12749343268109,85.4322960952819,"Winter",115028
+2,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.2,120,"male",14.8,941,9.12749343268109,85.4322960952819,"Winter",115029
+3,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12,130,"female",14.8,941,9.12749343268109,85.4322960952819,"Spring",115030
+4,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.8,126,"male",14.8,941,9.12749343268109,85.4322960952819,"Spring",115031
+4,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.9,122,"female",14.8,941,9.12749343268109,85.4322960952819,"Spring",115032
+4,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,124,"female",14.8,941,9.12749343268109,85.4322960952819,"Spring",115033
+12,-97.16,39.02,NA,2004,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.4,132,"female",13.2,873,9.68574006496461,74.9891429632726,"Winter",115034
+7,-106.38,34.79,NA,1970,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",10.5,134,"male",7.4,375,7.76711697224949,82.3889170933894,"Summer",115035
+8,-121.7014,36.6472,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,140,"male",13.6,250,2.99327529133172,148.832840950694,"Summer",115036
+3,-121.7444,36.6778,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,143,"female",13.2,439,3.21006938469334,134.457542704755,"Spring",115037
+9,-121.8028,36.7239,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,147,"female",12.8,267,2.52447114173534,143.348626694025,"Fall",115038
+8,-121.8028,36.7333,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.8,150,"male",12.8,270,2.52303028483247,144.04355195234,"Summer",115039
+3,-121.7444,36.6778,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,140,"male",13.2,439,3.21006938469334,134.457542704755,"Spring",115040
+8,-121.77861,36.7478,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.3,135,"female",12.9,270,2.58878700974379,144.184706876494,"Summer",115041
+10,-118.2953,34.2839,NA,1992,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.8,144,"male",17.9,779,5.22946199214343,155.357855283287,"Fall",115042
+10,-118.2953,34.2839,NA,1992,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.7,148,"male",17.9,779,5.22946199214343,155.357855283287,"Fall",115043
+9,-118.45,35.11,NA,1972,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.3,142,"male",12.5,155,6.927743959157,168.453253306396,"Fall",115044
+7,-121.7897,36.2386,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",5.6,130,"male",12.8,432,2.83725219182222,149.119275111983,"Summer",115045
+10,-118.6894,34.0442,NA,1997,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10,155,"female",16.7,316,2.95095002678901,186.959573177342,"Fall",115046
+3,-121.6617,36.63,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,142,"male",13.7,442,3.53810426898103,132.599470848835,"Spring",115047
+4,-118.0756,33.7467,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,148,"male",17.4,169,3.57172184943018,140.862701083666,"Spring",115048
+3,-121.6617,36.6461,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,146,"male",13.7,432,3.53038756564154,131.925576742915,"Spring",115049
+8,-121.8028,36.7333,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.4,149,"male",12.8,270,2.52303028483247,144.04355195234,"Summer",115050
+4,-121.8028,36.7239,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11.5,152,"female",12.8,462,3.0219901128932,133.104932224792,"Spring",115051
+3,-121.7444,36.6778,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,158,"male",13.2,439,3.21006938469334,134.457542704755,"Spring",115052
+8,-121.77861,36.7478,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.4,136,"female",12.9,270,2.58878700974379,144.184706876494,"Summer",115053
+7,-120.8,37.1333,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12,155,"male",16.6,162,7.40998507339109,105.775363316435,"Summer",115054
+9,-117.42,34.22,NA,1976,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.7,140,"male",16.7,617,4.82998839323532,135.862631678169,"Fall",115055
+8,-121.8028,36.7333,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.7,142,"male",12.8,270,2.52303028483247,144.04355195234,"Summer",115056
+3,-121.7897,36.2386,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,132,"male",12.9,663,3.44465989876821,137.836888116922,"Spring",115057
+3,-121.7444,36.6778,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7,144,"female",13.2,439,3.21006938469334,134.457542704755,"Spring",115058
+5,-109.55437,35.708259,NA,2004,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,123,"male",10.2,262,8.70369131025696,75.6019733027095,"Spring",115059
+5,-105.05073,35.84093,NA,2012,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",10,149,"male",11.2,269,7.74871934677928,77.5106916706125,"Spring",115060
+5,-105.05073,35.84093,NA,2012,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",10,134,"female",11.2,269,7.74871934677928,77.5106916706125,"Spring",115061
+2,-112.8181666667,43.5185,NA,2003,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.4,131,"male",7.1,180,9.88888264668966,86.2226387577151,"Winter",115062
+6,-112.8181666667,43.5185,NA,2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,134,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",115063
+4,-106.4790277778,35.2866388889,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,1080,"female",12.3,373,8.12796798937863,120.307968450669,"Spring",115064
+5,-105.8923833333,35.5821166667,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,138,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",115065
+5,-105.8923833333,35.5821166667,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,142,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",115066
+5,-105.8923833333,35.5821166667,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,141,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",115067
+7,-108.5582,33.0155,NA,2012,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,141,"male",15.9,266,7.63855352799206,144.433383948058,"Summer",115068
+7,-108.5362,33.0297,NA,2012,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,147,"female",15.7,274,7.6000149521384,144.372644378812,"Summer",115069
+5,-119.86851,37.56624,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,114,"male",13.8,1191,6.49495725135814,108.403261429084,"Spring",115089
+5,-119.88244,37.57775,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,125,"female",13.8,1178,6.46203364180958,108.615146878293,"Spring",115090
+5,-119.88244,37.57775,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,145,"male",13.8,1178,6.46203364180958,108.615146878293,"Spring",115091
+5,-122.18314,40.38944,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,124,"female",16.4,421,7.36397352389361,117.196693362334,"Spring",115092
+5,-122.18314,40.38944,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.1,125,"female",16.4,421,7.36397352389361,117.196693362334,"Spring",115093
+5,-122.18314,40.38944,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7.6,124,"female",16.4,421,7.36397352389361,117.196693362334,"Spring",115094
+5,-122.18468,40.31742,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.75,127,"female",16.4,411,7.3775868601317,119.530676072872,"Spring",115095
+5,-122.19799,40.38748,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.5,123,"male",16.4,418,7.37037476946893,116.215772943418,"Spring",115096
+10,-120.47273,40.52303,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11,141,"male",10.7,220,8.65389647745016,104.790326840434,"Fall",115097
+10,-120.46666,40.52438,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7.5,120,"female",10.6,220,8.64223245569001,104.779258039301,"Fall",115098
+10,-120.47273,40.52303,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9.5,117,"female",10.7,220,8.65389647745016,104.790326840434,"Fall",115099
+10,-120.47273,40.52303,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",9.5,129,"female",10.7,220,8.65389647745016,104.790326840434,"Fall",115100
+10,-120.47273,40.52303,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7.75,123,"male",10.7,220,8.65389647745016,104.790326840434,"Fall",115101
+3,-117.4797,33.46833,"adult",2006,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6.8,130,"female",17.2,261,3.96655525690247,101.625648204362,"Spring",115102
+12,-116.86099,32.62052,"juvenile",2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",4.9,117,"male",17.2,505,3.99964960586512,184.276372617755,"Winter",115103
+8,-116.86501,32.62632,"juvenile",2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",5.1,123,"female",17.3,485,3.92679219843589,184.179837449802,"Summer",115104
+3,-116.235843,35.87852103,NA,2013,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,135,"undetermined",21.1,69,9.35025522257402,127.611069191654,"Spring",115105
+5,-100.62685,23.4831167,NA,1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,156,"female",19.4,466,3.93202661910284,72.9494378706925,"Spring",115106
+9,-106.7188333,34.8293333,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,124,"male",14,227,8.86226251979126,93.3183065561333,"Fall",115107
+6,-102.625,33.3149986,NA,1996,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,125,"female",15.4,400,8.18749971084894,123.224849914145,"Summer",115108
+7,-110.92583,32.06203,NA,1939,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,143,"male",19,227,7.55638902859793,86.9061306551863,"Summer",115109
+10,-111.010608,33.723164,NA,1944,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,123,"male",18.6,400,8.57707921607279,79.4686902325232,"Fall",115110
+11,-109.137026,31.916895,NA,1958,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.9,146,"male",15,431,7.50137361158648,97.1392142032606,"Fall",115111
+11,-109.152562,31.89917,NA,1958,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.2,148,"male",12.6,644,7.23306276550238,100.144215637771,"Fall",115112
+8,-109.17703,31.569987,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.7,128,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",115113
+8,-109.17703,31.569987,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.3,118,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",115114
+8,-109.17703,31.569987,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.4,125,"female",15.4,162,7.58233093608044,131.71194777314,"Summer",115115
+8,-109.17703,31.569987,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.9,124,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",115116
+10,-110.58889,31.79028,NA,1959,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6.2,121,"female",15.9,492,6.78016268688341,135.652614036436,"Fall",115117
+11,-109.188882,31.606734,NA,1955,"Reithrodontomys megalotis","Reithrodontomys_megalotis",17,134,"male",14.9,306,7.10716134784081,152.447917878781,"Fall",115118
+11,-110.846694,32.569512,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,114,"male",17.9,242,7.93633760278975,93.4157202634568,"Fall",115119
+11,-110.86776,32.629263,NA,1961,"Reithrodontomys megalotis","Reithrodontomys_megalotis",17.8,128,"female",17.1,396,7.47806894535716,83.2332319400475,"Fall",115120
+10,-108.265701,32.78316,NA,1962,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,130,"female",12.3,442,7.19171977577918,103.779051770664,"Fall",115121
+3,-109.566289,31.876177,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,136,"male",15.1,307,7.77078834579552,142.281871212588,"Spring",115122
+3,-109.440342,31.876215,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.7,131,"male",14.2,371,7.49732780678718,140.219317231937,"Spring",115123
+3,-109.542466,31.876331,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6,111,"male",15,313,7.71909772557452,142.331315370604,"Spring",115124
+3,-109.542466,31.876331,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.2,131,"female",15,313,7.71909772557452,142.331315370604,"Spring",115125
+3,-109.542466,31.876331,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.1,137,"male",15,313,7.71909772557452,142.331315370604,"Spring",115126
+6,-102.566667,20.253126,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",17,178,"male",19.3,749,2.57640811749202,112.141704591109,"Summer",115127
+6,-102.566667,20.253126,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,172,"female",19.3,749,2.57640811749202,112.141704591109,"Summer",115128
+6,-102.566667,20.253126,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,162,"female",19.3,749,2.57640811749202,112.141704591109,"Summer",115129
+3,-109.566289,31.876177,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.8,143,"male",15.1,307,7.77078834579552,142.281871212588,"Spring",115130
+3,-109.542466,31.876331,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.2,138,"female",15,313,7.71909772557452,142.331315370604,"Spring",115131
+7,-112.73639,36.86194,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.4,144,"male",11.5,176,9.32224449498308,71.2333653324692,"Summer",115132
+7,-112.73639,36.86194,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,134,"male",11.5,176,9.32224449498308,71.2333653324692,"Summer",115133
+7,-112.73639,36.86194,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.6,125,"female",11.5,176,9.32224449498308,71.2333653324692,"Summer",115134
+7,-112.72914,36.86194,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,139,"male",11.5,177,9.316013421019,71.8728372529851,"Summer",115135
+7,-112.826296,36.646044,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.5,132,"female",12,182,9.41103076182413,73.8251163881816,"Summer",115136
+7,-112.92111,36.54361,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,139,"female",11.2,205,9.26267763498747,81.3956360850481,"Summer",115137
+7,-112.92111,36.54361,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.2,139,"female",11.2,205,9.26267763498747,81.3956360850481,"Summer",115138
+7,-113.07667,36.21889,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",16.4,180,"female",13.9,202,9.41809991774381,93.1755704134789,"Summer",115139
+12,-107.633333,30.116667,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.3,142,NA,16.8,273,7.50369605897351,131.323986022405,"Winter",115140
+12,-107.573996,30.065326,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.9,128,"female",16.8,267,7.45682522419846,132.639771171751,"Winter",115141
+12,-107.633333,30.116667,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.1,125,"female",16.8,273,7.50369605897351,131.323986022405,"Winter",115142
+12,-107.573996,30.065326,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.2,118,"male",16.8,267,7.45682522419846,132.639771171751,"Winter",115143
+10,-109.15292,31.923872,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.5,149,"male",13.5,368,7.70706091054092,134.436515651948,"Fall",115144
+10,-109.20333,31.8825,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,129,"female",12.3,459,7.51658771711545,139.542866962904,"Fall",115145
+6,-102.566667,20.262153,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,162,"male",19.4,752,2.59350879674388,112.14130299915,"Summer",115146
+6,-102.566667,20.262153,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",15,170,"female",19.4,752,2.59350879674388,112.14130299915,"Summer",115147
+6,-102.566667,20.262153,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,130,"male",19.4,752,2.59350879674388,112.14130299915,"Summer",115148
+12,-110.58889,31.79028,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",20.4,145,"female",14.8,460,7.35574399343599,126.046333922252,"Winter",115149
+8,-109.275,31.90333,NA,1968,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.5,100,"female",8,695,6.23841957452998,103.262779880853,"Summer",115150
+11,-109.275,31.90333,NA,1969,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.7,151,"female",8.9,695,6.86605616585877,118.953198602667,"Fall",115151
+10,-109.229979,31.589005,NA,1969,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,152,"male",15.6,335,7.38972976911917,127.540483219087,"Fall",115152
+10,-109.2084,31.619,NA,1969,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.1,146,"female",15.5,336,7.41466094772357,125.384381175135,"Fall",115153
+10,-109.275,31.90333,NA,1969,"Reithrodontomys megalotis","Reithrodontomys_megalotis",17.3,153,"female",8.9,695,6.86605616585877,118.953198602667,"Fall",115154
+2,-109.550709,31.876018,NA,1970,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,142,"female",15.5,281,7.3180143026188,123.366506762263,"Winter",115155
+2,-109.550709,31.876018,NA,1970,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.1,145,"male",15.5,281,7.3180143026188,123.366506762263,"Winter",115156
+2,-109.153653,31.913609,NA,1970,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,125,"female",14,292,7.14516153304691,108.493939853243,"Winter",115157
+7,-109.642562,36.085269,NA,1970,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.7,130,"male",11,179,9.01064606031346,90.8767619283712,"Summer",115158
+12,-110.8326,31.8537,NA,1971,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,152,"male",17.1,458,7.01353669482786,126.540739960306,"Winter",115159
+5,-111.3637,32.444,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,139,"male",19.9,201,8.26205272020913,131.436815100018,"Spring",115160
+11,-110.85222,31.83333,NA,1972,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.8,154,"male",17.8,428,6.8922002468315,108.303185638613,"Fall",115161
+7,-112.8209,34.6726,NA,1970,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,140,"male",13.2,577,7.44889660326015,131.955409612687,"Summer",115162
+10,-110.587,31.3584,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,159,"male",14.4,403,7.12798050366344,109.975678797796,"Fall",115163
+10,-110.587,31.3584,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,133,"female",14.4,403,7.12798050366344,109.975678797796,"Fall",115164
+11,-111.1058,32.3589,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,145,"female",19.6,222,8.2,129.872924490181,"Fall",115165
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.5,141.5,"male",14.9,390,7.08217459327973,119.090345294103,"Winter",115166
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.3,129,"female",14.9,390,7.08217459327973,119.090345294103,"Winter",115167
+2,-110.452376,31.598122,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.2,108,"male",15.5,389,7.07730046120566,120.384733472536,"Winter",115168
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.5,123,"male",14.9,390,7.08217459327973,119.090345294103,"Winter",115169
+2,-110.452376,31.598122,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6.1,121,"male",15.5,389,7.07730046120566,120.384733472536,"Winter",115170
+2,-110.452376,31.598122,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6.9,121,"male",15.5,389,7.07730046120566,120.384733472536,"Winter",115171
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,119.5,"female",14.9,390,7.08217459327973,119.090345294103,"Winter",115172
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.6,131,"female",14.9,390,7.08217459327973,119.090345294103,"Winter",115173
+4,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.5,88,"female",14.9,390,7.08217459327973,119.090345294103,"Spring",115174
+2,-110.452376,31.598122,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.1,123,"female",15.5,389,7.07730046120566,120.384733472536,"Winter",115175
+10,-110.7145,31.8102,NA,1975,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,139,"male",14.8,455,6.8211513735297,135.101030236522,"Fall",115176
+9,-110.7145,31.8392,NA,1976,"Reithrodontomys megalotis","Reithrodontomys_megalotis",16,146,"female",16.1,448,6.25350204915517,85.7772448177827,"Fall",115177
+1,-112.7796,34.325,NA,1981,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,125,"male",15,467,7.12732683962142,82.7976248976373,"Winter",115178
+9,-109.1285,31.9226,NA,1979,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,128,"male",14.5,323,7.39334262370649,87.904681476656,"Fall",115179
+1,-112.558,34.3683,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.7,115,"female",15.6,532,6.94591115824136,126.788491558754,"Winter",115180
+1,-112.5927,34.3392,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.9,139,"female",15.5,525,6.92380609990566,125.739312739052,"Winter",115181
+7,-109.079278,31.936832,NA,1982,"Reithrodontomys megalotis","Reithrodontomys_megalotis",22,162,"female",16.2,327,7.26529212743505,90.6269359942345,"Summer",115182
+7,-109.079278,31.936832,NA,1982,"Reithrodontomys megalotis","Reithrodontomys_megalotis",15,152,"male",16.2,327,7.26529212743505,90.6269359942345,"Summer",115183
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,135,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",115184
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.4,143,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",115185
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,141,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",115186
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.8,118,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115187
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.9,122,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115188
+1,-112.7207,34.3106,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.2,143,"female",15.3,526,6.86974041236882,125.724202678508,"Winter",115189
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.6,141,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115190
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.2,134,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115191
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.3,152,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115192
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.8,136,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",115193
+1,-112.7207,34.3106,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,124,"male",15.3,526,6.86974041236882,125.724202678508,"Winter",115194
+4,-110.0934,31.4598,NA,1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,136,"male",17.1,373,6.81048100468326,108.689783746722,"Spring",115195
+4,-110.0934,31.4598,NA,1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,131,"male",17.1,373,6.81048100468326,108.689783746722,"Spring",115196
+5,-110.1274,31.3584,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,126,"male",16.8,325,7.22937505157698,101.159537428606,"Spring",115197
+9,-109.4822,31.9705,NA,1972,"Reithrodontomys megalotis","Reithrodontomys_megalotis",15,140,"female",15.5,396,6.95301874706014,116.190757713246,"Fall",115198
+4,-110.0934,31.4598,NA,1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,136,"female",17.1,373,6.81048100468326,108.689783746722,"Spring",115199
+4,-110.1274,31.5466,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,134,"male",16.9,318,7.33441452084871,98.0802161182983,"Spring",115200
+9,-110.5359,31.5901,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.8,126,"male",15,397,7.11687601707549,85.226025240928,"Fall",115201
+5,-110.1274,31.3584,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,130,"female",16.8,325,7.22937505157698,101.159537428606,"Spring",115202
+5,-110.1274,31.3584,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,133,"female",16.8,325,7.22937505157698,101.159537428606,"Spring",115203
+11,-110.5019,31.5901,NA,1985,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.6,132,NA,15.2,483,7.03253801334134,74.4323925757553,"Fall",115204
+11,-110.5019,31.5901,NA,1985,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.8,122,"female",15.2,483,7.03253801334134,74.4323925757553,"Fall",115205
+1,-112.02528,34.77083,NA,2003,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.2,140,"male",18.2,312,8.32624547058058,92.2202382925039,"Winter",115206
+5,-119.593776,49.49882,NA,1980,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",14,148,"female",9.2,307,8.16894989727826,49.9029914337144,"Spring",115207
+5,-119.593776,49.49882,NA,1981,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",13,140,"male",9.7,349,7.34543766874749,41.1683866904983,"Spring",115208
+5,-119.593776,49.49882,NA,1980,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11,139,"male",9.2,307,8.16894989727826,49.9029914337144,"Spring",115209
+7,-119.726345,49.000588,NA,1981,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8,135,"female",9.7,366,7.83814971208709,46.6693435922466,"Summer",115210
+5,-119.9833333,47.0166667,"unknown",1994,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,136,"female",12.4,177,8.98456589059395,65.5483143769228,"Spring",115211
+6,-108.9833333333,32.9833333333,NA,1995,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,133,"male",12.8,401,6.8157738172032,101.685274212185,"Summer",115212
+12,-121.08834,35.53973,NA,2004,"Reithrodontomys megalotis","Reithrodontomys_megalotis",5.75,126,NA,13.4,530,2.14934803363647,144.147351171643,"Winter",115213
+6,-122.04623,37.88417,"unknown",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.1,51,"undetermined",15.1,471,4.90185493646862,123.657027954477,"Summer",115214
+6,-122.47368,37.79078,"unknown",2011,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.2,140,"male",13,458,2.46925028494419,136.673247841153,"Summer",115215
+7,-122.39272,37.7151,"U",2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",4.7,131,"undetermined",14.4,603,2.52868393126591,134.150677334922,"Summer",115216
+5,-121.07173,35.52551,"Adult?",2004,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.8,117,"f?",13.1,603,2.31451284225638,144.176583873656,"Spring",115217
+12,-122.47846,37.80239,"U",2010,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.3,132,"male",13.9,731,2.51761972722433,101.122667590657,"Winter",115219
+12,-122.47783,37.79803,"U",2010,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.1,133,"f?",13.9,739,2.52346563041362,101.254309135889,"Winter",115220
+8,-104.4723301,40.5265766,NA,1998,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",13.5,138,"male",9.5,379,9.46102051001419,84.6412931080578,"Summer",115221
+6,-104.7418,38.4448,NA,2007,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.7,122,"female",11.4,398,9.60355047980599,79.2467795789195,"Summer",115222
+6,-104.0799,39.6477,NA,2003,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,117,"female",10.6,288,9.3400733239611,75.1265760819154,"Summer",115223
+6,-105.5005483,40.1512114,NA,1987,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",14.2,144,"male",3.8,701,7.63732858261237,36.4779991609055,"Summer",115224
+8,-104.85,39.7833333333,NA,1997,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.9,145,"male",9.5,594,9.26953302082917,77.3946469312895,"Summer",115225
+11,-96.17883,38.38452,NA,1962,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.6,140,"female",12.8,783,10.6492103847272,67.6091172700998,"Fall",115226
+2,-96.33843,38.49608,NA,1963,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.3,136,"male",13.3,583,11.964451765986,73.0496782980996,"Winter",115227
+10,-98.74719,38.44913,NA,1965,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.1,120,"female",13.3,747,10.099774974991,89.5848531529371,"Fall",115228
+11,-96.33843,38.49608,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",129,59,"male",12.7,817,9.90293803970225,62.0961576734261,"Fall",115229
+6,-101.69,43.96,NA,1971,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",13.7,146,"female",7.8,594,11.9286896331339,82.3752962016484,"Summer",115230
+7,-101.85,43.95,NA,1971,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",13.2,135,"male",7.8,586,11.9312773326195,79.2971955575654,"Summer",115231
+9,-120.12,40.26,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,140,"male",10.4,160,7.95030016585995,109.83974794409,"Fall",115232
+9,-120.12,40.26,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11,152,"male",10.4,160,7.95030016585995,109.83974794409,"Fall",115233
+9,-120.12,40.26,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",7,139,"male",10.4,160,7.95030016585995,109.83974794409,"Fall",115234
+9,-120.12,40.26,NA,1977,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",8,142,"male",10.4,160,7.95030016585995,109.83974794409,"Fall",115235
+3,-121.17,45.59,NA,1994,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10.4,140,"male",11.9,389,7.58424902896347,86.4907624372437,"Spring",115236
+7,-123.79,39.3,"ADULT",1998,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10.8,165,"female",11.6,1460,2.37295366387738,118.848257480624,"Summer",115237
+8,-99.33,43.84,NA,1998,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",16.2,139,"female",10.3,722,11.2225793772549,81.2352585098666,"Summer",115238
+6,-98.39,43.4,NA,1998,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11.2,NA,"male",10.4,770,10.8308027347371,73.0391474667976,"Summer",115239
+8,-100.7,43.51,NA,1998,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",6.5,110,"female",10.1,612,10.630413059622,90.1125902622818,"Summer",115240
+3,-96.86,37.34,NA,1971,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",7.4,126,"female",14.1,828,9.82647937817492,57.4814638961319,"Spring",115241
+5,-97.2,37.18,NA,1994,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,128,"female",15.1,786,9.39782373260378,85.4850295093918,"Spring",115242
+2,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",9.3,127,"female",14.8,941,9.12749343268109,85.4322960952819,"Winter",115243
+5,-97.18,37.15,NA,1994,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.9,134,"male",15.2,804,9.3682693010486,85.419373342129,"Spring",115244
+5,-97.18,37.15,NA,1994,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,125,"female",15.2,804,9.3682693010486,85.419373342129,"Spring",115245
+6,-97.2,37.17,NA,1994,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",10.2,127,"male",15.2,790,9.3719439463397,85.0801397090033,"Summer",115246
+9,-97.17,37.15,NA,1994,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11.9,134,"male",15.1,807,9.39346565276613,85.3294763740797,"Fall",115247
+4,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",11,124,"male",14.8,941,9.12749343268109,85.4322960952819,"Spring",115248
+4,-97.18,37.15,NA,1995,"Reithrodontomys megalotis dychei","Reithrodontomys_megalotis",12.5,131,"female",14.8,941,9.12749343268109,85.4322960952819,"Spring",115249
+8,-102.96,36.96,NA,1970,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",17.5,142,"female",12.3,293,9.1925200158838,85.1687071568481,"Summer",115250
+8,-102.96,36.96,NA,1970,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",10,140,"female",12.3,293,9.1925200158838,85.1687071568481,"Summer",115251
+3,-121.7444,36.6778,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,136,"male",13.2,439,3.21006938469334,134.457542704755,"Spring",115252
+11,-118.19,34.09,NA,2000,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.1,140,"male",16.9,342,3.4636970089338,168.504288402741,"Fall",115253
+6,-115.9311,35.7836,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,134,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",115254
+3,-121.7,36.6461,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,NA,"male",13.6,432,3.43722932818651,132.828209569238,"Spring",115255
+8,-121.8028,36.7333,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12.4,147,"female",12.8,270,2.52303028483247,144.04355195234,"Summer",115256
+11,-118.3575,34.2708,NA,1992,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.8,147,"male",18.4,641,4.89987631260095,151.717798592242,"Fall",115257
+8,-121.77861,36.7478,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",12.1,142,"female",12.9,270,2.58878700974379,144.184706876494,"Summer",115258
+3,-121.8028,36.7239,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.5,141,"female",12.8,462,3.0219901128932,133.104932224792,"Spring",115259
+3,-121.7,36.6461,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",17,154,"male",13.6,432,3.43722932818651,132.828209569238,"Spring",115260
+3,-121.7444,36.6778,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,NA,"female",13.2,439,3.21006938469334,134.457542704755,"Spring",115261
+4,-121.7897,36.7875,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.5,NA,"male",12.9,491,3.08687347955628,132.026809499728,"Spring",115262
+3,-121.7,36.6461,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,140,"male",13.6,432,3.43722932818651,132.828209569238,"Spring",115263
+7,-121.7897,36.2386,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.2,NA,"male",12.8,432,2.83725219182222,149.119275111983,"Summer",115264
+4,-118.0756,33.7467,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,154,"male",17.4,169,3.57172184943018,140.862701083666,"Spring",115265
+4,-118.0756,33.7467,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.3,153,"male",17.4,169,3.57172184943018,140.862701083666,"Spring",115266
+3,-121.6617,36.63,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.5,143,"female",13.7,442,3.53810426898103,132.599470848835,"Spring",115267
+8,-121.77861,36.7478,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",7.7,130,"male",12.9,270,2.58878700974379,144.184706876494,"Summer",115268
+4,-118.0756,33.7467,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9,141,"female",17.4,169,3.57172184943018,140.862701083666,"Spring",115269
+10,-118.2953,34.2839,NA,1992,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.9,135,"male",17.9,779,5.22946199214343,155.357855283287,"Fall",115270
+8,-121.8028,36.7333,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.8,115,"male",12.8,270,2.52303028483247,144.04355195234,"Summer",115271
+8,-121.8028,36.7333,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.2,135,"male",12.8,270,2.52303028483247,144.04355195234,"Summer",115272
+10,-118.2953,34.2839,NA,1992,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",10.9,140,"female",17.9,779,5.22946199214343,155.357855283287,"Fall",115273
+9,-121.8028,36.7239,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",11,148,"male",12.8,267,2.52447114173534,143.348626694025,"Fall",115274
+8,-121.8028,36.7333,NA,1966,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,149,"female",12.8,270,2.52303028483247,144.04355195234,"Summer",115275
+3,-121.7897,36.2386,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8,136,"male",12.9,663,3.44465989876821,137.836888116922,"Spring",115276
+3,-121.7,36.6461,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",8.5,146,"female",13.6,432,3.43722932818651,132.828209569238,"Spring",115277
+4,-118.0756,33.7467,NA,1990,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",9.5,152,"male",17.4,169,3.57172184943018,140.862701083666,"Spring",115278
+5,-109.55437,35.708259,NA,2004,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,136,"male",10.2,262,8.70369131025696,75.6019733027095,"Spring",115279
+5,-105.05073,35.84093,NA,2012,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",6,139,"male",11.2,269,7.74871934677928,77.5106916706125,"Spring",115280
+5,-105.05073,35.84093,NA,2012,"Reithrodontomys megalotis aztecus","Reithrodontomys_megalotis",7.5,137,"male",11.2,269,7.74871934677928,77.5106916706125,"Spring",115281
+10,-104.1160833333,30.6985,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,150,"female",15.2,429,6.6060750277852,135.351234694662,"Fall",115282
+9,-108.6903333333,33.73355,NA,2005,"Reithrodontomys megalotis","Reithrodontomys_megalotis",20,143,"female",11.8,378,7.24516557729527,74.7774565263251,"Fall",115283
+4,-106.4819444444,35.2833333333,NA,2006,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,1360,"male",12.4,370,8.12407570500214,120.720691289094,"Spring",115284
+5,-105.8923833333,35.5821166667,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,131,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",115285
+5,-105.8923833333,35.5821166667,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",15,146,"female",9.9,354,7.87468133073371,73.7664392242334,"Spring",115286
+5,-105.8923833333,35.5821166667,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,135,"female",9.9,354,7.87468133073371,73.7664392242334,"Spring",115287
+5,-105.8923833333,35.5821166667,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,138,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",115288
+5,-105.8923833333,35.5821166667,"adult",2009,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,139,"male",9.9,354,7.87468133073371,73.7664392242334,"Spring",115289
+10,-104.1160833333,30.6985,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,133,"male",15.2,429,6.6060750277852,135.351234694662,"Fall",115291
+5,-119.86851,37.56624,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,140,"female",13.8,1191,6.49495725135814,108.403261429084,"Spring",115308
+5,-119.88244,37.57775,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,157,"male",13.8,1178,6.46203364180958,108.615146878293,"Spring",115309
+5,-119.88244,37.57775,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",10,145,"undetermined",13.8,1178,6.46203364180958,108.615146878293,"Spring",115310
+5,-119.88244,37.57775,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.5,127,"male",13.8,1178,6.46203364180958,108.615146878293,"Spring",115311
+5,-122.18314,40.38944,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",12,143,"male",16.4,421,7.36397352389361,117.196693362334,"Spring",115312
+5,-122.18314,40.38944,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8,121,"male",16.4,421,7.36397352389361,117.196693362334,"Spring",115313
+5,-122.18314,40.38944,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11,133,"male",16.4,421,7.36397352389361,117.196693362334,"Spring",115314
+5,-122.18314,40.38944,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",12.7,144,"female",16.4,421,7.36397352389361,117.196693362334,"Spring",115315
+5,-122.1783,40.32251,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7.5,124,"male",16.4,413,7.37803353122489,118.467230633275,"Spring",115316
+5,-122.19548,40.3909,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",13.6,130,"female",16.4,421,7.38205748604498,117.9226500358,"Spring",115317
+5,-122.19548,40.3909,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",11.8,122,"male",16.4,421,7.38205748604498,117.9226500358,"Spring",115318
+5,-122.19799,40.38748,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9,135,"male",16.4,418,7.37037476946893,116.215772943418,"Spring",115319
+5,-122.19799,40.38748,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6,122,"female",16.4,418,7.37037476946893,116.215772943418,"Spring",115320
+5,-122.19799,40.38748,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,130,"male",16.4,418,7.37037476946893,116.215772943418,"Spring",115321
+5,-122.19799,40.38748,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8.5,129,"male",16.4,418,7.37037476946893,116.215772943418,"Spring",115322
+5,-122.19799,40.38748,NA,2007,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9,145,"male",16.4,418,7.37037476946893,116.215772943418,"Spring",115323
+7,-121.6375055,37.5959055,NA,2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",8,134,"female",15.4,718,5.27834340403399,116.37980351282,"Summer",115324
+10,-121.7321277,37.7302166,NA,2006,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7,131,"male",14.8,410,5.30348656045904,117.242384415512,"Fall",115325
+10,-120.47273,40.52303,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",10,129,"female",10.7,220,8.65389647745016,104.790326840434,"Fall",115326
+10,-120.47273,40.52303,NA,2007,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",12,142,"male",10.7,220,8.65389647745016,104.790326840434,"Fall",115327
+3,-117.10341,32.88998,"juvenile",2006,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6.9,127,"male",17.4,198,4.51307863745789,102.801034475394,"Spring",115328
+11,-117.08792,32.89408,"adult",1999,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",3.5,116,"female",16,174,3.49920986752291,130.513812631344,"Fall",115329
+3,-116.8609,32.67351,"adult",2006,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",7.5,122,"male",17.7,171,5.06062488655544,141.245157316737,"Spring",115330
+6,-116.61808,33.11571,"adult",2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",6,111,"undetermined",14.1,740,5.39668809773572,151.969845680571,"Summer",115331
+7,-116.85367,32.66375,"adult",2005,"Reithrodontomys megalotis longicaudus","Reithrodontomys_megalotis",9.7,141,"female",17.4,457,3.82054850893048,184.558795865169,"Summer",115332
+3,-116.235752,35.878602,NA,2013,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",11,135,"undetermined",21.1,69,9.35025522257402,127.611069191654,"Spring",115333
+5,-103.3046167,25.9062667,NA,1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,141,"female",21.1,293,5.9316498292608,86.4938847835436,"Spring",115334
+5,-103.3046167,25.9062667,NA,1997,"Reithrodontomys megalotis","Reithrodontomys_megalotis",16,170,"male",21.1,293,5.9316498292608,86.4938847835436,"Spring",115335
+7,-114.21,37.6883333,NA,2000,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,139,"male",11.1,405,8.5076925974869,100.611284658478,"Summer",115336
+11,-102.625,33.3149986,NA,1996,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,141,"male",15.4,400,8.18749971084894,123.224849914145,"Fall",115337
+9,-98.9580555556,43.7466666667,NA,1998,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,141,"undetermined",10,748,10.9514182006743,74.7809619355705,"Fall",115338
+11,-109.205921,31.628505,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.7,144,"male",15.4,166,7.57525377112673,136.010033127926,"Fall",115339
+11,-109.205921,31.628505,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,136,"male",15.4,166,7.57525377112673,136.010033127926,"Fall",115340
+8,-109.17703,31.569987,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.6,120,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",115341
+8,-109.17703,31.569987,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.2,115,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",115342
+12,-110.744438,32.639854,NA,1953,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,125.2,"male",17.1,275,7.52831020518247,137.178260966317,"Winter",115343
+11,-109.03056,31.980416,NA,1956,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,139,"male",16.1,118,8.19722791280964,129.714632861633,"Fall",115344
+10,-96.58056,39.19167,NA,1954,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,123,"male",13.9,686,10.6189653094086,90.7526366237148,"Fall",115345
+12,-110.856419,32.610801,NA,1961,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.9,135,"male",17,403,7.40998507339109,82.7678440533816,"Winter",115346
+6,-105.434036,23.721671,NA,1963,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,138,"female",11.3,1466,2.92806431043797,106.255418898542,"Summer",115347
+6,-105.434036,23.721671,NA,1963,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,140,"male",11.3,1466,2.92806431043797,106.255418898542,"Summer",115348
+3,-109.566289,31.876177,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,130,"female",15.1,307,7.77078834579552,142.281871212588,"Spring",115349
+3,-109.566289,31.876177,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,134,"female",15.1,307,7.77078834579552,142.281871212588,"Spring",115350
+3,-109.566289,31.876177,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.1,136,"female",15.1,307,7.77078834579552,142.281871212588,"Spring",115351
+3,-109.566289,31.876177,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.3,141,"female",15.1,307,7.77078834579552,142.281871212588,"Spring",115352
+3,-109.566289,31.876177,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.6,137,"male",15.1,307,7.77078834579552,142.281871212588,"Spring",115353
+3,-109.542466,31.876331,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.9,132,"male",15,313,7.71909772557452,142.331315370604,"Spring",115354
+3,-109.542466,31.876331,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.2,120,"male",15,313,7.71909772557452,142.331315370604,"Spring",115355
+6,-102.566667,20.253126,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",19,171,"male",19.3,749,2.57640811749202,112.141704591109,"Summer",115356
+3,-109.566289,31.876177,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,140,"male",15.1,307,7.77078834579552,142.281871212588,"Spring",115357
+3,-109.566289,31.876177,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.7,136,"male",15.1,307,7.77078834579552,142.281871212588,"Spring",115358
+3,-109.542466,31.876331,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.8,131,"male",15,313,7.71909772557452,142.331315370604,"Spring",115359
+3,-109.542466,31.876331,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.3,119,"male",15,313,7.71909772557452,142.331315370604,"Spring",115360
+7,-112.73639,36.86194,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.2,125,"female",11.5,176,9.32224449498308,71.2333653324692,"Summer",115361
+7,-112.73639,36.86194,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,140,"male",11.5,176,9.32224449498308,71.2333653324692,"Summer",115362
+7,-112.73639,36.872091,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.2,140,"female",11.4,182,9.34144804166632,71.2261791032771,"Summer",115363
+12,-107.573996,30.065326,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.5,126,"female",16.8,267,7.45682522419846,132.639771171751,"Winter",115364
+12,-107.633333,30.116667,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.4,137,"female",16.8,273,7.50369605897351,131.323986022405,"Winter",115365
+12,-107.573996,30.065326,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.1,154,"female",16.8,267,7.45682522419846,132.639771171751,"Winter",115366
+10,-109.20333,31.8825,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.5,150,"female",12.3,459,7.51658771711545,139.542866962904,"Fall",115367
+5,-108.066667,30.19838,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.1,121,"male",15.4,340,7.44883558115975,124.494127616653,"Spring",115368
+6,-102.566667,20.262153,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6,142,"female",19.4,752,2.59350879674388,112.14130299915,"Summer",115369
+6,-102.566667,20.262153,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",5,130,"male",19.4,752,2.59350879674388,112.14130299915,"Summer",115370
+10,-108.14972,32.832389,NA,1964,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.1,115,"male",10.7,364,8.15335495177887,138.844777943585,"Fall",115371
+10,-109.26278,31.918817,NA,1966,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6.9,121,"male",9.1,871,7.00331090530498,125.299338914875,"Fall",115372
+8,-109.275,31.90333,NA,1968,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,142,"female",8,695,6.23841957452998,103.262779880853,"Summer",115373
+8,-109.275,31.90333,NA,1968,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.2,142,"male",8,695,6.23841957452998,103.262779880853,"Summer",115374
+10,-109.275,31.90333,NA,1969,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.4,145,"female",8.9,695,6.86605616585877,118.953198602667,"Fall",115375
+10,-109.275,31.90333,NA,1969,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.8,154,"female",8.9,695,6.86605616585877,118.953198602667,"Fall",115376
+10,-109.113473,31.913607,NA,1969,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.3,135,"male",15.2,293,7.44911526168163,109.080160302532,"Fall",115377
+7,-109.48955,36.14306,NA,1970,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.3,111,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",115378
+8,-110.65472,31.730239,NA,1972,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.5,138,"male",15.3,464,6.66530478513833,108.499335105339,"Summer",115379
+8,-110.65472,31.737496,NA,1972,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.5,137,"male",15.3,460,6.67389191801406,108.352026006824,"Summer",115380
+1,-108.80667,31.670233,NA,1970,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.7,125,"male",14.5,294,7.48956850316735,101.738665473536,"Winter",115381
+11,-110.85222,31.83333,NA,1972,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,134,"female",17.8,428,6.8922002468315,108.303185638613,"Fall",115382
+11,-110.8671,31.965,NA,1972,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,137,"male",18.7,365,7.31007503174194,118.675768545993,"Fall",115383
+5,-111.3637,32.444,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.6,135,"male",19.9,201,8.26205272020913,131.436815100018,"Spring",115384
+9,-110.65472,31.693954,NA,1972,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.9,134,"female",15.1,464,6.6289082240158,107.463307438184,"Fall",115385
+8,-110.65472,31.737496,NA,1972,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.7,144,"female",15.3,460,6.67389191801406,108.352026006824,"Summer",115386
+9,-109.2792,32.7085,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,128,"female",15.4,230,8.06546603887478,102.916424738655,"Fall",115387
+8,-108.8542,33.4674,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,139,"female",12,384,7.55193633608245,84.0232613004398,"Summer",115388
+7,-112.8209,34.6726,NA,1970,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,140,"female",13.2,577,7.44889660326015,131.955409612687,"Summer",115389
+11,-111.0887,32.3444,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.5,135,"female",19.5,220,8.16327233108851,130.408407360767,"Fall",115390
+11,-110.6639,31.7375,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9,126,"female",14.9,378,7.21746094026441,118.714092845122,"Fall",115391
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.3,121,"female",14.9,390,7.08217459327973,119.090345294103,"Winter",115392
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,132,"male",14.9,390,7.08217459327973,119.090345294103,"Winter",115393
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.3,126,"male",14.9,390,7.08217459327973,119.090345294103,"Winter",115394
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.7,119,"male",14.9,390,7.08217459327973,119.090345294103,"Winter",115395
+2,-110.50611,31.59056,NA,1974,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.3,129,"female",14.9,390,7.08217459327973,119.090345294103,"Winter",115396
+9,-110.6977,31.8537,NA,1975,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,142,"female",15.6,405,6.95465834727147,128.803540729738,"Fall",115397
+9,-110.7314,31.8247,NA,1976,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,137,"female",15.7,479,6.22109680478816,88.7183577444048,"Fall",115398
+9,-110.7314,31.8247,NA,1976,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,150,"male",15.7,479,6.22109680478816,88.7183577444048,"Fall",115399
+9,-110.7314,31.8247,NA,1976,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14,166,"male",15.7,479,6.22109680478816,88.7183577444048,"Fall",115400
+10,-110.7145,31.8102,NA,1975,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8,125,"female",14.8,455,6.8211513735297,135.101030236522,"Fall",115401
+11,-110.8671,31.8191,NA,1975,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7,146,"male",17.1,338,7.1298136318029,133.968608734134,"Fall",115402
+6,-110.2976,31.3584,NA,1978,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,140,"male",14.8,952,7.13218802756952,71.5824372917868,"Summer",115403
+11,-109.4992,31.8685,NA,1973,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.5,141,"female",14.8,323,7.38858148521327,122.769010574567,"Fall",115404
+1,-112.7207,34.3106,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13,146,"male",15.3,526,6.86974041236882,125.724202678508,"Winter",115405
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.7,111,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115406
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.9,116,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115407
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.8,129,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",115408
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.7,115,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115409
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,130,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115410
+1,-112.5927,34.3392,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.1,124,"female",15.5,525,6.92380609990566,125.739312739052,"Winter",115411
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",9.1,118,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115412
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12,137,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115413
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.3,144,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",115414
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.9,129,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115415
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",12.6,139,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",115416
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",8.1,120,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115417
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.7,123,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115418
+1,-112.7207,34.3106,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",14.4,149,"female",15.3,526,6.86974041236882,125.724202678508,"Winter",115419
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,132,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115420
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.8,130,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",115421
+1,-112.7796,34.325,NA,1980,"Reithrodontomys megalotis","Reithrodontomys_megalotis",15.4,147,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",115422
+11,-110.5019,31.619,NA,1982,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6.4,114,"male",15.2,464,6.57545366564855,103.103299739529,"Fall",115423
+4,-110.0934,31.4598,NA,1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11,149,"male",17.1,373,6.81048100468326,108.689783746722,"Spring",115424
+6,-110.2422,31.8537,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",15,139,"female",16.5,354,7.61302711266562,94.1472339111988,"Summer",115425
+4,-110.0934,31.4598,NA,1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,130,"male",17.1,373,6.81048100468326,108.689783746722,"Spring",115426
+4,-110.0934,31.4598,NA,1988,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.7,125,"female",17.1,373,6.81048100468326,108.689783746722,"Spring",115427
+9,-110.5019,31.5901,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.1,125,"female",15.4,386,7.12496677291561,85.9928927033274,"Fall",115428
+5,-110.1274,31.3584,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,132,"male",16.8,325,7.22937505157698,101.159537428606,"Spring",115429
+5,-110.1274,31.3584,NA,1987,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10,131,"male",16.8,325,7.22937505157698,101.159537428606,"Spring",115430
+11,-110.5019,31.5901,NA,1985,"Reithrodontomys megalotis","Reithrodontomys_megalotis",6.3,112,"female",15.2,483,7.03253801334134,74.4323925757553,"Fall",115431
+11,-110.5019,31.5901,NA,1985,"Reithrodontomys megalotis","Reithrodontomys_megalotis",10.6,136,"male",15.2,483,7.03253801334134,74.4323925757553,"Fall",115432
+5,-108.27167,33.22722,NA,2001,"Reithrodontomys megalotis","Reithrodontomys_megalotis",7.9,123.5,"female",12.7,391,7.93144871936261,91.2881074987125,"Spring",115433
+7,-110.53361,32.23,NA,2001,"Reithrodontomys megalotis","Reithrodontomys_megalotis",11.2,144,"male",11,507,7.20649433539364,60.9240231931671,"Summer",115434
+4,-108.27167,33.22722,NA,2002,"Reithrodontomys megalotis","Reithrodontomys_megalotis",13.7,165,"male",12.8,380,7.80493239541315,104.310530449435,"Spring",115435
+7,-119.726345,49.000588,NA,1981,"Reithrodontomys megalotis megalotis","Reithrodontomys_megalotis",12,151,"male",9.7,366,7.83814971208709,46.6693435922466,"Summer",115436
+6,-117.97,37.41,NA,1967,"Reithrodontomys (Reithrodontomys) megalotis Baird, 1857","Reithrodontomys_megalotis",6.5,130,"male",10.8,143,8.77138512264152,79.5879453286763,"Summer",115437

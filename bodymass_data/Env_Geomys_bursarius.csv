@@ -1,0 +1,637 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+10,-104.417141,39.594516,NA,2002,"Geomys bursarius lutescens","Geomys_bursarius",188,245,"male",9.9,233,9.17267021035199,66.7709647282211,"Fall",36590
+10,-104.734254,39.928001,NA,2002,"Geomys bursarius lutescens","Geomys_bursarius",153,241,"female",10.5,223,9.46100449532744,69.7390619052812,"Fall",36591
+6,-104.529,39.637331,NA,2003,"Geomys bursarius","Geomys_bursarius",105.7,221,"female",10.6,344,8.76599836143763,82.6190964952308,"Summer",36592
+4,-102.698246,41.96569,NA,1992,"Geomys bursarius lutescens","Geomys_bursarius",222.5,235,"female",9.1,392,8.74585183057798,105.126805087261,"Spring",36593
+4,-102.698246,41.96569,NA,1992,"Geomys bursarius lutescens","Geomys_bursarius",137.7,235,"female",9.1,392,8.74585183057798,105.126805087261,"Spring",36594
+7,-99.13278,41.923837,NA,1993,"Geomys bursarius lutescens","Geomys_bursarius",150,234,"female",7.2,815,10.8399373810111,86.3151133764121,"Summer",36595
+6,-102.723539,41.933601,"immature",1994,"Geomys bursarius lutescens","Geomys_bursarius",144.5,223,"female",9.7,337,10.1715586839287,67.43718302922,"Summer",36596
+6,-102.723539,41.933601,NA,1995,"Geomys bursarius lutescens","Geomys_bursarius",205,244,"male",8.8,534,9.34281039412692,101.062664895649,"Summer",36597
+6,-102.723539,41.933601,NA,1996,"Geomys bursarius lutescens","Geomys_bursarius",243,250.8,"female",8.2,526,10.5161455953129,89.6608519346481,"Summer",36598
+5,-102.441806,41.756648,NA,1940,"Geomys bursarius","Geomys_bursarius",3,11,"male",9,313,11.3837470531322,55.7117175306961,"Spring",36599
+9,-103.0054333333,41.4986333333,NA,2002,"Geomys bursarius lutesceus","Geomys_bursarius",166,242,"female",9.5,288,10.2696485732561,106.929424212058,"Fall",36600
+7,-102.1178061,37.083577,NA,1979,"Geomys bursarius","Geomys_bursarius",208,250,"female",12,558,9.96878081357449,105.619445480877,"Summer",36601
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",173.1,234,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36602
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",194.7,238,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36603
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",227.2,262,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36604
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",262,258,"male",11,503,9.9962265607851,68.3441404173327,"Spring",36605
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",252,266,"male",11,503,9.9962265607851,68.3441404173327,"Spring",36606
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",272,259,"male",11,503,9.9962265607851,68.3441404173327,"Spring",36607
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",309,271,"male",11,503,9.9962265607851,68.3441404173327,"Spring",36608
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",198,235,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36609
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",187,247,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36610
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",160,245,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36611
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",168,242,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36612
+7,-88.9111633,40.1922188,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",215,256,"female",10.9,1122,9.38668867292531,62.0244004100946,"Summer",36613
+7,-88.9602814,40.1487389,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",140,227,"male",11,1131,9.38199436057271,61.1312941098901,"Summer",36614
+7,-88.941391,40.1139488,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",387,319,"male",11.1,1145,9.34845636261069,61.3521568693139,"Summer",36615
+7,-88.941391,40.1139488,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",200,272,"male",11.1,1145,9.34845636261069,61.3521568693139,"Summer",36616
+7,-88.941391,40.1139488,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",141,247,"male",11.1,1145,9.34845636261069,61.3521568693139,"Summer",36617
+7,-88.941391,40.1139488,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",192,249,"female",11.1,1145,9.34845636261069,61.3521568693139,"Summer",36618
+7,-88.9149475,40.1110573,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",345,292,"male",11,1151,9.33755451081407,61.3676739616089,"Summer",36619
+7,-90.4631195,38.6470528,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",160,242,"female",12.4,998,8.88778528502615,45.2263369596113,"Summer",36620
+7,-90.4631195,38.6470528,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",316,285,"female",12.4,998,8.88778528502615,45.2263369596113,"Summer",36621
+7,-90.4631195,38.6470528,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",345,305,"male",12.4,998,8.88778528502615,45.2263369596113,"Summer",36622
+7,-90.5175247,38.6333542,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",195,255,"female",12.4,1009,8.89423970893522,44.2058973071437,"Summer",36623
+7,-90.5175247,38.6333542,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",159,239,"female",12.4,1009,8.89423970893522,44.2058973071437,"Summer",36624
+7,-90.5175247,38.6333542,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",136,221,"female",12.4,1009,8.89423970893522,44.2058973071437,"Summer",36625
+7,-90.5175247,38.6333542,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",205,234,"female",12.4,1009,8.89423970893522,44.2058973071437,"Summer",36626
+7,-90.5175247,38.6333542,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",144,239,"female",12.4,1009,8.89423970893522,44.2058973071437,"Summer",36627
+7,-90.515419,38.6269531,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",213,255,"female",12.4,1013,8.8601722057278,44.1286731242333,"Summer",36628
+7,-90.5009232,38.6282539,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",80,191,"male",12.4,1012,8.8601722057278,44.3337922987731,"Summer",36629
+7,-90.5009232,38.6282539,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",238,276,"male",12.4,1012,8.8601722057278,44.3337922987731,"Summer",36630
+7,-90.5009232,38.6282539,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",138,229,"female",12.4,1012,8.8601722057278,44.3337922987731,"Summer",36631
+7,-90.5009232,38.6282539,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",276,282,"male",12.4,1012,8.8601722057278,44.3337922987731,"Summer",36632
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",263,288,"male",8.1,377,9.96093506016013,80.9521638920809,"Summer",36633
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",147,240,"male",8.1,377,9.96093506016013,80.9521638920809,"Summer",36634
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",145,235,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36635
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",132,217,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36636
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",222,278,"male",8.1,377,9.96093506016013,80.9521638920809,"Summer",36637
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",81,206,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36638
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",171,257,"male",8.1,377,9.96093506016013,80.9521638920809,"Summer",36639
+6,-102.4108734,41.7220802,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",80,200,"male",8.3,383,9.97507120047498,83.7238094560866,"Summer",36640
+6,-102.4108734,41.7220802,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",99,213,"female",8.3,383,9.97507120047498,83.7238094560866,"Summer",36641
+6,-102.4108734,41.7220802,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",135,224,"female",8.3,383,9.97507120047498,83.7238094560866,"Summer",36642
+6,-102.4108734,41.7220802,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",265,279,"male",8.3,383,9.97507120047498,83.7238094560866,"Summer",36643
+6,-102.4108734,41.7220802,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",201,248,"male",8.3,383,9.97507120047498,83.7238094560866,"Summer",36644
+6,-102.3927765,41.6991806,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",167,226,"female",8.3,386,9.95612724391215,82.4948810061151,"Summer",36645
+5,-101.1604309,33.6516724,NA,1967,"Geomys bursarius major","Geomys_bursarius",212,194,"female",16.1,437,7.99207941235154,90.6973087157905,"Spring",36646
+5,-101.1604309,33.6516724,NA,1967,"Geomys bursarius major","Geomys_bursarius",370,240,"female",16.1,437,7.99207941235154,90.6973087157905,"Spring",36647
+6,-101.7618561,42.0005836,NA,1985,"Geomys bursarius lutescens","Geomys_bursarius",211,251,"male",7.3,422,11.0831020709525,77.4852686890422,"Summer",36648
+4,-102.0037,38.17909,"unknown",1963,"Geomys bursarius","Geomys_bursarius",295,241,"female",12.6,295,11.3965305725431,92.9195320955194,"Spring",36649
+4,-101.5705,39.8956,"unknown",1963,"Geomys bursarius","Geomys_bursarius",164.2,230,"female",11.7,471,11.4187611438635,88.6165529453844,"Spring",36650
+9,-98.48792,32.938,"unknown",1974,"Geomys bursarius","Geomys_bursarius",113.8,216,"female",18.1,930,8.02601829657581,98.5732292831063,"Fall",36651
+8,-87.2657,41.1442,"unknown",1969,"Geomys bursarius","Geomys_bursarius",190,252,"female",9.6,787,10.4533451221331,60.9183200836367,"Summer",36652
+4,-97.2629,41.9513,"unknown",1978,"Geomys bursarius","Geomys_bursarius",393,302,"male",7.8,623,13.7104030398509,95.480157428726,"Spring",36653
+4,-97.2629,41.9513,"unknown",1978,"Geomys bursarius","Geomys_bursarius",275,270,"female",7.8,623,13.7104030398509,95.480157428726,"Spring",36654
+4,-97.2629,41.9513,"unknown",1978,"Geomys bursarius","Geomys_bursarius",362,271,"female",7.8,623,13.7104030398509,95.480157428726,"Spring",36655
+1,-94.73979,31.603,"unknown",1950,"Geomys bursarius","Geomys_bursarius",106,205,"female",18.9,1070,6.53430921901443,53.0353863513107,"Winter",36656
+1,-94.73979,31.603,"unknown",1950,"Geomys bursarius","Geomys_bursarius",132.8,229,"male",18.9,1070,6.53430921901443,53.0353863513107,"Winter",36657
+1,-94.73979,31.603,"unknown",1950,"Geomys bursarius","Geomys_bursarius",126.5,232,"male",18.9,1070,6.53430921901443,53.0353863513107,"Winter",36658
+1,-94.68892,31.603,"unknown",1960,"Geomys bursarius","Geomys_bursarius",85.3,203,"female",18.5,1259,8.15690820808666,51.6414358113409,"Winter",36659
+4,-86.115,41.20889,NA,1947,"Geomys bursarius illinoensis","Geomys_bursarius",301.7,287,"female",9.5,955,10.785090719052,48.0288133290697,"Spring",36660
+6,-104.529,39.637331,NA,2003,"Geomys bursarius","Geomys_bursarius",163.7,206,"female",10.6,344,8.76599836143763,82.6190964952308,"Summer",36661
+9,-105.064171,39.544254,NA,1987,"Geomys bursarius lutescens","Geomys_bursarius",144,250,"male",10.6,539,8.59603062024807,69.145822586363,"Fall",36662
+4,-102.698246,41.96569,NA,1992,"Geomys bursarius lutescens","Geomys_bursarius",140.4,218,"female",9.1,392,8.74585183057798,105.126805087261,"Spring",36663
+4,-102.698246,41.96569,NA,1992,"Geomys bursarius lutescens","Geomys_bursarius",216.8,260,"female",9.1,392,8.74585183057798,105.126805087261,"Spring",36664
+4,-102.698246,41.96569,NA,1992,"Geomys bursarius lutescens","Geomys_bursarius",239.9,281,"female",9.1,392,8.74585183057798,105.126805087261,"Spring",36665
+7,-102.723539,41.933601,NA,1996,"Geomys bursarius lutescens","Geomys_bursarius",177,234,"male",8.2,526,10.5161455953129,89.6608519346481,"Summer",36666
+7,-102.723539,41.933601,NA,1996,"Geomys bursarius lutescens","Geomys_bursarius",307,280,"male",8.2,526,10.5161455953129,89.6608519346481,"Summer",36667
+7,-106.823928,32.302823,NA,1985,"Geomys bursarius","Geomys_bursarius",84,NA,"female",16.3,292,8.13311133576813,99.8881989878524,"Summer",36668
+7,-106.823928,32.302823,NA,1985,"Geomys bursarius","Geomys_bursarius",135,NA,"female",16.3,292,8.13311133576813,99.8881989878524,"Summer",36669
+7,-106.823928,32.302823,NA,1985,"Geomys bursarius","Geomys_bursarius",95,NA,"female",16.3,292,8.13311133576813,99.8881989878524,"Summer",36670
+5,-102.441806,41.756648,NA,1940,"Geomys bursarius","Geomys_bursarius",1,10,"female",9,313,11.3837470531322,55.7117175306961,"Spring",36671
+5,-102.889605,36.608508,NA,1968,"Geomys bursarius","Geomys_bursarius",167,243,"female",11.9,301,8.75478656957369,102.384596254562,"Spring",36672
+3,-103.514564,36.31866,NA,1968,"Geomys bursarius","Geomys_bursarius",158,225,"female",10.7,265,8.38535881308859,104.980375886015,"Spring",36673
+1,-103.270649,36.425557,NA,1968,"Geomys bursarius","Geomys_bursarius",176,244,"female",11.2,275,8.47418539930642,103.387434840725,"Winter",36674
+1,-103.270649,36.425557,NA,1968,"Geomys bursarius","Geomys_bursarius",246,287,"male",11.2,275,8.47418539930642,103.387434840725,"Winter",36675
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",189.8,229,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36676
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",203.9,242,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36677
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",184.4,240,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36678
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",197.3,243,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36679
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",206,258,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36680
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",197,236,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36681
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",222,256,"male",11,503,9.9962265607851,68.3441404173327,"Spring",36682
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",296,280,"male",11,503,9.9962265607851,68.3441404173327,"Spring",36683
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",182,237,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36684
+4,-100.9495316,39.5265656,NA,1971,"Geomys bursarius lutescens","Geomys_bursarius",181,235,"female",11,503,9.9962265607851,68.3441404173327,"Spring",36685
+4,-95.2352524,39.0212898,NA,1971,"Geomys bursarius majusculus","Geomys_bursarius",182,248,"female",12.4,846,10.4686943123802,50.3498531802915,"Spring",36686
+12,-91.8076324,33.6290054,NA,1972,"Geomys bursarius dutcheri","Geomys_bursarius",107,202,"female",17.2,1398,8.09273898271928,53.1540264048031,"Winter",36687
+12,-91.8076324,33.6290054,NA,1972,"Geomys bursarius dutcheri","Geomys_bursarius",110,212,"female",17.2,1398,8.09273898271928,53.1540264048031,"Winter",36688
+11,-100.9869385,39.4975739,NA,1970,"Geomys bursarius lutescens","Geomys_bursarius",262,266,"female",10.8,404,10.1146271220536,76.731076316822,"Fall",36689
+10,-92.6402054,43.8987617,NA,1972,"Geomys bursarius bursarius","Geomys_bursarius",567,290,"male",5.2,853,12.8577532322649,78.0688818935076,"Fall",36690
+8,-95.3383636,45.5633125,NA,1972,"Geomys bursarius bursarius","Geomys_bursarius",194,237,"female",4.1,658,13.6820608052584,73.4803753199559,"Summer",36691
+9,-93.1566238,45.0060654,NA,1972,"Geomys bursarius bursarius","Geomys_bursarius",318,270,"female",5.2,734,13.5586157334022,72.2844037347321,"Fall",36692
+10,-93.0933228,44.9443665,NA,1972,"Geomys bursarius bursarius","Geomys_bursarius",205,247,"female",5.3,729,13.4985829783812,70.6446648515467,"Fall",36693
+7,-88.9262772,40.1574364,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",320,303,"male",11,1136,9.37330186640694,61.3988175084625,"Summer",36694
+7,-88.9262772,40.1574364,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",202,259,"female",11,1136,9.37330186640694,61.3988175084625,"Summer",36695
+7,-88.941391,40.1139488,NA,1974,"Geomys bursarius illinoensis","Geomys_bursarius",237,274,"female",11.1,1145,9.34845636261069,61.3521568693139,"Summer",36696
+7,-90.4631195,38.6470528,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",188,246,"female",12.4,998,8.88778528502615,45.2263369596113,"Summer",36697
+7,-90.4631195,38.6470528,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",186,245,"female",12.4,998,8.88778528502615,45.2263369596113,"Summer",36698
+7,-90.4631195,38.6470528,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",198,252,"female",12.4,998,8.88778528502615,45.2263369596113,"Summer",36699
+7,-90.4631195,38.6470528,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",180,242,"female",12.4,998,8.88778528502615,45.2263369596113,"Summer",36700
+7,-90.515419,38.6269531,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",215,258,"female",12.4,1013,8.8601722057278,44.1286731242333,"Summer",36701
+7,-90.515419,38.6269531,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",103,216,"female",12.4,1013,8.8601722057278,44.1286731242333,"Summer",36702
+7,-90.5009232,38.6282539,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",255,251,"female",12.4,1012,8.8601722057278,44.3337922987731,"Summer",36703
+7,-90.5009232,38.6282539,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",131,229,"male",12.4,1012,8.8601722057278,44.3337922987731,"Summer",36704
+7,-90.5009232,38.6282539,NA,1974,"Geomys bursarius missouriensis","Geomys_bursarius",130,223,"female",12.4,1012,8.8601722057278,44.3337922987731,"Summer",36705
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",174,251,"undetermined",8.1,377,9.96093506016013,80.9521638920809,"Summer",36706
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",85,201,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36707
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",102,222,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36708
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",107,229,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36709
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",160,238,"male",8.1,377,9.96093506016013,80.9521638920809,"Summer",36710
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",112,216,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36711
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",117,204,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36712
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",113,230,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36713
+6,-102.379776,41.8450813,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",106,235,"female",8.1,377,9.96093506016013,80.9521638920809,"Summer",36714
+6,-102.4108734,41.7220802,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",124,227,"female",8.3,383,9.97507120047498,83.7238094560866,"Summer",36715
+6,-102.4108734,41.7220802,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",131,238,"male",8.3,383,9.97507120047498,83.7238094560866,"Summer",36716
+6,-102.4108734,41.7220802,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",86,196,"female",8.3,383,9.97507120047498,83.7238094560866,"Summer",36717
+6,-102.3927765,41.6991806,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",213,236,"male",8.3,386,9.95612724391215,82.4948810061151,"Summer",36718
+6,-102.3927765,41.6991806,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",226,248,"male",8.3,386,9.95612724391215,82.4948810061151,"Summer",36719
+6,-102.3927765,41.6991806,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",83,195,"female",8.3,386,9.95612724391215,82.4948810061151,"Summer",36720
+6,-102.3927765,41.6991806,NA,1975,"Geomys bursarius lutescens","Geomys_bursarius",88,195,"female",8.3,386,9.95612724391215,82.4948810061151,"Summer",36721
+8,-104.5423688,40.3730023,"unknown",1982,"Geomys bursarius","Geomys_bursarius",189.1,243,"male",9.1,396,9.4649072735537,96.0441365551533,"Summer",36722
+6,-87.2488,40.5643,"unknown",1969,"Geomys bursarius","Geomys_bursarius",383,290,"male",9.9,853,10.4581706494651,62.1333285578701,"Summer",36723
+11,-97.058,36.116,"unknown",1971,"Geomys bursarius","Geomys_bursarius",402,295,"female",15.3,832,9.11097822642686,78.0928185185632,"Fall",36724
+11,-94.98837,38.9783,"unknown",1949,"Geomys bursarius","Geomys_bursarius",198.4,255,"male",12.5,1094,10.1491117688677,53.2732791649168,"Fall",36725
+4,-87.2657,41.1442,"unknown",1970,"Geomys bursarius","Geomys_bursarius",220,255,"female",9.9,1047,10.9823687901301,61.8353776380161,"Spring",36726
+1,-94.73979,31.603,"unknown",1950,"Geomys bursarius","Geomys_bursarius",97.5,210,"female",18.9,1070,6.53430921901443,53.0353863513107,"Winter",36727
+1,-94.73979,31.603,"unknown",1950,"Geomys bursarius","Geomys_bursarius",146.2,158,"male",18.9,1070,6.53430921901443,53.0353863513107,"Winter",36728
+1,-94.68892,31.603,"unknown",1950,"Geomys bursarius","Geomys_bursarius",107.8,224,"female",18.9,1079,6.51717428078002,52.9268133416388,"Winter",36729
+4,-94.655,31.603,"unknown",1950,"Geomys bursarius","Geomys_bursarius",92,221,"female",18.8,1084,6.53074314765219,52.9334708877205,"Spring",36730
+1,-94.68892,31.603,"unknown",1950,"Geomys bursarius","Geomys_bursarius",116.8,229,"female",18.9,1079,6.51717428078002,52.9268133416388,"Winter",36731
+1,-94.68892,31.603,"unknown",1950,"Geomys bursarius","Geomys_bursarius",152.9,229,"male",18.9,1079,6.51717428078002,52.9268133416388,"Winter",36732
+3,-94.74,32.35587,"unknown",1950,"Geomys bursarius","Geomys_bursarius",169.4,233,"male",18.3,1150,6.78675180038286,49.0334632261351,"Spring",36733
+3,-94.74,32.35587,"unknown",1950,"Geomys bursarius","Geomys_bursarius",159.2,228,"male",18.3,1150,6.78675180038286,49.0334632261351,"Spring",36734
+3,-94.74,32.35587,"unknown",1950,"Geomys bursarius","Geomys_bursarius",157.6,NA,"male",18.3,1150,6.78675180038286,49.0334632261351,"Spring",36735
+3,-94.74,32.35587,"unknown",1950,"Geomys bursarius","Geomys_bursarius",156.2,NA,"male",18.3,1150,6.78675180038286,49.0334632261351,"Spring",36736
+2,-94.71496,31.65432,"unknown",1950,"Geomys bursarius","Geomys_bursarius",95.5,209,"female",18.9,1080,6.54117494774216,52.9692857557361,"Winter",36737
+10,-104.8872830008,39.7964352884,NA,2002,"Geomys bursarius lutescens","Geomys_bursarius",205,250,"female",10.9,236,9.30263892178402,67.2939765292164,"Fall",36738
+10,-104.786882,39.572012,NA,1990,"Geomys bursarius lutescens","Geomys_bursarius",278.3,263,"male",10.2,531,8.74334378862347,69.3144590872994,"Fall",36739
+9,-96.17921,38.41062,NA,1937,"Geomys bursarius","Geomys_bursarius",207,255,"female",12,709,11.7773665832547,62.7769835789663,"Fall",36740
+10,-95.41594,39.67804,NA,1987,"Geomys bursarius","Geomys_bursarius",374,294,"female",13.2,982,9.57349165269613,62.4690206215884,"Fall",36741
+10,-95.23,39.01,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",277,290,"female",12.5,850,10.4763369726081,50.6908547529386,"Fall",36742
+10,-95.23,39.01,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",261,273,"female",12.5,850,10.4763369726081,50.6908547529386,"Fall",36743
+10,-95.09,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",243,268,"female",12.7,846,10.3962806577714,53.0236045667013,"Fall",36744
+10,-95.09,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",394,292,"male",12.7,846,10.3962806577714,53.0236045667013,"Fall",36745
+10,-95.09,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",225,261,"female",12.7,846,10.3962806577714,53.0236045667013,"Fall",36746
+10,-95.09,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",250,254,"female",12.7,846,10.3962806577714,53.0236045667013,"Fall",36747
+10,-95.08,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",275,265,"female",12.7,844,10.3962806577714,52.9681211843275,"Fall",36748
+11,-95.07,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",223,278,"female",12.7,843,10.3962806577714,53.0995775997942,"Fall",36749
+11,-95.07,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",255,275,"female",12.7,843,10.3962806577714,53.0995775997942,"Fall",36750
+11,-95.07,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",307,302,"male",12.7,843,10.3962806577714,53.0995775997942,"Fall",36751
+9,-97.97,42.07,NA,1981,"Geomys bursarius bursarius","Geomys_bursarius",232,270,"female",10.3,667,10.1909496390402,80.8921371719266,"Fall",36752
+9,-97.97,42.07,NA,1981,"Geomys bursarius bursarius","Geomys_bursarius",318,280,"female",10.3,667,10.1909496390402,80.8921371719266,"Fall",36753
+9,-97.97,42.07,NA,1982,"Geomys bursarius bursarius","Geomys_bursarius",249,270,"female",8.2,828,11.7931766353055,75.4427085859851,"Fall",36754
+9,-97.97,42.07,NA,1982,"Geomys bursarius bursarius","Geomys_bursarius",398,320,"male",8.2,828,11.7931766353055,75.4427085859851,"Fall",36755
+7,-95.22,39.03,NA,1963,"Geomys bursarius bursarius","Geomys_bursarius",240.1,263,"female",13,603,12.0435195701408,77.2062248469298,"Summer",36756
+10,-95.23,39,NA,1963,"Geomys bursarius bursarius","Geomys_bursarius",440,320,"male",13.1,603,12.0572372331712,75.8221775765283,"Fall",36757
+9,-103.3564333333,41.0572833333,NA,2002,"Geomys bursarius lutesceus","Geomys_bursarius",125,224,"female",8.9,239,9.98939968469608,95.4922536274726,"Fall",36758
+4,-100.1852778,33.5277778,NA,2003,"Geomys bursarius","Geomys_bursarius",225,252,"male",17.3,447,8.35032207689493,107.687942796098,"Spring",36759
+4,-102.1088889,34.4491667,NA,2003,"Geomys bursarius","Geomys_bursarius",188,238,"female",14.7,300,8.13046552769088,163.640403990524,"Spring",36760
+4,-102.0727778,34.45,NA,2003,"Geomys bursarius","Geomys_bursarius",232,262,"male",14.8,293,8.12532516831844,163.061761338519,"Spring",36761
+3,-101.5910034,34.8860016,NA,1964,"Geomys bursarius major","Geomys_bursarius",164,232,"female",14.9,457,9.35368992171085,92.8032337334619,"Spring",36762
+3,-103.8703003,33.3932152,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",144,210,"female",14,336,7.89917525422558,98.6810044071187,"Spring",36763
+3,-103.8703003,33.3932152,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",109,208,"male",14,336,7.89917525422558,98.6810044071187,"Spring",36764
+3,-103.8703003,33.3932152,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",162,219,"female",14,336,7.89917525422558,98.6810044071187,"Spring",36765
+3,-103.8833542,32.818779,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",113,225,"female",15.3,315,7.852325461385,104.834292189151,"Spring",36766
+3,-103.8008118,32.8478661,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",106,233,"female",15,335,7.82546348709639,107.704157434878,"Spring",36767
+12,-100.1780014,34.8779984,NA,1972,"Geomys bursarius major","Geomys_bursarius",283,258,"male",15.9,483,9.35803009573742,91.0742301749151,"Winter",36768
+12,-100.2129974,34.862999,NA,1973,"Geomys bursarius major","Geomys_bursarius",176,240,"female",15.8,701,8.96462323229313,84.3074152120693,"Winter",36769
+12,-100.2129974,34.862999,NA,1973,"Geomys bursarius major","Geomys_bursarius",203,237,"female",15.8,701,8.96462323229313,84.3074152120693,"Winter",36770
+12,-100.2129974,34.862999,NA,1973,"Geomys bursarius major","Geomys_bursarius",160,224,"female",15.8,701,8.96462323229313,84.3074152120693,"Winter",36771
+12,-100.2170029,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",177,242,"female",15.9,481,9.33882008639532,90.8991098938163,"Winter",36772
+12,-100.2170029,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",203,235,"male",15.9,481,9.33882008639532,90.8991098938163,"Winter",36773
+12,-100.2170029,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",161,232,"female",15.9,481,9.33882008639532,90.8991098938163,"Winter",36774
+12,-100.2170029,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",145,209,"male",15.9,481,9.33882008639532,90.8991098938163,"Winter",36775
+12,-100.2170029,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",182,235,"male",15.9,481,9.33882008639532,90.8991098938163,"Winter",36776
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",149,243,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36777
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",147,237,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36778
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",120,220,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36779
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",123,210,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36780
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",168,246,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36781
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",147,228,"male",16,481,9.33882008639532,90.8991098938163,"Fall",36782
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",169,253,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36783
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",129,235,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36784
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",140,238,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36785
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",174,275,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36786
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",150,222,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36787
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",180,239,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36788
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",157,232,"female",16,481,9.33882008639532,90.8991098938163,"Fall",36789
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",216,265,"male",16,481,9.33882008639532,90.8991098938163,"Fall",36790
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",205,252,"male",16,481,9.33882008639532,90.8991098938163,"Fall",36791
+3,-101.6299973,33.6790009,NA,1973,"Geomys bursarius major","Geomys_bursarius",163,229,"female",14.8,412,8.46402368674007,67.3505621528031,"Spring",36792
+2,-102.1500015,32.0289993,NA,1973,"Geomys bursarius major","Geomys_bursarius",135,214,"female",16.6,291,7.83917899226234,75.2242530470576,"Winter",36793
+2,-102.1500015,32.0289993,NA,1973,"Geomys bursarius major","Geomys_bursarius",104,210,"female",16.6,291,7.83917899226234,75.2242530470576,"Winter",36794
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",48,151,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",36795
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",192,243,"male",14.8,401,8.28428139199884,70.2776042232486,"Winter",36796
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",152,230,"male",14.8,401,8.28428139199884,70.2776042232486,"Winter",36797
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",133,220,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",36798
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",143,234,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",36799
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",150,231,"male",14.8,401,8.28428139199884,70.2776042232486,"Winter",36800
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",124,215,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",36801
+2,-102.8499985,31.5990009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",172,233,"male",17.5,239,8.08505448717608,86.9545818576145,"Winter",36802
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",151,231,"male",17,250,8.08044309466137,101.280418225355,"Winter",36803
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",155,244,"female",17,250,8.08044309466137,101.280418225355,"Winter",36804
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",158,248,"male",17,250,8.08044309466137,101.280418225355,"Winter",36805
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",134,250,"female",17,250,8.08044309466137,101.280418225355,"Winter",36806
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",221,278,"male",17,250,8.08044309466137,101.280418225355,"Winter",36807
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",192,266,"male",17,250,8.08044309466137,101.280418225355,"Winter",36808
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",190,248,"male",17,250,8.08044309466137,101.280418225355,"Winter",36809
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",149,230,"female",17,250,8.08044309466137,101.280418225355,"Winter",36810
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",139,237,"female",17,250,8.08044309466137,101.280418225355,"Winter",36811
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",172,240,"male",17,250,8.08044309466137,101.280418225355,"Winter",36812
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",140,228,"female",17,250,8.08044309466137,101.280418225355,"Winter",36813
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",126,227,"female",17,250,8.08044309466137,101.280418225355,"Winter",36814
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",157,246,"female",17,250,8.08044309466137,101.280418225355,"Winter",36815
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",157,253,"female",17,250,8.08044309466137,101.280418225355,"Winter",36816
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",238,266,"male",17,250,8.08044309466137,101.280418225355,"Winter",36817
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",141,223,"female",17,250,8.08044309466137,101.280418225355,"Winter",36818
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",109,210,"male",17,250,8.08044309466137,101.280418225355,"Winter",36819
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",121,229,"female",17,250,8.08044309466137,101.280418225355,"Winter",36820
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",139,234,"female",17,250,8.08044309466137,101.280418225355,"Winter",36821
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",111,222,"female",17,250,8.08044309466137,101.280418225355,"Winter",36822
+3,-102.6989975,33.1959991,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",112,208,"female",14.7,377,8.18607002317,75.3929373818258,"Spring",36823
+10,-99.7300034,33.5320015,NA,1972,"Geomys bursarius major","Geomys_bursarius",156,235,"male",17.5,648,9.06787118781403,83.6301001506219,"Fall",36824
+10,-99.7300034,33.5320015,NA,1972,"Geomys bursarius major","Geomys_bursarius",326,228,"male",17.5,648,9.06787118781403,83.6301001506219,"Fall",36825
+10,-99.7300034,33.5320015,NA,1972,"Geomys bursarius major","Geomys_bursarius",172,230,"female",17.5,648,9.06787118781403,83.6301001506219,"Fall",36826
+4,-103.8616714,33.7978706,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",116,224,"female",13.6,351,7.95957113965776,103.021513685267,"Spring",36827
+4,-103.8616714,33.7978706,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",54,182,"female",13.6,351,7.95957113965776,103.021513685267,"Spring",36828
+3,-103.3663101,33.9401932,NA,1973,"Geomys bursarius","Geomys_bursarius",161.2,257,"female",13.5,377,8.0025564097299,97.5300970999345,"Spring",36829
+3,-103.364006,33.9403343,NA,1973,"Geomys bursarius","Geomys_bursarius",93,224,"male",13.5,378,8.0025564097299,97.5300970999345,"Spring",36830
+3,-103.364006,33.9403343,NA,1973,"Geomys bursarius","Geomys_bursarius",205.7,267,"male",13.5,378,8.0025564097299,97.5300970999345,"Spring",36831
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",246,265,"male",13.5,362,7.9724525711979,112.208249517763,"Spring",36832
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",225.8,272,"male",13.5,362,7.9724525711979,112.208249517763,"Spring",36833
+4,-103.0957184,33.7626953,NA,1973,"Geomys bursarius","Geomys_bursarius",146,233,"female",13.7,369,8.07106222591212,79.4784675533675,"Spring",36834
+4,-103.0957184,33.7626953,NA,1973,"Geomys bursarius","Geomys_bursarius",119,259,"male",13.7,369,8.07106222591212,79.4784675533675,"Spring",36835
+4,-102.776001,33.7260017,NA,1973,"Geomys bursarius","Geomys_bursarius",301,279,"male",14,387,8.14538352241764,73.5933214916092,"Spring",36836
+4,-102.6729965,33.6489983,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",187,250,"male",14.1,388,8.19372912474515,72.1997506120647,"Spring",36837
+4,-102.6340027,33.7470016,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",68,171,"female",14.1,384,8.20278500377657,70.6353069711535,"Spring",36838
+4,-102.6340027,33.7470016,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",46,180,"female",14.1,384,8.20278500377657,70.6353069711535,"Spring",36839
+3,-102.6220016,33.6150017,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",83,223,"female",14.2,388,8.21883922350463,69.4627375417141,"Spring",36840
+3,-101.7799988,33.5040016,NA,1973,"Geomys bursarius","Geomys_bursarius",131,230,"female",14.9,416,8.35311591291211,67.0745734481522,"Spring",36841
+12,-101.8010025,33.5349998,NA,1963,"Geomys bursarius major","Geomys_bursarius",169,229,"female",15.7,553,9.25528104774389,114.370636236236,"Winter",36842
+12,-101.8010025,33.5349998,NA,1963,"Geomys bursarius major","Geomys_bursarius",292,270,"male",15.7,553,9.25528104774389,114.370636236236,"Winter",36843
+4,-94.7699966,31.5279999,NA,1963,"Geomys bursarius pratincola","Geomys_bursarius",105,195,"female",19,707,8.60997923483224,46.3499894322737,"Spring",36844
+5,-101.8529968,33.5760002,NA,1964,"Geomys bursarius major","Geomys_bursarius",142,232,"female",15.5,363,8.99752070227564,89.1201871169088,"Spring",36845
+12,-101.7990036,33.6489983,NA,1963,"Geomys bursarius major","Geomys_bursarius",186,250,"female",15.6,544,9.2644113780541,112.416740712069,"Winter",36846
+5,-102.7139969,33.9070015,NA,1964,"Geomys bursarius major","Geomys_bursarius",193,243,"female",14.5,297,9.07168421768828,95.4910993506158,"Spring",36847
+3,-103.9305344,33.4058838,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",130,220,"female",14.1,333,7.91408410826719,96.9767522944111,"Spring",36848
+3,-102.7519989,33.6679993,NA,1974,"Geomys bursarius","Geomys_bursarius",109,220,"male",14.7,576,7.85381590326793,129.072217114568,"Spring",36849
+3,-102.6220016,33.6080017,NA,1974,"Geomys bursarius","Geomys_bursarius",103,230,"female",14.9,566,7.86318618434646,127.240064608888,"Spring",36850
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",102,227,"male",18,516,7.87221812336385,134.942030117407,"Winter",36851
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",129,242,"male",18,516,7.87221812336385,134.942030117407,"Winter",36852
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",111,236,"male",18,516,7.87221812336385,134.942030117407,"Winter",36853
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",97,225,"female",18,516,7.87221812336385,134.942030117407,"Winter",36854
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",93,268,"female",18,516,7.87221812336385,134.942030117407,"Winter",36855
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",91,217,"female",18,516,7.87221812336385,134.942030117407,"Winter",36856
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",174,250,"male",18,516,7.87221812336385,134.942030117407,"Winter",36857
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",168,260,"male",18,516,7.87221812336385,134.942030117407,"Winter",36858
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",152,240,"male",18,516,7.87221812336385,134.942030117407,"Winter",36859
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",106,235,"female",18,516,7.87221812336385,134.942030117407,"Winter",36860
+3,-102.7900009,33.7330017,NA,1974,"Geomys bursarius major","Geomys_bursarius",227,260,"male",14.7,573,7.85753836076599,128.29313668079,"Spring",36861
+5,-101.6119995,33.6650009,NA,1973,"Geomys bursarius major","Geomys_bursarius",278,253,"male",14.8,414,8.46670842270782,67.4107759385487,"Spring",36862
+2,-101.5889969,33.5820007,NA,1965,"Geomys bursarius major","Geomys_bursarius",126,236,"male",16.1,333,8.41421506449147,102.009114384256,"Winter",36863
+12,-101.8010025,33.5349998,NA,1963,"Geomys bursarius major","Geomys_bursarius",161,252,"female",15.7,553,9.25528104774389,114.370636236236,"Winter",36864
+7,-103.9477234,34.2027664,NA,1974,"Geomys bursarius","Geomys_bursarius",147,245,"female",14.2,393,8.06674805869281,118.766346474947,"Summer",36865
+1,-94.185997,33.4230003,NA,1976,"Geomys bursarius dutcheri","Geomys_bursarius",137,200,"female",16.5,1146,7.35891028658867,60.1123922360953,"Winter",36866
+1,-94.185997,33.4230003,NA,1976,"Geomys bursarius dutcheri","Geomys_bursarius",143,210,"female",16.5,1146,7.35891028658867,60.1123922360953,"Winter",36867
+1,-94.185997,33.4230003,NA,1976,"Geomys bursarius dutcheri","Geomys_bursarius",139,200,"female",16.5,1146,7.35891028658867,60.1123922360953,"Winter",36868
+8,-100.7779999,33.8919983,NA,1975,"Geomys bursarius major","Geomys_bursarius",212,265,"female",15.3,579,8.10934739368805,78.3645390011821,"Summer",36869
+4,-98.9229965,30.7169991,NA,1966,"Geomys bursarius llanensis","Geomys_bursarius",237,263,"male",18.6,533,8.18344596602115,121.743011870396,"Spring",36870
+2,-103.8030167,34.2164688,NA,1976,"Geomys bursarius major","Geomys_bursarius",202,259,"male",13.8,299,7.92882638722705,105.429179591149,"Winter",36871
+9,-102.737999,33.9529991,NA,1974,"Geomys bursarius major","Geomys_bursarius",194,237,"male",14.5,508,8.00810195799835,127.926650286878,"Fall",36872
+9,-102.7409973,33.9500008,NA,1974,"Geomys bursarius major","Geomys_bursarius",173,251,"female",14.5,508,8.00909993808179,127.926650286878,"Fall",36873
+9,-102.7269974,33.9399986,NA,1974,"Geomys bursarius major","Geomys_bursarius",162,237,"female",14.5,512,7.97648057881685,127.745501313223,"Fall",36874
+11,-101.8860016,35.4749985,NA,1974,"Geomys bursarius major","Geomys_bursarius",140,227,"female",14.7,516,8.76464575162711,113.183523329887,"Fall",36875
+6,-98.7060013,30.7849998,NA,1978,"Geomys bursarius llanensis","Geomys_bursarius",102,225,"male",18.6,683,9.39307852849236,60.081463526055,"Summer",36876
+3,-100.7949982,33.8689995,NA,1978,"Geomys bursarius major","Geomys_bursarius",194,241,"female",15.8,549,10.4862211178924,103.619375866095,"Spring",36877
+11,-101.6240005,33.6640015,NA,1978,"Geomys bursarius major","Geomys_bursarius",142,241,"female",15,462,10.0741906961214,85.9072637125078,"Fall",36878
+10,-101.7630005,33.5050011,NA,1979,"Geomys bursarius major","Geomys_bursarius",287,259,"female",15.2,552,9.078391761193,93.2795998242673,"Fall",36879
+10,-101.7630005,33.5050011,NA,1979,"Geomys bursarius major","Geomys_bursarius",345,282,"male",15.2,552,9.078391761193,93.2795998242673,"Fall",36880
+5,-100.7939987,33.8470001,NA,1980,"Geomys bursarius major","Geomys_bursarius",96,191,"male",16.8,442,9.51300147007752,106.991824520876,"Spring",36881
+2,-104.0033112,34.3711128,NA,1976,"Geomys bursarius major","Geomys_bursarius",172,220,"female",14.2,281,8.07094958928175,99.0427038166254,"Winter",36882
+2,-104.0033112,34.3711128,NA,1976,"Geomys bursarius major","Geomys_bursarius",146,218,"female",14.2,281,8.07094958928175,99.0427038166254,"Winter",36883
+2,-104.0033112,34.3711128,NA,1976,"Geomys bursarius major","Geomys_bursarius",186,255,"male",14.2,281,8.07094958928175,99.0427038166254,"Winter",36884
+11,-100.7409973,33.8330002,NA,1981,"Geomys bursarius major","Geomys_bursarius",235,259,"male",17.1,644,8.23383632373517,61.5501009598568,"Fall",36885
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",170,248,"male",18.4,1620,6.58515318153211,50.4505205060274,"Winter",36886
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",95,200,"female",18.4,1620,6.58515318153211,50.4505205060274,"Winter",36887
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",128,222,"female",18.4,1620,6.58515318153211,50.4505205060274,"Winter",36888
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",135,239,"male",18.4,1620,6.58515318153211,50.4505205060274,"Winter",36889
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",90,203,"female",18.4,1620,6.58515318153211,50.4505205060274,"Winter",36890
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",155,227,"male",18.4,1620,6.58515318153211,50.4505205060274,"Winter",36891
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",116,207,"female",18.4,1620,6.58515318153211,50.4505205060274,"Winter",36892
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",81,185,"male",18.4,1620,6.58515318153211,50.4505205060274,"Winter",36893
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",90,218,"female",18.4,1620,6.58515318153211,50.4505205060274,"Winter",36894
+4,-93.7300034,30.8290005,NA,1963,"Geomys bursarius pratincola","Geomys_bursarius",103,164,"male",19.1,875,8.38264802307647,55.9772723800952,"Spring",36895
+4,-94.6340027,31.5650005,NA,1963,"Geomys bursarius pratincola","Geomys_bursarius",90,185,"female",18.9,714,8.67159679119658,45.6858898339678,"Spring",36896
+4,-94.6340027,31.5650005,NA,1963,"Geomys bursarius pratincola","Geomys_bursarius",107,210,"female",18.9,714,8.67159679119658,45.6858898339678,"Spring",36897
+11,-100.3219986,35.9220009,NA,1962,"Geomys bursarius major","Geomys_bursarius",184,259,"female",15.3,557,9.40617141062508,111.977709944679,"Fall",36898
+11,-100.6600037,33.6240005,NA,1962,"Geomys bursarius major","Geomys_bursarius",134,224,"female",17.2,562,8.66142178125089,106.258926771192,"Fall",36899
+11,-100.6600037,33.6240005,NA,1962,"Geomys bursarius major","Geomys_bursarius",167,215,"female",17.2,562,8.66142178125089,106.258926771192,"Fall",36900
+5,-101.1350021,33.6650009,NA,1963,"Geomys bursarius major","Geomys_bursarius",69,177,"male",16.6,571,9.35117477630323,89.5777121213584,"Spring",36901
+8,-102.5090027,36.0369987,NA,1985,"Geomys bursarius major","Geomys_bursarius",173,238,"female",12.9,501,9.52599314793715,81.5211388991313,"Summer",36902
+8,-102.5090027,36.0369987,NA,1985,"Geomys bursarius major","Geomys_bursarius",137,225,"female",12.9,501,9.52599314793715,81.5211388991313,"Summer",36903
+8,-102.5090027,36.0369987,NA,1985,"Geomys bursarius major","Geomys_bursarius",140,238,"female",12.9,501,9.52599314793715,81.5211388991313,"Summer",36904
+5,-100.1529999,35.9280014,NA,1985,"Geomys bursarius major","Geomys_bursarius",188,244,"male",14.4,748,10.2688702869253,72.2124185183754,"Spring",36905
+7,-100.098999,36.2039986,NA,1985,"Geomys bursarius major","Geomys_bursarius",116,212,"female",13.9,782,10.3895161318776,70.6951896883414,"Summer",36906
+7,-100.1299973,36.1769981,NA,1985,"Geomys bursarius major","Geomys_bursarius",108,215,"female",13.9,777,10.4224517269211,71.6453033325702,"Summer",36907
+11,-101.9690018,35.8250008,NA,1985,"Geomys bursarius major","Geomys_bursarius",147,244,"female",13.5,545,9.75518510145432,85.8045974026325,"Fall",36908
+5,-100.2149963,34.9459991,NA,1986,"Geomys bursarius major","Geomys_bursarius",188,238,"male",16.8,870,8.51011430325971,85.1859291499037,"Spring",36909
+12,-100.1169968,36.2340012,NA,1986,"Geomys bursarius major","Geomys_bursarius",201,258,"male",15.1,646,8.98729743312833,72.6979670291112,"Winter",36910
+5,-102.7919998,36.3590012,NA,1987,"Geomys bursarius jugossicularis","Geomys_bursarius",148,218,"female",12.3,409,8.80597249116482,89.1151315934891,"Spring",36911
+5,-102.7919998,36.3590012,NA,1987,"Geomys bursarius jugossicularis","Geomys_bursarius",200,240,"female",12.3,409,8.80597249116482,89.1151315934891,"Spring",36912
+5,-102.7919998,36.3590012,NA,1987,"Geomys bursarius jugossicularis","Geomys_bursarius",166,232,"female",12.3,409,8.80597249116482,89.1151315934891,"Spring",36913
+5,-99.5230026,33.9790001,NA,1985,"Geomys bursarius major","Geomys_bursarius",165,250,"female",17,844,9.97361291335565,65.5497292188118,"Spring",36914
+1,-102.2040024,34.0870018,NA,1988,"Geomys bursarius major","Geomys_bursarius",168,232,"female",13.7,592,8.3708865972633,99.997545084907,"Winter",36915
+3,-100.9960022,35.9589996,NA,1988,"Geomys bursarius major","Geomys_bursarius",125,210,"female",13.6,558,9.70110896503668,83.8057745974228,"Spring",36916
+4,-100.987999,35.9770012,NA,1988,"Geomys bursarius major","Geomys_bursarius",215,261,"male",13.6,558,9.6448251158407,83.8007576394371,"Spring",36917
+4,-100.987999,35.9770012,NA,1988,"Geomys bursarius major","Geomys_bursarius",155,213,"female",13.6,558,9.6448251158407,83.8007576394371,"Spring",36918
+5,-100.9889984,36.007,NA,1988,"Geomys bursarius major","Geomys_bursarius",218,245,"male",13.5,558,9.57704009439748,84.5499746924766,"Spring",36919
+7,-102.5279999,34.1559982,NA,1988,"Geomys bursarius major","Geomys_bursarius",209,255,"male",13.5,562,8.42354204631642,105.10662489778,"Summer",36920
+7,-102.7689972,34.1339989,NA,1988,"Geomys bursarius major","Geomys_bursarius",173,252,"female",13.4,532,8.36802626886195,109.565330097103,"Summer",36921
+9,-102.2040024,34.0870018,NA,1988,"Geomys bursarius major","Geomys_bursarius",141,225,"female",13.7,592,8.3708865972633,99.997545084907,"Fall",36922
+9,-102.2040024,34.0789986,NA,1988,"Geomys bursarius major","Geomys_bursarius",180,221,"female",13.7,590,8.35639385032911,99.971216248693,"Fall",36923
+10,-102.1149979,34.0519981,NA,1988,"Geomys bursarius major","Geomys_bursarius",145,236,"female",13.9,596,8.38107536312759,99.2566893135596,"Fall",36924
+2,-100.9940033,33.4319992,NA,1989,"Geomys bursarius major","Geomys_bursarius",194,244,"female",16.6,393,8.84003890708564,98.1178594054071,"Winter",36925
+2,-101.1110001,33.3800011,NA,1989,"Geomys bursarius major","Geomys_bursarius",215,233,"female",16.6,382,8.79860526137265,98.6665091568853,"Winter",36926
+2,-102.3619995,34.1759987,NA,1989,"Geomys bursarius major","Geomys_bursarius",155,224,"female",14.1,411,8.50683771320388,113.804790444232,"Winter",36927
+2,-102.3619995,34.1759987,NA,1989,"Geomys bursarius major","Geomys_bursarius",145,240,"female",14.1,411,8.50683771320388,113.804790444232,"Winter",36928
+2,-102.1149979,34.0600014,NA,1989,"Geomys bursarius major","Geomys_bursarius",240,266,"male",14.2,441,8.51622337694712,120.832946880562,"Winter",36929
+3,-102.7070007,34.1430016,NA,1989,"Geomys bursarius major","Geomys_bursarius",93,206,"female",14.1,353,8.58407616673825,106.463102343001,"Spring",36930
+3,-102.7249985,34.1430016,NA,1989,"Geomys bursarius major","Geomys_bursarius",72,184,"female",14.1,350,8.59423256220899,107.022541818676,"Spring",36931
+4,-102.1320038,34.0849991,NA,1989,"Geomys bursarius major","Geomys_bursarius",175,246,"female",14.2,441,8.48651336479883,120.434889018509,"Spring",36932
+4,-102.4059982,34.1669998,NA,1989,"Geomys bursarius major","Geomys_bursarius",155,222,"female",14.1,402,8.5362151857231,112.140227457075,"Spring",36933
+4,-102.4059982,34.1669998,NA,1989,"Geomys bursarius major","Geomys_bursarius",235,248,"male",14.1,402,8.5362151857231,112.140227457075,"Spring",36934
+4,-102.4059982,34.1669998,NA,1989,"Geomys bursarius major","Geomys_bursarius",160,226,"female",14.1,402,8.5362151857231,112.140227457075,"Spring",36935
+6,-101.7809982,32.1010017,NA,1989,"Geomys bursarius major","Geomys_bursarius",141,233,"female",17.6,345,8.56817136885465,85.4127854629899,"Summer",36936
+6,-101.7809982,32.1010017,NA,1989,"Geomys bursarius major","Geomys_bursarius",107,220,"male",17.6,345,8.56817136885465,85.4127854629899,"Summer",36937
+6,-101.7699966,32.0400009,NA,1989,"Geomys bursarius major","Geomys_bursarius",90,NA,"female",17.6,345,8.56460298218337,83.0439956112436,"Summer",36938
+10,-100.9179993,33.7519989,NA,1989,"Geomys bursarius major","Geomys_bursarius",190,242,"female",15.7,433,8.65845181766278,101.386294418168,"Fall",36939
+10,-100.9179993,33.7519989,NA,1989,"Geomys bursarius major","Geomys_bursarius",256,255,"male",15.7,433,8.65845181766278,101.386294418168,"Fall",36940
+1,-101.2429962,33.7890015,NA,1990,"Geomys bursarius major","Geomys_bursarius",143,241,"female",16.1,425,8.07408874678184,49.9230775003802,"Winter",36941
+2,-101.1849976,34.2130013,NA,1990,"Geomys bursarius major","Geomys_bursarius",170,240,"female",15.1,463,8.24692320955169,42.5940707095627,"Winter",36942
+5,-100.9240036,35.2179985,NA,1990,"Geomys bursarius major","Geomys_bursarius",138,236,"female",14.7,479,8.75862778099747,49.3639539919719,"Spring",36943
+8,-100.6869965,32.4640007,NA,1990,"Geomys bursarius major","Geomys_bursarius",105,208,"female",17.9,788,7.6548657530338,66.9683584423946,"Summer",36944
+8,-100.6869965,32.4640007,NA,1990,"Geomys bursarius major","Geomys_bursarius",116,225,"female",17.9,788,7.6548657530338,66.9683584423946,"Summer",36945
+8,-100.4079971,32.4379997,NA,1990,"Geomys bursarius major","Geomys_bursarius",154,218,"female",18,836,7.720628605276,63.3986474659595,"Summer",36946
+11,-100.3560028,32.4819984,NA,1990,"Geomys bursarius major","Geomys_bursarius",170,238,"female",18.1,849,7.76692677415923,61.6161429045694,"Fall",36947
+11,-100.3389969,32.4830017,NA,1990,"Geomys bursarius major","Geomys_bursarius",300,268,"male",18,855,7.75071355463873,61.5077720408825,"Fall",36948
+10,-101.1930008,33.0579987,NA,1990,"Geomys bursarius major","Geomys_bursarius",170,244,"female",17.6,564,7.96265430848054,56.881667482958,"Fall",36949
+12,-100.8509979,32.7350006,NA,1990,"Geomys bursarius major","Geomys_bursarius",175,250,"female",17.5,767,7.89918964006416,67.882013476845,"Winter",36950
+1,-100.1549988,32.7130013,NA,1991,"Geomys bursarius major","Geomys_bursarius",280,262,"male",17.8,781,7.9607940825173,78.7553163052828,"Winter",36951
+1,-100.1549988,32.7130013,NA,1991,"Geomys bursarius major","Geomys_bursarius",180,252,"female",17.8,781,7.9607940825173,78.7553163052828,"Winter",36952
+1,-101.3460007,33.1940002,NA,1991,"Geomys bursarius major","Geomys_bursarius",225,242,"male",16.7,608,8.05452536080673,90.4351312766529,"Winter",36953
+1,-101.189003,33.1969986,NA,1991,"Geomys bursarius major","Geomys_bursarius",182,249,"female",16.8,591,8.10388515129963,85.2093897676075,"Winter",36954
+1,-101.189003,33.1969986,NA,1991,"Geomys bursarius major","Geomys_bursarius",180,260,"female",16.8,591,8.10388515129963,85.2093897676075,"Winter",36955
+1,-100.1179962,32.7579994,NA,1991,"Geomys bursarius major","Geomys_bursarius",180,238,"female",17.8,788,7.95065749139369,79.5879115268014,"Winter",36956
+1,-100.1179962,32.7579994,NA,1991,"Geomys bursarius major","Geomys_bursarius",270,261,"male",17.8,788,7.95065749139369,79.5879115268014,"Winter",36957
+1,-100.7710037,33.1640015,NA,1991,"Geomys bursarius major","Geomys_bursarius",178,244,"female",17,654,8.14085748592005,79.8054884872277,"Winter",36958
+2,-100.6760025,32.3470001,NA,1991,"Geomys bursarius major","Geomys_bursarius",170,232,"female",17.5,724,7.8842141861655,79.4417917515796,"Winter",36959
+2,-100.4079971,32.4519997,NA,1991,"Geomys bursarius major","Geomys_bursarius",185,245,"female",17.5,758,7.88058604189031,79.6315749006375,"Winter",36960
+1,-100.512001,33.2270012,NA,1991,"Geomys bursarius major","Geomys_bursarius",210,282,"male",17.2,710,8.21456116609495,79.623445557212,"Winter",36961
+1,-100.3799973,33.1839981,NA,1991,"Geomys bursarius major","Geomys_bursarius",180,244,"female",17.3,735,8.18495941383099,77.8465222527306,"Winter",36962
+1,-100.3799973,33.1839981,NA,1991,"Geomys bursarius major","Geomys_bursarius",170,230,"female",17.3,735,8.18495941383099,77.8465222527306,"Winter",36963
+3,-99.9899979,31.7150002,NA,1991,"Geomys bursarius","Geomys_bursarius",185,244,"female",18.4,868,7.64525996941896,69.6760561373751,"Spring",36964
+3,-99.9899979,31.7150002,NA,1991,"Geomys bursarius","Geomys_bursarius",210,256,"female",18.4,868,7.64525996941896,69.6760561373751,"Spring",36965
+3,-99.9899979,31.7150002,NA,1991,"Geomys bursarius","Geomys_bursarius",202,258,"female",18.4,868,7.64525996941896,69.6760561373751,"Spring",36966
+3,-99.9899979,31.7150002,NA,1991,"Geomys bursarius","Geomys_bursarius",98,194,"female",18.4,868,7.64525996941896,69.6760561373751,"Spring",36967
+3,-99.9899979,31.7150002,NA,1991,"Geomys bursarius","Geomys_bursarius",202,244,"female",18.4,868,7.64525996941896,69.6760561373751,"Spring",36968
+3,-101.0479965,32.5979996,NA,1991,"Geomys bursarius major","Geomys_bursarius",145,216,"female",17.4,653,8.02489969728689,85.7588041274131,"Spring",36969
+4,-101.3929977,32.9939995,NA,1991,"Geomys bursarius major","Geomys_bursarius",160,235,"female",17,597,8.00164282374488,91.3839634993811,"Spring",36970
+5,-99.9899979,31.7150002,NA,1991,"Geomys bursarius major","Geomys_bursarius",155,247,"female",18.4,868,7.64525996941896,69.6760561373751,"Spring",36971
+5,-99.9899979,31.7150002,NA,1991,"Geomys bursarius major","Geomys_bursarius",260,269,"male",18.4,868,7.64525996941896,69.6760561373751,"Spring",36972
+11,-103.0080032,31.7940006,NA,1967,"Geomys bursarius major","Geomys_bursarius",129,231,"female",18.2,179,7.93817015782261,97.4335245702603,"Fall",36973
+1,-101.4860001,32.3950005,NA,1992,"Geomys bursarius major","Geomys_bursarius",240,266,"male",17.2,618,7.38786884430186,90.7612401938816,"Winter",36974
+1,-99.9899979,31.7150002,NA,1992,"Geomys bursarius major","Geomys_bursarius",185,238,"female",18.4,708,7.36611817511075,61.2721438291159,"Winter",36975
+1,-100.9029999,32.7039986,NA,1992,"Geomys bursarius major","Geomys_bursarius",145,234,"female",17.3,660,7.5662478191377,78.1286011114999,"Winter",36976
+1,-101.4339981,33.1850014,NA,1992,"Geomys bursarius major","Geomys_bursarius",190,247,"female",16.2,647,7.62775533922998,90.2049045428876,"Winter",36977
+1,-101.5299988,33.1829987,NA,1992,"Geomys bursarius major","Geomys_bursarius",230,255,"female",16.2,641,7.64608733373819,91.3039803991181,"Winter",36978
+1,-101.5830002,33.1730003,NA,1992,"Geomys bursarius major","Geomys_bursarius",210,248,"female",16.2,634,7.64607247169579,91.629004522924,"Winter",36979
+1,-101.5479965,33.1730003,NA,1992,"Geomys bursarius major","Geomys_bursarius",180,245,"female",16.2,638,7.64608733373819,91.1655119449335,"Winter",36980
+1,-101.75,33.2859993,NA,1992,"Geomys bursarius major","Geomys_bursarius",160,237,"female",16,618,7.69302616108586,95.0097543215191,"Winter",36981
+2,-101.4970016,33.2639999,NA,1992,"Geomys bursarius major","Geomys_bursarius",185,241,"female",16.2,646,7.63691195722618,92.7357077941057,"Winter",36982
+2,-101.5619965,33.1430016,NA,1992,"Geomys bursarius major","Geomys_bursarius",180,235,"female",16.2,636,7.63744761426264,90.89167673668,"Winter",36983
+11,-101.8440018,33.3110008,NA,1989,"Geomys bursarius major","Geomys_bursarius",243,251,"male",15.8,409,8.58929919178862,110.860665113399,"Fall",36984
+1,-101.0459976,33.0999985,NA,1993,"Geomys bursarius major","Geomys_bursarius",135,228,"female",16.7,405,8.8024918992501,54.4390191184046,"Winter",36985
+2,-100.6569977,32.5470009,NA,1993,"Geomys bursarius major","Geomys_bursarius",240,261,"male",17.2,463,8.53483059781114,53.5487404150447,"Winter",36986
+2,-100.6569977,32.5470009,NA,1993,"Geomys bursarius major","Geomys_bursarius",160,218,"female",17.2,463,8.53483059781114,53.5487404150447,"Winter",36987
+5,-101.0459976,33.0999985,NA,1993,"Geomys bursarius major","Geomys_bursarius",150,214,"female",16.7,405,8.8024918992501,54.4390191184046,"Spring",36988
+4,-101.6460037,33.5009995,NA,1968,"Geomys bursarius major","Geomys_bursarius",81,189,"female",14.6,525,7.93302934227868,55.8535057107925,"Spring",36989
+2,-101.776001,33.5149994,NA,1968,"Geomys bursarius major","Geomys_bursarius",160,219,"female",14.1,506,7.89135987052045,58.0298672111154,"Winter",36990
+7,-101.0439987,34.4430008,NA,1968,"Geomys bursarius major","Geomys_bursarius",130,212,"female",15.7,587,8.49835545588354,74.4233866843685,"Summer",36991
+3,-101.8529968,33.5760002,NA,1969,"Geomys bursarius major","Geomys_bursarius",204,274,"female",15.2,659,8.63095205254515,84.0989334237814,"Spring",36992
+3,-102.9729996,31.9669991,NA,1969,"Geomys bursarius major","Geomys_bursarius",102,196,"male",17.5,398,8.22606721454316,73.7078434503592,"Spring",36993
+3,-102.9729996,31.9669991,NA,1969,"Geomys bursarius major","Geomys_bursarius",142,221,"female",17.5,398,8.22606721454316,73.7078434503592,"Spring",36994
+10,-98.8761111111,30.2708333333,NA,1998,"Geomys bursarius","Geomys_bursarius",185.9,235,"male",19.4,885,7.35141709695031,64.4350161560758,"Fall",36995
+8,-93.5833333,45.3,"adult",1926,"Geomys bursarius bursarius","Geomys_bursarius",224,NA,"female",5.8,761,11.9824745762174,94.1031773336835,"Summer",36996
+10,-93.5833333,45.3,"adult",1926,"Geomys bursarius bursarius","Geomys_bursarius",184,NA,"female",5.8,761,11.9824745762174,94.1031773336835,"Fall",36997
+10,-93.5833333,45.3,"adult",1926,"Geomys bursarius bursarius","Geomys_bursarius",220.7,NA,"male",5.8,761,11.9824745762174,94.1031773336835,"Fall",36998
+4,-93.5833333,45.3,"adult",1927,"Geomys bursarius bursarius","Geomys_bursarius",177,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",36999
+11,-100.35073,39.33795,NA,1963,"Geomys bursarius lutescens","Geomys_bursarius",179.3,251,"female",13,464,11.603875397574,106.211525843716,"Fall",37000
+11,-100.35073,39.33795,NA,1963,"Geomys bursarius lutescens","Geomys_bursarius",169.7,239,"female",13,464,11.603875397574,106.211525843716,"Fall",37001
+9,-100.36034,40.237985,NA,1956,"Geomys bursarius","Geomys_bursarius",149.5,232,"female",11.3,290,10.8101663710461,83.0725025178769,"Fall",37002
+4,-97.25989,37.5498,NA,1963,"Geomys bursarius","Geomys_bursarius",83.7,213,"female",14.4,655,11.5005500527215,70.2623197400486,"Spring",37003
+9,-95.26,39.02,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",210,277,"female",12.4,847,10.4979507379759,50.2022740899188,"Fall",37004
+9,-95.26,39.02,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",487,334,"male",12.4,847,10.4979507379759,50.2022740899188,"Fall",37005
+10,-95.23,39.01,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",362,323,"male",12.5,850,10.4763369726081,50.6908547529386,"Fall",37006
+10,-95.09,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",262,273,"female",12.7,846,10.3962806577714,53.0236045667013,"Fall",37007
+10,-95.09,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",250,254,"female",12.7,846,10.3962806577714,53.0236045667013,"Fall",37008
+10,-95.09,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",236,265,"male",12.7,846,10.3962806577714,53.0236045667013,"Fall",37009
+10,-95.09,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",226,276,"female",12.7,846,10.3962806577714,53.0236045667013,"Fall",37010
+10,-95.08,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",255,265,"female",12.7,844,10.3962806577714,52.9681211843275,"Fall",37011
+10,-95.08,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",258,274,"female",12.7,844,10.3962806577714,52.9681211843275,"Fall",37012
+10,-95.07,38.96,NA,1971,"Geomys bursarius bursarius","Geomys_bursarius",328,265,"male",12.7,843,10.3962806577714,53.0995775997942,"Fall",37013
+9,-97.97,42.07,NA,1981,"Geomys bursarius bursarius","Geomys_bursarius",245,279,"male",10.3,667,10.1909496390402,80.8921371719266,"Fall",37014
+9,-97.97,42.07,NA,1982,"Geomys bursarius bursarius","Geomys_bursarius",301,280,"female",8.2,828,11.7931766353055,75.4427085859851,"Fall",37015
+4,-102.35,44.06,NA,1982,"Geomys bursarius bursarius","Geomys_bursarius",212,276,"female",7.2,638,11.2183156516745,95.6916365697121,"Spring",37016
+11,-96.81,39.28,NA,1974,"Geomys bursarius bursarius","Geomys_bursarius",221,230,"female",12.3,671,10.073679325426,70.4395818689858,"Fall",37017
+9,-103.4147333333,41.2531666667,NA,2002,"Geomys bursarius lutesceus","Geomys_bursarius",154,244,"female",9,221,10.0786903911173,97.4755389107255,"Fall",37018
+4,-100.1852778,33.5277778,NA,2003,"Geomys bursarius","Geomys_bursarius",200,247,"female",17.3,447,8.35032207689493,107.687942796098,"Spring",37019
+4,-102.0727778,34.45,NA,2003,"Geomys bursarius","Geomys_bursarius",178,241,"male",14.8,293,8.12532516831844,163.061761338519,"Spring",37020
+4,-102.0061111,34.45,NA,2003,"Geomys bursarius","Geomys_bursarius",218,239,"male",14.9,297,8.13761840671663,161.784059300369,"Spring",37021
+4,-95.3740005,33.6629982,NA,1969,"Geomys bursarius dutcheri","Geomys_bursarius",114,218,"female",17.5,1149,8.6916321653053,69.3178711985028,"Spring",37022
+3,-103.8703003,33.3932152,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",168,225,"male",14,336,7.89917525422558,98.6810044071187,"Spring",37023
+12,-100.2129974,34.862999,NA,1973,"Geomys bursarius major","Geomys_bursarius",262,249,"male",15.8,701,8.96462323229313,84.3074152120693,"Winter",37024
+12,-100.2170029,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",173,240,"male",15.9,481,9.33882008639532,90.8991098938163,"Winter",37025
+12,-100.2170029,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",121,214,"female",15.9,481,9.33882008639532,90.8991098938163,"Winter",37026
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",131,232,"female",16,481,9.33882008639532,90.8991098938163,"Fall",37027
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",122,220,"female",16,481,9.33882008639532,90.8991098938163,"Fall",37028
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",242,247,"male",16,481,9.33882008639532,90.8991098938163,"Fall",37029
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",161,242,"female",16,481,9.33882008639532,90.8991098938163,"Fall",37030
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",161,226,"female",16,481,9.33882008639532,90.8991098938163,"Fall",37031
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",188,250,"male",16,481,9.33882008639532,90.8991098938163,"Fall",37032
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",288,260,"male",16,481,9.33882008639532,90.8991098938163,"Fall",37033
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",128,222,"female",16,481,9.33882008639532,90.8991098938163,"Fall",37034
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",153,240,"female",16,481,9.33882008639532,90.8991098938163,"Fall",37035
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",227,273,"male",16,481,9.33882008639532,90.8991098938163,"Fall",37036
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",142,225,"female",16,481,9.33882008639532,90.8991098938163,"Fall",37037
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",277,257,"male",16,481,9.33882008639532,90.8991098938163,"Fall",37038
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",238,257,"male",16,481,9.33882008639532,90.8991098938163,"Fall",37039
+11,-100.2149963,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",162,240,"female",16,481,9.33882008639532,90.8991098938163,"Fall",37040
+12,-100.2129974,34.8549995,NA,1972,"Geomys bursarius major","Geomys_bursarius",212,245,"male",16,481,9.33882008639532,90.8991098938163,"Winter",37041
+1,-101.4830017,32.2919998,NA,1973,"Geomys bursarius major","Geomys_bursarius",189,235,"female",16.7,397,8.01310952392542,73.2791706411173,"Winter",37042
+2,-101.6119995,33.6650009,NA,1973,"Geomys bursarius major","Geomys_bursarius",189,252,"female",14.8,414,8.46670842270782,67.4107759385487,"Winter",37043
+2,-101.6119995,33.6650009,NA,1973,"Geomys bursarius major","Geomys_bursarius",149,228,"female",14.8,414,8.46670842270782,67.4107759385487,"Winter",37044
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",112,90,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37045
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",167,250,"male",14.8,401,8.28428139199884,70.2776042232486,"Winter",37046
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",99,203,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37047
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",107,203,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37048
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",129,216,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37049
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",140,215,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37050
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",123,215,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37051
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",138,227,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37052
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",139,217,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37053
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",121,222,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37054
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",119,214,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37055
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",198,241,"male",14.8,401,8.28428139199884,70.2776042232486,"Winter",37056
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",179,235,"male",14.8,401,8.28428139199884,70.2776042232486,"Winter",37057
+1,-102.4000015,33.3339996,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",130,218,"female",14.8,401,8.28428139199884,70.2776042232486,"Winter",37058
+2,-102.8410034,31.5990009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",137,220,"female",17.4,240,8.06287320019509,87.0096607900122,"Winter",37059
+3,-103.0039978,31.8619995,NA,1969,"Geomys bursarius knoxjonesi","Geomys_bursarius",188,269,"male",17.8,386,8.28739001938085,72.6369412410696,"Spring",37060
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",180,255,"female",17,250,8.08044309466137,101.280418225355,"Winter",37061
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",263,291,"male",17,250,8.08044309466137,101.280418225355,"Winter",37062
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",237,282,"male",17,250,8.08044309466137,101.280418225355,"Winter",37063
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",73,180,"female",17,250,8.08044309466137,101.280418225355,"Winter",37064
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",98,202,"female",17,250,8.08044309466137,101.280418225355,"Winter",37065
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",192,240,"male",17,250,8.08044309466137,101.280418225355,"Winter",37066
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",119,232,"female",17,250,8.08044309466137,101.280418225355,"Winter",37067
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",126,230,"female",17,250,8.08044309466137,101.280418225355,"Winter",37068
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",183,245,"male",17,250,8.08044309466137,101.280418225355,"Winter",37069
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",114,207,"female",17,250,8.08044309466137,101.280418225355,"Winter",37070
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",161,241,"male",17,250,8.08044309466137,101.280418225355,"Winter",37071
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",165,230,"female",17,250,8.08044309466137,101.280418225355,"Winter",37072
+1,-103.0049973,31.9220009,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",155,230,"female",17,250,8.08044309466137,101.280418225355,"Winter",37073
+10,-99.7300034,33.5320015,NA,1972,"Geomys bursarius major","Geomys_bursarius",163,238,"female",17.5,648,9.06787118781403,83.6301001506219,"Fall",37074
+4,-103.6173706,34.3656044,NA,1973,"Geomys bursarius","Geomys_bursarius",125,221,"female",13.6,363,8.23695939045471,103.144120491232,"Spring",37075
+4,-103.6173706,34.3656044,NA,1973,"Geomys bursarius","Geomys_bursarius",187,252,"male",13.6,363,8.23695939045471,103.144120491232,"Spring",37076
+4,-103.6173706,34.3656044,NA,1973,"Geomys bursarius","Geomys_bursarius",93,229,"female",13.6,363,8.23695939045471,103.144120491232,"Spring",37077
+4,-103.6173706,34.3656044,NA,1973,"Geomys bursarius","Geomys_bursarius",55,196,"female",13.6,363,8.23695939045471,103.144120491232,"Spring",37078
+3,-103.364006,33.9403343,NA,1973,"Geomys bursarius","Geomys_bursarius",92,234,"female",13.5,378,8.0025564097299,97.5300970999345,"Spring",37079
+3,-103.6327209,33.9442253,NA,1973,"Geomys bursarius","Geomys_bursarius",69,192,"male",13.5,361,7.98435496721083,112.967323424148,"Spring",37080
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",66.4,195,"male",13.5,362,7.9724525711979,112.208249517763,"Spring",37081
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",230,267,"male",13.5,362,7.9724525711979,112.208249517763,"Spring",37082
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",103,216,"female",13.5,362,7.9724525711979,112.208249517763,"Spring",37083
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",126,229,"female",13.5,362,7.9724525711979,112.208249517763,"Spring",37084
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",129,245,"female",13.5,362,7.9724525711979,112.208249517763,"Spring",37085
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",189,247,"male",13.5,362,7.9724525711979,112.208249517763,"Spring",37086
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",61,182,"male",13.5,362,7.9724525711979,112.208249517763,"Spring",37087
+4,-103.6050568,33.944088,NA,1973,"Geomys bursarius","Geomys_bursarius",128,240,"female",13.5,362,7.9724525711979,112.208249517763,"Spring",37088
+4,-103.0957184,33.7626953,NA,1973,"Geomys bursarius","Geomys_bursarius",277,284,"male",13.7,369,8.07106222591212,79.4784675533675,"Spring",37089
+4,-103.0957184,33.7626953,NA,1973,"Geomys bursarius","Geomys_bursarius",125,231,"female",13.7,369,8.07106222591212,79.4784675533675,"Spring",37090
+4,-103.0957184,33.7626953,NA,1973,"Geomys bursarius","Geomys_bursarius",95,236,"male",13.7,369,8.07106222591212,79.4784675533675,"Spring",37091
+4,-102.8460007,33.723999,NA,1973,"Geomys bursarius","Geomys_bursarius",116,134,"female",13.9,385,8.13522084407167,73.5658410011248,"Spring",37092
+4,-102.6729965,33.6489983,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",73,206,"female",14.1,388,8.19372912474515,72.1997506120647,"Spring",37093
+4,-102.6669998,33.6459999,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",40,176,"female",14.1,389,8.19372912474515,72.1997506120647,"Spring",37094
+4,-102.6340027,33.7470016,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",104,217,"female",14.1,384,8.20278500377657,70.6353069711535,"Spring",37095
+4,-102.6340027,33.7470016,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",88,221,"female",14.1,384,8.20278500377657,70.6353069711535,"Spring",37096
+3,-102.6220016,33.6150017,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",212,280,"male",14.2,388,8.21883922350463,69.4627375417141,"Spring",37097
+3,-94.9160004,29.4200001,NA,1973,"Geomys bursarius","Geomys_bursarius",105,210,"female",20.4,1974,6.29994588721349,59.545086249272,"Spring",37098
+3,-101.7799988,33.5040016,NA,1973,"Geomys bursarius","Geomys_bursarius",231,270,"male",14.9,416,8.35311591291211,67.0745734481522,"Spring",37099
+3,-101.7799988,33.5040016,NA,1973,"Geomys bursarius","Geomys_bursarius",60,191,"female",14.9,416,8.35311591291211,67.0745734481522,"Spring",37100
+3,-102.1999969,33.3260002,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",177,249,"male",14.9,414,8.30893549685572,69.0292341552076,"Spring",37101
+3,-102.1999969,33.3260002,NA,1973,"Geomys bursarius knoxjonesi","Geomys_bursarius",110,220,"female",14.9,414,8.30893549685572,69.0292341552076,"Spring",37102
+12,-101.8010025,33.5349998,NA,1963,"Geomys bursarius major","Geomys_bursarius",250,270,"male",15.7,553,9.25528104774389,114.370636236236,"Winter",37103
+12,-101.8010025,33.5349998,NA,1963,"Geomys bursarius major","Geomys_bursarius",154,230,"female",15.7,553,9.25528104774389,114.370636236236,"Winter",37104
+12,-101.8010025,33.5349998,NA,1963,"Geomys bursarius major","Geomys_bursarius",250,190,"male",15.7,553,9.25528104774389,114.370636236236,"Winter",37105
+12,-101.8010025,33.5349998,NA,1963,"Geomys bursarius major","Geomys_bursarius",173,240,"male",15.7,553,9.25528104774389,114.370636236236,"Winter",37106
+5,-102.7139969,33.9070015,NA,1964,"Geomys bursarius major","Geomys_bursarius",181,234,"female",14.5,297,9.07168421768828,95.4910993506158,"Spring",37107
+3,-102.6579971,33.6360016,NA,1974,"Geomys bursarius","Geomys_bursarius",172,245,"male",14.8,568,7.85331429745082,128.241456360514,"Spring",37108
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",102,220,"male",18,516,7.87221812336385,134.942030117407,"Winter",37109
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",182,240,"male",18,516,7.87221812336385,134.942030117407,"Winter",37110
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",71,97,"female",18,516,7.87221812336385,134.942030117407,"Winter",37111
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",173,265,"male",18,516,7.87221812336385,134.942030117407,"Winter",37112
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",110,240,"female",18,516,7.87221812336385,134.942030117407,"Winter",37113
+1,-103.0049973,31.9220009,NA,1974,"Geomys bursarius knoxjonesi","Geomys_bursarius",100,227,"female",18,516,7.87221812336385,134.942030117407,"Winter",37114
+3,-102.7900009,33.7330017,NA,1974,"Geomys bursarius major","Geomys_bursarius",139,245,"female",14.7,573,7.85753836076599,128.29313668079,"Spring",37115
+3,-101.5889969,33.5820007,NA,1965,"Geomys bursarius major","Geomys_bursarius",161,235,"female",16.1,333,8.41421506449147,102.009114384256,"Spring",37116
+9,-101.3320007,33.5670013,NA,1974,"Geomys bursarius major","Geomys_bursarius",135,201,"female",15.7,713,7.99901509088728,101.44851543834,"Fall",37117
+7,-103.9638062,34.2027321,NA,1974,"Geomys bursarius","Geomys_bursarius",90,204,"female",14.2,391,8.06674805869281,118.556859297546,"Summer",37118
+7,-103.9638062,34.2027321,NA,1974,"Geomys bursarius","Geomys_bursarius",150,235,"male",14.2,391,8.06674805869281,118.556859297546,"Summer",37119
+1,-94.185997,33.4230003,NA,1976,"Geomys bursarius dutcheri","Geomys_bursarius",150,215,"male",16.5,1146,7.35891028658867,60.1123922360953,"Winter",37120
+8,-102.4260025,34.2330017,NA,1975,"Geomys bursarius major","Geomys_bursarius",327,287,"male",13.5,424,7.93089471050341,107.522340728729,"Summer",37121
+7,-96.5670013,33.7210007,NA,1972,"Geomys bursarius dutcheri","Geomys_bursarius",155,236,"female",17.4,832,8.93109990172238,90.2896588724644,"Summer",37122
+9,-102.75,33.9609985,NA,1974,"Geomys bursarius major","Geomys_bursarius",153,228,"female",14.5,506,8.00909993808179,128.190070948717,"Fall",37123
+9,-102.75,33.9609985,NA,1974,"Geomys bursarius major","Geomys_bursarius",95,206,"female",14.5,506,8.00909993808179,128.190070948717,"Fall",37124
+9,-102.737999,33.9529991,NA,1974,"Geomys bursarius major","Geomys_bursarius",143,225,"female",14.5,508,8.00810195799835,127.926650286878,"Fall",37125
+9,-102.7610016,33.9490013,NA,1974,"Geomys bursarius major","Geomys_bursarius",177,247,"female",14.5,508,8.01163453227791,127.479997848737,"Fall",37126
+9,-102.7149963,33.9490013,NA,1974,"Geomys bursarius major","Geomys_bursarius",106,193,"male",14.5,511,7.97672751309594,127.678841761503,"Fall",37127
+9,-102.75,33.9440002,NA,1974,"Geomys bursarius major","Geomys_bursarius",219,280,"male",14.5,508,8.00213986532617,127.548179092054,"Fall",37128
+9,-102.75,33.9440002,NA,1974,"Geomys bursarius major","Geomys_bursarius",201,252,"male",14.5,508,8.00213986532617,127.548179092054,"Fall",37129
+9,-102.7269974,33.9399986,NA,1974,"Geomys bursarius major","Geomys_bursarius",136,223,"female",14.5,512,7.97648057881685,127.745501313223,"Fall",37130
+6,-98.7060013,30.7849998,NA,1978,"Geomys bursarius llanensis","Geomys_bursarius",129,206,"female",18.6,683,9.39307852849236,60.081463526055,"Summer",37131
+11,-101.6240005,33.6640015,NA,1978,"Geomys bursarius major","Geomys_bursarius",123,214,"female",15,462,10.0741906961214,85.9072637125078,"Fall",37132
+11,-101.6269989,33.6640015,NA,1978,"Geomys bursarius major","Geomys_bursarius",134,248,"female",15,461,10.069651373701,85.66295073808,"Fall",37133
+7,-100.7939987,33.8470001,NA,1980,"Geomys bursarius major","Geomys_bursarius",168,255,"male",16.8,442,9.51300147007752,106.991824520876,"Summer",37134
+1,-93.7529984,30.8500004,NA,1962,"Geomys bursarius pratincola","Geomys_bursarius",104,197,"female",19.1,1026,7.50577050735572,38.1447589911683,"Winter",37135
+12,-93.7529984,30.8500004,NA,1961,"Geomys bursarius pratincola","Geomys_bursarius",147,230,"male",18.4,1620,6.58515318153211,50.4505205060274,"Winter",37136
+5,-101.8529968,33.5760002,NA,1967,"Geomys bursarius major","Geomys_bursarius",118,255,"male",15,380,7.84584429664983,131.714762442095,"Spring",37137
+3,-94.560997,31.573,NA,1967,"Geomys bursarius pratincola","Geomys_bursarius",134,212,"female",18.7,871,6.9372293832013,63.1620803452432,"Spring",37138
+4,-94.6340027,31.5650005,NA,1963,"Geomys bursarius pratincola","Geomys_bursarius",99,190,"female",18.9,714,8.67159679119658,45.6858898339678,"Spring",37139
+4,-94.4970016,31.5139999,NA,1963,"Geomys bursarius pratincola","Geomys_bursarius",168,235,"male",18.8,752,8.6472626602383,46.7139012225564,"Spring",37140
+4,-94.7699966,31.5279999,NA,1963,"Geomys bursarius pratincola","Geomys_bursarius",83,167,"female",19,707,8.60997923483224,46.3499894322737,"Spring",37141
+4,-94.7699966,31.5279999,NA,1963,"Geomys bursarius pratincola","Geomys_bursarius",193,233,"male",19,707,8.60997923483224,46.3499894322737,"Spring",37142
+11,-100.3219986,35.9220009,NA,1962,"Geomys bursarius major","Geomys_bursarius",259,269,"female",15.3,557,9.40617141062508,111.977709944679,"Fall",37143
+11,-100.6600037,33.6240005,NA,1962,"Geomys bursarius major","Geomys_bursarius",159,226,"female",17.2,562,8.66142178125089,106.258926771192,"Fall",37144
+5,-102.6800003,32.4300003,NA,1963,"Geomys bursarius major","Geomys_bursarius",143,205,"female",17.1,317,8.70355204395413,100.433346489233,"Spring",37145
+8,-102.5650024,36.0639992,NA,1985,"Geomys bursarius major","Geomys_bursarius",182,231,"female",12.8,490,9.50983541902644,78.8378731684902,"Summer",37146
+8,-102.5090027,36.0369987,NA,1985,"Geomys bursarius major","Geomys_bursarius",178,242,"female",12.9,501,9.52599314793715,81.5211388991313,"Summer",37147
+8,-102.5090027,36.0369987,NA,1985,"Geomys bursarius major","Geomys_bursarius",192,243,"female",12.9,501,9.52599314793715,81.5211388991313,"Summer",37148
+8,-102.5090027,36.0369987,NA,1985,"Geomys bursarius major","Geomys_bursarius",186,246,"female",12.9,501,9.52599314793715,81.5211388991313,"Summer",37149
+5,-100.1529999,35.9280014,NA,1985,"Geomys bursarius major","Geomys_bursarius",129,217,"female",14.4,748,10.2688702869253,72.2124185183754,"Spring",37150
+3,-101.4380035,33.2389984,NA,1963,"Geomys bursarius major","Geomys_bursarius",186,220,"female",16.5,588,9.3292144591194,120.059113389254,"Spring",37151
+5,-100.2149963,34.9459991,NA,1986,"Geomys bursarius major","Geomys_bursarius",185,238,"male",16.8,870,8.51011430325971,85.1859291499037,"Spring",37152
+5,-102.7919998,36.3590012,NA,1987,"Geomys bursarius jugossicularis","Geomys_bursarius",185,225,"male",12.3,409,8.80597249116482,89.1151315934891,"Spring",37153
+5,-99.5230026,33.9790001,NA,1985,"Geomys bursarius major","Geomys_bursarius",152,205,"female",17,844,9.97361291335565,65.5497292188118,"Spring",37154
+5,-102.072998,34.0470009,NA,1988,"Geomys bursarius major","Geomys_bursarius",100,200,"male",13.9,600,8.4044721140088,98.967503058197,"Spring",37155
+1,-102.2040024,34.0870018,NA,1988,"Geomys bursarius major","Geomys_bursarius",250,230,"male",13.7,592,8.3708865972633,99.997545084907,"Winter",37156
+5,-100.9889984,36.007,NA,1988,"Geomys bursarius major","Geomys_bursarius",160,224,"male",13.5,558,9.57704009439748,84.5499746924766,"Spring",37157
+5,-102.7249985,34.1399994,NA,1988,"Geomys bursarius major","Geomys_bursarius",119,212,"female",13.4,535,8.36674514028151,109.259447858658,"Spring",37158
+10,-102.1149979,34.0519981,NA,1988,"Geomys bursarius major","Geomys_bursarius",255,265,"male",13.9,596,8.38107536312759,99.2566893135596,"Fall",37159
+10,-102.072998,34.0470009,NA,1988,"Geomys bursarius major","Geomys_bursarius",220,255,"male",13.9,600,8.4044721140088,98.967503058197,"Fall",37160
+2,-101.1110001,33.3800011,NA,1989,"Geomys bursarius major","Geomys_bursarius",165,242,"female",16.6,382,8.79860526137265,98.6665091568853,"Winter",37161
+2,-102.3619995,34.1759987,NA,1989,"Geomys bursarius major","Geomys_bursarius",155,226,"female",14.1,411,8.50683771320388,113.804790444232,"Winter",37162
+2,-102.3619995,34.1759987,NA,1989,"Geomys bursarius major","Geomys_bursarius",245,265,"male",14.1,411,8.50683771320388,113.804790444232,"Winter",37163
+2,-102.1149979,34.0600014,NA,1989,"Geomys bursarius major","Geomys_bursarius",167,240,"female",14.2,441,8.51622337694712,120.832946880562,"Winter",37164
+3,-102.7249985,34.1430016,NA,1989,"Geomys bursarius major","Geomys_bursarius",201,243,"female",14.1,350,8.59423256220899,107.022541818676,"Spring",37165
+4,-102.1320038,34.0849991,NA,1989,"Geomys bursarius major","Geomys_bursarius",250,268,"male",14.2,441,8.48651336479883,120.434889018509,"Spring",37166
+5,-99.2539978,30.7759991,NA,1989,"Geomys bursarius major","Geomys_bursarius",225,255,"male",18,627,7.94646386003157,53.6451884518038,"Spring",37167
+6,-101.7710037,32.0839996,NA,1989,"Geomys bursarius major","Geomys_bursarius",239,264,"female",17.6,347,8.57707921607279,84.160801180221,"Summer",37168
+10,-100.901001,33.7669983,NA,1989,"Geomys bursarius major","Geomys_bursarius",258,260,"male",15.7,436,8.67348362434715,101.835707372592,"Fall",37169
+10,-100.9179993,33.7519989,NA,1989,"Geomys bursarius major","Geomys_bursarius",152,225,"female",15.7,433,8.65845181766278,101.386294418168,"Fall",37170
+5,-100.5130005,35.6349983,NA,1990,"Geomys bursarius major","Geomys_bursarius",292,277,"male",14.6,514,8.92905964033201,54.0467777583345,"Spring",37171
+7,-100.4110031,32.6220016,NA,1990,"Geomys bursarius major","Geomys_bursarius",130,222,"female",18.1,838,7.7934072760056,58.583995379704,"Summer",37172
+7,-100.9199982,32.6749992,NA,1990,"Geomys bursarius major","Geomys_bursarius",77,196,"female",17.6,752,7.90685835783778,68.7902886999313,"Summer",37173
+8,-100.5960007,32.7439995,NA,1990,"Geomys bursarius major","Geomys_bursarius",180,234,"female",18,817,7.87171287817103,60.1782504794248,"Summer",37174
+8,-100.4660034,32.7449989,NA,1990,"Geomys bursarius major","Geomys_bursarius",130,220,"female",18.2,840,7.84665051104127,56.1182114174056,"Summer",37175
+8,-100.6869965,32.4640007,NA,1990,"Geomys bursarius major","Geomys_bursarius",127,214,"female",17.9,788,7.6548657530338,66.9683584423946,"Summer",37176
+8,-100.6729965,32.7220001,NA,1990,"Geomys bursarius major","Geomys_bursarius",137,233,"female",17.9,802,7.8358538820352,63.4611339670458,"Summer",37177
+11,-100.3560028,32.4819984,NA,1990,"Geomys bursarius major","Geomys_bursarius",170,217,"female",18.1,849,7.76692677415923,61.6161429045694,"Fall",37178
+11,-100.3560028,32.4819984,NA,1990,"Geomys bursarius major","Geomys_bursarius",165,237,"female",18.1,849,7.76692677415923,61.6161429045694,"Fall",37179
+11,-100.8509979,32.7200012,NA,1990,"Geomys bursarius major","Geomys_bursarius",180,244,"male",17.5,768,7.88406044439723,67.6664351718312,"Fall",37180
+12,-101.0479965,32.5979996,NA,1990,"Geomys bursarius major","Geomys_bursarius",125,218,"male",17.9,697,7.87567697907855,70.8761239470478,"Winter",37181
+1,-101.3880005,33.1119995,NA,1991,"Geomys bursarius major","Geomys_bursarius",175,220,"female",16.6,607,8.03078829294239,90.6904481855991,"Winter",37182
+1,-101.3460007,33.1940002,NA,1991,"Geomys bursarius major","Geomys_bursarius",180,241,"female",16.7,608,8.05452536080673,90.4351312766529,"Winter",37183
+2,-101.1760025,33.0610008,NA,1991,"Geomys bursarius major","Geomys_bursarius",185,238,"female",17,568,8.07138604746872,83.4552884234628,"Winter",37184
+1,-100.0930023,32.8250008,NA,1991,"Geomys bursarius major","Geomys_bursarius",205,253,"female",17.9,784,8.01751869724082,77.7545249920874,"Winter",37185
+1,-101.0080032,33.1749992,NA,1991,"Geomys bursarius major","Geomys_bursarius",170,244,"female",16.9,586,8.08096810131963,81.0590166014858,"Winter",37186
+1,-100.4069977,33.2210007,NA,1991,"Geomys bursarius major","Geomys_bursarius",280,285,"male",17.4,733,8.21133732141486,77.7612947946562,"Winter",37187
+1,-100.3799973,33.1839981,NA,1991,"Geomys bursarius major","Geomys_bursarius",180,248,"female",17.3,735,8.18495941383099,77.8465222527306,"Winter",37188
+3,-99.9899979,31.7150002,NA,1991,"Geomys bursarius","Geomys_bursarius",175,241,"female",18.4,868,7.64525996941896,69.6760561373751,"Spring",37189
+3,-99.9899979,31.7150002,NA,1991,"Geomys bursarius","Geomys_bursarius",205,255,"female",18.4,868,7.64525996941896,69.6760561373751,"Spring",37190
+3,-99.9899979,31.7150002,NA,1991,"Geomys bursarius","Geomys_bursarius",295,281,"male",18.4,868,7.64525996941896,69.6760561373751,"Spring",37191
+3,-101.1259995,32.9920006,NA,1991,"Geomys bursarius major","Geomys_bursarius",145,218,"female",17,569,8.06106899445311,83.0459478640433,"Spring",37192
+3,-101.0479965,32.5979996,NA,1991,"Geomys bursarius major","Geomys_bursarius",175,225,"female",17.4,653,8.02489969728689,85.7588041274131,"Spring",37193
+4,-100.185997,32.7249985,NA,1991,"Geomys bursarius major","Geomys_bursarius",160,234,"female",17.8,776,7.97968538150965,78.4876655956918,"Spring",37194
+4,-100.151001,32.6959991,NA,1991,"Geomys bursarius major","Geomys_bursarius",250,250,"male",17.9,782,7.97420082440108,78.7107533023321,"Spring",37195
+4,-100.151001,32.6959991,NA,1991,"Geomys bursarius major","Geomys_bursarius",170,233,"female",17.9,782,7.97420082440108,78.7107533023321,"Spring",37196
+5,-99.9899979,31.7150002,NA,1991,"Geomys bursarius major","Geomys_bursarius",235,265,"male",18.4,868,7.64525996941896,69.6760561373751,"Spring",37197
+1,-99.9899979,31.7150002,NA,1992,"Geomys bursarius major","Geomys_bursarius",160,242,"female",18.4,708,7.36611817511075,61.2721438291159,"Winter",37198
+1,-100.8239975,32.3300018,NA,1992,"Geomys bursarius major","Geomys_bursarius",260,257,"male",17.9,635,7.48991240795164,73.8238423540756,"Winter",37199
+1,-101.5479965,33.1730003,NA,1992,"Geomys bursarius major","Geomys_bursarius",340,280,"male",16.2,638,7.64608733373819,91.1655119449335,"Winter",37200
+2,-101.5329971,33.3079987,NA,1992,"Geomys bursarius major","Geomys_bursarius",290,275,"male",16.1,637,7.65923388051074,92.9816499952161,"Winter",37201
+2,-101.5839996,33.2970009,NA,1992,"Geomys bursarius major","Geomys_bursarius",275,257,"male",16.1,635,7.68011994855825,93.0564396233036,"Winter",37202
+2,-101.5569992,33.2610016,NA,1992,"Geomys bursarius major","Geomys_bursarius",140,230,"female",16.1,637,7.66230442431708,93.2049084657268,"Winter",37203
+10,-101.8529968,33.5760002,NA,1989,"Geomys bursarius major","Geomys_bursarius",160,264,"female",15.6,438,8.62295649924542,119.424745812942,"Fall",37204
+10,-101.8529968,33.5760002,NA,1989,"Geomys bursarius major","Geomys_bursarius",136,218,"female",15.6,438,8.62295649924542,119.424745812942,"Fall",37205
+5,-102.2050018,34.1090012,NA,1992,"Geomys bursarius major","Geomys_bursarius",198,250,"male",14.1,555,7.75387977177564,101.668099124392,"Spring",37206
+2,-100.8150024,32.6910019,NA,1993,"Geomys bursarius major","Geomys_bursarius",185,243,"female",16.8,437,8.70635434958893,55.3235633983705,"Winter",37207
+5,-101.0459976,33.0999985,NA,1993,"Geomys bursarius major","Geomys_bursarius",120,218,"female",16.7,405,8.8024918992501,54.4390191184046,"Spring",37208
+10,-100.8470001,32.507,NA,1993,"Geomys bursarius major","Geomys_bursarius",155,234,"female",17.3,447,8.61209508877961,57.1682167753765,"Fall",37209
+4,-103.0279999,31.8610001,NA,1968,"Geomys bursarius major","Geomys_bursarius",147,212,"female",17.2,361,8.09078694153624,65.1920949418822,"Spring",37210
+4,-101.6460037,33.5009995,NA,1968,"Geomys bursarius major","Geomys_bursarius",200,290,"male",14.6,525,7.93302934227868,55.8535057107925,"Spring",37211
+2,-101.776001,33.5149994,NA,1968,"Geomys bursarius major","Geomys_bursarius",210,235,"female",14.1,506,7.89135987052045,58.0298672111154,"Winter",37212
+2,-101.776001,33.5149994,NA,1968,"Geomys bursarius major","Geomys_bursarius",200,232,"female",14.1,506,7.89135987052045,58.0298672111154,"Winter",37213
+11,-103.0230026,36.3530006,NA,1981,"Geomys bursarius jugossicularis","Geomys_bursarius",137,228,"female",13.3,454,8.03944819454217,105.151185595677,"Fall",37214
+11,-103.0230026,36.3530006,NA,1981,"Geomys bursarius jugossicularis","Geomys_bursarius",243,280,"male",13.3,454,8.03944819454217,105.151185595677,"Fall",37215
+11,-103.0230026,36.3530006,NA,1981,"Geomys bursarius jugossicularis","Geomys_bursarius",333,284,"male",13.3,454,8.03944819454217,105.151185595677,"Fall",37216
+11,-103.0220032,36.3429985,NA,1981,"Geomys bursarius jugossicularis","Geomys_bursarius",161,245,"female",13.3,456,8.03445232996153,105.449291009935,"Fall",37217
+11,-103.0230026,36.3530006,NA,1981,"Geomys bursarius jugossicularis","Geomys_bursarius",306,284,"male",13.3,454,8.03944819454217,105.151185595677,"Fall",37218
+2,-97.001871,31.672246,NA,1961,"Geomys bursarius","Geomys_bursarius",133.9,217,"female",18.6,905,7.4129442480193,52.1588247180479,"Winter",37219
+9,-86.801235,40.539067,NA,1969,"Geomys bursarius","Geomys_bursarius",218,242,"female",10.1,1008,10.3449116462973,56.7360887773039,"Fall",37220
+10,-93.5833333,45.3,"adult",1926,"Geomys bursarius bursarius","Geomys_bursarius",173,NA,"female",5.8,761,11.9824745762174,94.1031773336835,"Fall",37221
+8,-93.5833333,45.3,"adult",1926,"Geomys bursarius bursarius","Geomys_bursarius",215.5,NA,"male",5.8,761,11.9824745762174,94.1031773336835,"Summer",37222
+4,-93.5833333,45.3,"adult",1927,"Geomys bursarius bursarius","Geomys_bursarius",218.7,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Spring",37223
+6,-93.5833333,45.3,"adult",1927,"Geomys bursarius bursarius","Geomys_bursarius",225.8,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Summer",37224
+11,-100.35073,39.33795,NA,1963,"Geomys bursarius lutescens","Geomys_bursarius",161.3,224,"female",13,464,11.603875397574,106.211525843716,"Fall",37225

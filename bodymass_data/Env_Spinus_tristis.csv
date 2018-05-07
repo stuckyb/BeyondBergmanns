@@ -1,0 +1,897 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+8,-103.716289,45.377575,NA,2010,"Spinus tristis","Spinus_tristis",12.5,NA,"female",6.4,439,10.5784049608224,80.4962071708697,"Summer",184382
+8,-114.0017241,43.3048804,NA,1948,"Spinus tristis","Spinus_tristis",12.2,NA,"male",5.9,306,9.90495361223898,68.3243329176126,"Summer",184383
+7,-111.7817922,43.3241999,NA,1949,"Spinus tristis","Spinus_tristis",13.5,NA,"male",4.5,423,10.2500849959521,49.434941257217,"Summer",184384
+7,-111.7817922,43.3241999,NA,1949,"Spinus tristis","Spinus_tristis",12.3,NA,"male",4.5,423,10.2500849959521,49.434941257217,"Summer",184385
+7,-100.3369074,41.8888463,NA,1957,"Spinus tristis","Spinus_tristis",11.7,NA,"male",8.9,763,10.6332525882752,83.7479148427961,"Summer",184386
+7,-100.5559996,41.9149758,"snco",1957,"Spinus tristis","Spinus_tristis",12.2,NA,"male",8.7,759,10.5801271688525,85.6097317708455,"Summer",184387
+8,-101.9315911,39.7000654,NA,1957,"Spinus tristis tristis","Spinus_tristis",11.6,NA,"male",10.2,571,9.77942723116732,105.739524430405,"Summer",184388
+11,-101.8001034,39.8160225,"adult",1964,"Spinus tristis tristis","Spinus_tristis",14.7,NA,"female",11,341,10.1742209887181,91.0572317465569,"Fall",184389
+11,-101.8001034,39.8160225,NA,1964,"Spinus tristis tristis","Spinus_tristis",15,NA,"male",11,341,10.1742209887181,91.0572317465569,"Fall",184390
+11,-101.8078994,37.1137884,NA,1964,"Spinus tristis tristis","Spinus_tristis",12.5,NA,"female",13.7,316,10.085933799409,100.134569151622,"Fall",184391
+11,-101.9075617,37.1131734,NA,1964,"Spinus tristis tristis","Spinus_tristis",12.8,NA,"undetermined",13.6,314,10.0967253917477,101.030505866285,"Fall",184392
+11,-100.1055555,37.7528,NA,1964,"Spinus tristis tristis","Spinus_tristis",13.8,NA,"undetermined",13.1,488,10.4148349904733,85.2946094940158,"Fall",184393
+2,-95.1609663,38.9671009,NA,1965,"Spinus tristis tristis","Spinus_tristis",14.7,NA,"female",13.1,1110,9.95082987250386,99.1460408511437,"Winter",184394
+7,-95.2885437,39.0309193,NA,1965,"Spinus tristis tristis","Spinus_tristis",12.4,NA,"male",12.9,1120,9.9453811420481,103.448626452865,"Summer",184395
+7,-95.2885437,39.0309193,NA,1965,"Spinus tristis tristis","Spinus_tristis",14.1,NA,"male",12.9,1120,9.9453811420481,103.448626452865,"Summer",184396
+12,-95.1981074,38.812209,NA,1965,"Spinus tristis tristis","Spinus_tristis",14.3,NA,"male",12.9,1064,9.89902045965186,104.384922455622,"Winter",184397
+8,-100.1574477,39.1380273,NA,1966,"Spinus tristis","Spinus_tristis",13.3,NA,"male",11.3,377,10.8695118509889,91.8270750397748,"Summer",184398
+8,-100.1574477,39.1380273,NA,1966,"Spinus tristis","Spinus_tristis",14,NA,"male",11.3,377,10.8695118509889,91.8270750397748,"Summer",184399
+2,-100.3445424,37.115447,NA,1950,"Spinus tristis","Spinus_tristis",13,NA,"male",13.9,417,8.99213039779279,151.057633602096,"Winter",184400
+1,-95.2798841,38.9041998,NA,1986,"Spinus tristis","Spinus_tristis",10.5,NA,"female",13.4,1185,9.72663867942055,84.5048522273298,"Winter",184401
+1,-95.6862445,39.0370273,NA,1996,"Spinus tristis","Spinus_tristis",15.5,NA,"female",11.8,1004,10.4100585100094,81.0273837184492,"Winter",184402
+11,-95.2,39.0333333,NA,1997,"Spinus tristis","Spinus_tristis",15.3,NA,"male",12.2,915,9.97565217735845,51.882099895687,"Fall",184403
+4,-121.5132642,38.5941618,"adult",1965,"Spinus tristis","Spinus_tristis",12.2,NA,"female",15.5,405,6.08118683591726,116.090448115505,"Spring",184404
+4,-122.3224639,38.3849967,"adult",1962,"Spinus tristis","Spinus_tristis",15.7,NA,"male",14.6,687,5.03270365316756,135.198882734727,"Spring",184405
+9,-77.2878957,38.9660325,NA,1969,"Spinus tristis","Spinus_tristis",11.7,NA,"female",12.4,1036,9.47872817833637,62.0693284642199,"Fall",184406
+9,-77.2878957,38.9660325,NA,1969,"Spinus tristis tristis","Spinus_tristis",11.4,NA,"male",12.4,1036,9.47872817833637,62.0693284642199,"Fall",184407
+9,-77.2878957,38.9660325,NA,1969,"Spinus tristis tristis","Spinus_tristis",9.6,NA,"female",12.4,1036,9.47872817833637,62.0693284642199,"Fall",184408
+9,-77.2878957,38.9660325,NA,1969,"Spinus tristis","Spinus_tristis",11,NA,"female",12.4,1036,9.47872817833637,62.0693284642199,"Fall",184409
+2,-96.9745374,37.2386311,NA,1996,"Spinus tristis","Spinus_tristis",10.2,NA,"female",14.4,789,9.91631652042901,78.1865920159828,"Winter",184410
+3,-122.292116,38.3053644,"adult skull",2002,"Spinus tristis salicamans","Spinus_tristis",13.4,NA,"male",14.5,683,4.4679583161833,178.37350709327,"Spring",184411
+6,-122.7340259,37.9286764,"not recorded",2004,"Spinus tristis salicamans","Spinus_tristis",10.9,NA,"female",13.8,803,2.48454312610076,133.069741462006,"Summer",184412
+10,-72.170985,41.8911152,NA,1975,"Spinus tristis tristis","Spinus_tristis",11.2,NA,"male",8.6,1415,9.141725021222,33.4972422336828,"Fall",184413
+10,-72.170985,41.8911152,NA,1975,"Spinus tristis tristis","Spinus_tristis",10.9,NA,NA,8.6,1415,9.141725021222,33.4972422336828,"Fall",184414
+12,-96.3713837,38.6131149,NA,1955,"Spinus tristis","Spinus_tristis",13.8,NA,"female",12.8,679,11.1143198649583,67.1880969074221,"Winter",184415
+9,-95.3809598,38.8322483,NA,1965,"Spinus tristis tristis","Spinus_tristis",13.3,NA,"male",12.8,1063,9.9190664272339,104.86913945377,"Fall",184416
+9,-95.2885437,39.0309193,NA,1965,"Spinus tristis tristis","Spinus_tristis",14.6,NA,"male",12.9,1120,9.9453811420481,103.448626452865,"Fall",184417
+12,-95.1795369,38.812209,NA,1965,"Spinus tristis","Spinus_tristis",16.7,NA,"male",12.9,1065,9.88983255059396,103.124225400977,"Winter",184418
+1,-95.1535519,38.9615918,NA,1966,"Spinus tristis","Spinus_tristis",14.8,NA,"male",12.3,695,9.9342802578961,94.7377745113324,"Winter",184419
+3,-101.3616402,38.9122703,NA,1967,"Spinus tristis","Spinus_tristis",13.2,NA,"male",11.4,485,8.90035750048073,116.415405003033,"Spring",184420
+3,-101.3616402,38.9122703,NA,1967,"Spinus tristis","Spinus_tristis",11.8,NA,"female",11.4,485,8.90035750048073,116.415405003033,"Spring",184421
+12,-95.157006,38.9625233,NA,1966,"Spinus tristis","Spinus_tristis",13.1,NA,"female",12.3,695,9.93205325288693,94.8611131495892,"Winter",184422
+8,-95.2176988,39.0700296,NA,1967,"Spinus tristis","Spinus_tristis",14.7,NA,"female",11.9,1209,8.97334014363288,89.243886584657,"Summer",184423
+2,-100.1661233,37.10322,NA,1950,"Spinus tristis","Spinus_tristis",13,NA,"male",13.9,429,9.00594080021458,151.093599271843,"Winter",184424
+3,-101.7673359,37.9742809,NA,1950,"Spinus tristis","Spinus_tristis",14,NA,"female",12.4,318,9.30946081177963,119.603789267262,"Spring",184425
+5,-101.78469,37.1521231,NA,1950,"Spinus tristis","Spinus_tristis",14,NA,"female",13.5,457,8.49117188614151,119.947011015402,"Spring",184426
+2,-100.3445424,37.115447,NA,1950,"Spinus tristis","Spinus_tristis",12,NA,"female",13.9,417,8.99213039779279,151.057633602096,"Winter",184427
+2,-100.3445424,37.115447,NA,1950,"Spinus tristis","Spinus_tristis",13,NA,"female",13.9,417,8.99213039779279,151.057633602096,"Winter",184428
+7,-93.5722733,44.5454627,NA,1988,"Spinus tristis","Spinus_tristis",11.7,NA,"male",7.6,501,13.6284350687906,76.8514209545571,"Summer",184429
+4,-95.2945126,38.1403494,NA,1993,"Spinus tristis","Spinus_tristis",12.4,NA,"female",12.1,1280,10.0456345109342,75.6347429862157,"Spring",184430
+12,-97.1272087,37.3737041,NA,1955,"Spinus tristis","Spinus_tristis",14.6,NA,"female",14.7,635,10.3305775895316,80.8551059871686,"Winter",184431
+5,-97.4768942,37.2379549,NA,1956,"Spinus tristis","Spinus_tristis",8,NA,"male",15.4,379,10.8062692241798,66.531887599025,"Spring",184432
+3,-88.5498314,45.3141689,NA,1968,"Spinus tristis","Spinus_tristis",14,NA,"undetermined",5.6,989,11.0677356639591,69.9038730333582,"Spring",184433
+11,-99.3439557,38.8740807,NA,1968,"Spinus tristis tristis","Spinus_tristis",13.8,NA,"female",12,506,10.5826151032834,79.9535468353917,"Fall",184434
+9,-77.2878957,38.9660325,NA,1969,"Spinus tristis","Spinus_tristis",12.1,NA,"male",12.4,1036,9.47872817833637,62.0693284642199,"Fall",184435
+9,-77.2878957,38.9660325,NA,1969,"Spinus tristis","Spinus_tristis",11.8,NA,"male",12.4,1036,9.47872817833637,62.0693284642199,"Fall",184436
+6,-122.7340259,37.9286764,"fledgling",2002,"Spinus tristis salicamans","Spinus_tristis",9.5,NA,"undetermined",13.1,815,2.27116309810234,183.786494221996,"Summer",184437
+10,-72.170985,41.8911152,NA,1975,"Spinus tristis tristis","Spinus_tristis",11.5,NA,"male",8.6,1415,9.141725021222,33.4972422336828,"Fall",184438
+10,-72.170985,41.8911152,NA,1975,"Spinus tristis tristis","Spinus_tristis",12.4,NA,"male",8.6,1415,9.141725021222,33.4972422336828,"Fall",184439
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",10.4,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184449
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",10.1,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184450
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",10.9,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184451
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",9.6,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184452
+12,-72.6822,41.2889,NA,1967,"Spinus tristis","Spinus_tristis",13.7,NA,"female",9.5,1170,8.90111926908208,34.5442423520429,"Winter",184453
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",12.7,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184454
+9,-72.9286,41.3081,NA,1974,"Spinus tristis","Spinus_tristis",13.1,NA,"female",10.8,1069,8.85473679091387,44.8544482256288,"Fall",184455
+12,-105.1703,40.0583,NA,1984,"Spinus tristis","Spinus_tristis",12.9,NA,"female",9.7,382,9.16366341987348,69.5041255621467,"Winter",184456
+5,-72.932397,41.353159,"adult",2011,"Spinus tristis tristis","Spinus_tristis",12.6,NA,NA,11.6,1585,9.50310953893992,49.5727691011166,"Spring",184457
+10,-72.1333,42,NA,1975,"Spinus tristis","Spinus_tristis",12.8,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184458
+11,-72.5989,41.2794,"immature",1974,"Spinus tristis","Spinus_tristis",12.3,NA,"female",10.4,1099,8.69320093085639,43.9919250647,"Fall",184460
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",12.2,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184461
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",11.1,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184462
+5,-72.6817,41.4817,NA,1972,"Spinus tristis","Spinus_tristis",10.2,NA,"female",9,1582,9.19019569811748,52.4443501418624,"Spring",184463
+5,-72.6817,41.4817,NA,1972,"Spinus tristis","Spinus_tristis",11.4,NA,"male",9,1582,9.19019569811748,52.4443501418624,"Spring",184464
+11,-105.35,40.0833,NA,1983,"Spinus tristis","Spinus_tristis",12.6,NA,"female",7.4,655,8.74143736880424,78.4096389026423,"Fall",184465
+12,-95.9166667,39.0333333,NA,2004,"Spinus tristis","Spinus_tristis",14,NA,"male",12.9,1007,9.62771803416856,66.8697905302434,"Winter",184466
+9,-75.4167,38.1,NA,1975,"Spinus tristis","Spinus_tristis",10.6,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",184467
+6,-72.69,41.4819,NA,1975,"Spinus tristis","Spinus_tristis",12.2,NA,"male",10.3,1538,9.03281894990806,29.8457882017501,"Summer",184468
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",11.3,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184469
+6,-72.1333,42,NA,1975,"Spinus tristis","Spinus_tristis",11.7,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Summer",184470
+7,-72.1333,42,NA,1975,"Spinus tristis","Spinus_tristis",11.1,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Summer",184471
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",10.5,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184472
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",11.3,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184473
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",10.1,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184474
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",11.5,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184475
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",11.9,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184476
+12,-105.1703,40.0583,NA,1984,"Spinus tristis","Spinus_tristis",14.8,NA,"male",9.7,382,9.16366341987348,69.5041255621467,"Winter",184477
+11,-105.35,40.0833,NA,1983,"Spinus tristis","Spinus_tristis",13.7,NA,"male",7.4,655,8.74143736880424,78.4096389026423,"Fall",184478
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",12.3,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184479
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",11,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184480
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",11.8,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184481
+6,-72.69,41.4819,NA,1975,"Spinus tristis","Spinus_tristis",12.8,NA,"male",10.3,1538,9.03281894990806,29.8457882017501,"Summer",184482
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",10.6,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184483
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",11.5,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184484
+9,-75.4167,38.1,NA,1975,"Spinus tristis","Spinus_tristis",11.8,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",184485
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",9.1,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184486
+10,-72.1333,42,"immature",1975,"Spinus tristis","Spinus_tristis",11.2,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",184487
+NA,-72.6822,41.2889,NA,1966,"Spinus tristis","Spinus_tristis",10,NA,"female",10.1,940,9.13355452065723,38.1350900446606,"",184488
+NA,-72.9975,41.4217,NA,2006,"Spinus tristis tristis","Spinus_tristis",12.5,NA,"male",11.2,1406,8.30169752630038,47.3616633939069,"",184489
+2,-118.388301,46.049303,NA,1999,"Carduelis tristis","Spinus_tristis",11.5,NA,"male",12.2,317,6.70975657780022,61.283235432852,"Winter",184492
+9,-117.179457,46.728691,NA,1999,"Carduelis tristis","Spinus_tristis",14,NA,"male",8.9,504,6.45897895111209,73.4069456815495,"Fall",184493
+5,-117.998642,46.97326,NA,1955,"Carduelis tristis","Spinus_tristis",14.6,129,"female",8.3,374,8.66432952170023,71.4719169099744,"Spring",184494
+5,-117.998642,46.97326,NA,1955,"Carduelis tristis","Spinus_tristis",14.9,131,"male",8.3,374,8.66432952170023,71.4719169099744,"Spring",184495
+9,-117.238613,46.778683,"Ad",1958,"Carduelis tristis","Spinus_tristis",13.4,130,"male",10,703,7.68159942309996,78.2582901072712,"Fall",184496
+10,-117.217813,46.75323,"Imm",1972,"Carduelis tristis","Spinus_tristis",15.1,NA,"male",8.2,549,8.03109015582001,61.216625892399,"Fall",184497
+4,-117.379482,46.64247,NA,1973,"Carduelis tristis","Spinus_tristis",13.4,NA,"male",11.1,496,7.76955987209447,111.283101117964,"Spring",184498
+4,-117.379482,46.64247,NA,1973,"Carduelis tristis","Spinus_tristis",12,NA,"female",11.1,496,7.76955987209447,111.283101117964,"Spring",184499
+4,-119.316756,46.792421,NA,1973,"Carduelis tristis","Spinus_tristis",13.9,NA,"female",10.8,236,8.25887951898385,120.995841797182,"Spring",184500
+4,-119.316756,46.792421,NA,1973,"Carduelis tristis","Spinus_tristis",12.6,NA,"female",10.8,236,8.25887951898385,120.995841797182,"Spring",184501
+2,-117.179457,46.728691,NA,1975,"Carduelis tristis","Spinus_tristis",13.3,NA,"female",7.5,677,7.79364056993478,55.9423123911839,"Winter",184502
+6,-117.252123,46.790246,NA,1974,"Carduelis tristis","Spinus_tristis",13.9,NA,"male",8.6,498,7.68581436311354,78.8581598648365,"Summer",184503
+5,-117.165649,46.729529,NA,1977,"Carduelis tristis","Spinus_tristis",13.4,NA,NA,8.2,489,7.97260460843407,80.2609289501223,"Spring",184504
+12,-118.906856,47.13133,NA,1980,"Carduelis tristis","Spinus_tristis",14.4,NA,NA,9.6,310,8.41947147984955,56.69551467052,"Winter",184505
+2,-118.388301,46.049303,NA,1997,"Carduelis tristis","Spinus_tristis",12.2,NA,"male",11.9,439,7.80075268318657,50.6511236907465,"Winter",184506
+11,-76.451,42.4799,NA,2003,"Carduelis tristis","Spinus_tristis",12,111,NA,7.4,1109,10.1836879370884,33.6811216564944,"Fall",184507
+11,-76.451,42.4799,NA,2005,"Carduelis tristis","Spinus_tristis",14.1000003814697,NA,"female",8.6,1064,10.8663366746697,50.6213578062866,"Fall",184508
+10,-76.451,42.4799,NA,2005,"Carduelis tristis","Spinus_tristis",13.3999996185303,NA,"male",8.6,1064,10.8663366746697,50.6213578062866,"Fall",184509
+9,-76.451,42.4799,NA,2005,"Carduelis tristis","Spinus_tristis",12.6999998092651,NA,"female",8.6,1064,10.8663366746697,50.6213578062866,"Fall",184510
+9,-76.451,42.4799,NA,2005,"Carduelis tristis","Spinus_tristis",12.3000001907349,116,"male",8.6,1064,10.8663366746697,50.6213578062866,"Fall",184511
+11,-76.451,42.4799,NA,2004,"Carduelis tristis","Spinus_tristis",14.6999998092651,121,"male",7.8,1151,10.0247081118241,54.9926102703212,"Fall",184512
+9,-76.451,42.4799,NA,2008,"Carduelis tristis","Spinus_tristis",14.2,NA,"male ?",8.3,1057,9.45846982947831,38.0990623539387,"Fall",184513
+9,-76.451,42.4799,NA,2009,"Carduelis tristis","Spinus_tristis",14.9,124,NA,7.9,929,9.47169227463892,46.2744266277095,"Fall",184514
+9,-76.451,42.4799,NA,2009,"Carduelis tristis","Spinus_tristis",13.4,NA,NA,7.9,929,9.47169227463892,46.2744266277095,"Fall",184515
+10,-76.451,42.4799,NA,2009,"Carduelis tristis","Spinus_tristis",14.3,NA,"undetermined",7.9,929,9.47169227463892,46.2744266277095,"Fall",184516
+9,-76.451,42.4799,NA,2010,"Carduelis tristis","Spinus_tristis",13.9,117,"undetermined",9.2,1026,10.0981396426483,48.0154158920087,"Fall",184517
+9,-76.451,42.4799,NA,2011,"Carduelis tristis","Spinus_tristis",11.8,113,"male",9.2,1314,10.0818882009755,50.1659118971941,"Fall",184518
+7,-76.400551,42.438907,NA,2000,"Carduelis tristis","Spinus_tristis",11.8000001907349,NA,"male",7.4,1040,9.5340657167291,40.1796796265682,"Summer",184519
+9,-76.451,42.4799,NA,2003,"Carduelis tristis","Spinus_tristis",13.8000001907349,111,"undetermined",7.4,1109,10.1836879370884,33.6811216564944,"Fall",184520
+10,-76.4506,42.4801,NA,2003,"Carduelis tristis","Spinus_tristis",13.3999996185303,109,"male",7.4,1109,10.1836879370884,33.6811216564944,"Fall",184521
+9,-76.4506,42.4801,NA,2003,"Carduelis tristis","Spinus_tristis",14.6000003814697,110,"male",7.4,1109,10.1836879370884,33.6811216564944,"Fall",184522
+1,-76.350161,42.383205,NA,2004,"Carduelis tristis","Spinus_tristis",11.3999996185303,117,"male",7.2,1222,10.1342653080198,56.2898124598859,"Winter",184523
+9,-76.4506,42.4801,NA,2004,"Carduelis tristis","Spinus_tristis",11.1999998092651,107,"female",7.8,1151,10.0247081118241,54.9926102703212,"Fall",184524
+9,-76.4506,42.4801,NA,2003,"Carduelis tristis","Spinus_tristis",12.2,NA,"male",7.4,1109,10.1836879370884,33.6811216564944,"Fall",184525
+8,-76.5095,42.4381,NA,2003,"Carduelis tristis","Spinus_tristis",11.7,42.5,"male",8.1,1071,10.1499664128419,34.8195528028828,"Summer",184526
+9,-76.5095,42.4381,"?",2003,"Carduelis tristis","Spinus_tristis",12.8,105.5,"undetermined",8.1,1071,10.1499664128419,34.8195528028828,"Fall",184527
+4,-76.451,42.4799,NA,2009,"Carduelis tristis","Spinus_tristis",13.7,113,"male",7.9,929,9.47169227463892,46.2744266277095,"Spring",184528
+11,-76.451,42.4799,NA,2008,"Carduelis tristis","Spinus_tristis",13.1,118,"undetermined",8.3,1057,9.45846982947831,38.0990623539387,"Fall",184529
+11,-76.451,42.4799,NA,2008,"Carduelis tristis","Spinus_tristis",14,114,"male",8.3,1057,9.45846982947831,38.0990623539387,"Fall",184530
+10,-76.451,42.4799,NA,2009,"Carduelis tristis","Spinus_tristis",16.1,113,"female",7.9,929,9.47169227463892,46.2744266277095,"Fall",184531
+12,-76.451,42.4799,NA,2011,"Carduelis tristis","Spinus_tristis",15,114,"male",9.2,1314,10.0818882009755,50.1659118971941,"Winter",184532
+10,-76.451,42.4799,NA,2011,"Carduelis tristis","Spinus_tristis",14,110,NA,9.2,1314,10.0818882009755,50.1659118971941,"Fall",184533
+1,-76.451,42.4799,NA,2012,"Carduelis tristis","Spinus_tristis",15.1,NA,"undetermined",10.2,1014,8.75871860006654,36.3593793284683,"Winter",184534
+10,-76.451,42.4799,NA,2013,"Carduelis tristis","Spinus_tristis",16.1,121,"male",8.5,1087,9.72469521217488,45.7598761250047,"Fall",184535
+10,-76.451,42.4799,NA,2013,"Carduelis tristis","Spinus_tristis",14.5,112,"female",8.5,1087,9.72469521217488,45.7598761250047,"Fall",184537
+10,-76.451,42.4799,NA,2013,"Carduelis tristis","Spinus_tristis",14.1,118,"female",8.5,1087,9.72469521217488,45.7598761250047,"Fall",184538
+10,-76.451,42.4799,NA,2011,"Carduelis tristis","Spinus_tristis",12.4,106,"male",9.2,1314,10.0818882009755,50.1659118971941,"Fall",184541
+10,-102.130533,39.63422,NA,1983,"Carduelis tristis","Spinus_tristis",13.5,119,"male",10.1,438,10.8534417107983,76.9311391722838,"Fall",184542
+9,-104.745217,39.942502,"adult",1990,"Carduelis tristis","Spinus_tristis",13.1,131,"male",10.6,411,9.120107654867,75.6133322950844,"Fall",184543
+1,-107.3247762,39.5505376,"adult",1985,"Carduelis tristis","Spinus_tristis",8.7,116,"male",7.3,672,9.30817089736461,52.716018473615,"Winter",184544
+4,-105.15528,40.61139,NA,1989,"Carduelis tristis","Spinus_tristis",12.5,116,"male",8.5,337,9.2954656590287,65.3590057218015,"Spring",184545
+11,-87.337776,39.4632784,NA,1983,"Carduelis tristis","Spinus_tristis",10.2,110,"male",11.6,1103,10.8172526338925,48.7800123311236,"Fall",184546
+11,-105.1536731,40.6153717,NA,1992,"Carduelis tristis","Spinus_tristis",14,125,"male",8.9,498,8.35019052586118,88.0844923318581,"Fall",184547
+10,-104.7747222222,39.9444444444,NA,1994,"Carduelis tristis","Spinus_tristis",11.7,110,"male",11.4,277,9.16093071227763,47.5820948467791,"Fall",184548
+1,-104.990221,39.739273,"immature",1998,"Carduelis tristis","Spinus_tristis",13.6,113,"male",10.8,392,8.87061885033275,87.9180126912356,"Winter",184549
+1,-105.152631,40.615009,NA,1996,"Carduelis tristis","Spinus_tristis",12.8,118,"male",9,381,8.72670492155423,82.2737961552333,"Winter",184550
+1,-105.184299,40.638936,NA,1990,"Carduelis tristis","Spinus_tristis",14.6,113,"male",8.5,469,8.75779739155429,83.6628485080963,"Winter",184551
+4,-104.78205,39.370718,NA,2000,"Carduelis tristis","Spinus_tristis",11.1,120,"female",9.2,436,8.84312350548907,71.8310178421853,"Spring",184552
+4,-104.9708847,39.7507337,"adult",1999,"Carduelis tristis","Spinus_tristis",17,125,"male",11.1,410,7.57457869615482,86.6786605840108,"Spring",184553
+5,-104.78205,39.370718,NA,2000,"Carduelis tristis","Spinus_tristis",14.3,136,"male",9.2,436,8.84312350548907,71.8310178421853,"Spring",184554
+12,-104.78205,39.370718,NA,2006,"Carduelis tristis","Spinus_tristis",11,111,"undetermined",9.6,427,8.36141933724971,68.888539114069,"Winter",184555
+1,-104.78205,39.370718,"adult",2008,"Carduelis tristis","Spinus_tristis",10.2,116,"undetermined",8.9,336,8.63686162838555,67.6291458694265,"Winter",184556
+7,-104.8385,39.6177,NA,2009,"Carduelis tristis","Spinus_tristis",12.4,120,"male",10,532,8.43069338246214,78.5178083565165,"Summer",184557
+11,-104.921642,39.781661,NA,2010,"Carduelis tristis","Spinus_tristis",10.4,110,"undetermined",11.2,357,9.20413280032729,71.3041458768935,"Fall",184558
+6,-108.72642,42.56598,NA,2008,"Carduelis tristis","Spinus_tristis",11.7,NA,"male",2.1,438,8.62576742303916,83.1245569066785,"Summer",184559
+3,-118.7323074,34.2733765,NA,1986,"Carduelis tristis salicamans","Spinus_tristis",12,NA,"undetermined",18.1,393,3.73349904935238,138.177332027419,"Spring",184560
+1,-118.2940292,37.1661072,NA,2001,"Carduelis tristis salicamans","Spinus_tristis",11.5,NA,"undetermined",15.3,162,8.49282674146871,90.9782258136729,"Winter",184561
+3,-118.3957214,37.3652992,NA,1998,"Carduelis tristis salicamans","Spinus_tristis",12,NA,"male",12.6,222,7.93039320359567,151.72820755349,"Spring",184562
+1,-118.2940292,37.1661072,NA,1997,"Carduelis tristis salicamans","Spinus_tristis",13,NA,"female",14.3,142,7.72814611819953,133.711584684304,"Winter",184563
+3,-118.2940292,37.1661072,NA,1996,"Carduelis tristis salicamans","Spinus_tristis",12.7,NA,"female",14.9,290,7.93050783654203,121.512466147515,"Spring",184564
+4,-118.3930687,33.9641998,NA,2002,"Carduelis tristis salicamans","Spinus_tristis",9.4,NA,"male",15.2,184,2.17353224596334,157.851371652202,"Spring",184565
+3,-118.2940292,37.1661072,NA,1998,"Carduelis tristis salicamans","Spinus_tristis",12.5,NA,"male",13,263,7.93604645483715,164.140637138798,"Spring",184566
+4,-118.372139,34.0033569,NA,2005,"Carduelis tristis salicamans","Spinus_tristis",8,NA,"undetermined",15.9,589,2.10259579827153,175.633984277287,"Spring",184567
+3,-118.2940292,37.1661072,NA,1998,"Carduelis tristis salicamans","Spinus_tristis",10,NA,"male",13,263,7.93604645483715,164.140637138798,"Spring",184568
+10,-118.7354278,34.0347371,NA,1994,"Carduelis tristis salicamans","Spinus_tristis",12,NA,"female",16.3,248,3.05974597876122,143.944065698308,"Fall",184569
+11,-118.2940292,37.1661072,NA,1996,"Carduelis tristis salicamans","Spinus_tristis",12.5,NA,"male",14.9,290,7.93050783654203,121.512466147515,"Fall",184570
+1,-118.301651,34.0320587,NA,1993,"Carduelis tristis salicamans","Spinus_tristis",12.5,NA,"male",17.3,582,3.16500753984453,190.287760970558,"Winter",184571
+1,-118.301651,34.0320587,NA,1993,"Carduelis tristis salicamans","Spinus_tristis",11.5,NA,"female",17.3,582,3.16500753984453,190.287760970558,"Winter",184572
+2,-118.2940292,37.1661072,NA,1996,"Carduelis tristis salicamans","Spinus_tristis",11,NA,"female",14.9,290,7.93050783654203,121.512466147515,"Winter",184573
+9,-123.1769943,49.196064,NA,1936,"Carduelis tristis jewetti","Spinus_tristis",13.3,NA,"male",10.1,1005,5.99254587471853,58.5694240348716,"Fall",184574
+9,-123.1769943,49.196064,NA,1936,"Carduelis tristis jewetti","Spinus_tristis",13.6,NA,"male",10.1,1005,5.99254587471853,58.5694240348716,"Fall",184575
+2,-105.9350204,35.6868439,"ad",2008,"Carduelis tristis","Spinus_tristis",10.1,NA,"female",9.5,342,7.9971396401615,66.9240895914059,"Winter",184577
+7,-85.0472,31.6053,"ad.",1951,"Carduelis tristis tristis","Spinus_tristis",14.4,NA,"female",19.5,1213,6.82468780504747,55.0121740372671,"Summer",184578
+11,-117.0236,46.8531,"unknown",1951,"Carduelis tristis pallida","Spinus_tristis",14.5,NA,"male",7.3,724,7.97881665107772,73.9052497963787,"Fall",184579
+11,-117.0236,46.8531,"unknown",1951,"Carduelis tristis pallida","Spinus_tristis",14.5,NA,"female",7.3,724,7.97881665107772,73.9052497963787,"Fall",184580
+5,-116.9992,46.7325,"u ad.",1955,"Carduelis tristis pallida","Spinus_tristis",15,NA,"male",6.8,693,8.26091105842155,64.7175481080299,"Spring",184581
+4,-114.51111,37.4265,"ad.sk.",1968,"Carduelis tristis pallida","Spinus_tristis",13.9,NA,"male",12.3,266,7.81433705674151,67.5962240654902,"Spring",184582
+3,-122.27788,37.9062433,"unknown",1975,"Carduelis tristis salicamans","Spinus_tristis",11,NA,"male",13.3,544,3.36085982865677,127.273440821088,"Spring",184583
+11,-122.2389921,37.8827264,"unknown",1984,"Carduelis tristis ssp.","Spinus_tristis",11.4,NA,"female",14.1,484,4.26389884182697,135.03691734882,"Fall",184584
+7,-118.8653,42.8036,"ad.sk.",1990,"Carduelis tristis pallidus","Spinus_tristis",15.9,NA,"male",9,199,8.71548604322771,67.9073139587279,"Summer",184585
+8,-122.21534,37.86848,"adult skull",2000,"Carduelis tristis salicamans","Spinus_tristis",10,NA,"male",14.1,756,3.47749256583742,128.196747746614,"Summer",184586
+12,-122.045013,37.9310448,"medium skull windows",2001,"Carduelis tristis salicamans","Spinus_tristis",12.6,NA,"undetermined",15.2,586,4.86909704777036,129.979564332518,"Winter",184587
+11,-122.2356913,37.45336,"adult skull",2004,"Carduelis tristis salicamans","Spinus_tristis",8.5,NA,"female",15.6,566,3.89579221336264,129.149802533671,"Fall",184588
+10,-121.7719339,37.6380597,"skull ossified",2004,"Carduelis tristis salicamans","Spinus_tristis",12.3,NA,"female",15.5,418,4.92146658358394,120.09993944482,"Fall",184589
+1,-122.15501,37.73514,"skull",2006,"Carduelis tristis salicamans","Spinus_tristis",8.3,NA,"male",14.3,615,3.38744339100637,116.741955717548,"Winter",184590
+12,-121.878611,37.658476,"skull half closed",2003,"Carduelis tristis salicamans","Spinus_tristis",12.2,NA,"female",15.7,405,5.0842224756415,117.484546985536,"Winter",184591
+12,-122.266186,37.872366,"skull",2007,"Carduelis tristis salicamans","Spinus_tristis",9,NA,"undetermined",13.9,380,3.34268763213983,124.511030540533,"Winter",184592
+6,-120.3793,36.7809,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",10.5,NA,"male",16.7,253,7.07213910462397,138.319797314653,"Summer",184593
+9,-120.839609,35.38855,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",12.7,NA,"male",12.3,494,2.43235762920744,148.847568012885,"Fall",184594
+9,-120.839609,35.38855,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",11.2,NA,"female",12.3,494,2.43235762920744,148.847568012885,"Fall",184595
+9,-120.839609,35.38855,"imm.",1918,"Carduelis tristis salicamans","Spinus_tristis",11.9,NA,"female",12.3,494,2.43235762920744,148.847568012885,"Fall",184596
+9,-120.83961,35.38855,"ad.?",1918,"Carduelis tristis salicamans","Spinus_tristis",11.7,NA,"female",12.3,494,2.43235762920744,148.847568012885,"Fall",184597
+10,-120.858963,35.393236,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",12.2,NA,"male",12.4,478,2.37695692902169,148.755343754339,"Fall",184598
+10,-120.825296,35.364615,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",12.4,NA,"male",12.4,490,2.42199517052793,149.016235613414,"Fall",184599
+9,-120.84938,35.366994,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",11,NA,"female",12.4,471,2.36117587552294,149.269103731661,"Fall",184600
+9,-120.84938,35.366994,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",11.6,NA,"female",12.4,471,2.36117587552294,149.269103731661,"Fall",184601
+9,-120.84938,35.366994,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",12,NA,"male",12.4,471,2.36117587552294,149.269103731661,"Fall",184602
+9,-120.84938,35.366994,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",12.3,NA,"male",12.4,471,2.36117587552294,149.269103731661,"Fall",184603
+8,-122.2934996,37.8987618,"ad.",1920,"Carduelis tristis salicamans","Spinus_tristis",13.2,NA,"male",13.3,485,2.69359509679063,123.763927713638,"Summer",184604
+8,-122.2934996,37.8987618,"imm.",1920,"Carduelis tristis salicamans","Spinus_tristis",11.5,NA,"male",13.3,485,2.69359509679063,123.763927713638,"Summer",184605
+8,-122.2934996,37.8987618,"imm.",1920,"Carduelis tristis salicamans","Spinus_tristis",11.6,NA,"female",13.3,485,2.69359509679063,123.763927713638,"Summer",184606
+2,-119.197031,34.1494034,"unknown",1923,"Carduelis tristis salicamans","Spinus_tristis",12.4,NA,"female",14.6,143,2.2987974458333,147.863542993756,"Winter",184607
+7,-124.0586921,40.5379163,"ad.",1923,"Carduelis tristis salicamans","Spinus_tristis",12.7,NA,"male",11.5,720,3.78468805007277,87.4958211989727,"Summer",184608
+7,-124.0586921,40.5379163,"juv.",1923,"Carduelis tristis salicamans","Spinus_tristis",12.4,NA,"male",11.5,720,3.78468805007277,87.4958211989727,"Summer",184609
+7,-124.0586921,40.5379163,"ad.",1923,"Carduelis tristis salicamans","Spinus_tristis",13.4,NA,"male",11.5,720,3.78468805007277,87.4958211989727,"Summer",184610
+7,-124.0586921,40.5379163,"ad.",1923,"Carduelis tristis salicamans","Spinus_tristis",14,NA,"male",11.5,720,3.78468805007277,87.4958211989727,"Summer",184611
+7,-124.0586921,40.5379163,"juv.",1923,"Carduelis tristis salicamans","Spinus_tristis",11.5,NA,"female",11.5,720,3.78468805007277,87.4958211989727,"Summer",184612
+5,-122.2252066,40.1903286,"u ad.",1924,"Carduelis tristis salicamans","Spinus_tristis",12,NA,"female",17.3,465,7.59885856659745,111.58828296127,"Spring",184613
+12,-120.0705,40.31451,"unknown",1924,"Carduelis tristis salicamans","Spinus_tristis",11.1,NA,"female",8.7,152,8.05019762603266,106.132931196063,"Winter",184614
+3,-116.0175,30.7197222222,"unknown",1925,"Carduelis tristis salicamans","Spinus_tristis",12.1,NA,"male",18.5,195,3.49938306250999,129.517677055576,"Spring",184615
+3,-116.0175,30.7197222222,"unknown",1925,"Carduelis tristis salicamans","Spinus_tristis",16.5,NA,"male",18.5,195,3.49938306250999,129.517677055576,"Spring",184616
+12,-121.9952649,40.3132595,"unknown",1927,"Carduelis tristis salicamans","Spinus_tristis",10.3,NA,"female ?",16.1,831,7.0066851194867,93.6992197061115,"Winter",184617
+12,-121.9952649,40.3132595,"unknown",1927,"Carduelis tristis salicamans","Spinus_tristis",12.1,NA,"female",16.1,831,7.0066851194867,93.6992197061115,"Winter",184618
+12,-121.9952649,40.3132595,"unknown",1927,"Carduelis tristis salicamans","Spinus_tristis",12.7,NA,"female ?",16.1,831,7.0066851194867,93.6992197061115,"Winter",184619
+12,-122.1254,40.1707,"unknown",1927,"Carduelis tristis salicamans","Spinus_tristis",11.4,NA,"female",17.1,699,7.28203996560072,99.8398695137628,"Winter",184620
+12,-122.1254,40.1707,"unknown",1927,"Carduelis tristis salicamans","Spinus_tristis",13.2,NA,"male",17.1,699,7.28203996560072,99.8398695137628,"Winter",184621
+12,-122.1254,40.1707,"unknown",1927,"Carduelis tristis salicamans","Spinus_tristis",13.5,NA,"male",17.1,699,7.28203996560072,99.8398695137628,"Winter",184622
+7,-107.21756,42.44291,"u ad.",1935,"Carduelis tristis pallida","Spinus_tristis",13,NA,"male",7,268,9.61970830528597,111.839846380352,"Summer",184623
+11,-118.62092,39.47361,"unknown",1939,"Carduelis tristis pallida","Spinus_tristis",12.2,NA,"male",11.7,129,8.53211402273608,59.9300291307154,"Fall",184624
+8,-111.106,44.1296,"ad.",1939,"Carduelis tristis pallida","Spinus_tristis",12.7,NA,"female",4.2,682,9.22302783386467,69.1916865003953,"Summer",184625
+3,-122.8467072,38.9720053,"unknown",1940,"Carduelis tristis salicamans","Spinus_tristis",11.5,NA,"undetermined",14.3,1315,5.48841065474801,123.599071701085,"Spring",184626
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",12.1,NA,"male",8.2,314,12.000441911055,84.4856629974161,"Summer",184627
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",12.3,NA,"male",8.2,314,12.000441911055,84.4856629974161,"Summer",184628
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",12.7,NA,"male",8.2,314,12.000441911055,84.4856629974161,"Summer",184629
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",13.4,NA,"female",8.2,314,12.000441911055,84.4856629974161,"Summer",184630
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",12.3,NA,"male",8.2,314,12.000441911055,84.4856629974161,"Summer",184631
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",12,NA,"female",8.2,314,12.000441911055,84.4856629974161,"Summer",184632
+7,-122.33246126,45.938495019,"u ad.",1940,"Carduelis tristis jewetti","Spinus_tristis",14.5,NA,"male",10.7,2494,5.81210857267877,85.8347911838016,"Summer",184633
+5,-123.9603,45.7833,"u ad.",1941,"Carduelis tristis jewetti","Spinus_tristis",11.4,NA,"male",10.9,2708,3.59750544885556,79.5259144640195,"Spring",184634
+5,-123.9603,45.7833,"u ad.",1941,"Carduelis tristis jewetti","Spinus_tristis",14.2,NA,"male",10.9,2708,3.59750544885556,79.5259144640195,"Spring",184635
+12,-120.3862721,40.3822922,"unknown",1942,"Carduelis tristis salicamans","Spinus_tristis",14,NA,"male",9.1,299,8.22842449664392,90.1238084458287,"Winter",184636
+2,-118.8512,39.47361,"unknown",1943,"Carduelis tristis pallida","Spinus_tristis",13.8,NA,"male",11.4,164,7.94336010117694,96.8380649276571,"Winter",184637
+6,-124.02139,41.36444,"u ad.",1946,"Carduelis tristis salicamans","Spinus_tristis",11.3,NA,"male",11.2,1424,3.67060394667326,92.1830812754292,"Summer",184638
+6,-124.02139,41.36444,"u ad.",1946,"Carduelis tristis salicamans","Spinus_tristis",11.5,NA,"male",11.2,1424,3.67060394667326,92.1830812754292,"Summer",184639
+6,-104.654479,47.198491,"u ad.",1947,"Carduelis tristis pallida","Spinus_tristis",13.8,NA,"male",6.1,418,12.1353228472118,130.932971477031,"Summer",184640
+6,-104.654479,47.198491,"u ad.",1947,"Carduelis tristis pallida","Spinus_tristis",12.7,NA,"male",6.1,418,12.1353228472118,130.932971477031,"Summer",184641
+6,-104.654479,47.198491,"u ad.",1947,"Carduelis tristis pallida","Spinus_tristis",13.6,NA,"female",6.1,418,12.1353228472118,130.932971477031,"Summer",184642
+6,-104.654479,47.198491,"u ad.",1947,"Carduelis tristis pallida","Spinus_tristis",11.8,NA,"female",6.1,418,12.1353228472118,130.932971477031,"Summer",184643
+6,-106.1985,45.3019,"u ad.",1947,"Carduelis tristis pallida","Spinus_tristis",12.2,NA,"female",6.8,422,10.6085157331554,92.6715044495551,"Summer",184644
+7,-101.1000023,52.397796,"ad",1967,"Carduelis tristis pallida","Spinus_tristis",13.5,122,"female",-0.1,408,14.4235812810029,43.1534566884107,"Summer",184645
+8,-67.0581436,45.0773997,"ad",1970,"Carduelis tristis tristis","Spinus_tristis",12.8,108,"male",6,1035,9.78053106322903,38.887734251178,"Summer",184646
+6,-67.1072388,45.1263512,"ad",1972,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",5.4,1333,9.66921074150504,34.0671060015402,"Summer",184647
+7,-67.3152924,48.6596751,"ad",1972,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"female",0,1119,11.8221671601968,44.0870596793303,"Summer",184648
+6,-81.78235,46.28831,NA,1974,"Carduelis tristis tristis","Spinus_tristis",11.3,NA,"undetermined",3.4,802,10.5235522289364,33.4867652509297,"Summer",184649
+6,-81.78235,46.28831,NA,1974,"Carduelis tristis tristis","Spinus_tristis",11.5,NA,"undetermined",3.4,802,10.5235522289364,33.4867652509297,"Summer",184650
+8,-80.33587,43.39164,"ad",1974,"Carduelis tristis tristis","Spinus_tristis",13.9,NA,"female",6.8,872,9.48131735508726,37.2456481932343,"Summer",184651
+8,-78.34439,44.30694,"ad",1976,"Carduelis tristis tristis","Spinus_tristis",11,NA,"male",5.3,771,10.9527082578611,33.4391272108162,"Summer",184652
+8,-79.98797,43.51279,NA,1968,"Carduelis tristis tristis","Spinus_tristis",13.6,131,"male",6.6,979,10.3336571308017,41.9386561809673,"Summer",184653
+7,-79.372722,43.73418,"ad",1995,"Carduelis tristis tristis","Spinus_tristis",10.2,NA,"male",7.7,862,10.6805224875032,42.7920414367611,"Summer",184654
+5,-79.425049,43.6909,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",7.8,710,10.4139329746259,39.530012556249,"Spring",184655
+7,-79.495948,43.689613,"nestl",1934,"Carduelis tristis tristis","Spinus_tristis",1.5,NA,"undetermined",6.9,631,11.4502977333263,36.2508413830295,"Summer",184656
+8,-79.495948,43.689613,"ad",1934,"Carduelis tristis tristis","Spinus_tristis",14,NA,"female",6.9,631,11.4502977333263,36.2508413830295,"Summer",184657
+8,-79.35945,43.71347,"fledgeling",1998,"Carduelis tristis tristis","Spinus_tristis",8,NA,"female",9.8,721,9.04464934744193,39.6194014303216,"Summer",184658
+5,-79.99343,43.80176,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",6.5,759,10.384381483164,40.5508450349774,"Spring",184659
+8,-94.56915,48.72362,"sy",1929,"Carduelis tristis pallida","Spinus_tristis",12.5,NA,"male",1.9,355,14.4070058715133,45.1910240663824,"Summer",184660
+4,-79.62304,43.99192,"ad",1938,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",7.4,709,10.0400410478456,46.5576114938001,"Spring",184661
+4,-79.99343,43.86225,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",6.2,771,10.4086793619847,39.964411712543,"Spring",184662
+4,-79.99343,43.86225,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",6.2,771,10.4086793619847,39.964411712543,"Spring",184663
+4,-79.99343,43.86225,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",15,NA,"male",6.2,771,10.4086793619847,39.964411712543,"Spring",184664
+11,-80.232834,43.532579,"ad",1998,"Carduelis tristis tristis","Spinus_tristis",13.5,NA,"male",9,776,8.98983853969007,43.2001147620943,"Fall",184665
+3,-78.29676,43.95541,NA,1941,"Carduelis tristis tristis","Spinus_tristis",15,NA,"female",7.7,786,10.7472477096852,49.5846787142095,"Spring",184666
+4,-79.83131,43.94852,"ad",1945,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",6,971,10.2032488884075,35.4848831269902,"Spring",184667
+6,-79.186515,43.81837,"ad",2000,"Carduelis tristis tristis","Spinus_tristis",11.4,NA,"male",7.3,811,9.87065976733188,54.9747416749021,"Summer",184668
+10,-79.83131,43.94852,"imm",1947,"Carduelis tristis tristis","Spinus_tristis",12,NA,"female",6.3,850,10.4888793924371,43.2023598644886,"Fall",184669
+2,-78.43758,46.29224,NA,1948,"Carduelis tristis tristis","Spinus_tristis",12,NA,"female",3.6,736,12.4596804278295,37.9090427727816,"Winter",184670
+12,-77.85688,45.06442,NA,1953,"Carduelis tristis tristis","Spinus_tristis",11,NA,"undetermined",6.1,791,9.54969061850126,43.9711993627178,"Winter",184671
+7,-66.3915825,48.109609,"ad",1952,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",4,919,10.4571383477624,36.0597185103523,"Summer",184672
+7,-66.3915825,48.109609,"ad",1952,"Carduelis tristis tristis","Spinus_tristis",16,NA,"female",4,919,10.4571383477624,36.0597185103523,"Summer",184673
+5,-79.853183,43.22748,"ad",2003,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",7.9,861,10.1273706540067,30.1879651611747,"Spring",184674
+5,-80.016047,43.326717,"ad",2002,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",8.2,867,9.44298280430629,25.5825465283151,"Spring",184675
+9,-79.40957,43.746884,"juv",2003,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",6.9,825,10.5095735576491,39.5928186007047,"Fall",184676
+3,-95.339,39.012,"imm?",1966,"Carduelis tristis tristis","Spinus_tristis",13.2,NA,"male",12,665,9.95638975581495,100.383857698418,"Spring",184677
+6,-79.305759,43.668764,"ad",2004,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",7.6,793,10.0928530068649,42.8335493058216,"Summer",184678
+5,-79.71593,43.46917,NA,1967,"Carduelis tristis tristis","Spinus_tristis",9.6,125,"[male]",7.1,828,9.69909399080266,45.8957818963827,"Spring",184679
+7,-83.6754669,46.0338356,"adult",1938,"Carduelis tristis tristis","Spinus_tristis",11.8,NA,"male",6,754,10.7798071608096,25.344849352987,"Summer",184680
+7,-83.6754669,46.0338356,NA,1938,"Carduelis tristis tristis","Spinus_tristis",13.6,NA,"female",6,754,10.7798071608096,25.344849352987,"Summer",184681
+6,-85.8380699,45.702463,NA,1938,"Carduelis tristis tristis","Spinus_tristis",14.5,NA,"female",6.8,906,10.0108123364872,32.6908727229931,"Summer",184682
+5,-84.7893993,42.1458435,NA,1941,"Carduelis tristis tristis","Spinus_tristis",11.6,NA,"female",10.1,747,10.3665546130551,63.8836536279495,"Spring",184683
+6,-86.1218261,45.0237958,NA,1940,"Carduelis tristis tristis","Spinus_tristis",12,NA,"female",7.2,848,9.44622339158017,42.4204910203786,"Summer",184684
+6,-86.1218261,45.0237958,NA,1940,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",7.2,848,9.44622339158017,42.4204910203786,"Summer",184685
+6,-83.7263412,42.2708397,NA,1953,"Carduelis tristis","Spinus_tristis",13,NA,"female",10.8,595,9.52913793042003,50.9741906978463,"Summer",184687
+12,-84.4134521,42.2468185,NA,1952,"Carduelis tristis tristis","Spinus_tristis",13.8,NA,"male",9.6,737,9.5612340714835,47.0100841854476,"Winter",184688
+3,-86.0376263,42.5317691,NA,1954,"Carduelis tristis tristis","Spinus_tristis",13.8,NA,"male",9.9,1124,9.21806526732846,42.2835925386912,"Spring",184689
+7,-83.7263412,42.2708397,NA,1955,"Carduelis tristis tristis","Spinus_tristis",12.7,NA,"male",10.2,634,10.9336012531844,52.1311958502556,"Summer",184690
+8,-83.1226444,43.1292402,NA,1955,"Carduelis tristis tristis","Spinus_tristis",11.9,NA,"male",9.5,662,11.1338413965003,39.8377694778729,"Summer",184691
+7,-85.357399,42.376339,NA,1956,"Carduelis tristis tristis","Spinus_tristis",10.9,NA,"male",9.3,713,9.87976198952672,65.6714636599219,"Summer",184692
+9,-84.4134521,42.2468185,"juvenile",1956,"Carduelis tristis tristis","Spinus_tristis",11.8,NA,"male",9.2,770,9.73582497165946,60.2028118208474,"Fall",184693
+5,-83.7263412,42.2708397,NA,1935,"Carduelis tristis tristis","Spinus_tristis",12.6,NA,"male",8.9,648,10.2291139756712,44.832074879955,"Spring",184694
+7,-83.1647873,43.0187055,NA,1955,"Carduelis tristis tristis","Spinus_tristis",10.5,NA,"male",9.6,663,11.1337699515184,41.1170871877407,"Summer",184695
+1,-87.878952,46.8653554,NA,1963,"Carduelis tristis tristis","Spinus_tristis",15.1,NA,"male",6,592,11.7577827223271,42.6274879539587,"Winter",184696
+5,-83.7263412,42.2708397,NA,1963,"Carduelis tristis tristis","Spinus_tristis",11.8,NA,"female",8.9,438,11.2091548082427,54.4367135765739,"Spring",184697
+10,-85.5901909,42.3764269,NA,1984,"Carduelis tristis tristis","Spinus_tristis",12.3,NA,"male",9.4,869,10.3230398388823,47.6229924603074,"Fall",184698
+6,-85.5901909,42.3764269,NA,1984,"Carduelis tristis","Spinus_tristis",11.8,NA,"female",9.4,869,10.3230398388823,47.6229924603074,"Summer",184699
+6,-84.2261696,45.356126,NA,1982,"Carduelis tristis tristis","Spinus_tristis",11.3,NA,"female",6.1,758,10.6031263257017,51.5505434023049,"Summer",184700
+7,-86.564493,41.976731,NA,1977,"Carduelis tristis","Spinus_tristis",12.6,NA,"male",9.6,918,11.0245559245411,50.4600200880276,"Summer",184701
+1,-83.5118866,42.8299047,NA,1982,"Carduelis tristis tristis","Spinus_tristis",12,NA,"in question",8.3,769,10.3956685327315,50.0285264918718,"Winter",184702
+11,-83.800106,42.3020077,NA,1987,"Carduelis tristis","Spinus_tristis",14.6,NA,"female",10.4,827,9.88187811863287,65.120446326419,"Fall",184703
+1,-84.9246,45.558,"adult",1986,"Carduelis tristis","Spinus_tristis",15.4,NA,"male",6.4,721,9.6304756168146,60.9066236476721,"Winter",184704
+11,-83.6342812,42.3037217,NA,1994,"Carduelis tristis","Spinus_tristis",11.9,NA,"male",9.9,825,10.4917391746598,38.306197395587,"Fall",184705
+11,-83.6342812,42.3037217,NA,1994,"Carduelis tristis","Spinus_tristis",12.9,NA,"female",9.9,825,10.4917391746598,38.306197395587,"Fall",184706
+10,-83.8371849,42.2342371,"immature",1993,"Carduelis tristis","Spinus_tristis",11.8,NA,"female",8.6,847,10.029452838636,46.423080989159,"Fall",184707
+6,-88.4093857,47.1934453,NA,1995,"Carduelis tristis","Spinus_tristis",11.9,NA,"female",4.8,933,11.0784085663798,32.3773989470136,"Summer",184708
+3,-86.2596703,41.7073945,NA,1992,"Carduelis tristis tristis","Spinus_tristis",12.8,NA,"female",9.4,1081,8.45183770585194,61.4768920480558,"Spring",184709
+3,-85.0375,45.64222,"adult",1989,"Carduelis tristis tristis","Spinus_tristis",15.1,NA,"female",5.5,608,10.737303989815,53.6094551070976,"Spring",184710
+3,-83.7263412,42.2708397,"adult",1988,"Carduelis tristis tristis","Spinus_tristis",11.1,NA,"male",9.5,887,10.9852897508027,58.7686020667816,"Spring",184711
+7,-83.7263412,42.2708397,"adult",1988,"Carduelis tristis tristis","Spinus_tristis",12.4,NA,"female",9.5,887,10.9852897508027,58.7686020667816,"Summer",184712
+7,-83.7263412,42.2708397,"adult",1988,"Carduelis tristis tristis","Spinus_tristis",12.4,NA,"male",9.5,887,10.9852897508027,58.7686020667816,"Summer",184713
+7,-83.8565826,42.6439349,"adult",1988,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"male",8.8,754,10.9824205258249,61.4889613409417,"Summer",184714
+9,-83.94344,42.45259,"immature",2003,"Carduelis tristis tristis","Spinus_tristis",11.5,NA,"female",8.7,829,10.1611969886635,46.1084269195911,"Fall",184715
+9,-85.4158688,43.5674568,NA,2001,"Carduelis tristis tristis","Spinus_tristis",13.5,NA,NA,8.3,988,9.42235816201726,60.8139287595172,"Fall",184716
+2,-84.422861,42.813321,NA,2002,"Carduelis tristis tristis","Spinus_tristis",10.9,NA,"male",9.5,723,9.9339142091701,37.4929059446739,"Winter",184717
+5,-83.7263412,42.2708397,"adult",2004,"Carduelis tristis tristis","Spinus_tristis",11.8,NA,"male",9.8,844,10.016815407558,62.7412963381584,"Spring",184718
+1,-85.3369904,43.7112851,NA,2001,"Carduelis tristis tristis","Spinus_tristis",10.5,NA,"female",8.2,996,9.49013443082613,59.6841377447259,"Winter",184719
+8,-83.7460327,42.740961,"adult",2002,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",9.6,655,9.94159840206185,37.3215807883202,"Summer",184720
+9,-85.299654,43.586919,"immature",2004,"Carduelis tristis tristis","Spinus_tristis",13.6,NA,"female",7.7,991,9.9305276188065,57.6421896875394,"Fall",184721
+7,-106.16639,38.73306,NA,2005,"Carduelis tristis","Spinus_tristis",10.3,NA,"male",5.8,293,7.80968221911983,50.276581586406,"Summer",184722
+5,-83.7263412,42.2708397,"adult",2002,"Carduelis tristis tristis","Spinus_tristis",11.8,NA,"male",10.8,757,9.88629292904008,30.9330759886126,"Spring",184723
+7,-86.965319,46.014536,NA,2001,"Carduelis tristis tristis","Spinus_tristis",1405,NA,"female",7.4,807,10.0486204390092,40.5751326160411,"Summer",184724
+5,-83.6339378,42.3038169,"adult",2005,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"male",9.9,804,10.9356069790387,56.1422050157063,"Spring",184725
+12,-83.9131236,42.1741146,"adult",2006,"Carduelis tristis tristis","Spinus_tristis",9.8,NA,"female",10.4,1111,8.77584063140841,32.9167514022726,"Winter",184726
+7,-83.7263412,42.2708397,"adult",2007,"Carduelis tristis tristis","Spinus_tristis",11.7,NA,"male",10.2,901,10.7183643030704,44.0536255680916,"Summer",184727
+2,-83.7263412,42.2708397,NA,2007,"Carduelis tristis","Spinus_tristis",13.3,NA,"male",10.2,901,10.7183643030704,44.0536255680916,"Winter",184728
+10,-85.5156898,42.1720552,NA,2005,"Carduelis tristis","Spinus_tristis",13.8,NA,"male",9.9,777,10.8481250998418,51.987263809788,"Fall",184729
+3,-86.965319,46.014536,NA,2007,"Carduelis tristis tristis","Spinus_tristis",13.5,NA,"male",5.4,757,11.5446563789959,45.3855969432185,"Spring",184730
+1,-85.5156898,42.1720552,NA,2005,"Carduelis tristis","Spinus_tristis",13.9,NA,"female",9.9,777,10.8481250998418,51.987263809788,"Winter",184731
+11,-85.5156898,42.1720552,NA,2005,"Carduelis tristis tristis","Spinus_tristis",14.4,NA,"female",9.9,777,10.8481250998418,51.987263809788,"Fall",184732
+3,-85.5156898,42.1720552,NA,2003,"Carduelis tristis tristis","Spinus_tristis",14.5,NA,"female",8.8,930,10.1352968592066,50.2383490737927,"Spring",184733
+10,-85.5156898,42.1720552,"immature",2005,"Carduelis tristis tristis","Spinus_tristis",12.1,NA,"female",9.9,777,10.8481250998418,51.987263809788,"Fall",184734
+9,-83.7263412,42.2708397,NA,2007,"Carduelis tristis tristis","Spinus_tristis",11.1,NA,"male",10.2,901,10.7183643030704,44.0536255680916,"Fall",184735
+6,-70.6352233,43.8709207,NA,2009,"Carduelis tristis","Spinus_tristis",12.9,NA,"male",7.1,1382,9.9425166011245,38.2786850909542,"Summer",184736
+10,-83.7263412,42.2708397,NA,2009,"Carduelis tristis tristis","Spinus_tristis",14.7,NA,"male",9.1,996,10.0623924801333,46.1289230756675,"Fall",184737
+10,-84.1019726,42.3267922,NA,2010,"Carduelis tristis tristis","Spinus_tristis",13.7,NA,"male",10.2,798,10.8077413332885,63.8193096140024,"Fall",184738
+9,-85.5156898,42.1720552,NA,2007,"Carduelis tristis","Spinus_tristis",9.9,NA,"male",10.4,914,10.7518391661402,56.0381712924473,"Fall",184739
+12,-83.715585,42.091527,NA,2010,"Carduelis tristis tristis","Spinus_tristis",13.9,NA,"male",10.6,920,10.8301347259311,68.1048782064373,"Winter",184740
+9,-83.79921,42.891682,NA,2010,"Carduelis tristis tristis","Spinus_tristis",7.9,NA,"male",9.7,742,10.7061119615542,58.4455520060578,"Fall",184741
+3,-83.9015257,42.4534495,NA,2011,"Carduelis tristis tristis","Spinus_tristis",13.6,NA,"female",9.8,1021,10.5873852897081,47.6143678702307,"Spring",184742
+10,-85.5156898,42.1720552,NA,2007,"Carduelis tristis","Spinus_tristis",8.18,NA,"male",10.4,914,10.7518391661402,56.0381712924473,"Fall",184743
+10,-85.5156898,42.1720552,NA,2007,"Carduelis tristis tristis","Spinus_tristis",13.1,NA,"male",10.4,914,10.7518391661402,56.0381712924473,"Fall",184744
+9,-85.5156898,42.1720552,NA,2007,"Carduelis tristis","Spinus_tristis",9.1,NA,"male",10.4,914,10.7518391661402,56.0381712924473,"Fall",184745
+11,-85.6684255,42.2670795,NA,2005,"Carduelis tristis tristis","Spinus_tristis",10.1,NA,"female",10.2,751,10.9425877777026,53.935044632503,"Fall",184746
+12,-83.839674,42.9568622,NA,2011,"Carduelis tristis tristis","Spinus_tristis",10.1,NA,"female",9.4,982,10.5968548793184,50.0620775161011,"Winter",184747
+3,-83.7263412,42.2708397,NA,2012,"Carduelis tristis tristis","Spinus_tristis",9.2,NA,"female",11.6,681,9.18920644841083,37.699178293142,"Spring",184748
+6,-83.7406897,42.2749431,NA,2011,"Carduelis tristis tristis","Spinus_tristis",11.7,NA,"male",10.3,1079,10.60864427405,51.5939346105625,"Summer",184749
+9,-84.1132164,42.2613668,NA,2000,"Carduelis tristis","Spinus_tristis",9,NA,"female",8.9,973,10.2063111788142,56.1202412914033,"Fall",184750
+10,-84.1019726,42.3267922,"immature",2013,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",9,932,10.3040445133614,54.7963349959592,"Fall",184751
+10,-83.70797,42.1932,NA,2013,"Carduelis tristis tristis","Spinus_tristis",9.8,NA,"female",9.7,943,10.2713303555444,54.520615378787,"Fall",184752
+2,-83.655923,42.362792,NA,2012,"Carduelis tristis tristis","Spinus_tristis",9.8,NA,"female",11.3,675,9.18742553051658,37.7589971142666,"Winter",184753
+12,-83.688692,86.183719,"immature",2010,"Carduelis tristis tristis","Spinus_tristis",14.1,NA,"male",-9999,-9999,0,0,"Winter",184754
+8,-83.8867896,42.3261219,NA,2013,"Carduelis tristis tristis","Spinus_tristis",9,NA,"female",9.3,934,10.3223059439255,55.238582734028,"Summer",184755
+9,-83.2837486,42.092363,NA,2010,"Carduelis tristis tristis","Spinus_tristis",8.75,NA,"male",10.9,749,10.9124997830539,63.3290862072691,"Fall",184757
+9,-83.20474,42.20633,"immature",2012,"Carduelis tristis tristis","Spinus_tristis",7.4,NA,NA,11.7,656,9.07054423545096,45.6945315148399,"Fall",184758
+11,-83.5993423,42.5936317,NA,2010,"Carduelis tristis tristis","Spinus_tristis",14.7,NA,NA,9.7,752,10.8779454388086,58.990078186916,"Fall",184759
+9,-85.3280639,42.310577,"adult",2011,"Carduelis tristis tristis","Spinus_tristis",12.4,NA,"female",10.1,1154,10.3317801863078,35.5787125762455,"Fall",184760
+11,-83.7263412,42.2708397,NA,2013,"Carduelis tristis tristis","Spinus_tristis",12.4,NA,"male",9.7,953,10.3218619121423,55.19143970559,"Fall",184762
+4,-85.5156898,42.1720552,NA,2011,"Carduelis tristis","Spinus_tristis",13.8,NA,"male",10.3,1183,10.3587578230386,34.4328297443145,"Spring",184763
+12,-83.7263412,42.2708397,NA,1926,"Carduelis tristis","Spinus_tristis",13.6,13.1,"male",7.9,840,10.4370406812381,58.357226310961,"Winter",184764
+4,-83.8476562,42.3241269,NA,1934,"Carduelis tristis","Spinus_tristis",15,NA,"male",9.3,479,11.704997637632,54.45530013034,"Spring",184765
+4,-83.7517354,42.6481017,NA,1934,"Carduelis tristis","Spinus_tristis",12.5,NA,"female",8.8,460,11.5723383614339,55.800871044146,"Spring",184766
+7,-84.5233154,44.8032756,"adult",1934,"Carduelis tristis","Spinus_tristis",14.8,NA,"female",6,702,11.4446891216367,60.8635178652361,"Summer",184767
+9,-83.7263412,42.2708397,"immature",1934,"Carduelis tristis","Spinus_tristis",14.5,NA,"male",9.6,480,11.7737863686473,58.251024181398,"Fall",184768
+8,-111.3529242,42.3631281,"immature",1934,"Carduelis tristis pallida","Spinus_tristis",14,NA,"male",6.8,267,8.49086407424313,54.0954512430942,"Summer",184769
+8,-111.3953253,42.1675605,"adult",1934,"Carduelis tristis","Spinus_tristis",12.4,NA,"male",7.1,240,8.44469979013195,49.2673596539608,"Summer",184770
+8,-111.3953253,42.1675605,"adult",1934,"Carduelis tristis","Spinus_tristis",12.7,NA,"male",7.1,240,8.44469979013195,49.2673596539608,"Summer",184771
+8,-111.3953253,42.1675605,"adult",1934,"Carduelis tristis","Spinus_tristis",12.9,NA,"male",7.1,240,8.44469979013195,49.2673596539608,"Summer",184772
+8,-111.3953253,42.1675605,"adult",1934,"Carduelis tristis","Spinus_tristis",12.6,NA,"male",7.1,240,8.44469979013195,49.2673596539608,"Summer",184773
+8,-111.3953253,42.1675605,"adult",1934,"Carduelis tristis pallida","Spinus_tristis",12.8,NA,"female",7.1,240,8.44469979013195,49.2673596539608,"Summer",184774
+2,-83.8405699,42.3234607,NA,1936,"Carduelis tristis tristis","Spinus_tristis",15,NA,"female",8.7,622,11.5727605988713,61.899630572208,"Winter",184775
+12,-84.0221481,42.4342346,NA,1935,"Carduelis tristis tristis","Spinus_tristis",14.7,NA,"male",8.3,671,10.1899980670293,43.736051872359,"Winter",184776
+11,-74.439417,40.979661,NA,1934,"Carduelis tristis","Spinus_tristis",13.7,115,"male",8.5,1260,10.430360695701,54.0265814516531,"Fall",184777
+10,-74.8782234,41.0359287,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.7,113,"female",8.8,1149,10.6540929679488,45.7087893937217,"Fall",184778
+5,-83.6429791,42.2708702,NA,1935,"Carduelis tristis","Spinus_tristis",13.2,NA,"male",8.9,660,10.2097213032927,42.7856515322358,"Spring",184779
+7,-104.1118851,43.8137779,"adult",1935,"Carduelis tristis tristis","Spinus_tristis",11.2,NA,"male",7.1,310,9.40400865524266,121.672200980887,"Summer",184780
+7,-104.1118851,43.8137779,"adult",1935,"Carduelis tristis tristis","Spinus_tristis",14.3,NA,"female",7.1,310,9.40400865524266,121.672200980887,"Summer",184781
+5,-83.7268066,42.2147828,NA,1936,"Carduelis tristis tristis","Spinus_tristis",13.6,NA,"female",9,623,11.5815259108739,63.6553636305433,"Spring",184782
+11,-84.0221481,42.4342346,"immature",1936,"Carduelis tristis tristis","Spinus_tristis",13.7,NA,"male",8.4,635,11.4950944741527,62.1609989389255,"Fall",184783
+12,-84.0440369,42.4574074,NA,1936,"Carduelis tristis tristis","Spinus_tristis",16.6,NA,"female",8.4,638,11.4706608617839,63.0576626212412,"Winter",184784
+12,-84.0440369,42.4574074,"immature",1936,"Carduelis tristis tristis","Spinus_tristis",12.7,NA,"male",8.4,638,11.4706608617839,63.0576626212412,"Winter",184785
+12,-93.5609436,43.2702062,"adult",1937,"Carduelis tristis tristis","Spinus_tristis",14.9,NA,"male",6.7,753,13.7237987275809,76.1404511133296,"Winter",184786
+12,-93.5609436,43.2702062,NA,1937,"Carduelis tristis tristis","Spinus_tristis",15.4,NA,"female",6.7,753,13.7237987275809,76.1404511133296,"Winter",184787
+12,-93.5609436,43.2702062,"immature",1937,"Carduelis tristis tristis","Spinus_tristis",14.8,NA,"female",6.7,753,13.7237987275809,76.1404511133296,"Winter",184788
+8,-84.7893993,42.1458435,"adult",1938,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",10.3,852,9.46299010980049,50.6451756679459,"Summer",184789
+6,-85.5568848,45.6646004,NA,1937,"Carduelis tristis tristis","Spinus_tristis",22.5,NA,"female",6.4,733,10.4608215680599,72.5163599099001,"Summer",184790
+2,-84.0185811,36.2366714,NA,1938,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",14.3,1308,8.07853028187377,39.527709254631,"Winter",184791
+2,-84.1199226,36.3101583,NA,1938,"Carduelis tristis tristis","Spinus_tristis",13.9,NA,"male",14.1,1277,8.22065027288541,38.7946362729026,"Winter",184792
+3,-83.8069143,36.3411805,NA,1938,"Carduelis tristis tristis","Spinus_tristis",12.2,NA,"female",14.3,1304,7.9459538016642,43.0434784954143,"Spring",184793
+3,-103.7662125,30.725605,NA,1937,"Carduelis tristis pallida","Spinus_tristis",12.7,NA,"male",15.8,389,7.23706788106561,70.9999280242686,"Spring",184794
+6,-103.4088135,43.663898,"adult",1935,"Carduelis tristis tristis","Spinus_tristis",12.1,NA,"female",7.9,504,8.93184632580962,134.215541519007,"Summer",184795
+7,-104.1118851,43.8137779,"adult",1935,"Carduelis tristis tristis","Spinus_tristis",10.1,NA,"male",7.1,310,9.40400865524266,121.672200980887,"Summer",184796
+1,-119.209364,34.296808,"Skull 100% ossified",2001,NA,"Spinus_tristis",9,NA,"male",15.1,667,3.30375131135392,125.331532366322,"Winter",184797
+5,-86.9086075,40.4267349,"SFO",1981,NA,"Spinus_tristis",14,NA,"male",10.5,1001,10.1663847452218,65.3688174102241,"Spring",184798
+1,-118.0817299,33.9022388,"Skull ossified",1985,NA,"Spinus_tristis",14.1,NA,"male",18.1,167,4.06157157223206,142.336714377353,"Winter",184799
+1,-118.0817299,33.9022388,"Skull oss",1975,NA,"Spinus_tristis",12.9,NA,"undetermined",16.5,231,3.95987450061313,163.046857031405,"Winter",184800
+2,-119.209364,34.296808,"Skull 100% ossified",2001,NA,"Spinus_tristis",9.5,NA,"female",15.1,667,3.30375131135392,125.331532366322,"Winter",184801
+4,-119.209364,34.296808,"100% ossified",2001,NA,"Spinus_tristis",9,NA,"female",15.1,667,3.30375131135392,125.331532366322,"Spring",184802
+3,-119.209364,34.296808,"Skull 100% ossified",2001,NA,"Spinus_tristis",9.5,NA,"female",15.1,667,3.30375131135392,125.331532366322,"Spring",184803
+3,-119.209364,34.296808,"Skull 100% oss",2001,NA,"Spinus_tristis",10,NA,"female",15.1,667,3.30375131135392,125.331532366322,"Spring",184804
+2,-119.2752457,34.2785149,"Skull oss",2001,NA,"Spinus_tristis",9,NA,"female",14.6,556,2.74076963311734,118.989492102036,"Winter",184805
+12,-119.209364,34.296808,"Skull 100% ossified",2000,NA,"Spinus_tristis",11,NA,"male",15.2,429,3.10935782125603,176.438369007193,"Winter",184806
+1,-119.209364,34.296808,"Skull 100% ossified",2001,NA,"Spinus_tristis",11,NA,"female",15.1,667,3.30375131135392,125.331532366322,"Winter",184807
+6,-118.960215,34.268149,"Skull not ossified",1997,NA,"Spinus_tristis",7.5,NA,"male",16.3,373,3.64977168235676,184.880173692616,"Summer",184808
+6,-118.96113,34.271886,"Skull 100% ossi",1997,NA,"Spinus_tristis",12.5,NA,"female",16.3,375,3.67236815676041,184.010014097757,"Summer",184809
+3,-119.0342812,34.2220475,"Skull 100% ossi",2001,NA,"Spinus_tristis",9.6,NA,"female",14.8,498,2.97458935286567,126.21831362948,"Spring",184810
+3,-119.0342812,34.2220475,"Skull 100% ossi",2001,NA,"Spinus_tristis",10,NA,"male",14.8,498,2.97458935286567,126.21831362948,"Spring",184811
+1,-118.9658686,34.2371155,"adult",2004,NA,"Spinus_tristis",12,NA,"female",15.6,359,3.26286498016511,173.163108878119,"Winter",184812
+2,-119.026991,34.240703,"adult",2004,NA,"Spinus_tristis",12,NA,"undetermined",15.5,359,3.03118888566946,174.058259035926,"Winter",184813
+1,-119.209364,34.296808,"Skull 100% ossified",2001,NA,"Spinus_tristis",11.2,NA,"male",15.1,667,3.30375131135392,125.331532366322,"Winter",184814
+1,-118.886371,34.188228,"immature",2008,NA,"Spinus_tristis",9.7,49,"male",16.4,349,3.92917409781103,195.18602004295,"Winter",184815
+11,-119.209364,34.296808,"Skull 50% oss",2002,NA,"Spinus_tristis",10,NA,"undetermined",15,340,2.82728856080532,177.711326437112,"Fall",184816
+4,-118.388301,46.049303,NA,1993,"Carduelis tristis","Spinus_tristis",11.8,NA,"male",10.5,469,8.88977536614993,54.6714048543223,"Spring",184817
+2,-118.388301,46.049303,NA,1999,"Carduelis tristis","Spinus_tristis",10.2,NA,"male",12.2,317,6.70975657780022,61.283235432852,"Winter",184818
+11,-117.179457,46.728691,NA,1947,"Carduelis tristis","Spinus_tristis",12.7,128,NA,8.6,549,7.31726890598017,66.7292808545101,"Fall",184819
+6,-117.847224,47.299545,"Ad",1949,"Carduelis tristis","Spinus_tristis",12.7,137,"female",8.6,296,10.2317798149598,79.9093267976777,"Summer",184820
+5,-117.225427,46.760094,"Ad",1950,"Carduelis tristis","Spinus_tristis",13.2,135,"male",7.7,666,8.67777987946016,67.470991611399,"Spring",184821
+12,-118.31247,46.754829,NA,1949,"Carduelis tristis","Spinus_tristis",12.7,135,"female",10,204,9.92521658415695,98.3346706669351,"Winter",184822
+3,-117.179457,46.728691,NA,1954,"Carduelis tristis","Spinus_tristis",14.5,128,"male",8,511,6.57549975056626,44.0480734834456,"Spring",184823
+5,-117.998642,46.97326,NA,1955,"Carduelis tristis","Spinus_tristis",13.5,126,"female",8.3,374,8.66432952170023,71.4719169099744,"Spring",184824
+8,-117.179457,46.728691,NA,1956,"Carduelis tristis","Spinus_tristis",11.5,124,"female",7.9,528,8.36291869450547,57.407305301592,"Summer",184825
+8,-117.20894,46.824342,"Juv",1958,"Carduelis tristis","Spinus_tristis",13.6,131,"female",10,710,7.67575877208714,76.5780936870488,"Summer",184826
+10,-117.217813,46.75323,"Imm",1972,"Carduelis tristis","Spinus_tristis",15.2,NA,"male",8.2,549,8.03109015582001,61.216625892399,"Fall",184827
+4,-119.316756,46.792421,NA,1973,"Carduelis tristis","Spinus_tristis",14.4,NA,"male",10.8,236,8.25887951898385,120.995841797182,"Spring",184828
+4,-119.316756,46.792421,NA,1973,"Carduelis tristis","Spinus_tristis",14.3,NA,"female",10.8,236,8.25887951898385,120.995841797182,"Spring",184829
+4,-119.316756,46.792421,NA,1973,"Carduelis tristis","Spinus_tristis",13.1,NA,"female",10.8,236,8.25887951898385,120.995841797182,"Spring",184830
+5,-117.179457,46.728691,NA,1987,"Carduelis tristis","Spinus_tristis",11.8,NA,"male",9.4,405,7.65650347446832,64.9536752053618,"Spring",184831
+2,-117.179457,46.728691,NA,1995,"Carduelis tristis","Spinus_tristis",12.6,NA,"male",8.9,616,6.81430647441636,41.6094987553876,"Winter",184832
+5,-76.5095,42.4381,NA,1955,"Carduelis tristis","Spinus_tristis",13.3000001907349,NA,"male",9.3,889,10.8030684473805,74.8640222058502,"Spring",184833
+10,-76.655259,42.276659,NA,1953,"Carduelis tristis","Spinus_tristis",12.8000001907349,NA,"undetermined",9.1,865,8.53770602928118,36.6537803747075,"Fall",184834
+9,-76.4506,42.4801,NA,2004,"Carduelis tristis","Spinus_tristis",12.8000001907349,NA,NA,7.8,1151,10.0247081118241,54.9926102703212,"Fall",184835
+11,-76.4506,42.4801,NA,2004,"Carduelis tristis","Spinus_tristis",13.5,112,NA,7.8,1151,10.0247081118241,54.9926102703212,"Fall",184836
+10,-76.4506,42.4801,NA,2005,"Carduelis tristis","Spinus_tristis",14.8000001907349,NA,"undetermined",8.6,1065,10.8663366746697,50.6213578062866,"Fall",184837
+9,-76.451,42.4799,NA,2008,"Carduelis tristis","Spinus_tristis",13.3,NA,"female ?",8.3,1057,9.45846982947831,38.0990623539387,"Fall",184838
+9,-76.451,42.4799,NA,2008,"Carduelis tristis","Spinus_tristis",11.8,113,"female ?",8.3,1057,9.45846982947831,38.0990623539387,"Fall",184839
+9,-76.451,42.4799,NA,2009,"Carduelis tristis","Spinus_tristis",12.7,114,"female",7.9,929,9.47169227463892,46.2744266277095,"Fall",184840
+9,-76.451,42.4799,NA,2010,"Carduelis tristis","Spinus_tristis",13.2,119,NA,9.2,1026,10.0981396426483,48.0154158920087,"Fall",184841
+9,-76.451,42.4799,NA,2011,"Carduelis tristis","Spinus_tristis",11.8,116,NA,9.2,1314,10.0818882009755,50.1659118971941,"Fall",184842
+9,-76.4506,42.4801,NA,2011,"Carduelis tristis","Spinus_tristis",14.7,111,NA,9.2,1315,10.0818882009755,50.1659118971941,"Fall",184843
+10,-76.4506,42.4801,NA,2003,"Carduelis tristis","Spinus_tristis",13.3000001907349,118,NA,7.4,1109,10.1836879370884,33.6811216564944,"Fall",184844
+9,-76.451,42.4799,"juv.",2003,"Carduelis tristis","Spinus_tristis",15.1999998092651,115,"male",7.4,1109,10.1836879370884,33.6811216564944,"Fall",184845
+8,-76.4646,42.5052,NA,2004,"Carduelis tristis","Spinus_tristis",13,115,"male",7.8,1150,10.0384714519148,54.8285897752728,"Summer",184846
+1,-76.38849,42.42766,NA,2004,"Carduelis tristis","Spinus_tristis",13.5,NA,"undetermined",7.4,1197,10.0994899361154,55.7469617188739,"Winter",184847
+11,-76.4506,42.4801,NA,2003,"Carduelis tristis","Spinus_tristis",13.5,117,"male",7.4,1109,10.1836879370884,33.6811216564944,"Fall",184848
+9,-76.4506,42.4801,NA,2004,"Carduelis tristis","Spinus_tristis",12.2,NA,"male",7.8,1151,10.0247081118241,54.9926102703212,"Fall",184849
+11,-76.5095,42.4381,NA,2004,"Carduelis tristis","Spinus_tristis",15.1,116,"female ?",8.4,1107,9.96626126671199,55.705023646201,"Fall",184850
+10,-76.4506,42.4801,NA,2006,"Carduelis tristis","Spinus_tristis",12.7,NA,"female",9.4,1138,8.56187373290344,50.6935032993034,"Fall",184851
+10,-76.451,42.4799,"1st yr",2003,"Carduelis tristis","Spinus_tristis",14.4,117.5,"undetermined",7.4,1109,10.1836879370884,33.6811216564944,"Fall",184852
+11,-76.451,42.4799,NA,2004,"Carduelis tristis","Spinus_tristis",14.2,NA,"undetermined",7.8,1151,10.0247081118241,54.9926102703212,"Fall",184853
+9,-76.451,42.4799,NA,2007,"Carduelis tristis","Spinus_tristis",12.6,NA,"male",8.6,980,10.3174278859519,29.3057549479524,"Fall",184855
+9,-76.451,42.4799,NA,2009,"Carduelis tristis","Spinus_tristis",12.2,99.5,"female",7.9,929,9.47169227463892,46.2744266277095,"Fall",184856
+10,-76.451,42.4799,NA,2007,"Carduelis tristis","Spinus_tristis",14.5,NA,NA,8.6,980,10.3174278859519,29.3057549479524,"Fall",184857
+9,-76.451,42.4799,NA,2012,"Carduelis tristis","Spinus_tristis",11.9,110,NA,10.2,1014,8.75871860006654,36.3593793284683,"Fall",184858
+11,-76.451,42.4799,NA,2012,"Carduelis tristis","Spinus_tristis",16.1,115,"male",10.2,1014,8.75871860006654,36.3593793284683,"Fall",184859
+10,-76.451,42.4799,NA,2013,"Carduelis tristis","Spinus_tristis",13.3,113,"female",8.5,1087,9.72469521217488,45.7598761250047,"Fall",184860
+5,-76.451,42.4799,NA,2013,"Carduelis tristis","Spinus_tristis",14.7,115,"male",8.5,1087,9.72469521217488,45.7598761250047,"Spring",184861
+9,-76.451,42.4799,"imm.",2013,"Carduelis tristis","Spinus_tristis",14.4,111,"undetermined",8.5,1087,9.72469521217488,45.7598761250047,"Fall",184862
+11,-76.451,42.4799,NA,2013,"Carduelis tristis","Spinus_tristis",16.6,114,"male",8.5,1087,9.72469521217488,45.7598761250047,"Fall",184863
+11,-76.451,42.4799,NA,2013,"Carduelis tristis","Spinus_tristis",14.2,122,"female",8.5,1087,9.72469521217488,45.7598761250047,"Fall",184864
+8,-76.350676,42.40551,NA,2013,"Carduelis tristis","Spinus_tristis",12.9,114,"male",7.9,1150,9.79763035667608,46.3448556361911,"Summer",184865
+7,-76.451,42.4799,NA,2007,"Carduelis tristis","Spinus_tristis",13.7,110,"undetermined",8.6,980,10.3174278859519,29.3057549479524,"Summer",184866
+11,-76.451,42.4799,NA,2013,"Carduelis tristis","Spinus_tristis",13.4,106,"undetermined",8.5,1087,9.72469521217488,45.7598761250047,"Fall",184867
+7,-105.136687,39.98574,"adult",2012,"Carduelis tristis","Spinus_tristis",8.1,112,"male",12.1,234,8.87145148863203,68.2263317725645,"Summer",184868
+5,-124.08167,40.86667,NA,1988,"Carduelis tristis","Spinus_tristis",9,110,"female",11.7,931,2.36967904744056,117.445132680062,"Spring",184869
+5,-105.1711111111,40.6263888889,"adult",1991,"Carduelis tristis","Spinus_tristis",11.2,110,"male",8.7,402,8.45097717139948,81.8103093651064,"Spring",184870
+6,-105.14495,40.621832,NA,1993,"Carduelis tristis","Spinus_tristis",10.7,114,"male",7.7,452,8.91149666034122,52.4335010232983,"Summer",184871
+10,-104.745217,39.942502,NA,1994,"Carduelis tristis","Spinus_tristis",10.5,105,"female",11.4,276,9.14358526592012,47.9730902189306,"Fall",184872
+4,-102.0645,39.6316536,NA,1991,"Carduelis tristis","Spinus_tristis",10.95,125,"male",11.3,603,9.51630180269625,77.0228207844555,"Spring",184873
+6,-104.78205,39.370718,NA,1998,"Carduelis tristis","Spinus_tristis",14.5,119,"male",8.9,476,8.51314491616561,95.6102726843922,"Summer",184874
+11,-105.4389402,40.1215683,NA,1999,"Carduelis tristis","Spinus_tristis",14,122,"male",5.4,570,6.57978999388555,67.8002027151958,"Fall",184875
+3,-118.3957214,37.3652992,NA,1998,"Carduelis tristis salicamans","Spinus_tristis",16,NA,"male",12.6,222,7.93039320359567,151.72820755349,"Spring",184876
+1,-118.301651,34.0320587,NA,1993,"Carduelis tristis salicamans","Spinus_tristis",12,NA,"female",17.3,582,3.16500753984453,190.287760970558,"Winter",184877
+12,-118.2940292,37.1661072,NA,1997,"Carduelis tristis salicamans","Spinus_tristis",12.6,NA,"male",14.3,142,7.72814611819953,133.711584684304,"Winter",184878
+1,-118.301651,34.0320587,NA,1993,"Carduelis tristis salicamans","Spinus_tristis",13,NA,"female",17.3,582,3.16500753984453,190.287760970558,"Winter",184879
+1,-119.0342812,34.2220475,NA,1998,"Carduelis tristis salicamans","Spinus_tristis",9,NA,"male",15,633,2.93395740606541,186.711933734578,"Winter",184880
+3,-118.301651,34.0320587,NA,2005,"Carduelis tristis salicamans","Spinus_tristis",9.7,NA,"female",16.3,587,2.41301709798159,176.951789839268,"Spring",184881
+12,-118.3957214,37.3652992,NA,2004,"Carduelis tristis","Spinus_tristis",12.5,NA,"male",14.5,161,8.04451629523133,130.506008221147,"Winter",184882
+1,-119.0342812,34.2220475,NA,1998,"Carduelis tristis salicamans","Spinus_tristis",9,NA,"female",15,633,2.93395740606541,186.711933734578,"Winter",184883
+1,-118.301651,34.0320587,NA,1993,"Carduelis tristis salicamans","Spinus_tristis",12,NA,"female",17.3,582,3.16500753984453,190.287760970558,"Winter",184884
+2,-118.3957214,37.3652992,NA,2001,"Carduelis tristis salicamans","Spinus_tristis",13.1,NA,"male",14.8,131,8.49325489949988,87.5156964027156,"Winter",184885
+3,-118.301651,34.0320587,NA,2005,"Carduelis tristis salicamans","Spinus_tristis",10.1,NA,"male",16.3,587,2.41301709798159,176.951789839268,"Spring",184886
+2,-118.3789711,34.172226,NA,1990,"Carduelis tristis salicamans","Spinus_tristis",13,NA,"undetermined",18.3,212,4.62767531141488,151.583121209731,"Winter",184887
+11,-119.0342812,34.2220475,NA,1996,"Carduelis tristis salicamans","Spinus_tristis",11,NA,"male",16.3,491,2.47276069496129,125.378681257951,"Fall",184888
+12,-118.2940292,37.1661072,NA,1997,"Carduelis tristis salicamans","Spinus_tristis",12.1,NA,"male",14.3,142,7.72814611819953,133.711584684304,"Winter",184889
+4,-80.0930711,39.5790408,NA,1971,"Carduelis tristis","Spinus_tristis",8,NA,"undetermined",11.1,1070,9.01448329583616,46.8272882465657,"Spring",184890
+1,-71.588289,42.666335,"adult",2007,"Carduelis tristis","Spinus_tristis",11.25,51,"by plumage",8.8,1134,10.148115215361,36.3867439842818,"Winter",184891
+12,-105.9350204,35.6868439,NA,2008,"Carduelis tristis","Spinus_tristis",12.3,NA,"female",9.5,342,7.9971396401615,66.9240895914059,"Winter",184892
+7,-105.5811111111,36.3019444444,NA,2009,"Carduelis tristis pallidus","Spinus_tristis",11.9,NA,"female",8.1,360,7.91930896893501,53.3901212819848,"Summer",184893
+8,-124.1323646,41.1604001,"juv.",1949,"Carduelis tristis salicamans","Spinus_tristis",11.1,NA,"female",10.5,1011,3.39250510818936,97.9695958914351,"Summer",184894
+7,-85.0472,31.6053,"ad.",1951,"Carduelis tristis tristis","Spinus_tristis",11,NA,"male",19.5,1213,6.82468780504747,55.0121740372671,"Summer",184895
+6,-109.234842,40.42116,"ad.sk.",1991,"Carduelis tristis pallidus","Spinus_tristis",12.1,NA,"male",8.1,206,11.3941339240325,54.1070644274679,"Summer",184896
+6,-109.234842,40.42116,"ad.sk.",1991,"Carduelis tristis pallidus","Spinus_tristis",13.6,NA,"female",8.1,206,11.3941339240325,54.1070644274679,"Summer",184897
+7,-118.8653,42.8036,"sk.oss.",1990,"Carduelis tristis pallidus","Spinus_tristis",11.5,NA,"male",9,199,8.71548604322771,67.9073139587279,"Summer",184898
+7,-118.8653,42.8036,"ad.sk.",1990,"Carduelis tristis pallidus","Spinus_tristis",16.4,NA,"male",9,199,8.71548604322771,67.9073139587279,"Summer",184899
+7,-118.8653,42.8036,"sk.oss.",1990,"Carduelis tristis pallidus","Spinus_tristis",12.8,NA,"male",9,199,8.71548604322771,67.9073139587279,"Summer",184900
+5,-122.30882,37.91644,"adult skull",2002,"Carduelis tristis salicamans","Spinus_tristis",11.8,NA,"male",14.1,557,3.03599616720323,165.773312199349,"Spring",184901
+11,-121.76624,37.6822,"skull fully ossified",1997,"Carduelis tristis salicamans","Spinus_tristis",11.2,NA,"female",15.7,346,4.99733262184271,166.475757075202,"Fall",184902
+11,-121.943456,37.752684,"skull",2008,"Carduelis tristis salicamans","Spinus_tristis",12.1,NA,"female",14.8,415,5.21341509662304,169.632642035779,"Fall",184903
+2,-121.943456,37.752684,"skull",2011,"Carduelis tristis salicamans","Spinus_tristis",13.1,NA,"male",14.2,463,4.93380423632963,143.48685938971,"Winter",184904
+1,-120.43822,37.52078,"unknown",1915,"Carduelis tristis salicamans","Spinus_tristis",11.2,NA,"female",16.6,361,6.43533686811037,122.168950741391,"Winter",184905
+9,-120.83961,35.38855,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",11.6,NA,"female",12.3,494,2.43235762920744,148.847568012885,"Fall",184906
+9,-120.83961,35.38855,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",11.7,NA,"female",12.3,494,2.43235762920744,148.847568012885,"Fall",184907
+10,-120.825296,35.364615,"imm.",1918,"Carduelis tristis salicamans","Spinus_tristis",12.1,NA,"female",12.4,490,2.42199517052793,149.016235613414,"Fall",184908
+9,-120.84938,35.366994,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",12.8,NA,"female",12.4,471,2.36117587552294,149.269103731661,"Fall",184909
+9,-120.84938,35.366994,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",13.7,NA,"male",12.4,471,2.36117587552294,149.269103731661,"Fall",184910
+9,-120.84938,35.366994,"ad.",1918,"Carduelis tristis salicamans","Spinus_tristis",12.7,NA,"female",12.4,471,2.36117587552294,149.269103731661,"Fall",184911
+7,-121.021059,36.118995,"imm.",1919,"Carduelis tristis salicamans","Spinus_tristis",12.3,NA,"male",14,244,4.53253390901421,153.578375358398,"Summer",184912
+9,-122.6973756,38.0606078,"imm.",1920,"Carduelis tristis salicamans","Spinus_tristis",12.6,NA,"male",13,971,2.90323748232691,133.610511248054,"Fall",184913
+7,-124.0586921,40.5379163,"juv.",1923,"Carduelis tristis salicamans","Spinus_tristis",14.6,NA,"male",11.5,720,3.78468805007277,87.4958211989727,"Summer",184914
+10,-120.7895831,40.6709426,"ad.",1923,"Carduelis tristis salicamans","Spinus_tristis",11.8,NA,"male",6.9,318,7.14314144455853,67.5326986999784,"Fall",184915
+5,-122.2252066,40.1903286,"u ad.",1924,"Carduelis tristis salicamans","Spinus_tristis",3.2,NA,"female",17.3,465,7.59885856659745,111.58828296127,"Spring",184916
+5,-122.2252066,40.1903286,"u ad.",1924,"Carduelis tristis salicamans","Spinus_tristis",13.1,NA,"male",17.3,465,7.59885856659745,111.58828296127,"Spring",184917
+5,-122.2252066,40.1903286,"u ad.",1924,"Carduelis tristis salicamans","Spinus_tristis",13.3,NA,"female",17.3,465,7.59885856659745,111.58828296127,"Spring",184918
+12,-120.0705,40.31451,"unknown",1924,"Carduelis tristis salicamans","Spinus_tristis",13.4,NA,"female",8.7,152,8.05019762603266,106.132931196063,"Winter",184919
+12,-121.9952649,40.3132595,"unknown",1927,"Carduelis tristis salicamans","Spinus_tristis",13.2,NA,"male",16.1,831,7.0066851194867,93.6992197061115,"Winter",184920
+12,-122.1254,40.1707,"unknown",1927,"Carduelis tristis salicamans","Spinus_tristis",11.6,NA,"female",17.1,699,7.28203996560072,99.8398695137628,"Winter",184921
+6,-117.09056,39.20583,"u ad.",1930,"Carduelis tristis pallida","Spinus_tristis",11.1,NA,"male",7.9,307,8.72469066917144,89.1136584142884,"Summer",184922
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",12,NA,"male",8.2,314,12.000441911055,84.4856629974161,"Summer",184923
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",12.3,NA,"male",8.2,314,12.000441911055,84.4856629974161,"Summer",184924
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",12.8,NA,"female",8.2,314,12.000441911055,84.4856629974161,"Summer",184925
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",13.6,NA,"male ?",8.2,314,12.000441911055,84.4856629974161,"Summer",184926
+6,-106.785312,46.26478,"u ad.",1940,"Carduelis tristis pallida","Spinus_tristis",12.4,NA,"female",8.2,314,12.000441911055,84.4856629974161,"Summer",184927
+5,-123.9603,45.7833,"u ad.",1941,"Carduelis tristis jewetti","Spinus_tristis",11.5,NA,"female",10.9,2708,3.59750544885556,79.5259144640195,"Spring",184928
+5,-123.9603,45.7833,"u ad.",1941,"Carduelis tristis jewetti","Spinus_tristis",11,NA,"male",10.9,2708,3.59750544885556,79.5259144640195,"Spring",184929
+5,-123.8816,45.9264,"u ad.",1941,"Carduelis tristis jewetti","Spinus_tristis",12.4,NA,"female",11,2340,3.88917495340359,70.9266047880454,"Spring",184930
+6,-122.8741356,46.0084949,"u ad.",1941,"Carduelis tristis jewetti","Spinus_tristis",11.8,NA,"female",12,1024,4.76886207124356,70.662095877816,"Summer",184931
+9,-123.88759,40.77914,"juv.",1942,"Carduelis tristis salicamans","Spinus_tristis",11,NA,"male",12,1621,4.00010416531037,97.2628794836695,"Fall",184932
+9,-124.1323646,41.1604001,"ad.",1942,"Carduelis tristis salicamans","Spinus_tristis",11.8,NA,"female",11.2,1560,2.54991087188267,100.991637304359,"Fall",184933
+2,-118.8512,39.47361,"unknown",1943,"Carduelis tristis pallida","Spinus_tristis",12.7,NA,"female",11.4,164,7.94336010117694,96.8380649276571,"Winter",184934
+2,-118.8512,39.47361,"unknown",1943,"Carduelis tristis pallida","Spinus_tristis",14.3,NA,"female",11.4,164,7.94336010117694,96.8380649276571,"Winter",184935
+6,-124.02139,41.36444,"u ad.",1946,"Carduelis tristis salicamans","Spinus_tristis",13.5,NA,"male",11.2,1424,3.67060394667326,92.1830812754292,"Summer",184936
+6,-124.02139,41.36444,"u ad.",1946,"Carduelis tristis salicamans","Spinus_tristis",13.7,NA,"female",11.2,1424,3.67060394667326,92.1830812754292,"Summer",184937
+6,-124.02139,41.36444,"u ad.",1946,"Carduelis tristis salicamans","Spinus_tristis",11.6,NA,"female",11.2,1424,3.67060394667326,92.1830812754292,"Summer",184938
+6,-124.02139,41.36444,"u ad.",1946,"Carduelis tristis salicamans","Spinus_tristis",13.9,NA,"male",11.2,1424,3.67060394667326,92.1830812754292,"Summer",184939
+6,-104.654479,47.198491,"u ad.",1947,"Carduelis tristis pallida","Spinus_tristis",12.8,NA,"male",6.1,418,12.1353228472118,130.932971477031,"Summer",184940
+6,-104.654479,47.198491,"u ad.",1947,"Carduelis tristis pallida","Spinus_tristis",13.5,NA,"female",6.1,418,12.1353228472118,130.932971477031,"Summer",184941
+6,-104.654479,47.198491,"u ad.",1947,"Carduelis tristis pallida","Spinus_tristis",13.3,NA,"female",6.1,418,12.1353228472118,130.932971477031,"Summer",184942
+1,-78.80878,44.71199,"imm?",1968,"Carduelis tristis tristis","Spinus_tristis",13,120,"male",5.6,822,11.1497520015904,27.1037412278854,"Winter",184943
+1,-84.683303,46.942708,"ad",1968,"Carduelis tristis tristis","Spinus_tristis",14.7,131,"male",3.8,974,10.6525996258134,36.6567028129517,"Winter",184944
+11,-79.270907,43.722166,"ad",2005,"Carduelis tristis tristis","Spinus_tristis",15,NA,"female",8.1,747,11.0982799650134,34.5704019183792,"Fall",184945
+9,-67.0562553,45.0981244,"ad",1969,"Carduelis tristis tristis","Spinus_tristis",13,108,"male",6.9,1105,8.32045216574341,47.5747123558388,"Fall",184946
+8,-67.0581436,45.0773997,"ad",1970,"Carduelis tristis tristis","Spinus_tristis",11.8,102,"female",6,1035,9.78053106322903,38.887734251178,"Summer",184947
+12,-79.71593,43.46917,"imm",1971,"Carduelis tristis tristis","Spinus_tristis",9.5,128,"female",7.7,739,10.3326050574251,39.8496410359817,"Winter",184948
+8,-79.39969,43.764004,"fledgeling",2006,"Carduelis tristis tristis","Spinus_tristis",9.5,NA,"female",9,903,9.00771975316257,33.7243891919627,"Summer",184949
+6,-67.1072388,45.1263512,"ad",1972,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",5.4,1333,9.66921074150504,34.0671060015402,"Summer",184950
+6,-67.1072388,45.1263512,"ad",1972,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"female",5.4,1333,9.66921074150504,34.0671060015402,"Summer",184951
+6,-67.06604,45.1491162,"ad",1972,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",5.2,1323,9.6757546099892,33.4342188128191,"Summer",184952
+9,-79.504053,43.773831,"ad",1973,"Carduelis tristis tristis","Spinus_tristis",9.5,NA,"male",8.1,835,10.2049119189108,35.8180130261592,"Fall",184953
+6,-81.78235,46.28831,NA,1974,"Carduelis tristis tristis","Spinus_tristis",11.4,NA,"undetermined",3.4,802,10.5235522289364,33.4867652509297,"Summer",184954
+6,-81.78235,46.28831,NA,1974,"Carduelis tristis tristis","Spinus_tristis",11.7,NA,"undetermined",3.4,802,10.5235522289364,33.4867652509297,"Summer",184955
+7,-67.0581436,45.0773997,"ad",1976,"Carduelis tristis tristis","Spinus_tristis",12.3,NA,"male",6.3,1276,9.36079428771777,42.5368775220707,"Summer",184956
+9,-76.14126,45.13844,"imm",1947,"Carduelis tristis tristis","Spinus_tristis",12,NA,"female",5.9,951,11.9421332036846,43.6120197934756,"Fall",184957
+2,-77.09799,45.53921,"imm",1948,"Carduelis tristis tristis","Spinus_tristis",11,NA,"female",5.4,728,12.2361981617881,35.0113188360982,"Winter",184958
+8,-79.91366,44.54776,"ad",1989,"Carduelis tristis tristis","Spinus_tristis",13.4,NA,"male",5.6,809,11.3121113695173,41.8898093582284,"Summer",184959
+12,-79.04966,44.28355,"ad",1996,"Carduelis tristis tristis","Spinus_tristis",13.8,NA,"male",6.1,975,10.4477487788257,33.1129743362348,"Winter",184960
+9,-79.32829,43.659127,"fledgeling",1997,"Carduelis tristis tristis","Spinus_tristis",7.8,NA,"female",7.5,701,9.55838518122843,31.3484669940684,"Fall",184961
+5,-79.425049,43.6909,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",11,NA,"female",7.8,710,10.4139329746259,39.530012556249,"Spring",184962
+5,-79.425049,43.6909,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",11,NA,"male",7.8,710,10.4139329746259,39.530012556249,"Spring",184963
+12,-79.99343,43.80176,NA,1934,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",5.5,703,11.3240692974984,30.1175839200911,"Winter",184964
+6,-93.83787,48.63186,"ad",1929,"Carduelis tristis pallida","Spinus_tristis",12.5,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",184965
+7,-84.02525,46.353393,"ad",1931,"Carduelis tristis tristis","Spinus_tristis",15,NA,"male",6.6,774,10.5144489329511,65.7387277263846,"Summer",184966
+4,-79.99343,43.86225,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",6.2,771,10.4086793619847,39.964411712543,"Spring",184967
+4,-79.99343,43.86225,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",6.2,771,10.4086793619847,39.964411712543,"Spring",184968
+4,-79.99343,43.86225,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",14,NA,"female",6.2,771,10.4086793619847,39.964411712543,"Spring",184969
+4,-79.99343,43.86225,NA,1933,"Carduelis tristis tristis","Spinus_tristis",14,NA,"female",6.2,771,10.4086793619847,39.964411712543,"Spring",184970
+4,-79.99343,43.86225,NA,1933,"Carduelis tristis tristis","Spinus_tristis",15,NA,"female",6.2,771,10.4086793619847,39.964411712543,"Spring",184971
+4,-79.99343,43.86225,"ad",1933,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",6.2,771,10.4086793619847,39.964411712543,"Spring",184972
+7,-81.271877,44.624258,"ad",1999,"Carduelis tristis tristis","Spinus_tristis",12.7,NA,"female",8.3,874,9.25551023428583,41.0599961604288,"Summer",184973
+8,-76.5067,44.24199,"ad",1999,"Carduelis tristis tristis","Spinus_tristis",12.8,NA,"male",8.7,855,10.3827654399884,47.4049197592441,"Summer",184974
+4,-81.35074,42.96553,"ad",1912,"Carduelis tristis tristis","Spinus_tristis",14,47,"male",6.4,1131,10.964101201262,31.2523417671717,"Spring",184975
+9,-81.2613,42.99875,"juv",1932,"Carduelis tristis tristis","Spinus_tristis",8.8,46,"male",7.7,1017,8.77283600183837,40.5792250339392,"Fall",184976
+5,-79.99343,43.86225,"ad",1945,"Carduelis tristis tristis","Spinus_tristis",14,NA,"female",5.3,1036,10.1695624291314,35.7501930547094,"Spring",184977
+7,-91.92887,50.10403,"ad",1947,"Carduelis tristis pallida","Spinus_tristis",13.7,NA,"male",0.7,689,13.7532475503722,41.3307748714265,"Summer",184978
+7,-91.92887,50.10403,"ad",1947,"Carduelis tristis pallida","Spinus_tristis",12.4,NA,"male",0.7,689,13.7532475503722,41.3307748714265,"Summer",184979
+5,-81.4693,43.01232,"ad",1959,"Carduelis tristis tristis","Spinus_tristis",9,NA,"male?",8.2,983,10.6713827169167,34.6474049279843,"Spring",184980
+7,-80.24294,42.5613,"ad",2000,"Carduelis tristis tristis","Spinus_tristis",11.3,NA,"male",8.6,1094,9.40884496823939,36.5029854618941,"Summer",184981
+1,-79.814585,43.222549,"imm",2000,"Carduelis tristis tristis","Spinus_tristis",15.2,NA,"female",8.2,868,9.59848472889909,52.4926519043837,"Winter",184982
+5,-80.37961,43.70637,"ad",2003,"Carduelis tristis tristis","Spinus_tristis",13.5,NA,"male",5.6,964,10.3181511146253,35.3416896406712,"Spring",184983
+2,-79.283027,43.709402,"ad",2004,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",7.4,797,10.0920723462738,43.3749700911392,"Winter",184984
+9,-79.405702,43.74392,"juv",2003,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",6.9,825,10.4958722045066,39.7438865407648,"Fall",184985
+11,-79.281078,43.712138,"juv",2004,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",7.4,798,10.0873758488098,43.3749700911392,"Fall",184986
+3,-95.288887,39.0421862,"ad",1966,"Carduelis tristis tristis","Spinus_tristis",13.4,NA,"male",12.1,661,9.94464984833858,101.139984419632,"Spring",184987
+5,-95.2827072,38.9560717,"ad",1966,"Carduelis tristis tristis","Spinus_tristis",12,129,"male",12.1,692,9.94410134276353,97.5685434862534,"Spring",184988
+5,-95.2827072,38.9560717,"ad",1966,"Carduelis tristis tristis","Spinus_tristis",12.2,121,"female",12.1,692,9.94410134276353,97.5685434862534,"Spring",184989
+7,-79.71593,43.46917,"ad",1966,"Carduelis tristis tristis","Spinus_tristis",10.8,114,"male",7.3,752,9.94926523859319,38.393983469053,"Summer",184990
+8,-79.351003,43.671138,"ad",2004,"Carduelis tristis tristis","Spinus_tristis",11,NA,"male",7.6,795,10.0897337562855,43.1804755217065,"Summer",184991
+8,-79.41878,43.86842,"nestl",1966,"Carduelis tristis tristis","Spinus_tristis",10.7,75,"male",6.7,751,10.0533538802941,51.0748608374562,"Summer",184992
+6,-83.7391662,46.0204493,NA,1938,"Carduelis tristis tristis","Spinus_tristis",12.1,NA,"female",6.1,746,10.7863550166613,25.4692971763256,"Summer",184993
+7,-83.7391662,45.9914917,"adult",1938,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",6.1,745,10.7486574214474,25.9070619422726,"Summer",184994
+7,-83.7391662,46.0204493,NA,1938,"Carduelis tristis tristis","Spinus_tristis",13.1,NA,"female",6.1,746,10.7863550166613,25.4692971763256,"Summer",184995
+7,-83.6754669,46.0338356,"adult",1938,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",6,754,10.7798071608096,25.344849352987,"Summer",184996
+6,-83.7329865,42.3438278,NA,1941,"Carduelis tristis tristis","Spinus_tristis",14,NA,"female",10.1,675,10.3871715752332,47.5586065177635,"Summer",184997
+4,-83.7268066,42.3154008,NA,1942,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",9.3,918,10.485574506305,38.9697257677627,"Spring",184998
+5,-85.5394222,46.3717274,NA,1942,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",5.6,752,10.3698097641883,45.9210389492857,"Spring",184999
+5,-85.5394222,46.3717274,NA,1942,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"female",5.6,752,10.3698097641883,45.9210389492857,"Spring",185000
+6,-83.7263412,42.2708397,NA,1946,"Carduelis tristis tristis","Spinus_tristis",13.1,NA,"male",10.2,606,8.81704186633631,50.6298829879788,"Summer",185002
+3,-84.0122795,42.433213,NA,1950,"Carduelis tristis tristis","Spinus_tristis",14.7,NA,"female",8.2,959,10.0732882597311,29.169372168891,"Spring",185003
+5,-83.7263412,42.2708397,NA,1956,"Carduelis tristis tristis","Spinus_tristis",11.3,NA,"male",9.5,704,9.6354459254265,62.1548171835356,"Spring",185004
+5,-83.7263412,42.2708397,NA,1960,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"male",9,689,10.5662807022522,63.9297806392146,"Spring",185005
+3,-84.194697,46.420551,NA,1963,"Carduelis tristis tristis","Spinus_tristis",11.7,NA,"female",4.2,625,11.9311535168409,44.6355753686276,"Spring",185006
+7,-83.6811447,42.2734983,NA,1938,"Carduelis tristis tristis","Spinus_tristis",12.7,NA,"undetermined",10.5,689,9.63516287544552,49.9582227941159,"Summer",185007
+12,-83.9135742,42.6056632,NA,1947,"Carduelis tristis","Spinus_tristis",13,NA,"male",8.2,811,10.7442267795737,44.3748295171555,"Winter",185008
+12,-83.9135742,42.6056632,NA,1949,"Carduelis tristis","Spinus_tristis",12.8,NA,"female",9.7,787,9.87543631563904,23.6483054374741,"Winter",185009
+3,-85.5901909,42.3764269,NA,1984,"Carduelis tristis","Spinus_tristis",10.8,NA,"male",9.4,869,10.3230398388823,47.6229924603074,"Spring",185010
+5,-85.5616093,42.3834646,NA,1984,"Carduelis tristis","Spinus_tristis",12.7,NA,"female",9.4,866,10.3124336545157,47.6075002723846,"Spring",185011
+6,-84.2261696,45.356126,NA,1982,"Carduelis tristis tristis","Spinus_tristis",11.8,NA,"male",6.1,758,10.6031263257017,51.5505434023049,"Summer",185012
+7,-86.564493,41.976731,NA,1977,"Carduelis tristis","Spinus_tristis",12.2,NA,"female",9.6,918,11.0245559245411,50.4600200880276,"Summer",185013
+6,-86.564493,41.976731,NA,1977,"Carduelis tristis","Spinus_tristis",11.7,NA,"female",9.6,918,11.0245559245411,50.4600200880276,"Summer",185014
+9,-85.6103182,42.3763635,NA,1984,"Carduelis tristis","Spinus_tristis",7.3,NA,"female",9.5,872,10.3227426177114,47.5073561756541,"Fall",185015
+1,-83.8049865,42.5072859,NA,1987,"Carduelis tristis","Spinus_tristis",17.4,NA,"male",10,781,9.89438163195598,59.0156884818386,"Winter",185016
+7,-83.8497162,42.279849,NA,1995,"Carduelis tristis","Spinus_tristis",11.5,NA,"male",9.4,814,10.8569590865058,43.5999159581528,"Summer",185017
+6,-83.6169004,42.329029,NA,1994,"Carduelis tristis","Spinus_tristis",12.3,NA,"male",9.8,826,10.5068339953604,38.9174384914075,"Summer",185018
+5,-85.0375,45.64222,"adult",1989,"Carduelis tristis tristis","Spinus_tristis",12.1,NA,"male",5.5,608,10.737303989815,53.6094551070976,"Spring",185019
+7,-83.7263412,42.2708397,"adult",1987,"Carduelis tristis tristis","Spinus_tristis",9.5,NA,"male",10.6,837,9.87640285394097,66.8510320186329,"Summer",185020
+3,-83.7263412,42.2708397,"adult",1988,"Carduelis tristis tristis","Spinus_tristis",12.2,NA,"male",9.5,887,10.9852897508027,58.7686020667816,"Spring",185021
+7,-85.0375,45.64222,"adult",1988,"Carduelis tristis tristis","Spinus_tristis",11.9,NA,"male",6.7,792,10.5772877029754,59.6163932664447,"Summer",185022
+7,-83.8565826,42.6439349,"adult",1988,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",8.8,754,10.9824205258249,61.4889613409417,"Summer",185023
+7,-83.8565826,42.6439349,"adult",1988,"Carduelis tristis tristis","Spinus_tristis",11.5,NA,"male",8.8,754,10.9824205258249,61.4889613409417,"Summer",185024
+6,-83.6025238,42.3048643,NA,2003,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",9.3,864,10.1647750351472,41.9647354789049,"Summer",185025
+8,-83.8249111,42.4357785,NA,2005,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"male",9.4,776,10.9685880696845,54.3406133377381,"Summer",185026
+9,-83.6365986,42.3037852,"adult",2004,"Carduelis tristis tristis","Spinus_tristis",9.1,NA,"male",9.7,840,10.0270845335234,61.988648853173,"Fall",185027
+10,-84.1019726,42.3267922,"immature",2006,"Carduelis tristis tristis","Spinus_tristis",14.25,NA,"female",10.1,1056,8.82954750204727,34.5384908675694,"Fall",185028
+4,-85.5156898,42.1720552,NA,2006,"Carduelis tristis tristis","Spinus_tristis",12.1,NA,"male",10.5,1073,8.78143703294833,36.6739865324056,"Spring",185029
+11,-85.5156898,42.1720552,NA,2006,"Carduelis tristis tristis","Spinus_tristis",13.2,NA,"male",10.5,1073,8.78143703294833,36.6739865324056,"Fall",185030
+9,-83.7263412,42.2708397,"adult",2007,"Carduelis tristis tristis","Spinus_tristis",13.8,NA,"male",10.2,901,10.7183643030704,44.0536255680916,"Fall",185031
+3,-83.862612,42.369336,NA,1996,"Carduelis tristis tristis","Spinus_tristis",8.4,NA,"male",8.6,805,10.4241960666693,43.1828707153001,"Spring",185032
+2,-85.5156898,42.1720552,NA,2005,"Carduelis tristis tristis","Spinus_tristis",15.2,NA,"male",9.9,777,10.8481250998418,51.987263809788,"Winter",185033
+3,-85.5156898,42.1720552,NA,2005,"Carduelis tristis tristis","Spinus_tristis",13.5,NA,"female",9.9,777,10.8481250998418,51.987263809788,"Spring",185034
+12,-85.5156898,42.1720552,"immature",2002,"Carduelis tristis tristis","Spinus_tristis",13.3,NA,"male",10,777,9.80650294447516,39.7971250104921,"Winter",185035
+1,-85.5156898,42.1720552,NA,2005,"Carduelis tristis tristis","Spinus_tristis",13.7,NA,"male",9.9,777,10.8481250998418,51.987263809788,"Winter",185036
+11,-85.5156898,42.1720552,"immature",2005,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",9.9,777,10.8481250998418,51.987263809788,"Fall",185037
+3,-85.5156898,42.1720552,NA,2003,"Carduelis tristis tristis","Spinus_tristis",13.6,NA,"female",8.8,930,10.1352968592066,50.2383490737927,"Spring",185038
+2,-85.5156898,42.1720552,"adult",2003,"Carduelis tristis tristis","Spinus_tristis",14.8,NA,"male",8.8,930,10.1352968592066,50.2383490737927,"Winter",185039
+10,-85.5156898,42.1720552,"immature",2009,"Carduelis tristis tristis","Spinus_tristis",11.2,NA,"male",9.3,1115,9.8819241164069,47.8057734128908,"Fall",185040
+10,-85.5156898,42.1720552,"immature",2009,"Carduelis tristis tristis","Spinus_tristis",14.2,NA,"male",9.3,1115,9.8819241164069,47.8057734128908,"Fall",185041
+11,-83.7690353,42.8847693,NA,2009,"Carduelis tristis tristis","Spinus_tristis",13.6,NA,"female",8,919,9.87828963235064,50.4782005452486,"Fall",185042
+5,-83.7018781,42.1954799,NA,2010,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",10.7,913,10.9008305215982,70.0291214713965,"Spring",185043
+9,-85.5156898,42.1720552,NA,2007,"Carduelis tristis","Spinus_tristis",14.2,NA,"male",10.4,914,10.7518391661402,56.0381712924473,"Fall",185044
+1,-83.7263412,42.2708397,NA,2009,"Carduelis tristis","Spinus_tristis",10.2,NA,"male",9.1,996,10.0623924801333,46.1289230756675,"Winter",185045
+1,-85.6672373,43.1251136,NA,2011,"Carduelis tristis tristis","Spinus_tristis",12,NA,"female",9.5,1086,10.2803836445333,40.5951763604329,"Winter",185046
+11,-83.79921,42.891682,NA,2010,"Carduelis tristis tristis","Spinus_tristis",10.5,NA,"female",9.7,742,10.7061119615542,58.4455520060578,"Fall",185047
+10,-83.97357,42.08593,"immature",2010,"Carduelis tristis tristis","Spinus_tristis",12.83,NA,"female",10.6,881,10.8502199391198,65.4123807470083,"Fall",185048
+5,-83.4822,42.3086,NA,2010,"Carduelis tristis tristis","Spinus_tristis",9.8,NA,"male",10.5,815,10.843962151885,65.4404582589039,"Spring",185049
+9,-85.5156898,42.1720552,"adult",2007,"Carduelis tristis tristis","Spinus_tristis",9.1,NA,"female",10.4,914,10.7518391661402,56.0381712924473,"Fall",185050
+9,-85.5156898,42.1720552,NA,2007,"Carduelis tristis","Spinus_tristis",8.6,NA,"male",10.4,914,10.7518391661402,56.0381712924473,"Fall",185051
+11,-85.6684255,42.2670795,NA,2005,"Carduelis tristis tristis","Spinus_tristis",10,NA,"male",10.2,751,10.9425877777026,53.935044632503,"Fall",185052
+1,-83.7263412,42.2708397,"immature",2013,"Carduelis tristis tristis","Spinus_tristis",14.7,NA,"male",9.7,953,10.3218619121423,55.19143970559,"Winter",185053
+2,-83.688692,86.183719,NA,2011,"Carduelis tristis tristis","Spinus_tristis",13.2,NA,"male",-9999,-9999,0,0,"Winter",185054
+6,-83.79921,42.891682,"adult",2011,"Carduelis tristis tristis","Spinus_tristis",7.9,NA,"male",9.4,984,10.5790924454651,50.8056625848636,"Summer",185055
+5,-83.4822,42.3086,"adult",2013,"Carduelis tristis tristis","Spinus_tristis",10,NA,"male",9.6,948,10.2160709698301,55.4686365798603,"Spring",185057
+11,-83.8490295,42.471084,NA,2013,"Carduelis tristis tristis","Spinus_tristis",14.5,NA,"female",9.2,911,10.363046235192,55.4646541177107,"Fall",185058
+8,-83.8867896,42.3261219,NA,2013,"Carduelis tristis tristis","Spinus_tristis",13.5,NA,"male",9.3,934,10.3223059439255,55.238582734028,"Summer",185059
+8,-83.8867896,42.3261219,"immature",2013,"Carduelis tristis tristis","Spinus_tristis",13.4,NA,"male",9.3,934,10.3223059439255,55.238582734028,"Summer",185060
+5,-83.7263412,42.2708397,NA,1933,"Carduelis tristis","Spinus_tristis",12,NA,"male",10.1,612,10.4403500463782,56.4215473330908,"Spring",185063
+1,-83.7263412,42.2708397,"adult",1934,"Carduelis tristis","Spinus_tristis",15.2,NA,"male",9.6,480,11.7737863686473,58.251024181398,"Winter",185064
+8,-83.6873245,42.2709579,"adult",1933,"Carduelis tristis","Spinus_tristis",13.8,NA,"male",10.1,610,10.4254459972907,54.0408291024345,"Summer",185065
+8,-83.6873245,42.2709579,"adult",1933,"Carduelis tristis","Spinus_tristis",12,NA,"male",10.1,610,10.4254459972907,54.0408291024345,"Summer",185066
+7,-83.452835,41.7672146,NA,1934,"Carduelis tristis","Spinus_tristis",13.9,NA,"female",10,543,11.6409543501303,60.9597082780407,"Summer",185067
+8,-83.7263412,42.2708397,"juvenile",1934,"Carduelis tristis","Spinus_tristis",6,NA,"in question",9.6,480,11.7737863686473,58.251024181398,"Summer",185068
+8,-111.3953253,42.1675605,"adult",1934,"Carduelis tristis","Spinus_tristis",13.8,NA,"male",7.1,240,8.44469979013195,49.2673596539608,"Summer",185069
+8,-111.3953253,42.1675605,"immature",1934,"Carduelis tristis","Spinus_tristis",13.4,NA,"male",7.1,240,8.44469979013195,49.2673596539608,"Summer",185070
+8,-111.3953253,42.1675605,"adult",1934,"Carduelis tristis pallida","Spinus_tristis",14.1,NA,"female",7.1,240,8.44469979013195,49.2673596539608,"Summer",185071
+8,-111.3953253,42.1675605,"adult",1934,"Carduelis tristis pallida","Spinus_tristis",13.2,NA,"female",7.1,240,8.44469979013195,49.2673596539608,"Summer",185072
+1,-74.96333,41.07333,NA,1935,"Carduelis tristis tristis","Spinus_tristis",13.7,118,"male",8.5,1068,9.92639578766298,51.6083594795024,"Winter",185073
+4,-83.815239,42.3256378,NA,1935,"Carduelis tristis","Spinus_tristis",13.6,NA,"male",8.6,652,10.2178394205547,44.0097719010474,"Spring",185074
+3,-83.7263412,42.2708397,NA,1937,"Carduelis tristis tristis","Spinus_tristis",13.2,NA,"male",9.2,868,10.1142975609538,60.2853375909974,"Spring",185075
+5,-83.6422,42.30201,NA,1936,"Carduelis tristis tristis","Spinus_tristis",11,NA,"female",9,626,11.5172466196122,63.8445384579534,"Spring",185076
+3,-83.6811447,42.2734983,NA,1937,"Carduelis tristis tristis","Spinus_tristis",12.9,NA,"male",9.2,861,10.0850023662502,59.4482720936372,"Spring",185077
+12,-93.5609436,43.2702062,NA,1937,"Carduelis tristis tristis","Spinus_tristis",16.1,NA,"male",6.7,753,13.7237987275809,76.1404511133296,"Winter",185078
+12,-93.5609436,43.2702062,"immature",1937,"Carduelis tristis tristis","Spinus_tristis",15.9,NA,"male",6.7,753,13.7237987275809,76.1404511133296,"Winter",185079
+12,-93.5609436,43.2702062,NA,1937,"Carduelis tristis tristis","Spinus_tristis",14.7,NA,"female",6.7,753,13.7237987275809,76.1404511133296,"Winter",185080
+11,-83.7219494,36.3327785,NA,1937,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",13.8,1335,8.18910954570246,57.7266794875272,"Fall",185081
+7,-85.5568848,45.6646004,"adult",1937,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",6.4,733,10.4608215680599,72.5163599099001,"Summer",185082
+12,-84.0185811,36.2366714,"immature",1937,"Carduelis tristis tristis","Spinus_tristis",13.6,NA,"male",13.8,1406,8.38259379833466,57.9488685339084,"Winter",185083
+3,-83.9090905,36.2362057,NA,1938,"Carduelis tristis tristis","Spinus_tristis",12.6,NA,"male",14.4,1328,7.99334476962308,40.2347572785762,"Spring",185084
+5,-103.7662125,30.725605,NA,1937,"Carduelis tristis pallida","Spinus_tristis",13.7,NA,"female",15.8,389,7.23706788106561,70.9999280242686,"Spring",185085
+10,-83.6422,42.30201,NA,1938,"Carduelis tristis tristis","Spinus_tristis",14.2,NA,"male",10.5,696,9.64105410431993,49.7333643051101,"Fall",185086
+2,-119.209364,34.296808,"Skull 100% ossified",2001,NA,"Spinus_tristis",10.3,NA,"male",15.1,667,3.30375131135392,125.331532366322,"Winter",185087
+3,-82.2132034,38.4248104,NA,1985,NA,"Spinus_tristis",14.5,NA,"male",12.7,1016,9.52131182074607,57.0989764616203,"Spring",185088
+2,-119.209364,34.296808,"Skull 100% oss",2001,NA,"Spinus_tristis",11.1,NA,"female",15.1,667,3.30375131135392,125.331532366322,"Winter",185089
+2,-119.209364,34.296808,"Skull 100% oss",2001,NA,"Spinus_tristis",11,NA,"female",15.1,667,3.30375131135392,125.331532366322,"Winter",185090
+2,-119.209364,34.296808,"Skull ossified",2001,NA,"Spinus_tristis",11,NA,"female",15.1,667,3.30375131135392,125.331532366322,"Winter",185091
+4,-119.209364,34.296808,"Skull 100% oss",2001,NA,"Spinus_tristis",13,NA,"male",15.1,667,3.30375131135392,125.331532366322,"Spring",185092
+3,-119.209364,34.296808,"Skull ossified",2001,NA,"Spinus_tristis",11.5,NA,"male",15.1,667,3.30375131135392,125.331532366322,"Spring",185093
+3,-119.209364,34.296808,"Skull 100% oss",2001,NA,"Spinus_tristis",9.5,NA,"male",15.1,667,3.30375131135392,125.331532366322,"Spring",185094
+10,-119.1793213,34.1867027,"Skull 25% oss",2001,NA,"Spinus_tristis",13.4,NA,"undetermined",14.6,516,2.59474994416172,124.274778065179,"Fall",185095
+1,-119.209364,34.296808,"Skull 100% ossi",2001,NA,"Spinus_tristis",10,NA,"female",15.1,667,3.30375131135392,125.331532366322,"Winter",185096
+4,-118.960215,34.268149,"Skull 100% ossified",1997,NA,"Spinus_tristis",10.4,NA,"male",16.3,373,3.64977168235676,184.880173692616,"Spring",185097
+5,-118.960215,34.268149,"Adult skull 100% oss",1997,NA,"Spinus_tristis",9,NA,"female",16.3,373,3.64977168235676,184.880173692616,"Spring",185098
+3,-118.7323074,34.2733765,"Adult skull 100% oss",1998,NA,"Spinus_tristis",8.8,NA,"female",15.6,699,4.58121163012581,185.933165373754,"Spring",185099
+12,-119.209364,34.296808,"Skull 100% ossified",2000,NA,"Spinus_tristis",9.5,NA,"female",15.2,429,3.10935782125603,176.438369007193,"Winter",185100
+3,-119.0342812,34.2220475,"Skull 100& ossi",2001,NA,"Spinus_tristis",10.65,NA,"female",14.8,498,2.97458935286567,126.21831362948,"Spring",185101
+3,-119.0342812,34.2220475,"Skull 100% ossi",2001,NA,"Spinus_tristis",10.1,NA,"male",14.8,498,2.97458935286567,126.21831362948,"Spring",185102
+4,-119.0342812,34.2220475,"Skul100% ossi",2001,NA,"Spinus_tristis",10,NA,"female",14.8,498,2.97458935286567,126.21831362948,"Spring",185103
+12,-119.061118,34.221649,"Skull 90% oss",2002,NA,"Spinus_tristis",9.4,NA,"male",14.8,265,2.39917915255627,178.842798444286,"Winter",185104
+5,-119.0342812,34.2220475,"juvenile",2004,NA,"Spinus_tristis",13.2,NA,"male",15.5,347,2.88174768100361,177.560482153953,"Spring",185105
+2,-119.205655,34.227632,"adult",2005,NA,"Spinus_tristis",13.5,NA,"male",15.3,617,1.81149528056662,149.899090348622,"Winter",185106
+2,-118.886371,34.188228,"adult",2005,NA,"Spinus_tristis",12.5,NA,"female",16.2,656,3.19188127294955,167.628594301815,"Winter",185107
+6,-119.0342812,34.2220475,"adult",2007,NA,"Spinus_tristis",11,NA,"male",15.5,148,2.70872607874938,121.219646931968,"Summer",185108
+10,-119.209364,34.296808,"Skull 90% oss",2002,NA,"Spinus_tristis",10,NA,"male",15,340,2.82728856080532,177.711326437112,"Fall",185109
+7,-76.439543,42.399675,NA,1993,"Carduelis tristis","Spinus_tristis",16.3999996185303,115,"female",7.5,987,10.3488983457031,46.2498907522772,"Summer",185110
+2,-83.7263412,42.2708397,NA,1984,"Carduelis tristis","Spinus_tristis",14.2,NA,"male",9.4,754,10.3480747733649,45.5845019134467,"Winter",185111
+7,-83.7263412,42.2708397,NA,1976,"Carduelis tristis","Spinus_tristis",11.5,NA,"male",8.6,697,10.6294046128766,51.922944792396,"Summer",185112
+11,-119.209364,34.296808,"Skull 100% oss",2000,NA,"Spinus_tristis",9.4,NA,"female",15.2,429,3.10935782125603,176.438369007193,"Fall",185113
+4,-118.3957214,37.3652992,NA,1995,"Carduelis tristis","Spinus_tristis",13,NA,"female",14,185,7.04545307917873,136.102172430996,"Spring",185114
+9,-122.3320708,47.6062095,NA,1998,"Carduelis tristis jewetti","Spinus_tristis",19.8,NA,"female",11.6,1018,5.08229249155309,88.4425373666656,"Fall",185115
+5,-85.0375,45.64222,NA,1985,"Carduelis tristis","Spinus_tristis",12.5,NA,"male",5.9,916,10.0346785064232,34.1669895411286,"Spring",185116
+1,-84.0929603,42.0985408,NA,1987,"Carduelis tristis","Spinus_tristis",13.8,NA,"male",10.4,821,9.74920354167302,57.5380464685067,"Winter",185117
+6,-83.957545,42.301401,NA,2011,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"male",9.9,1046,10.5618058315916,46.5769305732442,"Summer",185118
+11,-119.209364,34.296808,"Skull 100% ossi",2000,NA,"Spinus_tristis",8.1,NA,"male",15.2,429,3.10935782125603,176.438369007193,"Fall",185119
+11,-119.209364,34.296808,"Skull 100% ossi",2000,NA,"Spinus_tristis",10.4,NA,"female",15.2,429,3.10935782125603,176.438369007193,"Fall",185120
+NA,-84.7482186,49.2678238,"juv",1999,"Carduelis tristis tristis","Spinus_tristis",8.5,NA,"female?",2.1,816,11.8341058219901,37.7592746023594,"",185121
+NA,-83.7500668,42.6573812,NA,2003,"Carduelis tristis tristis","Spinus_tristis",14.2,NA,"male",8.4,778,10.2384709736751,46.9791029070694,"",185122
+NA,-85.5156898,42.1720552,"adult",2012,"Carduelis tristis tristis","Spinus_tristis",13.6,NA,"male",11.6,840,9.22438714396887,42.5044313385722,"",185123
+NA,-83.7263412,42.2708397,NA,2004,"Carduelis tristis tristis","Spinus_tristis",14.3,NA,"female",9.8,844,10.016815407558,62.7412963381584,"",185124
+NA,-85.5156898,42.1720552,"adult",2012,"Carduelis tristis tristis","Spinus_tristis",11.6,NA,"male",11.6,840,9.22438714396887,42.5044313385722,"",185125
+11,-122.97385,43.98393,"U-Ad.",1983,"Carduelis tristis jewetti","Spinus_tristis",15.4,NA,"female",11.3,1484,4.72254425521077,75.6705571064213,"Fall",185137
+5,-123.00873,43.99862,"U-Ad.",1985,"Carduelis tristis","Spinus_tristis",14.3,NA,"male",10.2,788,6.42655475823602,72.6431878483136,"Spring",185138
+1,-85.43548,38.73589,"U-Ad",1993,"Carduelis tristis tristis","Spinus_tristis",12.3,NA,"male",12.1,1216,9.46476720167053,26.5621262170021,"Winter",185139
+8,-121.93957,37.46675,"U",1989,"Carduelis tristis salicamans","Spinus_tristis",14.1,NA,"undetermined",14.7,232,4.01712244364952,110.535266660621,"Summer",185140
+9,-121.93957,37.46675,"U",1990,"Carduelis tristis salicamans","Spinus_tristis",11.1,NA,"undetermined",14.9,225,4.73813510174881,102.944135090324,"Fall",185141
+5,-123.00361,37.69852,"U-Ad",1965,"Carduelis tristis salicamans","Spinus_tristis",14.3,NA,"male",-9999,-9999,0,0,"Spring",185142
+8,-122.2709,37.871,"U-Nestling",2001,"Carduelis tristis","Spinus_tristis",6.7,NA,"undetermined",14.2,735,3.21967201416354,130.333555780942,"Summer",185143
+7,-122.70411,38.34336,"U-Imm",2001,"Carduelis tristis","Spinus_tristis",6.1,NA,"female",14,1021,4.03266961731608,124.035124757625,"Summer",185144
+6,-122.25795,37.87001,"U-Nestling",2001,"Carduelis tristis","Spinus_tristis",7.2,NA,"undetermined",14.1,770,3.33575669485542,129.913286808042,"Summer",185145
+12,-121.77741,37.9916,"U-Ad",2001,"Carduelis tristis","Spinus_tristis",12.6,NA,"male",15.7,402,5.58241285944826,123.488450946488,"Winter",185146
+7,-122.55927,38.09214,"nestling",2002,"Carduelis tristis","Spinus_tristis",7,NA,"undetermined",14.8,794,3.91860364740484,173.696365845372,"Summer",185147
+7,-122.63573,38.24925,"nestling",2002,"Carduelis tristis","Spinus_tristis",7,NA,"undetermined",14.3,709,4.02661599406206,177.166742461017,"Summer",185148
+6,-85.82405,38.63435,"adult",2000,"Carduelis tristis","Spinus_tristis",11.4,NA,"male",12.8,1358,9.45567009628069,33.1058004912623,"Summer",185149
+1,-85.82405,38.63435,"immature",2001,"Carduelis tristis","Spinus_tristis",12.7,NA,"male",13.7,1154,8.78793939373041,47.0897280201005,"Winter",185150
+2,-122.03971,38.00171,"adult",2004,"Carduelis tristis","Spinus_tristis",9.2,NA,"female",15.9,439,5.12965235989081,123.188701520473,"Winter",185151
+11,-121.72389,37.99347,"immature",2003,"Carduelis tristis","Spinus_tristis",11.5,NA,"undetermined",16,303,5.6618874677063,116.782523589982,"Fall",185152
+11,-122.00237,37.85644,"U",2003,"Carduelis tristis","Spinus_tristis",11,100,"female",15,487,4.85370055637027,116.023951212206,"Fall",185153
+12,-122.25229,37.84941,"U",2010,"Carduelis tristis","Spinus_tristis",11.6,115,"male",14.4,761,3.21543389786124,102.113016441899,"Winter",185154
+5,-76.439261,42.45476,NA,1953,"Carduelis tristis","Spinus_tristis",16.6000003814697,NA,"male",9.5,781,8.55472578948813,30.8739476826067,"Spring",185155
+5,-76.4093,42.3687,NA,1995,"Carduelis tristis","Spinus_tristis",11.3999996185303,111,"female",7.8,851,10.5465598297466,54.0875746035748,"Spring",185156
+11,-77.311261,42.938519,NA,2010,"Carduelis tristis","Spinus_tristis",12.4,113.5,NA,9.8,964,9.99331594799062,48.6708975869507,"Fall",185157
+10,-76.4509,42.4793,NA,1998,"Carduelis tristis","Spinus_tristis",14.1999998092651,115,"male",9.7,921,8.34728680288972,40.8756149169586,"Fall",185158
+7,-76.410173,42.404137,NA,2001,"Carduelis tristis","Spinus_tristis",12.1999998092651,NA,"male",8.6,876,9.22983879829026,61.1907755197635,"Summer",185159
+1,-76.29779,42.49073,NA,2004,"Carduelis tristis","Spinus_tristis",13.6999998092651,108,"male",7.3,1187,10.0587215284985,55.2584089413179,"Winter",185160
+9,-76.4091,42.3687,NA,2008,"Carduelis tristis","Spinus_tristis",12.6,109,"undetermined",8,1104,9.50675597093504,38.7483713173292,"Fall",185161
+5,-76.549095,42.447996,NA,2011,"Carduelis tristis","Spinus_tristis",11.9,113,"male",9.5,1271,10.0291809085772,49.7418940286821,"Spring",185162
+10,-76.318666,42.352209,NA,2005,"Carduelis tristis","Spinus_tristis",10.2,107,NA,7.9,1134,10.9473395135185,52.4765175511491,"Fall",185163
+8,-76.45008,42.467539,NA,2011,"Carduelis tristis","Spinus_tristis",12.4,127,"male",9.3,1311,10.0590190195845,50.2624290557472,"Summer",185164
+9,-76.53472,42.539502,NA,2013,"Carduelis tristis","Spinus_tristis",15.6,117,"male",9.4,1018,9.69885966430481,46.471008880884,"Fall",185165
+1,-105.141793,39.806274,"immature",1986,"Carduelis tristis","Spinus_tristis",19.4,129,"female",11.2,404,7.61354454942378,64.2991512035109,"Winter",185166
+12,-108.3347222222,36.7330555556,NA,2003,"Carduelis tristis","Spinus_tristis",12.6,NA,"female",12.5,190,9.27434960555513,85.2001839624001,"Winter",185167
+12,-108.3347222222,36.7330555556,NA,2003,"Carduelis tristis","Spinus_tristis",13.4,NA,"female",12.5,190,9.27434960555513,85.2001839624001,"Winter",185168
+1,-96.733,33.775,"sk.part oss.",1970,"Carduelis tristis tristis","Spinus_tristis",14.5,NA,"male",17.3,989,8.66680798253086,82.5780480208321,"Winter",185169
+7,-79.12396,43.81378,"ad",1972,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",6.6,894,10.2943055750608,24.1033041197074,"Summer",185170
+7,-78.96397,43.8546,"ad",1992,"Carduelis tristis tristis","Spinus_tristis",9.4,NA,"female",7.3,914,8.96861531152165,39.5692622783148,"Summer",185171
+5,-79.97972,43.63902,"ad",1997,"Carduelis tristis tristis","Spinus_tristis",12.8,NA,"male",6.4,791,9.43908701286113,31.6854937199384,"Spring",185172
+2,-77.45764,43.97391,"imm",1937,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",7.9,809,10.100686295315,35.8484292676696,"Winter",185173
+7,-77.27931,43.96989,"ad",1930,"Carduelis tristis tristis","Spinus_tristis",11.5,NA,"male",7.6,614,10.0987960578567,37.834508424039,"Summer",185174
+5,-77.27931,43.96989,"ad",1930,"Carduelis tristis tristis","Spinus_tristis",12,NA,"female",7.6,614,10.0987960578567,37.834508424039,"Spring",185175
+7,-94.98538,49.92533,"ad",1947,"Carduelis tristis pallida","Spinus_tristis",15.5,NA,"female",1.5,630,13.7715781098741,62.1606433222123,"Summer",185176
+7,-94.98538,49.92533,"ad",1947,"Carduelis tristis pallida","Spinus_tristis",12.7,NA,"male",1.5,630,13.7715781098741,62.1606433222123,"Summer",185177
+7,-94.98538,49.92533,"ad",1947,"Carduelis tristis pallida","Spinus_tristis",12,NA,"male",1.5,630,13.7715781098741,62.1606433222123,"Summer",185178
+7,-80.18034,43.45721,"ad",2004,"Carduelis tristis tristis","Spinus_tristis",12.6,NA,"male",6.7,936,9.9564924759798,38.0948979984847,"Summer",185179
+3,-95.548351,30.204679,NA,2012,"Carduelis tristis","Spinus_tristis",8,NA,NA,21.5,1264,6.06621918096562,53.3793123448337,"Spring",185180
+5,-123.113521,49.261096,"adult",1998,"Carduelis tristis jewetti","Spinus_tristis",11.5,128,"male",11.5,1372,5.54476958015116,88.4269759290846,"Spring",185182
+7,-85.9965,45.0939,NA,1940,"Carduelis tristis tristis","Spinus_tristis",21.5,NA,"male",7.4,853,9.50624993774032,40.5892010876615,"Summer",185183
+3,-83.7,42.3166667,NA,1948,"Carduelis tristis","Spinus_tristis",14,NA,"male",9.3,734,10.4367648534429,43.7065127547874,"Spring",185184
+12,-83.95,42.45,NA,1951,"Carduelis tristis tristis","Spinus_tristis",13.7,NA,"male",8.4,837,9.87670583655392,29.1528897063312,"Winter",185185
+2,-83.95,42.45,NA,1949,"Carduelis tristis","Spinus_tristis",14.7,NA,"male",10,807,9.82504530022713,23.946603124971,"Winter",185186
+3,-83.95,42.45,NA,1949,"Carduelis tristis","Spinus_tristis",13.3,NA,"male",10,807,9.82504530022713,23.946603124971,"Spring",185187
+5,-83.75,42.3833333,NA,1935,"Carduelis tristis tristis","Spinus_tristis",12.8,NA,"female",8.5,644,10.2368762991274,44.4396413243119,"Spring",185188
+11,-83.6561111,42.3127778,NA,1938,"Carduelis tristis tristis","Spinus_tristis",14.6,NA,"male",10.4,697,9.65559972557925,49.7350022000717,"Fall",185189
+5,-83.6833333,42.2833333,NA,1939,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",10.2,663,10.246104211609,64.8428073194776,"Spring",185190
+5,-83.8333333,42.2833333,NA,1941,"Carduelis tristis tristis","Spinus_tristis",12.8,NA,"female",10.1,683,10.353871329853,50.019951597166,"Spring",185191
+2,-82.4333333,42.9666667,NA,1979,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"male",8,744,10.4191657608234,53.0098703378016,"Winter",185192
+4,-82.4333333,42.9666667,NA,1980,"Carduelis tristis tristis","Spinus_tristis",13.8,NA,"male",8,858,10.5255929077941,50.4607800930577,"Spring",185193
+6,-84.7833333,44.4833333,NA,1981,"Carduelis tristis","Spinus_tristis",10.2,NA,"female",5.8,722,9.9148304895426,65.241791070232,"Summer",185194
+4,-82.4333333,42.9666667,NA,1982,"Carduelis tristis","Spinus_tristis",12.9,NA,"male",8.4,823,10.0400410478456,48.007903927379,"Spring",185195
+7,-83.95,42.45,NA,1981,"Carduelis tristis tristis","Spinus_tristis",10.4,NA,"male",8.5,867,10.0655540725724,62.6040802062541,"Summer",185196
+7,-85.5833333,42.3,NA,1984,"Carduelis tristis","Spinus_tristis",11.7,NA,"male",9.4,884,10.2985840450682,47.0850441662452,"Summer",185197
+12,-82.4333333,42.9666667,NA,1984,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",8.6,784,9.83420129708128,38.9539153307355,"Winter",185198
+6,-84.4333333,42.7166667,NA,1983,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"female",9.1,866,10.370423415569,37.6007940656428,"Summer",185199
+5,-83.6333333,42.8,NA,1988,"Carduelis tristis","Spinus_tristis",11.7,NA,"female",8.8,732,10.9438615698759,61.6326850574156,"Spring",185200
+10,-83.9166667,42.6166667,NA,2003,"Carduelis tristis tristis","Spinus_tristis",13.1,NA,"male",8.5,786,10.2069346599023,49.202872937344,"Fall",185201
+4,-85.3361667,43.7106667,"immature",2005,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",7.9,795,10.9586274300897,59.1577226003187,"Spring",185202
+4,-85.9830556,44.1019444,"adult",2007,"Carduelis tristis","Spinus_tristis",13.4,NA,"male",8.3,800,10.5797261807953,36.6326977638086,"Spring",185203
+8,-83.6166667,42.2,NA,2008,"Carduelis tristis tristis","Spinus_tristis",11.7,NA,"male",9.4,965,10.2291139756712,47.8487044929856,"Summer",185204
+11,-84.1383333,42.3818333,NA,2008,"Carduelis tristis tristis","Spinus_tristis",13.3,NA,"female",9,959,10.3216747525278,45.7450941234537,"Fall",185205
+10,-84.1383333,42.3818333,NA,2008,"Carduelis tristis","Spinus_tristis",13.8,NA,"female",9,959,10.3216747525278,45.7450941234537,"Fall",185206
+10,-83.7666667,42.3166667,"immature",2007,"Carduelis tristis tristis","Spinus_tristis",13.1,NA,"male",10,907,10.743271326178,43.697661592135,"Fall",185207
+3,-83.71921,42.45393,NA,2012,"Carduelis tristis tristis","Spinus_tristis",12,NA,"female",11,653,9.16143101168252,37.769975803855,"Spring",185209
+12,-83.75,42.2833333,NA,2013,"Carduelis tristis tristis","Spinus_tristis",9.1,NA,"male",9.7,955,10.3145491536191,55.3501583026409,"Winter",185210
+6,-83.3666667,43.9,NA,1933,"Carduelis tristis","Spinus_tristis",12.4,NA,"male",7.9,728,10.5977234547917,51.2590545236363,"Summer",185211
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",13.1,NA,"male",9.1,479,11.6127248649005,51.9615242270663,"Summer",185212
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"female",9.1,479,11.6127248649005,51.9615242270663,"Summer",185213
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.8,NA,"male",9.1,479,11.6127248649005,51.9615242270663,"Summer",185214
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"female",9.1,479,11.6127248649005,51.9615242270663,"Summer",185215
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.8,NA,"male",9.1,479,11.6127248649005,51.9615242270663,"Summer",185216
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",9.1,479,11.6127248649005,51.9615242270663,"Summer",185217
+8,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.4,NA,"male",9.1,479,11.6127248649005,51.9615242270663,"Summer",185218
+8,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",9.1,479,11.6127248649005,51.9615242270663,"Summer",185219
+8,-83.95,42.45,NA,1935,"Carduelis tristis tristis","Spinus_tristis",14.9,NA,"male",8.3,659,10.1889832067719,44.4104509785528,"Summer",185220
+3,-83.7166667,42.2833333,NA,1937,"Carduelis tristis tristis","Spinus_tristis",12.05,NA,"female",9.2,866,10.1038546499778,60.1088560824044,"Spring",185221
+3,-85.47296,38.71366,"Ad.",1985,"Carduelis tristis tristis","Spinus_tristis",11.7,NA,"female",12.5,1163,10.099909990598,53.6694913663232,"Spring",185222
+3,-85.48255,38.81349,"U",1988,"Carduelis tristis","Spinus_tristis",12.9,NA,"female",11.9,1050,9.83630797329234,46.2501065535552,"Spring",185223
+4,-122.58817,38.08601,"U-Ad",1994,"Carduelis tristis","Spinus_tristis",10,NA,"male",14.8,841,4.48306578000801,130.931289495648,"Spring",185224
+9,-121.93957,37.46675,"U",1990,"Carduelis tristis salicamans","Spinus_tristis",11,NA,"male",14.9,225,4.73813510174881,102.944135090324,"Fall",185225
+4,-122.51856,37.93498,"U-Ad",1979,"Carduelis tristis salicamans","Spinus_tristis",9.55,NA,"male",14.5,1119,3.79428397844586,106.286512879279,"Spring",185226
+5,-123.00361,37.69852,"U-Ad",1965,"Carduelis tristis salicamans","Spinus_tristis",12.8,NA,"female",-9999,-9999,0,0,"Spring",185227
+6,-122.25302,37.85703,"U-Fledgling",2001,"Carduelis tristis","Spinus_tristis",7.3,NA,"female",14.1,758,3.2987945456705,130.781284671761,"Summer",185228
+12,-122.52361,37.94861,"U-Ad",2001,"Carduelis tristis","Spinus_tristis",11.6,NA,"male",14.5,1192,3.48959492309247,132.311604469799,"Winter",185229
+2,-122.50966,37.97559,"Ad",2002,"Carduelis tristis","Spinus_tristis",10,NA,"female",14.5,872,3.49787814469737,172.950435529362,"Winter",185230
+4,-122.50966,37.97559,"Ad",2002,"Carduelis tristis","Spinus_tristis",6.9,NA,"female",14.5,872,3.49787814469737,172.950435529362,"Spring",185231
+11,-85.42556,38.74069,"adult",1997,"Carduelis tristis","Spinus_tristis",12,NA,"female",11.9,1178,8.70960806967069,75.4194352576024,"Fall",185232
+8,-85.47303,38.71571,"adult",1994,"Carduelis tristis","Spinus_tristis",13.2,NA,"male",12.5,1038,9.27911878653062,38.8665074644332,"Summer",185233
+4,-85.47296,38.71366,"unknown",2001,"Carduelis tristis","Spinus_tristis",14.2,NA,"male",13.4,1172,8.72660074748814,51.6436875064848,"Spring",185234
+12,-85.71859,38.6893,"Immature",2001,"Carduelis tristis","Spinus_tristis",13.3,NA,"female",13.8,1149,8.7932265598774,48.8870316357886,"Winter",185235
+6,-122.34361,37.93162,"nestling",2009,"Carduelis tristis","Spinus_tristis",7,35,"undetermined",14.3,482,3.16539049245065,130.222711327382,"Summer",185236
+4,-122.50099,37.76176,NA,2009,"Carduelis tristis","Spinus_tristis",12.95,NA,"female",13.5,481,2.3765744382632,121.205481921794,"Spring",185237
+4,-122.50099,37.76176,NA,2009,"Carduelis tristis","Spinus_tristis",11.98,NA,"male",13.5,481,2.3765744382632,121.205481921794,"Spring",185238
+5,-76.4093,42.3687,NA,1995,"Carduelis tristis","Spinus_tristis",14.8999996185303,114,"male",7.8,851,10.5465598297466,54.0875746035748,"Spring",185239
+4,-76.376946,42.428834,NA,2004,"Carduelis tristis","Spinus_tristis",13.6,115,"male",7.3,1205,10.117802342526,55.6858671986844,"Spring",185240
+8,-76.4093,42.3687,NA,2011,"Carduelis tristis","Spinus_tristis",13,114,NA,8.9,1382,10.0607661314393,49.3195594454505,"Summer",185241
+10,-76.432303,42.455367,NA,2011,"Carduelis tristis","Spinus_tristis",12.7,105,NA,9.2,1328,10.0590190195845,49.9569586727039,"Fall",185242
+9,-76.410842,42.407817,NA,2001,"Carduelis tristis","Spinus_tristis",13.1999998092651,NA,"female",8.6,874,9.23042974803088,61.0295224690406,"Fall",185243
+9,-76.342731,42.477973,NA,2006,"Carduelis tristis","Spinus_tristis",14.4,110,"male",8.9,1197,8.60670985600505,54.5290443834364,"Fall",185244
+11,-76.342731,42.477973,NA,2006,"Carduelis tristis","Spinus_tristis",14.8,115,"male",8.9,1197,8.60670985600505,54.5290443834364,"Fall",185245
+5,-76.410842,42.407817,NA,2004,"Carduelis tristis","Spinus_tristis",14.8,NA,"male",7.5,1185,10.038060147018,55.714477724282,"Spring",185246
+4,-76.526016,42.455753,NA,2009,"Carduelis tristis","Spinus_tristis",13.7,120,"male",8.4,877,9.39790434408683,46.7419186420464,"Spring",185247
+9,-76.250233,42.084879,NA,2012,"Carduelis tristis","Spinus_tristis",9.35,122,"male",10,994,8.68047268647313,39.4999154197592,"Fall",185248
+12,-108.3347222222,36.7330555556,NA,2003,"Carduelis tristis","Spinus_tristis",12.5,NA,"female",12.5,190,9.27434960555513,85.2001839624001,"Winter",185249
+7,-79.00401,43.84726,"ad",1992,"Carduelis tristis tristis","Spinus_tristis",10.6,NA,"male",7.2,917,8.94381028556859,40.0497739209174,"Summer",185250
+5,-77.27931,43.96989,"ad",1930,"Carduelis tristis tristis","Spinus_tristis",13,NA,"male",7.6,614,10.0987960578567,37.834508424039,"Spring",185251
+7,-77.27931,43.96989,NA,1930,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",7.6,614,10.0987960578567,37.834508424039,"Summer",185252
+7,-77.27931,43.96989,"ad",1930,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",7.6,614,10.0987960578567,37.834508424039,"Summer",185253
+9,-81.09012,42.94542,"ad",1942,"Carduelis tristis tristis","Spinus_tristis",15.6,32,"male",7.6,1057,10.0332628609223,37.332804673317,"Fall",185254
+7,-94.98538,49.92533,"ad",1947,"Carduelis tristis pallida","Spinus_tristis",13.5,NA,"female",1.5,630,13.7715781098741,62.1606433222123,"Summer",185255
+7,-94.98538,49.92533,"ad",1947,"Carduelis tristis pallida","Spinus_tristis",13.5,NA,"male",1.5,630,13.7715781098741,62.1606433222123,"Summer",185256
+1,-96.2208333,30.4716667,NA,2009,"Carduelis tristis","Spinus_tristis",13,NA,"female",20.4,1087,7.47068513348249,100.477395090901,"Winter",185257
+12,-96.22864,30.47186,NA,2008,"Carduelis tristis","Spinus_tristis",14,NA,NA,20,868,7.11917491814547,41.7530559951862,"Winter",185258
+6,-85.8666667,45.4333333,NA,1939,"Carduelis tristis tristis","Spinus_tristis",13,NA,"female",6.2,745,10.3249036975478,45.2009596309946,"Summer",185261
+7,-83.95,42.45,NA,1946,"Carduelis tristis tristis","Spinus_tristis",12.2,NA,"female",9.8,623,9.00493130894333,43.6993001397706,"Summer",185262
+6,-83.6833333,42.2833333,NA,1947,"Carduelis tristis tristis","Spinus_tristis",11.7,NA,"male",8.8,718,10.6281786689057,60.9365717669267,"Summer",185263
+4,-83.6561111,42.3127778,NA,1948,"Carduelis tristis","Spinus_tristis",15,NA,"male",9.3,733,10.4545335968312,42.8516163598439,"Spring",185264
+2,-83.9166667,42.6166667,NA,1938,"Carduelis tristis tristis","Spinus_tristis",15,NA,"male",9.7,670,9.55086859448348,50.2221197298054,"Winter",185265
+4,-102.9666667,36.9666667,NA,1959,"Carduelis tristis","Spinus_tristis",13,NA,"female",11.9,370,9.3842671369143,78.0918794719204,"Spring",185266
+4,-102.9666667,36.9666667,NA,1959,"Carduelis tristis tristis","Spinus_tristis",15,NA,"male",11.9,370,9.3842671369143,78.0918794719204,"Spring",185267
+2,-83.95,42.45,NA,1949,"Carduelis tristis","Spinus_tristis",13.7,NA,"male",10,807,9.82504530022713,23.946603124971,"Winter",185268
+2,-83.95,42.45,NA,1949,"Carduelis tristis","Spinus_tristis",13.6,NA,"female",10,807,9.82504530022713,23.946603124971,"Winter",185269
+4,-83.6561111,42.3127778,NA,1949,"Carduelis tristis","Spinus_tristis",14.6,NA,"female",10.5,841,9.73884754553389,23.8253832581416,"Spring",185270
+3,-83.8166667,42.2833333,NA,1960,"Carduelis tristis tristis","Spinus_tristis",14.4,NA,"female",8.8,685,10.5950674629969,62.2700307591246,"Spring",185271
+5,-83.75,42.3833333,NA,1935,"Carduelis tristis tristis","Spinus_tristis",12,NA,"female",8.5,644,10.2368762991274,44.4396413243119,"Spring",185272
+5,-83.6833333,42.2833333,NA,1939,"Carduelis tristis tristis","Spinus_tristis",14,NA,"male",10.2,663,10.246104211609,64.8428073194776,"Spring",185273
+5,-83.8333333,42.2833333,NA,1941,"Carduelis tristis tristis","Spinus_tristis",10.5,NA,"female",10.1,683,10.353871329853,50.019951597166,"Spring",185274
+7,-83.75,42.4166667,NA,1948,"Carduelis tristis tristis","Spinus_tristis",12.8,NA,"female",8.9,707,10.4646012245034,43.6195125673592,"Summer",185275
+2,-83.6833333,42.3166667,NA,1949,"Carduelis tristis tristis","Spinus_tristis",16,NA,"male",10.4,840,9.74515808289461,23.201411921501,"Winter",185277
+1,-82.4333333,42.9666667,NA,1979,"Carduelis tristis tristis","Spinus_tristis",12.4,NA,"male",8,744,10.4191657608234,53.0098703378016,"Winter",185278
+5,-82.4333333,42.9666667,NA,1979,"Carduelis tristis tristis","Spinus_tristis",14.9,NA,"female",8,744,10.4191657608234,53.0098703378016,"Spring",185279
+6,-83.7666667,42.3166667,NA,1980,"Carduelis tristis","Spinus_tristis",12.5,NA,"female",8.4,917,10.7258785046713,51.5880440298199,"Summer",185280
+5,-82.4333333,42.9666667,NA,1980,"Carduelis tristis tristis","Spinus_tristis",12,NA,"male",8,858,10.5255929077941,50.4607800930577,"Spring",185281
+7,-83.8333333,42.3333333,NA,1981,"Carduelis tristis tristis","Spinus_tristis",9.8,NA,"male",8.7,891,10.1118404942828,56.1983741443016,"Summer",185282
+8,-82.4333333,42.9666667,NA,1983,"Carduelis tristis","Spinus_tristis",10.7,NA,"male",9,899,10.1251561903404,40.1411650467837,"Summer",185283
+7,-83.9666667,42.2,NA,1983,"Carduelis tristis tristis","Spinus_tristis",14.3,NA,"female",9.2,911,10.4356142825684,42.3212515211111,"Summer",185284
+5,-84.4333333,42.7166667,NA,1983,"Carduelis tristis tristis","Spinus_tristis",13.2,NA,"male",9.1,866,10.370423415569,37.6007940656428,"Spring",185285
+8,-83.8166667,42.3666667,NA,1964,"Carduelis tristis tristis","Spinus_tristis",11.8,NA,"male",9.5,632,9.67089902122796,61.8376516272314,"Summer",185286
+5,-83.6333333,42.2666667,"adult",1985,"Carduelis tristis","Spinus_tristis",11.2,NA,"male",9.2,1024,10.6073266560373,35.4203143636961,"Spring",185287
+10,-83.6333333,42.2666667,"juvenile",1986,"Carduelis tristis","Spinus_tristis",15.7,NA,"male",9.6,886,10.0044952017793,54.1778614021642,"Fall",185288
+3,-83.6333333,42.2666667,NA,1987,"Carduelis tristis","Spinus_tristis",15.2,NA,"male",10.7,855,9.8728699275368,63.2135144071633,"Spring",185289
+10,-84.1383333,42.3818333,"immature",2003,"Carduelis tristis tristis","Spinus_tristis",13.3,NA,"male",8.7,852,10.1764843307172,51.1414869468229,"Fall",185290
+2,-84.1383333,42.3818333,NA,2005,"Carduelis tristis tristis","Spinus_tristis",14.7,NA,"male",9.4,740,10.9539947051293,53.2312942359986,"Winter",185291
+10,-85.3361667,43.7106667,"immature",2004,"Carduelis tristis tristis","Spinus_tristis",8.5,NA,"female",7.3,1009,9.94419276246039,56.1767775927091,"Fall",185292
+11,-83.9183333,42.3591667,NA,2006,"Carduelis tristis tristis","Spinus_tristis",18.7,NA,"male",10.2,1077,8.80370101236699,31.3376389170208,"Fall",185293
+5,-83.9183333,42.3591667,NA,2007,"Carduelis tristis tristis","Spinus_tristis",11.7,NA,"male",9.8,871,10.7262916860084,45.9408426177647,"Spring",185294
+12,-83.73741,42.48311,"immature",2005,"Carduelis tristis","Spinus_tristis",13.5,NA,"male",9.2,763,10.9571444798139,53.0952579514185,"Winter",185295
+9,-83.7666667,42.3166667,"immature",2010,"Carduelis tristis tristis","Spinus_tristis",10.2,NA,"female",10.5,921,10.9130308541781,68.8530277700715,"Fall",185296
+11,-84.1383333,42.3818333,NA,2007,"Carduelis tristis","Spinus_tristis",14.1,NA,"female",9.7,887,10.7470926301023,50.0748701674525,"Fall",185297
+5,-83.8833333,42.45,NA,2011,"Carduelis tristis tristis","Spinus_tristis",9.5,NA,"male",9.8,1021,10.5859648362892,47.9266305117637,"Spring",185298
+9,-83.4833333,42.2,NA,2012,"Carduelis tristis tristis","Spinus_tristis",8.5,NA,"female",11.3,665,9.05128067282094,40.9903159847583,"Fall",185299
+10,-85.41681,43.58823,NA,2010,"Carduelis tristis tristis","Spinus_tristis",12.8,NA,"male",9,760,10.2448065187226,54.7772211562148,"Fall",185300
+10,-83.7833333,42.1666667,NA,2011,"Carduelis tristis tristis","Spinus_tristis",8.1,NA,"male",10.3,1094,10.5483698295332,49.5292649560583,"Fall",185301
+2,-83.7833333,42.1666667,NA,2012,"Carduelis tristis tristis","Spinus_tristis",8.2,NA,"male",11.5,694,9.15086930793513,38.3451716125559,"Winter",185302
+9,-83.15,42.65833,"juvenile",2012,"Carduelis tristis tristis","Spinus_tristis",7.25,NA,NA,11.1,644,9.18636588547496,40.1550659690102,"Fall",185303
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.9,NA,"female",9.1,479,11.6127248649005,51.9615242270663,"Summer",185304
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",11.6,NA,"male",9.1,479,11.6127248649005,51.9615242270663,"Summer",185305
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.6,NA,"male",9.1,479,11.6127248649005,51.9615242270663,"Summer",185306
+7,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",11.6,NA,"female",9.1,479,11.6127248649005,51.9615242270663,"Summer",185307
+8,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.3,NA,"male",9.1,479,11.6127248649005,51.9615242270663,"Summer",185308
+8,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.5,NA,"male",9.1,479,11.6127248649005,51.9615242270663,"Summer",185309
+8,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",13.6,NA,"female",9.1,479,11.6127248649005,51.9615242270663,"Summer",185310
+8,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",14.2,NA,"female",9.1,479,11.6127248649005,51.9615242270663,"Summer",185311
+8,-83.95,42.45,NA,1934,"Carduelis tristis tristis","Spinus_tristis",12.6,NA,"male",9.1,479,11.6127248649005,51.9615242270663,"Summer",185312
+8,-83.95,42.45,NA,1935,"Carduelis tristis tristis","Spinus_tristis",12.6,NA,"male",8.3,659,10.1889832067719,44.4104509785528,"Summer",185313
+9,-83.6166667,42.2,"immature",1937,"Carduelis tristis tristis","Spinus_tristis",11.2,NA,"male",9.1,856,10.0510628112834,57.3984502116482,"Fall",185314
+3,-85.51826,38.83061,"U-Ad.",1987,"Carduelis tristis tristis","Spinus_tristis",11.1,NA,"male",13,827,9.10934834511927,66.3862943831408,"Spring",185315
+4,-79.14378,43.85352,NA,1968,"Carduelis tristis tristis","Spinus_tristis",13.1,123,"male",7,829,10.6281323368547,38.5332917975817,"Spring",185316
+6,-83.6333333,42.2666667,NA,1987,"Carduelis tristis","Spinus_tristis",13.7,NA,"female",10.7,855,9.8728699275368,63.2135144071633,"Summer",185317

@@ -1,0 +1,353 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-106.35278,37.67889,NA,1999,"Perognathus flavus sanluisi","Perognathus_flavus",6.5,101,"male",6,303,7.34629880011738,103.772063777096,"Summer",189300
+6,-108.9679320976,37.3430183111,NA,2006,"Perognathus flavus hopiensis","Perognathus_flavus",8.5,116,"male",11.7,267,9.33206836665913,99.4684684992925,"Summer",189301
+5,-104.2248,40.3499,NA,2003,"Perognathus flavus","Perognathus_flavus",12,118,"male",10.5,311,9.87687841743166,81.2754697945043,"Spring",189302
+5,-103.961619,40.073424,NA,2003,"Perognathus flavus","Perognathus_flavus",14,120,"male",10.4,287,9.66120012621558,79.1831201977902,"Spring",189303
+9,-105.8099,37.1586,NA,2009,"Perognathus flavus","Perognathus_flavus",7.2,108,"male",6.1,288,8.76558352566756,66.6014886950764,"Fall",189304
+7,-105.814317,38.210439,NA,1982,"Perognathus flavus sanluisi","Perognathus_flavus",7.5,99,"male",3.1,468,7.70082640193423,75.2909285267066,"Summer",189305
+8,-106.256089,42.88525,NA,1991,"Perognathus flavus piperi","Perognathus_flavus",8.8,116,"female",8.6,357,9.35160008995382,94.3261359885958,"Summer",189306
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",5,100,"male",24.6,362,5.66912825322511,168.669419812616,"Summer",189307
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",6,102,"female",24.6,362,5.66912825322511,168.669419812616,"Summer",189308
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",5,105,"female",24.6,362,5.66912825322511,168.669419812616,"Summer",189309
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",7,102,"male",24.6,362,5.66912825322511,168.669419812616,"Summer",189310
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",5,97,"female",24.6,362,5.66912825322511,168.669419812616,"Summer",189311
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",8,98,"female",24.6,362,5.66912825322511,168.669419812616,"Summer",189312
+6,-104.822346,38.279138,NA,1980,"Perognathus flavus bunkeri","Perognathus_flavus",7.5,104,"male",12,321,9.37044030529791,121.612041494104,"Summer",189313
+7,-107.909101086,34.815772,NA,2003,"Perognathus flavus flavus","Perognathus_flavus",6,111,"male",10,238,8.07558985555554,77.8267217615777,"Summer",189314
+6,-106.269879,35.790625,NA,2003,"Perognathus flavus flavus","Perognathus_flavus",7.9,115,"female",11.8,270,8.50316785888434,60.5550783446483,"Summer",189315
+5,-106.774639,35.120948,NA,2002,"Perognathus flavus","Perognathus_flavus",8,110,"undetermined",13.3,217,8.85524583441243,95.1105446976432,"Spring",189316
+5,-109.5577958096,35.706371,NA,2004,"Perognathus flavus","Perognathus_flavus",9,118,"female",10.2,263,8.67771440373139,75.381964879685,"Spring",189317
+9,-106.880828,33.799122,NA,1994,"Perognathus flavus","Perognathus_flavus",8.1,111,"male",15.6,232,8.97931545612504,77.5945120731833,"Fall",189318
+6,-109.032925,37.360652,NA,1981,"Perognathus flavus hopiensis","Perognathus_flavus",7,112,"male",12.4,280,9.18184555951514,60.0092757208562,"Summer",189319
+11,-109.075814,31.928533,NA,2005,"Perognathus flavus","Perognathus_flavus",7,96,"male",17.3,237,7.39186694751042,105.174840611426,"Fall",189320
+4,-106.4790277778,35.2866388889,NA,2006,"Perognathus flavus","Perognathus_flavus",9,126,"male",12.4,371,8.11490865162649,120.893396095016,"Spring",189321
+9,-106.72,34.33,NA,1998,"Perognathus flavus","Perognathus_flavus",7,111,"male",13.7,274,8.64673699184037,122.046852626742,"Fall",189322
+10,-106.935975,34.29136,NA,1998,"Perognathus flavus","Perognathus_flavus",9.8,131,"female",13.9,243,8.68650555677476,115.482343173423,"Fall",189323
+10,-106.931769,34.294287,NA,1998,"Perognathus flavus","Perognathus_flavus",6.6,111,"female",13.9,241,8.71638564933188,114.851683012958,"Fall",189324
+10,-106.935975,34.29136,NA,1998,"Perognathus flavus","Perognathus_flavus",15.2,166,"male",13.9,243,8.68650555677476,115.482343173423,"Fall",189325
+6,-106.931769,34.294287,NA,1997,"Perognathus flavus","Perognathus_flavus",9.8,135,"male",13.6,318,9.03920752761395,78.1392533694507,"Summer",189326
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",6.9,114,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189327
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",7.7,125,"female",13.7,270,8.62120360014491,120.78770889438,"Fall",189328
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",8.4,126,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189329
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",6.8,107,"male",13.7,272,8.64443681675029,120.84642187827,"Fall",189330
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",8.1,106,"female",13.7,270,8.62120360014491,120.78770889438,"Fall",189331
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",7,11,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189332
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",7,114,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189333
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",7.1,112,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189334
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",6.6,108,"female",13.7,270,8.62120360014491,120.78770889438,"Fall",189335
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",7.3,106,"female",13.7,270,8.62120360014491,120.78770889438,"Fall",189336
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",8.3,125,"male",13.7,272,8.64443681675029,120.84642187827,"Fall",189337
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",8.1,118,"female",13.7,272,8.64443681675029,120.84642187827,"Fall",189338
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",7.3,119,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189339
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",7.9,120,"male",13.7,272,8.64443681675029,120.84642187827,"Fall",189340
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",6.8,120,"male",13.7,272,8.64443681675029,120.84642187827,"Fall",189341
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",6.8,120,"female",13.8,269,8.65493378298637,121.149361891715,"Fall",189342
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",7.9,119,"female",13.8,269,8.65493378298637,121.149361891715,"Fall",189343
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",6.4,110,"male",13.8,269,8.65493378298637,121.149361891715,"Fall",189344
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",6.1,114,"male",13.8,269,8.65493378298637,121.149361891715,"Fall",189345
+10,-106.923832,34.295043,NA,1998,"Perognathus flavus","Perognathus_flavus",6.9,117,"male",14,240,8.69764858505395,114.952219978034,"Fall",189346
+10,-106.923832,34.295043,NA,1998,"Perognathus flavus","Perognathus_flavus",5.8,114,"female",14,240,8.69764858505395,114.952219978034,"Fall",189347
+10,-106.904267,34.288474,NA,1998,"Perognathus flavus","Perognathus_flavus",6.8,112,"female",14.1,237,8.69430325505783,114.977864812337,"Fall",189348
+10,-106.904267,34.288474,NA,1998,"Perognathus flavus","Perognathus_flavus",5.8,106,"female",14.1,237,8.69430325505783,114.977864812337,"Fall",189349
+10,-106.904267,34.288474,NA,1998,"Perognathus flavus","Perognathus_flavus",7.5,112,"male",14.1,237,8.69430325505783,114.977864812337,"Fall",189350
+10,-106.904267,34.288474,NA,1998,"Perognathus flavus","Perognathus_flavus",6.5,108,"female",14.1,237,8.69430325505783,114.977864812337,"Fall",189351
+10,-106.931769,34.294287,NA,1998,"Perognathus flavus","Perognathus_flavus",7.4,120,"male",13.9,241,8.71638564933188,114.851683012958,"Fall",189352
+10,-106.931769,34.294287,NA,1998,"Perognathus flavus","Perognathus_flavus",7.2,115,"female",13.9,241,8.71638564933188,114.851683012958,"Fall",189353
+10,-107.30428,33.55582,NA,2012,"Perognathus flavus","Perognathus_flavus",5.8,105,"male",14.5,207,7.54893129100826,124.933422144791,"Fall",189354
+10,-107.30043,33.5554,NA,2012,"Perognathus flavus","Perognathus_flavus",6.5,105,"female",14.6,205,7.57663873663345,124.587036193044,"Fall",189355
+5,-105.1049166667,37.7994,"adult",2012,"Perognathus flavus","Perognathus_flavus",6.7,114,"male",9.3,195,8.28596385278725,65.6592340712814,"Spring",189356
+6,-102.9676758,38.0487032,NA,1979,"Perognathus flavus","Perognathus_flavus",5.7,101,"male",11.4,390,10.7006371942813,81.8969748923355,"Summer",189373
+3,-110.34734,31.5528,NA,1997,"Perognathus flavus","Perognathus_flavus",5.5,99,"male",16.8,455,7.10247502742189,99.0358056981848,"Spring",189374
+6,-106.9299316,34.0162419,NA,1999,"Perognathus flavus","Perognathus_flavus",6,102.5,"male",14.3,267,7.18876965070582,120.018820757269,"Summer",189375
+6,-106.883331,34.349998,NA,1993,"Perognathus flavus","Perognathus_flavus",6,109,"male",14.2,207,8.76152055434686,153.817563508056,"Summer",189377
+7,-107.029218,34.418171,NA,1994,"Perognathus flavus","Perognathus_flavus",6.1,117,"female",13.6,314,8.82805445466584,81.654325564175,"Summer",189378
+1,-103.7474221583,26.6855533417,NA,1997,"Perognathus flavus","Perognathus_flavus",6.5,111,"female",19.3,319,5.70536031847563,95.8722245038672,"Winter",189379
+7,-100.5812759,34.196228,NA,1997,"Perognathus flavus gilvus","Perognathus_flavus",7,113,"male",15.9,672,8.88556882441036,63.5197636471334,"Summer",189380
+8,-100.68367,34.5467567,NA,1997,"Perognathus flavus gilvus","Perognathus_flavus",6,103,"female",16,672,9.0267112035068,65.9330773319159,"Summer",189381
+7,-105.8755341,32.2504349,NA,1994,"Perognathus flavus","Perognathus_flavus",7,104,"female",17.2,282,8.23489894328161,76.9281418587229,"Summer",189382
+8,-102.9201431,36.8769226,"adult",1999,"Perognathus flavus","Perognathus_flavus",7,119,"female",12.8,587,7.7921094510389,89.0666443337074,"Summer",189383
+7,-102.9201431,36.8769226,"adult",1999,"Perognathus flavus","Perognathus_flavus",5,110,"female",12.8,587,7.7921094510389,89.0666443337074,"Summer",189384
+11,-110.9846,32.101,"unknown",1950,"Perognathus flavus","Perognathus_flavus",10.2,144,"male",20.3,202,6.50153245338545,159.631098245569,"Fall",189385
+11,-110.9846,32.101,"unknown",1950,"Perognathus flavus","Perognathus_flavus",17,178,"female",20.3,202,6.50153245338545,159.631098245569,"Fall",189386
+11,-110.9846,32.101,"unknown",1950,"Perognathus flavus","Perognathus_flavus",16.7,186,"female",20.3,202,6.50153245338545,159.631098245569,"Fall",189387
+5,-110.7055,32.368,"unknown",1952,"Perognathus flavus","Perognathus_flavus",11.8,145,"male",12.7,646,7.71266176589843,93.6566606561125,"Spring",189388
+5,-110.7055,32.368,"unknown",1952,"Perognathus flavus","Perognathus_flavus",13.6,152,"male",12.7,646,7.71266176589843,93.6566606561125,"Spring",189389
+6,-104.6963463,32.2431602,NA,1965,"Perognathus flavus","Perognathus_flavus",5.8,109,"female",15.1,354,7.07730046120566,92.0489506911387,"Summer",189390
+7,-105.814317,38.210439,NA,1982,"Perognathus flavus sanluisi","Perognathus_flavus",7.5,110,"female",3.1,468,7.70082640193423,75.2909285267066,"Summer",189391
+3,-103.394632,29.424097,NA,1993,"Perognathus flavus gilvus","Perognathus_flavus",6,129,"male",18.5,310,6.89193643896894,129.535090623973,"Spring",189392
+6,-106.026409,26.787519,NA,1963,"Perognathus flavus flavus Baird, 1855","Perognathus_flavus",7,98,"female",15.9,466,4.8876157662799,136.008347013144,"Summer",189393
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",7,102,"female",24.6,362,5.66912825322511,168.669419812616,"Summer",189394
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",6,96,"male",24.6,362,5.66912825322511,168.669419812616,"Summer",189395
+10,-103.6911672,23.5832728,NA,1973,"Perognathus flavus medius Baker, 1954","Perognathus_flavus",9.5,114,"female",15,718,3.52990471156479,131.697069086479,"Fall",189396
+8,-109.1621,31.9935,NA,1970,"Perognathus flavus flavus Baird, 1855","Perognathus_flavus",8.2,111,"male",15.2,241,7.39882771222249,105.55030807404,"Summer",189397
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",4,89,"female",24.6,362,5.66912825322511,168.669419812616,"Summer",189398
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",6,101,"male",24.6,362,5.66912825322511,168.669419812616,"Summer",189399
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",5,98,"male",24.6,362,5.66912825322511,168.669419812616,"Summer",189400
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",5,90,"female",24.6,362,5.66912825322511,168.669419812616,"Summer",189401
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",6,95,"male",24.6,362,5.66912825322511,168.669419812616,"Summer",189402
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",5,105,"male",24.6,362,5.66912825322511,168.669419812616,"Summer",189403
+7,-110.7475,28.07556,NA,1960,"Perognathus flavus sonoriensis Nelson and Goldman, 1934","Perognathus_flavus",5,96,"female",24.6,362,5.66912825322511,168.669419812616,"Summer",189404
+10,-103.6911672,23.5832728,NA,1973,"Perognathus flavus medius Baker, 1954","Perognathus_flavus",10.5,109,"female",15,718,3.52990471156479,131.697069086479,"Fall",189405
+6,-104.822346,38.279138,NA,1980,"Perognathus flavus cf.","Perognathus_flavus",7.5,111,"male",12,321,9.37044030529791,121.612041494104,"Summer",189406
+7,-107.9094213108,34.813069,NA,2003,"Perognathus flavus flavus","Perognathus_flavus",9,121,"male",10,239,8.07558985555554,77.9279196120631,"Summer",189407
+6,-106.377514,34.452638,NA,2002,"Perognathus flavus","Perognathus_flavus",8.2,116,"male",12.3,302,8.64184674427377,99.4580848492356,"Summer",189408
+5,-109.039614352,37.318603,NA,2005,"Perognathus flavus hopiensis","Perognathus_flavus",8,116,"female",12.1,302,9.2378790363865,80.078944824845,"Spring",189409
+6,-104.40333,33.45966,NA,2000,"Perognathus flavus","Perognathus_flavus",7,107,"male",16.4,256,9.01931849202622,110.734248828609,"Summer",189410
+2,-106.4819833,35.2834,NA,2006,"Perognathus flavus","Perognathus_flavus",6,115,"male",12.3,374,8.10424505298229,120.238831221453,"Winter",189411
+2,-106.423902,35.292442,NA,2006,"Perognathus flavus","Perognathus_flavus",7,112,"male",11.4,447,8.01095367530476,117.364738754639,"Winter",189412
+10,-107.3344333333,33.5625666667,NA,2010,"Perognathus flavus","Perognathus_flavus",6,106,"female",13.2,314,7.74436256351364,117.676957894462,"Fall",189413
+6,-106.72,34.33,NA,1998,"Perognathus flavus","Perognathus_flavus",7.1,113,"female",13.7,274,8.64673699184037,122.046852626742,"Summer",189414
+9,-106.72,34.33,NA,1998,"Perognathus flavus","Perognathus_flavus",7.5,116,"female",13.7,274,8.64673699184037,122.046852626742,"Fall",189415
+9,-106.72,34.33,NA,1998,"Perognathus flavus","Perognathus_flavus",7,122,"female",13.7,274,8.64673699184037,122.046852626742,"Fall",189416
+5,-106.720344,34.336205,NA,1995,"Perognathus flavus","Perognathus_flavus",8,118,"undetermined",14.5,134,8.1509759594118,83.8006331263431,"Spring",189417
+10,-106.931769,34.294287,NA,1998,"Perognathus flavus","Perognathus_flavus",6.6,115,"female",13.9,241,8.71638564933188,114.851683012958,"Fall",189418
+6,-106.931769,34.294287,NA,1997,"Perognathus flavus","Perognathus_flavus",6.2,109,"female",13.6,318,9.03920752761395,78.1392533694507,"Summer",189419
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",7.6,111,"female",13.7,270,8.62120360014491,120.78770889438,"Fall",189420
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",8.5,121,"female",13.7,270,8.62120360014491,120.78770889438,"Fall",189421
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",8.2,124,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189422
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",6.6,105,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189423
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",8.6,116,"female",13.7,272,8.64443681675029,120.84642187827,"Fall",189424
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",7.2,120,"male",13.7,272,8.64443681675029,120.84642187827,"Fall",189425
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",8.6,119,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189426
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",8.4,112,"female",13.7,270,8.62120360014491,120.78770889438,"Fall",189427
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",7.9,122,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189428
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",7.3,126,"undetermined",13.7,270,8.62120360014491,120.78770889438,"Fall",189429
+9,-106.725265,34.335185,NA,1998,"Perognathus flavus","Perognathus_flavus",6.7,110,"male",13.7,270,8.62120360014491,120.78770889438,"Fall",189430
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",6.8,118,"male",13.7,272,8.64443681675029,120.84642187827,"Fall",189431
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",7.8,111,"female",13.7,272,8.64443681675029,120.84642187827,"Fall",189432
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",8.6,122,"female",13.7,272,8.64443681675029,120.84642187827,"Fall",189433
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",7.6,111,"female",13.7,272,8.64443681675029,120.84642187827,"Fall",189434
+9,-106.720344,34.336205,NA,1998,"Perognathus flavus","Perognathus_flavus",8.5,120,"male",13.7,272,8.64443681675029,120.84642187827,"Fall",189435
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",6.8,118,"male",13.8,269,8.65493378298637,121.149361891715,"Fall",189436
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",7,100,"male",13.8,269,8.65493378298637,121.149361891715,"Fall",189437
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",6.8,118,"male",13.8,269,8.65493378298637,121.149361891715,"Fall",189438
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",7.6,125,"male",13.8,269,8.65493378298637,121.149361891715,"Fall",189439
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",6.5,110,"male",13.8,269,8.65493378298637,121.149361891715,"Fall",189440
+10,-106.732365,34.331126,NA,1998,"Perognathus flavus","Perognathus_flavus",6.3,106,"male",13.8,269,8.65493378298637,121.149361891715,"Fall",189441
+10,-106.904267,34.288474,NA,1998,"Perognathus flavus","Perognathus_flavus",7.3,119,"female",14.1,237,8.69430325505783,114.977864812337,"Fall",189442
+10,-106.923832,34.295043,NA,1998,"Perognathus flavus","Perognathus_flavus",7.2,123,"female",14,240,8.69764858505395,114.952219978034,"Fall",189443
+10,-106.904267,34.288474,NA,1998,"Perognathus flavus","Perognathus_flavus",9.4,129,"female",14.1,237,8.69430325505783,114.977864812337,"Fall",189444
+10,-106.923832,34.295043,NA,1998,"Perognathus flavus","Perognathus_flavus",6.7,115,"female",14,240,8.69764858505395,114.952219978034,"Fall",189445
+5,-106.44985,37.8248333333,"adult",2012,"Perognathus flavus","Perognathus_flavus",7.4,113,"female",3.9,332,8.12082993221006,62.3444368393363,"Spring",189446
+10,-107.30185,33.55579,NA,2012,"Perognathus flavus","Perognathus_flavus",6.2,107,"female",14.6,205,7.57109735451309,124.587036193044,"Fall",189447
+10,-107.463304,33.01993498,NA,2012,"Perognathus flavus","Perognathus_flavus",5.4,102,"female",16.5,183,7.69301138972407,117.239426767539,"Fall",189448
+10,-107.465227,33.02066001,NA,2012,"Perognathus flavus","Perognathus_flavus",6.2,149,"male",16.5,184,7.69301138972407,117.239426767539,"Fall",189449
+5,-105.1102,37.7969666667,"adult",2012,"Perognathus flavus","Perognathus_flavus",8.6,115,"male",9.3,190,8.29396914887102,66.3408473961631,"Spring",189450
+10,-107.00145,34.4081,NA,1997,"Perognathus flavus","Perognathus_flavus",7,128,"male",12.9,357,8.75848938822423,79.4354046722179,"Fall",189461
+9,-104.9483758,37.8031972,NA,1988,"Perognathus flavus","Perognathus_flavus",3,155,"female",8.2,476,8.7371550740432,51.8351997926816,"Fall",189462
+10,-107.000865,34.408049,NA,1997,"Perognathus flavus","Perognathus_flavus",6,115,"female",12.9,356,8.77132034565268,79.7716841612473,"Fall",189463
+7,-107.000865,34.408049,NA,1998,"Perognathus flavus","Perognathus_flavus",8,114,"male",13.3,268,8.46366118213983,112.170482709712,"Summer",189464
+3,-105.8755341,32.2504349,NA,1997,"Perognathus flavus","Perognathus_flavus",7,116,"female",15.6,443,8.35164200875638,77.0719073799061,"Spring",189465
+5,-105.8755341,32.2504349,NA,1997,"Perognathus flavus","Perognathus_flavus",9,112,"female",15.6,443,8.35164200875638,77.0719073799061,"Spring",189466
+7,-100.5812759,34.196228,NA,1997,"Perognathus flavus gilvus","Perognathus_flavus",7,115,"female",15.9,672,8.88556882441036,63.5197636471334,"Summer",189467
+6,-100.68367,34.5467567,NA,1997,"Perognathus flavus gilvus","Perognathus_flavus",9,105,"male",16,672,9.0267112035068,65.9330773319159,"Summer",189468
+8,-100.68367,34.5467567,NA,1997,"Perognathus flavus gilvus","Perognathus_flavus",6,112,"female",16,672,9.0267112035068,65.9330773319159,"Summer",189469
+8,-105.8755341,32.2504349,NA,1994,"Perognathus flavus","Perognathus_flavus",7,101,"male",17.2,282,8.23489894328161,76.9281418587229,"Summer",189470
+7,-102.9201431,36.8769226,"adult",1999,"Perognathus flavus","Perognathus_flavus",7,121,"male",12.8,587,7.7921094510389,89.0666443337074,"Summer",189471
+7,-102.9201431,36.8769226,NA,1999,"Perognathus flavus","Perognathus_flavus",6,109,"female",12.8,587,7.7921094510389,89.0666443337074,"Summer",189472
+11,-110.9846,32.101,"unknown",1950,"Perognathus flavus","Perognathus_flavus",15.3,178,"male",20.3,202,6.50153245338545,159.631098245569,"Fall",189473
+11,-110.9846,32.101,"unknown",1950,"Perognathus flavus","Perognathus_flavus",18.4,188,"female",20.3,202,6.50153245338545,159.631098245569,"Fall",189474
+6,-104.9503,40.1404,NA,2003,"Perognathus flavus","Perognathus_flavus",12.4,120,"male",10.8,348,9.38833496064842,89.3556914602037,"Summer",189475
+5,-104.8913888889,39.8061111111,NA,1993,"Perognathus flavus bunkeri","Perognathus_flavus",6.8,113,"female",9.7,379,8.94816724082071,46.932807227305,"Spring",189476
+5,-104.8913888889,39.8061111111,NA,1993,"Perognathus flavus bunkeri","Perognathus_flavus",9.4,117,"male",9.7,379,8.94816724082071,46.932807227305,"Spring",189477
+8,-98.84736,37.29597,NA,1959,"Perognathus flavus","Perognathus_flavus",4.5,101,"male",13.4,713,10.42946002263,80.4324092763722,"Summer",189478
+8,-98.84736,37.29597,NA,1959,"Perognathus flavus","Perognathus_flavus",6.3,111,"male",13.4,713,10.42946002263,80.4324092763722,"Summer",189479
+6,-108.91,31.94,NA,1992,"Perognathus flavus flavus","Perognathus_flavus",3.7,113,"female",15,343,7.57501375136265,82.1648913716123,"Summer",189480
+7,-106.09,31.78,NA,1969,"Perognathus flavus flavus","Perognathus_flavus",9.2,112,"male",17.8,148,8.24218178676378,88.5212441333173,"Summer",189481
+10,-107.0014525278,34.4081131389,NA,1997,"Perognathus flavus","Perognathus_flavus",6,112,"male",12.9,357,8.75848938822423,79.4354046722179,"Fall",189482
+10,-107.0014525278,34.4081131389,NA,1997,"Perognathus flavus","Perognathus_flavus",7,103,"male",12.9,357,8.75848938822423,79.4354046722179,"Fall",189483
+10,-105.9273333333,33.6742833333,NA,2005,"Perognathus flavus","Perognathus_flavus",7.8,150,"male",14.9,346,7.54976921180477,65.2600650899849,"Fall",189484
+11,-106.6969833333,34.3107333333,NA,2005,"Perognathus flavus","Perognathus_flavus",7.4,116,"male",14.3,249,8.1840708178458,72.5602445620816,"Fall",189485
+11,-106.6969833333,34.3107333333,NA,2005,"Perognathus flavus","Perognathus_flavus",6.3,115,"female",14.3,249,8.1840708178458,72.5602445620816,"Fall",189486
+9,-105.7176833333,32.1362,NA,2006,"Perognathus flavus","Perognathus_flavus",8,13,"female",16.6,474,7.29860924900744,144.963228347046,"Fall",189487
+4,-106.4819444444,35.2833333333,NA,2006,"Perognathus flavus","Perognathus_flavus",9,1060,"male",12.3,374,8.10424505298229,119.702904954497,"Spring",189488
+10,-107.09692,34.0509,NA,2009,"Perognathus flavus","Perognathus_flavus",6,110,"male",12.9,281,7.55541146624341,95.5575217799363,"Fall",189489
+10,-108.7730722222,31.6052138889,"adult",2007,"Perognathus flavus","Perognathus_flavus",7,110,"female",14.5,425,7.45288229783985,90.0834885905317,"Fall",189490
+11,-108.33325,31.66906,NA,2013,"Perognathus flavus","Perognathus_flavus",5.5,116,"female",16.9,270,8.26078725428794,128.218388332648,"Fall",189491
+11,-108.33322,31.66924,NA,2013,"Perognathus flavus","Perognathus_flavus",6,112,"undetermined",16.9,270,8.26078725428794,128.218388332648,"Fall",189492
+11,-108.33366,31.66784,NA,2013,"Perognathus flavus","Perognathus_flavus",7,117,"male",16.9,271,8.25331430212717,128.218388332648,"Fall",189493
+11,-108.33132,31.669996,NA,2013,"Perognathus flavus","Perognathus_flavus",8,115,"male",17,270,8.27938293704198,128.708507538198,"Fall",189494
+6,-106.4811944444,35.2792777778,NA,2006,"Perognathus flavus","Perognathus_flavus",8,1170,"male",12,388,8.08509665240855,119.531059884225,"Summer",189495
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",8,122,"female",17.9,266,7.09263382287952,110.676721864136,"Spring",189497
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",6,109,"male",17.9,266,7.09263382287952,110.676721864136,"Spring",189498
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",7,108,"female",17.9,266,7.09263382287952,110.676721864136,"Spring",189499
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",8,112,"female",17.9,266,7.09263382287952,110.676721864136,"Spring",189500
+5,-103.3046167,25.9062667,NA,1997,"Perognathus flavus","Perognathus_flavus",6,100,"male",21.1,293,5.9316498292608,86.4938847835436,"Spring",189501
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",8.5,111,"female",17.9,266,7.09263382287952,110.676721864136,"Spring",189502
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",6,110,"female",17.9,266,7.09263382287952,110.676721864136,"Spring",189503
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",7,102,"male",17.9,266,7.09263382287952,110.676721864136,"Spring",189504
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",6,103,"female",17.9,266,7.09263382287952,110.676721864136,"Spring",189505
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",7.5,104,"male",17.9,266,7.09263382287952,110.676721864136,"Spring",189506
+5,-103.3046167,25.9062667,NA,1997,"Perognathus flavus","Perognathus_flavus",7,105,"female",21.1,293,5.9316498292608,86.4938847835436,"Spring",189507
+5,-102.29585,26.59615,NA,1997,"Perognathus flavus","Perognathus_flavus",5,108,"female",21.3,264,6.54950842476446,80.4011218284156,"Spring",189508
+4,-105.9283333,27.6866667,NA,1999,"Perognathus flavus","Perognathus_flavus",6,106,"female",17.8,394,5.61919734373859,168.078296851092,"Spring",189509
+4,-100.1433333,22.64,NA,1999,"Perognathus flavus","Perognathus_flavus",8,110,"male",21.7,370,3.5232023140113,115.14487351184,"Spring",189510
+9,-106.7188333,34.8293333,NA,2000,"Perognathus flavus","Perognathus_flavus",6,103,"male",14,227,8.85449295298977,93.3183065561333,"Fall",189511
+9,-106.7188333,34.8293333,NA,2000,"Perognathus flavus","Perognathus_flavus",6,99,"male",14,227,8.85449295298977,93.3183065561333,"Fall",189512
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",6.5,106,"female",13.7,249,8.75416351160285,92.1781595675188,"Fall",189513
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",5.5,101,"female",13.7,249,8.75416351160285,92.1781595675188,"Fall",189514
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",6,106,"male",13.7,249,8.75416351160285,92.1781595675188,"Fall",189515
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",7,106,"male",13.7,249,8.75416351160285,92.1781595675188,"Fall",189516
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",6.5,101,"male",13.7,249,8.75416351160285,92.1781595675188,"Fall",189517
+9,-106.6575,33.5641667,NA,2000,"Perognathus flavus","Perognathus_flavus",6,95,"male",15.8,224,8.33552092498778,95.1103558924043,"Fall",189518
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,109,"female",15.6,219,8.32183600808467,95.7080459135596,"Fall",189519
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",7,113,"female",15.6,219,8.32183600808467,95.7080459135596,"Fall",189520
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,114,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189521
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,113,"female",15.6,219,8.32183600808467,95.7080459135596,"Fall",189522
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,112,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189523
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,109,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189524
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,112,"female",15.6,219,8.32183600808467,95.7080459135596,"Fall",189525
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",5,107,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189526
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,111,"female",15.6,219,8.32183600808467,95.7080459135596,"Fall",189527
+7,-108.9841667,32.3466667,NA,2003,"Perognathus flavus","Perognathus_flavus",7,123,"female",16.8,179,7.8152919253722,88.5802723323012,"Summer",189528
+7,-108.9841667,32.3466667,NA,2003,"Perognathus flavus","Perognathus_flavus",6,116,"female",16.8,179,7.8152919253722,88.5802723323012,"Summer",189529
+7,-108.9922222,32.3477778,NA,2003,"Perognathus flavus","Perognathus_flavus",4,101,"female",16.7,181,7.7764212381228,88.8343064500341,"Summer",189530
+7,-108.9922222,32.3477778,NA,2003,"Perognathus flavus","Perognathus_flavus",5,111,"male",16.7,181,7.7764212381228,88.8343064500341,"Summer",189531
+7,-108.9988889,32.3455556,NA,2003,"Perognathus flavus","Perognathus_flavus",6,112,"female",16.6,182,7.74809360716909,87.7595690279681,"Summer",189532
+7,-103.3661111,29.5302778,NA,2004,"Perognathus flavus","Perognathus_flavus",5,115,"female",19.1,441,7.23807273862988,63.4649403027637,"Summer",189533
+7,-101.5461111,22.6402778,NA,2004,"Perognathus flavus","Perognathus_flavus",6,110,"female",16.6,573,2.93240773964249,105.199626534708,"Summer",189534
+7,-103.3661111,29.5302778,NA,2004,"Perognathus flavus","Perognathus_flavus",7,115,"male",19.1,441,7.23807273862988,63.4649403027637,"Summer",189535
+4,-106.352,29.7,NA,2006,"Perognathus flavus","Perognathus_flavus",7,105,"female",17.3,550,6.22465162710235,158.142766556297,"Spring",189536
+8,-105.405,29.407,NA,2006,"Perognathus flavus","Perognathus_flavus",6,111,"female",18,331,6.57928337259991,166.59569962291,"Summer",189537
+8,-105.405,29.407,NA,2006,"Perognathus flavus","Perognathus_flavus",7,115,"male",18,331,6.57928337259991,166.59569962291,"Summer",189538
+8,-105.405,29.407,NA,2006,"Perognathus flavus","Perognathus_flavus",6,115,"male",18,331,6.57928337259991,166.59569962291,"Summer",189539
+8,-105.405,29.407,NA,2006,"Perognathus flavus","Perognathus_flavus",6,112,"female",18,331,6.57928337259991,166.59569962291,"Summer",189540
+7,-104.53,25.004,NA,2008,"Perognathus flavus","Perognathus_flavus",6,118,"male",21.7,488,4.73167918172691,160.602457102083,"Summer",189541
+1,-112.0551111,34.2530278,NA,2002,"Perognathus flavus","Perognathus_flavus",30.4,225,"female",18.3,195,7.90064726922594,107.649214291719,"Winter",189542
+7,-104.8840027,31.8360004,NA,1973,"Perognathus flavus gilvus","Perognathus_flavus",5.6,104,"male",15.1,269,7.16690626801729,123.676529282106,"Summer",189543
+10,-104.8840027,31.8360004,NA,1973,"Perognathus flavus gilvus","Perognathus_flavus",5.5,99,"female",15.1,269,7.16690626801729,123.676529282106,"Fall",189544
+3,-104.9110031,31.8419991,NA,1974,"Perognathus flavus flavus","Perognathus_flavus",5.3,106,"male",15.7,410,7.53681871638401,125.682346148814,"Spring",189545
+4,-101.6399994,33.5289993,NA,1975,"Perognathus flavus flavus","Perognathus_flavus",9,110,"male",15,482,7.81053581369228,78.2970969773659,"Spring",189546
+4,-101.6399994,33.5289993,NA,1975,"Perognathus flavus flavus","Perognathus_flavus",8.5,112,"male",15,482,7.81053581369228,78.2970969773659,"Spring",189547
+11,-109.24,31.59222,NA,1956,"Perognathus flavus","Perognathus_flavus",6.3,119,"male",15.4,170,7.56390952303948,135.526185435788,"Fall",189548
+9,-109.163322,31.592197,NA,1959,"Perognathus flavus","Perognathus_flavus",7.5,113,"male",15.6,376,7.0538781510384,141.828475150924,"Fall",189549
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",7.5,109,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",189550
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",6.7,112,"female",15.4,162,7.58233093608044,131.71194777314,"Summer",189551
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",7.1,111,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",189552
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",38.3,105,"female",15.4,162,7.58233093608044,131.71194777314,"Summer",189553
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",36.4,75,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",189554
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",9.2,113,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",189555
+9,-110.891521,32.192645,NA,1957,"Perognathus flavus","Perognathus_flavus",9.4,122,"female",20,323,7.1275978783284,80.6590813664729,"Fall",189556
+10,-110.891521,32.192645,NA,1957,"Perognathus flavus","Perognathus_flavus",6.4,91,"male",20,323,7.1275978783284,80.6590813664729,"Fall",189557
+9,-110.891521,32.599001,NA,1957,"Perognathus flavus","Perognathus_flavus",10,129,"male",17.8,450,7.18095123267528,92.3766868876369,"Fall",189558
+6,-109.20333,31.8825,NA,1958,"Perognathus flavus","Perognathus_flavus",7.4,104,"male",12.3,659,7.17442849587507,101.76098376186,"Summer",189559
+10,-109.144457,31.916689,NA,1958,"Perognathus flavus","Perognathus_flavus",7.7,120,"female",14.6,464,7.41188644044555,97.3029542893865,"Fall",189560
+10,-108.175992,32.682737,NA,1962,"Perognathus flavus","Perognathus_flavus",6.5,100,"male",13.2,348,7.34258541700814,114.09952625465,"Fall",189561
+10,-109.15292,31.923872,NA,1964,"Perognathus flavus","Perognathus_flavus",7.1,109,"female",13.7,351,7.72404255123788,134.854941650536,"Fall",189562
+7,-113.07981,32.086939,NA,1968,"Perognathus flavus","Perognathus_flavus",11.8,132,"female",21.3,140,7.58760452476553,133.918395551625,"Summer",189563
+10,-109.229979,31.589005,NA,1969,"Perognathus flavus","Perognathus_flavus",30,158,"male",15.6,339,7.39477702657269,126.321463100347,"Fall",189564
+10,-109.2084,31.619,NA,1969,"Perognathus flavus","Perognathus_flavus",8.7,110,"female",15.5,344,7.38579718107666,124.487246679213,"Fall",189565
+10,-109.2084,31.619,NA,1969,"Perognathus flavus","Perognathus_flavus",8.2,114,"female",15.5,344,7.38579718107666,124.487246679213,"Fall",189566
+7,-109.65944,36.09667,NA,1970,"Perognathus flavus","Perognathus_flavus",7.5,104,"male",11,175,9.03406012954543,91.9879770123249,"Summer",189567
+4,-110.319424,31.553762,NA,1971,"Perognathus flavus","Perognathus_flavus",8.1,102,"male",16.3,435,6.89327186245378,132.058693135295,"Spring",189568
+2,-109.550709,31.876018,NA,1970,"Perognathus flavus","Perognathus_flavus",6.2,97,"female",15.4,282,7.29899847841324,123.56140986146,"Winter",189569
+8,-109.653551,36.072353,NA,1970,"Perognathus flavus","Perognathus_flavus",7.9,113,"male",10.9,176,8.98211606977493,92.7136953936343,"Summer",189570
+1,-111.3468,32.2828,NA,1972,"Perognathus flavus","Perognathus_flavus",6.6,95,"male",20,356,7.83455341884445,128.284480357793,"Winter",189571
+12,-110.9011,31.892,NA,1971,"Perognathus flavus","Perognathus_flavus",5.7,89,"female",17.8,377,7.40206768819403,127.463021936198,"Winter",189572
+12,-110.85222,31.83333,NA,1971,"Perognathus flavus","Perognathus_flavus",7.2,95,"male",17.1,455,7.05362038998843,127.114105630742,"Winter",189573
+12,-110.85222,31.83333,NA,1971,"Perognathus flavus","Perognathus_flavus",6.2,98,"male",17.1,455,7.05362038998843,127.114105630742,"Winter",189574
+6,-108.938699,35.053461,NA,1973,"Perognathus flavus","Perognathus_flavus",10,121,"male",9.5,338,8.41290494995455,66.0690217919996,"Summer",189575
+10,-108.49833,36.36944,NA,1973,"Perognathus flavus","Perognathus_flavus",10,125,"male",10.3,205,9.37335035991384,63.3641279343873,"Fall",189576
+10,-108.49833,36.36944,NA,1973,"Perognathus flavus","Perognathus_flavus",12,128,"female",10.3,205,9.37335035991384,63.3641279343873,"Fall",189577
+10,-108.49833,36.36944,NA,1973,"Perognathus flavus","Perognathus_flavus",10,120,"female",10.3,205,9.37335035991384,63.3641279343873,"Fall",189578
+4,-110.50611,31.59056,NA,1974,"Perognathus flavus","Perognathus_flavus",8.3,105,"female",14.9,393,7.08114761286273,118.438972832358,"Spring",189579
+7,-109.071814,31.931636,NA,1982,"Perognathus flavus","Perognathus_flavus",8.5,102,"male",16.3,320,7.32969779028915,91.9717718551829,"Summer",189580
+7,-110.2249,34.3796,NA,1996,"Perognathus flavus","Perognathus_flavus",6.9,105,"male",11.1,328,7.68021365706592,129.714150007796,"Summer",189581
+8,-110.2249,34.3796,NA,1996,"Perognathus flavus","Perognathus_flavus",4.9,98,"male",11.1,328,7.68021365706592,129.714150007796,"Summer",189582
+11,-109.35611,32.00444,NA,2002,"Perognathus flavus","Perognathus_flavus",6.4,103,"male",14.4,366,7.17095889788468,120.735391455137,"Fall",189583
+6,-104.9037,38.4,NA,2007,"Perognathus flavus","Perognathus_flavus",7.6,82,"male",11.8,362,9.65588217647982,75.5763214220227,"Summer",189584
+7,-112.6916666667,32.8622222222,NA,2008,"Perognathus flavus","Perognathus_flavus",3.75,94,"female",22.6,117,8.33944170066485,109.39192016768,"Summer",189585
+4,-104.4021,40.6541,NA,2003,"Perognathus flavus","Perognathus_flavus",11,115,"male",10,339,9.49730424272003,84.3568893575595,"Spring",189586
+5,-104.8913888889,39.8061111111,NA,1993,"Perognathus flavus bunkeri","Perognathus_flavus",9.1,127,"male",9.7,379,8.94816724082071,46.932807227305,"Spring",189587
+10,-104.8372222222,39.8155555556,NA,1991,"Perognathus flavus bunkeri","Perognathus_flavus",7.4,113,"female",10.7,479,8.65608911621633,75.8212611103484,"Fall",189588
+11,-98.92122,37.33798,NA,1962,"Perognathus flavus","Perognathus_flavus",7.4,111,"female",14.1,641,10.2476124344191,83.22767289989,"Fall",189589
+4,-99.71,34.88,NA,1968,"Perognathus flavus bunkeri","Perognathus_flavus",7,112,"male",15.6,689,9.23042974803088,63.4187470601844,"Spring",189590
+10,-105.9318833333,33.6742,NA,2005,"Perognathus flavus","Perognathus_flavus",6.6,118,"male",14.9,345,7.54951332968897,65.2600650899849,"Fall",189591
+10,-105.9273333333,33.6742833333,NA,2005,"Perognathus flavus","Perognathus_flavus",7,105,"male",14.9,346,7.54976921180477,65.2600650899849,"Fall",189592
+11,-106.6969833333,34.3107333333,NA,2005,"Perognathus flavus","Perognathus_flavus",7.1,105,"male",14.3,249,8.1840708178458,72.5602445620816,"Fall",189593
+9,-105.7176833333,32.1362,NA,2006,"Perognathus flavus","Perognathus_flavus",9.5,115,"female",16.6,474,7.29860924900744,144.963228347046,"Fall",189594
+10,-108.7730722222,31.6052138889,NA,2007,"Perognathus flavus","Perognathus_flavus",7,99,"male",14.5,425,7.45288229783985,90.0834885905317,"Fall",189595
+11,-108.33337,31.66889,NA,2013,"Perognathus flavus","Perognathus_flavus",6.5,115,"male",16.9,270,8.26078725428794,128.218388332648,"Fall",189596
+11,-108.33334,31.66862,NA,2013,"Perognathus flavus","Perognathus_flavus",8.5,111,"female",16.9,270,8.26078725428794,128.218388332648,"Fall",189597
+3,-107.4684,32.9819,NA,2013,"Perognathus flavus","Perognathus_flavus",5,113,"female",15.7,258,8.30809663502837,143.55028585445,"Spring",189598
+4,-104.35736,32.18871,NA,2013,"Perognathus flavus","Perognathus_flavus",7,125,"female",17.6,293,8.40663518606078,121.137066106853,"Spring",189599
+8,-106.484229,35.313065,"adult",2013,"Perognathus flavus","Perognathus_flavus",5.8,112,"female",12.7,266,9.19885944840528,126.179688871436,"Summer",189600
+8,-106.484229,35.313065,NA,2013,"Perognathus flavus","Perognathus_flavus",7.7,121,"undetermined",12.7,266,9.19885944840528,126.179688871436,"Summer",189601
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",7.5,111,"male",17.9,266,7.09263382287952,110.676721864136,"Spring",189604
+5,-105.5428333,29.35765,NA,1997,"Perognathus flavus","Perognathus_flavus",5,102,"female",17.9,266,7.09263382287952,110.676721864136,"Spring",189605
+5,-101.70415,26.59615,NA,1997,"Perognathus flavus","Perognathus_flavus",6,112,"male",17.2,411,5.55605048300472,81.5017767528181,"Spring",189606
+5,-99.3625833,23.5904667,NA,1997,"Perognathus flavus","Perognathus_flavus",7,108,"male",21.1,403,4.24909081184113,82.7193735506062,"Spring",189607
+4,-104.8533333,26.0683333,NA,1999,"Perognathus flavus","Perognathus_flavus",6,103,"male",18.4,378,4.85338838213869,170.655630571575,"Spring",189608
+4,-104.8533333,26.0683333,NA,1999,"Perognathus flavus","Perognathus_flavus",8,108,"female",18.4,378,4.85338838213869,170.655630571575,"Spring",189609
+4,-101.8616667,26.965,NA,1999,"Perognathus flavus","Perognathus_flavus",5,105,"male",22.5,197,5.87325731729434,143.478310363285,"Spring",189610
+4,-101.8583333,27.0416667,NA,1999,"Perognathus flavus","Perognathus_flavus",6,111,"male",21.3,231,5.57501868457258,146.024843216795,"Spring",189611
+4,-101.8616667,26.965,NA,1999,"Perognathus flavus","Perognathus_flavus",6.5,113,"male",22.5,197,5.87325731729434,143.478310363285,"Spring",189612
+4,-100.0466667,22.6666667,NA,1999,"Perognathus flavus","Perognathus_flavus",8,105,"female",22.3,376,3.63576510225673,117.908562415582,"Spring",189613
+9,-106.7188333,34.8293333,NA,2000,"Perognathus flavus","Perognathus_flavus",5,100,"female",14,227,8.85449295298977,93.3183065561333,"Fall",189614
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",6,110,"female",13.7,249,8.75416351160285,92.1781595675188,"Fall",189615
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",5,96,"female",13.7,249,8.75416351160285,92.1781595675188,"Fall",189616
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",6,100,"male",13.7,249,8.75416351160285,92.1781595675188,"Fall",189617
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",6.5,110,"female",13.7,249,8.75416351160285,92.1781595675188,"Fall",189618
+9,-106.7948333,34.9033333,NA,2000,"Perognathus flavus","Perognathus_flavus",5.5,105,"female",13.7,249,8.75416351160285,92.1781595675188,"Fall",189619
+9,-106.6575,33.5641667,NA,2000,"Perognathus flavus","Perognathus_flavus",6,100,"male",15.8,224,8.33552092498778,95.1103558924043,"Fall",189620
+9,-106.6575,33.5641667,NA,2000,"Perognathus flavus","Perognathus_flavus",6,101,"male",15.8,224,8.33552092498778,95.1103558924043,"Fall",189621
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",7,115,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189622
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",7,120,"female",15.6,219,8.32183600808467,95.7080459135596,"Fall",189623
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,112,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189624
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",7,109,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189625
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,110,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189626
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,105,"female",15.6,219,8.32183600808467,95.7080459135596,"Fall",189627
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,110,"female",15.6,219,8.32183600808467,95.7080459135596,"Fall",189628
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",7,110,"female",15.6,219,8.32183600808467,95.7080459135596,"Fall",189629
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6,112,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189630
+9,-106.77,33.52,NA,2000,"Perognathus flavus","Perognathus_flavus",6.5,120,"male",15.6,219,8.32183600808467,95.7080459135596,"Fall",189631
+3,-103.6011111,32.1066667,NA,2002,"Perognathus flavus","Perognathus_flavus",7.5,121,"male",17.5,245,8.79942749515127,73.5867954894766,"Spring",189632
+7,-108.9922222,32.3477778,NA,2003,"Perognathus flavus","Perognathus_flavus",7,117,"female",16.7,181,7.7764212381228,88.8343064500341,"Summer",189633
+7,-106.9719444,29.9894444,NA,2004,"Perognathus flavus","Perognathus_flavus",8,121,"female",17.3,352,6.95502870176854,94.120698362557,"Summer",189634
+7,-106.9719444,29.9894444,NA,2004,"Perognathus flavus","Perognathus_flavus",7,122,"female",17.3,352,6.95502870176854,94.120698362557,"Summer",189635
+7,-103.3661111,29.5302778,NA,2004,"Perognathus flavus","Perognathus_flavus",6,114,"male",19.1,441,7.23807273862988,63.4649403027637,"Summer",189636
+7,-103.3661111,29.5302778,NA,2004,"Perognathus flavus","Perognathus_flavus",5,106,"male",19.1,441,7.23807273862988,63.4649403027637,"Summer",189637
+7,-102.295,24.6447222,NA,2004,"Perognathus flavus","Perognathus_flavus",6,106,"female",19.8,481,3.41772341381413,91.3647713576439,"Summer",189638
+7,-101.5344444,23.1641667,NA,2004,"Perognathus flavus","Perognathus_flavus",6,108,"male",16.6,462,2.92744329448484,119.811153837012,"Summer",189639
+8,-100.9411667,25.1840556,NA,2004,"Perognathus flavus","Perognathus_flavus",7,110,"male",14.5,456,4.09377761383238,77.8148432904242,"Summer",189640
+8,-105.405,29.407,NA,2006,"Perognathus flavus","Perognathus_flavus",6,116,"female",18,331,6.57928337259991,166.59569962291,"Summer",189641
+12,-103.532,25.316,NA,2006,"Perognathus flavus","Perognathus_flavus",6,106,"female",21.9,270,4.26617243823164,123.393833554888,"Winter",189642
+7,-104.53,25.004,NA,2008,"Perognathus flavus","Perognathus_flavus",6,119,"female",21.7,488,4.73167918172691,160.602457102083,"Summer",189643
+10,-104.8840027,31.8360004,NA,1973,"Perognathus flavus gilvus","Perognathus_flavus",6.2,96,"male",15.1,269,7.16690626801729,123.676529282106,"Fall",189644
+4,-101.6399994,33.5289993,NA,1975,"Perognathus flavus flavus","Perognathus_flavus",6.5,117,"male",15,482,7.81053581369228,78.2970969773659,"Spring",189645
+3,-110.85222,31.83333,NA,1920,"Perognathus flavus","Perognathus_flavus",7.5,95,"female",17.2,460,7.05792054533362,94.0326083109105,"Spring",189646
+6,-106.743437,32.37027,NA,1962,"Perognathus flavus","Perognathus_flavus",7.5,105,"female",15.9,209,8.07342723214418,90.035869347945,"Summer",189647
+8,-110.926223,32.177949,NA,1959,"Perognathus flavus","Perognathus_flavus",8.5,100,"female",19.7,318,7.40650819457885,133.331025469639,"Summer",189648
+10,-110.58889,31.79028,NA,1959,"Perognathus flavus","Perognathus_flavus",5.3,93,"female",15.8,492,6.7768098331849,135.652614036436,"Fall",189649
+10,-110.68111,31.857368,NA,1959,"Perognathus flavus","Perognathus_flavus",5.5,88,"male",16.5,578,6.72144915831986,132.722317592732,"Fall",189650
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",6.5,108,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",189651
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",5.3,106,"female",15.4,162,7.58233093608044,131.71194777314,"Summer",189652
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",7.5,108,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",189653
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",9.9,119,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",189654
+8,-109.17703,31.569987,NA,1955,"Perognathus flavus","Perognathus_flavus",7.6,103,"female",15,297,7.10588744377761,152.673867477991,"Summer",189655
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",43.8,104,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",189656
+8,-109.211044,31.423793,NA,1956,"Perognathus flavus","Perognathus_flavus",10,106,"male",16.2,133,7.78685761492732,144.844967646113,"Summer",189657
+9,-110.891521,32.192645,NA,1957,"Perognathus flavus","Perognathus_flavus",7.2,100,"male",20,323,7.1275978783284,80.6590813664729,"Fall",189658
+10,-110.891521,32.192645,NA,1957,"Perognathus flavus","Perognathus_flavus",7.4,94,"male",20,323,7.1275978783284,80.6590813664729,"Fall",189659
+10,-110.891521,32.192645,NA,1957,"Perognathus flavus","Perognathus_flavus",6.4,86,"male",20,323,7.1275978783284,80.6590813664729,"Fall",189660
+10,-109.103215,31.913604,NA,1958,"Perognathus flavus","Perognathus_flavus",10.2,110,"female",15.6,389,7.65559312271793,98.1244228867814,"Fall",189661
+10,-109.149379,31.920867,NA,1958,"Perognathus flavus","Perognathus_flavus",10.1,105,"female",14.5,470,7.41220839786182,97.7741983566432,"Fall",189662
+10,-109.2084,31.619,NA,1969,"Perognathus flavus","Perognathus_flavus",5.1,92,"female",15.5,344,7.38579718107666,124.487246679213,"Fall",189663
+7,-109.642562,36.085269,NA,1970,"Perognathus flavus","Perognathus_flavus",8.1,101,"male",10.9,179,8.99812690946221,90.8767619283712,"Summer",189664
+7,-109.642562,36.085269,NA,1970,"Perognathus flavus","Perognathus_flavus",8.4,104,"male",10.9,179,8.99812690946221,90.8767619283712,"Summer",189665
+8,-109.53833,36.15306,NA,1970,"Perognathus flavus","Perognathus_flavus",6.9,120,"female",11,202,8.98899579789341,90.9746821844303,"Summer",189666
+8,-109.471771,36.175837,NA,1970,"Perognathus flavus","Perognathus_flavus",6.9,111,"male",10.4,229,8.76146867444798,92.4583636439015,"Summer",189667
+8,-109.471771,36.175837,NA,1970,"Perognathus flavus","Perognathus_flavus",7.2,109,"male",10.4,229,8.76146867444798,92.4583636439015,"Summer",189668
+7,-109.642562,36.085269,NA,1970,"Perognathus flavus","Perognathus_flavus",6.1,90,"female",10.9,179,8.99812690946221,90.8767619283712,"Summer",189669
+8,-109.605827,36.038413,NA,1970,"Perognathus flavus","Perognathus_flavus",7.8,106,"male",10.8,189,8.95275478173161,92.2126472491497,"Summer",189670
+8,-109.653551,36.072353,NA,1970,"Perognathus flavus","Perognathus_flavus",6.4,107,"male",10.9,176,8.98211606977493,92.7136953936343,"Summer",189671
+10,-109.558923,31.884119,NA,1971,"Perognathus flavus","Perognathus_flavus",5.8,90,"female",15.6,385,7.26996727932281,124.203060679383,"Fall",189672
+9,-109.580652,31.904776,NA,1972,"Perognathus flavus","Perognathus_flavus",6.3,100,"male",16,360,7.18335618360986,118.115575129572,"Fall",189673
+10,-110.8841,31.965,NA,1972,"Perognathus flavus","Perognathus_flavus",7.1,106,"male",18.8,357,7.34386984105956,118.531002058555,"Fall",189674
+10,-110.85222,31.83333,NA,1971,"Perognathus flavus","Perognathus_flavus",6.7,99,"male",17.1,455,7.05362038998843,127.114105630742,"Fall",189675
+10,-110.85222,31.83333,NA,1971,"Perognathus flavus","Perognathus_flavus",6.5,92,"female",17.1,455,7.05362038998843,127.114105630742,"Fall",189676
+6,-108.640887,35.837375,NA,1973,"Perognathus flavus","Perognathus_flavus",10,110,"male",9.7,228,8.81284788696525,62.6218645986171,"Summer",189677
+10,-108.49833,36.36944,NA,1973,"Perognathus flavus","Perognathus_flavus",12,121,"male",10.3,205,9.37335035991384,63.3641279343873,"Fall",189678
+11,-110.5019,31.619,NA,1982,"Perognathus flavus","Perognathus_flavus",8.1,115,"female",15.2,464,6.57545366564855,103.203079319458,"Fall",189679
+8,-109.17703,31.569987,NA,1956,"Perognathus flavus","Perognathus_flavus",7.7,116,"female",15.4,162,7.58233093608044,131.71194777314,"Summer",189680
+10,-109.35611,32.00444,NA,2002,"Perognathus flavus","Perognathus_flavus",7.8,110,"female",14.4,366,7.17095889788468,120.735391455137,"Fall",189681

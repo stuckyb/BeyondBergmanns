@@ -1,0 +1,398 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-116.509276,46.845087,NA,2001,"Poecile atricapillus","Poecile_atricapillus",7.1,NA,"male",7.1,772,8.23258032380364,60.1592316730903,"Summer",108421
+2,-117.179457,46.728691,NA,1947,"Poecile atricapillus","Poecile_atricapillus",12.5,131,"male",8.6,534,7.3098314866785,67.4667835290506,"Winter",108422
+10,-117.055372,46.431867,NA,1952,"Poecile atricapillus","Poecile_atricapillus",12.4,140,"male",11.7,274,8.64405558575932,80.2312836827125,"Fall",108423
+10,-117.055372,46.431867,"Ad",1952,"Poecile atricapillus","Poecile_atricapillus",11.7,132.5,"female",11.7,274,8.64405558575932,80.2312836827125,"Fall",108424
+10,-117.055372,46.431867,"Ad",1952,"Poecile atricapillus","Poecile_atricapillus",11.3,133,"female",11.7,274,8.64405558575932,80.2312836827125,"Fall",108425
+11,-117.298473,46.815477,"Ad",1966,"Poecile atricapillus","Poecile_atricapillus",10.2,126,"female",9,463,6.93049912934257,76.0099629832055,"Fall",108426
+4,-117.331268,46.738584,NA,1973,"Poecile atricapillus","Poecile_atricapillus",11,NA,"male",9.4,507,7.5758387874435,112.248096778945,"Spring",108427
+3,-117.12419,46.986461,NA,1973,"Poecile atricapillus","Poecile_atricapillus",11.5,NA,"male",8.4,576,7.53175097353017,109.917037125757,"Spring",108428
+12,-117.57768,47.53187,NA,1973,"Poecile atricapillus","Poecile_atricapillus",10.2,NA,"female",8.8,492,8.07515831536335,109.664904218939,"Winter",108429
+12,-117.57768,47.53187,NA,1973,"Poecile atricapillus","Poecile_atricapillus",9.6,NA,"female",8.8,492,8.07515831536335,109.664904218939,"Winter",108430
+2,-117.30269,46.609736,NA,1973,"Poecile atricapillus","Poecile_atricapillus",11.2,NA,"female",10,516,7.71564231698414,112.436467520295,"Winter",108431
+6,-117.77211,46.27703,NA,1979,"Poecile atricapillus","Poecile_atricapillus",9.8,NA,"female",7.8,945,9.13758057627285,62.4767376643326,"Summer",108432
+5,-117.3335,46.7432,NA,1984,"Poecile atricapillus","Poecile_atricapillus",10.1,NA,"female",8.7,578,7.5383263153278,59.019408524159,"Spring",108433
+1,-76.5095,42.4381,"adult",1934,"Poecile atricapillus atricapillus","Poecile_atricapillus",12.3,NA,"male",8.9,704,11.0734291587265,50.3319570189957,"Winter",108434
+1,-76.45442,42.4566,"adult",1939,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.2,NA,"male",8.5,727,10.2603495421585,31.0957415536166,"Winter",108435
+2,-76.5095,42.4381,"adult",1934,"Poecile atricapillus atricapillus","Poecile_atricapillus",12.5,NA,"female",8.9,704,11.0734291587265,50.3319570189957,"Winter",108436
+2,-76.5095,42.4381,"adult",1934,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.5,NA,"female",8.9,704,11.0734291587265,50.3319570189957,"Winter",108437
+9,-76.45219,42.477118,NA,1988,"Poecile atricapillus","Poecile_atricapillus",10.8000001907349,118,NA,8.1,777,10.1430077423122,50.576632246793,"Fall",108438
+3,-76.655259,42.276659,NA,1952,"Poecile atricapillus","Poecile_atricapillus",60.5,59.5,"male",8.4,1001,9.13466175917562,40.4486071531833,"Spring",108439
+3,-76.4809,42.4466,NA,1954,"Poecile atricapillus","Poecile_atricapillus",11.6000003814697,NA,"female",8.9,878,9.40816457158678,31.3025906259841,"Spring",108440
+4,-76.5095,42.4381,NA,1953,"Poecile atricapillus","Poecile_atricapillus",9.80000019073486,NA,"female",10.6,726,8.46257357516917,34.1007897176414,"Spring",108441
+5,-76.400551,42.438907,NA,1994,"Poecile atricapillus","Poecile_atricapillus",10.3999996185303,123,"male",7.6,1073,10.7742221824299,51.447771099428,"Spring",108442
+9,-76.4646,42.5052,NA,2003,"Poecile atricapillus","Poecile_atricapillus",11.6999998092651,119,"male",7.4,1115,10.2071387674599,33.4920116664522,"Fall",108443
+10,-77.023081,42.360363,"1st yr",2004,"Poecile atricapillus","Poecile_atricapillus",11.9,125,"male",7.2,1119,9.61934209934559,56.5888759537755,"Fall",108444
+2,-76.451,42.4799,NA,2012,"Poecile atricapillus","Poecile_atricapillus",11,116,"male",10.1,1017,8.76920835375207,36.5734129553484,"Winter",108446
+10,-76.655259,42.276659,NA,2012,"Poecile atricapillus","Poecile_atricapillus",10.75,NA,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",108447
+10,-76.655259,42.276659,NA,2012,"Poecile atricapillus","Poecile_atricapillus",11,NA,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",108448
+10,-76.655259,42.276659,NA,2012,"Poecile atricapillus","Poecile_atricapillus",11,NA,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",108449
+5,-105.18414,39.616624,"adult",1991,"Poecile atricapillus","Poecile_atricapillus",10.2,119,"undetermined",9.3,505,7.96737666419072,72.3493908904095,"Spring",108455
+2,-105.1905555556,39.6536111111,"immature",1990,"Poecile atricapillus","Poecile_atricapillus",11.5,130,"male",9.8,497,8.30146025854743,72.4379610223103,"Winter",108456
+3,-105.4389402,40.1215683,"adult",1994,"Poecile atricapillus","Poecile_atricapillus",11.5,127,"female",5.6,471,7.91103467929257,45.214279187329,"Spring",108457
+4,-104.926633,39.545634,"adult",2011,"Poecile atricapillus","Poecile_atricapillus",10.9,132,"male",10.1,486,9.30996533535193,60.2605560705398,"Spring",108458
+5,-103.9333,44.4833,NA,2012,"Poecile atricapillus","Poecile_atricapillus",12.3,NA,NA,8.7,436,9.44539329755276,84.4517033427315,"Spring",108459
+9,-103.9333,44.4833,NA,2010,"Poecile atricapillus","Poecile_atricapillus",12,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Fall",108460
+7,-111.172949,43.3163447,NA,1949,"Poecile atricapillus","Poecile_atricapillus",11.1,NA,"female",5,448,10.536976738509,46.3393767046034,"Summer",108461
+7,-111.172949,43.3163447,NA,1949,"Poecile atricapillus","Poecile_atricapillus",11.5,NA,"female",5,448,10.536976738509,46.3393767046034,"Summer",108462
+7,-98.5155833,38.1362262,"SKULL UNOSSIFIED",1956,"Poecile atricapillus","Poecile_atricapillus",13.2,NA,"male",14.4,405,11.104418312573,98.978343818945,"Summer",108463
+3,-93.0201329,44.5212378,NA,1951,"Poecile atricapillus","Poecile_atricapillus",11.3,NA,"female",5.2,935,12.8275360774461,61.3208746911007,"Spring",108464
+7,-109.4624066,47.2844226,NA,1961,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"male",6.6,375,8.97472460960122,71.153874596561,"Summer",108465
+11,-95.3014183,39.0119813,NA,1964,"Poecile atricapillus","Poecile_atricapillus",11.8,NA,"female",12.8,999,9.87102816173153,73.6671698474863,"Fall",108466
+11,-99.8876953,37.7098993,NA,1964,"Poecile atricapillus","Poecile_atricapillus",14.2,NA,"undetermined",13.3,496,10.4374725548541,79.0987650307058,"Fall",108467
+11,-99.8876953,37.7098993,NA,1964,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"undetermined",13.3,496,10.4374725548541,79.0987650307058,"Fall",108468
+11,-99.8876953,37.7098993,NA,1964,"Poecile atricapillus","Poecile_atricapillus",12.3,NA,"female",13.3,496,10.4374725548541,79.0987650307058,"Fall",108469
+4,-100.1089746,37.7528,NA,1965,"Poecile atricapillus","Poecile_atricapillus",12.4,NA,"male",12.8,643,9.71159881354,88.0883078800422,"Spring",108470
+4,-100.1089746,37.7528,NA,1965,"Poecile atricapillus","Poecile_atricapillus",13.1,NA,"female",12.8,643,9.71159881354,88.0883078800422,"Spring",108471
+11,-102.022827,38.0324328,NA,1965,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"male",12.1,462,9.62208239919872,116.284364896753,"Fall",108472
+11,-102.022827,38.0324328,NA,1965,"Poecile atricapillus","Poecile_atricapillus",12.7,NA,"male",12.1,462,9.62208239919872,116.284364896753,"Fall",108473
+12,-95.2227337,38.7958566,NA,1965,"Poecile atricapillus","Poecile_atricapillus",14,NA,"male",12.8,1056,9.86771211701286,106.03360631272,"Winter",108474
+12,-95.2227337,38.7958566,NA,1965,"Poecile atricapillus","Poecile_atricapillus",13.3,NA,"male",12.8,1056,9.86771211701286,106.03360631272,"Winter",108475
+11,-95.2598661,38.9549568,NA,1965,"Poecile atricapillus","Poecile_atricapillus",12,NA,"female",12.8,1106,9.91253797424802,105.088767483944,"Fall",108476
+11,-95.2598661,38.9549568,NA,1965,"Poecile atricapillus","Poecile_atricapillus",12,NA,"male",12.8,1106,9.91253797424802,105.088767483944,"Fall",108477
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",15.1,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",108478
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",13.1,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",108479
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",108480
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",15.1,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",108481
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",14.5,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",108482
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",17.6,NA,"female",11.3,376,10.8801180920507,91.8270750397748,"Summer",108483
+3,-101.176094,38.8977732,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.8,NA,"male",11.5,477,8.91071452428667,120.544084226397,"Spring",108484
+3,-101.3448009,38.9122703,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.7,NA,"male",11.4,484,8.88797280632995,116.619314574137,"Spring",108485
+4,-96.6046714,38.1288178,"juvenile",1968,"Poecile atricapillus","Poecile_atricapillus",13.8,NA,"female",12.1,869,9.94560966030497,66.4309766699841,"Spring",108486
+3,-95.3019171,39.9750312,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.1,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",108487
+3,-95.3019171,39.9750312,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",108488
+3,-95.3019171,39.9750312,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",108489
+3,-95.3019171,39.9750312,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",108490
+3,-95.3019171,39.9750312,"ADULT; SKULL COMPLETELY OSSIFIED",1967,"Poecile atricapillus","Poecile_atricapillus",12.1,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",108491
+3,-95.3019171,39.9750312,"adult",1967,"Poecile atricapillus","Poecile_atricapillus",12.8,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",108492
+3,-95.3019171,39.9750312,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.9,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",108493
+2,-97.1247444,39.4702088,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.9,NA,"male",11.9,871,9.23088934945156,106.445384065738,"Winter",108494
+2,-97.1247444,39.4702088,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.1,NA,"male",11.9,871,9.23088934945156,106.445384065738,"Winter",108495
+11,-97.5573494,39.7084915,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.5,NA,"male",11.5,850,9.3383374031219,117.987528731402,"Fall",108496
+2,-97.1247444,39.4702088,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.8,NA,"female",11.9,871,9.23088934945156,106.445384065738,"Winter",108497
+2,-97.1247444,39.4702088,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.3,NA,"female",11.9,871,9.23088934945156,106.445384065738,"Winter",108498
+2,-97.1247444,39.4702088,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.9,NA,"female",11.9,871,9.23088934945156,106.445384065738,"Winter",108499
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.3,NA,"male",10.9,498,9.12148645515166,109.219496920202,"Winter",108500
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.7,NA,"male",10.9,498,9.12148645515166,109.219496920202,"Winter",108501
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.6,NA,"undetermined",10.9,498,9.12148645515166,109.219496920202,"Winter",108502
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.3,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",108503
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",108504
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.2,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",108505
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.6,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",108506
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.8,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",108507
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.1,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",108508
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.8,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",108509
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.1,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",108510
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"female",13.2,586,8.83586013031127,99.5453688509186,"Winter",108511
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"female",13.2,586,8.83586013031127,99.5453688509186,"Winter",108512
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.6,NA,"female",13.2,586,8.83586013031127,99.5453688509186,"Winter",108513
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.3,NA,"female",13.2,586,8.83586013031127,99.5453688509186,"Winter",108514
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"female",13.2,586,8.83586013031127,99.5453688509186,"Winter",108515
+3,-101.3448009,38.9122703,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.1,NA,"male",11.4,484,8.88797280632995,116.619314574137,"Spring",108516
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.5,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",108517
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.7,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",108518
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",15.4,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",108519
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.8,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",108520
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"female",10.8,620,9.41807980815237,119.031092942624,"Winter",108521
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.7,NA,"female",10.8,620,9.41807980815237,119.031092942624,"Winter",108522
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.3,NA,"female",10.8,620,9.41807980815237,119.031092942624,"Winter",108523
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.4,NA,"undetermined",12,1201,8.87302688267122,83.9610299213543,"Winter",108524
+12,-95.1715552,38.9524093,NA,1966,"Poecile atricapillus","Poecile_atricapillus",13.6,NA,"male",12.3,699,9.93205325288693,94.9793222927539,"Winter",108525
+12,-95.1715552,38.9524093,NA,1966,"Poecile atricapillus","Poecile_atricapillus",14,NA,"male",12.3,699,9.93205325288693,94.9793222927539,"Winter",108526
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.7,NA,"female",12,1201,8.87302688267122,83.9610299213543,"Winter",108527
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"undetermined",12,1201,8.87302688267122,83.9610299213543,"Winter",108528
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"female",12,1201,8.87302688267122,83.9610299213543,"Winter",108529
+12,-95.148468,38.9530013,NA,1966,"Poecile atricapillus","Poecile_atricapillus",11.7,NA,"female",12.4,698,9.92018144995342,94.104034282149,"Winter",108530
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.2,NA,"male",12.4,907,9.05250676817636,113.994758006922,"Winter",108531
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.5,NA,"male",12.4,907,9.05250676817636,113.994758006922,"Winter",108532
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.7,NA,"male",12.4,907,9.05250676817636,113.994758006922,"Winter",108533
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.6,NA,"male",12.4,907,9.05250676817636,113.994758006922,"Winter",108534
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",15.2,NA,"male",12.4,907,9.05250676817636,113.994758006922,"Winter",108535
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"female",12.4,907,9.05250676817636,113.994758006922,"Winter",108536
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"female",12.4,907,9.05250676817636,113.994758006922,"Winter",108537
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.5,NA,"female",12.4,907,9.05250676817636,113.994758006922,"Winter",108538
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.7,NA,"female",12.4,907,9.05250676817636,113.994758006922,"Winter",108539
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.8,NA,"female",12.4,907,9.05250676817636,113.994758006922,"Winter",108540
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.7,NA,"female",12.4,907,9.05250676817636,113.994758006922,"Winter",108541
+12,-95.5360794,38.0056315,NA,1966,"Poecile atricapillus","Poecile_atricapillus",13.5,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",108542
+12,-95.5360794,38.0056315,NA,1966,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",108543
+12,-95.5360794,38.0056315,NA,1966,"Poecile atricapillus","Poecile_atricapillus",11.5,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",108544
+12,-95.5360794,38.0056315,NA,1966,"Poecile atricapillus","Poecile_atricapillus",12.1,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",108545
+2,-99.2464304,37.327426,"adult",1967,"Poecile atricapillus","Poecile_atricapillus",11.8,NA,"female",14.3,493,8.88420457379786,88.7124887952805,"Winter",108546
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.3,NA,"female",10.8,745,11.1568262838171,90.0638497129316,"Winter",108547
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",14.5,NA,"male",10.8,745,11.1568262838171,90.0638497129316,"Winter",108548
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.3,NA,"female",10.8,745,11.1568262838171,90.0638497129316,"Winter",108549
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",108550
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",14.8,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",108551
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",14.4,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",108552
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",14.3,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",108553
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",15,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",108554
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.1,NA,"undetermined",10.4,481,10.08672620103,102.043402663202,"Winter",108555
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",14.1,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",108556
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",15.2,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",108557
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",108558
+2,-95.5360794,38.0056315,NA,1968,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"undetermined",12.8,1087,9.90229159275159,74.1239333977848,"Winter",108559
+11,-95.5257797,38.0069841,NA,1968,"Poecile atricapillus","Poecile_atricapillus",11.5,NA,"female",12.8,1088,9.90229159275159,74.0898323009652,"Fall",108560
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",14,NA,"male",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108561
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"male",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108562
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",15,NA,"male",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108563
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",13.2,NA,"female",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108564
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"female",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108565
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",12.1,NA,"female",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108566
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",14,NA,"male",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108567
+8,-95.3835335,40.5215702,NA,1971,"Poecile atricapillus","Poecile_atricapillus",9.7,NA,"female",11,768,11.2840461258228,61.9613400610302,"Summer",108568
+7,-80.5339813,37.3673768,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.1,NA,"male",7.7,1118,7.23670672629645,37.1685891511566,"Summer",108569
+4,-95.148468,38.9530013,NA,1971,"Poecile atricapillus","Poecile_atricapillus",12.9,NA,"male",12.6,855,10.4017007641961,52.4626279969706,"Spring",108570
+3,-101.6377831,37.93973,NA,1950,"Poecile atricapillus","Poecile_atricapillus",13.5,NA,"male",12.4,332,9.28943273865851,121.519818343962,"Spring",108571
+4,-101.7988816,37.1904713,NA,1950,"Poecile atricapillus","Poecile_atricapillus",13,NA,"female",13.4,443,8.53138146474354,118.628190520471,"Spring",108572
+7,-101.9586182,41.2654206,NA,1982,"Poecile atricapillus","Poecile_atricapillus",12.2,NA,"undetermined",9,572,10.1030260993247,92.1428107049607,"Summer",108573
+10,-95.4372024,38.874864,NA,1988,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"male",13.1,590,10.6303560475165,60.0219293616209,"Fall",108574
+6,-101.135007,38.8895189,"immature",1999,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"female",12.4,457,8.73180792831414,95.4883029082364,"Summer",108575
+12,-97.2100135,37.3875217,NA,1955,"Poecile atricapillus","Poecile_atricapillus",14.7,NA,"male",14.7,627,10.3592148994667,80.5533915673525,"Winter",108576
+11,-95.8563995,38.5043854,NA,1969,"Poecile atricapillus","Poecile_atricapillus",12.9,NA,"female",12,1027,10.4917391746598,69.8907760184958,"Fall",108577
+12,-105.36886,41.779289,NA,2011,"Poecile atricapillus septentrionalis","Poecile_atricapillus",13.15,NA,"female",7.3,483,9.40668282755307,69.2947187480021,"Winter",108578
+4,-107.569942,40.012987,NA,2012,"Poecile atricapillus garrinus","Poecile_atricapillus",11.2,NA,"male",6.1,348,8.58384670427101,81.5229086372658,"Spring",108579
+4,-107.569942,40.012987,NA,2012,"Poecile atricapillus garrinus","Poecile_atricapillus",11.37,NA,"male",6.1,348,8.58384670427101,81.5229086372658,"Spring",108580
+4,-72.170985,41.8911152,NA,1977,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.5,NA,"female",8.3,1381,9.94449367969303,32.3241870359856,"Spring",108581
+7,-117.165636,46.72953,NA,2012,"Poecile atricapillus","Poecile_atricapillus",11.6,NA,"male",9.3,600,7.58085207491995,61.271378458313,"Summer",108582
+7,-117.165646,46.72955,NA,2013,"Poecile atricapillus","Poecile_atricapillus",11.6,NA,"male",8.8,394,8.4879013717744,54.3718351188961,"Summer",108583
+10,-117.055372,46.431867,NA,1952,"Poecile atricapillus","Poecile_atricapillus",10.7,133,"female",11.7,274,8.64405558575932,80.2312836827125,"Fall",108584
+10,-117.055372,46.431867,NA,1952,"Poecile atricapillus","Poecile_atricapillus",11.9,140.5,"male",11.7,274,8.64405558575932,80.2312836827125,"Fall",108585
+3,-117.177949,46.757518,NA,1973,"Poecile atricapillus","Poecile_atricapillus",10.2,NA,"female",8.6,525,7.4474471932985,110.490586419664,"Spring",108586
+4,-117.331268,46.738584,NA,1973,"Poecile atricapillus","Poecile_atricapillus",11.2,NA,"male",9.4,507,7.5758387874435,112.248096778945,"Spring",108587
+4,-117.331268,46.738584,NA,1973,"Poecile atricapillus","Poecile_atricapillus",10.2,NA,"female",9.4,507,7.5758387874435,112.248096778945,"Spring",108588
+4,-117.37814,46.635567,NA,1973,"Poecile atricapillus","Poecile_atricapillus",10.5,NA,"female",11.9,475,7.84652017061568,111.54938850789,"Spring",108589
+12,-117.57768,47.53187,NA,1973,"Poecile atricapillus","Poecile_atricapillus",10.8,NA,"male",8.8,492,8.07515831536335,109.664904218939,"Winter",108590
+2,-117.30269,46.609736,NA,1973,"Poecile atricapillus","Poecile_atricapillus",9.1,NA,"female",10,516,7.71564231698414,112.436467520295,"Winter",108591
+1,-117.331268,46.738584,"Ad",1973,"Poecile atricapillus","Poecile_atricapillus",10,NA,"female",9.4,507,7.5758387874435,112.248096778945,"Winter",108592
+10,-117.164293,46.730767,NA,1986,"Poecile atricapillus","Poecile_atricapillus",10.2,NA,"undetermined",8.9,525,7.28898608736621,65.573045358287,"Fall",108593
+1,-76.5095,42.4381,"adult",1935,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.5,NA,"female",8.4,831,10.1394033355025,29.2673032679563,"Winter",108594
+1,-76.5095,42.4381,"adult",1934,"Poecile atricapillus atricapillus","Poecile_atricapillus",12,NA,"female",8.9,704,11.0734291587265,50.3319570189957,"Winter",108595
+1,-76.5095,42.4381,"adult",1935,"Poecile atricapillus atricapillus","Poecile_atricapillus",12.3,NA,"female",8.4,831,10.1394033355025,29.2673032679563,"Winter",108596
+4,-76.5095,42.4381,"adult",1953,"Poecile atricapillus","Poecile_atricapillus",9.8,NA,"female",10.6,726,8.46257357516917,34.1007897176414,"Spring",108597
+11,-76.4506,42.4801,NA,2005,"Poecile atricapillus","Poecile_atricapillus",9.89999961853027,NA,"undetermined",8.5,1068,10.8595859064978,50.581198740371,"Fall",108598
+2,-76.400551,42.438907,NA,2006,"Poecile atricapillus","Poecile_atricapillus",10.8000001907349,124,NA,9.4,1153,8.56615521406863,52.3967840596919,"Winter",108599
+9,-76.4506,42.4801,NA,2004,"Poecile atricapillus","Poecile_atricapillus",10.5,119,"female",7.7,1154,10.0388638739047,54.9483071337119,"Fall",108600
+10,-76.4506,42.4801,NA,2004,"Poecile atricapillus","Poecile_atricapillus",11,NA,"male",7.7,1154,10.0388638739047,54.9483071337119,"Fall",108601
+4,-76.451,42.4799,NA,2007,"Poecile atricapillus","Poecile_atricapillus",12.5,124.5,"male",8.5,984,10.3389342103556,29.2580911832691,"Spring",108602
+11,-76.432222,42.404308,NA,2008,"Poecile atricapillus","Poecile_atricapillus",11,NA,"male",8.5,1055,9.43942008362545,38.1201575339264,"Fall",108603
+2,-76.451,42.4799,NA,2008,"Poecile atricapillus","Poecile_atricapillus",4.1,NA,"male",8.3,1060,9.4695164831285,38.0685165012606,"Winter",108604
+2,-76.451,42.4799,NA,2008,"Poecile atricapillus","Poecile_atricapillus",11.3,137,"undetermined",8.3,1060,9.4695164831285,38.0685165012606,"Winter",108605
+10,-76.655259,42.276659,NA,2012,"Poecile atricapillus","Poecile_atricapillus",10,132,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",108606
+10,-76.655259,42.276659,NA,2012,"Poecile atricapillus","Poecile_atricapillus",10.5,NA,"undetermined",9.6,1077,8.72503798724039,33.8959977213799,"Fall",108607
+10,-76.655259,42.276659,NA,2012,"Poecile atricapillus","Poecile_atricapillus",9.6,121,"female",9.6,1077,8.72503798724039,33.8959977213799,"Fall",108608
+10,-76.655259,42.276659,NA,2012,"Poecile atricapillus","Poecile_atricapillus",10.1,117,"female",9.6,1077,8.72503798724039,33.8959977213799,"Fall",108609
+1,-76.400551,42.438907,"ad.",2011,"Poecile atricapillus","Poecile_atricapillus",12.3,125,"male",9.2,1340,10.0790023255671,49.9136742382227,"Winter",108610
+12,-76.451,42.4799,"adult",2013,"Poecile atricapillus","Poecile_atricapillus",13.5,120,"male",8.4,1091,9.73227604261701,46.0327443353956,"Winter",108611
+9,-102.136376,39.634221,NA,1982,"Poecile atricapillus","Poecile_atricapillus",10.1,NA,"undetermined",10.4,602,9.86629938915111,116.153972182747,"Fall",108612
+8,-104.761668,39.947502,"immature",1996,"Poecile atricapillus","Poecile_atricapillus",7.8,123,"undetermined",10.2,324,9.07001386521275,88.9568015028656,"Summer",108613
+8,-104.761668,39.947502,NA,1998,"Poecile atricapillus","Poecile_atricapillus",10,139,"undetermined",10.3,380,9.11337262521733,88.6085224365864,"Summer",108614
+12,-105.0838888889,40.5852777778,NA,1996,"Poecile atricapillus","Poecile_atricapillus",10.6,127,"undetermined",9.2,368,8.91041270343044,85.0760046281204,"Winter",108615
+8,-103.9333,44.4833,"adult",2010,"Poecile atricapillus","Poecile_atricapillus",13,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",108616
+9,-103.9333,44.4833,NA,2010,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"female",6.5,592,9.70621481632289,82.6623794832287,"Fall",108617
+4,-112.4594611,42.8815468,"adult",1939,"Poecile atricapillus","Poecile_atricapillus",13.2,NA,"female",8.8,188,9.34187379815238,49.914532492374,"Spring",108618
+7,-111.172949,43.3163447,NA,1949,"Poecile atricapillus","Poecile_atricapillus",11.7,NA,"male",5,448,10.536976738509,46.3393767046034,"Summer",108619
+7,-111.172949,43.3163447,NA,1949,"Poecile atricapillus","Poecile_atricapillus",10.6,NA,"male",5,448,10.536976738509,46.3393767046034,"Summer",108620
+7,-109.2375783,47.0624732,NA,1961,"Poecile atricapillus","Poecile_atricapillus",11.1,NA,"undetermined",7.2,371,9.0447833617288,72.3215900877167,"Summer",108621
+11,-101.8001034,39.8160225,NA,1964,"Poecile atricapillus","Poecile_atricapillus",11.9,NA,"female",11,341,10.1741614202872,91.0572317465569,"Fall",108622
+11,-101.8001034,39.8160225,"immatue",1964,"Poecile atricapillus","Poecile_atricapillus",13,NA,"male",11,341,10.1741614202872,91.0572317465569,"Fall",108623
+11,-99.8876953,37.7098993,NA,1964,"Poecile atricapillus","Poecile_atricapillus",11.7,NA,"undetermined",13.3,496,10.4374725548541,79.0987650307058,"Fall",108624
+11,-99.8876953,37.7098993,NA,1964,"Poecile atricapillus","Poecile_atricapillus",12.1,NA,"female",13.3,496,10.4374725548541,79.0987650307058,"Fall",108625
+9,-98.157773,38.8469425,NA,1965,"Poecile atricapillus","Poecile_atricapillus",15.1,NA,"male",12.7,692,10.3485140201017,104.147995842783,"Fall",108626
+9,-98.157773,38.8469425,NA,1965,"Poecile atricapillus","Poecile_atricapillus",13.2,NA,"male",12.7,692,10.3485140201017,104.147995842783,"Fall",108627
+11,-102.022827,38.0324328,NA,1965,"Poecile atricapillus","Poecile_atricapillus",11.8,NA,"female",12.1,462,9.62208239919872,116.284364896753,"Fall",108628
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",13.1,NA,"female",11.3,376,10.8801180920507,91.8270750397748,"Summer",108629
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",108630
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",12.9,NA,"female",11.3,376,10.8801180920507,91.8270750397748,"Summer",108631
+8,-100.1574477,39.1380273,NA,1966,"Poecile atricapillus","Poecile_atricapillus",11.6,NA,"female",11.3,376,10.8801180920507,91.8270750397748,"Summer",108632
+3,-101.3448009,38.9122703,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.3,NA,"female",11.4,484,8.88797280632995,116.619314574137,"Spring",108633
+3,-101.3448009,38.9122703,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.1,NA,"male",11.4,484,8.88797280632995,116.619314574137,"Spring",108634
+3,-101.3448009,38.9122703,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.8,NA,"male",11.4,484,8.88797280632995,116.619314574137,"Spring",108635
+3,-95.3019171,39.9750312,"juvenile",1967,"Poecile atricapillus","Poecile_atricapillus",14.2,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",108636
+3,-95.3019171,39.9750312,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.6,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",108637
+3,-95.3019171,39.9750312,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.1,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",108638
+3,-95.3019171,39.9750312,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",108639
+2,-97.1247444,39.4702088,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13,NA,"male",11.9,871,9.23088934945156,106.445384065738,"Winter",108640
+2,-97.1247444,39.4702088,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.9,NA,"female",11.9,871,9.23088934945156,106.445384065738,"Winter",108641
+2,-97.1247444,39.4702088,NA,1967,"Poecile atricapillus","Poecile_atricapillus",15.8,NA,"female",11.9,871,9.23088934945156,106.445384065738,"Winter",108642
+2,-97.1247444,39.4702088,NA,1967,"Poecile atricapillus","Poecile_atricapillus",15.5,NA,"female",11.9,871,9.23088934945156,106.445384065738,"Winter",108643
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.3,NA,"male",10.9,498,9.12148645515166,109.219496920202,"Winter",108644
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"male",10.9,498,9.12148645515166,109.219496920202,"Winter",108645
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.6,NA,"male",10.9,498,9.12148645515166,109.219496920202,"Winter",108646
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.6,NA,"male",10.9,498,9.12148645515166,109.219496920202,"Winter",108647
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.8,NA,"undetermined",10.9,498,9.12148645515166,109.219496920202,"Winter",108648
+2,-100.4903539,39.8510785,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",108649
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"undetermined",13.2,586,8.83586013031127,99.5453688509186,"Winter",108650
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.8,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",108651
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.5,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",108652
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.2,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",108653
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",108654
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.5,NA,"female",13.2,586,8.83586013031127,99.5453688509186,"Winter",108655
+2,-99.4098396,37.8940705,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11,NA,"female",13.2,586,8.83586013031127,99.5453688509186,"Winter",108656
+2,-99.4098396,37.8940705,"adult",1967,"Poecile atricapillus","Poecile_atricapillus",11.6,NA,"female",13.2,586,8.83586013031127,99.5453688509186,"Winter",108657
+3,-101.3448009,38.9122703,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.3,NA,"male",11.4,484,8.88797280632995,116.619314574137,"Spring",108658
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.9,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",108659
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.9,NA,"female",10.8,620,9.41807980815237,119.031092942624,"Winter",108660
+2,-99.5697108,39.9495034,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.3,NA,"female",10.8,620,9.41807980815237,119.031092942624,"Winter",108661
+3,-95.3386359,39.0029941,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"male",11.9,1211,8.9465542715245,89.2799890810796,"Spring",108662
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.2,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",108663
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.7,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",108664
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",108665
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.1,NA,"undetermined",12,1201,8.87302688267122,83.9610299213543,"Winter",108666
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.1,NA,"undetermined",12,1201,8.87302688267122,83.9610299213543,"Winter",108667
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.9,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",108668
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14.2,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",108669
+9,-95.3809598,38.8322483,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.2,NA,"female",12,1194,8.90416994583113,84.0371094922657,"Fall",108670
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.4,NA,"female",12,1201,8.87302688267122,83.9610299213543,"Winter",108671
+1,-95.1864548,38.805701,NA,1967,"Poecile atricapillus","Poecile_atricapillus",11.8,NA,"female",12,1201,8.87302688267122,83.9610299213543,"Winter",108672
+12,-95.148468,38.9530013,NA,1966,"Poecile atricapillus","Poecile_atricapillus",12.4,NA,"female",12.4,698,9.92018144995342,94.104034282149,"Winter",108673
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",14,NA,"male",12.4,907,9.05250676817636,113.994758006922,"Winter",108674
+2,-97.9747772,38.8694224,NA,1967,"Poecile atricapillus","Poecile_atricapillus",12.4,NA,"female",12.4,907,9.05250676817636,113.994758006922,"Winter",108675
+12,-95.5360794,38.0056315,NA,1966,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",108676
+12,-95.5360794,38.0056315,NA,1966,"Poecile atricapillus","Poecile_atricapillus",12.3,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",108677
+12,-95.5360794,38.0056315,NA,1966,"Poecile atricapillus","Poecile_atricapillus",11.6,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",108678
+12,-95.5360794,38.0056315,NA,1966,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"undetermined",13,655,9.84308325062772,81.5367050850986,"Winter",108679
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"female",10.8,745,11.1568262838171,90.0638497129316,"Winter",108680
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",14,NA,"male",10.8,745,11.1568262838171,90.0638497129316,"Winter",108681
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"male",10.8,745,11.1568262838171,90.0638497129316,"Winter",108682
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.8,NA,"male",10.8,745,11.1568262838171,90.0638497129316,"Winter",108683
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",14.4,NA,"male",10.8,745,11.1568262838171,90.0638497129316,"Winter",108684
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",11.9,NA,"female",10.8,745,11.1568262838171,90.0638497129316,"Winter",108685
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",12.7,NA,"female",10.8,745,11.1568262838171,90.0638497129316,"Winter",108686
+1,-99.4785863,39.6834717,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13,NA,"female",10.8,745,11.1568262838171,90.0638497129316,"Winter",108687
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",12.8,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",108688
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",14.2,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",108689
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",108690
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"undetermined",10.4,481,10.08672620103,102.043402663202,"Winter",108691
+1,-101.950375,39.7000654,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.8,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",108692
+2,-95.5360794,38.0056315,NA,1968,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"female",12.8,1087,9.90229159275159,74.1239333977848,"Winter",108693
+2,-95.5360794,38.0056315,NA,1968,"Poecile atricapillus","Poecile_atricapillus",13.2,NA,"undetermined",12.8,1087,9.90229159275159,74.1239333977848,"Winter",108694
+11,-95.5467224,38.0054963,NA,1968,"Poecile atricapillus","Poecile_atricapillus",10.5,NA,"undetermined",12.8,1088,9.9133977296109,74.7398314885857,"Fall",108695
+11,-95.5257797,38.0069841,NA,1968,"Poecile atricapillus","Poecile_atricapillus",13,NA,"male",12.8,1088,9.90229159275159,74.0898323009652,"Fall",108696
+11,-95.5257797,38.0069841,NA,1968,"Poecile atricapillus","Poecile_atricapillus",12.6,NA,"male",12.8,1088,9.90229159275159,74.0898323009652,"Fall",108697
+11,-95.5257797,38.0069841,NA,1968,"Poecile atricapillus","Poecile_atricapillus",11.7,NA,"undetermined",12.8,1088,9.90229159275159,74.0898323009652,"Fall",108698
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",13.2,NA,"male",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108699
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"female",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108700
+2,-95.7043076,38.1699239,NA,1968,"Poecile atricapillus","Poecile_atricapillus",13.4,NA,"male",12.5,1082,10.0254071178575,77.4881602802052,"Winter",108701
+8,-80.5018334,37.3857583,NA,1967,"Poecile atricapillus","Poecile_atricapillus",10.3,NA,"male",8.2,1084,7.1760755713733,37.7548711184884,"Summer",108702
+11,-95.3320717,38.8985779,NA,1944,"Poecile atricapillus","Poecile_atricapillus",11.9,NA,"female",12.4,1115,10.0133660674121,67.8554075857488,"Fall",108703
+4,-95.148468,38.9530013,NA,1971,"Poecile atricapillus","Poecile_atricapillus",10.7,NA,"undetermined",12.6,855,10.4017007641961,52.4626279969706,"Spring",108704
+2,-96.6364899,37.9654786,NA,1950,"Poecile atricapillus","Poecile_atricapillus",14.5,NA,"undetermined",11.9,766,9.30370975211045,114.988621174208,"Winter",108705
+3,-101.7565727,37.9659895,NA,1950,"Poecile atricapillus","Poecile_atricapillus",14,NA,"male",12.5,318,9.33273807625608,119.097765757143,"Spring",108706
+2,-100.4289086,37.2125779,NA,1950,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"female",13.5,406,8.94086210337209,148.993616514309,"Winter",108707
+10,-95.4372024,38.874864,NA,1988,"Poecile atricapillus","Poecile_atricapillus",13,NA,"undetermined",13.1,590,10.6303560475165,60.0219293616209,"Fall",108708
+10,-95.4121398,38.8974458,"IMMATURE PLUMAGE",1988,"Poecile atricapillus","Poecile_atricapillus",9.5,NA,"female",13.2,588,10.6347059055232,60.0709906795084,"Fall",108709
+10,-95.4121398,38.8974458,"IMMATURE PLUMAGE",1988,"Poecile atricapillus","Poecile_atricapillus",9,NA,"male",13.2,588,10.6347059055232,60.0709906795084,"Fall",108710
+2,-95.2598661,38.9549568,NA,1996,"Poecile atricapillus","Poecile_atricapillus",10,NA,"female",12.3,1190,10.3047944122524,83.2604307990719,"Winter",108711
+12,-95.2598661,38.9549568,NA,1998,"Poecile atricapillus","Poecile_atricapillus",13.5,NA,"male",13.9,1225,9.8228243793666,69.5373055135808,"Winter",108712
+6,-101.135007,38.8895189,"immature",1999,"Poecile atricapillus","Poecile_atricapillus",13.2,NA,"male",12.4,457,8.73180792831414,95.4883029082364,"Summer",108713
+2,-95.2598661,38.9549568,NA,2000,"Poecile atricapillus","Poecile_atricapillus",12.5,NA,"male",13.3,712,11.0601763096254,80.1052776804274,"Winter",108714
+3,-95.3880306,39.2262344,NA,2003,"Poecile atricapillus","Poecile_atricapillus",10.5,NA,"female",12.7,755,10.2683391003019,81.2829965833513,"Spring",108715
+1,-97.115364,37.354876,NA,1957,"Poecile atricapillus","Poecile_atricapillus",13.7,NA,"female",13.8,1032,9.64658441672963,96.097458192532,"Winter",108716
+11,-95.8563995,38.5043854,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.1,NA,"male",12,1027,10.4917391746598,69.8907760184958,"Fall",108717
+11,-95.8563995,38.5043854,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.3,NA,"male",12,1027,10.4917391746598,69.8907760184958,"Fall",108718
+12,-95.8563995,38.5043854,NA,1969,"Poecile atricapillus","Poecile_atricapillus",11.8,NA,"undetermined",12,1027,10.4917391746598,69.8907760184958,"Winter",108719
+12,-95.8563995,38.5043854,NA,1969,"Poecile atricapillus","Poecile_atricapillus",13.5,NA,"male",12,1027,10.4917391746598,69.8907760184958,"Winter",108720
+5,-97.6880894,39.0349668,"adult",1969,"Poecile atricapillus","Poecile_atricapillus",13.5,NA,"male",12,702,11.0150688796867,63.2158213099501,"Spring",108721
+12,-97.1795654,37.3521469,NA,1967,"Poecile atricapillus","Poecile_atricapillus",13.6,NA,"male",14.6,770,8.47073393120887,91.1759716909329,"Winter",108722
+12,-105.36886,41.779289,NA,2011,"Poecile atricapillus septentrionalis","Poecile_atricapillus",11.97,NA,"male",7.3,483,9.40668282755307,69.2947187480021,"Winter",108723
+12,-105.36886,41.779289,NA,2011,"Poecile atricapillus septentrionalis","Poecile_atricapillus",13.5,NA,"male",7.3,483,9.40668282755307,69.2947187480021,"Winter",108724
+12,-105.36886,41.779289,NA,2011,"Poecile atricapillus septentrionalis","Poecile_atricapillus",12.06,NA,"male",7.3,483,9.40668282755307,69.2947187480021,"Winter",108725
+4,-107.569942,40.012987,NA,2012,"Poecile atricapillus garrinus","Poecile_atricapillus",10.7,NA,"female",6.1,348,8.58384670427101,81.5229086372658,"Spring",108726
+4,-107.569942,40.012987,NA,2012,"Poecile atricapillus garrinus","Poecile_atricapillus",11.9,NA,"male",6.1,348,8.58384670427101,81.5229086372658,"Spring",108727
+4,-107.717749,40.143153,NA,2012,"Poecile atricapillus garrinus","Poecile_atricapillus",9.5,NA,"female",6.7,366,8.43184799471982,80.3168464088071,"Spring",108728
+2,-76.39509,42.38263,NA,1996,"Poecile atricapillus","Poecile_atricapillus",10.7,NA,"male",7.4,1222,10.134919383453,31.8615691491253,"Winter",108729
+11,-95.2798841,38.9041998,NA,1942,"Poecile atricapillus","Poecile_atricapillus",11,NA,"female",12.4,1006,9.8385913009881,64.8694296621302,"Fall",108730
+7,-122.82537,45.46182,"U-1St Yr?",1984,"Poecile atricapillus occidentalis","Poecile_atricapillus",11.42,12,"male",11.1,1139,5.20506746091991,73.5191159647509,"Summer",108740
+12,-71.39674,43.75479,"adult",1999,"Poecile atricapillus","Poecile_atricapillus",10,NA,"male",7.9,1093,9.91463564635635,62.4748316836599,"Winter",108741
+2,-71.47808,43.74456,"adult",1999,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.5,128,"undetermined",7.8,1113,9.96425049257534,61.1376587982339,"Winter",108742
+2,-71.47808,43.74456,"adult",1999,"Poecile atricapillus atricapillus","Poecile_atricapillus",9.5,124,"undetermined",7.8,1113,9.96425049257534,61.1376587982339,"Winter",108743
+2,-76.858113,42.201619,NA,2010,"Poecile atricapillus","Poecile_atricapillus",9.8,124,NA,9.4,951,9.89947963125825,47.9348082401425,"Winter",108744
+12,-76.299785,42.34284,NA,2004,"Poecile atricapillus","Poecile_atricapillus",11.5,117,NA,7,1243,10.147980841109,55.8715573201936,"Winter",108745
+11,-107.7611111111,38.1027777778,NA,1915,"Poecile atricapillus","Poecile_atricapillus",0.42,5.2,"male",3.8,548,7.726636337431,54.963805982699,"Fall",108747
+11,-107.7611111111,38.1027777778,NA,1915,"Poecile atricapillus","Poecile_atricapillus",0.42,5.2,"female",3.8,548,7.726636337431,54.963805982699,"Fall",108748
+11,-107.7611111111,38.1027777778,NA,1915,"Poecile atricapillus","Poecile_atricapillus",0.4,5.3,"male",3.8,548,7.726636337431,54.963805982699,"Fall",108749
+4,-105.1333333333,39.65,"immature",1988,"Poecile atricapillus","Poecile_atricapillus",9,115,"male",10.5,389,9.12955573282665,73.3723273098844,"Spring",108750
+4,-105.0688888889,39.5366666667,"adult",2002,"Poecile atricapillus","Poecile_atricapillus",9.3,134,"undetermined",10.8,262,8.97485966801744,72.3614928185001,"Spring",108751
+9,-104.927858,39.746336,NA,2007,"Poecile atricapillus","Poecile_atricapillus",9.7,120,"undetermined",11.1,396,9.59170648703,51.2796431652515,"Fall",108752
+4,-93.4733333,38.9266667,NA,2006,"Poecile atricapillus","Poecile_atricapillus",14,NA,"female",14.5,816,9.06329594205846,60.7343391827144,"Spring",108757
+1,-92.4431667,39.2621667,NA,2009,"Poecile atricapillus","Poecile_atricapillus",11.8,NA,"female",11.8,1352,9.38832285664517,60.5757285003405,"Winter",108758
+9,-148.3,64.75,NA,1988,"Poecile atricapillus","Poecile_atricapillus",11,NA,"female",-1.1,388,13.6055776218521,89.6239967601482,"Fall",108759
+9,-148.3,64.75,NA,1988,"Poecile atricapillus","Poecile_atricapillus",12,NA,"male",-1.1,388,13.6055776218521,89.6239967601482,"Fall",108760
+9,-148.3,64.75,NA,1988,"Poecile atricapillus","Poecile_atricapillus",11,NA,"undetermined",-1.1,388,13.6055776218521,89.6239967601482,"Fall",108761
+4,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",9.8,NA,"female",7.8,1245,9.10119456028946,37.9673293593544,"Spring",108762
+9,-72.9286,41.3081,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.5,NA,"female",10.9,1068,8.86366006212838,44.8544482256288,"Fall",108763
+8,-151,61.2167,"immature",2007,"Poecile atricapillus turneri","Poecile_atricapillus",10,NA,NA,2.6,587,9.2841139979684,88.552517903191,"Summer",108764
+4,-73.2642,41.1411,"adult",1983,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.1,NA,"male",11.1,1491,8.92848692600705,54.9612716252835,"Spring",108765
+9,-72.1333,42,"immature",1975,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.7,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",108766
+10,-72.8689,41.2761,NA,1980,"Poecile atricapillus atricapillus","Poecile_atricapillus",10,NA,NA,10.6,1028,9.81797979590136,73.2695521383269,"Fall",108767
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.1,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108768
+10,-72.8689,41.2761,NA,1980,"Poecile atricapillus atricapillus","Poecile_atricapillus",12,NA,NA,10.6,1028,9.81797979590136,73.2695521383269,"Fall",108769
+10,-73.2642,41.1411,NA,1976,"Poecile atricapillus atricapillus","Poecile_atricapillus",11,NA,NA,10.5,1054,9.22093714424851,45.9643233747713,"Fall",108770
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",12.8,NA,"female",7.8,1245,9.10119456028946,37.9673293593544,"Fall",108771
+6,-72.69,41.4819,NA,1975,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.1,NA,"male",10.3,1537,9.05579924689146,29.9535444406914,"Summer",108772
+1,-72.9975,41.4217,"adult",2002,"Poecile atricapillus atricapillus","Poecile_atricapillus",11,NA,NA,10.6,1279,8.69412898385334,35.2990471156479,"Winter",108773
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",15.2,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108774
+4,-72.261389,41.885278,"adult",2004,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.5,NA,NA,8.4,1204,9.6264274817092,55.5341139161212,"Spring",108775
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.7,NA,"female",7.8,1245,9.10119456028946,37.9673293593544,"Fall",108776
+8,-149.9,61.218,"juvenile",2007,"Poecile atricapillus turneri","Poecile_atricapillus",9.9,NA,NA,2.2,371,10.1392875250262,81.6462875266799,"Summer",108777
+3,-72.6822,41.2889,NA,2000,"Poecile atricapillus atricapillus","Poecile_atricapillus",5.4,NA,NA,10.7,1286,8.64387591934839,38.3556306408858,"Spring",108778
+10,-73.0089,41.3525,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.6,NA,"male",10.2,1135,8.96665540159256,45.5693218266264,"Fall",108779
+6,-72.69,41.4819,NA,1975,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.2,NA,"female",10.3,1537,9.05579924689146,29.9535444406914,"Summer",108780
+8,-149.749,61.1618,NA,2007,"Poecile atricapillus turneri","Poecile_atricapillus",8.8,NA,NA,1.9,367,10.072900939319,80.4390958937961,"Summer",108781
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",13,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108782
+7,-149.815389,61.140089,"immature",2007,"Poecile atricapillus turneri","Poecile_atricapillus",10.9,NA,"male",1.9,362,10.3249147035878,81.6014975279261,"Summer",108783
+10,-72.6822,41.2889,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.2,NA,NA,10.6,1090,8.73049340825106,44.7951602854713,"Fall",108784
+8,-149.815389,61.140089,NA,2007,"Poecile atricapillus turneri","Poecile_atricapillus",8.6,NA,NA,1.9,362,10.3249147035878,81.6014975279261,"Summer",108785
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",12,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108786
+10,-72.6822,41.2889,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.7,NA,NA,10.6,1090,8.73049340825106,44.7951602854713,"Fall",108787
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.6,NA,"female",7.8,1245,9.10119456028946,37.9673293593544,"Fall",108788
+6,-72.6372,41.3597,NA,1968,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.9,NA,"female",9.3,1011,9.86779272853526,57.3532884782539,"Summer",108789
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",13.3,NA,"female",7.8,1245,9.10119456028946,37.9673293593544,"Fall",108790
+10,-72.8689,41.2761,NA,1980,"Poecile atricapillus atricapillus","Poecile_atricapillus",10,NA,"male",10.6,1028,9.81797979590136,73.2695521383269,"Fall",108791
+10,-72.9286,41.3081,NA,2001,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.5,NA,NA,11.7,999,8.81167871737173,54.3740579855705,"Fall",108792
+8,-149.815389,61.140089,"adult",2007,"Poecile atricapillus turneri","Poecile_atricapillus",9.4,NA,"female",1.9,362,10.3249147035878,81.6014975279261,"Summer",108793
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",13.4,NA,"male",7.8,1245,9.10119456028946,37.9673293593544,"Fall",108794
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",13.7,NA,"male",7.8,1245,9.10119456028946,37.9673293593544,"Fall",108795
+10,-73.0089,41.3525,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11,NA,"male",10.2,1135,8.96665540159256,45.5693218266264,"Fall",108796
+9,-72.9286,41.3081,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.5,NA,"male",10.9,1068,8.86366006212838,44.8544482256288,"Fall",108797
+9,-115.29143,46.02538,"U-Ad.",1941,"Poecile atricapillus septentrionalis","Poecile_atricapillus",10,NA,"female",9.3,846,7.67500370150932,47.8519191345838,"Fall",108798
+12,-76.28712,42.349548,NA,1995,"Poecile atricapillus","Poecile_atricapillus",10.8999996185303,NA,"male",7.3,894,10.6356889192886,52.4030462431895,"Winter",108799
+1,-76.17528,42.60083,"larvae",2007,"Poecile atricapillus","Poecile_atricapillus",10.9,121,"male",8.1,1126,10.4082426543348,30.6572087371861,"Winter",108800
+9,-76.29779,42.49073,NA,2007,"Poecile atricapillus","Poecile_atricapillus",10.7,12.7,"undetermined",8.2,1026,10.2956411783204,31.8413133158991,"Fall",108801
+4,-76.318813,42.351136,NA,2011,"Poecile atricapillus","Poecile_atricapillus",10.6,120,NA,8.4,1457,10.1440832135006,48.6892984309366,"Spring",108802
+4,-105.0688888889,39.5366666667,"adult",2002,"Poecile atricapillus","Poecile_atricapillus",11.2,144,"undetermined",10.8,262,8.97485966801744,72.3614928185001,"Spring",108804
+9,-72.9286,41.3081,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.4,NA,"male",10.9,1068,8.86366006212838,44.8544482256288,"Fall",108810
+8,-151,61.2167,"immature",2007,"Poecile atricapillus turneri","Poecile_atricapillus",10.8,NA,"female",2.6,587,9.2841139979684,88.552517903191,"Summer",108811
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",13.2,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108812
+10,-73.0089,41.3525,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",9.5,NA,"female",10.2,1135,8.96665540159256,45.5693218266264,"Fall",108813
+9,-72.9286,41.3081,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11,NA,"female",10.9,1068,8.86366006212838,44.8544482256288,"Fall",108814
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",12.6,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108815
+10,-72.6672,41.2642,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.2,NA,NA,10.7,1084,8.76129141580893,44.9712235453067,"Fall",108816
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",13.6,NA,"male",7.8,1245,9.10119456028946,37.9673293593544,"Fall",108817
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",12.9,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108818
+9,-72.9286,41.3081,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.9,NA,"male",10.9,1068,8.86366006212838,44.8544482256288,"Fall",108819
+9,-72.9286,41.3081,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.4,NA,NA,10.9,1068,8.86366006212838,44.8544482256288,"Fall",108820
+7,-149.815389,61.140089,NA,2007,"Poecile atricapillus turneri","Poecile_atricapillus",11.1,NA,NA,1.9,362,10.3249147035878,81.6014975279261,"Summer",108821
+6,-72.6372,41.3597,NA,1968,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.6,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Summer",108822
+10,-72.6822,41.2889,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",12.2,NA,"male",10.6,1090,8.73049340825106,44.7951602854713,"Fall",108823
+4,-105.1444,40.05,NA,1984,"Poecile atricapillus septentrionalis","Poecile_atricapillus",11.7,NA,"female",9.7,366,9.20162617380342,68.8098654713234,"Spring",108824
+10,-72.6822,41.2889,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.4,NA,NA,10.6,1090,8.73049340825106,44.7951602854713,"Fall",108825
+10,-72.6822,41.2889,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.8,NA,"male",10.6,1090,8.73049340825106,44.7951602854713,"Fall",108826
+7,-149.815389,61.140089,"adult",2007,"Poecile atricapillus turneri","Poecile_atricapillus",10.4,NA,"male",1.9,362,10.3249147035878,81.6014975279261,"Summer",108827
+7,-149.815389,61.140089,NA,2007,"Poecile atricapillus turneri","Poecile_atricapillus",10.4,NA,NA,1.9,362,10.3249147035878,81.6014975279261,"Summer",108828
+10,-73.0089,41.3525,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.3,NA,"male",10.2,1135,8.96665540159256,45.5693218266264,"Fall",108829
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",12.8,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108830
+10,-72.6672,41.2642,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",12.5,NA,"male",10.7,1084,8.76129141580893,44.9712235453067,"Fall",108831
+9,-72.9286,41.3081,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",12,NA,"male",10.9,1068,8.86366006212838,44.8544482256288,"Fall",108832
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",13.3,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108833
+8,-149.9,61.218,"juvenile",2007,"Poecile atricapillus turneri","Poecile_atricapillus",11.5,NA,NA,2.2,371,10.1392875250262,81.6462875266799,"Summer",108834
+9,-72.1333,42,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",13.9,NA,NA,7.8,1245,9.10119456028946,37.9673293593544,"Fall",108835
+10,-151,61.2167,"subadult",2007,"Poecile atricapillus turneri","Poecile_atricapillus",10.6,NA,"male",2.6,587,9.2841139979684,88.552517903191,"Fall",108836
+10,-72.6822,41.2889,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.4,NA,NA,10.6,1090,8.73049340825106,44.7951602854713,"Fall",108837
+7,-149.815389,61.140089,"adult",2007,"Poecile atricapillus turneri","Poecile_atricapillus",11.8,NA,"male",1.9,362,10.3249147035878,81.6014975279261,"Summer",108838
+9,-72.9286,41.3081,NA,1974,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.1,NA,NA,10.9,1068,8.86366006212838,44.8544482256288,"Fall",108839
+10,-73.2642,41.1411,"adult",1983,"Poecile atricapillus atricapillus","Poecile_atricapillus",10.2,NA,NA,11.1,1491,8.92848692600705,54.9612716252835,"Fall",108840
+6,-72.6372,41.3597,NA,1968,"Poecile atricapillus atricapillus","Poecile_atricapillus",11.8,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Summer",108841
+11,-77.367491,42.764634,NA,2010,"Poecile atricapillus","Poecile_atricapillus",11,119,"male",8.8,1026,9.99604088293627,51.9954808022083,"Fall",108842
+2001,-71.39019,43.76068,"HY",2001,"Poecile atricapillus","Poecile_atricapillus",10.7,NA,"male",7.5,844,10.0113080003957,38.6597412502997,"Winter",108843

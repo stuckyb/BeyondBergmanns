@@ -1,0 +1,212 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-115.90111,35.78417,NA,1968,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",5,72,"male",14.3,116,7.72223766439848,106.920846262676,"Summer",108203
+9,-115.4979193,35.3776251,NA,1945,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",32,75,"female",13.7,238,8.23651790945223,100.085984572869,"Fall",108204
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2,68,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108205
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,71,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108206
+1,-117.8518328,34.6036802,NA,1947,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",32,76,"female",15.7,71,7.24001925328095,125.300381199568,"Winter",108207
+9,-115.12295,33.2965,NA,1989,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3.5,67,"male",23.1,57,8.00005208316379,188.219861175705,"Fall",108208
+6,-118.0760456,36.4479175,NA,1972,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,75,"female",9.5,118,7.19619006941531,173.767330090903,"Summer",108209
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2.5,70,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108210
+6,-118.0760456,36.4479175,NA,1972,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3.5,70,"female",9.5,118,7.19619006941531,173.767330090903,"Summer",108211
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2.5,72,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108212
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,72,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",108213
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",4,71,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",108214
+3,-109.825827,22.918332,NA,1969,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",7,2,"male",24,95,3.6972860644565,140.809617125371,"Spring",108215
+6,-108.485646,37.196987,NA,2006,"Pipistrellus hesperus","Pipistrellus_hesperus",4,70,"male",9.8,400,8.32120329293932,81.5661120843436,"Summer",108216
+6,-115.8872623,35.7726756,"adult",1999,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.8,76,"female",15,152,7.29002535640101,142.755026999291,"Summer",108217
+5,-115.9343133,35.7847846,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",5.3,79,"female",16.1,175,8.47727800796001,155.859220051153,"Spring",108218
+5,-115.8578962,35.7733296,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",5.2,45,"female",16.5,154,8.65354630405152,153.230743765841,"Spring",108219
+6,-115.9343133,35.7847846,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",5.4,75,"female",16.1,175,8.47727800796001,155.859220051153,"Summer",108220
+6,-115.9343133,35.7847846,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.6,70,"male",16.1,175,8.47727800796001,155.859220051153,"Summer",108221
+6,-115.9618204,35.7948573,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",2.8,70,"male",16.3,171,8.55298547912134,159.392313241923,"Summer",108222
+6,-115.9343133,35.7847846,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",536,75,"female",16.1,175,8.47727800796001,155.859220051153,"Summer",108223
+9,-115.8768124,35.7700875,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.5,68,"female",15.8,168,8.50826692462137,153.076066070796,"Fall",108224
+9,-115.8768124,35.7700875,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.9,72,"female",15.8,168,8.50826692462137,153.076066070796,"Fall",108225
+9,-116.2134778,33.5693459,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.5,72,"male",22.1,40,7.68060820666192,159.43080573773,"Fall",108226
+9,-116.2134778,33.5693459,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.8,72,"male",22.1,40,7.68060820666192,159.43080573773,"Fall",108227
+9,-116.2499867,33.5838112,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.8,72,"male",21.9,42,7.65412841662471,153.064955087482,"Fall",108228
+9,-116.2134778,33.5693459,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.8,74,"female",22.1,40,7.68060820666192,159.43080573773,"Fall",108229
+9,-116.2134778,33.5693459,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.8,74,"male",22.1,40,7.68060820666192,159.43080573773,"Fall",108230
+9,-116.2134778,33.5693459,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.7,73,"female",22.1,40,7.68060820666192,159.43080573773,"Fall",108231
+9,-116.2742614,33.6318402,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.7,72,"male",22.3,37,7.65338111061003,165.75508280215,"Fall",108232
+9,-116.2134778,33.5693459,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.65,68,"male",22.1,40,7.68060820666192,159.43080573773,"Fall",108233
+9,-116.2134778,33.5693459,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.7,70,"female",22.1,40,7.68060820666192,159.43080573773,"Fall",108234
+9,-116.2134778,33.5693459,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.65,72,"male",22.1,40,7.68060820666192,159.43080573773,"Fall",108235
+10,-116.2288346,32.8627241,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4,70,"male",19.6,100,6.5250740156025,153.515990971998,"Fall",108236
+8,-109.1743,31.8845,"unknown",1951,"Pipistrellus hesperus","Pipistrellus_hesperus",3.3,92,"male",13.5,367,7.19991582442377,72.2002785311045,"Summer",108237
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,70,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108238
+9,-115.12295,33.2965,NA,1989,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",4,71,"female",23.1,57,8.00005208316379,188.219861175705,"Fall",108239
+3,-113.41025,37.00755,NA,1978,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3.1,76,"female",16,422,8.82418766112711,87.6136009050731,"Spring",108240
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,68,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108241
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,71,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",108242
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,72,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",108243
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2,68,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108244
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3.5,73,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",108245
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,70,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",108246
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2.5,72,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108247
+3,-113.41025,37.00755,NA,1978,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,75,"female",16,422,8.82418766112711,87.6136009050731,"Spring",108248
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,71,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",108249
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,70,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108250
+1,-117.8518328,34.6036802,NA,1947,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",28.5,68,"male",15.7,71,7.24001925328095,125.300381199568,"Winter",108251
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2.5,69,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108252
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2.5,69,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",108253
+6,-116.9959362,36.0834642,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2.5,70,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",108254
+6,-108.485646,37.196987,NA,2006,"Pipistrellus hesperus","Pipistrellus_hesperus",4,73,"male",9.8,400,8.32120329293932,81.5661120843436,"Summer",108255
+5,-115.8768124,35.7700875,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.1,76,"female",15.8,168,8.50826692462137,153.076066070796,"Spring",108256
+6,-115.8768124,35.7700875,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.1,72,"female",15.8,168,8.50826692462137,153.076066070796,"Summer",108257
+6,-115.8768124,35.7700875,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.1,70,"female",15.8,168,8.50826692462137,153.076066070796,"Summer",108258
+6,-115.8768124,35.7700875,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.3,69,"male",15.8,168,8.50826692462137,153.076066070796,"Summer",108259
+6,-115.8768124,35.7700875,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.1,77,"female",15.8,168,8.50826692462137,153.076066070796,"Summer",108260
+6,-115.8768124,35.7700875,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",3.5,72,"male",15.8,168,8.50826692462137,153.076066070796,"Summer",108261
+9,-115.8768124,35.7700875,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.5,74,"female",15.8,168,8.50826692462137,153.076066070796,"Fall",108262
+9,-116.2798887,33.5984122,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",5,74,"female",21.4,48,7.51750986334268,153.000297088244,"Fall",108263
+9,-116.2499867,33.5838112,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4.8,72,"female",21.9,42,7.65412841662471,153.064955087482,"Fall",108264
+9,-116.2134778,33.5693459,"adult",2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",5.1,72,"female",22.1,40,7.68060820666192,159.43080573773,"Fall",108265
+9,-116.2134778,33.5693459,NA,2001,"Pipistrellus hesperus hesperus","Pipistrellus_hesperus",4,70,"male",22.1,40,7.68060820666192,159.43080573773,"Fall",108266
+9,-110.9486,36.3225,"unknown",1988,"Pipistrellus hesperus","Pipistrellus_hesperus",4.05,74,"male",12.6,196,9.23098783249314,109.566449050657,"Fall",108267
+3,-114.0508,32.3117,"unknown",1951,"Pipistrellus hesperus","Pipistrellus_hesperus",3,79,"male",21,93,7.8655125630049,109.65941009168,"Spring",108268
+3,-110.9585,32.2887,"unknown",1957,"Pipistrellus hesperus","Pipistrellus_hesperus",4.8,75,"female",20.3,301,7.28171225285189,81.5607292684285,"Spring",108269
+6,-110.7015,32.3271,"unknown",1951,"Pipistrellus hesperus","Pipistrellus_hesperus",4.9,75,"female",16.9,560,7.47182079955121,68.1704999882327,"Summer",108270
+6,-110.7015,32.3271,"unknown",1951,"Pipistrellus hesperus","Pipistrellus_hesperus",4.3,77,"female",16.9,560,7.47182079955121,68.1704999882327,"Summer",108271
+6,-110.6697,32.2217,"unknown",1951,"Pipistrellus hesperus","Pipistrellus_hesperus",4.3,77,"female",17.7,458,7.51355845163,72.091007016738,"Summer",108272
+3,-110.9258,32.3378,"unknown",1952,"Pipistrellus hesperus","Pipistrellus_hesperus",2.7,80,"male",19.4,316,8.27729644048323,91.1871757331779,"Spring",108273
+6,-116.86,36.17,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",5,76,"undetermined",23.7,39,9.77988039835154,135.579564027246,"Summer",108276
+6,-115.93,35.79,NA,1968,"Pipistrellus (Pipistrellus) hesperus H. Allen, 1864","Pipistrellus_hesperus",6,74,"female",14.5,113,7.73261490915805,105.110596405923,"Summer",108277
+6,-115.93,35.79,NA,1968,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",5,68,"male",14.5,113,7.73261490915805,105.110596405923,"Summer",108278
+6,-115.93,35.79,NA,1968,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",6,70,"female",14.5,113,7.73261490915805,105.110596405923,"Summer",108279
+4,-115.67,34.85,NA,1976,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,77,"female",17.1,208,7.18255462277113,111.298625528471,"Spring",108280
+6,-116.86,36.17,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",5,67,"female",23.7,39,9.77988039835154,135.579564027246,"Summer",108281
+6,-115.9311,35.7836,NA,1967,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2.2,65,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",108282
+8,-109.22694,32.021065,NA,1951,"Pipistrellus hesperus","Pipistrellus_hesperus",3.3,69,"male",14.4,348,7.19361564587698,72.9273959073422,"Summer",108283
+8,-109.22694,32.021065,NA,1951,"Pipistrellus hesperus","Pipistrellus_hesperus",4,71,"female",14.4,348,7.19361564587698,72.9273959073422,"Summer",108284
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.7,72,"male",18.9,344,7.37518361353352,91.7939194290102,"Summer",108285
+8,-110.883348,32.287557,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.2,70,"male",19.2,303,7.41527395844468,97.6559083717991,"Summer",108286
+8,-110.84114,32.264971,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.5,72,"female",19.3,312,7.44276647002126,96.7742224690072,"Summer",108287
+9,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.9,71,"female",18.9,344,7.37518361353352,91.7939194290102,"Fall",108288
+9,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.9,69,"male",18.9,344,7.37518361353352,91.7939194290102,"Fall",108289
+10,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3,69,"male",18.9,344,7.37518361353352,91.7939194290102,"Fall",108290
+12,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3,68,"male",18.9,344,7.37518361353352,91.7939194290102,"Winter",108291
+1,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.6,67,"male",18.9,344,7.37518361353352,91.7939194290102,"Winter",108292
+1,-110.805735,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3,67,"male",18.8,348,7.40214444767477,106.079392584412,"Winter",108293
+2,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",2.2,72,"male",19.4,318,7.50508413535704,106.884601038185,"Winter",108294
+2,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",2.2,72,"male",19.4,318,7.50508413535704,106.884601038185,"Winter",108295
+2,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.14,NA,"male",19.4,318,7.50508413535704,106.884601038185,"Winter",108296
+2,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.72,NA,"male",19.4,318,7.50508413535704,106.884601038185,"Winter",108297
+3,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.25,NA,"female",19.4,318,7.50508413535704,106.884601038185,"Spring",108298
+3,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.7,NA,"female",19.4,318,7.50508413535704,106.884601038185,"Spring",108299
+10,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.1,67,"male",18.9,344,7.37518361353352,91.7939194290102,"Fall",108300
+10,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.8,72,"female",19,320,7.3849303970787,94.882934097098,"Fall",108301
+10,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.5,77,"female",19,320,7.3849303970787,94.882934097098,"Fall",108302
+10,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.6,70,"male",19,320,7.3849303970787,94.882934097098,"Fall",108303
+11,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.8,67,"male",19,320,7.3849303970787,94.882934097098,"Fall",108304
+11,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.5,67,"male",19,320,7.3849303970787,94.882934097098,"Fall",108305
+11,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.1,69,"male",19,320,7.3849303970787,94.882934097098,"Fall",108306
+11,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.7,66,"male",19,320,7.3849303970787,94.882934097098,"Fall",108307
+3,-110.69,32.37444,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",2.68,NA,"male",13.2,556,6.92677610961458,101.192570136088,"Spring",108308
+9,-110.909612,32.280177,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.3,NA,"male",19.4,278,7.48883512404643,100.759592102544,"Fall",108309
+9,-110.887901,32.28584,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.8,68,"male",19.2,300,7.41930324262734,98.1723901197184,"Fall",108310
+2,-110.906382,32.351841,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",2,65,"male",17.1,410,7.2297156153467,104.30234399446,"Winter",108311
+5,-109.20333,31.8825,NA,1955,"Pipistrellus hesperus","Pipistrellus_hesperus",2.8,78,"male",12.1,419,6.8180686859301,155.433383824522,"Spring",108312
+10,-109.183145,31.877684,NA,1956,"Pipistrellus hesperus","Pipistrellus_hesperus",3,69,"male",12.8,220,7.3994471537959,126.624283638299,"Fall",108313
+10,-109.20333,31.8825,NA,1958,"Pipistrellus hesperus","Pipistrellus_hesperus",5.2,75,NA,13,606,7.20025252082428,101.263112674246,"Fall",108314
+1,-112.80556,32.85361,NA,1960,"Pipistrellus hesperus","Pipistrellus_hesperus",2.9,71,"male",21.7,117,9.29031346308747,112.812900021779,"Winter",108315
+4,-110.650444,32.2631,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.5,70,"female",17.8,387,7.17229518228427,94.9727619424155,"Spring",108316
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.2,72,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108317
+6,-110.85611,32.33361,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",5.4,74,"female",18.1,388,7.21815891913015,92.9503469462622,"Summer",108318
+6,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",6,77,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108319
+6,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.2,73,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108320
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.2,69,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108321
+7,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.2,NA,"female",19,320,7.3849303970787,94.882934097098,"Summer",108322
+8,-110.883348,32.287557,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4,72,"female",19.2,303,7.41527395844468,97.6559083717991,"Summer",108323
+9,-110.914225,32.27133,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.1,70,"male",19.4,276,7.48883512404643,101.204296723024,"Fall",108324
+6,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.2,72,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108325
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.9,72,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108326
+8,-110.27,32.66028,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.4,73,"female",15,475,6.98151238282331,79.2787695718828,"Summer",108327
+8,-110.27,32.66028,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.8,69,"male",15,475,6.98151238282331,79.2787695718828,"Summer",108328
+6,-111.01389,31.51111,NA,1964,"Pipistrellus hesperus","Pipistrellus_hesperus",2.2,71,"male",16,452,7.38759709980796,126.243097978737,"Summer",108329
+6,-111.01389,31.51111,NA,1964,"Pipistrellus hesperus","Pipistrellus_hesperus",4.1,74,"female",16,452,7.38759709980796,126.243097978737,"Summer",108330
+6,-111.01389,31.51111,NA,1964,"Pipistrellus hesperus","Pipistrellus_hesperus",4,72,"female",16,452,7.38759709980796,126.243097978737,"Summer",108331
+2,-109.033333,27.137619,NA,1965,"Pipistrellus hesperus","Pipistrellus_hesperus",3.5,71,"female",25,573,4.83969539487265,143.642126545904,"Winter",108332
+9,-110.939886,32.31238,NA,1966,"Pipistrellus hesperus","Pipistrellus_hesperus",4.5,73,"male",19.4,386,7.77566132820284,91.3510162194712,"Fall",108333
+6,-109.413591,33.022011,NA,1969,"Pipistrellus hesperus","Pipistrellus_hesperus",3.8,73,"female",16.6,275,8.07784099568165,88.7372979026766,"Summer",108334
+8,-109.4751,32.1446,NA,1976,"Pipistrellus hesperus","Pipistrellus_hesperus",3.5,70,"male",13.9,330,6.83506999365638,84.79336903802,"Summer",108335
+5,-110.7483,31.8392,NA,1976,"Pipistrellus hesperus","Pipistrellus_hesperus",5,78,"female",15.7,494,6.22723125400921,86.7586097499971,"Spring",108336
+9,-110.7145,31.8682,NA,1976,"Pipistrellus hesperus","Pipistrellus_hesperus",6,77,"female",16.2,454,6.29752236032456,84.5808057846336,"Fall",108337
+8,-112.4208,34.0371,NA,1978,"Pipistrellus hesperus","Pipistrellus_hesperus",3,68,"female",19.1,877,7.92630354445172,89.1573829280435,"Summer",108338
+9,-112.3689,33.9787,NA,1978,"Pipistrellus hesperus","Pipistrellus_hesperus",4.1,60,"male",19.6,784,7.96767617542051,89.3746724266611,"Fall",108339
+9,-112.95,32.10833,NA,1993,"Pipistrellus hesperus","Pipistrellus_hesperus",2.9,72,"male",22.3,182,7.36675579268723,155.007745516985,"Fall",108340
+7,-112.72417,32.06833,NA,1979,"Pipistrellus hesperus","Pipistrellus_hesperus",3,71,"male",20.2,373,7.84730700767641,144.710916182345,"Summer",108341
+6,-115.93,35.79,NA,1968,"Pipistrellus (Pipistrellus) hesperus H. Allen, 1864","Pipistrellus_hesperus",6,73,"female",14.5,113,7.73261490915805,105.110596405923,"Summer",108346
+4,-115.67,34.85,NA,1976,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2,73,"female",17.1,208,7.18255462277113,111.298625528471,"Spring",108347
+4,-115.67,34.85,NA,1976,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",2,71,"male",17.1,208,7.18255462277113,111.298625528471,"Spring",108348
+4,-115.67,34.85,NA,1976,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,75,"female",17.1,208,7.18255462277113,111.298625528471,"Spring",108349
+4,-115.67,34.85,NA,1976,"Pipistrellus (Pipistrellus) hesperus hesperus H. Allen, 1864","Pipistrellus_hesperus",3,73,"female",17.1,208,7.18255462277113,111.298625528471,"Spring",108350
+8,-100.9411667,25.1840556,NA,2004,"Pipistrellus hesperus","Pipistrellus_hesperus",3,75,"male",14.3,459,4.04302616935144,77.7230127157572,"Summer",108351
+5,-108.4877777778,32.5452777778,NA,1995,"Pipistrellus hesperus","Pipistrellus_hesperus",4,76,"male",13.7,323,7.09921037008961,96.262066499416,"Spring",108352
+5,-108.4877777778,32.5452777778,NA,1995,"Pipistrellus hesperus","Pipistrellus_hesperus",6,80,"female",13.7,323,7.09921037008961,96.262066499416,"Spring",108353
+4,-110.805747,32.250695,NA,1954,"Pipistrellus hesperus","Pipistrellus_hesperus",2.7,68,"male",20.8,337,6.87901397973091,99.8241011167638,"Spring",108354
+5,-109.20333,31.8825,NA,1955,"Pipistrellus hesperus","Pipistrellus_hesperus",3.1,76,"male",12.1,419,6.8180686859301,155.433383824522,"Spring",108355
+6,-110.744597,31.957327,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.5,72,"male",17.5,409,7.03148762224739,97.6501415461721,"Summer",108356
+10,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.7,69,"male",19,320,7.3849303970787,94.882934097098,"Fall",108357
+12,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.7,67,"male",18.9,344,7.37518361353352,91.7939194290102,"Winter",108358
+1,-110.805735,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.3,69,"male",18.8,348,7.40214444767477,106.079392584412,"Winter",108359
+2,-110.805735,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",2.1,68,"male",18.8,348,7.40214444767477,106.079392584412,"Winter",108360
+2,-110.805735,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",2.8,70,"male",18.8,348,7.40214444767477,106.079392584412,"Winter",108361
+2,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.11,NA,"male",19.4,318,7.50508413535704,106.884601038185,"Winter",108362
+2,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.49,NA,"male",19.4,318,7.50508413535704,106.884601038185,"Winter",108363
+3,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.28,74,"male",19.4,318,7.50508413535704,106.884601038185,"Spring",108364
+3,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.15,NA,"male",19.4,318,7.50508413535704,106.884601038185,"Spring",108365
+3,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.3,NA,"female",19.4,318,7.50508413535704,106.884601038185,"Spring",108366
+7,-110.80917,32.32222,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",4.94,NA,"female",19.4,318,7.50508413535704,106.884601038185,"Summer",108367
+9,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.7,68,"male",19,320,7.3849303970787,94.882934097098,"Fall",108368
+9,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.4,69,"male",19,320,7.3849303970787,94.882934097098,"Fall",108369
+10,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.4,69,"male",19,320,7.3849303970787,94.882934097098,"Fall",108370
+10,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.7,70,"male",19,320,7.3849303970787,94.882934097098,"Fall",108371
+10,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.5,68,"male",19,320,7.3849303970787,94.882934097098,"Fall",108372
+10,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.9,69,"male",19,320,7.3849303970787,94.882934097098,"Fall",108373
+11,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3,69,"male",19,320,7.3849303970787,94.882934097098,"Fall",108374
+11,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.3,73,"male",19,320,7.3849303970787,94.882934097098,"Fall",108375
+11,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.1,73,"male",19,320,7.3849303970787,94.882934097098,"Fall",108376
+11,-110.823911,32.301505,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.5,67,"male",19,320,7.3849303970787,94.882934097098,"Fall",108377
+3,-110.69,32.37444,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.07,71,"male",13.2,556,6.92677610961458,101.192570136088,"Spring",108378
+3,-110.69,32.37444,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",3.34,71,"female",13.2,556,6.92677610961458,101.192570136088,"Spring",108379
+9,-110.909612,32.280177,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.5,68,"male",19.4,278,7.48883512404643,100.759592102544,"Fall",108380
+9,-110.883348,32.287557,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.5,66,"male",19.2,303,7.41527395844468,97.6559083717991,"Fall",108381
+9,-110.887901,32.28584,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4,70,"female",19.2,300,7.41930324262734,98.1723901197184,"Fall",108382
+9,-110.887901,32.28584,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.8,72,"female",19.2,300,7.41930324262734,98.1723901197184,"Fall",108383
+9,-110.887901,32.28584,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.9,73,"female",19.2,300,7.41930324262734,98.1723901197184,"Fall",108384
+9,-109.400512,31.467521,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.4,78,"male",15.9,337,6.9558946007663,100.53198016179,"Fall",108385
+10,-109.710791,32.578205,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.3,69,"male",16.2,405,7.4335184784661,83.1659373709896,"Fall",108386
+1,-111.63556,31.80472,NA,1962,"Pipistrellus hesperus","Pipistrellus_hesperus",2.4,66,"male",17.9,375,7.14174136306893,123.288751975338,"Winter",108387
+10,-109.1771,31.882817,NA,1956,"Pipistrellus hesperus","Pipistrellus_hesperus",4.8,92,"male",12.9,218,7.4084513574128,127.17247935844,"Fall",108388
+9,-109.20333,31.8825,NA,1957,"Pipistrellus hesperus","Pipistrellus_hesperus",3.5,69,"male",13,525,6.31123937307423,112.750730697088,"Fall",108389
+5,-110.87944,31.725,NA,1958,"Pipistrellus hesperus","Pipistrellus_hesperus",4.5,74,"female",16,688,6.95725041473522,91.2322742295407,"Spring",108390
+4,-110.85611,32.33361,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.5,67,"male",18.1,388,7.21815891913015,92.9503469462622,"Spring",108391
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.8,68,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108392
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",5,75,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108393
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",5.4,79,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108394
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.7,75,"female",18.9,344,7.37518361353352,91.7939194290102,"Summer",108395
+8,-110.27,32.66028,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.1,68,"male",15,475,6.98151238282331,79.2787695718828,"Summer",108396
+8,-110.27,32.66028,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",5.5,79,"female",15,475,6.98151238282331,79.2787695718828,"Summer",108397
+9,-110.883348,32.287557,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",5.3,70,"male",19.2,303,7.41527395844468,97.6559083717991,"Fall",108398
+2,-110.80917,32.32222,NA,1960,"Pipistrellus hesperus","Pipistrellus_hesperus",3.5,68,"male",18.8,282,8.23445735181061,102.635041591667,"Winter",108399
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",2.4,67,"male",18.9,344,7.37518361353352,91.7939194290102,"Summer",108400
+7,-110.80917,32.32222,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",4.1,72,"male",18.9,344,7.37518361353352,91.7939194290102,"Summer",108401
+8,-110.883348,32.287557,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.7,76,"female",19.2,303,7.41527395844468,97.6559083717991,"Summer",108402
+8,-110.883348,32.287557,NA,1961,"Pipistrellus hesperus","Pipistrellus_hesperus",3.2,70,"male",19.2,303,7.41527395844468,97.6559083717991,"Summer",108403
+6,-106.2,26.7,NA,1963,"Pipistrellus hesperus","Pipistrellus_hesperus",5,77,"female",17.4,439,4.81313701018243,127.134224224548,"Summer",108404
+6,-106.2,26.7,NA,1963,"Pipistrellus hesperus","Pipistrellus_hesperus",4.5,86,"female",17.4,439,4.81313701018243,127.134224224548,"Summer",108405
+4,-104.228166,20.299996,NA,1964,"Pipistrellus hesperus","Pipistrellus_hesperus",4,63,"male",19.4,886,2.29153580893609,122.967904036459,"Spring",108406
+5,-103.85,20.5,NA,1964,"Pipistrellus hesperus","Pipistrellus_hesperus",5,73,"female",21.1,761,2.70592783616738,117.807659387922,"Spring",108407
+4,-103.85,20.5,NA,1964,"Pipistrellus hesperus","Pipistrellus_hesperus",5,70,"male",21.1,761,2.70592783616738,117.807659387922,"Spring",108408
+9,-110.755709,32.250681,NA,1964,"Pipistrellus hesperus","Pipistrellus_hesperus",4,77,"female",18.3,357,8.00012783988765,90.8877750719144,"Fall",108409
+5,-113.01694,31.94444,NA,1979,"Pipistrellus hesperus","Pipistrellus_hesperus",3,63,"male",21.9,271,8.14703887459993,146.168427457089,"Spring",108410
+9,-112.3689,33.9787,NA,1978,"Pipistrellus hesperus","Pipistrellus_hesperus",3.7,50,"male",19.6,784,7.96767617542051,89.3746724266611,"Fall",108411
+9,-112.3689,33.9787,NA,1978,"Pipistrellus hesperus","Pipistrellus_hesperus",3.8,58,"male",19.6,784,7.96767617542051,89.3746724266611,"Fall",108412
+6,-110.8495,31.9699,NA,1981,"Pipistrellus hesperus","Pipistrellus_hesperus",4,73,"female",19.6,289,6.9281321545937,92.6769396965348,"Summer",108413
+8,-112.4208,34.0371,NA,1978,"Pipistrellus hesperus","Pipistrellus_hesperus",4,73,"female",19.1,877,7.92630354445172,89.1573829280435,"Summer",108414
+10,-113.01667,31.94,NA,1981,"Pipistrellus hesperus","Pipistrellus_hesperus",2.5,65,"male",23,203,7.10008002515721,78.7241943823987,"Fall",108415
+8,-111.171,33.6449,NA,1979,"Pipistrellus hesperus","Pipistrellus_hesperus",4,68,"female",18.2,452,8.27751609646715,117.872951998277,"Summer",108416
+4,-112.69111,32.01583,NA,1982,"Pipistrellus hesperus","Pipistrellus_hesperus",3,73,"male",18.8,457,6.90329302184505,91.3302693315903,"Spring",108417
+9,-110.8841,31.7753,NA,1982,"Pipistrellus hesperus","Pipistrellus_hesperus",3.583,72,"female",17.3,563,6.73216499014585,101.005276736609,"Fall",108418
+9,-110.8841,31.7753,NA,1982,"Pipistrellus hesperus","Pipistrellus_hesperus",2.75,73,"female",17.3,563,6.73216499014585,101.005276736609,"Fall",108419

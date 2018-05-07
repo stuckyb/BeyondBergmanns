@@ -1,0 +1,234 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+1,-117.366668,46.873162,NA,2005,"Bombycilla garrulus","Bombycilla_garrulus",55.1,NA,"female",9.2,429,7.72192372797129,71.60486521832,"Winter",9966
+1,-117.366668,46.873162,NA,2005,"Bombycilla garrulus","Bombycilla_garrulus",59.4,NA,"female",9.2,429,7.72192372797129,71.60486521832,"Winter",9967
+1,-118.388301,46.049303,NA,2005,"Bombycilla garrulus","Bombycilla_garrulus",57.8,NA,"male",11.8,330,8.10317932366767,79.4016261159627,"Winter",9968
+1,-117.179457,46.728691,NA,1950,"Bombycilla garrulus","Bombycilla_garrulus",51.7,225,"male",7.6,652,8.66198154248924,66.8975596396836,"Winter",9969
+12,-117.298849,46.820843,"Ad",1953,"Bombycilla garrulus","Bombycilla_garrulus",55.5,205,"female",9.5,606,5.98656956457662,98.1055946482522,"Winter",9970
+1,-117.179457,46.728691,"Ad",1954,"Bombycilla garrulus","Bombycilla_garrulus",57.4,207,"male",8,494,6.54385554963933,45.8375419667282,"Winter",9971
+11,-117.877365,46.934681,"Ad",1956,"Bombycilla garrulus","Bombycilla_garrulus",65.5,214,"female",9.6,314,8.72052177338031,63.1511295397739,"Fall",9972
+10,-117.298473,46.815477,"Ad",1965,"Bombycilla garrulus","Bombycilla_garrulus",59.8,233,"female",9,383,7.20180953691922,62.4985970470564,"Fall",9973
+11,-119.346309,47.13971,NA,1968,"Bombycilla garrulus","Bombycilla_garrulus",63,207,"male",11.2,195,8.34879777227981,76.1471353969108,"Fall",9974
+12,-117.179457,46.728691,"Ad",1968,"Bombycilla garrulus","Bombycilla_garrulus",49,209,"male",8.6,550,7.20056289887159,64.6216986536996,"Winter",9975
+1,-117.179457,46.728691,"Ad",1971,"Bombycilla garrulus","Bombycilla_garrulus",65.7,200,"female",8.1,663,7.58329004316648,44.776639089984,"Winter",9976
+1,-117.323339,46.67056,"Ad",1973,"Bombycilla garrulus","Bombycilla_garrulus",64.9,NA,"male",9.5,528,7.59802107409714,111.497514729652,"Winter",9977
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",68.4,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",9978
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",69.5,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",9979
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",61.5,NA,"female",7.5,661,7.79718286344886,57.1700607954943,"Winter",9980
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",69.8,NA,"female",7.5,661,7.79718286344886,57.1700607954943,"Winter",9981
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",70.9,NA,"female",7.5,661,7.79718286344886,57.1700607954943,"Winter",9982
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",59.6,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",9983
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",66.9,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",9984
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",62.1,NA,"female",7.5,661,7.79718286344886,57.1700607954943,"Winter",9985
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",62.6,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",9986
+2,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",68.3,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",9987
+12,-117.298849,46.820843,NA,1953,"Bombycilla garrulus","Bombycilla_garrulus",54.8,211,"male",9.5,606,5.98656956457662,98.1055946482522,"Winter",9988
+1,-117.165649,46.729529,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",68.7,NA,"male",8.2,483,7.98446882542868,80.7790949691111,"Winter",9989
+1,-117.165419,46.729074,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",64.6,NA,"male",8.2,483,7.98446882542868,80.7790949691111,"Winter",9990
+3,-117.16908,46.760063,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",59.1,NA,"female",8.2,476,7.96461873005554,81.0604678173755,"Spring",9991
+12,-117.164293,46.730767,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",59.9,NA,"male",8.2,483,7.98446882542868,80.8616631624308,"Winter",9992
+12,-117.164293,46.730767,NA,1978,"Bombycilla garrulus","Bombycilla_garrulus",51.7,NA,"male",7.7,488,7.68112602225071,51.3386319151661,"Winter",9993
+12,-117.179457,46.728691,"Ad",1968,"Bombycilla garrulus","Bombycilla_garrulus",56.5,192,"female",8.6,550,7.20056289887159,64.6216986536996,"Winter",9994
+1,-117.164293,46.730767,NA,1981,"Bombycilla garrulus","Bombycilla_garrulus",54.5,NA,NA,8.7,601,6.36302648592681,55.6155635509603,"Winter",9995
+3,-117.157273,46.731746,NA,1980,"Bombycilla garrulus","Bombycilla_garrulus",59.5,NA,NA,8.1,608,7.00822028158016,53.5931890905692,"Spring",9996
+3,-117.157273,46.731746,NA,1980,"Bombycilla garrulus","Bombycilla_garrulus",65.1,NA,NA,8.1,608,7.00822028158016,53.5931890905692,"Spring",9997
+3,-117.157273,46.731746,NA,1980,"Bombycilla garrulus","Bombycilla_garrulus",72.7,NA,NA,8.1,608,7.00822028158016,53.5931890905692,"Spring",9998
+3,-117.157273,46.731746,NA,1980,"Bombycilla garrulus","Bombycilla_garrulus",62.4,NA,NA,8.1,608,7.00822028158016,53.5931890905692,"Spring",9999
+3,-117.157273,46.731746,NA,1980,"Bombycilla garrulus","Bombycilla_garrulus",52.7,NA,NA,8.1,608,7.00822028158016,53.5931890905692,"Spring",10000
+5,-117.164293,46.730767,NA,1983,"Bombycilla garrulus","Bombycilla_garrulus",30.5,NA,NA,8.6,653,7.14212323069437,51.8771001530378,"Spring",10001
+2,-117.179457,46.728691,NA,1981,"Bombycilla garrulus","Bombycilla_garrulus",59.9,NA,"male",8.7,590,6.38726834959179,57.0116115111004,"Winter",10002
+12,-117.165649,46.729529,NA,1983,"Bombycilla garrulus","Bombycilla_garrulus",62.6,NA,"female",8.6,653,7.1532997259794,51.8771001530378,"Winter",10003
+2,-117.162914,46.734377,NA,1984,"Bombycilla garrulus","Bombycilla_garrulus",63,NA,"male",7.9,600,7.41674497745514,53.714553543818,"Winter",10004
+1,-117.164293,46.730767,NA,1986,"Bombycilla garrulus","Bombycilla_garrulus",58.8,NA,NA,8.9,525,7.28898608736621,65.573045358287,"Winter",10005
+2,-117.179457,46.728691,NA,1986,"Bombycilla garrulus","Bombycilla_garrulus",69.5,NA,"male",8.9,511,7.26228843639065,66.2506298721509,"Winter",10006
+2,-117.164293,46.730767,NA,1986,"Bombycilla garrulus","Bombycilla_garrulus",53.5,NA,NA,8.9,525,7.28898608736621,65.573045358287,"Winter",10007
+1,-117.179457,46.728691,NA,1986,"Bombycilla garrulus","Bombycilla_garrulus",62.6,NA,"female",8.9,511,7.26228843639065,66.2506298721509,"Winter",10008
+1,-117.164293,46.730767,NA,1990,"Bombycilla garrulus","Bombycilla_garrulus",56.6,NA,"male",9,573,8.21836450588042,60.5834714064507,"Winter",10009
+1,-117.163002,46.72998,NA,1991,"Bombycilla garrulus","Bombycilla_garrulus",70.2,NA,"female",8.9,482,7.10548230508519,70.4790903845913,"Winter",10010
+1,-117.163002,46.72998,NA,1991,"Bombycilla garrulus","Bombycilla_garrulus",55,NA,"male",8.9,482,7.10548230508519,70.4790903845913,"Winter",10011
+2,-117.179457,46.728691,NA,1991,"Bombycilla garrulus","Bombycilla_garrulus",52.8,NA,"male",9,469,7.1352040169596,70.015532612568,"Winter",10012
+2,-117.179457,46.728691,NA,1997,"Bombycilla garrulus","Bombycilla_garrulus",58.5,NA,"male",8.8,584,7.40971413998972,49.8765251930399,"Winter",10013
+12,-105.052965,39.589828,"adult",2004,"Bombycilla garrulus","Bombycilla_garrulus",45.4,175,"undetermined",10.9,488,7.73055723421767,64.408422926897,"Winter",10014
+9,-105.085819,40.573761,NA,1977,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",54.4,192,"male",9.6,303,9.25954053444829,132.487745942917,"Fall",10015
+6,-138.7054825,61.2114278,"juvenile",1969,"Bombycilla garrulus","Bombycilla_garrulus",58.2,NA,"female",-3.9,187,13.8567645661758,87.6176873125818,"Summer",10016
+5,-149.8172222222,61.195,"u ad.",1959,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",51.7,NA,"male",1,425,10.1650433378617,92.3205901312378,"Spring",10017
+5,-149.8172222222,61.195,"u ad.",1959,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",52.4,NA,"female",1,425,10.1650433378617,92.3205901312378,"Spring",10018
+6,-155.0244444444,59.5366666667,"u ad.",1959,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",58.3,NA,"male",1.7,441,9.48553923324629,67.4471247465612,"Summer",10019
+6,-154.9092,59.7696,"u ad.",1959,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",59.4,NA,"male",1.2,468,9.42448053387206,70.9865741844965,"Summer",10020
+11,-149.9002777778,61.2180555556,"sk.part oss.",1961,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",58.5,NA,"female",0.4,454,10.8860488978353,78.7956500710658,"Fall",10021
+11,-149.9002777778,61.2180555556,"u juv.",1961,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",58,NA,"male",0.4,454,10.8860488978353,78.7956500710658,"Fall",10022
+1,-120.1058,37.753536,"unknown",1917,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",53,NA,"female",13,569,8.23611319774447,170.914917229886,"Winter",10023
+1,-120.1058,37.753536,"unknown",1917,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",53.5,NA,"male",13,569,8.23611319774447,170.914917229886,"Winter",10024
+1,-120.1058,37.753536,"unknown",1917,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",59.7,NA,"female",13,569,8.23611319774447,170.914917229886,"Winter",10025
+6,-131.1667,57.9,"unknown",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",46.5,NA,"male",0.9,330,11.0175445485275,46.8384374059661,"Summer",10026
+6,-131.1833,57.9167,"unknown",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",56.3,NA,"male",0.4,393,10.7032563722307,47.6274398471146,"Summer",10027
+6,-131.1833,57.9167,"unknown",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",48.5,NA,"male",0.4,393,10.7032563722307,47.6274398471146,"Summer",10028
+6,-131.1833,57.9167,"unknown",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",49.5,NA,"male",0.4,393,10.7032563722307,47.6274398471146,"Summer",10029
+6,-131.1833,57.9167,"u ad.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",50,NA,"male",0.4,393,10.7032563722307,47.6274398471146,"Summer",10030
+7,-131.1667,57.9,"juv.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",32,NA,"male",0.9,330,11.0175445485275,46.8384374059661,"Summer",10031
+7,-131.1667,57.9,"juv.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",30,NA,"female",0.9,330,11.0175445485275,46.8384374059661,"Summer",10032
+7,-131.1667,57.9,"juv.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",37.3,NA,"male",0.9,330,11.0175445485275,46.8384374059661,"Summer",10033
+7,-131.1667,57.9,"ad.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",48.2,NA,"female",0.9,330,11.0175445485275,46.8384374059661,"Summer",10034
+7,-131.3833,57.8333,"u ad.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",52.5,NA,"male",1.2,379,10.9927352043396,49.0966307949911,"Summer",10035
+7,-131.3833,57.8333,"u ad.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",50.5,NA,"male",1.2,379,10.9927352043396,49.0966307949911,"Summer",10036
+7,-133.3816,59.5743,"juv.",1924,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",52,NA,"female",-2.9,421,8.37085039668231,42.9004110588313,"Summer",10037
+8,-133.3816,59.5743,"unknown",1924,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",56,NA,"male",-2.9,421,8.37085039668231,42.9004110588313,"Summer",10038
+6,-149.2891666667,63.75,"unknown",1926,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",50.5,NA,"male ?",-0.4,600,9.93589681179034,93.9787209957658,"Summer",10039
+6,-149.2891666667,63.75,"unknown",1926,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",53.5,NA,"female",-0.4,600,9.93589681179034,93.9787209957658,"Summer",10040
+3,-79.8090219,43.3811599,NA,2008,"Bombycilla garrulus","Bombycilla_garrulus",63.8,NA,"undetermined",8,884,9.73784790485977,26.8655368614171,"Spring",10041
+6,-134.5365143,60.5649567,"ad",1973,"Bombycilla garrulus garrulus","Bombycilla_garrulus",53.8,NA,"male",-2.9,229,12.9174623410844,56.9429635378272,"Summer",10042
+6,-134.5365143,60.5649567,NA,1973,"Bombycilla garrulus garrulus","Bombycilla_garrulus",49.2,NA,"undetermined",-2.9,229,12.9174623410844,56.9429635378272,"Summer",10043
+6,-126.8426514,65.2417576,"ad",1975,"Bombycilla garrulus garrulus","Bombycilla_garrulus",45.4,NA,"male",-6.5,252,17.8707226287223,63.7346061758158,"Summer",10044
+3,-89.12322,48.43968,"sy",1941,"Bombycilla garrulus garrulus","Bombycilla_garrulus",59,NA,"female",3.5,838,11.4330561411756,69.5387528516282,"Spring",10045
+4,-89.28001,48.38345,"imm",1962,"Bombycilla garrulus garrulus","Bombycilla_garrulus",53,186,"male",2,615,11.7949398498087,62.4563446043897,"Spring",10046
+5,-147.8043,64.857,"AHY",1999,"Bombycilla garrulus","Bombycilla_garrulus",62,NA,"female",-4.1,278,16.3509243552995,93.4095215432179,"Spring",10047
+10,-147.8043,64.857,"HY",2002,"Bombycilla garrulus","Bombycilla_garrulus",61.1,NA,"male",-0.4,294,11.9405598569317,118.023795809022,"Fall",10048
+12,-134.555,58.3449,"AD",2003,"Bombycilla garrulus","Bombycilla_garrulus",63.2,NA,"male",5.8,1692,5.55672538188608,53.6824111519927,"Winter",10049
+8,-134.6722,58.3611,"HY",2011,"Bombycilla garrulus","Bombycilla_garrulus",45.7,NA,"female ?",5.3,1868,6.28307008531416,52.1328223058202,"Summer",10050
+12,-131.7166,55.3441,"U",2010,"Bombycilla garrulus","Bombycilla_garrulus",59.5,NA,"male",8,3377,4.74350433048536,62.7586571481651,"Winter",10051
+4,-149.9044,61.1742,"U",1997,"Bombycilla garrulus","Bombycilla_garrulus",37.3,NA,"female",3.3,378,9.50197347923051,89.1408881625497,"Spring",10052
+4,-147.8043,64.857,"U",1997,"Bombycilla garrulus","Bombycilla_garrulus",45.2,NA,"female",-1.3,187,14.6991960200673,97.0828472046794,"Spring",10053
+6,-147.8043,64.857,"AD",1997,"Bombycilla garrulus","Bombycilla_garrulus",58.5,NA,"female",-1.3,187,14.6991960200673,97.0828472046794,"Summer",10054
+4,-147.8043,64.857,"AHY",1996,"Bombycilla garrulus","Bombycilla_garrulus",52.9,NA,"male",-3.7,295,15.2504619900215,87.5889499783543,"Spring",10055
+1,-88.5482597,47.1166353,NA,1998,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",65.3,196,"female",7.3,799,9.52833096135367,34.4159363870163,"Winter",10056
+11,-87.3935394,46.5456314,"immature",2010,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",64.7,NA,"male",6.5,860,10.0476440778499,70.5045929226009,"Fall",10057
+4,-105.59056,41.31139,NA,1964,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",66.1,NA,"male",4.4,210,9.94470698259617,72.2190031472632,"Spring",10058
+1,-117.366668,46.873162,NA,2005,"Bombycilla garrulus","Bombycilla_garrulus",63,NA,"male",9.2,429,7.72192372797129,71.60486521832,"Winter",10059
+1,-117.366668,46.873162,NA,2005,"Bombycilla garrulus","Bombycilla_garrulus",61.4,NA,"female",9.2,429,7.72192372797129,71.60486521832,"Winter",10060
+1,-117.366668,46.873162,NA,2005,"Bombycilla garrulus","Bombycilla_garrulus",54.8,NA,"female",9.2,429,7.72192372797129,71.60486521832,"Winter",10061
+1,-117.154388,46.666768,NA,2006,"Bombycilla garrulus","Bombycilla_garrulus",66.5,NA,"female",9.5,608,7.69696910045333,76.8831645195378,"Winter",10062
+12,-117.298849,46.820843,"Ad",1953,"Bombycilla garrulus","Bombycilla_garrulus",58.2,211,"female",9.5,606,5.98656956457662,98.1055946482522,"Winter",10063
+1,-117.179457,46.728691,"Ad",1954,"Bombycilla garrulus","Bombycilla_garrulus",61.7,201,"male",8,494,6.54385554963933,45.8375419667282,"Winter",10064
+1,-117.179457,46.728691,"Ad",1954,"Bombycilla garrulus","Bombycilla_garrulus",60.2,212,"male",8,494,6.54385554963933,45.8375419667282,"Winter",10065
+1,-117.179457,46.728691,"Ad",1954,"Bombycilla garrulus","Bombycilla_garrulus",61.1,202,"female",8,494,6.54385554963933,45.8375419667282,"Winter",10066
+11,-117.877365,46.934681,"Ad",1956,"Bombycilla garrulus","Bombycilla_garrulus",62.5,216,"male",9.6,314,8.72052177338031,63.1511295397739,"Fall",10067
+3,-117.179457,46.728691,"Ad",1959,"Bombycilla garrulus","Bombycilla_garrulus",62.5,213,"female",7.8,574,7.20445989816325,57.2381908309817,"Spring",10068
+3,-117.179457,46.728691,"Ad",1960,"Bombycilla garrulus","Bombycilla_garrulus",56,207,"male",8,595,8.25056471896428,62.0835874784356,"Spring",10069
+5,-117.179457,46.728691,NA,1966,"Bombycilla garrulus","Bombycilla_garrulus",95,218,"male",8.9,460,6.92708780473768,75.3229855802859,"Spring",10070
+1,-117.323339,46.67056,"Ad",1973,"Bombycilla garrulus","Bombycilla_garrulus",63.3,NA,"male",9.5,528,7.59802107409714,111.497514729652,"Winter",10071
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",61.7,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",10072
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",69,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",10073
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",63,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",10074
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",59.3,NA,"female",7.5,661,7.79718286344886,57.1700607954943,"Winter",10075
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",63.4,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",10076
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",66.5,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",10077
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",58.2,NA,"female",7.5,661,7.79718286344886,57.1700607954943,"Winter",10078
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",64.9,NA,"female",7.5,661,7.79718286344886,57.1700607954943,"Winter",10079
+1,-117.179457,46.728691,NA,1975,"Bombycilla garrulus","Bombycilla_garrulus",59.8,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",10080
+3,-117.165964,46.730767,NA,1976,"Bombycilla garrulus","Bombycilla_garrulus",56,NA,"female",8,415,7.13385016536079,51.7913829914669,"Spring",10081
+1,-117.165419,46.729074,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",68,NA,"female",8.2,483,7.98446882542868,80.7790949691111,"Winter",10082
+1,-117.165419,46.729074,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",60.8,NA,"female",8.2,483,7.98446882542868,80.7790949691111,"Winter",10083
+1,-117.165419,46.729074,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",58,NA,"female",8.2,483,7.98446882542868,80.7790949691111,"Winter",10084
+1,-117.165649,46.729529,NA,1970,"Bombycilla garrulus","Bombycilla_garrulus",60.9,NA,"female",8.4,577,7.76629762421444,79.1467279516629,"Winter",10085
+3,-117.16908,46.760063,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",58.4,NA,"female",8.2,476,7.96461873005554,81.0604678173755,"Spring",10086
+1,-117.165419,46.729074,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",53.8,NA,"female",8.2,483,7.98446882542868,80.7790949691111,"Winter",10087
+1,-117.165419,46.729074,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",65.4,NA,"female",8.2,483,7.98446882542868,80.7790949691111,"Winter",10088
+12,-117.164293,46.730767,NA,1978,"Bombycilla garrulus","Bombycilla_garrulus",55.6,NA,"female",7.7,488,7.68112602225071,51.3386319151661,"Winter",10089
+1,-117.157273,46.731746,NA,1981,"Bombycilla garrulus","Bombycilla_garrulus",62.5,NA,"female",8.7,607,6.36914912732153,55.0740143533004,"Winter",10090
+1,-117.157273,46.731746,NA,1981,"Bombycilla garrulus","Bombycilla_garrulus",62.6,NA,"male",8.7,607,6.36914912732153,55.0740143533004,"Winter",10091
+3,-117.157273,46.731746,NA,1980,"Bombycilla garrulus","Bombycilla_garrulus",65.5,NA,NA,8.1,608,7.00822028158016,53.5931890905692,"Spring",10092
+3,-117.157273,46.731746,NA,1980,"Bombycilla garrulus","Bombycilla_garrulus",67.3,NA,NA,8.1,608,7.00822028158016,53.5931890905692,"Spring",10093
+3,-117.157273,46.731746,NA,1980,"Bombycilla garrulus","Bombycilla_garrulus",61.3,NA,NA,8.1,608,7.00822028158016,53.5931890905692,"Spring",10094
+3,-117.157273,46.731746,NA,1980,"Bombycilla garrulus","Bombycilla_garrulus",51.1,NA,NA,8.1,608,7.00822028158016,53.5931890905692,"Spring",10095
+11,-117.20894,46.824342,NA,1978,"Bombycilla garrulus","Bombycilla_garrulus",51.9,NA,"male",7.6,503,7.70129367330088,51.2729085642658,"Fall",10096
+2,-117.166036,46.731749,NA,1984,"Bombycilla garrulus","Bombycilla_garrulus",52.2,NA,"female",7.9,602,7.4071781319736,53.4402058792747,"Winter",10097
+2,-117.164293,46.730767,NA,1986,"Bombycilla garrulus","Bombycilla_garrulus",60.6,NA,"male",8.9,525,7.28898608736621,65.573045358287,"Winter",10098
+1,-117.179457,46.728691,NA,1985,"Bombycilla garrulus","Bombycilla_garrulus",35.4,NA,"female",6.5,385,9.79360876935937,48.9006988739885,"Winter",10099
+1,-117.164293,46.730767,NA,1987,"Bombycilla garrulus","Bombycilla_garrulus",66.6,NA,"female",9.4,402,7.66216600438726,64.3571415896164,"Winter",10100
+1,-117.179457,46.728691,NA,1986,"Bombycilla garrulus","Bombycilla_garrulus",59.7,NA,NA,8.9,511,7.26228843639065,66.2506298721509,"Winter",10101
+12,-117.164293,46.730767,NA,1983,"Bombycilla garrulus","Bombycilla_garrulus",64.5,NA,"male",8.6,653,7.14212323069437,51.8771001530378,"Winter",10102
+12,-117.164293,46.730767,NA,1983,"Bombycilla garrulus","Bombycilla_garrulus",63.5,NA,"female",8.6,653,7.14212323069437,51.8771001530378,"Winter",10103
+1,-117.179457,46.728691,NA,1991,"Bombycilla garrulus","Bombycilla_garrulus",53,NA,"female",9,469,7.1352040169596,70.015532612568,"Winter",10104
+2,-117.163002,46.72998,NA,1991,"Bombycilla garrulus","Bombycilla_garrulus",59.6,NA,"male",8.9,482,7.10548230508519,70.4790903845913,"Winter",10105
+12,-117.0758,46.9101,NA,1990,"Bombycilla garrulus","Bombycilla_garrulus",57.2,NA,"male",8.9,614,8.15341534684587,57.735723028095,"Winter",10106
+3,-117.164293,46.730767,NA,1992,"Bombycilla garrulus","Bombycilla_garrulus",61.4,NA,"male",9.9,439,7.30804351382776,53.9248281993119,"Spring",10107
+3,-117.164293,46.730767,NA,1992,"Bombycilla garrulus","Bombycilla_garrulus",57.3,NA,"male",9.9,439,7.30804351382776,53.9248281993119,"Spring",10108
+3,-117.164293,46.730767,NA,1992,"Bombycilla garrulus","Bombycilla_garrulus",59,NA,"male",9.9,439,7.30804351382776,53.9248281993119,"Spring",10109
+3,-117.36193,47.626826,NA,1994,"Bombycilla garrulus","Bombycilla_garrulus",61.5,NA,"male",9.4,411,8.48885186939942,66.2192332309072,"Spring",10110
+2,-117.179457,46.728691,NA,1997,"Bombycilla garrulus","Bombycilla_garrulus",61.8,NA,"male",8.8,584,7.40971413998972,49.8765251930399,"Winter",10111
+12,-105.05965,39.589828,"Adult",2004,"Bombycilla garrulus","Bombycilla_garrulus",49.2,181,"female",10.9,490,7.7254400678812,63.6757492105416,"Winter",10112
+11,-105.085819,40.573761,NA,1978,"Bombycilla garrulus","Bombycilla_garrulus",50,174.5,"female",8.3,372,9.93437176797015,121.514444517711,"Fall",10113
+1,-105.083471,40.57107,NA,1991,"Bombycilla garrulus","Bombycilla_garrulus",60.02,188,"female",9.1,371,8.66876577143482,80.7778112139358,"Winter",10114
+4,-105.113308,39.576401,NA,1985,"Bombycilla garrulus","Bombycilla_garrulus",40.8,160,"undetermined",9.2,427,9.26185971900598,50.5067634412044,"Spring",10115
+1,-95.2598661,38.9549568,NA,1962,"Bombycilla garrulus","Bombycilla_garrulus",70.8,NA,"male",12.2,912,10.8805358602442,67.0015484582327,"Winter",10116
+1,-95.2598661,38.9549568,NA,1962,"Bombycilla garrulus","Bombycilla_garrulus",66.2,NA,"male",12.2,912,10.8805358602442,67.0015484582327,"Winter",10117
+1,-97.3342574,37.6940187,NA,1962,"Bombycilla garrulus","Bombycilla_garrulus",70,NA,"male",13.5,793,10.5679045255247,97.7777229524986,"Winter",10118
+1,-97.3342574,37.6940187,NA,1962,"Bombycilla garrulus","Bombycilla_garrulus",66.9,NA,"female",13.5,793,10.5679045255247,97.7777229524986,"Winter",10119
+5,-145.2738888889,66.5647222222,"u ad.",1958,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",51.7,NA,"male",-5.2,141,18.0146825639196,46.8209966915068,"Spring",10120
+11,-149.9002777778,61.2180555556,"u ad.",1961,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",64.2,NA,"male",0.4,454,10.8860488978353,78.7956500710658,"Fall",10121
+1,-120.1058,37.753536,"unknown",1917,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",53.4,NA,"female",13,569,8.23611319774447,170.914917229886,"Winter",10122
+6,-131.1667,57.9,"unknown",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",50.5,NA,"male",0.9,330,11.0175445485275,46.8384374059661,"Summer",10123
+6,-131.1833,57.9167,"unknown",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",51,NA,"female",0.4,393,10.7032563722307,47.6274398471146,"Summer",10124
+6,-131.1667,57.9,"unknown",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",50.5,NA,"male",0.9,330,11.0175445485275,46.8384374059661,"Summer",10125
+7,-131.1667,57.9,"juv.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",43,NA,"male",0.9,330,11.0175445485275,46.8384374059661,"Summer",10126
+7,-131.1667,57.9,"juv.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",43,NA,"male",0.9,330,11.0175445485275,46.8384374059661,"Summer",10127
+7,-131.1667,57.9,"u ad.",1919,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",60.5,NA,"female",0.9,330,11.0175445485275,46.8384374059661,"Summer",10128
+7,-133.3816,59.5743,"juv.",1924,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",51,NA,"male",-2.9,421,8.37085039668231,42.9004110588313,"Summer",10129
+6,-134.5365143,60.5649567,"ad",1973,"Bombycilla garrulus garrulus","Bombycilla_garrulus",54.9,NA,"female",-2.9,229,12.9174623410844,56.9429635378272,"Summer",10130
+6,-135.0587082,60.682762,"ad",1973,"Bombycilla garrulus garrulus","Bombycilla_garrulus",45.4,NA,"male",-3.1,241,12.8315898067892,61.6021327391214,"Summer",10131
+6,-126.8086624,65.2842823,"sy",1975,"Bombycilla garrulus garrulus","Bombycilla_garrulus",56,NA,"male",-6.5,251,17.8533992179743,63.7346061758158,"Summer",10132
+1,-89.28001,48.38345,"imm",1940,"Bombycilla garrulus garrulus","Bombycilla_garrulus",62,NA,"female",2.6,692,11.2993530251904,39.7734296864944,"Winter",10133
+2,-147.8043,64.857,"AHY",2001,"Bombycilla garrulus","Bombycilla_garrulus",60.5,NA,"male",-1.4,226,13.1652060946706,120.843969687023,"Winter",10134
+2,-147.8043,64.857,"AHY",2001,"Bombycilla garrulus","Bombycilla_garrulus",68.8,NA,"male",-1.4,226,13.1652060946706,120.843969687023,"Winter",10135
+5,-147.8043,64.857,"AHY",2000,"Bombycilla garrulus","Bombycilla_garrulus",46.4,NA,"male",-1.6,285,12.314745411313,108.166813357895,"Spring",10136
+1,-131.619,55.331,"U",1996,"Bombycilla garrulus","Bombycilla_garrulus",40,NA,"male",6.6,2564,5.77932574446242,50.8619060522427,"Winter",10137
+1,-131.619,55.331,"AHY",1993,"Bombycilla garrulus","Bombycilla_garrulus",39.9,NA,"female",9,3006,5.34126304436422,59.680426316341,"Winter",10138
+5,-155.4943085,62.9439814,NA,1946,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",51.9,NA,"male",-4.2,501,15.2649603717637,59.2520655566308,"Spring",10139
+3,-85.480436,82.596161,"adult",2013,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",54.68,NA,"male",-9999,-9999,0,0,"Spring",10140
+3,-85.480436,82.596161,"adult",2013,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",62.3,NA,"female",-9999,-9999,0,0,"Spring",10141
+1,-105.59056,41.31139,NA,1962,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",54.6,NA,"female",5.4,290,9.27316101184031,56.2635059273106,"Winter",10142
+12,-117.179457,46.728691,NA,1977,"Bombycilla garrulus","Bombycilla_garrulus",63.7,NA,"male",8.3,467,7.98914035653171,81.9958785147359,"Winter",10143
+11,-104.9602777778,39.6636111111,"adult",2007,"Bombycilla garrulus","Bombycilla_garrulus",57.7,205,"male",11.1,399,9.50745720075786,55.3245356931544,"Fall",10145
+2,-105.112511,40.587191,"Adult",2013,"Bombycilla garrulus","Bombycilla_garrulus",13.7,192,"undetermined",8.6,377,9.93562232117802,80.7044274401517,"Winter",10146
+7,-162.3166667,67.9333333,"u ad.",1960,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",53.5,NA,"female",-6.3,479,13.5533373951014,85.6025337838528,"Summer",10147
+7,-162.3166667,67.9333333,"u ad.",1961,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",55.8,NA,"female",-7.5,315,15.5415181973573,93.3156622550499,"Summer",10148
+7,-162.3166667,67.9333333,"u juv.",1961,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",35.9,NA,"male",-7.5,315,15.5415181973573,93.3156622550499,"Summer",10149
+7,-162.3166667,67.9333333,"u juv.",1961,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",38.1,NA,"male",-7.5,315,15.5415181973573,93.3156622550499,"Summer",10150
+3,-123.250567,49.263456,NA,1975,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",55,NA,"female",9.3,1433,5.6293266188611,85.3237049209375,"Spring",10151
+3,-123.250567,49.263456,NA,1975,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",66.8,NA,"female",9.3,1433,5.6293266188611,85.3237049209375,"Spring",10152
+3,-123.250567,49.263456,NA,1975,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",58.5,NA,"female",9.3,1433,5.6293266188611,85.3237049209375,"Spring",10153
+2,-119.630241,49.495707,NA,1986,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",73,220,"female",9.2,327,8.04228879678597,49.9518174462939,"Winter",10154
+1,-119.630241,49.495707,NA,1986,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",59,208,"male",9.2,327,8.04228879678597,49.9518174462939,"Winter",10155
+11,-119.630241,49.495707,NA,1987,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",54,187,"female",10.3,242,7.93261392205392,60.6666301393038,"Fall",10156
+3,-119.594211,49.49871,"adult",1989,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",64,205,"female",9.5,282,8.67643971111458,50.9173727692396,"Spring",10157
+2,-119.630241,49.495707,NA,1989,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",51,183,"male",9.2,297,8.65316109694584,49.5782735966688,"Winter",10158
+1,-119.630241,49.495707,NA,1992,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",56,193,"female",10.1,318,8.30897196718795,69.8841254458756,"Winter",10159
+1,-114,46.8666667,NA,1959,"Bombycilla garrulus","Bombycilla_garrulus",65.1,NA,"female",6.5,432,8.47357747067407,62.5466550215576,"Winter",10160
+1,-114,46.8666667,NA,1959,"Bombycilla garrulus","Bombycilla_garrulus",62.9,NA,"female",6.5,432,8.47357747067407,62.5466550215576,"Winter",10161
+1,-114,46.8666667,NA,1959,"Bombycilla garrulus","Bombycilla_garrulus",66.7,NA,"male",6.5,432,8.47357747067407,62.5466550215576,"Winter",10162
+1,-114,46.8666667,NA,1959,"Bombycilla garrulus","Bombycilla_garrulus",66.8,NA,"male",6.5,432,8.47357747067407,62.5466550215576,"Winter",10163
+10,-83.95,42.45,"immature",1960,"Bombycilla garrulus","Bombycilla_garrulus",68.1,NA,"male",8.5,644,10.5753680357191,55.1921984882561,"Fall",10164
+7,-124.668231,58.6467,NA,1965,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",51.5,NA,NA,-2.1,547,10.3171929175028,52.2079912174829,"Summer",10165
+7,-124.668231,58.6467,NA,1965,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",59.5,NA,NA,-2.1,547,10.3171929175028,52.2079912174829,"Summer",10166
+7,-124.668231,58.6467,NA,1965,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",58.5,NA,"male",-2.1,547,10.3171929175028,52.2079912174829,"Summer",10167
+7,-124.668231,58.6467,NA,1965,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",60,NA,"female",-2.1,547,10.3171929175028,52.2079912174829,"Summer",10168
+2,-105.27,40,NA,1985,"Bombycilla garrulus","Bombycilla_garrulus",2,9,"female",9.2,434,9.66656217289395,47.5211949709027,"Winter",10169
+4,-105.3161111111,39.7152777778,NA,1982,"Bombycilla garrulus","Bombycilla_garrulus",1,3,"male",6.9,623,7.39464896620072,78.1329675872573,"Spring",10170
+4,-105.2205555556,39.7555555556,"adult",1991,"Bombycilla garrulus","Bombycilla_garrulus",69.9,189,"male",10,496,8.15653669820046,76.2517776595161,"Spring",10171
+4,-105.0808333333,39.7047222222,"adult",1991,"Bombycilla garrulus","Bombycilla_garrulus",63.5,205,"female",10.5,487,8.34412785718014,73.544820790639,"Spring",10172
+7,-133,61,"juvenile",1970,"Bombycilla garrulus","Bombycilla_garrulus",54,NA,"male",-2.5,311,11.0963821567976,74.8690348935031,"Summer",10173
+11,-84.364,46.493,NA,2012,"Bombycilla garrulus","Bombycilla_garrulus",52.6,NA,"female",7.5,762,9.34936393882525,49.7067531142296,"Fall",10174
+11,-84.364,46.493,NA,2012,"Bombycilla garrulus","Bombycilla_garrulus",65,NA,"female",7.5,762,9.34936393882525,49.7067531142296,"Fall",10175
+11,-84.364,46.493,NA,2012,"Bombycilla garrulus","Bombycilla_garrulus",63.1,NA,"female",7.5,762,9.34936393882525,49.7067531142296,"Fall",10176
+7,-162.3166667,67.9333333,"u ad.",1961,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",48.5,NA,"male",-7.5,315,15.5415181973573,93.3156622550499,"Summer",10177
+12,-82.50596,41.90342,"hy",1910,"Bombycilla garrulus garrulus","Bombycilla_garrulus",55.5,NA,"male",9.6,824,10.1534999190457,45.890419937926,"Winter",10178
+3,-123.250567,49.263456,NA,1975,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",55.4,NA,"female",9.3,1433,5.6293266188611,85.3237049209375,"Spring",10179
+11,-119.630241,49.495707,NA,1987,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",60,199,"male",10.3,242,7.93261392205392,60.6666301393038,"Fall",10180
+11,-119.630241,49.495707,NA,1992,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",60.4,206,"male",10.1,318,8.30897196718795,69.8841254458756,"Fall",10181
+2,-119.630241,49.495707,NA,1991,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",47,189,"female",9.3,276,8.1799227602488,62.2099732349383,"Winter",10182
+11,-119.630241,49.495707,NA,1990,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",58,205,"female",9.4,373,8.88738892015995,74.2057111300081,"Fall",10183
+2,-119.630241,49.495707,"1st winter",1996,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",62,208,"male",7.4,369,9.07585458034869,51.6825815784058,"Winter",10184
+1,-114,46.8666667,NA,1959,"Bombycilla garrulus","Bombycilla_garrulus",55.6,NA,"male",6.5,432,8.47357747067407,62.5466550215576,"Winter",10185
+2,-114,46.8666667,NA,1959,"Bombycilla garrulus","Bombycilla_garrulus",52,NA,"female",6.5,432,8.47357747067407,62.5466550215576,"Winter",10186
+1,-114,46.8666667,NA,1959,"Bombycilla garrulus","Bombycilla_garrulus",56,NA,"male",6.5,432,8.47357747067407,62.5466550215576,"Winter",10187
+3,-88.5666667,47.1166667,NA,1998,"Bombycilla garrulus","Bombycilla_garrulus",57.42,NA,"male",7.2,803,9.5286966897924,34.2228749953642,"Spring",10188
+2,-105.1703,40.0583,NA,1985,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",54.9,NA,"female",9.3,356,9.91972323660842,50.5175155082652,"Winter",10189
+7,-124.668231,58.6467,NA,1965,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",50.5,NA,NA,-2.1,547,10.3171929175028,52.2079912174829,"Summer",10190
+2,-105.1703,40.0583,NA,1985,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",59.3,NA,"male",9.3,356,9.91972323660842,50.5175155082652,"Winter",10191
+7,-124.668231,58.6467,NA,1965,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",52,NA,NA,-2.1,547,10.3171929175028,52.2079912174829,"Summer",10192
+2,-149.9,61.218,"adult",2007,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",61,NA,"male",2.2,371,10.1392875250262,81.6462875266799,"Winter",10193
+2,-149.9,61.218,"adult",2007,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",65.2,NA,"male",2.2,371,10.1392875250262,81.6462875266799,"Winter",10194
+2,-149.9,61.218,"adult",2007,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",56.9,NA,"male",2.2,371,10.1392875250262,81.6462875266799,"Winter",10195
+2,-149.9,61.218,"adult",2007,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",61.4,NA,"male",2.2,371,10.1392875250262,81.6462875266799,"Winter",10196
+2,-149.9,61.218,"adult",2007,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",66.3,NA,"male",2.2,371,10.1392875250262,81.6462875266799,"Winter",10197
+2,-149.9,61.218,"adult",2007,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",56.3,NA,"male",2.2,371,10.1392875250262,81.6462875266799,"Winter",10198
+11,-149.5678,61.3214,"adult",2004,"Bombycilla garrulus pallidiceps","Bombycilla_garrulus",56.2,NA,"male",2.9,458,9.88693659085134,100.923313875212,"Fall",10199

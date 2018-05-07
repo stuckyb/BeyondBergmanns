@@ -1,0 +1,486 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+8,-119.2911377,46.9823627,NA,1951,"Perognathus parvus","Perognathus_parvus",14.7,166,"female",10.4,192,9.07131676653328,44.1941738241592,"Summer",84663
+6,-109.83094,41.34923,NA,2012,"Perognathus parvus","Perognathus_parvus",16,159,"female",8.3,116,9.52853370385258,47.732644545724,"Summer",84664
+6,-109.83094,41.34923,NA,2012,"Perognathus parvus","Perognathus_parvus",15,155,"female",8.3,116,9.52853370385258,47.732644545724,"Summer",84665
+8,-110.186413,41.591556,"juvenile",1996,"Perognathus parvus clarus","Perognathus_parvus",15.4,166,"male",5.8,218,9.14524218079842,39.2770674062087,"Summer",84666
+6,-115.8987345,35.7688924,NA,1975,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",6,128,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",84667
+9,-119.81278,39.5297,NA,1985,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",12.8,147,"female",9.9,143,8.61599991559044,90.0041381638692,"Fall",84668
+6,-115.8987345,35.7688924,NA,1975,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",13,NA,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",84669
+9,-118.8942093,38.1436538,NA,1986,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",10,175,"male",7.7,280,6.42261039161058,153.385324139492,"Fall",84670
+5,-117.1333,38.43694,NA,1992,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",22,184,"male",9.1,220,8.51961640194931,66.5607350212406,"Spring",84671
+7,-116.971579,42.024342,NA,2011,"Perognathus parvus","Perognathus_parvus",20,NA,"male",7.4,309,8.87958161722554,75.107835517114,"Summer",84672
+7,-116.958409,42.208441,NA,2011,"Perognathus parvus","Perognathus_parvus",21.5,NA,"male",7.4,291,8.93007770844061,74.6033353088469,"Summer",84673
+9,-112.4335642,39.9762186,NA,1970,"Perognathus parvus olivaceus","Perognathus_parvus",14,NA,"male",7.3,465,8.03384413062337,54.0663218226025,"Fall",84674
+9,-112.81277,43.404351,NA,1981,"Perognathus parvus clarus","Perognathus_parvus",13,152,"female",7.2,263,8.91049772442425,92.7314037417243,"Fall",84675
+7,-111.180009,38.185075,NA,1989,"Perognathus parvus trumbellensis","Perognathus_parvus",16,186,"male",9.4,137,9.63124256434928,90.7557107524965,"Summer",84676
+7,-111.180009,38.185075,NA,1989,"Perognathus parvus trumbellensis","Perognathus_parvus",7,135,"male",9.4,137,9.63124256434928,90.7557107524965,"Summer",84677
+8,-110.815775,38.117853,NA,1997,"Perognathus parvus trumbellensis","Perognathus_parvus",17.5,168,"male",1.6,1045,7.34085186205294,90.2885213483117,"Summer",84678
+8,-110.815775,38.117853,NA,1997,"Perognathus parvus trumbellensis","Perognathus_parvus",16,130,"male",1.6,1045,7.34085186205294,90.2885213483117,"Summer",84679
+7,-113.6765,41.9529,NA,2007,"Perognathus parvus","Perognathus_parvus",20,182,"undetermined",8.2,229,9.78612189880046,56.6680987388501,"Summer",84680
+7,-113.6765,41.9529,NA,2007,"Perognathus parvus","Perognathus_parvus",14,167,"male",8.2,229,9.78612189880046,56.6680987388501,"Summer",84681
+7,-113.6765,41.9529,NA,2007,"Perognathus parvus","Perognathus_parvus",15,173,"female",8.2,229,9.78612189880046,56.6680987388501,"Summer",84682
+7,-113.6765,41.9529,"adult",2007,"Perognathus parvus","Perognathus_parvus",15,162,"female",8.2,229,9.78612189880046,56.6680987388501,"Summer",84683
+7,-113.6765,41.9529,"adult",2007,"Perognathus parvus","Perognathus_parvus",18,174,"female",8.2,229,9.78612189880046,56.6680987388501,"Summer",84684
+7,-113.6765,41.9529,"adult",2007,"Perognathus parvus","Perognathus_parvus",16,159,"male",8.2,229,9.78612189880046,56.6680987388501,"Summer",84685
+7,-113.6765,41.9529,"adult",2007,"Perognathus parvus","Perognathus_parvus",14,162,"female",8.2,229,9.78612189880046,56.6680987388501,"Summer",84686
+7,-113.6765,41.9529,"adult",2007,"Perognathus parvus","Perognathus_parvus",14,156,"male",8.2,229,9.78612189880046,56.6680987388501,"Summer",84687
+7,-113.6765,41.9529,NA,2007,"Perognathus parvus","Perognathus_parvus",18.5,180,"female",8.2,229,9.78612189880046,56.6680987388501,"Summer",84688
+7,-118.8586,41.5981,"adult",2007,"Perognathus parvus","Perognathus_parvus",18,171,"female",9.2,146,9.02902726396002,65.4458014833769,"Summer",84689
+7,-118.8586,41.5981,"adult",2007,"Perognathus parvus","Perognathus_parvus",15.5,175,"female",9.2,146,9.02902726396002,65.4458014833769,"Summer",84690
+7,-118.8586,41.5981,"adult",2007,"Perognathus parvus","Perognathus_parvus",16.5,180,"male",9.2,146,9.02902726396002,65.4458014833769,"Summer",84691
+6,-112.7705555556,43.3869444444,NA,2002,"Perognathus parvus","Perognathus_parvus",10.4,137,"female",6,182,10.4467770874635,48.8441001760689,"Summer",84692
+5,-112.7911111111,43.3994444444,NA,2002,"Perognathus parvus","Perognathus_parvus",16,170,"female",5.8,181,10.50634728787,44.9466574975495,"Spring",84693
+7,-114.6892,39.2375,NA,2010,"Perognathus parvus","Perognathus_parvus",24,180,"male",4.8,610,8.65582655402321,67.6037733843793,"Summer",84694
+7,-114.6892,39.2375,NA,2010,"Perognathus parvus","Perognathus_parvus",18,155,"female",4.8,610,8.65582655402321,67.6037733843793,"Summer",84695
+7,-118.6644,41.6747,NA,2010,"Perognathus parvus","Perognathus_parvus",22,183,"male",8,418,7.7139140322517,66.9452435168707,"Summer",84696
+7,-118.6644,41.6747,NA,2010,"Perognathus parvus","Perognathus_parvus",21,162,"female",8,418,7.7139140322517,66.9452435168707,"Summer",84697
+7,-114.6892,39.2375,NA,2010,"Perognathus parvus","Perognathus_parvus",16,193,"female",4.8,610,8.65582655402321,67.6037733843793,"Summer",84698
+9,-113.608116,44.44146099,"adult",2013,"Perognathus parvus","Perognathus_parvus",14,172,"male",3.4,343,10.2548842760487,65.017802932957,"Fall",84699
+8,-114.27651,42.17582,"adult",2013,"Perognathus parvus","Perognathus_parvus",14.5,173,"male",5.1,611,10.1002662731177,60.3717816405516,"Summer",84700
+8,-114.27646,42.17553,NA,2013,"Perognathus parvus","Perognathus_parvus",15.7,164,"female",5.1,611,10.1002662731177,60.3717816405516,"Summer",84701
+8,-114.27648,42.17555,NA,2013,"Perognathus parvus","Perognathus_parvus",16.2,170,"male",5.1,611,10.1002662731177,60.3717816405516,"Summer",84702
+8,-116.18366,36.940474,"subadult",2009,"Perognathus parvus","Perognathus_parvus",12.9,165,"female",14.3,111,8.53734665331026,128.13873022948,"Summer",84703
+9,-116.191694,37.117293,"juvenile",2009,"Perognathus parvus","Perognathus_parvus",7.9,140,"male",12,140,8.33475290939126,130.795748566217,"Fall",84704
+7,-119.12977,37.90028,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",19,173,"female",7.8,570,7.12281864534999,112.757162916464,"Summer",84705
+7,-119.12977,37.90028,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",19,144,"male",7.8,570,7.12281864534999,112.757162916464,"Summer",84706
+7,-119.12977,37.90028,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",19,175,"female",7.8,570,7.12281864534999,112.757162916464,"Summer",84707
+6,-120.12616,39.82322,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",17,180,"male",10.6,363,8.45635407503874,95.7195094289668,"Summer",84708
+6,-120.12616,39.82322,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",18,175,"female",10.6,363,8.45635407503874,95.7195094289668,"Summer",84709
+8,-120.16599,40.89191,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",9,131,"female",8.6,294,8.22683616789184,81.7701320522019,"Summer",84710
+8,-120.16599,40.89191,"juvenile",2006,"Perognathus parvus mollipilosus","Perognathus_parvus",12.5,143,"male",8.6,294,8.22683616789184,81.7701320522019,"Summer",84711
+8,-120.16599,40.89191,"juvenile",2006,"Perognathus parvus mollipilosus","Perognathus_parvus",11.5,136,"female",8.6,294,8.22683616789184,81.7701320522019,"Summer",84712
+8,-120.16599,40.89191,"juvenile",2006,"Perognathus parvus mollipilosus","Perognathus_parvus",12,137,"male",8.6,294,8.22683616789184,81.7701320522019,"Summer",84713
+8,-120.26846,40.88974,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",16.5,168,"female",8.5,252,8.24433689929584,79.1888375035125,"Summer",84714
+8,-120.26846,40.88974,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",15.5,164,"female",8.5,252,8.24433689929584,79.1888375035125,"Summer",84715
+8,-120.26846,40.88974,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",18.5,184,"male",8.5,252,8.24433689929584,79.1888375035125,"Summer",84716
+8,-120.13266,40.97216,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",21,167,"female",7.8,420,8.12152023386576,83.3082213245472,"Summer",84717
+8,-120.13889,40.82822,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",16.5,159,"female",8.7,324,8.26861078068282,86.1821328347855,"Summer",84718
+8,-120.13857,40.92563,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",21,182,"male",8.4,341,8.16338369386943,84.4463812634723,"Summer",84719
+5,-118.30978,36.79992,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",21,195,"male",9.6,237,7.25159856984526,174.693550521437,"Spring",84720
+5,-118.30978,36.79992,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",14,171,"female",9.6,237,7.25159856984526,174.693550521437,"Spring",84721
+5,-119.12848,37.90753,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",18,183,"male",7.9,204,7.70856961144838,154.692923475356,"Spring",84722
+5,-119.12848,37.90753,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",19,184,"male",7.9,204,7.70856961144838,154.692923475356,"Spring",84723
+5,-119.12848,37.90753,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",17,175,"male",7.9,204,7.70856961144838,154.692923475356,"Spring",84724
+5,-119.12848,37.90753,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",16,183,"male",7.9,204,7.70856961144838,154.692923475356,"Spring",84725
+5,-119.12848,37.90753,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",19,NA,"male",7.9,204,7.70856961144838,154.692923475356,"Spring",84726
+9,-118.19192,37.33476,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",18,181,"male",6.3,208,7.28079145714422,103.417920459606,"Fall",84727
+9,-120.61235,40.80434,NA,2007,"Perognathus parvus mollipilosus","Perognathus_parvus",15,177,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",84728
+9,-120.76727,40.85129,NA,2007,"Perognathus parvus mollipilosus","Perognathus_parvus",17,175,"female",8.7,272,8.15365227701951,91.651250382387,"Fall",84729
+9,-120.76834,40.84853,NA,2007,"Perognathus parvus mollipilosus","Perognathus_parvus",12.5,170,"female",8.7,270,8.14085748592005,90.0962313739278,"Fall",84730
+5,-118.05,37.41685,NA,2010,"Perognathus parvus olivaceus","Perognathus_parvus",18,173,"male",8.5,207,7.44557525709672,104.818875305295,"Spring",84731
+6,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",15,168,"male",9,266,8.45151949759224,81.8640826250565,"Summer",84732
+6,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",14,163,"female",9,266,8.45151949759224,81.8640826250565,"Summer",84733
+7,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",18,184,"female",9,266,8.45151949759224,81.8640826250565,"Summer",84734
+7,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",13,158,"male",9,266,8.45151949759224,81.8640826250565,"Summer",84735
+7,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",12,150,"female",9,266,8.45151949759224,81.8640826250565,"Summer",84736
+8,-118.69385,41.66954,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",10,152,"male",4.1,562,8.03810527199267,93.2426133582846,"Summer",84737
+8,-118.69385,41.66954,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",19,186,"male",4.1,562,8.03810527199267,93.2426133582846,"Summer",84738
+9,-120.089321,40.092131,NA,2005,"Perognathus parvus mollipilosus","Perognathus_parvus",17.5,168,"female",11.5,468,8.45537304519046,127.948092501374,"Fall",84739
+7,-117.72606,39.26762,NA,2013,"Perognathus parvus olivaceus","Perognathus_parvus",12,155,"male",6.4,250,9.07166751568594,46.9336088146185,"Summer",84740
+8,-120.1673239,47.9434465,"unknown",1958,"Perognathus parvus","Perognathus_parvus",15,164,"male",9.8,335,8.84107151054359,75.4700790948968,"Summer",84744
+4,-119.9083,46.6722541,"unknown",1964,"Perognathus parvus","Perognathus_parvus",19,163,"male",10.9,171,7.9795192381952,148.597442137244,"Spring",84745
+4,-119.9083,46.6433,"unknown",1964,"Perognathus parvus","Perognathus_parvus",18.5,NA,"male",11,176,7.97824694042646,150.037561037273,"Spring",84746
+4,-119.9083,46.6433,"unknown",1964,"Perognathus parvus","Perognathus_parvus",13.5,NA,"female",11,176,7.97824694042646,150.037561037273,"Spring",84747
+4,-119.9083,46.6433,"unknown",1964,"Perognathus parvus","Perognathus_parvus",13.9,NA,"male",11,176,7.97824694042646,150.037561037273,"Spring",84748
+4,-120.8053,46.9072,"unknown",1974,"Perognathus parvus","Perognathus_parvus",19.5,177,"male",7.3,583,7.13652045764771,93.7525073024228,"Spring",84749
+4,-120.8053,46.9072,"unknown",1974,"Perognathus parvus","Perognathus_parvus",15.3,170,"female",7.3,583,7.13652045764771,93.7525073024228,"Spring",84750
+4,-120.0991,46.9785,"unknown",1986,"Perognathus parvus","Perognathus_parvus",19.8,172,"male",8.6,238,8.13276202663143,77.2355306332291,"Spring",84751
+4,-120.0991,46.9785,"unknown",1986,"Perognathus parvus","Perognathus_parvus",18.2,169,"male",8.6,238,8.13276202663143,77.2355306332291,"Spring",84752
+6,-118.4297374,37.8371541,"unknown",1942,"Perognathus parvus","Perognathus_parvus",14.1,180,"female",7.9,106,7.8948151378361,68.0673170411438,"Summer",84753
+6,-118.4297374,37.8371541,"unknown",1942,"Perognathus parvus","Perognathus_parvus",19.4,177,"male",7.9,106,7.8948151378361,68.0673170411438,"Summer",84754
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",15.7,153,"female",12.3,208,8.72243710730602,79.452211735766,"Spring",84755
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",12.9,150,"female",12.3,208,8.72243710730602,79.452211735766,"Spring",84756
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",14.8,156,"female",12.3,208,8.72243710730602,79.452211735766,"Spring",84757
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",18.7,169,"male",12.3,208,8.72243710730602,79.452211735766,"Spring",84758
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",15.8,164,"male",12.3,208,8.72243710730602,79.452211735766,"Spring",84759
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",17.6,158,"male",12.3,208,8.72243710730602,79.452211735766,"Spring",84760
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",14.4,160,"female",12.3,208,8.72243710730602,79.452211735766,"Spring",84761
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",18.4,NA,"male",12.3,208,8.72243710730602,79.452211735766,"Spring",84762
+4,-119.9083,46.6722541,"unknown",1961,"Perognathus parvus","Perognathus_parvus",15.4,165,"female",12.2,208,8.7271216053835,79.452211735766,"Spring",84763
+4,-119.9083,46.6722541,"unknown",1961,"Perognathus parvus","Perognathus_parvus",15.8,167,"male",12.2,208,8.7271216053835,79.452211735766,"Spring",84764
+4,-119.9083,46.6722541,"unknown",1961,"Perognathus parvus","Perognathus_parvus",20.1,180,"male",12.2,208,8.7271216053835,79.452211735766,"Spring",84765
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",12,165,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84766
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",14,181,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84767
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",12,165,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84768
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",19,185,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84769
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",14,165,"female",11.5,178,8.90672201035246,100.881486210147,"Spring",84770
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",17.5,160,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84771
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",17,166,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84772
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",18.5,164,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84773
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",20,183,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84774
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",15,162,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84775
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",19,169,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84776
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",17,142,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84777
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",20,173,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84778
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",16,170,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84779
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",14,163,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84780
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",18,174,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84781
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",19,170,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84782
+4,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",16.5,166,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84783
+4,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",12,152,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84784
+4,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",18,174,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84785
+4,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",15,164,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84786
+4,-118.84667,46.2801595,"unknown",1956,"Perognathus parvus","Perognathus_parvus",17,184,"male",11.1,234,8.98498326333579,81.267779171686,"Spring",84787
+4,-118.84667,46.2801595,"unknown",1956,"Perognathus parvus","Perognathus_parvus",14,175,"male",11.1,234,8.98498326333579,81.267779171686,"Spring",84788
+4,-119.0368033,46.2397,"unknown",1956,"Perognathus parvus","Perognathus_parvus",9,168,"male",11.2,182,8.97769542541487,91.656041477316,"Spring",84789
+5,-119.7525122,45.8656,"unknown",1956,"Perognathus parvus","Perognathus_parvus",14.5,179,"female",11.4,181,8.62485397329173,106.058874444739,"Spring",84790
+5,-119.7525122,45.8656,"unknown",1956,"Perognathus parvus","Perognathus_parvus",15,168,"male",11.4,181,8.62485397329173,106.058874444739,"Spring",84791
+5,-119.7525122,45.8656,"unknown",1956,"Perognathus parvus","Perognathus_parvus",13,167,"female",11.4,181,8.62485397329173,106.058874444739,"Spring",84792
+5,-119.7525122,45.8656,"unknown",1956,"Perognathus parvus","Perognathus_parvus",14,167,"female",11.4,181,8.62485397329173,106.058874444739,"Spring",84793
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",15,167,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84794
+4,-119.0472361,46.2397,"unknown",1956,"Perognathus parvus","Perognathus_parvus",15,177,"male",11.3,179,8.9792184312647,92.8123990323567,"Spring",84795
+5,-120.4905,44.3,"unknown",1984,"Perognathus parvus","Perognathus_parvus",13,167,"male",6.5,438,6.81857423113179,75.0992712609969,"Spring",84796
+8,-109.802875,41.793189,NA,1998,"Perognathus parvus clarus","Perognathus_parvus",12.1,160,"male",5.3,277,9.61023365528076,74.31881180385,"Summer",84797
+8,-110.186413,41.591556,NA,1996,"Perognathus parvus clarus","Perognathus_parvus",14.3,170,"female",5.8,218,9.14524218079842,39.2770674062087,"Summer",84798
+8,-109.8,41.81667,NA,1998,"Perognathus parvus clarus","Perognathus_parvus",16.4,168,"female",5.2,274,9.63822487742835,72.4812367232695,"Summer",84799
+7,-109.8,41.81667,NA,1998,"Perognathus parvus clarus","Perognathus_parvus",18.6,158,"female",5.2,274,9.63822487742835,72.4812367232695,"Summer",84800
+8,-109.8,41.81667,NA,1998,"Perognathus parvus clarus","Perognathus_parvus",11,148,"female",5.2,274,9.63822487742835,72.4812367232695,"Summer",84801
+8,-109.8,41.81667,NA,1998,"Perognathus parvus clarus","Perognathus_parvus",9.5,156,"female",5.2,274,9.63822487742835,72.4812367232695,"Summer",84802
+6,-115.8987345,35.7688924,NA,1975,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",13,183,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",84803
+5,-117.1333,38.43694,NA,1992,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",25,170,"female",9.1,220,8.51961640194931,66.5607350212406,"Spring",84804
+8,-120.8516269,41.6118975,NA,1990,"Perognathus parvus mollipilosus Coues, 1875","Perognathus_parvus",18,167,"female",8.1,306,8.64874750084273,57.4771648578378,"Summer",84805
+8,-120.8516269,41.6118975,NA,1990,"Perognathus parvus mollipilosus Coues, 1875","Perognathus_parvus",16,158,"male",8.1,306,8.64874750084273,57.4771648578378,"Summer",84806
+6,-115.8987345,35.7688924,NA,1975,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",14,174,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",84807
+9,-119.81278,39.5297,NA,1985,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",10.4,158,"male",9.9,143,8.61599991559044,90.0041381638692,"Fall",84808
+7,-108.987517,40.651346,NA,1997,"Perognathus parvus","Perognathus_parvus",12,151,"male",6.4,432,9.27807777897595,65.8952903265936,"Summer",84809
+7,-113.6765,41.9529,NA,2007,"Perognathus parvus","Perognathus_parvus",16,165,"female",8.2,229,9.78612189880046,56.6680987388501,"Summer",84810
+7,-113.6765,41.9529,NA,2007,"Perognathus parvus","Perognathus_parvus",17,165,"undetermined",8.2,229,9.78612189880046,56.6680987388501,"Summer",84811
+7,-113.6765,41.9529,"adult",2007,"Perognathus parvus","Perognathus_parvus",19.5,173,"female",8.2,229,9.78612189880046,56.6680987388501,"Summer",84812
+7,-118.8586,41.5981,"adult",2007,"Perognathus parvus","Perognathus_parvus",20,195,"male",9.2,146,9.02902726396002,65.4458014833769,"Summer",84813
+7,-118.8586,41.5981,NA,2007,"Perognathus parvus","Perognathus_parvus",13.5,160,"female",9.2,146,9.02902726396002,65.4458014833769,"Summer",84814
+7,-118.8586,41.5981,NA,2007,"Perognathus parvus","Perognathus_parvus",15,170,"female",9.2,146,9.02902726396002,65.4458014833769,"Summer",84815
+8,-112.6351,45.6468,NA,2007,"Perognathus parvus","Perognathus_parvus",15.5,170,"male",6.9,309,8.55934718552906,65.1545026271374,"Summer",84816
+7,-118.6644,41.6747,NA,2010,"Perognathus parvus","Perognathus_parvus",20,182,"male",8,418,7.7139140322517,66.9452435168707,"Summer",84817
+7,-118.6644,41.6747,NA,2010,"Perognathus parvus","Perognathus_parvus",17,180,"female",8,418,7.7139140322517,66.9452435168707,"Summer",84818
+7,-114.6892,39.2375,NA,2010,"Perognathus parvus","Perognathus_parvus",26,199,"male",4.8,610,8.65582655402321,67.6037733843793,"Summer",84819
+8,-114.27279,42.18962,NA,2013,"Perognathus parvus","Perognathus_parvus",15.9,175,"male",4.8,629,10.1074080243006,60.3409109501772,"Summer",84820
+8,-114.27251,42.18984,NA,2013,"Perognathus parvus","Perognathus_parvus",15.7,173,"female",4.8,628,10.1104019342817,60.3409109501772,"Summer",84821
+8,-116.208378,37.228006,"adult",2009,"Perognathus parvus","Perognathus_parvus",18.7,165,"female",9.5,198,8.21888070238278,136.709379873711,"Summer",84822
+8,-116.208378,37.228006,"adult",2009,"Perognathus parvus","Perognathus_parvus",18.8,175,"female",9.5,198,8.21888070238278,136.709379873711,"Summer",84823
+8,-116.208378,37.228006,"subadult",2009,"Perognathus parvus","Perognathus_parvus",16.3,163,"male",9.5,198,8.21888070238278,136.709379873711,"Summer",84824
+9,-116.208378,37.228006,"subadult",2009,"Perognathus parvus","Perognathus_parvus",12.8,158,"female",9.5,198,8.21888070238278,136.709379873711,"Fall",84825
+7,-119.12977,37.90028,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",12,161,"male",7.8,570,7.12281864534999,112.757162916464,"Summer",84826
+6,-120.12616,39.82322,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",18,167,"male",10.6,363,8.45635407503874,95.7195094289668,"Summer",84827
+6,-120.12616,39.82322,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",19,182,"male",10.6,363,8.45635407503874,95.7195094289668,"Summer",84828
+6,-120.83904,40.58688,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",20,178,"female",9.1,754,8.14673665843067,91.3922325472664,"Summer",84829
+8,-120.1599,40.86155,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",17.75,179,"male",8.7,292,8.30153326473216,82.941783579291,"Summer",84830
+8,-120.1599,40.86155,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",14.5,161,"female",8.7,292,8.30153326473216,82.941783579291,"Summer",84831
+8,-120.16599,40.89191,"embryo",2006,"Perognathus parvus mollipilosus","Perognathus_parvus",24.5,174,"female",8.6,294,8.22683616789184,81.7701320522019,"Summer",84832
+8,-120.26846,40.88974,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",13.75,149,"male",8.5,252,8.24433689929584,79.1888375035125,"Summer",84833
+8,-120.26846,40.88974,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",16,175,"male",8.5,252,8.24433689929584,79.1888375035125,"Summer",84834
+8,-120.26846,40.88974,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",14.5,160,"female",8.5,252,8.24433689929584,79.1888375035125,"Summer",84835
+8,-120.26846,40.88974,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",15,166,"male",8.5,252,8.24433689929584,79.1888375035125,"Summer",84836
+8,-120.13266,40.97216,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",16.75,171,"male",7.8,420,8.12152023386576,83.3082213245472,"Summer",84837
+8,-120.13266,40.97216,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",16,160,"female",7.8,420,8.12152023386576,83.3082213245472,"Summer",84838
+8,-120.13266,40.97216,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",13.5,153,"female",7.8,420,8.12152023386576,83.3082213245472,"Summer",84839
+8,-120.13889,40.82822,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",18.5,178,"female",8.7,324,8.26861078068282,86.1821328347855,"Summer",84840
+8,-120.13889,40.82822,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",14.5,168,"female",8.7,324,8.26861078068282,86.1821328347855,"Summer",84841
+8,-120.13857,40.92563,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",24.5,180,"male",8.4,341,8.16338369386943,84.4463812634723,"Summer",84842
+5,-118.30978,36.79992,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",17,175,"male",9.6,237,7.25159856984526,174.693550521437,"Spring",84843
+5,-119.12848,37.90753,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",22,190,"male",7.9,204,7.70856961144838,154.692923475356,"Spring",84844
+5,-119.12848,37.90753,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",17,179,"female",7.9,204,7.70856961144838,154.692923475356,"Spring",84845
+5,-119.12848,37.90753,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",18,173,"male",7.9,204,7.70856961144838,154.692923475356,"Spring",84846
+5,-119.12848,37.90753,NA,2007,"Perognathus parvus olivaceus","Perognathus_parvus",23,193,"male",7.9,204,7.70856961144838,154.692923475356,"Spring",84847
+5,-118.05,37.41685,NA,2010,"Perognathus parvus olivaceus","Perognathus_parvus",19,187,"male",8.5,207,7.44557525709672,104.818875305295,"Spring",84848
+6,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",15,164,"male",9,266,8.45151949759224,81.8640826250565,"Summer",84849
+6,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",13,157,"male",9,266,8.45151949759224,81.8640826250565,"Summer",84850
+7,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",23,183,"female",9,266,8.45151949759224,81.8640826250565,"Summer",84851
+7,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",20,10,"male",9,266,8.45151949759224,81.8640826250565,"Summer",84852
+7,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",20,180,"male",9,266,8.45151949759224,81.8640826250565,"Summer",84853
+7,-118.76801,41.71517,NA,2012,"Perognathus parvus olivaceus","Perognathus_parvus",13,168,"female",9,266,8.45151949759224,81.8640826250565,"Summer",84854
+6,-122.04525,41.28244,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",4.1,151,"male",10.9,1828,7.32436262611211,95.2695832050273,"Summer",84855
+6,-119.29,46.9101192,"unknown",1958,"Perognathus parvus","Perognathus_parvus",14.5,163,"female",13,234,8.71936194496322,69.0968228518293,"Summer",84856
+4,-119.9083,46.6433,"unknown",1964,"Perognathus parvus","Perognathus_parvus",13.1,NA,"female",11,176,7.97824694042646,150.037561037273,"Spring",84857
+4,-119.9083,46.6433,"unknown",1964,"Perognathus parvus","Perognathus_parvus",15.7,NA,"male",11,176,7.97824694042646,150.037561037273,"Spring",84858
+4,-119.9083,46.6722541,"unknown",1968,"Perognathus parvus","Perognathus_parvus",23.5,167,"male",12,186,8.10885692351645,83.4205900841274,"Spring",84859
+4,-120.845925,46.7919766,"unknown",1974,"Perognathus parvus","Perognathus_parvus",17,170,"female",7.5,580,7.17007142519684,98.3123786167822,"Spring",84860
+4,-120.8053,46.9072,"unknown",1974,"Perognathus parvus","Perognathus_parvus",20.8,190,"male",7.3,583,7.13652045764771,93.7525073024228,"Spring",84861
+4,-120.8053,46.9072,"unknown",1974,"Perognathus parvus","Perognathus_parvus",14.6,168,"female",7.3,583,7.13652045764771,93.7525073024228,"Spring",84862
+4,-120.8053,46.9072,"unknown",1974,"Perognathus parvus","Perognathus_parvus",17.7,167,"female",7.3,583,7.13652045764771,93.7525073024228,"Spring",84863
+6,-118.5186,47.6572806,"unknown",1974,"Perognathus parvus","Perognathus_parvus",11.2,145,"female",8.6,315,8.21452427660355,77.5314886057106,"Summer",84864
+4,-120.0991,46.9785,"unknown",1986,"Perognathus parvus","Perognathus_parvus",23.4,188,"male",8.6,238,8.13276202663143,77.2355306332291,"Spring",84865
+4,-120.0991,46.9785,"unknown",1986,"Perognathus parvus","Perognathus_parvus",14.2,160,"female",8.6,238,8.13276202663143,77.2355306332291,"Spring",84866
+4,-119.5102246,47.0579211,"unknown",1986,"Perognathus parvus","Perognathus_parvus",15.2,175,"female",10.7,197,8.4240456702552,70.9161846480374,"Spring",84867
+8,-121.3211,44.3131,"unknown",1996,"Perognathus parvus","Perognathus_parvus",17,164,"male",8.8,374,6.80246724402702,95.8067592018364,"Summer",84868
+6,-118.4297374,37.8371541,"unknown",1942,"Perognathus parvus","Perognathus_parvus",21.1,186,"male",7.9,106,7.8948151378361,68.0673170411438,"Summer",84869
+6,-118.4774971,37.8364253,"unknown",1942,"Perognathus parvus","Perognathus_parvus",16.4,162,"female",10,76,8.13773012056504,64.2418726394065,"Summer",84870
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",16.5,159,"male",12.3,208,8.72243710730602,79.452211735766,"Spring",84871
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",19,170,"male",12.3,208,8.72243710730602,79.452211735766,"Spring",84872
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",16.2,171,"female",12.3,208,8.72243710730602,79.452211735766,"Spring",84873
+4,-119.9083,46.657777,"unknown",1961,"Perognathus parvus","Perognathus_parvus",12.2,NA,"male",12.3,208,8.72243710730602,79.452211735766,"Spring",84874
+4,-119.9083,46.6722541,"unknown",1961,"Perognathus parvus","Perognathus_parvus",16.4,178,"female",12.2,208,8.7271216053835,79.452211735766,"Spring",84875
+4,-119.9083,46.6722541,"unknown",1961,"Perognathus parvus","Perognathus_parvus",15.7,169,"female",12.2,208,8.7271216053835,79.452211735766,"Spring",84876
+4,-119.9083,46.6722541,"unknown",1961,"Perognathus parvus","Perognathus_parvus",17.7,177,"female",12.2,208,8.7271216053835,79.452211735766,"Spring",84877
+4,-119.9083,46.6722541,"unknown",1961,"Perognathus parvus","Perognathus_parvus",21.3,187,"male",12.2,208,8.7271216053835,79.452211735766,"Spring",84878
+4,-119.9083,46.6722541,"unknown",1961,"Perognathus parvus","Perognathus_parvus",14.3,160,"female",12.2,208,8.7271216053835,79.452211735766,"Spring",84879
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",14,182,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84880
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",17,174,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84881
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",16,177,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84882
+3,-119.5318,45.8958,"unknown",1956,"Perognathus parvus","Perognathus_parvus",11,178,"male",11.5,178,8.90672201035246,100.881486210147,"Spring",84883
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",15,161,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84884
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",18,179,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84885
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",18.5,170,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84886
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",19.5,177,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84887
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",19,169,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84888
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",22,175,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84889
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",11,153,"female",11.5,181,8.76153352427357,106.43887644278,"Spring",84890
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",18,169,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84891
+3,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",20,181,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84892
+4,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",14,164,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84893
+4,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",16,163,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84894
+4,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",12,150,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84895
+4,-119.65189,45.89734,"unknown",1956,"Perognathus parvus","Perognathus_parvus",20,175,"male",11.5,181,8.76153352427357,106.43887644278,"Spring",84896
+5,-119.7525122,45.8656,"unknown",1956,"Perognathus parvus","Perognathus_parvus",11.5,165,"female",11.4,181,8.62485397329173,106.058874444739,"Spring",84897
+6,-113.5251,43.4728,"unknown",1962,"Perognathus parvus","Perognathus_parvus",19.4,184,"female",5.6,307,9.96844643073454,102.654781970637,"Summer",84898
+7,-120.229324,46.9967,"unknown",1975,"Perognathus parvus","Perognathus_parvus",15.8,181,"male",7.4,351,7.76466354712166,60.618610857626,"Summer",84899
+4,-119.0472361,46.2397,"unknown",1956,"Perognathus parvus","Perognathus_parvus",14,184,"male",11.3,179,8.9792184312647,92.8123990323567,"Spring",84900
+4,-117.7339,47.1169,"unknown",1931,"Perognathus parvus","Perognathus_parvus",19.5,177,"male",9.5,384,8.31765191224863,86.1730998456111,"Spring",84901
+7,-119.83,41.93,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",9,144,"female",6.7,286,8.28490778281189,88.7403595719597,"Summer",84902
+8,-119.91,41.4,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",19,171,"male",7,328,8.18862385300855,91.9640697057021,"Summer",84903
+8,-119.91,41.4,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",14,176,"female",7,328,8.18862385300855,91.9640697057021,"Summer",84904
+8,-119.67,42.54,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",18,177,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",84905
+7,-119.83,41.93,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",14,168,"male",6.7,286,8.28490778281189,88.7403595719597,"Summer",84906
+8,-119.91,41.4,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",13,175,"male",7,328,8.18862385300855,91.9640697057021,"Summer",84907
+9,-118.97,41.5,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",21,194,"male",6,510,8.22888482447928,101.835297966529,"Fall",84908
+9,-118.97,41.5,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",12,163,"female",6,510,8.22888482447928,101.835297966529,"Fall",84909
+7,-119.88,41.45,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",18,164,"female",7,325,8.18266830600267,92.4278937658566,"Summer",84910
+7,-119.88,41.45,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",19,179,"male",7,325,8.18266830600267,92.4278937658566,"Summer",84911
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",16,172,"female",6.5,398,8.33311666384993,98.726650203642,"Fall",84912
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",16,180,"female",6.5,398,8.33311666384993,98.726650203642,"Fall",84913
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",18,175,"male",6.5,398,8.33311666384993,98.726650203642,"Fall",84914
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",10,148,"male",6.5,398,8.33311666384993,98.726650203642,"Fall",84915
+9,-119.83,41.93,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",16,156,"female",6.7,286,8.28490778281189,88.7403595719597,"Fall",84916
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",12,159,"female",6.5,398,8.33311666384993,98.726650203642,"Fall",84917
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",19,172,"male",6.5,398,8.33311666384993,98.726650203642,"Fall",84918
+9,-118.97,41.5,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",11,151,"female",6,510,8.22888482447928,101.835297966529,"Fall",84919
+9,-118.97,41.5,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",13,149,"female",6,510,8.22888482447928,101.835297966529,"Fall",84920
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",15,176,"female",6.5,398,8.33311666384993,98.726650203642,"Fall",84921
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",13,163,"female",6.5,398,8.33311666384993,98.726650203642,"Fall",84922
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",17,175,"male",6.5,398,8.33311666384993,98.726650203642,"Fall",84923
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",18,183,"male",6.5,398,8.33311666384993,98.726650203642,"Fall",84924
+9,-119.83,41.93,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",14,173,"female",6.7,286,8.28490778281189,88.7403595719597,"Fall",84925
+8,-121.32,40.92,NA,1958,"Perognathus parvus mollipilosus","Perognathus_parvus",14.2,164,"male",11,691,7.10993223340675,76.6958135030972,"Summer",84926
+6,-118.69,42.75,NA,1992,"Perognathus parvus parvus","Perognathus_parvus",18,176,"female",5.6,710,7.07278180239165,84.4030048474922,"Summer",84927
+6,-118.59,43.01,NA,1992,"Perognathus parvus parvus","Perognathus_parvus",27,193,"male",9.4,303,7.94189123343026,80.1763480402703,"Summer",84928
+10,-118.86,42.35,NA,1983,"Perognathus parvus parvus","Perognathus_parvus",15,162,"female",8.5,585,7.15293434172086,72.7563084088506,"Fall",84929
+8,-118.66,42.11,NA,1997,"Perognathus parvus parvus","Perognathus_parvus",22.3,182,"male",6.2,535,7.41134981367133,99.6070539781248,"Summer",84930
+8,-118.92,42.04,"SUBADULT",1998,"Perognathus parvus parvus","Perognathus_parvus",22.3,158,"male",9.1,319,8.13974536121705,64.4529265969931,"Summer",84931
+8,-118.98,42.11,"JUVENILE",1998,"Perognathus parvus parvus","Perognathus_parvus",10.8,148,"female",7,431,7.9485990761094,61.5115439057583,"Summer",84932
+6,-117.77,36.05,NA,1978,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",16,185,"female",15.4,324,7.89066863549291,132.515762400799,"Summer",84933
+8,-111.11781,38.27864,NA,2010,"Perognathus parvus trumbullensis","Perognathus_parvus",14,180,"female",12,229,9.70683529865174,75.4577985057042,"Summer",84934
+8,-111.10384,38.2502,NA,2010,"Perognathus parvus trumbullensis","Perognathus_parvus",9,153,"male",11.9,238,9.69396485167212,76.0365962052707,"Summer",84935
+4,-113.0388888889,43.6913888889,NA,2001,"Perognathus parvus","Perognathus_parvus",17,161,"male",6.1,177,11.3734506104295,66.1260322509009,"Spring",84936
+5,-113.0388888889,43.6913888889,NA,2001,"Perognathus parvus","Perognathus_parvus",19,166,"male",6.1,177,11.3734506104295,66.1260322509009,"Spring",84937
+5,-113.0388888889,43.6913888889,NA,2001,"Perognathus parvus","Perognathus_parvus",14.5,162,"female",6.1,177,11.3734506104295,66.1260322509009,"Spring",84938
+5,-113.0388888889,43.6913888889,NA,2001,"Perognathus parvus","Perognathus_parvus",17,160,"male",6.1,177,11.3734506104295,66.1260322509009,"Spring",84939
+5,-112.8026666667,43.4045,NA,2001,"Perognathus parvus","Perognathus_parvus",18,154,"female",6.3,185,11.202678251204,57.2957566496596,"Spring",84940
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.5,168,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",84941
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16,150,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",84942
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17,158,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",84943
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16,154,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",84944
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",15.4,148,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",84945
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",19.9,148,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",84946
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",19,169,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",84947
+2,-112.8181666667,43.5185,NA,2003,"Perognathus parvus","Perognathus_parvus",NA,159,"male",7.1,180,9.88888264668966,86.2226387577151,"Winter",84948
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17,166,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84949
+2,-112.8181666667,43.5185,NA,2003,"Perognathus parvus","Perognathus_parvus",15.9,161,"male",7.1,180,9.88888264668966,86.2226387577151,"Winter",84950
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",15,162,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",84951
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",10.7,146,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",84952
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",15.4,146,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84953
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",12.6,158,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84954
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",13.8,154,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84955
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",18.2,163,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",84956
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.9,166,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84957
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17.6,77,"female",5.2,171,10.6544449395403,39.485201226128,"Summer",84958
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",14.5,166,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84959
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",18.5,175,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84960
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",19.3,168,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84961
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.6,164,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",84962
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17.8,157,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",84963
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",13.8,154,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",84964
+6,-112.7756666667,43.4166666667,NA,2002,"Perognathus parvus","Perognathus_parvus",15.6,125,"male",5.6,181,10.4604413546147,45.0951323184381,"Summer",84965
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",15.4,150,"female",5.2,171,10.6544449395403,39.485201226128,"Summer",84966
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.2,162,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84967
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",15.4,159,"female",5.2,171,10.6544449395403,39.485201226128,"Summer",84968
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",18,167,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84969
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.1,NA,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84970
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.1,171,"female",5.2,171,10.6544449395403,39.485201226128,"Summer",84971
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.6,161,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",84972
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17.7,165,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",84973
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",21,173,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",84974
+6,-112.7756666667,43.4166666667,NA,2002,"Perognathus parvus","Perognathus_parvus",17.5,164,"male",5.6,181,10.4604413546147,45.0951323184381,"Summer",84975
+6,-112.769,43.3855,NA,2002,"Perognathus parvus","Perognathus_parvus",19.9,174,"male",6,182,10.4582684411846,48.8441001760689,"Summer",84976
+6,-112.7756666667,43.4166666667,NA,2002,"Perognathus parvus","Perognathus_parvus",10.2,144,"female",5.6,181,10.4604413546147,45.0951323184381,"Summer",84977
+6,-112.7723333333,43.3873333333,NA,2002,"Perognathus parvus","Perognathus_parvus",19.3,167,"female",5.9,182,10.4512250985521,48.5201593014713,"Summer",84978
+6,-112.7756666667,43.4166666667,NA,2002,"Perognathus parvus","Perognathus_parvus",10.4,139,"male",5.6,181,10.4604413546147,45.0951323184381,"Summer",84979
+6,-112.7756666667,43.4166666667,NA,2002,"Perognathus parvus","Perognathus_parvus",17.1,165,"male",5.6,181,10.4604413546147,45.0951323184381,"Summer",84980
+6,-112.7756666667,43.4166666667,NA,2002,"Perognathus parvus","Perognathus_parvus",19.8,178,"male",5.6,181,10.4604413546147,45.0951323184381,"Summer",84981
+6,-112.769,43.3855,NA,2002,"Perognathus parvus","Perognathus_parvus",10.2,173,"male",6,182,10.4582684411846,48.8441001760689,"Summer",84982
+6,-112.769,43.3855,NA,2002,"Perognathus parvus","Perognathus_parvus",18.4,168,"male",6,182,10.4582684411846,48.8441001760689,"Summer",84983
+5,-112.804,43.4033333333,NA,2001,"Perognathus parvus","Perognathus_parvus",21,170,"female",6.3,185,11.202678251204,57.2957566496596,"Spring",84984
+5,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",18,176,"male",5.4,172,10.6512910015641,38.525839733183,"Spring",84985
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",17.8,156,"male",5.4,172,10.6512910015641,38.525839733183,"Summer",84986
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",14.9,152,"male",5.4,172,10.6512910015641,38.525839733183,"Summer",84987
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",19.8,166,"male",5.4,172,10.6512910015641,38.525839733183,"Summer",84988
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",18.9,96,"male",5.4,172,10.6512910015641,38.525839733183,"Summer",84989
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",20.5,182,"male",5.4,172,10.6512910015641,38.525839733183,"Summer",84990
+4,-112.8021666667,43.4031666667,NA,2001,"Perognathus parvus","Perognathus_parvus",14,151,"undetermined",6.3,185,11.202678251204,57.2957566496596,"Spring",84991
+4,-112.8026666667,42.4045,NA,2001,"Perognathus parvus","Perognathus_parvus",16,157,"male",7.4,296,10.3237700125839,71.594960500594,"Spring",84992
+4,-112.792,43.4168333333,NA,2001,"Perognathus parvus","Perognathus_parvus",13,149,"male",6.3,184,11.2243343596929,57.3435080335569,"Spring",84993
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",16.6,154,"female",5.4,172,10.6512910015641,38.525839733183,"Summer",84994
+8,-119.12977,37.90028,NA,2004,"Perognathus parvus olivaceus","Perognathus_parvus",18,151,"female",7.7,471,7.29183852611323,121.430219304826,"Summer",84995
+8,-119.12977,37.90028,NA,2004,"Perognathus parvus olivaceus","Perognathus_parvus",17,165,"male",7.7,471,7.29183852611323,121.430219304826,"Summer",84996
+8,-119.12977,37.90028,NA,2004,"Perognathus parvus olivaceus","Perognathus_parvus",14,172,"female",7.7,471,7.29183852611323,121.430219304826,"Summer",84997
+9,-119.1158,37.90779,NA,2004,"Perognathus parvus olivaceus","Perognathus_parvus",12,172,"male",8.2,435,7.40452359689465,122.959927929133,"Fall",84998
+8,-118.09535,36.97099,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",16,182,"male",6.3,446,6.39677949274382,95.9860774240494,"Summer",84999
+8,-118.15524,37.2838,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",20,184,"male",9,357,6.92966285418903,86.7712953250196,"Summer",85000
+6,-120.2813833333,41.1414666667,NA,2006,"Perognathus parvus mollipilosus","Perognathus_parvus",23.5,196,"male",7.3,548,8.01804782407108,81.0663412835359,"Summer",85001
+6,-118.08356,36.99266,NA,2013,"Perognathus parvus olivaceus","Perognathus_parvus",25,198,"male",5.2,133,6.77756436988088,56.6163510586239,"Summer",85002
+3,-115.87,38.4683333,NA,1999,"Perognathus parvus","Perognathus_parvus",15,178,"male",10.7,122,8.15612801778051,83.5606633653947,"Spring",85003
+7,-114.21,37.6883333,NA,2000,"Perognathus parvus","Perognathus_parvus",20,186,"male",11.1,405,8.5076925974869,100.611284658478,"Summer",85004
+7,-114.21,37.6883333,NA,2000,"Perognathus parvus","Perognathus_parvus",18,183,"female",11.1,405,8.5076925974869,100.611284658478,"Summer",85005
+7,-114.21,37.6883333,NA,2000,"Perognathus parvus","Perognathus_parvus",19,181,"female",11.1,405,8.5076925974869,100.611284658478,"Summer",85006
+7,-114.21,37.6883333,NA,2000,"Perognathus parvus","Perognathus_parvus",10,165,"male",11.1,405,8.5076925974869,100.611284658478,"Summer",85007
+7,-114.21,37.6883333,NA,2000,"Perognathus parvus","Perognathus_parvus",21,185,"male",11.1,405,8.5076925974869,100.611284658478,"Summer",85008
+8,-114.49834,39.19752,NA,2005,"Perognathus parvus","Perognathus_parvus",19,190,"male",9.5,304,8.00068178912954,56.9640746915057,"Summer",85009
+9,-114.81706,38.39923,NA,2005,"Perognathus parvus","Perognathus_parvus",20,190,"male",10.1,429,7.82274752167541,46.7414367709198,"Fall",85010
+9,-117.87262,37.29796,NA,2005,"Perognathus parvus","Perognathus_parvus",16,190,"male",16.3,135,7.89228142304911,88.9668792961588,"Fall",85011
+9,-114.11456,38.69667,NA,2005,"Perognathus parvus","Perognathus_parvus",17,180,"male",10.5,278,8.25260289517523,52.9253932597109,"Fall",85012
+9,-114.270109,38.630265,NA,2005,"Perognathus parvus","Perognathus_parvus",16,175,"male",9.8,322,8.08145557696287,45.0611454878031,"Fall",85013
+10,-113.430238,36.52301,NA,1964,"Perognathus parvus","Perognathus_parvus",20,156,"female",11.3,226,9.05453176340695,93.6866768813027,"Fall",85014
+4,-119.75167,39.59298,NA,1974,"Perognathus parvus","Perognathus_parvus",22,181,"male",9.5,179,7.61726010552032,91.0987919732742,"Spring",85015
+8,-119.35,50.233333,NA,1949,"Perognathus parvus lordi","Perognathus_parvus",16.5,171,"male",7,339,10.154936103823,62.0892514569473,"Summer",85016
+7,-119.726345,49.000588,NA,1981,"Perognathus parvus lordi","Perognathus_parvus",17,155,"male",9.7,366,7.83814971208709,46.6693435922466,"Summer",85017
+7,-119.726345,49.000588,NA,1981,"Perognathus parvus lordi","Perognathus_parvus",17,161,"female",9.7,366,7.83814971208709,46.6693435922466,"Summer",85018
+7,-118.7,37.6,"adult",1922,"Perognathus parvus olivaceus","Perognathus_parvus",17.8,NA,"female",6.1,348,8.02156185199956,104.19038696107,"Summer",85019
+7,-118.7,37.6,"adult",1922,"Perognathus parvus olivaceus","Perognathus_parvus",17.3,NA,"male",6.1,348,8.02156185199956,104.19038696107,"Summer",85020
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",17,164,"female",12.4,177,8.98456589059395,65.5483143769228,"Spring",85021
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",21,168,"female",12.4,177,8.98456589059395,65.5483143769228,"Spring",85022
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",20,180,"male",12.4,177,8.98456589059395,65.5483143769228,"Spring",85023
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",17,181,"male",12.4,177,8.98456589059395,65.5483143769228,"Spring",85024
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",23,168,"female",12.4,177,8.98456589059395,65.5483143769228,"Spring",85025
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",18,175,"male",12.4,177,8.98456589059395,65.5483143769228,"Spring",85026
+8,-120.2268333,47.2346667,"unknown",1999,"Perognathus parvus","Perognathus_parvus",15,173,"female",5.9,464,6.47584673298333,100.795311902945,"Summer",85027
+8,-120.2265,47.2636667,"unknown",1999,"Perognathus parvus","Perognathus_parvus",10,153,"female",7.4,382,6.81793534908057,99.6526408626399,"Summer",85028
+7,-119.88,41.45,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",21,178,"male",7,325,8.18266830600267,92.4278937658566,"Summer",85029
+8,-119.91,41.4,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",17,164,"female",7,328,8.18862385300855,91.9640697057021,"Summer",85030
+8,-119.67,42.54,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",12,154,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",85031
+6,-120.04,41.96,NA,1977,"Perognathus parvus mollipilosus","Perognathus_parvus",15,171,"female",7.7,397,8.18899853276925,99.5020577045337,"Summer",85032
+7,-119.83,41.93,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",26,185,"female",6.7,286,8.28490778281189,88.7403595719597,"Summer",85033
+7,-119.83,41.93,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",22,186,"male",6.7,286,8.28490778281189,88.7403595719597,"Summer",85034
+8,-119.91,41.4,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",16,185,"male",7,328,8.18862385300855,91.9640697057021,"Summer",85035
+8,-119.91,41.4,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",13,185,"female",7,328,8.18862385300855,91.9640697057021,"Summer",85036
+9,-118.97,41.5,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",15,164,"female",6,510,8.22888482447928,101.835297966529,"Fall",85037
+9,-120.1,40.24,NA,1977,"Perognathus parvus mollipilosus","Perognathus_parvus",19,184,"female",10.6,156,7.98970929042193,111.482811985847,"Fall",85038
+7,-119.88,41.45,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",16,165,"female",7,325,8.18266830600267,92.4278937658566,"Summer",85039
+7,-119.88,41.45,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",14,149,"male",7,325,8.18266830600267,92.4278937658566,"Summer",85040
+8,-119.92,41.46,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",17,162,"female",6.4,343,8.21467183357518,92.8562794932488,"Summer",85041
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",17,111,"female",6.5,398,8.33311666384993,98.726650203642,"Fall",85042
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",16,169,"male",6.5,398,8.33311666384993,98.726650203642,"Fall",85043
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",14,159,"female",6.5,398,8.33311666384993,98.726650203642,"Fall",85044
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",18,169,"female",6.5,398,8.33311666384993,98.726650203642,"Fall",85045
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",16,169,"male",6.5,398,8.33311666384993,98.726650203642,"Fall",85046
+9,-119.83,41.93,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",22,176,"male",6.7,286,8.28490778281189,88.7403595719597,"Fall",85047
+8,-119.92,41.46,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",20,189,"male",6.4,343,8.21467183357518,92.8562794932488,"Summer",85048
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",17,168,"female",6.5,398,8.33311666384993,98.726650203642,"Fall",85049
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",14,160,"male",6.5,398,8.33311666384993,98.726650203642,"Fall",85050
+9,-118.99,41.51,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",16,176,"male",6.5,398,8.33311666384993,98.726650203642,"Fall",85051
+9,-118.97,41.5,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",17,150,"male",6,510,8.22888482447928,101.835297966529,"Fall",85052
+9,-119.83,41.93,NA,1977,"Perognathus parvus parvus","Perognathus_parvus",22,189,"male",6.7,286,8.28490778281189,88.7403595719597,"Fall",85053
+4,-120.46,40.41,NA,1959,"Perognathus parvus mollipilosus","Perognathus_parvus",19.3,175,"male",10.2,188,7.71964730706362,133.446156133457,"Spring",85054
+6,-118.65,42.24,NA,1992,"Perognathus parvus parvus","Perognathus_parvus",16,172,"female",10.9,133,8.41690218692379,78.7053755396952,"Summer",85055
+6,-118.66,42.27,NA,1992,"Perognathus parvus parvus","Perognathus_parvus",14,175,"male",10.9,135,8.40026604917783,80.6352569794047,"Summer",85056
+6,-118.69,42.75,NA,1992,"Perognathus parvus parvus","Perognathus_parvus",10,166,"female",5.6,710,7.07278180239165,84.4030048474922,"Summer",85057
+6,-118.59,43.01,NA,1992,"Perognathus parvus parvus","Perognathus_parvus",22,192,"male",9.4,303,7.94189123343026,80.1763480402703,"Summer",85058
+8,-118.76,42.21,NA,1997,"Perognathus parvus parvus","Perognathus_parvus",18.3,174,"male",7.2,421,7.57813341533428,95.8488532046384,"Summer",85059
+8,-118.63,42.13,NA,1997,"Perognathus parvus parvus","Perognathus_parvus",16.7,172,"female",8.4,361,7.83861362974114,96.229535979609,"Summer",85060
+8,-119.01,42.1,"JUVENILE",1998,"Perognathus parvus parvus","Perognathus_parvus",19.1,176,"male",7.5,387,7.87702354953951,62.4417314943701,"Summer",85061
+8,-118.98,42.11,"JUVENILE",1998,"Perognathus parvus parvus","Perognathus_parvus",14.4,174,"male",7,431,7.9485990761094,61.5115439057583,"Summer",85062
+6,-118.66,43.01,NA,1997,"Perognathus parvus parvus","Perognathus_parvus",15.1,155,"female",8.6,271,7.83424398317277,81.5280305935207,"Summer",85063
+10,-117.5,36.07,NA,1969,"Perognathus parvus olivaceus Merriam, 1889","Perognathus_parvus",9.3,173,"female",11.7,463,7.99459571248357,128.666343332422,"Fall",85064
+7,-110.6669277633,37.729451,NA,2011,"Perognathus parvus","Perognathus_parvus",16.5,177,"male",12.8,191,10.1788067110347,57.0959121287871,"Summer",85065
+5,-113.0380555556,43.6933333333,NA,2001,"Perognathus parvus","Perognathus_parvus",17.5,167,"male",6.1,182,11.3444786997771,66.5665093854817,"Spring",85066
+5,-113.0380555556,43.6933333333,NA,2001,"Perognathus parvus","Perognathus_parvus",31,187,"male",6.1,182,11.3444786997771,66.5665093854817,"Spring",85067
+4,-113.0388888889,43.6913888889,NA,2001,"Perognathus parvus","Perognathus_parvus",14.5,152,"male",6.1,177,11.3734506104295,66.1260322509009,"Spring",85068
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.6,157,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85069
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17.6,162,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85070
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",14.7,154,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85071
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",21.5,175,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85072
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",19.2,166,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85073
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17.5,169,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85074
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",20.4,171,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85075
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.6,176,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85076
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16,161,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85077
+2,-112.8181666667,43.5185,NA,2003,"Perognathus parvus","Perognathus_parvus",13.5,157,"female",7.1,180,9.88888264668966,86.2226387577151,"Winter",85078
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",14.2,153,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85079
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",14.4,156,"female",5.2,171,10.6544449395403,39.485201226128,"Summer",85080
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",15.5,163,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85081
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",12.9,155,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85082
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17.8,164,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",85083
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17.1,168,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85084
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",16.9,161,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85085
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",11.6,149,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",85086
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",14.3,155,"female",5.2,171,10.6544449395403,39.485201226128,"Summer",85087
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",15.3,162,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85088
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",18.9,168,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",85089
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",15.8,164,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85090
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",18.6,161,"male",5.2,171,10.6544449395403,39.485201226128,"Spring",85091
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17.9,151,"female",5.2,171,10.6544449395403,39.485201226128,"Summer",85092
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",17.6,160,"female",5.2,171,10.6544449395403,39.485201226128,"Summer",85093
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",19.7,168,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",85094
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",14.1,155,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85095
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",15,154,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85096
+6,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",18.1,186,"male",5.2,171,10.6544449395403,39.485201226128,"Summer",85097
+5,-112.8181666667,43.5185,NA,2002,"Perognathus parvus","Perognathus_parvus",13.9,166,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",85098
+6,-112.773,43.4096666667,NA,2002,"Perognathus parvus","Perognathus_parvus",20.2,172,"male",5.7,182,10.4340642594196,46.182380219109,"Summer",85099
+6,-112.769,43.3855,NA,2002,"Perognathus parvus","Perognathus_parvus",22.3,171,"female",6,182,10.4582684411846,48.8441001760689,"Summer",85100
+6,-112.773,43.4096666667,NA,2002,"Perognathus parvus","Perognathus_parvus",20.2,164,"male",5.7,182,10.4340642594196,46.182380219109,"Summer",85101
+6,-112.769,43.3855,NA,2002,"Perognathus parvus","Perognathus_parvus",12,151,"female",6,182,10.4582684411846,48.8441001760689,"Summer",85102
+6,-112.7756666667,43.4166666667,NA,2002,"Perognathus parvus","Perognathus_parvus",18.3,173,"female",5.6,181,10.4604413546147,45.0951323184381,"Summer",85103
+5,-112.804,43.4033333333,NA,2001,"Perognathus parvus","Perognathus_parvus",18,161,"female",6.3,185,11.202678251204,57.2957566496596,"Spring",85104
+5,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",16.1,159,"female",5.4,172,10.6512910015641,38.525839733183,"Spring",85105
+5,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",18.1,166,"male",5.4,172,10.6512910015641,38.525839733183,"Spring",85106
+5,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",14.9,162,"female",5.4,172,10.6512910015641,38.525839733183,"Spring",85107
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",17.1,163,"male",5.4,172,10.6512910015641,38.525839733183,"Summer",85108
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",16.6,160,"male",5.4,172,10.6512910015641,38.525839733183,"Summer",85109
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",16.5,163,"female",5.4,172,10.6512910015641,38.525839733183,"Summer",85110
+6,-113.0403333333,43.5021666667,NA,2002,"Perognathus parvus","Perognathus_parvus",NA,160,"male",5.4,172,10.6512910015641,38.525839733183,"Summer",85111
+5,-112.7755,43.3876666667,NA,2001,"Perognathus parvus","Perognathus_parvus",22,175,"male",6.5,188,11.1572642459765,58.3953497559724,"Spring",85112
+4,-112.8021666667,43.4031666667,NA,2001,"Perognathus parvus","Perognathus_parvus",17,176,"male",6.3,185,11.202678251204,57.2957566496596,"Spring",85113
+4,-112.8021666667,43.4031666667,NA,2001,"Perognathus parvus","Perognathus_parvus",21,165,"male",6.3,185,11.202678251204,57.2957566496596,"Spring",85114
+4,-112.804,43.4033333333,NA,2001,"Perognathus parvus","Perognathus_parvus",17,170,"male",6.3,185,11.202678251204,57.2957566496596,"Spring",85115
+4,-112.7755,42.3876666667,NA,2001,"Perognathus parvus","Perognathus_parvus",17,170,"male",7.3,326,10.4051851875821,73.7530882095191,"Spring",85116
+4,-112.804,43.4033333333,NA,2001,"Perognathus parvus","Perognathus_parvus",13,146,"male",6.3,185,11.202678251204,57.2957566496596,"Spring",85117
+4,-112.8021666667,43.4031666667,NA,2001,"Perognathus parvus","Perognathus_parvus",21.5,161,"female",6.3,185,11.202678251204,57.2957566496596,"Spring",85118
+8,-119.12977,37.90028,NA,2004,"Perognathus parvus olivaceus","Perognathus_parvus",16,180,"female",7.7,471,7.29183852611323,121.430219304826,"Summer",85119
+8,-119.12977,37.90028,NA,2004,"Perognathus parvus olivaceus","Perognathus_parvus",14,177,"female",7.7,471,7.29183852611323,121.430219304826,"Summer",85120
+9,-119.1158,37.90779,NA,2004,"Perognathus parvus olivaceus","Perognathus_parvus",15,156,"male",8.2,435,7.40452359689465,122.959927929133,"Fall",85121
+8,-118.09535,36.97099,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",21,189,"male",6.3,446,6.39677949274382,95.9860774240494,"Summer",85122
+8,-118.09535,36.97099,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",17,178,"male",6.3,446,6.39677949274382,95.9860774240494,"Summer",85123
+8,-118.15524,37.2838,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",22,186,"female",9,357,6.92966285418903,86.7712953250196,"Summer",85124
+8,-118.15524,37.2838,NA,2005,"Perognathus parvus olivaceus","Perognathus_parvus",16,168,"male",9,357,6.92966285418903,86.7712953250196,"Summer",85125
+8,-121.23471566,41.63103819,NA,2009,"Perognathus parvus mollipilosus","Perognathus_parvus",15.9,157,"female",8.8,249,8.27409246144893,64.5014646090587,"Summer",85126
+3,-115.87,38.4683333,NA,1999,"Perognathus parvus","Perognathus_parvus",15,185,"male",10.7,122,8.15612801778051,83.5606633653947,"Spring",85127
+7,-114.21,37.6883333,NA,2000,"Perognathus parvus","Perognathus_parvus",20,193,"male",11.1,405,8.5076925974869,100.611284658478,"Summer",85128
+6,-114.78613,38.26935,NA,2005,"Perognathus parvus","Perognathus_parvus",18,160,"female",11,375,7.87875451624638,44.6985865141577,"Summer",85129
+6,-114.81043,38.36631,NA,2005,"Perognathus parvus","Perognathus_parvus",19,170,"female",9.9,470,7.83818837294033,48.6488918642187,"Summer",85130
+6,-114.617592,38.46112,NA,2005,"Perognathus parvus","Perognathus_parvus",22,175,"male",9.7,360,7.8170510986425,43.251671305362,"Summer",85131
+6,-114.52165,38.405684,NA,2005,"Perognathus parvus","Perognathus_parvus",24,184,"male",9.7,422,7.8172449227217,49.607067708548,"Summer",85132
+6,-114.4068,38.48267,NA,2005,"Perognathus parvus","Perognathus_parvus",17,166,"female",9.5,456,8.04277861679581,50.0406065971436,"Summer",85133
+7,-114.56279,38.77422,NA,2005,"Perognathus parvus","Perognathus_parvus",16,175,"male",9.4,339,7.93242291694873,43.3308040060666,"Summer",85134
+7,-114.4176,38.937776,NA,2005,"Perognathus parvus","Perognathus_parvus",19,160,"male",9.7,312,7.87775444854149,50.2674646121686,"Summer",85135
+8,-114.7867,38.5142,NA,2005,"Perognathus parvus","Perognathus_parvus",14,190,"female",9.4,392,7.78064323118012,43.9997717659325,"Summer",85136
+9,-114.82042,38.38924,NA,2005,"Perognathus parvus","Perognathus_parvus",13,170,"female",10.1,432,7.78944021017421,46.79208914216,"Fall",85137
+9,-114.224695,38.64332,NA,2005,"Perognathus parvus","Perognathus_parvus",19,185,"male",10,329,8.13806525290908,45.7305986561846,"Fall",85138
+10,-115.10962,38.411636,NA,2005,"Perognathus parvus","Perognathus_parvus",15,180,"male",11.3,316,7.93535911237949,50.7481041684182,"Fall",85139
+8,-119.35,50.233333,NA,1949,"Perognathus parvus laingi","Perognathus_parvus",16,116,"female",7,339,10.154936103823,62.0892514569473,"Summer",85140
+8,-119.35,50.233333,NA,1949,"Perognathus parvus lordi","Perognathus_parvus",16.2,169,"female",7,339,10.154936103823,62.0892514569473,"Summer",85141
+8,-119.35,50.233333,NA,1949,"Perognathus parvus lordi","Perognathus_parvus",18.25,180,"male",7,339,10.154936103823,62.0892514569473,"Summer",85142
+8,-119.35,50.233333,NA,1949,"Perognathus parvus lordi","Perognathus_parvus",11.5,153,"female",7,339,10.154936103823,62.0892514569473,"Summer",85143
+7,-119.726345,49.000588,NA,1981,"Perognathus parvus lordi","Perognathus_parvus",21,180,"male",9.7,366,7.83814971208709,46.6693435922466,"Summer",85144
+7,-118.7,37.6,"adult",1922,"Perognathus parvus olivaceus","Perognathus_parvus",23.6,NA,"female",6.1,348,8.02156185199956,104.19038696107,"Summer",85145
+7,-118.7,37.6,"adult",1922,"Perognathus parvus olivaceus","Perognathus_parvus",21.2,NA,"female",6.1,348,8.02156185199956,104.19038696107,"Summer",85146
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",21,182,"male",12.4,177,8.98456589059395,65.5483143769228,"Spring",85147
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",16,145,"male",12.4,177,8.98456589059395,65.5483143769228,"Spring",85148
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",17,154,"female",12.4,177,8.98456589059395,65.5483143769228,"Spring",85149
+5,-119.9833333,47.0166667,"unknown",1994,"Perognathus parvus","Perognathus_parvus",15,161,"male",12.4,177,8.98456589059395,65.5483143769228,"Spring",85150

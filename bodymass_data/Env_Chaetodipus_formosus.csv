@@ -1,0 +1,452 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+2,-115.45073,33.43958,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",19,186,"male",21.2,67,7.70495216589875,199.13889206543,"Winter",18533
+6,-115.8987345,35.7688924,NA,1975,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",24,205,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",18534
+5,-116.1033683,35.2024426,NA,1978,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",12.4,153,"female",21,181,9.71524887000125,89.0419282004007,"Spring",18535
+9,-115.49025,33.33764,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",14.5,174,"female",23.2,42,7.7343781948264,197.385508487931,"Fall",18536
+4,-117.847089,36.9935567,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",19,186,"male",12.7,178,7.94930909900446,121.444746612064,"Spring",18537
+7,-117.9376234,36.970074,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",19,174,"female",12.3,189,7.89592817964942,115.611340876156,"Summer",18538
+9,-115.14615,33.25854,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",15,181,"female",23,67,7.8817924049769,196.845203073246,"Fall",18539
+5,-116.1033683,35.2024426,NA,1978,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",13.7,164,"male",21,181,9.71524887000125,89.0419282004007,"Spring",18540
+9,-115.45073,33.43958,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",15,180,"female",21.2,67,7.70495216589875,199.13889206543,"Fall",18541
+4,-117.847089,36.9935567,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",17,177,"female",12.7,178,7.94930909900446,121.444746612064,"Spring",18542
+4,-117.847089,36.9935567,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",18,171,"female",12.7,178,7.94930909900446,121.444746612064,"Spring",18543
+9,-115.39087,33.46253,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",12,180,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",18544
+4,-115.3291278,33.3376409,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",11.5,172,"female",22.6,64,7.82612176101176,224.051029090169,"Spring",18545
+4,-115.3291278,33.3376409,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",11.5,180,"female",22.6,64,7.82612176101176,224.051029090169,"Spring",18546
+4,-117.847089,36.9935567,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",18,184,"male",12.7,178,7.94930909900446,121.444746612064,"Spring",18547
+4,-117.847089,36.9935567,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",17,137,"male",12.7,178,7.94930909900446,121.444746612064,"Spring",18548
+9,-114.5325835,33.8592086,NA,1976,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",16,185,"male",22,130,7.83610041391569,164.788484898808,"Fall",18549
+9,-115.14615,33.25854,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",17,184,"female",23,67,7.8817924049769,196.845203073246,"Fall",18550
+9,-115.39087,33.46253,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",12.5,175,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",18551
+2,-115.45073,33.43958,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",17,174,"male",21.2,67,7.70495216589875,199.13889206543,"Winter",18552
+7,-117.9376234,36.970074,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",22,181,"female",12.3,189,7.89592817964942,115.611340876156,"Summer",18553
+7,-117.564297,35.477986,NA,2003,"Chaetodipus formosus","Chaetodipus_formosus",16,NA,"male",18.1,179,7.65890252443442,130.008054334402,"Summer",18554
+7,-117.564297,35.477986,NA,2003,"Chaetodipus formosus","Chaetodipus_formosus",17,NA,"male",18.1,179,7.65890252443442,130.008054334402,"Summer",18555
+9,-112.737148,36.861931,NA,2001,"Chaetodipus formosus","Chaetodipus_formosus",16,190,"male",13.8,241,8.85315814220604,57.1210763940181,"Fall",18556
+5,-117.6144,37.2664,NA,1984,"Chaetodipus formosus ssp.","Chaetodipus_formosus",17,203,"male",15.5,152,8.26597168388495,121.970470352628,"Spring",18557
+5,-117.6144,37.2664,NA,1984,"Chaetodipus formosus ssp.","Chaetodipus_formosus",14,207,"female",15.5,152,8.26597168388495,121.970470352628,"Spring",18558
+5,-117.523558,36.320731,NA,1984,"Chaetodipus formosus ssp.","Chaetodipus_formosus",15.9,210,"female",17.8,145,8.40339036918848,153.147498534668,"Spring",18559
+5,-117.523558,36.320731,NA,1984,"Chaetodipus formosus ssp.","Chaetodipus_formosus",17.5,227,"male",17.8,145,8.40339036918848,153.147498534668,"Spring",18560
+6,-120.18791,40.32491,NA,1995,"Chaetodipus formosus melanurus","Chaetodipus_formosus",25,197,"male",10.7,296,6.48627338494473,102.896977059889,"Summer",18561
+6,-120.18791,40.32491,NA,1995,"Chaetodipus formosus melanurus","Chaetodipus_formosus",17,184,"male",10.7,296,6.48627338494473,102.896977059889,"Summer",18562
+6,-120.18791,40.32491,"adult",1995,"Chaetodipus formosus melanurus","Chaetodipus_formosus",27,145,"female",10.7,296,6.48627338494473,102.896977059889,"Summer",18563
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,NA,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18564
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",18,193,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18565
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",18,187,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18566
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,196,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18567
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",20,202,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18568
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",14,182,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18569
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",16,188,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18570
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,NA,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18571
+9,-118.22488,37.40205,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,189,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",18572
+9,-118.22488,37.40205,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",14,NA,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",18573
+4,-118.11463,36.58771,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,188,"female",15.4,125,7.88125893650516,160.558298672872,"Spring",18574
+4,-118.31084,37.40482,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",16,195,"female",13.8,79,8.51698392340359,135.624132828941,"Spring",18575
+4,-118.31084,37.40482,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,197,"female",13.8,79,8.51698392340359,135.624132828941,"Spring",18576
+4,-118.31084,37.40482,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",18,197,"male",13.8,79,8.51698392340359,135.624132828941,"Spring",18577
+4,-118.31084,37.40482,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,194,"female",13.8,79,8.51698392340359,135.624132828941,"Spring",18578
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",16,185,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18579
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",22,192,"male",11,109,8.6451072166792,76.2824200900682,"Spring",18580
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",22,201,"male",11,109,8.6451072166792,76.2824200900682,"Spring",18581
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,190,"male",11,109,8.6451072166792,76.2824200900682,"Spring",18582
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",16,NA,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18583
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,188,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18584
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,198,"male",11,109,8.6451072166792,76.2824200900682,"Spring",18585
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",14,183,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18586
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,192,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18587
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,190,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18588
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,183,"male",11,109,8.6451072166792,76.2824200900682,"Spring",18589
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,183,"male",11,109,8.6451072166792,76.2824200900682,"Spring",18590
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",13,185,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18591
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,186,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18592
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,194,"male",11,109,8.6451072166792,76.2824200900682,"Spring",18593
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,190,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18594
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,198,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18595
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",16,189,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18596
+4,-115.89834,35.77614,NA,2010,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",18,200,"male",15.6,251,8.14640188281695,133.093318322844,"Spring",18597
+4,-115.89834,35.77614,NA,2010,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,203,"male",15.6,251,8.14640188281695,133.093318322844,"Spring",18598
+4,-115.89834,35.77614,NA,2010,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,195,"female",15.6,251,8.14640188281695,133.093318322844,"Spring",18599
+5,-116.1734238,34.4926033,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",14,181,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",18645
+5,-116.1734238,34.4926033,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",14,175,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",18646
+5,-116.1734238,34.4926033,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",14,185,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",18647
+5,-115.8850174,34.6448479,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",13,191,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",18648
+5,-115.8850174,34.6448479,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",15,180,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",18649
+5,-115.8850174,34.6448479,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",16,196,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",18650
+4,-116.79,36.9,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",20,183,"male",16.1,58,9.3023783208512,92.4568280465362,"Spring",18651
+4,-116.79,36.9,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",21.5,NA,"female",16.1,58,9.3023783208512,92.4568280465362,"Spring",18652
+6,-117.92111,36.7666667,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17,82,"female",11,105,7.71197416065079,146.561614367629,"Summer",18653
+6,-117.92111,36.7666667,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",7.4,62,"male",11,105,7.71197416065079,146.561614367629,"Summer",18654
+4,-115.5887145,33.866157,"unknown",1970,"Chaetodipus formosus","Chaetodipus_formosus",24,183,"female",18.3,215,7.79794067609384,147.795227710527,"Spring",18655
+11,-116.3990929,33.6959116,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",18,195,"male",21.3,154,7.45972519601091,139.776198586282,"Fall",18656
+8,-114.71636,35.1384,"unknown",1941,"Chaetodipus formosus","Chaetodipus_formosus",18.8,190,"male",18.9,356,7.42593224430238,78.7552215073306,"Summer",18657
+7,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.4,188,"male",20.5,102,9.0602863022527,93.6527871452596,"Summer",18658
+7,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.7,164,"female",20.5,102,9.0602863022527,93.6527871452596,"Summer",18659
+7,-114.81383,36.06564,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",17.5,198,"female",20.6,107,9.07762817774188,102.165113603962,"Summer",18660
+8,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.9,187,"female",20.5,102,9.0602863022527,93.6527871452596,"Summer",18661
+8,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.8,199,"male",20.5,102,9.0602863022527,93.6527871452596,"Summer",18662
+8,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",17.6,206,"male",20.5,102,9.0602863022527,93.6527871452596,"Summer",18663
+8,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.6,175,"female",20.5,102,9.0602863022527,93.6527871452596,"Summer",18664
+8,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",16.7,195,"male",20.5,102,9.0602863022527,93.6527871452596,"Summer",18665
+8,-114.80134,36.06854,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.3,193,"male",20.6,109,9.07762817774188,101.928365882272,"Summer",18666
+8,-114.80134,36.06854,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.9,194,"male",20.6,109,9.07762817774188,101.928365882272,"Summer",18667
+8,-114.42944,36.30556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.8,192,"male",20.1,116,9.22606239263139,77.5113481042109,"Summer",18668
+8,-114.37961,36.29678,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",17.5,158,"female",20,118,9.21318225548194,79.3473153184879,"Summer",18669
+8,-114.37961,36.29678,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",17.6,194,"male",20,118,9.21318225548194,79.3473153184879,"Summer",18670
+8,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",16,183,"female",20.1,118,9.21208034281205,77.9279196120631,"Summer",18671
+8,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.2,181,"male",20.1,118,9.21208034281205,77.9279196120631,"Summer",18672
+11,-114.79598,36.02938,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.4,188,"male",20.5,104,9.01376052421401,95.0109846202836,"Fall",18673
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.2,191,"male",20.8,123,9.08009394558262,105.340988008521,"Fall",18674
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.9,192,"male",20.8,123,9.08009394558262,105.340988008521,"Fall",18675
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.6,180,"male",20.8,123,9.08009394558262,105.340988008521,"Fall",18676
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.7,199,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",18677
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.5,185,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",18678
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.4,184,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",18679
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",16.9,184,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",18680
+11,-114.40194,36.24672,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.1,189,"male",20.1,120,9.23283009240133,80.4954134763748,"Fall",18681
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.7,186,"female",20.1,118,9.21208034281205,77.9279196120631,"Fall",18682
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",17,173,"female",20.1,118,9.21208034281205,77.9279196120631,"Fall",18683
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.6,159,"female",20.1,118,9.21208034281205,77.9279196120631,"Fall",18684
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.7,183,"male",20.1,118,9.21208034281205,77.9279196120631,"Fall",18685
+11,-114.41556,36.28228,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.5,186,"male",20,119,9.19716688920446,78.4009908779234,"Fall",18686
+11,-114.41556,36.28228,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.4,140,"female",20,119,9.19716688920446,78.4009908779234,"Fall",18687
+11,-114.38639,36.27194,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.2,186,"female",20.1,119,9.22284301792746,80.055085367625,"Fall",18688
+11,-114.40194,36.24672,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.3,179,"female",20.1,120,9.23283009240133,80.4954134763748,"Fall",18689
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",16,210,"male",20.1,118,9.21208034281205,77.9279196120631,"Fall",18690
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.1,202,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",18691
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.5,198,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",18692
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.2,194,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",18693
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.7,198,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18694
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.8,192,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18695
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.7,196,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",18696
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",19,202,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18697
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16,192,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18698
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18,195,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",18699
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",13.9,194,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",18700
+7,-114.78171,36.15266,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",13.7,193,"female",19.6,52,9.85871403501706,115.251503638387,"Summer",18701
+7,-114.82096,36.06128,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.8,191,"male",19.7,38,9.85148427518627,71.1343584492673,"Summer",18702
+7,-114.82096,36.06128,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.6,192,"male",19.7,38,9.85148427518627,71.1343584492673,"Summer",18703
+7,-114.82096,36.06128,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.2,201,"male",19.7,38,9.85148427518627,71.1343584492673,"Summer",18704
+7,-114.82096,36.06128,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.4,197,"female",19.7,38,9.85148427518627,71.1343584492673,"Summer",18705
+7,-114.79955,36.05693,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17,191,"female",19.8,40,9.85148427518627,81.0102962661515,"Summer",18706
+7,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.4,185,"female",20,47,9.87948593927045,103.055235232618,"Summer",18707
+7,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.2,208,"male",20,47,9.87948593927045,103.055235232618,"Summer",18708
+8,-114.76573,36.00081,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.5,184,"female",19.6,42,9.77206904055294,81.6803246321047,"Summer",18709
+8,-114.76573,36.00081,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.3,182,"male",19.6,42,9.77206904055294,81.6803246321047,"Summer",18710
+8,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17,149,"female",20,47,9.87948593927045,103.055235232618,"Summer",18711
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.8,183,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18712
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",13.6,183,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18713
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.9,186,"female",19.5,65,9.92051364139433,53.33642538965,"Summer",18714
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.5,190,"female",19.5,65,9.92051364139433,53.33642538965,"Summer",18715
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17,195,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18716
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.5,202,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18717
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.6,207,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18718
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",19.3,198,"female",19.5,65,9.92051364139433,53.33642538965,"Summer",18719
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.6,165,"female",19.5,65,9.92051364139433,53.33642538965,"Summer",18720
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.4,195,"male",19.5,65,9.91348561151409,54.4210228429485,"Summer",18721
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",19.5,207,"male",19.5,65,9.91348561151409,54.4210228429485,"Summer",18722
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",20.4,215,"female",19.5,65,9.91348561151409,54.4210228429485,"Summer",18723
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",10.5,180,"female",19.5,65,9.91348561151409,54.4210228429485,"Summer",18724
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.8,199,"male",19.5,65,9.91348561151409,54.4210228429485,"Summer",18725
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.7,194,"female",19.5,65,9.91348561151409,54.4210228429485,"Summer",18726
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.3,194,"female",19.5,65,9.91348561151409,54.4210228429485,"Summer",18727
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.1,204,"male",19.5,64,9.92640723555409,53.33642538965,"Summer",18728
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.7,195,"female",19.5,64,9.92640723555409,53.33642538965,"Summer",18729
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",19.4,195,"female",19.5,64,9.92640723555409,53.33642538965,"Summer",18730
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.3,180,"female",19.5,64,9.92640723555409,53.33642538965,"Summer",18731
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",19.3,206,"female",19.5,64,9.92640723555409,53.33642538965,"Summer",18732
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.7,186,"male",19.5,64,9.92640723555409,53.33642538965,"Summer",18733
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",13.9,189,"male",19.5,64,9.92640723555409,53.33642538965,"Summer",18734
+8,-114.39722,36.28917,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.8,189,"male",19.4,65,9.91156349468089,52.6297098950428,"Summer",18735
+8,-114.39722,36.28917,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.8,202,"female",19.4,65,9.91156349468089,52.6297098950428,"Summer",18736
+8,-114.42944,36.30556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",12.4,169,"female",19.4,64,9.91053923249325,52.8667292288247,"Summer",18737
+8,-114.42944,36.30556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.6,194,"male",19.4,64,9.91053923249325,52.8667292288247,"Summer",18738
+8,-114.42944,36.30556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.1,196,"male",19.4,64,9.91053923249325,52.8667292288247,"Summer",18739
+8,-114.42944,36.30556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.8,194,"female",19.4,64,9.91053923249325,52.8667292288247,"Summer",18740
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.8,189,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18741
+7,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",17.1,199,"male",20.5,102,9.0602863022527,93.6527871452596,"Summer",18742
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.6,189,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18743
+7,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.3,194,"male",20,47,9.87948593927045,103.055235232618,"Summer",18744
+7,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",20.9,202,"female",20,47,9.87948593927045,103.055235232618,"Summer",18745
+8,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.8,181,"female",20,47,9.87948593927045,103.055235232618,"Summer",18746
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.3,187,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18747
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.5,186,"female",19.5,65,9.92051364139433,53.33642538965,"Summer",18748
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.6,188,"male",19.5,65,9.91348561151409,54.4210228429485,"Summer",18749
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.1,197,"male",19.5,65,9.91348561151409,54.4210228429485,"Summer",18750
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.8,NA,"male",19.5,64,9.92640723555409,53.33642538965,"Summer",18751
+5,-116.1033683,35.2024426,NA,1978,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",11.6,147,"female",21,181,9.71524887000125,89.0419282004007,"Spring",18752
+3,-113.41025,37.00755,NA,1978,"Chaetodipus formosus formosus Merriam, 1889","Chaetodipus_formosus",19.7,173,"male",16,422,8.82418766112711,87.6136009050731,"Spring",18753
+4,-117.847089,36.9935567,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",15,173,"female",12.7,178,7.94930909900446,121.444746612064,"Spring",18754
+9,-115.39087,33.46253,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",14,182,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",18755
+9,-115.39087,33.46253,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",13.5,179,"female",20.1,70,7.73604315114411,209.014039449193,"Fall",18756
+9,-115.14615,33.25854,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",9,151,"male",23,67,7.8817924049769,196.845203073246,"Fall",18757
+5,-116.1033683,35.2024426,NA,1978,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",13.8,158,"female",21,181,9.71524887000125,89.0419282004007,"Spring",18758
+9,-115.39087,33.46253,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",13,174,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",18759
+6,-115.8987345,35.7688924,NA,1975,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",21,NA,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",18760
+9,-115.45073,33.43958,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",15,182,"female",21.2,67,7.70495216589875,199.13889206543,"Fall",18761
+5,-117.7197298,34.7852297,NA,1974,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",17.5,180,"female",16,168,8.17529074638198,147.116731960205,"Spring",18762
+7,-117.9376234,36.970074,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",15,87,"male",12.3,189,7.89592817964942,115.611340876156,"Summer",18763
+5,-116.1033683,35.2024426,NA,1978,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",24.6,186,"female",21,181,9.71524887000125,89.0419282004007,"Spring",18764
+9,-115.39087,33.46253,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",16,178,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",18765
+6,-118.0149534,36.4122647,NA,1968,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",18,174,"female",15.1,83,7.91992118111989,139.039909648107,"Summer",18766
+9,-115.39087,33.46253,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",11,177,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",18767
+9,-115.39087,33.46253,NA,1989,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",15.5,170,"female",20.1,70,7.73604315114411,209.014039449193,"Fall",18768
+5,-116.1033683,35.2024426,NA,1978,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",10.5,160,"female",21,181,9.71524887000125,89.0419282004007,"Spring",18769
+3,-113.41025,37.00755,NA,1978,"Chaetodipus formosus formosus Merriam, 1889","Chaetodipus_formosus",18.2,123,"female",16,422,8.82418766112711,87.6136009050731,"Spring",18770
+4,-117.847089,36.9935567,NA,1977,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",21,157,"male",12.7,178,7.94930909900446,121.444746612064,"Spring",18771
+3,-113.41025,37.00755,NA,1978,"Chaetodipus formosus formosus Merriam, 1889","Chaetodipus_formosus",18.3,131,"male",16,422,8.82418766112711,87.6136009050731,"Spring",18772
+5,-116.1033683,35.2024426,NA,1978,"Chaetodipus formosus mesembrinus Elliot, 1904","Chaetodipus_formosus",15.1,173,"female",21,181,9.71524887000125,89.0419282004007,"Spring",18773
+7,-117.564297,35.477986,NA,2003,"Chaetodipus formosus","Chaetodipus_formosus",20.5,NA,"female",18.1,179,7.65890252443442,130.008054334402,"Summer",18774
+7,-117.564297,35.477986,NA,2003,"Chaetodipus formosus","Chaetodipus_formosus",21,NA,"male",18.1,179,7.65890252443442,130.008054334402,"Summer",18775
+7,-117.564297,35.477986,NA,2003,"Chaetodipus formosus","Chaetodipus_formosus",17,NA,"female",18.1,179,7.65890252443442,130.008054334402,"Summer",18776
+7,-117.564297,35.477986,NA,2003,"Chaetodipus formosus","Chaetodipus_formosus",17,NA,"male",18.1,179,7.65890252443442,130.008054334402,"Summer",18777
+7,-117.564297,35.477986,NA,2003,"Chaetodipus formosus","Chaetodipus_formosus",17.5,NA,"female",18.1,179,7.65890252443442,130.008054334402,"Summer",18778
+7,-117.564297,35.477986,NA,2003,"Chaetodipus formosus","Chaetodipus_formosus",13,NA,"female",18.1,179,7.65890252443442,130.008054334402,"Summer",18779
+9,-112.737148,36.861931,NA,2001,"Chaetodipus formosus","Chaetodipus_formosus",13,182,"female",13.8,241,8.85315814220604,57.1210763940181,"Fall",18780
+5,-117.6144,37.2664,NA,1984,"Chaetodipus formosus ssp.","Chaetodipus_formosus",15,220,"male",15.5,152,8.26597168388495,121.970470352628,"Spring",18781
+5,-117.6144,37.2664,NA,1984,"Chaetodipus formosus ssp.","Chaetodipus_formosus",17,210,"male",15.5,152,8.26597168388495,121.970470352628,"Spring",18782
+5,-117.6144,37.2664,NA,1984,"Chaetodipus formosus ssp.","Chaetodipus_formosus",12,175,"female",15.5,152,8.26597168388495,121.970470352628,"Spring",18783
+5,-117.7828436,37.2804954,NA,1984,"Chaetodipus formosus ssp.","Chaetodipus_formosus",14,205,"female",15.2,133,8.64054484112635,103.863284010895,"Spring",18784
+5,-117.7828436,37.2804954,NA,1984,"Chaetodipus formosus ssp.","Chaetodipus_formosus",15.5,210,"male",15.2,133,8.64054484112635,103.863284010895,"Spring",18785
+7,-120.30384,40.37357,"adult",1995,"Chaetodipus formosus melanurus","Chaetodipus_formosus",21.7,185,"male",10.6,344,6.3722884904923,104.252234714144,"Summer",18786
+7,-120.30384,40.37357,NA,1995,"Chaetodipus formosus melanurus","Chaetodipus_formosus",23.8,201,"male",10.6,344,6.3722884904923,104.252234714144,"Summer",18787
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,190,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18788
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,186,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18789
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",20,207,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18790
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,198,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18791
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,178,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18792
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",22,205,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18793
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",18,195,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18794
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",22,200,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18795
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",18,NA,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18796
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",21,190,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18797
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,177,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",18798
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,182,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18799
+9,-118.31084,37.40482,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,187,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",18800
+9,-118.22488,37.40205,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",18,178,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",18801
+9,-118.22488,37.40205,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",20,197,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",18802
+9,-118.22488,37.40205,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,191,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",18803
+9,-118.22488,37.40205,NA,2006,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,183,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",18804
+4,-118.11463,36.58771,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,188,"male",15.4,125,7.88125893650516,160.558298672872,"Spring",18805
+4,-118.11463,36.58771,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,190,"male",15.4,125,7.88125893650516,160.558298672872,"Spring",18806
+4,-118.31084,37.40482,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",17,195,"male",13.8,79,8.51698392340359,135.624132828941,"Spring",18807
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,196,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18808
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",18,190,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18809
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,187,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18810
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",18,188,"male",11,109,8.6451072166792,76.2824200900682,"Spring",18811
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,186,"female",11,109,8.6451072166792,76.2824200900682,"Spring",18812
+4,-118.00818,37.41428,NA,2007,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,197,"male",11,109,8.6451072166792,76.2824200900682,"Spring",18813
+4,-115.89834,35.77614,NA,2010,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",16,192,"female",15.6,251,8.14640188281695,133.093318322844,"Spring",18814
+5,-116.1734238,34.4926033,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",14,190,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",18857
+5,-116.1734238,34.4926033,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",14,190,"male",17.3,103,7.88039377573266,123.742528955353,"Spring",18858
+5,-116.1734238,34.4926033,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",12,171,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",18859
+5,-115.8850174,34.6448479,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",13,195,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",18860
+5,-115.8850174,34.6448479,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",13,185,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",18861
+5,-115.8850174,34.6448479,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",14,190,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",18862
+5,-115.8850174,34.6448479,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",14,175,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",18863
+4,-116.79,36.9,NA,1994,"Chaetodipus formosus","Chaetodipus_formosus",20,182,"male",16.1,58,9.3023783208512,92.4568280465362,"Spring",18864
+9,-114.83167,35.97861,"unknown",1978,"Chaetodipus formosus","Chaetodipus_formosus",10,173,"male",19.3,280,9.06767485481958,81.8546610081366,"Fall",18865
+4,-115.5887145,33.866157,"unknown",1970,"Chaetodipus formosus","Chaetodipus_formosus",25,176,"male",18.3,215,7.79794067609384,147.795227710527,"Spring",18866
+11,-116.3990929,33.6959116,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14,180,"male",21.3,154,7.45972519601091,139.776198586282,"Fall",18867
+7,-114.76858,36.02989,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.4,182,"male",20.6,107,9.05479531418674,94.1617873650216,"Summer",18868
+8,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",17.1,196,"female",20.5,102,9.0602863022527,93.6527871452596,"Summer",18869
+8,-114.40194,36.24672,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14,177,"male",20.1,120,9.23283009240133,80.4954134763748,"Summer",18870
+8,-114.37961,36.29678,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",20,196,"male",20,118,9.21318225548194,79.3473153184879,"Summer",18871
+8,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",11.5,172,"female",20.1,118,9.21208034281205,77.9279196120631,"Summer",18872
+8,-114.40194,36.24672,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.5,180,"male",20.1,120,9.23283009240133,80.4954134763748,"Summer",18873
+8,-114.40194,36.24672,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",12.4,178,"male",20.1,120,9.23283009240133,80.4954134763748,"Summer",18874
+11,-114.81383,36.05113,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.8,187,"male",20.6,105,9.03739705084077,99.2609996099237,"Fall",18875
+11,-114.81383,36.05113,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",12.9,181,"female",20.6,105,9.03739705084077,99.2609996099237,"Fall",18876
+11,-114.81383,36.05113,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.1,117,"male",20.6,105,9.03739705084077,99.2609996099237,"Fall",18877
+11,-114.79598,36.02938,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",17.4,191,"male",20.5,104,9.01376052421401,95.0109846202836,"Fall",18878
+11,-114.79598,36.02938,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",16.1,185,"male",20.5,104,9.01376052421401,95.0109846202836,"Fall",18879
+11,-114.79598,36.02938,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.6,181,"female",20.5,104,9.01376052421401,95.0109846202836,"Fall",18880
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",12.7,177,"male",20.8,123,9.08009394558262,105.340988008521,"Fall",18881
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.5,201,"male",20.8,123,9.08009394558262,105.340988008521,"Fall",18882
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.9,180,"male",20.8,123,9.08009394558262,105.340988008521,"Fall",18883
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.7,161,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",18884
+11,-114.77722,36.10333,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",16.1,182,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",18885
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14,184,"male",20.1,118,9.21208034281205,77.9279196120631,"Fall",18886
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.6,179,"male",20.1,118,9.21208034281205,77.9279196120631,"Fall",18887
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15,189,"female",20.1,118,9.21208034281205,77.9279196120631,"Fall",18888
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",16.2,188,"female",20.1,118,9.21208034281205,77.9279196120631,"Fall",18889
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.5,200,"female",20.1,118,9.21208034281205,77.9279196120631,"Fall",18890
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14.6,194,"female",20.1,118,9.21208034281205,77.9279196120631,"Fall",18891
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",13.9,185,"male",20.1,118,9.21208034281205,77.9279196120631,"Fall",18892
+11,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",12.9,180,"male",20.1,118,9.21208034281205,77.9279196120631,"Fall",18893
+11,-114.38639,36.27194,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.7,192,"female",20.1,119,9.22284301792746,80.055085367625,"Fall",18894
+11,-114.38639,36.27194,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",14,187,"female",20.1,119,9.22284301792746,80.055085367625,"Fall",18895
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.1,183,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18896
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.8,193,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18897
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",20,196,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18898
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.7,188,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",18899
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",19,192,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",18900
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",4.6,193,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",18901
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.3,198,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18902
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",20,199,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18903
+7,-114.79306,36.03556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.7,191,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",18904
+7,-114.7942,36.15266,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.5,169,"female",19.6,51,9.85136123496739,107.737053641135,"Summer",18905
+7,-114.82096,36.06128,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.5,202,"male",19.7,38,9.85148427518627,71.1343584492673,"Summer",18906
+7,-114.79955,36.05693,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.3,197,"male",19.8,40,9.85148427518627,81.0102962661515,"Summer",18907
+7,-114.72451,36.01469,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.5,188,"male",19.7,49,9.82297862620647,91.9047367281445,"Summer",18908
+7,-114.72451,36.01469,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.1,171,"female",19.7,49,9.82297862620647,91.9047367281445,"Summer",18909
+7,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.4,203,"male",20,47,9.87948593927045,103.055235232618,"Summer",18910
+8,-114.76573,36.00081,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",13.7,181,"female",19.6,42,9.77206904055294,81.6803246321047,"Summer",18911
+8,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.8,194,"male",20,47,9.87948593927045,103.055235232618,"Summer",18912
+8,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.3,196,"female",20,47,9.87948593927045,103.055235232618,"Summer",18913
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.5,192,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18914
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.6,191,"female",19.5,65,9.92051364139433,53.33642538965,"Summer",18915
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.7,188,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18916
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.4,164,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18917
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.2,196,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18918
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.4,184,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18919
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.5,196,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18920
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.4,192,"female",19.5,65,9.92051364139433,53.33642538965,"Summer",18921
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.3,204,"female",19.5,65,9.92051364139433,53.33642538965,"Summer",18922
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.4,191,"male",19.5,65,9.91348561151409,54.4210228429485,"Summer",18923
+8,-114.3825,36.27306,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.5,190,"female",19.5,65,9.91348561151409,54.4210228429485,"Summer",18924
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.4,203,"female",19.5,64,9.92640723555409,53.33642538965,"Summer",18925
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.1,183,"female",19.5,64,9.92640723555409,53.33642538965,"Summer",18926
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",13.3,194,"female",19.5,64,9.92640723555409,53.33642538965,"Summer",18927
+8,-114.39722,36.28917,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.3,193,"male",19.4,65,9.91156349468089,52.6297098950428,"Summer",18928
+8,-114.39722,36.28917,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.1,189,"female",19.4,65,9.91156349468089,52.6297098950428,"Summer",18929
+8,-114.39722,36.28917,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.2,187,"female",19.4,65,9.91156349468089,52.6297098950428,"Summer",18930
+8,-114.39722,36.28917,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",13.8,183,"female",19.4,65,9.91156349468089,52.6297098950428,"Summer",18931
+8,-114.39722,36.28917,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.8,197,"female",19.4,65,9.91156349468089,52.6297098950428,"Summer",18932
+8,-114.42944,36.30556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.5,186,"male",19.4,64,9.91053923249325,52.8667292288247,"Summer",18933
+8,-114.42944,36.30556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",12.9,191,"male",19.4,64,9.91053923249325,52.8667292288247,"Summer",18934
+7,-114.79306,36.03556,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",15.4,190,"male",20.5,102,9.0602863022527,93.6527871452596,"Summer",18935
+8,-114.39722,36.28917,"unknown",1963,"Chaetodipus formosus","Chaetodipus_formosus",17.5,203,"female",20.1,118,9.21208034281205,77.9279196120631,"Summer",18936
+7,-114.77722,36.10333,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.2,202,"female",20,47,9.87948593927045,103.055235232618,"Summer",18937
+8,-114.38639,36.27194,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.2,203,"male",19.5,65,9.92051364139433,53.33642538965,"Summer",18938
+8,-114.40194,36.24672,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.4,200,"female",19.5,64,9.92640723555409,53.33642538965,"Summer",18939
+8,-114.39722,36.28917,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16.1,172,"female",19.4,65,9.91156349468089,52.6297098950428,"Summer",18940
+8,-114.42944,36.30556,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.9,193,"male",19.4,64,9.91053923249325,52.8667292288247,"Summer",18941
+7,-116.24,36.27,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",20.15,86,"male",16,61,8.83304316275832,135.206386136881,"Summer",18942
+6,-114.91889,35.46528,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.95,85,"female",16.4,60,9.1247042293286,83.557274858735,"Summer",18943
+7,-114.91889,35.46528,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.7,82,"female",16.4,60,9.1247042293286,83.557274858735,"Summer",18944
+6,-116.24,36.27,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",14.8,74,"female",16,61,8.83304316275832,135.206386136881,"Summer",18945
+7,-116.24,36.27,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",18.4,83,"female",16,61,8.83304316275832,135.206386136881,"Summer",18946
+6,-114.91889,35.46528,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",20.5,88,"male",16.4,60,9.1247042293286,83.557274858735,"Summer",18947
+7,-114.91889,35.46528,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",20.5,85,"male",16.4,60,9.1247042293286,83.557274858735,"Summer",18948
+7,-114.91889,35.46528,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.1,78,"female",16.4,60,9.1247042293286,83.557274858735,"Summer",18949
+1,-116.39,34.25,NA,1980,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",18,184,"male",17,281,6.78529492894209,186.946958040493,"Winter",18978
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",20,190,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",18979
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",11,182,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",18980
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",8,173,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",18981
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",25.5,196,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",18982
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",13.5,187,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",18983
+1,-116.39,34.25,NA,1980,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",16,180,"female",17,281,6.78529492894209,186.946958040493,"Winter",18984
+10,-117.5,36.1,NA,1969,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",20.3,186,"male",10,488,7.88213841927469,116.32677925552,"Fall",18985
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",21.5,197,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",18986
+1,-116.39,34.25,NA,1980,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",15,170,"female",17,281,6.78529492894209,186.946958040493,"Winter",18987
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",12,101,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",18988
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",9.5,162,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",18989
+10,-117.5,36.1,NA,1969,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",16.3,178,"female",10,488,7.88213841927469,116.32677925552,"Fall",18990
+6,-112.7411,36.8597,NA,2002,"Chaetodipus formosus","Chaetodipus_formosus",17,196,"female",13.3,161,8.8996765348097,111.978354679027,"Summer",18991
+8,-118.09311,36.95677,NA,2005,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",19,202,"male",7,440,6.61025374289479,101.031495552924,"Summer",18992
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",16.5,188,"male",23.2,108,8.23992497759316,135.587014067861,"Spring",18993
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",18,195,"male",23.2,108,8.23992497759316,135.587014067861,"Spring",18994
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",15.5,134,"female",23.2,108,8.23992497759316,135.587014067861,"Spring",18995
+3,-112.0833333,37.05,NA,1999,"Chaetodipus formosus","Chaetodipus_formosus",16,182,"male",11.3,282,7.72420438189807,100.870730725271,"Spring",18996
+3,-112.0833333,37.05,NA,1999,"Chaetodipus formosus","Chaetodipus_formosus",17,183,"male",11.3,282,7.72420438189807,100.870730725271,"Spring",18997
+9,-117.517,37.783,NA,2004,"Chaetodipus formosus","Chaetodipus_formosus",14,165,"female",13.3,142,9.27934738431469,59.753805780376,"Fall",18998
+9,-117.517,37.783,NA,2004,"Chaetodipus formosus","Chaetodipus_formosus",12,173,"female",13.3,142,9.27934738431469,59.753805780376,"Fall",18999
+3,-115.079174,35.43627,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",23.9,195,"male",14.7,75,8.93506880474093,95.0183558445781,"Spring",19000
+3,-115.079174,35.43627,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",12.9,170,"female",14.7,75,8.93506880474093,95.0183558445781,"Spring",19001
+6,-111.703963,36.815541,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",13,164,"female",13.2,135,9.87946676882733,73.40981625324,"Summer",19002
+7,-115.07111,33.30223,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",13.2,161,"female",21.6,46,8.39160384858074,80.0075127952459,"Summer",19003
+7,-113.055,36.2475,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",18.2,188,"female",12.6,220,9.2614016545046,90.955360126204,"Summer",19004
+7,-113.07667,36.21889,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",17.2,182,"male",13.9,202,9.41809991774381,93.1755704134789,"Summer",19005
+8,-113.571507,36.991503,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",21.7,215,"male",15.8,138,9.72969525200917,72.6111807579268,"Summer",19006
+8,-113.571507,36.991503,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",20.3,195,"female",15.8,138,9.72969525200917,72.6111807579268,"Summer",19007
+8,-113.571507,36.991503,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",20.5,202,"female",15.8,138,9.72969525200917,72.6111807579268,"Summer",19008
+8,-113.571507,36.991503,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",15.2,186,"female",15.8,138,9.72969525200917,72.6111807579268,"Summer",19009
+8,-113.55548,36.934224,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",12.8,189,"female",15.3,161,9.60269453977593,72.3988506751331,"Summer",19010
+8,-113.48611,36.78694,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",18.8,184,"female",12.2,223,9.13214435968139,81.9284144277397,"Summer",19011
+7,-112.92111,36.54361,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",14.2,171,"male",11.2,205,9.26267763498747,81.3956360850481,"Summer",19012
+7,-113.055,36.2475,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",13,164,"male",12.6,220,9.2614016545046,90.955360126204,"Summer",19013
+7,-113.07667,36.21889,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",16.5,180,"male",13.9,202,9.41809991774381,93.1755704134789,"Summer",19014
+7,-112.975,36.845266,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",16.7,191,"male",11.3,217,9.18757395352631,71.2252403892513,"Summer",19015
+7,-112.975,36.845266,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",15.7,188,"female",11.3,217,9.18757395352631,71.2252403892513,"Summer",19016
+12,-111.90273,26.811418,NA,1972,"Chaetodipus formosus","Chaetodipus_formosus",16,172,"male",22.7,162,5.3654336998866,140.333011734304,"Winter",19017
+12,-111.90273,26.811418,NA,1972,"Chaetodipus formosus","Chaetodipus_formosus",12,165,"female",22.7,162,5.3654336998866,140.333011734304,"Winter",19018
+12,-111.90273,26.811418,NA,1972,"Chaetodipus formosus","Chaetodipus_formosus",10,172,"male",22.7,162,5.3654336998866,140.333011734304,"Winter",19019
+12,-111.90273,26.811418,NA,1972,"Chaetodipus formosus","Chaetodipus_formosus",18,182,"female",22.7,162,5.3654336998866,140.333011734304,"Winter",19020
+8,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",17,175,"female",18.6,105,7.33676400469622,117.676957894462,"Summer",19021
+10,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",19,193,"male",18.6,105,7.33676400469622,117.676957894462,"Fall",19022
+9,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",16,179,"female",18.6,105,7.33676400469622,117.676957894462,"Fall",19023
+10,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",16,174,"female",18.6,105,7.33676400469622,117.676957894462,"Fall",19024
+10,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",20.5,201,"male",18.6,105,7.33676400469622,117.676957894462,"Fall",19025
+8,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",13,169,"female",18.6,105,7.33676400469622,117.676957894462,"Summer",19026
+8,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",15,172,"female",18.6,105,7.33676400469622,117.676957894462,"Summer",19027
+10,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",14.5,174,"female",18.6,105,7.33676400469622,117.676957894462,"Fall",19028
+1,-117.48,35.3,NA,1975,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",11.5,177,"female",16.6,56,8.08258040854566,115.353681872016,"Winter",19049
+1,-116.39,34.25,NA,1980,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",17,177,"male",17,281,6.78529492894209,186.946958040493,"Winter",19050
+10,-117.5,36.1,NA,1969,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",17.8,176,"male",10,488,7.88213841927469,116.32677925552,"Fall",19051
+6,-115.9311,35.7836,NA,1968,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",13,180,"female",14.5,114,7.74367288158337,104.291063468101,"Summer",19052
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",6.5,155,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",19053
+1,-116.39,34.25,NA,1980,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",17,178,"male",17,281,6.78529492894209,186.946958040493,"Winter",19054
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",18.5,191,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",19055
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",20,186,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",19056
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",14.5,181,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",19057
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",18.5,183,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",19058
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",13.5,191,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",19059
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",9.5,174,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",19060
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",14.5,196,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",19061
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",17,189,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",19062
+1,-116.39,34.25,NA,1980,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",19,160,"male",17,281,6.78529492894209,186.946958040493,"Winter",19063
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",22,188,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",19064
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",7.5,162,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",19065
+4,-115.76,35.22,NA,1986,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",19.5,133,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",19066
+6,-112.7411,36.8597,NA,2002,"Chaetodipus formosus","Chaetodipus_formosus",13,180,"male",13.3,161,8.8996765348097,111.978354679027,"Summer",19067
+8,-118.09311,36.95677,NA,2005,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,184,"female",7,440,6.61025374289479,101.031495552924,"Summer",19068
+5,-118.03569,35.4353,"adult",2003,"Chaetodipus formosus mesembrinus","Chaetodipus_formosus",17.9,150,"male",16.7,237,7.31782796057724,118.334275189491,"Spring",19069
+9,-117.25175,38.5076,NA,2011,"Chaetodipus formosus mohavensis","Chaetodipus_formosus",15,190,"male",9.8,191,8.97312485686952,71.0113627271272,"Fall",19070
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",19.5,195,"female",23.2,108,8.23992497759316,135.587014067861,"Spring",19071
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",16.5,180,"male",23.2,108,8.23992497759316,135.587014067861,"Spring",19072
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",15.5,182,"female",23.2,108,8.23992497759316,135.587014067861,"Spring",19073
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",17.5,126,"male",23.2,108,8.23992497759316,135.587014067861,"Spring",19074
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",23,201,"female",23.2,108,8.23992497759316,135.587014067861,"Spring",19075
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",17.5,195,"female",23.2,108,8.23992497759316,135.587014067861,"Spring",19076
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",13.5,NA,"female",23.2,108,8.23992497759316,135.587014067861,"Spring",19077
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",26.5,233,"female",23.2,108,8.23992497759316,135.587014067861,"Spring",19078
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",32.5,210,"male",23.2,108,8.23992497759316,135.587014067861,"Spring",19079
+3,-114.715,33.892,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",16.6,190,"male",23.2,108,8.23992497759316,135.587014067861,"Spring",19080
+3,-112.0833333,37.05,NA,1999,"Chaetodipus formosus","Chaetodipus_formosus",19,186,"male",11.3,282,7.72420438189807,100.870730725271,"Spring",19081
+9,-117.517,37.783,NA,2004,"Chaetodipus formosus","Chaetodipus_formosus",14,170,"female",13.3,142,9.27934738431469,59.753805780376,"Fall",19082
+12,-112.0503611,34.3911667,"adult",2001,"Chaetodipus formosus","Chaetodipus_formosus",31.1,234,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",19083
+12,-112.0503611,34.3911667,NA,2001,"Chaetodipus formosus","Chaetodipus_formosus",28.8,212,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",19084
+12,-112.0503611,34.3911667,NA,2001,"Chaetodipus formosus","Chaetodipus_formosus",27.3,211,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",19085
+1,-110.87425,33.6826389,"adult",2002,"Chaetodipus formosus","Chaetodipus_formosus",37,235,"male",20.1,168,8.34238447854561,86.6828394595597,"Winter",19086
+3,-115.079174,35.43627,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",17.2,188,"female",14.7,75,8.93506880474093,95.0183558445781,"Spring",19087
+7,-113.055,36.2475,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",17.2,180,"male",12.6,220,9.2614016545046,90.955360126204,"Summer",19088
+7,-113.055,36.2475,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",17.5,176,"female",12.6,220,9.2614016545046,90.955360126204,"Summer",19089
+8,-113.571507,36.991503,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",21.5,210,"female",15.8,138,9.72969525200917,72.6111807579268,"Summer",19090
+8,-113.571507,36.991503,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",18.4,191,"female",15.8,138,9.72969525200917,72.6111807579268,"Summer",19091
+8,-113.48611,36.78694,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",18.9,193,"female",12.2,223,9.13214435968139,81.9284144277397,"Summer",19092
+7,-112.92111,36.54361,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",17.2,180,"male",11.2,205,9.26267763498747,81.3956360850481,"Summer",19093
+7,-113.055,36.2475,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",12.6,160,"male",12.6,220,9.2614016545046,90.955360126204,"Summer",19094
+7,-113.07667,36.21889,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",20.5,197,"male",13.9,202,9.41809991774381,93.1755704134789,"Summer",19095
+7,-113.07667,36.21889,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",12,181,"male",13.9,202,9.41809991774381,93.1755704134789,"Summer",19096
+7,-112.975,36.845266,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",16.1,180,"female",11.3,217,9.18757395352631,71.2252403892513,"Summer",19097
+8,-113.98139,36.84139,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",17.8,200,"female",17.6,111,9.67287287712237,58.6243501050901,"Summer",19098
+8,-113.98139,36.84139,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",14.7,183,"female",17.6,111,9.67287287712237,58.6243501050901,"Summer",19099
+8,-113.07667,36.21889,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",20.5,197,"male",13.9,202,9.41809991774381,93.1755704134789,"Summer",19100
+7,-113.055,36.2475,NA,1964,"Chaetodipus formosus","Chaetodipus_formosus",15.4,171,"female",12.6,220,9.2614016545046,90.955360126204,"Summer",19101
+12,-111.90273,26.811418,NA,1972,"Chaetodipus formosus","Chaetodipus_formosus",16,166,"female",22.7,162,5.3654336998866,140.333011734304,"Winter",19102
+8,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",18.5,180,"female",18.6,105,7.33676400469622,117.676957894462,"Summer",19103
+10,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",14,166,"female",18.6,105,7.33676400469622,117.676957894462,"Fall",19104
+10,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",16,186,"female",18.6,105,7.33676400469622,117.676957894462,"Fall",19105
+8,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",16,170,"female",18.6,105,7.33676400469622,117.676957894462,"Summer",19106
+8,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",15.5,171,"male",18.6,105,7.33676400469622,117.676957894462,"Summer",19107
+8,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",14,187,"male",18.6,105,7.33676400469622,117.676957894462,"Summer",19108
+10,-116.112329,34.428288,NA,1997,"Chaetodipus formosus","Chaetodipus_formosus",15.5,165,"female",18.6,105,7.33676400469622,117.676957894462,"Fall",19109
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",15.5,188,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",19110
+5,-117.2333333,37.0666667,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.55,84,"female",13.7,110,8.49827076884504,171.786039234079,"Spring",19111
+5,-117.2333333,37.0666667,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",16,80,"female",13.7,110,8.49827076884504,171.786039234079,"Spring",19112
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",10,169,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",19113
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",12.5,167,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",19114
+6,-115.9311,35.7836,NA,1967,"Chaetodipus formosus mohavensis Huey, 1938","Chaetodipus_formosus",12.5,85,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",19115
+5,-117.2333333,37.0666667,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",17.65,83,"female",13.7,110,8.49827076884504,171.786039234079,"Spring",19116
+5,-117.2333333,37.0666667,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",20.85,85,"male",13.7,110,8.49827076884504,171.786039234079,"Spring",19117
+7,-117.9833333,36.7666667,"unknown",1964,"Chaetodipus formosus","Chaetodipus_formosus",15.35,81,"female",6.9,148,7.18597118127966,137.169124357804,"Summer",19118

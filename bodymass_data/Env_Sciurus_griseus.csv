@@ -1,0 +1,106 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-116.7250723,33.7529184,NA,1991,"Sciurus (Hesperosciurus) griseus anthonyi Mearns, 1897","Sciurus_griseus",730,540,"male",12.1,871,5.9718214570725,171.847680784191,"Summer",115978
+6,-120.8198375,35.3469709,NA,1981,"Sciurus (Hesperosciurus) griseus nigripes Bryant, 1889","Sciurus_griseus",410,478,"female",14,505,1.84018691408995,128.636213066681,"Summer",115979
+2,-119.2414261,34.4532282,NA,1988,"Sciurus (Hesperosciurus) griseus anthonyi Mearns, 1897","Sciurus_griseus",790,562,"male",16.6,429,3.93673453357968,123.632596582534,"Winter",115980
+6,-123.00645,41.94225,NA,1969,"Sciurus (Hesperosciurus) griseus griseus Ord, 1818","Sciurus_griseus",977,590,"female",6.9,1285,6.85093999301401,122.92408711105,"Summer",115981
+4,-116.795221,33.829512,NA,1990,"Sciurus (Hesperosciurus) griseus anthonyi Mearns, 1897","Sciurus_griseus",620,523,"female",12.8,318,6.35273145738878,82.7771029235037,"Spring",115982
+10,-122.61969,38.8160801,NA,1990,"Sciurus (Hesperosciurus) griseus griseus Ord, 1818","Sciurus_griseus",902,584,"female",15,410,6.97390699592981,134.314050769217,"Fall",115983
+4,-119.9303,37.8165,NA,2003,"Sciurus griseus griseus","Sciurus_griseus",732,544,"male",13.5,815,7.02210255140326,127.507468730525,"Spring",115984
+5,-119.60559,37.73047,NA,2003,"Sciurus griseus griseus","Sciurus_griseus",900,590,"female",12.3,812,7.30572627215367,121.358617059622,"Spring",115985
+4,-122.292116,38.3053644,NA,2005,"Sciurus griseus griseus","Sciurus_griseus",390,482,"female",14.8,815,4.24595172612761,147.592827030955,"Spring",115986
+6,-120.792603,40.674548,NA,2006,"Sciurus griseus griseus","Sciurus_griseus",860,600,"male",9.1,552,8.13191896544758,90.852599714,"Summer",115987
+2,-120.9342013,39.9366694,NA,2005,"Sciurus griseus griseus","Sciurus_griseus",578,528,"female",12,1449,7.31662179871657,128.971156398596,"Winter",115988
+3,-122.7000973,38.0127795,NA,2005,"Sciurus griseus griseus","Sciurus_griseus",730,596,"female",14.8,1396,3.397191353296,145.218481074206,"Spring",115989
+7,-121.541622,40.318332,NA,2006,"Sciurus griseus griseus","Sciurus_griseus",840,583,"female",9.6,1634,7.2370050728352,101.888235841038,"Summer",115990
+4,-121.8562,40.49749,NA,2007,"Sciurus griseus griseus","Sciurus_griseus",722,558,"male",12.6,721,7.33288049566038,121.141832616114,"Spring",115991
+7,-121.58459,40.35037,NA,2007,"Sciurus griseus griseus","Sciurus_griseus",540,505,"female",9.4,915,7.07048388897411,134.212909146454,"Summer",115992
+10,-121.2888908,39.7476437,NA,2009,"Sciurus griseus griseus","Sciurus_griseus",691,570,"female",13.3,1601,7.23972626303207,110.898456117598,"Fall",115993
+11,-122.526567,37.990658,NA,2013,"Sciurus griseus griseus","Sciurus_griseus",777,550,"female",14.7,197,4.09678366082911,95.1527263668485,"Fall",115994
+12,-121.1833333333,35.6333333333,NA,1985,"Sciurus griseus anthonyi","Sciurus_griseus",717.3,520,"female",13,320,2.28294068731936,116.271478379321,"Winter",115995
+9,-122.7583,47.0664,"unknown",1976,"Sciurus griseus","Sciurus_griseus",855.8,525,"female",10.1,900,4.87749159327048,75.3034560814002,"Fall",115996
+5,-122.7227934,38.8726446,"unknown",1979,"Sciurus griseus","Sciurus_griseus",764.3,570,"female",14.5,1770,6.56858339969798,103.963399300617,"Spring",115997
+10,-120.02294,48.06499,"unknown",1979,"Sciurus griseus","Sciurus_griseus",780.3,572,"male",8.3,292,10.1836284240337,86.8408250866407,"Fall",115998
+3,-120.02294,48.06499,"unknown",1981,"Sciurus griseus","Sciurus_griseus",888,554,"male",8.4,406,7.97157830081726,68.5426225456052,"Spring",115999
+6,-120.0008,48.069,"unknown",1996,"Sciurus griseus","Sciurus_griseus",712.3,562,"male",8,399,10.0433907107957,98.0865391755937,"Summer",116000
+6,-120.0008,48.0836,"unknown",1996,"Sciurus griseus","Sciurus_griseus",819.5,553,"female",7.7,403,9.90752315927221,97.6124998539422,"Summer",116001
+10,-120.133,48.3732,"unknown",1996,"Sciurus griseus","Sciurus_griseus",610,552,"male",7,452,10.1747868714184,103.321964832427,"Fall",116002
+10,-120.01096,48.07731,"unknown",1996,"Sciurus griseus","Sciurus_griseus",776.8,530,"female",8.5,382,10.2344782697774,98.2971249792944,"Fall",116003
+8,-122.5686,44.1461,"unknown",1998,"Sciurus griseus","Sciurus_griseus",670.3,562,"male",11.6,1709,5.51484910093292,80.8939318211572,"Summer",116004
+3,-120.7293,45.8753,"unknown",1998,"Sciurus griseus","Sciurus_griseus",598.3,552,"female",9.2,559,7.40447755609995,86.4722976220112,"Spring",116005
+1,-117.6903505,34.3780252,"unknown",1972,"Sciurus griseus anthonyi","Sciurus_griseus",682,597,"female",10.1,278,6.95994492315373,135.344153625258,"Winter",116006
+1,-122.5299055,47.050219,"unknown",1993,"Sciurus griseus","Sciurus_griseus",655.5,544,"male",10.2,764,5.48321819903073,71.3905679395453,"Winter",116007
+7,-122.5404945,47.042981,"unknown",1992,"Sciurus griseus","Sciurus_griseus",660.7,544,"male",11.5,854,4.99524015863344,78.3225701048369,"Summer",116008
+7,-122.5404945,47.050219,"unknown",1992,"Sciurus griseus","Sciurus_griseus",346.2,476,"male",11.5,851,5.00365775299339,78.0274285746214,"Summer",116009
+8,-122.508804,47.057481,"unknown",1992,"Sciurus griseus","Sciurus_griseus",574.2,535,"male",11.4,874,5.0036577529934,77.2516404710806,"Summer",116010
+4,-122.5352,47.0466,"unknown",1992,"Sciurus griseus","Sciurus_griseus",703.2,528,"female",11.5,854,4.99524015863344,77.9271385394818,"Spring",116011
+10,-122.53861,47.00444,"unknown",1988,"Sciurus griseus","Sciurus_griseus",801.1,533,"male",10.4,1024,4.89491851543284,75.4309082047447,"Fall",116012
+9,-122.5111,47.0633,"unknown",1998,"Sciurus griseus","Sciurus_griseus",477.8,532,"male",10.8,1158,5.15319112665917,96.5528137960848,"Fall",116013
+11,-119.567452,37.850569,NA,1986,"Sciurus (Hesperosciurus) griseus griseus Ord, 1818","Sciurus_griseus",700,510,"female",6.5,1248,5.21857840853815,164.364436533422,"Fall",116014
+6,-124.0579433,40.0344165,NA,1969,"Sciurus (Hesperosciurus) griseus griseus Ord, 1818","Sciurus_griseus",822,520,"female",11.9,1945,3.56985484808047,120.746627689003,"Summer",116015
+9,-122.61969,38.8160801,NA,1990,"Sciurus (Hesperosciurus) griseus griseus Ord, 1818","Sciurus_griseus",968,608,"male",15,410,6.97390699592981,134.314050769217,"Fall",116016
+5,-119.6207,37.7271,NA,2003,"Sciurus griseus griseus","Sciurus_griseus",765,565,"male",12.4,808,7.30184700585884,122.782716457898,"Spring",116017
+5,-119.70857,37.7276,NA,2003,"Sciurus griseus griseus","Sciurus_griseus",715,555,"male",13,830,7.05819961592061,128.63678878398,"Spring",116018
+5,-120.1883,37.70058,NA,2004,"Sciurus griseus griseus","Sciurus_griseus",820,580,"female",15.9,673,6.92183085781807,121.914611682702,"Spring",116019
+5,-120.16432,37.67756,NA,2004,"Sciurus griseus griseus","Sciurus_griseus",850,625,"female",15.8,683,6.88183819700064,121.807277233962,"Spring",116020
+5,-120.25,37.70397,NA,2004,"Sciurus griseus griseus","Sciurus_griseus",930,575,"male",17.2,511,7.05323373075117,122.2835909861,"Spring",116021
+8,-119.8699,37.8634,NA,2004,"Sciurus griseus griseus","Sciurus_griseus",830,590,"male",12.3,732,6.66876482134617,118.408499463743,"Summer",116022
+12,-122.33853,38.31666,NA,1998,"Sciurus griseus griseus","Sciurus_griseus",750,562,"female",14.6,995,4.78946919308551,149.608622166497,"Winter",116023
+6,-120.78015,40.66153,NA,2006,"Sciurus griseus griseus","Sciurus_griseus",740,572,"male",9.1,558,8.12966882176114,90.376613383354,"Summer",116024
+6,-120.80529,40.5471,NA,2006,"Sciurus griseus griseus","Sciurus_griseus",810,562,"male",9.1,785,8.19365978095629,92.2881796373791,"Summer",116025
+2,-122.6145065,38.003955,NA,2005,"Sciurus griseus griseus","Sciurus_griseus",749,534,"female",15.1,1339,3.70388821089242,125.184778068089,"Winter",116026
+11,-122.612,38.0024,NA,2004,"Sciurus griseus griseus","Sciurus_griseus",721,NA,"undetermined",15.4,1006,4.2488501118217,127.947620892388,"Fall",116027
+10,-122.6094789,38.0011255,NA,2004,"Sciurus griseus griseus","Sciurus_griseus",725,586,"male",15.4,1001,4.24830625786396,127.993545010655,"Fall",116028
+4,-121.78975,40.51742,NA,2007,"Sciurus griseus griseus","Sciurus_griseus",750,NA,"undetermined",12.1,755,7.17227405719519,124.40011579063,"Spring",116029
+8,-121.309384,40.364039,NA,2007,"Sciurus griseus griseus","Sciurus_griseus",550,511,"female",8.9,619,7.74743359266327,138.523836847388,"Summer",116030
+10,-122.59285,38.3348,NA,2012,"Sciurus griseus griseus","Sciurus_griseus",828,258,"male",13.8,1418,4.48987919119381,121.184016267624,"Fall",116031
+10,-122.33853,38.31666,NA,2011,"Sciurus griseus griseus","Sciurus_griseus",777,572,"female",14.6,518,4.8722700203822,139.101216638145,"Fall",116032
+5,-122.7865096,38.8939485,"unknown",1979,"Sciurus griseus","Sciurus_griseus",832.2,608,"female",14.7,1993,6.55887093018211,105.381466275284,"Spring",116033
+10,-120.01458,48.07486,"unknown",1979,"Sciurus griseus","Sciurus_griseus",727,570,"female",8.8,277,10.3828639419172,87.3902227923556,"Fall",116034
+9,-120.0025,48.188193,"unknown",1984,"Sciurus griseus","Sciurus_griseus",630,545,"male",5.2,454,8.74872718015182,77.4117771462126,"Fall",116035
+11,-123.1383,45.4364,"unknown",1986,"Sciurus griseus","Sciurus_griseus",685,575,"female",11.9,1154,5.23886264547772,75.7206544088307,"Fall",116036
+11,-119.865,47.9533,"unknown",1995,"Sciurus griseus","Sciurus_griseus",648.2,535,"female",10.6,351,8.77038750396452,78.668639168446,"Fall",116037
+5,-120.0008,48.0836,"unknown",1995,"Sciurus griseus","Sciurus_griseus",751.1,538,"male",9.2,427,8.55323791250301,79.0787518300654,"Spring",116038
+9,-120.0008,48.069,"unknown",1996,"Sciurus griseus","Sciurus_griseus",747.8,299,"female",8,399,10.0433907107957,98.0865391755937,"Fall",116039
+9,-120.0008,48.0836,"unknown",1996,"Sciurus griseus","Sciurus_griseus",637.2,530,"male",7.7,403,9.90752315927221,97.6124998539422,"Fall",116040
+8,-123.3,44.5806,"unknown",1998,"Sciurus griseus","Sciurus_griseus",780.9,604,"female",11.6,1590,5.16183547340919,89.931565871097,"Summer",116041
+9,-123.2608,44.5647,"unknown",1998,"Sciurus griseus","Sciurus_griseus",756.7,599,"female",11.8,1455,5.17940999330888,88.7155065309527,"Fall",116042
+8,-122.4561945,47.042981,"unknown",1992,"Sciurus griseus","Sciurus_griseus",721.8,545,"male",11.4,910,5.04671360211952,76.0793301609347,"Summer",116043
+4,-122.5510055,47.050219,"unknown",1992,"Sciurus griseus","Sciurus_griseus",830.7,546,"female",11.5,849,5.01558178141485,78.1407692867029,"Spring",116044
+6,-122.5721055,47.050219,"unknown",1992,"Sciurus griseus","Sciurus_griseus",833.9,565,"male",11.5,845,5.01895648939341,78.0430080760281,"Summer",116045
+6,-119.0171486,36.711755,"unknown",1966,"Sciurus griseus","Sciurus_griseus",452.8,538,"male",13,580,6.6120871870913,197.057590239333,"Summer",116046
+3,-117.28473,34.26156,"unknown",1964,"Sciurus griseus","Sciurus_griseus",742,543,"male",12.6,435,6.71651063808546,95.6563951347201,"Spring",116047
+3,-121.5529,45.7064,"unknown",1999,"Sciurus griseus","Sciurus_griseus",810,385,"female",10.4,747,5.86826983949195,103.946921852165,"Spring",116048
+7,-121.2259,45.2683,"unknown",1997,"Sciurus griseus","Sciurus_griseus",706.6,560,"female",10,358,7.33166647722967,73.8058827903834,"Summer",116049
+8,-120.8206,45.8208,"unknown",1994,"Sciurus griseus","Sciurus_griseus",707.4,540,"female",10,415,7.58165649126331,84.711795885881,"Summer",116050
+9,-120.01096,48.07731,"unknown",1995,"Sciurus griseus","Sciurus_griseus",725.4,522,"male",10,399,8.90418270797324,78.4219357067906,"Fall",116051
+7,-121.2259,45.2683,"unknown",1997,"Sciurus griseus","Sciurus_griseus",813.6,561,"female",10,358,7.33166647722967,73.8058827903834,"Summer",116052
+NA,-121.4473354,40.2492224,"unknown",1964,"Sciurus griseus griseus","Sciurus_griseus",802,520,"female",8.2,1765,6.65894249498486,145.429149989337,"",116053
+7,-122.44414,37.88281,"adult",1979,"Sciurus griseus griseus","Sciurus_griseus",870,565,"male",14.2,800,3.25160799381699,106.569732940511,"Summer",116055
+11,-122.5748,37.97397,NA,2003,"Sciurus griseus","Sciurus_griseus",800,580,"female",15.1,982,3.99843719470495,115.258990621892,"Fall",116056
+6,-123.46,42.12,NA,1979,"Sciurus griseus griseus","Sciurus_griseus",520,515,"female",10.5,1785,6.51638959342774,81.5748464848268,"Summer",116057
+3,-123.26,44.62,NA,1994,"Sciurus griseus griseus","Sciurus_griseus",837,583,"female",11.8,997,5.52637614837547,86.2020335822752,"Spring",116058
+12,-123.26,44.62,NA,1995,"Sciurus griseus griseus","Sciurus_griseus",749.5,557,"female",12.4,1396,4.89033524289274,79.7827415549199,"Winter",116059
+3,-123.26,44.6,NA,1996,"Sciurus griseus griseus","Sciurus_griseus",881.5,555,"male",11.5,1972,5.19704898782166,91.7387849846586,"Spring",116060
+2,-123.710451,39.875086,NA,2012,"Sciurus griseus","Sciurus_griseus",804,545,"male",12,2175,4.54355187451003,113.155562161274,"Winter",116061
+5,-119.87426,37.795781,NA,2005,"Sciurus griseus griseus","Sciurus_griseus",620,562,"female",11.6,1298,6.49192972198186,107.255688741329,"Spring",116062
+5,-119.81324,37.75685,NA,2005,"Sciurus griseus griseus","Sciurus_griseus",820,570,"female",10.7,1223,6.35688007142059,112.75352902043,"Spring",116063
+11,-123.72917,40.47944,NA,1958,"Sciurus griseus","Sciurus_griseus",851,584,"female",13.3,1970,5.11156591081501,121.124831515323,"Fall",116064
+5,-120.752192,35.535955,NA,1960,"Sciurus griseus","Sciurus_griseus",684,542,"male",14,418,4.66602809483807,126.85705018231,"Spring",116065
+10,-120.3925,35.12278,NA,1959,"Sciurus griseus","Sciurus_griseus",741.8,554,"male",15.7,245,3.90325233464079,166.743444890541,"Fall",116066
+7,-115.027,35.9166667,"unknown",1999,"Sciurus griseus","Sciurus_griseus",840,578,"female",18.6,140,7.79131217796755,142.679475357598,"Summer",116067
+2,-115.0386667,45.8716667,"unknown",1999,"Sciurus griseus","Sciurus_griseus",700,526,"female",2.9,1056,6.23258786662102,65.0773971385771,"Winter",116068
+3,-115.0313333,45.8691667,"unknown",1999,"Sciurus griseus","Sciurus_griseus",872,570,"male",3,1037,6.25975602196647,65.5091355439025,"Spring",116069
+1,-115.0238333,45.8878333,"unknown",1999,"Sciurus griseus","Sciurus_griseus",938,NA,"female",3.7,1039,6.35965026673256,65.2310449944959,"Winter",116070
+9,-121.07288,35.54405,"subadult",2003,"Sciurus griseus","Sciurus_griseus",696.6,552,"male",13.4,361,1.99605671869374,105.594392801227,"Fall",116071
+3,-122.55792,37.97134,"U",2004,"Sciurus griseus","Sciurus_griseus",670,584,"male",15.3,974,3.97377768513905,129.241025234058,"Spring",116072
+3,-122.55792,37.97134,"U",2004,"Sciurus griseus","Sciurus_griseus",900,578,"male",15.3,974,3.97377768513905,129.241025234058,"Spring",116073
+2,-120.68,40.42,NA,1959,"Sciurus griseus griseus","Sciurus_griseus",929.3,540,"male",9.4,260,7.41343988369036,131.552569480219,"Winter",116074
+5,-121.86806,40.44546,NA,2007,"Sciurus griseus griseus","Sciurus_griseus",920,623,"male",15.5,529,7.33279784546282,117.13595685953,"Spring",116075
+5,-114.0833333,32.05,NA,1998,"Sciurus griseus","Sciurus_griseus",810,560,"female",21.5,94,7.45033556291259,131.752567499685,"Spring",116076
+5,-114.0833333,32.05,NA,1998,"Sciurus griseus","Sciurus_griseus",830,570,"male",21.5,94,7.45033556291259,131.752567499685,"Spring",116077
+6,-122.468,47.0403333,"unknown",1990,"Sciurus griseus","Sciurus_griseus",754.4,504,"male",10.4,1344,5.87590740896994,78.6110712096418,"Summer",116078
+11,-115.0341667,45.8738333,"unknown",1998,"Sciurus griseus","Sciurus_griseus",650,534,"male",3.5,1394,7.26671531815796,49.7305887040056,"Fall",116079
+2,-115.0288333,45.8813333,"unknown",1999,"Sciurus griseus","Sciurus_griseus",710,559,"female",3.2,1055,6.27072926018541,65.3078878112602,"Winter",116080
+11,-115.0403333,45.8736667,"unknown",1999,"Sciurus griseus","Sciurus_griseus",860,NA,"female",2.8,1062,6.21924554520202,65.0974783893056,"Fall",116081
+3,-115.038,45.8743333,"unknown",1999,"Sciurus griseus","Sciurus_griseus",928,565,"male",2.9,1061,6.24126055643676,65.2598368853003,"Spring",116082
+11,-115.0346667,45.872,"unknown",1999,"Sciurus griseus","Sciurus_griseus",870,572,"female",2.9,1053,6.23661597245484,65.1634563321179,"Fall",116083

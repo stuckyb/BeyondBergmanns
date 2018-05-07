@@ -1,0 +1,186 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+1,-82.226234,30.816062,NA,1936,"Sciurus carolinensis","Sciurus_carolinensis",363,435,"male",20,1207,6.51834241803757,49.905492386405,"Winter",115791
+3,-76.655259,42.276659,NA,1993,"Sciurus carolinensis","Sciurus_carolinensis",566,465,"female",7.1,1020,10.2401578763871,47.9865543775618,"Spring",115792
+3,-76.655259,42.276659,NA,1993,"Sciurus carolinensis","Sciurus_carolinensis",600,483,"male",7.1,1020,10.2401578763871,47.9865543775618,"Spring",115793
+3,-76.655259,42.276659,NA,1993,"Sciurus carolinensis","Sciurus_carolinensis",515.3,480,"male",7.1,1020,10.2401578763871,47.9865543775618,"Spring",115794
+3,-76.655259,42.276659,NA,1993,"Sciurus carolinensis","Sciurus_carolinensis",557,405,"male",7.1,1020,10.2401578763871,47.9865543775618,"Spring",115795
+3,-76.655259,42.276659,NA,1993,"Sciurus carolinensis","Sciurus_carolinensis",550,493,"female",7.1,1020,10.2401578763871,47.9865543775618,"Spring",115796
+11,-76.3857,42.3443,NA,1995,"Sciurus carolinensis","Sciurus_carolinensis",536,465,"female",7.9,855,10.5385403796414,53.768654830872,"Fall",115797
+3,-76.498255,42.446719,NA,2006,"Sciurus carolinensis","Sciurus_carolinensis",658.7,469,"female",10.5,1052,8.50049463801425,49.0573292375431,"Spring",115798
+4,-76.38849,42.42766,"adult",2010,"Sciurus carolinensis","Sciurus_carolinensis",583.5,440,"male",9.2,1033,10.1310952472618,47.3652892216942,"Spring",115799
+1,-76.490741,42.465699,"adult",1947,"Sciurus carolinensis leucotis","Sciurus_carolinensis",455,476,"male",8.9,960,10.3733450669872,56.8690681222307,"Winter",115800
+5,-76.655259,42.276659,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",747,489,"female",9.4,838,9.49884761750635,36.7417764160875,"Spring",115801
+6,-76.485893,42.455335,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",480,484,"female",10.3,750,9.46806434411186,38.0743769721604,"Summer",115802
+7,-76.3652,42.4502,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",643,427,"male",9,850,9.61011146783649,37.275819438081,"Summer",115803
+4,-76.38849,42.42766,"immature",1925,"Sciurus carolinensis leucotis","Sciurus_carolinensis",91.6,NA,"male",7.3,917,9.48427726036703,37.3235319588728,"Spring",115804
+9,-106.95556,44.79722,NA,1993,"Sciurus carolinensis","Sciurus_carolinensis",568.8,463,"male",5.7,387,9.80059908496631,88.1932319665021,"Fall",115805
+5,-122.3053,47.6564,"unknown",1964,"Sciurus carolinensis","Sciurus_carolinensis",641.9,NA,"female",10.3,1000,5.05179236119281,72.2329564672525,"Spring",115807
+5,-122.30664,47.65612,"unknown",1964,"Sciurus carolinensis","Sciurus_carolinensis",663,NA,"female",10.3,1000,5.05179236119281,72.3973458893773,"Spring",115808
+4,-122.3053,47.6491628,"unknown",1976,"Sciurus carolinensis","Sciurus_carolinensis",628.6,430,"male",11.1,722,4.65165333917724,56.4613034553648,"Spring",115809
+6,-122.3160117,47.6491628,"unknown",1975,"Sciurus carolinensis","Sciurus_carolinensis",560,486,"male",10.6,1119,4.92894973138756,71.2001216879993,"Summer",115810
+6,-122.3160117,47.6491628,"unknown",1975,"Sciurus carolinensis","Sciurus_carolinensis",520,478,"male",10.6,1119,4.92894973138756,71.2001216879993,"Summer",115811
+9,-122.3128743,47.6512825,"unknown",1976,"Sciurus carolinensis","Sciurus_carolinensis",645.1,470,"female",11,723,4.63611481804114,56.4733910965653,"Fall",115812
+6,-122.3053,47.6491628,"unknown",1976,"Sciurus carolinensis","Sciurus_carolinensis",671.3,428,"male",11.1,722,4.65165333917724,56.4613034553648,"Summer",115813
+9,-79.39469,43.6626,"unknown",1974,"Sciurus carolinensis","Sciurus_carolinensis",570,480,"male",7.6,802,9.74786301367296,44.3212185759727,"Fall",115814
+9,-122.3095,47.66128,"unknown",1977,"Sciurus carolinensis","Sciurus_carolinensis",700.2,453,"female",10.6,932,5.12151581491498,56.5307459247828,"Fall",115815
+5,-122.3075,47.6358,"unknown",1977,"Sciurus carolinensis","Sciurus_carolinensis",365.4,422,"female",10.8,919,5.12903204288779,57.5536689991208,"Spring",115816
+8,-122.3133,47.6817,"unknown",1985,"Sciurus carolinensis","Sciurus_carolinensis",769.8,508,"female",9.7,720,6.24252280004574,74.5487122928569,"Summer",115817
+11,-122.3053,47.6564,"unknown",1979,"Sciurus carolinensis","Sciurus_carolinensis",684.3,452,"female",11.1,831,5.55116012990787,85.582175979923,"Fall",115818
+5,-122.3053,47.6564,"unknown",1979,"Sciurus carolinensis","Sciurus_carolinensis",654.9,460,"female",11.1,831,5.55116012990787,85.582175979923,"Spring",115819
+9,-122.1431,47.6331,"unknown",1986,"Sciurus carolinensis","Sciurus_carolinensis",621.1,470,"male",11.3,1199,4.92569023005144,74.8702102185619,"Fall",115820
+5,-122.3102,47.6611,"unknown",1992,"Sciurus carolinensis","Sciurus_carolinensis",582.9,498,"male",11.7,800,4.95166791611828,78.6666003984759,"Spring",115821
+7,-122.30664,47.65612,"unknown",1992,"Sciurus carolinensis","Sciurus_carolinensis",667,492,"female",11.9,792,4.9536870259954,79.3102190801025,"Summer",115822
+12,-122.2428,47.7864484,"unknown",1990,"Sciurus carolinensis","Sciurus_carolinensis",495,448,"male",10.6,1181,5.81853751280155,71.8533742115685,"Winter",115823
+12,-122.2428,47.7864484,"unknown",1990,"Sciurus carolinensis","Sciurus_carolinensis",824.1,479,"male",10.6,1181,5.81853751280155,71.8533742115685,"Winter",115824
+12,-122.2428,47.7864484,"unknown",1990,"Sciurus carolinensis","Sciurus_carolinensis",510.3,450,"male",10.6,1181,5.81853751280155,71.8533742115685,"Winter",115825
+11,-93.5306,35.9102,"unknown",1976,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",523,465,"female",13.7,1040,7.52985975160148,55.695673851773,"Fall",115826
+9,-86.9086,40.4267,"unknown",1962,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",364,452,"male",10.1,838,10.7809139714871,70.7893475419673,"Fall",115827
+1,-86.9086,40.4267,"unknown",1964,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",493,485,"female",10.9,756,10.0317526188628,73.3643570070849,"Winter",115828
+5,-122.5985,47.0902,"unknown",1992,"Sciurus carolinensis","Sciurus_carolinensis",728.3,492,"female",11.6,838,5.04026213844503,78.6765998841743,"Spring",115829
+7,-122.49716,47.26706,"unknown",1985,"Sciurus carolinensis","Sciurus_carolinensis",675.9,465,"male",9.4,727,6.42841702556278,78.9654871254272,"Summer",115830
+9,-122.48855,47.25787,"unknown",1986,"Sciurus carolinensis","Sciurus_carolinensis",573,472,"male",11,1104,4.83932752653619,78.8024737408342,"Fall",115831
+9,-122.48855,47.25787,"unknown",1986,"Sciurus carolinensis","Sciurus_carolinensis",688.9,481,"female",11,1104,4.83932752653619,78.8024737408342,"Fall",115832
+11,-122.34355,47.66834,"unknown",1978,"Sciurus carolinensis","Sciurus_carolinensis",391.8,447,"female",10.7,910,5.20619531874955,57.5867186834191,"Fall",115833
+7,-73.45397496,41.72990416,NA,2008,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",430,NA,"male male",9.3,1379,9.28434247276107,46.623959120874,"Summer",115834
+9,-77.27269,42.706,NA,1938,"Sciurus carolinensis","Sciurus_carolinensis",540,502,"female",8.9,901,9.07271968178464,51.6713542346058,"Fall",115835
+3,-76.655259,42.276659,NA,1993,"Sciurus carolinensis","Sciurus_carolinensis",579.3,485,"female",7.1,1020,10.2401578763871,47.9865543775618,"Spring",115836
+3,-76.655259,42.276659,NA,1994,"Sciurus carolinensis","Sciurus_carolinensis",512,475,"female",7.1,1226,10.6799266539304,53.6758478406825,"Spring",115837
+3,-76.655259,42.276659,NA,1994,"Sciurus carolinensis","Sciurus_carolinensis",585,490,"male",7.1,1226,10.6799266539304,53.6758478406825,"Spring",115838
+3,-76.655259,42.276659,NA,1993,"Sciurus carolinensis","Sciurus_carolinensis",511.2,468,"male",7.1,1020,10.2401578763871,47.9865543775618,"Spring",115839
+4,-76.655259,42.276659,NA,1993,"Sciurus carolinensis","Sciurus_carolinensis",560,483,"female",7.1,1020,10.2401578763871,47.9865543775618,"Spring",115840
+8,-76.490741,42.465699,"juvenile",2008,"Sciurus carolinensis","Sciurus_carolinensis",68.5,204,"female ?",8.9,1014,9.43190507444458,38.4168546530195,"Summer",115841
+10,-76.655259,42.276659,NA,2012,"Sciurus carolinensis","Sciurus_carolinensis",675,496.5,"female",9.6,1077,8.72503798724039,33.8959977213799,"Fall",115842
+6,-76.495684,42.440612,NA,2013,"Sciurus carolinensis","Sciurus_carolinensis",633,485,"undetermined",9.4,1007,9.66306228518024,44.5398552190238,"Summer",115843
+4,-76.45442,42.4566,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",465,442,"male",8.1,988,9.41502667403164,23.5134886763006,"Spring",115844
+6,-76.45442,42.4566,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",568,484,"female",8.1,988,9.41502667403164,23.5134886763006,"Summer",115845
+10,-122.85,48.55,NA,1992,"Sciurus carolinensis","Sciurus_carolinensis",710,483,"male",11.3,658,4.10921912511146,56.5600443140942,"Fall",115847
+9,-122.2413333333,47.7853333333,NA,2001,"Sciurus carolinensis","Sciurus_carolinensis",575,484,"female",9.9,1060,4.48195033304462,60.5695277737877,"Fall",115848
+9,-122.2413333333,47.7853333333,NA,2001,"Sciurus carolinensis","Sciurus_carolinensis",590,460,"male",9.9,1060,4.48195033304462,60.5695277737877,"Fall",115849
+10,-122.3160117,47.6564,"unknown",1974,"Sciurus carolinensis","Sciurus_carolinensis",395,448,"female",11,1016,5.06780539436466,77.6449343863577,"Fall",115850
+10,-122.3160117,47.6564,"unknown",1974,"Sciurus carolinensis","Sciurus_carolinensis",600,496,"female",11,1016,5.06780539436466,77.6449343863577,"Fall",115851
+6,-122.31946,47.64992,"unknown",1973,"Sciurus carolinensis","Sciurus_carolinensis",594.5,478,"female",10.9,887,4.80236684070753,93.2073714671156,"Summer",115852
+6,-122.3053,47.6491628,"unknown",1975,"Sciurus carolinensis","Sciurus_carolinensis",585.1,470,"male",10.6,1126,4.949165831152,70.7558179183839,"Summer",115853
+5,-122.3053,47.6491628,"unknown",1976,"Sciurus carolinensis","Sciurus_carolinensis",661.3,483,"female",11.1,722,4.65165333917724,56.4613034553648,"Spring",115854
+4,-122.3053,47.6491628,"unknown",1976,"Sciurus carolinensis","Sciurus_carolinensis",691.8,420,"male",11.1,722,4.65165333917724,56.4613034553648,"Spring",115855
+9,-122.3053,47.6491628,"unknown",1976,"Sciurus carolinensis","Sciurus_carolinensis",624.9,480,"female",11.1,722,4.65165333917724,56.4613034553648,"Fall",115856
+8,-122.3069,47.65208,"unknown",1975,"Sciurus carolinensis","Sciurus_carolinensis",678.1,460,"male",10.5,1129,4.9602892755332,70.7721706067702,"Summer",115857
+1,-122.1994,47.6106,"unknown",1976,"Sciurus carolinensis","Sciurus_carolinensis",718.4,440,"male",11,768,4.74830113160103,57.3518967150885,"Winter",115858
+10,-122.3204487,47.646165,"unknown",1976,"Sciurus carolinensis","Sciurus_carolinensis",405.6,445,"female",10.9,721,4.64216511659128,57.0289588387617,"Fall",115859
+6,-122.31433,47.6549,"unknown",1984,"Sciurus carolinensis","Sciurus_carolinensis",573,475,"male",10.8,1068,4.82885895299074,65.9191535189118,"Summer",115860
+6,-122.15827,47.57774,"unknown",1987,"Sciurus carolinensis","Sciurus_carolinensis",158.8,357,"female",11.5,933,5.14695408602373,88.6843195418571,"Summer",115861
+1,-122.14662,47.64607,"unknown",1989,"Sciurus carolinensis","Sciurus_carolinensis",604.5,488,"male",10.7,1132,5.63734839882165,63.6992487031451,"Winter",115862
+9,-122.23921,47.48205,"unknown",1988,"Sciurus carolinensis","Sciurus_carolinensis",543.3,470,"male",11.3,921,4.97207352635851,73.9142948092096,"Fall",115863
+10,-122.4431,47.2531,"unknown",1992,"Sciurus carolinensis","Sciurus_carolinensis",669.5,504,"female",11.8,827,5.04035232053787,78.2810149895345,"Fall",115864
+12,-122.2428,47.7864484,"unknown",1990,"Sciurus carolinensis","Sciurus_carolinensis",852.9,485,"female",10.6,1181,5.81853751280155,71.8533742115685,"Winter",115865
+5,-122.51051,47.63526,"unknown",1992,"Sciurus carolinensis","Sciurus_carolinensis",632.7,478,"female",11.8,944,5.09420347953525,79.9636679428402,"Spring",115866
+9,-93.5183,35.9926,"unknown",1976,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",595,462,"male",13.6,1059,7.50108577999131,59.5039907203396,"Fall",115867
+4,-93.5183,35.9926,"unknown",1976,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",675,510,"female",13.6,1059,7.50108577999131,59.5039907203396,"Spring",115868
+2,-86.9086,40.4267,"unknown",1968,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",550,500,"male",10.4,986,10.4312903411715,53.926084467199,"Winter",115869
+6,-122.6037902,47.006619,"unknown",1992,"Sciurus carolinensis","Sciurus_carolinensis",554.8,473,"male",11.5,878,5.02608348035676,78.9207560686726,"Summer",115870
+9,-122.466604,47.064719,"unknown",1992,"Sciurus carolinensis","Sciurus_carolinensis",557.5,460,"male",11.5,877,5.01422219715324,77.4042726140145,"Fall",115871
+5,-122.2272,47.3075,"unknown",1984,"Sciurus carolinensis","Sciurus_carolinensis",653,475,"male",10.8,1071,5.04046504588494,66.6936238732047,"Spring",115872
+2,-122.3101,47.6611,"unknown",1991,"Sciurus carolinensis","Sciurus_carolinensis",519.4,490,"male",11.1,839,5.02753026903475,68.1970298429947,"Winter",115873
+9,-122.3053,47.6564,"unknown",1965,"Sciurus carolinensis","Sciurus_carolinensis",361,NA,"male",11.3,851,4.96356421303983,82.7408007342406,"Fall",115874
+10,-122.50143,37.77002,"adult",1968,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",0.75,17,"female",13.2,533,2.67246056183163,113.111270776843,"Fall",115875
+8,-122.22271,37.46983,"Adult",1993,"Sciurus carolinensis","Sciurus_carolinensis",482.9,455,"female",15.3,524,4.09925159466501,144.08119747447,"Summer",115876
+7,-122.4653,37.76914,"U",2010,"Sciurus carolinensis","Sciurus_carolinensis",529,445,"female",13.8,724,2.54986630665574,101.523616388039,"Summer",115877
+3,-122.520404,47.111149,NA,1999,"Sciurus carolinensis","Sciurus_carolinensis",367.5,450,"male",10,1218,4.5156545886102,85.4822520146545,"Spring",115878
+11,-76.5094764,42.4381028,NA,1939,"Sciurus carolinensis leucotis","Sciurus_carolinensis",322,411,"female",9.5,688,10.2050306964336,30.703559881706,"Fall",115879
+9,-76.5094764,42.4381028,"adult",1937,"Sciurus carolinensis","Sciurus_carolinensis",543.6,510,"female",9.3,987,9.7610970260271,49.7444654477362,"Fall",115880
+10,-76.486488,42.4538,NA,1989,"Sciurus carolinensis","Sciurus_carolinensis",685.6,418,"male",8.2,899,10.4372112553056,57.8308725300941,"Fall",115881
+10,-76.5094764,42.4381028,NA,1975,"Sciurus carolinensis","Sciurus_carolinensis",582,522,"female",9.7,999,9.64689854384048,51.6430743723559,"Fall",115882
+11,-76.5094764,42.4381028,NA,1940,"Sciurus carolinensis leucotis","Sciurus_carolinensis",362,440,"male",7.9,859,10.1830816315667,35.7147842586663,"Fall",115883
+2,-76.5094764,42.4381028,"adult",1947,"Sciurus carolinensis leucotis","Sciurus_carolinensis",458,470,"male",9.6,936,10.3193074409384,58.3812157686076,"Winter",115884
+10,-76.5094764,42.4381028,NA,1944,"Sciurus carolinensis leucotis","Sciurus_carolinensis",484,474,"male",9.3,810,10.5580071581485,37.8988755957932,"Fall",115885
+10,-76.5094764,42.4381028,"juvenile",1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",169,358,"male",10.8,727,9.43864958882393,38.6913357749824,"Fall",115886
+1,-76.5094764,42.4381028,"adult",1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",705,497,"female",9,942,9.34026798655189,22.1277688905802,"Winter",115887
+11,-76.5094764,42.4381028,"immature",1940,"Sciurus carolinensis leucotis","Sciurus_carolinensis",328,450,"male",7.9,859,10.1830816315667,35.7147842586663,"Fall",115888
+6,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",585,480,"male",9,942,9.34026798655189,22.1277688905802,"Summer",115889
+5,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",595,514,"male",9,942,9.34026798655189,22.1277688905802,"Spring",115890
+2,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",475,462,"female",9,942,9.34026798655189,22.1277688905802,"Winter",115891
+3,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",527,463,"male",9,942,9.34026798655189,22.1277688905802,"Spring",115892
+3,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",594,515,"female",9,942,9.34026798655189,22.1277688905802,"Spring",115893
+1,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",525,509,"male",9,942,9.34026798655189,22.1277688905802,"Winter",115894
+9,-76.5094764,42.4381028,NA,1937,"Sciurus carolinensis","Sciurus_carolinensis",688.7,488,"male",9.3,987,9.7610970260271,49.7444654477362,"Fall",115895
+10,-76.5094764,42.4381028,NA,1927,"Sciurus carolinensis leucotis","Sciurus_carolinensis",520,NA,"female",9,875,8.77372109302443,54.3418656962285,"Fall",115896
+8,-89.3442,37.6481,"adult",1954,"Sciurus carolinensis","Sciurus_carolinensis",461,453,"male",15.3,1083,9.36311266555512,46.0353363062751,"Summer",115897
+4,-83.5496566,35.6119313,NA,1980,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",371.9,440,"male",10.3,1517,8.2623277958491,43.8417748232003,"Spring",115898
+4,-83.5496566,35.6119313,NA,1980,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",455,455,"female",10.3,1517,8.2623277958491,43.8417748232003,"Spring",115899
+5,-94.83936,39.07154,NA,1956,"Sciurus carolinensis","Sciurus_carolinensis",120,310,"undetermined",13.4,622,10.829963345303,70.2873273846766,"Spring",115900
+10,-95.16889,39.31121,NA,1958,"Sciurus carolinensis","Sciurus_carolinensis",560,474,"female",11.6,1112,10.5122295302647,85.145001573284,"Fall",115901
+9,-95.18478,38.77792,NA,1965,"Sciurus carolinensis","Sciurus_carolinensis",207.3,398,"male",12.8,1057,9.86903636571873,104.369626639389,"Fall",115902
+5,-81.72,32.27,NA,1973,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",373,458,"female",19.2,1304,6.77165997284852,55.3725203827308,"Spring",115903
+10,-75.82,44.03,NA,1971,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",585,472,"male",7.1,928,11.0355486194993,28.5620409782789,"Fall",115904
+11,-80.25,25.71,NA,1954,"Sciurus carolinensis extimus","Sciurus_carolinensis",410.3,440,"female",23.6,1634,3.68646171823335,76.4918575880119,"Fall",115905
+7,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",814.8,484,"female",10,899,8.30895829083212,40.4779525972429,"Summer",115906
+7,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",733.2,506,"female",10,899,8.30895829083212,40.4779525972429,"Summer",115907
+9,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",698.2,512,"female",10,899,8.30895829083212,40.4779525972429,"Fall",115908
+2,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",632.6,462,"male",10,899,8.30895829083212,40.4779525972429,"Winter",115909
+12,-76.48,42.45,NA,1997,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",984.2,484,"male",7.8,747,9.01587824929222,38.8459511304217,"Winter",115910
+12,-76.48,42.45,NA,1997,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",631.7,473,"male",7.8,747,9.01587824929222,38.8459511304217,"Winter",115911
+3,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",661.5,495,"male",10,899,8.30895829083212,40.4779525972429,"Spring",115912
+1,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",422.5,463,"male",10,899,8.30895829083212,40.4779525972429,"Winter",115913
+12,-76.48,42.45,NA,1997,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",586.2,480,"female",7.8,747,9.01587824929222,38.8459511304217,"Winter",115914
+5,-95.98,37.39,NA,1973,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",358,480,"female",14,1289,9.5869545200599,54.013631989309,"Spring",115915
+12,-95.27,38.96,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",678.5,491,"female",13.9,1223,9.8228243793666,69.4545822726803,"Winter",115916
+1,-95.22,38.95,NA,2005,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",574,445,"female",13.6,1066,10.1129192799921,72.5086523382929,"Winter",115917
+4,-95.24,38.97,NA,2005,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",668.5,473,"male",13.6,1060,10.1063736265185,71.8968528341631,"Spring",115918
+10,-95.17,39,NA,2004,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",574.4,464,"female",13.1,1047,9.468256375272,63.513945885822,"Fall",115919
+8,-73.49,40.87,NA,1969,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",560,469,"female",10.8,1282,9.3044466397915,46.9831699484296,"Summer",115920
+8,-79.577183,42.322562,NA,1960,"Sciurus carolinensis","Sciurus_carolinensis",513,490,"male",9,740,10.245660574412,33.7992102371769,"Summer",115921
+12,-75.05833,39.95611,NA,1964,"Sciurus carolinensis","Sciurus_carolinensis",427.5,432,"male",12.3,935,8.85785048143821,56.593647680949,"Winter",115922
+11,-91.11083,30.44444,NA,1962,"Sciurus carolinensis","Sciurus_carolinensis",425,447,"female",19.8,1274,6.95615598305602,61.341048001518,"Fall",115923
+11,-86.93299,40.438351,NA,1966,"Sciurus carolinensis","Sciurus_carolinensis",281,403,NA,10,839,10.0344369170584,57.5400000674709,"Fall",115924
+2,-86.90806,40.42583,NA,1963,"Sciurus carolinensis","Sciurus_carolinensis",387,432,"male",9.6,692,11.7974926714677,80.5794779702145,"Winter",115925
+10,-86.90806,40.42583,NA,1962,"Sciurus carolinensis","Sciurus_carolinensis",430,448,"male",10.2,838,10.7687644546061,70.7646325299975,"Fall",115926
+5,-76.49694,42.44056,NA,1949,"Sciurus carolinensis","Sciurus_carolinensis",541,483,"male",10.7,733,9.4415747274135,39.1572631026362,"Spring",115927
+3,-93.5833333,45.3,"adult",1927,"Sciurus carolinensis hypophaeus","Sciurus_carolinensis",510,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",115928
+3,-93.5833333,45.3,"adult",1927,"Sciurus carolinensis hypophaeus","Sciurus_carolinensis",709,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",115929
+4,-122.520404,47.111149,NA,1999,"Sciurus carolinensis","Sciurus_carolinensis",250,490,"female",10,1218,4.5156545886102,85.4822520146545,"Spring",115930
+12,-76.5094764,42.4381028,NA,1939,"Sciurus carolinensis leucotis","Sciurus_carolinensis",405.9,464,"male",9.5,688,10.2050306964336,30.703559881706,"Winter",115931
+10,-76.5094764,42.4381028,NA,1939,"Sciurus carolinensis leucotis","Sciurus_carolinensis",389.5,445,"female",9.5,688,10.2050306964336,30.703559881706,"Fall",115932
+10,-76.565956,42.426152,"adult",1974,"Sciurus carolinensis","Sciurus_carolinensis",574,540,"female",7.8,936,9.38464251591477,29.5286491712164,"Fall",115933
+11,-76.5094764,42.4381028,NA,1940,"Sciurus carolinensis leucotis","Sciurus_carolinensis",328,450,"male",7.9,859,10.1830816315667,35.7147842586663,"Fall",115934
+8,-76.5094764,42.4381028,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",429,469,"female",10.8,727,9.43864958882393,38.6913357749824,"Summer",115935
+8,-76.5094764,42.4381028,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",627,478,"female",10.8,727,9.43864958882393,38.6913357749824,"Summer",115936
+8,-76.5094764,42.4381028,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",541,476,"female",10.8,727,9.43864958882393,38.6913357749824,"Summer",115937
+8,-76.5094764,42.4381028,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",521,484,"female",10.8,727,9.43864958882393,38.6913357749824,"Summer",115938
+10,-76.5094764,42.4381028,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",458,480,"female",10.8,727,9.43864958882393,38.6913357749824,"Fall",115939
+11,-76.5094764,42.4381028,"immature",1940,"Sciurus carolinensis leucotis","Sciurus_carolinensis",362,440,"male",7.9,859,10.1830816315667,35.7147842586663,"Fall",115940
+3,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",560,471,"male",9,942,9.34026798655189,22.1277688905802,"Spring",115941
+3,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",560,471,"male",9,942,9.34026798655189,22.1277688905802,"Spring",115942
+6,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",467,468,"male",9,942,9.34026798655189,22.1277688905802,"Summer",115943
+11,-76.5094764,42.4381028,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",378,445,"male",10.8,727,9.43864958882393,38.6913357749824,"Fall",115944
+2,-76.5094764,42.4381028,NA,1950,"Sciurus carolinensis leucotis","Sciurus_carolinensis",538,460,"male",9,942,9.34026798655189,22.1277688905802,"Winter",115945
+12,-76.5094764,42.4381028,NA,1949,"Sciurus carolinensis leucotis","Sciurus_carolinensis",380,449,"female",10.8,727,9.43864958882393,38.6913357749824,"Winter",115946
+8,-89.3442,37.6481,"adult",1954,"Sciurus carolinensis","Sciurus_carolinensis",437.5,457,"female",15.3,1083,9.36311266555512,46.0353363062751,"Summer",115947
+8,-89.3442,37.6481,NA,1954,"Sciurus carolinensis","Sciurus_carolinensis",262,418,"male",15.3,1083,9.36311266555512,46.0353363062751,"Summer",115948
+4,-83.5496566,35.6119313,NA,1980,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",400,444,"male",10.3,1517,8.2623277958491,43.8417748232003,"Spring",115949
+4,-83.5496566,35.6119313,NA,1980,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",612.5,460,"male",10.3,1517,8.2623277958491,43.8417748232003,"Spring",115950
+4,-83.5496566,35.6119313,NA,1980,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",533,458,"female",10.3,1517,8.2623277958491,43.8417748232003,"Spring",115951
+1,-81.78,32.44,NA,1970,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",305.4,427,"male",18.4,1239,7.75751346447527,53.242544524212,"Winter",115952
+2,-75.91,43.97,NA,1974,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",700,493,"female",6.8,997,10.0987698020676,26.9402528244925,"Winter",115953
+8,-75.91,43.97,NA,1974,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",536.1,478,"female",6.8,997,10.0987698020676,26.9402528244925,"Summer",115954
+2,-95.22,38.97,NA,1991,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",567,458,"female",14.1,753,10.4645288301177,61.5902565456677,"Winter",115955
+7,-88.08,38.73,NA,1991,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",533.3,474,"male",14,889,9.93231640106723,41.1135504224814,"Summer",115956
+5,-95.24,38.93,NA,1996,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",376,430,"female",12.5,1187,10.2854560453393,82.4716029947464,"Spring",115957
+11,-80.25,25.71,NA,1954,"Sciurus carolinensis extimus","Sciurus_carolinensis",449.3,550,"male",23.6,1634,3.68646171823335,76.4918575880119,"Fall",115958
+11,-80.25,25.71,NA,1954,"Sciurus carolinensis extimus","Sciurus_carolinensis",401,442,"male",23.6,1634,3.68646171823335,76.4918575880119,"Fall",115959
+12,-76.48,42.45,NA,1997,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",677.4,461,"male",7.8,747,9.01587824929222,38.8459511304217,"Winter",115960
+12,-76.48,42.45,NA,1997,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",825.6,494,"female",7.8,747,9.01587824929222,38.8459511304217,"Winter",115961
+3,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",596.6,476,"female",10,899,8.30895829083212,40.4779525972429,"Spring",115962
+2,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",595.5,463,"male",10,899,8.30895829083212,40.4779525972429,"Winter",115963
+11,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",813.2,498,"female",10,899,8.30895829083212,40.4779525972429,"Fall",115964
+11,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",737.8,478,"male",10,899,8.30895829083212,40.4779525972429,"Fall",115965
+1,-76.48,42.45,NA,1998,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",643.9,497,"male",10,899,8.30895829083212,40.4779525972429,"Winter",115966
+10,-95.17,39,NA,2004,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",715.5,490,"female",13.1,1047,9.468256375272,63.513945885822,"Fall",115967
+11,-94.68,34.13,NA,1968,"Sciurus carolinensis carolinensis","Sciurus_carolinensis",566,450,"male",15.7,1673,8.36436796866037,52.4493662658995,"Fall",115968
+8,-73.49,40.87,NA,1969,"Sciurus carolinensis pennsylvanicus","Sciurus_carolinensis",530,424,"female",10.8,1282,9.3044466397915,46.9831699484296,"Summer",115969
+12,-78.040835,40.556376,NA,1959,"Sciurus carolinensis","Sciurus_carolinensis",576.8,456,"male",11.1,981,9.77741677478662,41.0840288757694,"Winter",115970
+7,-89.18833,37.605,NA,1962,"Sciurus carolinensis","Sciurus_carolinensis",595.34,452,"male",13.7,1062,9.71111125557636,34.1095710093993,"Summer",115971
+12,-93.1825,44.98556,NA,1957,"Sciurus carolinensis","Sciurus_carolinensis",601,482,"female",7.4,861,12.0898028657763,90.5331060496646,"Winter",115972
+11,-91.11083,30.44444,NA,1962,"Sciurus carolinensis","Sciurus_carolinensis",397,443,"male",19.8,1274,6.95615598305602,61.341048001518,"Fall",115973
+7,-73.81778,43.24528,NA,1949,"Sciurus carolinensis","Sciurus_carolinensis",752,486,"female",8.6,898,10.1336373558859,34.1302677140143,"Summer",115974
+9,-72.50194,42.45194,NA,1986,"Sciurus carolinensis","Sciurus_carolinensis",598.7,488,"male",8.1,1169,9.54985324335913,45.3312526344931,"Fall",115975
+3,-93.5833333,45.3,"adult",1927,"Sciurus carolinensis hypophaeus","Sciurus_carolinensis",567,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",115976
+12,-77.121207,38.968378,NA,1968,"Sciurus carolinensis","Sciurus_carolinensis",637,493,"female",12.9,956,9.51172721147188,46.3352538104862,"Winter",115977

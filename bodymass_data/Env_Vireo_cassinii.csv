@@ -1,0 +1,397 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-117.165636,46.72953,NA,2009,"Vireo cassinii","Vireo_cassinii",15.5,NA,"male",8.5,550,8.61564380541688,53.4036899625688,"Spring",156843
+9,-117.179457,46.728691,NA,1950,"Vireo cassinii","Vireo_cassinii",18.5,139,"male",7.6,652,8.66198154248924,66.8975596396836,"Fall",156844
+9,-117.595579,47.550495,"Ad",1958,"Vireo cassinii","Vireo_cassinii",15.1,137,"female",10.3,551,8.27738796451825,69.6699588356103,"Fall",156845
+5,-117.09972,47.77515,"Ad",1959,"Vireo cassinii","Vireo_cassinii",14.6,146,"male",8.1,586,7.79998057495639,63.2588257947535,"Spring",156846
+5,-117.164293,46.730767,NA,1981,"Vireo cassinii","Vireo_cassinii",14.1,NA,"female",8.7,601,6.36302648592681,55.6155635509603,"Spring",156847
+11,-110.926479,32.0911287,NA,1953,"Vireo cassinii","Vireo_cassinii",13.3,NA,"female",19.6,159,7.63537917535961,175.649589828921,"Fall",156848
+4,-122.2701073,41.1076358,"adult",1963,"Vireo cassinii","Vireo_cassinii",13.9,NA,"male",11.4,1904,6.94228916049157,92.894554648685,"Spring",156849
+5,-122.1363289,41.8989992,NA,1963,"Vireo cassinii","Vireo_cassinii",16.1,NA,"male",7.8,375,6.58006055972868,67.0561230340946,"Spring",156850
+9,-106.1259166667,35.9037833333,NA,2008,"Vireo cassinii","Vireo_cassinii",16,NA,"female",11.4,230,8.58005085808195,62.0665098459663,"Fall",156851
+9,-103.5296,34.1118666667,NA,2010,"Vireo cassinii","Vireo_cassinii",14,NA,"male",14.7,402,8.72549382122539,65.9608778027884,"Fall",156852
+5,-107.18065,33.94675,NA,2012,"Vireo cassinii","Vireo_cassinii",15.6,NA,"female",11.7,269,7.32258337424213,114.971328099979,"Spring",156853
+4,-103.529842,34.111866,NA,2012,"Vireo cassinii","Vireo_cassinii",14.1,NA,"female",16.3,222,8.21998212045538,88.864721390153,"Spring",156854
+5,-120.9284872,41.5629391,"u ad.",1948,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"female",7.1,507,7.9734027563614,59.1339309914405,"Spring",156855
+5,-120.9284872,41.5629391,"u ad.",1948,"Vireo cassinii cassinii","Vireo_cassinii",15.4,NA,"female",7.1,507,7.9734027563614,59.1339309914405,"Spring",156856
+8,-120.28173,35.597748,"imm.",1947,"Vireo cassinii cassinii","Vireo_cassinii",13,NA,"female",14.6,104,6.07759796051836,93.2076166137476,"Summer",156857
+8,-123.89356,41.15358,"imm.",1949,"Vireo cassinii cassinii","Vireo_cassinii",17.4,NA,"male ?",11.5,1841,5.72813365342632,98.2926948356347,"Summer",156858
+9,-123.135856,40.315747,"unknown",1949,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"undetermined",9.4,1281,6.87278338922096,146.948460928128,"Fall",156859
+3,-122.2784622,37.9015256,"ad.sk.",1955,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"male",13,594,3.33878720495931,178.491710961961,"Spring",156860
+5,-116.7365,46.6151,"u ad.",1955,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",8.5,564,8.61557346092563,55.9915942727882,"Spring",156861
+6,-121.0618645,41.4301297,"u ad.",1958,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",156862
+5,-120.036953,39.5483129,"ad.sk.",1963,"Vireo cassinii cassinii","Vireo_cassinii",13.2,NA,"female",6.7,798,6.55001156603189,89.0400573081803,"Spring",156863
+5,-120.036953,39.5483129,"ad.sk.",1963,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",6.7,798,6.55001156603189,89.0400573081803,"Spring",156864
+6,-122.1607774,41.8826619,"u ad.",1964,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",6.9,597,7.17449185192466,154.198921294861,"Summer",156865
+6,-120.289512,41.9885085,"u ad.",1964,"Vireo cassinii cassinii","Vireo_cassinii",14.7,NA,"male",7,710,7.4748619121734,116.183190869799,"Summer",156866
+6,-120.289512,41.9885085,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",7,710,7.4748619121734,116.183190869799,"Summer",156867
+6,-120.289512,41.9885085,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male",7,710,7.4748619121734,116.183190869799,"Summer",156868
+6,-120.289512,41.9885085,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",14.7,NA,"male",7,710,7.4748619121734,116.183190869799,"Summer",156869
+6,-120.2971805,41.5590607,"u ad.",1964,"Vireo cassinii cassinii","Vireo_cassinii",15.6,NA,"female",5.8,847,7.61698162600574,109.235639777376,"Summer",156870
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",16.1,NA,"female",6.5,349,8.26839088812254,53.8908399870363,"Summer",156871
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"female",6.5,349,8.26839088812254,53.8908399870363,"Summer",156872
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",13.6,NA,"male",6.5,349,8.26839088812254,53.8908399870363,"Summer",156873
+7,-114.2961,46.0277,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",3.4,966,7.71352118626176,67.1093366347781,"Summer",156874
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",15.2,NA,"male",6.5,349,8.26839088812254,53.8908399870363,"Summer",156875
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"female",6.5,349,8.26839088812254,53.8908399870363,"Summer",156876
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",6.5,349,8.26839088812254,53.8908399870363,"Summer",156877
+7,-114.2581,46.0528,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",5.7,475,7.78516460190713,57.3100058398195,"Summer",156878
+7,-114.2581,46.0528,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",16.2,NA,"female",5.7,475,7.78516460190713,57.3100058398195,"Summer",156879
+7,-113.9931,45.5002,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",14.7,NA,"male",5.7,400,9.15269044730796,62.9051349490663,"Summer",156880
+7,-113.9931,45.5002,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",15.2,NA,"female",5.7,400,9.15269044730796,62.9051349490663,"Summer",156881
+6,-122.0391752,40.8587106,"ad.sk.",1968,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Summer",156882
+6,-122.8081025,39.4441677,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"male",11.7,2093,6.88144188555294,119.408783744519,"Summer",156883
+6,-122.8081025,39.4441677,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",12.9,NA,"male",11.7,2093,6.88144188555294,119.408783744519,"Summer",156884
+6,-122.8081025,39.4441677,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"female",11.7,2093,6.88144188555294,119.408783744519,"Summer",156885
+6,-122.8118697,39.4446168,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",13.1,NA,"male",12,2092,6.811014920144,119.587087494621,"Summer",156886
+6,-122.8245446,39.4433764,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",14.8,NA,"male",12.3,2096,6.67793177018699,119.82488405856,"Summer",156887
+6,-122.8324269,39.550601,"ad.sk.",1972,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"male",11.2,991,6.83378416842426,102.328812694911,"Summer",156888
+6,-122.8324269,39.550601,"ad.sk.",1972,"Vireo cassinii cassinii","Vireo_cassinii",12.8,NA,"male",11.2,991,6.83378416842426,102.328812694911,"Summer",156889
+5,-120.579294,39.982735,"ad.sk.",1970,"Vireo cassinii cassinii","Vireo_cassinii",12.7,NA,"male",7.3,1353,6.82727928418359,125.155680890287,"Spring",156890
+5,-120.579294,39.982735,"ad.sk.",1970,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",7.3,1353,6.82727928418359,125.155680890287,"Spring",156891
+6,-120.406211,39.871211,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",6.2,727,7.09329068396839,109.302792829503,"Summer",156892
+6,-120.560086,39.971666,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",13.1,NA,"male",6.4,1065,7.19336289206722,109.079596428334,"Summer",156893
+6,-119.903447,38.364097,"ad.sk.",1969,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",8.1,1434,6.93775354437041,130.255587564381,"Summer",156894
+6,-119.903447,38.364097,"ad.sk.",1969,"Vireo cassinii cassinii","Vireo_cassinii",15.2,NA,"male",8.1,1434,6.93775354437041,130.255587564381,"Summer",156895
+6,-119.903447,38.364097,"ad.sk.",1969,"Vireo cassinii cassinii","Vireo_cassinii",13.5,NA,"female",8.1,1434,6.93775354437041,130.255587564381,"Summer",156896
+6,-119.903447,38.364097,"ad.sk.",1969,"Vireo cassinii cassinii","Vireo_cassinii",15.3,NA,"female",8.1,1434,6.93775354437041,130.255587564381,"Summer",156897
+6,-119.903447,38.364097,"ad.sk.",1969,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"female",8.1,1434,6.93775354437041,130.255587564381,"Summer",156898
+6,-122.70172,39.47802,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male",12.2,1343,7.26421281893557,119.762809661209,"Summer",156899
+6,-119.83917,38.965,"ad.sk.",1969,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",9,430,7.3724713179051,141.300589121477,"Summer",156900
+5,-115.19222,37.45331,"ad.sk.",1969,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"female",14,208,8.97268582471775,96.660948012882,"Spring",156901
+7,-120.2357672,41.5389116,"ad.sk.",1978,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"female",7,499,7.25851641908046,82.9071770114023,"Summer",156902
+7,-120.2357672,41.5389116,"ad.sk.",1978,"Vireo cassinii cassinii","Vireo_cassinii",13.1,NA,"male",7,499,7.25851641908046,82.9071770114023,"Summer",156903
+6,-122.0921,42.2089,"ad.sk.",1979,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"male",7.7,624,7.05542451958173,72.594619100849,"Summer",156904
+6,-122.7545518,41.974422,"ad.sk.",1979,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",10.1,772,7.35036589482992,75.6860169935424,"Summer",156905
+6,-122.6277876,41.9671027,"ad.sk.",1979,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"male",10.7,606,7.51271145015788,70.2827269643377,"Summer",156906
+5,-122.8245446,39.4433764,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",156907
+5,-122.8245446,39.4433764,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",18.8,NA,"female",12.2,1273,5.6001352797513,129.470652174676,"Spring",156908
+5,-122.8245446,39.4433764,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",13.8,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",156909
+5,-122.8245446,39.4433764,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",12.9,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",156910
+5,-122.8245446,39.4433764,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",13.2,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",156911
+5,-122.8245446,39.4433764,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"female",12.2,1273,5.6001352797513,129.470652174676,"Spring",156912
+5,-122.8118697,39.4446168,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",13.2,NA,"male",11.9,1278,5.75064555005994,129.084466100492,"Spring",156913
+5,-122.8118697,39.4446168,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",11.9,1278,5.75064555005994,129.084466100492,"Spring",156914
+5,-122.8118697,39.4446168,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",11.9,1278,5.75064555005994,129.084466100492,"Spring",156915
+5,-122.8118697,39.4446168,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",13.3,NA,"male",11.9,1278,5.75064555005994,129.084466100492,"Spring",156916
+5,-122.866367,39.3759636,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",13.1,1169,5.45832697200647,129.517940448317,"Spring",156917
+5,-122.866367,39.3759636,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",12.9,NA,"male",13.1,1169,5.45832697200647,129.517940448317,"Spring",156918
+5,-122.1254041,40.8733434,"sk.oss.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male",15.5,2605,7.01988517561277,103.165497778669,"Spring",156919
+5,-122.0391752,40.8587106,"sk.oss.",1981,"Vireo cassinii cassinii","Vireo_cassinii",15.1,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",156920
+5,-122.0391752,40.8587106,"sk.oss.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",156921
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.7,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",156922
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.7,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",156923
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",15.4,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",156924
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",156925
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",12.9,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",156926
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",12.5,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",156927
+5,-122.1160438,40.8516013,"sk.oss.",1981,"Vireo cassinii cassinii","Vireo_cassinii",15.3,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",156928
+7,-114.1402,46.1022,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",18.5,NA,"female",4.6,532,8.47670604978994,29.4936949939013,"Summer",156929
+7,-114.1402,46.1022,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.9,NA,"male",4.6,532,8.47670604978994,29.4936949939013,"Summer",156930
+7,-114.21257,45.90017,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.3,NA,"male",4.6,703,8.53528771416854,36.5920363461612,"Summer",156931
+7,-114.21257,45.90017,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.2,NA,"female",4.6,703,8.53528771416854,36.5920363461612,"Summer",156932
+7,-114.21257,45.90017,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",4.6,703,8.53528771416854,36.5920363461612,"Summer",156933
+7,-114.21257,45.90017,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",4.6,703,8.53528771416854,36.5920363461612,"Summer",156934
+7,-114.21257,45.90017,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",13.8,NA,"male",4.6,703,8.53528771416854,36.5920363461612,"Summer",156935
+7,-114.21257,45.90017,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.4,NA,"male",4.6,703,8.53528771416854,36.5920363461612,"Summer",156936
+7,-114.21257,45.90017,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"male",4.6,703,8.53528771416854,36.5920363461612,"Summer",156937
+7,-114.3253,45.7821,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",4.1,683,8.65417660596736,33.8741440147764,"Summer",156938
+7,-114.09328,45.95736,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.2,NA,"male",4.2,547,8.47081889354699,31.0312576127514,"Summer",156939
+7,-114.09328,45.95736,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",13.5,NA,"male",4.2,547,8.47081889354699,31.0312576127514,"Summer",156940
+7,-114.09328,45.95736,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.1,NA,"male",4.2,547,8.47081889354699,31.0312576127514,"Summer",156941
+5,-122.3797,42.7511,"unknown",1982,"Vireo cassinii cassinii","Vireo_cassinii",14.7,NA,"male",7.6,1321,6.52428447255236,75.468988229324,"Spring",156942
+5,-122.3698,42.7801,"unknown",1982,"Vireo cassinii cassinii","Vireo_cassinii",14.8,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Spring",156943
+6,-121.5341,36.32858,"unknown",1982,"Vireo cassinii cassinii","Vireo_cassinii",13.3,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",156944
+7,-122.3698,42.7004,"ad.sk.",1982,"Vireo cassinii cassinii","Vireo_cassinii",13.8,NA,"male",7.2,1203,6.57962880043511,73.3338038313619,"Summer",156945
+7,-122.3698,42.7004,"ad.sk.",1982,"Vireo cassinii cassinii","Vireo_cassinii",12.8,NA,"male",7.2,1203,6.57962880043511,73.3338038313619,"Summer",156946
+6,-118.5168301,35.7195559,"ad.sk.",1985,"Vireo cassinii cassinii","Vireo_cassinii",13.5,NA,"male",12.5,347,7.25283643574266,121.711059134568,"Summer",156947
+6,-118.5168301,35.7195559,"ad.sk.",1985,"Vireo cassinii cassinii","Vireo_cassinii",13.6,NA,"male",12.5,347,7.25283643574266,121.711059134568,"Summer",156948
+6,-118.5168301,35.7195559,"ad.sk.",1985,"Vireo cassinii cassinii","Vireo_cassinii",13,NA,"female",12.5,347,7.25283643574266,121.711059134568,"Summer",156949
+7,-117.6961,45.1581,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",6.2,868,8.34069977443576,37.903814731527,"Summer",156950
+7,-117.6961,45.1581,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",6.2,868,8.34069977443576,37.903814731527,"Summer",156951
+7,-117.6859,45.1545,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.6,NA,"male",5.8,910,8.31513771091707,38.752318818751,"Summer",156952
+6,-117.5152,45.0389,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",4,1046,8.34114936488208,51.1405388129399,"Summer",156953
+6,-117.5152,45.0389,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",19.8,NA,"female",4,1046,8.34114936488208,51.1405388129399,"Summer",156954
+6,-117.5458,45.0245,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",5.8,867,8.6152569036072,45.7038046070161,"Summer",156955
+6,-117.5458,45.0245,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"female",5.8,867,8.6152569036072,45.7038046070161,"Summer",156956
+6,-117.5458,45.0245,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.8,NA,"male",5.8,867,8.6152569036072,45.7038046070161,"Summer",156957
+6,-117.5458,45.0245,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"female",5.8,867,8.6152569036072,45.7038046070161,"Summer",156958
+6,-118.48702,35.6152,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",17,208,7.82296541464858,151.656690492106,"Summer",156959
+5,-120.6226326,36.378218,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",14.1,290,7.30246948682845,140.975185087685,"Spring",156960
+5,-120.6352893,36.3771377,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",13.7,302,7.29063326010391,141.340042457013,"Spring",156961
+5,-120.411092,35.267745,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",12.8,NA,"male",15.8,400,6.24603510600561,126.842867237805,"Spring",156962
+5,-120.41286,35.261864,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.5,NA,"male",15.8,412,6.39260936906476,126.82920414562,"Spring",156963
+6,-119.289234,37.084855,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",11.3,1104,5.51048587199482,163.814413173575,"Summer",156964
+6,-119.289234,37.084855,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",11.3,1104,5.51048587199482,163.814413173575,"Summer",156965
+6,-119.289234,37.084855,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"female",11.3,1104,5.51048587199482,163.814413173575,"Summer",156966
+6,-119.280832,37.07026,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",11.9,1072,5.55487091741032,164.839165936936,"Summer",156967
+6,-119.280832,37.07026,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"female",11.9,1072,5.55487091741032,164.839165936936,"Summer",156968
+6,-119.280832,37.07026,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",11.9,1072,5.55487091741032,164.839165936936,"Summer",156969
+6,-119.280832,37.07026,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",13,NA,"female",11.9,1072,5.55487091741032,164.839165936936,"Summer",156970
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",13.8,892,5.17640333775794,149.724892580538,"Spring",156971
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male",13.8,892,5.17640333775794,149.724892580538,"Spring",156972
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",12.9,NA,"male",13.8,892,5.17640333775794,149.724892580538,"Spring",156973
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"female",13.8,892,5.17640333775794,149.724892580538,"Spring",156974
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",13.8,892,5.17640333775794,149.724892580538,"Spring",156975
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",12.8,NA,"male",13.8,892,5.17640333775794,149.724892580538,"Spring",156976
+6,-119.77284,48.43072,"ad.sk.",1987,"Vireo cassinii cassinii","Vireo_cassinii",16.2,NA,"female",7.3,373,8.25748512599693,71.4319551089708,"Summer",156977
+6,-119.77284,48.43072,"adult skull",1987,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"male",7.3,373,8.25748512599693,71.4319551089708,"Summer",156978
+6,-119.8211,48.33225,"adult skull",1987,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",8.7,332,8.45495640904126,74.7863546099812,"Summer",156979
+6,-119.8211,48.33225,"adult skull",1987,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",8.7,332,8.45495640904126,74.7863546099812,"Summer",156980
+5,-118.920408,37.128964,"ad.sk.",1987,"Vireo cassinii cassinii","Vireo_cassinii",13,NA,"male",4.6,715,6.17891698855998,91.1743404054074,"Spring",156981
+6,-119.770144,38.724304,"ad.sk.",1988,"Vireo cassinii cassinii","Vireo_cassinii",15.9,NA,"male",9.2,339,7.53181132385708,132.091147381712,"Summer",156982
+6,-119.7604,38.731676,"ad.sk.",1995,"Vireo cassinii cassinii","Vireo_cassinii",13.5,NA,"male",8.6,822,6.38378628031416,127.540549748949,"Summer",156983
+7,-121.530840063,40.4125823385,"adult skull",2006,"Vireo cassinii cassinii","Vireo_cassinii",12.4,NA,"female",8.1,2962,7.22288031189774,106.173989785825,"Summer",156984
+7,-121.62709,40.35075,"adult skull",2006,"Vireo cassinii cassinii","Vireo_cassinii",16.3,NA,"female",9.9,1616,7.2931890185711,100.92670880767,"Summer",156985
+8,-121.0151,38.9072,"unknown",1916,"Vireo cassinii cassinii","Vireo_cassinii",12.6,NA,"female",14.2,1003,6.8096856154905,145.524132153522,"Summer",156986
+7,-121.42052,36.14456,"ad.",1919,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"male",11,761,6.20299903028341,156.606197540788,"Summer",156987
+6,-121.7648069,40.3091119,"u ad.",1924,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",12.6,605,7.04880712022835,104.248454374012,"Summer",156988
+5,-122.2297661,40.2121782,"u ad.",1924,"Vireo cassinii cassinii","Vireo_cassinii",11.7,NA,"male",17.4,462,7.5992174637002,110.123926819142,"Spring",156989
+5,-122.0701665,40.3147911,"u ad.",1924,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"male",16.7,494,7.4583032841785,107.492321804429,"Spring",156990
+10,-115.7333333333,30.9666666667,"imm.",1925,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",16,268,4.08169416697617,123.676529282106,"Fall",156991
+5,-115.458333,30.883333,"u ad.",1925,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",156992
+4,-114.8667,31,"u ad.",1926,"Vireo cassinii cassinii","Vireo_cassinii",13.5,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",156993
+4,-115.216667,32.083333,"u ad.",1926,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"male",22.3,83,6.42289347615704,132.346318817273,"Spring",156994
+4,-115.216667,32.083333,"u ad.",1926,"Vireo cassinii cassinii","Vireo_cassinii",16.5,NA,"female",22.3,83,6.42289347615704,132.346318817273,"Spring",156995
+5,-122.1741371,40.355192,"u ad.",1926,"Vireo cassinii cassinii","Vireo_cassinii",13.2,NA,"male",18,811,7.38358129414668,110.121034164454,"Spring",156996
+5,-118.00528,37.82389,"u ad.",1927,"Vireo cassinii cassinii","Vireo_cassinii",13.3,NA,"male",11.9,54,8.72033499495532,87.1348306992916,"Spring",156997
+7,-109.716873,23.387557,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",14.5,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",156998
+8,-116.94528,39.24556,"imm.",1931,"Vireo cassinii cassinii","Vireo_cassinii",15.6,NA,"male",8.9,185,9.5724470447343,48.9411099092045,"Summer",156999
+8,-116.94528,39.24556,"unknown",1931,"Vireo cassinii cassinii","Vireo_cassinii",16.6,NA,"male",8.9,185,9.5724470447343,48.9411099092045,"Summer",157000
+8,-116.94528,39.24556,"unknown",1931,"Vireo cassinii cassinii","Vireo_cassinii",15.7,NA,"male",8.9,185,9.5724470447343,48.9411099092045,"Summer",157001
+9,-116.94528,39.24556,"ad.",1931,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"female",8.9,185,9.5724470447343,48.9411099092045,"Fall",157002
+9,-116.94528,39.24556,"imm.",1931,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",8.9,185,9.5724470447343,48.9411099092045,"Fall",157003
+9,-116.94528,39.24556,"unknown",1931,"Vireo cassinii cassinii","Vireo_cassinii",15.6,NA,"female",8.9,185,9.5724470447343,48.9411099092045,"Fall",157004
+9,-116.98667,39.23861,"imm.",1931,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",9.1,185,9.60889739204812,49.4793629683915,"Fall",157005
+5,-117.17343,39.01015,"u ad.",1932,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"male",8,126,9.3955502040255,89.5716920856585,"Spring",157006
+8,-119.7675,39.35528,"imm.",1932,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"female",9.2,196,8.28989892836,143.164260387408,"Summer",157007
+8,-119.7675,39.35528,"imm.",1932,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"female",9.2,196,8.28989892836,143.164260387408,"Summer",157008
+6,-117.6822,45.1011,"u ad.",1932,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"male",6,646,8.61112740304748,79.4579087166232,"Summer",157009
+4,-123.5151,40.46008,"u ad.",1932,"Vireo cassinii cassinii","Vireo_cassinii",13.3,NA,"male",11,1081,6.76884014951579,102.306728354819,"Spring",157010
+4,-123.4853,40.3329,"u ad.",1932,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",157011
+5,-123.3052,40.2337238,"u ad.",1933,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",10.6,1441,6.87685512161165,127.945322087102,"Spring",157012
+6,-123.8584651,41.1335554,"u ad.",1933,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",11,2683,5.93992016067148,103.924145409553,"Summer",157013
+9,-117.53528,41.68472,"unknown",1934,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"female",7,716,6.72856304169476,91.774891703395,"Fall",157014
+6,-123.4815895,41.7163115,"u ad.",1935,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",12.1,1235,6.89004552036685,103.406346215301,"Summer",157015
+4,-116.0664242,33.5573954,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"female",22.6,48,8.80184209369972,140.46069543915,"Spring",157016
+4,-116.0664242,33.5573954,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"female",22.6,48,8.80184209369972,140.46069543915,"Spring",157017
+4,-116.0664242,33.5573954,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",22.6,48,8.80184209369972,140.46069543915,"Spring",157018
+5,-115.5697,33.1714,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",157019
+6,-121.3146,43.7203,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",13.8,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",157020
+6,-121.3146,43.7203,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",157021
+6,-121.3146,43.7203,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",15.3,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",157022
+6,-121.3146,43.7203,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",157023
+6,-121.3146,43.7203,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",157024
+6,-120.3751,44.4653,"u ad.",1938,"Vireo cassinii cassinii","Vireo_cassinii",13,NA,"male",6.6,508,7.82199695497488,64.1667505107387,"Summer",157025
+6,-120.3751,44.4653,"u ad.",1938,"Vireo cassinii cassinii","Vireo_cassinii",16.4,NA,"female",6.6,508,7.82199695497488,64.1667505107387,"Summer",157026
+5,-115.4207,35.1716,"ad.",1938,"Vireo cassinii cassinii","Vireo_cassinii",14.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",157027
+5,-115.57412,35.51722,"u ad.",1939,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"female",10.8,350,7.72694518022367,101.422951309955,"Spring",157028
+5,-115.57412,35.51722,"u ad.",1939,"Vireo cassinii cassinii","Vireo_cassinii",16,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",157029
+5,-115.57412,35.51722,"u ad.",1939,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",157030
+5,-114.223289,46.750939,"u ad.",1940,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"female",7.4,463,9.27425158297113,57.8843735392237,"Spring",157031
+6,-115.50028,35.96583,"u ad.",1940,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",8.4,568,7.43201000586468,145.832625928857,"Summer",157032
+6,-122.8317,46.0175,"u ad.",1941,"Vireo cassinii cassinii","Vireo_cassinii",13.6,NA,"male",11.6,1182,4.78415946830599,70.0039302271535,"Summer",157033
+6,-121.6479,44.3628,"u ad.",1941,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",7.9,594,5.71316263314176,66.9000007133394,"Summer",157034
+6,-122.8339037,40.325449,"u ad.",1943,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",14.2,694,6.27671864668928,121.568131946776,"Summer",157035
+5,-120.0333,51.65,"u ad.",1936,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"male",5.5,455,10.5375806549989,39.9242780757096,"Spring",157036
+8,-120.63,36.35,"juv.",1944,"Vireo cassinii cassinii","Vireo_cassinii",12.1,NA,"male",12.3,479,6.51284860638546,117.560293787102,"Summer",157037
+4,-117.1503,46.94,"Ad",1953,"Vireo cassinii","Vireo_cassinii",14.6,140,"male",9.2,628,6.05735215680211,94.1692436391601,"Spring",157038
+6,-117.408,46.932,"Ad",1953,"Vireo cassinii","Vireo_cassinii",15.6,143,"male",10.1,539,6.107143110301,95.6855621909589,"Summer",157039
+6,-117.20894,46.824342,NA,1952,"Vireo cassinii","Vireo_cassinii",13.7,77,"male",8.7,421,8.14989774986983,68.45666989722,"Summer",157040
+5,-117.179457,46.728691,"Ad",1970,"Vireo cassinii","Vireo_cassinii",14.9,142,"male",8.4,568,7.77032037871533,80.7771623407065,"Spring",157041
+9,-117.164293,46.730767,NA,1992,"Vireo cassinii","Vireo_cassinii",15.2,NA,"male",9.9,439,7.30804351382776,53.9248281993119,"Fall",157042
+10,-117.164293,46.730767,NA,1996,"Vireo cassinii","Vireo_cassinii",11.1,NA,NA,8.2,774,7.91608929314025,71.5732167831782,"Fall",157043
+5,-101.7844677,37.1477978,NA,1950,"Vireo cassinii","Vireo_cassinii",17,NA,"female",13.5,459,8.49568072075987,119.728167796662,"Spring",157044
+5,-101.7844677,37.1477978,NA,1950,"Vireo cassinii","Vireo_cassinii",16,NA,"female",13.5,459,8.49568072075987,119.728167796662,"Spring",157045
+4,-122.2701073,41.1076358,NA,1963,"Vireo cassinii","Vireo_cassinii",14.2,NA,"female",11.4,1904,6.94228916049157,92.894554648685,"Spring",157046
+9,-108.18275,35.1362833333,"HY",2008,"Vireo cassinii","Vireo_cassinii",14.6,NA,"male",7.6,399,7.73061603253093,65.829320090856,"Fall",157047
+4,-103.529842,34.111866,NA,2011,"Vireo cassinii","Vireo_cassinii",15.89,NA,"male",15.3,179,9.8091330355486,99.1569054962257,"Spring",157048
+5,-120.9284872,41.5629391,"u ad.",1948,"Vireo cassinii cassinii","Vireo_cassinii",12.7,NA,"male",7.1,507,7.9734027563614,59.1339309914405,"Spring",157049
+5,-120.9284872,41.5629391,"u ad.",1948,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",7.1,507,7.9734027563614,59.1339309914405,"Spring",157050
+8,-123.6278827,40.9396583,"ad.",1949,"Vireo cassinii cassinii","Vireo_cassinii",16,NA,"male",13.1,918,6.74394790410879,115.948232214933,"Summer",157051
+3,-92.5733333333,16.6744444444,"u ad.",1950,"Vireo cassinii cassinii","Vireo_cassinii",17.3,NA,"female",13.5,1057,0.98761267097926,77.8117725986951,"Spring",157052
+4,-122.7096386,38.9666364,"u ad.",1952,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",13.7,767,6.98899567935627,153.767324209229,"Spring",157053
+9,-105.7039491,36.04428674,"imm.",1952,"Vireo cassinii cassinii","Vireo_cassinii",18,NA,"male",3.8,634,8.20779378322085,57.4557151883953,"Fall",157054
+6,-122.0921,42.2089,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",16.6,NA,"female",6.2,765,6.90434645712395,157.501906375894,"Summer",157055
+6,-122.0921,42.2089,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",6.2,765,6.90434645712395,157.501906375894,"Summer",157056
+6,-120.289512,41.9885085,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",7,710,7.4748619121734,116.183190869799,"Summer",157057
+6,-120.289512,41.9885085,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"female",7,710,7.4748619121734,116.183190869799,"Summer",157058
+6,-120.289512,41.9885085,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",16,NA,"male",7,710,7.4748619121734,116.183190869799,"Summer",157059
+6,-120.289512,41.9885085,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",17.5,NA,"female",7,710,7.4748619121734,116.183190869799,"Summer",157060
+6,-120.2357672,41.5389116,"ad.sk.",1964,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"female",6.4,742,7.63435218819078,112.677157587897,"Summer",157061
+5,-99.2341666666,19.0208333333,"ad.sk.",1965,"Vireo cassinii cassinii","Vireo_cassinii",16.9,NA,"undetermined",14.3,1386,2.19729516920373,116.124862247001,"Spring",157062
+5,-123.002005,37.698188,"u ad.",1963,"Vireo cassinii cassinii","Vireo_cassinii",16,NA,"male",-9999,-9999,0,0,"Spring",157063
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",15.7,NA,"male",6.5,349,8.26839088812254,53.8908399870363,"Summer",157064
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",17.1,NA,"male",6.5,349,8.26839088812254,53.8908399870363,"Summer",157065
+7,-114.2961,46.0277,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",15.2,NA,"male",3.4,966,7.71352118626176,67.1093366347781,"Summer",157066
+7,-114.2961,46.0277,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",15.9,NA,"female",3.4,966,7.71352118626176,67.1093366347781,"Summer",157067
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",16.9,NA,"male",6.5,349,8.26839088812254,53.8908399870363,"Summer",157068
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",15.1,NA,"male",6.5,349,8.26839088812254,53.8908399870363,"Summer",157069
+7,-114.1256,46.5859,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"female",6.5,349,8.26839088812254,53.8908399870363,"Summer",157070
+6,-122.0391752,40.8587106,"ad.sk.",1968,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Summer",157071
+6,-122.0391752,40.8587106,"ad.sk.",1968,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Summer",157072
+6,-122.0391752,40.8587106,"ad.sk.",1968,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Summer",157073
+6,-122.0391752,40.8587106,"ad.sk.",1968,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male",14.8,1928,7.22606812907688,104.2389469883,"Summer",157074
+6,-122.7958708,39.4456154,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",15.1,NA,"female",11.3,2092,7.02409273770491,119.187913366543,"Summer",157075
+6,-122.8081025,39.4441677,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",13.5,NA,"male",11.7,2093,6.88144188555294,119.408783744519,"Summer",157076
+6,-122.8081025,39.4441677,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",11.7,2093,6.88144188555294,119.408783744519,"Summer",157077
+6,-122.8081025,39.4441677,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",11.7,2093,6.88144188555294,119.408783744519,"Summer",157078
+6,-122.8245446,39.4433764,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"male",12.3,2096,6.67793177018699,119.82488405856,"Summer",157079
+6,-122.8324269,39.550601,"ad.sk.",1972,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"male",11.2,991,6.83378416842426,102.328812694911,"Summer",157080
+6,-122.8324269,39.550601,"ad.sk.",1972,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",11.2,991,6.83378416842426,102.328812694911,"Summer",157081
+6,-122.8324269,39.550601,"ad.sk.",1972,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",11.2,991,6.83378416842426,102.328812694911,"Summer",157082
+6,-122.8324269,39.550601,"ad.sk.",1972,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",11.2,991,6.83378416842426,102.328812694911,"Summer",157083
+5,-120.579294,39.982735,"ad.sk.",1970,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"female",7.3,1353,6.82727928418359,125.155680890287,"Spring",157084
+5,-120.579294,39.982735,"ad.sk.",1970,"Vireo cassinii cassinii","Vireo_cassinii",13.6,NA,"male",7.3,1353,6.82727928418359,125.155680890287,"Spring",157085
+9,-120.2906923,39.5460947,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",5.3,821,7.21909819768915,103.773141201367,"Fall",157086
+6,-120.3101376,39.5460862,"ad.sk.",1970,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",6.3,1040,6.71801625662237,129.058224536568,"Summer",157087
+6,-119.903447,38.364097,"ad.sk.",1969,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"male",8.1,1434,6.93775354437041,130.255587564381,"Summer",157088
+6,-122.70172,39.47802,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",12.2,1343,7.26421281893557,119.762809661209,"Summer",157089
+6,-122.70172,39.47802,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male",12.2,1343,7.26421281893557,119.762809661209,"Summer",157090
+6,-122.70172,39.47802,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",15.3,NA,"male",12.2,1343,7.26421281893557,119.762809661209,"Summer",157091
+6,-122.70172,39.47802,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",13.1,NA,"female",12.2,1343,7.26421281893557,119.762809661209,"Summer",157092
+6,-119.77472,39.44083,"ad.sk.",1970,"Vireo cassinii cassinii","Vireo_cassinii",12.9,NA,"male",10.4,243,7.77729309456625,120.728044814654,"Summer",157093
+5,-117.02417,36.99917,"ad.sk.",1973,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"male",12.7,144,9.11751561057566,110.72114514133,"Spring",157094
+5,-117.10361,36.94669,"ad.sk.",1971,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"female",8.7,198,7.83517225352603,104.396469546994,"Spring",157095
+5,-114.11083,36.60278,"ad.sk.",1974,"Vireo cassinii cassinii","Vireo_cassinii",16.7,NA,"male",9.5,421,8.74308384676226,119.171461915973,"Spring",157096
+7,-120.2792747,39.5382166,"ad.sk.",1976,"Vireo cassinii cassinii","Vireo_cassinii",12.3,NA,"male",5.3,343,6.33768789692171,86.4938943837764,"Summer",157097
+7,-120.2357672,41.5389116,"ad.sk.",1978,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",7,499,7.25851641908046,82.9071770114023,"Summer",157098
+7,-120.2357672,41.5389116,"ad.sk.",1978,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"male",7,499,7.25851641908046,82.9071770114023,"Summer",157099
+7,-120.2357672,41.5389116,"ad.sk.",1978,"Vireo cassinii cassinii","Vireo_cassinii",13.1,NA,"female",7,499,7.25851641908046,82.9071770114023,"Summer",157100
+6,-119.2517,37.09584,"sk.oss.",1979,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",9.9,862,6.38219587935252,113.137455261824,"Summer",157101
+6,-122.0921,42.2089,"ad.sk.",1979,"Vireo cassinii cassinii","Vireo_cassinii",18.2,NA,"female",7.7,624,7.05542451958173,72.594619100849,"Summer",157102
+6,-120.6156518,42.2227266,"ad.sk.",1979,"Vireo cassinii cassinii","Vireo_cassinii",15.2,NA,"male",6.5,547,7.78803958683189,67.5616809471901,"Summer",157103
+6,-122.7545518,41.974422,"ad.sk.",1979,"Vireo cassinii cassinii","Vireo_cassinii",14.7,NA,"female",10.1,772,7.35036589482992,75.6860169935424,"Summer",157104
+5,-122.8245446,39.4433764,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",157105
+5,-122.8245446,39.4433764,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",157106
+5,-122.8118697,39.4446168,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"male",11.9,1278,5.75064555005994,129.084466100492,"Spring",157107
+5,-122.866367,39.3759636,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",13.1,1169,5.45832697200647,129.517940448317,"Spring",157108
+5,-122.72041,39.47802,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"female",11.2,937,6.1865629073065,124.241603527134,"Spring",157109
+5,-122.72041,39.47802,"ad.",1980,"Vireo cassinii cassinii","Vireo_cassinii",13.6,NA,"male",11.2,937,6.1865629073065,124.241603527134,"Spring",157110
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",157111
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",18.1,NA,"female",15.5,2546,7.01576147619837,103.153972873617,"Spring",157112
+5,-122.0391752,40.8587106,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",15.5,2546,7.01576147619837,103.153972873617,"Spring",157113
+5,-122.1160438,40.8516013,"sk.oss.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",157114
+5,-122.1160438,40.8516013,"sk.oss.",1981,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",157115
+5,-122.1160438,40.8516013,"sk.oss.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",157116
+5,-122.1160438,40.8516013,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"female",15.3,2652,6.98815014322406,102.602093150686,"Spring",157117
+5,-122.1160438,40.8516013,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",157118
+5,-122.1160438,40.8516013,"ad.sk.",1981,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"male",15.3,2652,6.98815014322406,102.602093150686,"Spring",157119
+7,-114.21257,45.90017,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",4.6,703,8.53528771416854,36.5920363461612,"Summer",157120
+7,-114.21257,45.90017,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",4.6,703,8.53528771416854,36.5920363461612,"Summer",157121
+6,-114.3253,45.7821,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",4.1,683,8.65417660596736,33.8741440147764,"Summer",157122
+7,-114.09328,45.95736,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.9,NA,"male",4.2,547,8.47081889354699,31.0312576127514,"Summer",157123
+7,-114.09328,45.95736,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",4.2,547,8.47081889354699,31.0312576127514,"Summer",157124
+7,-114.09328,45.95736,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.1,NA,"female",4.2,547,8.47081889354699,31.0312576127514,"Summer",157125
+7,-114.09328,45.95736,"u ad.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.3,NA,"female",4.2,547,8.47081889354699,31.0312576127514,"Summer",157126
+5,-122.3698,42.7076,"unknown",1982,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",7.3,1220,6.58059590191059,73.7426074784302,"Spring",157127
+5,-122.3698,42.7076,"unknown",1982,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",7.3,1220,6.58059590191059,73.7426074784302,"Spring",157128
+5,-122.3797,42.7511,"unknown",1982,"Vireo cassinii cassinii","Vireo_cassinii",16.8,NA,"female",7.6,1321,6.52428447255236,75.468988229324,"Spring",157129
+5,-122.3797,42.7511,"ad.sk.",1982,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",7.6,1321,6.52428447255236,75.468988229324,"Spring",157130
+5,-122.3698,42.7801,"ad.sk.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.4,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Spring",157131
+5,-122.3698,42.7801,"unknown",1982,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"female",7.9,1339,6.47510383677125,74.1390088613543,"Spring",157132
+7,-122.3698,42.7801,"ad.sk.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15.2,NA,"male",7.9,1339,6.47510383677125,74.1390088613543,"Summer",157133
+7,-122.3698,42.7004,"unknown",1982,"Vireo cassinii cassinii","Vireo_cassinii",18.6,NA,"female",7.2,1203,6.57962880043511,73.3338038313619,"Summer",157134
+7,-122.3698,42.7004,"ad.sk.",1982,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",7.2,1203,6.57962880043511,73.3338038313619,"Summer",157135
+7,-122.3698,42.7076,"ad.sk.",1982,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",7.3,1220,6.58059590191059,73.7426074784302,"Summer",157136
+7,-117.6961,45.1581,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",6.2,868,8.34069977443576,37.903814731527,"Summer",157137
+7,-117.6961,45.1581,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.7,NA,"male",6.2,868,8.34069977443576,37.903814731527,"Summer",157138
+7,-117.6961,45.1581,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",15.7,NA,"male",6.2,868,8.34069977443576,37.903814731527,"Summer",157139
+7,-117.6961,45.1581,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"male",6.2,868,8.34069977443576,37.903814731527,"Summer",157140
+7,-117.6859,45.1545,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",5.8,910,8.31513771091707,38.752318818751,"Summer",157141
+7,-117.6859,45.1545,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",15.3,NA,"male",5.8,910,8.31513771091707,38.752318818751,"Summer",157142
+6,-117.5458,45.0245,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",5.8,867,8.6152569036072,45.7038046070161,"Summer",157143
+6,-118.48702,35.6152,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.6,NA,"female",17,208,7.82296541464858,151.656690492106,"Summer",157144
+5,-120.401754,35.289257,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male",15.8,384,6.34972559655259,127.619026259705,"Spring",157145
+5,-120.411092,35.267745,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",15.8,NA,"female",15.8,400,6.24603510600561,126.842867237805,"Spring",157146
+5,-120.41286,35.261864,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",15.8,412,6.39260936906476,126.82920414562,"Spring",157147
+5,-120.41286,35.261864,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.1,NA,"male",15.8,412,6.39260936906476,126.82920414562,"Spring",157148
+5,-120.41286,35.261864,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",15.8,412,6.39260936906476,126.82920414562,"Spring",157149
+5,-120.41286,35.261864,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.3,NA,"male",15.8,412,6.39260936906476,126.82920414562,"Spring",157150
+5,-120.41286,35.261864,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.8,NA,"undetermined",15.8,412,6.39260936906476,126.82920414562,"Spring",157151
+5,-120.43022,35.261449,"ad.sk.",1984,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",15.3,440,6.52552099394556,128.012020472394,"Spring",157152
+6,-119.289234,37.084855,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",11.3,1104,5.51048587199482,163.814413173575,"Summer",157153
+6,-119.289234,37.084855,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",13.1,NA,"male",11.3,1104,5.51048587199482,163.814413173575,"Summer",157154
+6,-119.289234,37.084855,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"male",11.3,1104,5.51048587199482,163.814413173575,"Summer",157155
+6,-119.280832,37.07026,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",12.9,NA,"female",11.9,1072,5.55487091741032,164.839165936936,"Summer",157156
+6,-119.280832,37.07026,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14.7,NA,"male",11.9,1072,5.55487091741032,164.839165936936,"Summer",157157
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",13.8,892,5.17640333775794,149.724892580538,"Spring",157158
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",13.8,892,5.17640333775794,149.724892580538,"Spring",157159
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",13.8,892,5.17640333775794,149.724892580538,"Spring",157160
+5,-121.568284,36.319877,"adult skull",1986,"Vireo cassinii cassinii","Vireo_cassinii",15.8,NA,"female",13.8,892,5.17640333775794,149.724892580538,"Spring",157161
+6,-119.77284,48.43072,"ad.sk.",1987,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"male",7.3,373,8.25748512599693,71.4319551089708,"Summer",157162
+6,-119.77284,48.43072,"adult skull",1987,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",7.3,373,8.25748512599693,71.4319551089708,"Summer",157163
+6,-119.8211,48.33225,"adult skull",1987,"Vireo cassinii cassinii","Vireo_cassinii",15.1,NA,"male",8.7,332,8.45495640904126,74.7863546099812,"Summer",157164
+6,-119.8211,48.33225,"adult skull",1987,"Vireo cassinii cassinii","Vireo_cassinii",15.9,NA,"male",8.7,332,8.45495640904126,74.7863546099812,"Summer",157165
+6,-119.8211,48.33225,"adult skull",1987,"Vireo cassinii cassinii","Vireo_cassinii",14.6,NA,"male",8.7,332,8.45495640904126,74.7863546099812,"Summer",157166
+6,-119.8211,48.33225,"adult skull",1987,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",8.7,332,8.45495640904126,74.7863546099812,"Summer",157167
+5,-119.223505,37.09521,"ad.sk.",1987,"Vireo cassinii cassinii","Vireo_cassinii",13.3,NA,"male",9.3,739,6.23557729824787,89.6139094437236,"Spring",157168
+6,-119.757615,38.720481,"ad.sk.",1988,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"male",9.3,343,7.55799797124433,131.974012176334,"Summer",157169
+6,-119.757615,38.720481,"ad.sk.",1988,"Vireo cassinii cassinii","Vireo_cassinii",13.5,NA,"female",9.3,343,7.55799797124433,131.974012176334,"Summer",157170
+6,-120.81404,40.66362,"adult skull",2006,"Vireo cassinii cassinii","Vireo_cassinii",13.6,NA,"male",9,611,8.12822896211752,90.8332093316617,"Summer",157171
+6,-120.756963,40.565523,"full skull ossification",2006,"Vireo cassinii cassinii","Vireo_cassinii",13.2,NA,"male",9,779,8.07772845357511,94.7622375042123,"Summer",157172
+7,-121.56598,40.37882,"adult skull",2006,"Vireo cassinii cassinii","Vireo_cassinii",13.9,NA,"male",8.9,2074,7.2780491891715,102.88170791778,"Summer",157173
+7,-121.434293,40.34362,"juvenile",2006,"Vireo cassinii cassinii","Vireo_cassinii",15.3,NA,"male",8.5,1624,7.32529862872498,103.280247019562,"Summer",157174
+5,-120.29042,37.65638,"ad.",1915,"Vireo cassinii cassinii","Vireo_cassinii",16.5,NA,"female",17,515,6.71698435221333,126.132219286824,"Spring",157175
+8,-119.39231,37.73082,"imm.",1915,"Vireo cassinii cassinii","Vireo_cassinii",15.9,NA,"male",4.7,933,6.33711410276911,122.055904220382,"Summer",157176
+8,-121.0151,38.9072,"imm.",1916,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"female",14.2,1003,6.8096856154905,145.524132153522,"Summer",157177
+9,-118.67287,36.79291,"ad.",1916,"Vireo cassinii cassinii","Vireo_cassinii",16.8,NA,"male",10.1,1563,7.33203845317166,157.642952108709,"Fall",157178
+9,-118.581,36.7938,"ad.",1916,"Vireo cassinii cassinii","Vireo_cassinii",15.6,NA,"female",9.2,1630,7.35376629951474,158.993336141493,"Fall",157179
+4,-116.865597,36.456792,"u ad.",1917,"Vireo cassinii cassinii","Vireo_cassinii",16.1,NA,"male",23.3,31,10.6578467323234,99.6636097827943,"Spring",157180
+8,-118.08956,37.434018,"unknown",1917,"Vireo cassinii cassinii","Vireo_cassinii",15.8,NA,"female ?",6.1,154,8.4879013717744,151.978321108734,"Summer",157181
+7,-121.42052,36.14456,"ad.",1919,"Vireo cassinii cassinii","Vireo_cassinii",16.7,NA,"male",11,761,6.20299903028341,156.606197540788,"Summer",157182
+7,-120.11166,37.75634,"ad.",1920,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",157183
+7,-120.11166,37.75634,"ad.",1920,"Vireo cassinii cassinii","Vireo_cassinii",14.5,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",157184
+6,-119.836742,38.766074,"unknown",1921,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male ?",6,725,6.14098871715642,148.071170935666,"Summer",157185
+6,-121.5955981,40.3477021,"u ad.",1925,"Vireo cassinii cassinii","Vireo_cassinii",15.5,NA,"female",8.9,1214,6.18185884567731,87.6898019824462,"Summer",157186
+7,-121.5647963,40.3458417,"ad.",1925,"Vireo cassinii cassinii","Vireo_cassinii",14.9,NA,"female",8.6,1239,6.13595958265698,87.2336918590605,"Summer",157187
+5,-123.015054,40.394887,"u ad.",1926,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"female",11.7,1312,6.52795851888187,123.826324692807,"Spring",157188
+6,-118.89392,34.8760033,"ad.",1929,"Vireo cassinii cassinii","Vireo_cassinii",16,NA,"female",15,152,6.76185827067732,137.651578557767,"Summer",157189
+11,-110,23.566667,"ad.",1928,"Vireo cassinii lucasanus","Vireo_cassinii",14.8,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",157190
+7,-109.716873,23.387557,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",13.4,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157191
+7,-109.716873,23.387557,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",11.8,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",157192
+7,-109.716873,23.387557,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",15.1,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",157193
+7,-109.716873,23.387557,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",16.5,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",157194
+8,-116.94528,39.24556,"ad.",1931,"Vireo cassinii cassinii","Vireo_cassinii",16.3,NA,"male",8.9,185,9.5724470447343,48.9411099092045,"Summer",157195
+6,-117.6822,45.1011,"u ad.",1932,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",6,646,8.61112740304748,79.4579087166232,"Summer",157196
+7,-116.1454,44.9542,"u ad.",1932,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",3.9,936,8.76786487951625,71.9154831055055,"Summer",157197
+4,-123.4786419,40.4251158,"u ad.",1932,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"male",11.1,1048,7.04373781626222,103.759245387763,"Spring",157198
+4,-123.4786419,40.4251158,"u ad.",1931,"Vireo cassinii cassinii","Vireo_cassinii",15,NA,"male",11.5,1363,6.12280882265549,118.133081412472,"Spring",157199
+4,-123.4853,40.3329,"u ad.",1932,"Vireo cassinii cassinii","Vireo_cassinii",17.5,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",157200
+5,-123.4853,40.3329,"u ad.",1932,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",157201
+9,-114.84168,41.20389,"ad.",1934,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"female",8.9,273,7.82656703255978,61.7465283670665,"Fall",157202
+6,-121.3146,43.7203,"u ad.",1937,"Vireo cassinii cassinii","Vireo_cassinii",14.3,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",157203
+6,-120.3751,44.4653,"u ad.",1938,"Vireo cassinii cassinii","Vireo_cassinii",13.5,NA,"male",6.6,508,7.82199695497488,64.1667505107387,"Summer",157204
+6,-120.3751,44.4653,"u ad.",1938,"Vireo cassinii cassinii","Vireo_cassinii",13.2,NA,"male",6.6,508,7.82199695497488,64.1667505107387,"Summer",157205
+6,-120.4269,44.3964,"u ad.",1938,"Vireo cassinii cassinii","Vireo_cassinii",14.2,NA,"male",7.4,302,7.80598061317944,56.2662407960212,"Summer",157206
+5,-115.57412,35.51722,"u ad.",1939,"Vireo cassinii cassinii","Vireo_cassinii",17.7,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",157207
+5,-121.6331,42.313,"u ad.",1940,"Vireo cassinii cassinii","Vireo_cassinii",13.7,NA,"male",8.7,445,7.01068448653175,83.3188335438579,"Spring",157208
+5,-118.0571557,36.2424885,"u ad.",1942,"Vireo cassinii cassinii","Vireo_cassinii",13.3,NA,"female",12.3,123,7.48494954538571,121.862495441147,"Spring",157209
+5,-118.06827,36.236369,"u ad.",1942,"Vireo cassinii cassinii","Vireo_cassinii",14.8,NA,"male",10.1,159,7.11093907620186,131.780492070492,"Spring",157210
+5,-118.196981,36.593373,"u ad.",1942,"Vireo cassinii cassinii","Vireo_cassinii",14.4,NA,"female",9.4,131,7.17026688992309,132.476717533845,"Spring",157211
+8,-123.4568,40.45807,"unknown",1942,"Vireo cassinii cassinii","Vireo_cassinii",13,NA,"female",10.2,2118,6.39962120091115,99.0391196236951,"Summer",157212
+9,-123.8083893,40.9028547,"unknown",1942,"Vireo cassinii cassinii","Vireo_cassinii",16.8,NA,"female",12.7,1785,4.83105484434724,105.430785533876,"Fall",157213
+9,-124.0415543,40.5359463,"imm.",1942,"Vireo cassinii cassinii","Vireo_cassinii",16,NA,"male",11.9,1325,3.37916970257309,96.5542687630148,"Fall",157214
+8,-120.63,36.35,"imm.",1944,"Vireo cassinii cassinii","Vireo_cassinii",13.1,NA,"undetermined",12.3,479,6.51284860638546,117.560293787102,"Summer",157215
+8,-120.63,36.35,"juv.",1944,"Vireo cassinii cassinii","Vireo_cassinii",13.4,NA,"female",12.3,479,6.51284860638546,117.560293787102,"Summer",157216
+5,-115.8090522,33.7365557,"u ad.",1945,"Vireo cassinii cassinii","Vireo_cassinii",12.6,NA,"female",15.9,300,7.56030302423004,194.693231894318,"Spring",157217
+3,-96.46691,16.06749,"U-Ad.",1965,"Vireo cassinii cassinii","Vireo_cassinii",14,NA,"female",15.4,1058,0.946284600664381,118.293539357867,"Spring",157218
+5,-123.14394,39.40403,"U-Ad",1960,"Vireo cassinii","Vireo_cassinii",15,NA,"male",13.3,1360,6.48706755433805,99.2596849591736,"Spring",157219
+5,-120.42015,38.23591,"U-Ad",1970,"Vireo cassinii","Vireo_cassinii",15.7,NA,"male",14.2,1295,6.72558998200608,122.099720503168,"Spring",157220
+4,-123.00361,37.69852,"U-Ad",1966,"Vireo cassinii","Vireo_cassinii",13.8,NA,"male",-9999,-9999,0,0,"Spring",157221
+4,-109.8656333,23.5588667,NA,2001,"Vireo cassinii","Vireo_cassinii",17,NA,"male",22.2,634,4.49521631258938,281.384446087319,"Spring",157222
+2,-99.78333333,18.5,NA,1987,"Vireo cassinii","Vireo_cassinii",13,NA,NA,20.4,1003,1.31388274925424,140.582044916799,"Winter",157223
+5,-103.529842,34.11186,NA,2011,"Vireo cassinii","Vireo_cassinii",12.83,NA,"female",15.3,179,9.8091330355486,99.1569054962257,"Spring",157224
+5,-109.7747222,23.441944,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",13.9,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Spring",157225
+6,-109.7747222,23.441944,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",14.9,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",157226
+6,-109.7747222,23.441944,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",14.1,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",157227
+6,-109.7747222,23.441944,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",14.4,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",157228
+4,-106.425646,21.463515,NA,1963,"Vireo cassinii cassinii","Vireo_cassinii",12.4,NA,"female",23.3,548,2.5656678497326,102.889348753329,"Spring",157229
+5,-96.46691,16.06749,"U-Ad.",1965,"Vireo cassinii cassinii","Vireo_cassinii",17.7,NA,"male",15.4,1058,0.946284600664381,118.293539357867,"Spring",157230
+5,-115.88644,33.63198,"U-Ad.",1987,"Vireo cassinii cassinii","Vireo_cassinii",15.3,NA,"undetermined",20.5,108,7.7542314938752,137.396017206949,"Spring",157231
+5,-123.1853,39.40403,"U-Ad",1961,"Vireo cassinii","Vireo_cassinii",14.5,NA,"male",13.3,1065,6.09671421688964,95.0471731423943,"Spring",157232
+6,-121.432314,40.3096634,"skull",2003,"Vireo cassinii cassinii","Vireo_cassinii",12.2,NA,"female",9.6,1478,7.29966790444274,112.783785141019,"Summer",157233
+5,-109.7747222,23.441944,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",13.5,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Spring",157234
+6,-109.7747222,23.441944,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",14.4,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",157235
+6,-109.7747222,23.441944,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",14.3,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",157236
+6,-109.7747222,23.441944,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",12.1,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",157237
+6,-109.7747222,23.441944,"ad.",1929,"Vireo cassinii lucasanus","Vireo_cassinii",14.2,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",157238

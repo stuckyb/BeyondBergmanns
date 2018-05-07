@@ -1,0 +1,260 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+11,-110.959223,31.973369,NA,1953,"Auriparus flaviceps","Auriparus_flaviceps",7.3,NA,"male",19.5,168,7.63520553988978,190.789785143303,"Fall",6261
+4,-97.3797226,28.0992408,NA,1967,"Auriparus flaviceps","Auriparus_flaviceps",7,NA,"female",21.9,1047,6.00264461918598,166.023235619324,"Spring",6262
+1,-111.1996834,32.2786864,NA,1969,"Auriparus flaviceps","Auriparus_flaviceps",7.4,NA,"male",20.1,208,7.49997979795259,81.9507814011756,"Winter",6263
+10,-110.8728561,32.5037648,NA,1970,"Auriparus flaviceps","Auriparus_flaviceps",6.3,NA,"male",18.1,327,7.62354307988806,106.713176905939,"Fall",6264
+10,-115.831393,33.32555,NA,1993,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.8,NA,"male",22.7,111,7.74562926606178,191.633147628092,"Fall",6265
+3,-114.837823,32.816697,NA,1994,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.8,NA,"male",22.8,90,8.54564836981993,131.803180807519,"Spring",6266
+5,-115.4932594,33.1691688,"juvenile",1994,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.6,NA,"female",23.2,61,8.54219473607871,111.427183396501,"Spring",6267
+9,-116.0735474,33.5724258,NA,1987,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6,NA,"undetermined",22.5,90,7.76113081420172,138.633821275728,"Fall",6268
+2,-115.3313698,33.3375316,NA,1989,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6,NA,"undetermined",22.5,64,7.82541992289851,224.051029090169,"Winter",6269
+9,-108.083333,30.6,"imm.sk.",1948,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.1,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",6270
+9,-116.257,34.03749,"ad.",1950,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.6,NA,"male",15,75,6.33367024622207,105.057559980664,"Fall",6271
+9,-116.257,34.03749,"imm.",1950,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.4,NA,"female",15,75,6.33367024622207,105.057559980664,"Fall",6272
+9,-116.257,34.03749,"ad.",1950,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.2,NA,"female",15,75,6.33367024622207,105.057559980664,"Fall",6273
+9,-115.8597138,33.9844415,"ad.",1950,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",18,54,7.04084942361791,168.841035219409,"Fall",6274
+9,-115.8090522,33.7365557,"ad.",1950,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.2,NA,"male",17,47,6.75875974815893,129.246065528299,"Fall",6275
+4,-116.14889,34.10833,"u ad.",1951,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.8,NA,"male",16.5,221,7.73345251998019,112.82035402357,"Spring",6276
+2,-98.672,29.03,"u ad.",1952,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.8,NA,"male",21.4,534,6.2614743156912,61.0813709830374,"Winter",6277
+2,-97.56546,30.11,"u ad.",1952,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.5,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6278
+2,-97.56546,30.11,"u ad.",1952,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8.3,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6279
+2,-97.56546,30.11,"u ad.",1952,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8.2,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6280
+6,-106.08889,28.7080373639,"u ad.",1957,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.5,NA,"male",19,240,5.85322366501804,147.45161899312,"Summer",6281
+3,-114.64222,34.925,"u ad.",1958,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.7,NA,"male",22.9,115,8.85456567728386,93.0860311120625,"Spring",6282
+7,-97.509,28.14492,"sk.ad.",1964,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8.5,NA,"undetermined",21.9,600,6.76427222898952,76.7732012150335,"Summer",6283
+3,-114.8667,31,"imm.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",6284
+4,-114.8667,31,"u ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.9,NA,"undetermined",21.3,85,5.24377697558706,168.172831604019,"Spring",6285
+4,-114.8667,31,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",6286
+4,-115.284722,32.134722,"imm.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6,NA,"male",22.2,88,6.43129187267342,137.946707573484,"Spring",6287
+5,-115.266667,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.2,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",6288
+5,-115.266667,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",6289
+5,-115.266667,30.866667,"imm.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",6290
+6,-115.208333,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.1,NA,"male",18.8,103,4.90228765398607,106.831415172652,"Summer",6291
+6,-115.266667,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Summer",6292
+6,-115.266667,30.866667,"juv.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Summer",6293
+4,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.9,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",6294
+4,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",6295
+4,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",5.9,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",6296
+5,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.3,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",6297
+5,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.6,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",6298
+5,-112.9,27.3,"unknown",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.1,NA,"undetermined",21,97,4.31916097351691,102.524941533091,"Spring",6299
+6,-115.14084,32.4169,"juv.",1928,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.8,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Summer",6300
+4,-109.6833,23.05,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.9,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",6301
+5,-109.6833,23.05,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.7,NA,"male",22.9,181,3.69913994918229,118.983515716679,"Spring",6302
+5,-109.6833,23.05,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.6,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",6303
+5,-110.3,24.15217,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.8,NA,"female",22.8,157,4.49655592109285,112.548107955758,"Spring",6304
+4,-111.8125,26.0625,"u ad.",1931,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.2,NA,"male",21.1,215,4.20982796740574,93.8923460859446,"Spring",6305
+4,-111.8125,26.0625,"u ad.",1931,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.9,NA,"female",21.1,215,4.20982796740574,93.8923460859446,"Spring",6306
+1,-114.67067,35.46528,"u ad.",1934,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.3,NA,"female",23.4,84,7.85904227336547,99.5466287683851,"Winter",6307
+1,-113.7953,32.2264,"u ad.",1934,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.4,NA,"male",22.8,118,6.76664614118398,137.625873894774,"Winter",6308
+5,-114.6344872,35.0394044,"u ad.",1934,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",23.9,73,7.79043702823591,116.081860511723,"Spring",6309
+5,-114.6344872,35.0394044,"u ad.",1934,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.8,NA,"male",23.9,73,7.79043702823591,116.081860511723,"Spring",6310
+5,-111.5686,32.9778,"u ad.",1936,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.8,NA,"female",20.8,298,8.15335495177887,92.1005779875927,"Spring",6311
+4,-116.0664242,33.5573954,"u ad.",1937,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.2,NA,"male",22.6,48,8.80184209369972,140.46069543915,"Spring",6312
+1,-115.4207,35.1716,"ad.",1938,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.9,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",6313
+4,-112.14756,28.990021,"u ad.",1936,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.6,NA,"male",23.8,114,5.26184090380636,92.8032337334619,"Spring",6314
+5,-112.190838,29.167378,"u ad.",1938,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.2,NA,"female",23.2,105,5.55277708298589,88.4078925950524,"Spring",6315
+4,-99.8243529166,25.4706401281,"u ad.",1940,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.4,NA,"male",22.5,673,6.34794168501599,76.4461138851212,"Spring",6316
+11,-111.930332,28.812222,"u ad.",1941,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.2,NA,"female",23.8,107,5.58300315622553,124.240890795279,"Fall",6317
+11,-111.930332,28.812222,"u ad.",1941,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6,NA,"female ?",23.8,107,5.58300315622553,124.240890795279,"Fall",6318
+5,-103.1671142,29.3082557,NA,1968,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8,105,"undetermined",17.9,387,7.20414443009695,65.3526496742499,"Spring",6319
+5,-103.1671142,29.3082557,NA,1968,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.5,116,"undetermined",17.9,387,7.20414443009695,65.3526496742499,"Spring",6320
+5,-103.1671142,29.3082557,"ad",1968,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.1,NA,"male",17.9,387,7.20414443009695,65.3526496742499,"Spring",6321
+5,-103.1671142,29.3082557,"juv",1967,"Auriparus flaviceps ornatus","Auriparus_flaviceps",6.4,108,"female",18.7,265,7.0796550164196,105.129296782011,"Spring",6322
+5,-103.1768379,29.3057566,"juv",1967,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.7,95,"male",18.6,271,7.01510815484996,105.02936082621,"Spring",6323
+12,-106.5636063,31.9102046,"ad",1973,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.5,NA,"female",16.4,198,7.74371690566949,115.062524270127,"Winter",6324
+12,-106.5636063,31.9102046,NA,1973,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7,NA,"undetermined",16.4,198,7.74371690566949,115.062524270127,"Winter",6325
+5,-103.6944103,30.4447763,NA,1975,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7,NA,"undetermined",15.9,371,6.33439385060208,118.252769009068,"Spring",6326
+7,-102.992388,29.1823195,"imm",1977,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.3,46,"male",22,251,8.30419755122053,84.681907480556,"Summer",6327
+7,-117.1345138,34.4796749,"adult",1972,NA,"Auriparus_flaviceps",7.6,4,"female",15.6,86,7.63693179704567,119.135964816128,"Summer",6328
+4,-114.998018,33.316493,"adult",1984,NA,"Auriparus_flaviceps",6.5,NA,"male",22.9,151,8.14577414145742,147.879744553651,"Spring",6329
+7,-115.993824,33.6277702,"juvenile",1991,NA,"Auriparus_flaviceps",6.4,NA,"undetermined",20.4,141,7.34783002393265,117.318069210792,"Summer",6330
+4,-97.3797226,28.0992408,NA,1967,"Auriparus flaviceps","Auriparus_flaviceps",8,NA,"female",21.9,1047,6.00264461918598,166.023235619324,"Spring",6331
+3,-114.6675686,32.738077,NA,1964,"Auriparus flaviceps","Auriparus_flaviceps",8.5,NA,"female",21,54,8.06592157841191,164.254418205801,"Spring",6332
+3,-114.6847389,32.738077,NA,1964,"Auriparus flaviceps","Auriparus_flaviceps",6.5,NA,"male",21,53,8.04649368396326,170.302175790433,"Spring",6333
+4,-114.6675686,32.738077,NA,1964,"Auriparus flaviceps","Auriparus_flaviceps",6.2,NA,"male",21,54,8.06592157841191,164.254418205801,"Spring",6334
+5,-115.4932594,33.1691688,"juvenile",1994,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.6,NA,"undetermined",23.2,61,8.54219473607871,111.427183396501,"Spring",6335
+4,-116.0735474,33.5724258,NA,1990,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",5,NA,"female",22.2,32,8.17483203423035,95.0478348469386,"Spring",6336
+2,-115.3313698,33.3375316,NA,1989,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7,NA,"female",22.5,64,7.82541992289851,224.051029090169,"Winter",6337
+2,-114.6766663,34.4516523,NA,1987,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",5.2,NA,"male",21.3,99,8.88803673314287,118.213600303727,"Winter",6338
+9,-115.4138667,33.4775167,NA,1989,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",20.1,70,7.72326277416403,206.470471638506,"Fall",6339
+9,-115.6895421,33.9355317,"ad.",1950,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",5.77,NA,"male",20.8,36,7.1079127908567,130.267789455786,"Fall",6340
+9,-115.8090522,33.7365557,"ad.",1950,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.7,NA,"male",17,47,6.75875974815893,129.246065528299,"Fall",6341
+9,-115.8090522,33.7365557,"ad.",1950,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.8,NA,"male",17,47,6.75875974815893,129.246065528299,"Fall",6342
+2,-97.56546,30.11,"u ad.",1952,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6343
+2,-97.56546,30.11,"u ad.",1952,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8.5,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",6344
+4,-102.5421973639,29.06028,"u ad.",1953,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8,NA,"male",19.2,213,6.60240429118381,106.416775602656,"Spring",6345
+4,-102.5421973639,29.06028,"u ad.",1953,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.4,NA,"female",19.2,213,6.60240429118381,106.416775602656,"Spring",6346
+4,-102.5421973639,29.06028,"u ad.",1953,"Auriparus flaviceps ornatus","Auriparus_flaviceps",6.8,NA,"male",19.2,213,6.60240429118381,106.416775602656,"Spring",6347
+1,-116.4355793,33.5264423,"u ad.",1956,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.1,NA,"male",9.6,241,6.62727948205999,153.565707185187,"Winter",6348
+3,-116.3813057,35.0477446,"u ad.",1956,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.4,NA,"undetermined",19,28,8.4740066012948,125.886307889417,"Spring",6349
+6,-106.08889,28.7080373639,"u ad.",1957,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.7,NA,"female",19,240,5.85322366501804,147.45161899312,"Summer",6350
+3,-114.64222,34.925,"u ad.",1958,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",22.9,115,8.85456567728386,93.0860311120625,"Spring",6351
+3,-114.6344872,35.0394044,"u ad.",1958,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.1,NA,"male",23.2,132,8.76055207890877,91.2390705454055,"Spring",6352
+9,-106.7359053467,29.82389,"sk.oss.",1961,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.7,NA,"female",16.8,272,6.54723513238893,111.942865153066,"Fall",6353
+12,-114.4013222,34.4653024,"unknown",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"female",22.9,113,8.64822192269847,140.040768545237,"Winter",6354
+12,-114.4013222,34.4653024,"unknown",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",22.9,113,8.64822192269847,140.040768545237,"Winter",6355
+5,-106.3304805555,29.4621811111,"u ad.",1964,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.3,NA,"male",16.2,175,7.15102768626279,136.342973641135,"Spring",6356
+3,-114.8667,31,"imm.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.2,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",6357
+3,-114.8667,31,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",6358
+4,-115.284722,32.134722,"u ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.4,NA,"male",22.2,88,6.43129187267342,137.946707573484,"Spring",6359
+5,-115.266667,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7,NA,"female",16.1,229,4.85095273366402,118.032658763523,"Spring",6360
+5,-115.266667,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.1,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",6361
+5,-115.266667,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",5.8,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",6362
+5,-115.266667,30.866667,"juv.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.3,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",6363
+5,-115.266667,30.866667,"juv.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.5,NA,"female",16.1,229,4.85095273366402,118.032658763523,"Spring",6364
+5,-115.266667,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.2,NA,"female",16.1,229,4.85095273366402,118.032658763523,"Spring",6365
+5,-115.266667,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",6366
+5,-115.266667,30.866667,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.7,NA,"female",16.1,229,4.85095273366402,118.032658763523,"Spring",6367
+4,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.1,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",6368
+4,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.1,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",6369
+4,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",5.8,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",6370
+4,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",6371
+4,-112.9,27.3,"juv.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",9.3,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",6372
+5,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",6373
+5,-112.9,27.3,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.4,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",6374
+6,-115.2833333,29.9833333,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",8.9,NA,"male",17.8,222,4.30034353807397,98.5705455772625,"Summer",6375
+5,-115.14084,32.4169,"juv.",1928,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.7,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Spring",6376
+12,-115.2833333,29.9833333,"u ad.",1930,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.2,NA,"male",17.5,156,4.44756487679869,120.366482285165,"Winter",6377
+4,-111.8125,26.0625,"u ad.",1931,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.5,NA,"male",21.1,215,4.20982796740574,93.8923460859446,"Spring",6378
+4,-111.8125,26.0625,"u ad.",1931,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.1,NA,"male",21.1,215,4.20982796740574,93.8923460859446,"Spring",6379
+10,-116.8653,36.4572,"imm.",1933,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.2,NA,"female",22.9,15,10.6098439139691,60.3022689155527,"Fall",6380
+10,-116.8653,36.4572,"ad.",1933,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",22.9,15,10.6098439139691,60.3022689155527,"Fall",6381
+1,-114.67067,35.46528,"u ad.",1934,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.6,NA,"undetermined",23.4,84,7.85904227336547,99.5466287683851,"Winter",6382
+1,-114.665762,32.735119,"ad.",1934,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.2,NA,"female",23.9,60,6.78547356601966,122.840487007927,"Winter",6383
+5,-110.8733,32.26,"u ad.",1936,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.1,NA,"female",20,326,7.59950157855265,81.9460720588036,"Spring",6384
+5,-111.4947,32.6436,"u ad.",1936,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.8,NA,"female",21,295,8.12664901681033,90.7557309268244,"Spring",6385
+5,-111.4947,32.6436,"juv.",1936,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.1,NA,"female",21,295,8.12664901681033,90.7557309268244,"Spring",6386
+5,-111.4947,32.6436,"juv.",1936,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7,NA,"undetermined",21,295,8.12664901681033,90.7557309268244,"Spring",6387
+4,-116.0664242,33.5573954,"u ad.",1937,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",22.6,48,8.80184209369972,140.46069543915,"Spring",6388
+1,-106.333344,32.766666,"u ad.",1938,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.8,NA,"undetermined",16.4,249,7.88427664290252,110.368374916994,"Winter",6389
+12,-115.43194,34.9890368,"u ad.",1937,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",15.2,132,8.79550074375151,108.815078285175,"Winter",6390
+12,-115.43194,34.9890368,"ad.",1937,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6,NA,"male",15.2,132,8.79550074375151,108.815078285175,"Winter",6391
+12,-115.43194,34.9890368,"ad.",1937,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.4,NA,"female",15.2,132,8.79550074375151,108.815078285175,"Winter",6392
+6,-115.42361,34.93472,"juv.",1938,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.1,NA,"male",17,201,8.08382222826441,135.458816284105,"Summer",6393
+6,-115.42361,34.93472,"ad.",1938,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.7,NA,"male",17,201,8.08382222826441,135.458816284105,"Summer",6394
+5,-115.7675,35.5272,"u ad.",1939,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7,NA,"female",15.7,181,8.56314778571525,91.2671478996481,"Spring",6395
+6,-115.6839522,34.9868417,"u juv.",1940,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.1,NA,"undetermined",19.9,131,8.34892027132669,102.851895445316,"Summer",6396
+5,-115.8090522,33.7365557,"u ad.",1945,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.4,NA,"female",15.9,300,7.56030302423004,194.693231894318,"Spring",6397
+10,-116.0935866,33.895784,"u ad.",1945,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7,NA,"female",14.1,382,6.98413787222029,142.241342203377,"Fall",6398
+10,-115.8090522,33.7365557,"ad.",1945,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.3,NA,"male",15.9,300,7.56030302423004,194.693231894318,"Fall",6399
+10,-115.7392497,33.7010716,"ad.",1945,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",16.9,263,7.64953949891459,195.172119846486,"Fall",6400
+5,-103.8331449,30.3941115,"ad",1968,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.3,NA,"male",14.2,586,6.55290821396165,85.4457713336821,"Spring",6401
+5,-103.1765556,29.3058607,"juv",1967,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.6,102,"undetermined",18.6,271,7.01510815484996,105.02936082621,"Spring",6402
+5,-112.2367553,34.3033628,"ad",1969,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.2,108,"female",17,408,8.13359568628038,73.7203477316029,"Spring",6403
+5,-112.2367553,34.3033628,"ad",1969,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.4,114,"female",17,408,8.13359568628038,73.7203477316029,"Spring",6404
+5,-112.2367553,34.3033628,"ad",1969,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.4,NA,"male",17,408,8.13359568628038,73.7203477316029,"Spring",6405
+4,-112.2576561,34.2581237,"ad",1970,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.8,NA,"female",15.9,454,7.8643422349157,130.954223360873,"Spring",6406
+5,-102.935303,29.210717,"juv",1978,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.1,NA,"male",20.9,405,8.19948261486755,99.1816691850386,"Spring",6407
+12,-103.1671142,29.3082557,"ad",1979,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8,NA,"male",18,322,7.38624335566402,98.0315914890885,"Winter",6408
+5,-103.1671142,29.3082557,"ad",1967,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.2,NA,"male",18.7,265,7.0796550164196,105.129296782011,"Spring",6409
+5,-103.1671142,29.3082557,"ad",1967,"Auriparus flaviceps ornatus","Auriparus_flaviceps",6,115,"female",18.7,265,7.0796550164196,105.129296782011,"Spring",6410
+6,-115.634,33.571,"Not recorded",1990,NA,"Auriparus_flaviceps",4.5,NA,"female",19.9,62,8.25837958278338,136.420657356036,"Summer",6411
+6,-115.634,33.571,"Not recorded",1990,NA,"Auriparus_flaviceps",5,NA,"undetermined",19.9,62,8.25837958278338,136.420657356036,"Summer",6412
+8,-115.993824,33.6277702,"juvenile",1991,NA,"Auriparus_flaviceps",7.1,NA,"male",20.4,141,7.34783002393265,117.318069210792,"Summer",6413
+7,-116.0772209,33.5716934,"juvenile",1991,NA,"Auriparus_flaviceps",6.5,NA,"male",22.2,114,7.42833946940548,119.218474126938,"Summer",6414
+4,-112.89395,27.29858,"U-Ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",5,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",6415
+4,-112.89395,27.29858,"U-Ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.7,NA,"female",21.1,93,4.28191227458862,95.8155765889166,"Spring",6416
+11,-109.85554,24.23539,"U-Ad.",1961,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.6,NA,"male",23.4,309,4.96350316171589,183.188777428929,"Fall",6417
+11,-109.85554,24.23539,"U-Ad.",1961,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.2,NA,"male",23.4,309,4.96350316171589,183.188777428929,"Fall",6418
+12,-115.80276,33.66063,"U-Ad.",1971,"Auriparus flaviceps","Auriparus_flaviceps",6.7,NA,"male",18.9,43,8.01980030734537,168.057360635993,"Winter",6419
+7,-110.33944,24.31789,"U-Ad.",1974,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.2,NA,"male",22.6,165,5.2420430322075,109.250571865976,"Summer",6420
+2,-116.26419,33.6352,"U-Ad.",1987,"Auriparus flaviceps","Auriparus_flaviceps",6.8,NA,"male",22.3,85,7.69444407978703,129.075490991776,"Winter",6421
+4,-111.6208833,25.9311333,NA,2001,"Auriparus flaviceps","Auriparus_flaviceps",6,NA,"female",22.4,289,4.54981684613055,263.549398397784,"Spring",6422
+4,-114.8336111,31.033889,"u ad.",1948,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.1,NA,"male",20.3,20,5.49960742400599,121.809574335925,"Spring",6423
+7,-102.1447222,22.225556,"juv.sk.",1959,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.6,NA,"male",15.8,328,2.76014657054822,99.2877744064698,"Summer",6424
+6,-97.419,28.185,"u ad.",1964,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.3,NA,"male",21.7,618,6.74543055210958,75.5378133727753,"Summer",6425
+4,-115.33,32.33,"imm.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.6,NA,"male",22.5,88,6.79003280217006,132.967104141209,"Spring",6426
+11,-115.7230556,31.4,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.7,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Fall",6427
+5,-112.2222222,27.224722,"u ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.1,NA,"male",23.4,113,5.30479342984563,139.796764755099,"Spring",6428
+10,-114.7983333,32.579444,"ad.",1927,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7,NA,"male",22.6,107,7.15147791464368,114.101181789438,"Fall",6429
+11,-115.8008333,32.368333,"ad.",1927,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",8.7,NA,"male",21.6,153,6.26287764239701,130.466164725967,"Fall",6430
+6,-115.2425,30.194167,"ad.",1928,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.8,NA,"female",18.1,103,4.54561893642126,80.9395635616722,"Summer",6431
+11,-110.2233333,23.441667,"ad.",1928,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",8.3,NA,"male",22.4,133,3.35381962255069,121.078314185869,"Fall",6432
+4,-112.2222222,27.224722,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",5.3,NA,"male",23.3,88,5.61477353222566,106.699180718167,"Spring",6433
+4,-112.2222222,27.224722,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.7,NA,"male",23.3,88,5.61477353222566,106.699180718167,"Spring",6434
+4,-112.2222222,27.224722,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.6,NA,"female",23.3,88,5.61477353222566,106.699180718167,"Spring",6435
+6,-109.7747222,23.441944,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",5.5,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",6436
+6,-109.7747222,23.441944,"juv.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.5,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",6437
+6,-109.7747222,23.441944,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.8,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",6438
+6,-109.7747222,23.441944,"imm.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.5,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",6439
+5,-104.952119,25.6203535,"ad",1971,"Auriparus flaviceps ornatus","Auriparus_flaviceps",6.9,NA,"male",19.7,383,4.14319449290769,132.972041341058,"Spring",6440
+7,-98.77705,26.7599,NA,2013,"Auriparus flaviceps","Auriparus_flaviceps",7.3,NA,"male",23.1,624,6.18274112985396,93.5102990767359,"Summer",6441
+7,-98.77705,26.7599,NA,2013,"Auriparus flaviceps","Auriparus_flaviceps",7.4,NA,"male",23.1,624,6.18274112985396,93.5102990767359,"Summer",6442
+7,-98.77705,26.7599,NA,2013,"Auriparus flaviceps","Auriparus_flaviceps",13,NA,"male",23.1,624,6.18274112985396,93.5102990767359,"Summer",6443
+3,-109.883333,22.866667,NA,1959,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.3,NA,"female",24.8,234,3.45779751234274,179.516890124789,"Spring",6444
+3,-109.883333,22.866667,NA,1963,"Auriparus flaviceps","Auriparus_flaviceps",6.8,NA,"male",25,153,3.15364147382903,173.433921442796,"Spring",6445
+4,-98.2666667,29.4666667,NA,1946,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.4,NA,"male",20.8,1074,6.50879940518754,44.2576588163986,"Spring",6446
+2,-98.2666667,29.4666667,NA,1947,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8,NA,"male",20.2,576,7.75245806571091,84.1041752075044,"Winter",6447
+3,-98.2666667,29.4666667,NA,1947,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8.2,NA,"female",20.2,576,7.75245806571091,84.1041752075044,"Spring",6448
+6,-110.9333333,32.2166667,NA,1963,"Auriparus flaviceps","Auriparus_flaviceps",7,NA,"female",19.9,261,7.55181595660436,89.7912424582144,"Summer",6449
+11,-110.8333,32.7333,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.9,NA,"male",16.4,317,7.7500097751649,88.4461908448366,"Fall",6450
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.6,NA,NA,20.3,140,8.55454424693258,79.8446247014079,"Fall",6451
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.2,NA,NA,20.3,140,8.55454424693258,79.8446247014079,"Fall",6452
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.7,NA,NA,21.4,76,8.59610112466428,105.499676862926,"Fall",6453
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.2,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6454
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.2,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6455
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.7,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6456
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.2,NA,"female",20.3,140,8.55454424693258,79.8446247014079,"Fall",6457
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.2,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6458
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",5.5,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6459
+11,-113.5417,32.8417,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.4,NA,"female",21.4,65,8.55936046180739,111.453465625794,"Fall",6460
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.2,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6461
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.8,NA,NA,20.3,140,8.55454424693258,79.8446247014079,"Fall",6462
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.5,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6463
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.8,NA,"female",20.3,140,8.55454424693258,79.8446247014079,"Fall",6464
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.8,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6465
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.8,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6466
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.4,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6467
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.9,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6468
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.9,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6469
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.5,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6470
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.7,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6471
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.3,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6472
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",5.6,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6473
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.7,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6474
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",5.9,NA,"female",20.3,140,8.55454424693258,79.8446247014079,"Fall",6475
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.4,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6476
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6477
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",7.3,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6478
+4,-112.89395,27.29858,"U-Ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",5.6,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",6479
+5,-113.80064,28.25021,"U-Ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7,NA,"male",20.2,117,4.16772410824232,84.9291350608774,"Spring",6480
+12,-115.80276,33.66063,"U-Ad.",1971,"Auriparus flaviceps","Auriparus_flaviceps",6.8,NA,"m?",18.9,43,8.01980030734537,168.057360635993,"Winter",6481
+2,-116.26419,33.6352,"U-Ad.",1987,"Auriparus flaviceps","Auriparus_flaviceps",6.9,NA,"undetermined",22.3,85,7.69444407978703,129.075490991776,"Winter",6482
+5,-115.88644,33.63198,"Juv",1987,"Auriparus flaviceps","Auriparus_flaviceps",5,NA,"undetermined",20.5,108,7.7542314938752,137.396017206949,"Spring",6483
+10,-109.8583333,24.258333,"ad.",1960,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.6,NA,"undetermined",24,228,5.07957138492466,139.054327009674,"Fall",6484
+7,-97.289,26.14,"sk.imm.",1964,"Auriparus flaviceps ornatus","Auriparus_flaviceps",7.3,NA,"male",22.7,460,5.75775498126157,104.923314249856,"Summer",6485
+11,-115.7230556,31.4,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.6,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",6486
+11,-115.7230556,31.4,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",5.9,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Fall",6487
+12,-115.7230556,31.4,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",7.7,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",6488
+12,-115.7230556,31.4,"ad.",1926,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",8.2,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",6489
+1,-115.1486111,32.6275,"ad.",1928,"Auriparus flaviceps acaciarum","Auriparus_flaviceps",6.5,NA,"male",22.5,24,7.26235624173162,83.0333996325903,"Winter",6490
+10,-110.2233333,23.441667,"ad.",1928,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.7,NA,"female",22.4,133,3.35381962255069,121.078314185869,"Fall",6491
+2,-110.3252778,24.148889,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7,NA,"female",23,141,4.46490523839855,110.019097519498,"Winter",6492
+4,-112.2222222,27.224722,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",8.3,NA,"female",23.3,88,5.61477353222566,106.699180718167,"Spring",6493
+4,-112.2222222,27.224722,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.3,NA,"male",23.3,88,5.61477353222566,106.699180718167,"Spring",6494
+4,-112.2222222,27.224722,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.5,NA,"female",23.3,88,5.61477353222566,106.699180718167,"Spring",6495
+5,-110.33,24.12,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.2,NA,"male",22.9,146,4.4716192579287,109.533853749809,"Spring",6496
+6,-109.7747222,23.441944,"ad.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6.7,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",6497
+6,-109.7747222,23.441944,"imm.",1929,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",6,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",6498
+10,-106.2233483,32.9702925,"u ad.",1931,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8,NA,"undetermined",16.7,280,8.75083978654032,72.4768312323045,"Fall",6499
+3,-109.883333,22.866667,NA,1961,"Auriparus flaviceps","Auriparus_flaviceps",6,NA,"male",24.5,134,3.81682876458741,126.965799543214,"Spring",6500
+3,-109.883333,22.866667,NA,1963,"Auriparus flaviceps","Auriparus_flaviceps",6.5,NA,"female",25,153,3.15364147382903,173.433921442796,"Spring",6501
+2,-98.2666667,29.4666667,NA,1947,"Auriparus flaviceps ornatus","Auriparus_flaviceps",8.5,NA,"female",20.2,576,7.75245806571091,84.1041752075044,"Winter",6502
+6,-105,35,"juvenile",2000,"Auriparus flaviceps","Auriparus_flaviceps",5.9,NA,"undetermined",13.8,406,8.16225607552374,100.822671268513,"Summer",6503
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.5,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6504
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.1,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6505
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.2,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6506
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",7,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6507
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.4,NA,"female",20.3,140,8.55454424693258,79.8446247014079,"Fall",6508
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",7.1,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6509
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.4,NA,"female",21.4,76,8.59610112466428,105.499676862926,"Fall",6510
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.1,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6511
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.8,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6512
+11,-113.5417,32.8417,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",5.6,NA,"female",21.4,65,8.55936046180739,111.453465625794,"Fall",6513
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.6,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6514
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.7,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6515
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",5.6,NA,NA,20.3,140,8.55454424693258,79.8446247014079,"Fall",6516
+11,-113.4167,32.8,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.5,NA,"male",21.4,76,8.59610112466428,105.499676862926,"Fall",6517
+11,-112.1667,32.95,NA,1975,"Auriparus flaviceps","Auriparus_flaviceps",6.3,NA,"male",20.3,140,8.55454424693258,79.8446247014079,"Fall",6518
+5,-112.89395,27.29858,"U-Ad.",1927,"Auriparus flaviceps flaviceps","Auriparus_flaviceps",7.2,NA,"female",21.1,93,4.28191227458862,95.8155765889166,"Spring",6519

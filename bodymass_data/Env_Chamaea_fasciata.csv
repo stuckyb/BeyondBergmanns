@@ -1,0 +1,654 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+10,-122.1006775,38.5136539,NA,1952,"Chamaea fasciata","Chamaea_fasciata",14.1,NA,"female",15.1,859,6.43726720673525,147.744903189624,"Fall",20514
+9,-122.3747323,38.8489092,NA,1953,"Chamaea fasciata","Chamaea_fasciata",14.8,NA,"male",14.9,462,6.10878031768183,119.806034686683,"Fall",20515
+9,-122.3747323,38.8489092,"immature",1953,"Chamaea fasciata","Chamaea_fasciata",15.5,NA,"male",14.9,462,6.10878031768183,119.806034686683,"Fall",20516
+11,-122.4246921,38.4097741,NA,1951,"Chamaea fasciata","Chamaea_fasciata",13.4,NA,"female",14.1,941,5.08908517110766,127.508210800541,"Fall",20517
+11,-122.9148882,38.6463475,NA,1952,"Chamaea fasciata","Chamaea_fasciata",15.3,NA,"male",13.8,1225,4.94411189438937,145.779403644404,"Fall",20518
+9,-116.7874145,33.9852177,NA,1986,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"female",16.3,480,5.20409949128103,118.172776790354,"Fall",20519
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",13.5,NA,"undetermined",14.8,485,6.84308985677368,136.518873548435,"Winter",20520
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Winter",20521
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",16.5,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Winter",20522
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Winter",20523
+12,-122.6160965,38.7523041,NA,1989,"Chamaea fasciata henshawi","Chamaea_fasciata",13.5,NA,"female",14.5,612,6.51136535512167,149.544062583856,"Winter",20524
+12,-118.301651,34.0320587,NA,1992,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",17.8,564,3.47016504716209,153.456041112067,"Winter",20525
+2,-118.7354278,34.0347371,NA,2002,"Chamaea fasciata henshawi","Chamaea_fasciata",14.9,NA,"male",15.2,208,2.1537845479035,166.143162049655,"Winter",20526
+5,-120.4583969,34.6445847,NA,2003,"Chamaea fasciata henshawi","Chamaea_fasciata",10.9,NA,"female",14.6,280,2.40610020194883,95.1398874705795,"Spring",20527
+10,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",12.5,NA,"undetermined",14.8,485,6.84308985677368,136.518873548435,"Fall",20528
+2,-116.52291,32.71394,NA,2010,"Chamaea fasciata","Chamaea_fasciata",14.8,NA,"male",13.6,702,4.67283412800827,129.534675526855,"Winter",20529
+2,-116.57883,32.73536,NA,2010,"Chamaea fasciata","Chamaea_fasciata",14.8,NA,"male",12.6,1024,4.87224669724224,125.204134630132,"Winter",20530
+2,-116.55296,32.73304,NA,2010,"Chamaea fasciata","Chamaea_fasciata",16.6,NA,"male",13.4,811,4.74992822912285,127.306357233619,"Winter",20531
+8,-120.33745,35.575918,"ad.",1947,"Chamaea fasciata henshawi","Chamaea_fasciata",13.2,NA,"female",15.1,104,5.95622287268458,94.5531093024022,"Summer",20532
+8,-120.33745,35.575918,"ad.",1947,"Chamaea fasciata henshawi","Chamaea_fasciata",13.2,NA,"female",15.1,104,5.95622287268458,94.5531093024022,"Summer",20533
+9,-120.17411,35.285637,"ad.",1947,"Chamaea fasciata henshawi","Chamaea_fasciata",12.8,NA,"female",15.1,136,6.31637482335326,101.144960479023,"Fall",20534
+8,-123.8193291,41.1515112,"juv.",1949,"Chamaea fasciata rufula","Chamaea_fasciata",14.2,NA,"male",11.1,1784,6.60419403015075,99.056239467751,"Summer",20535
+8,-123.8193291,41.1515112,"ad.",1949,"Chamaea fasciata rufula","Chamaea_fasciata",14.8,NA,"male",11.1,1784,6.60419403015075,99.056239467751,"Summer",20536
+8,-123.8193291,41.1515112,"ad.",1949,"Chamaea fasciata rufula","Chamaea_fasciata",15.5,NA,"male",11.1,1784,6.60419403015075,99.056239467751,"Summer",20537
+8,-123.8193291,41.1515112,"imm.",1949,"Chamaea fasciata rufula","Chamaea_fasciata",15.7,NA,"male",11.1,1784,6.60419403015075,99.056239467751,"Summer",20538
+8,-123.60247,41.0085,"imm.",1949,"Chamaea fasciata rufula","Chamaea_fasciata",16.6,NA,"male",13,970,6.76942770957424,111.894693437805,"Summer",20539
+8,-123.60247,41.0085,"imm.",1949,"Chamaea fasciata rufula","Chamaea_fasciata",16.8,NA,"male",13,970,6.76942770957424,111.894693437805,"Summer",20540
+4,-122.7096386,38.9666364,"u ad.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.8,NA,"male",13.7,767,6.98899567935627,153.767324209229,"Spring",20541
+11,-122.694834,38.9992745,"imm.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",16.2,NA,"male",13.7,836,6.84404186799797,151.774060773624,"Fall",20542
+11,-122.694834,38.9992745,"imm.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.8,NA,"female",13.7,836,6.84404186799797,151.774060773624,"Fall",20543
+10,-122.8154251,38.7643949,"imm.sk.",1953,"Chamaea fasciata rufula","Chamaea_fasciata",15.6,NA,"male",13.5,978,5.06236110920586,121.977239094302,"Fall",20544
+10,-122.8154251,38.7643949,"ad.sk.",1953,"Chamaea fasciata rufula","Chamaea_fasciata",14,NA,"female",13.5,978,5.06236110920586,121.977239094302,"Fall",20545
+11,-122.8154251,38.7643949,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15,NA,"male",13.1,1487,5.74748298005837,140.056460499038,"Fall",20546
+11,-122.8154251,38.7643949,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.8,NA,"male",13.1,1487,5.74748298005837,140.056460499038,"Fall",20547
+11,-122.8154251,38.7643949,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.2,NA,"male",13.1,1487,5.74748298005837,140.056460499038,"Fall",20548
+11,-122.8154251,38.7643949,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14.4,NA,"female",13.1,1487,5.74748298005837,140.056460499038,"Fall",20549
+11,-122.9469443,38.6906248,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14.5,NA,"male",13.9,1265,5.11849735288738,146.859630688311,"Fall",20550
+11,-122.9126908,38.6499932,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",13,NA,"male",13.8,1250,4.96834677704462,146.719288706414,"Fall",20551
+11,-122.9126908,38.6499932,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",13.7,NA,"female",13.8,1250,4.96834677704462,146.719288706414,"Fall",20552
+11,-122.9126908,38.6499932,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.6,NA,"male",13.8,1250,4.96834677704462,146.719288706414,"Fall",20553
+11,-122.7945635,38.6875854,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15,NA,"male",13.7,1300,5.20969376172046,150.595761488032,"Fall",20554
+11,-122.7945635,38.6875854,"ad.sk.?",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14.3,NA,"male",13.7,1300,5.20969376172046,150.595761488032,"Fall",20555
+11,-122.7945635,38.6875854,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.3,NA,"male",13.7,1300,5.20969376172046,150.595761488032,"Fall",20556
+11,-122.9773885,38.5196215,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",16.2,NA,"male",12.9,1520,4.09488779585058,144.416955300413,"Fall",20557
+11,-122.9656726,38.5596701,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14.6,NA,"male",13.1,1942,4.76597791167201,160.116839029273,"Fall",20558
+11,-123.0486074,38.4760502,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",16.8,NA,"male",12.6,1633,3.79028862737231,144.4824908779,"Fall",20559
+11,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15,NA,"female",12,903,2.55129200780524,117.81685870157,"Fall",20560
+11,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",16.6,NA,"male",12,903,2.55129200780524,117.81685870157,"Fall",20561
+11,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15.3,NA,"female",12,903,2.55129200780524,117.81685870157,"Fall",20562
+11,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",16.9,NA,"male",12,903,2.55129200780524,117.81685870157,"Fall",20563
+11,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15.1,NA,"female",12,903,2.55129200780524,117.81685870157,"Fall",20564
+11,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15.5,NA,"male",12,903,2.55129200780524,117.81685870157,"Fall",20565
+12,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15.4,NA,"male",12,903,2.55129200780524,117.81685870157,"Winter",20566
+12,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",12.9,NA,"female",12,903,2.55129200780524,117.81685870157,"Winter",20567
+12,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",14.6,NA,"female",12,903,2.55129200780524,117.81685870157,"Winter",20568
+12,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",14.9,NA,"male",12,903,2.55129200780524,117.81685870157,"Winter",20569
+10,-122.6694328,38.0653882,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.5,NA,"male",13.3,1618,4.05988318984075,158.356093874618,"Fall",20570
+10,-122.6787808,38.4553789,"ad.sk.",1953,"Chamaea fasciata intermedia","Chamaea_fasciata",15,NA,"male",13.7,627,3.85494566247127,117.35414662196,"Fall",20571
+11,-122.6787808,38.4553789,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",14.1,NA,"female",13.3,850,4.05405707753095,119.915918954691,"Fall",20572
+11,-122.6787808,38.4553789,"imm.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",14.2,NA,"female",13.3,850,4.05405707753095,119.915918954691,"Fall",20573
+11,-122.423907,38.4099876,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",15.2,NA,"male",14.1,940,5.09267894019236,127.674790482841,"Fall",20574
+11,-122.423907,38.4099876,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",17.5,NA,"male",14.1,940,5.09267894019236,127.674790482841,"Fall",20575
+11,-122.423907,38.4099876,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",13.9,NA,"female",14.1,940,5.09267894019236,127.674790482841,"Fall",20576
+11,-122.423907,38.4099876,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",16.1,NA,"male",14.1,940,5.09267894019236,127.674790482841,"Fall",20577
+11,-122.423907,38.4099876,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",15.9,NA,"male",14.1,940,5.09267894019236,127.674790482841,"Fall",20578
+11,-122.3871768,38.3758662,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",13.4,NA,"female",14.6,792,5.03045271774366,128.866448242336,"Fall",20579
+11,-122.3871768,38.3758662,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",16,NA,"male",14.6,792,5.03045271774366,128.866448242336,"Fall",20580
+11,-122.3871768,38.3758662,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",14.2,NA,"female",14.6,792,5.03045271774366,128.866448242336,"Fall",20581
+6,-122.4155532,38.4221388,"imm.sk.",1953,"Chamaea fasciata intermedia","Chamaea_fasciata",15,NA,"male",15,584,4.76346576146046,122.884666029346,"Summer",20582
+12,-122.371619,38.8659977,"imm.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",14.9,851,7.12938328753659,149.318723624551,"Winter",20583
+12,-122.371619,38.8659977,"ad.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"female",14.9,851,7.12938328753659,149.318723624551,"Winter",20584
+12,-122.371619,38.8659977,"ad.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",16.8,NA,"male",14.9,851,7.12938328753659,149.318723624551,"Winter",20585
+12,-122.371619,38.8659977,"ad.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"female",14.9,851,7.12938328753659,149.318723624551,"Winter",20586
+9,-122.3664384,38.8349888,"ad.sk.",1953,"Chamaea fasciata henshawi","Chamaea_fasciata",13.3,NA,"female",15.2,463,6.17347085716313,120.447821536542,"Fall",20587
+9,-122.3664384,38.8349888,"imm.sk.",1953,"Chamaea fasciata henshawi","Chamaea_fasciata",13.2,NA,"female",15.2,463,6.17347085716313,120.447821536542,"Fall",20588
+9,-122.3664384,38.8349888,"imm.",1953,"Chamaea fasciata henshawi","Chamaea_fasciata",14.9,NA,"male",15.2,463,6.17347085716313,120.447821536542,"Fall",20589
+2,-122.4329899,38.5919221,"u ad.",1954,"Chamaea fasciata henshawi","Chamaea_fasciata",17.9,NA,"female",13.6,1018,5.59146400301117,100.730208969067,"Winter",20590
+10,-122.088722,38.5155999,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.3,NA,"male",15.2,843,6.45928976300214,148.413200132573,"Fall",20591
+10,-122.088722,38.5155999,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.7,NA,"male",15.2,843,6.45928976300214,148.413200132573,"Fall",20592
+10,-122.088722,38.5155999,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.8,NA,"female",15.2,843,6.45928976300214,148.413200132573,"Fall",20593
+10,-122.088722,38.5155999,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.3,NA,"female",15.2,843,6.45928976300214,148.413200132573,"Fall",20594
+10,-122.088722,38.5155999,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.3,NA,"female",15.2,843,6.45928976300214,148.413200132573,"Fall",20595
+10,-122.1013275,38.5144577,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.6,NA,"female",15.1,859,6.43726720673525,147.744903189624,"Fall",20596
+10,-122.1013275,38.5144577,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.3,NA,"male",15.1,859,6.43726720673525,147.744903189624,"Fall",20597
+10,-122.1013275,38.5144577,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",12.7,NA,"female",15.1,859,6.43726720673525,147.744903189624,"Fall",20598
+10,-122.1013275,38.5144577,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.6,NA,"female",15.1,859,6.43726720673525,147.744903189624,"Fall",20599
+10,-122.1013275,38.5144577,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",15.1,859,6.43726720673525,147.744903189624,"Fall",20600
+10,-122.1870522,38.6561023,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.7,NA,"male",13.9,979,6.45499571626269,149.012835595438,"Fall",20601
+10,-122.1870522,38.6561023,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",13.9,979,6.45499571626269,149.012835595438,"Fall",20602
+10,-122.1870522,38.6561023,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.9,NA,"female",13.9,979,6.45499571626269,149.012835595438,"Fall",20603
+10,-122.1640483,38.5281326,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",15.3,802,6.46605940603891,148.735829799572,"Fall",20604
+10,-122.1640483,38.5281326,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"female",15.3,802,6.46605940603891,148.735829799572,"Fall",20605
+10,-122.1640483,38.5281326,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"female",15.3,802,6.46605940603891,148.735829799572,"Fall",20606
+10,-122.1640483,38.5281326,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"female",15.3,802,6.46605940603891,148.735829799572,"Fall",20607
+10,-122.1640483,38.5281326,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.2,NA,"female",15.3,802,6.46605940603891,148.735829799572,"Fall",20608
+10,-122.1640483,38.5281326,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",15.3,802,6.46605940603891,148.735829799572,"Fall",20609
+10,-122.1640483,38.5281326,"imm.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",12.8,NA,"female",15.3,802,6.46605940603891,148.735829799572,"Fall",20610
+12,-122.0867211,38.4091222,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15.8,NA,"male",13.9,768,5.45895844211396,129.464382226215,"Winter",20611
+12,-122.0867211,38.4091222,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"female",13.9,768,5.45895844211396,129.464382226215,"Winter",20612
+12,-122.0867211,38.4091222,"imm.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",13.9,768,5.45895844211396,129.464382226215,"Winter",20613
+10,-122.124717,38.4250342,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",13.2,1119,5.89413550347575,147.612964195276,"Fall",20614
+10,-122.1105757,38.4000053,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",16.4,NA,"male",13.2,1140,5.91046196215326,147.749336825448,"Fall",20615
+10,-122.1105757,38.4000053,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.8,NA,"male",13.2,1140,5.91046196215326,147.749336825448,"Fall",20616
+10,-122.1105757,38.4000053,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.6,NA,"male",13.2,1140,5.91046196215326,147.749336825448,"Fall",20617
+10,-122.1105757,38.4000053,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.1,NA,"male",13.2,1140,5.91046196215326,147.749336825448,"Fall",20618
+10,-122.1105757,38.4000053,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.2,NA,"female",13.2,1140,5.91046196215326,147.749336825448,"Fall",20619
+10,-122.0775616,38.3575302,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",14.8,995,6.09552742143406,149.420755799352,"Fall",20620
+10,-122.0775616,38.3575302,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",14.8,995,6.09552742143406,149.420755799352,"Fall",20621
+10,-122.0775616,38.3575302,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.6,NA,"male",14.8,995,6.09552742143406,149.420755799352,"Fall",20622
+11,-122.2319865,38.3506342,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",13.3,NA,"female",14.7,665,5.18508934495362,130.813679282885,"Fall",20623
+11,-122.2319865,38.3506342,"imm.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",14.7,665,5.18508934495362,130.813679282885,"Fall",20624
+11,-122.2319865,38.3506342,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15.4,NA,"male",14.7,665,5.18508934495362,130.813679282885,"Fall",20625
+11,-122.2319865,38.3506342,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",13.5,NA,"female",14.7,665,5.18508934495362,130.813679282885,"Fall",20626
+11,-122.2319865,38.3506342,"imm.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15.2,NA,"female",14.7,665,5.18508934495362,130.813679282885,"Fall",20627
+11,-122.2319865,38.3506342,"u ad.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"female",14.7,665,5.18508934495362,130.813679282885,"Fall",20628
+11,-122.2319865,38.3506342,"imm.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15.7,NA,"male",14.7,665,5.18508934495362,130.813679282885,"Fall",20629
+1,-116.262586,33.4757948,"u ad.",1956,"Chamaea fasciata henshawi","Chamaea_fasciata",15.7,NA,"male",16.4,99,7.25540028760187,147.752375247635,"Winter",20630
+9,-123.6145213,39.6450681,"ad.",1965,"Chamaea fasciata rufula","Chamaea_fasciata",15.1,NA,"female",12.2,1567,4.82219458401054,126.497563047846,"Fall",20631
+12,-121.5568207,36.37851365,"u ad.",1974,"Chamaea fasciata fasciata","Chamaea_fasciata",17.1,NA,"male",13.5,717,4.89368021642261,123.527901324401,"Winter",20632
+5,-122.8245446,39.4433764,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.1,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",20633
+5,-122.8245446,39.4433764,"s.o.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"female",12.2,1273,5.6001352797513,129.470652174676,"Spring",20634
+5,-122.8245446,39.4433764,"ad.sk.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13.3,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",20635
+5,-122.8245446,39.4433764,"ad.sk.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16.3,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",20636
+5,-122.8245446,39.4433764,"ad.sk.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13.2,NA,"female",12.2,1273,5.6001352797513,129.470652174676,"Spring",20637
+5,-122.8245446,39.4433764,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14.1,NA,"male",12.2,1273,5.6001352797513,129.470652174676,"Spring",20638
+5,-122.8118697,39.4446168,"ad.sk.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",11.9,1278,5.75064555005994,129.084466100492,"Spring",20639
+5,-122.8118697,39.4446168,"ad.sk.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.8,NA,"male",11.9,1278,5.75064555005994,129.084466100492,"Spring",20640
+5,-122.866367,39.3759636,"ad.sk.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.3,NA,"male",13.1,1169,5.45832697200647,129.517940448317,"Spring",20641
+5,-122.866367,39.3759636,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",13.1,1169,5.45832697200647,129.517940448317,"Spring",20642
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"female",14.3,788,5.89793877707982,140.732612850301,"Spring",20643
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16.4,NA,"male",14.3,788,5.89793877707982,140.732612850301,"Spring",20644
+6,-123.0009399,40.3728259,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",10.6,637,6.06057803023821,112.137071824983,"Summer",20645
+6,-123.0009399,40.3728259,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",10.6,637,6.06057803023821,112.137071824983,"Summer",20646
+6,-123.0009399,40.3728259,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",10.6,637,6.06057803023821,112.137071824983,"Summer",20647
+6,-123.0009399,40.3728259,"s.o.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"male",10.6,637,6.06057803023821,112.137071824983,"Summer",20648
+6,-123.0009399,40.3728259,"sk. not oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",10.6,637,6.06057803023821,112.137071824983,"Summer",20649
+6,-123.0009399,40.3728259,"sk. not oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",10.6,637,6.06057803023821,112.137071824983,"Summer",20650
+6,-123.0009399,40.3728259,"sk. not oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",10.6,637,6.06057803023821,112.137071824983,"Summer",20651
+7,-118.9996038,34.8086527,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",10.8,648,5.79757002388226,148.264236246334,"Summer",20652
+7,-118.9996038,34.8086527,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",10.8,648,5.79757002388226,148.264236246334,"Summer",20653
+7,-118.523011,34.586569,"unknown",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13.5,NA,"female",16.2,797,5.97359721075699,167.435902344955,"Summer",20654
+7,-118.523011,34.586569,"sk.oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",16.2,797,5.97359721075699,167.435902344955,"Summer",20655
+7,-118.523011,34.586569,"sk.oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",16.2,797,5.97359721075699,167.435902344955,"Summer",20656
+7,-118.523011,34.586569,"sk. not oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13.5,NA,"female",16.2,797,5.97359721075699,167.435902344955,"Summer",20657
+7,-118.523011,34.586569,"sk.oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16.5,NA,"male",16.2,797,5.97359721075699,167.435902344955,"Summer",20658
+7,-118.523011,34.586569,"sk. not oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",16.2,797,5.97359721075699,167.435902344955,"Summer",20659
+7,-118.523011,34.586569,"sk. not oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",17,NA,"male",16.2,797,5.97359721075699,167.435902344955,"Summer",20660
+7,-118.284006,34.413628,"sk. part oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",16,799,5.74875480588465,172.267635897464,"Summer",20661
+7,-118.281856,34.403673,"sk.oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",15.3,1002,5.87822767558901,173.896834367914,"Summer",20662
+7,-118.196297,34.383309,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",14.1,1117,5.95886785057414,174.903987046258,"Summer",20663
+7,-118.196297,34.383309,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"male",14.1,1117,5.95886785057414,174.903987046258,"Summer",20664
+7,-118.196297,34.383309,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",14.1,1117,5.95886785057414,174.903987046258,"Summer",20665
+7,-117.3589808,34.2940236,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",14,1003,5.51938731777689,163.151493938804,"Summer",20666
+11,-121.5568207,36.37851365,"u ad.",1976,"Chamaea fasciata fasciata","Chamaea_fasciata",16,NA,"male",14.3,312,5.02040533193981,92.0742970105331,"Fall",20667
+11,-121.5568207,36.37851365,"u ad.",1976,"Chamaea fasciata fasciata","Chamaea_fasciata",17.8,NA,"female",14.3,312,5.02040533193981,92.0742970105331,"Fall",20668
+7,-121.5644064,36.38487996,"unknown",1978,"Chamaea fasciata fasciata","Chamaea_fasciata",15.4,NA,"female",14.1,891,4.80312398340913,119.9280693359,"Summer",20669
+9,-123.6145213,39.6450681,"unknown",1965,"Chamaea fasciata","Chamaea_fasciata",16.6,NA,"undetermined",12.2,1567,4.82219458401054,126.497563047846,"Fall",20670
+3,-122.8779838,39.2755531,"skull ossified",1979,"Chamaea fasciata","Chamaea_fasciata",17,NA,"male",14,1528,6.81675187025361,100.77328501078,"Spring",20671
+3,-121.56434,36.37911,"adult skull",2003,"Chamaea fasciata fasciata","Chamaea_fasciata",14.7,NA,"male",14.7,502,4.70057217664816,128.982445339109,"Spring",20672
+5,-122.7340259,37.9286764,"nestling",2003,"Chamaea fasciata rufula","Chamaea_fasciata",9,NA,"undetermined",13.5,673,2.36598368292742,123.005893790646,"Spring",20673
+7,-122.7340259,37.9286764,"skull",2003,"Chamaea fasciata rufula","Chamaea_fasciata",12.2,NA,"female",13.5,673,2.36598368292742,123.005893790646,"Summer",20674
+12,-119.781173,37.674352,"u ad.",1914,"Chamaea fasciata henshawi","Chamaea_fasciata",15.3,NA,"male",12.7,950,6.65197623859165,181.949619577693,"Winter",20675
+9,-119.11036,36.723617,"u ad.",1916,"Chamaea fasciata henshawi","Chamaea_fasciata",16.4,NA,"male",15.9,1010,7.65119816325086,149.165087520743,"Fall",20676
+9,-119.11036,36.723617,"imm.",1916,"Chamaea fasciata henshawi","Chamaea_fasciata",12.8,NA,"female",15.9,1010,7.65119816325086,149.165087520743,"Fall",20677
+1,-122.2169749,37.8688241,"u ad.",1918,"Chamaea fasciata intermedia","Chamaea_fasciata",15.6,NA,"male",13.2,587,3.85930595110603,115.949502669519,"Winter",20678
+6,-120.3793,36.7809,"u ad.",1918,"Chamaea fasciata henshawi","Chamaea_fasciata",12.7,NA,"female",16.7,253,7.07213910462397,138.319797314653,"Summer",20679
+9,-120.84938,35.366994,"imm.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",16.7,NA,"male",12.4,469,2.33958038195664,149.267532058884,"Fall",20680
+9,-120.84938,35.366994,"imm.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",13.2,NA,"female",12.4,469,2.33958038195664,149.267532058884,"Fall",20681
+9,-120.84369,35.29653,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",15.8,NA,"male",12.3,594,2.64620941016093,147.53511475635,"Fall",20682
+9,-120.84369,35.29653,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",15.4,NA,"male",12.3,594,2.64620941016093,147.53511475635,"Fall",20683
+10,-120.858963,35.393236,"imm.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",14.9,NA,"female",12.5,455,2.34525633411942,149.577597143969,"Fall",20684
+11,-121.021368,36.128617,"imm.",1918,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"female",14.4,356,4.71871676187371,144.271190315819,"Fall",20685
+10,-121.17385,35.970848,"ad.",1918,"Chamaea fasciata henshawi","Chamaea_fasciata",15.2,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",20686
+12,-121.835607,36.60922,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",15.5,NA,"male",12.2,366,2.45373864405591,117.372719699687,"Winter",20687
+12,-121.835607,36.60922,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",15,NA,"male",12.2,366,2.45373864405591,117.372719699687,"Winter",20688
+12,-121.835607,36.60922,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",15,NA,"female",12.2,366,2.45373864405591,117.372719699687,"Winter",20689
+1,-121.808871,36.609634,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",13.8,NA,"male",11.8,373,2.04731901557016,152.796899319278,"Winter",20690
+1,-121.835607,36.60922,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",16.2,NA,"male",11.7,339,1.95393929994736,149.535305151252,"Winter",20691
+1,-121.835607,36.60922,"u ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",14.4,NA,"male",11.7,339,1.95393929994736,149.535305151252,"Winter",20692
+1,-121.835607,36.60922,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",14.8,NA,"female",11.7,339,1.95393929994736,149.535305151252,"Winter",20693
+2,-121.822246,36.620269,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",13.1,NA,"female",11.6,358,1.86100331362771,151.320260564879,"Winter",20694
+7,-121.24134,36.45744,"imm.",1919,"Chamaea fasciata henshawi","Chamaea_fasciata",13.3,NA,"male",13.4,329,4.83161934081582,151.671760210111,"Summer",20695
+7,-121.24134,36.45744,"ad.",1919,"Chamaea fasciata henshawi","Chamaea_fasciata",12.4,NA,"female",13.4,329,4.83161934081582,151.671760210111,"Summer",20696
+7,-120.11166,37.75634,"ad.",1920,"Chamaea fasciata henshawi","Chamaea_fasciata",15.1,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",20697
+9,-122.6973756,38.0606078,"imm.",1920,"Chamaea fasciata rufula","Chamaea_fasciata",15.5,NA,"female",13,920,2.87321749748932,133.655317561264,"Fall",20698
+9,-122.6973756,38.0606078,"ad.",1920,"Chamaea fasciata rufula","Chamaea_fasciata",16,NA,"male",13,920,2.87321749748932,133.655317561264,"Fall",20699
+1,-122.229382,37.867099,"unknown",1921,"Chamaea fasciata intermedia","Chamaea_fasciata",14.9,NA,"female",13.6,620,3.37749907475931,136.388152959723,"Winter",20700
+7,-124.0586921,40.5379163,"juv.",1923,"Chamaea fasciata rufula","Chamaea_fasciata",13.9,NA,"female",11.5,697,3.76453747812961,87.7679153537944,"Summer",20701
+7,-124.0586921,40.5379163,"juv.",1923,"Chamaea fasciata rufula","Chamaea_fasciata",15.2,NA,"male",11.5,697,3.76453747812961,87.7679153537944,"Summer",20702
+1,-122.2238311,37.8698592,"u ad.",1923,"Chamaea fasciata intermedia","Chamaea_fasciata",14.9,NA,"male",13.3,344,3.76780621003305,130.075789062534,"Winter",20703
+1,-122.2238311,37.8698592,"u ad.",1924,"Chamaea fasciata intermedia","Chamaea_fasciata",14,NA,"male",13.1,543,3.15723075821297,113.945740958634,"Winter",20704
+1,-122.2238311,37.8698592,"u ad.",1924,"Chamaea fasciata intermedia","Chamaea_fasciata",14.5,NA,"male",13.1,543,3.15723075821297,113.945740958634,"Winter",20705
+1,-122.2238311,37.8698592,"u ad.",1924,"Chamaea fasciata intermedia","Chamaea_fasciata",12.7,NA,"male",13.1,543,3.15723075821297,113.945740958634,"Winter",20706
+1,-122.2238311,37.8698592,"u ad.",1924,"Chamaea fasciata intermedia","Chamaea_fasciata",13.2,NA,"male",13.1,543,3.15723075821297,113.945740958634,"Winter",20707
+6,-121.7648069,40.3091119,"ad.",1924,"Chamaea fasciata henshawi","Chamaea_fasciata",14.7,NA,"female",12.6,605,7.04880712022835,104.248454374012,"Summer",20708
+10,-115.458333,30.883333,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",13.4,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",20709
+10,-115.458333,30.883333,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",16,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",20710
+10,-115.458333,30.883333,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",14.6,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",20711
+9,-115.7333333333,30.9666666667,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",14.5,NA,"male",16,268,4.08169416697617,123.676529282106,"Fall",20712
+9,-115.7333333333,30.9666666667,"imm.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",14.1,NA,"male",16,268,4.08169416697617,123.676529282106,"Fall",20713
+9,-115.7333333333,30.9666666667,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",14.5,NA,"male",16,268,4.08169416697617,123.676529282106,"Fall",20714
+10,-116.2,31.066667,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",14.4,NA,"male",16.8,240,3.34510044239287,123.886633030575,"Fall",20715
+3,-116.0175,30.7197222222,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",13.7,NA,"female",18.7,187,3.44524265759278,129.978629666692,"Spring",20716
+3,-116.0175,30.7197222222,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",12,NA,"female",18.7,187,3.44524265759278,129.978629666692,"Spring",20717
+3,-116.1,30.9667,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",16.8,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Spring",20718
+4,-115.7666666667,30.8666666667,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",15.1,NA,"male",16,266,4.03021730371348,124.899293379329,"Spring",20719
+5,-115.458333,30.883333,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",24.4,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",20720
+6,-115.526687,31.029931,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",14.5,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",20721
+5,-122.9986536,40.3904803,"juv.",1926,"Chamaea fasciata henshawi","Chamaea_fasciata",14.3,NA,"male",12.1,1258,6.58070526753644,124.451711212798,"Spring",20722
+5,-122.994965,40.3994189,"u ad.",1926,"Chamaea fasciata henshawi","Chamaea_fasciata",14.8,NA,"male",11.9,1332,6.52581702768227,124.007518925654,"Spring",20723
+5,-123.015054,40.394887,"u ad.",1926,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",20724
+5,-123.015054,40.394887,"u ad.",1926,"Chamaea fasciata henshawi","Chamaea_fasciata",12,NA,"female",11.7,1312,6.52795851888187,123.826324692807,"Spring",20725
+5,-123.015054,40.394887,"u ad.",1926,"Chamaea fasciata henshawi","Chamaea_fasciata",13.5,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",20726
+5,-121.8688123,40.4352952,"u ad.",1926,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"female",16.6,936,7.0718980779026,118.443020177421,"Spring",20727
+6,-121.8688123,40.4352952,"u ad.",1926,"Chamaea fasciata henshawi","Chamaea_fasciata",11.9,NA,"female",16.6,936,7.0718980779026,118.443020177421,"Summer",20728
+10,-115.864167,32.288333,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",15.8,NA,"female",16.9,304,5.85312659260766,129.574444396434,"Fall",20729
+10,-115.864167,32.288333,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",14.3,NA,"male",16.9,304,5.85312659260766,129.574444396434,"Fall",20730
+12,-121.9420326,40.3415818,"u ad.",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",16.6,NA,"male",15.1,954,6.73315518816244,92.4141216423363,"Winter",20731
+12,-121.9420806,40.3303351,"u ad.",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",14.4,NA,"male",15.7,875,6.90142716904967,93.3690449976571,"Winter",20732
+12,-121.9420326,40.3415818,"unknown",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",13.1,NA,"female ?",15.1,954,6.73315518816244,92.4141216423363,"Winter",20733
+12,-121.9420326,40.3415818,"u ad.",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",15.9,NA,"male",15.1,954,6.73315518816244,92.4141216423363,"Winter",20734
+12,-121.9420326,40.3415818,"unknown",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",10.2,NA,"undetermined",15.1,954,6.73315518816244,92.4141216423363,"Winter",20735
+12,-121.9420326,40.3415818,"unknown",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"undetermined",15.1,954,6.73315518816244,92.4141216423363,"Winter",20736
+11,-116.35,32.6,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",14.8,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",20737
+1,-117.111769,32.460771,"ad.",1928,"Chamaea fasciata canicauda","Chamaea_fasciata",16.4,NA,"male",16.4,190,2.95833440034125,113.071816346663,"Winter",20738
+12,-119.0741,36.7055,"u ad.",1932,"Chamaea fasciata henshawi","Chamaea_fasciata",14.8,NA,"female",15.2,485,7.50568976096659,117.823752817871,"Winter",20739
+12,-119.0741,36.7055,"u ad.",1932,"Chamaea fasciata henshawi","Chamaea_fasciata",16.6,NA,"male",15.2,485,7.50568976096659,117.823752817871,"Winter",20740
+12,-119.0741,36.7055,"u ad.",1932,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",15.2,485,7.50568976096659,117.823752817871,"Winter",20741
+12,-119.0741,36.7055,"u ad.",1932,"Chamaea fasciata henshawi","Chamaea_fasciata",14.2,NA,"male",15.2,485,7.50568976096659,117.823752817871,"Winter",20742
+2,-121.875848,36.392914,"u ad.",1933,"Chamaea fasciata fasciata","Chamaea_fasciata",9.7,NA,"undetermined",11.4,510,3.22080123665845,147.086628387468,"Winter",20743
+3,-122.2377,37.87438,"ad.",1933,"Chamaea fasciata intermedia","Chamaea_fasciata",10.2,NA,"female",13.1,556,3.685557397916,124.679317726335,"Spring",20744
+9,-121.973869,39.608591,"imm.",1933,"Chamaea fasciata henshawi","Chamaea_fasciata",14.7,NA,"male",16.3,409,7.68794313825029,166.56646940066,"Fall",20745
+9,-121.973869,39.608591,"imm.",1933,"Chamaea fasciata henshawi","Chamaea_fasciata",13.6,NA,"female",16.3,409,7.68794313825029,166.56646940066,"Fall",20746
+12,-122.25153,37.87816,"u ad.",1953,"Chamaea fasciata intermedia","Chamaea_fasciata",17,NA,"male",13.7,386,3.1255908532337,115.941411499937,"Winter",20747
+3,-122.7592923,38.0511991,"unknown",1932,"Chamaea fasciata rufula","Chamaea_fasciata",13.99,NA,"male",13.3,446,3.11432418857048,120.49436649375,"Spring",20748
+6,-120.6323,36.3557,"u ad.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"female",13.1,750,7.08600840752501,154.893793525523,"Summer",20749
+6,-120.6323,36.3557,"juv.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",14.7,NA,"male",13.1,750,7.08600840752501,154.893793525523,"Summer",20750
+6,-120.6323,36.3557,"u ad.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",15.1,NA,"male",13.1,750,7.08600840752501,154.893793525523,"Summer",20751
+8,-123.8761,46.1339,"u ad.",1940,"Chamaea fasciata phaea","Chamaea_fasciata",13.9,NA,"male",11.6,1862,3.86086620835116,78.3867931523987,"Summer",20752
+11,-121.7523,36.3711,"ad.",1940,"Chamaea fasciata fasciata","Chamaea_fasciata",16.1,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",20753
+1,-122.277108,37.871028,"u ad.",1934,"Chamaea fasciata intermedia","Chamaea_fasciata",11.2,NA,"female",14.8,383,2.17750204397497,117.880664828649,"Winter",20754
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",15.6,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",20755
+5,-123.9603,45.7833,"u a.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",15.6,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",20756
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",14,NA,"female",11,2675,3.59405021802659,79.2686014511964,"Spring",20757
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",16.5,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",20758
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",14.4,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",20759
+12,-124.1530252,41.104244,"u ad.",1941,"Chamaea fasciata rufula","Chamaea_fasciata",15.8,NA,"male",12.2,1865,2.44619370376993,94.5728935259856,"Winter",20760
+12,-124.1530252,41.104244,"u ad.",1941,"Chamaea fasciata rufula","Chamaea_fasciata",12.7,NA,"female",12.2,1865,2.44619370376993,94.5728935259856,"Winter",20761
+1,-124.1530252,41.104244,"u ad.",1942,"Chamaea fasciata rufula","Chamaea_fasciata",13.7,NA,"undetermined",11.2,1645,2.83114443076979,99.0694154330484,"Winter",20762
+9,-123.88759,40.77914,"juv.",1942,"Chamaea fasciata rufula","Chamaea_fasciata",14,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",20763
+9,-123.88759,40.77914,"ad.",1942,"Chamaea fasciata rufula","Chamaea_fasciata",13.7,NA,"female",12,1606,3.98157689181743,97.2485971118486,"Fall",20764
+9,-123.8083893,40.9028547,"juv.",1942,"Chamaea fasciata rufula","Chamaea_fasciata",15.4,NA,"female",12.7,1785,4.83105484434724,105.430785533876,"Fall",20765
+9,-124.0415543,40.5359463,"u ad.",1942,"Chamaea fasciata rufula","Chamaea_fasciata",16.7,NA,"male",11.9,1325,3.37916970257309,96.5542687630148,"Fall",20766
+6,-122.82817,40.32421,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",13.7,NA,"female",14.4,687,6.28728273918266,121.916631216622,"Summer",20767
+6,-122.82817,40.32421,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",14.9,NA,"male",14.4,687,6.28728273918266,121.916631216622,"Summer",20768
+6,-123.14392,40.55443,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",12.6,NA,"female",11.5,837,5.90030173856055,120.785766804994,"Summer",20769
+6,-123.14392,40.55443,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",15.4,NA,"female",11.5,837,5.90030173856055,120.785766804994,"Summer",20770
+6,-123.14392,40.55443,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",11.5,837,5.90030173856055,120.785766804994,"Summer",20771
+6,-123.47471,40.61736,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",15.4,NA,"female",13.1,998,6.018676739697,124.778735426946,"Summer",20772
+6,-123.47471,40.61736,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",14.4,NA,"male",13.1,998,6.018676739697,124.778735426946,"Summer",20773
+6,-123.47471,40.61736,"u ad.",1934,"Chamaea fasciata henshawi","Chamaea_fasciata",13.2,NA,"male",14.1,1043,5.80069875623671,91.8458785681854,"Summer",20774
+6,-123.47471,40.61736,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"female",13.1,998,6.018676739697,124.778735426946,"Summer",20775
+6,-123.47471,40.61736,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",15.7,NA,"male",13.1,998,6.018676739697,124.778735426946,"Summer",20776
+11,-122.2715302,37.8697904,"u ad.",1943,"Chamaea fasciata intermedia","Chamaea_fasciata",14.1,NA,"female",14.2,444,2.21897806126235,135.889784756503,"Fall",20777
+11,-122.7291015,38.0189878,"ad.",1943,"Chamaea fasciata rufula","Chamaea_fasciata",13.6,NA,"female",13.9,765,2.58439372176356,145.239416598713,"Fall",20778
+12,-121.2137,37.2959,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",15.4,NA,"male",15.7,266,5.2213068722826,128.644213868355,"Winter",20779
+12,-121.2137,37.2959,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"male",15.7,266,5.2213068722826,128.644213868355,"Winter",20780
+12,-121.2137,37.2959,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",15.8,NA,"male",15.7,266,5.2213068722826,128.644213868355,"Winter",20781
+1,-122.277108,37.871028,"unknown",1944,"Chamaea fasciata intermedia","Chamaea_fasciata",14.6,NA,"female",13.5,601,2.39131952923675,101.559280034021,"Winter",20782
+5,-121.8604466,37.9578875,"u ad.",1944,"Chamaea fasciata intermedia","Chamaea_fasciata",16.6,NA,"male",14.5,568,4.94487031419859,108.929385750828,"Spring",20783
+5,-122.8213215,38.1192781,"u ad.",1944,"Chamaea fasciata rufula","Chamaea_fasciata",14,NA,"male",12.5,947,2.33082115846053,93.3169406966197,"Spring",20784
+5,-122.8213215,38.1192781,"u ad.",1944,"Chamaea fasciata rufula","Chamaea_fasciata",14.3,NA,"male",12.5,947,2.33082115846053,93.3169406966197,"Spring",20785
+5,-122.82817,40.32421,"u ad.",1946,"Chamaea fasciata henshawi","Chamaea_fasciata",13.6,NA,"male",13.5,472,6.95093191920728,97.4720294844736,"Spring",20786
+6,-123.49373,40.61736,"u ad.",1946,"Chamaea fasciata henshawi","Chamaea_fasciata",14.7,NA,"male",11.8,868,6.50782745482839,107.408417197194,"Summer",20787
+6,-123.49373,40.61736,"juv.",1946,"Chamaea fasciata henshawi","Chamaea_fasciata",12,NA,"female",11.8,868,6.50782745482839,107.408417197194,"Summer",20788
+5,-124.2178903,43.4823836,NA,1972,"Chamaea fasciata phaea","Chamaea_fasciata",14.6,NA,"[female]",10.3,1583,3.48149871942147,88.4427905034081,"Spring",20789
+12,-122.4107819,37.6276245,"ad",1901,"Chamaea fasciata fasciata","Chamaea_fasciata",0.5,6.25,"male",12.9,476,1.94941716231475,110.473952641906,"Winter",20790
+11,-122.4107819,37.6276245,NA,1901,"Chamaea fasciata fasciata","Chamaea_fasciata",3.25,6.45,"female",12.9,476,1.94941716231475,110.473952641906,"Fall",20791
+10,-122.0699501,38.4980713,"ad",1952,"Chamaea fasciata fasciata","Chamaea_fasciata",12.9,NA,"female",14.1,970,6.20197304871359,146.72930047945,"Fall",20793
+4,-117.8337335,33.9197168,"adult",1976,NA,"Chamaea_fasciata",14.4,NA,"male",17.9,254,3.92022726613928,120.777400194437,"Spring",20794
+3,-117.8337335,33.9197168,"adult",1976,NA,"Chamaea_fasciata",16.1,NA,"male",17.9,254,3.92022726613928,120.777400194437,"Spring",20795
+3,-117.8337335,33.9197168,"adult",1976,NA,"Chamaea_fasciata",13.8,NA,"female",17.9,254,3.92022726613928,120.777400194437,"Spring",20796
+10,-118.4734726,34.0519483,"immature",1982,NA,"Chamaea_fasciata",14.6,NA,"male",16.6,402,3.26937117482673,109.955262650424,"Fall",20797
+7,-117.2902107,34.2716871,"adult",1981,NA,"Chamaea_fasciata",14,150,"male",14.8,389,6.25994965610505,117.042393167572,"Summer",20798
+3,-118.5176754,34.0889902,"adult",1989,NA,"Chamaea_fasciata",13,NA,"male",18.2,160,3.63604638767623,131.598563131144,"Spring",20799
+11,-118.0354,34.3437,"adult",1988,NA,"Chamaea_fasciata",14.2,NA,"male",13.9,627,6.03225547043608,121.121468203245,"Fall",20800
+1,-119.3833267,34.5605483,"adult",1999,NA,"Chamaea_fasciata",14.6,NA,"male",10.9,508,5.51820677943533,144.07277727001,"Winter",20801
+9,-118.8183403,34.0589882,"immature",2000,NA,"Chamaea_fasciata",15.6,NA,"undetermined",16.1,333,2.88428343078327,174.651458982608,"Fall",20802
+1,-118.817954,34.0567838,"adult",2006,NA,"Chamaea_fasciata",12.1,NA,"undetermined",16.5,389,3.45677858443641,117.76290217908,"Winter",20803
+3,-118.982043,34.350837,"adult",2006,NA,"Chamaea_fasciata",10.6,NA,"male",16.4,393,4.06734966942029,112.530768674764,"Spring",20804
+8,-118.817954,34.0567838,"immature",2008,NA,"Chamaea_fasciata",10.9,NA,"female",16.4,384,3.14963922897961,193.209750372514,"Summer",20805
+9,-122.3747323,38.8489092,"immature",1953,"Chamaea fasciata","Chamaea_fasciata",15.7,NA,"male",14.9,462,6.10878031768183,119.806034686683,"Fall",20806
+10,-122.1006775,38.5136539,"immature",1952,"Chamaea fasciata","Chamaea_fasciata",13.8,NA,"female",15.1,859,6.43726720673525,147.744903189624,"Fall",20807
+11,-122.2434998,37.8754631,"immature",1951,"Chamaea fasciata","Chamaea_fasciata",12.8,NA,"female",12.9,694,3.51208951014531,120.877546964051,"Fall",20808
+11,-122.9148882,38.6463475,NA,1952,"Chamaea fasciata","Chamaea_fasciata",13.7,NA,"female",13.8,1225,4.94411189438937,145.779403644404,"Fall",20809
+11,-122.7935627,38.6870769,NA,1952,"Chamaea fasciata","Chamaea_fasciata",14.1,NA,"female",13.7,1301,5.20969376172046,150.595761488032,"Fall",20810
+11,-122.9148882,38.6463475,NA,1952,"Chamaea fasciata","Chamaea_fasciata",14.8,NA,"male",13.8,1225,4.94411189438937,145.779403644404,"Fall",20811
+1,-117.9175034,34.2999992,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",17,NA,"male",13.4,496,6.82182327001167,136.249110156234,"Winter",20812
+3,-119.0652924,34.3549957,NA,2003,"Chamaea fasciata henshawi","Chamaea_fasciata",13.2,NA,"female",15.9,327,3.21288834464435,133.191064523827,"Spring",20813
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"undetermined",14.8,485,6.84308985677368,136.518873548435,"Winter",20814
+9,-118.7354278,34.0347371,NA,2003,"Chamaea fasciata henshawi","Chamaea_fasciata",15.3,NA,"male",15.7,292,2.41917842302387,139.265115618096,"Fall",20815
+9,-118.7354278,34.0347371,NA,2003,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"male",15.7,292,2.41917842302387,139.265115618096,"Fall",20816
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Winter",20817
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Winter",20818
+12,-122.6160965,38.7523041,NA,1989,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",14.5,612,6.51136535512167,149.544062583856,"Winter",20819
+1,-117.9175034,34.2999992,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"female",13.4,496,6.82182327001167,136.249110156234,"Winter",20820
+11,-122.6160965,38.7523041,NA,1989,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"female",14.5,612,6.51136535512167,149.544062583856,"Fall",20821
+10,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Fall",20822
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Winter",20823
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",13.5,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Winter",20824
+9,-118.7354278,34.0347371,NA,2003,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"male",15.7,292,2.41917842302387,139.265115618096,"Fall",20825
+1,-122.6160965,38.7523041,NA,1990,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Winter",20826
+2,-116.5397,32.72815,NA,2010,"Chamaea fasciata","Chamaea_fasciata",15.2,NA,"male",13.6,712,4.71515930512716,129.257750118504,"Winter",20827
+8,-120.33745,35.57592,"ad.",1947,"Chamaea fasciata henshawi","Chamaea_fasciata",14.1,NA,"male",15.1,104,5.95622287268458,94.5531093024022,"Summer",20828
+9,-120.17411,35.285637,"imm.",1947,"Chamaea fasciata henshawi","Chamaea_fasciata",13.7,NA,"female",15.1,136,6.31637482335326,101.144960479023,"Fall",20829
+9,-120.17411,35.285637,"ad.",1947,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",15.1,136,6.31637482335326,101.144960479023,"Fall",20830
+8,-123.8193291,41.1515112,"imm.",1949,"Chamaea fasciata rufula","Chamaea_fasciata",14.7,NA,"male",11.1,1784,6.60419403015075,99.056239467751,"Summer",20831
+8,-123.8193291,41.1515112,"imm.",1949,"Chamaea fasciata rufula","Chamaea_fasciata",13.5,NA,"female",11.1,1784,6.60419403015075,99.056239467751,"Summer",20832
+11,-122.646953,39.0015313,"ad.",1949,"Chamaea fasciata henshawi","Chamaea_fasciata",15.1,NA,"male",13.8,468,6.94460222042991,178.034924077774,"Fall",20833
+11,-122.694834,38.9992745,"imm.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",14.2,NA,"male",13.7,634,6.23025365503369,125.468222433722,"Fall",20834
+11,-122.694834,38.9992745,"ad.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"female",13.7,634,6.23025365503369,125.468222433722,"Fall",20835
+11,-122.8154251,38.7643949,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.1,NA,"female",13.1,1487,5.74748298005837,140.056460499038,"Fall",20836
+11,-122.8154251,38.7643949,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",13.8,NA,"female",13.1,1487,5.74748298005837,140.056460499038,"Fall",20837
+11,-122.8154251,38.7643949,"u ad.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.1,NA,"male",13.1,1487,5.74748298005837,140.056460499038,"Fall",20838
+11,-122.9126908,38.6499932,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14.2,NA,"male",13.8,1250,4.96834677704462,146.719288706414,"Fall",20839
+11,-122.9126908,38.6499932,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.4,NA,"male",13.8,1250,4.96834677704462,146.719288706414,"Fall",20840
+11,-122.9469443,38.6906248,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14.8,NA,"female",13.9,1265,5.11849735288738,146.859630688311,"Fall",20841
+11,-122.7945635,38.6875854,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14.3,NA,"male",13.7,1300,5.20969376172046,150.595761488032,"Fall",20842
+11,-122.9773885,38.5196215,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14,NA,"female",12.9,1520,4.09488779585058,144.416955300413,"Fall",20843
+11,-122.9656726,38.5596701,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14.6,NA,"male",13.1,1942,4.76597791167201,160.116839029273,"Fall",20844
+11,-123.0486074,38.4760502,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.7,NA,"male",12.6,1633,3.79028862737231,144.4824908779,"Fall",20845
+11,-123.0486074,38.4760502,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",15.5,NA,"male",12.6,1633,3.79028862737231,144.4824908779,"Fall",20846
+11,-123.0486074,38.4760502,"imm.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",14.2,NA,"female",12.6,1633,3.79028862737231,144.4824908779,"Fall",20847
+11,-122.8862842,38.1174504,"ad.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",14.4,NA,"female",12,903,2.55129200780524,117.81685870157,"Fall",20848
+11,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",13.8,NA,"female",12,903,2.55129200780524,117.81685870157,"Fall",20849
+11,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",14.6,NA,"female",12,903,2.55129200780524,117.81685870157,"Fall",20850
+11,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",16.6,NA,"male",12,903,2.55129200780524,117.81685870157,"Fall",20851
+12,-122.8862842,38.1174504,"u ad.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15.1,NA,"female",12,903,2.55129200780524,117.81685870157,"Winter",20852
+12,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",16.3,NA,"male",12,903,2.55129200780524,117.81685870157,"Winter",20853
+12,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15.9,NA,"female",12,903,2.55129200780524,117.81685870157,"Winter",20854
+12,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",17.3,NA,"male",12,903,2.55129200780524,117.81685870157,"Winter",20855
+12,-122.8862842,38.1174504,"imm.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",14.9,NA,"male",12,903,2.55129200780524,117.81685870157,"Winter",20856
+12,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",14.4,NA,"female",12,903,2.55129200780524,117.81685870157,"Winter",20857
+12,-122.8862842,38.1174504,"ad.?",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15.1,NA,"female",12,903,2.55129200780524,117.81685870157,"Winter",20858
+12,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15.8,NA,"male",12,903,2.55129200780524,117.81685870157,"Winter",20859
+12,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",15.2,NA,"female",12,903,2.55129200780524,117.81685870157,"Winter",20860
+12,-122.8862842,38.1174504,"ad.sk.",1951,"Chamaea fasciata rufula","Chamaea_fasciata",16.2,NA,"male",12,903,2.55129200780524,117.81685870157,"Winter",20861
+10,-122.6694328,38.0653882,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",13.9,NA,"female",13.3,1618,4.05988318984075,158.356093874618,"Fall",20862
+10,-122.6694328,38.0653882,"ad.sk.",1952,"Chamaea fasciata rufula","Chamaea_fasciata",16,NA,"male",13.3,1618,4.05988318984075,158.356093874618,"Fall",20863
+11,-122.6787808,38.4553789,"imm.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",14.3,NA,"female",13.3,850,4.05405707753095,119.915918954691,"Fall",20864
+11,-122.6787808,38.4553789,"imm.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",14.8,NA,"male",13.3,850,4.05405707753095,119.915918954691,"Fall",20865
+11,-122.6787808,38.4553789,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",15.1,NA,"male",13.3,850,4.05405707753095,119.915918954691,"Fall",20866
+11,-122.6787808,38.4553789,"imm.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",15.9,NA,"male",13.3,850,4.05405707753095,119.915918954691,"Fall",20867
+11,-122.6787808,38.4553789,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",14.3,NA,"female",13.3,850,4.05405707753095,119.915918954691,"Fall",20868
+11,-122.3871768,38.3758662,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",13.7,NA,"undetermined",14.6,792,5.03045271774366,128.866448242336,"Fall",20869
+11,-122.3871768,38.3758662,"ad.sk.",1951,"Chamaea fasciata intermedia","Chamaea_fasciata",13.3,NA,"female",14.6,792,5.03045271774366,128.866448242336,"Fall",20870
+12,-122.371619,38.8659977,"ad.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",12.9,NA,"female",14.9,851,7.12938328753659,149.318723624551,"Winter",20871
+9,-122.3664384,38.8349888,"imm.sk.",1953,"Chamaea fasciata henshawi","Chamaea_fasciata",12.7,NA,"female",15.2,463,6.17347085716313,120.447821536542,"Fall",20872
+12,-122.3485747,38.8239097,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",15,901,7.17170365626839,150.593170596488,"Winter",20873
+12,-122.3485747,38.8239097,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"male",15,901,7.17170365626839,150.593170596488,"Winter",20874
+12,-122.3297032,38.8179332,"ad.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.9,NA,"female",15.1,894,7.21695709402306,150.939582394561,"Winter",20875
+2,-122.4329899,38.5919221,"u ad.",1954,"Chamaea fasciata henshawi","Chamaea_fasciata",13.9,NA,"female",13.6,1018,5.59146400301117,100.730208969067,"Winter",20876
+2,-122.4327712,38.5916806,"u ad.",1954,"Chamaea fasciata henshawi","Chamaea_fasciata",17.8,NA,"male",13.6,1018,5.59146400301117,100.730208969067,"Winter",20877
+10,-122.088722,38.5155999,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.7,NA,"female",15.2,843,6.45928976300214,148.413200132573,"Fall",20878
+10,-122.088722,38.5155999,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.3,NA,"male",15.2,843,6.45928976300214,148.413200132573,"Fall",20879
+10,-122.088722,38.5155999,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.3,NA,"female",15.2,843,6.45928976300214,148.413200132573,"Fall",20880
+10,-122.088722,38.5155999,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.2,NA,"female",15.2,843,6.45928976300214,148.413200132573,"Fall",20881
+10,-122.1013275,38.5144577,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.9,NA,"male",15.1,859,6.43726720673525,147.744903189624,"Fall",20882
+10,-122.1013275,38.5144577,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",15.1,859,6.43726720673525,147.744903189624,"Fall",20883
+10,-122.1870522,38.6561023,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.4,NA,"male",13.9,979,6.45499571626269,149.012835595438,"Fall",20884
+10,-122.1870522,38.6561023,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",13.9,979,6.45499571626269,149.012835595438,"Fall",20885
+10,-122.1870522,38.6561023,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.9,NA,"male",13.9,979,6.45499571626269,149.012835595438,"Fall",20886
+10,-122.1640483,38.5281326,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",16.1,NA,"male",15.3,802,6.46605940603891,148.735829799572,"Fall",20887
+10,-122.1640483,38.5281326,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.9,NA,"male",15.3,802,6.46605940603891,148.735829799572,"Fall",20888
+10,-122.1640483,38.5281326,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.3,NA,"female",15.3,802,6.46605940603891,148.735829799572,"Fall",20889
+10,-122.1640483,38.5281326,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.8,NA,"male",15.3,802,6.46605940603891,148.735829799572,"Fall",20890
+10,-122.1640483,38.5281326,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.1,NA,"female",15.3,802,6.46605940603891,148.735829799572,"Fall",20891
+10,-122.1640483,38.5281326,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"female",15.3,802,6.46605940603891,148.735829799572,"Fall",20892
+12,-122.1408097,38.5292331,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15.2,NA,"male",15.2,569,5.80383232846795,124.418938030981,"Winter",20893
+12,-122.1408097,38.5292331,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",13.9,NA,"female",15.2,569,5.80383232846795,124.418938030981,"Winter",20894
+12,-122.0867211,38.4091222,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"female",13.9,768,5.45895844211396,129.464382226215,"Winter",20895
+12,-122.0867211,38.4091222,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",13.9,768,5.45895844211396,129.464382226215,"Winter",20896
+10,-122.1105757,38.4000053,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.4,NA,"female",13.2,1140,5.91046196215326,147.749336825448,"Fall",20897
+10,-122.1105757,38.4000053,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.7,NA,"male",13.2,1140,5.91046196215326,147.749336825448,"Fall",20898
+10,-122.1105757,38.4000053,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",12.2,NA,"female",13.2,1140,5.91046196215326,147.749336825448,"Fall",20899
+10,-122.1105757,38.4000053,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",11.6,NA,"female",13.2,1140,5.91046196215326,147.749336825448,"Fall",20900
+10,-122.1105757,38.4000053,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",12.9,NA,"female",13.2,1140,5.91046196215326,147.749336825448,"Fall",20901
+10,-122.1105757,38.4000053,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.5,NA,"male",13.2,1140,5.91046196215326,147.749336825448,"Fall",20902
+10,-122.1105757,38.4000053,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",13.7,NA,"female",13.2,1140,5.91046196215326,147.749336825448,"Fall",20903
+10,-122.0775616,38.3575302,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.3,NA,"male",14.8,995,6.09552742143406,149.420755799352,"Fall",20904
+10,-122.0775616,38.3575302,"ad.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",14.7,NA,"male",14.8,995,6.09552742143406,149.420755799352,"Fall",20905
+10,-122.0775616,38.3575302,"imm.sk.",1952,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",14.8,995,6.09552742143406,149.420755799352,"Fall",20906
+10,-122.0819736,38.3647467,"imm.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",16.4,NA,"male",14.4,766,5.42248405560895,128.728161284798,"Fall",20907
+10,-122.0819736,38.3647467,"imm.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15.1,NA,"female",14.4,766,5.42248405560895,128.728161284798,"Fall",20908
+10,-122.0819736,38.3647467,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",15.2,NA,"male",14.4,766,5.42248405560895,128.728161284798,"Fall",20909
+10,-122.2319865,38.3506342,"imm.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"female",14.7,665,5.18508934495362,130.813679282885,"Fall",20910
+11,-122.2319865,38.3506342,"ad.sk.",1951,"Chamaea fasciata henshawi","Chamaea_fasciata",13.2,NA,"female",14.7,665,5.18508934495362,130.813679282885,"Fall",20911
+1,-116.262586,33.4757948,"u ad.",1956,"Chamaea fasciata henshawi","Chamaea_fasciata",13.1,NA,"female",16.4,99,7.25540028760187,147.752375247635,"Winter",20912
+10,-121.534935,36.14419,"ad.",1957,"Chamaea fasciata henshawi","Chamaea_fasciata",17.2,NA,"male",13.8,1093,5.65049608977885,102.320814601569,"Fall",20913
+10,-121.534935,36.14419,"ad.",1957,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",13.8,1093,5.65049608977885,102.320814601569,"Fall",20914
+10,-121.534935,36.14419,"ad.",1957,"Chamaea fasciata henshawi","Chamaea_fasciata",14.4,NA,"female",13.8,1093,5.65049608977885,102.320814601569,"Fall",20915
+12,-121.5568207,36.37851365,"u ad.",1974,"Chamaea fasciata fasciata","Chamaea_fasciata",15,NA,"female",13.5,717,4.89368021642261,123.527901324401,"Winter",20916
+9,-122.7340259,37.9286764,"imm.",1975,"Chamaea fasciata rufula","Chamaea_fasciata",13.7,NA,"undetermined",11.8,576,2.3216210376425,124.368171198079,"Fall",20917
+11,-121.5568207,36.37851365,"imm.",1967,"Chamaea fasciata fasciata","Chamaea_fasciata",15.4,NA,"female",13.9,714,5.54155103547625,129.639754326629,"Fall",20918
+5,-122.8245446,39.4433764,"ad.sk.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14.1,NA,"female",12.2,1273,5.6001352797513,129.470652174676,"Spring",20919
+5,-122.8118697,39.4446168,"ad.sk.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",12.8,NA,"female",11.9,1278,5.75064555005994,129.084466100492,"Spring",20920
+5,-122.866367,39.3759636,"ad.sk.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14.8,NA,"male",13.1,1169,5.45832697200647,129.517940448317,"Spring",20921
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"undetermined",14.3,788,5.89793877707982,140.732612850301,"Spring",20922
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.1,NA,"male",14.3,788,5.89793877707982,140.732612850301,"Spring",20923
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.1,NA,"female",14.3,788,5.89793877707982,140.732612850301,"Spring",20924
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"male",14.3,788,5.89793877707982,140.732612850301,"Spring",20925
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16.2,NA,"male",14.3,788,5.89793877707982,140.732612850301,"Spring",20926
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14.2,NA,"male",14.3,788,5.89793877707982,140.732612850301,"Spring",20927
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14.8,NA,"male",14.3,788,5.89793877707982,140.732612850301,"Spring",20928
+5,-122.62053,39.40491,"ad.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14.9,NA,"male",14.3,788,5.89793877707982,140.732612850301,"Spring",20929
+6,-123.0009399,40.3728259,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"female",10.6,637,6.06057803023821,112.137071824983,"Summer",20930
+6,-123.0009399,40.3728259,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"female",10.6,637,6.06057803023821,112.137071824983,"Summer",20931
+6,-123.0009399,40.3728259,"s.n.o.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"male",10.6,637,6.06057803023821,112.137071824983,"Summer",20932
+6,-123.0009399,40.3728259,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",10.6,637,6.06057803023821,112.137071824983,"Summer",20933
+6,-123.0009399,40.3728259,"sk.oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",10.6,637,6.06057803023821,112.137071824983,"Summer",20934
+6,-123.0009399,40.3728259,"sk. not oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",10.6,637,6.06057803023821,112.137071824983,"Summer",20935
+7,-118.9996038,34.8086527,"sk. not oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",10.8,648,5.79757002388226,148.264236246334,"Summer",20936
+7,-118.523011,34.586569,"s.n.o.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",11,NA,"female",16.2,797,5.97359721075699,167.435902344955,"Summer",20937
+7,-118.523011,34.586569,"unknown",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",16.5,NA,"female",16.2,797,5.97359721075699,167.435902344955,"Summer",20938
+7,-118.523011,34.586569,"s.o.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",16.2,797,5.97359721075699,167.435902344955,"Summer",20939
+7,-118.523011,34.586569,"sk. not oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"male",16.2,797,5.97359721075699,167.435902344955,"Summer",20940
+7,-118.523011,34.586569,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"female",16.2,797,5.97359721075699,167.435902344955,"Summer",20941
+7,-118.284006,34.413628,"sk. part oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",16,799,5.74875480588465,172.267635897464,"Summer",20942
+7,-118.284006,34.413628,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",16,799,5.74875480588465,172.267635897464,"Summer",20943
+7,-118.281856,34.403673,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",15.3,1002,5.87822767558901,173.896834367914,"Summer",20944
+7,-118.274096,34.395478,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",14.6,1183,6.02758180568646,175.099151548832,"Summer",20945
+7,-118.196297,34.383309,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",14.1,1117,5.95886785057414,174.903987046258,"Summer",20946
+7,-117.3589808,34.2940236,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",14,1003,5.51938731777689,163.151493938804,"Summer",20947
+7,-117.3589808,34.2940236,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"female",14,1003,5.51938731777689,163.151493938804,"Summer",20948
+7,-117.3589808,34.2940236,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",14,1003,5.51938731777689,163.151493938804,"Summer",20949
+7,-117.3589808,34.2940236,"sk. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"male",14,1003,5.51938731777689,163.151493938804,"Summer",20950
+7,-117.3589808,34.2940236,"sk. part. oss.",1980,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",14,1003,5.51938731777689,163.151493938804,"Summer",20951
+12,-122.9225696,39.4645693,"s.n.o.",1979,"Chamaea fasciata henshawi","Chamaea_fasciata",15,NA,"female",12.9,1717,6.58082614321885,98.8925881287596,"Winter",20952
+12,-122.9225696,39.4645693,"sk.oss.",1979,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",12.9,1717,6.58082614321885,98.8925881287596,"Winter",20953
+12,-122.9225696,39.4645693,"s.n.o.",1979,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",12.9,1717,6.58082614321885,98.8925881287596,"Winter",20954
+12,-122.9225696,39.4645693,"sk.oss.",1979,"Chamaea fasciata henshawi","Chamaea_fasciata",16,NA,"male",12.9,1717,6.58082614321885,98.8925881287596,"Winter",20955
+12,-122.9225696,39.4645693,"sk.part.oss.",1979,"Chamaea fasciata henshawi","Chamaea_fasciata",17,NA,"male",12.9,1717,6.58082614321885,98.8925881287596,"Winter",20956
+12,-122.9225696,39.4645693,"sk.oss.",1979,"Chamaea fasciata henshawi","Chamaea_fasciata",12,NA,"female",12.9,1717,6.58082614321885,98.8925881287596,"Winter",20957
+12,-122.9225696,39.4645693,"sk.oss.",1979,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",12.9,1717,6.58082614321885,98.8925881287596,"Winter",20958
+7,-121.5644064,36.38487996,"u ad.",1978,"Chamaea fasciata fasciata","Chamaea_fasciata",15.8,NA,"male",14.1,891,4.80312398340913,119.9280693359,"Summer",20959
+7,-121.5644064,36.38487996,"sk. not oss.",1978,"Chamaea fasciata fasciata","Chamaea_fasciata",15.2,NA,"male",14.1,891,4.80312398340913,119.9280693359,"Summer",20960
+9,-123.6145213,39.6450681,"unknown",1965,"Chamaea fasciata","Chamaea_fasciata",16.7,NA,"undetermined",12.2,1567,4.82219458401054,126.497563047846,"Fall",20961
+3,-122.9175943,39.4566382,"skull ossified",1981,"Chamaea fasciata","Chamaea_fasciata",16,NA,"male",12.8,1618,5.99870566847297,108.531761488263,"Spring",20962
+3,-121.56235,36.3781,"adult skull",2003,"Chamaea fasciata fasciata","Chamaea_fasciata",14.8,NA,"male",14.7,502,4.73916627369171,128.595129027322,"Spring",20963
+5,-117.50202,33.68316,"skull",2008,"Chamaea fasciata henshawi","Chamaea_fasciata",16.2,NA,"male",16.6,531,5.14154203964672,147.891298317304,"Spring",20964
+5,-122.7340259,37.9286764,"nestling",2003,"Chamaea fasciata rufula","Chamaea_fasciata",9.7,NA,"undetermined",13.5,673,2.36598368292742,123.005893790646,"Spring",20965
+5,-122.7340259,37.9286764,"nestling",2003,"Chamaea fasciata rufula","Chamaea_fasciata",9.6,NA,"undetermined",13.5,673,2.36598368292742,123.005893790646,"Spring",20966
+9,-122.7340259,37.9286764,"skull",2004,"Chamaea fasciata rufula","Chamaea_fasciata",16.7,NA,"male",13.8,658,2.4000473480178,130.697488633875,"Fall",20967
+12,-119.781173,37.674352,"imm.",1914,"Chamaea fasciata henshawi","Chamaea_fasciata",13.9,NA,"female",12.7,950,6.65197623859165,181.949619577693,"Winter",20968
+5,-120.043898,37.50822,"ad.",1915,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"male",15.2,750,6.59703216100493,127.801337521088,"Spring",20969
+9,-119.11036,36.723617,"imm.",1916,"Chamaea fasciata henshawi","Chamaea_fasciata",16.5,NA,"male",15.9,1010,7.65119816325086,149.165087520743,"Fall",20970
+10,-119.11036,36.723617,"ad.",1916,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"female",15.9,1010,7.65119816325086,149.165087520743,"Fall",20971
+10,-119.11036,36.723617,"imm.",1916,"Chamaea fasciata henshawi","Chamaea_fasciata",17.2,NA,"male",15.9,1010,7.65119816325086,149.165087520743,"Fall",20972
+1,-122.2169749,37.8688241,"imm.",1918,"Chamaea fasciata intermedia","Chamaea_fasciata",14.3,NA,"male",13.2,587,3.85930595110603,115.949502669519,"Winter",20973
+7,-122.6638243,38.463834,"juv.",1918,"Chamaea fasciata intermedia","Chamaea_fasciata",13.1,NA,"female",13.1,642,4.04920493505337,114.640974964479,"Summer",20974
+1,-122.6638243,38.463834,"imm.",1918,"Chamaea fasciata intermedia","Chamaea_fasciata",13.2,NA,"female",13.1,642,4.04920493505337,114.640974964479,"Winter",20975
+1,-122.6638243,38.463834,"juv.",1918,"Chamaea fasciata intermedia","Chamaea_fasciata",12.6,NA,"male",13.1,642,4.04920493505337,114.640974964479,"Winter",20976
+9,-120.84369,35.29653,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",17.5,NA,"male",12.3,594,2.64620941016093,147.53511475635,"Fall",20977
+9,-120.84369,35.29653,"imm.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",13.1,NA,"female",12.3,594,2.64620941016093,147.53511475635,"Fall",20978
+9,-120.84369,35.29653,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",15,NA,"male",12.3,594,2.64620941016093,147.53511475635,"Fall",20979
+9,-120.84369,35.29653,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",13.4,NA,"female",12.3,594,2.64620941016093,147.53511475635,"Fall",20980
+9,-120.84938,35.366994,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",16.9,NA,"male",12.4,469,2.33958038195664,149.267532058884,"Fall",20981
+10,-120.868149,35.405698,"u ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",16.6,NA,"female",12.4,450,2.33608063372665,149.728089111073,"Fall",20982
+12,-121.319496,36.407657,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",13,NA,"female",13.6,305,3.59834768478618,129.410359120107,"Winter",20983
+10,-121.17385,35.970848,"ad.",1918,"Chamaea fasciata henshawi","Chamaea_fasciata",13.3,NA,"female",14.1,479,5.62835758378136,134.003052882456,"Fall",20984
+10,-121.17385,35.970848,"imm.",1918,"Chamaea fasciata henshawi","Chamaea_fasciata",15.8,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",20985
+10,-121.17385,35.970848,"ad.",1918,"Chamaea fasciata henshawi","Chamaea_fasciata",13.6,NA,"female",14.1,479,5.62835758378136,134.003052882456,"Fall",20986
+12,-121.835607,36.60922,"u ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",15.1,NA,"male",12.2,366,2.45373864405591,117.372719699687,"Winter",20987
+12,-121.835607,36.60922,"ad.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",14.4,NA,"female",12.2,366,2.45373864405591,117.372719699687,"Winter",20988
+12,-121.835607,36.60922,"ad.?",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",15,NA,"male",12.2,366,2.45373864405591,117.372719699687,"Winter",20989
+12,-121.835607,36.60922,"imm.",1918,"Chamaea fasciata fasciata","Chamaea_fasciata",15.4,NA,"male",12.2,366,2.45373864405591,117.372719699687,"Winter",20990
+1,-121.898014,36.57092,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",17.7,NA,"male",11.7,407,2.0042946314594,151.109017656632,"Winter",20991
+1,-121.808871,36.609634,"u ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",14.1,NA,"female",11.8,373,2.04731901557016,152.796899319278,"Winter",20992
+1,-121.835607,36.60922,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",13.7,NA,"female",11.7,339,1.95393929994736,149.535305151252,"Winter",20993
+1,-121.835607,36.60922,"ad",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",13.1,NA,"female",11.7,339,1.95393929994736,149.535305151252,"Winter",20994
+1,-121.835607,36.60922,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",15.7,NA,"male",11.7,339,1.95393929994736,149.535305151252,"Winter",20995
+1,-121.835607,36.60922,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",14.2,NA,"female",11.7,339,1.95393929994736,149.535305151252,"Winter",20996
+2,-121.835607,36.60922,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",16.3,NA,"male",11.7,339,1.95393929994736,149.535305151252,"Winter",20997
+2,-121.835607,36.60922,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",14.9,NA,"female",11.7,339,1.95393929994736,149.535305151252,"Winter",20998
+2,-121.835607,36.60922,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",16.3,NA,"male",11.7,339,1.95393929994736,149.535305151252,"Winter",20999
+2,-121.898014,36.57092,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",14.5,NA,"male",11.7,407,2.0042946314594,151.109017656632,"Winter",21000
+2,-121.898014,36.57092,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",15.4,NA,"male",11.7,407,2.0042946314594,151.109017656632,"Winter",21001
+2,-121.898014,36.57092,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",14.3,NA,"male",11.7,407,2.0042946314594,151.109017656632,"Winter",21002
+2,-121.898014,36.57092,"ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",13.7,NA,"female",11.7,407,2.0042946314594,151.109017656632,"Winter",21003
+5,-120.213175,37.710817,"nestling",1919,"Chamaea fasciata","Chamaea_fasciata",5.4,NA,"undetermined",14.6,534,7.21248916810278,128.559660334724,"Spring",21004
+6,-121.42276,35.96988,"u ad.",1919,"Chamaea fasciata fasciata","Chamaea_fasciata",14.8,NA,"male",12,830,4.81955455001871,153.244125473405,"Summer",21005
+7,-121.24134,36.45744,"imm.",1919,"Chamaea fasciata henshawi","Chamaea_fasciata",12.5,NA,"male",13.4,329,4.83161934081582,151.671760210111,"Summer",21006
+7,-120.11166,37.75634,"juv.",1920,"Chamaea fasciata henshawi","Chamaea_fasciata",12.8,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",21007
+9,-122.6973756,38.0606078,"imm.",1920,"Chamaea fasciata rufula","Chamaea_fasciata",15.6,NA,"male",13,920,2.87321749748932,133.655317561264,"Fall",21008
+1,-122.229382,37.867099,"unknown",1921,"Chamaea fasciata intermedia","Chamaea_fasciata",13.9,NA,"male",13.6,620,3.37749907475931,136.388152959723,"Winter",21009
+1,-122.2238311,37.8698592,"u ad.",1924,"Chamaea fasciata intermedia","Chamaea_fasciata",17,NA,"undetermined",13.1,543,3.15723075821297,113.945740958634,"Winter",21010
+1,-122.2238311,37.8698592,"u ad.",1924,"Chamaea fasciata intermedia","Chamaea_fasciata",13.4,NA,"male",13.1,543,3.15723075821297,113.945740958634,"Winter",21011
+6,-121.7648069,40.3091119,"juv.",1924,"Chamaea fasciata henshawi","Chamaea_fasciata",17.9,NA,"male",12.6,605,7.04880712022835,104.248454374012,"Summer",21012
+12,-121.9420326,40.3415818,"u ad.",1924,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",14.9,601,6.88137583142596,108.764967622016,"Winter",21013
+12,-121.9420326,40.3415818,"u ad.",1924,"Chamaea fasciata henshawi","Chamaea_fasciata",16.8,NA,"male",14.9,601,6.88137583142596,108.764967622016,"Winter",21014
+12,-121.9420326,40.3415818,"u ad.",1924,"Chamaea fasciata henshawi","Chamaea_fasciata",17,NA,"male",14.9,601,6.88137583142596,108.764967622016,"Winter",21015
+10,-115.458333,30.883333,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",18.2,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",21016
+10,-115.458333,30.883333,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",14.2,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",21017
+10,-115.458333,30.883333,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",13.5,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",21018
+9,-115.7333333333,30.9666666667,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",12.8,NA,"female",16,268,4.08169416697617,123.676529282106,"Fall",21019
+11,-115.666667,31.116667,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",14.4,NA,"male",14.1,352,4.50766182754598,108.554278401095,"Fall",21020
+12,-116.0175,30.7197222222,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",16.1,NA,"male",18.7,187,3.44524265759278,129.978629666692,"Winter",21021
+3,-116.0175,30.7197222222,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",15.1,NA,"male",18.7,187,3.44524265759278,129.978629666692,"Spring",21022
+3,-116.0175,30.7197222222,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",12.2,NA,"female",18.7,187,3.44524265759278,129.978629666692,"Spring",21023
+3,-116.1,30.9667,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",12.2,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Spring",21024
+3,-116.1,30.9667,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",17.4,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",21025
+4,-115.7677777778,30.8938888889,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",14.5,NA,"male",15.9,271,4.09833669143515,123.476879586373,"Spring",21026
+5,-115.458333,30.883333,"u ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",14.9,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",21027
+5,-115.266667,30.866667,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",15.1,NA,"female",16.1,229,4.85095273366402,118.032658763523,"Spring",21028
+5,-115.266667,30.866667,"u imm.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",15.2,NA,"male",16.1,229,4.85095273366402,118.032658763523,"Spring",21029
+6,-115.526687,31.029931,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",13,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",21030
+6,-115.526687,31.029931,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",13,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",21031
+5,-122.9986536,40.3904803,"u ad.",1926,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"male",12.1,1258,6.58070526753644,124.451711212798,"Spring",21032
+5,-123.015054,40.394887,"u ad.",1926,"Chamaea fasciata henshawi","Chamaea_fasciata",14.5,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",21033
+12,-121.9420806,40.3303351,"u ad.",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",14.4,NA,"male",15.7,875,6.90142716904967,93.3690449976571,"Winter",21034
+12,-121.9420806,40.3303351,"u ad.",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",13.8,NA,"female",15.7,875,6.90142716904967,93.3690449976571,"Winter",21035
+12,-121.9420326,40.3415818,"u ad.",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",14.3,NA,"male",15.1,954,6.73315518816244,92.4141216423363,"Winter",21036
+12,-121.9420326,40.3415818,"u ad.",1927,"Chamaea fasciata henshawi","Chamaea_fasciata",15.3,NA,"male",15.1,954,6.73315518816244,92.4141216423363,"Winter",21037
+11,-116.35,32.6,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",15.5,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",21038
+11,-116.35,32.6,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",15,NA,"female",13.6,713,5.21695226248917,130.774518605179,"Fall",21039
+12,-117.111769,32.460771,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",16,NA,"male",16.5,463,3.17846684978018,138.467360163425,"Winter",21040
+12,-117.111769,32.460771,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",16.8,NA,"male",16.5,463,3.17846684978018,138.467360163425,"Winter",21041
+12,-117.111769,32.460771,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",13.3,NA,"female",16.5,463,3.17846684978018,138.467360163425,"Winter",21042
+12,-117.111769,32.460771,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",15.6,NA,"male",16.5,463,3.17846684978018,138.467360163425,"Winter",21043
+12,-120.6097,36.1576,"u ad.",1932,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"female",13.5,295,6.56013557694342,142.166365940969,"Winter",21044
+3,-122.7592923,38.0511991,"unknown",1932,"Chamaea fasciata rufula","Chamaea_fasciata",8.89,NA,"female",13.3,446,3.11432418857048,120.49436649375,"Spring",21045
+3,-122.2300827,37.8733784,"unknown",1932,"Chamaea fasciata intermedia","Chamaea_fasciata",14.09,NA,"female",13.6,336,3.82467071270274,110.137228938457,"Spring",21046
+7,-124.0201467,41.9806425,"u ad.",1935,"Chamaea fasciata rufula","Chamaea_fasciata",14.9,NA,"male",11,2610,5.20060456858507,83.6620564531317,"Summer",21047
+6,-120.6323,36.3557,"juv.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",14.2,NA,"male",13.1,750,7.08600840752501,154.893793525523,"Summer",21048
+6,-120.60116,36.3320198,"juv.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",13.9,NA,"male",13.4,714,7.11047029940973,154.459841390186,"Summer",21049
+9,-121.752126,36.372756,"ad.",1934,"Chamaea fasciata fasciata","Chamaea_fasciata",15.4,NA,"male",12.8,887,4.63416168745271,129.771478826685,"Fall",21050
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",14.5,NA,"female",11,2675,3.59405021802659,79.2686014511964,"Spring",21051
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",17.1,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",21052
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",15.4,NA,"female",11,2675,3.59405021802659,79.2686014511964,"Spring",21053
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",17,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",21054
+5,-123.9603,45.7833,"imm.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",13.6,NA,"female",11,2675,3.59405021802659,79.2686014511964,"Spring",21055
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",16.3,NA,"female",11,2675,3.59405021802659,79.2686014511964,"Spring",21056
+5,-123.9603,45.7833,"u ad.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",15.8,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",21057
+5,-123.9603,45.7833,"u a.",1941,"Chamaea fasciata phaea","Chamaea_fasciata",15.9,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",21058
+12,-124.1530252,41.104244,"u ad.",1941,"Chamaea fasciata rufula","Chamaea_fasciata",14.3,NA,"male",12.2,1865,2.44619370376993,94.5728935259856,"Winter",21059
+3,-122.41901,38.55454,"u ad.",1941,"Chamaea fasciata henshawi","Chamaea_fasciata",14.7,NA,"male",14.2,1642,4.89918824444881,100.213684196131,"Spring",21060
+9,-123.88759,40.77914,"juv.",1942,"Chamaea fasciata rufula","Chamaea_fasciata",13.8,NA,"female",12,1606,3.98157689181743,97.2485971118486,"Fall",21061
+9,-123.88759,40.77914,"u ad.",1942,"Chamaea fasciata rufula","Chamaea_fasciata",17.1,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",21062
+9,-123.8083893,40.9028547,"juv.",1942,"Chamaea fasciata rufula","Chamaea_fasciata",14.5,NA,"female",12.7,1785,4.83105484434724,105.430785533876,"Fall",21063
+9,-124.0415543,40.5359463,"u ad.",1942,"Chamaea fasciata rufula","Chamaea_fasciata",17.1,NA,"male",11.9,1325,3.37916970257309,96.5542687630148,"Fall",21064
+6,-123.14392,40.55443,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",11.5,837,5.90030173856055,120.785766804994,"Summer",21065
+6,-123.14392,40.55443,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",15.5,NA,"male",11.5,837,5.90030173856055,120.785766804994,"Summer",21066
+6,-123.47471,40.61736,"juv.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",12.8,NA,"male",13.1,998,6.018676739697,124.778735426946,"Summer",21067
+12,-121.2137,37.2959,"u ad.",1943,"Chamaea fasciata henshawi","Chamaea_fasciata",16.1,NA,"male",15.7,266,5.2213068722826,128.644213868355,"Winter",21068
+2,-121.8604466,37.9578875,"u ad.",1944,"Chamaea fasciata intermedia","Chamaea_fasciata",14.1,NA,"male",14.5,568,4.94487031419859,108.929385750828,"Winter",21069
+5,-121.8604466,37.9578875,"u ad.",1944,"Chamaea fasciata intermedia","Chamaea_fasciata",15,NA,"male",14.5,568,4.94487031419859,108.929385750828,"Spring",21070
+5,-122.8213215,38.1192781,"unknown",1944,"Chamaea fasciata rufula","Chamaea_fasciata",15.3,NA,"male",12.5,947,2.33082115846053,93.3169406966197,"Spring",21071
+8,-120.6362917,36.368126,"u ad.",1944,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",12.3,486,6.49279320757743,119.642749795481,"Summer",21072
+1,-122.8210346,38.1299507,"u ad.",1946,"Chamaea fasciata rufula","Chamaea_fasciata",14.3,NA,"male",12.4,496,2.82299808392039,110.538708911483,"Winter",21073
+12,-122.4107819,37.6276245,NA,1901,"Chamaea fasciata fasciata","Chamaea_fasciata",1.01,6.01,"male",12.9,476,1.94941716231475,110.473952641906,"Winter",21075
+10,-122.1494293,38.5390355,"imm",1952,"Chamaea fasciata fasciata","Chamaea_fasciata",15.4,NA,"male",15,854,6.34304677771199,147.761153609151,"Fall",21076
+11,-122.8632509,38.1039265,"ad",1951,"Chamaea fasciata rufula","Chamaea_fasciata",17,NA,"male?",12.2,885,2.68885184464006,119.017704749922,"Fall",21077
+12,-122.8632509,38.1039265,"imm",1951,"Chamaea fasciata rufula","Chamaea_fasciata",13.7,NA,"female",12.2,885,2.68885184464006,119.017704749922,"Winter",21078
+11,-122.6558304,38.4772445,"ad",1951,"Chamaea fasciata fasciata","Chamaea_fasciata",15.9,NA,"male",13.4,921,4.12464874537545,120.746115592585,"Fall",21079
+11,-118.1890296,34.2242935,NA,1999,"Chamaea fasciata henshawi","Chamaea_fasciata",13.9,NA,"male",15.4,269,4.23813852791744,121.126652469211,"Fall",21080
+5,-118.6243629,34.5294699,"juvenile",1980,NA,"Chamaea_fasciata",12,NA,"female",17,609,4.68514738942182,171.674700157516,"Spring",21081
+5,-118.6243629,34.5294699,"adult",1980,NA,"Chamaea_fasciata",15,NA,"male",17,609,4.68514738942182,171.674700157516,"Spring",21082
+4,-117.8337335,33.9197168,"adult",1976,NA,"Chamaea_fasciata",15.6,NA,"male",17.9,254,3.92022726613928,120.777400194437,"Spring",21083
+4,-117.8337335,33.9197168,"adult",1976,NA,"Chamaea_fasciata",13.3,NA,"female",17.9,254,3.92022726613928,120.777400194437,"Spring",21084
+4,-117.8337335,33.9197168,"adult",1976,NA,"Chamaea_fasciata",16,NA,"male",17.9,254,3.92022726613928,120.777400194437,"Spring",21085
+4,-117.8337335,33.9197168,"adult",1976,NA,"Chamaea_fasciata",15.3,NA,"male",17.9,254,3.92022726613928,120.777400194437,"Spring",21086
+4,-117.8337335,33.9197168,"adult",1976,NA,"Chamaea_fasciata",13.3,NA,"female",17.9,254,3.92022726613928,120.777400194437,"Spring",21087
+9,-118.6059952,34.4434418,"immature",1985,NA,"Chamaea_fasciata",16,NA,"male",17.5,198,5.29253333394407,132.774362760517,"Fall",21088
+11,-118.0416,34.3439,"adult",1988,NA,"Chamaea_fasciata",14.2,NA,"female",13.9,621,6.0055214493654,121.411289486796,"Fall",21089
+11,-118.0354,34.3437,"adult",1988,NA,"Chamaea_fasciata",14.1,NA,"female",13.9,627,6.03225547043608,121.121468203245,"Fall",21090
+7,-118.8163662,34.0545083,"immature - hatch year unknown (s",1997,NA,"Chamaea_fasciata",13.1,NA,"undetermined",17,396,3.32451864822928,187.283435256474,"Summer",21091
+9,-118.8163661,34.0545083,"adult",1998,NA,"Chamaea_fasciata",13.8,NA,"female",15.6,702,3.30133122827563,187.09607142235,"Fall",21092
+3,-117.555493,33.640864,"adult",2001,NA,"Chamaea_fasciata",12.1,NA,"undetermined",15.8,472,3.76381294418146,155.306236182656,"Spring",21093
+1,-118.817954,34.0567838,"adult",2006,NA,"Chamaea_fasciata",16,NA,"female",16.5,389,3.45677858443641,117.76290217908,"Winter",21094
+8,-118.817954,34.0567838,"juvenile",2008,NA,"Chamaea_fasciata",11.1,NA,"male",16.4,384,3.14963922897961,193.209750372514,"Summer",21095
+8,-118.817954,34.0567838,"juvenile",2008,NA,"Chamaea_fasciata",14.5,73,"male",16.4,384,3.14963922897961,193.209750372514,"Summer",21096
+6,-122.48251,37.7695,"U-Imm.",1946,"Chamaea fasciata intermedia","Chamaea_fasciata",14.5,NA,"male",12.1,346,2.07209087784793,109.153008122756,"Summer",21097
+5,-122.42052,38.28758,"U-Ad.",1987,"Chamaea fasciata intermedia","Chamaea_fasciata",12.5,NA,NA,15,711,4.45348858829352,120.597290905849,"Spring",21098
+3,-122.81005,38.05984,"adult",1990,"Chamaea fasciata","Chamaea_fasciata",11.1,NA,NA,13.7,453,3.86711073730058,118.08169633983,"Spring",21099
+7,-122.74009,37.93065,"nestling (10 days old)",1995,"Chamaea fasciata","Chamaea_fasciata",5.6,NA,NA,13.6,983,1.96721230232638,154.322291452933,"Summer",21100
+8,-122.75301,38.04812,"unknown",1997,"Chamaea fasciata","Chamaea_fasciata",8.65,151,"undetermined",15.2,951,3.84207172649277,146.039282979807,"Summer",21101
+6,-122.74009,37.93065,"nestling",2007,"Chamaea fasciata","Chamaea_fasciata",9.26,NA,"undetermined",12.8,422,2.51557271026024,127.265707507797,"Summer",21102
+5,-122.74009,37.93065,"nestling",1998,"Chamaea fasciata","Chamaea_fasciata",10.6,NA,"undetermined",12.9,954,2.26814234495318,146.365932876548,"Spring",21103
+4,-122.74009,37.93065,"nestling",1995,"Chamaea fasciata","Chamaea_fasciata",7.4,52.4,"undetermined",13.6,983,1.96721230232638,154.322291452933,"Spring",21104
+5,-122.74009,37.93065,"unknown",2007,"Chamaea fasciata","Chamaea_fasciata",13.01,154,"male",12.8,422,2.51557271026024,127.265707507797,"Spring",21105
+10,-122.73417,37.93,"unknown",1996,"Chamaea fasciata","Chamaea_fasciata",10.52,146,"male",13.8,930,1.50383348530186,118.122827455682,"Fall",21106
+1,-122.742,37.9319,"Adult",2007,"Chamaea fasciata","Chamaea_fasciata",11.73,148,"male",12.8,422,2.53716317364433,127.52090156896,"Winter",21107
+5,-122.74009,37.93065,"Nestling",2013,"Chamaea fasciata","Chamaea_fasciata",5.1,NA,"undetermined",13.2,145,2.60050985676877,91.84873805387,"Spring",21108
+5,-122.74009,37.93065,"Nestling",2009,"Chamaea fasciata","Chamaea_fasciata",4.9,NA,"undetermined",13.2,528,2.49174394326301,122.554900521267,"Spring",21109
+10,-115.9072222,32.053333,"u ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",10.4,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",21111
+12,-115.7230556,31.4,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",16.3,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",21112
+12,-116.3833333,31.916667,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",12.5,NA,"female",15.3,451,4.3793160528682,137.348042754474,"Winter",21113
+12,-116.3833333,31.916667,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",15.5,NA,"female",15.3,451,4.3793160528682,137.348042754474,"Winter",21114
+1,-116.3833333,31.916667,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",13.7,NA,"female",14.6,497,4.44815249357085,121.762320320808,"Winter",21115
+1,-116.3833333,31.916667,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",16.9,NA,"male",14.6,497,4.44815249357085,121.762320320808,"Winter",21116
+1,-116.3833333,31.916667,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",13.7,NA,"female",14.6,497,4.44815249357085,121.762320320808,"Winter",21117
+1,-116.3833333,31.916667,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",13.1,NA,"female",14.6,497,4.44815249357085,121.762320320808,"Winter",21118
+1,-116.5844444,32.567222,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",14.4,NA,"male",15.6,533,5.07873612290111,136.085882643513,"Winter",21119
+12,-115.7230556,31.4,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",16.1,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",21120
+12,-115.7077778,30.056111,"ad.",1930,"Chamaea fasciata canicauda","Chamaea_fasciata",13.2,NA,"female",19.4,141,3.86596453917801,109.17807278476,"Winter",21121
+12,-115.7077778,30.056111,"u ad.",1930,"Chamaea fasciata canicauda","Chamaea_fasciata",13.3,NA,"female",19.4,141,3.86596453917801,109.17807278476,"Winter",21122
+5,-121.0511667,36.577833,"u ad.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"female",14.9,657,6.65679761938536,155.17413254456,"Spring",21123
+6,-121.0511667,36.577833,"u ad.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",15.2,NA,"male",14.9,657,6.65679761938536,155.17413254456,"Summer",21124
+10,-122.4166667,37.6333333,"immature",1940,"Chamaea fasciata intermedia","Chamaea_fasciata",16.2,NA,"male",14.2,814,1.69569419055406,122.32211750394,"Fall",21125
+10,-122.2666667,37.8,"immature",1940,"Chamaea fasciata intermedia","Chamaea_fasciata",16.5,NA,"male",14.6,813,1.99172530660473,123.622391416756,"Fall",21126
+10,-122.2666667,37.8,NA,1940,"Chamaea fasciata intermedia","Chamaea_fasciata",14.7,NA,"female",14.6,813,1.99172530660473,123.622391416756,"Fall",21127
+7,-121.5,36.3,NA,1977,"Chamaea fasciata","Chamaea_fasciata",14.5,NA,"male",14.8,436,5.36223466532943,182.266816411933,"Summer",21128
+7,-121.5,36.3,NA,1977,"Chamaea fasciata","Chamaea_fasciata",13.5,NA,"male",14.8,436,5.36223466532943,182.266816411933,"Summer",21129
+12,-122.1419,37.4419,NA,1966,"Chamaea fasciata","Chamaea_fasciata",15.3,NA,"female",14.4,298,4.01712244364952,130.435718124671,"Winter",21130
+11,-115.71737,31.38341,"U-Ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",15,NA,"male",16.4,256,4.7795888627548,131.965088275025,"Fall",21131
+3,-122.73417,37.93,"U-Ad.",1970,"Chamaea fasciata","Chamaea_fasciata",12.3,NA,"male",13,916,2.03708050152589,141.971652628399,"Spring",21132
+9,-122.71127,37.94883,"U-Ad.",1976,"Chamaea fasciata","Chamaea_fasciata",16.4,NA,"male",13.3,315,3.1192462181907,96.4159681483274,"Fall",21133
+6,-122.68142,37.91697,"U-Ad.",1984,"Chamaea fasciata","Chamaea_fasciata",11.95,NA,"undetermined",13.6,495,2.99285765944473,145.645575354289,"Summer",21134
+11,-122.74009,37.93065,NA,1998,"Chamaea fasciata","Chamaea_fasciata",7.2,NA,NA,12.9,954,2.26814234495318,146.365932876548,"Fall",21135
+6,-117.74777,33.815,"adult?",2002,"Chamaea fasciata","Chamaea_fasciata",9.2,130,NA,15.7,196,3.47784111021173,135.548289892591,"Summer",21136
+6,-117.64755,33.67476,NA,2002,"Chamaea fasciata","Chamaea_fasciata",9.6,149,"male",15.5,198,3.28452524128009,137.658377395581,"Summer",21137
+5,-122.74009,37.93065,"nestling",1997,"Chamaea fasciata","Chamaea_fasciata",6.6,59,NA,14.1,699,2.63592603473733,144.213672389855,"Spring",21138
+5,-122.74009,37.93065,"nestling",1995,"Chamaea fasciata","Chamaea_fasciata",3.18,NA,"undetermined",13.6,983,1.96721230232638,154.322291452933,"Spring",21139
+12,-115.9361111,30.554722,"ad.",1925,"Chamaea fasciata canicauda","Chamaea_fasciata",10.9,NA,"male",19.3,188,3.56195171219375,125.156399099498,"Winter",21140
+10,-115.9072222,32.053333,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",17.4,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",21141
+10,-115.9072222,32.053333,"u ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",14.7,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",21142
+11,-115.7230556,31.4,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",14.8,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",21143
+11,-115.7230556,31.4,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",13.8,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Fall",21144
+12,-115.7230556,31.4,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",15.9,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Winter",21145
+12,-115.7230556,31.4,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",15.2,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Winter",21146
+12,-116.3833333,31.916667,"ad.",1926,"Chamaea fasciata canicauda","Chamaea_fasciata",15.4,NA,"male",15.3,451,4.3793160528682,137.348042754474,"Winter",21147
+1,-116.3833333,31.916667,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",14.7,NA,"male",14.6,497,4.44815249357085,121.762320320808,"Winter",21148
+1,-116.3833333,31.916667,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",15.7,NA,"female",14.6,497,4.44815249357085,121.762320320808,"Winter",21149
+1,-116.3833333,31.916667,"ad.",1927,"Chamaea fasciata canicauda","Chamaea_fasciata",16.3,NA,"male",14.6,497,4.44815249357085,121.762320320808,"Winter",21150
+12,-115.7077778,30.056111,"u ad.",1930,"Chamaea fasciata canicauda","Chamaea_fasciata",15.2,NA,"male",19.4,141,3.86596453917801,109.17807278476,"Winter",21151
+12,-115.7077778,30.056111,"ad.",1930,"Chamaea fasciata canicauda","Chamaea_fasciata",14.3,NA,"male",19.4,141,3.86596453917801,109.17807278476,"Winter",21152
+12,-115.7077778,30.056111,"u ad.",1930,"Chamaea fasciata canicauda","Chamaea_fasciata",13.5,NA,"female",19.4,141,3.86596453917801,109.17807278476,"Winter",21153
+12,-115.7077778,30.056111,"u ad.",1930,"Chamaea fasciata canicauda","Chamaea_fasciata",13.7,NA,"male",19.4,141,3.86596453917801,109.17807278476,"Winter",21154
+10,-122.6,39.375,"u ad.",1933,"Chamaea fasciata henshawi","Chamaea_fasciata",14,NA,"male",14.7,467,7.40157640866683,164.300700473332,"Fall",21155
+5,-121.0511667,36.577833,"u ad.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",13,NA,"female",14.9,657,6.65679761938536,155.17413254456,"Spring",21156
+6,-121.0511667,36.577833,"u ad.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",13.1,NA,"female",14.9,657,6.65679761938536,155.17413254456,"Summer",21157
+7,-120.7856667,36.294333,"juv.",1936,"Chamaea fasciata henshawi","Chamaea_fasciata",12.8,NA,"female",14.5,835,6.81675187025361,151.496118517119,"Summer",21158
+10,-122.2666667,37.8,"immature",1940,"Chamaea fasciata intermedia","Chamaea_fasciata",15.4,NA,"female",14.6,813,1.99172530660473,123.622391416756,"Fall",21159
+10,-122.4166667,37.6333333,"immature",1940,"Chamaea fasciata intermedia","Chamaea_fasciata",15.6,NA,"female",14.2,814,1.69569419055406,122.32211750394,"Fall",21160
+10,-120.15,37.6666667,"immature",2001,"Chamaea fasciata","Chamaea_fasciata",13.6,NA,"female",15.3,886,7.13639307077504,112.097935148096,"Fall",21161
+1,-121.0274,35.3168,NA,2004,"Chamaea fasciata","Chamaea_fasciata",14.5,NA,"female",-9999,-9999,0,0,"Winter",21162
+7,-121.5,36.3,NA,1977,"Chamaea fasciata","Chamaea_fasciata",15,NA,"male",14.8,436,5.36223466532943,182.266816411933,"Summer",21163
+7,-121.5,36.3,NA,1977,"Chamaea fasciata","Chamaea_fasciata",14,NA,"male",14.8,436,5.36223466532943,182.266816411933,"Summer",21164
+7,-121.5,36.3,NA,1977,"Chamaea fasciata","Chamaea_fasciata",16,NA,"male",14.8,436,5.36223466532943,182.266816411933,"Summer",21165
+12,-122.1419,37.4419,NA,1966,"Chamaea fasciata","Chamaea_fasciata",16.3,NA,"male",14.4,298,4.01712244364952,130.435718124671,"Winter",21166
+7,-121.5,36.3,NA,1977,"Chamaea fasciata","Chamaea_fasciata",13,NA,"female",14.8,436,5.36223466532943,182.266816411933,"Summer",21167
+7,-122.6853,37.9094,NA,1970,"Chamaea fasciata","Chamaea_fasciata",13.7,NA,"male",13,938,1.92841589881122,144.311657122635,"Summer",21168
+3,-122.86266,38.04376,"U",2001,"Chamaea fasciata","Chamaea_fasciata",10.32,143,"undetermined",13,1052,2.62643899951661,130.577531051088,"Spring",21169
