@@ -1,0 +1,199 @@
+SpeciesName_cor,taxon,N (Vertnet),common name,min,max,units,source,note,Habitat,Migratory,RangeChar,SpeciesName
+Accipiter_cooperii,aves,875,Cooper's Hawk,220,700,g,,,forest,short-med dist,,Accipiter cooperii
+Accipiter_gentilis,aves,323,Northern goshawk,630,1370,g,https://birdsna.org/Species-Account/bna/species/norgos/appearance,,mature forest,resident-short dist,,Accipiter gentilis
+Aegolius_acadicus,aves,454,Northern Saw-Whet Owl,65,151,g,https://www.allaboutbirds.org/guide/Northern_Saw-whet_Owl/lifehistory,,forest,Resident to long-distance migrant,,Aegolius acadicus
+Agelaius_phoeniceus,aves,2782,Red-winged blackbird,32,77,g,https://www.allaboutbirds.org/guide/Red-winged_Blackbird/lifehistory,,marsh,resident to short dist. Migrant,,Agelaius phoeniceus 
+Aimophila_ruficeps,aves,359,Rufous-crowned Sparrow,16,23,g,https://www.allaboutbirds.org/guide/Rufous-crowned_Sparrow/lifehistory,,scrub,resident,,Aimophila ruficeps
+Ammospermophilus_leucurus,mammal,755,White-tailed antelope squirrel,90,120,g,https://naturalhistory.si.edu/mna/image_info.cfm?species_id=4,,desert and foothills,,,Ammospermophilus leucurus
+Antrozous_pallidus,mammal,359,pallid bat,13,26,g,https://en.wikipedia.org/wiki/Pallid_bat,,"arid, semi-arid",,,Antrozous pallidu
+Aphelocoma_californica,aves,1486,California scrub jay,60,102,g,,,open scrub,resident,,Aphelocoma californica
+Aplodontia_rufa,mammal,289,mountain beaver,500,1000,g,,,forest, ,,Aplodontia rufa
+Archilochus_colubris,aves,488,Ruby-throated hummingbird,2,8,g,,,open woodland,medium-long dist,,Archilochus colubris
+Auriparus_flaviceps,aves,285,Verdin,5,9,g,https://www.allaboutbirds.org/guide/Verdin/lifehistory,,scrub,resident,,Auriparus flaviceps 
+Baeolophus_bicolor,aves,308,Tufted titmouse,17,28,g,,,forest,resident ,,Baeolophus bicolor
+Baeolophus_inornatus,aves,646,Oak titmouse,10,21,g,https://www.allaboutbirds.org/guide/Oak_Titmouse/lifehistory,,open woodland,resident,,Baeolophus inornatus
+Baeolophus_ridgwayi,aves,581,Juniper titmouse,13,23,g,,,open woodland,resident,,Baeolophus ridgwayi
+Baiomys_taylori,mammal,269,northern pygymy mouse,5.5,11.5,g,http://naturalhistory.si.edu/mna/image_info.cfm?species_id=14,,grassland,,,Baiomys taylori
+Blarina_brevicauda,mammal,1582,Northern short-tailed shrew,18,30,g,,,woodlands (damp),,,Blarina brevicauda
+Bombycilla_cedrorum,aves,1385,Cedar waxwing,28,37,g,,,open woodland,Short -long migrant,,Bombycilla cedrorum
+Bombycilla_garrulus,aves,311,Bohemian waxwing,44,70,g,https://www.allaboutbirds.org/guide/Bohemian_Waxwing/lifehistory,,forest,irruptive,,Bombycilla garrulus
+Bonasa_umbellus,aves,962,Ruffed grouse,450,750,g,http://animaldiversity.org/accounts/Bonasa_umbellus/,,forest,resident,,Bonasa umbellus
+Buteo_jamaicensis,aves,1046,Red-tailed hawk,600,1500,g,https://birdsna.org/Species-Account/bna/species/rethaw/appearance,,open woodland,resident-short dist,,Buteo jamaicensis
+Callipepla_californica,aves,672,California Quail,140,230,g,,,scrub,resident,,Callipepla californica
+Callospermophilus_lateralis,mammal,963,Golden-mantled Ground Squirrel,120,394,g,,,forests,,,Callospermophilus lateralis
+Calypte_anna,aves,653,Anna's hummingbird,3,7,g,https://www.allaboutbirds.org/guide/Annas_Hummingbird/lifehistory,,open woodland,resident,,Calypte anna
+Campylorhynchus_brunneicapillus,aves,364,Cactus wren,31,48,g,https://www.allaboutbirds.org/guide/Cactus_Wren/lifehistory,,desert,resident,,Campylorhynchus brunneicapillus
+Cardinalis_cardinalis,aves,1729,Northern cardinal,33,65,g,,,open woodland,resident,,Cardinalis cardinalis
+Carduelis_flammea,aves,860,Common redpoll,11,20,g,https://www.allaboutbirds.org/guide/Common_Redpoll/lifehistory,,open woodland,irruptive,,Carduelis flammea
+Catharus_guttatus,aves,1873,Hermit Thrush,23,37,g,,,open woodland,short dist migrant,,Catharus guttatus
+Certhia_americana,aves,805,Brown Creeper,6,11,g,,,forest,resident-short dist,,Certhia americana 
+Chaetodipus_baileyi,mammal,942,Bailey's Pocket Mouse ,23,40,g,A Field Guide to the Mammals: North America North of Mexico,,desert/scrub,,,Chaetodipus baileyi
+Chaetodipus_formosus,mammal,739,Long-tailed pocket mouse,10,18,g,http://animaldiversity.org/accounts/Chaetodipus_formosus/,,scrub,,,Chaetodipus formosus
+Chaetodipus_intermedius,mammal,899,rock pocket mouse,10,21,g,http://animaldiversity.org/accounts/Chaetodipus_intermedius/,,desert,,,Chaetodipus intermedius
+Chaetodipus_penicillatus,mammal,690,Desert pocket mouse,11,22,g,http://animaldiversity.org/accounts/Chaetodipus_penicillatus/,,desert,,,Chaetodipus penicillatus
+Chamaea_fasciata,aves,692,Wrentit,11,19,g,https://birdsna.org/Species-Account/wrenti/appendix/APP1003154,,scrub,resident,,Chamaea fasciata
+Chondestes_grammacus,aves,463,Lark sparrow,20,36,g,https://birdsna.org/Species-Account/bna/species/larspa/appearance#mass,,grassland,short,,Chondestes grammacus 
+Cistothorus_palustris,aves,539,marsh wren,9,15,g,https://birdsna.org/Species-Account/bna/species/marwre/appearance#meas,,marsh,resident to short dist migrant,,Cistothorus palustris
+Coccothraustes_vespertinus,aves,492,Evening grosbeak,38,87,g,,,forest,irregular migrant,,Coccothraustes vespertinus
+Colaptes_auratus,aves,2121,Northern Flicker,106,187,g,,,open woodland,resident-short dist,,Colaptes auratus
+Colinus_virginianus,aves,489,northern bobwhite,129,255,g,https://en.wikipedia.org/wiki/Northern_bobwhite,,grassland,resident,,Colinus virginianus
+Contopus_sordidulus,aves,612,Western Wood-Pewee,10,15,g,https://www.allaboutbirds.org/guide/Western_Wood-Pewee/lifehistory,,open woodland,Medium- to long-distance,,Contopus sordidulus
+Corvus_brachyrhynchos,aves,755,American Crow,310,580,g,https://birdsna.org/Species-Account/bna/species/amecro/appearance,,open woodland,resident to short dist migrant,,Corvus brachyrhynchos
+Cyanocitta_cristata,aves,694,blue jay,70,100,g,https://birdsna.org/Species-Account/bna/species/blujay/appearance,,forest,resident-short dist,,Cyanocitta cristata
+Cyanocitta_stelleri,aves,2357,Stellar's Jay,100,140,g,https://birdsna.org/Species-Account/bna/species/boboli/appearance,,forest,resident,,Cyanocitta stelleri 
+Dipodomys_deserti,mammal,297,Desert kangaroo rat,83,148,g,http://naturalhistory.si.edu/mna/image_info.cfm?species_id=79,,desert,,,Dipodomys deserti
+Dipodomys_ordii,mammal,1504,kangaroo rat,55,96,g,animal diversity.org,,grassland,,,Dipodomys ordii
+Dipodomys_spectabilis,mammal,247,Banner Tailed Kangaroo Rat,98,132,g,http://naturalhistory.si.edu/mna/image_info.cfm?species_id=69,,scrub/desert,,,Dipodomys spectabilis 
+Dumetella_carolinensis,aves,798,Gray catbird,23,57,g,,,open woodland,migratory,,Dumetella carolinensis
+Empidonax_difficilis,aves,547,Pacific-slope Flycatcher,7,15,g,https://birdsna.org/Species-Account/bna/species/pasfly/appearance#mass,,forest,short-med dist,,Empidonax difficilis 
+Empidonax_oberholseri,aves,610,Dusky flycatcher,9,13,g,https://birdsna.org/Species-Account/bna/species/dusfly/appearance,,open woodland,migratory,,Empidonax oberholseri 
+Empidonax_occidentalis,aves,352,Cordilleran Flycatcher,9.5,14.5,g,https://www.allaboutbirds.org/guide/Cordilleran_Flycatcher/lifehistory,,forest,medium dist. Migrant,,Empidonax occidentalis
+Eptesicus_fuscus,mammal,1347,Big brown bat,11,23,g,https://naturalhistory.si.edu/mna/image_info.cfm?species_id=86,,town/forest,,,Eptesicus fuscus
+Eremophila_alpestris,aves,3479,Horned Lark,28,48,g,,,grassland,resident-short dist,,Eremophila alpestris
+Euphagus_cyanocephalus,aves,970,Brewer's blackbird,50,86,g,https://www.allaboutbirds.org/guide/Brewers_Blackbird/lifehistory,,town,resident to medium-distance migrant.,,Euphagus cyanocephalus
+Falco_sparverius,aves,1058,American kestrel,80,165,g,https://www.allaboutbirds.org/guide/American_Kestrel/lifehistory,,open woodland,Resident to long-distance migrant,,Falco sparverius
+Geomys_bursarius,mammal,818,Plains pocket gopher,128,473,g,,,scrub/woodland,,,Geomys bursarius
+Geothlypis_trichas,aves,1531,Common Yellowthroat,7,16,g,https://birdsna.org/Species-Account/bna/species/comyel/appearance,,scrub,Resident to long-distance migrant,,Geothlypis trichas
+Glaucomys_sabrinus,mammal,1328,Northern flying squirrel,75,140,g,http://animaldiversity.org/accounts/Glaucomys_sabrinus/#habitat,,forest,,,Glaucomys sabrinus
+Ixoreus_naevius,aves,446,Varied Thrush,65,100,g,https://birdsna.org/Species-Account/bna/species/varthr/appearance,,forest,resident or short dist migrant,,Ixoreus naevius
+Junco_hyemalis,aves,2737,dark eyed junco,14.3,30,g,"https://www.allaboutbirds.org/guide/Dark-eyed_Junco/lifehistory, https://birdsna.org/Species-Account/bna/species/daejun/appearance#mass",,forest,Resident to medium-distance migrant.,,Junco hyemalis
+Lanius_ludovicianus,aves,692,Loggerhead Shrike,35,55,g,,,open woodland,migratory,,Lanius ludovicianus
+Lasionycteris_noctivagans,mammal,417,Silver-haired bat,7,14,g,https://en.wikipedia.org/wiki/Silver-haired_bat,,forest,,,Lasionycteris noctivagans
+Lepus_americanus,mammal,850,snowshoe hare,900,2200,g,http://animaldiversity.org/accounts/Lepus_americanus/,,open woodland,,,Lepus americanus
+Leucosticte_tephrocotis,aves,941,Gray-crowned rosy finch,22,60,g,https://www.allaboutbirds.org/guide/Gray-crowned_Rosy-Finch/lifehistory,,mountains,resident or medium dist. Migrants,,Leucosticte tephrocotis
+Lynx_rufus,mammal,569,bobcat,3800,31000,g,smithsonian,,forest,,,Lynx rufus
+Megaceryle_alcyon,aves,291,Belted Kingfisher,113,178,g,,,lake/pond,Resident to long-distance migrant,,Megaceryle alcyon
+Megascops_kennicottii,aves,527,Western screech owl,100,305,g,https://birdsna.org/Species-Account/bna/species/wesowl1/appearance,,open woodland,resident,,Megascops kennicottii 
+Melanerpes_formicivorus,aves,524,acorn woodpecker,60,95,g,https://www.allaboutbirds.org/guide/Acorn_Woodpecker/lifehistory,,Open woodlands,resident,,Melanerpes formicivorus
+Melospiza_georgiana,aves,334,Swamp sparrow,10,25,g,https://birdsna.org/Species-Account/bna/species/swaspa/appearance#mass,,marsh,Migratory,,Melospiza georgiana
+Melospiza_melodia,aves,4079,Song Sparrow,12,53,g,https://www.allaboutbirds.org/guide/Song_Sparrow/lifehistory,,open woodland,resident to medium-distance migrant.,,Melospiza melodia
+Microtus_californicus,mammal,1583,California vole,36,81,g,https://en.wikipedia.org/wiki/California_vole,,grassland,,,Microtus californicus
+Microtus_longicaudus,mammal,4197,Long-tailed vole,20,85,g,http://animaldiversity.org/accounts/Microtus_longicaudus/,,grassland/meadow,,,Microtus longicaudus
+Microtus_montanus,mammal,2055,montane vole,18,90,g,smithsonian,,grassland/meadow,,,Microtus montanus
+Microtus_ochrogaster,mammal,1060,Prairie vole,30,70,g,http://animaldiversity.org/accounts/Microtus_ochrogaster/#habitat,,grassland,,,Microtus ochrogaster
+Microtus_oregoni,mammal,1036,Creeping vole,14.5,27.5,g,http://www.science.smith.edu/msi/pdf/i0076-3519-233-01-0001.pdf,,forest ,,,Microtus oregoni
+Microtus_pennsylvanicus,mammal,6566,Meadow mouse,33,65,g,http://animaldiversity.org/accounts/Microtus_pennsylvanicus/,,grassland/moist,,,Microtus pennsylvanicus
+Microtus_pinetorum,mammal,410,Woodland vole,14,37,g,,,forest,,,Microtus pinetorum 
+Mimus_polyglottos,aves,445,Northern mockingbird,44,59,g,https://www.allaboutbirds.org/guide/Northern_Mockingbird/lifehistory,,open area/human,,,Mimus polyglottos
+Mniotilta_varia,aves,645,Black-and-white Warbler,8,15,g,https://www.allaboutbirds.org/guide/Black-and-white_Warbler/lifehistory,,forest,short to long dist. Migrants,,Mniotilta varia
+Molothrus_ater,aves,2579,Brown-headed cowbird,30,60,g,,,grassland,short dist migrant,,Molothrus ater
+Mustela_erminea,mammal,1283,Short-tailed weasel,25,116,g,http://animaldiversity.org/accounts/Mustela_erminea/,,woodland/forest,,,Mustela erminea
+Mustela_frenata,mammal,432,Long-tailed weasel,80,450,g,,,open woodland,,,Mustela frenata
+Myadestes_townsendi,aves,323,Toundsends solitaire,28,39,g,https://birdsna.org/Species-Account/bna/species/towsol/appearance,,open woodland,resident or short dist migrant,,Myadestes townsendi
+Myiarchus_cinerascens,aves,422,Ash-throated flycatcher,20,39,g,https://www.allaboutbirds.org/guide/Ash-throated_Flycatcher/lifehistory,,open woodland,Medium- to long-distance,,Myiarchus cinerascens
+Myodes_gapperi,mammal,5462,Southern red-backed vole,6,42,g,https://en.wikipedia.org/wiki/Southern_red-backed_vole,,forest,,,Myodes gapperi
+Myotis_californicus,mammal,508,myotis bat,3,6,g,smithsonian,,widespread,,,Myotis californicus
+Myotis_lucifugus,mammal,1454,myotis bat,5,14,g,smithsonian,,widespread,,,Myotis lucifugus
+Myotis_volans,mammal,485,Long-legged Myotis,5,10,g,http://animaldiversity.org/accounts/Myotis_volans/,,forest,,,Myotis volans
+Myotis_yumanensis,mammal,542,Yuma myotis,4,8,g,http://animaldiversity.org/accounts/Myotis_yumanensis/,,open woodland,,,Myotis yumanensis
+Napaeozapus_insignis,mammal,296,Woodland jumping mouse,17,35,g,,,forests,,,Napaeozapus insignis 
+Neotoma_albigula,mammal,2779,white-throated woodrat,135,283,g,http://naturalhistory.si.edu/mna/image_info.cfm?species_id=211,,scrub/desert,,,Neotoma albigula
+Neotoma_cinerea,mammal,387,Bushy-tailed woodrat,150,500,g,,,forest and shrub,,,Neotoma cinerea
+Neotoma_fuscipes,mammal,341,dusky-footed woodrat,200,320,g,http://animaldiversity.org/accounts/Neotoma_fuscipes/,,forests,,,Neotoma fuscipes
+Neotoma_lepida,mammal,941,desert woodrat,122,350,g,https://en.wikipedia.org/wiki/Desert_woodrat,,scrub,,,Neotoma lepida
+Neovison_vison,mammal,1116,American Mink,700,1600,g,http://animaldiversity.org/accounts/Neovison_vison,,forest/marsh,,,Neovison vison
+Neurotrichus_gibbsii,mammal,1617,American shrew-mole,7,15,g,http://animaldiversity.org/accounts/Neurotrichus_gibbsii/,,forests,,,Neurotrichus gibbsii 
+Ochotona_princeps,mammal,1934,American pika,121,176,g,,,talus meadow,,,Ochotona princeps
+Onychomys_leucogaster,mammal,768,grasshopper mouse,26,49,g,smithsonian,,scrub,,,Onychomys leucogaster
+Onychomys_torridus,mammal,615,southern grasshopper mouse,20,40,g,smithsonian,,scrub,,,Onychomys torridus
+Oreortyx_pictus,aves,340,Mountain quail,180,270,g,https://birdsna.org/Species-Account/bna/species/mouqua/appearance#mass,,forest,resident,,Oreortyx pictus
+Oreoscoptes_montanus,aves,238,Sage Thrasher,35,52,g,https://birdsna.org/Species-Account/bna/species/sagthr/appearance,,scrub,short dist migrant,,Oreoscoptes montanus
+Oryzomys_palustris,mammal,355,Marsh rice rat,40,80,g,,,wetland,,,Oryzomys palustris
+Passerculus_sandwichensis,aves,1735,Savannah sparrow,15,28,g,https://www.allaboutbirds.org/guide/Savannah_Sparrow/lifehistory,,grassland,medium dist. Migrant,,Passerculus sandwichensis
+Perisoreus_canadensis,aves,1050,Grey jay,64,91,g,https://birdsna.org/Species-Account/bna/species/gryjay/appearance#meas,,forest,resident,,Perisoreus canadensis
+Perognathus_longimembris,mammal,553,Little pocket mouse,6,12,g,http://naturalhistory.si.edu/mna/image_info.cfm?species_id=248,,grassland,,,Perognathus longimembris
+Perognathus_parvus,mammal,971,pocket mouse,16,31,g,smithsonian,,brush,,,Perognathus parvus
+Peromyscus_boylii,mammal,2653,brush mouse,21,37,g,http://animaldiversity.org/accounts/Peromyscus_boylii/,,woodlands,,,Peromyscus boylii
+Peromyscus_crinitus,mammal,720,Canyon mouse,13,24,g,http://animaldiversity.org/accounts/Peromyscus_crinitus/,,scrub/desert,,,Peromyscus crinitus
+Peromyscus_eremicus,mammal,1910,Cactus mouse,18,40,g,http://naturalhistory.si.edu/mna/image_info.cfm?species_id=259,,scrub/desert,,,Peromyscus eremicus
+Peromyscus_leucopus,mammal,4906,white footed mouse,15,27,g,smithsonian,,brush/forest,,,Peromyscus leucopus
+Peromyscus_maniculatus,mammal,">10,000",Deer mouse,10,24,g,http://animaldiversity.org/accounts/Peromyscus_maniculatus/,,woodlands,,,Peromyscus maniculatus
+Peromyscus_mexicanus,mammal,245,Mexican Deermouse,29,57,g,http://naturalhistory.si.edu/mna/image_info.cfm?species_id=685,,scrub to forest,,,Peromyscus mexicanus
+Peromyscus_truei,mammal,3121,Pinyon mouse,15,50,g,https://naturalhistory.si.edu/mna/image_info.cfm?species_id=261,,scrub,,,Peromyscus truei
+Phalaenoptilus_nuttallii,aves,428,Common poorwill,36,58,g,https://en.wikipedia.org/wiki/Common_poorwill,,scrub,resident or short dist migrant,,Phalaenoptilus nuttallii
+Phenacomys_intermedius,mammal,749,Western heather vole,20,55,g,http://animaldiversity.org/accounts/Phenacomys_intermedius/,,forest,,,Phenacomys intermedius
+Picoides_pubescens,aves,886,Downy woodpecker,20,31,g,https://www.allaboutbirds.org/guide/Downy_Woodpecker/lifehistory,,forest,resident,,Picoides pubescens
+Picoides_villosus,aves,1053,Hairy woodpecker,48,74,g,,,foret ,resident,,Picoides villosus
+Pinicola_enucleator,aves,566,Pine Grosbeak,52,78,g,https://en.wikipedia.org/wiki/Pine_grosbeak,,open woodland,resident to short dist migrant,,Pinicola enucleator 
+Pipilo_erythrophthalmus,aves,972,Eastern towhee,32,53,g,https://en.wikipedia.org/wiki/Eastern_towhee,,scrub,short dist migrant,,Pipilo erythrophthalmus
+Pipilo_maculatus,aves,2590,Spotted towhee,30,51,g,https://birdsna.org/Species-Account/bna/species/spotow/appearance,,scrub,resident or short dist migrant,,Pipilo maculatus
+Pipistrellus_hesperus,mammal,309,Western pipstrelle,3,7,g,,,scrub,,,Pipistrellus hesperus
+Poecile_atricapillus,aves,536,Black-capped chickadee,8,16,g,,,forest,resident,,Poecile atricapillus
+Poecile_gambeli,aves,1025,Mountain chickadee,9,15,g,https://birdsna.org/Species-Account/bna/species/mouchi/appearance,,forest,resident,,Poecile gambeli
+Polioptila_caerulea,aves,362,Blue-gray Gnatcatcher,4,9,g,https://birdsna.org/Species-Account/bna/species/buggna/appearance#mass,,forest,resident to long dist. Migrant,,Polioptila caerulea
+Pooecetes_gramineus,aves,805,Vesper sparrow,19,30,g,https://birdsna.org/Species-Account/bna/species/vesspa/appearance,,grassland,partial migrants,,Pooecetes gramineus
+Procyon_lotor,mammal,387,Raccoon,1800,10400,g,,,all w/ water nearby,,,Procyon lotor
+Psaltriparus_minimus,aves,1244,Bushtit,3,7,g,https://www.allaboutbirds.org/guide/Bushtit/lifehistory,,scrub,resident,,Psaltriparus minimus
+Quiscalus_quiscula,aves,1545,Common grackle,74,142,g,https://birdsna.org/Species-Account/bna/species/comgra/appearance#mass,,open woodland,resident to short dist. migrant,,Quiscalus quiscula 
+Regulus_satrapa,aves,711,Golden-crowned kinglet,4,9,g,https://birdsna.org/Species-Account/bna/species/gockin/appearance#mass,,forest,Resident to medium-distance migrant.,,Regulus satrapa
+Reithrodontomys_fulvescens,mammal,458,Fulvous harvest mouse,6.5,25,g,http://naturalhistory.si.edu/mna/image_info.cfm?species_id=290,,grasss/scrub,,,Reithrodontomys fulvescens
+Reithrodontomys_megalotis,mammal,1740,Western harvest mouse,8,17,g,,,grassland,,,Reithrodontomys megalotis
+Salpinctes_obsoletus,aves,424,Rock wren,13,21,g,https://www.allaboutbirds.org/guide/Rock_Wren/lifehistory,,mountains,migratory,,Salpinctes obsoletus
+Sciurus_carolinensis,mammal,431,Eastern gray squirrel,338,750,g,,,woodlands,,,Sciurus carolinensis 
+Sciurus_griseus,mammal,332,Western gray squirrel,350,950,g,http://animaldiversity.org/accounts/Sciurus_griseus/,,woodlands,,,Sciurus griseus
+Scolopax_minor,aves,315,Woodcock,116,279,g,https://birdsna.org/Species-Account/bna/species/amewoo/appearance,,forest,resident or short dist migrant,,Scolopax minor
+Setophaga_ruticilla,aves,730,American redstart,5,11,g,,,forest,migratory,,Setophaga ruticilla
+Sialia_mexicana,aves,503,Western bluebird,24,31,g,,,open woodland,Resident to medium-distance migrant.,,Sialia mexicana
+Sialia_sialis,aves,401,eastern bluebird,26,36,g,https://www.allaboutbirds.org/guide/Eastern_Bluebird/lifehistory,,grassland,Resident to medium-distance migrant.,,Sialia sialis
+Sigmodon_hispidus,mammal,1955,Hispid cotton rat,100,225,g,http://animaldiversity.org/accounts/Sigmodon_hispidus/,,grassland,,,Sigmodon hispidus
+Sitta_canadensis,aves,528,Red-breaster nuthatch,7,14,g,https://www.allaboutbirds.org/guide/Red-breasted_Nuthatch/lifehistory,,forest,resident to short dist migrant,,Sitta canadensis
+Sitta_carolinensis,aves,1113,White-breasted nuthatch,18,30,g,,,forest,resident,,Sitta carolinensis
+Sitta_pygmaea,aves,504,Pygmy nuthatch,7,14,g,,,forest,resident,,Sitta pygmaea
+Sorex_bendirii,mammal,365,Pacific water shrew,7.5,21,g,https://naturalhistory.si.edu/mna/image_info.cfm?species_id=316,,marsh,,,Sorex bendirii
+Sorex_monticolus,mammal,">10,000",Dusky shrew,4,9,g,,,broad,,,Sorex monticolus
+Sorex_trowbridgii,mammal,6533,Trowbridge's Shrew ,3,6,g,https://naturalhistory.si.edu/mna/image_info.cfm?species_id=332,,forest,,,Sorex trowbridgii
+Sorex_vagrans,mammal,6234,shrew,3,8,g,smithsonian,,foresst/marsh,,,Sorex vagrans
+Sphyrapicus_nuchalis,aves,572,Red-naped Sapsucker,32,66,g,https://birdsna.org/Species-Account/bna/species/rensap/appearance,,forest,short dist migrant,,Sphyrapicus nuchalis 
+Sphyrapicus_ruber,aves,599,red-breasted sapsucker,39,68,g,https://www.allaboutbirds.org/guide/Red-breasted_Sapsucker/lifehistory,,forest,resident,,Sphyrapicus ruber
+Strix_varia,aves,511,Barred Owl,470,1050,g,,,forest and shrub,resident,,Strix varia
+Sturnella_magna,aves,554,Eastern Meadowlark,76,150,g,,,grassland,resident to short dist migrant,,Sturnella magna
+Sturnella_neglecta,aves,549,Western meadowlark,85,120,g,https://www.allaboutbirds.org/guide/Western_Meadowlark/lifehistory,,grassland,resident to medium-distance migrant.,,Sturnella neglecta
+Sylvilagus_audubonii,mammal,441,desert cottontail,500,1400,g,smithsonian,,grassland,,,Sylvilagus audubonii
+Sylvilagus_floridanus,mammal,388,Eastern cottontail,800,1530,g,,,grassland,,,Sylvilagus floridanus
+Synaptomys_borealis,mammal,672,Northern bog lemming,21.4,50,g,http://www.science.smith.edu/msi/pdf/i0076-3519-210-01-0001.pdf,,grassland,,,Synaptomys borealis
+Tamias_amoenus,mammal,2166,Yellow-pine chipmunks,30,73,g,http://animaldiversity.org/accounts/Tamias_amoenus/,,forest,,,Tamias amoenus
+Tamias_dorsalis,mammal,405,cliff chipmunk,54,75,,"http://animaldiversity.org/accounts/Tamias_dorsalis/, https://naturalhistory.si.edu/mna/image_info.cfm?species_id=384",,scrub,,,Tamias dorsalis
+Tamias_minimus,mammal,2521,Least chipmunk,25,66,g,https://en.wikipedia.org/wiki/Least_chipmunk,,forest,,,Tamias minimus
+Tamias_striatus,mammal,538,chipmunk,80,150,g,smithsonian,,woodlands,,,Tamias striatus
+Tamiasciurus_douglasii,mammal,923,squirrel,141,312,g,smithsonian,,forest,,,Tamiasciurus douglasii
+Thomomys_bottae,mammal,2040,pocket gopher,110,250,g,smithsonian,,scrub to forest,,,Thomomys bottae
+Thomomys_talpoides,mammal,1144,Northern pocket gopher,60,160,g,http://animaldiversity.org/accounts/Thomomys_talpoides/,,scrub/woodland,,,Thomomys talpoides
+Thryomanes_bewickii,aves,824,Bewick's wren,6,13,g,,,open woodland,resident,,Thryomanes bewickii
+Thryothorus_ludovicianus,aves,264,Carolina wren,6,25,g,,,open woodland,resident,,Thryothorus ludovicianus
+Tympanuchus_phasianellus,aves,358,Sharp-tailed grouse,596,1031,g,https://www.allaboutbirds.org/guide/Sharp-tailed_Grouse/lifehistory,,grassland,resident,,Tympanuchus phasianellus
+Tyto_alba,aves,696,Barn Owl,400,700,g,,,grassland,resident,,Tyto alba
+Vireo_cassinii,aves,450,Cassin's vireo,12,19,g,https://www.allaboutbirds.org/guide/Cassins_Vireo/lifehistory,,forest,short to medium distance,,Vireo cassinii
+Vireo_gilvus,aves,822,Warbling vireo,9,17,g,,,open woodland,"Medium- to long-distance, nocturnal migrant",,Vireo gilvus
+Zapus_hudsonius,mammal,975,Meadow jumping mouse,11,25,g,,,grassland,,,Zapus hudsonius
+Zapus_princeps,mammal,1592,Western jumpin mouse,18,35,g,,,moist grassland,,,Zapus princeps
+Zapus_trinotatus,mammal,976,Pacific jumping mouse,15,38,g,http://www.burkemuseum.org/research-and-collections/mammalogy/collections/mamwash/rodentia.php#Pacific_Jumping_Mouse,,wet forest,,,Zapus trinotatus 
+Zenaida_macroura,aves,802,Mourning dove,100,170,g,,,open woodlands,Resident to long-distance migrant,,Zenaida macroura 
+Zonotrichia_albicollis,aves,923,White-throated sparrow,22,32,g,https://www.allaboutbirds.org/guide/White-throated_Sparrow/lifehistory,,forest,short ,,Zonotrichia albicollis 
+Zonotrichia_leucophrys,aves,2725,White-crowned Sparrow,24,34,g,https://birdsna.org/Species-Account/bna/species/whcspa/appearance,,scrub,resident or medium dist. Migrants,,Zonotrichia leucophrys
+Martes_americana,mammal,1899,American marten,280,1300,g,http://animaldiversity.org/accounts/Martes_americana/,,forest,,,Martes americana
+Cratogeomys_castanops,mammal,662,Yellow-faced pocket gopher,225,410,g,https://naturalhistory.si.edu/mna/image_info.cfm?species_id=244,,grassland,,,Cratogeomys castanops
+Notiosorex_crawfordi,mammal,326,Desert shrew,2.9,6.3,g,http://naturalhistory.si.edu/mna/image_info.cfm?species_id=221,,desert/scrub,,,Notiosorex crawfordi
+Peromyscus_keeni,mammal,">10,000",Northwestern deermouse,10,31,g,http://animaldiversity.org/accounts/Peromyscus_keeni/,,forests,,,Peromyscus keeni
+Sorex_palustris,mammal,470,Water shrew,8,18,g,https://naturalhistory.si.edu/mna/image_info.cfm?species_id=322,,forest (humid),,,Sorex palustris
+Tamiasciurus_hudsonicus,mammal,2484,red squirrel,140,282,g,"smithsonian, http://www.science.smith.edu/msi/pdf/i0076-3519-586-01-0001.pdf",,forest,,,Tamiasciurus hudsonicus
+Melozone_fusca,aves,387 P. Fuscus+73 Melozone fusca,Canyon Towhee,36.5,67,g,"https://www.allaboutbirds.org/guide/Canyon_Towhee/lifehistory, https://en.wikipedia.org/wiki/Canyon_towhee",,scrub,resident-short dist,,Melozone fusca (Pipilo fuscus)
+Dendroica_pinus,aves,225 (+42 Setophaga),pine warbler,9,17,g,"https://www.allaboutbirds.org/guide/Pine_Warbler/lifehistory, https://birdsna.org/Species-Account/bna/species/pinwar/appearance#mass",Also known as Setophaga pinus,forest,,,Dendroica (Setophaga) pinus
+Corynorhinus_townsendii,mammal,"230 C. townsendii, 74 P townsendii",Townsend's big-eared bat,6,12,g,https://en.wikipedia.org/wiki/Townsend%27s_big-eared_bat,,forest,,,Corynorhinus (Plecotus) townsendii 
+Haemorhous_purpureus,aves,665 C. purpueus + 53 H. purpureus,Purple finch,18,32,g,https://www.allaboutbirds.org/guide/Purple_Finch/lifehistory,,forest,short dist migrant,,Haemorhous (Carpodacus) purpureus
+Ictidomys_tridecemlineatus,mammal,144 + 232 (I. and S.),Thirteen-lined ground squirrel,110,270,g,https://en.wikipedia.org/wiki/Thirteen-lined_ground_squirrel,,scrub/grassland,,,Ictidomys (Spermophilus) tridecemlineatus
+Melozone_crissalis,aves,680 (P. crissalis) + 26 (M. crissalis),California Towhee,37,67,g,https://birdsna.org/Species-Account/bna/species/caltow/appearance,,scrub/grassland,,,Melozone (Pipilo) crissalis
+Otospermophilus_beecheyi,mammal,293+197 (both names),California ground squirrel,280,783,g,http://animaldiversity.org/accounts/Spermophilus_beecheyi/,,grassland,,,Otospermophilus beecheyi (also Spermophilus beecheyi)
+Spinus_psaltria,aves,908 (C. psaltria) + 57 (S. psaltria),Lesser Goldfinch,7,12,g,https://birdsna.org/Species-Account/bna/species/lesgol/appearance#mass,,open woodland,resident,,Spinus (Carduelis) psaltria
+Spinus_tristis,aves,1166  C. tristis + 152 S. tristris,American goldfinch,11,20,g,https://www.allaboutbirds.org/guide/American_Goldfinch/lifehistory,,open woodland,short dist migrant,,Spinus (Carduelis) tristis
+Megascops_asio,aves,200+771,Eastern screech owl,121,244,g,https://www.allaboutbirds.org/guide/Eastern_Screech-Owl/lifehistory,,forest,resident,eastern US,Megascops (Otus) asio
+Myodes_californicus,mammal,1092+618,California redback vole,15,40,g,http://animaldiversity.org/accounts/Myodes_californicus/,,Forest,,West coast,Myodes (Clethrionomys) californicus
+Loxia_curvirostra,aves,1749,Red Crossbill,23,46,g,http://animaldiversity.org/accounts/Loxia_curvirostra/,,conifer forest,resident,Broad NA,Loxia curvirostra
+Macrotus_californicus,mammal,283 (with georefs),California leafnose bat,8,22,g,"http://animaldiversity.org/accounts/Macrotus_californicus/, https://naturalhistory.si.edu/mna/image_info.cfm?species_id=145",,desert,,interior West,Macrotus californicus
+Melanerpes_carolinus,aves,331,Red-bellied woodpecker,56,91,g,https://www.allaboutbirds.org/guide/Red-headed_Woodpecker/lifehistory,,Forest,resident,Eastern US,Melanerpes carolinus
+Myotis_velifer,mammal,494,cave myotis,7,14,g,ADWhttp://animaldiversity.org/accounts/Myotis_velifer/,,plains,,Interior West,Myotis velifer
+Perognathus_flavus,mammal,987,Silky pocketmouse,5,10,g,https://naturalhistory.si.edu/mna/image_info.cfm?species_id=250,,arid grasslands,,Interior West,Perognathus flavus
+Sorex_cinereus,mammal,">10,000",Masked shrew,2.2,6,g,"http://www.science.smith.edu/msi/pdf/743_Sorex_cinereus.pdf, https://naturalhistory.si.edu/mna/image_info.cfm?species_id=320",,widespread,,US/Canada,Sorex cinereus
+Sorex_hoyi,mammal,490 (with georefs),Pygymy shrew,2,6.6,g,"https://en.wikipedia.org/wiki/American_pygmy_shrew, http://fieldguide.mt.gov/speciesDetail.aspx?elcode=amaba01250",,forests,,US/Canada,Sorex hoyi
+Sorex_ornatus,mammal,228 (with georefs),Ornate shrew,2.9,8.7,g,https://naturalhistory.si.edu/mna/image_info.cfm?species_id=324,,wetland/marsh,,West Coast,Sorex ornatus
+Tamias_speciosus,mammal,535,Lodgepole chipmunk,50,70,g,"http://www.science.smith.edu/msi/pdf/i0076-3519-478-01-0001.pdf, http://animaldiversity.org/accounts/Tamias_speciosus/",,forest,,West (CA interior),Tamias speciosus
+Tamias_townsendii,mammal,946,Townsends chipmunk,60,118,g,http://animaldiversity.org/accounts/Tamias_townsendii/,,forest,,West coast,Tamias townsendii

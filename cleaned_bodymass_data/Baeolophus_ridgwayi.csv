@@ -1,0 +1,564 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-120.35436,40.91219,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",12.7,NA,"female",6.5,287,8.00140139240772,74.3677757135274,"Summer",7652
+10,-119.20396,38.51328,"AHY",2012,"Baeolophus ridgwayi zaleptus","Baeolophus_ridgwayi",13.2,NA,"undetermined",8.5,276,7.43946784509361,117.021487556613,"Fall",7362
+4,-115.4207,35.1716,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.4,NA,"female",13.3,226,7.4526942453821,104.786459145264,"Spring",7506
+4,-110.3958,33.6181,"unknown",1949,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.5,NA,"male",10.5,610,8.6683681313501,99.6252537030282,"Spring",7629
+5,-114.44903,37.51717,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.7,NA,"male ?",11.4,209,8.78143271944052,81.363249159862,"Spring",7410
+9,-121.1911003,41.7437788,"lg.sk.wind.",1996,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.7,NA,"female",9,536,7.02883131800513,67.3403943994342,"Fall",7534
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.7,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7590
+6,-118.566964,37.876794,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.8,NA,"female",8.4,206,8.20493199794545,84.6286895719924,"Summer",7432
+5,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.8,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",7595
+5,-114.09734,36.5919,"ad.oss.",1970,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.9,NA,"female",11.5,339,8.23151740494295,107.917881141305,"Spring",7381
+6,-115.50028,35.96583,"unknown",1940,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.9,NA,"female",8.4,568,7.43201000586468,145.832625928857,"Summer",7603
+6,-118.156917,37.300795,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",13.9,NA,"female",7.9,166,7.81903272325118,88.0447573261966,"Summer",7707
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7591
+6,-119.9754,42.0616,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7650
+10,-108.458054,35.477222,"large skull windows",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14,NA,"female",8.9,296,8.54049178911847,64.548011581294,"Fall",7800
+9,-111.5625,35.4603,"unknown",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",7830
+1,-115.4207,35.1716,"unknown",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.1,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7588
+9,-118.78213,38.16155,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.1,NA,"female",6.6,273,7.43457830313559,116.335385800511,"Fall",7788
+6,-115.4207,35.1716,"imm.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.1,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",7881
+9,-118.78213,38.16155,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.2,NA,"female",6.6,273,7.43457830313559,116.335385800511,"Fall",7515
+10,-105.939125,36.34746,"lrg.sk.wind.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.2,NA,"female",9,432,8.51217933138729,56.8781950176199,"Fall",7751
+4,-109.9636,33.7209,"unknown",1949,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.3,NA,"male",11.1,513,8.45560151436295,90.2722595045756,"Spring",7371
+6,-112.53826,40.35199,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.3,NA,"female",9.1,409,9.9217239459988,54.294345446276,"Summer",7447
+6,-117.972801,37.036501,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.3,NA,"female",8.1,202,8.34814441367153,170.26039419219,"Summer",7563
+12,-115.3694888,35.1274017,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.3,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",7575
+6,-115.28361,36.63,"ad.",1963,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.3,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",7632
+6,-115.28361,36.63,"juv.sk.",1963,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.3,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",7633
+9,-121.2366201,41.6474561,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.3,NA,"female",8,279,8.12966882176114,56.5606636504012,"Fall",7699
+10,-109.1885,31.9275,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.4,NA,"female",14.2,373,6.79337912971152,113.924995282793,"Fall",7427
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.4,NA,"female",10.6,195,8.10403472277105,138.460101551806,"Fall",7683
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.4,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7863
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.4,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7871
+5,-114.44903,37.51717,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"female",11.4,209,8.78143271944052,81.363249159862,"Spring",7412
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"female",10.6,195,8.10403472277105,138.460101551806,"Fall",7423
+9,-118.79591,38.16155,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"female",6.7,269,7.48677622089896,116.707544546119,"Fall",7512
+10,-111.5372,35.4475,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"female",10.2,206,8.04910591684605,134.883179436417,"Fall",7690
+10,-105.939125,36.34746,"medium skull windows",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"female ?",9,432,8.51217933138729,56.8781950176199,"Fall",7755
+9,-111.5625,35.4603,"imm.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",7825
+9,-111.5625,35.4603,"unknown",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",7829
+5,-113.1458,36.4022,"unknown",1933,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"male",7.8,247,9.24453974795474,70.918783111838,"Spring",7841
+1,-115.3694888,35.1274017,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"female",12.8,252,7.68106684509306,131.775361938917,"Winter",7857
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7876
+5,-115.57412,35.51722,"unknown",1939,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",7883
+6,-115.50028,35.96583,"juv.",1940,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.5,NA,"male",8.4,568,7.43201000586468,145.832625928857,"Summer",7888
+10,-107.5067666667,33.9443666667,NA,2010,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.6,NA,"undetermined",10.1,326,7.75055716472283,105.584487099592,"Fall",7365
+5,-114.42175,37.48092,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.6,NA,"male",11,228,8.76008509713752,78.8549608367524,"Spring",7419
+10,-111.5372,35.4475,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.6,NA,"female",10.2,206,8.04910591684605,134.883179436417,"Fall",7426
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.6,NA,"female",10.5,271,10.563842706481,56.7302400964165,"Fall",7765
+6,-108.7573847,33.6236049,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.6,NA,"male",10.5,563,7.88610208281671,78.6690081510497,"Summer",7902
+6,-108.7573847,33.6236049,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.6,NA,"female",10.5,563,7.88610208281671,78.6690081510497,"Summer",7924
+6,-120.35436,40.91219,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"female",6.5,287,8.00140139240772,74.3677757135274,"Summer",7396
+6,-120.35436,40.91219,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"female",6.5,287,8.00140139240772,74.3677757135274,"Summer",7399
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"male",10.6,195,8.10403472277105,138.460101551806,"Fall",7421
+1,-115.3694888,35.1274017,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"male",12.8,252,7.68106684509306,131.775361938917,"Winter",7576
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7580
+6,-117.9725246,37.0202014,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",7608
+6,-118.68049,38.32778,"ad.sk.",1971,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"female",4.9,383,7.40762813223332,101.521202513419,"Summer",7635
+9,-107.5882059,39.47014336,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"female",8.4,376,9.76355312870113,44.2295528324558,"Fall",7733
+1,-115.3694888,35.1274017,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"male",12.8,252,7.68106684509306,131.775361938917,"Winter",7858
+5,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",7879
+6,-117.9725246,37.0202014,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.7,NA,"female",8.4,103,7.59514897015114,127.551037099331,"Summer",7892
+6,-118.566964,37.876794,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.8,NA,"female",8.4,206,8.20493199794545,84.6286895719924,"Summer",7435
+10,-105.939125,36.34746,"small skull windows",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.8,NA,"female",9,432,8.51217933138729,56.8781950176199,"Fall",7485
+9,-121.2366201,41.6474561,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.8,NA,"female",8.6,305,7.2382820663972,85.6824771617588,"Fall",7497
+9,-118.78213,38.16155,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.8,NA,"female",6.6,273,7.43457830313559,116.335385800511,"Fall",7514
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7589
+6,-115.4207,35.1716,"imm.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",7596
+10,-119.62993,39.94006,"unknown",1947,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.8,NA,"female",10.4,100,7.61773747528912,68.806214920597,"Fall",7622
+11,-109.1885,31.9275,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.8,NA,"female",14.2,373,6.79337912971152,113.924995282793,"Fall",7695
+6,-115.49684,40.00691,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.8,NA,"female",7.4,322,8.25812272305824,76.8828149824113,"Summer",7784
+9,-118.891665,37.876689,"large skull windows",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"female",5.6,410,7.08332976827005,127.260930563703,"Fall",7518
+10,-108.458054,35.477222,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"female",8.9,296,8.54049178911847,64.548011581294,"Fall",7523
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7645
+6,-119.99887,39.90694,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"female",9.5,360,8.00955395421334,69.0922381584022,"Summer",7664
+5,-114.42175,37.48092,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"female",11,228,8.76008509713752,78.8549608367524,"Spring",7679
+6,-112.53826,40.35199,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"undetermined",9.1,409,9.9217239459988,54.294345446276,"Summer",7714
+9,-107.5882059,39.47014336,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"female",8.4,376,9.76355312870113,44.2295528324558,"Fall",7731
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"female",10.5,271,10.563842706481,56.7302400964165,"Fall",7762
+10,-118.03306,40.79472,"ad.sk.",1991,"Baeolophus ridgwayi ?","Baeolophus_ridgwayi",14.9,NA,"female",10.2,207,8.99725547378788,64.8592310463727,"Fall",7775
+10,-105.660546,33.901946,"adult skull",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"female",10.2,548,7.40955566491778,111.96492550588,"Fall",7803
+1,-115.4207,35.1716,"unknown",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",14.9,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7870
+10,-118.681281,38.412435,"HY",2012,"Baeolophus ridgwayi zaleptus","Baeolophus_ridgwayi",15,NA,"male",8.8,186,7.70778826901725,81.0534576697119,"Fall",7363
+6,-114.33583,39.14361,"juv.",1962,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"male",7.7,248,8.93923934124151,79.5461564826503,"Summer",7377
+6,-120.35436,40.89046,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",6.5,281,8.03652174875311,75.5094017908539,"Summer",7404
+6,-119.99442,39.91115,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"male",9.2,365,7.9111495927449,68.9136928105683,"Summer",7407
+5,-114.44903,37.51717,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"undetermined",11.4,209,8.78143271944052,81.363249159862,"Spring",7411
+9,-107.573666,39.45597073,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",7.4,431,9.39304626741603,42.2867651855508,"Fall",7459
+4,-109.9636,33.7209,"unknown",1949,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",11.1,513,8.45560151436295,90.2722595045756,"Spring",7631
+6,-119.99442,39.91115,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",9.2,365,7.9111495927449,68.9136928105683,"Summer",7667
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",10.6,195,8.10403472277105,138.460101551806,"Fall",7681
+6,-118.566964,37.876794,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"undetermined",8.4,206,8.20493199794545,84.6286895719924,"Summer",7700
+5,-115.085,38.00167,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",7.1,373,8.8250118035804,53.7145427683701,"Spring",7738
+10,-105.660546,33.901946,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",10.2,548,7.40955566491778,111.96492550588,"Fall",7810
+9,-111.5625,35.4603,"imm.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",7824
+12,-115.3694888,35.1274017,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",7851
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7864
+6,-108.7573847,33.6236049,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"female",10.5,563,7.88610208281671,78.6690081510497,"Summer",7904
+7,-120.3906666667,40.7001666667,"imm.",1928,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15,NA,"male",9.1,264,7.49514489317565,108.84135993461,"Summer",7907
+6,-118.156917,37.300795,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.1,NA,"male",7.9,166,7.81903272325118,88.0447573261966,"Summer",7442
+6,-118.74539,38.15067,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.1,NA,"female",6.5,283,7.34320960294116,116.980826488782,"Summer",7517
+9,-119.9652082,39.7348637,"ad.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.1,NA,"male",9.2,320,6.26597352710848,57.8031872248235,"Fall",7559
+6,-117.972801,37.036501,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.1,NA,"female",8.1,202,8.34814441367153,170.26039419219,"Summer",7562
+10,-119.56963,39.05579,"AHY",2012,"Baeolophus ridgwayi zaleptus","Baeolophus_ridgwayi",15.1,NA,"male",10,538,7.52198293488674,137.623901552949,"Fall",7625
+6,-114.33583,39.14361,"juv.",1962,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"female",7.7,248,8.93923934124151,79.5461564826503,"Summer",7376
+6,-115.28361,36.63,"juv.sk.",1963,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",7378
+6,-118.143962,37.272112,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"female",8.1,156,7.87733611333325,87.4940434747024,"Summer",7440
+6,-112.53826,40.35199,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"female",9.1,409,9.9217239459988,54.294345446276,"Summer",7445
+10,-108.458054,35.477222,"med.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"female",8.9,296,8.54049178911847,64.548011581294,"Fall",7522
+6,-121.44388,41.67864,"ad.sk.",1994,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"male",8.9,228,8.11898262024737,82.3545465154478,"Summer",7531
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7592
+5,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",7594
+6,-117.119278,36.933767,"juv.",1940,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"male ?",10.3,173,7.47577907159332,92.1758036030211,"Summer",7601
+10,-111.5372,35.4475,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"female",10.2,206,8.04910591684605,134.883179436417,"Fall",7688
+10,-120.46574,40.90019,"unknown",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"female",7.3,181,8.14722019892042,97.6077493197785,"Fall",7835
+12,-115.3694888,35.1274017,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",7855
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.2,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7866
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7394
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"female",10.6,195,8.10403472277105,138.460101551806,"Fall",7422
+6,-118.143962,37.272112,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"undetermined",8.1,156,7.87733611333325,87.4940434747024,"Summer",7437
+10,-105.939125,36.34746,"med.sk.wind.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"female",9,432,8.51217933138729,56.8781950176199,"Fall",7483
+8,-108.693029,35.076848,"unknown",1988,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"male",9.4,400,8.45865165843752,80.4608053640526,"Summer",7639
+5,-114.42175,37.48092,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"male",11,228,8.76008509713752,78.8549608367524,"Spring",7680
+10,-109.1885,31.9275,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"female",14.2,373,6.79337912971152,113.924995282793,"Fall",7691
+10,-108.458054,35.477222,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"female",8.9,296,8.54049178911847,64.548011581294,"Fall",7798
+9,-111.5625,35.4603,"ad.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",7831
+9,-111.5625,35.4603,"imm.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",7832
+12,-115.3694888,35.1274017,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"undetermined",13.3,133,8.66869585801624,112.414923169322,"Winter",7852
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7859
+10,-108.713224,33.7249663,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.3,NA,"female",10,531,7.12619474299935,76.17544257864,"Fall",7905
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"undetermined",10.6,195,8.10403472277105,138.460101551806,"Fall",7420
+5,-119.89563,39.92927,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"female",9.6,246,8.82784849727889,91.8335188057842,"Spring",7444
+10,-105.660546,33.901946,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7530
+1,-115.3694888,35.1274017,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"female",12.8,252,7.68106684509306,131.775361938917,"Winter",7577
+6,-115.4207,35.1716,"juv.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",7597
+6,-117.9725246,37.0202014,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"female",8.4,103,7.59514897015114,127.551037099331,"Summer",7607
+5,-114.42175,37.48092,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"female",11,228,8.76008509713752,78.8549608367524,"Spring",7675
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"female",10.5,271,10.563842706481,56.7302400964165,"Fall",7763
+4,-115.4207,35.1716,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"female",13.3,226,7.4526942453821,104.786459145264,"Spring",7772
+6,-115.55339,40.01053,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"male",7.2,329,8.19901601634999,76.8266286105502,"Summer",7777
+12,-115.3694888,35.1274017,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",7853
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7865
+1,-115.4207,35.1716,"unknown",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7872
+6,-108.7573847,33.6236049,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.4,NA,"female",10.5,563,7.88610208281671,78.6690081510497,"Summer",7903
+4,-109.9636,33.7209,"unknown",1949,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",11.1,513,8.45560151436295,90.2722595045756,"Spring",7374
+6,-119.9754,42.0616,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7390
+6,-120.35436,40.91219,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",6.5,287,8.00140139240772,74.3677757135274,"Summer",7398
+5,-114.42175,37.48092,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",11,228,8.76008509713752,78.8549608367524,"Spring",7416
+10,-111.5372,35.4475,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",10.2,206,8.04910591684605,134.883179436417,"Fall",7424
+6,-118.566964,37.876794,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",8.4,206,8.20493199794545,84.6286895719924,"Summer",7434
+6,-112.52406,40.33025,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",9.7,355,10.1146570816211,52.9117364718033,"Summer",7456
+10,-105.939125,36.34746,"adult skull",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",9,432,8.51217933138729,56.8781950176199,"Fall",7484
+10,-109.46904,38.34681,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",10.7,269,10.5751280528102,58.1410730372612,"Fall",7487
+9,-111.5625,35.4603,"ad.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",7541
+12,-115.51144,34.93878,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",16.1,142,8.85872280280683,119.71906303898,"Winter",7571
+12,-115.3694888,35.1274017,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",7573
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7593
+6,-115.50028,35.96583,"juv.",1940,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",8.4,568,7.43201000586468,145.832625928857,"Summer",7604
+9,-113.27422,37.60218,"ad.",1941,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",8.7,626,7.19424749155163,53.7316808528519,"Fall",7605
+12,-120.277486,40.5427277,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",8.8,219,8.35674287717119,92.5221304861657,"Winter",7617
+11,-107.25875,33.9894833333,NA,2008,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"undetermined",10.8,330,7.20231444282554,121.643669715029,"Fall",7628
+6,-115.64714,36.40167,"juv.sk.",1963,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"undetermined",9.9,443,7.75036656024615,157.805418806367,"Summer",7634
+5,-114.44903,37.51717,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",11.4,209,8.78143271944052,81.363249159862,"Spring",7674
+6,-112.53826,40.35199,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",9.1,409,9.9217239459988,54.294345446276,"Summer",7712
+9,-107.573666,39.45597073,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",7.4,431,9.39304626741603,42.2867651855508,"Fall",7729
+10,-105.939125,36.34746,"large skull windows",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7757
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",10.5,271,10.563842706481,56.7302400964165,"Fall",7764
+9,-111.5625,35.4603,"ad.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",7828
+10,-111.5625,35.4603,"unknown",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",7833
+12,-115.3694888,35.1274017,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",7854
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7867
+5,-115.57412,35.51722,"unknown",1939,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",7884
+6,-117.9725246,37.0202014,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.5,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",7889
+6,-119.9754,42.0616,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"undetermined",7.1,269,8.24004909517589,70.4945212851083,"Summer",7391
+6,-120.35436,40.91219,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",6.5,287,8.00140139240772,74.3677757135274,"Summer",7400
+5,-114.42175,37.48092,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",11,228,8.76008509713752,78.8549608367524,"Spring",7414
+9,-107.573666,39.45597073,"lrg.sk.wind.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",7.4,431,9.39304626741603,42.2867651855508,"Fall",7461
+10,-120.46574,40.90019,"unknown",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",7.3,181,8.14722019892042,97.6077493197785,"Fall",7548
+10,-119.42944,40.45639,"unknown",1947,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",10.6,125,8.40485069180382,80.7611696446165,"Fall",7621
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7643
+6,-119.9754,42.0616,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7646
+5,-119.89563,39.92927,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",9.6,246,8.82784849727889,91.8335188057842,"Spring",7709
+9,-107.573666,39.45597073,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",7.4,431,9.39304626741603,42.2867651855508,"Fall",7728
+9,-118.78213,38.16155,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"male",6.6,273,7.43457830313559,116.335385800511,"Fall",7789
+1,-115.2819254,35.1991552,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"female",13.5,246,7.78698895399865,131.032186040663,"Winter",7856
+6,-108.713224,33.7249663,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.6,NA,"male",10.4,498,8.10388515129963,81.9339648910369,"Summer",7901
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7392
+6,-119.99442,39.91115,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",9.2,365,7.9111495927449,68.9136928105683,"Summer",7406
+5,-114.42175,37.48092,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",11,228,8.76008509713752,78.8549608367524,"Spring",7418
+10,-108.458054,35.477222,"small skull windows",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"male",8.9,296,8.54049178911847,64.548011581294,"Fall",7519
+10,-105.660546,33.901946,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",10.2,548,7.40955566491778,111.96492550588,"Fall",7525
+5,-115.57412,35.51722,"unknown",1939,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",7599
+12,-120.277486,40.5427277,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"male",8.8,219,8.35674287717119,92.5221304861657,"Winter",7616
+4,-109.9636,33.7209,"unknown",1949,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",11.1,513,8.45560151436295,90.2722595045756,"Spring",7630
+6,-120.35436,40.89046,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",6.5,281,8.03652174875311,75.5094017908539,"Summer",7657
+6,-120.35436,40.89046,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",6.5,281,8.03652174875311,75.5094017908539,"Summer",7660
+10,-109.1885,31.9275,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",14.2,373,6.79337912971152,113.924995282793,"Fall",7692
+10,-109.2344,31.9027,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",12.5,489,6.67457296330067,117.74026202056,"Fall",7697
+6,-118.156917,37.300795,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",7.9,166,7.81903272325118,88.0447573261966,"Summer",7706
+6,-112.56667,40.3375,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",8.7,431,9.87793301283526,53.0944220311195,"Summer",7720
+10,-105.939125,36.34746,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",9,432,8.51217933138729,56.8781950176199,"Fall",7750
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",10.5,271,10.563842706481,56.7302400964165,"Fall",7760
+6,-115.55339,40.01053,"juv.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",7.2,329,8.19901601634999,76.8266286105502,"Summer",7780
+10,-108.458054,35.477222,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",8.9,296,8.54049178911847,64.548011581294,"Fall",7796
+10,-108.458054,35.477222,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"male",8.9,296,8.54049178911847,64.548011581294,"Fall",7797
+10,-108.458054,35.477222,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",8.9,296,8.54049178911847,64.548011581294,"Fall",7799
+6,-115.4582835,38.1225196,"unknown",1932,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",9.2,249,9.6872925197723,89.3485393250468,"Summer",7840
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7877
+5,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",7878
+10,-108.713224,33.7249663,"medium skull windows",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"male",10.4,498,8.10388515129963,81.9339648910369,"Fall",7920
+6,-108.7573847,33.6236049,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.7,NA,"male",10.5,563,7.88610208281671,78.6690081510497,"Summer",7921
+6,-119.9754,42.0616,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7393
+9,-107.573666,39.45597073,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"male",7.4,431,9.39304626741603,42.2867651855508,"Fall",7460
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"female",10.5,271,10.563842706481,56.7302400964165,"Fall",7491
+10,-108.458054,35.477222,"medium skull windows",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"male",8.9,296,8.54049178911847,64.548011581294,"Fall",7521
+6,-112.56667,40.3375,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"female",8.7,431,9.87793301283526,53.0944220311195,"Summer",7716
+9,-112.52406,40.33025,"large skull windows",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"female",9.7,355,10.1146570816211,52.9117364718033,"Fall",7725
+6,-115.5303,40.11527,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"female",7.7,332,9.48298316443564,52.5170505253145,"Summer",7734
+10,-108.458054,35.477222,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"male",8.9,296,8.54049178911847,64.548011581294,"Fall",7794
+10,-105.660546,33.901946,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"female",10.2,548,7.40955566491778,111.96492550588,"Fall",7806
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7860
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7868
+6,-117.119278,36.933767,"juv.",1940,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.8,NA,"male",10.3,173,7.47577907159332,92.1758036030211,"Summer",7887
+4,-109.9636,33.7209,"unknown",1949,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",11.1,513,8.45560151436295,90.2722595045756,"Spring",7372
+10,-109.1885,31.9275,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"female",14.2,373,6.79337912971152,113.924995282793,"Fall",7430
+10,-109.46904,38.34681,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",10.7,269,10.5751280528102,58.1410730372612,"Fall",7488
+9,-121.2366201,41.6474561,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",8.6,305,7.2382820663972,85.6824771617588,"Fall",7499
+9,-118.144151,37.286267,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",7.9,206,7.4988281912859,143.365383611223,"Fall",7502
+12,-115.3694888,35.1274017,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",7572
+12,-115.3694888,35.1274017,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",7574
+6,-119.99887,39.90694,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"female",9.5,360,8.00955395421334,69.0922381584022,"Summer",7666
+6,-118.143962,37.272112,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",8.1,156,7.87733611333325,87.4940434747024,"Summer",7702
+5,-115.085,38.00167,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",7.1,373,8.8250118035804,53.7145427683701,"Spring",7737
+6,-118.03306,40.79472,"ad.sk.",1991,"Baeolophus ridgwayi ?","Baeolophus_ridgwayi",15.9,NA,"female",10.2,207,8.99725547378788,64.8592310463727,"Summer",7774
+9,-121.1911003,41.7437788,"unknown",1996,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"female",9,536,7.02883131800513,67.3403943994342,"Fall",7815
+6,-115.50028,35.96583,"juv.",1940,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",8.4,568,7.43201000586468,145.832625928857,"Summer",7886
+6,-108.713224,33.7249663,"adult skull",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",10.4,498,8.10388515129963,81.9339648910369,"Summer",7918
+6,-108.7573847,33.6236049,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",15.9,NA,"male",10.5,563,7.88610208281671,78.6690081510497,"Summer",7922
+9,-108.9865833333,31.5163833333,NA,2009,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",15.7,324,6.8874666583365,81.2827135029541,"Fall",7364
+6,-120.35436,40.91219,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",6.5,287,8.00140139240772,74.3677757135274,"Summer",7397
+6,-120.35436,40.89046,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",6.5,281,8.03652174875311,75.5094017908539,"Summer",7403
+6,-112.53826,40.35199,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male ?",9.1,409,9.9217239459988,54.294345446276,"Summer",7446
+6,-112.56667,40.3375,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",8.7,431,9.87793301283526,53.0944220311195,"Summer",7450
+6,-112.56667,40.3375,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"undetermined",8.7,431,9.87793301283526,53.0944220311195,"Summer",7452
+9,-107.573666,39.45597073,"med.sk.wind.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",7.4,431,9.39304626741603,42.2867651855508,"Fall",7464
+5,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",10,298,8.951735061208,40.1814068263601,"Spring",7476
+5,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",10,298,8.951735061208,40.1814068263601,"Spring",7478
+9,-121.2366201,41.6474561,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",8.6,305,7.2382820663972,85.6824771617588,"Fall",7496
+10,-118.03306,40.79472,"ad.sk.",1991,"Baeolophus ridgwayi ?","Baeolophus_ridgwayi",16,NA,"male",10.2,207,8.99725547378788,64.8592310463727,"Fall",7508
+10,-111.5625,35.4603,"unknown",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",7545
+9,-119.9652082,39.7348637,"imm.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",9.2,320,6.26597352710848,57.8031872248235,"Fall",7555
+9,-119.9652082,39.7348637,"imm.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",9.2,320,6.26597352710848,57.8031872248235,"Fall",7556
+9,-119.9652082,39.7348637,"imm.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",9.2,320,6.26597352710848,57.8031872248235,"Fall",7557
+9,-119.9652082,39.7348637,"ad.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",9.2,320,6.26597352710848,57.8031872248235,"Fall",7558
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7578
+1,-115.4207,35.1716,"unknown",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7587
+5,-115.57412,35.51722,"unknown",1939,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",7600
+6,-117.9725246,37.0202014,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",7606
+12,-120.277486,40.5427277,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",8.8,219,8.35674287717119,92.5221304861657,"Winter",7618
+6,-120.35436,40.89046,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",6.5,281,8.03652174875311,75.5094017908539,"Summer",7659
+6,-120.35436,40.89046,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",6.5,281,8.03652174875311,75.5094017908539,"Summer",7663
+5,-114.68472,37.58525,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",10.7,209,8.32198621396686,82.3517624018251,"Spring",7671
+5,-114.44903,37.51717,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",11.4,209,8.78143271944052,81.363249159862,"Spring",7673
+10,-109.2344,31.9027,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",12.5,489,6.67457296330067,117.74026202056,"Fall",7698
+6,-118.143962,37.272112,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",8.1,156,7.87733611333325,87.4940434747024,"Summer",7703
+6,-112.56667,40.3375,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",8.7,431,9.87793301283526,53.0944220311195,"Summer",7722
+5,-115.085,38.00167,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",7.1,373,8.8250118035804,53.7145427683701,"Spring",7736
+10,-105.939125,36.34746,"adult skull",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7748
+10,-105.939125,36.34746,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",9,432,8.51217933138729,56.8781950176199,"Fall",7758
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",10.5,271,10.563842706481,56.7302400964165,"Fall",7761
+9,-120.6296995,41.5353572,"adult skull",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",8.7,248,7.49472541797957,74.7052578398137,"Fall",7820
+9,-120.6132633,41.5778689,"adult skull",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",8.5,255,7.40026105190645,75.0564430581566,"Fall",7821
+5,-115.57412,35.51722,"unknown",1939,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"female",10.8,350,7.72694518022367,101.422951309955,"Spring",7882
+5,-115.57412,35.51722,"unknown",1939,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",7885
+6,-108.713224,33.7249663,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",10.4,498,8.10388515129963,81.9339648910369,"Summer",7900
+7,-103.625,37.0833333333,NA,1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,136,"female",10.1,420,7.96998155961518,71.8377888268079,"Summer",7914
+6,-108.7577951,33.6091391,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16,NA,"male",10.8,555,7.93237994016622,77.7729732462009,"Summer",7925
+10,-107.5067666667,33.9443666667,NA,2010,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"male",10.1,326,7.75055716472283,105.584487099592,"Fall",7366
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7385
+10,-109.41844,38.34318,"adult skull",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"undetermined",10.5,271,10.563842706481,56.7302400964165,"Fall",7489
+10,-105.660546,33.901946,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7526
+10,-109.46904,38.34681,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"male",10.7,269,10.5751280528102,58.1410730372612,"Fall",7759
+5,-118.143751,37.275358,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"male",7.9,207,7.48244409915435,143.073783420456,"Spring",7769
+4,-115.4207,35.1716,"adult skull",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"male",13.3,226,7.4526942453821,104.786459145264,"Spring",7770
+4,-115.4207,35.1716,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"male",13.3,226,7.4526942453821,104.786459145264,"Spring",7771
+6,-115.55339,40.01053,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"female",7.2,329,8.19901601634999,76.8266286105502,"Summer",7779
+1,-115.4207,35.1716,"imm.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7862
+5,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.1,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",7880
+6,-114.02278,38.94167,"unknown",1962,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"male",9.8,140,9.36729885712994,66.135032660162,"Summer",7375
+5,-114.44903,37.51717,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"male",11.4,209,8.78143271944052,81.363249159862,"Spring",7409
+10,-111.5372,35.4475,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"male",10.2,206,8.04910591684605,134.883179436417,"Fall",7425
+6,-118.143962,37.272112,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"male",8.1,156,7.87733611333325,87.4940434747024,"Summer",7438
+6,-121.2366201,41.6474561,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"male",8.6,305,7.2382820663972,85.6824771617588,"Summer",7495
+10,-108.458054,35.477222,"large skull windows",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"male ?",8.9,296,8.54049178911847,64.548011581294,"Fall",7520
+9,-114.84168,41.20389,"imm.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"female",8.9,273,7.82656703255978,61.7465283670665,"Fall",7560
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7584
+6,-118.622466,37.848788,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"female",6.6,157,7.6385981579202,69.017829637892,"Summer",7612
+10,-105.660546,33.901946,"large skull windows",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7804
+10,-120.46574,40.90019,"ad.",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"female",7.3,181,8.14722019892042,97.6077493197785,"Fall",7834
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7861
+7,-120.3906666667,40.7001666667,"ad.",1928,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"female",9.1,264,7.49514489317565,108.84135993461,"Summer",7908
+7,-120.3906666667,40.7001666667,"ad.?",1928,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.2,NA,"female",9.1,264,7.49514489317565,108.84135993461,"Summer",7909
+9,-107.5882059,39.47014336,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"female",8.4,376,9.76355312870113,44.2295528324558,"Fall",7466
+6,-115.5303,40.11527,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",7.7,332,9.48298316443564,52.5170505253145,"Summer",7468
+5,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",10,298,8.951735061208,40.1814068263601,"Spring",7480
+10,-109.46904,38.34681,"adult skull",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",10.7,269,10.5751280528102,58.1410730372612,"Fall",7486
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male ?",10.5,271,10.563842706481,56.7302400964165,"Fall",7494
+9,-111.5625,35.4603,"unknown",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",7543
+9,-114.84168,41.20389,"ad.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",8.9,273,7.82656703255978,61.7465283670665,"Fall",7561
+10,-111.5372,35.4475,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",10.2,206,8.04910591684605,134.883179436417,"Fall",7689
+11,-109.1885,31.9275,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",14.2,373,6.79337912971152,113.924995282793,"Fall",7694
+5,-114.22417,37.77606,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",10.1,369,9.36438692196357,60.8419327997492,"Spring",7739
+5,-112.2548,36.8658,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",10.4,273,9.09996253738542,43.8287863801861,"Spring",7740
+10,-105.939125,36.34746,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"female",9,432,8.51217933138729,56.8781950176199,"Fall",7747
+9,-121.2366201,41.6474561,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"female",8.6,305,7.2382820663972,85.6824771617588,"Fall",7767
+6,-121.4339607,41.6822892,"ad.sk.",1992,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",9.6,339,7.55559194881312,86.6662633781278,"Summer",7811
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7869
+6,-118.585422,37.863392,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",7.8,125,7.86262254806457,64.6574150692592,"Summer",7893
+6,-108.7573847,33.6236049,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.3,NA,"male",10.5,563,7.88610208281671,78.6690081510497,"Summer",7923
+5,-114.42175,37.48092,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male ?",11,228,8.76008509713752,78.8549608367524,"Spring",7415
+6,-118.143962,37.272112,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",8.1,156,7.87733611333325,87.4940434747024,"Summer",7439
+9,-107.573666,39.45597073,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",7.4,431,9.39304626741603,42.2867651855508,"Fall",7463
+5,-112.2639,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",10.2,290,9.0272650981078,40.5233447529433,"Spring",7473
+5,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",10,298,8.951735061208,40.1814068263601,"Spring",7477
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",10.5,271,10.563842706481,56.7302400964165,"Fall",7493
+6,-115.52512,40.01053,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",7.3,328,8.22345131408653,77.0322521822134,"Summer",7510
+6,-117.5154,37.43222,"ad.sk.",1995,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",7.7,264,6.66283223061585,107.419786413479,"Summer",7533
+10,-120.46574,40.90019,"ad.",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"female",7.3,181,8.14722019892042,97.6077493197785,"Fall",7547
+6,-118.585422,37.863392,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",7.8,125,7.86262254806457,64.6574150692592,"Summer",7611
+6,-119.99442,39.91115,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",9.2,365,7.9111495927449,68.9136928105683,"Summer",7669
+11,-109.1885,31.9275,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",14.2,373,6.79337912971152,113.924995282793,"Fall",7693
+10,-109.2344,31.9027,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",12.5,489,6.67457296330067,117.74026202056,"Fall",7696
+6,-112.56667,40.3375,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"female",8.7,431,9.87793301283526,53.0944220311195,"Summer",7717
+5,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"female",10,298,8.951735061208,40.1814068263601,"Spring",7741
+6,-118.74539,38.15067,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",6.5,283,7.34320960294116,116.980826488782,"Summer",7791
+10,-105.660546,33.901946,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7805
+6,-103.6176667,37.1746667,NA,2010,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",10.9,425,8.90775964079531,84.8807464243672,"Summer",7898
+6,-103.6176667,37.1746667,NA,2010,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"female",10.9,425,8.90775964079531,84.8807464243672,"Summer",7915
+10,-108.713224,33.7249663,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.4,NA,"male",10,531,7.12619474299935,76.17544257864,"Fall",7926
+4,-109.9636,33.7209,"unknown",1949,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",11.1,513,8.45560151436295,90.2722595045756,"Spring",7369
+4,-109.9636,33.7209,"unknown",1949,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",11.1,513,8.45560151436295,90.2722595045756,"Spring",7373
+6,-115.64714,36.40167,"ad.sk.",1963,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"undetermined",9.9,443,7.75036656024615,157.805418806367,"Summer",7379
+6,-119.99442,39.91115,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",9.2,365,7.9111495927449,68.9136928105683,"Summer",7408
+9,-112.52406,40.33025,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"female",9.7,355,10.1146570816211,52.9117364718033,"Fall",7457
+5,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"female",10,298,8.951735061208,40.1814068263601,"Spring",7479
+9,-120.6296995,41.5353572,"adult skull",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",8.7,248,7.49472541797957,74.7052578398137,"Fall",7536
+9,-120.6132633,41.5778689,"adult skull",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",8.5,255,7.40026105190645,75.0564430581566,"Fall",7537
+9,-111.5625,35.4603,"imm.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",7544
+5,-119.8975,42.0471,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",7564
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7583
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7585
+10,-119.70514,39.37411,"_",1947,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",9.3,98,7.25331690060527,100.873549520396,"Fall",7624
+4,-120.36391,40.90495,"ad.sk.",1988,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"female",7.6,246,8.26221776669209,95.0565469613779,"Spring",7637
+4,-120.36391,40.90495,"ad.sk.",1988,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",7.6,246,8.26221776669209,95.0565469613779,"Spring",7638
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7644
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7648
+6,-120.35436,40.91219,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",6.5,287,8.00140139240772,74.3677757135274,"Summer",7655
+6,-120.35436,40.89046,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",6.5,281,8.03652174875311,75.5094017908539,"Summer",7662
+6,-119.99442,39.91115,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",9.2,365,7.9111495927449,68.9136928105683,"Summer",7668
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male ?",10.6,195,8.10403472277105,138.460101551806,"Fall",7682
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"undetermined",10.6,195,8.10403472277105,138.460101551806,"Fall",7684
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",10.6,195,8.10403472277105,138.460101551806,"Fall",7686
+10,-111.5372,35.4475,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male ?",10.2,206,8.04910591684605,134.883179436417,"Fall",7687
+6,-118.143962,37.272112,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",8.1,156,7.87733611333325,87.4940434747024,"Summer",7704
+6,-112.53826,40.35199,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"undetermined",9.1,409,9.9217239459988,54.294345446276,"Summer",7713
+6,-112.56667,40.3375,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"female ?",8.7,431,9.87793301283526,53.0944220311195,"Summer",7721
+9,-107.573666,39.45597073,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",7.4,431,9.39304626741603,42.2867651855508,"Fall",7727
+5,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",10,298,8.951735061208,40.1814068263601,"Spring",7742
+6,-115.52512,40.01053,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",7.3,328,8.22345131408653,77.0322521822134,"Summer",7783
+10,-105.660546,33.901946,"med.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male ?",10.2,548,7.40955566491778,111.96492550588,"Fall",7807
+9,-111.5625,35.4603,"ad.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",7826
+9,-119.9652082,39.7348637,"ad.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",9.2,320,6.26597352710848,57.8031872248235,"Fall",7845
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7874
+4,-109.9636,33.7209,"unknown",1949,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",11.1,513,8.45560151436295,90.2722595045756,"Spring",7370
+6,-119.61867,38.81817,"ad.sk.",1969,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",7.6,895,7.26875317556407,137.111200659695,"Summer",7382
+6,-119.9754,42.0616,"adult? 2 assymetric skull windows",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7386
+6,-120.35436,40.91219,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",6.5,287,8.00140139240772,74.3677757135274,"Summer",7395
+6,-112.56667,40.3375,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",8.7,431,9.87793301283526,53.0944220311195,"Summer",7451
+5,-120.6846059,41.4204792,"unknown",1920,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"female",8.6,350,7.06276514653797,77.0383129991747,"Spring",7538
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7586
+6,-118.566964,37.876794,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",7.9,115,7.86052662280835,66.7743217428091,"Summer",7613
+8,-108.693029,35.076848,"unknown",1988,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"undetermined",9.4,400,8.45865165843752,80.4608053640526,"Summer",7640
+6,-119.9754,42.0616,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7647
+6,-120.35436,40.91219,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",6.5,287,8.00140139240772,74.3677757135274,"Summer",7656
+6,-119.99887,39.90694,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",9.5,360,8.00955395421334,69.0922381584022,"Summer",7665
+5,-114.22417,37.77606,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",10.2,235,9.11157688511343,75.7959379291705,"Spring",7670
+5,-114.44903,37.51717,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",11.4,209,8.78143271944052,81.363249159862,"Spring",7672
+10,-105.939125,36.34746,"adult skull",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7746
+6,-118.03306,40.79472,"ad.sk.",1991,"Baeolophus ridgwayi ?","Baeolophus_ridgwayi",16.6,NA,"male",10.2,207,8.99725547378788,64.8592310463727,"Summer",7773
+10,-105.660546,33.901946,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7808
+1,-115.4207,35.1716,"unknown",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7873
+6,-108.713224,33.7249663,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.6,NA,"male",10.4,498,8.10388515129963,81.9339648910369,"Summer",7917
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7389
+6,-118.566964,37.876794,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",8.4,206,8.20493199794545,84.6286895719924,"Summer",7433
+9,-107.573666,39.45597073,"med.sk.wind.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"female",7.4,431,9.39304626741603,42.2867651855508,"Fall",7462
+5,-112.2548,36.8658,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",10.4,273,9.09996253738542,43.8287863801861,"Spring",7471
+9,-118.15026,37.282361,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",7.7,212,7.45171832939263,142.776488723544,"Fall",7503
+4,-115.4207,35.1716,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",13.3,226,7.4526942453821,104.786459145264,"Spring",7505
+6,-115.55339,40.01053,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"female",7.2,329,8.19901601634999,76.8266286105502,"Summer",7509
+6,-117.9725246,37.0202014,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"female",8.4,103,7.59514897015114,127.551037099331,"Summer",7610
+10,-119.70514,39.37411,"unknown",1947,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",9.3,98,7.25331690060527,100.873549520396,"Fall",7623
+5,-114.42175,37.48092,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",11,228,8.76008509713752,78.8549608367524,"Spring",7676
+10,-105.939125,36.34746,"adult skull",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7756
+9,-121.2366201,41.6474561,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",8.6,305,7.2382820663972,85.6824771617588,"Fall",7768
+9,-120.6607575,41.5621597,"adult skull",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",8.6,249,7.41147247464525,74.7199913396307,"Fall",7817
+6,-117.9725246,37.0202014,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",7891
+6,-108.713224,33.7249663,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.7,NA,"female",10.4,498,8.10388515129963,81.9339648910369,"Summer",7919
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7384
+10,-109.1885,31.9275,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",14.2,373,6.79337912971152,113.924995282793,"Fall",7428
+6,-112.56667,40.3375,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",8.7,431,9.87793301283526,53.0944220311195,"Summer",7453
+6,-112.56667,40.3375,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",8.7,431,9.87793301283526,53.0944220311195,"Summer",7455
+6,-115.5303,40.11527,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",7.7,332,9.48298316443564,52.5170505253145,"Summer",7467
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",10.5,271,10.563842706481,56.7302400964165,"Fall",7492
+10,-105.660546,33.901946,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"female",10.2,548,7.40955566491778,111.96492550588,"Fall",7529
+9,-120.6607575,41.5621597,"adult skull",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"female",8.6,249,7.41147247464525,74.7199913396307,"Fall",7535
+5,-119.8975,42.0471,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",7569
+5,-115.57412,35.51722,"unknown",1939,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",7598
+12,-120.277486,40.5427277,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"female",8.8,219,8.35674287717119,92.5221304861657,"Winter",7615
+11,-107.2565166667,33.9883,"Adult",2008,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"female",10.6,338,7.15020660858514,121.093885593018,"Fall",7626
+6,-118.143962,37.272112,"adult skull",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",8.1,156,7.87733611333325,87.4940434747024,"Summer",7705
+6,-112.56667,40.3375,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",8.7,431,9.87793301283526,53.0944220311195,"Summer",7718
+10,-105.939125,36.34746,"medium skull windows",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7754
+9,-118.78213,38.16155,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male ?",6.6,273,7.43457830313559,116.335385800511,"Fall",7787
+10,-108.458054,35.477222,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",8.9,296,8.54049178911847,64.548011581294,"Fall",7793
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7875
+6,-117.9725246,37.0202014,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",7890
+12,-120.277486,40.5427277,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.8,NA,"undetermined",8.8,219,8.35674287717119,92.5221304861657,"Winter",7895
+10,-109.41844,38.34318,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.9,NA,"male",10.5,271,10.563842706481,56.7302400964165,"Fall",7490
+9,-118.144151,37.286267,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.9,NA,"female",7.9,206,7.4988281912859,143.365383611223,"Fall",7500
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.9,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7642
+6,-118.589497,37.761736,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.9,NA,"male",8,289,8.08966325103533,95.3532223342624,"Summer",7701
+6,-115.55339,40.01053,"adult skull",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.9,NA,"male",7.2,329,8.19901601634999,76.8266286105502,"Summer",7776
+9,-120.6299943,41.5499238,"medium skull windows",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.9,NA,"female",8.5,253,7.46435468805515,74.2949200879897,"Fall",7819
+5,-114.10722,39.01722,"unknown",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",16.9,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",7843
+6,-108.985283,31.349445,"unknown",1964,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"female",14.5,384,7.5718928020714,133.47733223377,"Summer",7380
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7387
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7388
+6,-119.99887,39.90694,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",9.5,360,8.00955395421334,69.0922381584022,"Summer",7405
+6,-118.143962,37.272112,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",8.1,156,7.87733611333325,87.4940434747024,"Summer",7441
+6,-112.56667,40.3375,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",8.7,431,9.87793301283526,53.0944220311195,"Summer",7449
+5,-112.2548,36.8658,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",10.4,273,9.09996253738542,43.8287863801861,"Spring",7470
+5,-112.2548,36.8658,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"female",10.4,273,9.09996253738542,43.8287863801861,"Spring",7472
+9,-118.144151,37.286267,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",7.9,206,7.4988281912859,143.365383611223,"Fall",7501
+4,-119.9652082,39.7348637,"unknown",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",9.2,320,6.26597352710848,57.8031872248235,"Spring",7553
+9,-119.9652082,39.7348637,"unknown",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"female",9.2,320,6.26597352710848,57.8031872248235,"Fall",7554
+12,-120.277486,40.5427277,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"undetermined",8.8,219,8.35674287717119,92.5221304861657,"Winter",7619
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"female",7.1,269,8.24004909517589,70.4945212851083,"Summer",7649
+6,-120.35436,40.91219,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",6.5,287,8.00140139240772,74.3677757135274,"Summer",7653
+6,-120.35436,40.91219,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",6.5,287,8.00140139240772,74.3677757135274,"Summer",7654
+10,-111.5625,35.4603,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",10.6,195,8.10403472277105,138.460101551806,"Fall",7685
+5,-119.89563,39.92927,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",9.6,246,8.82784849727889,91.8335188057842,"Spring",7708
+6,-118.07639,38.41472,"ad.sk.",1991,"Baeolophus ridgwayi ?","Baeolophus_ridgwayi",17,NA,"female ?",11.3,127,8.87230966478734,83.591427205941,"Summer",7792
+10,-108.458054,35.477222,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",8.9,296,8.54049178911847,64.548011581294,"Fall",7795
+10,-105.660546,33.901946,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7802
+9,-121.1911003,41.7437788,"lg.sk.wind.",1996,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",9,536,7.02883131800513,67.3403943994342,"Fall",7813
+4,-119.9652082,39.7348637,"unknown",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"female",9.2,320,6.26597352710848,57.8031872248235,"Spring",7842
+9,-119.9652082,39.7348637,"imm.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",9.2,320,6.26597352710848,57.8031872248235,"Fall",7846
+9,-119.9652082,39.7348637,"imm.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"female",9.2,320,6.26597352710848,57.8031872248235,"Fall",7847
+9,-115.40083,37.64417,"ad.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",8.3,284,6.81644068677808,52.4090991540352,"Fall",7848
+10,-119.42944,40.45639,"unknown",1947,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",10.6,125,8.40485069180382,80.7611696446165,"Fall",7896
+7,-120.3906666667,40.7001666667,"ad.",1928,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17,NA,"male",9.1,264,7.49514489317565,108.84135993461,"Summer",7928
+4,-105.7680166667,34.1603333333,NA,2011,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.1,NA,"male",10.6,237,8.51737528926499,126.726668390542,"Spring",7367
+10,-109.1885,31.9275,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.1,NA,"male ?",14.2,373,6.79337912971152,113.924995282793,"Fall",7429
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.1,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",7581
+6,-115.50028,35.96583,"unknown",1940,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.1,NA,"male",8.4,568,7.43201000586468,145.832625928857,"Summer",7602
+10,-105.939125,36.34746,"adult skull",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.1,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7744
+6,-121.2366201,41.6474561,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.1,NA,"male",8.6,305,7.2382820663972,85.6824771617588,"Summer",7766
+9,-118.78213,38.16155,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.1,NA,"male",6.6,273,7.43457830313559,116.335385800511,"Fall",7790
+7,-120.3906666667,40.7001666667,"unknown",1928,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.1,NA,"undetermined",9.1,264,7.49514489317565,108.84135993461,"Summer",7930
+6,-120.35436,40.89046,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",6.5,281,8.03652174875311,75.5094017908539,"Summer",7402
+5,-114.42175,37.48092,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",11,228,8.76008509713752,78.8549608367524,"Spring",7413
+9,-121.2366201,41.6474561,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",8,279,8.12966882176114,56.5606636504012,"Fall",7431
+4,-115.4207,35.1716,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",13.3,226,7.4526942453821,104.786459145264,"Spring",7507
+6,-119.9754,42.0616,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",7.1,269,8.24004909517589,70.4945212851083,"Summer",7651
+5,-114.42175,37.48092,"juv.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",11,228,8.76008509713752,78.8549608367524,"Spring",7677
+6,-112.56667,40.3375,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",8.7,431,9.87793301283526,53.0944220311195,"Summer",7723
+5,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"female",10,298,8.951735061208,40.1814068263601,"Spring",7743
+9,-120.627496,41.5738824,"adult skull",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",8.5,254,7.41220839786182,74.9799539748687,"Fall",7816
+9,-120.9805154,41.8842219,"imm.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",6.8,326,9.32143180574159,74.6635413563481,"Fall",7823
+6,-117.972801,37.036501,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"male",8.1,202,8.34814441367153,170.26039419219,"Summer",7849
+12,-104.7272166667,32.1208666667,NA,2009,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.2,NA,"female",14.4,453,6.85923398850709,140.857401785693,"Winter",7899
+5,-114.42175,37.48092,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",11,228,8.76008509713752,78.8549608367524,"Spring",7417
+6,-118.566964,37.876794,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",8.4,206,8.20493199794545,84.6286895719924,"Summer",7436
+9,-107.5882059,39.47014336,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",8.4,376,9.76355312870113,44.2295528324558,"Fall",7465
+10,-105.939125,36.34746,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7482
+10,-108.458054,35.477222,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",8.9,296,8.54049178911847,64.548011581294,"Fall",7524
+10,-105.660546,33.901946,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7528
+1,-115.4207,35.1716,"ad.",1938,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",7582
+8,-108.693029,35.076848,"unknown",1988,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",9.4,400,8.45865165843752,80.4608053640526,"Summer",7641
+5,-119.89563,39.92927,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",9.6,246,8.82784849727889,91.8335188057842,"Spring",7710
+6,-115.49684,40.00691,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",7.4,322,8.25812272305824,76.8828149824113,"Summer",7785
+9,-121.1911003,41.7437788,"unknown",1996,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.3,NA,"male",9,536,7.02883131800513,67.3403943994342,"Fall",7814
+6,-112.56667,40.3375,"juv.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"undetermined",8.7,431,9.87793301283526,53.0944220311195,"Summer",7454
+10,-105.660546,33.901946,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7527
+5,-121.45354,41.67864,"ad.sk.",1995,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"female",9.6,490,6.16062767364928,101.441803954607,"Spring",7532
+5,-119.8975,42.0471,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",7565
+9,-107.573666,39.45597073,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"male",7.4,431,9.39304626741603,42.2867651855508,"Fall",7730
+9,-107.5882059,39.47014336,"lrg.sk.wind.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"male",8.4,376,9.76355312870113,44.2295528324558,"Fall",7732
+10,-105.939125,36.34746,"large skull windows",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7745
+6,-116.40639,39.325,"ad.sk.",1994,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"male",7.5,207,8.95914971614849,68.8729655010573,"Summer",7812
+9,-120.6132633,41.5778689,"medium skull windows",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"male",8.5,255,7.40026105190645,75.0564430581566,"Fall",7822
+6,-117.972801,37.036501,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"male",8.1,202,8.34814441367153,170.26039419219,"Summer",7850
+12,-120.277486,40.5427277,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.4,NA,"male",8.8,219,8.35674287717119,92.5221304861657,"Winter",7894
+10,-105.939125,36.34746,"adult skull",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.5,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7481
+6,-115.49684,40.00691,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.5,NA,"female",7.4,322,8.25812272305824,76.8828149824113,"Summer",7511
+9,-111.5625,35.4603,"imm.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.5,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",7540
+10,-120.46574,40.90019,"ad.",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.5,NA,"male",7.3,181,8.14722019892042,97.6077493197785,"Fall",7546
+6,-118.566964,37.876794,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.5,NA,"male",7.9,115,7.86052662280835,66.7743217428091,"Summer",7614
+6,-120.35436,40.89046,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.5,NA,"male",6.5,281,8.03652174875311,75.5094017908539,"Summer",7658
+6,-115.52512,40.01053,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.5,NA,"male",7.3,328,8.22345131408653,77.0322521822134,"Summer",7782
+6,-112.56667,40.3375,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.6,NA,"male",8.7,431,9.87793301283526,53.0944220311195,"Summer",7448
+6,-118.74539,38.15067,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.6,NA,"male",6.5,283,7.34320960294116,116.980826488782,"Summer",7516
+10,-105.660546,33.901946,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.6,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7809
+6,-120.35436,40.89046,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"male",6.5,281,8.03652174875311,75.5094017908539,"Summer",7401
+5,-119.89563,39.92927,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"male",9.6,246,8.82784849727889,91.8335188057842,"Spring",7443
+4,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"male",10,298,8.951735061208,40.1814068263601,"Spring",7474
+9,-118.78213,38.16155,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"male",6.6,273,7.43457830313559,116.335385800511,"Fall",7513
+9,-120.9805154,41.8842219,"imm.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"female",6.8,326,9.32143180574159,74.6635413563481,"Fall",7539
+1,-115.4207,35.1716,"ad.",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"male",13.4,136,8.72833681959877,116.090448115505,"Winter",7579
+6,-112.53826,40.35199,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"male",9.1,409,9.9217239459988,54.294345446276,"Summer",7711
+9,-112.52406,40.33025,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"male",9.7,355,10.1146570816211,52.9117364718033,"Fall",7724
+10,-105.660546,33.901946,"lrg.sk.wind.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"male",10.2,548,7.40955566491778,111.96492550588,"Fall",7801
+7,-120.3906666667,40.7001666667,"ad.",1928,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.7,NA,"male",9.1,264,7.49514489317565,108.84135993461,"Summer",7927
+9,-121.2366201,41.6474561,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.8,NA,"male",8.6,305,7.2382820663972,85.6824771617588,"Fall",7498
+5,-119.8975,42.0471,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.8,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",7568
+12,-120.277486,40.5427277,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.8,NA,"male",8.8,219,8.35674287717119,92.5221304861657,"Winter",7620
+6,-112.56667,40.3375,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.8,NA,"male",8.7,431,9.87793301283526,53.0944220311195,"Summer",7719
+10,-105.939125,36.34746,"adult skull",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.8,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7753
+9,-111.5625,35.4603,"imm.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.8,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",7827
+6,-117.9725246,37.0202014,"unknown",1942,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.9,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",7609
+9,-112.52406,40.33025,"lrg.sk.wind.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.9,NA,"male",9.7,355,10.1146570816211,52.9117364718033,"Fall",7726
+9,-118.15194,39.19963,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.9,NA,"male",7.8,311,8.8493964868695,78.5518344248848,"Fall",7735
+10,-105.939125,36.34746,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.9,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7749
+10,-105.939125,36.34746,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.9,NA,"male",9,432,8.51217933138729,56.8781950176199,"Fall",7752
+6,-115.55339,40.01053,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",17.9,NA,"male",7.2,329,8.19901601634999,76.8266286105502,"Summer",7778
+4,-120.36391,40.90495,"ad.sk.",1988,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,NA,"male",7.6,246,8.26221776669209,95.0565469613779,"Spring",7383
+9,-111.5625,35.4603,"imm.",1922,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",7542
+5,-119.8975,42.0471,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",7567
+5,-114.20798,37.765,"ad.sk.",1969,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,NA,"male",10.1,514,8.77765758772081,82.2509616327073,"Spring",7636
+5,-114.42175,37.48092,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,NA,"male",11,228,8.76008509713752,78.8549608367524,"Spring",7678
+6,-112.53826,40.35199,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,NA,"male",9.1,409,9.9217239459988,54.294345446276,"Summer",7715
+6,-115.49684,40.00691,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,NA,"male",7.4,322,8.25812272305824,76.8828149824113,"Summer",7786
+9,-119.9652082,39.7348637,"ad.",1934,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,NA,"male",9.2,320,6.26597352710848,57.8031872248235,"Fall",7844
+7,-103.625,37.0833333333,"adult",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,133,"male",10.1,420,7.96998155961518,71.8377888268079,"Summer",7913
+6,-103.6176667,37.1746667,NA,2010,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18,NA,"male",10.9,425,8.90775964079531,84.8807464243672,"Summer",7916
+5,-119.8975,42.0471,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.1,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",7570
+4,-112.2548,36.844,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.2,NA,"female",10,298,8.951735061208,40.1814068263601,"Spring",7475
+9,-107.573666,39.45597073,"lrg.sk.wind.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.3,NA,"male",7.4,431,9.39304626741603,42.2867651855508,"Fall",7458
+9,-120.6299943,41.5499238,"medium skull windows",1999,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.3,NA,"male",8.5,253,7.46435468805515,74.2949200879897,"Fall",7818
+7,-120.3906666667,40.7001666667,"imm.",1928,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.3,NA,"female",9.1,264,7.49514489317565,108.84135993461,"Summer",7906
+7,-120.3906666667,40.7001666667,"ad.",1928,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.3,NA,"male",9.1,264,7.49514489317565,108.84135993461,"Summer",7929
+5,-118.143751,37.275358,"adult skull",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.4,NA,"female",7.9,207,7.48244409915435,143.073783420456,"Spring",7504
+6,-120.35436,40.89046,"ad.sk.",1989,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.4,NA,"male",6.5,281,8.03652174875311,75.5094017908539,"Summer",7661
+6,-115.52512,40.01053,"ad.sk.",1991,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.4,NA,"male",7.3,328,8.22345131408653,77.0322521822134,"Summer",7781
+7,-120.21667,40.91232,"unknown",1928,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.5,NA,"male",8.9,226,7.40638545138892,123.163683483781,"Summer",7552
+5,-119.8975,42.0471,"unknown",1937,"Baeolophus ridgwayi","Baeolophus_ridgwayi",18.5,NA,"female",7.8,384,9.29636618482858,83.5759812858421,"Spring",7566
+5,-114.22417,37.77606,"ad.sk.",1990,"Baeolophus ridgwayi","Baeolophus_ridgwayi",19.5,NA,"female",10.1,369,9.36438692196357,60.8419327997492,"Spring",7469
+10,-120.46574,40.90019,"unknown",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",20,NA,"male",7.3,181,8.14722019892042,97.6077493197785,"Fall",7550
+10,-120.46574,40.90019,"unknown",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",21.8,NA,"male",7.3,181,8.14722019892042,97.6077493197785,"Fall",7839
+10,-120.46574,40.90019,"unknown",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",22,NA,"male",7.3,181,8.14722019892042,97.6077493197785,"Fall",7551
+10,-120.46574,40.90019,"unknown",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",22.2,NA,"female",7.3,181,8.14722019892042,97.6077493197785,"Fall",7836
+10,-120.46574,40.90019,"unknown",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",22.4,NA,"male",7.3,181,8.14722019892042,97.6077493197785,"Fall",7838
+10,-120.46574,40.90019,"imm.",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",22.6,NA,"male",7.3,181,8.14722019892042,97.6077493197785,"Fall",7549
+10,-120.46574,40.90019,"unknown",1924,"Baeolophus ridgwayi","Baeolophus_ridgwayi",23.1,NA,"male",7.3,181,8.14722019892042,97.6077493197785,"Fall",7837

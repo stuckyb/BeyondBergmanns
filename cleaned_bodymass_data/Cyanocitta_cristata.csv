@@ -1,0 +1,446 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-94.274,31.04448,"unknown",1964,"Cyanocitta cristata cristata","Cyanocitta_cristata",26.9,NA,"male",18.7,1013,7.49931309985768,41.6582448880009,"Summer",25717
+8,-82.4333333,42.9666667,NA,1984,"Cyanocitta cristata","Cyanocitta_cristata",29,NA,"male",8.6,784,9.83420129708128,38.9539153307355,"Summer",25896
+6,-79.180198,43.76973,"fledgeling",1999,"Cyanocitta cristata bromia","Cyanocitta_cristata",34.4,NA,"female",9,735,10.0493328589062,43.2863042823844,"Summer",25566
+7,-83.7263412,42.2708397,"nestling",1993,"Cyanocitta cristata","Cyanocitta_cristata",35.4,NA,"female",8.8,845,10.0431003000251,46.4116604466192,"Summer",25790
+6,-83.7263412,42.2708397,"nestling",2010,"Cyanocitta cristata bromia","Cyanocitta_cristata",37.5,NA,"male",10.6,931,10.929314902702,70.3967332319748,"Summer",25807
+7,-79.89731,43.64558,"nestl",2001,"Cyanocitta cristata bromia","Cyanocitta_cristata",38.4,NA,"female",8.4,732,9.46327830953081,40.1545998185721,"Summer",25745
+5,-83.7263412,42.2708397,"juvenile",1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",42.7,NA,"female",10.4,829,9.73196467131054,23.814024239355,"Spring",25589
+7,-80.277705,43.534474,"fledgeling",2002,"Cyanocitta cristata bromia","Cyanocitta_cristata",43.1,NA,"male",7.4,887,9.48980314002159,24.2384596804656,"Summer",25572
+8,-83.7263412,42.2708397,"immature",1940,"Cyanocitta cristata bromia","Cyanocitta_cristata",44.8,NA,"male",8.5,807,10.7686518950314,48.2844847781589,"Summer",25577
+5,-83.6130371,42.2411385,"nestling",2008,"Cyanocitta cristata bromia","Cyanocitta_cristata",45,NA,"female",9.5,958,10.2638229040675,48.2268253476469,"Spring",25641
+6,-83.7263412,42.2708397,"juvenile",1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",45.3,NA,"male",10.1,662,10.2795766921453,66.7450603426487,"Summer",25674
+5,-83.6422,42.30201,"juvenile",1936,"Cyanocitta cristata cristata","Cyanocitta_cristata",50.8,NA,"male",9,627,11.5244502925499,63.8445384579534,"Spring",25650
+6,-79.46459,43.665415,"fledgeling",1998,"Cyanocitta cristata bromia","Cyanocitta_cristata",52.6,NA,"female",10,713,9.07554155659344,41.3390718529373,"Summer",25741
+6,-104.926833,39.720015,"juvenile",1987,"Cyanocitta cristata","Cyanocitta_cristata",52.7,NA,"undetermined",10.7,568,8.69100457979747,72.9642692216118,"Summer",25691
+6,-83.6333333,42.8,"juvenile",1985,"Cyanocitta cristata bromia","Cyanocitta_cristata",54.2,NA,"male",8.4,996,10.4725145311936,41.6507071226768,"Summer",25904
+6,-76.388348,42.482479,NA,2013,"Cyanocitta cristata","Cyanocitta_cristata",54.3,149,"male",8.4,1113,9.72620250413876,46.4249676687778,"Summer",25921
+7,-79.372722,43.73418,"juv",1995,"Cyanocitta cristata bromia","Cyanocitta_cristata",55.8,NA,"female",7.7,860,10.6979890492078,43.0238240393688,"Summer",25558
+6,-84.2637634,44.7311255,"juvenile",1948,"Cyanocitta cristata","Cyanocitta_cristata",55.95,NA,"male",6.4,653,10.7822349681822,42.5701370446782,"Summer",25587
+4,-81.2583333333,28.5583333333,"adult",1997,"Cyanocitta cristata cristata","Cyanocitta_cristata",56,233,"female",22.2,1433,4.27943461289697,43.8824900562108,"Spring",25523
+7,-79.369534,43.66819,"fledgeling",1998,"Cyanocitta cristata bromia","Cyanocitta_cristata",56.4,NA,"male",10.1,717,9.04588890383947,39.8236435066679,"Summer",25559
+7,-79.9558868,39.6294785,NA,1977,"Cyanocitta cristata","Cyanocitta_cristata",56.6,NA,"undetermined",11.5,987,10.3622676528398,37.6298509988457,"Summer",25831
+6,-83.7263412,42.2708397,"adult",1946,"Cyanocitta cristata","Cyanocitta_cristata",57.8,NA,"female",10.1,607,8.82578865906869,50.6298829879788,"Summer",25584
+6,-96.1833333,38.4,"juvenile",1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",57.9,NA,"male",13.8,679,9.79747957694253,56.6195668547024,"Summer",25887
+2,-83.8739579,42.4122014,"immature",2010,"Cyanocitta cristata bromia","Cyanocitta_cristata",58,NA,"male",10.2,844,10.8497870388261,64.6662528116636,"Winter",25803
+6,-83.9333333,42.6,"adult",2010,"Cyanocitta cristata bromia","Cyanocitta_cristata",58.2,NA,"female",9.9,765,10.799028435536,58.7402229268361,"Summer",25963
+7,-83.4002304,42.3242378,NA,2012,"Cyanocitta cristata bromia","Cyanocitta_cristata",60.3,NA,"male",11.4,655,9.10169398152527,40.9878822293079,"Summer",25643
+9,-85.47299,38.7136,"adult",1991,"Cyanocitta cristata","Cyanocitta_cristata",60.3,NA,"female",13.6,1042,9.34115608314608,40.3678780026592,"Fall",25846
+5,-83.7263412,42.2708397,NA,1935,"Cyanocitta cristata","Cyanocitta_cristata",61.3,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Spring",25820
+9,-83.7263412,42.2708397,NA,1976,"Cyanocitta cristata bromia","Cyanocitta_cristata",61.5,NA,"female",8.6,698,10.6434216416726,51.8966552298352,"Fall",25624
+9,-83.7263412,42.2708397,"immature",2008,"Cyanocitta cristata bromia","Cyanocitta_cristata",61.7,NA,"male",9.4,1009,10.3051472869659,47.554168259734,"Fall",25636
+7,-83.9183333,42.3591667,"fledgling",2006,"Cyanocitta cristata bromia","Cyanocitta_cristata",62,NA,"male",10.2,1077,8.80370101236699,31.3376389170208,"Summer",25961
+1,-83.8885498,42.3383369,NA,2006,"Cyanocitta cristata bromia","Cyanocitta_cristata",63.5,NA,"male",10.3,1092,8.81422747951322,30.1565954656621,"Winter",25795
+6,-83.7263412,42.2708397,"juvenile",1981,"Cyanocitta cristata","Cyanocitta_cristata",63.6,NA,"undetermined",8.9,903,10.1239440152661,52.5494662268708,"Summer",25616
+5,-79.372722,43.73418,"hy; sy",1977,"Cyanocitta cristata bromia","Cyanocitta_cristata",64,NA,"female",7.6,952,10.6330815967162,43.7890414086799,"Spring",25740
+7,-83.95,42.45,"juvenile",1934,"Cyanocitta cristata","Cyanocitta_cristata",64.2,NA,"female",9.1,479,11.5979622034531,51.9615242270663,"Summer",25911
+5,-83.7263412,42.2708397,NA,1941,"Cyanocitta cristata","Cyanocitta_cristata",64.8,NA,"male",10.3,683,10.3579862322692,48.7778988168438,"Spring",25756
+7,-104.929536,39.543411,"adult",2011,"Cyanocitta cristata","Cyanocitta_cristata",64.9,230,"undetermined",10.1,485,9.30996533535193,60.2605560705398,"Summer",25690
+7,-79.21713,43.779758,"ad",1999,"Cyanocitta cristata bromia","Cyanocitta_cristata",65,NA,"male",8.9,738,10.0395996237928,43.605797525658,"Summer",25567
+9,-83.715413,42.554277,"immature",2013,"Cyanocitta cristata bromia","Cyanocitta_cristata",65.4,NA,"male",9,882,10.3944769716976,54.6295957165119,"Fall",25645
+5,-83.7263412,42.2708397,NA,1957,"Cyanocitta cristata bromia","Cyanocitta_cristata",65.6,NA,"female",9.6,862,9.70672993652373,34.4227297520255,"Spring",25774
+4,-83.75,42.2833333,NA,1958,"Cyanocitta cristata bromia","Cyanocitta_cristata",66.6,NA,"male",9,574,10.3771164325426,68.9107929183386,"Spring",25890
+9,-79.38399,43.696198,"ad",1973,"Cyanocitta cristata bromia","Cyanocitta_cristata",66.8,NA,"female",8.4,826,10.2100663340379,37.8848744421189,"Fall",25554
+2,-83.4799575,42.3648859,NA,1991,"Cyanocitta cristata","Cyanocitta_cristata",67.1,NA,"male",10.5,784,10.0267029838962,47.8816528807682,"Winter",25788
+9,-83.7263412,42.2708397,NA,2012,"Cyanocitta cristata bromia","Cyanocitta_cristata",67.2,NA,"male",11.5,682,9.21854192112371,37.699178293142,"Fall",25640
+6,-79.10782,43.82863,"nestl",1970,"Cyanocitta cristata bromia","Cyanocitta_cristata",67.3,146,"female",7.5,767,11.1621383853334,25.6599559543962,"Summer",25730
+6,-79.10782,43.82863,"nestl",1970,"Cyanocitta cristata bromia","Cyanocitta_cristata",67.3,136,"female",7.5,767,11.1621383853334,25.6599559543962,"Summer",25731
+6,-83.7263412,42.2708397,"juvenile",1940,"Cyanocitta cristata bromia","Cyanocitta_cristata",67.3,NA,"female",8.5,807,10.7686518950314,48.2844847781589,"Summer",25754
+4,-85.5175781,43.7046462,NA,2010,"Cyanocitta cristata bromia","Cyanocitta_cristata",67.4,NA,"male",8.9,749,10.2769674810257,50.7535369636356,"Spring",25638
+7,-79.372722,43.73418,"imm",1968,"Cyanocitta cristata bromia","Cyanocitta_cristata",67.6,282,"male",7.2,857,10.5680586503087,42.8319815700503,"Summer",25834
+6,-85.4734612,43.6913045,"adult",2012,"Cyanocitta cristata bromia","Cyanocitta_cristata",68,NA,"male",9.9,825,9.22599670233602,45.2120717715951,"Summer",25808
+12,-73.01003253,41.35661048,"adult",2006,"Cyanocitta cristata bromia","Cyanocitta_cristata",68.2,NA,"female",11.7,1377,8.23809977353928,45.7929512884713,"Winter",25833
+6,-79.08775,43.8182,"nestl",1970,"Cyanocitta cristata bromia","Cyanocitta_cristata",68.2,138,"male",7.5,765,11.1482027359761,25.1614617553637,"Summer",25923
+9,-83.4833333,42.2,NA,2002,"Cyanocitta cristata","Cyanocitta_cristata",68.7,NA,"female",10.4,759,9.81328721991801,36.6594016534034,"Fall",25960
+7,-83.6130371,42.2411385,"immature",2010,"Cyanocitta cristata bromia","Cyanocitta_cristata",68.8,NA,"male",10.7,871,10.867002458095,69.5438607234442,"Summer",25806
+6,-79.372722,43.73418,"ad",1978,"Cyanocitta cristata bromia","Cyanocitta_cristata",69.1,NA,"male",6.6,720,10.7971657335982,52.5760524473283,"Summer",25555
+8,-75.9697,43.1555,"juv.",1994,"Cyanocitta cristata","Cyanocitta_cristata",69.5,240,"female ?",7.9,1046,11.0827021921004,40.3568764604526,"Summer",25919
+5,-83.95,42.45,NA,1980,"Cyanocitta cristata bromia","Cyanocitta_cristata",69.6,NA,"female",8,840,10.7038509071467,52.3224074004051,"Spring",25894
+8,-83.7263412,42.2708397,NA,1952,"Cyanocitta cristata bromia","Cyanocitta_cristata",70,NA,"female",10.3,678,9.69596526521431,36.7749765740153,"Summer",25770
+6,-83.5993423,42.5936317,"immature",2010,"Cyanocitta cristata bromia","Cyanocitta_cristata",70,NA,"female",9.7,752,10.8849353779349,58.990078186916,"Summer",25810
+8,-104.786903,39.571776,"immature",1996,"Cyanocitta cristata","Cyanocitta_cristata",70.5,278,"female",9.7,410,8.6725752003693,80.6758536970477,"Summer",25693
+12,-84.5833333,31.0666667,NA,1943,"Cyanocitta cristata cristata","Cyanocitta_cristata",70.6,NA,"female",19.7,1183,7.01748897506448,53.7827216601309,"Winter",25883
+5,-83.6342812,42.3037217,"adult",2011,"Cyanocitta cristata bromia","Cyanocitta_cristata",70.7,NA,"male",10.3,1069,10.6209448589553,53.5247488259307,"Spring",25639
+5,-85.3360833,43.7110833,NA,2009,"Cyanocitta cristata bromia","Cyanocitta_cristata",70.8,NA,"female",7.2,965,9.89255535820505,48.928389766313,"Spring",25962
+1,-83.7263412,42.2708397,NA,1962,"Cyanocitta cristata bromia","Cyanocitta_cristata",70.9,NA,"male",9,634,10.6272662467254,55.0275355929463,"Winter",25614
+12,-76.2716,38.7707,"skull",1992,"Cyanocitta cristata bromia","Cyanocitta_cristata",70.9,NA,"female",13.4,990,7.97562574727564,42.2538885913898,"Winter",25723
+1,-83.7952994,42.3220942,NA,1943,"Cyanocitta cristata bromia","Cyanocitta_cristata",71,NA,"male",8.6,813,10.6050981165007,59.0631778496669,"Winter",25581
+7,-83.7068696,42.7971021,"immature",2003,"Cyanocitta cristata bromia","Cyanocitta_cristata",71.1,NA,"female",8.4,783,10.2144134645237,50.2852083600243,"Summer",25631
+6,-83.6166667,42.2,NA,1994,"Cyanocitta cristata bromia","Cyanocitta_cristata",71.1,NA,"male",9.9,803,10.3868907763584,36.8519632388342,"Summer",25905
+11,-83.8623762,41.9939464,"immature",1975,"Cyanocitta cristata","Cyanocitta_cristata",71.3,NA,"male",9.5,972,9.72146952353242,44.1629695139922,"Fall",25623
+5,-83.7263412,42.2708397,"adult",2011,"Cyanocitta cristata bromia","Cyanocitta_cristata",71.3,NA,"male",10.3,1078,10.6367395038483,51.6940841774473,"Spring",25804
+5,-83.7263412,42.2708397,NA,1951,"Cyanocitta cristata bromia","Cyanocitta_cristata",71.5,NA,"female",8.9,880,9.86622644390571,38.1301303035367,"Spring",25762
+4,-83.7263412,42.2708397,"immature",2002,"Cyanocitta cristata","Cyanocitta_cristata",71.6,NA,"female",10.7,758,9.9001798269557,30.6804186071242,"Spring",25793
+10,-83.707345,42.550167,NA,2013,"Cyanocitta cristata bromia","Cyanocitta_cristata",72,NA,"male",8.9,882,10.4223935772349,54.6295957165119,"Fall",25644
+7,-84.4132805,42.1812147,NA,1952,"Cyanocitta cristata bromia","Cyanocitta_cristata",72.2,NA,"male",9.6,745,9.5572398386424,45.3442043572492,"Summer",25597
+12,-95.4166667,38.95,NA,2008,"Cyanocitta cristata","Cyanocitta_cristata",72.3,NA,"male",12,1047,10.3558027943348,63.9916852274988,"Winter",25858
+11,-83.7833333,42.1666667,"adult",2011,"Cyanocitta cristata bromia","Cyanocitta_cristata",72.3,NA,"female",10.3,1094,10.5603747637816,49.5292649560583,"Fall",25908
+6,-86.40438,38.72837,"U-Ad",1988,"Cyanocitta cristata bromia? cristata?","Cyanocitta_cristata",72.5,NA,"male",12.2,975,10.0013143075692,56.8262949392222,"Summer",25916
+3,-83.7263412,42.2708397,"adult",1946,"Cyanocitta cristata","Cyanocitta_cristata",73.5,NA,"female",10.1,607,8.82578865906869,50.6298829879788,"Spring",25585
+5,-85.1796951,42.3211403,NA,1954,"Cyanocitta cristata bromia","Cyanocitta_cristata",73.5,NA,"male",9.8,973,9.55637182325188,52.0899382934574,"Spring",25771
+6,-94.274,31.04448,"u ad.",1964,"Cyanocitta cristata cristata","Cyanocitta_cristata",74.6,NA,"male",18.7,1013,7.49931309985768,41.6582448880009,"Summer",25533
+7,-105.160468,40.000453,"adult",2013,"Cyanocitta cristata","Cyanocitta_cristata",75.2,258,"undetermined",10,370,9.58038953468822,64.670470378887,"Summer",25857
+1,-83.7263412,42.2708397,NA,1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",75.3,NA,"female",10.7,596,9.53530521035092,50.9741906978463,"Winter",25599
+8,-104.786903,39.571776,"immature",1996,"Cyanocitta cristata","Cyanocitta_cristata",75.5,263,"male",9.7,410,8.6725752003693,80.6758536970477,"Summer",25694
+6,-94.20656,31.059,"sk.ad.",1964,"Cyanocitta cristata cristata","Cyanocitta_cristata",75.7,NA,"male",18.6,1033,7.53679861302751,42.2105230401201,"Summer",25534
+5,-82.4333333,42.9666667,NA,1981,"Cyanocitta cristata bromia","Cyanocitta_cristata",75.7,NA,"female",8.3,863,9.75018259347283,56.197279997263,"Spring",25895
+1,-79.63447,43.60016,"ad",1984,"Cyanocitta cristata bromia","Cyanocitta_cristata",75.8,NA,"female",7.6,791,9.9584591725281,29.4416075138614,"Winter",25736
+8,-83.7263412,42.2708397,NA,1952,"Cyanocitta cristata bromia","Cyanocitta_cristata",76,NA,"male",10.3,678,9.69596526521431,36.7749765740153,"Summer",25769
+8,-83.95,42.45,NA,1956,"Cyanocitta cristata bromia","Cyanocitta_cristata",76.1,NA,"female",8.9,717,9.7333073889235,60.5436273390949,"Summer",25948
+6,-86.4715,38.73252,"U",1988,"Cyanocitta cristata","Cyanocitta_cristata",76.2,NA,"female",12.2,961,10.0040749273241,55.0447857233893,"Summer",25842
+6,-86.4715,38.73252,"U",1988,"Cyanocitta cristata","Cyanocitta_cristata",76.3,NA,"female",12.2,961,10.0040749273241,55.0447857233893,"Summer",25843
+11,-83.7263412,42.2708397,NA,1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",76.8,NA,"male",8.9,620,11.5959501812512,64.4156693647403,"Fall",25580
+9,-83.9131236,42.1741146,"adult",2005,"Cyanocitta cristata bromia","Cyanocitta_cristata",76.9,NA,"male",9.7,792,10.9362616182047,55.165590187752,"Fall",25634
+6,-83.35278,42.36833,NA,1986,"Cyanocitta cristata","Cyanocitta_cristata",77.3,NA,"male",9.6,928,9.91608732710578,58.1421784724517,"Summer",25902
+12,-84.7166667,30.7666667,NA,1943,"Cyanocitta cristata cristata","Cyanocitta_cristata",77.3,NA,"male",19.7,1188,7.12402571754499,55.9970604938776,"Winter",25943
+10,-76.353447,42.368208,NA,2013,"Cyanocitta cristata","Cyanocitta_cristata",77.6,298,"female",8,1136,9.78996084432074,45.1960755683185,"Fall",25683
+3,-83.7263412,42.2708397,NA,2009,"Cyanocitta cristata bromia","Cyanocitta_cristata",77.6,NA,"male",9.1,998,10.0710619042278,46.1289230756675,"Spring",25801
+8,-78.48,45.57872,"juv",1946,"Cyanocitta cristata bromia","Cyanocitta_cristata",77.7,NA,"male",4.2,753,10.9999552340687,32.8682916545026,"Summer",25570
+8,-83.7263412,42.2708397,NA,1957,"Cyanocitta cristata bromia","Cyanocitta_cristata",77.7,NA,"male",9.6,862,9.70672993652373,34.4227297520255,"Summer",25609
+6,-72.8689,41.2761,NA,1974,"Cyanocitta cristata bromia","Cyanocitta_cristata",77.7,NA,"male",11,1036,8.81386648550126,45.1298094413855,"Summer",25971
+12,-90.7275009,39.0705124,NA,1961,"Cyanocitta cristata","Cyanocitta_cristata",78,NA,"female",11.9,1206,9.6209997590498,58.9141988138968,"Winter",25700
+6,-82.4333333,42.9666667,NA,1977,"Cyanocitta cristata bromia","Cyanocitta_cristata",78,NA,"female",8.9,790,10.7981023866009,35.84548760732,"Summer",25893
+6,-86.9,40.4166667,NA,1934,"Cyanocitta cristata bromia","Cyanocitta_cristata",78,270,"female",11.4,743,11.3307706550068,84.0660562266412,"Summer",25950
+5,-76.46632,42.44127,NA,1952,"Cyanocitta cristata","Cyanocitta_cristata",78.0999984741211,NA,"undetermined",9,873,9.24361778185196,39.4320112942418,"Spring",25504
+9,-85.0139542,45.2167091,NA,1993,"Cyanocitta cristata bromia","Cyanocitta_cristata",78.5,NA,"male",6.6,774,10.0115387973532,49.1677572786619,"Fall",25626
+4,-84.2465973,42.1611767,NA,2004,"Cyanocitta cristata bromia","Cyanocitta_cristata",78.7,NA,"male",9.4,888,9.97537498345832,65.0850500861174,"Spring",25794
+8,-100.9676118,37.3065583,"juv",1971,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",79,117,"female",13.2,474,9.64152556141999,68.6848649806581,"Summer",25546
+1,-76.4506,42.4801,NA,2006,"Cyanocitta cristata","Cyanocitta_cristata",79.0999984741211,260,"male",9.4,1142,8.56615521406863,50.8288018785992,"Winter",25506
+6,-96.1833333,38.4,NA,1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",79.1,NA,"female",13.8,679,9.79747957694253,56.6195668547024,"Summer",25944
+5,-95.2945126,38.1403494,NA,1991,"Cyanocitta cristata","Cyanocitta_cristata",79.2,NA,"female",14.2,701,10.0409276101726,55.4508606478999,"Spring",25518
+1,-83.7974687,36.3366651,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",79.3,NA,"female",14.4,1301,7.94310736081633,43.1322988465877,"Winter",25669
+11,-83.8107705,42.3804847,NA,2009,"Cyanocitta cristata bromia","Cyanocitta_cristata",79.4,NA,"male",8.7,980,10.0753938189066,45.3548884194799,"Fall",25802
+12,-86.783333,36.166667,"adult",1978,"Cyanocitta cristata cristata","Cyanocitta_cristata",79.4,NA,"female",14,1366,10.3159041672497,72.7367397232616,"Winter",25972
+7,-85.4156756,43.5674568,"immature",2000,"Cyanocitta cristata","Cyanocitta_cristata",79.7,NA,"undetermined",7.6,931,9.77533615635273,41.7732501627268,"Summer",25629
+6,-95.8459282,37.799476,NA,1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",79.8,NA,"male",14.2,730,9.38764500755534,45.7210587476343,"Summer",25602
+9,-79.3501282,35.0635845,NA,1988,"Cyanocitta cristata","Cyanocitta_cristata",80,NA,"female",15.3,1073,8.32393409319648,48.5252028931618,"Fall",25522
+3,-84.00302,42.4563,"u ad.",1950,"Cyanocitta cristata bromia","Cyanocitta_cristata",80,NA,"female",8.2,953,10.0560663132743,28.7857641576654,"Spring",25525
+3,-78.16661,43.97027,"ad",1941,"Cyanocitta cristata bromia","Cyanocitta_cristata",80,NA,"female",7.8,774,10.7730689755294,49.4204355116917,"Spring",25568
+6,-83.7263412,42.2708397,NA,1955,"Cyanocitta cristata bromia","Cyanocitta_cristata",80,NA,"female",10.1,635,10.9436123613344,52.1311958502556,"Summer",25605
+5,-83.7263412,42.2708397,NA,1972,"Cyanocitta cristata","Cyanocitta_cristata",80,NA,"female",8.5,745,10.1826464084141,36.6112261865124,"Spring",25621
+11,-79.56197,46.2756,"hy; sy",1947,"Cyanocitta cristata bromia","Cyanocitta_cristata",80,NA,"female",4.5,994,12.1079331619623,63.6045228749056,"Fall",25737
+12,-79.462557,43.646168,"hy; sy",1944,"Cyanocitta cristata bromia","Cyanocitta_cristata",80,NA,"female",7.9,743,10.4148058944073,36.130291394825,"Winter",25744
+7,-86.7253208,41.8027457,"adult",1936,"Cyanocitta cristata","Cyanocitta_cristata",80,NA,"female",9.2,963,11.7221720761051,80.8549395613531,"Summer",25816
+5,-84.0706177,36.1963806,"adult",1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",80,NA,"female",14.5,1291,8.07727826946826,39.2355287608617,"Spring",25828
+2,-79.3314516,43.0626014,"adult",1978,NA,"Cyanocitta_cristata",80,NA,"male",7.4,855,10.8591359386156,50.8142046043967,"Winter",25830
+9,-83.8333333,42.2833333,"immature",1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",80.2,NA,"female",8.8,624,11.5787422774355,61.6530838110344,"Fall",25939
+1,-92.9449,36.2633,"u ad.",1940,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",80.3,NA,"female",13.4,1034,9.48595452937306,42.7290744823015,"Winter",25540
+7,-95.2598661,38.9549568,"immature",2001,"Cyanocitta cristata","Cyanocitta_cristata",80.5,NA,"female",13.6,980,10.1907266223223,63.9326820243611,"Summer",25521
+6,-78.6493,35.8559,"adult skull",2000,"Cyanocitta cristata cristata","Cyanocitta_cristata",80.5,NA,"male",15,1079,8.40718938369615,60.1242074177702,"Summer",25536
+5,-83.7263412,42.2708397,NA,1961,"Cyanocitta cristata bromia","Cyanocitta_cristata",80.5,NA,"male",9.6,830,10.1137620012625,59.4126364108948,"Spring",25610
+4,-83.95,42.45,NA,1956,"Cyanocitta cristata bromia","Cyanocitta_cristata",80.5,NA,"female",8.9,717,9.7333073889235,60.5436273390949,"Spring",25888
+1,-92.9569,36.2738,"u ad.",1940,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",80.7,NA,"female",13.4,1035,9.47594642270948,42.6288570514663,"Winter",25542
+10,-85.47296,38.71366,"Imm",1988,"Cyanocitta cristata","Cyanocitta_cristata",80.7,NA,"female",12.3,1058,9.80115562141279,46.2515056402966,"Fall",25845
+11,-83.7263412,42.2708397,NA,1935,"Cyanocitta cristata bromia","Cyanocitta_cristata",80.8,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Fall",25651
+10,-84.006958,42.4204152,"adult",1934,"Cyanocitta cristata bromia","Cyanocitta_cristata",81,NA,"male",9,484,11.6087316927885,50.2287519241117,"Fall",25591
+7,-68.67218,44.883254,"juvenile",2001,NA,"Cyanocitta_cristata",81,NA,"male",7.1,612,10.2855996716798,43.0561545202046,"Summer",25678
+5,-99.7846696,38.7807516,NA,1995,"Cyanocitta cristata","Cyanocitta_cristata",81,NA,"female",12,578,9.8456727920073,114.613545416559,"Spring",25705
+9,-73.0261,41.2783,"juvenile",2008,"Cyanocitta cristata bromia","Cyanocitta_cristata",81,NA,NA,11.4,1330,8.82259495943126,33.4121827662264,"Fall",25913
+6,-83.7263412,42.2708397,NA,1972,"Cyanocitta cristata","Cyanocitta_cristata",81.5,NA,"female",8.5,745,10.1826464084141,36.6112261865124,"Summer",25620
+5,-83.7263412,42.2708397,"adult",1937,"Cyanocitta cristata","Cyanocitta_cristata",81.5,NA,"male",9.1,869,10.1089819047971,60.2853375909974,"Spring",25821
+3,-104.9841666667,39.7391666667,"adult",1993,"Cyanocitta cristata","Cyanocitta_cristata",81.5,287,"male",9.8,381,8.80872071336472,48.4247603730526,"Spring",25856
+8,-76.39509,42.38263,NA,1992,"Cyanocitta cristata","Cyanocitta_cristata",81.6999969482422,251,"female",7.4,1069,8.89914449412261,44.7393737930169,"Summer",25681
+12,-78.6566162,35.7955385,"adult",1984,NA,"Cyanocitta_cristata",81.7,NA,"male",15.1,1305,7.64751395533017,55.8225513935747,"Winter",25676
+11,-89,36.55,NA,1948,"Cyanocitta cristata cristata","Cyanocitta_cristata",81.8,NA,"female",15,1323,9.27993518133058,53.0820109152964,"Fall",25898
+12,-83.9023667,42.3516833,"adult",2011,"Cyanocitta cristata bromia","Cyanocitta_cristata",81.8,NA,"female",9.9,1044,10.5759124543665,47.4436926600387,"Winter",25909
+5,-83.7264,42.2708,"ad.",1933,"Cyanocitta cristata bromia","Cyanocitta_cristata",82,NA,"male",10,613,10.4579533312588,56.4215473330908,"Spring",25538
+9,-79.372722,43.73418,"ad",1954,"Cyanocitta cristata bromia","Cyanocitta_cristata",82,NA,"male",7.6,902,9.76711784044254,47.0862769089569,"Fall",25743
+7,-83.7263412,42.2708397,NA,1979,"Cyanocitta cristata bromia","Cyanocitta_cristata",82,NA,"in question",8.3,785,10.6977872251766,52.6854586787219,"Summer",25777
+6,-85.8666667,45.4333333,NA,1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",82,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",25873
+10,-83.0666667,37.6833333,NA,1948,"Cyanocitta cristata bromia","Cyanocitta_cristata",82,NA,"female",12.9,1256,8.60415685302837,41.9895645257694,"Fall",25901
+7,-79.09086,43.81788,"ad",1968,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.1,274,"female",7.5,797,10.6895304202786,39.4918028124444,"Summer",25862
+11,-79.71593,43.46917,NA,1972,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.2,NA,"undetermined",7,910,10.0805242768901,25.8640419412959,"Fall",25547
+8,-83.6130371,42.2411385,NA,2009,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.2,NA,"male",9.1,944,10.0337121140622,45.8727917610013,"Summer",25637
+11,-73.0089,41.3525,"adult",2005,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.2,NA,NA,10.6,1201,10.0610974460136,62.5301235969291,"Fall",25970
+8,-84.101758,42.3246663,"immature",2008,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.4,NA,"male",9,955,10.3108945031236,45.9355841582424,"Summer",25635
+1,-104.990251,39.7392358,"adult",2001,"Cyanocitta cristata","Cyanocitta_cristata",82.5,259,"undetermined",11.3,358,9.35424065233615,65.4327610239593,"Winter",25695
+7,-83.9023585,42.3485816,"immature",1951,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.5,NA,"female",8.6,856,9.88571053224161,34.3377587428266,"Summer",25763
+2,-83.9957142,42.4497764,NA,1954,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.6,NA,"female",9.1,789,9.62349948949146,55.9463574439234,"Winter",25604
+3,-83.9836121,42.4591805,NA,1950,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.6,NA,"female",8.2,948,10.0729573461308,28.2840652462802,"Spring",25760
+6,-83.7263412,42.2708397,NA,1955,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.6,NA,"female",10.1,635,10.9436123613344,52.1311958502556,"Summer",25772
+8,-79.10782,43.82863,"imm",1985,"Cyanocitta cristata bromia","Cyanocitta_cristata",82.7,NA,"female",7.5,887,10.2521948869498,44.333116129163,"Summer",25728
+9,-83.7263412,42.2708397,NA,1987,"Cyanocitta cristata","Cyanocitta_cristata",82.8,NA,"female",10.6,838,9.89934188201265,67.1092470711226,"Fall",25832
+6,-83.7263412,42.2708397,NA,1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",83,NA,"female",8.9,620,11.5959501812512,64.4156693647403,"Summer",25594
+9,-83.7274933,42.2183477,NA,1966,"Cyanocitta cristata","Cyanocitta_cristata",83,NA,"female",9.1,680,10.063115217406,52.2464326493762,"Fall",25619
+9,-84.0221481,42.4342346,NA,1934,"Cyanocitta cristata","Cyanocitta_cristata",83,NA,"female",9,485,11.5965087483913,49.4890095543903,"Fall",25815
+6,-85.8666667,45.4333333,NA,1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",83,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",25874
+8,-83.7263412,42.2708397,"adult",1967,"Cyanocitta cristata bromia","Cyanocitta_cristata",83.2,NA,"male",8.8,825,9.72738636297261,55.2087073628878,"Summer",25778
+9,-83.7263412,42.2708397,NA,1943,"Cyanocitta cristata bromia","Cyanocitta_cristata",83.3,NA,"female",8.7,801,10.592232002174,59.9867745208329,"Fall",25758
+1,-83.95,42.45,NA,1950,"Cyanocitta cristata bromia","Cyanocitta_cristata",83.3,NA,"female",8.2,942,10.0519069500933,27.8856330911228,"Winter",25876
+4,-83.815239,42.3256378,NA,1935,"Cyanocitta cristata","Cyanocitta_cristata",83.4,NA,"male",8.6,651,10.2368762991274,43.7560852137542,"Spring",25818
+6,-82.4333333,42.9666667,NA,1961,"Cyanocitta cristata bromia","Cyanocitta_cristata",83.4,NA,"male",9.3,728,10.1764843307172,45.6508610503317,"Summer",25891
+9,-72.6372,41.3597,NA,1976,"Cyanocitta cristata bromia","Cyanocitta_cristata",83.5,NA,"female",9.2,1167,9.38954931632165,58.1156136952743,"Fall",25912
+5,-83.6333333,42.8,NA,1988,"Cyanocitta cristata bromia","Cyanocitta_cristata",83.6,NA,"male",8.8,732,10.9438615698759,61.6326850574156,"Spring",25906
+10,-76.46632,42.44127,NA,1952,"Cyanocitta cristata","Cyanocitta_cristata",83.6999969482422,NA,"female",9,873,9.24361778185196,39.4320112942418,"Fall",25503
+1,-83.7974687,36.3366651,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",83.7,NA,"male",14.4,1301,7.94310736081633,43.1322988465877,"Winter",25667
+12,-95.2910311,38.2140654,NA,1984,"Cyanocitta cristata","Cyanocitta_cristata",83.7,NA,"female",12.8,1075,9.76519406624954,66.1246244587232,"Winter",25704
+7,-79.97972,43.63902,"imm",1974,"Cyanocitta cristata bromia","Cyanocitta_cristata",83.7,NA,"male",6.6,854,9.53114511864798,43.1146856948682,"Summer",25864
+7,-85.5568848,45.6646004,"immature",1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",83.8,NA,"female",6.3,734,10.4803278921641,72.7502344657928,"Summer",25665
+5,-80.24294,42.5613,"hy; sy",1928,"Cyanocitta cristata bromia","Cyanocitta_cristata",84,NA,"female",9.2,821,9.33141890539048,43.0734582008226,"Spring",25560
+10,-52.7151489,47.5691138,"ad",1971,"Cyanocitta cristata bromia","Cyanocitta_cristata",84,302,"male",5.6,1558,7.25828680011525,47.156640259318,"Fall",25733
+6,-83.7263412,42.2708397,NA,1972,"Cyanocitta cristata","Cyanocitta_cristata",84,NA,"male",8.5,745,10.1826464084141,36.6112261865124,"Summer",25781
+9,-83.7263412,42.2708397,NA,1986,"Cyanocitta cristata","Cyanocitta_cristata",84,NA,"female",9.4,885,10.041716018991,52.6805384751907,"Fall",25784
+2,-83.958292,42.423995,NA,2008,"Cyanocitta cristata bromia","Cyanocitta_cristata",84.1,NA,"female",9,953,10.2696780805821,45.7522854829515,"Winter",25799
+9,-75.762259,42.683784,NA,1996,"Cyanocitta cristata","Cyanocitta_cristata",84.3000030517578,271,"female",7,1280,9.94583817331134,32.1173152538014,"Fall",25849
+5,-83.6422,42.30201,"adult",1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",84.4,NA,"male",9,627,11.5244502925499,63.8445384579534,"Spring",25765
+2,-83.5993423,42.5936317,NA,1934,"Cyanocitta cristata","Cyanocitta_cristata",84.4,NA,"male",8.7,466,11.6100531150091,50.0841004955749,"Winter",25813
+7,-83.35278,42.36833,NA,1986,"Cyanocitta cristata","Cyanocitta_cristata",84.4,NA,"male",9.6,928,9.91608732710578,58.1421784724517,"Summer",25903
+5,-80.39645,42.58314,"hy; sy",1972,"Cyanocitta cristata bromia","Cyanocitta_cristata",84.5,NA,"male",7.6,1036,9.53034626863054,25.1330094827266,"Spring",25928
+6,-83.7263412,42.2708397,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",84.7,NA,"male",10.4,686,9.65898859125844,50.0000629664573,"Summer",25824
+9,-79.381924,43.647863,"imm",2001,"Cyanocitta cristata bromia","Cyanocitta_cristata",84.8,NA,"female?",9.1,697,9.65735314136175,37.8745626908572,"Fall",25571
+7,-83.9594078,42.3916425,NA,1994,"Cyanocitta cristata","Cyanocitta_cristata",84.9,NA,"male",9.1,816,10.5363871675947,45.6370991713151,"Summer",25791
+11,-105.35,40.0833,NA,1983,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",84.9,NA,"female",7.5,652,8.77584063140841,78.6055629514181,"Fall",25914
+6,-83.6833333,37.8166667,NA,1948,"Cyanocitta cristata bromia","Cyanocitta_cristata",84.9,NA,"male",12.9,1336,8.72898341819662,42.3906026538022,"Summer",25956
+6,-83.6833333,37.8166667,NA,1948,"Cyanocitta cristata bromia","Cyanocitta_cristata",84.9,NA,"female",12.9,1336,8.72898341819662,42.3906026538022,"Summer",25957
+9,-76.3354051,42.4551646,"ad.",1990,"Cyanocitta cristata","Cyanocitta_cristata",84.9000015258789,249,"female",8.7,1204,8.31958259442471,40.1468800237063,"Fall",25918
+3,-79.469326,43.654854,"ad",1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",85,NA,"male",7.2,695,10.9438927205445,43.1338013344063,"Spring",25565
+7,-83.7263412,42.2708397,NA,1955,"Cyanocitta cristata bromia","Cyanocitta_cristata",85,NA,"male",10.1,635,10.9436123613344,52.1311958502556,"Summer",25607
+5,-83.7263412,42.2708397,"adult",1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",85,NA,"male",10.4,686,9.65898859125844,50.0000629664573,"Spring",25659
+5,-76.39509,42.38263,NA,2012,"Cyanocitta cristata","Cyanocitta_cristata",85,260,"female",10,1035,8.77632403893359,37.242137147389,"Spring",25682
+1,-92.9569,36.2738,"u ad.",1940,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",85,NA,"female",13.4,1035,9.47594642270948,42.6288570514663,"Winter",25725
+6,-83.7263412,42.2708397,NA,1972,"Cyanocitta cristata","Cyanocitta_cristata",85,NA,"male",8.5,745,10.1826464084141,36.6112261865124,"Summer",25782
+6,-85.8666667,45.4333333,NA,1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",85,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",25872
+5,-84.2732906,46.220346,NA,1934,"Cyanocitta cristata","Cyanocitta_cristata",85.2,NA,"female",3.7,745,12.0010952782981,54.8498808963561,"Spring",25648
+2,-83.7263412,42.2708397,NA,1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",85.2,NA,"female",10.7,596,9.53530521035092,50.9741906978463,"Winter",25835
+1,-83.7666667,42.3166667,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",85.2,NA,"female",10.3,689,9.65848269029809,49.8590555139011,"Winter",25942
+5,-83.7263412,42.2708397,NA,1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",85.5,NA,"male",10.7,596,9.53530521035092,50.9741906978463,"Spring",25601
+12,-84.0128,42.45268,"u ad.",1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",85.5,NA,"female",9.9,815,9.8222497885714,25.489898305367,"Winter",25711
+5,-96.609,33.62,"sk.oss.",1975,"Cyanocitta cristata cristata","Cyanocitta_cristata",85.6,NA,"male",17.2,919,8.1299483765926,54.5544740857905,"Spring",25861
+12,-84.5833333,31.0666667,"immature",1946,"Cyanocitta cristata cristata","Cyanocitta_cristata",85.7,NA,"male",20.1,1420,5.62237817686043,49.9954762684942,"Winter",25884
+9,-96.9794444,28.8155556,NA,2010,"Cyanocitta cristata","Cyanocitta_cristata",85.7,NA,"male",21.4,1149,7.0176563039237,78.8570226239854,"Fall",25934
+10,-83.7263412,42.2708397,NA,2004,"Cyanocitta cristata bromia","Cyanocitta_cristata",85.9,NA,"male",9.7,845,10.0184224246529,62.5123735413865,"Fall",25630
+6,-79.3281555,37.6463157,"ad",1974,"Cyanocitta cristata bromia","Cyanocitta_cristata",86,NA,"male",12.6,1087,7.16279846276452,41.6573537266209,"Summer",25551
+6,-92.6571497,40.1873169,"ad",1974,"Cyanocitta cristata bromia","Cyanocitta_cristata",86,NA,"male",11.3,944,9.891532957152,65.9622803840953,"Summer",25552
+5,-83.7263412,42.2708397,"adult",1933,"Cyanocitta cristata","Cyanocitta_cristata",86,NA,"female",10,613,10.4579533312588,56.4215473330908,"Spring",25578
+6,-83.7263412,42.2708397,NA,1972,"Cyanocitta cristata","Cyanocitta_cristata",86,NA,"male",8.5,745,10.1826464084141,36.6112261865124,"Summer",25622
+11,-82.0967102,39.326065,NA,1941,"Cyanocitta cristata","Cyanocitta_cristata",86,NA,"undetermined",12.1,826,9.55264123399673,61.5081431406463,"Fall",25706
+1,-83.7974687,36.3366651,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",86,NA,"female",14.4,1301,7.94310736081633,43.1322988465877,"Winter",25827
+3,-84.00302,42.4563,"u ad.",1950,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.3,NA,"female",8.2,953,10.0560663132743,28.7857641576654,"Spring",25524
+7,-83.9151667,42.3927833,NA,2009,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.3,NA,"male",8.7,951,10.0309520983803,45.5821325241837,"Summer",25800
+7,-85.5568848,45.6646004,"immature",1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.3,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",25826
+5,-83.6422,42.30201,"adult",1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.4,NA,"female",9,627,11.5244502925499,63.8445384579534,"Spring",25764
+6,-85.5568848,45.6646004,NA,1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.5,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",25661
+4,-83.6561111,42.3127778,NA,1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.5,NA,"male",10.5,841,9.74649898292933,23.8253832581416,"Spring",25936
+7,-83.7263412,42.2708397,NA,1986,"Cyanocitta cristata","Cyanocitta_cristata",86.6,NA,"female",9.4,885,10.041716018991,52.6805384751907,"Summer",25785
+7,-84.9,38.7166667,NA,1950,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.6,NA,"male",11.7,1351,8.93713736284859,33.7643724389425,"Summer",25953
+5,-72.4465942,42.6984597,NA,1970,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.7,280,"undetermined",7.4,1007,11.170045847821,33.1235761206681,"Spring",25545
+7,-94.98538,49.92533,"juv",1947,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.7,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",25931
+4,-83.6833333,42.2833333,NA,1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",86.8,NA,"female",10.1,668,10.247660486889,65.1152082954545,"Spring",25879
+3,-76.5095,42.4381,"ad.",1932,"Cyanocitta cristata","Cyanocitta_cristata",87,NA,"female",9.7,794,8.98674107513481,45.5221136618766,"Spring",25502
+3,-83.99813,42.4563,"u ad.",1950,"Cyanocitta cristata bromia","Cyanocitta_cristata",87,NA,"female",8.2,952,10.0560663132743,28.652117598194,"Spring",25709
+6,-73.1892,41.7472,NA,2009,"Cyanocitta cristata bromia","Cyanocitta_cristata",87,NA,"male",7.6,1326,9.24273260787123,53.5607339565056,"Summer",25967
+9,-105.094134,39.697654,"adult",1991,"Cyanocitta cristata","Cyanocitta_cristata",87.2,272,"female",10.4,491,8.26810227026221,74.0152879142322,"Fall",25513
+8,-85.4158688,43.5674568,NA,2001,"Cyanocitta cristata","Cyanocitta_cristata",87.2,NA,"male",8.3,988,9.42235816201726,60.8139287595172,"Summer",25633
+1,-92.9569,36.2738,"u ad.",1940,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",87.2,NA,"female",13.4,1035,9.47594642270948,42.6288570514663,"Winter",25726
+4,-80.39645,42.58314,"hy; sy",1972,"Cyanocitta cristata bromia","Cyanocitta_cristata",87.2,NA,"undetermined",7.6,1036,9.53034626863054,25.1330094827266,"Spring",25863
+5,-105.177931,40.215236,"immature",2012,"Cyanocitta cristata","Cyanocitta_cristata",87.4,291,"male",11.2,233,9.15497463710635,71.6823468542214,"Spring",25854
+7,-83.6130371,42.2411385,NA,2007,"Cyanocitta cristata bromia","Cyanocitta_cristata",87.5,NA,"male",10.2,870,10.6244144223661,46.0538174180029,"Summer",25797
+1,-83.7666667,42.3166667,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",87.5,NA,"male",10.3,689,9.65848269029809,49.8590555139011,"Winter",25881
+2,-76.250233,42.084879,NA,2004,"Cyanocitta cristata","Cyanocitta_cristata",87.6999969482422,NA,"male",7.7,1177,9.97081726688926,54.342200214124,"Winter",25850
+10,-75.961705,42.088608,NA,2004,"Cyanocitta cristata","Cyanocitta_cristata",87.7,263,"male",7.6,1198,10.0429494339727,53.2455717322193,"Fall",25685
+8,-105.055432,39.671386,"adult",1991,"Cyanocitta cristata","Cyanocitta_cristata",87.7,250,"male",10.5,490,8.29364488355665,73.1805085493621,"Summer",25855
+5,-86.95,37,NA,1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",87.7,NA,"male",14.6,1447,8.09745564228591,45.8371686718701,"Spring",25900
+5,-70.2103,44.5867,"u ad.",1952,"Cyanocitta cristata bromia","Cyanocitta_cristata",88,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",25532
+6,-57.5999451,48.95612,"ad",1972,"Cyanocitta cristata bromia","Cyanocitta_cristata",88,NA,"male",1.7,1150,9.70448193861835,40.3187010937089,"Summer",25550
+7,-84.02525,46.353393,"hy; sy",1931,"Cyanocitta cristata bromia","Cyanocitta_cristata",88,NA,"female",6.7,772,10.5130618611787,65.7387277263846,"Summer",25562
+6,-83.49944,42.37135,"immature",2012,"Cyanocitta cristata bromia","Cyanocitta_cristata",88,NA,"male",11.4,660,9.1557565928698,38.9648168180207,"Summer",25642
+5,-93.3757385,39.4378991,"adult",2007,NA,"Cyanocitta_cristata",88,NA,"male",13.2,1029,10.9178301485009,63.6477270446706,"Spring",25679
+9,-84.2366409,42.337103,NA,1938,"Cyanocitta cristata cristata","Cyanocitta_cristata",88,NA,"female",10.2,739,9.58655545305745,54.1951228383305,"Fall",25825
+6,-85.8666667,45.4333333,NA,1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",88,NA,"male",6.2,749,10.3052355037563,45.0409106964284,"Summer",25871
+2,-84.151296,46.367212,NA,1956,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.1,NA,"male",4.3,792,9.83054916928332,61.8680132734191,"Winter",25773
+9,-79.3953,43.666565,"hy; sy",1983,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.2,NA,"female",8.1,836,10.1440645430984,37.8079162209125,"Fall",25556
+7,-83.7263412,42.2708397,NA,1976,"Cyanocitta cristata","Cyanocitta_cristata",88.2,NA,"male",8.6,698,10.6434216416726,51.8966552298352,"Summer",25836
+7,-105.281431,40.039277,"adult",2013,"Cyanocitta cristata","Cyanocitta_cristata",88.2,268,"male",9.9,434,9.58057931442561,66.2004099005683,"Summer",25922
+6,-85.5568848,45.6646004,"adult",1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.3,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",25663
+2,-97.39765,30.18186,"u ad.",1952,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",88.4,NA,"female",20,874,6.72464373281837,71.4982125968517,"Winter",25714
+11,-83.2833333,38.4666667,NA,1948,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.4,NA,"female",12.6,1216,9.1057424438947,42.9748774552443,"Fall",25899
+12,-79.85857,43.64689,"ad",1970,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.4,276,"male",7.3,797,10.8150953707671,33.6639560527776,"Winter",25924
+2,-95.2598661,38.9549568,NA,1996,"Cyanocitta cristata","Cyanocitta_cristata",88.5,NA,"female",12.3,1190,10.3047944122524,83.2604307990719,"Winter",25519
+6,-77.27931,43.96989,"ad",1930,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.5,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",25866
+1,-83.7974687,36.3366651,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.6,NA,"female",14.4,1301,7.94310736081633,43.1322988465877,"Winter",25670
+8,-83.6166667,42.2,"adult",1992,"Cyanocitta cristata","Cyanocitta_cristata",88.7,NA,"female",9,951,8.56285140840504,42.3949656707066,"Summer",25959
+5,-84.3015289,44.7111221,NA,1934,"Cyanocitta cristata","Cyanocitta_cristata",88.8,NA,"male",6,660,11.350727516398,61.3537211096775,"Spring",25814
+9,-83.6561111,42.3127778,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.8,NA,"male",10.5,696,9.64633703443013,49.7350022000717,"Fall",25877
+8,-83.7263412,42.2708397,"juvenile",1952,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.9,NA,"female",10.3,678,9.69596526521431,36.7749765740153,"Summer",25598
+6,-83.6975997,46.0204493,"adult",1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.9,NA,"female",6.1,753,10.7665587760801,25.7593813773558,"Summer",25750
+7,-83.7263412,42.2708397,NA,1952,"Cyanocitta cristata bromia","Cyanocitta_cristata",88.9,NA,"male",10.3,678,9.69596526521431,36.7749765740153,"Summer",25768
+3,-79.65977,43.55051,"hy; sy",1935,"Cyanocitta cristata bromia","Cyanocitta_cristata",89,NA,"male",7.2,645,10.4640039558421,33.0123440099401,"Spring",25564
+6,-86.1218261,45.0237958,NA,1940,"Cyanocitta cristata bromia","Cyanocitta_cristata",89,NA,"female",7.2,848,9.45869809735831,42.4204910203786,"Summer",25579
+5,-104.3112439945,42.102100931,NA,2013,"Cyanocitta cristata","Cyanocitta_cristata",89,NA,"male",9.1,352,10.0602578435539,80.503479154544,"Spring",25675
+7,-68.67218,44.883254,"juvenile",2001,NA,"Cyanocitta_cristata",89,NA,"male",7.1,612,10.2855996716798,43.0561545202046,"Summer",25677
+2,-95.2798841,38.9041998,NA,1967,"Cyanocitta cristata","Cyanocitta_cristata",89,NA,"male",12.1,1201,8.92804569880777,86.6926987290194,"Winter",25702
+10,-83.6422,42.30201,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",89.2,NA,"female",10.4,697,9.64633703443013,49.7333643051101,"Fall",25672
+7,-85.5568848,45.6646004,"immature",1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",89.3,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",25664
+5,-72.67545,42.35106,"Adult",2003,"Cyanocitta cristata","Cyanocitta_cristata",89.3,267,"male",8,1385,10.5243296770633,37.8342857701517,"Spring",25917
+1,-95.2798841,38.9041998,NA,1967,"Cyanocitta cristata","Cyanocitta_cristata",89.4,NA,"female",12.1,1201,8.92804569880777,86.6926987290194,"Winter",25703
+12,-84.0128,42.45268,"u ad.",1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",89.5,NA,"female",9.9,815,9.8222497885714,25.489898305367,"Winter",25528
+2,-84.1291809,44.6823245,NA,1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",89.5,NA,"male",6.7,723,10.4451054218101,58.5876300674653,"Winter",25592
+2,-83.9957142,42.4497764,NA,1954,"Cyanocitta cristata bromia","Cyanocitta_cristata",89.5,NA,"female",9.1,789,9.62349948949146,55.9463574439234,"Winter",25603
+7,-95.3354,45.7556,"u ad.",1981,"Cyanocitta cristata bromia","Cyanocitta_cristata",89.5,NA,"male",6.5,622,11.3669643611599,90.2688249366509,"Summer",25718
+12,-83.7263412,42.2708397,NA,2008,"Cyanocitta cristata","Cyanocitta_cristata",89.5,NA,"male",9.4,1009,10.3051472869659,47.554168259734,"Winter",25809
+6,-83.7263412,42.2708397,"adult",1935,"Cyanocitta cristata","Cyanocitta_cristata",89.5,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Summer",25819
+12,-83.837982,42.2540303,NA,1987,"Cyanocitta cristata","Cyanocitta_cristata",89.6,NA,"male",10.4,820,9.86246327335021,66.2628332772442,"Winter",25625
+4,-97.7903,30.22594,"u ad.",1951,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",89.6,NA,"male",20.2,700,7.44121914905363,83.318900341336,"Spring",25712
+9,-83.7400246,42.2754036,NA,1992,"Cyanocitta cristata","Cyanocitta_cristata",89.6,NA,NA,8.8,954,8.66238822132613,38.9637791632208,"Fall",25789
+4,-83.7517354,42.6481017,NA,1937,"Cyanocitta cristata cristata","Cyanocitta_cristata",89.8,NA,"male",8.4,738,10.1085322496604,57.753237645845,"Spring",25655
+12,-84.00588,42.45118,"u ad.",1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",89.9,NA,"female",9.9,814,9.83309193334919,25.2623631595166,"Winter",25527
+7,-79.64117,44.70553,"juv",1985,"Cyanocitta cristata bromia","Cyanocitta_cristata",90,NA,"male",6.1,1244,10.1350277690191,22.4587090455296,"Summer",25557
+3,-79.495948,43.689613,"ad",1935,"Cyanocitta cristata bromia","Cyanocitta_cristata",90,NA,"male",7.1,635,10.5978842942897,34.6041869671218,"Spring",25569
+9,-105.0808333333,39.7047222222,NA,1994,"Cyanocitta cristata","Cyanocitta_cristata",90,290,"undetermined",11,370,8.77028384876332,53.6196631572074,"Fall",25692
+1,-92.9449,36.2633,"u ad.",1940,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",90,NA,"female",13.4,1034,9.48595452937306,42.7290744823015,"Winter",25727
+6,-92.6571497,40.1873169,"ad",1974,"Cyanocitta cristata bromia","Cyanocitta_cristata",90,NA,"male",11.3,944,9.891532957152,65.9622803840953,"Summer",25734
+6,-80.45638,45.70165,"ad",1978,"Cyanocitta cristata bromia","Cyanocitta_cristata",90,NA,"male",4.4,857,11.3947223296444,46.6763789344193,"Summer",25735
+7,-83.7546158,42.7821102,"juvenile",1985,"Cyanocitta cristata bromia","Cyanocitta_cristata",90,NA,"male",8.4,989,10.5056694650598,43.1268599518384,"Summer",25787
+7,-90.1692886,46.4415703,"adult",1967,"Cyanocitta cristata bromia","Cyanocitta_cristata",90,NA,"female",3.6,945,11.2902579351592,59.7354733676772,"Summer",25796
+3,-105.095048,40.636006,NA,2001,"Cyanocitta cristata","Cyanocitta_cristata",90.01,280,"male",9.6,319,9.52473653497072,87.260025018756,"Spring",25514
+11,-84.0692609,42.4769786,NA,1936,"Cyanocitta cristata","Cyanocitta_cristata",90.1,NA,"male",8.4,642,11.4437060907256,63.3115603063577,"Fall",25654
+5,-83.7145974,42.3122368,NA,1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",90.4,NA,"female",10.4,835,9.76854878958719,23.123547900737,"Spring",25588
+5,-95.13615,47.2329,"u ad.",1981,"Cyanocitta cristata bromia","Cyanocitta_cristata",90.5,NA,"male",5.1,742,11.4056471924564,91.3550362416545,"Spring",25720
+9,-79.46643,44.00005,NA,1971,"Cyanocitta cristata bromia","Cyanocitta_cristata",90.5,NA,"undetermined",6.8,718,10.514564213797,45.2340118938321,"Fall",25732
+5,-83.8238676,42.2708702,NA,1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",90.5,NA,"male",8.8,624,11.5787422774355,61.9422652006029,"Spring",25767
+5,-83.7833333,42.5,NA,1984,"Cyanocitta cristata","Cyanocitta_cristata",90.5,NA,"female",8.7,748,10.4084282573249,41.3299200869759,"Spring",25952
+2,-97.39765,30.18186,"u ad.",1952,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",90.7,NA,"male",20,874,6.72464373281837,71.4982125968517,"Winter",25715
+4,-80.39645,42.58314,"ad",1972,"Cyanocitta cristata bromia","Cyanocitta_cristata",90.8,NA,"male",7.6,1036,9.53034626863054,25.1330094827266,"Spring",25926
+5,-83.8166667,42.25,NA,1999,"Cyanocitta cristata","Cyanocitta_cristata",90.9,NA,"undetermined",10,853,9.97258362925196,45.7556345420927,"Spring",25964
+5,-80.24294,42.5613,"ad",1972,"Cyanocitta cristata bromia","Cyanocitta_cristata",91,NA,"undetermined",7.7,1036,9.52039278537807,25.7318929470796,"Spring",25548
+10,-79.408069,43.745921,"juv",2003,"Cyanocitta cristata bromia","Cyanocitta_cristata",91,NA,"female",7,821,10.5248155529797,38.9287295598561,"Fall",25573
+3,-84.194697,46.420551,NA,1963,"Cyanocitta cristata bromia","Cyanocitta_cristata",91,NA,"female",4.2,623,11.94909341052,44.8161660882285,"Spring",25615
+9,-84.1386223,42.3530892,"adult",1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",91,NA,"female",10.1,719,9.5973796929004,51.9386046480594,"Fall",25673
+8,-69.924457,44.308014,NA,1994,"Cyanocitta cristata","Cyanocitta_cristata",91,268,"undetermined",6.9,1071,11.4616455267914,40.0154898289623,"Summer",25680
+7,-94.8054886,39.8330592,"ad",1967,"Cyanocitta cristata bromia","Cyanocitta_cristata",91,NA,"female",11.1,1009,9.28558266639986,93.9043513948334,"Summer",25749
+6,-83.7263412,42.2708397,NA,1972,"Cyanocitta cristata","Cyanocitta_cristata",91,NA,"male",8.5,745,10.1826464084141,36.6112261865124,"Summer",25783
+5,-95.0023222,39.3037778,NA,2011,"Cyanocitta cristata","Cyanocitta_cristata",91,NA,"male",12.8,940,10.8886791363018,60.2239319927277,"Spring",25859
+5,-80.39645,42.58314,"ad",1972,"Cyanocitta cristata bromia","Cyanocitta_cristata",91,NA,"undetermined",7.6,1036,9.53034626863054,25.1330094827266,"Spring",25927
+6,-85.8666667,45.4333333,NA,1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",91,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",25935
+12,-83.8833333,42.3833333,NA,1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",91,NA,"female",10.3,574,9.48492823569918,45.1458239351791,"Winter",25945
+4,-83.7263412,42.2708397,NA,1950,"Cyanocitta cristata bromia","Cyanocitta_cristata",91.1,NA,"male",8.8,937,10.057004192767,28.9269781957829,"Spring",25761
+10,-84.00509,42.44221,"ad",1951,"Cyanocitta cristata bromia","Cyanocitta_cristata",91.2,NA,"male",8.4,847,9.90137348905176,29.4637169832086,"Fall",25529
+1,-83.95,42.45,NA,1950,"Cyanocitta cristata","Cyanocitta_cristata",91.2,NA,"female",8.2,942,10.0519069500933,27.8856330911228,"Winter",25951
+5,-83.7263412,42.2708397,NA,1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",91.3,NA,"female",8.9,620,11.5959501812512,64.4156693647403,"Spring",25766
+6,-85.9412384,46.5073722,"adult",1955,"Cyanocitta cristata bromia","Cyanocitta_cristata",91.5,NA,"male",6.1,701,11.4597682297151,44.6122196274867,"Summer",25606
+11,-83.7219494,36.3327785,NA,1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",91.5,NA,"female",13.7,1336,8.14227185182925,57.695269086932,"Fall",25660
+1,-84.1386223,42.3530892,NA,1934,"Cyanocitta cristata","Cyanocitta_cristata",91.5,NA,"male",9,497,11.5699552132393,46.1505977273833,"Winter",25812
+8,-83.9094543,42.3750954,NA,1935,"Cyanocitta cristata bromia","Cyanocitta_cristata",91.5,NA,"male",8.5,651,10.205464964984,44.1524085436391,"Summer",25822
+1,-83.75,42.2833333,NA,1934,"Cyanocitta cristata","Cyanocitta_cristata",91.5,NA,"in question",9.6,478,11.7820999311616,58.5105433217181,"Winter",25910
+9,-83.8333333,42.2833333,"adult",1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",91.6,NA,"female",8.8,624,11.5787422774355,61.6530838110344,"Fall",25880
+4,-95.488,30.764,"u ad.",1955,"Cyanocitta cristata bromia","Cyanocitta_cristata",91.8,NA,"male",20.2,885,6.83604528594678,66.6632541151258,"Spring",25860
+11,-89,36.55,NA,1948,"Cyanocitta cristata cristata","Cyanocitta_cristata",91.8,NA,"male",15,1323,9.27993518133058,53.0820109152964,"Fall",25897
+11,-84.1291809,44.6823245,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",92,NA,"male",7.4,835,10.1493245035711,39.2256996652719,"Fall",25593
+12,-83.7263412,42.2708397,"adult",1955,"Cyanocitta cristata bromia","Cyanocitta_cristata",92,NA,"male",10.1,635,10.9436123613344,52.1311958502556,"Winter",25608
+12,-83.7263412,42.2708397,"adult",1934,"Cyanocitta cristata","Cyanocitta_cristata",92,NA,"male",9.6,480,11.7842055311336,58.1051749810578,"Winter",25649
+1,-78.48248,45.58662,NA,1971,"Cyanocitta cristata bromia","Cyanocitta_cristata",92,NA,"male",3.7,846,11.7556433900979,35.2018666727033,"Winter",25929
+7,-72.5989,41.2794,NA,2009,"Cyanocitta cristata bromia","Cyanocitta_cristata",92,NA,NA,10.7,1202,8.73763628670751,44.7439154935392,"Summer",25974
+11,-76.2716,38.7707,"skull",1992,"Cyanocitta cristata bromia","Cyanocitta_cristata",92.1,NA,"male",13.4,990,7.97562574727564,42.2538885913898,"Fall",25722
+11,-84.7479034,44.2463154,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",92.2,NA,"female",7.7,770,9.99422181547767,44.7739927243897,"Fall",25596
+12,-93.4922791,43.1981684,NA,1940,"Cyanocitta cristata bromia","Cyanocitta_cristata",92.3,NA,"female",7.5,815,12.7170936025874,76.4161548750681,"Winter",25755
+10,-83.0666667,37.6833333,NA,1948,"Cyanocitta cristata bromia","Cyanocitta_cristata",92.3,NA,"male",12.9,1256,8.60415685302837,41.9895645257694,"Fall",25954
+7,-83.8372,42.2535,"nestling",1938,"Cyanocitta cristata cristata","Cyanocitta_cristata",92.4,NA,"undetermined",10.2,685,9.66023950390089,49.983320783491,"Summer",25721
+4,-83.7189407,42.2143364,NA,1945,"Cyanocitta cristata bromia","Cyanocitta_cristata",92.5,NA,"male",9,902,10.0863055974951,62.0068690673324,"Spring",25583
+12,-83.9464,42.4567,"u ad.",1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",92.5,NA,"male",10,805,9.8279749139429,23.7928776379334,"Winter",25708
+10,-83.8333333,42.2833333,NA,1936,"Cyanocitta cristata bromia","Cyanocitta_cristata",92.6,NA,"female",8.8,624,11.5787422774355,61.6530838110344,"Fall",25941
+10,-83.6619186,42.2993415,NA,1946,"Cyanocitta cristata","Cyanocitta_cristata",92.7,NA,"male",10.2,616,8.86251896608647,50.2138208542311,"Fall",25586
+2,-83.7263412,42.2708397,NA,1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",92.7,NA,"male",10.7,596,9.53530521035092,50.9741906978463,"Winter",25600
+8,-83.95,42.45,"immature",1935,"Cyanocitta cristata bromia","Cyanocitta_cristata",92.7,NA,"male",8.4,658,10.1983473111474,44.4104509785528,"Summer",25965
+5,-70.2103,44.5867,"u ad.",1952,"Cyanocitta cristata bromia","Cyanocitta_cristata",93,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",25530
+5,-70.2103,44.5867,"u ad.",1952,"Cyanocitta cristata bromia","Cyanocitta_cristata",93,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",25531
+12,-79.99343,43.80176,"ad",1934,"Cyanocitta cristata bromia","Cyanocitta_cristata",93,NA,"male",5.8,691,11.3042094599822,30.2557679447059,"Winter",25742
+5,-83.7263412,42.2708397,NA,1971,"Cyanocitta cristata","Cyanocitta_cristata",93,NA,"male",9.6,595,10.4881318208206,62.6802652779522,"Spring",25779
+10,-79.36696,43.85242,"ad",2003,"Cyanocitta cristata bromia","Cyanocitta_cristata",93,NA,"female",6.7,823,10.5480574112732,39.4072162116173,"Fall",25870
+1,-92.9569,36.2738,"u ad.",1940,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",93.1,NA,"male",13.4,1035,9.47594642270948,42.6288570514663,"Winter",25541
+10,-79.372722,43.73418,"hy; sy",1975,"Cyanocitta cristata bromia","Cyanocitta_cristata",93.3,NA,"male",8.2,807,10.1184200467476,22.8094245601912,"Fall",25739
+12,-79.85857,43.64689,"ad",1970,"Cyanocitta cristata bromia","Cyanocitta_cristata",93.3,295,"male",7.3,797,10.8150953707671,33.6639560527776,"Winter",25925
+8,-76.28712,42.349548,"juvenile",1997,"Cyanocitta cristata","Cyanocitta_cristata",93.4000015258789,250,"female",6.5,857,9.14609951638601,42.279621709242,"Summer",25848
+9,-79.372722,43.73418,"ad",1972,"Cyanocitta cristata bromia","Cyanocitta_cristata",93.5,NA,"male",6.7,890,10.2593047197816,27.0550363953582,"Fall",25549
+6,-93.83787,48.63186,"hy; sy",1929,"Cyanocitta cristata bromia","Cyanocitta_cristata",93.5,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",25561
+2,-95.3898296,38.8389833,"ad",1966,"Cyanocitta cristata bromia","Cyanocitta_cristata",93.5,NA,"female",12.1,698,9.97905382045388,92.731940959168,"Winter",25575
+10,-74.405097,40.903214,NA,1934,"Cyanocitta cristata","Cyanocitta_cristata",93.5,NA,"male",9.2,1214,10.3138477080794,57.508775422823,"Fall",25817
+1,-85.42765,38.75516,"U-Ad.",1988,"Cyanocitta cristata","Cyanocitta_cristata",93.7,NA,"female",12.1,1055,9.77904376560904,45.6253055640559,"Winter",25844
+4,-83.7189407,42.2143364,NA,1945,"Cyanocitta cristata bromia","Cyanocitta_cristata",93.8,NA,"male",9,902,10.0863055974951,62.0068690673324,"Spring",25582
+9,-69.6775451,44.4592341,"adult",2007,"Cyanocitta cristata bromia","Cyanocitta_cristata",93.9,NA,"male",6.9,1176,10.886313342074,38.9213252098766,"Fall",25798
+7,-84.02525,46.353393,NA,1931,"Cyanocitta cristata bromia","Cyanocitta_cristata",94,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",25563
+7,-94.98538,49.92533,"hy; sy",1947,"Cyanocitta cristata bromia","Cyanocitta_cristata",94,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",25932
+11,-85.3401,43.7098,"adult",2011,"Cyanocitta cristata bromia","Cyanocitta_cristata",94.3,NA,"male",8.1,1012,10.5112349705475,42.2110085674665,"Fall",25805
+2,-88.5997238,47.130127,NA,1998,"Cyanocitta cristata","Cyanocitta_cristata",94.4,NA,"male",7.2,804,9.51239621852359,33.8381613395661,"Winter",25628
+7,-83.7391662,46.0204493,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",94.5,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",25751
+10,-84.00509,42.44221,"ad",1951,"Cyanocitta cristata bromia","Cyanocitta_cristata",94.6,NA,"male",8.4,847,9.90137348905176,29.4637169832086,"Fall",25713
+9,-76.3354051,42.4551646,"imm.",1990,"Cyanocitta cristata","Cyanocitta_cristata",94.6999969482422,258,"male",8.7,1204,8.31958259442471,40.1468800237063,"Fall",25847
+12,-84.0128,42.45268,"u ad.",1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",95,NA,"female",9.9,815,9.8222497885714,25.489898305367,"Winter",25710
+12,-83.6833333,42.2833333,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",95,NA,"male",10.4,695,9.65503479898944,50.0574017062982,"Winter",25878
+9,-85.3360833,43.7110833,"immature",2008,"Cyanocitta cristata bromia","Cyanocitta_cristata",95,NA,"male",7.3,1025,10.3656301245408,43.2949649376317,"Fall",25907
+2,-83.95,42.45,NA,1954,"Cyanocitta cristata bromia","Cyanocitta_cristata",95,NA,"male",9.2,782,9.634832639958,57.3873455220178,"Winter",25946
+3,-73.298648,41.195158,"adult",1978,"Cyanocitta cristata bromia","Cyanocitta_cristata",95,NA,"male",9.7,1264,9.72315262503356,54.9413786168658,"Spring",25969
+4,-76.4091,42.3687,NA,2005,"Cyanocitta cristata","Cyanocitta_cristata",95.0999984741211,252,"female",8.3,1107,10.8861463254074,52.3480415804491,"Spring",25920
+11,-83.6561111,42.3127778,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",95.2,NA,"female",10.5,696,9.64633703443013,49.7350022000717,"Fall",25937
+12,-84.1018867,42.3259197,NA,2003,"Cyanocitta cristata bromia","Cyanocitta_cristata",95.4,NA,"male",8.7,856,10.1715139959446,49.9098490562864,"Winter",25632
+12,-83.7762451,42.3103232,NA,1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",95.5,NA,"female",9,864,10.1321682444249,59.752694126141,"Winter",25657
+6,-96.1833333,38.4,NA,1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",95.8,NA,"male",13.8,679,9.79747957694253,56.6195668547024,"Summer",25885
+10,-83.0666667,37.6833333,NA,1948,"Cyanocitta cristata bromia","Cyanocitta_cristata",95.8,NA,"female",12.9,1256,8.60415685302837,41.9895645257694,"Fall",25955
+6,-104.00402,44.560435,NA,2012,"Cyanocitta cristata","Cyanocitta_cristata",96,NA,NA,9.4,339,10.1182403548635,88.3232433068409,"Summer",25516
+10,-83.9616394,42.4187678,"adult",1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",96,NA,"male",8.7,828,10.1363843592668,59.0410989650608,"Fall",25656
+7,-103.8502007,44.4774837,"juvenile",1935,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",96,NA,"male",7.6,503,9.31825757544962,102.659048969064,"Summer",25823
+7,-84.657744,45.468596,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",96,NA,"male",7.1,952,10.231131931808,32.126008148747,"Summer",25829
+7,-94.98538,49.92533,"hy; sy",1947,"Cyanocitta cristata bromia","Cyanocitta_cristata",96,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",25869
+9,-72.6372,41.3597,NA,1976,"Cyanocitta cristata bromia","Cyanocitta_cristata",96,NA,"male",9.2,1167,9.38954931632165,58.1156136952743,"Fall",25973
+7,-94.8054886,39.8330592,"imm",1967,"Cyanocitta cristata bromia","Cyanocitta_cristata",96.1,289,"male",11.1,1009,9.28558266639986,93.9043513948334,"Summer",25576
+10,-84.2366409,42.337103,NA,1936,"Cyanocitta cristata","Cyanocitta_cristata",96.1,NA,"male",8.6,681,11.565423258641,54.4165132337979,"Fall",25653
+10,-83.6422,42.30201,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",96.3,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",25671
+9,-78.8452721,45.1597842,"ad",1968,"Cyanocitta cristata bromia","Cyanocitta_cristata",96.5,295,"female",4.6,832,11.41199528407,29.6789111262881,"Fall",25729
+6,-85.5568848,45.6646004,"adult",1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",96.6,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",25662
+8,-100.4416225,39.3499322,NA,1966,"Cyanocitta cristata","Cyanocitta_cristata",96.6,NA,"female",11,403,10.8854643140903,104.038900319296,"Summer",25701
+10,-79.15174,43.85265,"hy; sy",1968,"Cyanocitta cristata bromia","Cyanocitta_cristata",96.7,NA,"male",7.1,826,10.6308406406677,38.694943001518,"Fall",25738
+9,-83.8333333,42.2833333,NA,1935,"Cyanocitta cristata bromia","Cyanocitta_cristata",96.7,NA,"female",8.7,649,10.2204340772431,44.6409379438386,"Fall",25940
+11,-83.7263412,42.2708397,"adult",1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",96.9,NA,"male",10.4,829,9.73196467131054,23.814024239355,"Fall",25590
+11,-83.715643,42.799291,NA,1983,"Cyanocitta cristata","Cyanocitta_cristata",97,NA,"male",9.1,854,10.2676418761549,39.7158462022284,"Fall",25618
+8,-85.3933811,43.8070309,"adult",1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",97,NA,"male",7.6,767,10.3902780900166,59.7216257751518,"Summer",25752
+2,-87.8859,46.8878,NA,1962,"Cyanocitta cristata bromia","Cyanocitta_cristata",97.2,NA,"male",5.7,635,10.3534323104013,43.6103602797843,"Winter",25613
+9,-83.8833333,42.3833333,NA,1956,"Cyanocitta cristata bromia","Cyanocitta_cristata",97.3,NA,"male",9,711,9.70215143276183,60.3065631078578,"Fall",25889
+6,-96.1833333,38.4,NA,1953,"Cyanocitta cristata","Cyanocitta_cristata",97.4,NA,"male",13.8,679,9.79747957694253,56.6195668547024,"Summer",25949
+7,-95.3354,45.7556,"sk.oss.",1981,"Cyanocitta cristata bromia","Cyanocitta_cristata",97.5,NA,"undetermined",6.5,622,11.3669643611599,90.2688249366509,"Summer",25535
+2,-92.9478,36.267,"u ad.",1939,"Cyanocitta cristata cyanotephra","Cyanocitta_cristata",97.6,NA,"male",15.3,1243,8.50698465255392,46.7553532809897,"Winter",25539
+9,-78.8452721,45.1597842,"hy; sy",1968,"Cyanocitta cristata bromia","Cyanocitta_cristata",97.7,268,"male",4.6,832,11.41199528407,29.6789111262881,"Fall",25543
+10,-84.2366409,42.337103,NA,1936,"Cyanocitta cristata","Cyanocitta_cristata",97.7,NA,"male",8.6,681,11.565423258641,54.4165132337979,"Fall",25652
+6,-80.2639,43.70308,"ad",1974,"Cyanocitta cristata bromia","Cyanocitta_cristata",98,NA,"male",6,906,9.53206311732813,40.23230753631,"Summer",25553
+12,-83.9135742,42.6056632,NA,1949,"Cyanocitta cristata","Cyanocitta_cristata",98,NA,"male",9.7,787,9.87543631563904,23.6483054374741,"Winter",25617
+4,-83.8833333,42.3833333,NA,1961,"Cyanocitta cristata bromia","Cyanocitta_cristata",98,NA,"female",9.2,793,10.1318093451299,56.3455587816062,"Spring",25892
+4,-83.7263412,42.2708397,NA,1960,"Cyanocitta cristata bromia","Cyanocitta_cristata",98.2,NA,"female",8.9,691,10.5845048265964,64.2066606677382,"Spring",25612
+1,-83.7974687,36.3366651,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",98.4,NA,"male",14.4,1301,7.94310736081633,43.1322988465877,"Winter",25668
+1,-83.7666667,42.3166667,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",98.5,NA,"male",10.3,689,9.65848269029809,49.8590555139011,"Winter",25882
+11,-97.0945072,37.0538756,"immature",1995,"Cyanocitta cristata","Cyanocitta_cristata",98.7,NA,"undetermined",14.9,996,9.12273217979364,83.2296646727104,"Fall",25707
+9,-83.7263412,42.2708397,NA,1986,"Cyanocitta cristata","Cyanocitta_cristata",98.7,NA,"male",9.4,885,10.041716018991,52.6805384751907,"Fall",25786
+6,-95.2798841,38.9041998,NA,1965,"Cyanocitta cristata","Cyanocitta_cristata",98.8,NA,"male",12.9,1084,9.93339943032717,105.566634331591,"Summer",25517
+6,-95.7687531,39.0444049,NA,2000,"Cyanocitta cristata","Cyanocitta_cristata",99,NA,"male",13.4,715,11.1692319531937,77.0416239623805,"Summer",25520
+2,-77.82417,44.5755,"ad",2006,"Cyanocitta cristata bromia","Cyanocitta_cristata",99,NA,"male",7.6,988,9.1711462883559,30.3282818272708,"Winter",25544
+2,-83.6833333,42.2833333,NA,1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",99,NA,"male",10.1,668,10.247660486889,65.1152082954545,"Winter",25938
+9,-84.2366409,42.337103,NA,1939,"Cyanocitta cristata bromia","Cyanocitta_cristata",99.2,NA,"male",9.8,693,10.1312410619107,48.4666264381982,"Fall",25753
+4,-83.6166667,37.8333333,NA,1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",99.4,NA,"female",13.2,1206,8.04718565522736,33.0598909328499,"Spring",25958
+1,-92.9478,36.267,"u ad.",1939,"Cyanocitta cristata cristata","Cyanocitta_cristata",99.9,NA,"male",15.3,1243,8.50698465255392,46.7553532809897,"Winter",25724
+12,-84.00588,42.45118,"u ad.",1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",100,NA,"male",9.9,814,9.83309193334919,25.2623631595166,"Winter",25526
+3,-83.6042404,42.3037217,NA,1949,"Cyanocitta cristata bromia","Cyanocitta_cristata",100,NA,"male",10.6,844,9.71722930955864,25.6811226830758,"Spring",25759
+8,-79.81821,46.73314,"juv",1947,"Cyanocitta cristata bromia","Cyanocitta_cristata",100,NA,"male",3.5,934,12.4156151680052,64.4237128933408,"Summer",25865
+3,-75.95092,44.62722,"ad",1940,"Cyanocitta cristata bromia","Cyanocitta_cristata",100,NA,"male",5.1,823,11.557953446817,38.9214214258126,"Spring",25867
+9,-85.65,38.3,"immature",1950,"Cyanocitta cristata","Cyanocitta_cristata",100,NA,"male",12.8,1550,8.75547880420649,44.3216765290986,"Fall",25947
+6,-96.1833333,38.4,NA,1953,"Cyanocitta cristata bromia","Cyanocitta_cristata",100.2,NA,"male",13.8,679,9.79747957694253,56.6195668547024,"Summer",25886
+10,-77.3572,36.2716,"ad.",1961,"Cyanocitta cristata cristata","Cyanocitta_cristata",101.2,NA,"male ?",15.4,1236,8.01753287073607,35.4504924999199,"Fall",25716
+4,-76.4506,42.4801,NA,2004,"Cyanocitta cristata","Cyanocitta_cristata",101.4,29.5,"male",7.7,1154,10.0388638739047,54.9483071337119,"Spring",25507
+1,-95.3898296,38.8389833,"ad",1966,"Cyanocitta cristata bromia","Cyanocitta_cristata",101.5,NA,"female",12.1,698,9.97905382045388,92.731940959168,"Winter",25747
+2,-87.878952,46.8653554,NA,1941,"Cyanocitta cristata bromia","Cyanocitta_cristata",101.7,NA,"male",6.9,826,9.98584983712938,46.837922055835,"Winter",25757
+1,-95.3898296,38.8389833,NA,1966,"Cyanocitta cristata bromia","Cyanocitta_cristata",101.9,NA,"undetermined",12.1,698,9.97905382045388,92.731940959168,"Winter",25748
+7,-95.3354,45.7556,"u ad.",1981,"Cyanocitta cristata bromia","Cyanocitta_cristata",102,NA,"female",6.5,622,11.3669643611599,90.2688249366509,"Summer",25719
+1,-117.1564,46.7004,NA,1951,"Cyanocitta cristata","Cyanocitta_cristata",102.1,306,"female",8,583,7.89520376078049,68.3316901409157,"Winter",25500
+12,-93.6371155,43.262455,NA,1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",102.1,NA,"male",6.7,776,13.7379671867508,77.2793735129703,"Winter",25658
+12,-83.7974129,36.3231538,NA,1937,"Cyanocitta cristata bromia","Cyanocitta_cristata",102.5,NA,"male",14.1,1352,8.24894850966785,57.7287475962468,"Winter",25666
+1,-87.878952,46.8653554,NA,1963,"Cyanocitta cristata bromia","Cyanocitta_cristata",102.5,NA,"male",5.8,596,11.7897361627765,42.0508609403177,"Winter",25776
+12,-81.19651,42.96768,"hy; sy",1907,"Cyanocitta cristata bromia","Cyanocitta_cristata",102.5,NA,"female",6.1,951,9.2217956576534,31.6536187942571,"Winter",25868
+11,-84.7479034,44.2463154,NA,1938,"Cyanocitta cristata bromia","Cyanocitta_cristata",103.2,NA,"male",7.7,770,9.99422181547767,44.7739927243897,"Fall",25595
+2,-87.8859,46.8878,NA,1962,"Cyanocitta cristata bromia","Cyanocitta_cristata",103.6,NA,"male",5.7,635,10.3534323104013,43.6103602797843,"Winter",25775
+1,-83.6561111,42.3127778,NA,1940,"Cyanocitta cristata bromia","Cyanocitta_cristata",103.9,NA,"male",8.5,819,10.7501656083086,49.9855129966725,"Winter",25875
+1,-80.4191,42.66867,NA,1966,"Cyanocitta cristata bromia","Cyanocitta_cristata",104.3,288,"undetermined",8,904,9.68442595410828,38.8909750868113,"Winter",25746
+11,-118.34743,46.05875,NA,1998,"Cyanocitta cristata","Cyanocitta_cristata",104.6,NA,"male",12.9,468,7.85626559447357,64.9777091289093,"Fall",25501
+10,-85.3949261,43.6778045,NA,2001,"Cyanocitta cristata","Cyanocitta_cristata",105.3,NA,"male",8.2,993,9.44552162603415,60.2317766366805,"Fall",25792
+6,-104.953649,40.580896,"immature",2013,"Cyanocitta cristata","Cyanocitta_cristata",105.6,270,"undetermined",8.8,350,10.0593541572313,82.7852625741689,"Summer",25698
+5,-84.69738,45.559016,NA,1995,"Cyanocitta cristata","Cyanocitta_cristata",106.5,NA,"female",6.2,972,10.9350423645796,40.4372371070927,"Spring",25627
+7,-94.98538,49.92533,"hy; sy",1947,"Cyanocitta cristata bromia","Cyanocitta_cristata",107,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",25933
+1,-95.288887,39.0421862,"hy; sy",1966,"Cyanocitta cristata bromia","Cyanocitta_cristata",107.2,NA,"male",12.1,661,9.94464984833858,101.139984419632,"Winter",25574
+7,-94.98538,49.92533,"ad",1947,"Cyanocitta cristata bromia","Cyanocitta_cristata",108.5,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",25930
+2,-84.194697,46.420551,NA,1961,"Cyanocitta cristata bromia","Cyanocitta_cristata",108.6,NA,"male",5,636,10.3889218386557,64.9278110629268,"Winter",25611
+9,-83.7263412,42.2708397,"subadult",1971,"Cyanocitta cristata","Cyanocitta_cristata",150,NA,"female",9.6,595,10.4881318208206,62.6802652779522,"Fall",25780

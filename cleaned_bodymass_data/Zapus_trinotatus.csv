@@ -1,0 +1,523 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+9,-123.9908635,46.4546194,"unknown",1989,"Zapus trinotatus","Zapus_trinotatus",7.2,179,"male",10.2,1688,4.47893216440407,65.2892007523057,"Fall",159555
+9,-121.8992,46.8881,"unknown",1980,"Zapus trinotatus","Zapus_trinotatus",8,165,"female",4.5,2146,5.48275533473874,69.0420242848444,"Fall",159651
+7,-123.725,47.9731,"unknown",1931,"Zapus trinotatus","Zapus_trinotatus",9,209,"male",5.4,3134,5.20032050294338,70.6599360196856,"Summer",159865
+8,-121.8411698,45.9043,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",10.9,177,"male",6.7,2899,5.91901788536517,80.4171590406277,"Summer",159590
+7,-123.8094,46.3656,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",11.1,221,"female",10.7,2400,3.67822214960138,72.7523275204324,"Summer",159863
+8,-122.95085,38.11913,NA,1996,"Zapus trinotatus","Zapus_trinotatus",11.1,NA,"female",13,1054,1.42722447322406,117.181278009129,"Summer",159869
+8,-121.7528,46.6522,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",11.3,215,"female",5.3,2631,6.55417401124634,78.413508581585,"Summer",159703
+10,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",11.9,206,"male",4.3,1525,6.68722776279641,68.5084621548227,"Fall",159640
+7,-121.8642,47.5497,"unknown",1987,"Zapus trinotatus","Zapus_trinotatus",12,207,"male",11,1265,5.38567122515426,85.4446946987683,"Summer",159664
+8,-123.0044,47.9618,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",12.1,200,"female",8.5,1268,5.39816888145668,62.7266467917652,"Summer",159853
+8,-122.0173755,45.8071198,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",12.3,211,"male",6.9,2086,7.15331561182814,72.7041946354925,"Summer",159775
+10,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",12.8,208,"male",4.3,1525,6.68722776279641,68.5084621548227,"Fall",159639
+8,-121.8132592,46.6861,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",12.8,221,"male",6,2205,5.74795747648807,65.4408525703103,"Summer",159796
+7,-122.0173755,45.8071198,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",13,210,"female",6.9,2086,7.15331561182814,72.7041946354925,"Summer",159594
+7,-122.36178,47.73405,"unknown",1968,"Zapus trinotatus","Zapus_trinotatus",13.3,220,"male",10.2,1167,4.95916659665042,55.0648106843893,"Summer",159691
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",13.4,220,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159714
+8,-121.5656,46.7383,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",13.5,218,"female",7.7,1431,5.66343936619308,83.1444737171854,"Summer",159731
+7,-121.5292,46.8139,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",13.8,226,"female",3,2257,6.37325733757151,89.5317726853043,"Summer",159708
+8,-122.977411,47.933234,NA,1996,"Zapus trinotatus","Zapus_trinotatus",13.8,221,"male",8.7,1764,5.8661522673932,77.1538006821099,"Summer",159871
+8,-122.4869,48.7597,"unknown",1930,"Zapus trinotatus","Zapus_trinotatus",14,210,"female",9.2,723,5.62162356576385,67.518675597564,"Summer",159509
+8,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",14.2,220,"male",6.9,1404,6.76371782290471,69.6719482713331,"Summer",159822
+8,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",14.5,229,"male",6.9,1404,6.76371782290471,69.6719482713331,"Summer",159627
+8,-121.5656,46.7383,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",14.5,209,"female",7.7,1431,5.66343936619308,83.1444737171854,"Summer",159729
+8,-121.5149,46.6574,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",14.7,223,"female",5.4,2117,6.06726811870404,71.5389285044308,"Summer",159611
+8,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",14.8,230,"male",6.9,1404,6.76371782290471,69.6719482713331,"Summer",159820
+10,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",15,213,"female",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159828
+8,-122.0049168,45.8930395,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",15.3,218,"female",7.5,1678,7.33490513458309,75.5076094523068,"Summer",159591
+9,-121.8166667,46.75,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",15.4,215,"male",6.8,2315,6.66530478513833,78.7338842983491,"Fall",159919
+10,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",15.5,212,"female",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159827
+10,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",15.6,211,"female",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159635
+8,-123.0044,47.9618,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",15.7,220,"female",8.5,1268,5.39816888145668,62.7266467917652,"Summer",159854
+7,-121.494,46.6861,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",15.9,221,"female",5.4,2190,6.20320054243751,71.4786449007351,"Summer",159800
+8,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",15.9,219,"male",6.9,1404,6.76371782290471,69.6719482713331,"Summer",159821
+8,-121.9895,45.9187197,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",16,225,"male",7.2,1725,7.29089822790697,74.3906725106674,"Summer",159593
+10,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",16,221,"female",4.3,1525,6.68722776279641,68.5084621548227,"Fall",159643
+7,-124.2890344,47.9179,"unknown",1989,"Zapus trinotatus","Zapus_trinotatus",16,228,"female",9.7,2656,5.31247816394799,68.9421117941683,"Summer",159857
+10,-122.71,43.74,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",16,211,"male",11.8,1910,5.47558631148715,75.558994703977,"Fall",159966
+8,-121.5149,46.6574,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",16.1,219,"female",5.4,2117,6.06726811870404,71.5389285044308,"Summer",159798
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",16.3,220,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159533
+8,-121.5656,46.7383,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",16.5,222,"male",7.7,1431,5.66343936619308,83.1444737171854,"Summer",159549
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",16.8,220,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159535
+7,-124.15,41.0666667,"immature",1926,"Zapus trinotatus eureka","Zapus_trinotatus",16.9,NA,"female",11.9,1374,2.30629901606777,123.440482651865,"Summer",159996
+7,-123.725,47.9731,"unknown",1931,"Zapus trinotatus","Zapus_trinotatus",17,225,"female",5.4,3134,5.20032050294338,70.6599360196856,"Summer",159667
+9,-122.4869,48.7597,"unknown",1936,"Zapus trinotatus","Zapus_trinotatus",17,NA,"female",9.6,916,5.63229325166288,63.0965624967987,"Fall",159689
+7,-123.725,47.9731,"unknown",1931,"Zapus trinotatus","Zapus_trinotatus",17,208,"male",5.4,3134,5.20032050294338,70.6599360196856,"Summer",159866
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",17,218,"male",12,1858,5.47645096312522,74.9782865001643,"Fall",159896
+10,-122.69,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",17,224,"male",12,1851,5.50660072232875,74.4966817961756,"Fall",159899
+8,-123.0256667,47.7361667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",17,232,"male",9.3,2134,4.8694704459769,86.8238821011793,"Summer",159947
+9,-121.5833333,48.15,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",17,241,"female",5.5,5232,5.10693972289994,77.2260775934586,"Fall",160004
+8,-124.0188,48.0811,"unknown",1987,"Zapus trinotatus","Zapus_trinotatus",17.3,223,"female",9.2,1919,4.84211323763299,86.2825600927551,"Summer",159556
+8,-121.9917,48.7083,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",17.4,235,"male",3.4,5812,5.81259734359674,78.2628863171499,"Summer",159755
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",17.6,224,"female",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159744
+8,-121.5656,46.7383,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",18,217,"male",7.7,1431,5.66343936619308,83.1444737171854,"Summer",159730
+10,-122.73,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",18,218,"male",11.6,1952,5.42762295200126,75.8637141992162,"Fall",159970
+9,-121.6,48.15,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",18,240,"female",7.2,4071,5.29138808620081,76.2008124901887,"Fall",160003
+9,-121.5833333,48.15,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",18,227,"female",5.5,5232,5.10693972289994,77.2260775934586,"Fall",160005
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",18.1,235,"male",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159778
+5,-122.680974,46.992096,NA,1995,"Zapus trinotatus","Zapus_trinotatus",18.1,204,"male",11.4,1334,4.75683718451662,77.3535532773356,"Spring",159870
+9,-123.6722,46.2944,"unknown",1982,"Zapus trinotatus","Zapus_trinotatus",18.2,224,"male",10.2,2641,4.54995004967587,78.4667755105572,"Fall",159864
+8,-121.9895,45.9187197,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",18.3,226,"male",7.2,1725,7.29089822790697,74.3906725106674,"Summer",159592
+10,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",18.3,233,"female",4.3,1525,6.68722776279641,68.5084621548227,"Fall",159641
+8,-121.5656,46.7383,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",18.5,217,"female",8.1,2192,6.66475919681388,91.5723560042739,"Summer",159701
+7,-121.6952,46.8863,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",18.6,239,"female",1,3390,6.28945124551395,85.3615275925053,"Summer",159523
+9,-122.55112,47.76048,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",19,272,"female",11.2,1264,4.77882799122305,74.6863071839908,"Fall",159846
+7,-121.408,47.0881667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",19,224,"male",3.9,1618,5.56969614534897,74.1710971129016,"Summer",159944
+7,-121.6143333,46.4468333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",19,220,"female",5.2,1771,5.539794055903,85.9001376072478,"Summer",159946
+10,-122.71,43.74,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",19,218,"male",11.8,1910,5.47558631148715,75.558994703977,"Fall",159965
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",19,208,"female",12,1858,5.47645096312522,74.9782865001643,"Fall",159972
+8,-120.8856667,45.9725,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",19,218,"female",7.4,511,6.48620914640509,112.029972177954,"Summer",159998
+10,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",19.1,222,"female",4.3,1525,6.68722776279641,68.5084621548227,"Fall",159642
+10,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",19.3,228,"female",4.3,1525,6.68722776279641,68.5084621548227,"Fall",159830
+9,-121.6952,46.8863,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",19.5,214,"undetermined",1,3390,6.28945124551395,85.3615275925053,"Fall",159705
+6,-122.3175,46.8344,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",19.6,231,"female",10.3,1129,5.87079959450056,65.8887012686499,"Summer",159567
+5,-122.967943,45.45066,NA,1965,"Zapus trinotatus","Zapus_trinotatus",19.6,211,"male",11.7,843,5.39870916109218,112.228703546174,"Spring",159915
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",19.7,218,"male",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159626
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",19.7,235,"female",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159779
+7,-121.494,46.6861,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",19.8,210,"male",5.4,2190,6.20320054243751,71.4786449007351,"Summer",159612
+8,-121.9917,48.7083,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",19.9,243,"female",3.4,5812,5.81259734359674,78.2628863171499,"Summer",159565
+7,-124.1504,47.9396631,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",19.9,229,"male",9.4,3128,4.68786311724869,62.288145528402,"Summer",159655
+10,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",19.9,218,"female",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159826
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",20,244,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159537
+5,-123.6166666667,45.3333333333,NA,1996,"Zapus trinotatus","Zapus_trinotatus",20,224,"male",9.8,4263,4.9198038270819,83.799713525645,"Spring",159671
+1,-123.0833333333,44.1333333333,NA,1995,"Zapus trinotatus","Zapus_trinotatus",20,214,"male",12.4,1380,4.92701274054112,77.3922595499188,"Winter",159679
+8,-122.3706,47.7097,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",20,227,"female",10.6,1040,5.06780539436466,76.0459507378365,"Summer",159696
+7,-121.7333,46.9669,"unknown",1981,"Zapus trinotatus","Zapus_trinotatus",20,242,"male",5.2,2056,5.28900374419045,62.5211601132699,"Summer",159844
+5,-123.92,44.51,NA,1990,"Zapus trinotatus trinotatus","Zapus_trinotatus",20,222,"female",10.6,2145,5.10077237169811,82.1359042154963,"Spring",159887
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",20,225,"female",12,1858,5.47645096312522,74.9782865001643,"Fall",159892
+10,-122.69,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",20,216,"male",12,1851,5.50660072232875,74.4966817961756,"Fall",159897
+7,-120.9395,47.4093333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",20,215,"male",5.6,1317,6.31102930662589,90.2038609254539,"Summer",159942
+10,-122.42,43.24,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",20,249,"male",9.7,1804,5.39424496921291,75.2206354994231,"Fall",159964
+5,-123.8108333333,44.2327777778,NA,1996,"Zapus trinotatus","Zapus_trinotatus",20,218,"male",11.8,2920,4.95662244483136,89.6627739133987,"Spring",159986
+5,-123.635,45.3319444444,NA,1996,"Zapus trinotatus","Zapus_trinotatus",20,177,"male",9.7,4137,4.71325500342096,82.5392999918392,"Spring",159993
+9,-121.5833333,48.15,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",20,243,"male",5.5,5232,5.10693972289994,77.2260775934586,"Fall",160006
+9,-121.6,48.15,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",20,230,"male",7.2,4071,5.29138808620081,76.2008124901887,"Fall",160007
+7,-121.6143333,46.4468333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",20,233,"male",5.2,1771,5.539794055903,85.9001376072478,"Summer",160022
+10,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",20.1,217,"female",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159636
+7,-121.9421339,46.4194806,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",20.1,174,"male",6.7,2270,5.50718538902504,67.8005379589233,"Summer",159790
+8,-121.6603,46.8647,"unknown",1981,"Zapus trinotatus","Zapus_trinotatus",20.2,232,"male",2.3,2820,5.3150443995979,76.016074335288,"Summer",159845
+8,-124.2890344,47.9179,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",20.3,223,"female",10,2917,4.53881408887094,60.2153199379982,"Summer",159656
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",20.3,240,"female",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159812
+6,-122.3175,46.8344,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",20.4,244,"male",10.3,1129,5.87079959450056,65.8887012686499,"Summer",159569
+9,-121.6952,46.8863,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",20.5,215,"female",1.6,2188,5.43732192324215,80.1267662997624,"Fall",159525
+9,-122.1106,44.1309,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",20.5,212,"female",7.4,2703,4.93263713351277,70.81916336436,"Fall",159574
+5,-123.1558,43.7174,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",20.5,221,"male",11.3,1308,5.49702398823879,98.0683018958996,"Spring",159653
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",20.5,221,"male",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159777
+7,-121.59852,48.9101,"unknown",1959,"Zapus trinotatus","Zapus_trinotatus",20.6,241,"male",5.2,2989,5.46617006243999,46.5138464790588,"Summer",159759
+8,-122.0516,44.1351,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",20.6,222,"female",9.3,2389,5.43843643973991,74.0377332591797,"Summer",159761
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",20.6,226,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159876
+7,-121.4731,46.7076384,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",20.7,235,"female",4.9,2143,6.23171263973576,71.3417526635545,"Summer",159608
+5,-121.8642,47.5497,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",20.7,240,"male",10.6,1618,5.05229470816794,71.0359343061266,"Spring",159666
+6,-122.3175,46.8344,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",20.7,236,"female",10.3,1129,5.87079959450056,65.8887012686499,"Summer",159756
+5,-122.0316,44.1495,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",20.7,220,"male",8.6,2500,5.21004274978099,73.4766270390763,"Spring",159839
+5,-123.87,44.46,NA,1990,"Zapus trinotatus trinotatus","Zapus_trinotatus",20.9,202,"male",10.7,2389,5.37871788260047,84.3637904300376,"Spring",159884
+7,-121.5375,46.8672,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",21,220,"male",3.3,2397,6.38141240184524,88.555132787965,"Summer",159526
+5,-123.5166666667,45.3,NA,1996,"Zapus trinotatus","Zapus_trinotatus",21,204,"male",9.3,3732,5.14778563750444,85.7658659488927,"Spring",159670
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",21,228,"male",12,1858,5.47645096312522,74.9782865001643,"Fall",159893
+5,-122.843808,45.49446,NA,1965,"Zapus trinotatus","Zapus_trinotatus",21,206,"male",11.8,839,5.36907531116576,107.753095368372,"Spring",159914
+7,-121.405,47.0936667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",21,232,"male",3.9,1653,5.58154426334114,74.4622653863686,"Summer",159943
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",21,230,"female",12,1858,5.47645096312522,74.9782865001643,"Fall",159975
+5,-123.63,45.3269444444,NA,1996,"Zapus trinotatus","Zapus_trinotatus",21,219,"male",9.7,4132,4.70673276629695,82.6479645077827,"Spring",159989
+9,-121.815,47.3515,"unknown",1969,"Zapus trinotatus","Zapus_trinotatus",21.09,230,"male",8.1,1971,6.03110623552947,56.4306116894839,"Fall",159551
+8,-121.8411698,45.9043,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",21.1,213,"female",6.7,2899,5.91901788536517,80.4171590406277,"Summer",159773
+7,-121.4731,46.7076384,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",21.2,237,"female",4.9,2143,6.23171263973576,71.3417526635545,"Summer",159606
+10,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",21.3,219,"male",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159638
+5,-120.5487643,47.7628,"unknown",1970,"Zapus trinotatus","Zapus_trinotatus",21.3,223,"male",3.8,1162,7.50047978263371,121.530869717412,"Spring",159697
+5,-122.6776112,46.9885,"unknown",1992,"Zapus trinotatus","Zapus_trinotatus",21.3,228,"female",11.5,933,5.13248714001548,80.5748840377912,"Spring",159841
+7,-121.8490887,46.9879,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",21.4,233,"male",5.6,1426,6.60417682343163,69.7359217873291,"Summer",159647
+9,-122.0444,47.1056,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",21.5,239,"male",9.1,1432,4.96322842146484,58.010714712382,"Fall",159652
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",21.5,239,"female",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159718
+7,-121.408,47.0881667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",21.5,223,"female",3.9,1618,5.56969614534897,74.1710971129016,"Summer",159945
+7,-121.405,47.0936667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",21.5,233,"female",3.9,1653,5.58154426334114,74.4622653863686,"Summer",160015
+8,-122.9387,47.9463,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",21.6,235,"male",10.1,988,5.39309322610453,58.0560179707617,"Summer",159658
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",21.7,237,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159588
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",21.7,235,"male",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159786
+7,-121.9421339,46.4194806,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",21.7,233,"female",6.7,2270,5.50718538902504,67.8005379589233,"Summer",159789
+7,-121.5573654,47.0924683,NA,1982,"Zapus trinotatus trinotatus","Zapus_trinotatus",21.8,236,"male",4.3,1645,6.37880011515417,78.9366435394595,"Summer",159669
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",21.8,225,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159949
+6,-120.9178,49.1575,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",21.9,240,"male",3.8,1057,6.4510746109748,74.8715403756788,"Summer",159562
+7,-121.8642,47.5497,"unknown",1987,"Zapus trinotatus","Zapus_trinotatus",21.9,247,"female",11,1265,5.38567122515426,85.4446946987683,"Summer",159860
+7,-121.8642,47.5497,"unknown",1987,"Zapus trinotatus","Zapus_trinotatus",21.9,247,"female",11,1265,5.38567122515426,85.4446946987683,"Summer",159861
+1,-123.0833333333,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",22,220,"male",12.4,1378,4.92701274054112,78.1390962551454,"Winter",159499
+5,-123.7919444444,44.25,NA,1996,"Zapus trinotatus","Zapus_trinotatus",22,231,"male",11.8,2839,4.94247974812301,89.3750884750327,"Spring",159504
+1,-123.0833333333,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",22,220,"male",12.4,1378,4.92701274054112,78.1390962551454,"Winter",159506
+7,-121.494,46.6861,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",22,220,"male",5.4,2190,6.20320054243751,71.4786449007351,"Summer",159613
+10,-121.8917,46.7900192,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",22,218,"male",5.9,1540,6.87727923651277,70.481250657204,"Fall",159646
+8,-122.315676,46.8617191,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",22,228,"female",10.2,1080,5.04579032461714,62.5077826782662,"Summer",159741
+7,-124.15,41.0666667,"adult",1926,"Zapus trinotatus eureka","Zapus_trinotatus",22,NA,"female",11.9,1374,2.30629901606777,123.440482651865,"Summer",159917
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",22,214,"male",12,1858,5.47645096312522,74.9782865001643,"Fall",159971
+6,-122.0101,45.8858,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",22.1,227,"male",9.1,2406,6.0219988124351,88.1931818625945,"Summer",159785
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",22.2,220,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159765
+5,-122.264439,49.006408,NA,1943,"Zapus trinotatus trinotatus","Zapus_trinotatus",22.2,230,"male",9.9,1031,6.04951162566789,43.1477195921867,"Spring",159916
+8,-121.5149,46.6574,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",22.3,210,"male",5.4,2117,6.06726811870404,71.5389285044308,"Summer",159797
+4,-123.87,44.46,NA,1990,"Zapus trinotatus trinotatus","Zapus_trinotatus",22.3,225,"male",10.7,2389,5.37871788260047,84.3637904300376,"Spring",159885
+5,-123.96,44.54,NA,1990,"Zapus trinotatus trinotatus","Zapus_trinotatus",22.3,236,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",159963
+6,-122.3175,46.8344,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",22.4,225,"male",10.3,1129,5.87079959450056,65.8887012686499,"Summer",159570
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",22.5,229,"female",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159559
+6,-120.9178,49.1575,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",22.5,240,"male",3.8,1057,6.4510746109748,74.8715403756788,"Summer",159561
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",22.5,246,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159716
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",22.5,210,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159727
+8,-123.55,47.4333333,"unknown",1998,"Zapus trinotatus","Zapus_trinotatus",22.5,219,"male",8.9,5960,5.00614773568611,103.056797001063,"Summer",159924
+7,-120.913,47.393,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",22.5,234,"male",5.8,1244,6.17708374853083,90.1544248452334,"Summer",159936
+7,-120.913,47.393,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",22.5,247,"male",5.8,1244,6.17708374853083,90.1544248452334,"Summer",159938
+7,-120.9226667,47.3978333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",22.5,244,"male",5.7,1282,6.14743109688178,90.1612025764181,"Summer",160012
+7,-120.9373333,47.4265,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",22.5,253,"female",4.9,1451,6.16123634779038,89.608544547744,"Summer",160013
+7,-121.408,47.0881667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",22.5,234,"female",3.9,1618,5.56969614534897,74.1710971129016,"Summer",160018
+7,-121.6173333,47.14,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",22.5,212,"female",7.6,1547,5.1538967311299,75.1529516060394,"Summer",160020
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",22.6,205,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159577
+10,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",22.6,120,"male",4.3,1525,6.68722776279641,68.5084621548227,"Fall",159644
+8,-122.9387,47.9463,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",22.6,225,"male",10.1,988,5.39309322610453,58.0560179707617,"Summer",159851
+11,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",22.7,230,"female",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159834
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",22.7,242,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159873
+5,-123.96,44.54,NA,1990,"Zapus trinotatus trinotatus","Zapus_trinotatus",22.7,225,"male",10.5,2039,5.05930735467721,81.0270436643973,"Spring",159889
+4,-123.92,44.51,NA,1990,"Zapus trinotatus trinotatus","Zapus_trinotatus",22.7,200,"male",10.6,2145,5.10077237169811,82.1359042154963,"Spring",159961
+6,-120.9178,49.1575,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",22.8,243,"male",3.8,1057,6.4510746109748,74.8715403756788,"Summer",159752
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",22.9,233,"male",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159748
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",22.9,226,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159874
+7,-123.0051,47.9044,NA,2011,"Zapus trinotatus","Zapus_trinotatus",23,237,"female",6.2,1735,5.75315460237146,69.4600695680807,"Summer",159498
+5,-123.883,45.262,NA,1999,"Zapus trinotatus","Zapus_trinotatus",23,142,"male",9.9,3026,3.85182955348376,93.2094775029736,"Spring",159505
+7,-122.3261254,46.8474191,"unknown",1978,"Zapus trinotatus","Zapus_trinotatus",23,239,"female",10.1,854,5.6398138267145,44.3654154606375,"Summer",159552
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",23,232,"female",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159596
+6,-122.0101,45.8858,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",23,226,"male",9.1,2406,6.0219988124351,88.1931818625945,"Summer",159601
+7,-121.8490887,46.9879,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",23,239,"male",5.9,2048,5.3734123800487,57.7728335436397,"Summer",159633
+9,-121.2705,48.6675,"unknown",1994,"Zapus trinotatus","Zapus_trinotatus",23,254,"male",10,1996,6.59152348233561,78.4895568017706,"Fall",159649
+7,-123.0051,47.9044,NA,2011,"Zapus trinotatus","Zapus_trinotatus",23,237,"female",6.2,1735,5.75315460237146,69.4600695680807,"Summer",159668
+1,-123.0833333333,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",23,223,"male",12.4,1378,4.92701274054112,78.1390962551454,"Winter",159685
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",23,233,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159728
+7,-121.8642,47.5497,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",23,240,"female",10.6,1618,5.05229470816794,71.0359343061266,"Summer",159862
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",23,208,"male",12,1858,5.47645096312522,74.9782865001643,"Fall",159895
+8,-121.05,47.8,"unknown",1998,"Zapus trinotatus","Zapus_trinotatus",23,231,"female",5.2,2424,7.0230572639936,95.1911255835272,"Summer",159921
+7,-120.913,47.393,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",23,245,"female",5.8,1244,6.17708374853083,90.1544248452334,"Summer",159935
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",23,219,"female",12,1858,5.47645096312522,74.9782865001643,"Fall",159973
+7,-121.405,47.0936667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",23,240,"female",3.9,1653,5.58154426334114,74.4622653863686,"Summer",160017
+7,-121.408,47.0881667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",23,229,"male",3.9,1618,5.56969614534897,74.1710971129016,"Summer",160019
+8,-121.7164,46.7703,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",23.1,218,"male",4.5,2291,5.28674729580457,80.1527606454472,"Summer",159520
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",23.1,229,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159587
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",23.1,226,"male",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159816
+7,-121.8490887,46.9879,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",23.1,247,"male",5.9,2048,5.3734123800487,57.7728335436397,"Summer",159823
+6,-122.3175,46.8344,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",23.2,235,"male",10.3,1129,5.87079959450056,65.8887012686499,"Summer",159568
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",23.2,168,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159582
+4,-123.96,44.54,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",23.2,228,"male",10.5,1715,4.8442014696736,87.1147885355527,"Spring",159877
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",23.3,213,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159542
+6,-122.0101,45.8858,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",23.3,232,"male",9.1,2406,6.0219988124351,88.1931818625945,"Summer",159600
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",23.3,231,"male",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159624
+7,-121.6952,46.8863,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",23.4,222,"male",1,3390,6.28945124551395,85.3615275925053,"Summer",159528
+8,-121.9917,48.7083,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",23.4,246,"female",3.4,5812,5.81259734359674,78.2628863171499,"Summer",159566
+7,-121.9455258,45.7925198,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",23.4,218,"male",7.7,1975,7.54240537148984,75.6877427141825,"Summer",159595
+5,-121.8132592,46.6861,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",23.4,242,"male",7.1,1992,5.587241960688,70.92956772083,"Spring",159616
+5,-120.8667,49.1167,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",23.4,231,"male",2.3,1051,6.23448377003164,73.2926249664132,"Spring",159753
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",23.4,225,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159767
+6,-121.8308,45.8317,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",23.5,237,"male",7.6,3376,5.96830009806863,89.9691564291899,"Summer",159604
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",23.5,217,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159720
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",23.5,242,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159733
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",23.5,240,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159734
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",23.5,228,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159769
+7,-120.9373333,47.4265,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",23.5,242,"female",4.9,1451,6.16123634779038,89.608544547744,"Summer",159941
+5,-121.9281,47.9835,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",23.6,212,"male",10.1,1959,5.50935155399023,61.951843225342,"Spring",159571
+7,-121.9023,46.9339191,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",23.6,227,"male",4.6,2198,5.47614662131885,57.4798293970554,"Summer",159618
+6,-122.3175,46.8344,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",23.6,238,"male",10.3,1129,5.87079959450056,65.8887012686499,"Summer",159757
+6,-122.0101,45.8858,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",23.6,225,"female",9.1,2406,6.0219988124351,88.1931818625945,"Summer",159781
+6,-122.0101,45.8858,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",23.6,244,"female",9.1,2406,6.0219988124351,88.1931818625945,"Summer",159784
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",23.7,224,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159717
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",23.7,226,"male",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159745
+8,-121.9917,48.7083,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",23.7,237,"female",3,4911,5.33876617229339,75.141184839152,"Summer",159754
+10,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",23.7,228,"male",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159829
+8,-123.8580762,47.2215,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",23.8,234,"undetermined",9.9,2666,4.44245188920249,65.5131530180074,"Summer",159659
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",23.8,236,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159725
+9,-121.815,47.3515,"unknown",1969,"Zapus trinotatus","Zapus_trinotatus",23.8,235,"female",8.1,1971,6.03110623552947,56.4306116894839,"Fall",159739
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",23.8,239,"male",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159780
+5,-123.96,44.54,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",23.8,226,"male",10.5,1715,4.8442014696736,87.1147885355527,"Spring",159878
+5,-123.96,44.54,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",23.8,230,"male",10.5,1715,4.8442014696736,87.1147885355527,"Spring",159957
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",23.9,258,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159544
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",23.9,232,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159581
+6,-121.8308,45.8317,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",23.9,221,"female",7.6,3376,5.96830009806863,89.9691564291899,"Summer",159605
+6,-122.0101,45.8858,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",23.9,215,"female",9.1,2406,6.0219988124351,88.1931818625945,"Summer",159782
+10,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",23.9,249,"female",4.3,1525,6.68722776279641,68.5084621548227,"Fall",159831
+1,-123.0833333333,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",24,223,"male",12.4,1378,4.92701274054112,78.1390962551454,"Winter",159500
+1,-123.791,44.461,NA,1995,"Zapus trinotatus","Zapus_trinotatus",24,222,"male",12.3,3062,4.45940443095128,82.879835473148,"Winter",159503
+5,-123.6166666667,45.3166666667,NA,1996,"Zapus trinotatus","Zapus_trinotatus",24,215,"male",9.6,4215,4.86705062827395,83.4511329708839,"Spring",159508
+4,-122.4869,48.7597,"unknown",1932,"Zapus trinotatus","Zapus_trinotatus",24,239,"female",9.5,1199,5.09131762430072,66.0519802472392,"Spring",159510
+8,-121.6405482,46.7619305,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",24,236,"male",6.9,2360,6.64308708813952,88.1509433074736,"Summer",159519
+7,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24,235,"male",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159621
+1,-123.0833333333,44.1333333333,NA,1995,"Zapus trinotatus","Zapus_trinotatus",24,221,"male",12.4,1380,4.92701274054112,77.3922595499188,"Winter",159674
+4,-122.4869,48.7597,"unknown",1922,"Zapus trinotatus","Zapus_trinotatus",24,239,"female",8.5,791,5.89012398902269,67.0513602101483,"Spring",159690
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",24,236,"male",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159749
+7,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24,236,"male",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159807
+5,-122.2797,47.7569,"unknown",1968,"Zapus trinotatus","Zapus_trinotatus",24,213,"male",10.9,1138,5.05103499744899,55.6779207487346,"Spring",159867
+5,-123.625,44.2961111111,NA,1996,"Zapus trinotatus","Zapus_trinotatus",24,240,"female",11.3,2983,4.98825134843379,89.9671528110171,"Spring",159903
+8,-120.8833333,45.9666667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",24,218,"male",7.2,513,6.50663996517124,112.295624241109,"Summer",159925
+9,-121.3333333,48.2166667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",24,231,"male",4.2,3441,5.25964482036227,83.758228125954,"Fall",159933
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",24,212,"female",12,1858,5.47645096312522,74.9782865001643,"Fall",159974
+9,-121.8833333,48.7,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",24,235,"female",6.3,4459,4.94300853057461,81.1790665008088,"Fall",160000
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",24.1,227,"male",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159746
+7,-121.4731,46.7076384,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24.1,218,"male",4.9,2143,6.23171263973576,71.3417526635545,"Summer",159792
+4,-120.8053,46.9072,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",24.2,229,"male",7.3,583,7.13652045764771,93.7525073024228,"Spring",159693
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",24.2,237,"female",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159750
+7,-121.8490887,46.9879,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24.3,238,"male",5.9,2048,5.3734123800487,57.7728335436397,"Summer",159628
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",24.4,204,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159536
+7,-121.4731,46.7076384,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24.4,238,"male",4.9,2143,6.23171263973576,71.3417526635545,"Summer",159795
+7,-121.494,46.6861,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24.4,240,"male",5.4,2190,6.20320054243751,71.4786449007351,"Summer",159801
+10,-121.8490887,46.9879,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",24.4,246,"female",5.6,1426,6.60417682343163,69.7359217873291,"Fall",159832
+5,-123.87,44.46,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",24.4,245,"male",10.7,1973,5.10682846487886,87.5214652339075,"Spring",159883
+5,-123.87,44.46,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",24.4,238,"male",10.7,1973,5.10682846487886,87.5214652339075,"Spring",159958
+8,-121.5656,46.7383,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",24.5,232,"male",8.1,2192,6.66475919681388,91.5723560042739,"Summer",159518
+7,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24.5,239,"male",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159810
+9,-121.2868378,48.663882,"unknown",1993,"Zapus trinotatus","Zapus_trinotatus",24.5,226,"male",9.5,1439,6.79778818752278,61.2065072368058,"Fall",159840
+8,-122.9387,47.9463,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",24.5,240,"male",10.1,988,5.39309322610453,58.0560179707617,"Summer",159852
+7,-120.913,47.393,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",24.5,240,"male",5.8,1244,6.17708374853083,90.1544248452334,"Summer",159937
+7,-120.9226667,47.3978333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",24.5,235,"female",5.7,1282,6.14743109688178,90.1612025764181,"Summer",160010
+7,-121.5375,46.8672,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",24.6,212,"male",3.3,2397,6.38141240184524,88.555132787965,"Summer",159522
+7,-121.5462982,46.5892421,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",24.6,245,"male",4.6,1324,7.10792877814286,71.3146864743083,"Summer",159615
+6,-121.8642,47.5497,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",24.6,246,"male",10.6,1618,5.05229470816794,71.0359343061266,"Summer",159665
+7,-121.7283,46.8039,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",24.6,239,"male",1,4058,6.27179231064604,87.1144765755279,"Summer",159710
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",24.7,230,"male",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159603
+7,-121.4731,46.7076384,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24.8,236,"male",4.9,2143,6.23171263973576,71.3417526635545,"Summer",159607
+6,-120.9178,49.1575,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",24.8,240,"male",3.8,1057,6.4510746109748,74.8715403756788,"Summer",159751
+7,-121.4731,46.7076384,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24.8,246,"male",4.9,2143,6.23171263973576,71.3417526635545,"Summer",159794
+7,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24.8,246,"female",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159809
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",24.9,221,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159583
+7,-121.4731,46.7076384,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",24.9,233,"male",4.9,2143,6.23171263973576,71.3417526635545,"Summer",159609
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",25,233,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159580
+7,-121.4731,46.6967808,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",25,226,"female",3.8,2112,6.14748039049456,71.2014893212385,"Summer",159614
+1,-123.0833333333,44.1333333333,NA,1995,"Zapus trinotatus","Zapus_trinotatus",25,228,"male",12.4,1380,4.92701274054112,77.3922595499188,"Winter",159677
+1,-123.0666666667,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",25,240,"male",12.5,1383,4.95274640676231,78.1148762000753,"Winter",159678
+1,-123.0666666667,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",25,219,"male",12.5,1383,4.95274640676231,78.1148762000753,"Winter",159682
+7,-121.7397,48.5478,"unknown",1930,"Zapus trinotatus","Zapus_trinotatus",25,237,"female",8.6,1368,6.60777205381296,66.447618401372,"Summer",159688
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",25,240,"male",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159813
+10,-121.8490887,46.9879,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",25,236,"male",5.6,1426,6.60417682343163,69.7359217873291,"Fall",159833
+10,-122.42,43.24,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",25,210,"male",9.7,1804,5.39424496921291,75.2206354994231,"Fall",159890
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",25,238,"female",12,1858,5.47645096312522,74.9782865001643,"Fall",159894
+9,-121.8833333,48.7,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",25,249,"female",6.3,4459,4.94300853057461,81.1790665008088,"Fall",159929
+9,-121.8833333,48.7,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",25,212,"female",6.3,4459,4.94300853057461,81.1790665008088,"Fall",159930
+9,-121.3333333,48.2166667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",25,241,"male",4.2,3441,5.25964482036227,83.758228125954,"Fall",159932
+10,-122.73,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",25,232,"female",11.6,1952,5.42762295200126,75.8637141992162,"Fall",159969
+5,-123.7969444444,44.2719444444,NA,1996,"Zapus trinotatus","Zapus_trinotatus",25,257,"male",11.9,2838,4.84589016746681,89.3200783272144,"Spring",159991
+8,-121.05,47.8,"unknown",1998,"Zapus trinotatus","Zapus_trinotatus",25,220,"male",5.2,2424,7.0230572639936,95.1911255835272,"Summer",159997
+7,-120.913,47.393,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",25,233,"male",5.8,1244,6.17708374853083,90.1544248452334,"Summer",160009
+7,-121.405,47.0936667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",25,233,"male",3.9,1653,5.58154426334114,74.4622653863686,"Summer",160016
+7,-121.611,48.395,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",25,240,"female",7.9,3529,5.15378648679931,81.4383503767518,"Summer",160021
+7,-121.9023,46.9339191,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",25.1,216,"male",4.6,2198,5.47614662131885,57.4798293970554,"Summer",159617
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",25.1,236,"female",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159743
+7,-121.9741051,46.1240196,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",25.1,230,"male",6.9,1860,7.08243131511583,69.2472375448141,"Summer",159788
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",25.2,237,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159576
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",25.2,245,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159735
+7,-121.4731,46.7076384,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",25.2,212,"male",4.9,2143,6.23171263973576,71.3417526635545,"Summer",159791
+7,-121.4731,46.7076384,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",25.2,230,"male",4.9,2143,6.23171263973576,71.3417526635545,"Summer",159793
+5,-123.96,44.54,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",25.2,230,"male",10.5,1715,4.8442014696736,87.1147885355527,"Spring",159880
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",25.3,233,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159715
+7,-121.8490887,46.9879,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",25.3,241,"female",5.9,2048,5.3734123800487,57.7728335436397,"Summer",159824
+8,-121.8132592,46.6861,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",25.4,230,"female",6,2205,5.74795747648807,65.4408525703103,"Summer",159610
+5,-123.87,44.46,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",25.4,233,"male",10.7,1973,5.10682846487886,87.5214652339075,"Spring",159882
+8,-122.9387,47.9463,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",25.5,230,"female",10.1,988,5.39309322610453,58.0560179707617,"Summer",159657
+8,-121.8411,46.9353,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",25.5,231,"male",2.6,2529,6.40375718313913,66.5953236332088,"Summer",159702
+9,-123.0884,47.8007,"unknown",1989,"Zapus trinotatus","Zapus_trinotatus",25.5,236,"male",3.8,2001,5.60996813041237,78.3596413530629,"Fall",159858
+7,-120.9395,47.4093333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",25.5,226,"male",5.6,1317,6.31102930662589,90.2038609254539,"Summer",160014
+8,-122.5669,47.1625,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",25.6,215,"male",10,1260,5.16647115954635,77.1754514007365,"Summer",159550
+7,-121.8490887,46.9879,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",25.6,263,"male",5.9,2048,5.3734123800487,57.7728335436397,"Summer",159630
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",25.6,215,"male",4,3640,6.1920954009564,85.7668086121169,"Summer",159700
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",25.6,234,"male",4,3640,6.1920954009564,85.7668086121169,"Summer",159707
+7,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",25.7,225,"male",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159620
+5,-123.1558,43.7174,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",25.7,220,"male",11.3,1308,5.49702398823879,98.0683018958996,"Spring",159654
+7,-121.494,46.6861,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",25.7,227,"female",5.4,2190,6.20320054243751,71.4786449007351,"Summer",159799
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",25.7,250,"female",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159817
+5,-120.8667,49.1167,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",25.8,220,"male",2.3,1051,6.23448377003164,73.2926249664132,"Spring",159564
+8,-121.7085592,46.6897192,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",25.8,235,"male",5.7,1556,6.94067392588461,70.9391841629308,"Summer",159802
+7,-122.684428,46.990818,NA,1996,"Zapus trinotatus","Zapus_trinotatus",25.8,222,"female",10.4,1464,5.24030851509082,76.286775598052,"Summer",159948
+7,-121.6952,46.8863,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",25.9,240,"male",1,3390,6.28945124551395,85.3615275925053,"Summer",159524
+6,-122.0101,45.8858,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",25.9,242,"male",9.1,2406,6.0219988124351,88.1931818625945,"Summer",159602
+8,-121.5656,46.7383,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",25.9,232,"female",7.7,1431,5.66343936619308,83.1444737171854,"Summer",159732
+6,-122.3175,46.8344,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",25.9,226,"male",10.3,1129,5.87079959450056,65.8887012686499,"Summer",159758
+1,-123.0666666667,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",26,225,"male",12.5,1383,4.95274640676231,78.1148762000753,"Winter",159501
+1,-123.0666666667,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",26,227,"male",12.5,1383,4.95274640676231,78.1148762000753,"Winter",159502
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",26,239,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159534
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",26,225,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159538
+1,-123.0833333333,44.1333333333,NA,1995,"Zapus trinotatus","Zapus_trinotatus",26,225,"male",12.4,1380,4.92701274054112,77.3922595499188,"Winter",159673
+1,-123.0833333333,44.1333333333,NA,1995,"Zapus trinotatus","Zapus_trinotatus",26,222,"male",12.4,1380,4.92701274054112,77.3922595499188,"Winter",159675
+1,-123.0833333333,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",26,242,"male",12.4,1378,4.92701274054112,78.1390962551454,"Winter",159683
+1,-123.0666666667,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",26,215,"male",12.5,1383,4.95274640676231,78.1148762000753,"Winter",159684
+8,-121.5623803,46.8964394,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",26,247,"female",4.3,1327,5.62889595719886,78.0485669408153,"Summer",159719
+9,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",26,270,"female",3,1594,5.51962751268488,81.4047086955858,"Fall",159738
+5,-123.88,44.44,NA,1990,"Zapus trinotatus trinotatus","Zapus_trinotatus",26,229,"male",10.7,2363,5.33121169921231,84.2699836061568,"Spring",159888
+4,-123.8058333333,44.23,NA,1996,"Zapus trinotatus","Zapus_trinotatus",26,226,"male",11.8,2922,4.9696045815507,89.677190170436,"Spring",159904
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",26,237,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159953
+10,-122.71,43.74,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",26,229,"female",11.8,1910,5.47558631148715,75.558994703977,"Fall",159967
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",26,222,"male",12,1858,5.47645096312522,74.9782865001643,"Fall",159976
+4,-123.8058333333,44.2338888889,NA,1996,"Zapus trinotatus","Zapus_trinotatus",26,222,"male",11.8,2909,4.9696045815507,89.6182295826938,"Spring",159982
+5,-123.8788888889,45.2608333333,NA,1996,"Zapus trinotatus","Zapus_trinotatus",26,236,"male",10.5,3379,3.88314149610697,81.0684118462119,"Spring",159985
+5,-123.575,44.3188888889,NA,1996,"Zapus trinotatus","Zapus_trinotatus",26,228,"male",11.3,2905,5.01494735462866,90.439760449903,"Spring",159990
+5,-123.8788888889,45.265,NA,1996,"Zapus trinotatus","Zapus_trinotatus",26,225,"male",10.5,3398,3.89825135623187,81.1363304617155,"Spring",159992
+7,-124.15,41.0666667,"adult",1926,"Zapus trinotatus eureka","Zapus_trinotatus",26,NA,"female",11.9,1374,2.30629901606777,123.440482651865,"Summer",159995
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",26.1,231,"female",4,3640,6.1920954009564,85.7668086121169,"Summer",159516
+7,-121.59852,48.9101,"unknown",1959,"Zapus trinotatus","Zapus_trinotatus",26.1,244,"male",5.2,2989,5.46617006243999,46.5138464790588,"Summer",159572
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",26.1,248,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159872
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",26.1,226,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159950
+9,-121.8128,46.7528,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",26.2,246,"male",6.1,2439,6.37870510275234,79.4356299199199,"Fall",159553
+8,-121.5656,46.7383,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",26.25,226,"female",8.1,2192,6.66475919681388,91.5723560042739,"Summer",159706
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",26.3,242,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159531
+7,-121.7578,46.7775,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",26.3,235,"male",3.5,3652,6.21295689131458,85.5482944822021,"Summer",159709
+4,-120.8053,46.9072,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",26.4,238,"male",7.3,583,7.13652045764771,93.7525073024228,"Spring",159513
+7,-121.7944,46.7672,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",26.4,258,"female",5.1,3142,6.27843833120848,82.9359011815882,"Summer",159521
+7,-121.5462705,46.7470192,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",26.4,229,"female",5.5,1480,7.20531685001367,75.2434126914978,"Summer",159838
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",26.5,236,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159723
+8,-121.5656,46.7383,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",26.5,239,"female",7.7,1431,5.66343936619308,83.1444737171854,"Summer",159737
+10,-122.0049168,45.8930395,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",26.5,230,"male",7.5,1678,7.33490513458309,75.5076094523068,"Fall",159774
+8,-123.61,45.62,NA,2000,"Zapus trinotatus trinotatus","Zapus_trinotatus",26.5,218,"female",9.4,2945,5.42728097557873,72.6195244582211,"Summer",159900
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",26.6,236,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159578
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",26.6,256,"female",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159787
+8,-124.2890344,47.9179,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",26.6,221,"female",10,2917,4.53881408887094,60.2153199379982,"Summer",159850
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",26.7,240,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159764
+5,-123.96,44.54,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",26.7,228,"male",10.5,1715,4.8442014696736,87.1147885355527,"Spring",159879
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",26.8,238,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159721
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",26.9,241,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159586
+8,-123.9096,47.2287622,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",26.9,251,"female",9.9,2645,4.35054855475407,64.4078872860435,"Summer",159660
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",26.9,225,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159766
+7,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",26.9,242,"male",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159806
+6,-121.7923,45.5844,"unknown",1961,"Zapus trinotatus","Zapus_trinotatus",27,242,"male",6,3166,6.51689529165724,82.606080198928,"Summer",159511
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",27,238,"male",4,3640,6.1920954009564,85.7668086121169,"Summer",159515
+7,-121.5375,46.8672,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",27,215,"female",3.3,2397,6.38141240184524,88.555132787965,"Summer",159527
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",27,225,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159722
+9,-121.62285,48.70168,"unknown",2000,"Zapus trinotatus","Zapus_trinotatus",27,232,"female",6.1,2414,5.56275493116877,48.5826481241606,"Fall",159742
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",27,231,"male",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159747
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",27,225,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159768
+5,-123.6188888889,44.24,NA,1996,"Zapus trinotatus","Zapus_trinotatus",27,199,"undetermined",11.4,3093,5.01551381095484,90.6139248612512,"Spring",159911
+4,-123.7938888889,45.3283333333,NA,1996,"Zapus trinotatus","Zapus_trinotatus",27,228,"male",10,3757,3.86533741519849,81.9652805551069,"Spring",159913
+5,-123.6569444444,45.3319444444,NA,1996,"Zapus trinotatus","Zapus_trinotatus",27,229,"male",9.5,3997,4.53878905222594,81.2262421673401,"Spring",159979
+5,-123.8811111111,45.2580555556,NA,1996,"Zapus trinotatus","Zapus_trinotatus",27,226,"male",10.7,3288,3.76668007506329,80.2933280937339,"Spring",159980
+4,-123.8108333333,44.23,NA,1996,"Zapus trinotatus","Zapus_trinotatus",27,242,"male",11.8,2928,4.95662244483136,89.6992818154835,"Spring",159984
+9,-121.6333333,48.6833333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",27,236,"male",5.3,3787,5.20934475028028,81.1616326842779,"Fall",160001
+7,-120.9226667,47.3978333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",27,229,"female",5.7,1282,6.14743109688178,90.1612025764181,"Summer",160011
+5,-123.92,44.51,NA,1990,"Zapus trinotatus trinotatus","Zapus_trinotatus",27.1,225,"male",10.6,2145,5.10077237169811,82.1359042154963,"Spring",159886
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",27.2,228,"male",4,3640,6.1920954009564,85.7668086121169,"Summer",159517
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",27.2,244,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159541
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",27.2,242,"male",8,3255,5.96350009083033,90.1437389662815,"Summer",159575
+7,-121.8490887,46.9879,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",27.2,252,"male",5.9,2048,5.3734123800487,57.7728335436397,"Summer",159631
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",27.2,255,"male",4,3640,6.1920954009564,85.7668086121169,"Summer",159711
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",27.2,245,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159770
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",27.2,246,"male",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159818
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",27.3,235,"male",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159599
+4,-120.8053,46.9072,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",27.3,231,"female",7.3,583,7.13652045764771,93.7525073024228,"Spring",159692
+9,-121.815,47.3515,"unknown",1969,"Zapus trinotatus","Zapus_trinotatus",27.3,247,"male",8.1,1971,6.03110623552947,56.4306116894839,"Fall",159740
+7,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",27.3,250,"female",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159804
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",27.4,240,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159771
+8,-124.2890344,47.9179,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",27.4,233,"female",10,2917,4.53881408887094,60.2153199379982,"Summer",159849
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",27.4,233,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159954
+4,-120.8053,46.9072,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",27.5,238,"female",7.3,583,7.13652045764771,93.7525073024228,"Spring",159512
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",27.5,231,"female",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159622
+7,-121.8490887,46.9879,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",27.5,249,"female",5.9,2048,5.3734123800487,57.7728335436397,"Summer",159632
+4,-120.6012,46.7429,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",27.5,225,"male",9.9,280,8.02146268683983,84.1662096738372,"Spring",159694
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",27.5,232,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159726
+6,-122.0101,45.8858,"unknown",1986,"Zapus trinotatus","Zapus_trinotatus",27.5,246,"male",9.1,2406,6.0219988124351,88.1931818625945,"Summer",159783
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",27.6,246,"male",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159557
+11,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",27.6,237,"male",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159835
+11,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",27.6,237,"female",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159836
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",27.7,225,"female",4,3640,6.1920954009564,85.7668086121169,"Summer",159529
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",27.7,236,"male",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159597
+6,-121.2705,48.6675,"unknown",1994,"Zapus trinotatus","Zapus_trinotatus",27.7,241,"female",10,1996,6.59152348233561,78.4895568017706,"Summer",159650
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",27.7,244,"male",4,3640,6.1920954009564,85.7668086121169,"Summer",159698
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",27.7,242,"male",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159811
+7,-123.0044,47.9618,"unknown",1989,"Zapus trinotatus","Zapus_trinotatus",27.8,240,"female",8.5,1187,5.89058699549673,70.7464383526264,"Summer",159661
+5,-123.1558,43.7174,"unknown",1988,"Zapus trinotatus","Zapus_trinotatus",27.8,238,"male",11.3,1308,5.49702398823879,98.0683018958996,"Spring",159847
+5,-123.88,44.44,NA,1990,"Zapus trinotatus trinotatus","Zapus_trinotatus",27.8,219,"male",10.7,2363,5.33121169921231,84.2699836061568,"Spring",159962
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",27.9,232,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159736
+6,-121.9303,45.8619,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",27.9,226,"female",8.6,2826,5.95113943762542,86.1418882864332,"Summer",159763
+8,-121.8917,46.7900192,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",27.9,244,"male",6.1,2308,5.70057812060241,64.4028819071251,"Summer",159825
+7,-121.8490887,46.9879,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",27.9,235,"female",5.6,1426,6.60417682343163,69.7359217873291,"Summer",159837
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",27.9,235,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159951
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",28,238,"male",3,1594,5.51962751268488,81.4047086955858,"Summer",159546
+7,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",28,249,"female",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159619
+5,-123.8861111111,45.2669444444,NA,1996,"Zapus trinotatus","Zapus_trinotatus",28,230,"male",10.3,3524,4.02208863275002,82.2296805298007,"Spring",159901
+5,-123.6261111111,45.3261111111,NA,1996,"Zapus trinotatus","Zapus_trinotatus",28,228,"male",9.7,4150,4.73966978775628,82.90937547003,"Spring",159902
+8,-121.0333333,47.8166667,"unknown",1998,"Zapus trinotatus","Zapus_trinotatus",28,215,"female",5.8,2292,7.25239249969946,95.7947410814816,"Summer",159920
+8,-121.05,47.8,"unknown",1998,"Zapus trinotatus","Zapus_trinotatus",28,218,"female",5.2,2424,7.0230572639936,95.1911255835272,"Summer",159922
+5,-123.8858333333,45.2708333333,NA,1996,"Zapus trinotatus","Zapus_trinotatus",28,233,"male",10.3,3535,4.04507744241708,82.2700252948457,"Spring",159987
+9,-121.9166667,48.6833333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",28,238,"male",7.2,3985,4.8494298321524,79.608805952182,"Fall",159999
+8,-123.0563333,47.7416667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",28,249,"male",8.6,2283,4.79014139096692,84.8088989160248,"Summer",160023
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",28.1,246,"female",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159560
+7,-121.7944,46.7672,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",28.2,242,"male",5.1,3142,6.27843833120848,82.9359011815882,"Summer",159712
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",28.2,244,"male",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159819
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",28.3,220,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159875
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",28.4,233,"male",4,3640,6.1920954009564,85.7668086121169,"Summer",159699
+7,-122.9097,46.9128,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",28.4,259,"male",10,1179,4.83835684604773,79.8363477200593,"Summer",159760
+5,-123.96,44.54,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",28.4,240,"male",10.5,1715,4.8442014696736,87.1147885355527,"Spring",159956
+8,-121.575,48.8375,"unknown",1977,"Zapus trinotatus","Zapus_trinotatus",28.5,245,"female",3.3,2943,6.09463251185381,70.4931320308303,"Summer",159532
+4,-120.6012,46.4533645,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",28.5,231,"male",11.2,210,8.03640862801063,93.7474258474405,"Spring",159695
+5,-121.2705,48.6675,"unknown",1994,"Zapus trinotatus","Zapus_trinotatus",28.6,240,"male",10,1996,6.59152348233561,78.4895568017706,"Spring",159843
+8,-121.7164,46.7703,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",28.8,230,"female",4,3640,6.1920954009564,85.7668086121169,"Summer",159514
+7,-121.9023,46.9339191,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",28.8,242,"female",4.6,2198,5.47614662131885,57.4798293970554,"Summer",159803
+7,-124.1504,47.9396631,"unknown",1989,"Zapus trinotatus","Zapus_trinotatus",28.8,245,"female",9.2,2834,5.36873666082937,70.5665616964764,"Summer",159856
+4,-123.1839098,47.006619,"unknown",1992,"Zapus trinotatus","Zapus_trinotatus",28.9,240,"male",10.7,2375,5.38557979209014,91.8308081395805,"Spring",159848
+8,-121.5656,46.7383,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",29,240,"female",7.7,1431,5.66343936619308,83.1444737171854,"Summer",159547
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",29,234,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159579
+7,-124.1504,47.9396631,"unknown",1989,"Zapus trinotatus","Zapus_trinotatus",29,252,"female",9.2,2834,5.36873666082937,70.5665616964764,"Summer",159662
+10,-122.69,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",29,218,"male",12,1851,5.50660072232875,74.4966817961756,"Fall",159898
+5,-123.7927777778,44.2538888889,NA,1996,"Zapus trinotatus","Zapus_trinotatus",29,245,"female",11.8,2839,4.9250980608604,89.3720694961252,"Spring",159905
+5,-123.8880555556,45.2669444444,NA,1996,"Zapus trinotatus","Zapus_trinotatus",29,231,"male",10.3,3526,4.02208863275002,82.2458583521341,"Spring",159912
+9,-121.9166667,48.6833333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",29,225,"female",7.2,3985,4.8494298321524,79.608805952182,"Fall",159926
+9,-121.9,48.6833333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",29,247,"male",7.4,3918,4.86265920515252,79.7179031577313,"Fall",159927
+7,-120.9226667,47.3978333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",29,225,"male",5.7,1282,6.14743109688178,90.1612025764181,"Summer",159939
+10,-122.71,43.74,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",29,234,"female",11.8,1910,5.47558631148715,75.558994703977,"Fall",159968
+4,-123.815,44.2188888889,NA,1996,"Zapus trinotatus","Zapus_trinotatus",29,252,"male",11.8,2972,4.97161640686102,89.8068055479572,"Spring",159983
+9,-121.6333333,48.6833333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",29,256,"male",5.3,3787,5.20934475028028,81.1616326842779,"Fall",160002
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",29.1,232,"male",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159815
+6,-122.0101,45.8858,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",29.2,244,"female",8.7,2823,5.87410857195809,84.7199769950004,"Summer",159598
+7,-121.8490887,46.9879,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",29.2,252,"female",5.9,2048,5.3734123800487,57.7728335436397,"Summer",159634
+7,-121.9023,46.9339191,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",29.2,257,"male",4.6,2198,5.47614662131885,57.4798293970554,"Summer",159762
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",29.2,236,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159772
+7,-121.8490887,46.9879,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",29.3,254,"female",5.9,2048,5.3734123800487,57.7728335436397,"Summer",159629
+5,-123.96,44.54,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",29.3,245,"male",10.5,1715,4.8442014696736,87.1147885355527,"Spring",159955
+8,-120.95873,49.320419,NA,1949,"Zapus trinotatus trinotatus","Zapus_trinotatus",29.3,236,"female",1.7,1570,8.12202393047895,97.4816977020203,"Summer",159994
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",29.5,244,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159724
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",29.5,252,"female",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159814
+8,-123.55,47.4333333,"unknown",1998,"Zapus trinotatus","Zapus_trinotatus",29.5,207,"female",8.9,5960,5.00614773568611,103.056797001063,"Summer",159923
+5,-120.8667,49.1167,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",29.7,244,"male",2.3,1051,6.23448377003164,73.2926249664132,"Spring",159563
+6,-121.2705,48.6675,"unknown",1994,"Zapus trinotatus","Zapus_trinotatus",29.7,234,"female",10,1996,6.59152348233561,78.4895568017706,"Summer",159842
+7,-124.1504,47.9396631,"unknown",1989,"Zapus trinotatus","Zapus_trinotatus",29.7,240,"female",9.2,2834,5.36873666082937,70.5665616964764,"Summer",159855
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",29.9,244,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159543
+11,-123.87,44.46,NA,1988,"Zapus trinotatus trinotatus","Zapus_trinotatus",29.9,219,"male",10.8,2444,4.48819157750242,102.913740458938,"Fall",159952
+7,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",30,248,"female",3,1594,5.51962751268488,81.4047086955858,"Summer",159545
+1,-123.0666666667,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",30,242,"male",12.5,1383,4.95274640676231,78.1148762000753,"Winter",159680
+8,-121.7528,46.6522,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",30,247,"female",5.3,2631,6.55417401124634,78.413508581585,"Summer",159704
+10,-122.73,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",30,244,"male",11.6,1952,5.42762295200126,75.8637141992162,"Fall",159891
+5,-123.7927777778,44.2538888889,NA,1996,"Zapus trinotatus","Zapus_trinotatus",30,243,"undetermined",11.8,2839,4.9250980608604,89.3720694961252,"Spring",159910
+7,-124.15,41.0666667,"adult",1926,"Zapus trinotatus eureka","Zapus_trinotatus",30,NA,"female",11.9,1374,2.30629901606777,123.440482651865,"Summer",159918
+9,-121.9,48.7,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",30,239,"female",6,4574,4.9641136411674,81.1798460198129,"Fall",159928
+5,-123.6419444444,45.2161111111,NA,1996,"Zapus trinotatus","Zapus_trinotatus",30,219,"male",10.1,3157,4.46531243604691,83.5718783884237,"Spring",159978
+5,-123.775,44.3008333333,NA,1996,"Zapus trinotatus","Zapus_trinotatus",30,235,"male",11.9,2786,4.8488283495744,89.2610478991801,"Spring",159988
+7,-120.8986,49.1487,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",30.2,245,"male",3.7,1059,6.44916602548286,75.5838958794027,"Summer",159558
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",30.2,236,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159585
+7,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",30.3,253,"male",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159808
+7,-123.9503649,46.4328806,"unknown",1989,"Zapus trinotatus","Zapus_trinotatus",30.4,239,"female",10.2,1729,4.58571563431357,65.4908852253671,"Summer",159554
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",30.5,246,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159584
+8,-121.8970155,46.9412809,"unknown",1984,"Zapus trinotatus","Zapus_trinotatus",30.5,263,"male",4.6,2223,5.42876736944172,57.5178068015823,"Summer",159805
+6,-121.8308,45.8462,"unknown",1983,"Zapus trinotatus","Zapus_trinotatus",30.6,240,"female",8,3255,5.96350009083033,90.1437389662815,"Summer",159589
+5,-123.6166666667,45.3166666667,NA,1996,"Zapus trinotatus","Zapus_trinotatus",31,238,"male",9.6,4215,4.86705062827395,83.4511329708839,"Spring",159507
+1,-123.0833333333,44.1333333333,NA,1995,"Zapus trinotatus","Zapus_trinotatus",31,225,"male",12.4,1380,4.92701274054112,77.3922595499188,"Winter",159672
+1,-123.0833333333,44.1333333333,NA,1995,"Zapus trinotatus","Zapus_trinotatus",31,225,"male",12.4,1380,4.92701274054112,77.3922595499188,"Winter",159676
+5,-123.65,45.3166666667,NA,1996,"Zapus trinotatus","Zapus_trinotatus",31,238,"male",9.7,3824,4.37707526537846,81.2369094801451,"Spring",159686
+5,-123.96,44.54,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",31,245,"male",10.5,1715,4.8442014696736,87.1147885355527,"Spring",159881
+5,-123.57,44.2427777778,NA,1996,"Zapus trinotatus","Zapus_trinotatus",31,236,"undetermined",11.6,2807,5.1090828210871,91.6216701758514,"Spring",159907
+9,-121.5833333,48.15,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",31,247,"female",5.5,5232,5.10693972289994,77.2260775934586,"Fall",159931
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",31.8,250,"male",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159623
+1,-123.0833333333,44.1166666667,NA,1995,"Zapus trinotatus","Zapus_trinotatus",32,241,"male",12.4,1378,4.92701274054112,78.1390962551454,"Winter",159681
+4,-123.8,44.2166666667,NA,1996,"Zapus trinotatus","Zapus_trinotatus",32,242,"male",11.8,2966,5.00887091855918,89.8835996247542,"Spring",159687
+5,-123.6169444444,44.285,NA,1996,"Zapus trinotatus","Zapus_trinotatus",32,239,"male",11.2,3139,5.07262408931661,90.3015750593888,"Spring",159906
+10,-122.71,43.73,NA,1995,"Zapus trinotatus montanus","Zapus_trinotatus",32,232,"female",12,1858,5.47645096312522,74.9782865001643,"Fall",159977
+7,-120.9226667,47.3978333,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",32.5,228,"female",5.7,1282,6.14743109688178,90.1612025764181,"Summer",159940
+8,-121.8411,46.9353,"unknown",1974,"Zapus trinotatus","Zapus_trinotatus",32.9,255,"male",2.6,2529,6.40375718313913,66.5953236332088,"Summer",159530
+7,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",33,250,"female",4.3,1525,6.68722776279641,68.5084621548227,"Summer",159625
+9,-121.35,48.2166667,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",33,249,"female",5.8,3403,5.54879184229242,84.6302889596965,"Fall",159934
+5,-123.7280555556,44.3330555556,NA,1996,"Zapus trinotatus","Zapus_trinotatus",33,220,"male",11.9,2686,4.91641499099052,89.1673780723096,"Spring",159981
+9,-123.0884,47.8007,"unknown",1990,"Zapus trinotatus","Zapus_trinotatus",33.1,236,"female",3.9,2790,5.94313329257668,83.7132713404308,"Fall",159648
+10,-121.9023,46.9339191,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",33.7,261,"male",4.3,1525,6.68722776279641,68.5084621548227,"Fall",159645
+8,-121.64,46.9028,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",34,281,"undetermined",3,1594,5.51962751268488,81.4047086955858,"Summer",159539
+8,-121.5656,46.7383,"unknown",1976,"Zapus trinotatus","Zapus_trinotatus",34,239,"female",7.7,1431,5.66343936619308,83.1444737171854,"Summer",159540
+4,-123.8088888889,44.2319444444,NA,1996,"Zapus trinotatus","Zapus_trinotatus",34,241,"undetermined",11.8,2920,4.9696045815507,89.6627739133987,"Spring",159908
+4,-123.8088888889,44.2338888889,NA,1996,"Zapus trinotatus","Zapus_trinotatus",34,241,"male",11.8,2914,4.9696045815507,89.6404620952883,"Spring",159909
+8,-122.0173755,45.8071198,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",34.2,299,"female",6.9,2086,7.15331561182814,72.7041946354925,"Summer",159776
+9,-121.3833333,48.2,"unknown",1999,"Zapus trinotatus","Zapus_trinotatus",35,234,"female",6.1,3623,5.52736306245957,85.7388643505486,"Fall",160008
+7,-122.9097,46.9128,"unknown",1962,"Zapus trinotatus","Zapus_trinotatus",35.3,NA,"male",10,1179,4.83835684604773,79.8363477200593,"Summer",159573
+8,-121.6904061,46.6067,"unknown",1975,"Zapus trinotatus","Zapus_trinotatus",35.5,237,"female",8.6,1853,6.15779255016837,86.0560379865124,"Summer",159713
+10,-121.8969648,46.7397808,"unknown",1985,"Zapus trinotatus","Zapus_trinotatus",35.7,249,"female",6.9,1404,6.76371782290471,69.6719482713331,"Fall",159637
+8,-121.8642,47.5497,"unknown",1987,"Zapus trinotatus","Zapus_trinotatus",36.2,257,"female",11,1265,5.38567122515426,85.4446946987683,"Summer",159663
+5,-123.92,44.51,NA,1989,"Zapus trinotatus trinotatus","Zapus_trinotatus",38,240,"male",10.6,1797,4.84945326502864,87.8036762785473,"Spring",159960

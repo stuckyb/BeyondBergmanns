@@ -1,0 +1,197 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",64.2,235,"male",8.1,552,7.33817333392908,83.6162458826355,"Summer",75306
+2,-122.119611,37.880735,NA,2007,"Neotoma fuscipes annectens","Neotoma_fuscipes",66,190,"male",14.3,393,4.69564595227227,129.32445523798,"Winter",75280
+5,-122.18314,40.38944,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",68.2,251,"male",16.4,421,7.36397352389361,117.196693362334,"Spring",75414
+6,-120.7522,39.24922,"juvenile",2008,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",77,NA,"male",12.6,874,7.51037161651684,119.256274648235,"Summer",75366
+4,-121.7767095,37.81665172,NA,2001,"Neotoma fuscipes annectens","Neotoma_fuscipes",77.7,252,"female",15,681,5.33237680816373,122.403467039297,"Spring",75344
+6,-122.4873694444,38.0030833333,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",79.3,270,"male",14.2,793,3.73594335172159,107.994904405557,"Summer",75341
+6,-120.7522,39.24922,"juvenile",2008,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",80,NA,"male",12.6,874,7.51037161651684,119.256274648235,"Summer",75367
+8,-116.9372,34.2228,NA,1989,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",88,375,"female",8.8,216,5.778880042487,111.207453410665,"Summer",75437
+7,-122.2628645,41.5232539,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",94.2,289,"female",8.4,661,7.27104573363461,84.222411747654,"Summer",75249
+5,-122.601,37.9456194444,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",94.3,293,"female",14,1327,4.06458279941907,110.633880069764,"Spring",75343
+1,-121.94952,37.881664,NA,1971,"Neotoma fuscipes","Neotoma_fuscipes",94.8,NA,"female",13.8,333,5.9121344143493,129.464697731348,"Winter",75317
+4,-121.7708579,37.81281644,NA,2001,"Neotoma fuscipes annectens","Neotoma_fuscipes",99.1,276,"female",15,644,5.26695674306647,123.066760533694,"Spring",75269
+10,-122.264728,37.887073,NA,2009,"Neotoma fuscipes annectens","Neotoma_fuscipes",105,275,"male",14.2,562,3.60835520323696,128.100398298623,"Fall",75375
+11,-123.21,44.67,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",106.9,313,"female",11.6,925,5.35313558636997,68.640855445746,"Fall",75400
+11,-118.7554331,34.5299375,"Subadult",1988,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",110,320,"male",17.6,357,5.10135899896916,114.529242177205,"Fall",75314
+6,-122.179511,37.872003,NA,2007,"Neotoma fuscipes annectens","Neotoma_fuscipes",111,310,"male",13.9,412,4.37638289832223,125.435796525949,"Summer",75279
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",111.1,305,"female",8.1,552,7.33817333392908,83.6162458826355,"Summer",75250
+9,-123.2059,42.8936,"unknown",1988,"Neotoma fuscipes","Neotoma_fuscipes",112.5,326,"female",11.9,771,5.89897268919587,105.698921241739,"Fall",75392
+7,-121.76366,40.30804,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",115,300,"female",13.1,613,7.17569551058335,127.054092031354,"Summer",75274
+8,-118.55714,35.0483281,NA,1972,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",118,320,"female",10.3,231,7.27417078477407,174.008351677846,"Summer",75248
+5,-122.4914694444,38.0005277778,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",119.6,300,"female",14.3,796,3.75265562534377,107.963149933974,"Spring",75338
+8,-120.13745,40.96636,NA,2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",124,324,"male",8.1,386,8.13235215144742,82.834994476632,"Summer",75261
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",126,315,"male",8.1,552,7.33817333392908,83.6162458826355,"Summer",75302
+3,-117.1874536,33.0339624,"unknown",1964,"Neotoma fuscipes","Neotoma_fuscipes",129,316,"male",15.7,179,3.82598769184923,98.1032233121951,"Spring",75388
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",129.4,307,"female",8.1,552,7.33817333392908,83.6162458826355,"Summer",75305
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",133.7,312,"female",8.1,552,7.33817333392908,83.6162458826355,"Summer",75307
+7,-119.85842,35.120688,NA,2003,"Neotoma fuscipes","Neotoma_fuscipes",134,NA,"female",15.1,272,6.40134337226937,103.648941387722,"Summer",75254
+8,-117.23898,33.98551,"unknown",1965,"Neotoma fuscipes","Neotoma_fuscipes",134,310,"female",16.2,477,5.34219907052245,126.139006304724,"Summer",75293
+7,-118.8028951,35.1219399,NA,1972,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",134,322,"male",18.7,116,7.73749235080642,152.072133854841,"Summer",75304
+9,-123.5546,42.8167,"unknown",1989,"Neotoma fuscipes","Neotoma_fuscipes",134.5,200,"female",11,756,6.01983463983099,86.0641827401008,"Fall",75391
+7,-121.76505,40.313,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",135,335,"male",13.2,608,7.17569551058335,126.52228591342,"Summer",75357
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",136,335,"female",8.1,552,7.33817333392908,83.6162458826355,"Summer",75316
+9,-120.77441,40.84819,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",140,335,"female",8.7,273,8.15529201676972,90.6879439030245,"Fall",75276
+4,-121.14,36.53,NA,1994,"Neotoma fuscipes","Neotoma_fuscipes",141,294,"female",14.6,320,5.59617699592293,112.263590326379,"Spring",75290
+6,-120.7522,39.24922,NA,2008,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",141,369,"female",12.6,874,7.51037161651684,119.256274648235,"Summer",75363
+8,-120.09,41.08,NA,1977,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",142,351,"female",6.4,553,7.90172113970728,102.139964952473,"Summer",75396
+9,-122.17529,37.9043,NA,2011,"Neotoma fuscipes annectens","Neotoma_fuscipes",144.7,288,"male",13.7,515,4.3791776590699,144.88039538175,"Fall",75381
+9,-120.76834,40.84853,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",150,344,"female",8.7,270,8.14085748592005,90.0962313739278,"Fall",75360
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",153,350,"male",16.4,449,7.42091128113147,117.448002574831,"Summer",75354
+12,-123.21,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",153.5,330,"female",11.6,925,5.34967430331185,68.4592657141004,"Winter",75404
+8,-123.0664847,38.3552909,NA,1990,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",154,389,"male",12.4,501,3.34857500221431,116.283214787937,"Summer",75301
+5,-122.219275,37.84965,NA,2005,"Neotoma fuscipes annectens","Neotoma_fuscipes",154,391,"female",14.4,838,3.13178959392327,122.597871637844,"Spring",75416
+11,-118.7554331,34.5299375,NA,1988,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",155,340,"female",17.6,357,5.10135899896916,114.529242177205,"Fall",75251
+5,-122.17529,37.9043,NA,2005,"Neotoma fuscipes annectens","Neotoma_fuscipes",155,335,"female",14.5,854,3.93241193625028,126.46758379619,"Spring",75322
+9,-120.76834,40.84853,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",155,325,"female",8.7,270,8.14085748592005,90.0962313739278,"Fall",75361
+1,-123.2,44.69,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",156.7,320,"female",11.8,967,5.56130434885613,85.0455504435416,"Winter",75426
+10,-122.17529,37.9043,NA,2004,"Neotoma fuscipes annectens","Neotoma_fuscipes",157,403,"female",14.8,650,4.40023243187737,126.467561492014,"Fall",75319
+7,-120.86382,35.327624,NA,2007,"Neotoma fuscipes bullatior","Neotoma_fuscipes",157.9,381,"female",14.1,179,1.78087482758198,124.090958743191,"Summer",75284
+11,-118.7554331,34.5299375,"Adult",1988,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",160,360,"male",17.6,357,5.10135899896916,114.529242177205,"Fall",75309
+8,-112.91175,34.4359167,"adult",2001,"Neotoma fuscipes","Neotoma_fuscipes",161.2,285,"female",17.8,332,8.20016167615929,80.3901767421528,"Summer",75417
+5,-122.5925305556,37.9499388889,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",163.2,385,"female",14.2,1306,4.12868751615578,111.225066049453,"Spring",75332
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",165,325,"male",16.4,449,7.42091128113147,117.448002574831,"Summer",75351
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",165,355,"female",16.4,449,7.42091128113147,117.448002574831,"Summer",75353
+7,-120.86382,35.327624,NA,2007,"Neotoma fuscipes bullatior","Neotoma_fuscipes",165.8,354,"male",14.1,179,1.78087482758198,124.090958743191,"Summer",75377
+5,-123.4957,42.89,"unknown",1989,"Neotoma fuscipes","Neotoma_fuscipes",166.7,305,"female",11.1,737,5.9328566373028,86.515678662914,"Spring",75295
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",168.5,352,"male",8.1,552,7.33817333392908,83.6162458826355,"Summer",75247
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",170,364,"female",16.4,449,7.42091128113147,117.448002574831,"Summer",75347
+6,-122.17529,37.9043,NA,2012,"Neotoma fuscipes annectens","Neotoma_fuscipes",172.9,361,"male",14.1,732,3.89976689280037,119.75190972789,"Summer",75382
+8,-120.13266,40.97216,NA,2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",175,350,"male",7.8,420,8.12152023386576,83.3082213245472,"Summer",75325
+7,-121.76505,40.313,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",175,344,"female",13.2,608,7.17569551058335,126.52228591342,"Summer",75356
+8,-120.13889,40.82822,NA,2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",176,362,"female",8.7,324,8.26861078068282,86.1821328347855,"Summer",75262
+5,-122.4745666667,38.0054,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",176.5,375,"female",14.2,790,3.63254439585792,108.219590664743,"Spring",75331
+7,-117.23898,33.98551,"unknown",1965,"Neotoma fuscipes","Neotoma_fuscipes",178,320,"male",16.2,477,5.34219907052245,126.139006304724,"Summer",75292
+8,-122.17529,37.9043,NA,2011,"Neotoma fuscipes annectens","Neotoma_fuscipes",179,385,"female",13.7,515,4.3791776590699,144.88039538175,"Summer",75286
+7,-115.583333,30.966667,NA,1992,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",179,357,"male",11.2,1172,4.92275945035512,172.52286842237,"Summer",75303
+12,-118.6894,34.0442,NA,1997,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",180,365,"female",16.7,316,2.95095002678901,186.959573177342,"Winter",75438
+7,-119.85842,35.120688,NA,2003,"Neotoma fuscipes","Neotoma_fuscipes",182,NA,"female",15.1,272,6.40134337226937,103.648941387722,"Summer",75255
+4,-121.736948,37.381714,NA,2004,"Neotoma fuscipes annectens","Neotoma_fuscipes",182,356,"female",15.4,625,4.92919564401431,124.610744107674,"Spring",75263
+1,-123.26,44.6,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",184.2,367,"female",11.7,1013,5.49585932288752,86.5196617865531,"Winter",75425
+6,-120.75351,39.23901,"embryo",2008,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",185,390,"female",12.8,862,7.52184696854315,119.562296244846,"Summer",75277
+4,-121.93667,37.90167,NA,1969,"Neotoma fuscipes","Neotoma_fuscipes",187.8,NA,"male",14.6,704,5.62178527666876,135.784259411877,"Spring",75318
+3,-121.7575,37.3953,NA,2006,"Neotoma fuscipes annectens","Neotoma_fuscipes",189,353,"male",14.7,730,5.07175034038068,119.419456758145,"Spring",75265
+6,-120.7522,39.24922,NA,2008,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",192,375,"female",12.6,874,7.51037161651684,119.256274648235,"Summer",75368
+7,-121.736948,37.381714,NA,2004,"Neotoma fuscipes annectens","Neotoma_fuscipes",192.4,311,"female",15.4,625,4.92919564401431,124.610744107674,"Summer",75264
+1,-122.281408,37.977228,NA,2007,"Neotoma fuscipes annectens","Neotoma_fuscipes",193.6,415,"male",14.1,356,3.96515122566898,125.765151943755,"Winter",75372
+3,-122.176518,37.895815,NA,2007,"Neotoma fuscipes annectens","Neotoma_fuscipes",194.5,313,"male",14,410,4.43464323323315,125.878023444087,"Spring",75371
+7,-120.86382,35.327624,NA,2007,"Neotoma fuscipes bullatior","Neotoma_fuscipes",194.8,357,"female",14.1,179,1.78087482758198,124.090958743191,"Summer",75378
+7,-118.7582373,35.1137003,NA,1972,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",195,330,"male",17.2,185,7.41122715066728,152.602445735336,"Summer",75245
+7,-121.76366,40.30804,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",195,350,"female",13.1,613,7.17569551058335,127.054092031354,"Summer",75355
+8,-118.3323041,35.124231,NA,1974,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",197,342,"male",13,313,7.59155731218848,138.955993591216,"Summer",75313
+9,-120.61235,40.80434,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",199,397,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",75358
+8,-120.13745,40.96636,NA,2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",200,365,"male",8.1,386,8.13235215144742,82.834994476632,"Summer",75327
+5,-122.33853,38.31666,NA,2008,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",201,364,"male",14.6,579,5.21297914010324,177.047197995426,"Spring",75370
+12,-123.22,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",203.1,374,"male",11.5,963,5.3466146185028,69.1642466635851,"Winter",75422
+1,-123.23,44.8,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",206.1,397,"female",11.8,1010,5.58781141088677,85.6736916860964,"Winter",75409
+4,-121.8805,40.42814,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",208,367,"male",15.6,529,7.34444234325067,119.006861545552,"Spring",75270
+9,-123.2059,42.8936,"unknown",1988,"Neotoma fuscipes","Neotoma_fuscipes",208.6,379,"female",11.9,771,5.89897268919587,105.698921241739,"Fall",75297
+4,-122.49017,38.00168,NA,2008,"Neotoma fuscipes monochroura","Neotoma_fuscipes",210,406,"female",14.2,560,4.014773853022,168.119855205403,"Spring",75285
+6,-120.3981166667,41.2311,NA,2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",210,370,"female",9.6,347,8.06373757238935,82.0172497312343,"Summer",75413
+1,-123.23,44.81,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",211.3,409,"female",11.8,1009,5.60845546717389,85.4360950364707,"Winter",75427
+2,-122.53291,37.96549,"U",2004,"Neotoma fuscipes","Neotoma_fuscipes",211.8,386,"male",15.2,937,3.7715341304262,130.75568868557,"Winter",75394
+5,-122.4914694444,38.0005277778,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",211.9,423,"female",14.3,796,3.75265562534377,107.963149933974,"Spring",75339
+4,-124.12167,40.24444,"adult",1956,"Neotoma fuscipes monochroura","Neotoma_fuscipes",212,381,"female",12,1606,4.65620309616401,148.044946920678,"Spring",75298
+5,-122.595675,37.9550388889,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",213.3,388,"male",14.2,1307,4.18630523435063,110.538432133868,"Spring",75268
+8,-121.08455488,41.47906959,NA,2009,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",214,470,"male",9.2,362,8.46635050710109,62.0547532844411,"Summer",75442
+4,-121.88535,40.43052,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",216,378,"female",15.7,525,7.38903774438044,119.761822040545,"Spring",75345
+3,-123.28,44.49,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",217.5,413,"female",12,917,5.49239143145894,86.2828493673368,"Spring",75424
+8,-120.13745,40.96636,NA,2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",218,375,"female",8.1,386,8.13235215144742,82.834994476632,"Summer",75260
+3,-122.1489309,37.9302636,NA,2007,"Neotoma fuscipes annectens","Neotoma_fuscipes",218,410,"female",14.1,409,4.52796027394502,126.718661562981,"Spring",75275
+11,-122.17529,37.9043,NA,2004,"Neotoma fuscipes annectens","Neotoma_fuscipes",219,396,"female",14.8,650,4.40023243187737,126.467561492014,"Fall",75256
+7,-121.76366,40.30804,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",220,335,"male",13.1,613,7.17569551058335,127.054092031354,"Summer",75273
+8,-120.8516269,41.6118975,NA,1990,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",220,407,"male",8.1,306,8.64874750084273,57.4771648578378,"Summer",75300
+11,-123.22,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",220,434,"female",11.5,963,5.3466146185028,69.1642466635851,"Fall",75419
+12,-123.21,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",221.1,430,"female",11.6,925,5.34967430331185,68.4592657141004,"Winter",75405
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",223.1,381,"female",8.1,552,7.33817333392908,83.6162458826355,"Summer",75315
+6,-120.7522,39.24922,NA,2008,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",227,379,"female",12.6,874,7.51037161651684,119.256274648235,"Summer",75362
+10,-122.17529,37.9043,NA,2013,"Neotoma fuscipes annectens","Neotoma_fuscipes",227,460,"male",14.4,146,4.54695202605798,91.6451447630605,"Fall",75383
+6,-120.7522,39.24922,NA,2008,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",228,NA,"female",12.6,874,7.51037161651684,119.256274648235,"Summer",75365
+5,-122.4745666667,38.0054,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",228.5,378,"male",14.2,790,3.63254439585792,108.219590664743,"Spring",75330
+4,-123.27,44.47,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",229.5,412,"female",11.9,921,5.50214145638411,86.008065812849,"Spring",75436
+6,-118.37192,35.34223,NA,1973,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",230,347,"male",14.5,290,7.648747174102,132.144319636227,"Summer",75308
+6,-120.7522,39.24922,NA,2008,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",230,NA,"female",12.6,874,7.51037161651684,119.256274648235,"Summer",75364
+1,-121.897217,37.610836,NA,2011,"Neotoma fuscipes annectens","Neotoma_fuscipes",230,450,"male",14.3,432,4.67614027578171,144.001847163611,"Winter",75376
+9,-118.3360186,35.1804164,NA,1972,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",233,390,"male",12.9,143,7.01336386673847,170.041690417778,"Fall",75243
+11,-123.22,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",234,372,"female",11.5,963,5.3466146185028,69.1642466635851,"Fall",75420
+3,-123.2,44.7,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",234.7,411,"female",11.8,961,5.58233143430451,84.9573766060346,"Spring",75431
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",235,370,"female",16.4,449,7.42091128113147,117.448002574831,"Summer",75352
+7,-117.07706,34.25514,"unknown",1965,"Neotoma fuscipes","Neotoma_fuscipes",236,355,"female",9,911,6.02439485204392,143.314769717753,"Summer",75294
+3,-123.24,44.61,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",237.6,450,"female",11.9,948,5.54977477020464,85.2512444862689,"Spring",75432
+8,-120.8516269,41.6118975,NA,1990,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",240,367,"male",8.1,306,8.64874750084273,57.4771648578378,"Summer",75253
+12,-122.17529,37.9043,NA,2004,"Neotoma fuscipes annectens","Neotoma_fuscipes",240,400,"male",14.8,650,4.40023243187737,126.467561492014,"Winter",75320
+9,-120.76834,40.84853,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",240,375,"female",8.7,270,8.14085748592005,90.0962313739278,"Fall",75359
+3,-123.21,44.67,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",240.2,422,"female",11.8,971,5.56081392560042,85.4647639887165,"Spring",75412
+11,-122.17529,37.9043,NA,2010,"Neotoma fuscipes annectens","Neotoma_fuscipes",241,368,"male",14.4,836,4.2416406202689,102.679699151165,"Fall",75385
+6,-121.21,41.61,NA,1963,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",241.7,434,"female",8.3,381,6.72878821996137,76.4959101913364,"Summer",75397
+7,-120.86382,35.327624,NA,2007,"Neotoma fuscipes bullatior","Neotoma_fuscipes",242,397,"female",14.1,179,1.78087482758198,124.090958743191,"Summer",75282
+1,-123.23,44.81,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",243.4,416,"female",11.8,1009,5.60845546717389,85.4360950364707,"Winter",75408
+3,-123.24,44.61,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",243.4,434,"female",11.9,948,5.54977477020464,85.2512444862689,"Spring",75433
+8,-120.13745,40.96636,NA,2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",244,384,"male",8.1,386,8.13235215144742,82.834994476632,"Summer",75326
+8,-120.8516269,41.6118975,NA,1990,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",245,405,"female",8.1,306,8.64874750084273,57.4771648578378,"Summer",75299
+9,-122.1129603,37.9122777,NA,2005,"Neotoma fuscipes annectens","Neotoma_fuscipes",247.2,200,"male",15,821,4.22699656966977,129.745849320038,"Fall",75324
+6,-120.79268,40.66361,"embryo",2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",250,375,"female",9.1,565,8.12159019359677,90.65564077048,"Summer",75257
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",250,385,"male",16.4,449,7.42091128113147,117.448002574831,"Summer",75346
+6,-120.3981166667,41.2311,NA,2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",252,460,"male",9.6,347,8.06373757238935,82.0172497312343,"Summer",75439
+12,-123.22,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",255.2,415,"female",11.5,963,5.3466146185028,69.1642466635851,"Winter",75401
+6,-122.4873694444,38.0030833333,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",257,413,"male",14.2,793,3.73594335172159,107.994904405557,"Summer",75333
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",258.4,287,"female",8.1,552,7.33817333392908,83.6162458826355,"Summer",75312
+5,-122.18314,40.38944,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",258.5,418,"female",16.4,421,7.36397352389361,117.196693362334,"Spring",75440
+4,-122.17529,37.9043,NA,2010,"Neotoma fuscipes annectens","Neotoma_fuscipes",259,440,"male",14.4,836,4.2416406202689,102.679699151165,"Spring",75386
+2,-123.23,44.8,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",259,413,"male",11.8,1010,5.58781141088677,85.6736916860964,"Winter",75410
+2,-123.2,44.7,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",259.9,435,"female",11.8,961,5.58233143430451,84.9573766060346,"Winter",75430
+5,-122.17171,40.35516,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",260,396,"female",16.3,421,7.34430309006838,116.306846639349,"Spring",75441
+7,-120.86382,35.327624,NA,2007,"Neotoma fuscipes bullatior","Neotoma_fuscipes",262,405,"male",14.1,179,1.78087482758198,124.090958743191,"Summer",75283
+3,-117.4455988,34.3029902,"unknown",1964,"Neotoma fuscipes","Neotoma_fuscipes",262,387,"male",13.5,371,6.47729718230365,98.498721561936,"Spring",75387
+5,-122.595675,37.9550388889,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",264.6,374,"male",14.2,1307,4.18630523435063,110.538432133868,"Spring",75334
+12,-123.21,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",265,408,"female",11.6,925,5.34967430331185,68.4592657141004,"Winter",75423
+6,-120.79268,40.66361,NA,2006,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",266,452,"male",9.1,565,8.12159019359677,90.65564077048,"Summer",75323
+10,-123.4957,42.89,"unknown",1988,"Neotoma fuscipes","Neotoma_fuscipes",267.4,399,"male",11.7,873,5.70812153997719,105.930536550201,"Fall",75393
+5,-122.4745666667,38.0054,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",270,315,"female",14.2,790,3.63254439585792,108.219590664743,"Spring",75267
+8,-120.8516269,41.6118975,NA,1990,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",270,424,"male",8.1,306,8.64874750084273,57.4771648578378,"Summer",75311
+5,-123.4957,42.89,"unknown",1989,"Neotoma fuscipes","Neotoma_fuscipes",272.1,359,"male",11.1,737,5.9328566373028,86.515678662914,"Spring",75390
+6,-122.14686,37.04395,"unknown",1973,"Neotoma fuscipes","Neotoma_fuscipes",272.4,432,"female",14,2067,3.83875769045932,117.979186942975,"Summer",75291
+12,-122.17529,37.9043,NA,2011,"Neotoma fuscipes annectens","Neotoma_fuscipes",273,431,"male",13.7,515,4.3791776590699,144.88039538175,"Winter",75379
+4,-122.17529,37.9043,NA,2011,"Neotoma fuscipes annectens","Neotoma_fuscipes",276,395,"female",13.7,515,4.3791776590699,144.88039538175,"Spring",75380
+12,-123.21,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",276.4,435,"female",11.6,925,5.34967430331185,68.4592657141004,"Winter",75402
+5,-122.600725,37.9573472222,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",279.2,380,"male",14.2,1282,4.16576960040235,109.801354635124,"Spring",75342
+11,-123.22,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",280.9,410,"female",11.5,963,5.3466146185028,69.1642466635851,"Fall",75398
+3,-123.24,44.61,NA,1992,"Neotoma fuscipes monochroura","Neotoma_fuscipes",281.8,448,"male",12.8,886,5.37645681455621,85.8268304837965,"Spring",75435
+1,-123.2,44.7,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",282.8,407,"male",11.8,961,5.58233143430451,84.9573766060346,"Winter",75411
+4,-122.17529,37.9043,NA,2005,"Neotoma fuscipes annectens","Neotoma_fuscipes",283,427,"male",14.5,854,3.93241193625028,126.46758379619,"Spring",75321
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",285,402,"male",16.4,449,7.42091128113147,117.448002574831,"Summer",75350
+5,-123.4957,42.89,"unknown",1989,"Neotoma fuscipes","Neotoma_fuscipes",285.5,404,"male",11.1,737,5.9328566373028,86.515678662914,"Spring",75296
+5,-122.496675,38.0087055556,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",288,412,"male",14.3,757,3.79484299192119,107.404246949714,"Spring",75335
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",290,385,"male",16.4,449,7.42091128113147,117.448002574831,"Summer",75271
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",290.9,393,"male",8.1,552,7.33817333392908,83.6162458826355,"Summer",75246
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",295,387,"female",16.4,449,7.42091128113147,117.448002574831,"Summer",75272
+3,-122.2268694,37.8415222,NA,2004,"Neotoma fuscipes annectens","Neotoma_fuscipes",298,430,"female",14.8,605,3.4802908272764,126.833513809033,"Spring",75415
+12,-122.17529,37.9043,NA,2011,"Neotoma fuscipes annectens","Neotoma_fuscipes",300,433,"male",13.7,515,4.3791776590699,144.88039538175,"Winter",75288
+5,-122.4914694444,38.0005277778,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",301.9,422,"male",14.3,796,3.75265562534377,107.963149933974,"Spring",75337
+5,-122.4914694444,38.0005277778,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",303.6,411,"male",14.3,796,3.75265562534377,107.963149933974,"Spring",75336
+12,-122.17529,37.9043,NA,2010,"Neotoma fuscipes annectens","Neotoma_fuscipes",306,424,"male",14.4,836,4.2416406202689,102.679699151165,"Winter",75384
+2,-123.21,44.67,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",307.5,436,"female",11.8,971,5.56081392560042,85.4647639887165,"Winter",75434
+8,-120.8516269,41.6118975,NA,1990,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",310,404,"female",8.1,306,8.64874750084273,57.4771648578378,"Summer",75252
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",311.4,394,"male",8.1,552,7.33817333392908,83.6162458826355,"Summer",75244
+6,-122.17529,37.9043,NA,2010,"Neotoma fuscipes annectens","Neotoma_fuscipes",318,464,"male",14.4,836,4.2416406202689,102.679699151165,"Summer",75289
+12,-123.21,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",321.2,430,"male",11.6,925,5.34967430331185,68.4592657141004,"Winter",75403
+12,-123.21,44.69,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",327.6,NA,"male",11.6,925,5.34967430331185,68.4592657141004,"Winter",75421
+5,-122.4745666667,38.0054,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",330,458,"male",14.2,790,3.63254439585792,108.219590664743,"Spring",75340
+3,-123.24,44.61,NA,1992,"Neotoma fuscipes monochroura","Neotoma_fuscipes",330,454,"female",12.8,886,5.37645681455621,85.8268304837965,"Spring",75407
+5,-123.4957,42.89,"unknown",1989,"Neotoma fuscipes","Neotoma_fuscipes",336.2,434,"male",11.1,737,5.9328566373028,86.515678662914,"Spring",75389
+10,-122.17529,37.9043,NA,2010,"Neotoma fuscipes annectens","Neotoma_fuscipes",337,429,"male",14.4,836,4.2416406202689,102.679699151165,"Fall",75369
+11,-122.08637,37.69412,NA,2003,"Neotoma fuscipes","Neotoma_fuscipes",339.3,433,"male",14.8,486,3.54259791678367,119.604691286317,"Fall",75395
+8,-122.158542,37.845765,NA,2008,"Neotoma fuscipes annectens","Neotoma_fuscipes",344,433,"male",13.9,496,4.50133818486741,171.019261312998,"Summer",75281
+12,-122.12472,37.886026,NA,2004,"Neotoma fuscipes","Neotoma_fuscipes",348,413,"male",15.2,620,4.65048058774249,127.694828246534,"Winter",75258
+5,-122.5030305556,37.9970861111,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",350,450,"male",14.4,1062,3.89454747050283,108.177237578801,"Spring",75329
+6,-122.10614,40.30254,NA,2007,"Neotoma fuscipes fuscipes","Neotoma_fuscipes",350,430,"male",16.4,449,7.42091128113147,117.448002574831,"Summer",75348
+1,-123.2,44.7,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",351.1,420,"male",11.8,961,5.58233143430451,84.9573766060346,"Winter",75429
+5,-122.4914694444,38.0005277778,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",358.5,424,"male",14.3,796,3.75265562534377,107.963149933974,"Spring",75328
+7,-122.2047829,41.5518268,NA,1971,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",362.4,400,"female",8.1,552,7.33817333392908,83.6162458826355,"Summer",75242
+6,-122.17529,37.9043,NA,2012,"Neotoma fuscipes annectens","Neotoma_fuscipes",364,450,"male",14.1,732,3.89976689280037,119.75190972789,"Summer",75287
+8,-120.8516269,41.6118975,NA,1990,"Neotoma (Neotoma) fuscipes Baird, 1857","Neotoma_fuscipes",370,452,"male",8.1,306,8.64874750084273,57.4771648578378,"Summer",75310
+1,-123.23,44.8,NA,1994,"Neotoma fuscipes monochroura","Neotoma_fuscipes",376.1,434,"male",11.8,1010,5.58781141088677,85.6736916860964,"Winter",75428
+5,-122.5030305556,37.9970861111,NA,2006,"Neotoma fuscipes monochroura","Neotoma_fuscipes",380,390,"male",14.4,1062,3.89454747050283,108.177237578801,"Spring",75266
+4,-122.17529,37.9043,NA,2010,"Neotoma fuscipes annectens","Neotoma_fuscipes",382,430,"male",14.4,836,4.2416406202689,102.679699151165,"Spring",75278
+3,-123.21,44.69,NA,1992,"Neotoma fuscipes monochroura","Neotoma_fuscipes",406.6,445,"male",12.7,906,5.38361712358274,85.0752641778732,"Spring",75406
+11,-123.24,44.6,NA,1991,"Neotoma fuscipes monochroura","Neotoma_fuscipes",415.5,475,"male",11.7,886,5.30987501992963,68.8226490937333,"Fall",75399

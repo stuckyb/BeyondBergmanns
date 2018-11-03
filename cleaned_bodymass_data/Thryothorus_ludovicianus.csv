@@ -1,0 +1,180 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+3,-99.3955167,30.0416667,NA,2012,"Thryothorus ludovicianus","Thryothorus_ludovicianus",10,NA,"male",19.8,821,6.6762071885347,81.6878886124675,"Spring",156203
+3,-99.3955167,30.0416667,NA,2012,"Thryothorus ludovicianus","Thryothorus_ludovicianus",10.4,NA,"female",19.8,821,6.6762071885347,81.6878886124675,"Spring",156204
+5,-83.94344,42.45259,"immature",2009,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",11.3,NA,"undetermined",8.6,942,10.0156090300303,45.6454486614265,"Spring",156066
+8,-83.92284,42.44278,"immature",2011,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",11.6,NA,"undetermined",9.8,1025,10.5859648362892,47.401711852187,"Summer",156117
+2,-97.7563889,30.345,NA,2007,"Thryothorus ludovicianus","Thryothorus_ludovicianus",12,NA,"female",18.9,1119,7.07857950995734,79.1062583529923,"Winter",156153
+7,-83.4822,42.3086,"immature",2012,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",13,NA,"female",11.4,658,9.09320009011062,40.4018700217529,"Summer",156116
+9,-83.7263412,42.2708397,NA,2004,"Thryothorus ludovicianus","Thryothorus_ludovicianus",13.2,NA,"male",9.7,845,10.0184224246529,62.5123735413865,"Fall",156114
+3,-88.5784142,20.6689352,"adult",1936,"Thryothorus ludovicianus albinucha","Thryothorus_ludovicianus",13.8,NA,"male",25.8,1372,1.76710257629587,60.9052551150767,"Spring",156217
+7,-95.4434,31.7682,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",14.1,NA,"female",20.1,770,8.41665016500033,67.1260132469213,"Summer",156197
+6,-84.0129412,36.2449499,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",14.4,NA,"male",14.3,1310,8.09330063395122,39.4783419977885,"Summer",156072
+6,-96.08355,30.4691667,NA,2012,"Thryothorus ludovicianus","Thryothorus_ludovicianus",14.4,NA,"female",21.3,1258,6.3322885900659,57.842210595672,"Summer",156161
+3,-85.44513,38.75488,"U",1989,"Thryothorus ludovicianus","Thryothorus_ludovicianus",14.4,NA,"male",11.6,1383,9.68705399755339,34.2410333644516,"Spring",156224
+10,-83.2732773,42.5146263,NA,2005,"Thryothorus ludovicianus","Thryothorus_ludovicianus",14.5,NA,"male",9.6,697,10.9304793484951,50.1111794035435,"Fall",156064
+2,-88.5784142,20.6689352,NA,1936,"Thryothorus ludovicianus albinucha","Thryothorus_ludovicianus",14.5,NA,"male",25.8,1372,1.76710257629587,60.9052551150767,"Winter",156218
+5,-98.0852833,29.963,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",14.7,NA,"male",21.4,558,7.9314630466646,76.0538926559441,"Spring",156156
+3,-88.5784142,20.6689352,NA,1936,"Thryothorus ludovicianus albinucha","Thryothorus_ludovicianus",14.8,NA,"male",25.8,1372,1.76710257629587,60.9052551150767,"Spring",156179
+3,-88.5784142,20.6689352,NA,1936,"Thryothorus ludovicianus albinucha","Thryothorus_ludovicianus",15,NA,"male",25.8,1372,1.76710257629587,60.9052551150767,"Spring",156178
+11,-95.2283333,39.0413333,NA,2007,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15,NA,"female",13.8,1020,10.7959693657149,65.8517881736112,"Fall",156186
+9,-74.0775,39.9267,"immature",1975,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",15.1,NA,"female",11.8,1272,8.47139124919689,30.2288540568908,"Fall",156181
+3,-99.2221833,30.0577,NA,2012,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.2,NA,"female",19.7,851,6.69931588547169,81.8136646987298,"Spring",156163
+3,-97.26265,30.4676833,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.2,NA,"female",21.5,571,8.38694873544062,75.6113982533247,"Spring",156199
+12,-83.8833333,42.8333333,NA,1994,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.2,NA,NA,8.5,849,10.6293297773261,50.7763604244532,"Winter",156225
+5,-83.4263563,41.7403857,NA,1934,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.3,NA,"male",10,539,11.6178643789327,61.9567064729306,"Spring",156070
+5,-98.6333333,29.6166667,NA,1947,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",15.4,NA,"female",19.6,550,8.06744298793839,76.9413800105403,"Spring",156209
+12,-91.15,30.45,NA,1983,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.5,NA,"male",18.3,1980,7.01303440139513,43.7048441627645,"Winter",156173
+6,-85.46153,38.96902,"unknown",2006,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.55,134,"male",12.6,1515,8.13671067484033,28.9606588813704,"Summer",156148
+4,-97.3343833,29.9578833,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.6,NA,"female",21.7,580,7.96777600999517,80.2599628902454,"Spring",156194
+7,-83.5575,31.4866,"ad.",1951,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",15.7,NA,"female",19.6,1142,6.5161977665916,54.5038718704147,"Summer",156094
+9,-83.7263412,42.2708397,NA,2011,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",15.8,NA,"female",10.3,1078,10.6367395038483,51.6940841774473,"Fall",156067
+10,-95.2077745,38.8199982,NA,1991,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.8,NA,"undetermined",13.9,712,10.4119977415334,62.7180979641183,"Fall",156090
+6,-98.26265,31.4676833,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.8,NA,"female",20.4,455,8.75769791253802,59.6197976512148,"Summer",156159
+6,-96.28016,30.65095,NA,2009,"Thryothorus ludovicianus","Thryothorus_ludovicianus",15.9,NA,NA,20.3,1073,7.47299684318024,102.065215674327,"Summer",156154
+9,-75.4167,38.1,"immature",1975,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",15.9,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",156221
+3,-82.2132034,38.4248104,"adult",1971,NA,"Thryothorus_ludovicianus",16,NA,"female",12.9,990,8.85890666350692,49.7775333017263,"Spring",156083
+2,-97.7903,30.22594,"u ad.",1952,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",16,NA,"female",19.7,874,6.78520560863966,69.4473499404529,"Winter",156095
+3,-97.2626517,30.4676833,NA,2012,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",16,NA,"male",21.4,1087,6.59229922643906,72.213560177047,"Spring",156200
+6,-94.274,31.02997,"sk.imm.",1964,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",16.1,NA,"female",18.8,1012,7.46038019991426,41.5991084702882,"Summer",156100
+5,-98.0852833,29.963,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",16.1,NA,"male",21.4,558,7.9314630466646,76.0538926559441,"Spring",156160
+8,-94.4434,30.7682,NA,2010,"Thryothorus ludovicianus","Thryothorus_ludovicianus",16.1,NA,"male",19,982,8.51214373169831,69.5705626332053,"Summer",156192
+9,-77.5566101,39.1060872,"adult",1969,"Thryothorus ludovicianus","Thryothorus_ludovicianus",16.2,NA,"female",12,915,9.73087479327651,56.3037125966484,"Fall",156046
+8,-80.40041,42.58631,"juv",1999,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",16.2,NA,"female",9.7,894,9.48144919239031,32.2277140610015,"Summer",156190
+7,-94.4434,30.7682,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",16.2,NA,"male",20,842,7.84118883998099,75.8967196444323,"Summer",156196
+9,-83.7263412,42.2708397,"immature",2009,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",16.3,NA,"female",9.1,998,10.0710619042278,46.1289230756675,"Fall",156065
+5,-80.608078,28.0835934,NA,2004,"Thryothorus ludovicianus miamensis","Thryothorus_ludovicianus",16.5,NA,"male",22.4,1210,4.45370121870053,81.1781653940564,"Spring",156093
+5,-98.0852833,29.963,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",16.6,NA,"male",21.4,558,7.9314630466646,76.0538926559441,"Spring",156158
+6,-97.26265,30.4676833,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",16.6,NA,"male",21.5,571,8.38694873544062,75.6113982533247,"Summer",156195
+9,-87.6333333,37.8333333,NA,1949,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",16.6,NA,"female",14.4,1293,8.67067506371944,50.4137413706337,"Fall",156213
+6,-94.274,31.04448,"sk.imm.",1964,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",16.7,NA,"female",18.7,1013,7.49931309985768,41.6582448880009,"Summer",156098
+7,-94.4434,30.7682,NA,2010,"Thryothorus ludovicianus","Thryothorus_ludovicianus",16.7,NA,"male",19,982,8.51214373169831,69.5705626332053,"Summer",156155
+5,-95.0808176,31.4417995,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17,NA,"female",17.7,1249,6.87357698771612,43.1443682198605,"Spring",156061
+7,-83.7263412,42.2708397,NA,2010,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17,NA,"female",10.6,931,10.929314902702,70.3967332319748,"Summer",156068
+6,-84.0129412,36.2449499,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17,NA,"male",14.3,1310,8.09330063395122,39.4783419977885,"Summer",156080
+2,-97.56546,30.11,"u ad.",1952,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",156097
+2,-81.6959978,29.6355111,NA,1950,"Thryothorus ludovicianus","Thryothorus_ludovicianus",17,NA,"female",21.5,1271,5.36421221870208,78.5530906134224,"Winter",156110
+6,-84.0129412,36.2449499,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17.1,NA,"male",14.3,1310,8.09330063395122,39.4783419977885,"Summer",156132
+9,-75.6782455,37.6537323,NA,1952,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17.2,NA,"male",14.9,1112,8.17584672660696,41.6993019495209,"Fall",156063
+4,-95.488,30.764,"sk.imm.",1955,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17.2,NA,"female",20.2,885,6.83604528594678,66.6632541151258,"Spring",156188
+2,-97.60767,30.19433,"u ad.",1952,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17.3,NA,"female",19.8,888,6.76660695599868,70.2578073199386,"Winter",156048
+6,-95.1557167,30.91685,NA,2012,"Thryothorus ludovicianus","Thryothorus_ludovicianus",17.3,NA,"female",20.7,1350,6.22839903550299,49.7214026277035,"Summer",156164
+5,-97.3343833,29.9578833,NA,2012,"Thryothorus ludovicianus","Thryothorus_ludovicianus",17.4,NA,"female",21.6,1123,6.32821962611631,74.5472839294494,"Spring",156162
+2,-97.56546,30.11,"u ad.",1952,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17.5,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",156096
+6,-98.1557167,30.91685,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",17.5,NA,"female",20.8,487,8.56371839373953,63.6205575179294,"Summer",156198
+4,-95.488,30.764,"sk.imm.",1955,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17.6,NA,"female",20.2,885,6.83604528594678,66.6632541151258,"Spring",156152
+4,-94.4434,30.7682,NA,2010,"Thryothorus ludovicianus","Thryothorus_ludovicianus",17.6,NA,"male",19,982,8.51214373169831,69.5705626332053,"Spring",156191
+6,-96.08355,30.4691667,NA,2012,"Thryothorus ludovicianus","Thryothorus_ludovicianus",17.7,NA,"female",21.3,1258,6.3322885900659,57.842210595672,"Summer",156202
+6,-84.0129412,36.2449499,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17.8,NA,"male",14.3,1310,8.09330063395122,39.4783419977885,"Summer",156081
+9,-85.45506,38.71422,"U-Ad.",1986,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",17.8,NA,"female",13.4,993,9.27958005841892,32.2009083446634,"Fall",156183
+6,-82.8290866,28.0716213,NA,1966,"Thryothorus ludovicianus","Thryothorus_ludovicianus",17.9,NA,"female",21.5,1354,5.10337826316742,79.0917855031242,"Summer",156043
+11,-87.1333333,39.5333333,NA,1958,"Thryothorus ludovicianus","Thryothorus_ludovicianus",17.9,NA,"female",10.1,1068,10.4519245726673,81.1449478257353,"Fall",156167
+10,-97.3957777,32.1793567,NA,1952,"Thryothorus ludovicianus","Thryothorus_ludovicianus",18,NA,"undetermined",19.6,776,8.00588798474238,98.7146537855247,"Fall",156087
+11,-98.923645,29.5441904,NA,1952,"Thryothorus ludovicianus","Thryothorus_ludovicianus",18,NA,"female",19.6,710,6.48443357494537,89.3433027644454,"Fall",156088
+5,-98.6333333,29.6166667,NA,1947,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",18,NA,"male",19.6,550,8.06744298793839,76.9413800105403,"Spring",156170
+5,-73.428993,41.064116,"adult",2009,"Thryothorus ludovicianus","Thryothorus_ludovicianus",18,127,"male",10.9,1246,8.87295430968841,48.1940590023107,"Spring",156184
+12,-92.27253,34.83142,"U",2005,"Thryothorus ludovicianus","Thryothorus_ludovicianus",18.1,129,"male",16.8,905,8.3342075299044,48.7116788654738,"Winter",156149
+3,-98.26265,31.4676833,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",18.1,NA,"male",20.4,455,8.75769791253802,59.6197976512148,"Spring",156157
+12,-87.0333333,40.4166667,"adult",1958,"Thryothorus ludovicianus","Thryothorus_ludovicianus",18.2,NA,"female",10,887,10.5840789524988,91.5661229431571,"Winter",156207
+1,-78.6166667,35.7666667,NA,1952,"Thryothorus ludovicianus","Thryothorus_ludovicianus",18.2,NA,"undetermined",16.1,1259,7.9608654547027,55.6670142382987,"Winter",156210
+6,-98.1557167,30.91685,NA,2012,"Thryothorus ludovicianus","Thryothorus_ludovicianus",18.3,NA,"male",20.7,908,6.85512416172948,76.6876592163003,"Summer",156201
+5,-75.6394958,37.5287873,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",18.4,NA,"male",14.8,1215,7.6982239195253,53.899188826469,"Spring",156111
+5,-91.4,36.6,"immature",1949,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",18.4,NA,"female",14.6,1360,8.16861603203308,48.309907076462,"Spring",156174
+5,-83.8918904,36.3326804,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",18.5,NA,"male",14.2,1314,8.02564072774935,41.5782767408606,"Spring",156078
+9,-75.4167,38.1,NA,1975,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",18.5,NA,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",156222
+5,-98.0852833,29.963,NA,2011,"Thryothorus ludovicianus","Thryothorus_ludovicianus",18.6,NA,"male",21.4,558,7.9314630466646,76.0538926559441,"Spring",156193
+2,-83.5709594,36.3995546,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",18.7,NA,"female",14.5,1269,7.83528827958758,45.6602356007609,"Winter",156075
+11,-89,36.55,NA,1948,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",18.7,NA,"female",15,1323,9.27993518133058,53.0820109152964,"Fall",156211
+4,-84.1438895,36.2749988,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",18.9,NA,"female",14.1,1267,8.19726488013847,38.6317792113863,"Spring",156077
+3,-89.9833333,32.2666667,NA,1939,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",18.9,NA,"female",18.6,1306,6.80077981268369,58.2111287582553,"Spring",156168
+10,-97.3957777,32.1793567,NA,1952,"Thryothorus ludovicianus","Thryothorus_ludovicianus",19,NA,"male",19.6,776,8.00588798474238,98.7146537855247,"Fall",156041
+6,-94.274,31.04448,"sk.ad.",1964,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19,NA,"male",18.7,1013,7.49931309985768,41.6582448880009,"Summer",156051
+5,-95.0808176,31.4417995,"juv",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19,NA,"male",17.7,1249,6.87357698771612,43.1443682198605,"Spring",156059
+5,-95.0808176,31.4417995,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19,NA,"male",17.7,1249,6.87357698771612,43.1443682198605,"Spring",156060
+12,-76.6129875,40.9631783,"ad",1967,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19,NA,"female",9.3,1066,9.11600324437827,43.1689148683046,"Winter",156142
+1,-78.6166667,35.7666667,NA,1948,"Thryothorus ludovicianus","Thryothorus_ludovicianus",19,NA,"female",16,1370,8.00062024110783,35.9751503332072,"Winter",156166
+12,-84.1438895,36.2749988,NA,1937,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.1,NA,"female",13.6,1402,8.46054568768075,58.464969530583,"Winter",156073
+11,-84.1438895,36.2749988,NA,1937,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.1,NA,"male",13.6,1402,8.46054568768075,58.464969530583,"Fall",156123
+11,-83.8418197,42.3055625,NA,2008,"Thryothorus ludovicianus","Thryothorus_ludovicianus",19.1,NA,"male",9.2,993,10.3003383292477,45.712746362786,"Fall",156143
+6,-84.0706177,36.1963806,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.2,NA,"female",14.5,1291,8.07727826946826,39.2355287608617,"Summer",156133
+11,-80.04948,42.54814,"ad",2001,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.2,NA,"male",9.9,812,9.0725485043419,31.5951482159235,"Fall",156189
+10,-83.0666667,37.6833333,NA,1948,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.2,NA,"female",12.9,1256,8.60415685302837,41.9895645257694,"Fall",156215
+10,-95.2598661,38.9549568,NA,1954,"Thryothorus ludovicianus","Thryothorus_ludovicianus",19.3,NA,"male",14,890,10.3222472300748,89.1336567472311,"Fall",156086
+12,-84.1438895,36.2749988,NA,1937,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.3,NA,"male",13.6,1402,8.46054568768075,58.464969530583,"Winter",156122
+11,-84.2184,30.6553,"unknown",1971,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.4,NA,"female",19.7,1360,5.78262811174883,53.7536967240277,"Fall",156101
+5,-83.45,41.7666667,"juvenile",1935,"Thryothorus ludovicianus","Thryothorus_ludovicianus",19.4,NA,"male",9.4,648,10.2805936628488,38.747412536514,"Spring",156177
+10,-76.3233948,38.0449818,"immature",1966,"Thryothorus ludovicianus","Thryothorus_ludovicianus",19.5,NA,"female",13.3,1011,8.94126880698639,43.1154351196843,"Fall",156045
+7,-95.0808176,31.4417995,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.5,NA,"male",17.7,1249,6.87357698771612,43.1443682198605,"Summer",156105
+4,-83.4423637,41.7970399,NA,1933,"Thryothorus ludovicianus","Thryothorus_ludovicianus",19.5,NA,"male",10.6,683,10.3218949399573,51.6950776187274,"Spring",156118
+4,-83.911643,42.3776316,NA,1993,"Thryothorus ludovicianus","Thryothorus_ludovicianus",19.6,NA,"male",8.4,826,10.0517599845937,50.7858163599387,"Spring",156112
+2,-85.47296,38.71366,"U-Ad.",1982,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.6,NA,"female",12.5,1298,9.20097162194726,39.4757405638792,"Winter",156182
+10,-83.0666667,37.6833333,NA,1948,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.6,NA,"female",12.9,1256,8.60415685302837,41.9895645257694,"Fall",156216
+2,-97.56546,30.11,"ad.sk.",1952,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.7,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",156050
+6,-94.274,31.04448,"sk.ad.",1964,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.8,NA,"male",18.7,1013,7.49931309985768,41.6582448880009,"Summer",156052
+5,-95.0990295,31.4380372,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.8,NA,"male",17.7,1250,6.8724747428353,43.0847944101526,"Spring",156057
+10,-85.5156898,42.1720552,NA,2000,"Thryothorus ludovicianus","Thryothorus_ludovicianus",19.8,NA,"male",9.4,1024,9.99857565613799,47.0420824611695,"Fall",156115
+11,-72.8689,41.2761,NA,1977,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.8,NA,"male",10.9,1287,9.46902446096873,38.5224444555419,"Fall",156219
+9,-75.4167,38.1,"immature",1975,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.8,NA,"male",14.4,1191,8.05531539175258,42.0969838039138,"Fall",156223
+2,-97.56546,30.11,"imm.",1952,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",19.9,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",156049
+5,-95.0808176,31.4417995,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20,NA,"male",17.7,1249,6.87357698771612,43.1443682198605,"Spring",156058
+11,-95.2598661,38.9549568,"adult",1998,"Thryothorus ludovicianus","Thryothorus_ludovicianus",20,NA,"male",13.9,1225,9.8228243793666,69.5373055135808,"Fall",156091
+7,-95.0808176,31.4417995,NA,1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20,NA,"female",17.7,1249,6.87357698771612,43.1443682198605,"Summer",156104
+1,-83.8069143,36.3411805,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Winter",156127
+10,-82.2132034,38.4248104,"not indicated",1969,NA,"Thryothorus_ludovicianus",20,NA,"male",12.1,972,9.73224490593465,48.6637618110989,"Fall",156140
+11,-89.0333333,36.6333333,NA,1948,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20,NA,"male",15,1298,9.29703031764836,53.6252449162327,"Fall",156176
+5,-83.8918904,36.3326804,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.1,NA,"male",14.2,1314,8.02564072774935,41.5782767408606,"Spring",156079
+6,-86.815656,38.84286,NA,2007,"Thryothorus ludovicianus","Thryothorus_ludovicianus",20.2,NA,"female",14.1,1035,10.1096563500028,44.4091819402975,"Summer",156085
+4,-83.7263412,42.2708397,NA,1999,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.2,NA,"male",10.2,871,9.96574435785208,44.628272107928,"Spring",156113
+12,-72.7467,41.2644,"adult",2008,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.2,NA,NA,11.7,1310,8.74854100390286,33.4932881234278,"Winter",156180
+12,-76.72336,42.31215,NA,2013,"Thryothorus ludovicianus","Thryothorus_ludovicianus",20.3,155,"male",8.3,1099,9.59104301213408,47.1848328031794,"Winter",156151
+9,-87.6333333,37.8333333,"adult",1949,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.3,NA,"female",14.4,1293,8.67067506371944,50.4137413706337,"Fall",156175
+4,-83.8069143,36.3411805,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.4,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Spring",156131
+3,-84.0129412,36.2449499,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.5,NA,"female",14.3,1310,8.09330063395122,39.4783419977885,"Spring",156074
+7,-95.0808176,31.4417995,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.5,52,"male",17.7,1249,6.87357698771612,43.1443682198605,"Summer",156106
+7,-95.0808176,31.4417995,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.5,NA,"male",17.7,1249,6.87357698771612,43.1443682198605,"Summer",156108
+8,-83.7048339,41.77336,NA,1935,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.5,NA,"male",9,652,10.2880741490801,37.7705087022108,"Summer",156119
+12,-84.7166667,30.7666667,NA,1946,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.5,NA,"female",20.1,1545,5.67802782663136,54.6467495328797,"Winter",156169
+1,-83.8069143,36.3411805,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.6,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Winter",156126
+12,-96.9867931,37.2404823,NA,1995,"Thryothorus ludovicianus","Thryothorus_ludovicianus",20.7,NA,"undetermined",14.6,993,9.11789781726362,85.9299016877081,"Winter",156141
+3,-96.472,30.766,"u ad.",1951,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.7,NA,"male",20.4,683,7.72226219014437,52.8546272316857,"Spring",156187
+3,-83.8069143,36.3411805,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",20.8,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Spring",156129
+11,-85.82405,38.63435,"immature",2000,"Thryothorus ludovicianus","Thryothorus_ludovicianus",20.8,NA,"male",12.8,1358,9.4337362051246,33.058503679365,"Fall",156147
+7,-95.0808176,31.4417995,NA,1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21,NA,"undetermined",17.7,1249,6.87357698771612,43.1443682198605,"Summer",156062
+5,-84.1363906,38.8701864,"adult",1984,NA,"Thryothorus_ludovicianus",21,NA,"male",12.3,1051,9.16028979295465,39.2073529266481,"Spring",156084
+9,-77.5566101,39.1060872,"adult",1969,"Thryothorus ludovicianus","Thryothorus_ludovicianus",21,NA,"male",12,915,9.73087479327651,56.3037125966484,"Fall",156092
+5,-95.0990295,31.4380372,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21,NA,"male",17.7,1250,6.8724747428353,43.0847944101526,"Spring",156103
+9,-75.4167,38.1,"immature",1975,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21,NA,"male",14.4,1191,8.05531539175258,42.0969838039138,"Fall",156220
+1,-97.1901674,37.3657709,NA,1957,"Thryothorus ludovicianus","Thryothorus_ludovicianus",21.1,NA,"male",13.9,1017,9.63397947922148,96.6741872827829,"Winter",156044
+4,-83.8069143,36.3411805,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.1,NA,"male",14.4,1303,7.94816540676736,43.0876878187572,"Spring",156130
+3,-83.8069143,36.3411805,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.2,NA,"male",14.4,1303,7.94816540676736,43.0876878187572,"Spring",156128
+12,-87.0333333,40.4166667,"adult",1958,"Thryothorus ludovicianus","Thryothorus_ludovicianus",21.3,NA,"male",10,887,10.5840789524988,91.5661229431571,"Winter",156208
+6,-84.0706177,36.1963806,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.4,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Summer",156082
+6,-94.274,31.04448,"u ad.",1964,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.4,NA,"male",18.7,1013,7.49931309985768,41.6582448880009,"Summer",156099
+6,-94.649708,37.1059357,"ad",1973,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.5,NA,"female",14.6,1464,9.08363496858082,53.4033178924339,"Summer",156054
+7,-83.4263563,41.7403857,NA,1934,"Thryothorus ludovicianus","Thryothorus_ludovicianus",21.5,NA,"male",10,539,11.6178643789327,61.9567064729306,"Summer",156071
+7,-95.0808176,31.4417995,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.5,NA,"male",17.7,1249,6.87357698771612,43.1443682198605,"Summer",156107
+6,-84.0706177,36.1963806,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.5,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Summer",156138
+6,-84.0706177,36.1963806,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.5,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Summer",156139
+1,-91.0166667,30.8666667,NA,1981,"Thryothorus ludovicianus","Thryothorus_ludovicianus",21.5,NA,"undetermined",19,1202,7.23964254935451,45.1210035850673,"Winter",156172
+12,-95.1166667,39.5,"adult",2000,"Thryothorus ludovicianus","Thryothorus_ludovicianus",21.5,NA,"male",12.7,753,11.0675987650548,71.1319678724629,"Winter",156185
+9,-87.6333333,37.8333333,"immature",1949,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.5,NA,"female",14.4,1293,8.67067506371944,50.4137413706337,"Fall",156214
+2,-85.1360779,42.0667458,NA,1952,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.6,NA,"female",9.8,818,9.56788742079304,46.2407588254806,"Winter",156109
+12,-88.9666667,36.55,NA,1950,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.6,NA,"male",14.6,1717,8.51307372471449,44.2515582868172,"Winter",156212
+11,-84.0185811,36.2366714,NA,1937,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.7,NA,"male",13.8,1408,8.37971938490168,57.908015482066,"Fall",156121
+6,-84.0706177,36.1963806,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.7,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Summer",156137
+6,-84.0706177,36.1963806,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",21.8,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Summer",156134
+6,-82.8290866,28.0716213,NA,1966,"Thryothorus ludovicianus","Thryothorus_ludovicianus",22,NA,"male",21.5,1354,5.10337826316742,79.0917855031242,"Summer",156042
+4,-83.45438,41.7432677,NA,1934,"Thryothorus ludovicianus","Thryothorus_ludovicianus",22,NA,"male",10.1,545,11.6384029936424,61.3490734946655,"Spring",156069
+4,-84.1438895,36.2749988,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",22,NA,"male",14.1,1267,8.19726488013847,38.6317792113863,"Spring",156076
+6,-84.0706177,36.1963806,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",22,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Summer",156136
+1,-83.7974687,36.3366651,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",22.1,NA,"male",14.4,1301,7.94310736081633,43.1322988465877,"Winter",156125
+3,-89.9833333,32.2666667,NA,1939,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",22.1,NA,"male",18.6,1306,6.80077981268369,58.2111287582553,"Spring",156171
+6,-84.0706177,36.1963806,"juvenile",1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",22.4,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Summer",156135
+1,-95.1864548,38.805701,"adult",1967,"Thryothorus ludovicianus","Thryothorus_ludovicianus",22.5,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",156089
+5,-89.1200943,47.8276978,NA,1937,"Thryothorus ludovicianus","Thryothorus_ludovicianus",22.5,NA,"male",2.8,768,11.2729630962625,39.5255444496293,"Spring",156120
+2,-85.45846,38.71306,"U-Ad.",1982,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",22.8,NA,"female",12.7,1294,9.20097162194726,39.4025717900973,"Winter",156146
+5,-95.1187405,32.448539,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",23,NA,"male",17.3,1154,7.16760388515893,43.6702660840268,"Spring",156056
+6,-94.649708,37.1059357,NA,1973,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",23,NA,"undetermined",14.6,1464,9.08363496858082,53.4033178924339,"Summer",156102
+6,-94.7351374,37.0237526,"ad",1973,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",23.5,NA,"male",14.8,1524,9.03422365063523,53.9434508611571,"Summer",156053
+5,-95.1187405,32.448539,"ad",1976,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",23.5,NA,"male",17.3,1154,7.16760388515893,43.6702660840268,"Spring",156055
+8,-83.5086,31.4086,"ad.",1951,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",23.9,NA,"male",19.6,1149,6.46050940856693,55.0049775573534,"Summer",156047
+2,-83.5709594,36.3995546,NA,1938,"Thryothorus ludovicianus ludovicianus","Thryothorus_ludovicianus",25.1,NA,"male",14.5,1269,7.83528827958758,45.6602356007609,"Winter",156124

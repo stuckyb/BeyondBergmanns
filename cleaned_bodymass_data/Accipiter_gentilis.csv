@@ -1,0 +1,220 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-84.1833333,44.8333333,"chick",1939,"Accipiter gentilis atricapillus","Accipiter_gentilis",274.8,NA,"female",6.5,754,10.4941650453955,59.2861756615645,"Spring",886
+6,-85.6883812,46.3396396,"chick",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",391,NA,"male",5,710,10.589402936212,53.0706835098014,"Summer",761
+1,-86.913144,45.856968,NA,1979,"Accipiter gentilis atricapillus","Accipiter_gentilis",407,NA,"male",4.5,818,10.7664461934458,34.4712535221452,"Winter",865
+11,-79.98485,43.48854,"adult",1990,"Accipiter gentilis atricapillus","Accipiter_gentilis",411.1,NA,"female",8.3,997,8.66855602948747,32.322592816467,"Fall",864
+6,-80.05038,43.5417,"juvenile",1968,"Accipiter gentilis atricapillus","Accipiter_gentilis",452.7,NA,"male",6.4,996,10.3565379730815,42.3762688591111,"Summer",699
+11,-104.859825,39.961864,"immature",2012,"Accipiter gentilis","Accipiter_gentilis",464.2,498,"male",12.3,214,9.22274444791327,69.2553727093691,"Fall",774
+6,-84.1833333,44.8333333,"juvenile",1939,"Accipiter gentilis atricapillus","Accipiter_gentilis",470,NA,"female",6.5,754,10.4941650453955,59.2861756615645,"Summer",887
+11,-78.29676,43.95541,"hatch year",1983,"Accipiter gentilis atricapillus","Accipiter_gentilis",491.6,NA,"female",8.2,870,10.2296657133095,47.8982093684821,"Fall",861
+7,-75.70644,45.38681,"adult",1989,"Accipiter gentilis atricapillus","Accipiter_gentilis",500,NA,"male",5.2,830,12.7680947061119,43.6392007417741,"Summer",702
+8,-134.555,58.3449,"IM",2004,"Accipiter gentilis","Accipiter_gentilis",500,NA,"male",6.3,1798,6.59574587414976,56.5053590612413,"Summer",729
+8,-134.555,58.3449,"IM",2004,"Accipiter gentilis","Accipiter_gentilis",500,NA,"female",6.3,1798,6.59574587414976,56.5053590612413,"Summer",830
+11,-79.56958,43.59683,"not applicable",1966,"Accipiter gentilis atricapillus","Accipiter_gentilis",511.5,NA,"undetermined",7.5,731,10.0563375163339,44.839167250258,"Fall",882
+8,-147.8043,64.857,"HY",2000,"Accipiter gentilis","Accipiter_gentilis",517.6,NA,"female",-1.6,285,12.314745411313,108.166813357895,"Summer",728
+1,-75.9465904,41.5386887,"immature",1994,"Accipiter gentilis","Accipiter_gentilis",526,NA,"female",8.9,1060,10.2544742636686,43.4210273565806,"Winter",781
+1,-119.58656,49.594018,"adult",2008,"Accipiter gentilis atricapillus","Accipiter_gentilis",533.2,538,"male",8.7,286,8.70748110952457,53.291157886999,"Winter",883
+4,-134.555,58.3449,"IM",2000,"Accipiter gentilis","Accipiter_gentilis",543,NA,"male",5.6,1702,5.29100866822884,47.346334972899,"Spring",731
+12,-83.6697936,42.2012781,"immature",1990,"Accipiter gentilis atricapillus","Accipiter_gentilis",547,NA,"male",10.4,1110,8.57075718871319,38.9224626539789,"Winter",846
+3,-73.4953,41.1467,NA,2004,"Accipiter gentilis atricapillus","Accipiter_gentilis",550,NA,"male",10.8,1368,9.54910752612277,59.581066344947,"Spring",907
+9,-76.350621,42.382629,"imm.",1991,"Accipiter gentilis","Accipiter_gentilis",558,585,"female",9.1,824,9.54845299226291,31.1602821806022,"Fall",873
+9,-76.350621,42.382629,"imm.",1991,"Accipiter gentilis","Accipiter_gentilis",558,58.5,NA,9.1,824,9.54845299226291,31.1602821806022,"Fall",893
+11,-79.57963,43.5536,"immature",1973,"Accipiter gentilis atricapillus","Accipiter_gentilis",567.9,NA,"male",8.8,836,10.1840450081131,41.5049115003835,"Fall",700
+9,-79.8292,43.92746,"adult",1977,"Accipiter gentilis atricapillus","Accipiter_gentilis",571,NA,"female",6.7,914,10.5226559327381,36.7479869493246,"Fall",863
+1,-131.7166,55.3441,"U",2008,"Accipiter gentilis laingi","Accipiter_gentilis",575,NA,"undetermined",6.2,3418,5.22762910511123,39.9589068392921,"Winter",732
+12,-123.159051,49.336463,"adult",1984,"Accipiter gentilis atricapillus","Accipiter_gentilis",575,557,"male",10,1905,5.31472368790588,62.4434672397486,"Winter",885
+3,-116.2034505,43.6135002,"subadult",2005,"Accipiter gentilis","Accipiter_gentilis",580,NA,"male",11.1,347,8.90207670698078,102.475403787608,"Spring",866
+3,-105.5809111,40.6993741,NA,1992,"Accipiter gentilis","Accipiter_gentilis",588,525,"undetermined",5.8,491,7.51392142303306,74.581006741022,"Spring",681
+2,-87.921533,45.81437,"immature",1979,"Accipiter gentilis atricapillus","Accipiter_gentilis",608,NA,"male",4.3,819,11.7440507182457,52.2196763205831,"Winter",748
+1,-105.8166666667,39.8666666667,"immature",1984,"Accipiter gentilis","Accipiter_gentilis",614.6,594,"female",0.4,848,8.3293384363873,41.5878138837945,"Winter",874
+12,-78.34439,44.30694,"adult",2001,"Accipiter gentilis atricapillus","Accipiter_gentilis",626.5,NA,"male",7.5,779,9.85735765811508,29.728706330855,"Winter",723
+8,-84.468604,45.64478,NA,1982,"Accipiter gentilis atricapillus","Accipiter_gentilis",627,NA,"male",5.7,767,10.4921724069986,54.7544233372976,"Summer",844
+3,-72.9475,41.2706,"juvenile",2003,"Accipiter gentilis atricapillus","Accipiter_gentilis",640,NA,NA,10.6,1355,9.49479522494489,24.6606771443176,"Spring",890
+11,-77.35324,44.23214,"adult",1983,"Accipiter gentilis atricapillus","Accipiter_gentilis",642.9,NA,"female",7.5,1004,10.4492568968788,49.4020983505987,"Fall",701
+1,-105.635769,38.21197,"immature",1999,"Accipiter gentilis","Accipiter_gentilis",644.3,572,"female",6,484,6.33677936551942,86.8015420515616,"Winter",684
+11,-105.229716,38.444381,"immature",1991,"Accipiter gentilis","Accipiter_gentilis",647,NA,"male",11.4,314,8.61610103061106,94.9885568403438,"Fall",847
+6,-120.1507,42.3685,"ad.",1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",649,NA,"male",4.8,738,9.08348484722119,80.9378517642773,"Summer",793
+1,-135.3313,57.0523,"IM",2007,"Accipiter gentilis","Accipiter_gentilis",650,NA,"male",6.3,2576,5.19895094313179,53.8998035834389,"Winter",834
+8,-83.9359331,42.624202,"immature",2008,"Accipiter gentilis atricapillus","Accipiter_gentilis",652.2,NA,"male",8.7,920,10.2493569643085,47.8871331561097,"Summer",757
+10,-79.343141,43.743194,"not applicable",1969,"Accipiter gentilis atricapillus","Accipiter_gentilis",656.5,NA,"male",7.5,685,10.2576320440692,44.6145614672369,"Fall",803
+12,-78.0012,44.62555,"immature",2001,"Accipiter gentilis atricapillus","Accipiter_gentilis",670,NA,"male",6.9,835,10.1544884836035,31.9737847302683,"Winter",901
+1,-149.1712,61.5988,"AHY",1994,"Accipiter gentilis","Accipiter_gentilis",675,NA,"undetermined",1.9,379,9.74259625655204,46.0110885917323,"Winter",829
+8,-109.83667,43.30329,"imm.",1939,"Accipiter gentilis atricapillus","Accipiter_gentilis",677,NA,"male",0.5,432,8.61082387921086,62.4349229099711,"Summer",797
+1,-119.98108,37.70272,"imm.",1922,"Accipiter gentilis atricapillus","Accipiter_gentilis",680.38,NA,"female",12,1025,7.46301486726986,107.427526308136,"Winter",790
+2,-79.367726,43.703815,"adult",1974,"Accipiter gentilis atricapillus","Accipiter_gentilis",681.6,NA,"male",7.4,811,9.76170625920024,44.5170610811595,"Winter",805
+10,-79.684894,44.366155,"juvenile",1944,"Accipiter gentilis atricapillus","Accipiter_gentilis",685,NA,"male",6.3,740,10.4562146230089,43.4087281298429,"Fall",821
+6,-115.65611,36.40167,"u ad.",1963,"Accipiter gentilis atricapillus","Accipiter_gentilis",687.9,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",786
+9,-85.7582092,44.4675846,"immature",1998,"Accipiter gentilis atricapillus","Accipiter_gentilis",689.1,NA,"male",8.5,758,9.2088231735887,46.6520380326854,"Fall",850
+9,-84.1168213,45.444235,NA,1982,"Accipiter gentilis atricapillus","Accipiter_gentilis",695,NA,"male",6.1,760,10.4325938841457,49.2468189292509,"Fall",749
+11,-76.51583,42.57306,NA,2007,"Accipiter gentilis","Accipiter_gentilis",700,980,"male",8.9,963,10.3196598193874,29.469692470504,"Fall",773
+2,-147.8043,64.857,"AHY",2012,"Accipiter gentilis","Accipiter_gentilis",705,NA,"male",-2.5,295,15.6269653309446,58.5024616331023,"Winter",734
+3,-122.2715302,37.8697904,"u ad.",1917,"Accipiter gentilis atricapillus","Accipiter_gentilis",706.5,NA,"male",13.7,278,3.18828347471669,148.066578342118,"Spring",788
+9,-87.878952,46.8653554,"immature",1963,"Accipiter gentilis atricapillus","Accipiter_gentilis",710,NA,"male",5.8,596,11.7897361627765,42.0508609403177,"Fall",845
+2,-119.594211,49.49871,"immature",1998,"Accipiter gentilis atricapillus","Accipiter_gentilis",713,613,"female",11.1,343,8.43044626591168,41.0838982488769,"Winter",903
+9,-79.24315,43.8779,"immature",2006,"Accipiter gentilis atricapillus","Accipiter_gentilis",717.5,NA,"female",9,902,8.99425321575343,34.4823088175209,"Fall",895
+4,-117.250371,46.781398,NA,1984,"Accipiter gentilis","Accipiter_gentilis",731.4,NA,"male",8.2,606,7.42527930298064,56.613014180704,"Spring",770
+9,-117.47689,47.954338,"Immature",1947,"Accipiter gentilis","Accipiter_gentilis",734,558,"male",8.5,544,8.09640305470537,63.4732073260945,"Fall",677
+10,-82.73856,42.03748,"not applicable",1934,"Accipiter gentilis atricapillus","Accipiter_gentilis",740,NA,"male",9.9,511,11.5144540259255,49.3098005759556,"Fall",707
+2,-118.1300507,34.1444969,"adult",1983,"Accipiter gentilis atricapillus","Accipiter_gentilis",745,NA,"female",18.1,1044,4.55238865039469,100.039027203446,"Winter",685
+2,-62.9644586,45.3109169,"immature",1976,"Accipiter gentilis atricapillus","Accipiter_gentilis",746,NA,"female",5.7,1212,9.19971590470449,41.7686946575383,"Winter",807
+7,-79.97143,44.03417,"adult",2006,"Accipiter gentilis atricapillus","Accipiter_gentilis",748.7,NA,"male",8.1,991,8.99811428056238,30.262522112276,"Summer",804
+12,-122.0375778,41.9485663,"immature",1961,"Accipiter gentilis atricapillus","Accipiter_gentilis",750,NA,"male",7.8,410,7.17917864804924,62.5334873341334,"Winter",779
+5,-83.9673901,45.0944285,"adult",1997,"Accipiter gentilis atricapillus","Accipiter_gentilis",753.7,NA,"male",5.7,749,9.89520851296988,50.4744039543357,"Spring",755
+8,-109.84658,43.2888,"imm.",1939,"Accipiter gentilis atricapillus","Accipiter_gentilis",757,NA,"male",0.6,429,8.68288110263087,62.1265891367597,"Summer",799
+2,-83.1541442,42.1440598,"adult",1955,"Accipiter gentilis atricapillus","Accipiter_gentilis",757,NA,"female",10.6,688,10.7173994753929,38.0234839054406,"Winter",842
+11,-117.60269,46.474874,"Immature",1947,"Accipiter gentilis","Accipiter_gentilis",758,547,"male",10.4,470,7.58780420986683,68.5465870241638,"Fall",679
+10,-117.179457,46.728691,NA,1996,"Accipiter gentilis","Accipiter_gentilis",760,NA,"male",8.2,761,7.94974270595653,72.8413861734011,"Fall",771
+11,-117.443061,46.73445,"Immature",1960,"Accipiter gentilis","Accipiter_gentilis",771,542,"male",10,497,8.58075277477554,65.5960301222841,"Fall",678
+11,-82.73856,42.03748,"juvenile",1945,"Accipiter gentilis atricapillus","Accipiter_gentilis",775,NA,"male",9.5,986,10.4003897071507,44.9140877739922,"Fall",720
+6,-122.9107,44.2042,"ad.",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",776.6,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",796
+4,-110.3958,33.6181,"u ad.",1949,"Accipiter gentilis atricapillus","Accipiter_gentilis",781.1,NA,"male",10.5,610,8.6683681313501,99.6252537030282,"Spring",782
+12,-119.465132,49.031411,"immature",1994,"Accipiter gentilis atricapillus","Accipiter_gentilis",786,525,"male",11.1,258,9.24163831730493,45.247080501598,"Winter",902
+11,-82.73856,42.03748,"juvenile",1945,"Accipiter gentilis atricapillus","Accipiter_gentilis",792,NA,"male",9.5,986,10.4003897071507,44.9140877739922,"Fall",822
+11,-77.45764,43.97391,"not applicable",1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",792,NA,"male",7.9,805,10.100686295315,35.7982741778381,"Fall",875
+11,-120.422168,37.953453,"u ad.",1916,"Accipiter gentilis atricapillus","Accipiter_gentilis",793,NA,"male",15.3,898,6.91980031241049,129.291864193056,"Fall",691
+9,-120,49.4167,"juv.",1942,"Accipiter gentilis atricapillus","Accipiter_gentilis",793.77,NA,"male",2.4,642,7.5134223328331,57.220789491233,"Fall",698
+8,-106.8987177777,29.3920969444,"u imm.",1961,"Accipiter gentilis atricapillus","Accipiter_gentilis",794.3,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",785
+10,-117.252123,46.790246,NA,1981,"Accipiter gentilis","Accipiter_gentilis",800,NA,"female",8.9,590,6.35793467513888,58.8127822402183,"Fall",680
+1,-134.555,58.3449,"IM",1998,"Accipiter gentilis","Accipiter_gentilis",800,NA,"male",5.6,1396,6.08223319234478,45.2971153234398,"Winter",733
+9,-105.277578,39.463125,"immature",1987,"Accipiter gentilis","Accipiter_gentilis",806,603,"undetermined",6.8,728,7.64642915274043,53.06522795414,"Fall",682
+10,-79.35567,43.161167,"immature",1997,"Accipiter gentilis atricapillus","Accipiter_gentilis",810,NA,"female",8.3,795,9.17615486910602,26.2874377168832,"Fall",703
+12,-117.47689,47.954338,"Adult",1950,"Accipiter gentilis","Accipiter_gentilis",815,543,"male",7.7,707,9.98175229044875,66.6419544981154,"Winter",766
+1,-77.45764,43.97391,"second year",1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",823,NA,"male",7,771,11.0757823446226,49.8855254725439,"Winter",894
+12,-117.07401,46.730958,NA,1986,"Accipiter gentilis","Accipiter_gentilis",823.2,NA,"male",8.8,591,7.30410324697182,62.3028346544144,"Winter",769
+10,-149.5677777778,61.3213888889,"sk.double",1960,"Accipiter gentilis atricapillus","Accipiter_gentilis",824.6,NA,"male",2.1,400,8.76118765299027,104.349935749425,"Fall",690
+8,-147.8043,64.857,"IM",1997,"Accipiter gentilis","Accipiter_gentilis",825,NA,"undetermined",-1.3,187,14.6991960200673,97.0828472046794,"Summer",738
+9,-109.84658,43.2888,"ad.",1939,"Accipiter gentilis atricapillus","Accipiter_gentilis",826.7,NA,"male",0.6,429,8.68288110263087,62.1265891367597,"Fall",696
+11,-83.8166667,42.25,"immature",1981,"Accipiter gentilis atricapillus","Accipiter_gentilis",833,NA,"female",8.8,901,10.1437359383946,55.0423161363743,"Fall",888
+1,-105.21667,40.79444,"immature",1998,"Accipiter gentilis","Accipiter_gentilis",834.6,538,"female",7.7,459,8.55319805509594,71.5920158835549,"Winter",775
+1,-78.99087,44.39791,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",842,NA,"male",5.4,721,11.0474184561577,40.9628446870996,"Winter",715
+10,-79.62304,43.99192,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",848,NA,"male",6.3,677,10.59337986526,36.6738696636403,"Fall",812
+6,-149.1712,61.5988,"AHY",2011,"Accipiter gentilis","Accipiter_gentilis",850,NA,"male",1.9,467,9.30776801679895,96.3914035327477,"Summer",735
+1,-147.8043,64.857,"IM",2000,"Accipiter gentilis","Accipiter_gentilis",850,NA,"male",-1.6,285,12.314745411313,108.166813357895,"Winter",827
+11,-82.73856,42.03748,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",855,NA,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",710
+10,-79.951585,43.264937,"immature",1999,"Accipiter gentilis atricapillus","Accipiter_gentilis",856.2,NA,"female",10,749,9.95387848879506,42.7284255913589,"Fall",718
+10,-82.73856,42.03748,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",857,NA,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",811
+11,-86.484375,42.0945285,"immature",2002,"Accipiter gentilis atricapillus","Accipiter_gentilis",857.5,NA,"male",10.1,731,9.43229060518208,51.1674457719462,"Fall",851
+1,-134.555,58.3449,"JUV",1996,"Accipiter gentilis","Accipiter_gentilis",860,NA,"female",4.1,1826,7.28840403197664,53.2210251762559,"Winter",835
+9,-78.06541,44.58091,"immature",1998,"Accipiter gentilis atricapillus","Accipiter_gentilis",861.3,NA,"female",8.1,828,9.35443502010969,37.1438671327254,"Fall",704
+6,-151.187653,59.5985603,"adult",1964,"Accipiter gentilis atricapillus","Accipiter_gentilis",862.4,NA,"male",2.2,543,8.1379535436612,62.1135065176124,"Summer",778
+11,-82.73856,42.03748,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",864,NA,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",714
+2,-79.35,43.75,"not applicable",1941,"Accipiter gentilis atricapillus","Accipiter_gentilis",865,NA,"female",7.9,688,10.6259937146717,39.6508648800962,"Winter",818
+9,-84.6807289,45.5564919,"immature",1997,"Accipiter gentilis atricapillus","Accipiter_gentilis",866.8,NA,"female",5.6,672,9.91035577137125,47.3301444190534,"Fall",849
+10,-79.34354,44.123,"not applicable",1939,"Accipiter gentilis atricapillus","Accipiter_gentilis",870,NA,"female",6.3,718,10.6136561546762,30.9520610439811,"Fall",808
+11,-93.63727,52.84037,"not applicable",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",870,NA,"male",0,617,13.8670636598183,60.9325865622278,"Fall",911
+8,-131.9167,57.1833,"imm.",1919,"Accipiter gentilis atricapillus","Accipiter_gentilis",871.1,NA,"female",1.9,1670,8.58598223321542,50.7372885941423,"Summer",694
+9,-110.3843307,41.3166199,"immature",1946,"Accipiter gentilis striatulus","Accipiter_gentilis",881,NA,"female",5.7,238,8.78988313088095,69.3949697438969,"Fall",776
+1,-95.8123703,48.8479805,NA,1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",883.5,NA,"male",2,612,15.0923821844002,86.0067625349245,"Winter",837
+11,-77.35176,43.95265,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",894,NA,"male",6.8,674,10.90836487483,42.6944354080812,"Fall",711
+10,-77.60353,44.02629,"not applicable",1934,"Accipiter gentilis atricapillus","Accipiter_gentilis",895,NA,"male",6.5,666,11.6749797222587,37.2395093156294,"Fall",706
+3,-87.8223038,43.5693224,"immature",1955,"Accipiter gentilis atricapillus","Accipiter_gentilis",896,NA,"male",8.2,696,11.4111156600072,58.5985064433203,"Spring",747
+12,-119.12108,47.509228,"Immature",1958,"Accipiter gentilis","Accipiter_gentilis",898,562,"male",11.3,291,8.65547645870941,61.971151183206,"Winter",767
+11,-79.2657,44.20291,"not applicable",1934,"Accipiter gentilis atricapillus","Accipiter_gentilis",905,NA,"male",6,647,11.6058631995238,31.0175762458015,"Fall",900
+1,-77.52145,43.91669,"immature",1948,"Accipiter gentilis atricapillus","Accipiter_gentilis",905,NA,"female",7.6,805,10.7867202306045,30.7805077462519,"Winter",908
+1,-77.52145,43.91669,"subadult",1948,"Accipiter gentilis atricapillus","Accipiter_gentilis",905,NA,"female",7.6,805,10.7867202306045,30.7805077462519,"Winter",910
+11,-123.4851937,39.6863371,"ad.",1916,"Accipiter gentilis atricapillus","Accipiter_gentilis",905.5,NA,"male",11.3,1743,5.20578786282415,144.650516210816,"Fall",692
+10,-96.074585,48.7608757,NA,1926,"Accipiter gentilis atricapillus","Accipiter_gentilis",907,21.5,"male",2.5,541,12.8006628616244,79.2784520014084,"Fall",741
+11,-95.8123703,48.8479805,"adult",1926,"Accipiter gentilis atricapillus","Accipiter_gentilis",907,21.5,"male",2.5,561,12.715234837379,79.7259894855954,"Fall",745
+11,-95.8004379,48.6719195,"adult",1926,"Accipiter gentilis atricapillus","Accipiter_gentilis",907,22,"male",2.6,586,12.7947313967567,81.0905290323773,"Fall",854
+11,-119.598212,37.736686,"imm.",1915,"Accipiter gentilis atricapillus","Accipiter_gentilis",907.19,NA,"female",10.4,846,6.86658024364561,123.151899205436,"Fall",787
+12,-83.8039684,42.5024147,"immature",2001,"Accipiter gentilis atricapillus","Accipiter_gentilis",907.2,NA,"female",9.9,871,9.37754813855461,51.1294416251969,"Winter",756
+6,-115.9446,48.2631,"u ad.",1966,"Accipiter gentilis atricapillus","Accipiter_gentilis",908,NA,"female",6,1261,7.35574399343599,76.037495097777,"Summer",689
+11,-84.2717564,41.9588837,"immature",2004,"Accipiter gentilis","Accipiter_gentilis",908.1,NA,"female",9.4,887,9.95767938768259,63.2938798712425,"Fall",852
+7,-85.5738831,45.7076178,"juvenile",1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",909,NA,"female",6.4,733,10.4587899815795,72.6372154647032,"Summer",764
+10,-123.4851937,39.6863371,"juv.",1923,"Accipiter gentilis atricapillus","Accipiter_gentilis",914,NA,"male",11.8,1005,5.03767623197262,89.7864773270115,"Fall",695
+9,-85.0714972,45.470794,"immature",1994,"Accipiter gentilis atricapillus","Accipiter_gentilis",921,NA,"female",6.8,786,10.9855655983273,64.2760680450241,"Fall",848
+1,-79.73102,44.4458,"not applicable",1940,"Accipiter gentilis atricapillus","Accipiter_gentilis",925,NA,"female",4.7,900,10.6302705287848,30.7742184109477,"Winter",879
+12,-90.604248,44.727223,NA,1982,"Accipiter gentilis","Accipiter_gentilis",931,NA,"male",5.4,1067,12.1480357559267,54.2381537646682,"Winter",750
+5,-79.29368,45.22147,"not applicable",1939,"Accipiter gentilis atricapillus","Accipiter_gentilis",934,NA,"female",4.2,930,11.0602859023817,29.8822389032508,"Spring",878
+10,-79.62304,43.99192,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",935,NA,"female",6.3,677,10.59337986526,36.6738696636403,"Fall",708
+9,-133.6167,59.5333,"ad.",1924,"Accipiter gentilis atricapillus","Accipiter_gentilis",938.5,NA,"male",-2.5,461,8.07117486097059,41.7439993743236,"Fall",791
+8,-109.84658,43.2888,"imm.",1939,"Accipiter gentilis atricapillus","Accipiter_gentilis",940,NA,"female",0.6,429,8.68288110263087,62.1265891367597,"Summer",798
+11,-77.35176,43.95265,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",942,NA,"male",6.8,674,10.90836487483,42.6944354080812,"Fall",713
+3,-95.8123703,48.8479805,NA,1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",944,NA,"male",2,612,15.0923821844002,86.0067625349245,"Spring",839
+12,-149.9044,61.1742,"HY",2000,"Accipiter gentilis","Accipiter_gentilis",950,NA,"undetermined",3,350,8.25672820226393,66.5669766466852,"Winter",730
+12,-149.1712,61.5988,"IM",2000,"Accipiter gentilis","Accipiter_gentilis",950,NA,"female",2.9,408,7.60770641978888,68.6121860471751,"Winter",828
+9,-147.8043,64.857,"U",2005,"Accipiter gentilis","Accipiter_gentilis",950,NA,"male",-1.1,312,14.3955380292476,110.675682190574,"Fall",831
+11,-77.45764,43.97391,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",951,NA,"male",6.7,667,10.948017670295,43.5830027183459,"Fall",880
+11,-82.73856,42.03748,"not applicable",1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",955,NA,"male",9.5,686,11.2525552653608,34.4795120010424,"Fall",815
+2,-131.619,55.331,"IM",1996,"Accipiter gentilis laingi","Accipiter_gentilis",957,NA,"male",6.6,2564,5.77932574446242,50.8619060522427,"Winter",826
+11,-78.99087,44.39791,"not applicable",1934,"Accipiter gentilis atricapillus","Accipiter_gentilis",960,NA,"male",5.3,709,11.7705719332734,32.2546646190333,"Fall",810
+10,-80.39198,43.68869,"not applicable",1961,"Accipiter gentilis atricapillus","Accipiter_gentilis",962,NA,"female",6.2,857,10.1231807194571,35.4147807565936,"Fall",824
+11,-75.95092,44.62722,"not applicable",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",962,NA,"female",7,763,10.6670265090818,41.2223438959489,"Fall",876
+11,-76.5095,42.4381,NA,1953,"Accipiter gentilis","Accipiter_gentilis",970.5,NA,"male ?",10.6,726,8.46257357516917,34.1007897176414,"Fall",772
+11,-121.109,39.5635,"u ad.",1932,"Accipiter gentilis atricapillus","Accipiter_gentilis",972.1,NA,"female",11.6,1207,7.31764161379052,93.2571951221956,"Fall",792
+5,-123.4851937,39.6863371,"ad.",1917,"Accipiter gentilis atricapillus","Accipiter_gentilis",972.5,NA,"male",11.4,1250,5.16629519681232,110.863674659798,"Spring",693
+11,-77.45764,43.97391,"not applicable",1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",985,NA,"male",7,771,11.0757823446226,49.8855254725439,"Fall",881
+6,-84.259209,46.097703,"young",1961,"Accipiter gentilis atricapillus","Accipiter_gentilis",986.1,NA,"female",5.3,662,10.3837686566656,68.7201885368991,"Summer",843
+11,-77.40355,43.99585,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",987,NA,"male",6.6,677,10.9655935737306,44.3171068776133,"Fall",709
+3,-80.232834,43.532579,"adult",1974,"Accipiter gentilis atricapillus","Accipiter_gentilis",987.8,NA,"female",6.5,876,9.48251980320536,39.079781539397,"Spring",806
+7,-85.5738831,45.7076178,"nestling",1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",988,NA,"female",6.4,733,10.4587899815795,72.6372154647032,"Summer",763
+12,-79.392952,43.15536,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",991,NA,"female",8,648,10.1929862992633,32.4422611998543,"Winter",813
+7,-120.16875,39.20026,"Ad.",1934,"Accipiter gentilis atricapillus","Accipiter_gentilis",992,NA,"female",6.2,716,5.99315265848275,71.7966510449139,"Summer",892
+12,-75.95092,44.62722,"not applicable",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",1000,NA,"male",7,763,10.6670265090818,41.2223438959489,"Winter",877
+2,-117.47689,47.954338,"adult",1949,"Accipiter gentilis","Accipiter_gentilis",1003,552,"male",7.9,476,10.3759775005013,81.3747405581521,"Winter",765
+11,-93.63727,52.84037,"not applicable",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",1007,NA,"female",0,617,13.8670636598183,60.9325865622278,"Fall",898
+1,-87.67026,50.23392,"not applicable",1943,"Accipiter gentilis atricapillus","Accipiter_gentilis",1007,NA,"female",-0.9,711,13.7247288431569,51.2331997538807,"Winter",909
+3,-84.3123865,44.9718724,NA,1933,"Accipiter gentilis atricapillus","Accipiter_gentilis",1010,NA,"female",6.6,784,10.8675880349307,42.7054486359803,"Spring",760
+1,-118.8325,39.47361,"u ad.",1944,"Accipiter gentilis atricapillus","Accipiter_gentilis",1011,NA,"female",10.1,115,8.46140524900438,77.253063013536,"Winter",800
+6,-112.1505555,36.3963888,NA,1995,"Accipiter gentilis","Accipiter_gentilis",1013.2,585,"female",6.9,962,6.8739296687491,87.9141984974552,"Summer",683
+10,-79.73102,44.4458,"not applicable",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",1014,NA,"female",6.7,749,10.0424402443134,42.2476980441097,"Fall",896
+6,-122.9107,44.2042,"ad.",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",1017.3,NA,"female",11.3,1216,6.10073890209335,80.6421416311516,"Summer",795
+3,-123.067661,49.319618,"adult",1966,"Accipiter gentilis atricapillus","Accipiter_gentilis",1020,546,"male",9.9,1590,5.07575938489339,70.6042768866716,"Spring",884
+11,-83.9166667,42.6166667,"adult",1926,"Accipiter gentilis atricapillus","Accipiter_gentilis",1020,NA,"female",7.1,775,10.4533016387893,48.8166159925246,"Fall",889
+10,-79.544694,43.676664,"adult",1965,"Accipiter gentilis atricapillus","Accipiter_gentilis",1038,NA,"female",6.9,858,9.69346859144514,33.1211189773307,"Fall",825
+6,-120.1507,42.3685,"ad.",1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",1040,NA,"female",4.8,738,9.08348484722119,80.9378517642773,"Summer",794
+1,-149.1712,61.5988,"SY",1994,"Accipiter gentilis","Accipiter_gentilis",1050,NA,"female",1.9,379,9.74259625655204,46.0110885917323,"Winter",727
+1,-89.511315,43.103599,NA,1983,"Accipiter gentilis","Accipiter_gentilis",1054,NA,"female",7.8,835,11.4033886510665,39.7336137297117,"Winter",751
+7,-106.8987177777,29.3920969444,"ad.",1959,"Accipiter gentilis atricapillus","Accipiter_gentilis",1057,NA,"female",14.4,416,6.22801588133667,161.139334141977,"Summer",688
+3,-83.2030677,42.0139735,NA,1974,"Accipiter gentilis atricapillus","Accipiter_gentilis",1060,NA,"female",9.5,811,9.73367709023521,37.5347035663922,"Spring",754
+11,-82.73856,42.03748,"juvenile",1945,"Accipiter gentilis atricapillus","Accipiter_gentilis",1077,NA,"female",9.5,986,10.4003897071507,44.9140877739922,"Fall",721
+11,-95.7997742,48.5838737,"adult",1926,"Accipiter gentilis atricapillus","Accipiter_gentilis",1077,24,"female",2.6,570,12.7568490219841,79.1926015739117,"Fall",758
+11,-78.61625,43.97847,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",1081,NA,"male",6.6,685,10.9592495872277,46.0110315642052,"Fall",722
+11,-82.73856,42.03748,"juvenile",1945,"Accipiter gentilis atricapillus","Accipiter_gentilis",1082,NA,"female",9.5,986,10.4003897071507,44.9140877739922,"Fall",719
+11,-95.5389481,48.6704788,"adult",1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",1084,NA,"female",1.1,462,16.0090788635888,71.1873009676497,"Fall",859
+12,-82.73856,42.03748,"juvenile",1943,"Accipiter gentilis atricapillus","Accipiter_gentilis",1090,NA,"female",9.6,837,10.2365765761801,59.2086626548975,"Winter",820
+11,-76.16296,44.33175,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",1094,NA,"female",6.2,673,11.285912377022,41.1663838101489,"Fall",712
+12,-161.7509,60.7912,"AHY",2011,"Accipiter gentilis","Accipiter_gentilis",1100,NA,"female",-1.3,411,10.1056652278299,76.6755070883688,"Winter",833
+3,-80.58831,44.6081,"not applicable",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",1115,NA,"female",6.8,707,9.76807958545992,43.4484378612615,"Spring",705
+10,-83.532609,42.239508,"adult",1973,"Accipiter gentilis atricapillus","Accipiter_gentilis",1116,NA,"female",10.2,865,9.63627930208951,45.986097940777,"Fall",753
+11,-81.21702,42.66813,"not applicable",1943,"Accipiter gentilis atricapillus","Accipiter_gentilis",1122,NA,"female",7.3,966,10.020717176294,51.1478348033149,"Fall",819
+1,-95.8123703,48.8479805,NA,1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",1126,NA,"male",2,612,15.0923821844002,86.0067625349245,"Winter",742
+12,-79.28424,43.01096,"not applicable",1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",1129,NA,"female",7.9,707,10.6418662922355,45.3355628507065,"Winter",717
+3,-95.1266,38.8577,"BASAL 1/2 TAIL WHITE, INNER WEB",1983,"Accipiter gentilis","Accipiter_gentilis",1132,NA,"female",12.1,911,11.4944617757924,72.2433122651671,"Spring",777
+11,-120,49.4167,"ad.",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",1133.98,NA,"female",2.7,476,7.85174657273299,58.040795956798,"Fall",801
+10,-95.8108749,48.7612762,"adult",1926,"Accipiter gentilis atricapillus","Accipiter_gentilis",1134,24.75,"female",2.6,583,12.7965075727952,81.9123314570812,"Fall",856
+1,-123.4851937,39.6863371,"ad.",1950,"Accipiter gentilis atricapillus","Accipiter_gentilis",1135,NA,"female",12.3,2028,5.23560074408994,94.76773741131,"Winter",784
+1,-95.8123703,48.8479805,NA,1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",1143,NA,"female",1.3,457,16.1916434675983,75.9146361505378,"Winter",836
+11,-89.12322,48.43968,"not applicable",1934,"Accipiter gentilis atricapillus","Accipiter_gentilis",1146,NA,"female",2,794,11.7475045706041,32.8841022599212,"Fall",809
+8,-147.8043,64.857,"AD",2000,"Accipiter gentilis","Accipiter_gentilis",1150,NA,"female",-1.6,285,12.314745411313,108.166813357895,"Summer",725
+2,-95.6833333,48.7666667,NA,1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",1152.6,NA,"female",1.9,623,15.0251581951033,89.8076085733298,"Winter",905
+10,-79.76438,47.69219,"not applicable",1954,"Accipiter gentilis atricapillus","Accipiter_gentilis",1162,NA,"female",2.3,883,12.0623475025688,53.4561835269973,"Fall",823
+1,-145.6,63.8,"AHY",2011,"Accipiter gentilis","Accipiter_gentilis",1180,NA,"female",-3.3,485,12.9725905686029,105.66193307388,"Winter",832
+2,-95.4393508,48.300766,NA,1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",1186.9,NA,"male",1.9,623,14.7179209458978,96.9697302581909,"Winter",744
+10,-120,49.4167,"ad.",1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",1190.66,NA,"female",1.2,731,9.07251927860206,54.2896305002116,"Fall",802
+1,-96.2059021,48.761168,NA,1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",1196,NA,"female",1.8,588,15.334571754995,73.5063214517861,"Winter",840
+5,-127.6667,55.25,"u imm.",1921,"Accipiter gentilis atricapillus","Accipiter_gentilis",1209.5,NA,"female",4.1,528,9.01276871998833,42.8930178884019,"Spring",789
+12,-161.7509,60.7912,"AD",2011,"Accipiter gentilis","Accipiter_gentilis",1210,NA,"female",-1.3,411,10.1056652278299,76.6755070883688,"Winter",736
+12,-95.6833333,48.7666667,NA,1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",1212.2,NA,"female",1.3,478,16.1764957624176,75.5235552388787,"Winter",904
+11,-88.1666667,43.65,NA,1982,"Accipiter gentilis","Accipiter_gentilis",1216,NA,"female",7,872,11.1306667556011,50.5605916743278,"Fall",906
+10,-105.83417,23.46889,"u ad.",1946,"Accipiter gentilis atricapillus","Accipiter_gentilis",1221,NA,"female",17.6,1187,2.77319419814157,108.597016186447,"Fall",783
+2,-117.47689,47.954338,NA,1949,"Accipiter gentilis","Accipiter_gentilis",1229,549,NA,7.9,476,10.3759775005013,81.3747405581521,"Winter",768
+11,-93.63727,52.84037,"not applicable",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",1235,NA,"female",0,617,13.8670636598183,60.9325865622278,"Fall",897
+1,-89.99647,48.21964,"not applicable",1933,"Accipiter gentilis atricapillus","Accipiter_gentilis",1238,NA,"female",1.7,673,12.9149285243039,39.5413562485739,"Winter",862
+12,-147.8043,64.857,"AHY",1997,"Accipiter gentilis atricapillus","Accipiter_gentilis",1240,NA,"female",-1.3,187,14.6991960200673,97.0828472046794,"Winter",724
+1,-95.9432755,48.9351845,"adult",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",1247,NA,"female",2.2,457,13.5443715247331,70.4527649678831,"Winter",858
+9,-95.6699753,48.6712393,"adult",1926,"Accipiter gentilis atricapillus","Accipiter_gentilis",1247.38,23,"female",2.5,595,12.8268184959199,80.214706969677,"Fall",746
+2,-95.8108749,48.7612762,"adult",1926,"Accipiter gentilis atricapillus","Accipiter_gentilis",1247.38,23.75,"male",2.6,583,12.7965075727952,81.9123314570812,"Winter",855
+10,-87.8139496,41.8978081,NA,1907,"Accipiter gentilis atricapillus","Accipiter_gentilis",1250,NA,"female",9.1,900,9.57004084725775,43.919899722907,"Fall",686
+4,-147.8043,64.857,"AD",2000,"Accipiter gentilis","Accipiter_gentilis",1250,NA,"female",-1.6,285,12.314745411313,108.166813357895,"Spring",726
+6,-85.9271622,46.1147172,NA,1940,"Accipiter gentilis atricapillus","Accipiter_gentilis",1255,NA,"female",4.7,835,10.2274548805328,35.3054522699943,"Summer",739
+10,-83.3248186,42.1521932,"adult",1943,"Accipiter gentilis atricapillus","Accipiter_gentilis",1268,NA,"female",8.9,790,10.4352984885654,64.8793143352888,"Fall",740
+12,-80.58831,44.6081,"not applicable",1935,"Accipiter gentilis atricapillus","Accipiter_gentilis",1275,NA,"female",5.6,767,10.1294649713625,43.0562234865003,"Winter",817
+2,-96.2059021,48.761168,NA,1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",1284,NA,"female",1.8,588,15.334571754995,73.5063214517861,"Winter",841
+11,-79.34354,44.123,"not applicable",1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",1290,NA,"female",6.1,734,10.9563043979531,40.9631497177179,"Fall",716
+2,-95.6810608,48.8485794,NA,1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",1290,NA,"female",2,618,15.0370728736034,88.9608636035364,"Winter",743
+12,-95.8123703,48.8479805,"adult",1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",1297,NA,"female",1.3,457,16.1916434675983,75.9146361505378,"Winter",762
+4,-120,49.4167,"ad.",1943,"Accipiter gentilis atricapillus","Accipiter_gentilis",1304.05,NA,"female",1.7,441,8.05547056729811,49.8260534476606,"Spring",697
+12,-82.73856,42.03748,"not applicable",1936,"Accipiter gentilis atricapillus","Accipiter_gentilis",1360,NA,"female",9.5,686,11.2525552653608,34.4795120010424,"Winter",816
+2,-95.8123703,48.8479805,NA,1937,"Accipiter gentilis atricapillus","Accipiter_gentilis",1380,NA,"female",2,612,15.0923821844002,86.0067625349245,"Winter",838
+12,-93.63727,52.84037,"not applicable",1938,"Accipiter gentilis atricapillus","Accipiter_gentilis",1450,NA,"female",0,617,13.8670636598183,60.9325865622278,"Winter",899

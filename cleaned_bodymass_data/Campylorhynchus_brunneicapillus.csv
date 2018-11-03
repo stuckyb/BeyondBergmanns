@@ -1,0 +1,317 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+11,-115.7230556,31.4,"u ad.",1926,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",24.2,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",13704
+5,-109.7152778,23.5525,"juv.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",24.5,NA,"male",22.4,260,4.84248871652758,126.187953772323,"Spring",13760
+4,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",25.4,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Spring",13496
+4,-111.8125,26.0625,"juv.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",27.9,NA,"female",21.1,215,4.20982796740574,93.8923460859446,"Spring",13634
+5,-103.304615,29.2697786,"juv",1967,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",28.5,134,"male",17,359,6.16035098370411,110.043619595379,"Spring",13656
+10,-111.3256659,32.5761802,"imm",1973,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",28.7,NA,"[female]",20.1,205,8.35454421802345,130.018025706028,"Fall",13542
+5,-103.7793843,30.4611433,"juv",1976,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",30,NA,"female",14.6,376,6.53818620015359,106.001440813535,"Spring",13669
+5,-112.2222222,27.224722,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",30,NA,"female",23.4,113,5.30479342984563,139.796764755099,"Spring",13705
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",30,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13733
+7,-100.5736655,31.476649,"imm",1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",30.2,NA,"undetermined",19,447,8.5942193398008,95.3533527337041,"Summer",13676
+6,-109.7747222,23.441944,"juv.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",30.4,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",13712
+5,-103.6944103,30.4447763,"juv",1975,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",30.5,NA,"female",15.9,371,6.33439385060208,118.252769009068,"Spring",13547
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",30.5,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13732
+12,-102.9390526,29.589161,"imm",1981,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",31,NA,"undetermined",19.8,425,7.29848469121357,78.6029757777765,"Winter",13554
+4,-114.8667,31,"u ad.",1926,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",31.3,NA,"female",21.3,85,5.24377697558706,168.172831604019,"Spring",13613
+5,-103.7793843,30.4611433,"juv",1976,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",31.5,54,"[female]",14.6,376,6.53818620015359,106.001440813535,"Spring",13670
+5,-103.7793843,30.4611433,"juv",1976,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",31.5,NA,"undetermined",14.6,376,6.53818620015359,106.001440813535,"Spring",13674
+6,-115.96675,34.84264,"Juv",1987,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",31.5,NA,"male",18.5,143,8.19939022122987,100.346383053725,"Summer",13699
+4,-112.9,27.3,"juv.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",31.8,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",13616
+5,-103.7793843,30.4611433,"juv",1976,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",32,NA,"male",14.6,376,6.53818620015359,106.001440813535,"Spring",13548
+11,-115.8008333,32.368333,"ad.",1927,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",32,NA,"male",21.6,153,6.26287764239701,130.466164725967,"Fall",13708
+4,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",32.1,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",13617
+1,-110.7538333,31.5471667,NA,2001,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",32.1,NA,"female",16.5,342,7.43107724969328,69.0742954308173,"Winter",13728
+7,-101.3889377803,20.7142177803,"ad.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",32.4,NA,"female",19.7,660,1.95872175387187,116.556916136356,"Summer",13476
+4,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",32.4,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",13504
+10,-111.3256659,32.5761802,"imm",1973,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",32.5,NA,"[female]",20.1,205,8.35454421802345,130.018025706028,"Fall",13662
+2,-110.3112,24.15643,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",32.7,NA,"female",22.9,147,4.49675809148472,111.370942907182,"Winter",13571
+6,-115.96675,34.84264,"Juv",1987,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",32.7,NA,"female",18.5,143,8.19939022122987,100.346383053725,"Summer",13747
+5,-103.7793843,30.4611433,"juv",1976,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",33,NA,"male",14.6,376,6.53818620015359,106.001440813535,"Spring",13668
+5,-110.083333,23.15,"u ad.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",33.4,NA,"female",21.7,302,3.49192792108609,120.149980687521,"Spring",13636
+4,-111.8125,26.0625,"u ad.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",33.5,NA,"female",21.1,215,4.20982796740574,93.8923460859446,"Spring",13515
+6,-109.7747222,23.441944,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",33.7,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",13761
+10,-111.3256659,32.5761802,"imm",1973,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",34,NA,"[female]",20.1,205,8.35454421802345,130.018025706028,"Fall",13540
+10,-111.3256659,32.5761802,"imm",1973,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",34,NA,"male",20.1,205,8.35454421802345,130.018025706028,"Fall",13660
+6,-103.340399,20.430596,"young",1956,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",34,NA,"female",19.5,631,2.60737590134393,129.000491700771,"Summer",13724
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",34,NA,"female",21.1,93,4.28191227458862,95.8155765889166,"Spring",13734
+12,-110,23.566667,"ad.",1928,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",34.2,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Winter",13628
+6,-109.7747222,23.441944,"juv.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",34.2,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",13762
+10,-111.3256659,32.5761802,"imm",1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",34.3,NA,"male",20.7,248,8.2880481673457,100.810263857534,"Fall",13543
+12,-111.0884337,32.3997219,"adult",1968,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",34.3,NA,"female",20.1,282,7.28241447639865,93.0333762879368,"Winter",13562
+7,-110.19749,23.84208,"U-Ad.",1974,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",34.4,NA,"f?",20.9,271,4.81823399056945,104.146080494226,"Summer",13746
+3,-109.883333,22.866667,NA,1961,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",34.4,NA,"female",24.5,134,3.81682876458741,126.965799543214,"Spring",13770
+3,-114.8667,31,"imm.",1926,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",34.5,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",13501
+5,-112.9,27.3,"ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",34.5,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",13506
+11,-112.280146,28.778293,"u ad.",1941,"Campylorhynchus brunneicapillus seri","Campylorhynchus_brunneicapillus",34.5,NA,"female",23.3,85,5.27808505219287,128.603081484426,"Fall",13650
+11,-110.44056,27.77333,"u ad.",1946,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",34.6,NA,"female",25.6,348,5.47796550378022,160.443391690303,"Fall",13472
+11,-112.280146,28.778293,"ad.",1941,"Campylorhynchus brunneicapillus seri","Campylorhynchus_brunneicapillus",34.6,NA,"female",23.3,85,5.27808505219287,128.603081484426,"Fall",13533
+4,-112.280146,28.778293,"u ad.",1936,"Campylorhynchus brunneicapillus seri","Campylorhynchus_brunneicapillus",34.6,NA,"male",23.7,109,5.03656328233546,92.5472243250871,"Spring",13645
+7,-118.3758545,33.7719269,"juvenile",1996,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",34.7,NA,"female",16.4,470,2.24290125966483,113.304291974185,"Summer",13465
+5,-112.1971112211,29.1768877777,"u ad.",1938,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",34.7,NA,"male",23.2,105,5.56015996063771,88.4078925950524,"Spring",13526
+5,-112.1971112211,29.1768877777,"u ad.",1938,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",34.9,NA,"female",23.2,105,5.56015996063771,88.4078925950524,"Spring",13646
+5,-102.2583333,22.025556,"u ad.",1940,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",34.9,NA,"female",18.1,373,3.65662536923173,114.240095223747,"Spring",13717
+9,-106.7359053467,29.82389,"imm.sk.",1961,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",35,NA,"female",16.8,272,6.54723513238893,111.942865153066,"Fall",13484
+5,-103.7793843,30.4611433,"ad",1976,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",35,NA,"female",14.6,376,6.53818620015359,106.001440813535,"Spring",13666
+5,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",35,NA,"female",21.1,93,4.28191227458862,95.8155765889166,"Spring",13687
+5,-112.30061,27.36692,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",35,NA,"female",23.3,100,5.22769431764979,146.463771505572,"Spring",13692
+4,-115.33,32.33,"ad.",1926,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",35,NA,"female",22.5,88,6.79003280217006,132.967104141209,"Spring",13752
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",35.2,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13682
+7,-101.3889377803,20.7142177803,"ad.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",35.3,NA,"female",19.7,660,1.95872175387187,116.556916136356,"Summer",13479
+9,-102.4929644393,22.6893544393,"juv.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",35.3,NA,"male",16.3,305,2.54062447584698,132.307049546979,"Fall",13581
+6,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",35.4,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Summer",13500
+4,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",35.4,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13615
+9,-115.8089191,33.736984,"u ad.",1950,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",35.5,NA,"undetermined",17,47,6.75875974815893,129.246065528299,"Fall",13577
+7,-101.3889377803,20.7142177803,"ad.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",35.5,NA,"male",19.7,660,1.95872175387187,116.556916136356,"Summer",13583
+8,-117.97,35.65,"ad.",1929,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",35.7,NA,"female",15.6,95,8.30151501324617,155.0285308548,"Summer",13626
+5,-117.510504,35.943643,"juv.",1940,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",35.7,NA,"female",12.9,257,7.39600629332541,151.451365416565,"Spring",13647
+5,-113.8058333,28.264167,"ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",35.7,NA,"female",20.7,108,4.12408851270266,88.2384584220692,"Spring",13706
+5,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",35.7,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13739
+4,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",35.8,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Spring",13606
+11,-112.280146,28.778293,"u ad.",1941,"Campylorhynchus brunneicapillus seri","Campylorhynchus_brunneicapillus",35.8,NA,"female",23.3,85,5.27808505219287,128.603081484426,"Fall",13652
+11,-110.44056,27.77333,"u ad.",1946,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",35.9,NA,"female",25.6,348,5.47796550378022,160.443391690303,"Fall",13471
+3,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",35.9,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13603
+4,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",35.9,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Spring",13607
+5,-111.5169,32.8617,"u ad.",1936,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",35.9,NA,"male",20.9,302,8.10500687005485,96.9033725076262,"Spring",13637
+12,-111.0884337,32.3997219,NA,1968,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",36,NA,"male",20.1,282,7.28241447639865,93.0333762879368,"Winter",13461
+4,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",36,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Spring",13608
+10,-111.3256659,32.5761802,"imm",1973,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",36,NA,"female",20.1,205,8.35454421802345,130.018025706028,"Fall",13659
+5,-103.7793843,30.4611433,"juv",1976,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",36,NA,"male",14.6,376,6.53818620015359,106.001440813535,"Spring",13667
+2,-115.47,30.0675,"ad.",1953,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",36,NA,"female",17.5,120,4.53738677962093,128.956567508399,"Winter",13702
+5,-113.80064,28.25021,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",36,NA,"female",20.2,117,4.16772410824232,84.9291350608774,"Spring",13740
+11,-110.8333,32.7333,NA,1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",36,NA,"female",17.3,384,8.01254697901417,97.3696284226659,"Fall",13773
+4,-109.9,22.8833,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",36.1,NA,"female",23,165,3.59750544885556,121.293124556952,"Spring",13511
+11,-110.853896,32.1267705,"immature",1953,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",36.1,NA,"female",19.4,170,7.61869709691529,172.691077481106,"Fall",13559
+5,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",36.1,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13688
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",36.2,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13681
+7,-101.3889377803,20.7142177803,"ad.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",36.4,NA,"male",19.7,660,1.95872175387187,116.556916136356,"Summer",13478
+11,-112.280146,28.778293,"unknown",1941,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",36.4,NA,"female",23.3,85,5.27808505219287,128.603081484426,"Fall",13486
+5,-110.083333,23.15,"imm.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",36.4,NA,"male",21.7,302,3.49192792108609,120.149980687521,"Spring",13635
+9,-108.083333,30.6,"u ad.",1948,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",36.5,NA,"female",16.9,273,7.46488750448026,117.153040309365,"Fall",13473
+3,-109.883333,22.866667,NA,1961,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",36.5,NA,"female",24.5,134,3.81682876458741,126.965799543214,"Spring",13723
+3,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",36.6,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13604
+4,-114.8667,31,"imm.",1926,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",36.6,NA,"female",21.3,85,5.24377697558706,168.172831604019,"Spring",13612
+7,-100.5736655,31.476649,"imm",1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",36.7,NA,"undetermined",19,447,8.5942193398008,95.3533527337041,"Summer",13675
+10,-108.9914,32.2163833333,"ad",2007,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",36.8,NA,"female",16.6,251,7.86804045528876,100.231834362073,"Fall",13468
+5,-112.190838,29.167378,"u ad.",1938,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",36.8,NA,"female",23.2,105,5.55277708298589,88.4078925950524,"Spring",13525
+7,-103.4154,29.132297,"imm",1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",36.8,NA,"male",20.6,351,7.9182183487311,80.9875961092941,"Summer",13550
+7,-103.2051735,29.2994935,"juv",1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",36.8,NA,"female",19,386,7.09122376924142,79.699093027615,"Summer",13551
+4,-112.280146,28.778293,"u ad.",1936,"Campylorhynchus brunneicapillus seri","Campylorhynchus_brunneicapillus",36.9,NA,"female",23.7,109,5.03656328233546,92.5472243250871,"Spring",13524
+10,-110.2233333,23.441667,"ad.",1928,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",36.9,NA,"female",22.4,133,3.35381962255069,121.078314185869,"Fall",13757
+12,-116.1,30.9667,"ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",37,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Winter",13492
+5,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",37,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13622
+5,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",37,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13738
+4,-111.6208833,25.9311333,NA,2001,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",37,NA,"male",22.4,289,4.54981684613055,263.549398397784,"Spring",13748
+4,-109.6833,23.05,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",37.1,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",13629
+5,-115.4873752,35.2614609,"juv.",1938,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",37.1,NA,"female",14.6,210,8.16828215314171,138.364129966889,"Spring",13641
+7,-101.3889377803,20.7142177803,"ad.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",37.2,NA,"male",19.7,660,1.95872175387187,116.556916136356,"Summer",13584
+11,-111.930332,28.812222,"ad.",1941,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",37.2,NA,"female",23.8,107,5.58300315622553,124.240890795279,"Fall",13594
+4,-111.8125,26.0625,"u ad.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",37.2,NA,"female",21.1,215,4.20982796740574,93.8923460859446,"Spring",13633
+4,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",37.3,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13614
+5,-112.2222222,27.224722,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",37.3,NA,"male",23.4,113,5.30479342984563,139.796764755099,"Spring",13754
+3,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",37.4,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13494
+11,-117.27198,34.02053,"ad.",1916,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",37.4,NA,"female",15.8,472,4.95307526143653,179.83609227029,"Fall",13596
+10,-118.1367378,34.6980419,NA,1989,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",37.5,NA,"female",16.9,65,7.89861898170698,127.93654374299,"Fall",13568
+6,-105.0284477688,27.5428877688,"u ad.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",37.5,NA,"male",18.7,269,6.23258786662102,161.669183221761,"Summer",13580
+5,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",37.5,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13621
+5,-115.4207,35.1716,"imm.",1938,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",37.5,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",13643
+1,-111.78694,29.10167,"u ad.",1942,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",37.5,NA,"female",23.7,115,6.21573638339648,177.250610427731,"Winter",13653
+4,-104.952119,25.6203535,"ad",1971,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",37.5,NA,"male",19.7,383,4.14319449290769,132.972041341058,"Spring",13765
+11,-117.27198,34.02053,"imm.",1916,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",37.6,NA,"female",15.8,472,4.95307526143653,179.83609227029,"Fall",13489
+2,-115.2713889,30.194167,"ad.",1928,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",37.8,NA,"female",18.4,101,4.50121195800743,82.241330021081,"Winter",13756
+4,-109.9,22.8833,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",37.9,NA,"female",23,165,3.59750544885556,121.293124556952,"Spring",13512
+6,-106.08889,28.7080373639,"u ad.",1957,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38,NA,"male",19,240,5.85322366501804,147.45161899312,"Summer",13482
+2,-110.3,24.12311,"ad.",1939,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",38,NA,"female",24.3,453,4.54541893925448,126.67059751186,"Winter",13510
+9,-106.401684,29.480204,"s.o.",1961,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38,NA,"female",16.1,300,6.45126250270347,106.69242113324,"Fall",13592
+4,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",38,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Spring",13605
+11,-110,23.566667,"ad.",1928,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",38,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",13627
+4,-112.2576561,34.2581237,"ad",1969,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38,209,"female",16.2,426,8.17469765912977,74.1935294173119,"Spring",13657
+6,-110.9333333,32.2166667,NA,1963,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",38,198,"female",19.9,261,7.55181595660436,89.7912424582144,"Summer",13726
+6,-106.45,29.3226,"juv.",1959,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38.1,NA,"male",15.9,315,6.35721970866529,149.588297511,"Summer",13589
+6,-115.96675,34.84264,"U",1987,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38.1,NA,"male",18.5,143,8.19939022122987,100.346383053725,"Summer",13700
+10,-110.44056,27.77333,"u ad.",1946,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",38.2,NA,"male",25.6,348,5.47796550378022,160.443391690303,"Fall",13470
+3,-117.2035217,34.5059908,"adult",1984,NA,"Campylorhynchus_brunneicapillus",38.2,NA,"female",16.8,117,8.13512306438736,186.477272704509,"Spring",13558
+4,-115.1928,35.2381,"juv.",1920,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38.2,NA,"male",14.2,182,7.84619189624669,86.6049557154347,"Spring",13597
+7,-102.1172222,22.225556,"ad.sk.",1959,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",38.2,NA,"male",15.4,348,2.65957390070916,98.6261601289123,"Summer",13751
+5,-103.6601563,30.4422389,NA,1968,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38.3,208,"undetermined",16,533,6.86777168219706,86.0546399839518,"Spring",13538
+5,-112.2456,27.22025,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",38.3,NA,"male",23.1,112,5.23777074949281,145.427755811174,"Spring",13689
+3,-109.883333,22.866667,NA,1961,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",38.3,NA,"male",24.5,134,3.81682876458741,126.965799543214,"Spring",13722
+3,-109.883333,22.866667,NA,1961,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",38.3,NA,"male",24.5,134,3.81682876458741,126.965799543214,"Spring",13769
+4,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",38.4,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13497
+6,-106.08889,28.7080373639,"u ad.",1957,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38.4,NA,"female",19,240,5.85322366501804,147.45161899312,"Summer",13586
+6,-103.7793843,30.4611433,NA,1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38.5,NA,"undetermined",16.6,394,7.11632246701521,88.5759364786237,"Summer",13553
+8,-116.3164598,34.0141366,"imm.",1950,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38.5,NA,"male",13.6,86,5.80336892753605,103.823112813695,"Summer",13575
+10,-103.8499258,30.3941115,"imm",1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38.5,NA,"female",15,593,6.34165521840244,153.657341598397,"Fall",13664
+3,-109.883333,22.866667,NA,1959,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",38.5,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",13719
+5,-112.433944,27.4569189,"ad",1973,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",38.5,NA,"male",20.5,68,5.0673344854942,145.764133343894,"Spring",13766
+11,-112.095133255,29.40194,"u ad.",1941,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",38.6,NA,"male",22.1,136,5.67944192734292,131.216151884043,"Fall",13536
+5,-112.1166667,25.7333333,"u ad.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",38.6,NA,"female",22.4,67,4.14582667122961,103.158958860839,"Spring",13716
+11,-118.21,35.37,"ad.",1933,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",38.7,NA,"female",13.3,200,8.08130558758917,160.922341519132,"Fall",13519
+7,-101.3889377803,20.7142177803,"ad.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",38.7,NA,"male",19.7,660,1.95872175387187,116.556916136356,"Summer",13582
+1,-112.280146,28.778293,"u ad.",1942,"Campylorhynchus brunneicapillus seri","Campylorhynchus_brunneicapillus",38.9,NA,"male",23.3,64,5.66559927558552,176.850291381552,"Winter",13534
+9,-111.002236,32.242695,NA,1970,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",39,NA,"female",19.4,287,7.64470504019057,115.039004785733,"Fall",13464
+1,-110.5157206,32.1667436,"adult",1969,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",39,NA,"male",13.9,439,6.91959777251058,99.6637870875514,"Winter",13566
+8,-116.3038572,34.0304563,"u ad.",1950,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39,NA,"female",13.9,82,5.9258805764258,102.312243370886,"Summer",13576
+5,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",39,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13623
+10,-111.3256659,32.5761802,"imm",1973,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39,NA,"male",20.1,205,8.35454421802345,130.018025706028,"Fall",13658
+7,-100.5104828,31.4673251,"ad",1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39,NA,"male",19.1,456,8.61540199382197,94.8081486019651,"Summer",13671
+10,-111.1,33.3,NA,1953,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",39,NA,"male",19,315,7.88525186469633,128.578052658335,"Fall",13725
+1,-110.933438,32.5260484,"adult",1969,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",39.1,NA,"female",18.5,297,7.54742581040956,71.6158265700613,"Winter",13565
+10,-116.0941527,33.8957522,"imm.",1945,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.1,NA,"female",14.1,383,6.98413787222029,141.93188433344,"Fall",13649
+1,-111.93225,28.9094200149,"u ad.",1942,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",39.1,NA,"male",23.8,93,6.04149790777891,168.115708596834,"Winter",13654
+6,-109.0333333,32.05,NA,1963,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.1,NA,"female",16.9,248,7.78592358430303,125.583554221519,"Summer",13772
+9,-103.4647994336,23.4597994336,"unknown",1952,"Campylorhynchus brunneicapillus ssp.","Campylorhynchus_brunneicapillus",39.2,NA,"undetermined",13.8,328,2.94725090190636,130.282277294111,"Fall",13485
+10,-103.8499258,30.3941115,"imm",1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.2,NA,"female",15,593,6.34165521840244,153.657341598397,"Fall",13544
+6,-106.45,29.3226,"imm.",1959,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.2,NA,"male ?",15.9,315,6.35721970866529,149.588297511,"Summer",13590
+4,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",39.2,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13619
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",39.2,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13683
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",39.2,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13736
+3,-109.883333,22.866667,NA,1959,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",39.2,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",13767
+1,-98.672,29.03,"imm.",1952,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.3,NA,"male",21.4,534,6.2614743156912,61.0813709830374,"Winter",13578
+10,-110.9323144,32.2809086,"imm",1973,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.3,NA,"male",19,215,7.91687878503705,125.126198921591,"Fall",13661
+11,-110.8333,32.7333,NA,1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.3,NA,"female",17.3,384,8.01254697901417,97.3696284226659,"Fall",13774
+9,-108.083333,30.6,"u ad.",1948,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.5,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",13573
+2,-98.672,29.03,"imm.",1952,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.5,NA,"male",21.4,534,6.2614743156912,61.0813709830374,"Winter",13579
+12,-114.58563,32.75473,"U-Ad.",1971,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",39.5,NA,"female",21,80,7.95660103310453,162.24273387354,"Winter",13694
+7,-109.932231,27.1186033,NA,1963,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",39.5,NA,"male",26,197,5.59596039364761,139.865305153305,"Summer",13727
+5,-113.8058333,28.264167,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",39.5,NA,"male",20.7,108,4.12408851270266,88.2384584220692,"Spring",13755
+10,-110.30055,24.0454,"U-Imm.",1961,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",39.7,NA,"male",23.8,182,4.58167463098837,170.369028212842,"Fall",13742
+4,-116.1,30.9667,"unknown",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",39.8,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13507
+4,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",39.8,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13620
+11,-112.280146,28.778293,"u ad.",1941,"Campylorhynchus brunneicapillus seri","Campylorhynchus_brunneicapillus",39.8,NA,"male ?",23.3,85,5.27808505219287,128.603081484426,"Fall",13651
+7,-110.19749,23.84208,"U-Ad.",1974,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",39.8,NA,"male",20.9,271,4.81823399056945,104.146080494226,"Summer",13697
+12,-111.0884337,32.3997219,NA,1969,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",39.9,NA,"male",20.3,209,7.74144200019765,75.1995042643259,"Winter",13460
+8,-116.4058186,34.0878165,"ad.",1950,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",39.9,NA,"female",15.5,77,6.14912533814708,109.68802680287,"Summer",13574
+6,-110.33944,24.31789,"U-Ad.",1974,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",39.9,NA,"male",22.6,165,5.2420430322075,109.250571865976,"Summer",13745
+11,-110.9748459,31.8522835,NA,1952,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",40,NA,"female",18.9,312,8.212056915772,87.9202044205253,"Fall",13457
+4,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13505
+10,-115.7849679,33.7234284,"u ad.",1945,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",40,NA,"male",15.8,297,7.44183506206024,197.311601245142,"Fall",13531
+6,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",40,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Summer",13609
+4,-116.0664242,33.5573954,"u ad.",1937,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",40,NA,"male",22.6,48,8.80184209369972,140.46069543915,"Spring",13638
+6,-103.6444842,30.479402,"juv",1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",40,NA,"male",17.5,374,7.31032893178611,86.925802491615,"Summer",13673
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",40,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13684
+7,-110.19749,23.84208,"U-Juv.",1974,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40,NA,"male",20.9,271,4.81823399056945,104.146080494226,"Summer",13698
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",40,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13735
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",40,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13737
+5,-113.80064,28.25021,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",40,NA,"male",20.2,117,4.16772410824232,84.9291350608774,"Spring",13741
+3,-109.883333,22.866667,NA,1959,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",13768
+3,-109.883333,22.866667,NA,1963,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40,NA,"male",25,153,3.15364147382903,173.433921442796,"Spring",13771
+5,-110.083333,23.15,"u ad.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40.1,NA,"male",21.7,302,3.49192792108609,120.149980687521,"Spring",13517
+4,-111.8125,26.0625,"u ad.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40.3,NA,"male",21.1,215,4.20982796740574,93.8923460859446,"Spring",13514
+1,-111.78694,29.10167,"u ad.",1942,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",40.3,NA,"male",23.7,115,6.21573638339648,177.250610427731,"Winter",13535
+3,-114.6675686,32.738077,"immature",1964,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",40.3,NA,"male",21,54,8.06592157841191,164.254418205801,"Spring",13560
+4,-111.8125,26.0625,"u ad.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40.4,NA,"male",21.1,215,4.20982796740574,93.8923460859446,"Spring",13516
+6,-106.08889,28.7080373639,"u ad.",1957,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",40.4,NA,"male",19,240,5.85322366501804,147.45161899312,"Summer",13587
+1,-111.1055312,32.3561848,NA,1969,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",40.5,NA,"male",20.4,200,7.88992453011492,77.8249784627485,"Winter",13459
+9,-115.3313698,33.3375316,NA,1989,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",40.5,NA,"male",22.5,64,7.82541992289851,224.051029090169,"Fall",13466
+3,-107.5912166667,32.0894333333,NA,2013,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",40.5,4,"female",16.3,292,8.37153818095286,139.122699976439,"Spring",13469
+6,-115.208333,30.866667,"imm.",1926,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",40.5,NA,"male",18.8,103,4.90228765398607,106.831415172652,"Summer",13503
+6,-110.33944,24.31789,"U-Ad.",1974,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40.5,NA,"male",22.6,165,5.2420430322075,109.250571865976,"Summer",13696
+11,-110.2233333,23.441667,"ad.",1928,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40.6,NA,"female",22.4,133,3.35381962255069,121.078314185869,"Fall",13759
+2,-116.1,30.9667,"ad.",1953,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",40.7,NA,"female",16.2,126,3.81800955599864,155.514321477812,"Winter",13481
+3,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",40.7,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13601
+4,-109.9,22.8833,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40.7,NA,"male",23,165,3.59750544885556,121.293124556952,"Spring",13631
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",40.7,NA,"female",21.1,93,4.28191227458862,95.8155765889166,"Spring",13686
+3,-103.57687,30.4859591,NA,1935,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",40.8,NA,"female",17.1,358,6.39677949274382,78.0735910126019,"Spring",13557
+10,-110.2233333,23.441667,"ad.",1928,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40.8,NA,"male",22.4,133,3.35381962255069,121.078314185869,"Fall",13709
+6,-109.7747222,23.441944,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40.8,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",13763
+7,-102.1172222,22.225556,"ad.sk.",1959,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",40.9,NA,"male",15.4,348,2.65957390070916,98.6261601289123,"Summer",13703
+6,-109.7747222,23.441944,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",40.9,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",13711
+6,-106.45,29.3226,"imm.",1959,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41,NA,"male",15.9,315,6.35721970866529,149.588297511,"Summer",13483
+5,-103.8499258,30.3941115,"ad",1975,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41,NA,"male",14.2,397,6.15526382271895,115.139227614304,"Spring",13546
+6,-116.1,30.9667,"ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",41,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Summer",13598
+5,-113.80064,28.25021,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",41,NA,"male",20.2,117,4.16772410824232,84.9291350608774,"Spring",13691
+7,-98.77561,26.71556,NA,2013,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",41,NA,"male",23.2,629,6.16345534730169,94.5934407801756,"Summer",13718
+2,-115.63,30.049444,"ad.",1953,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",41,NA,"male",17.9,107,4.36358033423625,124.651508433937,"Winter",13749
+9,-101.7892777688,21.2117777688,"juv.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",41.2,NA,"male",17.9,803,2.34423858543761,120.829453125568,"Fall",13475
+7,-101.3889377803,20.7142177803,"ad.",1952,"Campylorhynchus brunneicapillus guttatus","Campylorhynchus_brunneicapillus",41.2,NA,"male",19.7,660,1.95872175387187,116.556916136356,"Summer",13477
+3,-114.95,31.9,"ad.",1928,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.2,NA,"male",22.5,22,6.28473378814718,75.3065568508208,"Spring",13508
+1,-111.110785,29.908082,"u ad.",1942,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",41.2,NA,"male",20.4,287,6.20930386963422,145.025407344833,"Winter",13537
+7,-103.3701896,29.2820569,"ad",1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.2,NA,"male",19.3,354,7.31069681212317,80.4196249649082,"Summer",13549
+2,-115.14084,32.4169,"ad.",1928,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.2,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Winter",13624
+2,-115.14084,32.4169,"ad.",1928,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.2,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Winter",13625
+3,-100.4825188901,25.6547011098,"u ad.",1940,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.2,NA,"male",17.6,385,4.78073786621423,112.565022327194,"Spring",13648
+11,-110.8333,32.7333,NA,1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.2,NA,"male",17.3,384,8.01254697901417,97.3696284226659,"Fall",13731
+5,-117.510504,35.943643,"u ad.",1940,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.3,NA,"male",12.9,257,7.39600629332541,151.451365416565,"Spring",13527
+4,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",41.3,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13685
+6,-109.7747222,23.441944,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",41.3,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",13714
+4,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",41.5,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13495
+1,-114.7842,32.4964,"u ad.",1941,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.5,NA,"male",22.1,153,6.71781891011442,108.426553483278,"Winter",13528
+5,-115.4207,35.1716,"imm.",1938,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.5,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",13642
+2,-115.47,30.0675,"ad.",1953,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",41.5,NA,"male",17.5,120,4.53738677962093,128.956567508399,"Winter",13701
+2,-110.3,24.12311,"ad.",1939,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",41.6,NA,"male",24.3,453,4.54541893925448,126.67059751186,"Winter",13509
+5,-103.1671142,29.3082557,NA,1967,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.6,203,"male",18.7,265,7.0796550164196,105.129296782011,"Spring",13655
+4,-114.8667,31,"u ad.",1926,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",41.7,NA,"female",21.3,85,5.24377697558706,168.172831604019,"Spring",13502
+1,-110.5157206,32.1667436,"adult",1969,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",41.7,NA,"male",13.9,439,6.91959777251058,99.6637870875514,"Winter",13561
+5,-112.89395,27.29858,"U-Ad.",1927,"Campylorhynchus brunneicapillus purus","Campylorhynchus_brunneicapillus",41.7,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",13690
+11,-110.25055,23.9504,"U-Ad.",1961,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",41.9,NA,"male",23,269,4.51713069292551,182.03488769107,"Fall",13693
+7,-110.15083,23.86708,"U-Ad.",1974,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",41.9,NA,"male",20.6,293,4.79968433305459,105.888087682215,"Summer",13744
+1,-114.7842,32.4964,"u ad.",1941,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",42,NA,"female",22.1,153,6.71781891011442,108.426553483278,"Winter",13529
+11,-110.44056,27.77333,"u ad.",1946,"Campylorhynchus brunneicapillus brunneicapillus","Campylorhynchus_brunneicapillus",42,NA,"male",25.6,348,5.47796550378022,160.443391690303,"Fall",13572
+4,-103.7164832,30.7421274,NA,1937,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",42,NA,"male",15.9,392,7.29127747879117,69.8839076920752,"Spring",13679
+10,-115.8008333,32.368333,"ad.",1927,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",42,NA,"female",21.6,153,6.26287764239701,130.466164725967,"Fall",13707
+4,-112.1166667,25.7333333,"u ad.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",42,NA,"male",22.4,67,4.14582667122961,103.158958860839,"Spring",13715
+3,-111.7884137,32.02421,"ad",1952,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",42.2,NA,"male",18.7,334,8.41129741730871,96.292625952408,"Spring",13555
+7,-110.19749,23.84208,"U-Ad.",1974,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",42.2,NA,"male",20.9,271,4.81823399056945,104.146080494226,"Summer",13695
+5,-112.1166667,25.7333333,"imm.",1931,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",42.2,NA,"male",22.4,67,4.14582667122961,103.158958860839,"Spring",13764
+1,-111.09922,32.348126,"adult",1968,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",42.3,NA,"male",20.2,277,7.39432624422676,94.2561937257103,"Winter",13567
+4,-112.9,27.3,"u ad.",1927,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",42.3,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13618
+6,-109.7747222,23.441944,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",42.3,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",13713
+4,-109.9,22.8833,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",42.4,NA,"male",23,165,3.59750544885556,121.293124556952,"Spring",13632
+10,-103.8499258,30.3941115,"imm",1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",42.5,NA,"male",15,593,6.34165521840244,153.657341598397,"Fall",13545
+6,-106.08889,28.7080373639,"u ad.",1957,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",42.5,NA,"male",19,240,5.85322366501804,147.45161899312,"Summer",13588
+3,-109.883333,22.866667,NA,1959,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",42.5,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",13720
+7,-100.5736655,31.476649,"ad",1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",42.8,NA,"female",19,447,8.5942193398008,95.3533527337041,"Summer",13552
+4,-118.136228,35.0398929,"u ad.",1960,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",42.9,NA,"female",17.3,92,9,137.964482080939,"Spring",13591
+11,-109.84887,23.94041,"U-Ad.",1961,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",42.9,NA,"male",23.3,276,5.04738155938905,139.463534061328,"Fall",13743
+2,-116.1,30.9667,"ad.",1953,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",43,NA,"male",16.2,126,3.81800955599864,155.514321477812,"Winter",13480
+2,-115.789927,30.253612,"ad.",1953,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",43,NA,"male",18.8,77,4.17883375059974,122.366491727343,"Winter",13585
+11,-116.1,30.9667,"ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",43,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Fall",13599
+3,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",43,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13600
+5,-103.712579,30.507234,NA,1975,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",43,NA,"undetermined",15.9,366,6.39642419045535,119.950475557416,"Spring",13665
+1,-112.7387586,32.2396468,"adult",1969,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",43.1,NA,"male",20.8,207,8.01963499509457,107.750834380413,"Winter",13564
+11,-110.8333,32.7333,NA,1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",43.1,NA,"female",17.3,384,8.01254697901417,97.3696284226659,"Fall",13730
+6,-115.51144,34.93878,"ad.",1938,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",43.2,NA,"female",15.5,240,7.82374009607356,143.316621049234,"Summer",13644
+3,-109.883333,22.866667,NA,1961,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",43.2,NA,"male",24.5,134,3.81682876458741,126.965799543214,"Spring",13721
+4,-116.0664242,33.5573954,"u ad.",1937,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",43.3,NA,"male",22.6,48,8.80184209369972,140.46069543915,"Spring",13639
+3,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",43.7,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13602
+4,-109.9,22.8833,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",43.8,NA,"male",23,165,3.59750544885556,121.293124556952,"Spring",13513
+11,-118.21,35.37,"ad.",1933,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",43.8,NA,"female",13.3,200,8.08130558758917,160.922341519132,"Fall",13518
+5,-114.535,37.33744,"ad.sk.",1990,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",43.8,NA,"male",15.2,318,9.18897560815528,76.7830219376095,"Spring",13593
+4,-114.8667,31,"imm.",1926,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",43.8,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",13611
+2,-103.57687,30.4859591,NA,1935,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",43.8,NA,"male",17.1,358,6.39677949274382,78.0735910126019,"Winter",13677
+4,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",43.9,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13499
+1,-115.0719185,32.9975414,NA,1994,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",44,NA,"undetermined",23,86,8.53734665331026,121.977012281989,"Winter",13467
+12,-116.1,30.9667,"imm.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",44,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Winter",13491
+5,-115.4207,35.1716,"imm.",1938,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",44,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",13523
+10,-111.3256659,32.5761802,"imm",1973,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",44,NA,"[male]",20.1,205,8.35454421802345,130.018025706028,"Fall",13541
+11,-110.2233333,23.441667,"ad.",1928,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",44,NA,"male",22.4,133,3.35381962255069,121.078314185869,"Fall",13758
+3,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",44.1,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13493
+4,-116.1,30.9667,"u ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",44.1,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Spring",13498
+4,-109.9,22.8833,"ad.",1929,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",44.3,NA,"male",23,165,3.59750544885556,121.293124556952,"Spring",13630
+12,-115.7230556,31.4,"ad.",1921,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",44.3,NA,"male",15.8,253,4.82520999700029,97.4660454908212,"Winter",13753
+9,-110.926445,32.2217751,"adult",1970,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",44.4,NA,"male",19.2,297,7.54204377091676,114.099555941693,"Fall",13463
+11,-110.2233333,23.441667,"ad.",1928,"Campylorhynchus brunneicapillus affinis","Campylorhynchus_brunneicapillus",44.4,NA,"male",22.4,133,3.35381962255069,121.078314185869,"Fall",13710
+4,-114.8667,31,"ad.",1926,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",44.5,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",13610
+11,-110.8333,32.7333,NA,1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",44.5,NA,"male",17.3,384,8.01254697901417,97.3696284226659,"Fall",13729
+3,-104.4916,32.2615666667,NA,2010,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",44.6,NA,"male",16.8,455,8.21452427660355,134.775060764941,"Spring",13570
+9,-116.2385578,34.0696063,"ad.",1950,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",44.7,NA,"male",15.4,74,6.47533197932154,105.961489107048,"Fall",13474
+3,-114.179149,35.28484,"skull ossified",1977,"Campylorhynchus brunneicapillus couesi ?","Campylorhynchus_brunneicapillus",45,NA,"female ?",17.1,185,8.03990049689671,66.6367332139503,"Spring",13487
+11,-116.1,30.9667,"ad.",1925,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",45,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Fall",13490
+10,-116.093385,33.8997592,"u ad.",1945,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",45,NA,"undetermined",14.1,386,6.98413787222029,142.644555787304,"Fall",13530
+1,-111.1226288,32.3561848,"adult",1969,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",45,NA,"male",20.4,205,7.85429336365941,79.5775988267632,"Winter",13563
+4,-103.6944103,30.4447763,"ad",1966,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",45.3,199,"male",16.1,460,7.50395350344191,120.644428765398,"Spring",13556
+2,-103.57687,30.4859591,NA,1935,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",45.3,NA,"male",17.1,358,6.39677949274382,78.0735910126019,"Winter",13678
+1,-111.0975965,32.2300761,"adult",1971,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",45.4,NA,"male",18.5,382,7.28314783759347,145.305316332688,"Winter",13462
+10,-103.8499258,30.3941115,"imm",1974,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",45.8,NA,"male",15,593,6.34165521840244,153.657341598397,"Fall",13663
+2,-115.47,30.0675,"ad.",1953,"Campylorhynchus brunneicapillus bryanti","Campylorhynchus_brunneicapillus",46,NA,"male",17.5,120,4.53738677962093,128.956567508399,"Winter",13750
+10,-117.2634697,34.0328268,"ad.",1916,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",46.4,NA,"male",15.7,478,4.97090778856581,178.427698504297,"Fall",13488
+11,-117.27198,34.02053,"ad.",1916,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",46.4,NA,"male",15.8,472,4.95307526143653,179.83609227029,"Fall",13595
+10,-115.7392497,33.7010716,"imm.",1945,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",46.7,NA,"male",16.9,263,7.64953949891459,195.172119846486,"Fall",13532
+7,-100.5736655,31.476649,"ad",1977,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",46.8,93,"male",19,447,8.5942193398008,95.3533527337041,"Summer",13672
+1,-115.4207,35.1716,"ad.",1938,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",49.2,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",13640
+5,-115.4873752,35.2614609,"ad.",1938,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",49.3,NA,"male",14.6,210,8.16828215314171,138.364129966889,"Spring",13522
+12,-115.43194,34.9890368,"imm.",1937,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",51.5,NA,"male",15.2,132,8.79550074375151,108.815078285175,"Winter",13520
+12,-115.43194,34.9890368,"imm.",1937,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",53.3,NA,"female",15.2,132,8.79550074375151,108.815078285175,"Winter",13521
+12,-106.5636063,31.9102046,"imm",1973,"Campylorhynchus brunneicapillus couesi","Campylorhynchus_brunneicapillus",57.4,NA,"male",16.4,198,7.74371690566949,115.062524270127,"Winter",13539
+3,-114.633228,32.738077,"immature",1964,"Campylorhynchus brunneicapillus","Campylorhynchus_brunneicapillus",69,NA,"male",21.3,55,8.098835494294,158.981042711509,"Spring",13458

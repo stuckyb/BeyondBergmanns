@@ -1,0 +1,380 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-115.9311,35.7836,NA,1968,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",7,150,"male",14.5,114,7.74367288158337,104.291063468101,"Summer",87525
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",7.5,115,"female",9.5,118,7.19619006941531,173.767330090903,"Summer",87171
+6,-115.9311,35.7836,NA,1967,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",7.5,152,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",87614
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",8,139,"male",14,192,7.53323947380521,124.750436784026,"Summer",87334
+7,-117.9376234,36.970074,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",8,145,"female",12.3,189,7.89592817964942,115.611340876156,"Summer",87347
+9,-115.39087,33.46253,NA,1989,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",8,152,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",87356
+6,-108.990598,40.520598,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",8,145,"male",7.2,287,10.6807494629782,72.4933889024834,"Summer",87363
+7,-111.180009,38.185075,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",8,144,"male",9.4,137,9.63124256434928,90.7557107524965,"Summer",87371
+6,-110.865044,37.253186,NA,1994,"Peromyscus crinitus auripectus","Peromyscus_crinitus",8,140,"female",15.7,145,10.4812820173523,49.9624764614036,"Summer",87379
+9,-114.10444,32.35972,NA,2001,"Peromyscus crinitus","Peromyscus_crinitus",8,169,"female",21.4,100,7.94676892602499,102.764108456176,"Fall",87612
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",9,78,"male",14,192,7.53323947380521,124.750436784026,"Summer",87145
+6,-115.9311,35.7836,NA,1967,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",9,167,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",87613
+9,-115.25477,33.23941,NA,1989,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",9.5,158,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87146
+9,-115.25477,33.23941,NA,1989,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",9.5,164,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87163
+6,-116.9959362,36.0834642,NA,1967,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",9.5,160,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",87173
+1,-115.55878,33.5164,NA,1990,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",9.5,145,"female",19.4,93,8.18340430753645,145.068442700463,"Winter",87335
+3,-115.56167,34.61583,NA,1996,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",9.8,155,"female",22.1,63,8.21672352306839,78.06247497998,"Spring",87352
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",10,143,"male",14,192,7.53323947380521,124.750436784026,"Summer",87142
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",10,150,"female",14,192,7.53323947380521,124.750436784026,"Summer",87158
+9,-112.737148,36.861931,NA,2001,"Peromyscus crinitus","Peromyscus_crinitus",10,155,"female",13.8,241,8.85315814220604,57.1210763940181,"Fall",87200
+6,-108.990598,40.520598,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",10,154,"female",7.2,287,10.6807494629782,72.4933889024834,"Summer",87364
+9,-112.737148,36.861931,NA,2001,"Peromyscus crinitus","Peromyscus_crinitus",10,158,"male",13.8,241,8.85315814220604,57.1210763940181,"Fall",87383
+5,-116.1734238,34.4926033,NA,1994,"Peromyscus crinitus","Peromyscus_crinitus",10,159,"male",17.3,103,7.88039377573266,123.742528955353,"Spring",87452
+5,-116.1734238,34.4926033,NA,1994,"Peromyscus crinitus","Peromyscus_crinitus",10,172,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",87453
+6,-118.96,42.81,NA,1992,"Peromyscus crinitus crinitus","Peromyscus_crinitus",10,176,"male",9.6,295,7.78796663079807,88.7581722901244,"Summer",87520
+9,-114.10444,32.35972,NA,2001,"Peromyscus crinitus","Peromyscus_crinitus",10,175,"male",21.4,100,7.94676892602499,102.764108456176,"Fall",87556
+9,-114.10444,32.35972,NA,2001,"Peromyscus crinitus","Peromyscus_crinitus",10,170,"male",21.4,100,7.94676892602499,102.764108456176,"Fall",87557
+7,-113.06361,36.248122,NA,1964,"Peromyscus crinitus","Peromyscus_crinitus",10,150,"male",13.1,216,9.30986361909027,90.2665626584284,"Summer",87595
+9,-114.10444,32.35972,NA,2001,"Peromyscus crinitus","Peromyscus_crinitus",10,174,"female",21.4,100,7.94676892602499,102.764108456176,"Fall",87610
+9,-114.10444,32.35972,NA,2001,"Peromyscus crinitus","Peromyscus_crinitus",10,161,"female",21.4,100,7.94676892602499,102.764108456176,"Fall",87611
+2,-115.3388619,33.3156239,NA,1989,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",10.5,139,"male",22.9,60,7.80700443075436,221.728745009835,"Winter",87343
+7,-114.79306,36.03556,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",10.8,162,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",87475
+7,-114.79306,36.03556,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",10.8,195,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",87489
+3,-113.41025,37.00755,NA,1978,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",10.9,160,"female",16,422,8.82418766112711,87.6136009050731,"Spring",87177
+11,-114.39722,36.28917,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",10.9,188,"male",20.1,118,9.21208034281205,77.9279196120631,"Fall",87290
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11,141,"female",14,192,7.53323947380521,124.750436784026,"Summer",87139
+6,-116.9959362,36.0834642,NA,1967,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11,170,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",87172
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",11,161,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87212
+5,-116.1734238,34.4926033,NA,1994,"Peromyscus crinitus","Peromyscus_crinitus",11,169,"male",17.3,103,7.88039377573266,123.742528955353,"Spring",87274
+5,-116.1734238,34.4926033,NA,1994,"Peromyscus crinitus","Peromyscus_crinitus",11,168,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",87276
+5,-116.1734238,34.4926033,NA,1994,"Peromyscus crinitus","Peromyscus_crinitus",11,175,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",87277
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11,160,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87318
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11,150,"female",14,192,7.53323947380521,124.750436784026,"Summer",87321
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11,172,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87349
+2,-115.3388619,33.3156239,NA,1989,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11,154,"male",22.9,60,7.80700443075436,221.728745009835,"Winter",87351
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11,139,"male",14,192,7.53323947380521,124.750436784026,"Summer",87354
+9,-112.737148,36.861931,NA,2001,"Peromyscus crinitus","Peromyscus_crinitus",11,158,"male",13.8,241,8.85315814220604,57.1210763940181,"Fall",87384
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",11,154,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87391
+11,-114.81383,36.05113,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",11,161,"male",20.6,105,9.03739705084077,99.2609996099237,"Fall",87463
+3,-116.5716667,35.6666667,NA,1999,"Peromyscus crinitus","Peromyscus_crinitus",11,157,"male",21.1,51,8.42522816883731,128.973570231198,"Spring",87535
+3,-116.5716667,35.6666667,NA,1999,"Peromyscus crinitus","Peromyscus_crinitus",11,155,"male",21.1,51,8.42522816883731,128.973570231198,"Spring",87537
+6,-118.96,42.81,NA,1992,"Peromyscus crinitus crinitus","Peromyscus_crinitus",11,178,"male",9.6,295,7.78796663079807,88.7581722901244,"Summer",87578
+5,-116.1033683,35.2024426,NA,1978,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11.2,154,"male",21,181,9.71524887000125,89.0419282004007,"Spring",87137
+11,-114.77722,36.10333,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",11.2,159,"male",20.8,123,9.08009394558262,105.340988008521,"Fall",87286
+7,-114.79306,36.03556,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",11.3,182,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",87490
+8,-114.3825,36.27306,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",11.4,171,"male",19.5,65,9.91348561151409,54.4210228429485,"Summer",87297
+6,-118.2380691,37.2122335,"unknown",1976,"Peromyscus crinitus","Peromyscus_crinitus",11.4,159,"male",13.3,119,7.4335184784661,100.238847844925,"Summer",87454
+11,-114.42944,36.30556,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",11.4,170,"female",20.1,116,9.22606239263139,77.5113481042109,"Fall",87474
+7,-113.06361,36.248122,NA,1964,"Peromyscus crinitus","Peromyscus_crinitus",11.4,130,"male",13.1,216,9.30986361909027,90.2665626584284,"Summer",87542
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11.5,165,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87138
+6,-116.9959362,36.0834642,NA,1967,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11.5,158,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",87329
+10,-120.47273,40.52303,NA,2007,"Peromyscus crinitus crinitus","Peromyscus_crinitus",11.5,159,"male",10.7,220,8.65389647745016,104.790326840434,"Fall",87588
+5,-116.1033683,35.2024426,NA,1978,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11.6,152,"male",21,181,9.71524887000125,89.0419282004007,"Spring",87315
+11,-114.42944,36.30556,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",11.6,174,"male",20.1,116,9.22606239263139,77.5113481042109,"Fall",87456
+5,-116.1033683,35.2024426,NA,1978,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",11.7,149,"male",21,181,9.71524887000125,89.0419282004007,"Spring",87160
+11,-114.42944,36.30556,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",11.7,169,"male",20.1,116,9.22606239263139,77.5113481042109,"Fall",87293
+9,-116.112329,34.428288,NA,1997,"Peromyscus crinitus","Peromyscus_crinitus",11.7,163,"male",18.6,105,7.33676400469622,117.676957894462,"Fall",87608
+11,-114.82096,36.05258,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",11.8,165,"male",20.5,104,9.01377733351461,100.890882606954,"Fall",87285
+11,-114.77722,36.10333,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",11.8,165,"male",20.8,123,9.08009394558262,105.340988008521,"Fall",87467
+7,-114.79306,36.03556,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",11.9,180,"female",19.7,40,9.85148427518627,84.9844816740634,"Summer",87491
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,151,"male",14,192,7.53323947380521,124.750436784026,"Summer",87151
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,161,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87167
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,151,"male",14,192,7.53323947380521,124.750436784026,"Summer",87169
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,152,"male",14,192,7.53323947380521,124.750436784026,"Summer",87170
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",12,172,"female",6.1,343,10.4154132579237,75.70407996982,"Summer",87186
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",12,168,"female",6.1,343,10.4154132579237,75.70407996982,"Summer",87187
+7,-111.180009,38.185075,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",12,160,"female",9.4,137,9.63124256434928,90.7557107524965,"Summer",87195
+7,-109.170327,40.425049,NA,1990,"Peromyscus crinitus auripectus","Peromyscus_crinitus",12,158,"female",8.6,248,10.8725955196233,61.6869181268163,"Summer",87198
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,160,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",87205
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,170,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",87207
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,170,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87217
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,156,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",87219
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,168,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",87223
+4,-118.00818,37.41428,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,163,"male",11,109,8.6451072166792,76.2824200900682,"Spring",87233
+9,-120.61235,40.80434,NA,2007,"Peromyscus crinitus crinitus","Peromyscus_crinitus",12,170,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",87235
+5,-116.1734238,34.4926033,NA,1994,"Peromyscus crinitus","Peromyscus_crinitus",12,181,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",87275
+5,-116.1734238,34.4926033,NA,1994,"Peromyscus crinitus","Peromyscus_crinitus",12,157,"female",17.3,103,7.88039377573266,123.742528955353,"Spring",87278
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,151,"male",14,192,7.53323947380521,124.750436784026,"Summer",87319
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,155,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87322
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,116,"male",14,192,7.53323947380521,124.750436784026,"Summer",87325
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,155,"female",14,192,7.53323947380521,124.750436784026,"Summer",87333
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,147,"female",14,192,7.53323947380521,124.750436784026,"Summer",87339
+7,-117.745502,36.5960454,NA,1977,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,149,"male",14,192,7.53323947380521,124.750436784026,"Summer",87353
+7,-110.83961,37.314387,NA,1982,"Peromyscus crinitus doutti","Peromyscus_crinitus",12,169,"female",14.4,197,9.73825244107281,47.6430240594222,"Summer",87366
+7,-111.180009,38.185075,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",12,170,"female",9.4,137,9.63124256434928,90.7557107524965,"Summer",87370
+7,-111.035114,37.851742,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",12,168,"male",11,132,9.68095208816433,99.1222949114299,"Summer",87374
+7,-111.035114,37.851742,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",12,150,"female",11,132,9.68095208816433,99.1222949114299,"Summer",87375
+7,-111.049388,37.854014,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",12,178,"male",10.9,136,9.61247611022763,99.4954240903085,"Summer",87376
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,152,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",87389
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,160,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",87395
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,160,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87402
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12,164,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",87405
+9,-120.61235,40.80434,NA,2007,"Peromyscus crinitus crinitus","Peromyscus_crinitus",12,172,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",87417
+5,-116.1734238,34.4926033,NA,1994,"Peromyscus crinitus","Peromyscus_crinitus",12,165,"male",17.3,103,7.88039377573266,123.742528955353,"Spring",87451
+10,-117.5,36.07,NA,1969,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12,159,"female",11.7,463,7.99459571248357,128.666343332422,"Fall",87522
+3,-116.5716667,35.6666667,NA,1999,"Peromyscus crinitus","Peromyscus_crinitus",12,160,"female",21.1,51,8.42522816883731,128.973570231198,"Spring",87536
+12,-114.351035,29.565398,NA,1972,"Peromyscus crinitus","Peromyscus_crinitus",12,165,"male",19.2,98,5.01091989377382,234.192187029831,"Winter",87544
+12,-114.333333,29.571778,NA,1972,"Peromyscus crinitus","Peromyscus_crinitus",12,162,"male",18.8,104,4.98290258602536,235.090007509415,"Winter",87546
+8,-111.10384,38.2502,NA,2010,"Peromyscus crinitus doutti","Peromyscus_crinitus",12,170,"male",11.9,238,9.69396485167212,76.0365962052707,"Summer",87583
+12,-114.351035,29.565398,NA,1972,"Peromyscus crinitus","Peromyscus_crinitus",12,173,"male",19.2,98,5.01091989377382,234.192187029831,"Winter",87599
+12,-114.333333,29.571778,NA,1972,"Peromyscus crinitus","Peromyscus_crinitus",12,156,"female",18.8,104,4.98290258602536,235.090007509415,"Winter",87601
+8,-114.42944,36.30556,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",12.1,168,"male",19.4,64,9.91053923249325,52.8667292288247,"Summer",87299
+7,-114.79598,36.05113,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",12.1,169,"male",20.6,106,9.07762817774188,96.1729676743356,"Summer",87457
+7,-114.77722,36.10333,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",12.1,165,"male",20,47,9.87948593927045,103.055235232618,"Summer",87481
+8,-114.79306,36.03556,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",12.3,177,"female",20.5,102,9.0602863022527,93.6527871452596,"Summer",87460
+6,-116.268176,33.817318,NA,1955,"Peromyscus crinitus stephensi","Peromyscus_crinitus",12.4,177,"male",19.9,88,7.6244970027835,255.80927238547,"Summer",87243
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12.5,174,"female",9.5,118,7.19619006941531,173.767330090903,"Summer",87140
+6,-118.0603835,36.4337688,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12.5,146,"female",12.2,98,7.7174340216673,184.438727395894,"Summer",87324
+6,-109.071228,40.5061,"juv",1995,"Peromyscus crinitus","Peromyscus_crinitus",12.5,150,NA,7.3,413,7.94589182972541,81.6416116027627,"Summer",87386
+9,-120.61235,40.80434,NA,2007,"Peromyscus crinitus crinitus","Peromyscus_crinitus",12.5,168,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",87420
+9,-120.055547,40.072674,NA,2005,"Peromyscus crinitus crinitus","Peromyscus_crinitus",12.5,148,"female",10.7,707,8.12319443807594,131.219558076562,"Fall",87422
+7,-114.79306,36.03556,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",12.5,173,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",87476
+1,-116.39,34.25,NA,1980,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",12.5,155,"male",17,281,6.78529492894209,186.946958040493,"Winter",87521
+11,-114.77722,36.10333,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",12.6,169,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",87468
+7,-113.423001,36.689644,NA,1964,"Peromyscus crinitus","Peromyscus_crinitus",12.8,165,"male",12.3,212,9.15605446321358,83.8772950444536,"Summer",87596
+8,-114.81383,36.05113,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",12.9,168,"male",20.6,105,9.03739705084077,99.2609996099237,"Summer",87459
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,164,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87150
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,170,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87154
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,161,"female",9.5,118,7.19619006941531,173.767330090903,"Summer",87159
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,161,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87162
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,164,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87174
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,183,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",87175
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,161,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87180
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,165,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87203
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,176,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87210
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,168,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",87220
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,166,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",87225
+5,-118.26698,36.77765,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,180,"male",13.2,160,7.63776006351854,179.782488886896,"Spring",87232
+4,-118.00818,37.41428,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,166,"male",11,109,8.6451072166792,76.2824200900682,"Spring",87234
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,172,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87345
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,167,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87346
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,168,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87348
+7,-110.83961,37.314387,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",13,170,"female",14.4,197,9.73825244107281,47.6430240594222,"Summer",87367
+6,-112.739621,36.863248,NA,2002,"Peromyscus crinitus","Peromyscus_crinitus",13,175,"male",13.3,161,8.8996765348097,111.978354679027,"Summer",87382
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,158,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87387
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,NA,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87388
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,168,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87394
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,168,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87401
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",13,169,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87407
+9,-120.61235,40.80434,NA,2007,"Peromyscus crinitus crinitus","Peromyscus_crinitus",13,165,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",87418
+9,-115.39,35.09,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",13,164,"male",13.9,154,7.96330599840559,122.027671840312,"Fall",87524
+8,-111.11781,38.27864,"subadult",2010,"Peromyscus crinitus doutti","Peromyscus_crinitus",13,173,"male",12,229,9.70683529865174,75.4577985057042,"Summer",87526
+9,-117.25175,38.5076,NA,2011,"Peromyscus crinitus crinitus","Peromyscus_crinitus",13,155,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",87531
+3,-116.5716667,35.6666667,NA,1999,"Peromyscus crinitus","Peromyscus_crinitus",13,166,"female",21.1,51,8.42522816883731,128.973570231198,"Spring",87593
+12,-114.351035,29.565398,NA,1972,"Peromyscus crinitus","Peromyscus_crinitus",13,164,"female",19.2,98,5.01091989377382,234.192187029831,"Winter",87598
+8,-116.112329,34.428288,NA,1997,"Peromyscus crinitus","Peromyscus_crinitus",13,168,"male",18.6,105,7.33676400469622,117.676957894462,"Summer",87609
+7,-114.79598,36.05113,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",13.1,180,"female",20.6,106,9.07762817774188,96.1729676743356,"Summer",87282
+11,-114.77722,36.10333,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",13.2,171,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",87288
+11,-114.77722,36.10333,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",13.2,167,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",87289
+8,-114.76573,36.00081,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",13.2,184,"male",19.6,42,9.77206904055294,81.6803246321047,"Summer",87302
+6,-118.2380691,37.2122335,"unknown",1976,"Peromyscus crinitus","Peromyscus_crinitus",13.2,169,"female",13.3,119,7.4335184784661,100.238847844925,"Summer",87455
+8,-113.48611,36.78694,NA,1964,"Peromyscus crinitus","Peromyscus_crinitus",13.2,170,"female",12.2,223,9.13214435968139,81.9284144277397,"Summer",87597
+11,-114.39722,36.28917,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",13.3,172,"male",20.1,118,9.21208034281205,77.9279196120631,"Fall",87469
+8,-114.39722,36.28917,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",13.5,182,"female",20.1,118,9.21208034281205,77.9279196120631,"Summer",87300
+11,-114.63539,36.05113,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",13.6,174,"male",17,159,8.48540190294752,93.1457801708503,"Fall",87301
+11,-114.77722,36.10333,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",13.6,167,"male",20.8,123,9.08009394558262,105.340988008521,"Fall",87466
+11,-114.38639,36.27194,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",13.7,175,"female",20.1,119,9.22284301792746,80.055085367625,"Fall",87471
+7,-114.79306,36.03556,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",13.7,159,"male",19.7,40,9.85148427518627,84.9844816740634,"Summer",87478
+9,-120.055547,40.072674,NA,2005,"Peromyscus crinitus crinitus","Peromyscus_crinitus",13.9,170,"male",10.7,707,8.12319443807594,131.219558076562,"Fall",87241
+11,-114.82096,36.05258,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",13.9,161,"male",20.5,104,9.01377733351461,100.890882606954,"Fall",87284
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",14,166,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87152
+7,-108.668651,40.463173,NA,1987,"Peromyscus crinitus auripectus","Peromyscus_crinitus",14,163,"female",8,311,9.61413101385222,49.9785215432248,"Summer",87193
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,187,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87204
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,170,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87206
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,167,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87209
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,165,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87213
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,166,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87214
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,166,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87215
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,167,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87216
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,162,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",87218
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,165,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",87222
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,178,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87224
+9,-120.61235,40.80434,NA,2007,"Peromyscus crinitus crinitus","Peromyscus_crinitus",14,166,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",87236
+2,-114.905702,33.1958921,NA,1990,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",14,146,"male",23.3,86,8.53999503228867,134.011878852098,"Winter",87314
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",14,160,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87317
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",14,162,"male",6.1,343,10.4154132579237,75.70407996982,"Summer",87361
+7,-108.971034,40.590239,NA,1990,"Peromyscus crinitus auripectus","Peromyscus_crinitus",14,168,"male",7.2,297,10.2686194522217,50.757233248185,"Summer",87377
+6,-108.969273,40.4411202,NA,1993,"Peromyscus crinitus","Peromyscus_crinitus",14,159,"female",4.7,493,9.40056413523178,59.4371294978565,"Summer",87385
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,173,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",87390
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,176,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",87393
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,167,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87396
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,165,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87400
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,157,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",87403
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,166,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87404
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,171,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87406
+4,-118.16474,36.59771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,172,"male",13.4,148,7.46950872588423,163.5294708906,"Spring",87412
+9,-120.61235,40.80434,NA,2007,"Peromyscus crinitus crinitus","Peromyscus_crinitus",14,178,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",87419
+6,-115.9311,35.7836,NA,1967,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",14,180,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",87523
+12,-114.351035,29.565398,NA,1972,"Peromyscus crinitus","Peromyscus_crinitus",14,175,"female",19.2,98,5.01091989377382,234.192187029831,"Winter",87545
+8,-111.11781,38.27864,NA,2010,"Peromyscus crinitus doutti","Peromyscus_crinitus",14,170,"male",12,229,9.70683529865174,75.4577985057042,"Summer",87581
+8,-118.09311,36.95677,NA,2005,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,166,"male",7,440,6.61025374289479,101.031495552924,"Summer",87586
+8,-118.09311,36.95677,NA,2005,"Peromyscus crinitus stephensi","Peromyscus_crinitus",14,165,"male",7,440,6.61025374289479,101.031495552924,"Summer",87587
+3,-115.87,38.4683333,NA,1999,"Peromyscus crinitus","Peromyscus_crinitus",14,160,"female",10.7,122,8.15612801778051,83.5606633653947,"Spring",87591
+3,-116.5716667,35.6666667,NA,1999,"Peromyscus crinitus","Peromyscus_crinitus",14,156,"female",21.1,51,8.42522816883731,128.973570231198,"Spring",87594
+6,-115.9311,35.7836,NA,1967,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",14,166,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",87615
+7,-114.72451,36.01469,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",14.1,175,"male",19.7,49,9.82297862620647,91.9047367281445,"Summer",87295
+7,-114.77722,36.10333,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",14.1,162,"male",20,47,9.87948593927045,103.055235232618,"Summer",87296
+11,-114.77722,36.10333,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",14.2,184,"female",20.8,123,9.08009394558262,105.340988008521,"Fall",87287
+3,-108.997536,39.09449,NA,1992,"Peromyscus crinitus auripectus","Peromyscus_crinitus",14.5,159,"male",11.5,325,10.7519554246912,56.5228932010588,"Spring",87310
+6,-118.4297374,37.8371541,"unknown",1942,"Peromyscus crinitus","Peromyscus_crinitus",14.5,170,"female",7.9,106,7.8948151378361,68.0673170411438,"Summer",87493
+8,-116.112329,34.428288,NA,1997,"Peromyscus crinitus","Peromyscus_crinitus",14.5,160,"female",18.6,105,7.33676400469622,117.676957894462,"Summer",87555
+7,-114.82096,36.06128,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",14.6,176,"male",19.7,38,9.85148427518627,71.1343584492673,"Summer",87294
+8,-109.8012,34.973,NA,1986,"Peromyscus crinitus","Peromyscus_crinitus",14.82,175,"male",12.9,313,8.00932694936461,64.0073371442896,"Summer",87551
+9,-109.794205,34.974544,NA,1986,"Peromyscus crinitus","Peromyscus_crinitus",14.9,165,"male",12.9,315,7.99967328878328,63.736065579516,"Fall",87554
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",15,175,"male",6.1,343,10.4154132579237,75.70407996982,"Summer",87185
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",15,165,"female",6.1,343,10.4154132579237,75.70407996982,"Summer",87188
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",15,167,"male",6.1,343,10.4154132579237,75.70407996982,"Summer",87190
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,175,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87208
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,173,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87211
+4,-118.11463,36.58771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,169,"female",15.4,125,7.88125893650516,160.558298672872,"Spring",87226
+5,-118.26698,36.77765,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,165,"female",13.2,160,7.63776006351854,179.782488886896,"Spring",87230
+5,-118.05,37.41685,NA,2010,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,169,"female",8.5,207,7.44557525709672,104.818875305295,"Spring",87239
+9,-120.055547,40.072674,NA,2005,"Peromyscus crinitus crinitus","Peromyscus_crinitus",15,156,"male",10.7,707,8.12319443807594,131.219558076562,"Fall",87242
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",15,174,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87327
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",15,174,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87355
+7,-108.814723,40.491992,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",15,178,"male",6.5,304,10.3601070545539,74.7698559066701,"Summer",87362
+7,-111.180009,38.185075,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",15,176,"female",9.4,137,9.63124256434928,90.7557107524965,"Summer",87372
+7,-110.029865,37.600213,NA,1992,"Peromyscus crinitus auripectus","Peromyscus_crinitus",15,161,"female",10.7,328,9.85305290329609,63.3940839349976,"Summer",87378
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,164,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87398
+9,-118.22488,37.40205,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,183,"female",7.8,250,7.82069903099035,131.991404678831,"Fall",87399
+4,-118.11463,36.58771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,170,"male",15.4,125,7.88125893650516,160.558298672872,"Spring",87408
+4,-118.16474,36.59771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,177,"male",13.4,148,7.46950872588423,163.5294708906,"Spring",87410
+5,-118.26698,36.77765,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,168,"male",13.2,160,7.63776006351854,179.782488886896,"Spring",87414
+4,-118.31084,37.40482,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,174,"female",13.8,79,8.51698392340359,135.624132828941,"Spring",87416
+9,-120.077708,40.092013,NA,2005,"Peromyscus crinitus crinitus","Peromyscus_crinitus",15,148,"male",11.4,529,8.38831709202529,128.228210103971,"Fall",87423
+11,-114.42944,36.30556,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",15,177,"male",20.1,116,9.22606239263139,77.5113481042109,"Fall",87472
+8,-118.09311,36.95677,NA,2005,"Peromyscus crinitus stephensi","Peromyscus_crinitus",15,183,"female",7,440,6.61025374289479,101.031495552924,"Summer",87529
+3,-113.5718,33.1825,NA,1973,"Peromyscus crinitus","Peromyscus_crinitus",15,180,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",87548
+7,-110.78851,37.6288,NA,2011,"Peromyscus crinitus","Peromyscus_crinitus",15,173,"male",14.6,159,10.3515882253826,55.9366056176183,"Summer",87585
+3,-115.87,38.4683333,NA,1999,"Peromyscus crinitus","Peromyscus_crinitus",15,166,"male",10.7,122,8.15612801778051,83.5606633653947,"Spring",87592
+3,-113.5718,33.1825,NA,1973,"Peromyscus crinitus","Peromyscus_crinitus",15,180,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",87602
+9,-109.76361,34.9425,NA,1986,"Peromyscus crinitus","Peromyscus_crinitus",15.19,166,"male",12.7,323,7.93637578533556,64.5647753636575,"Fall",87553
+6,-118.2380691,37.2122335,"unknown",1976,"Peromyscus crinitus","Peromyscus_crinitus",15.2,175,"male",13.3,119,7.4335184784661,100.238847844925,"Summer",87280
+3,-120.7,40.41,NA,1961,"Peromyscus crinitus crinitus","Peromyscus_crinitus",15.2,165,"female",8.8,289,7.35483761640163,72.5739384564213,"Spring",87577
+11,-114.39722,36.28917,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",15.3,171,"male",20.1,118,9.21208034281205,77.9279196120631,"Fall",87292
+11,-114.82096,36.05258,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",15.3,176,"female",20.5,104,9.01377733351461,100.890882606954,"Fall",87464
+5,-116.1033683,35.2024426,NA,1978,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",15.5,175,"male",21,181,9.71524887000125,89.0419282004007,"Spring",87149
+10,-107.8896168,36.031488,NA,2004,"Peromyscus crinitus auripectus","Peromyscus_crinitus",15.5,172,"female",10,197,8.92057122100883,72.7043122617511,"Fall",87199
+12,-114.351035,29.565398,NA,1972,"Peromyscus crinitus","Peromyscus_crinitus",15.5,177,"male",19.2,98,5.01091989377382,234.192187029831,"Winter",87600
+3,-113.5718,33.1825,NA,1973,"Peromyscus crinitus","Peromyscus_crinitus",15.5,171,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",87603
+3,-108.997536,39.09449,NA,1992,"Peromyscus crinitus auripectus","Peromyscus_crinitus",15.6,160,"female",11.5,325,10.7519554246912,56.5228932010588,"Spring",87306
+7,-116.24561,36.74758,NA,1968,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",15.7,182,"female",15.6,124,8.30403333910514,153.871319956951,"Summer",87147
+11,-114.82096,36.05258,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",15.7,175,"female",20.5,104,9.01377733351461,100.890882606954,"Fall",87465
+11,-114.41556,36.28228,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",15.7,185,"male",20,119,9.19716688920446,78.4009908779234,"Fall",87470
+7,-114.77722,36.10333,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",15.7,176,"female",20,47,9.87948593927045,103.055235232618,"Summer",87483
+8,-109.8012,34.973,NA,1986,"Peromyscus crinitus","Peromyscus_crinitus",15.75,175,"male",12.9,313,8.00932694936461,64.0073371442896,"Summer",87606
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16,181,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87135
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16,176,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87155
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16,164,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87156
+6,-111.59516,36.86749,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",16,172,"male",14.6,234,9.65255108374167,66.336186470402,"Summer",87181
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",16,172,"male",6.1,343,10.4154132579237,75.70407996982,"Summer",87182
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",16,172,"male",6.1,343,10.4154132579237,75.70407996982,"Summer",87183
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",16,175,"male",6.1,343,10.4154132579237,75.70407996982,"Summer",87184
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",16,182,"female",6.1,343,10.4154132579237,75.70407996982,"Summer",87189
+6,-108.990598,40.520598,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",16,179,"male",7.2,287,10.6807494629782,72.4933889024834,"Summer",87191
+7,-111.180009,38.185075,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",16,178,"male",9.4,137,9.63124256434928,90.7557107524965,"Summer",87194
+5,-118.05,37.41685,NA,2010,"Peromyscus crinitus stephensi","Peromyscus_crinitus",16,168,"male",8.5,207,7.44557525709672,104.818875305295,"Spring",87238
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16,173,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87312
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16,170,"male",9.5,118,7.19619006941531,173.767330090903,"Summer",87320
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16,170,"male",17.1,88,7.84292771556102,118.236195726173,"Winter",87323
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16,169,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87332
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16,171,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87338
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16,180,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87357
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",16,166,"male",6.1,343,10.4154132579237,75.70407996982,"Summer",87360
+6,-108.668651,40.463173,NA,1989,"Peromyscus crinitus auripectus","Peromyscus_crinitus",16,179,"female",7.7,217,10.1318990711455,47.7906959280146,"Summer",87368
+4,-118.16474,36.59771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",16,173,"male",13.4,148,7.46950872588423,163.5294708906,"Spring",87409
+4,-118.16474,36.59771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",16,165,"male",13.4,148,7.46950872588423,163.5294708906,"Spring",87411
+4,-118.16474,36.59771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",16,168,"male",13.4,148,7.46950872588423,163.5294708906,"Spring",87413
+5,-118.26698,36.77765,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",16,167,"female",13.2,160,7.63776006351854,179.782488886896,"Spring",87415
+8,-114.39722,36.28917,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",16,189,"male",19.4,65,9.91156349468089,52.6297098950428,"Summer",87487
+8,-118.09311,36.95677,NA,2005,"Peromyscus crinitus stephensi","Peromyscus_crinitus",16,172,"male",7,440,6.61025374289479,101.031495552924,"Summer",87528
+10,-120.47273,40.52303,NA,2007,"Peromyscus crinitus crinitus","Peromyscus_crinitus",16,161,"male",10.7,220,8.65389647745016,104.790326840434,"Fall",87530
+6,-111.703963,36.815541,NA,1964,"Peromyscus crinitus","Peromyscus_crinitus",16,175,"male",13.2,135,9.87946676882733,73.40981625324,"Summer",87538
+12,-114.50444,32.98278,NA,1971,"Peromyscus crinitus","Peromyscus_crinitus",16,174,"female",21.7,76,8.12528321184728,172.071866592791,"Winter",87549
+7,-112.92111,36.54361,NA,1964,"Peromyscus crinitus","Peromyscus_crinitus",16.1,174,"male",11.2,205,9.26267763498747,81.3956360850481,"Summer",87543
+8,-114.77722,36.10333,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",16.2,112,"female",20,47,9.87948593927045,103.055235232618,"Summer",87303
+3,-113.41025,37.00755,NA,1978,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",16.4,160,"male",16,422,8.82418766112711,87.6136009050731,"Spring",87344
+7,-114.80134,36.05113,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",16.6,192,"male",19.7,40,9.85148427518627,81.0102962661515,"Summer",87492
+9,-120.353455,40.1445702,NA,2005,"Peromyscus crinitus crinitus","Peromyscus_crinitus",16.8,174,"male",10.4,620,8.0647521519714,127.547210770308,"Fall",87240
+9,-109.76361,34.9425,NA,1986,"Peromyscus crinitus","Peromyscus_crinitus",16.91,173,"female",12.7,323,7.93637578533556,64.5647753636575,"Fall",87550
+3,-108.997536,39.09449,NA,1992,"Peromyscus crinitus auripectus","Peromyscus_crinitus",17,164,"male",11.5,325,10.7519554246912,56.5228932010588,"Spring",87133
+4,-118.16474,36.59771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",17,175,"female",13.4,148,7.46950872588423,163.5294708906,"Spring",87227
+4,-118.16474,36.59771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",17,176,"male",13.4,148,7.46950872588423,163.5294708906,"Spring",87228
+5,-118.26698,36.77765,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",17,NA,"female",13.2,160,7.63776006351854,179.782488886896,"Spring",87231
+2,-117.50539,35.44,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",17,183,"female",17.1,88,7.84292771556102,118.236195726173,"Winter",87316
+9,-118.31084,37.40482,NA,2006,"Peromyscus crinitus stephensi","Peromyscus_crinitus",17,176,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",87397
+5,-118.05,37.41685,NA,2010,"Peromyscus crinitus stephensi","Peromyscus_crinitus",17,172,"female",8.5,207,7.44557525709672,104.818875305295,"Spring",87421
+8,-110.5729589711,37.907878,NA,2010,"Peromyscus crinitus","Peromyscus_crinitus",17,177,"female",13.1,262,9.87001504404613,75.5588488887334,"Summer",87527
+8,-119.67,42.54,NA,1977,"Peromyscus crinitus crinitus","Peromyscus_crinitus",17,148,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",87576
+9,-109.76361,34.9425,NA,1986,"Peromyscus crinitus","Peromyscus_crinitus",17.01,176,"female",12.7,323,7.93637578533556,64.5647753636575,"Fall",87607
+11,-114.39722,36.28917,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",17.2,181,"female",20.1,118,9.21208034281205,77.9279196120631,"Fall",87291
+7,-114.82096,36.06128,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",17.2,177,"female",19.7,38,9.85148427518627,71.1343584492673,"Summer",87479
+3,-108.997536,39.09449,NA,1992,"Peromyscus crinitus auripectus","Peromyscus_crinitus",17.3,170,"male",11.5,325,10.7519554246912,56.5228932010588,"Spring",87308
+3,-113.41025,37.00755,NA,1978,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",17.3,176,"male",16,422,8.82418766112711,87.6136009050731,"Spring",87328
+6,-112.082886,36.725691,NA,1964,"Peromyscus crinitus","Peromyscus_crinitus",17.4,185,"female",10.3,258,9.22915341335665,76.1299010695872,"Summer",87539
+8,-109.8012,34.973,NA,1986,"Peromyscus crinitus","Peromyscus_crinitus",17.58,167,"male",12.9,313,8.00932694936461,64.0073371442896,"Summer",87552
+6,-112.082886,36.725691,NA,1964,"Peromyscus crinitus","Peromyscus_crinitus",17.9,171,"male",10.3,258,9.22915341335665,76.1299010695872,"Summer",87541
+5,-108.550848,40.046732,NA,2005,"Peromyscus crinitus auripectus","Peromyscus_crinitus",18,169,"female",6.6,564,8.54309485473325,41.9689094162182,"Spring",87202
+6,-118.078813,36.4265401,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",18,160,"female",10.1,116,7.28012549841878,172.899482417803,"Summer",87326
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",18,176,"female",9.5,118,7.19619006941531,173.767330090903,"Summer",87350
+7,-108.641736,40.4681,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",18,180,"male",6.1,343,10.4154132579237,75.70407996982,"Summer",87359
+6,-109.180929,40.421239,NA,1982,"Peromyscus crinitus doutti","Peromyscus_crinitus",18,182,"male",7.9,310,10.6585397544396,79.6098214385814,"Summer",87365
+6,-112.737455,36.863123,NA,2002,"Peromyscus crinitus","Peromyscus_crinitus",18,185,"male",13.3,162,8.89451652662607,111.978354679027,"Summer",87380
+7,-114.81383,36.06564,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",18,199,"female",20.6,107,9.07762817774188,102.165113603962,"Summer",87458
+6,-118.01,36.41,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",18,178,"female",15.1,70,8.3860770255697,199.276919385461,"Summer",87579
+8,-111.11781,38.27864,NA,2010,"Peromyscus crinitus doutti","Peromyscus_crinitus",18,180,"female",12,229,9.70683529865174,75.4577985057042,"Summer",87582
+7,-114.82096,36.05113,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",18.2,183,"female",19.7,38,9.80241157712084,79.9926950645878,"Summer",87480
+3,-113.43737,37.00755,NA,1978,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",18.3,171,"female",16,415,8.80231977000003,85.9313480765086,"Spring",87157
+11,-114.42944,36.30556,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",18.3,181,"female",20.1,116,9.22606239263139,77.5113481042109,"Fall",87473
+8,-114.77722,36.10333,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",18.3,175,"female",20,47,9.87948593927045,103.055235232618,"Summer",87484
+7,-114.77722,36.10333,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",18.4,170,"female",20,47,9.87948593927045,103.055235232618,"Summer",87482
+8,-114.3825,36.27306,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",18.4,190,"male",19.5,65,9.91348561151409,54.4210228429485,"Summer",87486
+12,-114.55528,32.760147,NA,1971,"Peromyscus crinitus","Peromyscus_crinitus",18.4,172,"male",21.1,80,7.97934359721552,163.734818866028,"Winter",87605
+6,-118.0603835,36.4337688,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",18.5,186,"female",12.2,98,7.7174340216673,184.438727395894,"Summer",87165
+6,-118.078813,36.4265401,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",18.5,181,"male",10.1,116,7.28012549841878,172.899482417803,"Summer",87336
+7,-114.80312,36.03808,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",18.5,193,"male",19.6,40,9.81539838491263,85.1540388245526,"Summer",87477
+6,-112.082886,36.725691,NA,1964,"Peromyscus crinitus","Peromyscus_crinitus",18.7,176,"male",10.3,258,9.22915341335665,76.1299010695872,"Summer",87540
+7,-116.24561,36.74758,NA,1968,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",18.8,182,"male",15.6,124,8.30403333910514,153.871319956951,"Summer",87341
+3,-120.7,40.41,NA,1961,"Peromyscus crinitus crinitus","Peromyscus_crinitus",18.9,175,"male",8.8,289,7.35483761640163,72.5739384564213,"Spring",87519
+10,-118.999614,37.630973,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",19,161,"male",4.6,423,6.83484831690883,89.5443898035652,"Fall",87161
+6,-118.078813,36.4265401,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",19,182,"female",10.1,116,7.28012549841878,172.899482417803,"Summer",87179
+7,-110.86195,37.261691,NA,1982,"Peromyscus crinitus auripectus","Peromyscus_crinitus",19,185,"female",14.4,202,9.7038378849283,50.8406660933748,"Summer",87192
+7,-111.180009,38.185075,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",19,178,"female",9.4,137,9.63124256434928,90.7557107524965,"Summer",87369
+8,-111.1273744216,38.283154,NA,2010,"Peromyscus crinitus doutti","Peromyscus_crinitus",19,179,"female",12,226,9.69867219903026,74.8097288480529,"Summer",87584
+3,-108.997536,39.09449,NA,1992,"Peromyscus crinitus auripectus","Peromyscus_crinitus",19.1,166,"male",11.5,325,10.7519554246912,56.5228932010588,"Spring",87307
+4,-108.8376,39.1271,NA,1992,"Peromyscus crinitus","Peromyscus_crinitus",19.3,128,"male",10.9,319,10.3947830738075,54.5303494840703,"Spring",87575
+8,-114.3825,36.27306,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",19.4,200,"female",19.5,65,9.91348561151409,54.4210228429485,"Summer",87304
+6,-118.078813,36.4265401,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",19.5,185,"male",10.1,116,7.28012549841878,172.899482417803,"Summer",87141
+6,-118.0603835,36.4337688,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",19.5,189,"female",12.2,98,7.7174340216673,184.438727395894,"Summer",87168
+8,-114.37961,36.29678,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",19.7,197,"male",20,118,9.21318225548194,79.3473153184879,"Summer",87488
+11,-114.81383,36.05113,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",19.9,196,"male",20.6,105,9.03739705084077,99.2609996099237,"Fall",87462
+6,-118.078813,36.4265401,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",20,184,"male",10.1,116,7.28012549841878,172.899482417803,"Summer",87153
+7,-111.180009,38.185075,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",20,177,"female",9.4,137,9.63124256434928,90.7557107524965,"Summer",87196
+7,-109.188374,40.418958,NA,1990,"Peromyscus crinitus auripectus","Peromyscus_crinitus",20,178,"male",9.2,224,11.1651514123457,61.0269024962174,"Summer",87197
+4,-117.90758,35.93481,NA,2010,"Peromyscus crinitus stephensi","Peromyscus_crinitus",20,192,"female",17.2,194,7.84468069149504,146.295748231283,"Spring",87237
+7,-114.76858,36.02989,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",20,185,"male",20.6,107,9.05479531418674,94.1617873650216,"Summer",87281
+7,-111.180009,38.185075,NA,1989,"Peromyscus crinitus doutti","Peromyscus_crinitus",20,177,"female",9.4,137,9.63124256434928,90.7557107524965,"Summer",87373
+6,-117.136462,37.387916,NA,1959,"Peromyscus crinitus stephensi","Peromyscus_crinitus",20,174,"female",13.8,75,8.63556336005096,127.804354992779,"Summer",87424
+8,-114.3825,36.27306,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",20.4,181,"male",19.5,65,9.91348561151409,54.4210228429485,"Summer",87485
+6,-118.0603835,36.4337688,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",20.5,189,"female",12.2,98,7.7174340216673,184.438727395894,"Summer",87311
+3,-113.5718,33.1825,NA,1973,"Peromyscus crinitus","Peromyscus_crinitus",21,174,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",87547
+6,-118.01,36.41,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",21,162,"male",15.1,70,8.3860770255697,199.276919385461,"Summer",87580
+8,-114.80134,36.06564,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",21.2,164,"female",20.6,109,9.03915724148903,100.289588206501,"Summer",87283
+8,-112.94712,37.28472,"unknown",1963,"Peromyscus crinitus","Peromyscus_crinitus",21.4,168,"female",11.2,423,8.485156379695,87.9875054267496,"Summer",87461
+6,-118.0603835,36.4337688,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",21.5,180,"male",12.2,98,7.7174340216673,184.438727395894,"Summer",87331
+6,-118.078813,36.4265401,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",22,190,"female",10.1,116,7.28012549841878,172.899482417803,"Summer",87164
+6,-118.0603835,36.4337688,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",22,191,"female",12.2,98,7.7174340216673,184.438727395894,"Summer",87176
+6,-115.88722,35.77278,NA,1975,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",22,NA,"male",14,153,8.15558927139151,106.868059852465,"Summer",87178
+6,-118.078813,36.4265401,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",22,196,"male",10.1,116,7.28012549841878,172.899482417803,"Summer",87330
+8,-119.44,41.49,NA,1977,"Peromyscus crinitus crinitus","Peromyscus_crinitus",22,188,"female",7.8,282,8.16278974148155,89.900515416154,"Summer",87518
+3,-108.997536,39.09449,NA,1992,"Peromyscus crinitus auripectus","Peromyscus_crinitus",22.2,146,"female",11.5,325,10.7519554246912,56.5228932010588,"Spring",87309
+6,-118.078813,36.4265401,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",22.5,189,"female",10.1,116,7.28012549841878,172.899482417803,"Summer",87134
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",22.5,186,"male",9.5,118,7.19619006941531,173.767330090903,"Summer",87136
+6,-118.0603835,36.4337688,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",22.5,180,"male",12.2,98,7.7174340216673,184.438727395894,"Summer",87358
+6,-110.494651,36.758377,NA,2004,"Peromyscus crinitus","Peromyscus_crinitus",23,178,"female",10,442,9.0241930722952,84.792169870021,"Summer",87201
+4,-108.7877188,39.0772428,NA,1992,"Peromyscus crinitus","Peromyscus_crinitus",23,150,"male",9.6,345,10.1164432604757,56.7699021549772,"Spring",87305
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",23,201,"male",9.5,118,7.19619006941531,173.767330090903,"Summer",87337
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",23,187,"male",9.5,118,7.19619006941531,173.767330090903,"Summer",87342
+6,-112.737455,36.863123,NA,2002,"Peromyscus crinitus","Peromyscus_crinitus",23,197,"female",13.3,162,8.89451652662607,111.978354679027,"Summer",87381
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",24,181,"male",9.5,118,7.19619006941531,173.767330090903,"Summer",87148
+4,-118.16474,36.59771,NA,2007,"Peromyscus crinitus stephensi","Peromyscus_crinitus",24,178,"female",13.4,148,7.46950872588423,163.5294708906,"Spring",87229
+5,-117.1333,38.43694,NA,1992,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",24,176,"female",9.1,220,8.51961640194931,66.5607350212406,"Spring",87313
+8,-116.07011,36.97237,NA,1968,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",24.2,194,"female",13.9,143,8.2684641862924,130.21332600901,"Summer",87340
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",24.5,185,"female",9.5,118,7.19619006941531,173.767330090903,"Summer",87144
+6,-118.0603835,36.4337688,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",24.5,183,"male",12.2,98,7.7174340216673,184.438727395894,"Summer",87166
+10,-113.536687,31.318067,NA,1971,"Peromyscus crinitus","Peromyscus_crinitus",24.5,195,"male",20.8,92,6.33379583638198,210.491286962007,"Fall",87604
+8,-114.3825,36.27306,"unknown",1964,"Peromyscus crinitus","Peromyscus_crinitus",25.7,205,"female",19.5,65,9.91348561151409,54.4210228429485,"Summer",87298
+6,-118.0760456,36.4479175,NA,1972,"Peromyscus crinitus Merriam, 1891","Peromyscus_crinitus",26.5,145,"male",9.5,118,7.19619006941531,173.767330090903,"Summer",87143
+6,-109.84226,40.89556,"unknown",1929,"Peromyscus crinitus","Peromyscus_crinitus",27.5,177,"female",1.5,456,9.40603851821055,64.3528992884792,"Summer",87279

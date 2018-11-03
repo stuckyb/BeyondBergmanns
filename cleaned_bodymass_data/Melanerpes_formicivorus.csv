@@ -1,0 +1,384 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-134.38,56.23,NA,1958,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",36.4,NA,"female",7.3,2836,4.48494957912268,52.7307729020981,"Summer",45466
+7,-111.1167,31.4167,NA,1974,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",42.6,NA,"male",15.6,464,7.06418088069321,115.630732810349,"Summer",45494
+7,-122.7228,38.43761,"U-Juv.",1978,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",43.3,NA,"female",14.4,851,4.46062741883885,141.135453731317,"Summer",45450
+6,-122.89027,38.47352,"Nestling",1977,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",48.7,NA,"female",14,757,4.1522082478283,115.518641784585,"Summer",45498
+8,-107.1333333333,34.0333333333,NA,1986,"Melanerpes formicivorus","Melanerpes_formicivorus",50.7,230,"undetermined",11.1,572,7.00757166257047,69.6308237951321,"Summer",45280
+8,-107.1333333333,34.0333333333,"adult",1986,"Melanerpes formicivorus","Melanerpes_formicivorus",53.4,208,"male",11.1,572,7.00757166257047,69.6308237951321,"Summer",45281
+11,-118.251442,34.1428413,NA,1996,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",54,NA,"male",18.8,504,3.88653464093034,123.767891768329,"Fall",45291
+11,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",55.3,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",45242
+12,-110,23.566667,"imm.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",55.6,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",45390
+10,-115.4818436,33.853667,"u ad.",1945,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",55.7,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",45409
+8,-107.8583868,35.0947557,NA,1986,"Melanerpes formicivorus","Melanerpes_formicivorus",56,209,"female",10.9,421,7.8000534186205,80.9681675465374,"Summer",45127
+4,-102.5208872254,29.0088327745,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",56,NA,"male",18.1,236,6.32481883798527,110.028355727103,"Spring",45170
+6,-121.5568207,36.37851365,"imm.",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",56,NA,"male",14.3,312,5.02040533193981,92.0742970105331,"Summer",45341
+7,-122.57296,38.12902,"adult",2003,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",56.3,NA,"female",15.1,796,4.22596591074607,117.943477036785,"Summer",45457
+12,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",56.5,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Winter",45147
+11,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",56.9,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",45389
+2,-110.7921462,31.5087484,"not applicable",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",57.2,NA,"female",15.9,245,7.07678128341786,176.647586152102,"Winter",45266
+7,-121.0727842,36.2138705,"not recorded",1994,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",58,NA,"female",14.6,226,4.53361184527705,111.961450594814,"Summer",45367
+5,-110.2825641,31.446019,NA,1986,"Melanerpes formicivorus","Melanerpes_formicivorus",58,NA,"female",16.1,643,5.91274945018018,92.5019195132532,"Spring",45415
+11,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",58.4,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",45303
+11,-110,23.566667,"imm.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",58.6,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",45387
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",58.9,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",45173
+7,-121.5568207,36.37851365,"skull",2001,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",59,NA,"male",14.3,817,4.82991781095766,114.853497394617,"Summer",45214
+6,-122.54401,38.05137,"adult",2003,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",59.4,NA,"male",15.2,899,4.01531160344092,116.610242691323,"Summer",45458
+2,-110.7921462,31.5087484,"not applicable",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",59.6,NA,"female",15.9,245,7.07678128341786,176.647586152102,"Winter",45267
+11,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",60,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",45240
+12,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",60,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Winter",45246
+12,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",60,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",45391
+11,-115.6166667,31.016667,"u ad.",1925,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",60,NA,"male",13,398,4.4543050337099,112.253607825266,"Fall",45520
+11,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",60.1,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",45241
+4,-145.6333333,65.5,NA,1950,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",60.1,NA,"female",-4.7,611,12.4121641216114,88.4424192238358,"Spring",45509
+10,-105.83417,23.46889,"u ad.",1946,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",60.4,NA,"male",17.6,1187,2.77319419814157,108.597016186447,"Fall",45156
+7,-109.716873,23.387557,"imm.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",60.4,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",45397
+10,-109.0048166667,31.5194,NA,2010,"Melanerpes formicivorus","Melanerpes_formicivorus",60.5,NA,"male",15.2,487,7.16144982781864,109.696638560974,"Fall",45298
+12,-110,23.566667,"unknown",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",60.6,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",45392
+6,-106.770421,29.485097,"ad.",1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",60.7,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",45175
+7,-109.716873,23.387557,"ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",60.8,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",45395
+7,-109.716873,23.387557,"u ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",60.9,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",45247
+11,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",61,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",45239
+7,-109.716873,23.387557,"ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",61,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",45396
+6,-121.5568207,36.37851365,"ad.",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",61.3,NA,"female",14.3,312,5.02040533193981,92.0742970105331,"Summer",45192
+7,-104.6833333,27.9333333,NA,1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",61.3,NA,"male",18.1,268,6.72645162884202,139.345036018442,"Summer",45512
+11,-116.92,34.07,NA,1981,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",61.5,NA,"female",7.6,557,6.18950725017751,109.679857040219,"Fall",45135
+8,-108.3333,29.91071,"u ad.",1948,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",61.5,NA,"male",11.2,444,6.70388286402332,119.926397434996,"Summer",45159
+6,-117.9958801,34.2000008,"juvenile",2004,NA,"Melanerpes_formicivorus",61.5,NA,"undetermined",14,958,5.79740668251109,158.203668212752,"Summer",45441
+7,-109.716873,23.387557,"ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",61.8,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",45249
+8,-109.3822849,31.9298117,"not applicable",1977,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",61.8,80,"male",12.6,717,6.67151338971083,108.825585062648,"Summer",45412
+9,-117.7550697,35.2118254,NA,2003,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",62,NA,"female",17.1,145,7.39915535720125,129.535728346998,"Fall",45142
+12,-112.3651662,34.3914157,"not applicable",1969,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",62,NA,"female",10.7,642,7.75538913311644,72.6739475424177,"Winter",45260
+12,-112.3651662,34.3914157,"not applicable",1969,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",62,NA,"female",10.7,642,7.75538913311644,72.6739475424177,"Winter",45261
+5,-110.2825641,31.446019,"adult",1986,"Melanerpes formicivorus","Melanerpes_formicivorus",62,NA,"female",16.1,643,5.91274945018018,92.5019195132532,"Spring",45414
+5,-111.5666667,35.25,NA,1986,"Melanerpes formicivorus","Melanerpes_formicivorus",62,NA,"male",9,508,7.02482071376957,53.6810305045772,"Spring",45532
+6,-121.59536,36.391327,"skull",2005,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",62.15,NA,"male",14.7,808,3.9368788591364,114.403986663833,"Summer",45369
+7,-104.6833333,27.9333333,NA,1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",62.4,NA,"male",18.1,268,6.72645162884202,139.345036018442,"Summer",45469
+4,-102.5208872254,29.0088327745,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",62.5,NA,"female",18.1,236,6.32481883798527,110.028355727103,"Spring",45319
+7,-109.716873,23.387557,"ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",62.5,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",45398
+11,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",62.6,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",45238
+7,-121.281898,35.966488,"imm.",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",62.8,NA,"female ?",14.8,319,5.3220738154379,108.641382767462,"Summer",45197
+8,-107.1333333333,34.0333333333,"adult",1986,"Melanerpes formicivorus","Melanerpes_formicivorus",63,223,"male",11.1,572,7.00757166257047,69.6308237951321,"Summer",45279
+3,-92.5733333333,16.6744444444,"u ad.",1950,"Melanerpes formicivorus lineatus","Melanerpes_formicivorus",63.1,NA,"female",13.5,1057,0.98761267097926,77.8117725986951,"Spring",45162
+4,-102.5208872254,29.0088327745,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",63.2,NA,"male",18.1,236,6.32481883798527,110.028355727103,"Spring",45171
+11,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",63.2,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",45388
+3,-100.601731,19.636886,"ad.",1948,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",63.3,NA,"female",16.9,1012,2.43924665469162,104.640591487294,"Spring",45149
+4,-102.5208872254,29.0088327745,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",63.5,NA,"female",18.1,236,6.32481883798527,110.028355727103,"Spring",45168
+10,-109.0045166667,31.5191833333,NA,2010,"Melanerpes formicivorus","Melanerpes_formicivorus",63.5,NA,"female",15.2,487,7.16144982781864,109.696638560974,"Fall",45299
+7,-121.54437,36.3697,"juvenile",1998,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",63.5,NA,"male",13.9,1046,4.81626033727036,140.763745951216,"Summer",45355
+1,-121.5568207,36.37851365,"not recorded",2005,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",63.6,NA,"female",14.7,841,4.21436935862403,114.890018090823,"Winter",45216
+10,-105.83417,23.46889,"u ad.",1946,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",63.8,NA,"female",17.6,1187,2.77319419814157,108.597016186447,"Fall",45154
+4,-92.5733333333,16.6744444444,"u ad.",1950,"Melanerpes formicivorus lineatus","Melanerpes_formicivorus",64,NA,"female",13.5,1057,0.98761267097926,77.8117725986951,"Spring",45163
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",64,NA,"male",15.9,575,7.54804309377302,127.305770342443,"Fall",45185
+9,-116.6490936,33.966259,"ADULT",1987,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",64,NA,"female",19.1,284,6.44615812290193,111.77071525388,"Fall",45288
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",64,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",45321
+7,-134.6333333,56.3833333,NA,1953,"Melanerpes formicivorus","Melanerpes_formicivorus",64,NA,"male",6.4,4152,5.13912502869954,57.5793078678505,"Summer",45511
+12,-110,23.566667,"unknown",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",64.1,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Winter",45244
+4,-110.3958,33.6181,"u ad.",1949,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",64.1,NA,"male",10.5,610,8.6683681313501,99.6252537030282,"Spring",45306
+7,-104.6833333,27.9333333,NA,1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",64.1,NA,"male",18.1,268,6.72645162884202,139.345036018442,"Summer",45468
+12,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",64.3,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",45245
+3,-104.71275,32.1309333333,NA,2010,"Melanerpes formicivorus","Melanerpes_formicivorus",64.3,NA,"female",14.3,615,7.3847919073696,137.013126898881,"Spring",45295
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",64.3,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",45323
+6,-106.770421,29.485097,"ad.",1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",64.4,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",45325
+1,-110.707137,31.724739,"Not recorded",1955,NA,"Melanerpes_formicivorus",64.5,NA,"female",15.1,555,6.90034584113526,162.861150007431,"Winter",45275
+6,-121.572003,36.384018,"not recorded",2005,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",64.6,NA,"male",14.7,833,4.10963391424235,114.812406819809,"Summer",45223
+11,-110,23.566667,"u imm",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",64.6,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",45386
+5,-103.304615,29.2697786,"not applicable",1968,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",64.7,NA,"male",16.3,530,6.27280687257356,72.4839127152461,"Spring",45410
+10,-105.83417,23.46889,"u ad.",1946,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",64.8,NA,"male",17.6,1187,2.77319419814157,108.597016186447,"Fall",45155
+4,-145.6333333,65.5,NA,1950,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",64.8,NA,"male",-4.7,611,12.4121641216114,88.4424192238358,"Spring",45508
+4,-110.3958,33.6181,"u ad.",1949,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",64.9,NA,"male",10.5,610,8.6683681313501,99.6252537030282,"Spring",45151
+11,-110,23.566667,"u ad.",1928,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",65,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",45243
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",65,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",45320
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",65,NA,"male",15.9,575,7.54804309377302,127.305770342443,"Fall",45337
+5,-110.2825641,31.446019,NA,1986,"Melanerpes formicivorus","Melanerpes_formicivorus",65,NA,"female",16.1,643,5.91274945018018,92.5019195132532,"Spring",45413
+7,-116.53,32.8,NA,1983,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",65,NA,"male",13.6,1262,5.83133515560285,122.376775595922,"Summer",45444
+8,-109.716873,23.387557,"ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",65.1,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",45400
+6,-145.1,69.2,NA,1955,"Melanerpes formicivorus","Melanerpes_formicivorus",65.2,NA,"female",-13.5,556,13.8988635899094,42.7104773191956,"Summer",45510
+6,-108.14806,28.56806,"u ad.",1957,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",65.4,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",45174
+1,-104.7272166667,32.1208666667,NA,2010,"Melanerpes formicivorus","Melanerpes_formicivorus",65.4,NA,"female",14,627,7.35858599724077,136.646684712699,"Winter",45297
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",65.5,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",45322
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",65.5,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45336
+10,-115.6,30.933333,"unknown",1925,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",65.5,NA,"female",12.3,447,4.30281796317744,114.178628455334,"Fall",45379
+3,-122.26166,38.45083,"U-Ad.",1974,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",65.5,NA,"female",13.3,785,5.46029053506063,122.155435326222,"Spring",45496
+4,-110.3958,33.6181,"u ad.",1949,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",65.7,NA,"male",10.5,610,8.6683681313501,99.6252537030282,"Spring",45150
+6,-121.59536,36.391327,"not recorded",2005,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",65.7,NA,"male",14.7,808,3.9368788591364,114.403986663833,"Summer",45222
+6,-121.5892,36.3697,"adult",2000,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",66,NA,"female",14.3,784,4.49978955736888,143.742245806341,"Summer",45207
+6,-109.0242004,31.3751837,NA,1963,"Melanerpes formicivorus","Melanerpes_formicivorus",66,NA,"male",16,298,6.93844690507504,121.253997158798,"Summer",45269
+7,-108.4167461155,30.0146438844,"u ad.",1948,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",66,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",45311
+3,-103.259468,29.338189,NA,1935,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",66,NA,"female",18.2,377,6.17435433994126,86.0268937457852,"Spring",45416
+7,-104.6833333,27.9333333,NA,1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",66,NA,"male",18.1,268,6.72645162884202,139.345036018442,"Summer",45470
+5,-111.5666667,35.25,NA,1986,"Melanerpes formicivorus","Melanerpes_formicivorus",66,NA,"female",9,508,7.02482071376957,53.6810305045772,"Spring",45490
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",66.3,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",45160
+7,-122.50322,39.34279,"adult",1999,"Melanerpes formicivorus","Melanerpes_formicivorus",66.4,NA,"female",14.9,408,6.69515881179465,129.105616588547,"Summer",45455
+10,-107.5558166667,33.8497333333,NA,2010,"Melanerpes formicivorus","Melanerpes_formicivorus",66.5,NA,"male",10.4,377,7.57881317165881,101.130828698072,"Fall",45144
+7,-106.8987177777,29.3920969444,"u ad.",1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",66.5,NA,"female",14.4,416,6.22801588133667,161.139334141977,"Summer",45327
+1,-122.59576,37.9466,"U-Ad",1995,"Melanerpes formicivorus","Melanerpes_formicivorus",66.5,NA,"f?",14.8,1734,3.58920941746567,159.799651687505,"Winter",45502
+11,-109.0035333333,31.5187833333,NA,2013,"Melanerpes formicivorus","Melanerpes_formicivorus",66.6,NA,"male",15.3,438,7.49077715756132,120.460174092381,"Fall",45300
+1,-121.550146,36.3865033,"skull",1999,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",66.6,NA,"female",13.5,543,4.79181752068202,125.700942341133,"Winter",45362
+7,-109.716873,23.387557,"ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",66.8,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",45394
+5,-122.6160965,38.7523041,NA,1990,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",67,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Spring",45140
+10,-105.83417,23.46889,"u ad.",1946,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",67,NA,"female",17.6,1187,2.77319419814157,108.597016186447,"Fall",45153
+6,-121.628196,36.433288,"adult",1997,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",67,NA,"undetermined",15.3,505,4.39926818983119,167.105174524043,"Summer",45218
+6,-121.7648069,40.3091119,"u ad.",1924,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",67,NA,"female",12.6,605,7.04880712022835,104.248454374012,"Summer",45377
+6,-102.48371,19.6006388,NA,1945,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",67,NA,"female",20.7,911,1.99172530660473,125.14220127764,"Summer",45488
+4,-102.5208872254,29.0088327745,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",67.1,NA,"male",18.1,236,6.32481883798527,110.028355727103,"Spring",45167
+5,-108.296371,29.8628,"u ad.",1936,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",67.1,NA,"male",11.4,461,6.19542842209748,99.3594016465,"Spring",45257
+4,-102.5208872254,29.0088327745,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",67.2,NA,"male",18.1,236,6.32481883798527,110.028355727103,"Spring",45318
+11,-110.88361,31.00056,"u ad.",1946,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",67.4,NA,"male",17.6,467,6.99213302522372,138.697810308703,"Fall",45157
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",67.5,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",45172
+12,-118.2967341,33.8108199,NA,1981,"Melanerpes formicivorus","Melanerpes_formicivorus",67.5,NA,"undetermined",18.6,257,3.12539694448658,125.170050695135,"Winter",45440
+11,-115.6166667,31.016667,"u ad.",1925,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",67.5,NA,"female",13,398,4.4543050337099,112.253607825266,"Fall",45518
+5,-117.32712,33.55206,"no skull windows",2008,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",67.7,NA,"female",16.7,399,4.88110146536123,146.493479769346,"Spring",45221
+6,-121.5568207,36.37851365,"skull not fully ossified",2002,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",67.9,NA,"female",14.2,631,4.6119328098341,170.781197838253,"Summer",45215
+12,-109.2183494,31.936139,"Not recorded",1968,NA,"Melanerpes_formicivorus",68,NA,"female",12.2,428,6.5379776318944,102.735124900216,"Winter",45427
+8,-107.5587166667,33.8465166667,NA,2011,"Melanerpes formicivorus","Melanerpes_formicivorus",68.2,NA,"male",10.5,306,8.21179399437544,98.1247398802232,"Summer",45146
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",68.3,NA,"male",15.9,575,7.54804309377302,127.305770342443,"Fall",45183
+11,-116.35,32.6,"u ad.",1927,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",68.3,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",45236
+7,-121.282069,35.971489,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",68.5,NA,"male",14.8,320,5.35551259465564,108.430172335597,"Summer",45346
+4,-121.54437,36.3697,"adult",1996,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",68.5,NA,"male",14.8,1060,4.25266404917571,121.541923785646,"Spring",45353
+7,-121.56986,36.37911,NA,1999,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",68.7,NA,"male",13.4,544,4.68248671308118,126.695019122298,"Summer",45357
+7,-109.716873,23.387557,"u ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",68.7,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",45393
+1,-100.959146,19.65057,"u ad.",1961,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",68.9,NA,"male",15.1,847,1.94630574694883,109.634686006612,"Winter",45176
+7,-109.716873,23.387557,"ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",68.9,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",45248
+1,-104.7272166667,32.1208666667,NA,2010,"Melanerpes formicivorus","Melanerpes_formicivorus",68.9,NA,"male",14,627,7.35858599724077,136.646684712699,"Winter",45296
+8,-116.39535,34.05628,"u ad.",1950,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",69,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Summer",45165
+12,-118.6669349,34.713678,"Not recorded",1986,NA,"Melanerpes_formicivorus",69,NA,"female",13.9,401,5.60616543718529,145.224381414577,"Winter",45276
+8,-103.153722,18.9256712,NA,1950,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",69,NA,"undetermined",18.5,1270,1.86179694886093,122.226455351138,"Summer",45489
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",69.5,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45333
+7,-109.2586042,31.9034249,"adult",1978,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",69.8,NA,"male",9.8,847,6.88580005694635,58.1030013759375,"Summer",45265
+8,-122.19026,37.89498,"adult",2002,"Melanerpes formicivorus","Melanerpes_formicivorus",69.8,NA,"female",14.2,639,4.07842624134121,170.959330589069,"Summer",45503
+5,-122.6160965,38.7523041,NA,1990,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",70,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Spring",45130
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",70,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",45313
+3,-118.441108,35.131336,"adult",2004,NA,"Melanerpes_formicivorus",70,NA,"female",12.7,277,6.45353438517268,135.5771557035,"Spring",45439
+8,-122.74045,38.80694,"U",2005,"Melanerpes formicivorus","Melanerpes_formicivorus",70,NA,"male",13.1,1767,5.99971590236495,120.441252524296,"Summer",45464
+7,-104.6833333,27.9333333,NA,1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",70,NA,"male",18.1,268,6.72645162884202,139.345036018442,"Summer",45467
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",70,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",45482
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",70,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",45527
+4,-102.5208872254,29.0088327745,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",70.1,NA,"male",18.1,236,6.32481883798527,110.028355727103,"Spring",45169
+6,-106.770421,29.485097,"u ad.",1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",70.2,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",45324
+11,-115.6166667,31.016667,"u ad.",1925,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",70.2,NA,"male",13,398,4.4543050337099,112.253607825266,"Fall",45517
+3,-100.601731,19.636886,"ad.",1948,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",70.5,NA,"female",16.9,1012,2.43924665469162,104.640591487294,"Spring",45148
+5,-103.3087883,29.241868,"not applicable",1967,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",70.5,229,"male",16,424,5.69424882640105,112.045927114023,"Spring",45268
+8,-106.8987177777,29.3920969444,"u ad.",1961,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",70.5,NA,"female",13.9,408,6.2050504844966,116.088641244644,"Summer",45328
+8,-109.716873,23.387557,"u ad.",1929,"Melanerpes formicivorus angustifrons","Melanerpes_formicivorus",70.5,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",45399
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",70.5,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",45522
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",70.7,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45335
+2,-121.243097,35.975085,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",70.9,NA,"female",15,300,5.43270120881339,107.98907955147,"Winter",45347
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",71,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45180
+6,-121.5568207,36.37851365,"adult",2003,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",71,NA,"female",14.7,512,4.80072595520404,128.754430224971,"Summer",45363
+4,-119.3439674,34.3940204,"adult",2004,NA,"Melanerpes_formicivorus",71,NA,"male",15.5,446,3.82577977791337,169.709060902783,"Spring",45438
+10,-118.7918615,34.1067944,"juvenile",1986,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",71,NA,"undetermined",18.8,432,3.49831128091567,135.972035055537,"Fall",45442
+11,-115.6166667,31.016667,"u ad.",1925,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",71,NA,"female",13,398,4.4543050337099,112.253607825266,"Fall",45516
+5,-122.0695,40.3146,"u ad.",1924,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",71.2,NA,"female",16.7,494,7.4583032841785,107.492321804429,"Spring",45230
+11,-116.35,32.6,"u ad.",1927,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",71.3,NA,"female",13.6,713,5.21695226248917,130.774518605179,"Fall",45235
+10,-115.9072222,32.053333,"ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",71.4,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",45526
+3,-122.3566994,40.4192342,"immature",1962,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",71.5,NA,"female",16.5,846,7.15319381941953,104.297635679252,"Spring",45129
+6,-106.770421,29.485097,"u ad.",1959,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",71.5,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",45326
+11,-116.35,32.6,"u ad.",1927,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",71.5,NA,"female",13.6,713,5.21695226248917,130.774518605179,"Fall",45385
+3,-92.5733333333,16.6744444444,"u ad.",1950,"Melanerpes formicivorus lineatus","Melanerpes_formicivorus",71.6,NA,"female",13.5,1057,0.98761267097926,77.8117725986951,"Spring",45315
+2,-121.243097,35.975085,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",71.8,NA,"female",15,300,5.43270120881339,107.98907955147,"Winter",45202
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",71.9,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45178
+6,-92.915905,17.175698,NA,1963,"Melanerpes formicivorus","Melanerpes_formicivorus",71.9,NA,NA,18.2,2541,1.70691552399661,70.2369587578481,"Summer",45293
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",71.9,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",45524
+1,-121.731819,36.479311,"skull",1994,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72,NA,"female",13.9,390,3.42542852882097,115.004502098651,"Winter",45220
+6,-122.6160965,38.7523041,NA,1990,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Summer",45285
+6,-121.648315,36.441422,"imm.",1975,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72,NA,"female ?",13.1,469,3.99700645559406,146.886073194825,"Summer",45340
+8,-108.2166666667,35.3333333333,NA,1986,"Melanerpes formicivorus","Melanerpes_formicivorus",72,236,"male",8.6,542,7.63867254055429,63.962436611855,"Summer",45465
+4,-109.8656333,23.5588667,NA,2001,"Melanerpes formicivorus","Melanerpes_formicivorus",72,NA,"male",22.2,634,4.49521631258938,281.384446087319,"Spring",45474
+12,-104.7272166667,32.1208666667,NA,2009,"Melanerpes formicivorus","Melanerpes_formicivorus",72.1,NA,"male",14.4,453,6.85923398850709,140.857401785693,"Winter",45145
+10,-121.554489,36.329026,"unknown",1975,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.2,NA,"female",12.8,638,5.90902622342217,145.243871685581,"Fall",45193
+10,-121.556702,36.332857,"unknown",1975,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.2,NA,"female",12.7,638,5.86553880343021,145.243871685581,"Fall",45195
+5,-112.3941227,34.4784751,"not applicable",1969,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",72.2,235,"female",9.8,706,7.53154980228123,73.3770308048689,"Spring",45259
+11,-116.35,32.6,"u ad.",1927,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",72.3,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",45237
+4,-102.5208872254,29.0088327745,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",72.3,NA,"male",18.1,236,6.32481883798527,110.028355727103,"Spring",45316
+4,-110.3958,33.6181,"u ad.",1949,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",72.4,NA,"male",10.5,610,8.6683681313501,99.6252537030282,"Spring",45152
+8,-120.11166,37.75634,"ad.?",1920,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.5,NA,"undetermined",11.8,1003,6.41250553783209,104.637556634204,"Summer",45229
+10,-109.212149,31.843357,"adult",1974,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",72.5,NA,"male",11.4,574,7.00296474013079,124.600130182097,"Fall",45262
+5,-119.63353,37.17243,"adult",1999,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.5,NA,"male",15.8,399,7.06680245724309,147.260272507272,"Spring",45359
+7,-121.9306074,36.6153108,NA,2003,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.5,NA,"male",13.6,358,2.17039306592287,126.026657691163,"Summer",45361
+7,-121.47294,36.236376,"u ad.",1919,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.5,NA,"male",13.9,431,5.07381871607928,161.996694299459,"Summer",45374
+8,-116.7192649,33.7394723,"adult",1999,NA,"Melanerpes_formicivorus",72.5,NA,"female",11.8,226,5.48736151202346,126.457882156851,"Summer",45437
+11,-120.747539,36.133317,"u ad.",1918,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.6,NA,"male",13.8,509,6.04545283663681,145.445265510829,"Fall",45373
+11,-122.10503,37.91105,"adult",2003,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.6,NA,"female",15.2,579,4.72032998332904,117.689424860699,"Fall",45459
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.7,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45184
+10,-121.17385,35.970848,"u ad.",1918,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.7,NA,"female",14.1,479,5.62835758378136,134.003052882456,"Fall",45226
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",72.8,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45334
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",72.8,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",45521
+11,-116.35,32.6,"u ad.",1927,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",73,NA,"undetermined",13.6,713,5.21695226248917,130.774518605179,"Fall",45384
+7,-120.7856667,36.294333,"ad.",1936,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",73.1,NA,"male",14.5,835,6.81675187025361,151.496118517119,"Summer",45529
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",73.3,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45182
+11,-97.213595,16.9474525,"Adult; skull oss.",1964,NA,"Melanerpes_formicivorus",73.3,NA,"male",19.7,878,1.7440808988743,105.867139564973,"Fall",45533
+6,-119.62943,37.17769,"adult",1999,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",73.33,NA,"female",15.7,401,7.05374927169082,148.146733158226,"Summer",45211
+7,-121.282069,35.971489,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",73.4,NA,"male",14.8,320,5.35551259465564,108.430172335597,"Summer",45344
+7,-108.4167461155,30.0146438844,"u ad.",1948,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",73.5,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",45312
+5,-120.1818466,35.3954871,"Not recorded.",1987,NA,"Melanerpes_formicivorus",73.5,NA,"female",14.9,271,6.00880036431415,102.472962693218,"Spring",45433
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",73.5,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",45525
+12,-121.9121622,40.3351913,"u ad.",1927,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",73.7,NA,"female",15.6,883,6.85888055182786,93.6385676202149,"Winter",45381
+5,-121.5565933,36.37935827,"not recorded",2002,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74,NA,"female",14.2,631,4.6119328098341,170.781197838253,"Spring",45213
+7,-120.11166,37.75634,"imm.",1920,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",45227
+5,-120.0201416,35.038992,NA,1986,"Melanerpes formicivorus","Melanerpes_formicivorus",74,NA,"female",15,553,5.64292933813206,131.768998026347,"Spring",45270
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45332
+1,-121.54437,36.3697,"adult",1997,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74,NA,"male",15,636,5.09029825880924,166.567065182374,"Winter",45356
+8,-109.3822849,31.9298117,"not applicable",1977,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",74,76,"male",12.6,717,6.67151338971083,108.825585062648,"Summer",45411
+10,-119.1367,38.1338,NA,2001,"Melanerpes formicivorus","Melanerpes_formicivorus",74,NA,"male",5.9,431,7.60240691551636,106.21217726393,"Fall",45491
+11,-115.6166667,31.016667,"u ad.",1925,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",74,NA,"male",13,398,4.4543050337099,112.253607825266,"Fall",45519
+4,-121.60849,36.419378,"unknown",1978,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74.1,NA,"female",14,816,4.32021323828378,120.731622069258,"Spring",45188
+1,-116.3833333,31.916667,"u ad.",1927,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",74.1,NA,"male",14.6,497,4.44815249357085,121.762320320808,"Winter",45486
+7,-121.281053,35.974973,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74.2,NA,"female",14.8,334,5.36342834727599,108.130455279139,"Summer",45345
+8,-121.5568207,36.37851365,"adult",2002,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74.2,NA,"male",14.2,631,4.6119328098341,170.781197838253,"Summer",45358
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",74.2,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",45485
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74.4,NA,"female",15.9,575,7.54804309377302,127.305770342443,"Fall",45166
+7,-122.7888,38.04189,"U-Ad.",1973,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74.4,NA,"female",13.3,1251,3.025785648039,129.430903345641,"Summer",45447
+10,-97.83194,17.18909,"U-Ad.",1964,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",74.4,NA,"female",15,1068,1.3561029280682,109.103512788522,"Fall",45451
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",74.7,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",45314
+11,-122.16375,37.92883,"adult plumage",2008,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",74.9,NA,"female",14.1,486,4.67436594306618,170.057781846532,"Fall",45368
+11,-116.35,32.6,"u ad.",1927,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",75,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",45233
+4,-119.3124676,34.3527901,NA,1982,"Melanerpes formicivorus","Melanerpes_formicivorus",75,NA,"male",14.8,520,3.62853798089367,116.520301546297,"Spring",45292
+4,-102.5208872254,29.0088327745,"u ad.",1953,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",75,NA,"male",18.1,236,6.32481883798527,110.028355727103,"Spring",45317
+1,-118.473078,35.712119,"adult",1993,NA,"Melanerpes_formicivorus",75,NA,"male",15.7,395,6.91776369540436,154.450897449152,"Winter",45435
+6,-118.0570831,34.3570786,NA,1990,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",75,NA,"female",14,353,6.62142985565303,138.972839370435,"Summer",45443
+10,-115.9072222,32.053333,"ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",75,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",45481
+7,-121.281898,35.966488,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",75.1,NA,"female",14.8,319,5.3220738154379,108.641382767462,"Summer",45198
+10,-114.71,30.7025,"u ad.",1925,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",75.5,NA,"female",20.9,63,4.69883125378164,102.49029887573,"Fall",45478
+7,-120.11166,37.75634,"ad.",1920,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",75.7,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",45375
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",75.7,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",45484
+7,-121.54437,36.3697,"adult",1998,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",75.8,NA,"male",13.9,1046,4.81626033727036,140.763745951216,"Summer",45354
+8,-122.0203743,37.8234123,"adult",2001,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",75.8,NA,"female",14.7,693,4.71274866717927,127.884807105277,"Summer",45360
+7,-122.69854,38.57442,"U-Ad",1997,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",75.9,NA,"female",15.6,976,5.1825099219306,143.61830807338,"Summer",45536
+9,-117.9666667,34.283333,NA,1984,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",76,NA,"male",15.5,639,7.02480453734328,226.228648597558,"Fall",45136
+6,-119.2423706,34.4532204,"unknown",2002,NA,"Melanerpes_formicivorus",76,NA,"male",15.1,348,3.67027370790096,166.513433578652,"Summer",45436
+6,-122.7228,38.43761,"U-Ad.",1990,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",76,NA,"undetermined",14.4,414,4.96407548840118,123.566806258883,"Summer",45499
+8,-120.2886554,35.4464469,"u ad.",1947,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",76.4,NA,"male",14.7,120,5.94935061391348,93.5171350366046,"Summer",45308
+8,-122.6853,37.9094,"SY",2008,"Melanerpes formicivorus","Melanerpes_formicivorus",76.4,225,"male",12.9,516,2.60744853809004,169.38494884681,"Summer",45462
+10,-97.8386085,17.2340968,"Not recorded.",1964,NA,"Melanerpes_formicivorus",76.4,NA,"female",14.9,1095,1.33234812085713,109.71064237301,"Fall",45493
+10,-121.556702,36.332857,"unknown",1975,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",76.5,NA,"male",12.7,638,5.86553880343021,145.243871685581,"Fall",45343
+7,-121.07267,35.54188,"immature",1997,"Melanerpes formicivorus","Melanerpes_formicivorus",76.7,NA,"female",13.9,552,2.60698362794315,188.04818138495,"Summer",45504
+4,-91.7391666666,16.0944444444,"u ad.",1950,"Melanerpes formicivorus lineatus","Melanerpes_formicivorus",77,NA,"female",18.6,1513,1.00856183236179,70.3160107863977,"Spring",45161
+1,-117.27,33.39,"u ad",1949,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77,NA,"male",16,368,4.84999218993435,122.169508908642,"Winter",45205
+1,-121.5568207,36.37851365,"skull",1994,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77,NA,"male",13.9,520,4.69309615447537,109.739865310965,"Winter",45364
+5,-104.0271378,30.6704002,NA,1937,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",77,NA,"male",14.1,448,6.57287239455868,68.6365863319441,"Spring",45426
+10,-115.9072222,32.053333,"ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",77,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",45480
+10,-118.34507,35.4793329,"ad.",1933,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77,NA,"male",8.2,270,8.08346610325201,165.121056109658,"Fall",45487
+7,-120.7856667,36.294333,"ad.",1936,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77.1,NA,"male",14.5,835,6.81675187025361,151.496118517119,"Summer",45528
+6,-118.80512,36.63426,"U-Ad",1986,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77.2,NA,"male",7.4,1523,5.47927223656794,148.229038353711,"Summer",45501
+7,-120.81,39.18,"u ad.",1939,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77.2,NA,"male",13.5,834,6.79094762879009,93.3156580474696,"Summer",45530
+8,-120.2886554,35.4464469,"ad.",1947,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77.6,NA,"male",14.7,120,5.94935061391348,93.5171350366046,"Summer",45158
+12,-121.9952649,40.3132595,"u ad.",1927,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77.7,NA,"female",16.2,814,7.07575352021167,93.8085632235532,"Winter",45383
+6,-120.588601,35.303353,"Adult; skull oss.",1980,NA,"Melanerpes_formicivorus",77.7,NA,"male",15.1,818,3.73706861298824,153.748921025711,"Summer",45428
+7,-122.53801,38.11294,"adult",2001,"Melanerpes formicivorus bairdii","Melanerpes_formicivorus",77.7,229,"male",14.6,874,4.06235489251337,132.571043901817,"Summer",45505
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77.8,NA,"male",15.9,575,7.54804309377302,127.305770342443,"Fall",45179
+12,-121.9952649,40.3132595,"u ad.",1927,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",77.9,NA,"female",16.2,814,7.07575352021167,93.8085632235532,"Winter",45382
+12,-121.7448173,38.5489864,"u ad.",1922,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",78,NA,"female",15,577,7.02241001538948,130.336370818885,"Winter",45302
+9,-121.6089374,36.4191479,"skull",2005,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",78,NA,"female",14.7,763,3.67154290084254,114.398913229645,"Fall",45365
+3,-97.6232833,17.1519167,NA,1993,"Melanerpes formicivorus","Melanerpes_formicivorus",78,NA,"male",14.4,1295,1.13147128674451,134.60495504958,"Spring",45475
+2,-121.243097,35.975085,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",78.1,NA,"male",15,300,5.43270120881339,107.98907955147,"Winter",45201
+2,-121.243097,35.975085,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",78.1,NA,"female",15,300,5.43270120881339,107.98907955147,"Winter",45348
+11,-122.69648,37.90533,"U-Ad",1996,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",78.4,NA,"undetermined",13.6,958,1.36390148937791,118.503196582054,"Fall",45452
+10,-121.5568207,36.37851365,"adult",2001,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",78.6,NA,"female",14.3,817,4.82991781095766,114.853497394617,"Fall",45210
+9,-122.0188751,36.9706497,NA,1993,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",78.8,NA,"male",14.1,829,3.0286510648682,140.526698194771,"Fall",45141
+6,-121.5734410286,36.3959312082,"skull not fully ossified",2004,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",78.8,NA,"male",14.7,662,4.70006447409034,144.61346941563,"Summer",45217
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",78.9,NA,"male",15.9,575,7.54804309377302,127.305770342443,"Fall",45331
+2,-121.243097,35.975085,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79,NA,"female",15,300,5.43270120881339,107.98907955147,"Winter",45199
+10,-119.11036,36.723617,"u ad.",1916,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79,NA,"male",15.9,1010,7.65119816325086,149.165087520743,"Fall",45372
+12,-122.25047,37.87248,"adult",2003,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79.1,NA,"female",14.5,589,3.35083662099573,112.909643118652,"Winter",45209
+6,-121.589283,36.383894,"unknown",1975,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79.2,NA,"male",13.1,506,4.65561733041631,146.888666684388,"Summer",45191
+4,-122.74282,37.97264,"U-Ad.",1985,"Melanerpes formicivorus","Melanerpes_formicivorus",79.2,NA,"male",13.6,653,3.78665919760254,111.252740652306,"Spring",45500
+8,-120.11166,37.75634,"ad.?",1920,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79.3,NA,"undetermined",11.8,1003,6.41250553783209,104.637556634204,"Summer",45376
+12,-120.0705,40.31451,"u ad.",1924,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79.4,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",45231
+1,-123.61833,40.91792,"u ad.",1942,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79.4,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",45408
+7,-121.54437,36.3697,"adult",2001,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79.5,NA,"female",14.1,850,4.90241128054719,115.385256069627,"Summer",45208
+5,-121.5669772,36.37907777,"adult laying",2001,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79.5,NA,"female",14.3,801,4.71419519787168,114.736244040224,"Spring",45351
+4,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",79.6,NA,"female",11.2,1031,7.06169243170502,104.669249158388,"Spring",45404
+12,-118.6669349,34.713678,"adult",1986,NA,"Melanerpes_formicivorus",79.8,NA,"male",13.9,401,5.60616543718529,145.224381414577,"Winter",45277
+12,-119.781173,37.674352,"u ad.",1914,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",80,NA,"female",12.7,950,6.65197623859165,181.949619577693,"Winter",45225
+8,-116.566658,32.9918193,NA,1984,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",80,NA,"male",13.4,650,6.39731833022102,151.829803471889,"Summer",45287
+4,-122.7228012,38.4376106,NA,1990,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",80,NA,"female",14.4,414,4.96407548840118,123.566806258883,"Spring",45289
+9,-119.7054556,34.0041653,"u ad.",1948,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",80,NA,"male",12.8,278,2.62244103264439,137.843921379049,"Fall",45305
+7,-92.8835041,17.1007793,"juvenile",1957,NA,"Melanerpes_formicivorus",80,NA,"male",18.6,2242,1.62611267267752,59.8044030238046,"Summer",45534
+3,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",80.3,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",45251
+6,-121.931555,38.39744,"immature",1963,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",80.5,NA,"male",15.2,669,6.47217821981834,103.629978880304,"Summer",45283
+8,-122.6160965,38.7523041,NA,1990,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Summer",45139
+4,-121.580108,36.401011,"unknown",1978,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81,NA,"female",14,871,4.66640962495566,120.434481699507,"Spring",45190
+5,-122.2252066,40.1903286,"u ad.",1924,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81,NA,"female",17.4,446,7.60053327475159,110.786178445725,"Spring",45378
+6,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Summer",45407
+2,-121.243097,35.975085,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81.3,NA,"female",15,300,5.43270120881339,107.98907955147,"Winter",45203
+8,-119.7054556,34.0041653,"u ad.",1948,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81.3,NA,"male",12.8,278,2.62244103264439,137.843921379049,"Summer",45304
+2,-121.243097,35.975085,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81.4,NA,"female",15,300,5.43270120881339,107.98907955147,"Winter",45204
+11,-118.6395721,34.1567078,NA,1998,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81.5,NA,"female",16.3,659,4.60885182572787,187.651637436389,"Fall",45131
+10,-121.554489,36.329026,"unknown",1975,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81.7,NA,"male",12.8,638,5.90902622342217,145.243871685581,"Fall",45194
+6,-122.63573,38.24925,"adult",2004,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81.7,NA,"male",15,691,4.28219534464473,131.854200387478,"Summer",45506
+2,-122.75959,38.42548,"U-Ad.",1977,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",81.8,NA,"male",14,642,4.1624857812115,110.593854813783,"Winter",45497
+1,-120.6021591,38.0667563,"u ad.",1951,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",82.2,NA,"male",15.7,741,6.71901417732925,109.801746172899,"Winter",45164
+3,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",82.2,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",45250
+10,-119.11036,36.723617,"u ad.",1916,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",82.6,NA,"male",15.9,1010,7.65119816325086,149.165087520743,"Fall",45371
+5,-118.451318,35.67902,"Not recorded",1991,NA,"Melanerpes_formicivorus",82.8,NA,"female",16.4,243,7.52141891030159,189.958262795181,"Spring",45434
+8,-123.8193291,41.1515112,"u ad.",1949,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",82.9,NA,"female",11.1,1784,6.60419403015075,99.056239467751,"Summer",45309
+11,-116.35,32.6,"ad.",1927,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",83,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",45234
+3,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",83,NA,"female",11.2,1031,7.06169243170502,104.669249158388,"Spring",45401
+8,-122.1754448,37.8718423,"u ad.",1933,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",83.5,NA,"female",13.3,549,4.33841194238378,130.167308754698,"Summer",45256
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",83.5,NA,"undetermined",13,411,5.31745980594859,122.322450490065,"Fall",45523
+8,-120.2886554,35.4464469,"ad.",1947,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",83.7,NA,"male",14.7,120,5.94935061391348,93.5171350366046,"Summer",45307
+10,-115.9072222,32.053333,"u ad.",1926,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",83.7,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",45483
+12,-121.9952649,40.3132595,"u ad.",1927,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",83.8,NA,"female",16.2,814,7.07575352021167,93.8085632235532,"Winter",45232
+11,-122.6160965,38.7523041,NA,1993,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",84,NA,"male",15.1,1123,6.98055198824606,133.204224597191,"Fall",45284
+2,-121.8874757,39.362006,"u ad.",1929,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",84,NA,"male",15.6,321,6.85385867872097,174.770216996028,"Winter",45329
+11,-115.6166667,31.016667,"u ad.",1925,"Melanerpes formicivorus martirensis","Melanerpes_formicivorus",84,NA,"male",13,398,4.4543050337099,112.253607825266,"Fall",45479
+12,-118.6669349,34.713678,"Adult; skull oss.",1986,NA,"Melanerpes_formicivorus",84.2,NA,"male",13.9,401,5.60616543718529,145.224381414577,"Winter",45431
+1,-122.85529,38.04513,"adult",2000,"Melanerpes formicivorus","Melanerpes_formicivorus",84.2,NA,"male",13.4,869,2.50386065543156,131.3057534844,"Winter",45456
+5,-121.633942,36.43825,"adult skull",2004,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",84.3,NA,"male",14.8,558,4.14234416140368,140.12915753699,"Spring",45219
+3,-122.3566994,40.4192342,"immature",1962,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",84.4,NA,"male",16.5,846,7.15319381941953,104.297635679252,"Spring",45282
+4,-122.59,38.44,"adult",1998,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",84.5,NA,"male",14.3,1448,4.41775858429259,146.379933274064,"Spring",45206
+8,-109.3822849,31.9298117,"not applicable",1977,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",84.5,81,"female",12.6,717,6.67151338971083,108.825585062648,"Summer",45264
+12,-119.598212,37.736686,"u ad.",1914,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",84.5,NA,"male",9.3,942,6.9558946007663,172.736308446662,"Winter",45370
+9,-118.8514538,34.188228,"adult",1984,NA,"Melanerpes_formicivorus",84.5,NA,"male",18.3,236,5.29307008352345,199.172244829484,"Fall",45429
+7,-120.11166,37.75634,"ad.",1920,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",84.6,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",45228
+3,-122.7588,37.99714,"unknown",2008,"Melanerpes formicivorus","Melanerpes_formicivorus",84.61,235,"male",13.6,780,3.57807930531892,174.21668104086,"Spring",45463
+12,-119.781173,37.674352,"u ad.",1914,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",84.8,NA,"male",12.7,950,6.65197623859165,181.949619577693,"Winter",45224
+8,-109.3822849,31.9298117,"not applicable",1977,"Melanerpes formicivorus formicivorus","Melanerpes_formicivorus",85.3,NA,"female",12.6,717,6.67151338971083,108.825585062648,"Summer",45263
+2,-121.243097,35.975085,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",85.4,3.9,"male",15,300,5.43270120881339,107.98907955147,"Winter",45349
+9,-121.716866,36.581531,"u ad.",1973,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",85.5,NA,"female",13.5,653,3.20681093356568,114.576413967359,"Fall",45177
+9,-118.8514538,34.188228,"adult",1984,NA,"Melanerpes_formicivorus",85.5,NA,"male",18.3,236,5.29307008352345,199.172244829484,"Fall",45430
+6,-120.94359,38.89911,"U-Ad.",1975,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",85.7,NA,"male",14.2,855,7.14503430023364,115.618442061749,"Summer",45448
+2,-121.243097,35.975085,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",86,NA,"male",15,300,5.43270120881339,107.98907955147,"Winter",45200
+4,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",86,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",45405
+12,-118.6669349,34.713678,"adult",1986,NA,"Melanerpes_formicivorus",86,NA,"male",13.9,401,5.60616543718529,145.224381414577,"Winter",45432
+4,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",86.2,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",45252
+9,-121.5568207,36.37851365,"ad.",1977,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",86.2,NA,"male",14.2,434,4.71782564195401,176.610981434839,"Fall",45342
+3,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",86.2,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",45402
+9,-119.721443,37.090636,"unknown",1952,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",86.7,NA,"male",15.9,575,7.54804309377302,127.305770342443,"Fall",45181
+4,-122.2435797,40.4113616,"adult",1963,"Melanerpes formicivorus","Melanerpes_formicivorus",86.8,NA,"female",15.7,692,7.21524060372882,95.2845535888201,"Spring",45128
+6,-123.23675,39.66688,"adult",2010,"Melanerpes formicivorus","Melanerpes_formicivorus",86.8,235,"female",13.9,1618,5.81650603233955,87.368386702205,"Summer",45507
+7,-121.7518,36.5072,"juv.",1980,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",86.9,NA,"female ?",14.3,452,2.88773529803463,140.438562720465,"Summer",45338
+5,-118.1300507,34.1444969,NA,2005,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",87,NA,"male",16.8,821,3.25715994527302,175.54320304669,"Spring",45132
+2,-122.6160965,38.7523041,NA,1991,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",87,NA,"female",14.7,841,6.14200638425608,170.872474662839,"Winter",45134
+11,-122.6160965,38.7523041,NA,1990,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",87,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Fall",45138
+11,-122.8454185,39.2298477,"unknown",1981,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",87,NA,"female",13.4,1716,6.43759671889685,112.476994497774,"Fall",45350
+8,-121.646028,36.442196,"adult",1997,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",87,NA,"male",15.3,486,4.26301927433285,167.135309861575,"Summer",45352
+10,-121.07362,35.54067,"adult",2004,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",87,NA,"male",13.1,630,2.35685653514861,144.347778573618,"Fall",45461
+6,-92.915905,17.175698,NA,1963,"Melanerpes formicivorus","Melanerpes_formicivorus",87.3,NA,NA,18.2,2541,1.70691552399661,70.2369587578481,"Summer",45294
+10,-121.95906,36.98791,"U-Ad.",1969,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",87.5,NA,"male",13.6,1016,3.18418202235914,141.32846313791,"Fall",45495
+6,-121.70543,37.18885,"U-Ad.",1978,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",87.7,NA,"male",15.1,693,4.46348824046029,127.125341219342,"Summer",45449
+9,-121.646028,36.442196,"skull ossified",2004,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",88.3,NA,"male",14.8,542,4.01576439004626,139.596978739937,"Fall",45366
+5,-121.5926,36.412679,"unknown",1977,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",88.5,NA,"male",14.2,397,4.31916097351691,171.322400428417,"Spring",45189
+5,-121.619793,36.42718,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",88.5,NA,"male",14.3,270,4.40378624973253,89.4512438912982,"Spring",45339
+5,-123.22779,39.7796,"U-Ad",1993,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",88.5,NA,"male",13.7,1108,6.16271167194403,107.19898212612,"Spring",45453
+4,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",88.8,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",45253
+6,-123.5041,40.4781,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",88.8,NA,"male",10.4,1222,6.95084472738691,101.481681981503,"Summer",45255
+7,-118.432632,35.765888,NA,2000,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",89,NA,"male",16.2,208,7.11389485443804,165.687930763636,"Summer",45137
+2,-121.786586,36.519924,"unknown",1978,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",89,NA,"male",14,638,3.40377464268447,120.732165429716,"Winter",45186
+1,-123.61833,40.91792,"u ad.",1942,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",89,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",45258
+1,-122.6160965,38.7523041,NA,1991,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",89,NA,"female",14.7,841,6.14200638425608,170.872474662839,"Winter",45290
+10,-122.6160965,38.7523041,NA,1991,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",89.5,NA,"male",14.7,841,6.14200638425608,170.872474662839,"Fall",45133
+3,-122.10333,37.93729,"U-Ad",1966,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",89.6,NA,"male",14.7,440,4.88661592019622,132.784363044224,"Spring",45454
+4,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",89.8,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",45254
+5,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",89.8,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",45406
+8,-123.8193291,41.1515112,"u ad.",1949,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",89.9,NA,"female",11.1,1784,6.60419403015075,99.056239467751,"Summer",45310
+9,-122.6160965,38.7523041,NA,1990,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",90,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Fall",45286
+7,-121.282069,35.971489,"unknown",1976,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",90.1,NA,"male",14.8,320,5.35551259465564,108.430172335597,"Summer",45196
+4,-123.4644508,40.4048454,"u ad.",1932,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",91.7,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",45403
+6,-120.5131667,38.0846667,NA,2004,"Melanerpes formicivorus","Melanerpes_formicivorus",92.1,NA,"male",16,712,6.90915071744448,116.259161680332,"Summer",45492
+9,-121.7296936,38.7253927,"unknown",1927,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",92.7,NA,"male",15.1,501,5.8625351326724,96.568163225122,"Fall",45380
+10,-121.07362,35.54067,"adult",2004,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",94.3,NA,"male",13.1,630,2.35685653514861,144.347778573618,"Fall",45460
+5,-117.549477,33.5781577,"adult",1995,NA,"Melanerpes_formicivorus",95.4,NA,"male",17.5,591,3.45098800082211,166.078800975633,"Spring",45278
+7,-121.7719339,37.6380597,"not recorded",2004,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",96,NA,"female",15.6,404,4.95068865733023,119.851887240714,"Summer",45212
+9,-121.621663,36.430011,"unknown",1978,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",99,NA,"male",14.1,795,4.23938960729304,121.321420980001,"Fall",45187
+8,-119.7370983,33.995638,"ad. sk.oss.",1967,"Melanerpes formicivorus bairdi","Melanerpes_formicivorus",102.5,NA,"male",13.8,500,3.40983426239014,139.623843432938,"Summer",45330

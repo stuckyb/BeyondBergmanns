@@ -1,0 +1,535 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+9,-85.1507378,46.7618551,NA,2004,"Regulus satrapa","Regulus_satrapa",2,NA,"female",4.8,744,9.51816047290015,38.758462683089,"Fall",113867
+9,-86.142237,44.665975,NA,2013,"Regulus satrapa satrapa","Regulus_satrapa",2.9,NA,"female",7.4,1061,10.1494140747437,26.8303551391294,"Fall",113889
+11,-94.7810783,39.1631755,NA,1961,"Regulus satrapa","Regulus_satrapa",3,NA,"undetermined",11.3,1516,9.56427617689278,65.1138509406081,"Fall",113462
+4,-91.4907073,44.8098524,NA,1976,"Regulus satrapa satrapa","Regulus_satrapa",3,NA,"undetermined",6.1,466,12.6053980740816,68.5167653833367,"Spring",113694
+7,-121.3582648,40.4036237,"ad.",1924,"Regulus satrapa olivaceus","Regulus_satrapa",3.2,NA,"male",6.7,838,7.11725921882004,101.10523215374,"Summer",113507
+1,-123.61833,40.91792,"u ad.",1942,"Regulus satrapa olivaceus","Regulus_satrapa",3.5,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",113527
+1,-123.61833,40.91792,"u ad.",1942,"Regulus satrapa olivaceus","Regulus_satrapa",3.5,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",113528
+10,-83.35278,42.36833,NA,2010,"Regulus satrapa satrapa","Regulus_satrapa",3.5,NA,"female",10.6,763,10.8308481998075,62.4304104218683,"Fall",113922
+9,-85.1507378,46.7618551,NA,2004,"Regulus satrapa","Regulus_satrapa",3.7,NA,"male",4.8,744,9.51816047290015,38.758462683089,"Fall",113650
+11,-82.4333333,42.9666667,NA,1991,"Regulus satrapa","Regulus_satrapa",3.8,NA,"female",10.1,705,9.86631858517869,43.7201384620119,"Fall",113965
+4,-84.07306,42.66056,NA,2009,"Regulus satrapa","Regulus_satrapa",3.9,NA,"male",8.4,947,9.97094263195296,48.1447598717918,"Spring",113921
+10,-122.99983,37.99521,"immature",2002,"Regulus satrapa","Regulus_satrapa",3.9,86,"undetermined",12,758,1.68864299113672,172.464651098437,"Fall",113947
+1,-123.61833,40.91792,"u ad.",1942,"Regulus satrapa olivaceus","Regulus_satrapa",4,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",113529
+12,-124.1530252,41.104244,"u juv.",1941,"Regulus satrapa olivaceus","Regulus_satrapa",4,NA,"male",12.2,1865,2.44619370376993,94.5728935259856,"Winter",113764
+11,-83.7263412,42.2708397,NA,1990,"Regulus satrapa","Regulus_satrapa",4.1,NA,"male",10.3,1143,8.6246299876715,40.3792365163565,"Fall",113639
+7,-118.2425,44.9778,"u ad.",1940,"Regulus satrapa olivaceus","Regulus_satrapa",4.2,NA,"male",4.6,1051,7.35582123631387,77.2107009633945,"Summer",113526
+11,-122.29638,37.51604,"U-Ad.",1990,"Regulus satrapa olivaceus","Regulus_satrapa",4.2,NA,"m?",14.5,283,4.33151768489354,110.093884488586,"Fall",113900
+10,-83.942057,42.575057,"immature",2013,"Regulus satrapa satrapa","Regulus_satrapa",4.25,NA,"male",9,895,10.3827070680341,55.9107736522185,"Fall",113870
+10,-83.491138,42.64704,NA,2013,"Regulus satrapa satrapa","Regulus_satrapa",4.28,NA,"female",9,899,10.3673840246781,53.9299957764178,"Fall",113628
+3,-84.0951329,42.3115748,"adult",2012,"Regulus satrapa satrapa","Regulus_satrapa",4.28,NA,"male",11.1,716,9.24193341965486,40.8758076090388,"Spring",113651
+9,-118.831168,45.482563,NA,1996,"Regulus satrapa","Regulus_satrapa",4.3,NA,"male",10.6,452,7.71308903256292,65.4658455960657,"Fall",113426
+12,-95.6780357,39.0483341,NA,1989,"Regulus satrapa","Regulus_satrapa",4.3,NA,"male",11.8,853,10.515601684539,78.3949191763714,"Winter",113463
+6,-117.1743385,51.2999992,"ad",1968,"Regulus satrapa amoenus","Regulus_satrapa",4.3,NA,"female",-2.8,2451,7.46597839089649,77.9367110564347,"Summer",113774
+7,-118.00840403,46.067908469,"u ad.",1939,"Regulus satrapa olivaceus","Regulus_satrapa",4.4,NA,"female",8.2,819,6.72721181381104,99.4854535609541,"Summer",113525
+12,-120.0705,40.31451,"u ad.",1924,"Regulus satrapa olivaceus","Regulus_satrapa",4.4,NA,"female",8.8,149,8.08051809770096,107.293383086489,"Winter",113740
+7,-122.7340259,37.9286764,"skull",2003,"Regulus satrapa olivaceus","Regulus_satrapa",4.5,NA,"male",13.5,673,2.36598368292742,123.005893790646,"Summer",113497
+5,-80.24294,42.5613,"ad",1928,"Regulus satrapa satrapa","Regulus_satrapa",4.5,NA,"female",9.2,821,9.33141890539048,43.0734582008226,"Spring",113829
+11,-147.8043,64.857,"AD",2004,"Regulus satrapa","Regulus_satrapa",4.5,NA,"male",-1.3,208,15.1257431572999,73.097771959685,"Fall",113843
+11,-83.7263412,42.2708397,NA,1939,"Regulus satrapa","Regulus_satrapa",4.6,NA,"male",10.1,662,10.2795766921453,66.7450603426487,"Fall",113658
+6,-74.117481,44.420729,NA,2008,"Regulus satrapa","Regulus_satrapa",4.7,NA,"male",5.8,1240,10.0290789329043,35.725119645464,"Summer",113678
+5,-114.10722,39.01722,"u ad.",1934,"Regulus satrapa olivaceus","Regulus_satrapa",4.7,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",113750
+10,-83.0734634,42.357212,"immature",2009,"Regulus satrapa satrapa","Regulus_satrapa",4.7,NA,"male",9.3,881,10.0344406919369,47.0560833603598,"Fall",113864
+12,-72.916444,41.324668,NA,2013,"Regulus satrapa satrapa","Regulus_satrapa",4.7,NA,"male",11.2,1158,9.23738697802675,63.2983315544313,"Winter",113925
+7,-121.537483333,40.3697933333,"skull",2006,"Regulus satrapa olivaceus","Regulus_satrapa",4.71,NA,"male",8.6,2125,7.20284034884219,103.402302135009,"Summer",113721
+3,-122.74009,37.93065,"AHY",2005,"Regulus satrapa","Regulus_satrapa",4.73,87,"female",13.5,892,1.87380264799588,125.173398915023,"Spring",113906
+10,-117.209819,46.824656,NA,1966,"Regulus satrapa","Regulus_satrapa",4.8,91,"female",8.8,478,6.94202725608611,75.4802739553025,"Fall",113438
+12,-105.0806727,40.574852,NA,1995,"Regulus satrapa","Regulus_satrapa",4.8,91,"female",9.3,495,8.00909993808179,119.677049675524,"Winter",113455
+11,-109.0131833333,31.5213333333,"ad",2007,"Regulus satrapa","Regulus_satrapa",4.8,NA,"female",15.2,448,7.14446172453414,95.3954025531777,"Fall",113469
+1,-123.47623,40.4313,"u ad.",1942,"Regulus satrapa olivaceus","Regulus_satrapa",4.8,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",113530
+1,-84.377737,42.807799,NA,1993,"Regulus satrapa","Regulus_satrapa",4.8,NA,"female",8.1,862,9.99940528534603,61.0392046165452,"Winter",113642
+7,-121.537483333,40.3697933333,"juvenile",2006,"Regulus satrapa olivaceus","Regulus_satrapa",4.8,NA,"male",8.6,2125,7.20284034884219,103.402302135009,"Summer",113720
+7,-121.537483333,40.3697933333,"open skull",2006,"Regulus satrapa olivaceus","Regulus_satrapa",4.8,NA,"male",8.6,2125,7.20284034884219,103.402302135009,"Summer",113722
+4,-85.39644,38.6833,"U-Ad.",1989,"Regulus satrapa","Regulus_satrapa",4.8,NA,"male",11.9,1372,9.65978856660513,33.4483340491434,"Spring",113986
+10,-77.7179499,43.3225697,NA,2004,"Regulus satrapa","Regulus_satrapa",4.80000019073486,NA,"male",8.8,921,9.50226049661103,40.5123527749255,"Fall",113676
+7,-121.43286,40.34403,"skull",2006,"Regulus satrapa olivaceus","Regulus_satrapa",4.88,NA,"male",8.6,1620,7.34048033272697,103.40589303081,"Summer",113723
+10,-105.8188,35.7727333333,NA,2010,"Regulus satrapa","Regulus_satrapa",4.9,NA,"male",6.8,725,7.6675625300036,54.3370616477512,"Fall",113471
+10,-83.7263412,42.2708397,"immature",1999,"Regulus satrapa satrapa","Regulus_satrapa",4.9,NA,"male",10.2,871,9.96574435785208,44.628272107928,"Fall",113645
+6,-117.462495,46.125378,NA,1990,"Regulus satrapa","Regulus_satrapa",5,NA,"male",6.4,923,7.55554682857488,58.1099086531547,"Summer",113443
+12,-95.2598661,38.9549568,NA,1993,"Regulus satrapa","Regulus_satrapa",5,NA,"female",11.8,1331,10.2879857851356,77.435966617949,"Winter",113464
+11,-120.74076,36.125207,"ad.",1918,"Regulus satrapa olivaceus","Regulus_satrapa",5,NA,"male",13.7,516,6.05967795923983,144.71982203365,"Fall",113501
+7,-121.5319,40.4147,"u ad.",1924,"Regulus satrapa olivaceus","Regulus_satrapa",5,NA,"undetermined",6.9,1423,6.82073487554122,104.276018204552,"Summer",113506
+10,-79.417081,43.650413,"imm",1937,"Regulus satrapa satrapa","Regulus_satrapa",5,NA,"male",8.1,686,10.0251917536259,43.0630165735384,"Fall",113601
+3,-83.7280726,42.2358893,NA,2012,"Regulus satrapa satrapa","Regulus_satrapa",5,NA,"female",11.6,680,9.16271677985731,37.8437375844803,"Spring",113649
+10,-119.918335,37.593927,"imm.",1915,"Regulus satrapa olivaceus","Regulus_satrapa",5,NA,"female ?",13,968,6.25692343800776,122.946408288034,"Fall",113733
+5,-123.015054,40.394887,"u ad.",1926,"Regulus satrapa olivaceus","Regulus_satrapa",5,NA,"female",11.7,1312,6.52795851888187,123.826324692807,"Spring",113742
+4,-79.287687,43.727871,"ad",2005,"Regulus satrapa satrapa","Regulus_satrapa",5,NA,"male",8.1,746,11.1053085858916,34.37986432177,"Spring",113841
+7,-122.53918,37.89532,"fledgling",2002,"Regulus satrapa","Regulus_satrapa",5,NA,"undetermined",14,851,2.89486221999032,176.508915623962,"Summer",113904
+3,-79.55112,43.58436,"ad",2000,"Regulus satrapa satrapa","Regulus_satrapa",5,NA,"male",7.8,803,9.80585400295521,58.1801917084608,"Spring",113957
+4,-118.662867,46.064884,NA,1994,"Regulus satrapa","Regulus_satrapa",5.1,NA,"male",13.1,299,8.21463494458076,70.3118599682458,"Spring",113425
+12,-122.2715302,37.8697904,"ad.",1924,"Regulus satrapa olivaceus","Regulus_satrapa",5.1,NA,"male",13.4,431,2.48242305871184,113.048659101492,"Winter",113486
+7,-121.43286,40.34403,"skull",2006,"Regulus satrapa olivaceus","Regulus_satrapa",5.1,NA,"female ?",8.6,1620,7.34048033272697,103.40589303081,"Summer",113495
+6,-121.5833,44.0053,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",5.1,NA,"male",4.2,1125,6.97025607111889,92.2697494668034,"Summer",113519
+1,-131.7166,55.3441,"AHY",1999,"Regulus satrapa","Regulus_satrapa",5.1,NA,"female ?",6.3,3806,4.44449779008389,34.253880687307,"Winter",113615
+12,-95.5360794,38.0056315,NA,1966,"Regulus satrapa","Regulus_satrapa",5.1,NA,"undetermined",13,655,9.84308325062772,81.5367050850986,"Winter",113688
+7,-116.1454,44.9542,"u ad.",1932,"Regulus satrapa olivaceus","Regulus_satrapa",5.1,NA,"male",3.9,936,8.76786487951625,71.9154831055055,"Summer",113746
+10,-72.6672,41.2642,NA,1974,"Regulus satrapa","Regulus_satrapa",5.1,NA,NA,10.7,1084,8.76129141580893,44.9712235453067,"Fall",113932
+3,-117.164293,46.730767,NA,1977,"Regulus satrapa","Regulus_satrapa",5.2,NA,"male",8.2,483,7.98446882542868,80.8616631624308,"Spring",113445
+6,-123.4808944,40.4808574,"u ad.",1932,"Regulus satrapa olivaceus","Regulus_satrapa",5.2,NA,"male",9.6,1341,7.15579866579927,101.519217222941,"Summer",113514
+5,-121.2667,53.2667,"u ad.",1934,"Regulus satrapa olivaceus","Regulus_satrapa",5.2,NA,"female",3.5,795,7.41474268541459,47.699967462015,"Spring",113515
+10,-119.42944,40.45639,"u ad.",1947,"Regulus satrapa olivaceus","Regulus_satrapa",5.2,NA,"female",10.6,125,8.40485069180382,80.7611696446165,"Fall",113534
+12,-122.6160965,38.7523041,NA,1989,"Regulus satrapa olivaceus","Regulus_satrapa",5.2,NA,"undetermined",14.5,612,6.51136535512167,149.544062583856,"Winter",113695
+4,-100.60523,19.80495,"u ad.",1961,"Regulus satrapa aztecus","Regulus_satrapa",5.2,NA,"female",9.6,1065,1.52901235700657,108.73793568423,"Spring",113712
+1,-121.835607,36.60922,"ad.",1919,"Regulus satrapa olivaceus","Regulus_satrapa",5.2,NA,"female ?",11.7,339,1.95393929994736,149.535305151252,"Winter",113736
+6,-121.6154,44.0583,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",5.2,NA,"male",2.9,1306,6.87961415408531,91.7639482487134,"Summer",113760
+1,-123.43834,40.39507,"u ad.",1942,"Regulus satrapa olivaceus","Regulus_satrapa",5.2,NA,"male",10.6,1921,6.22120031290854,99.6623356453026,"Winter",113766
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.2,100,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113797
+10,-83.7336302,42.2742128,"adult",2006,"Regulus satrapa satrapa","Regulus_satrapa",5.2,NA,"female",10.6,1150,8.77811931952846,27.4850644501614,"Fall",113862
+10,-80.6526947,41.096947,"immature",1985,NA,"Regulus_satrapa",5.2,NA,"female",9.7,1089,9.97270137561898,64.8263569144691,"Fall",113885
+7,-114.54816,46.54853,"U-Ad.",1948,"Regulus satrapa amoenus","Regulus_satrapa",5.2,NA,"male",1.9,1619,8.07785506333472,70.8095457515957,"Summer",113898
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.2,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",113972
+4,-83.6561111,42.3127778,"adult",1949,"Regulus satrapa","Regulus_satrapa",5.2,NA,"female",10.5,841,9.74649898292933,23.8253832581416,"Spring",113985
+3,-117.1625,46.730636,NA,1973,"Regulus satrapa","Regulus_satrapa",5.3,NA,"female",8.6,525,7.4581407627078,109.890406720086,"Spring",113432
+3,-94.4320607,38.9244737,NA,2003,"Regulus satrapa","Regulus_satrapa",5.3,NA,"male",12.8,917,10.2390037098195,69.2621656338706,"Spring",113466
+11,-149.4658333333,60.9736111111,"u ad.",1957,"Regulus satrapa olivaceus","Regulus_satrapa",5.3,NA,"male",1.5,841,6.82275048953311,75.3101195071786,"Fall",113485
+7,-115.805,48.9,"unknown",1966,"Regulus satrapa","Regulus_satrapa",5.3,NA,"undetermined",4.4,860,7.36914122705234,71.6309271486502,"Summer",113492
+9,-116.9190818,34.2297108,"u ad.",1926,"Regulus satrapa olivaceus","Regulus_satrapa",5.3,NA,"female",8.7,568,5.83983187802837,118.60558431066,"Fall",113512
+7,-133.2976341,60.4887738,"adult",1948,"Regulus satrapa olivaceus","Regulus_satrapa",5.3,NA,"male",-2.9,413,12.9044624651766,71.6922646351272,"Summer",113630
+7,-117.236271,46.136211,NA,1979,"Regulus satrapa","Regulus_satrapa",5.3,NA,"male",7.2,486,9.0616533042299,49.6180224984217,"Summer",113659
+4,-151.5483333333,59.6425,"sk.double",1958,"Regulus satrapa olivaceus","Regulus_satrapa",5.3,NA,"female",4.2,691,6.17146414531995,54.6877904578249,"Spring",113710
+6,-121.5601336,40.3581265,"u ad.",1924,"Regulus satrapa olivaceus","Regulus_satrapa",5.3,NA,"male",8.1,904,6.88238859170802,103.758398764678,"Summer",113739
+6,-123.5574082,40.6096034,"juv.",1930,"Regulus satrapa olivaceus","Regulus_satrapa",5.3,NA,"female ?",9,1619,5.90656414508469,102.559831880152,"Summer",113745
+6,-122.9107,44.2042,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",5.3,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",113757
+1,-123.47623,40.4313,"u ad.",1942,"Regulus satrapa olivaceus","Regulus_satrapa",5.3,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",113765
+10,-83.8387299,42.2976274,NA,1991,"Regulus satrapa","Regulus_satrapa",5.3,NA,"female",10.3,789,10.0152459538022,41.3924988862305,"Fall",113861
+9,-85.5156898,42.1720552,"immature",2010,"Regulus satrapa satrapa","Regulus_satrapa",5.3,NA,"female",10.8,902,10.6010148170595,63.649112713078,"Fall",113865
+4,-87.4085999,46.6372258,NA,1938,"Regulus satrapa satrapa","Regulus_satrapa",5.3,NA,"female",6.5,848,9.72947334212657,33.9694103402178,"Spring",113880
+11,-122.48251,37.7695,"U-Ad.",1974,"Regulus satrapa","Regulus_satrapa",5.3,NA,"male",12.9,488,2.44236596667074,109.907221651653,"Fall",113899
+7,-94.98538,49.92533,"juv",1947,"Regulus satrapa satrapa","Regulus_satrapa",5.3,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",113914
+10,-72.6672,41.2642,NA,1974,"Regulus satrapa","Regulus_satrapa",5.3,NA,"male",10.7,1084,8.76129141580893,44.9712235453067,"Fall",113970
+10,-72.6672,41.2642,NA,1974,"Regulus satrapa","Regulus_satrapa",5.3,NA,"male",10.7,1084,8.76129141580893,44.9712235453067,"Fall",113971
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.35,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113799
+10,-117.165636,46.72953,NA,2010,"Regulus satrapa","Regulus_satrapa",5.4,NA,"male",8.6,583,6.57881701625249,53.5915099553872,"Fall",113427
+9,-117.179457,46.728691,NA,1952,"Regulus satrapa","Regulus_satrapa",5.4,100,"male",8.7,401,8.12942187366359,67.678286012021,"Fall",113430
+8,-114.650189,43.795881,NA,1948,"Regulus satrapa","Regulus_satrapa",5.4,NA,"male",1.3,802,8.99630816535653,62.5794697022649,"Summer",113458
+11,-107.2682,33.9870666667,NA,2008,"Regulus satrapa","Regulus_satrapa",5.4,NA,"female",10.9,323,7.27054560080145,121.089537715517,"Fall",113470
+6,-115.36343,41.86105,"u ad.",1955,"Regulus satrapa olivaceus","Regulus_satrapa",5.4,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",113481
+7,-115.733,48.8933,"unknown",1966,"Regulus satrapa","Regulus_satrapa",5.4,NA,"undetermined",3.5,878,7.15496754751974,70.8026421177941,"Summer",113493
+6,-121.6154,44.0583,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",5.4,NA,"male",2.9,1306,6.87961415408531,91.7639482487134,"Summer",113520
+6,-117.1743385,51.2999992,"ad",1968,"Regulus satrapa amoenus","Regulus_satrapa",5.4,NA,"male",-2.8,2451,7.46597839089649,77.9367110564347,"Summer",113536
+10,-79.432802,43.711354,"imm",1983,"Regulus satrapa satrapa","Regulus_satrapa",5.4,NA,"male",7.8,836,10.142962928538,38.6643874458409,"Fall",113600
+9,-123.1358556,40.315747,"u ad.",1949,"Regulus satrapa olivaceus","Regulus_satrapa",5.4,NA,"male",9.4,1281,6.87278338922096,146.948460928128,"Fall",113699
+7,-121.537483333,40.3697933333,"juvenile",2006,"Regulus satrapa olivaceus","Regulus_satrapa",5.4,NA,"male",8.6,2125,7.20284034884219,103.402302135009,"Summer",113719
+9,-118.7508,36.7453,"u ad.",1916,"Regulus satrapa olivaceus","Regulus_satrapa",5.4,NA,"male",5.3,1511,6.92957539474932,151.535198131605,"Fall",113734
+12,-121.5955981,40.3477021,"u ad.",1927,"Regulus satrapa olivaceus","Regulus_satrapa",5.4,NA,"undetermined",9,1523,6.49425737000612,100.857192490312,"Winter",113744
+5,-118.249667,36.577811,"u ad.",1942,"Regulus satrapa olivaceus","Regulus_satrapa",5.4,NA,"male",2.1,318,6.55565335486028,154.73371452831,"Spring",113767
+6,-120.0333,51.7368,"u ad.",1935,"Regulus satrapa olivaceus","Regulus_satrapa",5.4,NA,"male",4.4,575,8.27245795432413,78.5060153392366,"Summer",113771
+10,-134.555,58.3449,"U",1996,"Regulus satrapa","Regulus_satrapa",5.4,NA,"female ?",4.1,1826,7.28840403197664,53.2210251762559,"Fall",113848
+7,-83.6215433,45.9522238,"adult",1938,"Regulus satrapa satrapa","Regulus_satrapa",5.4,NA,"male",6.2,756,10.6461118240274,24.8313674024005,"Summer",113852
+6,-93.63727,52.84037,"ad",1938,"Regulus satrapa satrapa","Regulus_satrapa",5.4,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",113912
+10,-73.907006,41.1881,NA,2011,"Regulus satrapa satrapa","Regulus_satrapa",5.4,NA,"male",12.3,1690,9.42943489421516,50.393589191875,"Fall",113928
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.4,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113929
+11,-72.9286,41.3081,"juvenile",2006,"Regulus satrapa satrapa","Regulus_satrapa",5.4,NA,"male",12.5,1309,8.14930281457478,46.128040232356,"Fall",113938
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.4,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113976
+9,-117.165649,46.729529,NA,1981,"Regulus satrapa","Regulus_satrapa",5.5,NA,"male",8.7,601,6.36302648592681,55.6155635509603,"Fall",113439
+2,-76.350161,42.383205,NA,2003,"Regulus satrapa","Regulus_satrapa",5.5,NA,"male",7.1,1166,10.2127223094382,37.4863026933754,"Winter",113450
+10,-76.4506,42.4801,NA,2005,"Regulus satrapa","Regulus_satrapa",5.5,90,"undetermined",8.5,1068,10.8595859064978,50.581198740371,"Fall",113451
+12,-115.51,40.17,"u ad.",1927,"Regulus satrapa olivaceus","Regulus_satrapa",5.5,NA,"male",6.4,562,8.10167865134732,57.6431713373589,"Winter",113487
+6,-114.17583,38.88556,"u ad.",1962,"Regulus satrapa olivaceus","Regulus_satrapa",5.5,NA,"female",8.5,232,9.00992718498812,69.7000251101843,"Summer",113488
+6,-122.9107,44.2042,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",5.5,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",113517
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.5,102,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113539
+6,-132.3,53.37,"AHY",1998,"Regulus satrapa","Regulus_satrapa",5.5,NA,"female",7.7,1981,4.6825595176531,67.7625246196731,"Summer",113613
+4,-104.0461493,30.6298252,NA,1937,"Regulus satrapa","Regulus_satrapa",5.5,NA,"female",14.7,432,6.82421601668824,64.3002398762827,"Spring",113656
+9,-117.164293,46.730767,NA,1981,"Regulus satrapa","Regulus_satrapa",5.5,NA,"female",8.7,601,6.36302648592681,55.6155635509603,"Fall",113666
+3,-100.578021,19.7269,"u ad.",1961,"Regulus satrapa aztecus","Regulus_satrapa",5.5,NA,"male",14.8,870,2.13257562301523,114.175665470653,"Spring",113713
+5,-114.10722,39.01722,"u ad.",1934,"Regulus satrapa olivaceus","Regulus_satrapa",5.5,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",113751
+6,-122.357,44.7554,"u ad.",1941,"Regulus satrapa olivaceus","Regulus_satrapa",5.5,NA,"male",10.7,1754,4.66153668251407,73.0621858393346,"Summer",113763
+9,-123.34811,40.69934,"imm.",1942,"Regulus satrapa olivaceus","Regulus_satrapa",5.5,NA,"female",10.7,1528,6.55894023220954,102.554334440198,"Fall",113768
+5,-123.0218589,40.2528009,"u ad.",1946,"Regulus satrapa olivaceus","Regulus_satrapa",5.5,NA,"male",9.1,900,6.53199584330622,100.72331767489,"Spring",113772
+4,-79.425049,43.6909,"ad",1933,"Regulus satrapa satrapa","Regulus_satrapa",5.5,NA,"male",7.9,709,10.4209433644973,39.2807518248992,"Spring",113828
+3,-79.396574,43.674725,"ad",2000,"Regulus satrapa satrapa","Regulus_satrapa",5.5,NA,"male",7.7,803,9.81432163172316,58.5398343233383,"Spring",113835
+6,-86.71792,50.18312,"ad",1947,"Regulus satrapa satrapa","Regulus_satrapa",5.5,100,"male",-0.7,756,13.5037003907234,45.2918593959555,"Summer",113838
+7,-83.8524198,45.9617112,"juvenile",1938,"Regulus satrapa satrapa","Regulus_satrapa",5.5,NA,"male",6.1,742,10.7301155067352,27.0515272176554,"Summer",113851
+4,-84.0323639,42.1743452,NA,1934,"Regulus satrapa satrapa","Regulus_satrapa",5.5,NA,"female",9.2,503,11.6850688202224,50.0566572419729,"Spring",113872
+11,-122.47268,37.78539,"Imm",1981,"Regulus satrapa","Regulus_satrapa",5.5,NA,"male",13.9,700,1.9959618323915,111.878366296368,"Fall",113903
+10,-123.250567,49.263456,NA,1989,"Regulus satrapa","Regulus_satrapa",5.5,NA,"female",10.4,1164,5.78055124769885,64.72457887746,"Fall",113915
+10,-72.6672,41.2642,NA,1974,"Regulus satrapa","Regulus_satrapa",5.5,NA,"female",10.7,1084,8.76129141580893,44.9712235453067,"Fall",113923
+10,-72.6672,41.2642,NA,1974,"Regulus satrapa","Regulus_satrapa",5.5,NA,"female",10.7,1084,8.76129141580893,44.9712235453067,"Fall",113978
+11,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.5,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113979
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.5,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113983
+12,-117.289803,46.575542,NA,1957,"Regulus satrapa","Regulus_satrapa",5.6,101,"male",10.2,471,8.99125416808754,60.1179275136347,"Winter",113431
+2,-97.56546,30.11,"u ad.",1952,"Regulus satrapa satrapa","Regulus_satrapa",5.6,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",113475
+9,-105.6868,36.0397,"imm.",1952,"Regulus satrapa olivaceus","Regulus_satrapa",5.6,NA,"female",3.5,665,8.23456775189846,57.3919096851959,"Fall",113476
+12,-121.5955981,40.3477021,"u ad.",1927,"Regulus satrapa olivaceus","Regulus_satrapa",5.6,NA,"male",9,1523,6.49425737000612,100.857192490312,"Winter",113509
+12,-121.7264709,40.3462883,"ad.",1927,"Regulus satrapa olivaceus","Regulus_satrapa",5.6,NA,"female ?",12.4,1025,6.74305478835727,94.4015173287662,"Winter",113510
+7,-117.3874,45.3137,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",5.6,NA,"undetermined",3.7,1111,7.03676492474067,69.4535125947687,"Summer",113522
+6,-81.59189,52.25485,"ad",1942,"Regulus satrapa satrapa","Regulus_satrapa",5.6,NA,"male",-1.5,703,13.437904327955,49.7651862110958,"Summer",113608
+4,-79.257939,43.775975,"ad",2000,"Regulus satrapa satrapa","Regulus_satrapa",5.6,NA,"female",7.4,809,9.85753057773138,57.6203980545938,"Spring",113609
+4,-79.71593,43.46917,NA,1967,"Regulus satrapa satrapa","Regulus_satrapa",5.6,100,"[female]",7.2,824,9.68677245557366,45.9845481427537,"Spring",113612
+4,-83.7263412,42.2708397,NA,1953,"Regulus satrapa satrapa","Regulus_satrapa",5.6,NA,"male",10.7,596,9.53530521035092,50.9741906978463,"Spring",113629
+10,-85.5853043,42.3622398,NA,1984,"Regulus satrapa","Regulus_satrapa",5.6,NA,"male",9.4,871,10.2761418299424,47.4374121849277,"Fall",113637
+10,-76.432222,42.404308,NA,2002,"Regulus satrapa","Regulus_satrapa",5.6,NA,"male",9.1,986,9.29478103805864,43.3188140633411,"Fall",113677
+9,-114.10722,39.01722,"imm.",1934,"Regulus satrapa olivaceus","Regulus_satrapa",5.6,NA,"undetermined",12,145,8.45472792243631,67.979497800529,"Fall",113753
+9,-114.28,38.96917,"ad.",1934,"Regulus satrapa olivaceus","Regulus_satrapa",5.6,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",113754
+6,-121.3146,43.7203,"u ad.",1937,"Regulus satrapa olivaceus","Regulus_satrapa",5.6,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",113756
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.6,99,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113813
+6,-131.7166,55.3441,"AHY",2001,"Regulus satrapa","Regulus_satrapa",5.6,NA,"male",6.7,3695,4.62492424180378,40.8023229766941,"Summer",113842
+6,-132.3,53.37,"AHY",1998,"Regulus satrapa","Regulus_satrapa",5.6,NA,"male",7.7,1981,4.6825595176531,67.7625246196731,"Summer",113847
+11,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.6,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113940
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.6,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",113969
+11,-117.164293,46.730767,NA,1998,"Regulus satrapa","Regulus_satrapa",5.7,NA,"female",9.9,607,7.5192026898408,72.3872249707153,"Fall",113423
+4,-117.164293,46.730767,NA,1996,"Regulus satrapa","Regulus_satrapa",5.7,NA,"male",8.2,774,7.91608929314025,71.5732167831782,"Spring",113444
+11,-105.6422833333,35.7521333333,NA,2013,"Regulus satrapa","Regulus_satrapa",5.7,NA,"female",5.2,611,8.01615792501544,111.530113085821,"Fall",113472
+6,-121.0618645,41.4301297,"u ad.",1958,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",113483
+6,-122.2900123,42.7531053,"u ad.",1964,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",5.9,1881,6.65602370151666,144.565746680807,"Summer",113489
+8,-131.9167,57.1833,"ad.",1919,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"female",1.9,1670,8.58598223321542,50.7372885941423,"Summer",113503
+12,-121.9420806,40.3303351,"u ad.",1927,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",15.7,875,6.90142716904967,93.3690449976571,"Winter",113511
+3,-123.4323207,40.3687961,"u ad.",1932,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",10.9,1061,7.13722635202219,105.795560690905,"Spring",113513
+6,-121.5833,44.0053,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",4.2,1125,6.97025607111889,92.2697494668034,"Summer",113518
+7,-118.00840403,46.067908469,"u ad.",1939,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",8.2,819,6.72721181381104,99.4854535609541,"Summer",113524
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.7,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113552
+6,-132.3,53.37,"AHY",1998,"Regulus satrapa","Regulus_satrapa",5.7,NA,"male",7.7,1981,4.6825595176531,67.7625246196731,"Summer",113614
+6,-132.3,53.37,"AHY",1998,"Regulus satrapa","Regulus_satrapa",5.7,NA,"male",7.7,1981,4.6825595176531,67.7625246196731,"Summer",113625
+10,-83.8374209,42.2415289,NA,1994,"Regulus satrapa","Regulus_satrapa",5.7,NA,"female",9.6,822,10.4844870974678,40.7833818559833,"Fall",113641
+10,-117.179457,46.728691,NA,1926,"Regulus satrapa","Regulus_satrapa",5.7,101,"female",9.1,579,7.3621678296216,62.583946721335,"Fall",113661
+6,-115.21645,41.84056,"u ad.",1955,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",113706
+5,-149.5677777778,61.3213888889,"u ad.",1959,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",0.8,433,10.0969955027136,98.1306762925316,"Spring",113711
+6,-115.8938,48.3214,"u ad.",1966,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",4.5,1403,6.90493894384171,74.9926114876521,"Summer",113715
+2,-121.898014,36.57092,"ad.",1919,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"undetermined",11.7,407,2.0042946314594,151.109017656632,"Winter",113737
+3,-123.4323207,40.3687961,"u ad.",1932,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",10.9,1061,7.13722635202219,105.795560690905,"Spring",113748
+4,-123.4853,40.3329,"u ad.",1932,"Regulus satrapa olivaceus","Regulus_satrapa",5.7,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",113749
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.7,170,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113821
+8,-83.81994,45.9641399,NA,1938,"Regulus satrapa satrapa","Regulus_satrapa",5.7,NA,"female",6.2,746,10.7295683214021,26.3998372490303,"Summer",113860
+2,-86.965319,46.014536,NA,2004,"Regulus satrapa satrapa","Regulus_satrapa",5.7,NA,"female",6,923,10.0671834103776,39.6148573649295,"Winter",113863
+10,-83.7263412,42.2708397,NA,2013,"Regulus satrapa satrapa","Regulus_satrapa",5.7,NA,"female",9.7,954,10.3529640024663,55.1826048279845,"Fall",113866
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.7,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",113933
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.7,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",113934
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.7,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",113935
+9,-72.1333,42,NA,1974,"Regulus satrapa","Regulus_satrapa",5.7,NA,"female",7.8,1245,9.10119456028946,37.9673293593544,"Fall",113937
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.7,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",113973
+7,-121.530840063,40.4125823385,"skull",2006,"Regulus satrapa olivaceus","Regulus_satrapa",5.79,NA,"male",8.1,2962,7.22288031189774,106.173989785825,"Summer",113494
+6,-117.462495,46.125378,NA,1990,"Regulus satrapa","Regulus_satrapa",5.8,NA,"male",6.4,923,7.55554682857488,58.1099086531547,"Summer",113442
+9,-103.9333,44.4833,NA,2010,"Regulus satrapa","Regulus_satrapa",5.8,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Fall",113456
+10,-123.032245,38.3221007,NA,1998,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"male",12.4,1289,2.61897215554407,139.461855449172,"Fall",113467
+5,-118.18083,37.88056,"u ad.",1954,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"male",10.6,133,7.69538921377699,83.048599460054,"Spring",113478
+6,-115.21645,41.84056,"u ad.",1955,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",113480
+12,-119.8051,37.66992,"ad.",1914,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"male",13.3,919,6.68962901539662,180.359620855851,"Winter",113498
+12,-119.598212,37.736686,"u ad.",1914,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"male",9.3,942,6.9558946007663,172.736308446662,"Winter",113500
+10,-122.2351246,37.8753796,"sk. 1-layer",1939,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"male",13.9,352,3.48803148442838,107.890376019251,"Fall",113523
+5,-120.0333,51.65,"u ad.",1935,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"male",5.7,443,8.65900739639995,81.4969381434999,"Spring",113531
+5,-81.79982,51.56674,NA,1968,"Regulus satrapa satrapa","Regulus_satrapa",5.8,NA,"undetermined",-0.1,805,13.2338638165561,73.7561140334677,"Spring",113537
+7,-84.89298,54.48525,"ad",1981,"Regulus satrapa satrapa","Regulus_satrapa",5.8,NA,"female",-2.1,446,12.2057456663953,43.8754670730874,"Summer",113597
+6,-132.3,53.37,"JUV",1998,"Regulus satrapa","Regulus_satrapa",5.8,NA,"female",7.7,1981,4.6825595176531,67.7625246196731,"Summer",113622
+6,-132.3,53.37,"JUV",1998,"Regulus satrapa","Regulus_satrapa",5.8,NA,"male",7.7,1981,4.6825595176531,67.7625246196731,"Summer",113623
+8,-83.7391662,45.9914917,"juvenile",1938,"Regulus satrapa satrapa","Regulus_satrapa",5.8,NA,"male",6.1,749,10.7486574214474,25.9279651212285,"Summer",113627
+11,-83.4257278,41.7401466,NA,1961,"Regulus satrapa satrapa","Regulus_satrapa",5.8,NA,"female",9.8,789,9.96175641687202,53.4039982627563,"Fall",113633
+10,-83.6619186,42.2993415,NA,1986,"Regulus satrapa","Regulus_satrapa",5.8,NA,"female",9.5,890,10.0419234847079,53.6771273818843,"Fall",113638
+4,-83.6429791,42.2708702,NA,1936,"Regulus satrapa satrapa","Regulus_satrapa",5.8,NA,"female",9.1,621,11.5091366866819,64.401070422279,"Spring",113652
+9,-83.0830231,42.3834381,NA,1937,"Regulus satrapa satrapa","Regulus_satrapa",5.8,NA,"male",9.8,761,10.0466600812349,55.3508526771248,"Fall",113654
+11,-83.6467688,42.2708702,NA,1938,"Regulus satrapa","Regulus_satrapa",5.8,NA,"male",10.6,687,9.62425912142663,49.8860191933192,"Fall",113657
+10,-117.179457,46.728691,NA,1964,"Regulus satrapa","Regulus_satrapa",5.8,102,"female",7.5,633,7.34844860972008,73.3561902385375,"Fall",113662
+11,-102.022827,38.0324328,NA,1965,"Regulus satrapa","Regulus_satrapa",5.8,NA,"male",12.1,462,9.62208239919872,116.284364896753,"Fall",113686
+9,-105.6876833333,35.8103333333,"im",2007,"Regulus satrapa","Regulus_satrapa",5.8,NA,"female",5.3,812,7.81542763327184,61.9384458354356,"Fall",113696
+9,-118.7508,36.7453,"imm.",1916,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"female",5.3,1511,6.92957539474932,151.535198131605,"Fall",113735
+12,-121.5955981,40.3477021,"u ad.",1927,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"male ?",9,1523,6.49425737000612,100.857192490312,"Winter",113743
+6,-121.3146,43.7203,"u ad.",1937,"Regulus satrapa olivaceus","Regulus_satrapa",5.8,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",113755
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.8,100,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113818
+7,-80.38639,49.0791,"ad",1973,"Regulus satrapa satrapa","Regulus_satrapa",5.8,100,"male",1.3,789,12.9216051165433,35.0388016228388,"Summer",113825
+10,-85.5807495,42.3686275,NA,1985,"Regulus satrapa","Regulus_satrapa",5.8,NA,"male",9.1,1072,10.6869078783341,29.3745945627702,"Fall",113859
+5,-84.3015289,44.7111221,NA,1934,"Regulus satrapa","Regulus_satrapa",5.8,NA,"male",6,660,11.350727516398,61.3537211096775,"Spring",113873
+7,-93.63727,52.84037,"juv",1938,"Regulus satrapa satrapa","Regulus_satrapa",5.8,NA,"female",0,617,13.8670636598183,60.9325865622278,"Summer",113913
+4,-73.2642,41.1411,"adult",1983,"Regulus satrapa satrapa","Regulus_satrapa",5.8,NA,"male",11.1,1491,8.92848692600705,54.9612716252835,"Spring",113924
+1,-122.7986,38.36374,"adult",1996,"Regulus satrapa","Regulus_satrapa",5.8,NA,"undetermined",15.1,1322,3.75156532986465,118.786161736769,"Winter",113948
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.8,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",113981
+2,-117.30269,46.609736,"Ad",1973,"Regulus satrapa","Regulus_satrapa",5.9,NA,"male",10,516,7.71564231698414,112.436467520295,"Winter",113434
+12,-94.7267304,39.941658,NA,1964,"Regulus satrapa","Regulus_satrapa",5.9,NA,"undetermined",11.8,1110,10.0347087046849,74.9725141657751,"Winter",113460
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Regulus satrapa satrapa","Regulus_satrapa",5.9,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",113477
+6,-115.36343,41.86105,"u ad.",1955,"Regulus satrapa olivaceus","Regulus_satrapa",5.9,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",113482
+12,-121.5955981,40.3477021,"u ad.",1927,"Regulus satrapa olivaceus","Regulus_satrapa",5.9,NA,"undetermined",9,1523,6.49425737000612,100.857192490312,"Winter",113508
+9,-114.28,38.96917,"imm.",1934,"Regulus satrapa olivaceus","Regulus_satrapa",5.9,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",113516
+5,-120.0333,51.65,"u ad.",1935,"Regulus satrapa olivaceus","Regulus_satrapa",5.9,NA,"undetermined",5.7,443,8.65900739639995,81.4969381434999,"Spring",113532
+4,-79.239344,43.796357,"ad",1967,"Regulus satrapa satrapa","Regulus_satrapa",5.9,99,"male",6.8,826,9.92820820600667,43.0601068554667,"Spring",113538
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.9,110,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113573
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.9,102,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113586
+7,-131.7166,55.3441,"AHY",2000,"Regulus satrapa","Regulus_satrapa",5.9,NA,"male",6.8,3249,4.9169696876319,37.2327831369938,"Summer",113618
+11,-117.043562,46.436024,"Ad",1951,"Regulus satrapa","Regulus_satrapa",5.9,102,"female",10.6,377,8.43187944109087,62.5104494345439,"Fall",113660
+4,-117.179457,46.728691,NA,1969,"Regulus satrapa","Regulus_satrapa",5.9,102,"male",8.1,417,8.34151265259086,87.9219001540551,"Spring",113663
+11,-121.6817454,41.5837669,"immature",1963,"Regulus satrapa","Regulus_satrapa",5.9,NA,"male",6.1,1062,6.60185350465835,83.2704645357877,"Fall",113691
+6,-122.9107,44.2042,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",5.9,NA,"female",11.3,1216,6.10073890209335,80.6421416311516,"Summer",113758
+1,-120.72455,40.44879,"u d.",1943,"Regulus satrapa olivaceus","Regulus_satrapa",5.9,NA,"female",8.7,552,7.03303891384346,127.757676626902,"Winter",113769
+1,-120.72455,40.44879,"u ad.",1943,"Regulus satrapa olivaceus","Regulus_satrapa",5.9,NA,"female",8.7,552,7.03303891384346,127.757676626902,"Winter",113770
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.9,98,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113779
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.9,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113817
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.9,103,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113819
+7,-81.59189,52.25485,"ad",1942,"Regulus satrapa satrapa","Regulus_satrapa",5.9,NA,"female",-1.5,703,13.437904327955,49.7651862110958,"Summer",113834
+4,-83.6619186,42.2993415,NA,1985,"Regulus satrapa","Regulus_satrapa",5.9,NA,"male",9.2,1033,10.6273339682503,35.2907123279551,"Spring",113858
+3,-84.0129412,36.2449499,NA,1938,"Regulus satrapa satrapa","Regulus_satrapa",5.9,NA,"male",14.3,1310,8.09330063395122,39.4783419977885,"Spring",113882
+9,-83.4702377,42.3714371,NA,2008,"Regulus satrapa","Regulus_satrapa",5.9,NA,"male",9.1,936,10.2432646015306,46.3254576082186,"Fall",113887
+9,-83.4702377,42.3714371,NA,2008,"Regulus satrapa","Regulus_satrapa",5.9,NA,"female",9.1,936,10.2432646015306,46.3254576082186,"Fall",113888
+11,-120.02087,38.8159,"U-Ad",1991,"Regulus satrapa olivaceus","Regulus_satrapa",5.9,NA,"male",6.8,931,6.81706859598935,135.539717578097,"Fall",113902
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.9,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113927
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",5.9,NA,NA,10.5,1098,8.67623015467949,43.9919250647,"Fall",113941
+7,-114.54816,46.54853,"U-Ad.",1948,"Regulus satrapa amoenus","Regulus_satrapa",5.9,NA,"male",1.9,1619,8.07785506333472,70.8095457515957,"Summer",113943
+1,-98.672,29.03,"u ad.",1952,"Regulus satrapa satrapa","Regulus_satrapa",5.9,NA,"male",21.4,534,6.2614743156912,61.0813709830374,"Winter",113954
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",5.95,104,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113558
+12,-117.165636,46.72953,NA,2011,"Regulus satrapa","Regulus_satrapa",6,NA,"male",7.9,548,7.65962951078081,76.6909875733301,"Winter",113428
+10,-76.5095,42.4381,"imm.",1941,"Regulus satrapa","Regulus_satrapa",6,NA,"undetermined",9.6,683,10.4461787996928,46.2294395870154,"Fall",113446
+10,-118.681281,38.412435,"AHY",2012,"Regulus satrapa apache","Regulus_satrapa",6,NA,"female",8.8,186,7.70778826901725,81.0534576697119,"Fall",113468
+6,-115.21645,41.84056,"u ad.",1955,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",113479
+6,-115.8938,48.3214,"juv.",1966,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"undetermined",4.5,1403,6.90493894384171,74.9926114876521,"Summer",113491
+7,-121.434293,40.34362,"adult skull",2006,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",8.5,1624,7.32529862872498,103.280247019562,"Summer",113496
+12,-119.606676,37.766608,"u ad.",1914,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"female",6.6,1185,6.45992306924828,180.789790938729,"Winter",113499
+10,-111.6766,35.3429,"u ad.",1922,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",-0.6,1504,8.21133732141486,68.7858903809985,"Fall",113505
+7,-117.3669,45.2558,"juv.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",113521
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6,105,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113575
+10,-106.5412903,31.873476,NA,1974,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"undetermined",16.5,337,7.97313671592988,131.834049115915,"Fall",113593
+10,-79.382188,43.623668,"imm",1983,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"female",8.3,830,10.1741055745665,36.7355843904273,"Fall",113599
+4,-79.99343,43.80176,"ad",1933,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"male",6.9,745,10.3470095225918,39.980176160617,"Spring",113602
+7,-79.99343,43.80176,"juv",1933,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"male",6.9,745,10.3470095225918,39.980176160617,"Summer",113603
+4,-81.31263,42.95644,"ad",1908,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"male",7.6,903,10.1956727303421,40.2365229610206,"Spring",113610
+10,-79.35522,43.688562,"imm",2004,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"male",7.6,793,10.1146907860285,43.2578961091672,"Fall",113611
+6,-130.014,55.917,"AHY",1997,"Regulus satrapa","Regulus_satrapa",6,NA,"male",5.8,1970,6.69902751874999,54.568761871554,"Summer",113624
+10,-83.8371849,42.2342371,"immature",1993,"Regulus satrapa","Regulus_satrapa",6,NA,"male",8.6,847,10.029452838636,46.423080989159,"Fall",113640
+10,-83.1480331,42.5769348,NA,2004,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,NA,9.4,832,10.0742207759421,56.7656984514436,"Fall",113643
+3,-87.272352,34.296585,NA,1991,"Regulus satrapa","Regulus_satrapa",6,98,NA,16.6,1818,7.88744207105462,55.9291182170424,"Spring",113671
+3,-92.208009,35.99259,NA,1990,"Regulus satrapa","Regulus_satrapa",6,95,"female ?",15.6,1591,7.77015950852225,47.7432615448044,"Spring",113673
+8,-103.9333,44.4833,NA,2010,"Regulus satrapa","Regulus_satrapa",6,NA,NA,6.5,592,9.70621481632289,82.6623794832287,"Summer",113681
+8,-103.9333,44.4833,NA,2010,"Regulus satrapa","Regulus_satrapa",6,NA,NA,6.5,592,9.70621481632289,82.6623794832287,"Summer",113682
+9,-103.9333,44.4833,NA,2010,"Regulus satrapa","Regulus_satrapa",6,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Fall",113683
+3,-100.1661233,37.10322,NA,1950,"Regulus satrapa","Regulus_satrapa",6,NA,"female",13.9,429,8.98458275451494,151.093599271843,"Spring",113689
+6,-108.8765,36.0792333333,NA,2013,"Regulus satrapa","Regulus_satrapa",6,NA,"male",4.7,662,8.93394530920571,71.3649326633988,"Summer",113697
+12,-122.6506887,39.0079505,"u ad.",1950,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"undetermined",14.5,794,6.73232815779522,101.738848547628,"Winter",113700
+11,-115.9581,46.3761,"u ad.",1951,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",7.3,825,8.15814799987588,56.7004195261698,"Fall",113703
+4,-70.2103,44.5867,"u ad.",1952,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"female",6.9,1027,10.3192083323315,45.6049007402491,"Spring",113704
+9,-105.822524,36.058436,"u ad.",1952,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",7.2,381,8.44764177242096,65.8506232087275,"Fall",113705
+5,-116.9992,46.7325,"u ad.",1955,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",6.8,689,8.26355177141088,64.5483468996075,"Spring",113708
+7,-115.805,48.9,"unknown",1966,"Regulus satrapa","Regulus_satrapa",6,NA,"undetermined",4.4,860,7.36914122705234,71.6309271486502,"Summer",113718
+6,-119.83936,37.74886,"ad.",1915,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",10.4,981,6.15961923262381,117.655754849278,"Summer",113727
+6,-119.56902,37.77432,"ad.",1915,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",7.1,1062,6.30504247456436,120.659665964997,"Summer",113728
+9,-119.171,37.87338,"imm.",1915,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"female",4,563,6.56382995181652,122.671740427124,"Fall",113731
+5,-123.015054,40.394887,"u ad.",1926,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",113741
+5,-121.2667,53.2667,"u ad.",1934,"Regulus satrapa olivaceus","Regulus_satrapa",6,NA,"male",3.5,795,7.41474268541459,47.699967462015,"Spring",113752
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6,100,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113795
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6,102,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113800
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6,108,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113815
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6,102,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113820
+5,-109.2733955,31.9201085,NA,1971,"Regulus satrapa apache","Regulus_satrapa",6,NA,"undetermined",8.5,773,6.62479273546568,109.540222617783,"Spring",113823
+5,-80.62832,51.2809,"ad",1974,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"male",-1.8,761,13.9823915238872,53.6715798961583,"Spring",113824
+7,-84.02525,46.353393,"ad",1931,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",113830
+7,-91.92887,50.10403,"ad",1947,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"male",0.6,690,13.748377314719,41.0975349699112,"Summer",113837
+9,-83.0830231,42.3834381,NA,1937,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"female",9.8,761,10.0466600812349,55.3508526771248,"Fall",113876
+5,-118.7806322,36.2666699,"adult",1984,NA,"Regulus_satrapa",6,NA,"male",15.4,484,7.22740470624683,134.011355440779,"Spring",113884
+4,-76.375034,42.440714,"ad.",1989,"Regulus satrapa","Regulus_satrapa",6,97,"male",7.1,1017,10.5981988178095,56.5278398633476,"Spring",113886
+11,-76.475,42.4491,NA,2003,"Regulus satrapa","Regulus_satrapa",6,NA,"male",7.7,1092,10.1675471551164,34.4456935173385,"Fall",113908
+4,-77.45764,43.97391,"ad",1937,"Regulus satrapa satrapa","Regulus_satrapa",6,NA,"male",7.9,805,10.100686295315,35.7982741778381,"Spring",113910
+6,-108.65,33.4,NA,1964,"Regulus satrapa apache","Regulus_satrapa",6,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",113920
+10,-72.6672,41.2642,NA,1974,"Regulus satrapa","Regulus_satrapa",6,NA,"male",10.7,1084,8.76129141580893,44.9712235453067,"Fall",113942
+6,-74.4284333,44.4992333,NA,2008,"Regulus satrapa","Regulus_satrapa",6,NA,"female",5.8,1278,9.97905382045388,32.2528382659897,"Summer",113950
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",6,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113977
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.05,102,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113563
+10,-117.179457,46.728691,NA,1947,"Regulus satrapa","Regulus_satrapa",6.1,98,"male",8.6,534,7.3098314866785,67.4667835290506,"Fall",113429
+1,-121.835607,36.60922,"ad.",1919,"Regulus satrapa olivaceus","Regulus_satrapa",6.1,NA,"undetermined",11.7,339,1.95393929994736,149.535305151252,"Winter",113502
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,100,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113554
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,101,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113566
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,102,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113572
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,102,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113579
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113589
+5,-152.406,57.79,"AHY",1999,"Regulus satrapa","Regulus_satrapa",6.1,NA,"male",3.4,1750,6.57937548846255,43.1297727512683,"Spring",113616
+10,-83.6130371,42.2411385,NA,2008,"Regulus satrapa","Regulus_satrapa",6.1,NA,"female",9.5,958,10.2638229040675,48.2268253476469,"Fall",113646
+4,-83.7517354,42.6481017,NA,1937,"Regulus satrapa satrapa","Regulus_satrapa",6.1,NA,"male",8.4,738,10.1085322496604,57.753237645845,"Spring",113655
+11,-117.165649,46.729529,NA,1984,"Regulus satrapa","Regulus_satrapa",6.1,NA,"male",7.9,602,7.4071781319736,53.1034086551605,"Fall",113667
+8,-114.650189,43.795881,NA,1948,"Regulus satrapa","Regulus_satrapa",6.1,NA,"male",1.3,802,8.99630816535653,62.5794697022649,"Summer",113684
+6,-115.36343,41.86105,"u ad.",1955,"Regulus satrapa olivaceus","Regulus_satrapa",6.1,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",113707
+6,-115.8938,48.3214,"u ad.",1966,"Regulus satrapa olivaceus","Regulus_satrapa",6.1,NA,"male",4.5,1403,6.90493894384171,74.9926114876521,"Summer",113716
+12,-119.606676,37.766608,"u ad.",1914,"Regulus satrapa olivaceus","Regulus_satrapa",6.1,NA,"male",6.6,1185,6.45992306924828,180.789790938729,"Winter",113725
+10,-119.7034868,37.7352363,"imm.",1915,"Regulus satrapa olivaceus","Regulus_satrapa",6.1,NA,"undetermined",9.5,943,6.34098620567858,117.677020869619,"Fall",113732
+5,-131.1667,57.9578,"u ad.",1919,"Regulus satrapa olivaceus","Regulus_satrapa",6.1,NA,"male",-0.3,493,10.4450365187867,49.2878273494409,"Spring",113738
+7,-118.4086,44.2483,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",6.1,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",113761
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113780
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,102,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113781
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,101,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113783
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,102,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113789
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,106,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113790
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.1,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113808
+12,-123.4878731,48.5741084,"ad",1970,"Regulus satrapa olivaceus?","Regulus_satrapa",6.1,NA,"male",9.4,905,4.74899510901565,82.7131532910576,"Winter",113822
+6,-84.52159,54.34023,"ad",1980,"Regulus satrapa satrapa","Regulus_satrapa",6.1,NA,"male",-3.7,563,14.0810935999196,55.9993885664445,"Summer",113826
+10,-79.395348,43.663612,"imm",1980,"Regulus satrapa satrapa","Regulus_satrapa",6.1,NA,"[male]",7.1,833,10.6143520620417,44.8037904600847,"Fall",113827
+4,-83.7263412,42.2708397,NA,1966,"Regulus satrapa satrapa","Regulus_satrapa",6.1,NA,"male",9,678,10.0703999198371,52.1148030595945,"Spring",113857
+11,-76.505617,42.555652,NA,2012,"Regulus satrapa","Regulus_satrapa",6.1,NA,"male",10.5,1006,8.76142976432223,35.8677284023863,"Fall",113909
+10,-83.6113889,42.3188889,NA,1938,"Regulus satrapa satrapa","Regulus_satrapa",6.1,NA,"male",10.4,698,9.64035080463173,49.2512478404174,"Fall",113916
+4,-83.7333333,42.3666667,NA,1950,"Regulus satrapa","Regulus_satrapa",6.1,NA,"male",8.5,940,10.0852577677729,26.6573516422071,"Spring",113918
+11,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",6.1,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113936
+10,-82.8,41.65,NA,1950,"Regulus satrapa satrapa","Regulus_satrapa",6.1,NA,"undetermined",9.3,1012,10.1280737945514,38.1536178083923,"Fall",113961
+4,-82.4333333,42.9666667,NA,1986,"Regulus satrapa","Regulus_satrapa",6.1,NA,"female",9,878,9.57801697069436,64.3221606105144,"Spring",113964
+10,-77.7179499,43.3225697,NA,2004,"Regulus satrapa","Regulus_satrapa",6.19999980926514,92,"male",8.8,921,9.50226049661103,40.5123527749255,"Fall",113675
+2,-117.30269,46.609736,"Ad",1973,"Regulus satrapa","Regulus_satrapa",6.2,NA,NA,10,516,7.71564231698414,112.436467520295,"Winter",113433
+11,-117.165649,46.729529,NA,1978,"Regulus satrapa","Regulus_satrapa",6.2,NA,"male",7.7,488,7.66686593943923,51.3386319151661,"Fall",113437
+6,-127.6667,55.25,"u ad.",1921,"Regulus satrapa olivaceus","Regulus_satrapa",6.2,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",113504
+10,-122.24757,37.87,"u ad.",1944,"Regulus satrapa olivaceus","Regulus_satrapa",6.2,NA,"male",13.2,691,2.75862284482674,100.708272874429,"Fall",113533
+10,-79.239344,43.796357,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.2,105,"male",7.3,690,10.257070731939,44.1265647693715,"Fall",113547
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.2,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113562
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.2,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113577
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.2,106,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113584
+9,-79.63447,43.60016,"ad",1978,"Regulus satrapa satrapa","Regulus_satrapa",6.2,NA,"[female]",6.6,735,10.8068265462161,50.8905272509232,"Fall",113598
+9,-147.8043,64.857,"HY",1998,"Regulus satrapa","Regulus_satrapa",6.2,NA,"male ?",-1.4,307,13.7805858168129,134.590902831847,"Fall",113621
+2,-117.30269,46.609736,NA,1973,"Regulus satrapa","Regulus_satrapa",6.2,NA,"male",10,516,7.71564231698414,112.436467520295,"Winter",113664
+12,-119.598212,37.736686,"u ad.",1914,"Regulus satrapa olivaceus","Regulus_satrapa",6.2,NA,"male",9.3,942,6.9558946007663,172.736308446662,"Winter",113726
+8,-119.39231,37.73082,"imm.",1915,"Regulus satrapa olivaceus","Regulus_satrapa",6.2,NA,"female",4.7,933,6.33711410276911,122.055904220382,"Summer",113729
+6,-121.6154,44.0583,"u ad.",1938,"Regulus satrapa olivaceus","Regulus_satrapa",6.2,NA,"male",2.9,1306,6.87961415408531,91.7639482487134,"Summer",113759
+9,-106.32431,41.31009,"imm.",1939,"Regulus satrapa olivaceus","Regulus_satrapa",6.2,NA,"female",-0.2,645,9.09625297481431,52.5931549614428,"Fall",113762
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.2,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113806
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.2,105,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113814
+9,-147.8043,64.857,"U",1997,"Regulus satrapa","Regulus_satrapa",6.2,NA,"male",-1.3,187,14.6991960200673,97.0828472046794,"Fall",113845
+10,-85.1796951,42.3211403,NA,1949,"Regulus satrapa","Regulus_satrapa",6.2,NA,"female",10.1,936,9.81689946732242,33.3781301998485,"Fall",113855
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",6.2,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",113931
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",6.2,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",113939
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.25,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113561
+10,-76.451,42.4799,NA,2011,"Regulus satrapa","Regulus_satrapa",6.25,97,"male",9.2,1318,10.0593202674149,50.0417496199746,"Fall",113679
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.25,106,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113787
+12,-117.1625,46.730636,NA,1981,"Regulus satrapa","Regulus_satrapa",6.3,NA,"female",8.7,602,6.36302648592681,55.7481166692089,"Winter",113440
+11,-102.0258235,38.0263234,NA,1965,"Regulus satrapa","Regulus_satrapa",6.3,NA,"male",12.2,462,9.62208239919872,116.813566042473,"Fall",113461
+8,-124.1323646,41.1604001,"juv.",1949,"Regulus satrapa olivaceus","Regulus_satrapa",6.3,NA,"undetermined",10.5,1001,3.39250510818936,97.8424523869778,"Summer",113473
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,101,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113549
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,104,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113550
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,101,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113564
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,104,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113581
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,103,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113583
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,107,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113587
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,105,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113588
+6,-84.52159,54.34023,NA,1980,"Regulus satrapa satrapa","Regulus_satrapa",6.3,NA,"undetermined",-3.7,563,14.0810935999196,55.9993885664445,"Summer",113595
+10,-85.5853043,42.3622398,NA,1981,"Regulus satrapa","Regulus_satrapa",6.3,NA,"male",9,929,10.0813471622626,60.9128550086723,"Fall",113634
+10,-83.7336302,42.2742128,"adult",2006,"Regulus satrapa satrapa","Regulus_satrapa",6.3,NA,"male",10.6,1150,8.77811931952846,27.4850644501614,"Fall",113644
+12,-76.5095,42.4381,NA,1934,"Regulus satrapa","Regulus_satrapa",6.3,NA,"female",8.9,704,11.0734291587265,50.3319570189957,"Winter",113670
+3,-121.9927864,41.6623745,NA,1961,"Regulus satrapa","Regulus_satrapa",6.3,NA,"male",8.5,486,7.47255077945377,67.0908552272247,"Spring",113692
+11,-122.5214242,41.4260748,"ad.sk.",1951,"Regulus satrapa olivaceus","Regulus_satrapa",6.3,NA,"male",9.5,1385,7.5370398497666,101.477980393632,"Fall",113702
+8,-119.39231,37.73082,"imm.",1915,"Regulus satrapa olivaceus","Regulus_satrapa",6.3,NA,"male",4.7,933,6.33711410276911,122.055904220382,"Summer",113730
+6,-117.1743385,51.2999992,"ad",1968,"Regulus satrapa amoenus","Regulus_satrapa",6.3,NA,"male",-2.8,2451,7.46597839089649,77.9367110564347,"Summer",113773
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,106,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113788
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,104,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113801
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.3,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113802
+4,-83.7517354,42.6481017,NA,1937,"Regulus satrapa satrapa","Regulus_satrapa",6.3,NA,"male",8.4,738,10.1085322496604,57.753237645845,"Spring",113877
+4,-72.675114,41.765989,"adult",2012,"Regulus satrapa satrapa","Regulus_satrapa",6.3,NA,"male",11.8,1176,8.60173960559283,44.1517514200602,"Spring",113967
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.35,104,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113568
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.35,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113576
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.35,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113807
+11,-117.164293,46.730767,NA,2001,"Regulus satrapa","Regulus_satrapa",6.4,NA,"female",8.6,475,7.99401291118812,57.0874026707448,"Fall",113424
+1,-117.165649,46.729529,NA,1985,"Regulus satrapa","Regulus_satrapa",6.4,NA,"male",6.5,398,9.80059908496631,49.8513818172956,"Winter",113441
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.4,118,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113553
+11,-90.3465843,45.944585,NA,1969,"Regulus satrapa","Regulus_satrapa",6.4,NA,"undetermined",4.2,703,11.3817603953417,54.5281974297972,"Fall",113693
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.4,106,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113782
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.4,106,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113794
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.4,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113803
+7,-87.72961,52.24829,"juv",1939,"Regulus satrapa satrapa","Regulus_satrapa",6.4,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",113831
+8,-152.406,57.79,"JUV",1997,"Regulus satrapa","Regulus_satrapa",6.4,NA,"male",5.4,1703,6.14084684713762,56.7566076342138,"Summer",113846
+9,-152.406,57.79,"HY",1997,"Regulus satrapa","Regulus_satrapa",6.4,NA,"female ?",5.4,1703,6.14084684713762,56.7566076342138,"Fall",113850
+11,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",6.4,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113926
+10,-72.6372,41.3597,NA,1968,"Regulus satrapa","Regulus_satrapa",6.4,NA,NA,9.3,1011,9.86779272853526,57.3532884782539,"Fall",113984
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.45,107,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113578
+10,-79.239344,43.796357,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.45,102,"male",7.3,690,10.257070731939,44.1265647693715,"Fall",113785
+11,-83.75,42.2833333,NA,1985,"Regulus satrapa","Regulus_satrapa",6.45,NA,"female",9.1,1042,10.6318097607077,34.895353700601,"Fall",113962
+8,-114.8514776,44.5471332,NA,1948,"Regulus satrapa","Regulus_satrapa",6.5,NA,"male",2.5,743,8.8947848186281,63.0290492854406,"Summer",113457
+10,-95.6966263,39.0483341,NA,1954,"Regulus satrapa","Regulus_satrapa",6.5,NA,"male",13.8,845,10.2905369886684,89.9334865400063,"Fall",113459
+10,-95.917,39.026,NA,1999,"Regulus satrapa","Regulus_satrapa",6.5,NA,"male",13.6,955,9.38367376528688,87.1414334485158,"Fall",113465
+7,-108.4843,45.2077,"u ad.",1947,"Regulus satrapa olivaceus","Regulus_satrapa",6.5,NA,"female",4.7,423,9.06660539194981,47.8632843818864,"Summer",113535
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,100,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113540
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113543
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113546
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113551
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113555
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,108,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113557
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,106,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113569
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,109,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113571
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,107,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113585
+7,-131.619,55.331,"HY",2000,"Regulus satrapa","Regulus_satrapa",6.5,NA,"male",7.2,3020,4.85863804335779,37.2454760329806,"Summer",113617
+11,-83.7263412,42.2708397,NA,1960,"Regulus satrapa","Regulus_satrapa",6.5,NA,"male",8.9,691,10.5845048265964,64.2066606677382,"Fall",113632
+11,-85.5853043,42.3622398,NA,1982,"Regulus satrapa","Regulus_satrapa",6.5,NA,"male",9,987,10.5101682366952,52.9910433477837,"Fall",113635
+10,-83.7172365,42.2893102,"immature",2010,"Regulus satrapa satrapa","Regulus_satrapa",6.5,NA,"male",10.7,920,10.9003301312252,69.1103864552074,"Fall",113647
+10,-76.5095,42.4381,NA,1941,"Regulus satrapa","Regulus_satrapa",6.5,NA,"male",9.6,683,10.4461787996928,46.2294395870154,"Fall",113669
+10,-76.655259,42.276659,NA,2012,"Regulus satrapa","Regulus_satrapa",6.5,NA,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",113680
+4,-116.2346518,33.9625431,"u ad.",1951,"Regulus satrapa olivaceus","Regulus_satrapa",6.5,NA,"male",13.5,316,6.85171953644197,110.45302127544,"Spring",113701
+7,-122.8441182,39.7275109,"u a.",1949,"Regulus satrapa olivaceus","Regulus_satrapa",6.5,NA,"male",8.8,913,7.35816903279284,173.117639592152,"Summer",113714
+10,-122.7340259,37.9286764,"not recorded",2001,"Regulus satrapa olivaceus","Regulus_satrapa",6.5,NA,"female",13.1,842,2.33212089712088,131.653076248915,"Fall",113724
+5,-81.79982,51.56674,NA,1968,"Regulus satrapa satrapa","Regulus_satrapa",6.5,NA,"undetermined",-0.1,805,13.2338638165561,73.7561140334677,"Spring",113777
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,106,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113791
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113796
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.5,102,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113798
+8,-152.406,57.79,"U",2008,"Regulus satrapa amoenus","Regulus_satrapa",6.5,NA,"male",4.4,1386,5.26799225742051,26.706213860254,"Summer",113844
+10,-74.8782234,41.0359287,NA,1934,"Regulus satrapa satrapa","Regulus_satrapa",6.5,95,"male",8.8,1147,10.6570043832328,45.7121321062282,"Fall",113875
+11,-123.067661,49.319618,"adult",1992,"Regulus satrapa olivaceus","Regulus_satrapa",6.5,91,"male",11.2,1583,5.42234434371501,76.448638685009,"Fall",113959
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.6,104,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113544
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.6,104,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113560
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.6,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113574
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.6,104,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113582
+9,-119.7255259,50.8055953,NA,1974,"Regulus satrapa amoenus","Regulus_satrapa",6.6,NA,"male",8.1,356,8.07267651157942,61.4663336677169,"Fall",113592
+8,-152.406,57.79,"HY",1997,"Regulus satrapa","Regulus_satrapa",6.6,NA,"male",5.4,1703,6.14084684713762,56.7566076342138,"Summer",113626
+4,-83.7263412,42.2708397,"adult",1928,"Regulus satrapa satrapa","Regulus_satrapa",6.6,110,"male",8.8,663,9.36680146565356,48.8368556283683,"Spring",113631
+10,-79.684894,44.366155,"imm",1966,"Regulus satrapa satrapa","Regulus_satrapa",6.6,101,"male",6,801,10.036248695543,46.1460133213536,"Fall",113840
+11,-85.47303,38.71571,"immature",1994,"Regulus satrapa","Regulus_satrapa",6.6,NA,"male",12.4,1038,9.3000936782509,38.8665074644332,"Fall",113905
+10,-123.113521,49.261096,NA,1962,"Regulus satrapa olivaceus","Regulus_satrapa",6.6,NA,"male",10.5,1342,4.98102459947811,60.8452012181245,"Fall",113958
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",6.6,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113980
+3,-92.208009,35.99259,NA,1990,"Regulus satrapa","Regulus_satrapa",6.69999980926514,95,NA,15.6,1591,7.77015950852225,47.7432615448044,"Spring",113448
+4,-149.9495,61.1665277778,"sk.doubled",1958,"Regulus satrapa olivaceus","Regulus_satrapa",6.7,NA,"male",2.1,391,9.18468339633485,78.3492623712058,"Spring",113484
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.7,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113567
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.7,107,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113580
+10,-117.165649,46.729529,NA,1978,"Regulus satrapa","Regulus_satrapa",6.7,NA,"male",7.7,488,7.66686593943923,51.3386319151661,"Fall",113665
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.7,106,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113793
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.7,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113809
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.7,103,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113810
+11,-81.2613,42.99875,NA,1931,"Regulus satrapa satrapa","Regulus_satrapa",6.7,NA,"male",9,856,9.32495430161847,35.5011107219265,"Fall",113836
+12,-84.14255,44.88421,NA,1940,"Regulus satrapa","Regulus_satrapa",6.7,NA,"male",5.9,740,10.4983512414035,40.7366223600379,"Winter",113853
+10,-84.0037823,42.4696911,NA,1935,"Regulus satrapa satrapa","Regulus_satrapa",6.7,NA,"female",8.3,667,10.1991495486218,43.8026874996152,"Fall",113874
+9,-85.436554,46.6732343,"adult",1938,"Regulus satrapa","Regulus_satrapa",6.7,NA,"female",5.2,939,10.0161082383541,23.7434522788991,"Fall",113881
+10,-83.6422,42.30201,NA,1938,"Regulus satrapa","Regulus_satrapa",6.7,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",113883
+10,-76.369595,42.366444,NA,2005,"Regulus satrapa","Regulus_satrapa",6.7,95,"male",7.8,1134,10.9420373705349,52.3388468641364,"Fall",113951
+10,-79.0059,43.82378,"imm",1967,"Regulus satrapa satrapa","Regulus_satrapa",6.7,NA,"undetermined",7.3,815,10.0043021048977,37.4613148474198,"Fall",113955
+10,-82.8,41.65,NA,1950,"Regulus satrapa satrapa","Regulus_satrapa",6.7,NA,"undetermined",9.3,1012,10.1280737945514,38.1536178083923,"Fall",113960
+10,-72.5989,41.2794,NA,1974,"Regulus satrapa","Regulus_satrapa",6.7,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",113975
+1,-117.165649,46.729529,NA,1979,"Regulus satrapa","Regulus_satrapa",6.8,NA,"not det.",8.1,520,9.10265945155091,51.879997805848,"Winter",113435
+10,-76.4506,42.4801,NA,2006,"Regulus satrapa","Regulus_satrapa",6.8,91,"female",9.4,1142,8.56615521406863,50.8288018785992,"Fall",113449
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.8,105,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113548
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.8,107,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113556
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.8,99,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113565
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.8,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113811
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.8,106,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113812
+10,-72.6822,41.2889,NA,1974,"Regulus satrapa","Regulus_satrapa",6.8,NA,"female",10.6,1090,8.73049340825106,44.7951602854713,"Fall",113968
+10,-117.165649,46.729529,NA,1979,"Regulus satrapa","Regulus_satrapa",6.9,NA,"female",8.1,520,9.10265945155091,51.879997805848,"Fall",113436
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.9,104,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113542
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.9,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113559
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.9,104,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113570
+10,-76.5095,42.4381,"imm.",1941,"Regulus satrapa","Regulus_satrapa",6.9,NA,"undetermined",9.6,683,10.4461787996928,46.2294395870154,"Fall",113668
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.9,103,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113778
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.9,101,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113784
+10,-79.239344,43.796357,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.9,105,"male",7.3,690,10.257070731939,44.1265647693715,"Fall",113786
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",6.9,106,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113816
+4,-83.815239,42.3256378,NA,1935,"Regulus satrapa satrapa","Regulus_satrapa",6.9,NA,"male",8.6,651,10.2368762991274,43.7560852137542,"Spring",113871
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",7,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113541
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",7,104,"female",7.3,690,10.2586991909749,44.1974029332126,"Fall",113545
+10,-83.7263412,42.2708397,NA,2011,"Regulus satrapa","Regulus_satrapa",7,NA,"female",10.3,1078,10.6367395038483,51.6940841774473,"Fall",113648
+10,-95.917,39.026,NA,1999,"Regulus satrapa","Regulus_satrapa",7,NA,"female",13.6,955,9.38367376528688,87.1414334485158,"Fall",113690
+10,-80.21076,44.49507,"juv",2005,"Regulus satrapa satrapa","Regulus_satrapa",7,NA,"female",7.4,819,10.8860628161133,33.3890916992627,"Fall",113775
+4,-83.6422,42.30201,NA,1942,"Regulus satrapa","Regulus_satrapa",7,NA,"male",9.4,905,10.457891756946,34.4116054483883,"Spring",113854
+10,-84.2366409,42.337103,NA,1937,"Regulus satrapa","Regulus_satrapa",7,NA,"male",8.9,875,10.2074356438942,56.9535774244878,"Fall",113878
+4,-75.95092,44.62722,"ad",1938,"Regulus satrapa satrapa","Regulus_satrapa",7,NA,"female",7,763,10.6670265090818,41.2223438959489,"Spring",113911
+10,-83.75,42.2833333,NA,1983,"Regulus satrapa","Regulus_satrapa",7,NA,"male",9.6,931,10.462342283667,45.7671964297348,"Fall",113917
+5,-108.65,33.4,NA,1964,"Regulus satrapa apache","Regulus_satrapa",7,NA,"undetermined",6.6,739,7.73885807095751,101.789373511029,"Spring",113919
+4,-75.95092,44.62722,"ad",1938,"Regulus satrapa satrapa","Regulus_satrapa",7,NA,"male",7,763,10.6670265090818,41.2223438959489,"Spring",113956
+10,-95.2598661,38.9549568,NA,1965,"Regulus satrapa","Regulus_satrapa",7.1,NA,"undetermined",12.8,1106,9.91253797424802,105.088767483944,"Fall",113687
+10,-79.684894,44.366155,"imm",1966,"Regulus satrapa satrapa","Regulus_satrapa",7.1,NA,"male",6,801,10.036248695543,46.1460133213536,"Fall",113839
+10,-72.7175,41.9958,NA,1968,"Regulus satrapa","Regulus_satrapa",7.1,NA,"female",8.8,1006,10.503805226794,59.0183438276553,"Fall",113974
+11,-76.439261,42.45476,NA,1946,"Regulus satrapa","Regulus_satrapa",7.19999980926514,NA,"female",9,906,8.85210127425669,52.6276030772851,"Fall",113949
+10,-79.59,42.07,"immature",1990,"Regulus satrapa satrapa","Regulus_satrapa",7.2,NA,"male",9,1451,7.57297327622541,36.6296112873011,"Fall",113907
+10,-83.7263412,42.2708397,NA,1972,"Regulus satrapa","Regulus_satrapa",7.3,NA,"undetermined",8.5,745,10.1826464084141,36.6112261865124,"Fall",113636
+10,-95.6966263,39.0483341,NA,1954,"Regulus satrapa","Regulus_satrapa",7.3,NA,"female",13.8,845,10.2905369886684,89.9334865400063,"Fall",113685
+3,-123.4853,40.3329,"u ad.",1932,"Regulus satrapa olivaceus","Regulus_satrapa",7.3,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",113747
+10,-79.266667,43.783333,"ad",1969,"Regulus satrapa satrapa","Regulus_satrapa",7.3,111,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113804
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",7.3,107,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113805
+10,-77.0151025,38.8982699,"adult",1937,"Regulus satrapa satrapa","Regulus_satrapa",7.3,NA,"female",13.4,1389,8.67662743445653,55.3640858252257,"Fall",113856
+10,-72.6372,41.3597,NA,1968,"Regulus satrapa","Regulus_satrapa",7.3,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Fall",113982
+10,-83.9616394,42.4187678,"adult",1937,"Regulus satrapa","Regulus_satrapa",7.4,NA,"male",8.7,828,10.1363843592668,59.0410989650608,"Fall",113879
+10,-116.1008,46.9862,"u ad.",1951,"Regulus satrapa olivaceus","Regulus_satrapa",7.5,NA,"female",5,1270,7.99708280145537,70.0032185718982,"Fall",113474
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",7.5,105,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113590
+11,-76.4809,42.4466,NA,1952,"Regulus satrapa","Regulus_satrapa",7.5,NA,"male",9.2,855,9.22849670938618,39.7423594297143,"Fall",113674
+10,-79.266667,43.783333,"imm",1969,"Regulus satrapa satrapa","Regulus_satrapa",7.5,104,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",113792
+10,-72.6372,41.3597,NA,1968,"Regulus satrapa","Regulus_satrapa",7.5,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Fall",113966
+6,-115.9594,48.2479,"u ad.",1966,"Regulus satrapa olivaceus","Regulus_satrapa",7.6,NA,"female",5.3,1620,7.26387387255338,78.1791790562549,"Summer",113490
+8,-123.1006,47.978386323,"u ad.",1956,"Regulus satrapa olivaceus","Regulus_satrapa",7.6,NA,"male",8.4,1010,5.80336240049811,82.4442366341942,"Summer",113709
+6,-108.65,33.4,NA,1964,"Regulus satrapa apache","Regulus_satrapa",7.6,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",113963
+4,-84.2366409,42.337103,NA,1935,"Regulus satrapa","Regulus_satrapa",7.7,NA,"male",8.5,706,10.1901430388153,43.4872210715174,"Spring",113653
+6,-115.8938,48.3214,"imm.",1966,"Regulus satrapa","Regulus_satrapa",7.7,NA,"undetermined",4.5,1403,6.90493894384171,74.9926114876521,"Summer",113717
+7,-84.52159,54.34023,"ad",1980,"Regulus satrapa satrapa","Regulus_satrapa",7.8,NA,"female",-3.7,563,14.0810935999196,55.9993885664445,"Summer",113596
+6,-108.8765,36.0792333333,NA,2013,"Regulus satrapa","Regulus_satrapa",7.8,NA,"female",4.7,662,8.93394530920571,71.3649326633988,"Summer",113698
+6,-130.014,55.917,"AHY",1997,"Regulus satrapa","Regulus_satrapa",7.9,NA,"female",5.8,1970,6.69902751874999,54.568761871554,"Summer",113849
+9,-72.1333,42,NA,1974,"Regulus satrapa","Regulus_satrapa",7.9,NA,"male",7.8,1245,9.10119456028946,37.9673293593544,"Fall",113930
+6,-117.1051135,51.2999992,"ad",1968,"Regulus satrapa amoenus","Regulus_satrapa",8.2,NA,"female",-0.8,1799,7.8659748668592,76.4684330681298,"Summer",113776
+10,-76.5095,42.4381,NA,1941,"Regulus satrapa","Regulus_satrapa",9.1,NA,"male",9.6,683,10.4461787996928,46.2294395870154,"Fall",113447

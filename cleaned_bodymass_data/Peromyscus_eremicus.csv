@@ -1,0 +1,1223 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+3,-117.50874,33.3449,"juvenile",2006,"Peromyscus eremicus fraterculus","Peromyscus_eremicus",4.8,110,"male",16.3,204,3.75717495418614,100.235645602055,"Spring",88018
+10,-118.6894,34.0442,NA,1997,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",6,156,"female",16.7,316,2.95095002678901,186.959573177342,"Fall",88097
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",7,139,"female",16.1,377,4.13275900213126,157.44419465654,"Fall",88588
+6,-115.9311,35.7836,NA,1967,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",7,147,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",89013
+8,-110.9258,32.0765,"unknown",1952,"Peromyscus eremicus","Peromyscus_eremicus",7.6,137,"male",19.4,267,8.27628960929774,90.4603816522926,"Summer",88048
+8,-118.3165309,34.4821522,NA,1973,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",8,160,"female",15.9,398,6.40898989819391,154.467728054767,"Summer",87680
+10,-106.732365,34.331126,NA,1998,"Peromyscus eremicus","Peromyscus_eremicus",8.2,192,"female",13.7,272,8.6220778976258,121.045500584292,"Fall",87720
+5,-116.31306,36.63278,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",8.3,162,"male",16.5,55,8.9997811421201,112.972274412244,"Spring",89014
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",8.5,144,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87914
+6,-115.9311,35.7836,NA,1967,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",8.5,149,"male",14.4,186,8.42469314250997,110.012124593151,"Summer",88111
+6,-111.15667,33.27944,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",8.5,135,"male",19.8,557,7.63013860631084,112.388623830344,"Summer",88323
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",8.5,131,"female",16.1,377,4.13275900213126,157.44419465654,"Fall",88599
+3,-111.824592,29.031985,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",8.6,146,"male",23.5,139,5.73098965487135,184.663036671402,"Spring",88429
+3,-103.427137,29.45917,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",9,150,"male",18.3,322,6.73626548818206,133.186353975996,"Spring",87620
+1,-115.6017,33.44859,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",9,147,"male",20.1,95,8.14331385899258,149.949577928115,"Winter",87645
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",9,149,"female",14.4,275,9.41882383444145,55.3698371789327,"Summer",87701
+3,-103.427137,29.45917,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",9,142,"male",18.3,322,6.73626548818206,133.186353975996,"Spring",87863
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",9,140,"female",17,316,8.96405279013028,56.1089731014797,"Summer",87946
+4,-108.97,32.08,"juvenile",2012,"Peromyscus eremicus","Peromyscus_eremicus",9,135,"male",17.4,216,7.33546800886562,162.446810023331,"Spring",87964
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",9,148,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88095
+6,-116.377,33.6474,NA,2006,"Peromyscus eremicus eremicus","Peromyscus_eremicus",9.2,165,"undetermined",20.9,45,7.91557727751827,117.632602247554,"Summer",88020
+6,-115.9311,35.7836,NA,1967,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",9.5,156,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",89011
+4,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",9.9,150,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88325
+1,-115.6017,33.44859,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",10,166,"male",20.1,95,8.14331385899258,149.949577928115,"Winter",87636
+1,-115.6017,33.44859,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",10,165,"male",20.1,95,8.14331385899258,149.949577928115,"Winter",87647
+5,-118.5849813,34.3234131,"Juvenile",1974,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",10,122,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",87885
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",10,156,"female",14.4,275,9.41882383444145,55.3698371789327,"Summer",87940
+6,-112.512982,36.388282,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",10,149,"male",16.7,289,8.65799245398916,57.8465582629592,"Summer",87950
+8,-111.2833333,29.9333333,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",10,169,"male",21,296,6.3147494491912,116.902720664142,"Summer",88142
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",10,146,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88395
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",10,139,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88398
+9,-113.013389,31.944509,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",10,151,"female",21.7,478,7.29899847841324,83.2031843421755,"Fall",88958
+11,-110.483903,32.471037,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",10.2,176,"male",18.7,218,7.7730108046816,172.772653522927,"Fall",88252
+5,-113.436958,32.07144,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",10.2,147,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",88350
+12,-112.0503611,34.3911667,"juvenile",2001,"Peromyscus eremicus","Peromyscus_eremicus",10.3,120,"male",17.2,357,8.44516627031898,67.5375074028169,"Winter",88217
+5,-116.1033683,35.2024426,NA,1978,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",10.4,160,"male",21,181,9.71524887000125,89.0419282004007,"Spring",87690
+1,-115.6017,33.44859,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",10.5,163,"female",20.1,95,8.14331385899258,149.949577928115,"Winter",87670
+1,-115.6017,33.44859,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",10.5,135,"female",20.1,95,8.14331385899258,149.949577928115,"Winter",87875
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",10.5,163,"male",22.4,71,7.65590977908273,235.459934337961,"Fall",87901
+6,-115.9311,35.7836,NA,1967,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",10.5,165,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",88088
+4,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",10.5,128,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88321
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",10.5,160,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88875
+9,-110.71417,32.406144,NA,1984,"Peromyscus eremicus","Peromyscus_eremicus",10.9,150,"male",10.2,1045,6.50777507014774,111.08035942891,"Fall",88485
+1,-115.6017,33.44859,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",11,173,"female",20.1,95,8.14331385899258,149.949577928115,"Winter",87688
+1,-115.6017,33.44859,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",11,164,"male",20.1,95,8.14331385899258,149.949577928115,"Winter",87692
+1,-115.6017,33.44859,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",11,154,"male",20.1,95,8.14331385899258,149.949577928115,"Winter",87883
+9,-116.6446302,34.0439196,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",11,165,"male",16.5,272,6.50656428446525,147.373993820939,"Fall",87908
+9,-116.6446302,34.0439196,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",11,170,"female",16.5,272,6.50656428446525,147.373993820939,"Fall",87913
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",11,155,"male",17,316,8.96405279013028,56.1089731014797,"Summer",87942
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",11,158,"female",17,316,8.96405279013028,56.1089731014797,"Summer",87945
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",11,142,"female",17,316,8.96405279013028,56.1089731014797,"Summer",87949
+3,-117.1981,33.93615,"unknown",1964,"Peromyscus eremicus","Peromyscus_eremicus",11,149,"female",16.2,192,5.88049549551118,91.7308130645513,"Spring",88050
+8,-111.2833333,29.9333333,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",11,166,"male",21,296,6.3147494491912,116.902720664142,"Summer",88145
+1,-108.4938889,29.6072222,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",11,155,"male",13.4,526,5.91554193321596,116.326763473923,"Winter",88174
+12,-103.492,25.349,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",11,147,"female",22.2,254,4.35837751295761,118.766964462124,"Winter",88187
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,152,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88380
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,152,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88383
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,165,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88388
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,155,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88399
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,156,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88401
+8,-111.2833333,29.9333333,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",11,180,"male",21,296,6.3147494491912,116.902720664142,"Summer",88620
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,155,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88860
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,161,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88861
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,171,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88862
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,187,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88863
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,156,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88870
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11,152,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88878
+2,-114.905702,33.1958921,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",11.5,163,"male",23.3,86,8.53999503228867,134.011878852098,"Winter",87682
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",11.5,161,"female",19.6,282,6.1588750940608,193.762565654585,"Winter",87837
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",11.5,144,"female",16.1,377,4.13275900213126,157.44419465654,"Fall",88100
+4,-111.03237,32.107217,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11.5,179,"female",19.3,341,7.43698782295547,123.454522754025,"Spring",88905
+1,-114.424156,28.843387,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",11.7,141,"male",20.8,126,4.68776615406011,276.373975951664,"Winter",88426
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12,164,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87662
+8,-118.3165309,34.4821522,NA,1973,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12,172,"male",15.9,398,6.40898989819391,154.467728054767,"Summer",87684
+9,-115.45073,33.43958,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12,162,"male",21.2,67,7.70495216589875,199.13889206543,"Fall",87689
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",12,159,"female",14.4,275,9.41882383444145,55.3698371789327,"Summer",87700
+4,-108.97,32.08,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",12,160,"female",17.4,216,7.33546800886562,162.446810023331,"Spring",87714
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12,155,"male",14,153,8.15558927139151,106.868059852465,"Summer",87917
+6,-112.512982,36.388282,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",12,167,"male",16.7,289,8.65799245398916,57.8465582629592,"Summer",87951
+2,-117.1981,33.93615,"unknown",1964,"Peromyscus eremicus","Peromyscus_eremicus",12,143,"male",16.2,192,5.88049549551118,91.7308130645513,"Winter",88049
+1,-109.933333,27.686658,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",12,162,"male",26.4,262,5.60396910207129,158.022891825938,"Winter",88305
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",12,162,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88378
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",12,158,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88386
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",12,156,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88411
+11,-112.416667,29,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",12,174,"male",21.3,65,5.76354136715519,116.162015410341,"Fall",88454
+10,-107.01583,32.10639,NA,2000,"Peromyscus eremicus","Peromyscus_eremicus",12,164,"male",17.1,195,8.21400780632842,107.520655725523,"Fall",88523
+6,-115.9311,35.7836,NA,1967,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12,182,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",88586
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12,171,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88595
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12,168,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",88596
+8,-111.2833333,29.9333333,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",12,173,"male",21,296,6.3147494491912,116.902720664142,"Summer",88619
+7,-106.0497222,30.365,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",12,163,"female",16.7,386,7.47457812734727,73.5245554590236,"Summer",88638
+7,-113.081602,36.285829,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",12,150,"female",13.4,216,9.32643684599988,88.6360039130517,"Summer",88782
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",12,154,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88866
+12,-112.398661,27.216652,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",12,164,"male",21.5,182,5.17917596113162,157.712234240698,"Winter",88872
+11,-112.316667,28.716667,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",12,181,"female",22.1,59,5.74350753354418,146.270659735843,"Fall",88937
+9,-117.1238,32.54077,NA,2002,"Peromyscus eremicus fraterculus","Peromyscus_eremicus",12.2,165,"male",15.8,109,2.7996753058492,141.100147389906,"Fall",88017
+3,-116.81836,32.683,"adult",2006,"Peromyscus eremicus fraterculus","Peromyscus_eremicus",12.2,170,"male",17.7,173,5.34599822013597,148.223405391633,"Spring",88130
+12,-112.0503611,34.3911667,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",12.2,155,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",88215
+12,-108.721391,27.016508,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",12.3,145,"female",22.2,709,4.25052581417519,125.106310422578,"Winter",88265
+5,-110.749791,28.066666,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",12.3,186,"female",24.5,256,4.87450852223415,166.415875062418,"Spring",88840
+8,-118.3165309,34.4821522,NA,1973,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12.5,173,"female",15.9,398,6.40898989819391,154.467728054767,"Summer",87638
+9,-115.39087,33.46253,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12.5,169,"female",20.1,70,7.73604315114411,209.014039449193,"Fall",87648
+4,-115.54264,33.48033,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12.5,168,"male",19.6,78,7.53747707167727,194.87758395278,"Spring",87678
+5,-116.1723,33.151094,NA,1977,"Peromyscus eremicus eremicus","Peromyscus_eremicus",12.5,167,"male",21.9,151,7.00919309755323,194.88128961477,"Spring",87694
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12.5,154,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88087
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",12.5,166,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88389
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",12.5,168,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88400
+10,-107.03639,32.106388,NA,2000,"Peromyscus eremicus","Peromyscus_eremicus",12.5,170,"female",17.1,196,8.20651995044,106.727261826337,"Fall",88522
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12.5,163,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",88578
+12,-111.19861,31.93889,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",12.5,143,"male",17.9,565,6.18749961738597,127.386824335968,"Winter",88744
+6,-111.15667,33.27944,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",12.5,158,"male",19.8,557,7.63013860631084,112.388623830344,"Summer",88809
+12,-111.983333,26.781662,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",12.5,151,"male",22.5,185,5.31090216612788,148.909076430815,"Winter",88879
+9,-111.388,32.6391,NA,1990,"Peromyscus eremicus","Peromyscus_eremicus",12.5,160,"male",21.5,361,8.18488999574364,89.837114104957,"Fall",88979
+2,-115.324722,33.62611,NA,1969,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",12.6,170,"female",19.9,98,7.85005307837682,112.896581879983,"Winter",87909
+12,-111.037068,32.17062,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",12.8,173,"female",19.8,172,7.63996668245948,181.999581459857,"Winter",88720
+12,-112.739721,32.183009,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",12.8,173,"male",21.6,220,7.1464496377042,152.60916330374,"Winter",88735
+3,-103.403043,29.42607,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",13,170,"male",18.5,313,6.8455471038855,129.965254447499,"Spring",87622
+9,-115.45073,33.43958,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13,165,"female",21.2,67,7.70495216589875,199.13889206543,"Fall",87880
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",13,174,"male",14.4,275,9.41882383444145,55.3698371789327,"Summer",87933
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",13,164,"male",14.4,275,9.41882383444145,55.3698371789327,"Summer",87936
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",13,164,"female",17,316,8.96405279013028,56.1089731014797,"Summer",87943
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",13,169,"female",17,316,8.96405279013028,56.1089731014797,"Summer",87944
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",13,162,"female",17,316,8.96405279013028,56.1089731014797,"Summer",87948
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",13,161,"female",19.6,282,6.1588750940608,193.762565654585,"Winter",88039
+5,-103.5889167,25.5340833,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",13,158,"female",21.2,313,5.54870992377344,82.5752322750152,"Spring",88139
+8,-111.2833333,29.9333333,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",13,171,"male",21,296,6.3147494491912,116.902720664142,"Summer",88143
+8,-111.2833333,29.9333333,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",13,173,"male",21,296,6.3147494491912,116.902720664142,"Summer",88144
+12,-114.010166,28.451159,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,177,"male",21.1,141,4.64669155682217,272.832570608795,"Winter",88377
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,178,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88381
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,155,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88385
+12,-111.90273,26.811418,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,155,"male",22.7,162,5.3654336998866,140.333011734304,"Winter",88391
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,166,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88397
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13,175,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",88574
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13,163,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",88577
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13,175,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",88587
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13,171,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",88593
+1,-108.9416667,26.0930556,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",13,172,"male",25.8,301,4.88171449018031,136.148668973127,"Winter",88647
+1,-108.4938889,29.6072222,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",13,167,"male",13.4,526,5.91554193321596,116.326763473923,"Winter",88649
+1,-109.933333,27.686658,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",13,175,"male",26.4,262,5.60396910207129,158.022891825938,"Winter",88793
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,146,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88858
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,160,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88859
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,175,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88864
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,163,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88867
+12,-111.90273,26.811418,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,151,"male",22.7,162,5.3654336998866,140.333011734304,"Winter",88873
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,164,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88876
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13,169,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88877
+10,-111.4316,32.4585,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",13,180,"male",19.6,181,7.96919732850217,71.2070312203841,"Fall",89010
+11,-110.7145,32.028,NA,1992,"Peromyscus eremicus","Peromyscus_eremicus",13.1,150,"male",18.6,552,7.48033279927296,99.6966920465024,"Fall",88515
+12,-111.037068,32.17062,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",13.4,164,"male",19.8,172,7.63996668245948,181.999581459857,"Winter",88719
+10,-107.54295,32.9269833333,"juvenile",2006,"Peromyscus eremicus","Peromyscus_eremicus",13.5,157,"female",15.1,408,7.16910458886329,126.610418905898,"Fall",87958
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.5,163,"female",16.1,377,4.13275900213126,157.44419465654,"Fall",88090
+11,-118.2936,34.2847,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.5,166,"female",17.9,781,5.24077110911952,155.618980284152,"Fall",88096
+10,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.5,168,"female",16.1,377,4.13275900213126,157.44419465654,"Fall",88109
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13.5,163,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88396
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.5,159,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88572
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.5,167,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",88576
+3,-113.633333,31.333333,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",13.5,175,"female",20.4,73,5.8509258526607,197.500820610217,"Spring",88854
+2,-115.324722,33.62611,NA,1969,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.7,182,"male",19.9,98,7.85005307837682,112.896581879983,"Winter",87676
+2,-115.324722,33.62611,NA,1969,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.7,183,"female",19.9,98,7.85005307837682,112.896581879983,"Winter",87879
+1,-114.424156,28.843387,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",13.7,163,"male",20.8,126,4.68776615406011,276.373975951664,"Winter",88427
+11,-118.2936,34.2847,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.7,176,"female",17.9,781,5.24077110911952,155.618980284152,"Fall",88589
+10,-107.465707,33.02067602,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",13.8,165,"male",16.5,185,7.65456884758536,117.033524000984,"Fall",87723
+10,-107.465764,33.02070502,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",13.8,165,"male",16.5,185,7.65456884758536,117.033524000984,"Fall",87724
+2,-115.324722,33.62611,NA,1969,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.8,189,"male",19.9,98,7.85005307837682,112.896581879983,"Winter",87884
+5,-118.5849813,34.3234131,NA,1974,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",13.9,142,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",87691
+2,-109.2991,33.0848,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",13.9,152,"female",15.7,576,7.87417624359218,74.9091769516283,"Winter",88499
+3,-103.393087,29.452229,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",14,175,"female",18.5,307,6.88995755803438,131.025556782455,"Spring",87616
+5,-115.8850174,34.6448479,NA,1994,"Peromyscus eremicus","Peromyscus_eremicus",14,170,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",87826
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14,166,"male",14,153,8.15558927139151,106.868059852465,"Summer",87874
+1,-111.18,32.27,NA,1971,"Peromyscus eremicus eremicus","Peromyscus_eremicus",14,178,"female",18.5,361,7.31610924914702,149.260804897963,"Winter",88084
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14,158,"female",16.1,377,4.13275900213126,157.44419465654,"Fall",88103
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14,175,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",88114
+1,-106.4088889,25.0025,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",14,182,"male",20.3,858,3.22865953984659,134.687944910431,"Winter",88169
+11,-112.72,29.91,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",14,171,"female",23.1,57,5.82618826480656,112.920564735192,"Fall",88182
+4,-108.941543,25.800136,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",14,153,"female",24.6,282,4.66794354825516,79.1639094840376,"Spring",88348
+12,-111.90273,26.811418,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",14,156,"male",22.7,162,5.3654336998866,140.333011734304,"Winter",88390
+10,-109.441,32.159,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",14,154,"male",14.3,360,7.29285141890206,128.998917519602,"Fall",88438
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14,147,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88583
+1,-108.4938889,29.6072222,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",14,173,"female",13.4,526,5.91554193321596,116.326763473923,"Winter",88650
+5,-108.8719444,29.9552778,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",14,180,"male",15.1,431,6.14572406168909,125.278469503293,"Spring",88653
+5,-107.7663889,25.8252778,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",14,169,"male",24.7,746,4.12056924575852,155.985244220174,"Spring",88656
+5,-110.749791,28.066666,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",14,182,"female",24.5,256,4.87450852223415,166.415875062418,"Spring",88839
+12,-114.430024,28.838247,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",14,174,"male",20.7,126,4.70617743615836,275.83198110003,"Winter",88857
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",14,166,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88871
+9,-109.2792,32.7085,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",14,144,"male",15.4,230,8.06546603887478,102.916424738655,"Fall",88907
+5,-110.7483,31.8682,NA,1976,"Peromyscus eremicus","Peromyscus_eremicus",14,154,"female",16.2,465,6.26723079343515,83.0324623005831,"Spring",88925
+11,-112.316667,28.716667,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",14,89,"male",22.1,59,5.74350753354418,146.270659735843,"Fall",88935
+11,-112.416667,29,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",14,134,"female",21.3,65,5.76354136715519,116.162015410341,"Fall",88936
+8,-113.533333,31.316667,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",14.1,174,"male",20.8,101,6.91078976322643,115.061670405351,"Summer",88294
+8,-113.533333,31.316667,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",14.1,175,"male",20.8,101,6.91078976322643,115.061670405351,"Summer",88295
+2,-115.324722,33.62611,NA,1969,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14.2,184,"female",19.9,98,7.85005307837682,112.896581879983,"Winter",87661
+12,-112.739721,32.183009,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",14.3,199,"male",21.6,220,7.1464496377042,152.60916330374,"Winter",88240
+10,-112.5887,32.7897,NA,1992,"Peromyscus eremicus","Peromyscus_eremicus",14.4,169,"male",22,263,8.41961544504405,110.033726430283,"Fall",88517
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",14.4,172,"male",19.7,162,7.69466560598177,183.521382732104,"Winter",88724
+12,-112.739721,32.183009,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",14.4,165,"female",21.6,220,7.1464496377042,152.60916330374,"Winter",88734
+7,-113.13167,32.02361,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",14.4,182,"female",21.3,148,7.39194381291777,141.383786639453,"Summer",88822
+7,-116.377,33.6474,NA,2006,"Peromyscus eremicus eremicus","Peromyscus_eremicus",14.5,192,"undetermined",20.9,45,7.91557727751827,117.632602247554,"Summer",87793
+10,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14.5,160,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88094
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14.5,177,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",88105
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14.5,175,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",88110
+5,-110.78806,31.872294,NA,1976,"Peromyscus eremicus","Peromyscus_eremicus",14.5,160,"male",17.5,404,6.35330980312982,80.7264408634832,"Spring",88446
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14.5,176,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",88580
+12,-110.787508,32.596318,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",14.5,165,"female",16.6,280,7.39383445032331,138.036427997481,"Winter",88731
+10,-108.50244,33.03418,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",14.6,180,"female",14.9,313,7.31082116185357,140.337374607832,"Fall",87967
+12,-111.028616,32.177905,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",14.6,165,"female",19.8,170,7.64953454713937,180.336727363055,"Winter",88238
+11,-109.68967,32.804867,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",14.7,168,"male",17.6,261,7.4034185387972,93.5314028869812,"Fall",88267
+6,-111.15667,33.27944,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",14.7,160,"female",19.8,557,7.63013860631084,112.388623830344,"Summer",88322
+12,-109.655129,32.717799,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",14.7,152,"male",17.3,280,7.27848635612952,91.3639204548019,"Winter",88763
+10,-118.2953,34.2839,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",14.8,167,"male",17.9,779,5.22946199214343,155.357855283287,"Fall",88091
+12,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",14.8,169,"female",19,226,7.34547892285184,215.204592445954,"Winter",88229
+9,-115.39087,33.46253,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15,181,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",87653
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",15,167,"male",17,316,8.96405279013028,56.1089731014797,"Summer",87702
+6,-112.512982,36.388282,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",15,161,"female",16.7,289,8.65799245398916,57.8465582629592,"Summer",87706
+8,-117.5229568,33.347683,NA,1995,"Peromyscus eremicus","Peromyscus_eremicus",15,171,"male",16.4,449,2.92077200255499,170.607944443014,"Summer",87831
+3,-103.403043,29.42607,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",15,175,"female",18.5,313,6.8455471038855,129.965254447499,"Spring",87869
+8,-118.3165309,34.4821522,NA,1973,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15,151,"female",15.9,398,6.40898989819391,154.467728054767,"Summer",87873
+6,-118.44205,34.45028,NA,1953,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15,180,"female",15.8,154,5.09142922126504,108.786989417131,"Summer",87892
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",15,175,"male",14.4,275,9.41882383444145,55.3698371789327,"Summer",87934
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",15,159,"male",17,316,8.96405279013028,56.1089731014797,"Summer",87941
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",15,168,"female",17,316,8.96405279013028,56.1089731014797,"Summer",87947
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",15,158,"female",16.8,248,7.14835751424865,136.791009604172,"Summer",87973
+10,-118.6894,34.0442,NA,1997,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15,185,"male",16.7,316,2.95095002678901,186.959573177342,"Fall",88093
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15,163,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",88112
+10,-118.6894,34.0442,NA,1997,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15,178,"female",16.7,316,2.95095002678901,186.959573177342,"Fall",88116
+5,-102.29585,26.59615,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",15,159,"female",21.2,267,6.52252507341546,80.6744133768958,"Spring",88141
+4,-103.23,29.5216667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",15,173,"female",19.4,325,6.36574045301499,144.066485027687,"Spring",88150
+11,-112.66,29.88,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",15,172,"male",23.1,58,5.84045452776658,112.920564735192,"Fall",88181
+1,-109.933333,27.686658,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",15,169,"female",26.4,262,5.60396910207129,158.022891825938,"Winter",88306
+12,-114.4,28.903789,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",15,170,"female",20.4,123,4.70509073109954,271.235622996111,"Winter",88375
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",15,187,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88379
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",15,179,"female",22.4,168,5.33980904209697,162.682750099582,"Winter",88382
+11,-112.316667,28.716667,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",15,172,"male",22.1,59,5.74350753354418,146.270659735843,"Fall",88445
+11,-112.6,28.7,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",15,167,"female",21.2,53,5.55328867892847,129.331956264344,"Fall",88453
+10,-109.57917,32.92083,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",15,170,"male",17.4,297,7.17851909265667,78.1970263514024,"Fall",88468
+10,-109.57917,32.92083,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",15,181,"male",17.4,297,7.17851909265667,78.1970263514024,"Fall",88469
+11,-113.675924,31.755053,NA,1989,"Peromyscus eremicus","Peromyscus_eremicus",15,171,"female",23.1,103,7.3182782790556,152.308751850521,"Fall",88476
+9,-109.1453,31.9226,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",15,159,"female",13.8,371,7.27290530085134,86.6159963982437,"Fall",88481
+10,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15,150,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88582
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15,160,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88585
+4,-100.6083333,24.4016667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",15,167,"male",17.5,217,3.25942688771564,143.65397003785,"Spring",88623
+4,-101.8583333,27.0416667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",15,175,"female",21.9,217,5.74495167055126,145.173059949378,"Spring",88624
+8,-100.5786111,24.3,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",15,162,"male",17.4,349,3.74841380594593,78.9759210270657,"Summer",88641
+8,-103.975,27.768,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",15,186,"female",20,290,5.79625662898831,117.815459246378,"Summer",88662
+7,-113.13167,32.02361,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",15,179,"female",21.3,148,7.39194381291777,141.383786639453,"Summer",88823
+12,-112.382329,27.216658,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",15,167,"male",22.4,168,5.33980904209697,162.682750099582,"Winter",88869
+11,-113.0942,34.1796,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",15,159,"male",17.8,318,8.05463822711467,131.197327709774,"Fall",88933
+11,-118.2936,34.2847,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15.1,179,"female",17.9,781,5.24077110911952,155.618980284152,"Fall",88104
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",15.1,166,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88326
+12,-113.3561,34.0662,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",15.2,145,"male",15.7,406,7.77815511350198,121.87983176117,"Winter",88947
+10,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",15.3,168,"female",19,226,7.34547892285184,215.204592445954,"Fall",88244
+11,-118.2936,34.2847,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15.3,171,"male",17.9,781,5.24077110911952,155.618980284152,"Fall",88597
+5,-115.45917,36.104039,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",15.3,145,"female",14.7,94,9.06054968564604,123.41129274194,"Spring",88784
+3,-111.147639,33.293879,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",15.3,168,"male",20,491,7.82798011796611,133.937801276043,"Spring",88805
+6,-109.82056,32.634458,NA,1984,"Peromyscus eremicus","Peromyscus_eremicus",15.3,153,"male",10.8,896,6.90221747416046,93.6479035907306,"Summer",88982
+10,-118.2953,34.2839,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15.4,182,"female",17.9,779,5.22946199214343,155.357855283287,"Fall",88106
+7,-113.13167,32.02361,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",15.4,184,"male",21.3,148,7.39194381291777,141.383786639453,"Summer",88343
+11,-118.2936,34.2847,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15.4,166,"female",17.9,781,5.24077110911952,155.618980284152,"Fall",88598
+4,-108.941543,25.800136,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",15.4,162,"male",24.6,282,4.66794354825516,79.1639094840376,"Spring",88827
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15.5,181,"male",22.4,71,7.65590977908273,235.459934337961,"Fall",87650
+10,-107.33565,33.5634,"subadult",2010,"Peromyscus eremicus","Peromyscus_eremicus",15.5,169,"female",13.3,310,7.78656574239286,118.254258377634,"Fall",87713
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15.5,181,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87870
+9,-115.51173,33.33764,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15.5,181,"male",23.2,41,7.7343781948264,199.544936839254,"Fall",87889
+9,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15.5,175,"female",16.1,377,4.13275900213126,157.44419465654,"Fall",88102
+7,-113.07667,36.21889,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",15.5,170,"female",13.9,202,9.41809991774381,93.1755704134789,"Summer",88296
+4,-111.00556,32.21278,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",15.5,172,"female",19.6,375,7.17430178209741,120.285523900163,"Spring",88340
+7,-112.975,36.694452,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",15.5,167,"female",11.4,196,9.20508341114086,73.4857346552989,"Summer",88788
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",15.6,183,"male",19.6,282,6.1588750940608,193.762565654585,"Winter",87835
+10,-108.8703,33.2705,"adult",2009,"Peromyscus eremicus","Peromyscus_eremicus",15.6,174,"female",14.9,350,7.63881634492643,64.868870156639,"Fall",87961
+12,-109.3016944,33.1023056,"juvenile",2001,"Peromyscus eremicus","Peromyscus_eremicus",15.6,162,"female",17.2,242,8.59846268853105,92.9328729067083,"Winter",88196
+12,-111.05472,32.08333,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",15.6,191,"male",19,428,7.09136799214369,143.109717701316,"Winter",88706
+4,-108.941543,25.800136,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",15.6,162,"male",24.6,282,4.66794354825516,79.1639094840376,"Spring",88828
+1,-111.0547,32.0833,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",15.7,174,"male",18.9,418,7.41380775678365,100.880931892999,"Winter",87839
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",15.7,168,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88338
+11,-118.2936,34.2847,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",15.8,179,"male",17.9,781,5.24077110911952,155.618980284152,"Fall",88101
+4,-114.52444,33.683972,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",15.8,149,"female",22.2,142,7.51569569755068,155.850649215374,"Spring",88795
+3,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",15.8,165,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88806
+11,-111.102931,32.371372,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",15.9,149,"male",20.9,293,8.09223346328085,80.473733928047,"Fall",88773
+3,-103.403043,29.42607,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",16,191,"female",18.5,313,6.8455471038855,129.965254447499,"Spring",87621
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,177,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",87651
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,183,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87683
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",16,181,"female",14.4,275,9.41882383444145,55.3698371789327,"Summer",87699
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",16,177,"female",17,316,8.96405279013028,56.1089731014797,"Summer",87704
+6,-112.512982,36.388282,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",16,179,"male",16.7,289,8.65799245398916,57.8465582629592,"Summer",87705
+5,-115.8850174,34.6448479,NA,1994,"Peromyscus eremicus","Peromyscus_eremicus",16,102,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",87827
+3,-103.393087,29.452229,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",16,185,"male",18.5,307,6.88995755803438,131.025556782455,"Spring",87860
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,174,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",87881
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,179,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87891
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,170,"male",14,153,8.15558927139151,106.868059852465,"Summer",87897
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,171,"male",14,153,8.15558927139151,106.868059852465,"Summer",87900
+2,-115.10323,33.25854,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,172,"male",23.2,63,7.93505838133227,186.346965528876,"Winter",87907
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,NA,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",87918
+5,-117.8249778,36.7471083,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,151,"male",20.8,66,8.78499064348168,108.122422753232,"Spring",87921
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,171,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",87923
+1,-115.55878,33.5164,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,169,"female",19.4,93,8.18340430753645,145.068442700463,"Winter",87928
+7,-106.94361,32.07278,NA,1985,"Peromyscus eremicus","Peromyscus_eremicus",16,NA,"female",15.9,298,8.17679643870385,99.2627470861979,"Summer",87932
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",16,183,"male",14.4,275,9.41882383444145,55.3698371789327,"Summer",87937
+12,-104.646515,21.51611,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",16,149,"male",22.8,875,2.24747332879311,139.510523073485,"Winter",88056
+10,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,165,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88089
+6,-117.77,36.05,NA,1978,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,170,"male",15.4,324,7.89066863549291,132.515762400799,"Summer",88092
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,169,"male",17.1,159,7.56949620036055,104.086538865795,"Spring",88099
+10,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16,161,"female",16.1,377,4.13275900213126,157.44419465654,"Fall",88107
+3,-112.0333333,36.9833333,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",16,181,"female",12.1,233,8.01707930645947,100.453394161347,"Spring",88147
+4,-103.23,29.5216667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",16,187,"male",19.4,325,6.36574045301499,144.066485027687,"Spring",88149
+7,-107.2894444,32.7211111,NA,2003,"Peromyscus eremicus","Peromyscus_eremicus",16,178,"male",17.1,163,8.14201598146456,101.887516944768,"Summer",88158
+7,-108.9683333,32.3425,NA,2003,"Peromyscus eremicus","Peromyscus_eremicus",16,178,"female",16.9,176,7.84811789828966,88.2939986797234,"Summer",88160
+11,-112.66,29.88,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",16,174,"female",23.1,58,5.84045452776658,112.920564735192,"Fall",88183
+3,-113.5213,33.1389,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",16,176,"male",21.2,111,8.61261847347814,148.382607584631,"Spring",88407
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",16,154,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88410
+11,-112.316667,28.716667,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",16,186,"male",22.1,59,5.74350753354418,146.270659735843,"Fall",88452
+9,-113.015699,31.94,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",16,160,"male",21.8,478,7.33250856243495,83.2031843421755,"Fall",88462
+3,-116.81755,32.68946,"juvenile",2006,"Peromyscus eremicus fraterculus","Peromyscus_eremicus",16,140,"female",17.6,176,5.36915997041239,148.537194910823,"Spring",88606
+5,-104.402,26.94055,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",16,167,"female",18.6,315,6.1551345897699,89.8731325975358,"Spring",88609
+5,-100.6444667,23.5902333,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",16,179,"female",19,486,3.90045646124407,69.0274925203173,"Spring",88617
+3,-107.0075,32.0936111,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",16,162,"female",17.1,190,8.58379375052285,103.247690631561,"Spring",88630
+7,-102.445,30.0302778,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",16,176,"male",18.6,506,7.4051988289964,56.2362292394385,"Summer",88639
+5,-107.15,26.9138889,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",16,167,"male",14.5,683,4.17143969043172,121.468655816211,"Spring",88654
+1,-112.0551111,34.2530278,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",16,170,"female",18.6,192,7.92706812705108,108.069206621682,"Winter",88689
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",16,176,"female",19.7,162,7.69466560598177,183.521382732104,"Winter",88726
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",16,153,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88891
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",16,186,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88894
+10,-109.458,32.1446,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",16,152,"female",13.8,372,7.1554598776463,130.73627570127,"Fall",88923
+11,-112.316667,28.716667,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",16,200,"female",22.1,59,5.74350753354418,146.270659735843,"Fall",88929
+12,-113.2868,34.0662,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",16,178,"male",18.7,297,8.14169962153313,124.042454426959,"Winter",88931
+8,-109.4751,32.1446,NA,1976,"Peromyscus eremicus","Peromyscus_eremicus",16,193,"female",13.9,330,6.83506999365638,84.79336903802,"Summer",88934
+9,-116.112329,34.428288,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",16,173,"female",18.6,105,7.33676400469622,117.676957894462,"Fall",89000
+7,-113.79306,32.18583,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",16,179,"female",21.6,149,7.67254056932114,105.994854077493,"Summer",89008
+10,-118.2953,34.2839,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.2,184,"male",17.9,779,5.22946199214343,155.357855283287,"Fall",88113
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",16.2,187,"male",19.7,162,7.69466560598177,183.521382732104,"Winter",88725
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",16.2,182,"female",19.7,162,7.69466560598177,183.521382732104,"Winter",88728
+3,-116.84005,32.66651,"adult",2006,"Peromyscus eremicus fraterculus","Peromyscus_eremicus",16.3,152,"female",17.7,166,5.21788155085834,145.06489860178,"Spring",88131
+3,-113.633333,31.333333,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",16.3,186,"female",20.4,73,5.8509258526607,197.500820610217,"Spring",88855
+10,-107.9244,32.5897,NA,2009,"Peromyscus eremicus","Peromyscus_eremicus",16.4,181,"undetermined",15.6,253,7.56728905463268,88.9756753785919,"Fall",87963
+12,-111.05472,32.08333,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",16.4,206,"male",18.5,382,7.25448137360625,175.270958725451,"Winter",88223
+12,-111.19861,31.93889,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",16.4,169,"male",17.9,565,6.18749961738597,127.386824335968,"Winter",88756
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.5,180,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87632
+8,-116.642031,33.9151181,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.5,156,"male",20.2,219,6.67986572174966,139.517252917903,"Summer",87642
+2,-115.43546,33.4269,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.5,183,"male",21.3,67,7.70931648111949,201.394946571559,"Winter",87644
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.5,196,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87685
+9,-115.39087,33.46253,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.5,179,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",87871
+8,-118.3165309,34.4821522,NA,1973,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.5,193,"female",15.9,398,6.40898989819391,154.467728054767,"Summer",87878
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.5,182,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87888
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",16.5,170,"female",21.4,106,8.0567118640675,158.780518537259,"Spring",88365
+3,-113.633333,31.333333,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",16.5,195,"male",20.4,73,5.8509258526607,197.500820610217,"Spring",88371
+10,-113.533333,31.490844,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",16.5,172,"female",21.5,111,7.20308751140576,153.529894715748,"Fall",88497
+12,-111.64722,31.51806,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",16.5,182,"male",18.5,234,7.14220808739401,186.091290262207,"Winter",88732
+2,-115.324722,33.62611,NA,1969,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.6,187,"male",19.9,98,7.85005307837682,112.896581879983,"Winter",87910
+11,-109.92833,31.87056,NA,1961,"Peromyscus eremicus","Peromyscus_eremicus",16.6,160,"male",15.2,483,6.85225023866856,91.5271660338333,"Fall",88286
+1,-110.8237778,33.7851667,"juvenile",2002,"Peromyscus eremicus","Peromyscus_eremicus",16.6,184,"male",19,206,8.29232485586229,88.1927868929352,"Winter",88677
+10,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",16.6,175,"male",19,226,7.34547892285184,215.204592445954,"Fall",88729
+5,-118.5849813,34.3234131,NA,1974,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.7,152,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",87640
+12,-111.64722,31.51806,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",16.7,183,"male",18.5,234,7.14220808739401,186.091290262207,"Winter",88243
+12,-109.039102,32.074755,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",16.7,179,"female",16.2,114,8.28461059599501,129.756338334706,"Winter",88248
+11,-118.2936,34.2847,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.7,181,"male",17.9,781,5.24077110911952,155.618980284152,"Fall",88590
+1,-114.424156,28.843387,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",16.7,185,"female",20.8,126,4.68776615406011,276.373975951664,"Winter",88904
+3,-107.4684,32.9807,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",16.8,180,"male",15.6,259,8.27981755764454,143.507135744821,"Spring",87738
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",16.8,182,"male",19.6,282,6.1588750940608,193.762565654585,"Winter",87834
+3,-107.4659,33.0204,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",16.8,182,"male",15.6,264,8.2975900115636,143.896615362723,"Spring",87978
+1,-110.8237778,33.7851667,"juvenile",2002,"Peromyscus eremicus","Peromyscus_eremicus",16.8,174,"male",19,206,8.29232485586229,88.1927868929352,"Winter",88201
+5,-115.45917,36.104039,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",16.8,170,"male",14.7,94,9.06054968564604,123.41129274194,"Spring",88289
+10,-118.2953,34.2839,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",16.8,180,"female",17.9,779,5.22946199214343,155.357855283287,"Fall",88573
+2,-116.81755,32.68946,"adult",2006,"Peromyscus eremicus fraterculus","Peromyscus_eremicus",16.8,159,"male",17.6,176,5.36915997041239,148.537194910823,"Winter",88607
+12,-111.028616,32.177905,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",16.9,185,"female",19.8,170,7.64953454713937,180.336727363055,"Winter",88739
+1,-109.933333,27.686658,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",16.9,176,"female",26.4,262,5.60396910207129,158.022891825938,"Winter",88794
+3,-103.393087,29.452229,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17,183,"female",18.5,307,6.88995755803438,131.025556782455,"Spring",87617
+3,-103.427137,29.45917,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17,185,"male",18.3,322,6.73626548818206,133.186353975996,"Spring",87618
+4,-115.54264,33.48033,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,185,"female",19.6,78,7.53747707167727,194.87758395278,"Spring",87649
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,180,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87654
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,179,"female",14,153,8.15558927139151,106.868059852465,"Summer",87656
+9,-115.45073,33.43958,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,176,"male",21.2,67,7.70495216589875,199.13889206543,"Fall",87657
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,180,"male",14,153,8.15558927139151,106.868059852465,"Summer",87671
+2,-115.45833,33.44596,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,184,"male",20.6,70,7.71032365786877,201.095330866917,"Winter",87686
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17,170,"male",14.4,275,9.41882383444145,55.3698371789327,"Summer",87696
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17,178,"female",14.4,275,9.41882383444145,55.3698371789327,"Summer",87698
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",17,169,"female",19.3,321,5.69558574421428,95.5441949142813,"Winter",87789
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",17,183,"male",19.6,282,6.1588750940608,193.762565654585,"Winter",87836
+1,-111.0547,32.0833,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",17,184,"male",18.9,418,7.41380775678365,100.880931892999,"Winter",87838
+3,-103.403043,29.42607,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17,184,"male",18.5,313,6.8455471038855,129.965254447499,"Spring",87867
+3,-103.403043,29.42607,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17,194,"male",18.5,313,6.8455471038855,129.965254447499,"Spring",87868
+2,-115.45833,33.44596,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,200,"female",20.6,70,7.71032365786877,201.095330866917,"Winter",87877
+2,-115.45073,33.43958,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,176,"male",21.2,67,7.70495216589875,199.13889206543,"Winter",87882
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,181,"male",22.4,71,7.65590977908273,235.459934337961,"Fall",87893
+2,-115.10323,33.25854,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,185,"male",23.2,63,7.93505838133227,186.346965528876,"Winter",87911
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,189,"male",22.4,71,7.65590977908273,235.459934337961,"Fall",87919
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17,181,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",87927
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17,180,"male",14.4,275,9.41882383444145,55.3698371789327,"Summer",87935
+5,-115.8850174,34.6448479,NA,1994,"Peromyscus eremicus","Peromyscus_eremicus",17,185,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",88035
+1,-111.0547,32.0833,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",17,192,"male",18.9,418,7.41380775678365,100.880931892999,"Winter",88042
+10,-108.7730722222,31.6052138889,"adult",2007,"Peromyscus eremicus","Peromyscus_eremicus",17,178,"male",14.2,457,7.37873172152111,89.7712180497236,"Fall",88121
+5,-101.70415,26.59615,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",17,175,"male",17.9,385,5.75989267576781,81.1187751498886,"Spring",88135
+4,-103.23,29.5216667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",17,188,"male",19.4,325,6.36574045301499,144.066485027687,"Spring",88148
+7,-107.2894444,32.7211111,NA,2003,"Peromyscus eremicus","Peromyscus_eremicus",17,193,"male",17.1,163,8.14201598146456,101.887516944768,"Summer",88159
+8,-100.3890278,25.2736944,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",17,194,"female",10,665,2.49253430723175,90.0201660371333,"Summer",88164
+8,-100.6541667,26.3044444,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",17,175,"male",19.5,451,4.95210392998101,92.6757895460778,"Summer",88168
+1,-106.4088889,25.0025,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",17,177,"male",20.3,858,3.22865953984659,134.687944910431,"Winter",88170
+1,-110.9555556,30.2608333,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",17,174,"female",20.9,278,5.99506741691312,159.874769253244,"Winter",88175
+1,-110.9555556,30.2608333,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",17,185,"female",20.9,278,5.99506741691312,159.874769253244,"Winter",88176
+10,-114.079,36.4126,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",17,190,"female",19.8,212,8.95627002313311,92.7690883721682,"Fall",88188
+1,-109.933333,27.686658,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",17,175,"male",26.4,262,5.60396910207129,158.022891825938,"Winter",88304
+12,-114.4,28.903789,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",17,178,"male",20.4,123,4.70509073109954,271.235622996111,"Winter",88392
+12,-114.430024,28.838247,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",17,168,"male",20.7,126,4.70617743615836,275.83198110003,"Winter",88394
+3,-114.616667,30.160219,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",17,180,"female",19.6,33,5.09524436622182,139.703419623664,"Spring",88434
+5,-110.7483,31.8682,NA,1976,"Peromyscus eremicus","Peromyscus_eremicus",17,150,"male",16.2,465,6.26723079343515,83.0324623005831,"Spring",88439
+10,-110.7314,31.8102,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",17,167,"male",14.6,470,6.8193741381716,134.31986607702,"Fall",88440
+6,-110.7483,31.8247,NA,1976,"Peromyscus eremicus","Peromyscus_eremicus",17,152,"female",15.6,499,6.20324328659833,87.8718304399582,"Summer",88457
+9,-109.1285,31.9226,NA,1978,"Peromyscus eremicus","Peromyscus_eremicus",17,155,"female",15,410,7.33944820814208,60.4527090397838,"Fall",88482
+6,-108.518,32.8577,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",17,180,"male",13.6,528,7.96239266613353,71.4639596831831,"Summer",88506
+9,-109.072439,31.913592,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",17,175,"male",16.8,243,8.03809113477255,108.594595335443,"Fall",88520
+3,-112.0333333,36.9833333,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",17,170,"male",12.1,233,8.01707930645947,100.453394161347,"Spring",88621
+4,-101.8583333,27.0416667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",17,188,"male",21.9,217,5.74495167055126,145.173059949378,"Spring",88625
+7,-107.2825,32.7405556,NA,2003,"Peromyscus eremicus","Peromyscus_eremicus",17,181,"female",17.3,162,8.17395623954891,105.68100525723,"Summer",88634
+7,-106.9719444,29.9894444,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",17,190,"female",17.4,344,6.96092992742676,94.2832900383497,"Summer",88637
+11,-111.103242,32.41416,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",17,174,"male",20.8,291,7.98365755019514,77.5910134352322,"Fall",88768
+3,-113.5213,33.1389,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",17,186,"female",21.2,111,8.61261847347814,148.382607584631,"Spring",88888
+9,-111.4146,32.4295,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",17,179,"male",19.8,203,8.20513512528846,131.541936496751,"Fall",88909
+3,-114.616667,30.160219,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",17,174,"male",19.6,33,5.09524436622182,139.703419623664,"Spring",88911
+10,-109.441,32.159,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",17,169,"male",14.3,360,7.29285141890206,128.998917519602,"Fall",88921
+9,-113.01694,31.94444,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",17,172,"male",21.7,477,7.30485517248009,83.2031843421755,"Fall",88950
+11,-111.3809,32.3853,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",17,189,"female",21.5,211,7.28551905349151,67.3992365783321,"Fall",88957
+10,-118.2953,34.2839,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17.1,178,"male",17.9,779,5.22946199214343,155.357855283287,"Fall",88098
+8,-113.533333,31.316667,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",17.1,195,"female",20.8,101,6.91078976322643,115.061670405351,"Summer",88787
+11,-118.3178,34.2708,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17.2,160,"female",18.4,704,4.96020527434464,153.914053420953,"Fall",88108
+11,-111.2952222,33.9565278,"juvenile",2001,"Peromyscus eremicus","Peromyscus_eremicus",17.2,175,"female",20.1,451,8.78553822017649,69.4922098532991,"Fall",88192
+1,-110.87425,33.6826389,"juvenile",2001,"Peromyscus eremicus","Peromyscus_eremicus",17.2,175,"female",20,386,8.78443440858817,79.2877923798124,"Winter",88198
+5,-109.255803,31.344116,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",17.2,171,"male",16.6,256,7.93829899342995,150.506173114611,"Spring",88292
+11,-114.00618,36.808563,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",17.2,174,"male",17.6,107,9.68320554862746,66.5089777729693,"Fall",88303
+11,-111.0544,32.2283,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",17.2,187,"male",20.7,248,6.81466778131531,85.3523583071016,"Fall",88956
+8,-109.205,32.0197,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",17.3,184,"male",14,372,7.03822356202834,71.9569156802926,"Summer",88046
+10,-118.2953,34.2839,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17.3,184,"male",17.9,779,5.22946199214343,155.357855283287,"Fall",88115
+12,-111.64722,31.51806,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",17.3,181,"male",18.5,234,7.14220808739401,186.091290262207,"Winter",88245
+11,-109.98139,31.93944,NA,1961,"Peromyscus eremicus","Peromyscus_eremicus",17.3,151,"male",13.6,566,6.5242206082761,91.5335659469096,"Fall",88283
+10,-118.2953,34.2839,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17.3,178,"male",17.9,779,5.22946199214343,155.357855283287,"Fall",88579
+7,-113.14583,36.40222,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",17.3,174,"male",8,261,8.62959583308652,93.3116164141013,"Summer",88783
+11,-114.00618,36.808563,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",17.3,171,"female",17.6,107,9.68320554862746,66.5089777729693,"Fall",88792
+3,-113.633333,31.333333,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",17.3,190,"male",20.4,73,5.8509258526607,197.500820610217,"Spring",88853
+12,-111.05472,32.08333,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",17.4,176,"female",18.5,382,7.25448137360625,175.270958725451,"Winter",88222
+11,-110.51829,32.398475,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",17.4,184,"male",17.8,250,7.69543351408463,179.399239888934,"Fall",88242
+10,-109.2084,31.619,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",17.4,143,"female",15.5,336,7.41466094772357,125.384381175135,"Fall",88358
+1,-112.73,32.23,NA,1971,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17.4,179,"female",19.9,183,7.77904625298376,183.566633939274,"Winter",88569
+9,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",17.4,180,"female",19,226,7.34547892285184,215.204592445954,"Fall",88736
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17.5,170,"female",22.4,71,7.65590977908273,235.459934337961,"Fall",87627
+9,-115.39087,33.46253,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17.5,184,"male",20.1,70,7.73604315114411,209.014039449193,"Fall",87634
+3,-107.4618,33.0186,"adult",2013,"Peromyscus eremicus","Peromyscus_eremicus",17.5,181,"female",15.6,263,8.2975900115636,143.896615362723,"Spring",87736
+3,-106.992129,32.051097,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",17.5,160,"male",16,200,7.97568273889547,102.184177562309,"Spring",87781
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17.5,195,"male",22.4,71,7.65590977908273,235.459934337961,"Fall",87903
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",17.5,175,"female",19.3,321,5.69558574421428,95.5441949142813,"Winter",88013
+1,-111.18,32.27,NA,1971,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17.5,175,"male",18.5,361,7.31610924914702,149.260804897963,"Winter",88085
+8,-100.6541667,26.3044444,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",17.5,194,"male",19.5,451,4.95210392998101,92.6757895460778,"Summer",88166
+12,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",17.5,168,"male",19,226,7.34547892285184,215.204592445954,"Winter",88230
+12,-111.037068,32.17062,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",17.5,171,"male",19.8,172,7.63996668245948,181.999581459857,"Winter",88233
+1,-111.147639,33.293879,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",17.5,NA,"female",20,491,7.82798011796611,133.937801276043,"Winter",88318
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",17.5,163,"female",21.4,106,8.0567118640675,158.780518537259,"Spring",88366
+8,-100.6541667,26.3044444,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",17.5,191,"male",19.5,451,4.95210392998101,92.6757895460778,"Summer",88645
+3,-113.633333,31.333333,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",17.5,178,"male",20.4,73,5.8509258526607,197.500820610217,"Spring",88851
+3,-111.05472,32.08333,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",17.5,170,"male",17.8,395,7.2234624032322,142.356821273114,"Spring",88902
+11,-111.3809,32.3853,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",17.5,179,"female",21.5,211,7.28551905349151,67.3992365783321,"Fall",88964
+10,-107.466029,33.02066403,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",17.6,190,"female",16.5,185,7.65456884758536,117.033524000984,"Fall",87725
+5,-116.377,33.6474,NA,2006,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17.6,183,"female",20.9,45,7.91557727751827,117.632602247554,"Spring",88019
+2,-110.7314,31.723,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",17.6,177,"male",15.4,468,6.65611475534817,130.686184652792,"Winter",88354
+11,-110.9744,32.6062,NA,1982,"Peromyscus eremicus","Peromyscus_eremicus",17.6,156,"male",17.5,545,7.20544301836529,75.5040449849147,"Fall",88480
+1,-112.0551111,34.2530278,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",17.6,182,"female",18.6,192,7.92706812705108,108.069206621682,"Winter",88684
+1,-111.147639,33.293879,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",17.6,174,"female",20,491,7.82798011796611,133.937801276043,"Winter",88802
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",17.6,172,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",88819
+1,-111.18,32.27,NA,1971,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17.7,162,"male",18.5,361,7.31610924914702,149.260804897963,"Winter",88083
+7,-113.13167,32.02361,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",17.7,170,"male",21.3,148,7.39194381291777,141.383786639453,"Summer",88342
+4,-111.824592,29.031985,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",17.7,180,"female",23.5,139,5.73098965487135,184.663036671402,"Spring",88917
+5,-118.5849813,34.3234131,NA,1974,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17.8,157,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",87631
+12,-112.0503611,34.3911667,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",17.8,170,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",88214
+11,-110.9398,32.6062,NA,1989,"Peromyscus eremicus","Peromyscus_eremicus",17.8,180,"female",19.3,255,7.6357214737209,100.824157470506,"Fall",88494
+12,-112.0503611,34.3911667,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",17.8,171,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",88692
+11,-111.1571,32.3154,NA,1951,"Peromyscus eremicus","Peromyscus_eremicus",17.8,175,"male",20,367,7.73173311552442,88.8644990230128,"Fall",88698
+12,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",17.8,177,"male",19,226,7.34547892285184,215.204592445954,"Winter",88714
+3,-107.4634,33.0182,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",17.9,178,"female",15.6,263,8.2975900115636,143.896615362723,"Spring",87737
+5,-118.5849813,34.3234131,NA,1974,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",17.9,149,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",87931
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",17.9,186,"female",19.6,282,6.1588750940608,193.762565654585,"Winter",88038
+1,-111.18,32.27,NA,1971,"Peromyscus eremicus eremicus","Peromyscus_eremicus",17.9,170,"female",18.5,361,7.31610924914702,149.260804897963,"Winter",88082
+11,-110.51829,32.398475,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",17.9,159,"male",17.8,250,7.69543351408463,179.399239888934,"Fall",88750
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,181,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",87626
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,183,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",87646
+2,-115.46593,33.45233,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,180,"female",20.5,71,7.7068397406381,197.938849454332,"Winter",87655
+2,-115.45073,33.43958,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,180,"male",21.2,67,7.70495216589875,199.13889206543,"Winter",87658
+1,-118.5394807,34.0749251,NA,1995,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,192,"male",17.6,935,3.39125434914665,195.032968973943,"Winter",87660
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,177,"female",14,153,8.15558927139151,106.868059852465,"Summer",87668
+2,-115.46593,33.45233,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,186,"male",20.5,71,7.7068397406381,197.938849454332,"Winter",87673
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,183,"female",14,153,8.15558927139151,106.868059852465,"Summer",87681
+2,-115.46593,33.45233,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,184,"male",20.5,71,7.7068397406381,197.938849454332,"Winter",87687
+8,-110.9258,32.0765,"unknown",1952,"Peromyscus eremicus","Peromyscus_eremicus",18,173,"male",19.4,267,8.27628960929774,90.4603816522926,"Summer",87849
+3,-103.427137,29.45917,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",18,195,"male",18.3,322,6.73626548818206,133.186353975996,"Spring",87862
+3,-103.403043,29.42607,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",18,190,"male",18.5,313,6.8455471038855,129.965254447499,"Spring",87866
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,180,"male",22.4,71,7.65590977908273,235.459934337961,"Fall",87920
+2,-115.45073,33.43958,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18,189,"male",21.2,67,7.70495216589875,199.13889206543,"Winter",87930
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",18,90,"male",14.4,275,9.41882383444145,55.3698371789327,"Summer",87938
+8,-106.48,31.75,NA,1960,"Peromyscus eremicus eremicus","Peromyscus_eremicus",18,178,"male",17.5,219,9.00691232870453,122.593869037709,"Summer",88081
+10,-108.7730722222,31.6052138889,NA,2007,"Peromyscus eremicus","Peromyscus_eremicus",18,164,"male",14.2,457,7.37873172152111,89.7712180497236,"Fall",88118
+5,-105.8483,28.7031833,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",18,167,"male",18.6,333,6.58282314862405,95.5171270294181,"Spring",88133
+5,-102.4110833,25.5340833,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",18,181,"female",20.7,293,5.46078998614003,83.1942647203891,"Spring",88134
+4,-106.274,29.654,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",18,167,"male",17.8,528,6.26120208228033,157.813644867566,"Spring",88179
+11,-110.69583,32.33556,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",18,170,"male",15.5,572,7.6994096585978,98.1131791585934,"Fall",88302
+12,-114.430024,28.838247,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",18,171,"female",20.7,126,4.70617743615836,275.83198110003,"Winter",88384
+10,-110.7314,31.8392,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",18,180,"female",15.3,442,6.89784221860194,126.735898782627,"Fall",88436
+11,-111.3809,32.3853,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",18,190,"male",21.5,211,7.28551905349151,67.3992365783321,"Fall",88467
+9,-113.01694,31.94444,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",18,167,"male",21.7,477,7.30485517248009,83.2031843421755,"Fall",88471
+9,-113.01694,31.94444,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",18,163,"female",23,203,7.10893590468853,79.6141697175811,"Fall",88472
+9,-112.72417,32.06833,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",18,179,"male",21.1,308,6.6000631310112,82.1501305370168,"Fall",88474
+11,-111.3809,32.3853,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",18,192,"male",21.5,211,7.28551905349151,67.3992365783321,"Fall",88479
+10,-107.03639,32.106388,NA,2000,"Peromyscus eremicus","Peromyscus_eremicus",18,171,"female",17.1,196,8.20651995044,106.727261826337,"Fall",88525
+10,-108.7730722222,31.6052138889,"adult",2007,"Peromyscus eremicus","Peromyscus_eremicus",18,180,"male",14.2,457,7.37873172152111,89.7712180497236,"Fall",88601
+10,-108.7730722222,31.6052138889,"adult",2007,"Peromyscus eremicus","Peromyscus_eremicus",18,177,"male",14.2,457,7.37873172152111,89.7712180497236,"Fall",88602
+5,-104.402,26.94055,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",18,182,"female",18.6,315,6.1551345897699,89.8731325975358,"Spring",88615
+5,-100.6171333,23.48815,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",18,167,"male",19.4,465,3.94587433180838,73.0103061922821,"Spring",88616
+4,-100.6083333,24.4016667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",18,179,"female",17.5,217,3.25942688771564,143.65397003785,"Spring",88627
+3,-103.6011111,32.1066667,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",18,165,"female",17.5,245,8.79942749515127,73.5867954894766,"Spring",88633
+1,-106.4088889,25.0025,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",18,188,"female",20.3,858,3.22865953984659,134.687944910431,"Winter",88648
+5,-108.8719444,29.9552778,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",18,179,"male",15.1,431,6.14572406168909,125.278469503293,"Spring",88652
+5,-107.15,26.9138889,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",18,185,"male",14.5,683,4.17143969043172,121.468655816211,"Spring",88655
+9,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",18,170,"male",19,226,7.34547892285184,215.204592445954,"Fall",88740
+5,-109.255803,31.344116,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",18,173,"male",16.6,256,7.93829899342995,150.506173114611,"Spring",88785
+4,-113.51358,32.095482,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",18,182,"male",21.3,101,8.01152106013394,155.734039018742,"Spring",88845
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",18,156,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88895
+3,-114.616667,30.160219,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",18,187,"female",19.6,33,5.09524436622182,139.703419623664,"Spring",88912
+3,-114.616667,30.160219,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",18,193,"female",19.6,33,5.09524436622182,139.703419623664,"Spring",88914
+3,-114.616667,30.160219,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",18,165,"female",19.6,33,5.09524436622182,139.703419623664,"Spring",88916
+10,-109.441,32.159,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",18,176,"male",14.3,360,7.29285141890206,128.998917519602,"Fall",88919
+10,-109.458,32.1446,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",18,180,"female",13.8,372,7.1554598776463,130.73627570127,"Fall",88922
+10,-109.441,32.1446,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",18,160,"male",13.9,373,7.20733527860206,129.221601083964,"Fall",88924
+11,-112.316667,28.716667,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",18,188,"female",22.1,59,5.74350753354418,146.270659735843,"Fall",88938
+9,-113.01694,31.94444,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",18,150,"male",21.7,477,7.30485517248009,83.2031843421755,"Fall",88951
+5,-113.01667,31.94,NA,1982,"Peromyscus eremicus","Peromyscus_eremicus",18,171,"male",21.5,268,7.46585662543255,94.2069712166641,"Spring",88983
+5,-110.1104,31.5032,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",18,172,"male",16.8,323,7.27254592576934,99.7051392147631,"Spring",88993
+3,-107.09806,33.47,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",18,192,"female",15.2,245,8.06252084798808,92.7473403570192,"Spring",89012
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",18.1,184,"female",20.1,451,8.78553822017649,69.4922098532991,"Fall",88195
+12,-110.80917,32.32222,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",18.1,180,"male",19.7,403,7.67297500677185,77.2156302007642,"Winter",88775
+2,-115.324722,33.62611,NA,1969,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18.2,197,"male",19.9,98,7.85005307837682,112.896581879983,"Winter",87675
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",18.2,185,"male",19.6,282,6.1588750940608,193.762565654585,"Winter",87832
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",18.2,181,"male",20.1,451,8.78553822017649,69.4922098532991,"Fall",88669
+1,-110.8237778,33.7851667,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",18.2,176,"male",19,206,8.29232485586229,88.1927868929352,"Winter",88679
+1,-112.0551111,34.2530278,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",18.2,180,"female",18.6,192,7.92706812705108,108.069206621682,"Winter",88687
+12,-111.037068,32.17062,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",18.2,179,"female",19.8,172,7.63996668245948,181.999581459857,"Winter",88718
+7,-113.13167,32.02361,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",18.2,191,"male",21.3,148,7.39194381291777,141.383786639453,"Summer",88826
+3,-110.8841,31.965,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",18.2,177,"female",18.1,346,7.49267824430806,126.186922097675,"Spring",88906
+10,-108.5021,33.03428,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",18.3,190,"male",14.9,313,7.31082116185357,140.337374607832,"Fall",87721
+10,-107.4632,33.0114,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",18.3,179,"male",16.7,178,7.75130487548563,116.201605655887,"Fall",87722
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",18.3,190,"female",20.1,451,8.78553822017649,69.4922098532991,"Fall",88191
+11,-110.483903,32.471037,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",18.3,182,"female",18.7,218,7.7730108046816,172.772653522927,"Fall",88253
+10,-111.103242,32.41416,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",18.3,161,"female",20.8,291,7.98365755019514,77.5910134352322,"Fall",88280
+11,-118.2936,34.2847,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18.3,169,"male",17.9,781,5.24077110911952,155.618980284152,"Fall",88591
+12,-111.05472,32.08333,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",18.3,207,"female",18.5,382,7.25448137360625,175.270958725451,"Winter",88705
+12,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",18.3,189,"male",19,226,7.34547892285184,215.204592445954,"Winter",88715
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",18.3,174,"female",21.4,106,8.0567118640675,158.780518537259,"Spring",88846
+11,-109.123732,31.913609,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",18.35,181,"male",14.9,150,7.61893076885504,123.629946357521,"Fall",88262
+9,-106.732365,34.331126,NA,1998,"Peromyscus eremicus","Peromyscus_eremicus",18.4,191,"female",13.7,272,8.6220778976258,121.045500584292,"Fall",87965
+1,-111.63556,31.80472,NA,1962,"Peromyscus eremicus","Peromyscus_eremicus",18.4,185,"male",17.9,375,7.14174136306893,123.288751975338,"Winter",88288
+12,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",18.4,184,"male",19,226,7.34547892285184,215.204592445954,"Winter",88716
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",18.5,185,"female",19.3,321,5.69558574421428,95.5441949142813,"Winter",87764
+4,-115.54264,33.48033,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18.5,184,"male",19.6,78,7.53747707167727,194.87758395278,"Spring",87876
+9,-115.39087,33.46253,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",18.5,183,"female",20.1,70,7.73604315114411,209.014039449193,"Fall",87924
+8,-100.6541667,26.3044444,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",18.5,207,"female",19.5,451,4.95210392998101,92.6757895460778,"Summer",88167
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",18.5,170,"female",20.1,451,8.78553822017649,69.4922098532991,"Fall",88193
+9,-112.5946389,34.3437222,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",18.5,175,"female",16.7,394,8.17184282469475,76.0424617674314,"Fall",88203
+12,-111.05472,32.08333,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",18.5,191,"male",18.5,382,7.25448137360625,175.270958725451,"Winter",88221
+3,-113.533333,31.316667,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",18.5,164,"male",20.8,89,6.28101395983454,209.705844149233,"Spring",88373
+9,-109.1285,31.9226,NA,1974,"Peromyscus eremicus","Peromyscus_eremicus",18.5,166,"male",14.7,314,7.3746648614145,117.340412846243,"Fall",88491
+5,-105.5428333,29.35765,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",18.5,165,"male",17.8,269,7.08127599356004,111.038064833577,"Spring",88613
+12,-111.64722,31.51806,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",18.5,176,"male",18.5,234,7.14220808739401,186.091290262207,"Winter",88748
+12,-111.103242,32.41416,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",18.5,189,"male",20.8,291,7.98365755019514,77.5910134352322,"Winter",88769
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",18.5,159,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88883
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",18.5,161,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88890
+9,-116.112329,34.428288,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",18.5,183,"male",18.6,105,7.33676400469622,117.676957894462,"Fall",89001
+3,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",18.6,198,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88807
+10,-108.558814,32.965829,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",18.7,156,"male",14,317,7.73402556985374,110.070897364749,"Fall",88226
+12,-110.989537,32.107219,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",18.7,160,"female",19.2,282,7.58503310953402,154.832176902086,"Winter",88237
+11,-111.140264,32.221489,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",18.7,171,"male",19.6,374,7.47885909302571,126.501225290509,"Fall",88483
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",18.7,172,"male",20.1,451,8.78553822017649,69.4922098532991,"Fall",88672
+1,-112.0551111,34.2530278,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",18.7,184,"female",18.6,192,7.92706812705108,108.069206621682,"Winter",88685
+4,-110.734346,32.134638,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",18.7,190,"female",20,234,7.62787452026904,106.934843086011,"Spring",89006
+11,-108.33443,31.673416,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",18.75,166,"male",17,269,8.2759738051931,128.096037201604,"Fall",88125
+12,-108.721391,27.016508,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",18.8,176,"male",22.2,709,4.25052581417519,125.106310422578,"Winter",88760
+3,-107.4671,33.0201,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",18.9,180,"male",15.5,264,8.2975900115636,143.896615362723,"Spring",87979
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",18.9,185,"male",19.7,162,7.69466560598177,183.521382732104,"Winter",88239
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",18.9,184,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88337
+12,-112.0503611,34.3911667,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",18.9,174,"male",17.2,357,8.44516627031898,67.5375074028169,"Winter",88694
+12,-110.87598,31.642015,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",18.9,178,"female",15.2,679,6.58857482175153,125.623202686293,"Winter",88708
+12,-111.19861,31.93889,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",18.9,191,"male",17.9,565,6.18749961738597,127.386824335968,"Winter",88745
+12,-111.19861,31.93889,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",18.9,173,"male",17.9,565,6.18749961738597,127.386824335968,"Winter",88752
+1,-110.95194,32.23111,NA,1962,"Peromyscus eremicus","Peromyscus_eremicus",18.9,166,"male",19.8,254,7.60324392491903,110.383243846957,"Winter",88779
+3,-103.427137,29.45917,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",19,178,"male",18.3,322,6.73626548818206,133.186353975996,"Spring",87619
+2,-115.10323,33.25854,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19,200,"male",23.2,63,7.93505838133227,186.346965528876,"Winter",87641
+2,-115.45073,33.43958,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19,172,"male",21.2,67,7.70495216589875,199.13889206543,"Winter",87652
+5,-118.2766462,34.3813192,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19,185,"male",14.2,365,6.65737230899745,160.358798936208,"Spring",87677
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",19,187,"male",16.8,248,7.14835751424865,136.791009604172,"Summer",87731
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",19,188,"male",19.3,321,5.69558574421428,95.5441949142813,"Winter",87787
+5,-115.8850174,34.6448479,NA,1994,"Peromyscus eremicus","Peromyscus_eremicus",19,199,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",87828
+12,-109.2115,32.0198,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",19,186,"male",14.1,364,7.0572281879623,72.4978212279922,"Winter",87845
+1,-115.55878,33.5164,NA,1990,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19,183,"female",19.4,93,8.18340430753645,145.068442700463,"Winter",87890
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19,193,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",87902
+2,-115.46593,33.45233,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19,203,"male",20.5,71,7.7068397406381,197.938849454332,"Winter",87912
+4,-115.54264,33.48033,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19,181,"female",19.6,78,7.53747707167727,194.87758395278,"Spring",87929
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",19,190,"female",19.3,321,5.69558574421428,95.5441949142813,"Winter",88015
+5,-115.88557,33.63197,NA,1988,"Peromyscus eremicus","Peromyscus_eremicus",19,NA,NA,20.8,143,7.65464307502712,208.38051485766,"Spring",88059
+11,-108.33324,31.67034,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",19,189,"female",17,265,8.29648976521049,127.842063072856,"Fall",88124
+3,-112.0333333,36.9833333,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",19,178,"male",12.1,233,8.01707930645947,100.453394161347,"Spring",88146
+3,-103.6011111,32.1066667,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",19,185,"female",17.5,245,8.79942749515127,73.5867954894766,"Spring",88154
+3,-103.6011111,32.1066667,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",19,181,"male",17.5,245,8.79942749515127,73.5867954894766,"Spring",88156
+3,-103.6011111,32.1066667,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",19,187,"female",17.5,245,8.79942749515127,73.5867954894766,"Spring",88157
+1,-108.4938889,29.6072222,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",19,173,"female",13.4,526,5.91554193321596,116.326763473923,"Winter",88171
+5,-107.15,26.9138889,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",19,185,"female",14.5,683,4.17143969043172,121.468655816211,"Spring",88177
+12,-105.134,27.078,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",19,182,"male",19.8,361,5.55326821599568,137.985668975717,"Winter",88184
+12,-103.492,25.349,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",19,173,"female",22.2,254,4.35837751295761,118.766964462124,"Winter",88186
+1,-111.05472,32.08333,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",19,182,"male",18.5,382,7.25448137360625,175.270958725451,"Winter",88241
+11,-111.102931,32.371372,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",19,170,"male",20.9,293,8.09223346328085,80.473733928047,"Fall",88281
+12,-111.102931,32.371372,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",19,175,"female",20.9,293,8.09223346328085,80.473733928047,"Winter",88282
+11,-112.215999,34.284161,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",19,153,"male",16.6,423,7.95686762641194,131.137936860747,"Fall",88423
+3,-117.170738,32.333259,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",19,181,"male",16,227,3.2653715738261,137.117867157531,"Spring",88435
+9,-109.1285,31.9226,NA,1974,"Peromyscus eremicus","Peromyscus_eremicus",19,172,"female",14.7,314,7.3746648614145,117.340412846243,"Fall",88455
+2,-109.2818,33.1283,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",19,186,"male",16,581,7.90712662824818,76.6021068997201,"Winter",88505
+10,-108.7730722222,31.6052138889,"adult",2007,"Peromyscus eremicus","Peromyscus_eremicus",19,178,"male",14.2,457,7.37873172152111,89.7712180497236,"Fall",88603
+10,-108.7730722222,31.6052138889,"adult",2007,"Peromyscus eremicus","Peromyscus_eremicus",19,172,"female",14.2,457,7.37873172152111,89.7712180497236,"Fall",88604
+5,-104.402,26.94055,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",19,174,"male",18.6,315,6.1551345897699,89.8731325975358,"Spring",88608
+5,-105.5428333,29.35765,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",19,182,"female",17.8,269,7.08127599356004,111.038064833577,"Spring",88614
+4,-103.23,29.5216667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",19,206,"male",19.4,325,6.36574045301499,144.066485027687,"Spring",88629
+7,-107.2825,32.7405556,NA,2003,"Peromyscus eremicus","Peromyscus_eremicus",19,186,"male",17.3,162,8.17395623954891,105.68100525723,"Summer",88635
+7,-106.9719444,29.9894444,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",19,178,"male",17.4,344,6.96092992742676,94.2832900383497,"Summer",88640
+8,-100.6541667,26.3044444,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",19,194,"female",19.5,451,4.95210392998101,92.6757895460778,"Summer",88644
+1,-110.9555556,30.2608333,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",19,187,"male",20.9,278,5.99506741691312,159.874769253244,"Winter",88646
+4,-106.274,29.654,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",19,178,"female",17.8,528,6.26120208228033,157.813644867566,"Spring",88658
+4,-106.274,29.654,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",19,169,"female",17.8,528,6.26120208228033,157.813644867566,"Spring",88659
+8,-103.975,27.768,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",19,200,"male",20,290,5.79625662898831,117.815459246378,"Summer",88663
+12,-105.244,27.037,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",19,164,"male",19.4,398,5.45749415246983,140.321546396657,"Winter",88665
+10,-110.828788,32.303729,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",19,175,"male",19.9,374,7.14131704175841,76.9013888960434,"Fall",88766
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",19,171,"male",21.4,106,8.0567118640675,158.780518537259,"Spring",88847
+3,-113.633333,31.333333,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",19,182,"male",20.4,73,5.8509258526607,197.500820610217,"Spring",88852
+12,-114.010166,28.451159,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",19,169,"male",21.1,141,4.64669155682217,272.832570608795,"Winter",88865
+3,-114.616667,30.160219,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",19,182,"male",19.6,33,5.09524436622182,139.703419623664,"Spring",88915
+9,-110.6977,31.8537,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",19,185,"female",15.6,405,6.95465834727147,128.803540729738,"Fall",88918
+11,-110.8671,31.8191,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",19,176,"male",17.1,338,7.1298136318029,133.968608734134,"Fall",88930
+9,-113.01694,31.94444,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",19,174,"male",23,203,7.10893590468853,79.6141697175811,"Fall",88959
+11,-111.4827,32.381,NA,1985,"Peromyscus eremicus","Peromyscus_eremicus",19,188,"male",20.4,331,7.84304362689214,76.9595852606256,"Fall",88976
+4,-113.61913,31.389935,NA,1974,"Peromyscus eremicus","Peromyscus_eremicus",19,195,"male",21.8,72,6.91657539187676,105.945019017928,"Spring",88980
+9,-111.11389,33.64778,NA,1993,"Peromyscus eremicus","Peromyscus_eremicus",19,182,"male",18.8,529,7.78518406391852,115.351903689728,"Fall",88984
+9,-106.720344,34.336205,NA,1998,"Peromyscus eremicus","Peromyscus_eremicus",19.2,187,"female",13.6,279,8.6220778976258,122.137388633215,"Fall",87719
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",19.2,191,"male",19.6,282,6.1588750940608,193.762565654585,"Winter",87833
+1,-110.8237778,33.7851667,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",19.2,182,"male",19,206,8.29232485586229,88.1927868929352,"Winter",88202
+11,-110.69583,32.33556,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",19.2,181,"female",15.5,572,7.6994096585978,98.1131791585934,"Fall",88301
+9,-109.7836,35.0746,NA,1986,"Peromyscus eremicus","Peromyscus_eremicus",19.2,171,"female",12.5,334,7.72549890514091,63.9009416620556,"Fall",88501
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",19.2,192,"female",20.1,451,8.78553822017649,69.4922098532991,"Fall",88671
+12,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",19.2,210,"female",19,226,7.34547892285184,215.204592445954,"Winter",88713
+4,-110.734346,32.134638,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",19.2,201,"male",20,234,7.62787452026904,106.934843086011,"Spring",89007
+2,-110.4106,31.8569,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",19.3,201,"male",13.2,488,6.58015266471144,86.8600861582297,"Winter",88044
+3,-110.8671,31.8337,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",19.3,178,"male",17.2,438,7.11176468745254,128.395083164601,"Spring",88430
+1,-112.7796,34.325,NA,1980,"Peromyscus eremicus","Peromyscus_eremicus",19.3,158,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",88487
+10,-110.4848,31.5901,NA,1989,"Peromyscus eremicus","Peromyscus_eremicus",19.3,155,"female",16.5,299,6.84815281442353,121.194059260345,"Fall",88496
+12,-111.102931,32.371372,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",19.3,175,"male",20.9,293,8.09223346328085,80.473733928047,"Winter",88770
+3,-113.633333,31.333333,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",19.3,192,"female",20.4,73,5.8509258526607,197.500820610217,"Spring",88850
+3,-107.4657,33.0204,"adult",2013,"Peromyscus eremicus","Peromyscus_eremicus",19.4,196,"female",15.6,264,8.2975900115636,143.896615362723,"Spring",87734
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",19.4,186,"male",19.6,282,6.1588750940608,193.762565654585,"Winter",88036
+9,-112.5946389,34.3437222,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",19.4,170,"male",16.7,394,8.17184282469475,76.0424617674314,"Fall",88204
+11,-110.51829,32.398475,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",19.4,182,"male",17.8,250,7.69543351408463,179.399239888934,"Fall",88251
+1,-110.8237778,33.7851667,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",19.4,194,"female",19,206,8.29232485586229,88.1927868929352,"Winter",88676
+12,-111.037068,32.17062,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",19.4,161,"male",19.8,172,7.63996668245948,181.999581459857,"Winter",88717
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",19.4,178,"male",19.7,162,7.69466560598177,183.521382732104,"Winter",88727
+12,-111.64722,31.51806,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",19.4,192,"female",18.5,234,7.14220808739401,186.091290262207,"Winter",88747
+9,-115.25477,33.23941,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19.5,176,"male",22.4,71,7.65590977908273,235.459934337961,"Fall",87624
+9,-115.49025,33.33764,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19.5,195,"male",23.2,42,7.7343781948264,197.385508487931,"Fall",87625
+5,-116.1723,33.151094,NA,1977,"Peromyscus eremicus eremicus","Peromyscus_eremicus",19.5,195,"male",21.9,151,7.00919309755323,194.88128961477,"Spring",87695
+7,-106.978427,32.072871,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",19.5,166,"male",16,200,7.98462537782722,101.352765116796,"Summer",87778
+2,-115.46584,33.4524,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19.5,180,"male",20.5,71,7.7068397406381,197.938849454332,"Winter",87905
+10,-107.4637,33.02097098,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",19.5,182,"male",16.5,185,7.65456884758536,117.033524000984,"Fall",87969
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",19.5,175,"male",19.3,321,5.69558574421428,95.5441949142813,"Winter",88014
+12,-109.2115,32.0198,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",19.5,182,"male",14.1,364,7.0572281879623,72.4978212279922,"Winter",88047
+9,-113.976915,35.127874,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",19.5,181,"male",16,281,7.76987188381566,91.7607601633258,"Fall",88225
+12,-110.787508,32.596318,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",19.5,190,"male",16.6,280,7.39383445032331,138.036427997481,"Winter",88235
+6,-111.05472,32.08333,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",19.5,205,"male",18.5,382,7.25448137360625,175.270958725451,"Summer",88247
+11,-109.03056,31.980416,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",19.5,184,"male",16.1,118,8.19722791280964,129.714632861633,"Fall",88264
+3,-113.633333,31.333333,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",19.5,180,"male",20.4,73,5.8509258526607,197.500820610217,"Spring",88370
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",19.5,167,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88406
+10,-111.1542,33.3015,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",19.5,160,"female",20,587,7.87641281218035,88.4773758543255,"Fall",88463
+9,-109.1285,31.9226,NA,1974,"Peromyscus eremicus","Peromyscus_eremicus",19.5,171,"male",14.7,314,7.3746648614145,117.340412846243,"Fall",88493
+9,-110.5019,31.5901,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",19.5,175,"male",15.4,386,7.12496677291561,85.9928927033274,"Fall",88495
+2,-109.2991,33.0848,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",19.5,193,"male",15.7,576,7.87417624359218,74.9091769516283,"Winter",88500
+10,-107.01583,32.10639,NA,2000,"Peromyscus eremicus","Peromyscus_eremicus",19.5,197,"female",17.1,195,8.21400780632842,107.520655725523,"Fall",88524
+12,-110.80917,32.32222,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",19.5,185,"male",19.7,403,7.67297500677185,77.2156302007642,"Winter",88774
+11,-110.80917,32.32222,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",19.5,168,"male",19.7,403,7.67297500677185,77.2156302007642,"Fall",88776
+9,-113.01694,31.94444,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",19.5,175,"male",23,203,7.10893590468853,79.6141697175811,"Fall",88960
+10,-116.112329,34.428288,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",19.5,190,"female",18.6,105,7.33676400469622,117.676957894462,"Fall",88999
+1,-112.0551111,34.2530278,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",19.6,181,"male",18.6,192,7.92706812705108,108.069206621682,"Winter",88210
+12,-109.3016944,33.1023056,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",19.6,186,"female",17.2,242,8.59846268853105,92.9328729067083,"Winter",88682
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",19.6,182,"female",19.7,162,7.69466560598177,183.521382732104,"Winter",88722
+11,-114.63389,32.870044,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",19.6,188,"male",22.5,53,7.64406583071093,202.189960481559,"Fall",88824
+5,-118.5849813,34.3234131,NA,1974,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",19.7,154,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",87643
+9,-106.732365,34.331126,NA,1998,"Peromyscus eremicus","Peromyscus_eremicus",19.7,184,"male",13.7,272,8.6220778976258,121.045500584292,"Fall",87966
+9,-111.15667,33.27944,NA,1966,"Peromyscus eremicus","Peromyscus_eremicus",19.7,196,"male",20.5,371,8.4095724677839,81.6998482081682,"Fall",88314
+3,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",19.7,158,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88319
+11,-111.3809,32.3853,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",19.7,200,"male",21.5,211,7.28551905349151,67.3992365783321,"Fall",88466
+3,-106.988704,32.058354,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",19.8,163,"female",16,200,7.97568273889547,101.866222432793,"Spring",87780
+10,-108.8703,33.2705,NA,2009,"Peromyscus eremicus","Peromyscus_eremicus",19.8,198,"undetermined",14.9,350,7.63881634492643,64.868870156639,"Fall",87962
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",19.8,203,"female",19.6,282,6.1588750940608,193.762565654585,"Winter",88037
+12,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",19.8,184,"female",19,226,7.34547892285184,215.204592445954,"Winter",88231
+1,-111.18,32.27,NA,1971,"Peromyscus eremicus eremicus","Peromyscus_eremicus",19.8,158,"male",18.5,361,7.31610924914702,149.260804897963,"Winter",88567
+12,-112.739721,32.183009,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",19.8,193,"male",21.6,220,7.1464496377042,152.60916330374,"Winter",88733
+3,-106.992129,32.051097,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",19.9,179,"female",16,200,7.97568273889547,102.184177562309,"Spring",87782
+2,-114.127525,35.127874,NA,1960,"Peromyscus eremicus","Peromyscus_eremicus",19.9,174,"male",18.1,196,9.06947511093552,69.6274371805387,"Winter",88227
+12,-111.037068,32.17062,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",19.9,198,"female",19.8,172,7.63996668245948,181.999581459857,"Winter",88232
+3,-103.403043,29.42607,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",20,198,"female",18.5,313,6.8455471038855,129.965254447499,"Spring",87623
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",20,185,"female",14,153,8.15558927139151,106.868059852465,"Summer",87637
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",20,170,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",87664
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",20,177,"female",14,153,8.15558927139151,106.868059852465,"Summer",87669
+7,-106.94361,32.07278,NA,1985,"Peromyscus eremicus","Peromyscus_eremicus",20,NA,"male",15.9,298,8.17679643870385,99.2627470861979,"Summer",87693
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",20,180,"female",14.4,275,9.41882383444145,55.3698371789327,"Summer",87697
+3,-106.885,34.358,NA,2000,"Peromyscus eremicus","Peromyscus_eremicus",20,185,"male",14.9,186,8.97009763130544,87.4392198582918,"Spring",87715
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",20,197,"female",16.8,248,7.14835751424865,136.791009604172,"Summer",87728
+12,-104.646515,21.51611,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",20,146,"male",22.8,875,2.24747332879311,139.510523073485,"Winter",87859
+3,-103.393087,29.452229,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",20,185,"female",18.5,307,6.88995755803438,131.025556782455,"Spring",87861
+3,-103.427137,29.45917,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",20,194,"female",18.3,322,6.73626548818206,133.186353975996,"Spring",87864
+3,-103.427137,29.45917,NA,1993,"Peromyscus eremicus eremicus","Peromyscus_eremicus",20,190,"female",18.3,322,6.73626548818206,133.186353975996,"Spring",87865
+9,-115.51173,33.33764,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",20,202,"female",23.2,41,7.7343781948264,199.544936839254,"Fall",87899
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",20,187,"female",14,153,8.15558927139151,106.868059852465,"Summer",87904
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",20,163,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",87906
+6,-111.761934,36.648082,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",20,170,"female",14.4,275,9.41882383444145,55.3698371789327,"Summer",87939
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",20,187,"male",16.8,248,7.14835751424865,136.791009604172,"Summer",87971
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",20,194,"female",16.8,248,7.14835751424865,136.791009604172,"Summer",87972
+10,-108.7730722222,31.6052138889,"adult",2007,"Peromyscus eremicus","Peromyscus_eremicus",20,174,"male",14.2,457,7.37873172152111,89.7712180497236,"Fall",88122
+3,-107.0075,32.0936111,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",20,190,"male",17.1,190,8.58379375052285,103.247690631561,"Spring",88153
+8,-100.6663889,26.2147222,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",20,183,"female",21,392,5.3132481647864,94.2268858486869,"Summer",88165
+8,-104.182,28.813,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",20,184,"male",18.9,298,6.34426488804629,119.344198657871,"Summer",88180
+10,-110.828788,32.303729,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",20,200,"female",19.9,374,7.14131704175841,76.9013888960434,"Fall",88269
+4,-113.51358,32.095482,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",20,190,"male",21.3,101,8.01152106013394,155.734039018742,"Spring",88359
+12,-114.4,28.903789,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",20,170,"female",20.4,123,4.70509073109954,271.235622996111,"Winter",88393
+3,-113.5213,33.1389,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",20,166,"male",21.2,111,8.61261847347814,148.382607584631,"Spring",88409
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",20,190,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88415
+12,-113.2507,34.209,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",20,185,"female",19,272,8.36085304477741,123.420741403151,"Winter",88451
+2,-109.2818,33.1428,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",20,185,"male",16,575,7.8802784137864,77.8196441919301,"Winter",88503
+5,-110.1104,31.5032,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",20,183,"female",16.8,323,7.27254592576934,99.7051392147631,"Spring",88507
+9,-111.388,32.6391,NA,1991,"Peromyscus eremicus","Peromyscus_eremicus",20,182,"male",20.9,251,7.83459693225562,77.0207777835713,"Fall",88508
+5,-110.1104,31.5032,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",20,125,"male",16.8,323,7.27254592576934,99.7051392147631,"Spring",88510
+5,-101.70415,26.59615,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",20,201,"male",17.9,385,5.75989267576781,81.1187751498886,"Spring",88610
+3,-107.0075,32.0936111,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",20,183,"female",17.1,190,8.58379375052285,103.247690631561,"Spring",88631
+8,-100.3890278,25.2736944,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",20,201,"female",10,665,2.49253430723175,90.0201660371333,"Summer",88642
+12,-105.244,27.037,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",20,183,"male",19.4,398,5.45749415246983,140.321546396657,"Winter",88664
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",20,195,"male",20.1,451,8.78553822017649,69.4922098532991,"Fall",88670
+11,-110.926926,32.337179,NA,1951,"Peromyscus eremicus","Peromyscus_eremicus",20,172,"male",19.3,402,7.69668858350883,75.3987652094878,"Fall",88697
+12,-110.733381,32.310021,NA,1963,"Peromyscus eremicus","Peromyscus_eremicus",20,185,"male",18.5,379,7.36422042202991,87.5125353816243,"Winter",88701
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",20,179,"male",19.7,162,7.69466560598177,183.521382732104,"Winter",88730
+11,-109.077568,31.913594,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",20,145,"male",15,285,7.0404190216208,105.554387561467,"Fall",88820
+9,-110.0717,32.2745,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",20,176,"female",13.9,362,7.26316464126076,103.416450816034,"Fall",88908
+9,-109.1264,33.0414,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",20,171,"male",13.9,327,7.86700050652706,92.8153417123526,"Fall",88910
+10,-109.441,32.159,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",20,185,"female",14.3,360,7.29285141890206,128.998917519602,"Fall",88920
+11,-109.458,32.1446,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",20,181,"male",13.8,372,7.1554598776463,130.73627570127,"Fall",88928
+12,-113.7133,35.1455,NA,1978,"Peromyscus eremicus","Peromyscus_eremicus",20,184,"female",15.2,498,8.47750588679277,70.0756397306067,"Winter",88949
+9,-109.2595,31.3439,NA,1989,"Peromyscus eremicus","Peromyscus_eremicus",20,170,"male",17.9,218,7.32113482675433,130.551218565996,"Fall",88971
+9,-109.2595,31.3439,NA,1989,"Peromyscus eremicus","Peromyscus_eremicus",20,190,"female",17.9,218,7.32113482675433,130.551218565996,"Fall",88973
+4,-110.734346,32.134638,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",20,192,"male",20,234,7.62787452026904,106.934843086011,"Spring",89005
+5,-118.5849813,34.3234131,NA,1974,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",20.1,165,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",87667
+3,-107.4638,33.0175,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",20.1,195,"female",15.6,263,8.2975900115636,143.896615362723,"Spring",87735
+9,-111.388,32.6391,NA,1991,"Peromyscus eremicus","Peromyscus_eremicus",20.1,176,"male",20.9,251,7.83459693225562,77.0207777835713,"Fall",88509
+9,-111.11389,33.64778,NA,1993,"Peromyscus eremicus","Peromyscus_eremicus",20.1,201,"female",18.8,529,7.78518406391852,115.351903689728,"Fall",88985
+2,-110.4106,31.8569,"unknown",1952,"Peromyscus eremicus","Peromyscus_eremicus",20.2,195,"male",13.1,483,7.26812780695151,83.3830558715271,"Winter",87847
+2,-110.4106,31.8569,"unknown",1952,"Peromyscus eremicus","Peromyscus_eremicus",20.2,200,"male",13.1,483,7.26812780695151,83.3830558715271,"Winter",88043
+3,-111.147639,33.293879,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",20.2,181,"female",20,491,7.82798011796611,133.937801276043,"Spring",88317
+12,-112.0503611,34.3911667,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",20.2,182,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",88691
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",20.2,185,"male",19.7,162,7.69466560598177,183.521382732104,"Winter",88721
+3,-113.41025,37.00755,NA,1978,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",20.3,180,"male",16,422,8.82418766112711,87.6136009050731,"Spring",87672
+1,-109.629926,32.175279,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",20.3,160,"female",15.4,352,7.02875048165272,113.042064510491,"Winter",88428
+1,-112.02528,34.77083,NA,2003,"Peromyscus eremicus","Peromyscus_eremicus",20.3,182,"male",18.2,312,8.32624547058058,92.2202382925039,"Winter",88519
+1,-110.8237778,33.7851667,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",20.3,181,"female",19,206,8.29232485586229,88.1927868929352,"Winter",88680
+11,-110.483903,32.471037,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",20.3,174,"male",18.7,218,7.7730108046816,172.772653522927,"Fall",88737
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",20.4,103,"female",19.6,282,6.1588750940608,193.762565654585,"Winter",88041
+12,-109.3016944,33.1023056,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",20.4,193,"male",17.2,242,8.59846268853105,92.9328729067083,"Winter",88681
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",20.4,195,"male",21.4,106,8.0567118640675,158.780518537259,"Spring",88849
+10,-111.1542,33.3015,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",20.4,176,"male",20,587,7.87641281218035,88.4773758543255,"Fall",88965
+4,-115.54264,33.48033,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",20.5,179,"female",19.6,78,7.53747707167727,194.87758395278,"Spring",87666
+3,-110.34734,31.5528,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",20.5,178,"male",16.8,456,7.10247502742189,99.3050645479642,"Spring",87996
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",20.5,178,"male",19.3,321,5.69558574421428,95.5441949142813,"Winter",88016
+11,-111.1571,32.3154,NA,1951,"Peromyscus eremicus","Peromyscus_eremicus",20.5,184,"male",20,367,7.73173311552442,88.8644990230128,"Fall",88258
+10,-109.12874,31.923872,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",20.5,158,"male",14.4,307,7.83552516079519,133.223190325333,"Fall",88299
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",20.5,165,"male",21.4,106,8.0567118640675,158.780518537259,"Spring",88363
+8,-108.933333,26.900474,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",20.5,175,"male",24,690,4.31242039891401,141.237989891613,"Summer",88424
+12,-111.05472,32.08333,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",20.5,209,"male",19,428,7.09136799214369,143.109717701316,"Winter",88703
+12,-114.4,28.903789,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",20.5,179,"male",20.4,123,4.70509073109954,271.235622996111,"Winter",88868
+12,-113.2507,34.209,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",20.5,179,"female",19,272,8.36085304477741,123.420741403151,"Winter",88932
+6,-109.2991,33.0848,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",20.5,198,"female",15.7,576,7.87417624359218,74.9091769516283,"Summer",88989
+11,-109.123732,31.928123,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",20.6,185,"male",14.6,256,7.18329290574295,150.031069225526,"Fall",88753
+11,-111.102931,32.371372,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",20.6,176,"male",20.9,293,8.09223346328085,80.473733928047,"Fall",88772
+10,-110.60806,32.15361,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",20.69,183,"male",18,687,7.33440935631906,76.0764729370487,"Fall",88492
+3,-111.164998,33.293871,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",20.7,188,"male",20.1,488,7.8312263446159,134.14331757452,"Spring",88316
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",20.7,180,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88331
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",20.7,163,"male",19.7,162,7.69466560598177,183.521382732104,"Winter",88712
+11,-109.123732,31.928123,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",20.7,172,"male",14.6,256,7.18329290574295,150.031069225526,"Fall",88755
+2,-113.5812,33.9642,NA,1980,"Peromyscus eremicus","Peromyscus_eremicus",20.8,184,"female",19.8,302,7.31765714287066,138.455612380359,"Winter",88460
+10,-112.254086,33.725656,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",20.8,182,"male",21.2,257,8.20243866176395,133.37348003356,"Fall",88711
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",20.8,175,"male",19.7,162,7.69466560598177,183.521382732104,"Winter",88723
+11,-109.123732,31.913609,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",20.8,175,"male",14.9,150,7.61893076885504,123.629946357521,"Fall",88759
+12,-111.0547,32.0833,"unknown",1950,"Peromyscus eremicus","Peromyscus_eremicus",20.9,200,"male",19.6,282,6.1588750940608,193.762565654585,"Winter",88040
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",20.9,191,"male",20.1,451,8.78553822017649,69.4922098532991,"Fall",88194
+1,-110.8237778,33.7851667,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",20.9,194,"male",19,206,8.29232485586229,88.1927868929352,"Winter",88678
+4,-117.8134912,36.7526083,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",21,180,"female",20.8,66,8.78132919461754,108.122422753232,"Spring",87633
+10,-107.466555,33.02082203,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",21,180,"female",16.5,185,7.65456884758536,117.033524000984,"Fall",87726
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",21,179,"male",19.3,321,5.69558574421428,95.5441949142813,"Winter",87786
+5,-115.8850174,34.6448479,NA,1994,"Peromyscus eremicus","Peromyscus_eremicus",21,193,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",87829
+7,-117.5229568,33.347683,NA,1995,"Peromyscus eremicus","Peromyscus_eremicus",21,166,"male",16.4,449,2.92077200255499,170.607944443014,"Summer",87830
+12,-104.646515,21.51611,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",21,155,"female",22.8,875,2.24747332879311,139.510523073485,"Winter",87856
+12,-104.646515,21.51611,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",21,156,"male",22.8,875,2.24747332879311,139.510523073485,"Winter",87858
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",21,204,"female",15.1,408,7.16910458886329,126.610418905898,"Fall",87959
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",21,192,"male",16.8,248,7.14835751424865,136.791009604172,"Summer",87974
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",21,197,"female",16.8,248,7.14835751424865,136.791009604172,"Summer",87975
+12,-104.646515,21.51611,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",21,160,"male",22.8,875,2.24747332879311,139.510523073485,"Winter",88057
+5,-104.402,26.94055,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",21,172,"male",18.6,315,6.1551345897699,89.8731325975358,"Spring",88137
+3,-107.0075,32.0936111,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",21,186,"male",17.1,190,8.58379375052285,103.247690631561,"Spring",88151
+1,-108.4938889,29.6072222,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",21,178,"female",13.4,526,5.91554193321596,116.326763473923,"Winter",88172
+9,-113.976915,35.127874,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",21,187,"female",16,281,7.76987188381566,91.7607601633258,"Fall",88224
+11,-109.123732,31.928123,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",21,165,"male",14.6,256,7.18329290574295,150.031069225526,"Fall",88260
+3,-113.533333,31.316667,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",21,180,"male",20.8,89,6.28101395983454,209.705844149233,"Spring",88372
+12,-114.010166,28.451159,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",21,175,"male",21.1,141,4.64669155682217,272.832570608795,"Winter",88376
+7,-110.0477,32.5496,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",21,174,"female",15.2,325,7.72626374874373,106.682175670081,"Summer",88432
+10,-109.441,32.159,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",21,185,"male",14.3,360,7.29285141890206,128.998917519602,"Fall",88437
+9,-111.1541,33.6449,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",21,187,"male",17.6,466,8.20701843029194,114.326081507144,"Fall",88448
+6,-110.2253,31.8392,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",21,177,"male",16.5,352,7.62584818928758,94.6801528173389,"Summer",88488
+6,-109.2818,33.1283,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",21,189,"male",16,581,7.90712662824818,76.6021068997201,"Summer",88504
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",21,191,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",88570
+10,-117.69,34.12,NA,2000,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",21,161,"male",16.1,377,4.13275900213126,157.44419465654,"Fall",88584
+10,-108.7730722222,31.6052138889,"adult",2007,"Peromyscus eremicus","Peromyscus_eremicus",21,184,"female",14.2,457,7.37873172152111,89.7712180497236,"Fall",88605
+5,-99.3555333,23.5902333,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",21,170,"male",21.5,404,4.31258728501918,83.020662430441,"Spring",88612
+8,-100.3758333,25.3308333,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",21,182,"male",8.1,701,2.34843597212092,90.5216378499486,"Summer",88643
+5,-108.5055556,29.5880556,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",21,194,"male",13,556,5.83858637934654,115.862877364035,"Spring",88651
+4,-103.833,25.06,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",21,171,"male",22.6,296,4.35030476118071,128.071885742186,"Spring",88657
+12,-103.532,25.316,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",21,189,"female",22.7,249,4.44388411871935,119.584466435317,"Winter",88666
+12,-109.3016944,33.1023056,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",21,190,"female",17.2,242,8.59846268853105,92.9328729067083,"Winter",88674
+12,-109.039102,32.074755,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",21,190,"male",16.2,114,8.28461059599501,129.756338334706,"Winter",88742
+5,-109.255803,31.344116,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",21,175,"female",16.6,256,7.93829899342995,150.506173114611,"Spring",88786
+11,-110.9861,32.0672,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",21,183,"male",19.5,211,7.44309726993387,94.2266639171201,"Fall",88833
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",21,180,"male",21.4,106,8.0567118640675,158.780518537259,"Spring",88848
+3,-113.5213,33.1389,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",21,190,"male",21.2,111,8.61261847347814,148.382607584631,"Spring",88887
+11,-112.215999,34.284161,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",21,160,"female",16.6,423,7.95686762641194,131.137936860747,"Fall",88901
+3,-114.616667,30.160219,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",21,200,"female",19.6,33,5.09524436622182,139.703419623664,"Spring",88913
+9,-110.5019,31.5901,NA,1989,"Peromyscus eremicus","Peromyscus_eremicus",21,175,"male",16.5,293,6.85755500204414,122.22554714715,"Fall",88972
+9,-109.3464,32.0143,NA,1985,"Peromyscus eremicus","Peromyscus_eremicus",21,181,"male",13.2,673,6.94660915755873,64.376834238405,"Fall",88977
+5,-110.1104,31.5032,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",21,194,"male",16.8,323,7.27254592576934,99.7051392147631,"Spring",88991
+10,-110.4742,32.1591,NA,1992,"Peromyscus eremicus","Peromyscus_eremicus",21,194,"female",17,629,7.29858329964235,106.107371615918,"Fall",88998
+7,-113.79306,32.18583,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",21,192,"female",21.6,149,7.67254056932114,105.994854077493,"Summer",89009
+11,-110.986,32.0977,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",21.1,195,"female",19.6,208,7.45562122688565,91.2262957979918,"Fall",88357
+9,-110.5359,31.5901,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",21.1,161,"female",15,397,7.11687601707549,85.226025240928,"Fall",88963
+11,-110.51829,32.398475,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",21.2,180,"male",17.8,250,7.69543351408463,179.399239888934,"Fall",88257
+11,-109.03056,31.980416,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",21.2,199,"male",16.1,118,8.19722791280964,129.714632861633,"Fall",88276
+1,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",21.2,192,"male",20.2,484,7.80541284602997,134.572624661717,"Winter",88320
+11,-110.51829,32.398475,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",21.2,185,"male",17.8,250,7.69543351408463,179.399239888934,"Fall",88749
+9,-109.911,32.5785,NA,1982,"Peromyscus eremicus","Peromyscus_eremicus",21.2,191,"male",15.7,483,6.99941014830839,73.5803834570179,"Fall",88987
+9,-113.01694,31.94444,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",21.22,185,"female",23,203,7.10893590468853,79.6141697175811,"Fall",88470
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",21.3,183,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88339
+9,-111.4146,32.4295,NA,1980,"Peromyscus eremicus","Peromyscus_eremicus",21.3,180,"female",21.1,276,7.20397091677201,93.7458879639142,"Fall",88456
+10,-110.739825,32.63648,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",21.3,177,"male",18.3,533,6.79516316391611,103.783170625196,"Fall",88746
+10,-109.065599,31.913588,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",21.3,165,"male",16.2,358,7.8688636505861,102.227535222349,"Fall",88767
+10,-109.187849,32.007947,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",21.3,189,"female",14.4,315,7.83701396443747,135.186869147027,"Fall",88791
+9,-110.712,32.2881,NA,1986,"Peromyscus eremicus","Peromyscus_eremicus",21.3,170,"male",19.9,414,6.68206554891525,80.7017019524365,"Fall",88961
+12,-111.0031,32.2138,NA,1984,"Peromyscus eremicus","Peromyscus_eremicus",21.3,185,"female",19.7,465,7.37475217868165,129.473147058722,"Winter",88968
+11,-110.7145,32.028,NA,1992,"Peromyscus eremicus","Peromyscus_eremicus",21.4,186,"female",18.6,552,7.48033279927296,99.6966920465024,"Fall",88512
+11,-110.51829,32.398475,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",21.4,184,"female",17.8,250,7.69543351408463,179.399239888934,"Fall",88754
+6,-110.926926,32.337179,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",21.4,193,"male",19.5,381,7.37637506441403,130.539434438759,"Summer",88778
+11,-110.7145,32.028,NA,1992,"Peromyscus eremicus","Peromyscus_eremicus",21.4,181,"male",18.6,552,7.48033279927296,99.6966920465024,"Fall",88996
+2,-115.43546,33.4269,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",21.5,193,"male",21.3,67,7.70931648111949,201.394946571559,"Winter",87635
+2,-115.43546,33.4269,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",21.5,202,"female",21.3,67,7.70931648111949,201.394946571559,"Winter",87639
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",21.5,176,"male",15.1,408,7.16910458886329,126.610418905898,"Fall",87709
+10,-108.8703,33.2705,"adult",2009,"Peromyscus eremicus","Peromyscus_eremicus",21.5,203,"female",14.9,350,7.63881634492643,64.868870156639,"Fall",87712
+2,-110.4106,31.8569,"unknown",1952,"Peromyscus eremicus","Peromyscus_eremicus",21.5,183,"female",13.1,483,7.26812780695151,83.3830558715271,"Winter",87842
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",21.5,202,"female",16.8,248,7.14835751424865,136.791009604172,"Summer",87970
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",21.5,180,"male",16.8,248,7.14835751424865,136.791009604172,"Summer",87976
+10,-108.7730722222,31.6052138889,NA,2008,"Peromyscus eremicus","Peromyscus_eremicus",21.5,179,"male",14,418,6.69624499026857,138.459884160951,"Fall",88120
+7,-102.295,24.6447222,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",21.5,186,"male",19.8,481,3.44299904505395,91.3647713576439,"Summer",88162
+1,-110.8237778,33.7851667,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",21.5,190,"male",19,206,8.29232485586229,88.1927868929352,"Winter",88199
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",21.5,175,"male",19.7,162,7.69466560598177,183.521382732104,"Winter",88234
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",21.5,189,"male",21.4,106,8.0567118640675,158.780518537259,"Spring",88361
+11,-110.7145,32.028,NA,1992,"Peromyscus eremicus","Peromyscus_eremicus",21.5,118,"female",18.6,552,7.48033279927296,99.6966920465024,"Fall",88514
+12,-111.05472,32.08333,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",21.5,186,"female",18.5,382,7.25448137360625,175.270958725451,"Winter",88704
+10,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",21.5,185,"male",19,226,7.34547892285184,215.204592445954,"Fall",88738
+3,-111.164998,33.293871,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",21.5,187,"male",20.1,488,7.8312263446159,134.14331757452,"Spring",88803
+1,-112.0551111,34.2530278,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",21.6,190,"male",18.6,192,7.92706812705108,108.069206621682,"Winter",88207
+5,-113.436958,32.07144,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",21.6,190,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",88352
+11,-110.7145,32.028,NA,1992,"Peromyscus eremicus","Peromyscus_eremicus",21.6,198,"female",18.6,552,7.48033279927296,99.6966920465024,"Fall",88995
+12,-112.0503611,34.3911667,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",21.7,186,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",88216
+10,-109.14083,31.986177,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",21.7,180,"male",15.9,369,7.731061905186,100.224137790849,"Fall",88278
+4,-108.941543,25.800136,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",21.7,185,"male",24.6,282,4.66794354825516,79.1639094840376,"Spring",88347
+12,-109.3016944,33.1023056,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",21.7,192,"female",17.2,242,8.59846268853105,92.9328729067083,"Winter",88683
+4,-108.941543,25.800136,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",21.7,196,"male",24.6,282,4.66794354825516,79.1639094840376,"Spring",88821
+5,-113.436958,32.07144,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",21.7,194,"male",22.3,132,8.12295661950895,93.1137626906152,"Spring",88830
+3,-110.9011,31.8628,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",21.7,190,"male",18.2,382,7.22463693121521,129.838709608767,"Spring",88836
+3,-107.4656,33.0204,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",21.8,183,"male",15.6,264,8.2975900115636,143.896615362723,"Spring",87739
+9,-100.5553009,22.6529948,"unknown",1965,"Peromyscus eremicus","Peromyscus_eremicus",21.8,176,"male",19.7,328,3.03085146552262,82.6410230726848,"Fall",87851
+5,-113.09694,32.08694,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",21.8,187,"male",21.7,184,8.09584161870472,93.6183342476444,"Spring",88353
+11,-112.215999,34.284161,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",21.8,171,"male",16.6,423,7.95686762641194,131.137936860747,"Fall",88421
+12,-112.0503611,34.3911667,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",21.8,194,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",88690
+10,-110.9347,32.4315,NA,1984,"Peromyscus eremicus","Peromyscus_eremicus",21.8,190,"male",19.3,490,7.41403255913263,112.975109059174,"Fall",88978
+8,-109.2115,32.0198,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",21.9,194,"female",14.1,364,7.0572281879623,72.4978212279922,"Summer",88045
+5,-109.255803,31.344116,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",21.9,184,"male",16.6,256,7.93829899342995,150.506173114611,"Spring",88293
+4,-107.00145,34.4081,NA,2000,"Peromyscus eremicus","Peromyscus_eremicus",22,NA,"female",14.1,219,8.67602059318288,90.1023861187393,"Spring",87716
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",22,195,"female",16.8,248,7.14835751424865,136.791009604172,"Summer",87729
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",22,201,"male",16.8,248,7.14835751424865,136.791009604172,"Summer",87732
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",22,190,"female",19.3,321,5.69558574421428,95.5441949142813,"Winter",87785
+4,-117.35764,34.63802,NA,2010,"Peromyscus eremicus eremicus","Peromyscus_eremicus",22,190,"male",16,172,6.99130954048732,150.793173092095,"Spring",87790
+7,-105.8755341,32.2504349,NA,1994,"Peromyscus eremicus","Peromyscus_eremicus",22,174,"female",17.3,274,8.32378847313256,76.0702747578055,"Summer",87825
+1,-117.1527022,33.9925618,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",22,205,"male",17,340,5.50935155399023,97.2251143410373,"Winter",87853
+1,-117.1527022,33.9925618,"unknown",1964,"Peromyscus eremicus","Peromyscus_eremicus",22,194,"female",16.3,224,5.93454192661808,87.8587266249394,"Winter",87854
+2,-115.45073,33.43958,NA,1989,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",22,183,"female",21.2,67,7.70495216589875,199.13889206543,"Winter",87887
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",22,175,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",87894
+6,-119.8843145,34.9725188,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",22,188,"female",15.9,256,5.96877607879437,163.523640878438,"Summer",87898
+7,-119.3295059,34.6929689,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",22,185,"female",14.5,279,5.94924874299778,149.67073388739,"Summer",87925
+7,-119.3295059,34.6929689,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",22,180,"male",14.5,279,5.94924874299778,149.67073388739,"Summer",87926
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",22,190,"male",15.1,408,7.16910458886329,126.610418905898,"Fall",87952
+3,-117.1785725,33.955517,"unknown",1964,"Peromyscus eremicus","Peromyscus_eremicus",22,184,"female",16.2,223,5.90228512501469,88.273482950475,"Spring",88051
+1,-117.1527022,33.9925618,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",22,180,"male",17,340,5.50935155399023,97.2251143410373,"Winter",88052
+12,-107.686765,25.093392,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",22,172,"male",25.4,818,4.33757368289525,161.554380595022,"Winter",88053
+5,-104.402,26.94055,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",22,186,"male",18.6,315,6.1551345897699,89.8731325975358,"Spring",88138
+3,-107.0075,32.0936111,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",22,189,"female",17.1,190,8.58379375052285,103.247690631561,"Spring",88152
+7,-108.9988889,32.3455556,NA,2003,"Peromyscus eremicus","Peromyscus_eremicus",22,195,"female",16.7,180,7.7764212381228,88.8343064500341,"Summer",88161
+1,-108.4938889,29.6072222,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",22,177,"female",13.4,526,5.91554193321596,116.326763473923,"Winter",88173
+12,-109.655129,32.717799,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",22,174,"female",17.3,280,7.27848635612952,91.3639204548019,"Winter",88266
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",22,190,"female",21.4,106,8.0567118640675,158.780518537259,"Spring",88362
+12,-114.4,28.903789,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",22,176,"male",20.4,123,4.70509073109954,271.235622996111,"Winter",88374
+7,-110.6977,32.028,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",22,192,"male",17.3,305,7.6746730262993,121.781985209334,"Summer",88431
+11,-109.441,32.1446,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",22,174,"male",13.9,373,7.20733527860206,129.221601083964,"Fall",88444
+9,-111.1541,33.6449,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",22,166,"female",17.6,466,8.20701843029194,114.326081507144,"Fall",88450
+4,-112.69111,32.01583,NA,1982,"Peromyscus eremicus","Peromyscus_eremicus",22,190,"male",18.8,457,6.90329302184505,91.3302693315903,"Spring",88458
+5,-110.1104,31.5032,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",22,177,"male",16.8,323,7.27254592576934,99.7051392147631,"Spring",88511
+10,-111.4316,32.4585,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",22,180,"male",19.6,181,7.96919732850217,71.2070312203841,"Fall",88526
+5,-101.70415,26.59615,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",22,202,"female",17.9,385,5.75989267576781,81.1187751498886,"Spring",88611
+4,-100.6083333,24.4016667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",22,190,"male",17.5,217,3.25942688771564,143.65397003785,"Spring",88622
+7,-108.9133333,31.8936111,NA,2003,"Peromyscus eremicus","Peromyscus_eremicus",22,190,"male",16,258,7.34238422180466,90.7654108202394,"Summer",88636
+4,-106.274,29.654,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",22,185,"male",17.8,528,6.26120208228033,157.813644867566,"Spring",88661
+12,-108.721391,27.016508,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",22,190,"female",22.2,709,4.25052581417519,125.106310422578,"Winter",88761
+4,-111.54139,31.575697,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",22,190,"male",17,494,6.80979686432226,137.2434075294,"Spring",88841
+12,-114.430024,28.838247,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",22,93,"male",20.7,126,4.70617743615836,275.83198110003,"Winter",88874
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",22,167,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88892
+11,-109.441,32.1446,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",22,163,"male",13.9,373,7.20733527860206,129.221601083964,"Fall",88926
+10,-109.441,32.1446,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",22,182,"male",13.9,373,7.20733527860206,129.221601083964,"Fall",88927
+12,-113.9066,34.8261,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",22,180,"male",15.2,349,8.33428024923132,103.510952799574,"Winter",88942
+4,-112.69111,32.01583,NA,1982,"Peromyscus eremicus","Peromyscus_eremicus",22,190,"male",18.8,457,6.90329302184505,91.3302693315903,"Spring",88944
+12,-111.05472,32.08333,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",22.1,201,"female",19,226,7.34547892285184,215.204592445954,"Winter",88228
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",22.1,190,"female",21.4,106,8.0567118640675,158.780518537259,"Spring",88360
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",22.1,185,"male",21.4,106,8.0567118640675,158.780518537259,"Spring",88364
+10,-110.752184,32.354301,NA,1985,"Peromyscus eremicus","Peromyscus_eremicus",22.1,173,"male",16.7,629,7.39731216542382,73.7514510598847,"Fall",88490
+10,-112.254086,33.725656,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",22.1,198,"male",21.2,257,8.20243866176395,133.37348003356,"Fall",88709
+3,-111.27392,33.140455,NA,1966,"Peromyscus eremicus","Peromyscus_eremicus",22.2,171,"female",20.9,294,8.54181781093179,79.3655505478253,"Spring",88311
+1,-111.147639,33.293879,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.2,195,"male",20,491,7.82798011796611,133.937801276043,"Winter",88801
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.2,193,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88815
+12,-111.0031,32.2138,NA,1984,"Peromyscus eremicus","Peromyscus_eremicus",22.2,165,"female",19.7,465,7.37475217868165,129.473147058722,"Winter",88967
+2,-110.4106,31.8569,"unknown",1952,"Peromyscus eremicus","Peromyscus_eremicus",22.3,199,"male",13.1,483,7.26812780695151,83.3830558715271,"Winter",87843
+7,-111.0415,32.0896,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",22.3,209,"female",19.4,351,7.67137536560427,89.5928730350678,"Summer",87848
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",22.3,187,"female",20.1,451,8.78553822017649,69.4922098532991,"Fall",88189
+12,-112.0503611,34.3911667,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",22.3,189,"female",17.2,357,8.44516627031898,67.5375074028169,"Winter",88695
+7,-109.22694,32.035578,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",22.3,195,"female",15.8,307,6.5215900180582,146.993449521501,"Summer",88699
+10,-112.254086,33.725656,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",22.3,195,"male",21.2,257,8.20243866176395,133.37348003356,"Fall",88710
+3,-111.164998,33.293871,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.3,177,"female",20.1,488,7.8312263446159,134.14331757452,"Spring",88804
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.3,173,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88812
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.4,191,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88328
+3,-106.988704,32.058354,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.5,171,"male",16,200,7.97568273889547,101.866222432793,"Spring",87779
+11,-108.33444,31.673413,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",22.5,179,"male",17,269,8.2759738051931,128.096037201604,"Fall",88127
+6,-111.05472,32.08333,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",22.5,192,"male",18.5,382,7.25448137360625,175.270958725451,"Summer",88246
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.5,186,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88336
+9,-111.1541,33.6449,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",22.5,176,"male",17.6,466,8.20701843029194,114.326081507144,"Fall",88449
+1,-112.7796,34.325,NA,1980,"Peromyscus eremicus","Peromyscus_eremicus",22.5,184,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",88461
+10,-111.1542,33.3015,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",22.5,151,"male",20,587,7.87641281218035,88.4773758543255,"Fall",88464
+9,-109.1116,31.9084,NA,1974,"Peromyscus eremicus","Peromyscus_eremicus",22.5,188,"male",15,306,7.46809374890435,118.020796734222,"Fall",88484
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",22.5,178,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",88575
+3,-111.27392,33.112886,NA,1966,"Peromyscus eremicus","Peromyscus_eremicus",22.5,170,"male",21,269,8.61131655017238,79.4200204127277,"Spring",88800
+3,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.5,187,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88810
+3,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.5,178,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",88811
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",22.5,186,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",88817
+11,-113.01694,31.94444,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",22.5,170,"male",23,203,7.10893590468853,79.6141697175811,"Fall",88946
+12,-109.3016944,33.1023056,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",22.6,184,"female",17.2,242,8.59846268853105,92.9328729067083,"Winter",88197
+1,-110.8237778,33.7851667,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",22.6,205,"female",19,206,8.29232485586229,88.1927868929352,"Winter",88200
+12,-111.12639,32.32333,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",22.6,168,"female",20.6,335,7.2824196778019,86.849057529657,"Winter",88268
+11,-112.215999,34.284161,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",22.6,159,"male",16.6,423,7.95686762641194,131.137936860747,"Fall",88422
+4,-112.69111,32.01583,NA,1982,"Peromyscus eremicus","Peromyscus_eremicus",22.6,183,"male",18.8,457,6.90329302184505,91.3302693315903,"Spring",88486
+11,-111.0544,32.2283,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",22.6,196,"male",20.7,248,6.81466778131531,85.3523583071016,"Fall",88955
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",22.7,190,"male",21.4,106,8.0567118640675,158.780518537259,"Spring",88369
+1,-111.18,32.27,NA,1969,"Peromyscus eremicus eremicus","Peromyscus_eremicus",22.7,181,"male",19.6,229,7.26554237896979,82.728849585277,"Winter",88566
+2,-110.4106,31.8569,"unknown",1952,"Peromyscus eremicus","Peromyscus_eremicus",22.8,202,"male",13.1,483,7.26812780695151,83.3830558715271,"Winter",87841
+11,-111.2672222,33.9098056,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",22.8,186,"female",19.9,460,8.73585436664048,72.468089462717,"Fall",88212
+12,-110.989537,32.107219,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",22.8,198,"female",19.7,162,7.69466560598177,183.521382732104,"Winter",88236
+12,-112.0503611,34.3911667,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",22.8,189,"male",17.2,357,8.44516627031898,67.5375074028169,"Winter",88693
+5,-113.436958,32.07144,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",22.8,192,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",88829
+1,-112.0551111,34.2530278,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",22.9,186,"female",18.6,192,7.92706812705108,108.069206621682,"Winter",88208
+10,-118.2953,34.2839,NA,1992,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",22.9,198,"male",17.9,779,5.22946199214343,155.357855283287,"Fall",88592
+9,-110.5359,31.5901,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",22.9,190,"female",15,397,7.11687601707549,85.226025240928,"Fall",88986
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",23,176,"female",15.1,408,7.16910458886329,126.610418905898,"Fall",87711
+6,-106.885,34.358,NA,2000,"Peromyscus eremicus","Peromyscus_eremicus",23,201,"female",14.9,186,8.97009763130544,87.4392198582918,"Summer",87717
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",23,208,"female",16.8,248,7.14835751424865,136.791009604172,"Summer",87730
+3,-107.35,24.58,NA,1965,"Peromyscus eremicus sinaloensis","Peromyscus_eremicus",23,NA,"female",25.1,596,4.37191449637757,145.289928274205,"Spring",88080
+12,-110.85222,31.83333,NA,1932,"Peromyscus eremicus","Peromyscus_eremicus",23,189,"female",17.7,489,7.39514070593698,117.345986928462,"Winter",88219
+12,-111.19861,31.93889,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",23,120,"male",17.9,565,6.18749961738597,127.386824335968,"Winter",88256
+4,-108.941543,25.800136,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",23,191,"male",24.6,282,4.66794354825516,79.1639094840376,"Spring",88349
+12,-114.4,28.903789,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",23,180,"female",20.4,123,4.70509073109954,271.235622996111,"Winter",88387
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",23,189,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88412
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",23,178,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88413
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",23,187,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88417
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",23,189,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88418
+11,-109.441,32.1446,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",23,192,"male",13.9,373,7.20733527860206,129.221601083964,"Fall",88443
+4,-115.76,35.22,NA,1986,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",23,176,"female",17.1,159,7.56949620036055,104.086538865795,"Spring",88594
+5,-100.6444667,23.5902333,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",23,190,"female",19,486,3.90045646124407,69.0274925203173,"Spring",88618
+4,-100.0466667,22.6666667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",23,185,"male",22.3,376,3.63576510225673,117.908562415582,"Spring",88628
+12,-111.05472,32.08333,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",23,206,"female",18.5,382,7.25448137360625,175.270958725451,"Winter",88702
+11,-110.51829,32.398475,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",23,184,"male",17.8,250,7.69543351408463,179.399239888934,"Fall",88751
+3,-113.5213,33.1389,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",23,180,"male",21.2,111,8.61261847347814,148.382607584631,"Spring",88886
+10,-110.8495,31.7811,NA,1980,"Peromyscus eremicus","Peromyscus_eremicus",23,190,"female",18,461,6.46380950626899,109.408885269777,"Fall",88948
+12,-111.0887,32.2428,NA,1984,"Peromyscus eremicus","Peromyscus_eremicus",23,162,"female",19.8,523,7.28158740602042,127.600744855476,"Winter",88969
+8,-110.92583,31.757262,NA,1992,"Peromyscus eremicus","Peromyscus_eremicus",23,191,"male",17.9,610,7.15427399277078,105.534515200062,"Summer",88997
+9,-111.11389,33.64778,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",23,202,"male",20.1,446,8.78029819332102,75.5790742765192,"Fall",89002
+12,-109.2115,32.0198,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",23.1,194,"female",14.1,364,7.0572281879623,72.4978212279922,"Winter",87846
+11,-110.7145,32.028,NA,1992,"Peromyscus eremicus","Peromyscus_eremicus",23.1,194,"male",18.6,552,7.48033279927296,99.6966920465024,"Fall",88513
+12,-109.2498333,32.03675,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",23.1,186,"female",15.6,333,7.65266837993999,98.4746913292952,"Winter",88673
+11,-111.102931,32.371372,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",23.1,195,"female",20.9,293,8.09223346328085,80.473733928047,"Fall",88771
+1,-110.9923,32.0832,"unknown",1951,"Peromyscus eremicus","Peromyscus_eremicus",23.2,191,"female",19.6,332,7.73357497010159,85.7066259049095,"Winter",87840
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",23.2,183,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88334
+11,-109.123732,31.913609,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",23.2,196,"female",14.9,150,7.61893076885504,123.629946357521,"Fall",88741
+12,-110.787508,32.596318,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",23.3,180,"female",16.6,280,7.39383445032331,138.036427997481,"Winter",88249
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",23.3,187,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",88329
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",23.3,153,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",88335
+5,-113.436958,32.07144,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",23.3,195,"female",22.3,132,8.12295661950895,93.1137626906152,"Spring",88351
+4,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",23.3,177,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88808
+11,-112.215999,34.284161,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",23.3,159,"male",16.6,423,7.95686762641194,131.137936860747,"Fall",88900
+11,-111.2952222,33.9565278,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",23.4,180,"female",20.1,451,8.78553822017649,69.4922098532991,"Fall",88190
+11,-109.92833,31.87056,NA,1961,"Peromyscus eremicus","Peromyscus_eremicus",23.4,193,"male",15.2,483,6.85225023866856,91.5271660338333,"Fall",88284
+3,-111.164998,33.293871,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",23.4,188,"female",20.1,488,7.8312263446159,134.14331757452,"Spring",88315
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",23.5,195,"female",19.3,321,5.69558574421428,95.5441949142813,"Winter",87788
+2,-110.4106,31.8569,"unknown",1952,"Peromyscus eremicus","Peromyscus_eremicus",23.5,193,"female",13.1,483,7.26812780695151,83.3830558715271,"Winter",87844
+1,-110.87425,33.6826389,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",23.5,200,"male",20.1,168,8.34238447854561,86.6828394595597,"Winter",88218
+4,-111.00556,32.21278,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",23.5,176,"female",19.6,375,7.17430178209741,120.285523900163,"Spring",88341
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",23.5,183,"female",21.4,106,8.0567118640675,158.780518537259,"Spring",88367
+11,-113.0942,34.1796,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",23.5,171,"male",17.8,318,8.05463822711467,131.197327709774,"Fall",88459
+2,-109.2818,33.1428,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",23.5,203,"female",16,575,7.8802784137864,77.8196441919301,"Winter",88502
+12,-113.9066,34.8261,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",23.5,171.5,"male",15.2,349,8.33428024923132,103.510952799574,"Winter",88943
+9,-109.8257,32.5351,NA,1986,"Peromyscus eremicus","Peromyscus_eremicus",23.5,175,"female",14.8,558,6.17124318304201,67.602679141198,"Fall",88974
+3,-106.992129,32.051097,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",23.6,179,"male",16,200,7.97568273889547,102.184177562309,"Spring",88010
+11,-109.03056,31.980416,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",23.6,190,"female",16.1,118,8.19722791280964,129.714632861633,"Fall",88757
+11,-110.866383,32.612791,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",23.7,175,"female",17.1,422,7.09269256903102,80.9261949861097,"Fall",88355
+9,-111.388,32.6245,NA,1990,"Peromyscus eremicus","Peromyscus_eremicus",23.7,156,"male",21.5,359,8.17918181430852,88.6834842258684,"Fall",88477
+1,-112.0551111,34.2530278,"juvenile",2002,"Peromyscus eremicus","Peromyscus_eremicus",23.7,186,"male",18.6,192,7.92706812705108,108.069206621682,"Winter",88688
+1,-112.7796,34.325,NA,1980,"Peromyscus eremicus","Peromyscus_eremicus",23.7,197,"female",14.5,551,6.81003604315652,124.13143466857,"Winter",88941
+11,-109.123732,31.913609,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",23.8,192,"male",14.9,150,7.61893076885504,123.629946357521,"Fall",88263
+4,-111.54139,31.575697,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",23.9,178,"female",17,494,6.80979686432226,137.2434075294,"Spring",88402
+1,-110.87425,33.6826389,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",23.9,186,"female",20,386,8.78443440858817,79.2877923798124,"Winter",88668
+12,-107.573996,30.065326,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",23.9,190,"male",16.8,267,7.45682522419846,132.639771171751,"Winter",88789
+6,-115.8987345,35.7688924,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",24,192,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",87679
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",24,209,"female",16.8,248,7.14835751424865,136.791009604172,"Summer",87727
+12,-107.686765,25.093392,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",24,187,"male",25.4,818,4.33757368289525,161.554380595022,"Winter",87855
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",24,163,"male",15.1,408,7.16910458886329,126.610418905898,"Fall",87955
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",24,178,"male",15.1,408,7.16910458886329,126.610418905898,"Fall",87956
+11,-108.33286,31.67091,"adult",2013,"Peromyscus eremicus","Peromyscus_eremicus",24,178,"male",17,265,8.29765848680436,127.842063072856,"Fall",87977
+1,-103.7474221583,26.6855533417,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",24,171,"female",19.3,321,5.69558574421428,95.5441949142813,"Winter",87995
+4,-106.944173,32.072875,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",24,188,"female",16,198,7.98924940533252,101.147768740851,"Spring",88012
+12,-104.646515,21.51611,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",24,166,"female",22.8,875,2.24747332879311,139.510523073485,"Winter",88055
+10,-108.7682,31.58855,NA,2008,"Peromyscus eremicus","Peromyscus_eremicus",24,184,"female",13.4,466,6.60273129894445,138.733894263628,"Fall",88119
+5,-105.8483,28.7031833,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",24,187,"female",18.6,333,6.58282314862405,95.5171270294181,"Spring",88132
+5,-99.3828667,23.48815,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",24,188,"female",21.1,382,4.13759555414699,79.1333021800889,"Spring",88136
+5,-102.29585,26.59615,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",24,178,"female",21.2,267,6.52252507341546,80.6744133768958,"Spring",88140
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",24,194,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88327
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",24,201,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88330
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",24,190,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88332
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",24,186,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88414
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",24,184,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88416
+3,-114.866667,30.535503,NA,1975,"Peromyscus eremicus","Peromyscus_eremicus",24,184,"female",18.4,28,5.20407765530303,116.057691494799,"Spring",88433
+11,-109.458,32.1446,NA,1976,"Peromyscus eremicus","Peromyscus_eremicus",24,195,"female",14.1,327,6.90373197274598,82.9792412343271,"Fall",88442
+6,-110.2253,31.8392,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",24,180,"female",16.5,352,7.62584818928758,94.6801528173389,"Summer",88489
+2,-112.795215,31.87111,NA,2000,"Peromyscus eremicus","Peromyscus_eremicus",24,200,"female",21.9,222,7.5579528653698,143.220808789638,"Winter",88518
+1,-111.18,32.27,NA,1971,"Peromyscus eremicus eremicus","Peromyscus_eremicus",24,165,"female",18.5,361,7.31610924914702,149.260804897963,"Winter",88568
+5,-115.3045,33.6262,NA,2001,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",24,185,"male",20.8,89,7.91459622048613,144.469807119155,"Spring",88571
+6,-112.338117,36.229238,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",24,172,"female",17.4,314,8.75260567263292,54.7258752699911,"Summer",88600
+12,-110.85222,31.83333,NA,1932,"Peromyscus eremicus","Peromyscus_eremicus",24,195,"male",17.7,489,7.39514070593698,117.345986928462,"Winter",88696
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",24,188,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88814
+11,-112.215999,34.284161,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",24,180,"male",16.6,423,7.95686762641194,131.137936860747,"Fall",88842
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",24,175,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88881
+3,-113.5213,33.1389,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",24,195,"male",21.2,111,8.61261847347814,148.382607584631,"Spring",88885
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",24,202,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88893
+10,-111.1541,33.6449,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",24,184,"female",17.6,466,8.20701843029194,114.326081507144,"Fall",88953
+11,-111.1229,32.1412,NA,1990,"Peromyscus eremicus","Peromyscus_eremicus",24,211,"male",20.6,355,7.6880219704539,105.035849217047,"Fall",88962
+9,-109.1285,31.9226,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",24,165,"female",14.5,323,7.39334262370649,87.904681476656,"Fall",88992
+5,-118.5849813,34.3234131,NA,1974,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",24.1,166,"male",16.4,626,5.7758837707604,178.872160128369,"Spring",87916
+11,-109.123732,31.913609,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",24.1,196,"male",14.9,150,7.61893076885504,123.629946357521,"Fall",88758
+1,-112.0551111,34.2530278,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",24.2,190,"female",18.6,192,7.92706812705108,108.069206621682,"Winter",88209
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",24.2,189,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88333
+1,-112.7796,34.325,NA,1980,"Peromyscus eremicus","Peromyscus_eremicus",24.2,182,"male",14.5,551,6.81003604315652,124.13143466857,"Winter",88465
+11,-109.152562,31.89917,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",24.2,189,"male",12.6,644,7.23306276550238,100.144215637771,"Fall",88700
+9,-100.5553009,22.6529948,"unknown",1965,"Peromyscus eremicus","Peromyscus_eremicus",24.3,198,"male",19.7,328,3.03085146552262,82.6410230726848,"Fall",87850
+12,-109.3016944,33.1023056,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",24.3,191,"female",17.2,242,8.59846268853105,92.9328729067083,"Winter",88205
+11,-109.123732,31.913609,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",24.3,181,"male",14.2,323,6.76929341462854,102.180486813836,"Fall",88344
+10,-107.463373,33.01962401,NA,2012,"Peromyscus eremicus","Peromyscus_eremicus",24.4,185,"male",16.5,185,7.65456884758536,117.033524000984,"Fall",87968
+11,-110.51829,32.398475,NA,1953,"Peromyscus eremicus","Peromyscus_eremicus",24.5,185,"male",17.8,250,7.69543351408463,179.399239888934,"Fall",88250
+11,-110.9004,32.417,NA,1984,"Peromyscus eremicus","Peromyscus_eremicus",24.5,195,"female",18.8,536,7.33321625250889,111.095865167958,"Fall",88475
+12,-111.097377,32.14185,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",24.5,205,"female",20,166,7.8541390362025,110.789182783562,"Winter",88743
+3,-113.41025,37.00755,NA,1978,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",24.6,186,"female",16,422,8.82418766112711,87.6136009050731,"Spring",87922
+11,-109.152562,31.89917,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",24.7,190,"female",12.6,644,7.23306276550238,100.144215637771,"Fall",88220
+3,-113.41025,37.00755,NA,1978,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",24.8,190,"female",16,422,8.82418766112711,87.6136009050731,"Spring",87886
+1,-112.0551111,34.2530278,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",24.8,191,"male",18.6,192,7.92706812705108,108.069206621682,"Winter",88206
+10,-110.856419,32.639854,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",24.8,192,"male",18.3,463,6.93416552406643,101.486218835378,"Fall",88261
+3,-113.41025,37.00755,NA,1978,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",24.9,195,"female",16,422,8.82418766112711,87.6136009050731,"Spring",87628
+12,-107.573996,30.065326,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",24.9,191,"male",16.8,267,7.45682522419846,132.639771171751,"Winter",88790
+6,-115.88722,35.77278,NA,1975,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",25,179,"female",14,153,8.15558927139151,106.868059852465,"Summer",87630
+5,-117.8249778,36.7471083,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",25,181,"female",20.8,66,8.78499064348168,108.122422753232,"Spring",87659
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",25,205,"female",15.1,408,7.16910458886329,126.610418905898,"Fall",87707
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",25,179,"male",15.1,408,7.16910458886329,126.610418905898,"Fall",87708
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",25,184,"male",15.1,408,7.16910458886329,126.610418905898,"Fall",87710
+7,-108.97421,32.09599,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",25,205,"female",16.8,248,7.14835751424865,136.791009604172,"Summer",87733
+7,-105.8755341,32.2504349,NA,1994,"Peromyscus eremicus","Peromyscus_eremicus",25,182,"male",17.3,274,8.32378847313256,76.0702747578055,"Summer",87824
+2,-117.1981,33.93615,"unknown",1964,"Peromyscus eremicus","Peromyscus_eremicus",25,193,"male",16.2,192,5.88049549551118,91.7308130645513,"Winter",87852
+5,-117.8249778,36.7471083,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",25,191,"male",20.8,66,8.78499064348168,108.122422753232,"Spring",87872
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",25,194,"male",15.1,408,7.16910458886329,126.610418905898,"Fall",87953
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",25,190,"female",15.1,408,7.16910458886329,126.610418905898,"Fall",87954
+12,-107.686765,25.093392,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",25,222,"male",25.4,818,4.33757368289525,161.554380595022,"Winter",88054
+12,-104.646515,21.51611,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",25,163,"female",22.8,875,2.24747332879311,139.510523073485,"Winter",88058
+5,-108.5055556,29.5880556,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",25,279,"female",13,556,5.83858637934654,115.862877364035,"Spring",88178
+11,-109.123732,31.928123,NA,1955,"Peromyscus eremicus","Peromyscus_eremicus",25,182,"male",14.6,256,7.18329290574295,150.031069225526,"Fall",88259
+3,-111.27392,33.140455,NA,1966,"Peromyscus eremicus","Peromyscus_eremicus",25,189,"male",20.9,294,8.54181781093179,79.3655505478253,"Spring",88313
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",25,192,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88403
+8,-109.4751,32.159,NA,1976,"Peromyscus eremicus","Peromyscus_eremicus",25,193,"male",14.3,321,6.97964030505002,82.8235055085162,"Summer",88441
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",25,179,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88882
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",25,202,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88896
+9,-109.1285,31.9226,NA,1974,"Peromyscus eremicus","Peromyscus_eremicus",25,170,"female",14.7,314,7.3746648614145,117.340412846243,"Fall",88939
+9,-109.1285,31.9226,NA,1974,"Peromyscus eremicus","Peromyscus_eremicus",25,179,"female",14.7,314,7.3746648614145,117.340412846243,"Fall",88966
+5,-110.1104,31.5032,NA,1987,"Peromyscus eremicus","Peromyscus_eremicus",25,181,"female",16.8,323,7.27254592576934,99.7051392147631,"Spring",88994
+2,-112.755,31.86556,NA,2000,"Peromyscus eremicus","Peromyscus_eremicus",25,198,"male",21.9,229,7.5579528653698,142.993295374911,"Winter",89004
+11,-109.92833,31.87056,NA,1961,"Peromyscus eremicus","Peromyscus_eremicus",25.2,189,"female",15.2,483,6.85225023866856,91.5271660338333,"Fall",88285
+11,-112.648277,31.829988,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",25.2,188,"male",20.6,97,7.16474428057698,113.443017333894,"Fall",88346
+3,-113.41025,37.00755,NA,1978,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",25.3,189,"male",16,422,8.82418766112711,87.6136009050731,"Spring",87896
+3,-113.41025,37.00755,NA,1978,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",25.4,193,"male",16,422,8.82418766112711,87.6136009050731,"Spring",87895
+11,-109.29556,32.688059,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",25.4,198,"female",16.2,344,7.80337922138398,121.773971531618,"Fall",88425
+2,-109.1437,33.2007,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",25.4,193,"female",14.7,613,7.5610394908252,77.3860826052936,"Winter",88498
+4,-106.944173,32.072875,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",25.5,164,"male",16,198,7.98924940533252,101.147768740851,"Spring",87783
+12,-112.0503611,34.3911667,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",25.5,190,"male",17.2,357,8.44516627031898,67.5375074028169,"Winter",88213
+7,-113.07667,36.21889,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",25.5,192,"female",13.9,202,9.41809991774381,93.1755704134789,"Summer",88290
+4,-113.436958,32.07144,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",25.5,190,"female",21.4,106,8.0567118640675,158.780518537259,"Spring",88368
+2,-110.78972,32.62444,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",25.5,170,"male",16.3,417,7.42867091175477,109.332723415826,"Winter",88838
+12,-109.3016944,33.1023056,"adult",2001,"Peromyscus eremicus","Peromyscus_eremicus",25.6,193,"male",17.2,242,8.59846268853105,92.9328729067083,"Winter",88675
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",25.6,200,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",88818
+10,-107.9244,32.5897,NA,2009,"Peromyscus eremicus","Peromyscus_eremicus",25.7,180,"undetermined",15.6,253,7.56728905463268,88.9756753785919,"Fall",87960
+10,-109.15292,31.923872,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",25.7,167,"male",13.5,368,7.70706091054092,134.436515651948,"Fall",88298
+8,-109.17703,31.569987,NA,1956,"Peromyscus eremicus","Peromyscus_eremicus",25.8,172,"male",15.4,162,7.58233093608044,131.71194777314,"Summer",88297
+6,-109.2818,33.1283,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",25.9,200,"female",16,581,7.90712662824818,76.6021068997201,"Summer",88988
+4,-106.944173,32.072875,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",26,180,"female",16,198,7.98924940533252,101.147768740851,"Spring",88011
+8,-100.3758333,25.3308333,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",26,193,"male",8.1,701,2.34843597212092,90.5216378499486,"Summer",88163
+12,-103.417,25.206,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",26,203,"female",22.7,238,4.43867302037649,116.645363013104,"Winter",88185
+10,-111.49167,32.350281,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",26,186,"female",20.5,336,7.34982993000518,106.055084227669,"Fall",88275
+5,-115.45917,36.104039,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",26,193,"female",14.7,94,9.06054968564604,123.41129274194,"Spring",88291
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",26,182,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88405
+3,-103.6011111,32.1066667,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",26,180,"male",17.5,245,8.79942749515127,73.5867954894766,"Spring",88632
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",26,190,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",88816
+4,-105.230294,21.599324,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",26,180,"female",24.9,2374,2.80010822301676,169.560350602348,"Spring",88832
+10,-109.22816,31.60814,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",26,167,"male",15.5,340,7.39266630868154,125.601490781136,"Fall",88899
+3,-111.1541,33.6449,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",26,177,"male",17.6,466,8.20701843029194,114.326081507144,"Spring",88940
+3,-111.27392,33.140455,NA,1966,"Peromyscus eremicus","Peromyscus_eremicus",26.2,205,"male",20.9,294,8.54181781093179,79.3655505478253,"Spring",88799
+4,-108.86283,31.40372,NA,1997,"Peromyscus eremicus","Peromyscus_eremicus",26.4,169,"male",15.2,367,7.39968774934989,70.8351234235626,"Spring",87784
+1,-111.63556,31.80472,NA,1962,"Peromyscus eremicus","Peromyscus_eremicus",26.4,189,"female",17.9,375,7.14174136306893,123.288751975338,"Winter",88781
+11,-108.33382,31.673769,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",26.5,185,"female",17,269,8.28156038583566,128.096037201604,"Fall",88126
+11,-110.986,32.0977,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",26.6,188,"male",19.6,208,7.45562122688565,91.2262957979918,"Fall",88356
+12,-111.05472,32.08333,NA,1959,"Peromyscus eremicus","Peromyscus_eremicus",26.7,203,"female",19,428,7.09136799214369,143.109717701316,"Winter",88707
+5,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",26.8,190,"female",20.2,484,7.80541284602997,134.572624661717,"Spring",88813
+7,-111.507348,31.488605,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",27,194,"female",18,409,6.87368169178643,86.8519003543141,"Summer",88277
+10,-109.15292,31.923872,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",27,173,"male",13.5,368,7.70706091054092,134.436515651948,"Fall",88300
+1,-107.629563,25.147111,NA,1965,"Peromyscus eremicus","Peromyscus_eremicus",27,197,"female",24.7,647,4.50376105453693,122.703186873808,"Winter",88307
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",27,190,"male",21.2,116,8.60507249982664,147.399524063362,"Spring",88420
+4,-108.44861,31.88944,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",27,181,"male",13.5,284,7.70137236884676,122.495447774252,"Spring",88447
+4,-106.274,29.654,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",27,196,"female",17.8,528,6.26120208228033,157.813644867566,"Spring",88660
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",27,186,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88898
+9,-109.1285,31.9226,NA,1974,"Peromyscus eremicus","Peromyscus_eremicus",27,192,"male",14.7,314,7.3746648614145,117.340412846243,"Fall",88990
+3,-113.41025,37.00755,NA,1978,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",27.4,186,"male",16,422,8.82418766112711,87.6136009050731,"Spring",87663
+10,-109.2084,31.619,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",27.4,168,"male",15.5,336,7.41466094772357,125.384381175135,"Fall",88834
+11,-112.215999,34.284161,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",27.4,177,"male",16.6,423,7.95686762641194,131.137936860747,"Fall",88843
+11,-109.123732,31.913609,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",27.6,209,"female",14.2,323,6.76929341462854,102.180486813836,"Fall",88825
+1,-112.73,32.23,NA,1969,"Peromyscus eremicus eremicus","Peromyscus_eremicus",27.7,187,"female",20.8,208,7.99171445936352,107.49534893642,"Winter",88086
+10,-111.1542,33.3015,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",27.7,182,"male",20,587,7.87641281218035,88.4773758543255,"Fall",88952
+3,-111.27392,33.112886,NA,1966,"Peromyscus eremicus","Peromyscus_eremicus",27.8,195,"male",21,269,8.61131655017238,79.4200204127277,"Spring",88798
+3,-111.15667,33.27944,NA,1967,"Peromyscus eremicus","Peromyscus_eremicus",27.9,193,"male",20.2,484,7.80541284602997,134.572624661717,"Spring",88324
+10,-107.54295,32.9269833333,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",28,202,"female",15.1,408,7.16910458886329,126.610418905898,"Fall",87957
+11,-108.33467,31.673114,NA,2013,"Peromyscus eremicus","Peromyscus_eremicus",28,197,"female",17,269,8.2759738051931,128.096037201604,"Fall",88128
+3,-103.6011111,32.1066667,NA,2002,"Peromyscus eremicus","Peromyscus_eremicus",28,196,"female",17.5,245,8.79942749515127,73.5867954894766,"Spring",88155
+1,-112.0551111,34.2530278,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",28,180,"female",18.6,192,7.92706812705108,108.069206621682,"Winter",88211
+10,-110.93167,32.28083,NA,1986,"Peromyscus eremicus","Peromyscus_eremicus",28,195,"female",21,290,6.92019442711626,84.3085686577989,"Fall",88478
+7,-110.60772,32.178934,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",28,210,"male",16.7,373,7.74330600446527,64.4742476055074,"Summer",88521
+4,-100.6083333,24.4016667,NA,1999,"Peromyscus eremicus","Peromyscus_eremicus",28,195,"female",17.5,217,3.25942688771564,143.65397003785,"Spring",88626
+12,-103.532,25.316,NA,2006,"Peromyscus eremicus","Peromyscus_eremicus",28,186,"female",22.7,249,4.44388411871935,119.584466435317,"Winter",88667
+3,-113.5213,33.1389,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",28,189,"female",21.2,111,8.61261847347814,148.382607584631,"Spring",88884
+4,-112.69111,32.01583,NA,1982,"Peromyscus eremicus","Peromyscus_eremicus",28,200,"female",18.8,457,6.90329302184505,91.3302693315903,"Spring",88945
+5,-110.959398,31.452558,NA,2001,"Peromyscus eremicus","Peromyscus_eremicus",28,203,"male",17.3,327,7.53434057358624,83.5101861279926,"Spring",89003
+3,-111.27392,33.140455,NA,1966,"Peromyscus eremicus","Peromyscus_eremicus",28.5,195,"female",20.9,294,8.54181781093179,79.3655505478253,"Spring",88312
+9,-110.92056,32.531927,NA,1969,"Peromyscus eremicus","Peromyscus_eremicus",28.5,205,"female",18.4,303,7.55613337065668,69.2812090626815,"Fall",88835
+5,-111.4957,31.645,NA,1982,"Peromyscus eremicus","Peromyscus_eremicus",28.6,192,"male",16.9,521,6.7475697083985,100.39249036811,"Spring",88954
+11,-109.92833,31.87056,NA,1961,"Peromyscus eremicus","Peromyscus_eremicus",28.8,196,"female",15.2,483,6.85225023866856,91.5271660338333,"Fall",88287
+4,-115.89834,35.77614,NA,2010,"Peromyscus eremicus eremicus","Peromyscus_eremicus",29,196,"female",15.6,251,8.14640188281695,133.093318322844,"Spring",87791
+12,-104.646515,21.51611,"unknown",1963,"Peromyscus eremicus","Peromyscus_eremicus",29,161,"male",22.8,875,2.24747332879311,139.510523073485,"Winter",87857
+10,-110.856419,32.639854,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",29,179,"male",18.3,463,6.93416552406643,101.486218835378,"Fall",88255
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",29,197,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88419
+11,-110.71722,32.30194,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",29,140,"male",19.2,424,7.03372826695298,77.6665021840003,"Fall",88762
+11,-110.866383,32.612791,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",29,192,"female",17.1,422,7.09269256903102,80.9261949861097,"Fall",88831
+9,-109.1285,31.9226,NA,1979,"Peromyscus eremicus","Peromyscus_eremicus",29,157,"female",14.5,323,7.39334262370649,87.904681476656,"Fall",88970
+9,-109.3464,32.0289,NA,1985,"Peromyscus eremicus","Peromyscus_eremicus",29,193,"female",13,689,6.91314075883857,64.3425425661906,"Fall",88981
+2,-110.842793,31.918017,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",29.2,201,"female",18.2,359,7.24861533276696,125.287548052349,"Winter",88837
+11,-111.1571,32.3154,NA,1983,"Peromyscus eremicus","Peromyscus_eremicus",29.2,178,"female",20,547,7.48600208874719,87.2638206916084,"Fall",88975
+10,-110.856419,32.639854,NA,1954,"Peromyscus eremicus","Peromyscus_eremicus",29.4,221,"female",18.3,463,6.93416552406643,101.486218835378,"Fall",88254
+3,-113.533333,31.316667,NA,1971,"Peromyscus eremicus","Peromyscus_eremicus",29.5,175,"female",20.8,89,6.28101395983454,209.705844149233,"Spring",88856
+11,-112.648277,31.829988,NA,1968,"Peromyscus eremicus","Peromyscus_eremicus",29.6,250,"male",20.6,97,7.16474428057698,113.443017333894,"Fall",88345
+4,-111.54139,31.575697,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",29.6,205,"male",17,494,6.80979686432226,137.2434075294,"Spring",88880
+11,-109.29556,32.688059,NA,1972,"Peromyscus eremicus","Peromyscus_eremicus",29.6,188,"female",16.2,344,7.80337922138398,121.773971531618,"Fall",88903
+12,-112.04639,33.72556,NA,1957,"Peromyscus eremicus","Peromyscus_eremicus",30,168,"male",20.2,261,7.62203245780801,118.119114861922,"Winter",88271
+11,-110.9011,31.8774,NA,1991,"Peromyscus eremicus","Peromyscus_eremicus",30.4,110,"male",18.8,348,7.02947797535924,72.9873485619073,"Fall",88516
+12,-111.081463,32.337657,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",30.5,148,"male",20.7,292,8.0448129345259,82.775924284166,"Winter",88279
+3,-117.25139,32.83972,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",30.74,216,"male",15.8,174,3.16958796672184,104.29642368806,"Spring",88308
+6,-111.863228,36.086768,NA,1982,"Peromyscus eremicus eremicus","Peromyscus_eremicus",31,200,"female",17,316,8.96405279013028,56.1089731014797,"Summer",87703
+10,-101.2616038,24.61472,NA,1973,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",31,201,"female",19.6,584,4.32697668964455,105.098790892328,"Fall",87915
+10,-112.85722,31.96028,NA,1981,"Peromyscus eremicus","Peromyscus_eremicus",31,195,"female",22.1,230,6.73796907626677,81.2260125654622,"Fall",88473
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",31.5,171,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88889
+11,-110.86776,32.629263,NA,1961,"Peromyscus eremicus","Peromyscus_eremicus",31.7,194,"male",17.1,396,7.47806894535716,83.2332319400475,"Fall",88780
+10,-101.2616038,24.61472,NA,1973,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",32,192,"female",19.6,584,4.32697668964455,105.098790892328,"Fall",87629
+9,-106.423902,35.292442,NA,2005,"Peromyscus eremicus","Peromyscus_eremicus",32,170,"female",11.5,429,7.94783656478957,70.0644839354439,"Fall",87718
+4,-115.89834,35.77614,NA,2010,"Peromyscus eremicus eremicus","Peromyscus_eremicus",32,191,"female",15.6,251,8.14640188281695,133.093318322844,"Spring",87792
+3,-113.5213,33.1389,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",32,187,"female",21.2,111,8.61261847347814,148.382607584631,"Spring",88408
+1,-112.0551111,34.2530278,"adult",2002,"Peromyscus eremicus","Peromyscus_eremicus",32.1,192,"female",18.6,192,7.92706812705108,108.069206621682,"Winter",88686
+3,-117.25139,32.83972,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",32.85,217,"male",15.8,174,3.16958796672184,104.29642368806,"Spring",88310
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",33,187,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88404
+11,-112.215999,34.284161,NA,1970,"Peromyscus eremicus","Peromyscus_eremicus",33,185,"female",16.6,423,7.95686762641194,131.137936860747,"Fall",88844
+3,-113.5718,33.1825,NA,1973,"Peromyscus eremicus","Peromyscus_eremicus",33,194,"female",21.2,116,8.60507249982664,147.399524063362,"Spring",88897
+10,-102.4458971,23.18111,NA,1973,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",34,184,"female",17.5,521,3.17961070611234,106.805539865144,"Fall",87674
+9,-108.5555,33.015,NA,2004,"Peromyscus eremicus","Peromyscus_eremicus",34,203,"female",14.6,377,7.74085481929052,61.4849777238229,"Fall",88117
+5,-117.8249778,36.7471083,NA,1977,"Peromyscus eremicus Baird, 1857","Peromyscus_eremicus",35,173,"male",20.8,66,8.78499064348168,108.122422753232,"Spring",87665
+10,-109.285062,31.934535,NA,1958,"Peromyscus eremicus","Peromyscus_eremicus",35,270,"female",11.1,752,7.09115966923221,99.7617949782036,"Fall",88777
+10,-109.15292,31.923872,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",35,175,"male",13.5,368,7.70706091054092,134.436515651948,"Fall",89015
+3,-117.25139,32.83972,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",36.02,226,"male",15.8,174,3.16958796672184,104.29642368806,"Spring",88797
+3,-117.25139,32.83972,NA,1964,"Peromyscus eremicus","Peromyscus_eremicus",36.98,220,"male",15.8,174,3.16958796672184,104.29642368806,"Spring",88309

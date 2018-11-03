@@ -1,0 +1,601 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-106.167219,39.71089,"adult",1994,"Certhia americana","Certhia_americana",2,125,"undetermined",2.6,488,8.39556159797869,38.0701406053905,"Summer",17060
+4,-105.474,39.6323,NA,1992,"Certhia americana","Certhia_americana",4.6,119,"undetermined",5.3,543,7.20862278276804,81.8281046635687,"Spring",17063
+4,-105.474,39.6323,NA,1992,"Certhia americana","Certhia_americana",5.1,126,"undetermined",5.3,543,7.20862278276804,81.8281046635687,"Spring",17064
+10,-95.310688,38.9278999,NA,1988,"Certhia americana","Certhia_americana",5.7,NA,"male",13.4,596,10.7082239706714,61.2630810076131,"Fall",17082
+9,-122.50953,37.86879,"HY",2009,"Certhia americana","Certhia_americana",5.7,120,"f?",13.8,668,2.89278098344514,124.652663505277,"Fall",17613
+8,-108.3333,29.91071,"imm.sk.",1948,"Certhia americana albescens","Certhia_americana",5.8,NA,"female",11.2,444,6.70388286402332,119.926397434996,"Summer",17096
+6,-123.61833,40.91792,"u imm.",1942,"Certhia americana zelotes","Certhia_americana",5.8,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Summer",17247
+6,-118.868273,37.872789,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",5.8,NA,"male",4.2,324,7.1714659758256,76.7990048348649,"Summer",17256
+11,-104.9498377246,39.7496303006,"immature",1986,"Certhia americana","Certhia_americana",5.8,114,"undetermined",11.3,346,7.86655270847094,65.4018034733266,"Fall",17297
+10,-122.40578,37.59933,"U",1990,"Certhia americana occidentalis","Certhia_americana",5.8,NA,"undetermined",13.8,368,3.71413149030466,112.430880410628,"Fall",17612
+6,-118.261045,37.712773,"uad",1954,"Certhia americana zelotes","Certhia_americana",5.9,NA,"male",1.4,303,6.17008300125892,86.7206712367888,"Summer",17119
+10,-72.92453112,41.30723064,"juvenile",2011,"Certhia americana americana","Certhia_americana",5.9,NA,NA,12,1521,9.4336398386869,49.5200817991696,"Fall",17284
+1,-120.72455,40.44879,"u ad.",1943,"Certhia americana zelotes","Certhia_americana",5.9,NA,"male",8.7,552,7.03303891384346,127.757676626902,"Winter",17518
+4,-73.258743,41.14451,NA,2005,"Certhia americana","Certhia_americana",5.9,NA,"female",11.5,1146,9.98894464653374,55.3824654291191,"Spring",17561
+7,-121.530840063,40.4125823385,"skull",2006,"Certhia americana zelotes","Certhia_americana",6,NA,"female",8.1,2962,7.22288031189774,106.173989785825,"Summer",17160
+6,-108.14806,28.56806,"juv.",1957,"Certhia americana albescens","Certhia_americana",6,NA,"female",12.2,668,4.62590695448094,114.900395304386,"Summer",17347
+10,-106.7906900972,29.5140299027,"juv.",1968,"Certhia americana albescens","Certhia_americana",6,NA,"male",11.2,667,5.97075575136215,169.023456406338,"Fall",17380
+6,-110.289,31.429,"juvenile",2013,"Certhia americana","Certhia_americana",6,NA,"male",15,660,7.07483804290482,110.907736070847,"Summer",17584
+6,-110.866,33.293,"mature",2013,"Certhia americana","Certhia_americana",6,NA,"male",14,689,8.05453006360114,95.421687283244,"Summer",17616
+7,-121.537483333,40.3697933333,"juvenile skull",2006,"Certhia americana zelotes","Certhia_americana",6.04,NA,"undetermined",8.6,2125,7.20284034884219,103.402302135009,"Summer",17162
+8,-118.18594,37.57547,"u ad.",1917,"Certhia americana zelotes","Certhia_americana",6.1,NA,"female ?",0.4,191,8.10536672192996,167.009636203242,"Summer",17171
+10,-105.0808333333,39.7047222222,NA,1992,"Certhia americana","Certhia_americana",6.1,126,"undetermined",10.4,423,8.19177340477332,83.6644553675258,"Fall",17298
+7,-121.62709,40.35075,"juvenile skull",2006,"Certhia americana zelotes","Certhia_americana",6.18,NA,"female",9.9,1616,7.2931890185711,100.92670880767,"Summer",17163
+10,-76.655259,42.276659,NA,1993,"Certhia americana","Certhia_americana",6.19999980926514,127,"male",7.1,1020,10.2401578763871,47.9865543775618,"Fall",17052
+10,-76.628457,42.267237,NA,1993,"Certhia americana","Certhia_americana",6.19999980926514,127,"male",7.3,1025,10.2961893509937,47.8902832091466,"Fall",17289
+2,-104.978446,39.690977,NA,1992,"Certhia americana","Certhia_americana",6.2,110,"undetermined",10.7,404,8.39409514678821,80.4360238082768,"Winter",17296
+6,-120.7617707,41.8993424,"ad.",1949,"Certhia americana zelotes","Certhia_americana",6.2,NA,"male",6.8,368,8.90928609866575,93.7607611271232,"Summer",17326
+6,-120.3778808,41.4513243,"u ad.",1926,"Certhia americana zelotes","Certhia_americana",6.2,NA,"male",10.6,338,7.56150538162631,101.08410502856,"Summer",17410
+7,-122.54249,37.90446,"adult",2002,"Certhia americana","Certhia_americana",6.2,NA,"undetermined",14.1,874,3.01334154597969,176.40592906484,"Summer",17558
+10,-105.0806727,40.574852,NA,1995,"Certhia americana","Certhia_americana",6.3,132,"undetermined",9.3,495,8.00909993808179,119.677049675524,"Fall",17061
+12,-120.0705,40.31451,"u ad.",1924,"Certhia americana zelotes","Certhia_americana",6.3,NA,"female",8.8,149,8.08051809770096,107.293383086489,"Winter",17176
+3,-91.4907073,44.8098524,NA,1976,"Certhia americana americana","Certhia_americana",6.3,NA,"undetermined",6.1,466,12.6053980740816,68.5167653833367,"Spring",17319
+1,-123.61833,40.91792,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",6.3,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",17494
+11,-83.6130371,42.2411385,NA,2013,"Certhia americana americana","Certhia_americana",6.3,NA,"female",9.8,936,10.2574437125022,54.8848332158114,"Fall",17540
+6,-110.863,31.694,NA,2013,"Certhia americana","Certhia_americana",6.3,NA,"male",13.6,652,7.1674136326724,122.294367788443,"Summer",17579
+7,-122.83109,38.4002,"U-Ad.",1990,"Certhia americana","Certhia_americana",6.3,NA,"male",14.3,502,4.99724166340034,125.65858506286,"Summer",17611
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Certhia americana albescens","Certhia_americana",6.4,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",17346
+7,-108.14806,28.56806,"imm.",1957,"Certhia americana albescens","Certhia_americana",6.4,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",17348
+10,-105.4389402,40.1215683,NA,1997,"Certhia americana","Certhia_americana",6.45,127,"undetermined",3.8,779,8.06150598758562,68.1520044685903,"Fall",17066
+5,-108.2147,35.1485333333,NA,2009,"Certhia americana","Certhia_americana",6.5,NA,"male",8,282,7.59917758708138,39.9390457008773,"Spring",17085
+7,-108.14806,28.56806,"u ad.",1957,"Certhia americana albescens","Certhia_americana",6.5,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",17132
+12,-122.10929,40.17771,"u ad.",1927,"Certhia americana zelotes","Certhia_americana",6.5,NA,"female ?",17.1,697,7.27884023396002,99.7969233031601,"Winter",17182
+3,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",6.5,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",17190
+5,-109.2839,31.915,"u ad.",1936,"Certhia americana albescens","Certhia_americana",6.5,NA,"male",9.4,514,6.86923311850483,86.932153254207,"Spring",17204
+7,-119.279393,38.461747,"u ad.",1946,"Certhia americana zelotes","Certhia_americana",6.5,NA,"male",2.7,649,6.71801625662237,135.119478282975,"Summer",17268
+5,-145.741,60.546,"AHY",2006,"Certhia americana","Certhia_americana",6.5,NA,"female",4.8,4069,6.55540489469059,73.1544106878124,"Spring",17276
+11,-105.0806727,40.574852,NA,1995,"Certhia americana","Certhia_americana",6.5,125,"undetermined",9.3,495,8.00909993808179,119.677049675524,"Fall",17301
+10,-104.761668,39.947502,NA,1996,"Certhia americana","Certhia_americana",6.5,115,"undetermined",10.2,324,9.07001386521275,88.9568015028656,"Fall",17302
+6,-118.67839,37.78958,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",6.5,NA,"male",4.2,272,7.17438097847072,76.9294133185257,"Summer",17508
+9,-85.0389709,46.6510859,NA,1996,"Certhia americana americana","Certhia_americana",6.5,NA,"female",3.9,827,10.3763243039434,58.8229600658142,"Fall",17536
+6,-109.158,33.811,NA,2012,"Certhia americana","Certhia_americana",6.5,NA,"female",7.9,381,6.89116144496746,109.569336202746,"Summer",17567
+10,-119.881282,37.588966,"imm.",1915,"Certhia americana zelotes","Certhia_americana",6.6,NA,"male",12.9,966,6.24009518186925,121.651065720146,"Fall",17170
+6,-118.580792,37.814991,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",6.6,NA,"female",8,141,7.9230914918281,67.397246054092,"Summer",17258
+11,-105.0265,39.7626,"immature",1993,"Certhia americana","Certhia_americana",6.6,123,"undetermined",9.6,411,8.71781092205648,48.670053965631,"Fall",17295
+6,-111.885,35.847,NA,2013,"Certhia americana","Certhia_americana",6.6,NA,"male",8.9,380,8.55190923216281,93.6471862101149,"Summer",17578
+10,-105.83417,23.46889,"unknown",1946,"Certhia americana albescens","Certhia_americana",6.7,NA,"female",17.6,1187,2.77319419814157,108.597016186447,"Fall",17093
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Certhia americana albescens","Certhia_americana",6.7,NA,"male",14.3,459,5.82868429459519,151.355595038893,"Summer",17131
+6,-121.5601336,40.3581265,"u ad.",1924,"Certhia americana zelotes","Certhia_americana",6.7,NA,"male",8.1,904,6.88238859170802,103.758398764678,"Summer",17174
+3,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",6.7,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",17188
+6,-114.57833,37.90114,"ad.sk.",1972,"Certhia americana montana","Certhia_americana",6.7,NA,"female ?",5.8,370,8.10265108131003,106.359814975483,"Summer",17382
+6,-120.72343,40.74064,"full skull ossification",2006,"Certhia americana zelotes","Certhia_americana",6.7,NA,"female",9.1,494,8.17896414868378,90.5761307971175,"Summer",17383
+3,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",6.7,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",17415
+6,-122.9107,44.2042,"u ad.",1938,"Certhia americana montana","Certhia_americana",6.7,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",17448
+7,-118.4086,44.2483,"u ad.",1938,"Certhia americana montana","Certhia_americana",6.7,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",17456
+6,-110.862,31.695,NA,2013,"Certhia americana","Certhia_americana",6.7,NA,"male",13.5,654,7.1674136326724,122.548959629357,"Summer",17565
+6,-109.957,32.71,NA,2012,"Certhia americana","Certhia_americana",6.7,NA,"undetermined",9.9,501,6.235723087521,159.587730824195,"Summer",17620
+6,-111.518,34.942,NA,2012,"Certhia americana","Certhia_americana",6.7,NA,"male",8.5,503,7.34046485193031,86.5774717610062,"Summer",17624
+8,-108.3333,29.91071,"ad.sk.",1948,"Certhia americana albescens","Certhia_americana",6.8,NA,"female",11.2,444,6.70388286402332,119.926397434996,"Summer",17098
+8,-108.4167461155,30.0146438844,"ad.sk.",1948,"Certhia americana albescens","Certhia_americana",6.8,NA,"female",13.1,351,6.92931300980687,121.571115249925,"Summer",17101
+7,-108.4167461155,30.0146438844,"unknown",1948,"Certhia americana albescens","Certhia_americana",6.8,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",17102
+7,-106.8987177777,29.3920969444,"imm.",1959,"Certhia americana albescens","Certhia_americana",6.8,NA,"male",14.4,416,6.22801588133667,161.139334141977,"Summer",17135
+6,-122.50232,37.73284,"U-Ad.",1984,"Certhia americana","Certhia_americana",6.8,NA,"female",13.5,387,2.67450080303868,144.465095056101,"Summer",17607
+6,-109.303,31.784,NA,2013,"Certhia americana","Certhia_americana",6.8,NA,"female",13.5,550,7.23088388913706,127.408617185378,"Summer",17640
+9,-122.74009,37.93065,"unknown",2006,"Certhia americana","Certhia_americana",6.84,125,"undetermined",13,707,2.29431114637131,108.316914534555,"Fall",17559
+7,-121.62709,40.35075,"skull",2006,"Certhia americana zelotes","Certhia_americana",6.85,NA,"male",9.9,1616,7.2931890185711,100.92670880767,"Summer",17164
+6,-120.794605,40.663347,"skull",2006,"Certhia americana zelotes","Certhia_americana",6.87,NA,"male",9.1,570,8.12095586999611,90.642643550796,"Summer",17158
+7,-76.4809,42.4466,NA,2006,"Certhia americana","Certhia_americana",6.9,NA,"undetermined",9.8,1103,8.53376537732035,50.24856585868,"Summer",17056
+6,-120.72343,40.74064,"full skull ossification",2006,"Certhia americana zelotes","Certhia_americana",6.9,NA,"male",9.1,494,8.17896414868378,90.5761307971175,"Summer",17157
+7,-121.5683115,40.3679948,"ad.",1925,"Certhia americana zelotes","Certhia_americana",6.9,NA,"male",8.2,1324,6.1550422788593,86.9812637194805,"Summer",17177
+1,-123.3713575,38.9631181,"unknown",1937,"Certhia americana occidentalis","Certhia_americana",6.9,NA,"female",13.5,1432,5.0636778465196,103.619203428826,"Winter",17207
+6,-106.770421,29.485097,"ad.",1959,"Certhia americana albescens","Certhia_americana",6.9,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",17351
+4,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",6.9,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",17417
+6,-123.61833,40.91792,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",6.9,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Summer",17493
+3,-122.4146917,38.5618333,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",6.9,NA,"female",14.3,1631,4.77597364339715,100.325780752908,"Spring",17510
+9,-83.7172365,42.2893102,NA,2008,"Certhia americana americana","Certhia_americana",6.9,NA,"undetermined",9.5,1004,10.298705420262,46.9655815852892,"Fall",17537
+12,-105.163776,39.794199,NA,2012,"Certhia americana","Certhia_americana",7,138,"undetermined",12.3,250,8.69623307512912,66.8197031366702,"Winter",17075
+10,-111.6766,35.3429,"u ad.",1922,"Certhia americana montana","Certhia_americana",7,NA,"male",-0.6,1504,8.21133732141486,68.7858903809985,"Fall",17173
+5,-123.50169,40.47157,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",7,NA,"male",10.6,1177,6.91222018448399,101.695625034038,"Spring",17194
+10,-119.7675,39.35528,"imm.",1934,"Certhia americana zelotes","Certhia_americana",7,NA,"undetermined",11.3,183,6.61286051889984,63.3374243824665,"Fall",17201
+6,-122.9107,44.2042,"u ad.",1938,"Certhia americana zelotes","Certhia_americana",7,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",17211
+6,-122.9107,44.2042,"u ad.",1938,"Certhia americana montana","Certhia_americana",7,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",17212
+6,-120.9544,44.4383,"u ad.",1938,"Certhia americana montana","Certhia_americana",7,NA,"female",7.1,360,7.35198901143374,59.0537256981254,"Summer",17213
+6,-118.442999,37.130962,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7,NA,"male",4.2,179,6.8663871670095,98.3799877660309,"Summer",17255
+7,-109.9019,45.0369,"u ad.",1947,"Certhia americana montana","Certhia_americana",7,NA,"female",0.5,885,8.63142602074044,51.1481606674381,"Summer",17270
+6,-120.742395,41.8959486,"u ad.",1948,"Certhia americana zelotes","Certhia_americana",7,NA,"male",5.9,556,7.59079885603138,55.1023653639579,"Summer",17325
+4,-96.6186111111,17.1191666666,"unknown",1950,"Certhia americana alticola","Certhia_americana",7,NA,"female",16.9,685,1.39870069577577,92.7333710624779,"Spring",17331
+10,-116.962,46.8487,"u ad.",1951,"Certhia americana montana","Certhia_americana",7,NA,"male",6.9,798,7.91854363714271,77.4714078442981,"Fall",17335
+6,-115.3790212,41.8498935,"u ad.",1955,"Certhia americana montana","Certhia_americana",7,NA,"male",-0.2,1158,8.87780258779608,90.5853820475335,"Summer",17344
+6,-115.39083,41.81158,"u ad.",1956,"Certhia americana montana","Certhia_americana",7,NA,"male",1,1062,7.99630122827632,110.743796678215,"Summer",17345
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",17465
+9,-121.752126,36.372756,"ad",1934,"Certhia americana occidentalis","Certhia_americana",7,NA,"undetermined",12.8,887,4.63416168745271,129.771478826685,"Fall",17471
+9,-121.752126,36.372756,"imm.",1934,"Certhia americana occidentalis","Certhia_americana",7,NA,"female",12.8,887,4.63416168745271,129.771478826685,"Fall",17472
+9,-121.752126,36.372756,"ad.",1934,"Certhia americana occidentalis","Certhia_americana",7,NA,"undetermined",12.8,887,4.63416168745271,129.771478826685,"Fall",17473
+1,-123.49471,40.41749,"ad.",1942,"Certhia americana zelotes","Certhia_americana",7,NA,"female",10.7,1852,6.11909579376997,99.0875652255093,"Winter",17496
+5,-145.741,60.546,"AHY",2006,"Certhia americana","Certhia_americana",7,NA,"male",4.8,4069,6.55540489469059,73.1544106878124,"Spring",17529
+6,-110.289,31.429,NA,2013,"Certhia americana","Certhia_americana",7,NA,"undetermined",15,660,7.07483804290482,110.907736070847,"Summer",17564
+6,-110.289,31.429,NA,2013,"Certhia americana","Certhia_americana",7,NA,"female",15,660,7.07483804290482,110.907736070847,"Summer",17566
+6,-109.957,32.71,NA,2012,"Certhia americana","Certhia_americana",7,NA,"male",9.9,501,6.235723087521,159.587730824195,"Summer",17571
+6,-110.734,34.419,NA,2012,"Certhia americana","Certhia_americana",7,NA,"undetermined",10,411,7.73731611129212,116.925627649238,"Summer",17572
+6,-110.734,34.419,NA,2012,"Certhia americana","Certhia_americana",7,NA,"male",10,411,7.73731611129212,116.925627649238,"Summer",17573
+6,-110.734,34.419,NA,2012,"Certhia americana","Certhia_americana",7,NA,"male",10,411,7.73731611129212,116.925627649238,"Summer",17574
+6,-111.38,34.454,NA,2012,"Certhia americana","Certhia_americana",7,NA,"male",10.6,519,7.41192221418243,101.691698036226,"Summer",17575
+6,-112.421,34.412,"juvenile",2013,"Certhia americana","Certhia_americana",7,NA,"female",11.2,744,7.54603548329529,106.555978343168,"Summer",17580
+10,-72.9292,41.3125,NA,1967,"Certhia americana americana","Certhia_americana",7,NA,"male",9.7,1145,9.06222178256324,32.4923513000606,"Fall",17593
+6,-110.289,31.429,"juvenile",2013,"Certhia americana","Certhia_americana",7,NA,"undetermined",15,660,7.07483804290482,110.907736070847,"Summer",17617
+6,-112.421,34.412,NA,2013,"Certhia americana","Certhia_americana",7,NA,"female",11.2,744,7.54603548329529,106.555978343168,"Summer",17618
+6,-110.866,33.293,"juvenile",2013,"Certhia americana","Certhia_americana",7,NA,"female",14,689,8.05453006360114,95.421687283244,"Summer",17619
+6,-110.734,34.419,NA,2012,"Certhia americana","Certhia_americana",7,NA,"female",10,411,7.73731611129212,116.925627649238,"Summer",17621
+6,-111.38,34.454,NA,2012,"Certhia americana","Certhia_americana",7,NA,"male",10.6,519,7.41192221418243,101.691698036226,"Summer",17623
+6,-109.304,31.784,NA,2013,"Certhia americana","Certhia_americana",7,NA,"male",13.5,549,7.22625683731127,127.408617185378,"Summer",17629
+7,-121.62709,40.35075,"skull",2006,"Certhia americana zelotes","Certhia_americana",7.05,NA,"male",9.9,1616,7.2931890185711,100.92670880767,"Summer",17165
+12,-118.34743,46.05875,NA,1992,"Certhia americana","Certhia_americana",7.1,NA,"female",12.9,378,7.96219761806318,46.9798367839643,"Winter",17051
+6,-121.567023,40.5342838,"u ad.",1926,"Certhia americana zelotes","Certhia_americana",7.1,NA,"male",8.7,1190,6.53500481092309,127.108430590412,"Summer",17178
+6,-121.5833,44.0053,"u ad.",1938,"Certhia americana zelotes","Certhia_americana",7.1,NA,"male",4.2,1125,6.97025607111889,92.2697494668034,"Summer",17214
+9,-108.215,35.1420166667,"HY",2008,"Certhia americana","Certhia_americana",7.1,NA,"undetermined",7.8,410,7.6628333631572,65.4082940812976,"Fall",17320
+7,-121.537483333,40.3697933333,"skull",2006,"Certhia americana zelotes","Certhia_americana",7.1,NA,"female",8.6,2125,7.20284034884219,103.402302135009,"Summer",17387
+4,-119.97194,39.25139,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",7.1,NA,"male",5.6,809,7.44704029067314,130.668529777137,"Spring",17441
+7,-117.3257,45.2124,"u ad.",1938,"Certhia americana montana","Certhia_americana",7.1,NA,"male",1.2,1660,6.5231522404061,85.3036181365412,"Summer",17461
+10,-87.3935394,46.5456314,"immature",2002,"Certhia americana americana","Certhia_americana",7.1,NA,"male",7,919,9.58875604154378,48.4893848773194,"Fall",17534
+3,-105.0806727,40.574852,"adult",1992,"Certhia americana","Certhia_americana",7.2,127,"undetermined",9.1,456,8.49963902976848,87.7273783836662,"Spring",17059
+5,-121.12136,41.56081,"u ad.",1948,"Certhia americana zelotes","Certhia_americana",7.2,NA,"male",6.9,534,7.6679182114163,55.7253413422282,"Spring",17090
+7,-121.530840063,40.4125823385,"adult skull",2006,"Certhia americana zelotes","Certhia_americana",7.2,NA,"female",8.1,2962,7.22288031189774,106.173989785825,"Summer",17161
+4,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",7.2,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",17192
+5,-123.50169,40.47157,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",7.2,NA,"male",10.6,1177,6.91222018448399,101.695625034038,"Spring",17195
+5,-109.2839,31.915,"u ad.",1936,"Certhia americana albescens","Certhia_americana",7.2,NA,"male",9.4,514,6.86923311850483,86.932153254207,"Spring",17203
+1,-123.3713575,38.9631181,"u ad.",1937,"Certhia americana occidentalis","Certhia_americana",7.2,NA,"female",13.5,1432,5.0636778465196,103.619203428826,"Winter",17205
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.2,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",17222
+3,-100.751422,19.716421,"u ad.",1961,"Certhia americana jaliscensis","Certhia_americana",7.2,NA,"female",14.6,930,2.09067192330817,115.374337858318,"Spring",17359
+5,-114.10722,39.01722,"u ad.",1934,"Certhia americana montana","Certhia_americana",7.2,NA,"female",12,145,8.45472792243631,67.979497800529,"Spring",17428
+9,-114.10722,39.01722,"imm.",1934,"Certhia americana montana","Certhia_americana",7.2,NA,"female",12,145,8.45472792243631,67.979497800529,"Fall",17429
+5,-109.2839,31.915,"u ad.",1936,"Certhia americana albescens","Certhia_americana",7.2,NA,"male",9.4,514,6.86923311850483,86.932153254207,"Spring",17438
+6,-121.3146,43.7203,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",7.2,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",17442
+5,-118.236849,36.587269,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.2,NA,"male",4.4,247,6.7416558976578,147.673172057411,"Spring",17498
+6,-118.442999,37.130962,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.2,NA,"male",4.2,179,6.8663871670095,98.3799877660309,"Summer",17504
+7,-112.863476,45.423143,"u ad.",1947,"Certhia americana montana","Certhia_americana",7.2,NA,"undetermined",3.3,484,8.29594187028522,64.1789972549058,"Summer",17525
+11,-73.258743,41.14451,NA,2011,"Certhia americana","Certhia_americana",7.2,117,"female",12.2,1530,9.53522973297477,51.0779267187102,"Fall",17562
+6,-109.931,32.705,NA,2012,"Certhia americana","Certhia_americana",7.2,NA,"male",8.7,638,6.10228471868355,165.014846753252,"Summer",17568
+6,-109.957,32.71,NA,2012,"Certhia americana","Certhia_americana",7.2,NA,"male",9.9,501,6.235723087521,159.587730824195,"Summer",17569
+6,-109.957,32.71,NA,2012,"Certhia americana","Certhia_americana",7.2,NA,"female",9.9,501,6.235723087521,159.587730824195,"Summer",17570
+6,-110.734,34.419,NA,2012,"Certhia americana","Certhia_americana",7.2,NA,"male",10,411,7.73731611129212,116.925627649238,"Summer",17622
+6,-110.869,31.692,NA,2013,"Certhia americana","Certhia_americana",7.2,NA,"male",13.6,645,7.17254867850017,121.528545349729,"Summer",17634
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",7.2,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",17650
+10,-117.164293,46.730767,NA,1973,"Certhia americana","Certhia_americana",7.3,NA,"male",8.6,524,7.4581407627078,109.643696085904,"Fall",17046
+10,-109.2779833333,31.9431333333,"ad",2007,"Certhia americana albescens","Certhia_americana",7.3,NA,"male",11.6,661,7.060367403952,101.290524141789,"Fall",17084
+8,-106.8987177777,29.3920969444,"imm.",1961,"Certhia americana albescens","Certhia_americana",7.3,NA,"undetermined",13.9,408,6.2050504844966,116.088641244644,"Summer",17141
+12,-119.543781,37.752415,"u ad.",1914,"Certhia americana zelotes","Certhia_americana",7.3,NA,"female",9.5,899,6.98415414283713,171.398996967941,"Winter",17167
+7,-116.1454,44.9542,"u ad.",1932,"Certhia americana montana","Certhia_americana",7.3,NA,"male",3.9,936,8.76786487951625,71.9154831055055,"Summer",17185
+4,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",7.3,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",17193
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.3,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",17221
+10,-95.917,39.026,NA,1990,"Certhia americana","Certhia_americana",7.3,NA,"undetermined",13.3,917,9.34762974331899,62.7545722466214,"Fall",17313
+10,-75.0713272,38.3656158,NA,1966,"Certhia americana","Certhia_americana",7.3,NA,"female",12.9,925,8.80561115873213,40.6248558104783,"Fall",17317
+8,-108.3333,29.91071,"ad.",1948,"Certhia americana albescens","Certhia_americana",7.3,NA,"male",11.2,444,6.70388286402332,119.926397434996,"Summer",17328
+6,-121.0618645,41.4301297,"u ad.",1958,"Certhia americana zelotes","Certhia_americana",7.3,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",17350
+8,-106.8987177777,29.3920969444,"unknown",1961,"Certhia americana albescens","Certhia_americana",7.3,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",17361
+8,-106.8987177777,29.3920969444,"imm.sk.",1961,"Certhia americana albescens","Certhia_americana",7.3,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",17362
+6,-120.756963,40.565523,"skull fully ossified",2006,"Certhia americana zelotes","Certhia_americana",7.3,NA,"female",9,779,8.07772845357511,94.7622375042123,"Summer",17384
+6,-120.781906,40.54848,"adult skull",2006,"Certhia americana zelotes","Certhia_americana",7.3,NA,"male",9.2,752,8.20380547321938,92.8542524944321,"Summer",17385
+12,-121.5955981,40.3477021,"ad.",1927,"Certhia americana zelotes","Certhia_americana",7.3,NA,"undetermined",9,1523,6.49425737000612,100.857192490312,"Winter",17411
+6,-122.9107,44.2042,"u ad.",1938,"Certhia americana montana","Certhia_americana",7.3,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",17450
+7,-118.4086,44.2483,"u ad.",1938,"Certhia americana montana","Certhia_americana",7.3,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",17459
+6,-121.7295,44.349,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",7.3,NA,"male",7.1,1062,5.63406172447121,67.9838195944789,"Summer",17485
+11,-134.3444444444,58.31,"juv.",1944,"Certhia americana occidentalis","Certhia_americana",7.3,NA,"male",4.2,2768,5.29295558151387,50.7737541860628,"Fall",17522
+7,-119.269072,38.468374,"u ad.",1946,"Certhia americana zelotes","Certhia_americana",7.3,NA,"male",3.7,550,6.85622919598512,133.948219827167,"Summer",17523
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",7.3,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",17600
+5,-96.46691,16.06749,"U-Ad.",1965,"Certhia americana alticola","Certhia_americana",7.3,NA,"female",15.4,1058,0.946284600664381,118.293539357867,"Spring",17609
+6,-109.304,31.784,NA,2013,"Certhia americana","Certhia_americana",7.3,NA,"undetermined",13.5,549,7.22625683731127,127.408617185378,"Summer",17628
+6,-111.877,35.894,NA,2013,"Certhia americana","Certhia_americana",7.3,NA,"male",8.4,404,8.50457987133279,84.8833090624382,"Summer",17631
+4,-82.4333333,42.9666667,NA,1993,"Certhia americana americana","Certhia_americana",7.3,NA,"female",8.8,812,10.0087537443556,47.3382666454627,"Spring",17646
+4,-82.9166667,42.6833333,NA,2012,"Certhia americana americana","Certhia_americana",7.3,NA,"female",11.2,673,9.00711419160466,39.5049002745225,"Spring",17648
+11,-105.0806727,40.574852,NA,1995,"Certhia americana","Certhia_americana",7.4,129,"undetermined",9.3,495,8.00909993808179,119.677049675524,"Fall",17062
+4,-103.9333,44.4833,NA,2011,"Certhia americana","Certhia_americana",7.4,NA,"female",6.4,739,10.2775424488483,93.9862502359533,"Spring",17073
+5,-108.8837166667,36.0799333333,NA,2013,"Certhia americana","Certhia_americana",7.4,NA,"male",5,635,8.97252962540598,72.7021014940082,"Spring",17087
+6,-115.36343,41.86105,"u ad.",1956,"Certhia americana montana","Certhia_americana",7.4,NA,"male",0.8,975,7.94371773888974,111.594794725002,"Summer",17125
+6,-115.20694,36.63139,"u ad.",1963,"Certhia americana leucosticta","Certhia_americana",7.4,NA,"female",6.5,394,7.65416800696117,142.812990429918,"Summer",17147
+6,-115.65611,36.40167,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",7.4,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",17152
+2,-121.876782,36.393878,"u ad.",1933,"Certhia americana occidentalis","Certhia_americana",7.4,NA,"undetermined",11.4,510,3.19918313437551,147.086628387468,"Winter",17196
+4,-103.9333,44.4833,NA,2011,"Certhia americana","Certhia_americana",7.4,NA,"male",6.4,739,10.2775424488483,93.9862502359533,"Spring",17308
+3,-95.2598661,38.9549568,NA,1989,"Certhia americana","Certhia_americana",7.4,NA,"female",12.2,842,10.5332374372313,74.6673503267985,"Spring",17314
+12,-120.0705,40.31451,"u ad.",1924,"Certhia americana zelotes","Certhia_americana",7.4,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",17407
+5,-114.10722,39.01722,"u ad.",1934,"Certhia americana montana","Certhia_americana",7.4,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",17425
+6,-120.9544,44.4383,"u ad.",1938,"Certhia americana zelotes","Certhia_americana",7.4,NA,"male",7.1,360,7.35198901143374,59.0537256981254,"Summer",17451
+7,-118.4086,44.2483,"u ad.",1938,"Certhia americana montana","Certhia_americana",7.4,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",17458
+10,-121.9761882,37.875792,"imm.",1934,"Certhia americana zelotes","Certhia_americana",7.4,NA,"female",15.4,383,4.02556226074713,118.782835603614,"Fall",17470
+5,-83.6333333,42.8,NA,1991,"Certhia americana americana","Certhia_americana",7.4,NA,"male",9.7,799,10.0870266213888,42.7043026830126,"Spring",17588
+6,-110.871,31.692,"juvenile",2013,"Certhia americana","Certhia_americana",7.4,NA,"male",13.6,644,7.17311373157157,121.30337617413,"Summer",17632
+10,-105.0806727,40.574852,NA,1996,"Certhia americana","Certhia_americana",7.5,138,"undetermined",9.3,367,8.90743645738909,85.9527040363278,"Fall",17065
+5,-120.742395,41.8959486,"u ad.",1948,"Certhia americana zelotes","Certhia_americana",7.5,NA,"male",5.9,556,7.59079885603138,55.1023653639579,"Spring",17091
+9,-123.1358556,40.315747,"u ad.",1949,"Certhia americana zelotes","Certhia_americana",7.5,NA,"female",9.4,1281,6.87278338922096,146.948460928128,"Fall",17095
+8,-108.3333,29.91071,"ad.sk.",1948,"Certhia americana albescens","Certhia_americana",7.5,NA,"male",11.2,444,6.70388286402332,119.926397434996,"Summer",17099
+6,-115.3790212,41.8498935,"u ad.",1955,"Certhia americana montana","Certhia_americana",7.5,NA,"male",-0.2,1158,8.87780258779608,90.5853820475335,"Summer",17127
+6,-106.770421,29.485097,"ad.",1959,"Certhia americana albescens","Certhia_americana",7.5,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",17133
+6,-106.770421,29.485097,"ad.",1959,"Certhia americana albescens","Certhia_americana",7.5,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",17134
+6,-115.28361,36.63,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",7.5,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",17148
+8,-106.8987177777,29.3920969444,"sk.oss.",1961,"Certhia americana albescens","Certhia_americana",7.5,NA,"female",13.9,408,6.2050504844966,116.088641244644,"Summer",17156
+8,-119.39231,37.73082,"imm.",1915,"Certhia americana zelotes","Certhia_americana",7.5,NA,"male",4.7,933,6.33711410276911,122.055904220382,"Summer",17169
+6,-119.04701,34.827853,"unknown",1929,"Certhia americana zelotes","Certhia_americana",7.5,NA,"male",10.6,204,7.04665727759473,138.340499276856,"Summer",17183
+9,-114.28,38.96917,"imm.",1934,"Certhia americana montana","Certhia_americana",7.5,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",17198
+9,-114.28,38.96917,"u ad.",1934,"Certhia americana montana","Certhia_americana",7.5,NA,"undetermined",7.3,517,7.1378419623012,83.1565094368637,"Fall",17199
+1,-123.3713575,38.9631181,"u ad.",1937,"Certhia americana occidentalis","Certhia_americana",7.5,NA,"female",13.5,1432,5.0636778465196,103.619203428826,"Winter",17206
+6,-121.7295,44.349,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",7.5,NA,"female",7.1,1062,5.63406172447121,67.9838195944789,"Summer",17242
+9,-123.34811,40.69934,"imm.",1942,"Certhia americana zelotes","Certhia_americana",7.5,NA,"female",10.7,1528,6.55894023220954,102.554334440198,"Fall",17262
+9,-123.3420878,38.6811173,"ad.",1944,"Certhia americana zelotes","Certhia_americana",7.5,NA,"male",12.9,1100,2.97331566783718,92.5761462644748,"Fall",17266
+6,-123.0218589,40.2528009,"u ad.",1946,"Certhia americana zelotes","Certhia_americana",7.5,NA,"male",9.1,900,6.53199584330622,100.72331767489,"Summer",17267
+8,-114.650885,43.795356,NA,1948,"Certhia americana","Certhia_americana",7.5,NA,"female",1.3,804,8.99630816535653,62.5912058991461,"Summer",17309
+8,-107.51335,33.8777833333,NA,2011,"Certhia americana","Certhia_americana",7.5,NA,"undetermined",9.7,317,8.12718502088124,102.47498348144,"Summer",17322
+4,-96.6186111111,17.1191666666,"u ad.",1950,"Certhia americana alticola","Certhia_americana",7.5,NA,"male",16.9,685,1.39870069577577,92.7333710624779,"Spring",17330
+11,-120.2418191,39.4319423,"ad.",1950,"Certhia americana zelotes","Certhia_americana",7.5,NA,"male",4.8,1351,6.64180972052319,90.9628752234192,"Fall",17333
+6,-115.18725,36.65306,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",7.5,NA,"male",4.5,458,7.58952128485936,149.990582192049,"Summer",17369
+6,-114.83722,39.16167,"ad.sk.",1973,"Certhia americana montana","Certhia_americana",7.5,NA,"male",6.3,293,9.06246003125982,60.8838796375458,"Summer",17381
+8,-122.0691039,41.5779164,"juv.",1920,"Certhia americana zelotes","Certhia_americana",7.5,NA,"female ?",8.1,632,6.74534631947812,105.603309441085,"Summer",17402
+9,-114.28,38.96917,"ad.",1934,"Certhia americana montana","Certhia_americana",7.5,NA,"female",7.3,517,7.1378419623012,83.1565094368637,"Fall",17434
+10,-119.7675,39.35528,"imm.",1934,"Certhia americana zelotes","Certhia_americana",7.5,NA,"female",11.3,183,6.61286051889984,63.3374243824665,"Fall",17436
+6,-121.3146,43.7203,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",7.5,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",17447
+6,-121.5351,44.0323,"u ad.",1938,"Certhia americana zelotes","Certhia_americana",7.5,NA,"male",5.4,850,6.97584577255147,89.4521605666682,"Summer",17454
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.5,NA,"undetermined",12.7,2060,4.3761751668448,147.037758936133,"Fall",17464
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.5,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",17469
+5,-118.245112,36.581746,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.5,NA,"female",2.3,312,6.59896686128697,155.633303164937,"Spring",17499
+6,-118.868273,37.872789,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.5,NA,"male",4.2,324,7.1714659758256,76.7990048348649,"Summer",17505
+9,-123.34811,40.69934,"ad.",1942,"Certhia americana zelotes","Certhia_americana",7.5,NA,"undetermined",10.7,1528,6.55894023220954,102.554334440198,"Fall",17516
+10,-96.46691,16.06749,"U-Ad.",1964,"Certhia americana alticola","Certhia_americana",7.5,NA,"male",15.5,1162,0.992204463288539,118.850131965233,"Fall",17551
+4,-72.1333,42,NA,1975,"Certhia americana americana","Certhia_americana",7.5,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Spring",17601
+10,-72.5989,41.2794,NA,1974,"Certhia americana americana","Certhia_americana",7.5,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",17606
+5,-111.541,34.953,NA,2012,"Certhia americana","Certhia_americana",7.5,NA,"male",8.3,514,7.28802982896467,86.1592380252924,"Spring",17625
+6,-109.303,31.784,NA,2013,"Certhia americana","Certhia_americana",7.5,NA,"undetermined",13.5,550,7.23088388913706,127.408617185378,"Summer",17626
+6,-109.303,31.784,"juvenile",2013,"Certhia americana","Certhia_americana",7.5,NA,"male",13.5,550,7.23088388913706,127.408617185378,"Summer",17627
+6,-112.421,34.412,NA,2013,"Certhia americana","Certhia_americana",7.5,NA,"male",11.2,744,7.54603548329529,106.555978343168,"Summer",17630
+6,-112.421,34.412,NA,2013,"Certhia americana","Certhia_americana",7.5,NA,"male",11.2,744,7.54603548329529,106.555978343168,"Summer",17635
+4,-82.4333333,42.9666667,NA,1994,"Certhia americana americana","Certhia_americana",7.52,NA,"male",8.8,804,10.6539649753962,46.0897658089497,"Spring",17589
+8,-108.3333,29.91071,"ad.sk.",1948,"Certhia americana albescens","Certhia_americana",7.6,NA,"male",11.2,444,6.70388286402332,119.926397434996,"Summer",17100
+11,-122.1128861,40.8288238,"ad.sk.",1951,"Certhia americana zelotes","Certhia_americana",7.6,NA,"male",14.4,2172,7.88097056013388,110.521781153293,"Fall",17106
+11,-122.5214242,41.4260748,"imm.sk.",1951,"Certhia americana zelotes","Certhia_americana",7.6,NA,"female",9.5,1385,7.5370398497666,101.477980393632,"Fall",17107
+2,-97.61539,30.19711,"imm.sk.",1952,"Certhia americana montana ?","Certhia_americana",7.6,NA,"female ?",19.8,887,6.78100622728998,70.0661863505369,"Winter",17109
+6,-115.21645,41.84056,"u ad.",1955,"Certhia americana montana","Certhia_americana",7.6,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",17124
+6,-115.21645,41.84056,"u ad.",1955,"Certhia americana montana","Certhia_americana",7.6,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",17126
+6,-115.18622,36.65722,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",7.6,NA,"female",4.5,459,7.58952128485936,149.714972366423,"Summer",17145
+6,-121.426729,35.970256,"u ad.",1919,"Certhia americana occidentalis","Certhia_americana",7.6,NA,"male",12,836,4.83662635991809,153.482176094761,"Summer",17172
+7,-118.4086,44.2483,"u imm.",1938,"Certhia americana zelotes","Certhia_americana",7.6,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",17215
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.6,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",17224
+11,-105.5538,35.7735333333,NA,2012,"Certhia americana","Certhia_americana",7.6,NA,"female",4,629,7.17132336377874,60.4220255000413,"Fall",17323
+4,-119.3150309,34.6398086,"u ad.",1957,"Certhia americana zelotes","Certhia_americana",7.6,NA,"male",10.6,1004,6.31551120798482,109.719850041017,"Spring",17349
+7,-106.8987177777,29.3920969444,"unknown",1959,"Certhia americana albescens","Certhia_americana",7.6,NA,"undetermined",14.4,416,6.22801588133667,161.139334141977,"Summer",17352
+6,-120.14686,39.40084,"s.o.",1960,"Certhia americana zelotes","Certhia_americana",7.6,NA,"male",5.9,648,7.49731264985641,115.346510720111,"Summer",17353
+6,-115.18622,36.65722,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",7.6,NA,"male",4.5,459,7.58952128485936,149.714972366423,"Summer",17368
+6,-115.65611,36.40167,"ad.",1963,"Certhia americana leucosticta","Certhia_americana",7.6,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",17375
+7,-120.11166,37.75634,"juv.",1920,"Certhia americana zelotes","Certhia_americana",7.6,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",17401
+6,-109.9855,37.60606,"u ad.",1933,"Certhia americana montana","Certhia_americana",7.6,NA,"female",9.1,252,10.6597799738507,63.874389409279,"Summer",17424
+9,-114.28,38.96917,"imm.",1934,"Certhia americana montana","Certhia_americana",7.6,NA,"female",7.3,517,7.1378419623012,83.1565094368637,"Fall",17432
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.6,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",17466
+1,-123.47623,40.4313,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.6,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",17495
+6,-118.442999,37.130962,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.6,NA,"male",4.2,179,6.8663871670095,98.3799877660309,"Summer",17502
+8,-123.4568,40.45807,"ad.",1942,"Certhia americana zelotes","Certhia_americana",7.6,NA,"male",10.2,2118,6.39962120091115,99.0391196236951,"Summer",17512
+6,-123.0218589,40.2528009,"u ad.",1946,"Certhia americana zelotes","Certhia_americana",7.6,NA,"male",9.1,900,6.53199584330622,100.72331767489,"Summer",17521
+11,-105.5530333333,35.7651166667,NA,2010,"Certhia americana","Certhia_americana",7.6,NA,"female",3.3,1179,7.51138025487549,61.4228920646279,"Fall",17641
+4,-72.1333,42,NA,1975,"Certhia americana americana","Certhia_americana",7.6,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Spring",17654
+4,-72.1333,42,NA,1975,"Certhia americana americana","Certhia_americana",7.6,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Spring",17658
+7,-122.47953,37.72402,NA,1979,"Certhia americana","Certhia_americana",7.62,NA,"undetermined",13.6,692,2.75196899207337,105.987923674573,"Summer",17556
+11,-122.8862842,38.1174504,"ad.",1951,"Certhia americana occidentalis","Certhia_americana",7.7,NA,"female",12,903,2.55129200780524,117.81685870157,"Fall",17108
+2,-97.56546,30.11,"u ad.",1952,"Certhia americana montana ?","Certhia_americana",7.7,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",17110
+6,-115.18622,36.65722,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",7.7,NA,"male",4.5,459,7.58952128485936,149.714972366423,"Summer",17146
+6,-115.70313,36.32298,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",7.7,NA,"male",4.2,577,7.54483066058939,165.537799876979,"Summer",17150
+3,-123.4323207,40.3687961,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",7.7,NA,"male",10.9,1061,7.13722635202219,105.795560690905,"Spring",17187
+6,-121.3146,43.7203,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",7.7,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",17209
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.7,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",17223
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.7,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",17226
+6,-122.8741356,46.0084949,"u imm.",1941,"Certhia americana zelotes","Certhia_americana",7.7,NA,"male",12.1,959,4.73545620342385,69.8215869796105,"Summer",17231
+6,-118.580792,37.814991,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.7,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",17259
+4,-149.7972222222,61.0561111111,"skull doubled",1959,"Certhia americana montana","Certhia_americana",7.7,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Spring",17357
+8,-99.2341666666,19.0280555555,"ad.sk.",1964,"Certhia americana alticola","Certhia_americana",7.7,NA,"female",13.9,1395,2.02190654101669,104.686392095333,"Summer",17376
+7,-118.17378,37.49611,"ad.",1917,"Certhia americana zelotes","Certhia_americana",7.7,NA,"male",0.9,179,8.08132902361232,159.763341981202,"Summer",17396
+3,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",7.7,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",17416
+5,-114.10722,39.01722,"u ad.",1934,"Certhia americana montana","Certhia_americana",7.7,NA,"female",12,145,8.45472792243631,67.979497800529,"Spring",17426
+9,-114.28,38.96917,"imm.",1934,"Certhia americana montana","Certhia_americana",7.7,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",17431
+9,-114.28,38.96917,"ad.",1934,"Certhia americana montana","Certhia_americana",7.7,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",17433
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.7,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",17468
+6,-121.7295,44.349,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",7.7,NA,"male",7.1,1062,5.63406172447121,67.9838195944789,"Summer",17483
+6,-121.6479,44.3628,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",7.7,NA,"female",7.9,594,5.71316263314176,66.9000007133394,"Summer",17488
+5,-118.236849,36.587269,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.7,NA,"male",4.4,247,6.7416558976578,147.673172057411,"Spring",17501
+6,-118.580792,37.814991,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.7,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",17506
+3,-86.463089,41.9936912,NA,2004,"Certhia americana americana","Certhia_americana",7.7,NA,"female",9.6,953,9.34699352084872,65.4077054928034,"Spring",17535
+10,-97.03359,16.23414,"U-Ad.",1964,"Certhia americana alticola","Certhia_americana",7.7,NA,"female",16.5,1033,1.25263358931928,126.639857472511,"Fall",17553
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",7.7,NA,NA,10.5,1098,8.67623015467949,43.9919250647,"Fall",17603
+3,-86.0120944,44.5138667,"adult",2013,"Certhia americana americana","Certhia_americana",7.7,NA,"male",7.3,1059,10.3221298013716,31.181394909832,"Spring",17647
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",7.7,NA,NA,10.5,1098,8.67623015467949,43.9919250647,"Fall",17660
+6,-122.2474566,41.3544539,"u ad.",1960,"Certhia americana zelotes","Certhia_americana",7.8,NA,"male",6.8,1782,7.5414611557467,95.0288506842471,"Summer",17136
+4,-149.7972222222,61.0561111111,"u ad.",1959,"Certhia americana montana","Certhia_americana",7.8,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Spring",17138
+6,-121.7295,44.349,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",7.8,NA,"male",7.1,1062,5.63406172447121,67.9838195944789,"Summer",17241
+6,-121.6479,44.3628,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",7.8,NA,"male",7.9,594,5.71316263314176,66.9000007133394,"Summer",17244
+6,-118.580792,37.814991,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",7.8,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",17257
+9,-123.8083893,40.9028547,"u ad.",1942,"Certhia americana occidentalis","Certhia_americana",7.8,NA,"male",12.7,1785,4.83105484434724,105.430785533876,"Fall",17260
+10,-148.0094,64.847,"HY",2002,"Certhia americana","Certhia_americana",7.8,NA,"female",-0.4,336,11.6241487143504,119.777026081099,"Fall",17273
+11,-105.0806727,40.574852,NA,1993,"Certhia americana","Certhia_americana",7.8,132,"undetermined",7.9,431,9.02847347746746,53.3396460910442,"Fall",17300
+1,-101.950375,39.7000654,NA,1969,"Certhia americana","Certhia_americana",7.8,NA,"undetermined",10.4,481,10.08672620103,102.043402663202,"Winter",17310
+6,-118.168469,37.53385,"u ad.",1954,"Certhia americana zelotes","Certhia_americana",7.8,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",17338
+6,-150.0127777778,61.205,"skull doubled",1959,"Certhia americana montana","Certhia_americana",7.8,NA,"female",1.3,451,10.1654010637987,90.603958890618,"Summer",17356
+3,-100.751422,19.716421,"u ad.",1961,"Certhia americana jaliscensis","Certhia_americana",7.8,NA,"male",14.6,930,2.09067192330817,115.374337858318,"Spring",17360
+6,-115.19422,36.64165,"u ad.",1963,"Certhia americana leucosticta","Certhia_americana",7.8,NA,"female",5.3,444,7.58842819194083,145.724434282779,"Summer",17370
+6,-115.20694,36.63139,"u ad.",1963,"Certhia americana leucosticta","Certhia_americana",7.8,NA,"male",6.5,394,7.65416800696117,142.812990429918,"Summer",17373
+7,-121.530840063,40.4125823385,"skull unossified",2006,"Certhia americana zelotes","Certhia_americana",7.8,NA,"undetermined",8.1,2962,7.22288031189774,106.173989785825,"Summer",17386
+12,-119.598212,37.736686,"u ad.",1914,"Certhia americana zelotes","Certhia_americana",7.8,NA,"female",9.3,942,6.9558946007663,172.736308446662,"Winter",17391
+7,-120.11166,37.75634,"juv.",1923,"Certhia americana zelotes","Certhia_americana",7.8,NA,"male",12.3,564,6.37967297537478,138.732246351932,"Summer",17404
+5,-123.015054,40.394887,"u ad.",1926,"Certhia americana zelotes","Certhia_americana",7.8,NA,"female",11.7,1312,6.52795851888187,123.826324692807,"Spring",17409
+12,-121.9420326,40.3415818,"imm.",1927,"Certhia americana zelotes","Certhia_americana",7.8,NA,"undetermined",15.1,954,6.73315518816244,92.4141216423363,"Winter",17412
+7,-116.1454,44.9542,"u ad.",1932,"Certhia americana montana","Certhia_americana",7.8,NA,"female",3.9,936,8.76786487951625,71.9154831055055,"Summer",17413
+9,-114.10722,39.01722,"ad.",1934,"Certhia americana montana","Certhia_americana",7.8,NA,"male",12,145,8.45472792243631,67.979497800529,"Fall",17430
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.8,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",17467
+6,-123.14392,40.55443,"u ad.",1943,"Certhia americana zelotes","Certhia_americana",7.8,NA,"male",11.5,837,5.90030173856055,120.785766804994,"Summer",17519
+3,-122.46569,37.76946,"Adult",2013,"Certhia americana","Certhia_americana",7.8,122,"male",13.5,130,2.69522585774225,92.2937052339992,"Spring",17560
+12,-84.5833333,31.0666667,"adult",1946,"Certhia americana americana","Certhia_americana",7.8,NA,"female",20.1,1420,5.62237817686043,49.9954762684942,"Winter",17587
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",7.8,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",17594
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",7.8,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",17605
+7,-149.815389,61.140089,NA,2007,"Certhia americana alascensis","Certhia_americana",7.8,NA,"female",1.9,362,10.3249147035878,81.6014975279261,"Summer",17651
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",7.8,NA,NA,10.5,1098,8.67623015467949,43.9919250647,"Fall",17652
+10,-72.5989,41.2794,NA,1974,"Certhia americana americana","Certhia_americana",7.8,NA,NA,10.5,1098,8.67623015467949,43.9919250647,"Fall",17655
+4,-72.1333,42,NA,1975,"Certhia americana americana","Certhia_americana",7.8,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Spring",17656
+9,-123.1358556,40.315747,"ad.",1949,"Certhia americana zelotes","Certhia_americana",7.9,NA,"male",9.4,1281,6.87278338922096,146.948460928128,"Fall",17094
+6,-115.70722,36.42194,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",7.9,NA,"female",10.7,412,7.88063891426131,156.158481061255,"Summer",17154
+6,-114.53778,37.92778,"ad.sk.",1972,"Certhia americana montana","Certhia_americana",7.9,NA,"male",9.2,296,8.55390660352439,101.780350661252,"Summer",17155
+12,-119.598212,37.736686,"u ad.",1914,"Certhia americana zelotes","Certhia_americana",7.9,NA,"male",9.3,942,6.9558946007663,172.736308446662,"Winter",17168
+5,-118.268436,37.74241,"u ad.",1927,"Certhia americana zelotes","Certhia_americana",7.9,NA,"male",2.9,162,6.75389898615248,77.2922772159244,"Spring",17179
+12,-121.9420326,40.3415818,"u ad.",1927,"Certhia americana zelotes","Certhia_americana",7.9,NA,"female",15.1,954,6.73315518816244,92.4141216423363,"Winter",17181
+6,-123.5574082,40.6096034,"u ad.",1930,"Certhia americana zelotes","Certhia_americana",7.9,NA,"male",9,1619,5.90656414508469,102.559831880152,"Summer",17184
+11,-121.7523,36.3711,"ad.",1940,"Certhia americana occidentalis","Certhia_americana",7.9,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",17225
+2,-121.876782,36.393878,"u ad.",1933,"Certhia americana occidentalis","Certhia_americana",7.9,NA,"undetermined",11.4,510,3.19918313437551,147.086628387468,"Winter",17227
+6,-123.14392,40.55443,"juv.",1943,"Certhia americana zelotes","Certhia_americana",7.9,NA,"female",11.5,837,5.90030173856055,120.785766804994,"Summer",17264
+6,-118.168469,37.53385,"u ad.",1954,"Certhia americana zelotes","Certhia_americana",7.9,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",17341
+6,-115.36343,41.86105,"u ad.",1956,"Certhia americana montana","Certhia_americana",7.9,NA,"male",0.8,975,7.94371773888974,111.594794725002,"Summer",17342
+4,-149.8104,61.0776,"u ad.",1959,"Certhia americana montana","Certhia_americana",7.9,NA,"male",0,399,11.26161017068,93.926470274262,"Spring",17358
+6,-114.005,38.87472,"ad.sk.",1962,"Certhia americana montana","Certhia_americana",7.9,NA,"male",9.7,148,9.27954332079032,64.1545878549474,"Summer",17365
+12,-119.598212,37.736686,"u ad.",1914,"Certhia americana zelotes","Certhia_americana",7.9,NA,"male",9.3,942,6.9558946007663,172.736308446662,"Winter",17390
+9,-119.1436,37.91727,"imm.",1915,"Certhia americana zelotes","Certhia_americana",7.9,NA,"male",5.2,454,6.74543055210958,119.339869837633,"Fall",17394
+6,-121.426729,35.970256,"ad.",1919,"Certhia americana occidentalis","Certhia_americana",7.9,NA,"female",12,836,4.83662635991809,153.482176094761,"Summer",17397
+4,-123.4786419,40.4251158,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",7.9,NA,"female",11.1,1048,7.04373781626222,103.759245387763,"Spring",17421
+4,-123.43795,40.33289,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",7.9,NA,"female",10.8,1056,7.02438932965318,106.846751937995,"Spring",17422
+5,-145.741,60.546,"AHY",2006,"Certhia americana","Certhia_americana",7.9,NA,"female ?",4.8,4069,6.55540489469059,73.1544106878124,"Spring",17526
+10,-76.4861861,42.4506333,NA,2011,"Certhia americana","Certhia_americana",7.9,130,"male",9.8,1256,10.0202635603153,51.6808641290955,"Fall",17563
+4,-72.1333,42,NA,1975,"Certhia americana americana","Certhia_americana",7.9,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Spring",17597
+6,-104.42025,44.44875,NA,2008,"Certhia americana","Certhia_americana",8,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",17068
+6,-113.8685833333,47.7137,NA,2009,"Certhia americana","Certhia_americana",8,NA,"female",5.5,512,8.71499491472235,41.98975118461,"Summer",17069
+8,-114.8487,44.5969313,"immature",1948,"Certhia americana","Certhia_americana",8,NA,"male",2.2,795,8.83802048315153,62.2526108126819,"Summer",17076
+8,-114.8514776,44.5471332,"immature",1948,"Certhia americana","Certhia_americana",8,NA,"male",2.5,743,8.8947848186281,63.0290492854406,"Summer",17077
+4,-101.8814894,37.9990643,NA,1950,"Certhia americana","Certhia_americana",8,NA,"female",12.5,318,9.29686734466199,118.945494578839,"Spring",17079
+10,-105.83417,23.46889,"unknown",1946,"Certhia americana albescens","Certhia_americana",8,NA,"male",17.6,1187,2.77319419814157,108.597016186447,"Fall",17092
+4,-99.7311111111,17.5566666666,"u ad.",1950,"Certhia americana jaliscensis","Certhia_americana",8,NA,"female",16.9,1416,1.42148023574233,137.833895336236,"Spring",17105
+3,-116.9208,47.2469,"u ad.",1952,"Certhia americana montana","Certhia_americana",8,NA,"male",8.4,413,8.27308066178275,79.787977723558,"Spring",17115
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Certhia americana montana","Certhia_americana",8,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",17117
+4,-149.7972222222,61.0561111111,"u ad.",1959,"Certhia americana montana","Certhia_americana",8,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Spring",17137
+5,-149.7972222222,61.0561111111,"u ad.",1959,"Certhia americana montana","Certhia_americana",8,NA,"male",0.2,420,11.0997508844555,89.1684944818699,"Spring",17139
+5,-149.7972222222,61.0561111111,"u ad.",1959,"Certhia americana montana","Certhia_americana",8,NA,"male",0.2,420,11.0997508844555,89.1684944818699,"Spring",17140
+6,-115.69417,36.31573,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",8,NA,"male",4.7,585,7.53659255053152,166.320927145513,"Summer",17151
+8,-111.106,44.1296,"imm.",1939,"Certhia americana montana","Certhia_americana",8,NA,"female",4.3,639,9.28354686659374,67.6867962566796,"Summer",17216
+5,-123.9214,45.9354,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",8,NA,"male",11.4,1979,3.5703322992787,71.4642392431947,"Spring",17228
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17234
+1,-123.47623,40.4313,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",8,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",17249
+1,-123.47623,40.4313,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",8,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",17253
+9,-103.9333,44.4833,NA,2010,"Certhia americana","Certhia_americana",8,NA,"female",6.5,592,9.70621481632289,82.6623794832287,"Fall",17303
+5,-103.6573,43.6348,NA,2011,"Certhia americana","Certhia_americana",8,NA,"male",5.5,552,10.0604385710775,92.0074565296448,"Spring",17305
+4,-101.78469,37.1521231,NA,1950,"Certhia americana","Certhia_americana",8,NA,"female",13.5,457,8.51972310689625,120.003987155499,"Spring",17311
+10,-94.5757198,39.0350862,NA,2007,"Certhia americana","Certhia_americana",8,NA,"male",13.5,991,10.8192694258481,64.6410889007368,"Fall",17318
+11,-105.5553666667,35.7683333333,NA,2012,"Certhia americana","Certhia_americana",8,NA,"male",4,628,7.18721507999174,60.4220255000413,"Fall",17321
+9,-105.822524,36.058436,"imm.",1952,"Certhia americana montana","Certhia_americana",8,NA,"male",7.2,381,8.44764177242096,65.8506232087275,"Fall",17336
+6,-115.36343,41.86105,"u ad.",1956,"Certhia americana montana","Certhia_americana",8,NA,"male",0.8,975,7.94371773888974,111.594794725002,"Summer",17343
+12,-115.51,40.17,"u ad.",1927,"Certhia americana montana","Certhia_americana",8,NA,"male",6.4,562,8.10167865134732,57.6431713373589,"Winter",17363
+6,-115.18622,36.65722,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",8,NA,"male",4.5,459,7.58952128485936,149.714972366423,"Summer",17367
+6,-115.9446,48.2631,"u ad.",1966,"Certhia americana montana","Certhia_americana",8,NA,"female",6,1261,7.35574399343599,76.037495097777,"Summer",17377
+8,-132.4255555556,56.5897222222,"juv.",1919,"Certhia americana occidentalis","Certhia_americana",8,NA,"female",5.4,2071,6.1481889425039,42.5336794471752,"Summer",17400
+4,-123.4853,40.34014,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",8,NA,"female",10.6,1091,6.98986278965344,105.935643472532,"Spring",17419
+6,-121.3146,43.7203,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",8,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",17443
+12,-124.1530252,41.104244,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",8,NA,"male",12.2,1865,2.44619370376993,94.5728935259856,"Winter",17490
+12,-124.1530252,41.104244,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",8,NA,"female",12.2,1865,2.44619370376993,94.5728935259856,"Winter",17491
+5,-118.236849,36.587269,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",8,NA,"male",4.4,247,6.7416558976578,147.673172057411,"Spring",17500
+9,-123.8083893,40.9028547,"u ad.",1942,"Certhia americana occidentalis","Certhia_americana",8,NA,"male",12.7,1785,4.83105484434724,105.430785533876,"Fall",17515
+10,-72.6822,41.2889,"immature",1974,"Certhia americana americana","Certhia_americana",8,NA,NA,10.6,1090,8.73049340825106,44.7951602854713,"Fall",17595
+4,-73.298647,41.1953,"adult",1979,"Certhia americana americana","Certhia_americana",8,NA,"female",10.6,1459,9.28639849294101,56.3836947683283,"Spring",17596
+10,-118.34507,35.4793329,"imm.",1933,"Certhia americana zelotes","Certhia_americana",8,NA,"undetermined",8.2,270,8.08346610325201,165.121056109658,"Fall",17642
+10,-73.2053,41.1669,"immature",1983,"Certhia americana americana","Certhia_americana",8,NA,"female",11.1,1468,8.91631123618989,55.4804153321775,"Fall",17657
+1,-101.950375,39.7000654,NA,1969,"Certhia americana","Certhia_americana",8.1,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",17078
+2,-97.56546,30.11,"u ad.",1952,"Certhia americana montana ?","Certhia_americana",8.1,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",17112
+9,-105.822524,36.058436,"ad.",1952,"Certhia americana montana","Certhia_americana",8.1,NA,"undetermined",7.2,381,8.44764177242096,65.8506232087275,"Fall",17113
+4,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",8.1,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",17191
+6,-121.7295,44.349,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.1,NA,"male",7.1,1062,5.63406172447121,67.9838195944789,"Summer",17243
+4,-83.7263412,42.2708397,NA,1990,"Certhia americana americana","Certhia_americana",8.1,NA,"male",10.3,1143,8.6246299876715,40.3792365163565,"Spring",17279
+11,-117.165419,46.729074,NA,1982,"Certhia americana","Certhia_americana",8.1,NA,"male",7.6,635,7.92580652620975,46.1186477913163,"Fall",17288
+6,-115.22602,36.64677,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",8.1,NA,"male",6.5,397,7.65416800696117,145.156465778072,"Summer",17371
+8,-119.39231,37.73082,"juv.",1915,"Certhia americana zelotes","Certhia_americana",8.1,NA,"female",4.7,933,6.33711410276911,122.055904220382,"Summer",17393
+4,-83.442,41.7954,"u ad.",1933,"Certhia americana americana","Certhia_americana",8.1,NA,"female",10.6,683,10.3218949399573,51.6950776187274,"Spring",17437
+6,-121.5351,44.0323,"u ad.",1938,"Certhia americana zelotes","Certhia_americana",8.1,NA,"male",5.4,850,6.97584577255147,89.4521605666682,"Summer",17453
+5,-123.9214,45.9354,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",8.1,NA,"male",11.4,1979,3.5703322992787,71.4642392431947,"Spring",17474
+6,-121.7295,44.349,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.1,NA,"male",7.1,1062,5.63406172447121,67.9838195944789,"Summer",17487
+1,-124.13246,41.17489,"u ad.",1942,"Certhia americana occidentalis","Certhia_americana",8.1,NA,"male",11.3,1572,2.58894795528058,101.147460460958,"Winter",17492
+5,-122.8558,38.1011,"u ad.",1944,"Certhia americana occidentalis","Certhia_americana",8.1,NA,"male",12.3,876,2.07720310207566,93.0726211164391,"Spring",17520
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",8.1,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",17602
+6,-110.866,33.294,NA,2013,"Certhia americana","Certhia_americana",8.1,NA,"male",14,688,8.06308460412846,95.3093430796183,"Summer",17633
+10,-77.7179499,43.3225697,NA,2003,"Certhia americana","Certhia_americana",8.10000038146973,NA,"male",8.6,892,9.98319800586177,25.8034430660047,"Fall",17054
+11,-87.6500549,41.8500328,NA,1983,"Certhia americana","Certhia_americana",8.2,NA,"undetermined",10.4,1164,10.8440564645367,42.3810408063803,"Fall",17081
+5,-121.12136,41.56081,"u ad.",1948,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",6.9,534,7.6679182114163,55.7253413422282,"Spring",17089
+8,-108.3333,29.91071,"imm.sk.",1948,"Certhia americana albescens","Certhia_americana",8.2,NA,"male",11.2,444,6.70388286402332,119.926397434996,"Summer",17097
+5,-120.07434,39.4290904,"u ad.",1950,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",6,1048,6.87697079190593,89.9378258940193,"Spring",17103
+6,-118.168469,37.53385,"u ad.",1954,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",17122
+6,-115.40203,41.87361,"u ad.",1956,"Certhia americana montana","Certhia_americana",8.2,NA,"male",1.7,914,8.03096280880217,111.09729481239,"Summer",17129
+3,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",17189
+8,-109.83667,43.30329,"imm.",1939,"Certhia americana montana","Certhia_americana",8.2,NA,"female",0.5,432,8.61082387921086,62.4349229099711,"Summer",17217
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17232
+1,-123.47623,40.4313,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",17248
+1,-123.47623,40.4313,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",17251
+9,-124.1323646,41.1604001,"juv.",1942,"Certhia americana occidentalis","Certhia_americana",8.2,NA,"female",11.2,1547,2.53783491594825,101.279849352356,"Fall",17261
+7,-109.9019,45.0369,"u ad.",1947,"Certhia americana montana","Certhia_americana",8.2,NA,"male",0.5,885,8.63142602074044,51.1481606674381,"Summer",17269
+5,-117.1503,46.94,"Ad",1953,"Certhia americana","Certhia_americana",8.2,139,"male",9.2,628,6.05735215680211,94.1692436391601,"Spring",17286
+2,-105.0865473,40.573436,"adult",1993,"Certhia americana","Certhia_americana",8.2,121,"undetermined",7.9,432,9.01928489404786,53.3658569105746,"Winter",17294
+7,-103.9333,44.4833,NA,2011,"Certhia americana","Certhia_americana",8.2,NA,"male",6.4,739,10.2775424488483,93.9862502359533,"Summer",17307
+7,-115.803525,48.891091,"u ad.",1966,"Certhia americana montana","Certhia_americana",8.2,NA,"undetermined",5,844,7.4332331152369,71.9951005450523,"Summer",17378
+6,-115.9446,48.2631,"u ad.",1966,"Certhia americana montana","Certhia_americana",8.2,NA,"male",6,1261,7.35574399343599,76.037495097777,"Summer",17379
+9,-121.4270138,40.4592417,"imm.",1923,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",5.7,1147,6.41000047274617,102.179774782288,"Fall",17405
+4,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",17418
+5,-114.10722,39.01722,"u ad.",1934,"Certhia americana montana","Certhia_americana",8.2,NA,"female",12,145,8.45472792243631,67.979497800529,"Spring",17427
+6,-122.9107,44.2042,"u ad.",1938,"Certhia americana montana","Certhia_americana",8.2,NA,"female",11.3,1216,6.10073890209335,80.6421416311516,"Summer",17449
+6,-122.8741356,46.0084949,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.2,NA,"male",12.1,959,4.73545620342385,69.8215869796105,"Summer",17475
+6,-121.7295,44.349,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.2,NA,"female",7.1,1062,5.63406172447121,67.9838195944789,"Summer",17484
+8,-123.4568,40.45807,"ad.",1942,"Certhia americana zelotes","Certhia_americana",8.2,NA,"undetermined",10.2,2118,6.39962120091115,99.0391196236951,"Summer",17517
+7,-109.9019,45.0369,"u ad.",1947,"Certhia americana montana","Certhia_americana",8.2,NA,"male",0.5,885,8.63142602074044,51.1481606674381,"Summer",17524
+10,-96.46691,16.06749,"U-Ad.",1964,"Certhia americana alticola","Certhia_americana",8.2,NA,"male",15.5,1162,0.992204463288539,118.850131965233,"Fall",17555
+5,-111.541,34.953,NA,2012,"Certhia americana","Certhia_americana",8.2,NA,"male",8.3,514,7.28802982896467,86.1592380252924,"Spring",17576
+10,-76.655259,42.276659,NA,2012,"Certhia americana","Certhia_americana",8.25,NA,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",17057
+7,-121.56554,40.31119,"skull",2006,"Certhia americana zelotes","Certhia_americana",8.25,NA,"male",9.7,1756,7.21297232054648,102.564983161203,"Summer",17166
+4,-82.4333333,42.9666667,NA,1994,"Certhia americana americana","Certhia_americana",8.25,NA,"female",8.8,804,10.6539649753962,46.0897658089497,"Spring",17590
+6,-115.21645,41.84056,"u ad.",1955,"Certhia americana montana","Certhia_americana",8.3,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",17123
+6,-115.18622,36.65722,"ad.sk.",1963,"Certhia americana leucosticta","Certhia_americana",8.3,NA,"male",4.5,459,7.58952128485936,149.714972366423,"Summer",17144
+6,-115.20694,36.63139,"ad.",1963,"Certhia americana leucosticta","Certhia_americana",8.3,NA,"male",6.5,394,7.65416800696117,142.812990429918,"Summer",17149
+9,-109.84658,43.2888,"ad.",1939,"Certhia americana montana","Certhia_americana",8.3,NA,"male",0.6,429,8.68288110263087,62.1265891367597,"Fall",17219
+9,-106.32431,41.31009,"imm.",1939,"Certhia americana montana","Certhia_americana",8.3,NA,"male",-0.2,645,9.09625297481431,52.5931549614428,"Fall",17220
+5,-123.9214,45.9354,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",8.3,NA,"male",11.4,1979,3.5703322992787,71.4642392431947,"Spring",17229
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.3,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17235
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.3,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17238
+6,-121.7295,44.349,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.3,NA,"male",7.1,1062,5.63406172447121,67.9838195944789,"Summer",17240
+12,-124.1530252,41.104244,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",8.3,NA,"female",12.2,1865,2.44619370376993,94.5728935259856,"Winter",17246
+1,-123.47623,40.4313,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",8.3,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",17250
+1,-123.47623,40.41681,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",8.3,NA,"male",11.1,1775,6.20226620362316,98.9318072725107,"Winter",17252
+6,-118.168469,37.53385,"u ad.",1954,"Certhia americana zelotes","Certhia_americana",8.3,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",17339
+3,-149.7724722222,61.1237777778,"skull doubled",1959,"Certhia americana montana","Certhia_americana",8.3,NA,"female",0.6,410,10.652087574601,92.9141706202539,"Spring",17354
+6,-114.21871,38.856596,"u ad.",1962,"Certhia americana montana","Certhia_americana",8.3,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",17366
+8,-132.4255555556,56.5897222222,"juv.",1919,"Certhia americana occidentalis","Certhia_americana",8.3,NA,"male",5.4,2071,6.1481889425039,42.5336794471752,"Summer",17399
+12,-124.1530252,41.104244,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",8.3,NA,"male",12.2,1865,2.44619370376993,94.5728935259856,"Winter",17489
+11,-83.6429501,42.3036582,"adult",2009,"Certhia americana americana","Certhia_americana",8.3,NA,"female",9.1,969,10.0775590779562,45.922631178001,"Fall",17538
+5,-96.46691,16.06749,"Ad.; Sk.Oss.",1965,"Certhia americana alticola","Certhia_americana",8.3,NA,"male",15.4,1058,0.946284600664381,118.293539357867,"Spring",17552
+6,-112.425,34.414,"juvenile",2013,"Certhia americana","Certhia_americana",8.3,NA,"male",11.2,740,7.53707502947927,106.672034307251,"Summer",17577
+10,-95.913,39.026,NA,1986,"Certhia americana","Certhia_americana",8.3,NA,"male",13.2,1102,9.79382535843452,68.610765430439,"Fall",17583
+6,-118.178284,37.509222,"u ad.",1954,"Certhia americana zelotes","Certhia_americana",8.3,NA,"male",1.5,314,6.2369621587514,88.8346668617128,"Summer",17586
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",8.3,NA,NA,10.5,1098,8.67623015467949,43.9919250647,"Fall",17592
+9,-72.9286,41.3081,"immature",1974,"Certhia americana americana","Certhia_americana",8.3,NA,"female",10.9,1068,8.86366006212838,44.8544482256288,"Fall",17604
+10,-95.913,39.026,NA,1986,"Certhia americana","Certhia_americana",8.3,NA,"female",13.2,1102,9.79382535843452,68.610765430439,"Fall",17636
+10,-95.913,39.026,NA,1986,"Certhia americana","Certhia_americana",8.3,NA,"undetermined",13.2,1102,9.79382535843452,68.610765430439,"Fall",17637
+10,-95.913,39.026,NA,1986,"Certhia americana","Certhia_americana",8.3,NA,"male",13.2,1102,9.79382535843452,68.610765430439,"Fall",17639
+9,-77.7179499,43.3225697,NA,2004,"Certhia americana","Certhia_americana",8.39999961853027,NA,"female",8.8,921,9.50226049661103,40.5123527749255,"Fall",17055
+6,-104.42025,44.44875,NA,2008,"Certhia americana","Certhia_americana",8.4,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",17067
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.4,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17237
+9,-123.34811,40.69934,"imm.",1942,"Certhia americana zelotes","Certhia_americana",8.4,NA,"male",10.7,1528,6.55894023220954,102.554334440198,"Fall",17263
+6,-130.014,55.917,"AHY",1997,"Certhia americana","Certhia_americana",8.4,NA,"male",5.8,1970,6.69902751874999,54.568761871554,"Summer",17278
+4,-83.7344027,42.2782296,NA,2004,"Certhia americana americana","Certhia_americana",8.4,NA,"female",9.7,846,10.0184224246529,62.8288997593244,"Spring",17281
+9,-117.462592,46.071004,NA,1951,"Certhia americana","Certhia_americana",8.4,146,"male",4.7,994,7.43099569167531,67.36919951923,"Fall",17285
+6,-115.28361,36.63,"ad.",1963,"Certhia americana leucosticta","Certhia_americana",8.4,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",17372
+6,-115.69417,36.31573,"ad.",1963,"Certhia americana leucosticta","Certhia_americana",8.4,NA,"male",4.7,585,7.53659255053152,166.320927145513,"Summer",17374
+6,-121.3146,43.7203,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",8.4,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",17444
+6,-121.3146,43.7203,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",8.4,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",17446
+7,-118.4086,44.2483,"juv.",1938,"Certhia americana montana","Certhia_americana",8.4,NA,"undetermined",5.5,675,7.55674994273131,73.652077413303,"Summer",17457
+9,-106.32431,41.31009,"imm.",1939,"Certhia americana montana","Certhia_americana",8.4,NA,"male",-0.2,645,9.09625297481431,52.5931549614428,"Fall",17463
+5,-121.89146,36.40684,"U-Ad",1959,"Certhia americana occidentalis","Certhia_americana",8.4,NA,"male",13.7,380,2.72378691374989,180.396608305391,"Spring",17557
+10,-82.4333333,42.9666667,NA,1989,"Certhia americana","Certhia_americana",8.4,NA,"male",8.3,736,10.4176532866092,42.3250078668238,"Fall",17645
+10,-117.164293,46.730767,NA,1992,"Certhia americana","Certhia_americana",8.5,NA,"female",9.9,439,7.30804351382776,53.9248281993119,"Fall",17050
+8,-103.9333,44.4833,"adult",2010,"Certhia americana","Certhia_americana",8.5,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",17070
+11,-95.7980347,38.2527404,NA,1983,"Certhia americana","Certhia_americana",8.5,NA,"male",12.3,906,11.429387957844,68.095082914284,"Fall",17080
+8,-107.8902666667,34.41135,NA,2010,"Certhia americana","Certhia_americana",8.5,NA,"male",9.5,271,8.00550473490623,80.8474139552492,"Summer",17086
+2,-97.56546,30.11,"u ad.",1952,"Certhia americana montana ?","Certhia_americana",8.5,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",17111
+6,-120.794605,40.663347,"skull",2006,"Certhia americana zelotes","Certhia_americana",8.5,NA,"female",9.1,570,8.12095586999611,90.642643550796,"Summer",17159
+10,-119.7675,39.35528,"imm.",1934,"Certhia americana zelotes","Certhia_americana",8.5,NA,"male",11.3,183,6.61286051889984,63.3374243824665,"Fall",17200
+6,-121.2136,43.7147,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",8.5,NA,"male",3.3,839,8.12032616153421,72.542497018398,"Summer",17208
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.5,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17239
+5,-103.778,43.639,NA,2011,"Certhia americana","Certhia_americana",8.5,NA,"male",5.8,533,10.0812156554113,85.8724302873337,"Spring",17304
+10,-96.9784855,37.2495805,"immature",1980,"Certhia americana","Certhia_americana",8.5,NA,"male",15.1,595,11.3586971083835,55.2148833524566,"Fall",17316
+9,-123.6339428,40.9809127,"imm.",1949,"Certhia americana occidentalis","Certhia_americana",8.5,NA,"male",13.2,908,6.64780665583268,111.965086138355,"Fall",17327
+3,-92.5733333333,16.6744444444,"u ad.",1950,"Certhia americana pernigra","Certhia_americana",8.5,NA,"male",13.5,1057,0.98761267097926,77.8117725986951,"Spring",17329
+4,-99.7311111111,17.5566666666,"juv.",1950,"Certhia americana jaliscensis","Certhia_americana",8.5,NA,"male",16.9,1416,1.42148023574233,137.833895336236,"Spring",17332
+12,-119.7034868,37.7352363,"u ad.",1914,"Certhia americana zelotes","Certhia_americana",8.5,NA,"male",8.3,1119,6.38465845886557,187.981284377116,"Winter",17392
+9,-118.5955,36.7887,"imm.",1916,"Certhia americana zelotes","Certhia_americana",8.5,NA,"female",8.5,1653,7.2632115778244,159.17289683802,"Fall",17395
+8,-131.9167,57.1833,"imm.",1919,"Certhia americana occidentalis","Certhia_americana",8.5,NA,"male",1.9,1670,8.58598223321542,50.7372885941423,"Summer",17398
+9,-114.28,38.96917,"imm.",1934,"Certhia americana montana","Certhia_americana",8.5,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",17435
+1,-123.3713575,38.9631181,"u ad.",1937,"Certhia americana occidentalis","Certhia_americana",8.5,NA,"male",13.5,1432,5.0636778465196,103.619203428826,"Winter",17439
+1,-123.3713575,38.9631181,"unknown",1937,"Certhia americana occidentalis","Certhia_americana",8.5,NA,"male",13.5,1432,5.0636778465196,103.619203428826,"Winter",17440
+9,-109.84658,43.2888,"imm.",1939,"Certhia americana montana","Certhia_americana",8.5,NA,"male",0.6,429,8.68288110263087,62.1265891367597,"Fall",17462
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.5,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17477
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.5,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17481
+8,-122.9617,48.4506,"juv.",1941,"Certhia americana occidentalis","Certhia_americana",8.5,NA,"male",11,539,3.88723630110212,60.3455877212499,"Summer",17509
+10,-147.8043,64.857,"HY",2011,"Certhia americana","Certhia_americana",8.5,NA,"female ?",-1.9,257,14.5662202622119,89.8030687917233,"Fall",17531
+9,-83.0854368,42.3678031,NA,1997,"Certhia americana americana","Certhia_americana",8.5,NA,"female",9.6,845,9.39498173591529,42.4048444468212,"Fall",17533
+10,-96.46691,16.06749,"U-Ad.",1964,"Certhia americana alticola","Certhia_americana",8.5,NA,"male",15.5,1162,0.992204463288539,118.850131965233,"Fall",17550
+4,-82.4333333,42.9666667,NA,1994,"Certhia americana americana","Certhia_americana",8.5,NA,"female",8.8,804,10.6539649753962,46.0897658089497,"Spring",17591
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",8.5,NA,NA,10.5,1098,8.67623015467949,43.9919250647,"Fall",17653
+5,-103.6573,43.6348,NA,2011,"Certhia americana","Certhia_americana",8.6,NA,"male",5.5,552,10.0604385710775,92.0074565296448,"Spring",17071
+6,-118.168469,37.53385,"u ad.",1954,"Certhia americana zelotes","Certhia_americana",8.6,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",17120
+12,-121.5570304,40.3476024,"u ad.",1927,"Certhia americana zelotes","Certhia_americana",8.6,NA,"female",8.5,1570,6.42968376619981,101.33462763718,"Winter",17180
+6,-123.14392,40.55443,"juv.",1943,"Certhia americana zelotes","Certhia_americana",8.6,NA,"male",11.5,837,5.90030173856055,120.785766804994,"Summer",17265
+12,-119.843605,37.625783,"u ad.",1914,"Certhia americana zelotes","Certhia_americana",8.6,NA,"male",13.4,893,6.50221407512763,179.119724319423,"Winter",17389
+7,-118.4086,44.2483,"u ad.",1938,"Certhia americana montana","Certhia_americana",8.6,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",17460
+6,-121.7295,44.349,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.6,NA,"female",7.1,1062,5.63406172447121,67.9838195944789,"Summer",17486
+4,-83.7777472,42.1552436,NA,1994,"Certhia americana americana","Certhia_americana",8.6,NA,"male",9.9,811,10.4046718818854,39.127534558078,"Spring",17542
+7,-97.03359,16.23414,"U-Ad.; Sk.Oss.",1964,"Certhia americana alticola","Certhia_americana",8.6,NA,"male",16.5,1033,1.25263358931928,126.639857472511,"Summer",17554
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",8.6,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",17598
+10,-95.913,39.026,NA,1986,"Certhia americana","Certhia_americana",8.6,NA,"male",13.2,1102,9.79382535843452,68.610765430439,"Fall",17638
+7,-123.625462,41.9955479,"u ad.",1935,"Certhia americana occidentalis","Certhia_americana",8.7,NA,"undetermined",10.5,1417,6.23793380710458,91.6998801163272,"Summer",17202
+4,-83.7263412,42.2708397,NA,1935,"Certhia americana americana","Certhia_americana",8.7,NA,"female",8.8,649,10.2459748194108,44.6617555019791,"Spring",17283
+11,-120.22386,39.43159,"ad.",1953,"Certhia americana zelotes","Certhia_americana",8.7,NA,"undetermined",4.4,628,5.95427017638042,92.1433952612745,"Fall",17337
+4,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",8.7,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",17420
+5,-123.50169,40.47157,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",8.7,NA,"male",10.6,1177,6.91222018448399,101.695625034038,"Spring",17423
+6,-121.5351,44.0323,"u ad.",1938,"Certhia americana zelotes","Certhia_americana",8.7,NA,"male",5.4,850,6.97584577255147,89.4521605666682,"Summer",17452
+1,-123.47623,40.4313,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",8.7,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",17497
+6,-118.580792,37.814991,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",8.7,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",17507
+11,-117.37814,46.635567,NA,1952,"Certhia americana","Certhia_americana",8.8,133,"female",11.8,348,8.47717076874262,77.8773732937336,"Fall",17045
+6,-115.45278,40.93833,"u ad.",1956,"Certhia americana montana","Certhia_americana",8.8,NA,"male",6.5,286,9.02533051522718,114.98373023295,"Summer",17130
+6,-114.256346,38.929166,"u ad.",1962,"Certhia americana montana","Certhia_americana",8.8,NA,"male",5.7,338,8.58892874401092,76.4282508032243,"Summer",17143
+3,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",8.8,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",17186
+9,-115.43306,41.87417,"ad.",1934,"Certhia americana montana","Certhia_americana",8.8,NA,"male",7.2,449,6.95288799817396,82.0625313070886,"Fall",17197
+6,-121.3146,43.7203,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",8.8,NA,"female",4.5,863,7.97102232901759,70.1301998942241,"Summer",17210
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.8,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17233
+5,-103.6573,43.6348,NA,2011,"Certhia americana","Certhia_americana",8.8,NA,"female",5.5,552,10.0604385710775,92.0074565296448,"Spring",17306
+3,-123.4853,40.3329,"u ad.",1932,"Certhia americana zelotes","Certhia_americana",8.8,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",17414
+7,-118.4086,44.2483,"ku ad.",1938,"Certhia americana montana","Certhia_americana",8.8,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",17455
+9,-123.88759,40.77914,"ad.",1942,"Certhia americana occidentalis","Certhia_americana",8.8,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",17513
+10,-76.4861861,42.4506333,NA,2012,"Certhia americana","Certhia_americana",8.85,143,"female",10.7,964,8.72226339821716,36.1904260331988,"Fall",17614
+3,-117.1622,46.8663,NA,1928,"Certhia americana","Certhia_americana",8.9,133,"male",7.5,475,8.06404289911629,77.9521136615089,"Spring",17044
+11,-117.165649,46.729529,NA,1979,"Certhia americana","Certhia_americana",8.9,NA,"male",8.1,520,9.10265945155091,51.879997805848,"Fall",17049
+12,-124.1530252,41.104244,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",8.9,NA,"male",12.2,1865,2.44619370376993,94.5728935259856,"Winter",17245
+4,-79.37881,43.648267,"ad",2006,"Certhia americana americana","Certhia_americana",8.9,NA,"male",9.5,890,8.9848820838454,32.9859361480764,"Spring",17271
+12,-105.52111,40.37722,NA,1979,"Certhia americana","Certhia_americana",8.9,134,"undetermined",5.1,479,8.51714847714998,66.3202363915233,"Winter",17293
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",8.9,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17478
+10,-95.913,39.026,NA,1986,"Certhia americana","Certhia_americana",8.9,NA,"undetermined",13.2,1102,9.79382535843452,68.610765430439,"Fall",17581
+5,-74.82872,43.93443,NA,2013,"Certhia americana","Certhia_americana",8.9,129,"male",5.6,1393,10.3760614645034,46.7128973768885,"Spring",17615
+12,-84.5833333,31.0666667,"adult",1946,"Certhia americana americana","Certhia_americana",8.9,NA,"male",20.1,1420,5.62237817686043,49.9954762684942,"Winter",17644
+3,-93.42,35.221881,NA,1990,"Certhia americana","Certhia_americana",9,136,"female",16.2,1680,7.94200093099206,54.5482374058194,"Spring",17053
+7,-103.9333,44.4833,NA,2011,"Certhia americana","Certhia_americana",9,NA,"male",6.4,739,10.2775424488483,93.9862502359533,"Summer",17072
+12,-114.4013222,34.4653024,"u ad.",1926,"Certhia americana montana","Certhia_americana",9,NA,"male",22.9,113,8.64822192269847,140.040768545237,"Winter",17142
+8,-152.406,57.79,"AD",2009,"Certhia americana","Certhia_americana",9,NA,"male",5.1,1252,5.38974194018769,30.5089801754189,"Summer",17275
+5,-135.4454,59.2295,"AHY",2013,"Certhia americana","Certhia_americana",9,NA,"male",5.6,1013,7.76520502568407,59.0061546902625,"Spring",17277
+2,-96.6364899,37.9654786,NA,1950,"Certhia americana","Certhia_americana",9,NA,"male",11.9,766,9.30370975211045,114.988621174208,"Winter",17312
+10,-95.917,39.026,"immature",1999,"Certhia americana","Certhia_americana",9,NA,"female",13.6,955,9.38367376528688,87.1414334485158,"Fall",17315
+6,-121.3146,43.7203,"u ad.",1937,"Certhia americana zelotes","Certhia_americana",9,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",17445
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",9,NA,"female",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17480
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",9,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17482
+7,-152.406,57.79,"AHY",2013,"Certhia americana","Certhia_americana",9,NA,"male",5.5,1565,5.7225762369652,50.2216215812191,"Summer",17532
+11,-123.067661,49.319618,NA,1986,"Certhia americana occidentalis","Certhia_americana",9,132,"female",10.5,1663,5.17060455992832,62.6633660551533,"Fall",17643
+10,-72.5989,41.2794,"immature",1974,"Certhia americana americana","Certhia_americana",9,NA,NA,10.5,1098,8.67623015467949,43.9919250647,"Fall",17659
+11,-117.179457,46.728691,NA,1979,"Certhia americana","Certhia_americana",9.1,NA,"female",8.1,510,9.10976831691557,53.2921813139985,"Fall",17048
+11,-76.369775,42.49713,NA,2013,"Certhia americana","Certhia_americana",9.1,127,"male",8.3,1118,9.6962816990782,46.4869769670658,"Fall",17058
+6,-115.40203,41.87361,"u ad.",1956,"Certhia americana montana","Certhia_americana",9.1,NA,"female",1.7,914,8.03096280880217,111.09729481239,"Summer",17128
+12,-120.0705,40.31451,"u ad.",1924,"Certhia americana zelotes","Certhia_americana",9.1,NA,"female",8.8,149,8.08051809770096,107.293383086489,"Winter",17175
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",9.1,NA,"female",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17236
+3,-89.080376,39.388912,NA,1939,"Certhia americana americana","Certhia_americana",9.1,NA,"male",12.9,927,9.56340880015007,59.7742279651466,"Spring",17282
+6,-122.8741356,46.0084949,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",9.1,NA,"male",12.1,959,4.73545620342385,69.8215869796105,"Summer",17476
+9,-72.6372,41.3597,NA,1968,"Certhia americana americana","Certhia_americana",9.1,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Fall",17599
+8,-99.2341666666,19.1377777777,"ad.",1952,"Certhia americana alticola","Certhia_americana",9.2,NA,"female",10.1,1195,1.40849694226279,100.868788424843,"Summer",17114
+7,-131.7166,55.3441,"HY",2000,"Certhia americana","Certhia_americana",9.2,NA,"male",6.8,3249,4.9169696876319,37.2327831369938,"Summer",17272
+10,-85.31367,42.3997,"imm.",1951,"Certhia americana americana","Certhia_americana",9.2,NA,"female",8.9,987,9.78184388021858,25.9637848866777,"Fall",17334
+6,-118.168469,37.53385,"u ad.",1954,"Certhia americana zelotes","Certhia_americana",9.2,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",17340
+12,-120.0705,40.31451,"u ad.",1924,"Certhia americana zelotes","Certhia_americana",9.2,NA,"female",8.8,149,8.08051809770096,107.293383086489,"Winter",17406
+12,-96.67525,17.1641,"U-Ad.",1964,"Certhia americana alticola","Certhia_americana",9.2,NA,"male",11.7,1221,1.38921713292928,90.6456791407873,"Winter",17608
+8,-122.0691039,41.5779164,"ad.",1920,"Certhia americana zelotes","Certhia_americana",9.3,NA,"male",8.1,632,6.74534631947812,105.603309441085,"Summer",17403
+9,-123.88759,40.77914,"ad.",1942,"Certhia americana occidentalis","Certhia_americana",9.3,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",17514
+8,-149.815389,61.140089,NA,2007,"Certhia americana alascensis","Certhia_americana",9.3,NA,"male",1.9,362,10.3249147035878,81.6014975279261,"Summer",17649
+6,-115.65611,36.40167,"ad.",1963,"Certhia americana leucosticta","Certhia_americana",9.5,NA,"female",9.9,447,7.74891488004493,157.395981687623,"Summer",17153
+8,-152.406,57.79,"HY",2009,"Certhia americana","Certhia_americana",9.5,NA,"male",5.1,1252,5.38974194018769,30.5089801754189,"Summer",17274
+7,-117.451565,46.10765,"Ad",1954,"Certhia americana","Certhia_americana",9.5,131,"male",5.1,746,6.11978287394597,49.3291454462432,"Summer",17287
+11,-76.485918,42.449487,NA,2006,"Certhia americana","Certhia_americana",9.5,NA,"male",10,1083,8.53232711870601,49.7130209478947,"Fall",17290
+9,-152.406,57.79,"AD",2012,"Certhia americana","Certhia_americana",9.5,NA,"male",3.9,1439,6.13550891915004,41.921145459318,"Fall",17530
+10,-83.7263412,42.2708397,NA,2012,"Certhia americana americana","Certhia_americana",9.5,NA,"male",11.5,682,9.21854192112371,37.699178293142,"Fall",17539
+3,-92.5733333333,16.6744444444,"u ad.",1950,"Certhia americana pernigra","Certhia_americana",9.6,NA,"female",13.5,1057,0.98761267097926,77.8117725986951,"Spring",17104
+10,-85.4158688,43.5674568,"adult",1998,"Certhia americana americana","Certhia_americana",9.6,NA,"male",9,752,9.33245802172572,48.37422283398,"Fall",17280
+2,-105.0865473,40.573436,NA,1993,"Certhia americana","Certhia_americana",9.6,126,"undetermined",7.9,432,9.01928489404786,53.3658569105746,"Winter",17299
+5,-149.9495,61.1665277778,"skull doubled",1959,"Certhia americana montana","Certhia_americana",9.6,NA,"female",1.3,413,10.0697679850495,89.707133099664,"Spring",17355
+8,-109.83667,43.30329,"imm.",1939,"Certhia americana montana","Certhia_americana",9.7,NA,"male",0.5,432,8.61082387921086,62.4349229099711,"Summer",17218
+5,-123.8816,45.9264,"u ad.",1941,"Certhia americana occidentalis","Certhia_americana",9.7,NA,"female",11,2337,3.8816194683366,70.8959657856833,"Spring",17230
+5,-123.015054,40.394887,"u ad.",1926,"Certhia americana zelotes","Certhia_americana",9.7,NA,"female",11.7,1312,6.52795851888187,123.826324692807,"Spring",17408
+10,-95.913,39.026,NA,1986,"Certhia americana","Certhia_americana",9.8,NA,"undetermined",13.2,1102,9.79382535843452,68.610765430439,"Fall",17582
+2,-116.6489,46.9431,"u ad.",1952,"Certhia americana montana","Certhia_americana",10,NA,"male",7.8,466,8.12978064484727,74.316668053357,"Winter",17116
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Certhia americana montana","Certhia_americana",10,NA,"undetermined",16.1,279,5.92657088241104,110.285245750577,"Spring",17118
+6,-118.168469,37.53385,"u ad.",1954,"Certhia americana zelotes","Certhia_americana",10,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",17121
+6,-114.02278,38.94167,"ad.sk.",1962,"Certhia americana montana","Certhia_americana",10,NA,"female",9.8,140,9.36729885712994,66.135032660162,"Summer",17364
+6,-122.0024912,44.502946,"u ad.",1941,"Certhia americana zelotes","Certhia_americana",10,NA,"female",7.8,1996,5.38912344590023,73.3039481563502,"Summer",17479
+6,-122.1613668,37.8108266,"u ad.",1942,"Certhia americana occidentalis","Certhia_americana",10,NA,"male",13.3,771,3.40267274626606,87.094131306443,"Summer",17511
+7,-121.434293,40.34362,"skull fully ossified",2006,"Certhia americana zelotes","Certhia_americana",10.6,NA,"female",8.5,1624,7.32529862872498,103.280247019562,"Summer",17388
+6,-118.442999,37.130962,"u ad.",1942,"Certhia americana zelotes","Certhia_americana",10.6,NA,"female",4.2,179,6.8663871670095,98.3799877660309,"Summer",17503
+3,-100.601731,19.636886,"ad.",1948,"Certhia americana jaliscensis","Certhia_americana",11.2,NA,"male",16.9,1012,2.43924665469162,104.640591487294,"Spring",17324
+5,-122.1756895,37.8250069,"u ad.",1942,"Certhia americana occidentalis","Certhia_americana",11.6,NA,"female",13.3,788,3.43470478639678,85.7138528821239,"Spring",17254
+10,-117.164293,46.730767,NA,1977,"Certhia americana","Certhia_americana",13.1,NA,"female",8.2,483,7.98446882542868,80.8616631624308,"Fall",17047

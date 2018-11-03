@@ -1,0 +1,639 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+8,-115.6888,48.2239,"u imm.",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",15,NA,"female",1.5,2376,7.81273242078518,75.2753528822381,"Summer",43472
+1,-119.06344,39.75301,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",15,NA,"female",11,196,8.50726516608367,122.708444952294,"Winter",43898
+7,-119.276578,38.436624,"imm",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",16.3,NA,"female",0.6,856,6.50570844906551,139.100544717187,"Summer",44116
+10,-119.34647,38.029607,"u imm.",1937,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",16.4,NA,"undetermined",1.3,1205,7.21007292023815,131.080215697209,"Fall",44086
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",16.5,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43940
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",17,NA,"female",4.4,611,8.03597969739656,86.8062417693711,"Spring",43588
+4,-118.5781326,37.2542191,NA,1997,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",17.5,NA,"male",6,307,6.31808371408466,133.74617288622,"Spring",43787
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",17.5,NA,"female",4.4,611,8.03597969739656,86.8062417693711,"Spring",43970
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",17.6,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43939
+2,-119.88765,39.55434,"u imm.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",18.5,NA,"undetermined",8.8,580,7.60159472901854,152.136018578746,"Winter",43936
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",18.8,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43556
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",19,NA,"female",4.4,611,8.03597969739656,86.8062417693711,"Spring",43579
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis tephrocotis x Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",19,NA,"male",4.4,611,8.03597969739656,86.8062417693711,"Spring",43971
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",19.2,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43555
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",19.5,NA,"female",4.4,611,8.03597969739656,86.8062417693711,"Spring",43972
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",19.9,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43557
+5,-112.09528,40.66306,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",20,NA,"male",10.2,373,9.41507495262976,74.6626838764611,"Spring",43567
+5,-118.289486,36.78325,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",20.4,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",43714
+5,-118.356623,37.120063,"unknown",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",20.4,NA,"female",9.8,132,7.56439025963098,108.815078285175,"Spring",44107
+5,-118.289486,36.78325,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",20.5,NA,"male",10.1,122,7.43901977087809,136.149129141004,"Spring",44105
+11,-119.01162,38.211724,"u ad.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",21,NA,"male",3.8,248,6.59467186217002,61.9905713677923,"Fall",43874
+2,-118.7343978,37.6217099,NA,1997,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",21.2,NA,"female",8,406,6.98766770818418,150.042128630195,"Winter",44167
+5,-118.289486,36.78325,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",21.3,NA,"male",10.1,122,7.43901977087809,136.149129141004,"Spring",44102
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",21.5,NA,"female",4.4,611,8.03597969739656,86.8062417693711,"Spring",43578
+5,-119.256879,37.910952,"u ad.",1972,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",21.5,NA,"female",1.9,613,6.70609740640877,79.3660289772242,"Spring",43653
+3,-120.0828,39.7766,"u ad.",1941,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",21.5,NA,"male",8.8,385,6.3398391624757,97.573544523652,"Spring",43710
+5,-118.289486,36.78325,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",21.6,NA,"male",10.1,122,7.43901977087809,136.149129141004,"Spring",44103
+5,-118.289486,36.78325,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",21.7,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",44106
+5,-118.289486,36.78325,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",21.8,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",43713
+8,-118.25254,37.61851,"juv",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",21.8,NA,"undetermined",-1.8,216,8.1099779546089,182.804563448259,"Summer",44080
+3,-120.0828,39.7766,"u imm.",1941,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",21.9,NA,"female",8.8,385,6.3398391624757,97.573544523652,"Spring",43709
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",21.9,NA,"female",-1.3,209,8.10951554806096,176.75630463477,"Summer",44070
+8,-115.6888,48.2239,"imm",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",22,NA,"undetermined",1.5,2376,7.81273242078518,75.2753528822381,"Summer",43471
+11,-119.01162,38.211724,"u imm.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22,NA,"female ?",3.8,248,6.59467186217002,61.9905713677923,"Fall",43480
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",43687
+8,-115.6888,48.2239,"imm",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",22,NA,"undetermined",1.5,2376,7.81273242078518,75.2753528822381,"Summer",43865
+11,-119.88765,39.55434,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",22,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Fall",44001
+9,-147.8043,64.857,"AD ?",2001,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",22.1,NA,"female",-1.4,226,13.1652060946706,120.843969687023,"Fall",44133
+7,-119.310946,38.442012,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.2,NA,"male",-0.8,962,6.38741067659777,140.751938874364,"Summer",43716
+6,-118.334535,36.773919,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.2,NA,"male",4.1,346,6.8014481523935,156.079720318373,"Summer",44108
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",22.3,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43554
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.3,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",43688
+7,-119.276578,38.436624,"imm",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.3,NA,"male",0.6,856,6.50570844906551,139.100544717187,"Summer",43720
+7,-118.6945,37.2251,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.3,NA,"male",0,984,5.82353506094542,130.65576526312,"Summer",43801
+5,-118.289486,36.78325,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.4,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",44104
+7,-119.276578,38.436624,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.4,NA,"male",0.6,856,6.50570844906551,139.100544717187,"Summer",44115
+11,-119.01162,38.211724,"u ad.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.5,NA,"undetermined",3.8,248,6.59467186217002,61.9905713677923,"Fall",43481
+11,-119.01162,38.211724,"u ad.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.5,NA,"female",3.8,248,6.59467186217002,61.9905713677923,"Fall",43483
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",22.5,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43604
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.5,NA,"male",1.6,903,6.58448014560594,108.24647008717,"Summer",43626
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.5,NA,"female",1.6,903,6.58448014560594,108.24647008717,"Summer",43628
+8,-118.4038291,36.7726259,"juv",1916,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.5,NA,"male",1.5,1725,6.74689603155451,154.344209769969,"Summer",43676
+7,-114.6022,49.4826,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",22.5,NA,"female",-1,1070,9.77422011149119,86.6278123077577,"Summer",43882
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.5,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",44019
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.6,NA,"female",-1.3,209,8.10951554806096,176.75630463477,"Summer",43681
+5,-118.289486,36.78325,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.6,NA,"male",10.1,122,7.43901977087809,136.149129141004,"Spring",43711
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",22.6,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43937
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.7,NA,"female",-1.3,209,8.10951554806096,176.75630463477,"Summer",43677
+3,-119.006702,38.211724,"ad.",1953,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.8,NA,"male",3.4,176,6.45928976300214,70.157330974079,"Spring",43395
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",22.8,NA,"female",2.1,1603,6.73180488202807,84.2176625093267,"Summer",43701
+7,-118.6945,37.2251,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.8,NA,"male",0,984,5.82353506094542,130.65576526312,"Summer",43800
+8,-118.25254,37.61851,"juv",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",22.8,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",44078
+7,-118.7181,44.3211,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",23,NA,"male",4.4,639,8.14621589042012,82.000914308433,"Summer",43462
+8,-116.0514,48.2147,"imm",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23,NA,"undetermined",3,2035,7.99868833944136,88.8312218855193,"Summer",43469
+8,-115.6888,48.2239,"u ad.",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23,NA,"male",1.5,2376,7.81273242078518,75.2753528822381,"Summer",43470
+8,-116.6517,48.6792,"imm",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23,NA,"undetermined",2.4,1625,8.00719373533272,82.738425979527,"Summer",43475
+7,-114.6022,49.4826,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23,NA,"male",-1,1070,9.77422011149119,86.6278123077577,"Summer",43491
+7,-114.6022,49.4826,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23,NA,"male",-1,1070,9.77422011149119,86.6278123077577,"Summer",43492
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"female",1.6,903,6.58448014560594,108.24647008717,"Summer",43629
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"male",1.6,903,6.58448014560594,108.24647008717,"Summer",43633
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",43636
+7,-118.752737,37.419946,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"female",1,780,6.7705243519243,157.482890111224,"Summer",43643
+8,-115.6888,48.2239,"u ad.",1967,"Leucosticte tephrocotis tephrocotis x Leucosticte atrata","Leucosticte_tephrocotis",23,NA,"male",1.5,2376,7.81273242078518,75.2753528822381,"Summer",43864
+8,-116.6517,48.6792,"u ad.",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23,NA,"female",2.4,1625,8.00719373533272,82.738425979527,"Summer",43867
+7,-114.59028,49.4875,"imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23,NA,"female",-0.6,986,9.88708983748734,86.8430939879423,"Summer",43884
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"female",1.6,903,6.58448014560594,108.24647008717,"Summer",44016
+5,-119.256879,37.910952,"u ad.",1972,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"male",1.9,613,6.70609740640877,79.3660289772242,"Spring",44034
+5,-119.256879,37.910952,"u ad.",1972,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"male",1.9,613,6.70609740640877,79.3660289772242,"Spring",44035
+5,-119.6328997,38.3537004,"u ad.",1972,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"male",-0.2,883,6.48690989609074,88.6311557632413,"Spring",44036
+8,-118.22224,37.59175,"juv",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"female",-1.3,209,8.10951554806096,176.75630463477,"Summer",44063
+8,-118.22224,37.59175,"juv",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",44068
+6,-121.6986,44.0831,"u ad.",1938,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",23,NA,"male",0.3,1898,6.71917202691468,89.5730829806661,"Summer",44088
+7,-119.273445,37.765953,"ad.",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23,NA,"female",1.1,1046,6.48204980673318,124.85578715087,"Summer",44176
+8,-118.22224,37.59175,"juv",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.1,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",43679
+7,-117.3006,45.1636,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",23.1,NA,"male",0.7,1984,6.44832606890417,92.492961010121,"Summer",43698
+3,-120.0828,39.7766,"u ad.",1941,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",23.2,NA,"female",8.8,385,6.3398391624757,97.573544523652,"Spring",43707
+9,-112.1016083,40.7091179,"immature",1966,"Leucosticte tephrocotis atrata","Leucosticte_tephrocotis",23.2,NA,"undetermined",11.2,212,10.1167128449847,57.4923376031973,"Fall",43786
+5,-118.289486,36.78325,"u ad.",1942,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.3,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",43712
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23.3,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43909
+7,-119.30898,38.442839,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.4,NA,"male",-0.8,965,6.37211610349055,141.048768624098,"Summer",43715
+6,-122.1754523,41.3695813,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",23.4,NA,"male",4.1,1719,8.1406341425238,105.695099143291,"Summer",43851
+1,-119.84256,39.55276,"u imm.",1929,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23.47,NA,"undetermined",9.5,211,7.71796409015808,109.008008080154,"Winter",44082
+11,-118.5984459,37.2379875,NA,1996,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"male",5.6,672,6.4698367737361,101.031948180401,"Fall",43390
+7,-114.6022,49.4826,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23.5,NA,"female",-1,1070,9.77422011149119,86.6278123077577,"Summer",43488
+1,-119.06344,39.75301,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23.5,NA,"undetermined",11,196,8.50726516608367,122.708444952294,"Winter",43512
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"female",1.6,903,6.58448014560594,108.24647008717,"Summer",43627
+6,-119.01162,38.211724,"u imm.",1920,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23.5,NA,"female",2.3,226,6.70474165095573,83.6539287659569,"Summer",43652
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",43682
+8,-118.25254,37.61851,"juv",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"undetermined",-1.8,216,8.1099779546089,182.804563448259,"Summer",43690
+7,-121.6986,44.0831,"u ad.",1940,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",23.5,NA,"female",1.2,1984,6.05187173650859,72.8486659766939,"Summer",43704
+11,-119.01162,38.211724,"u ad.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"male",3.8,248,6.59467186217002,61.9905713677923,"Fall",43870
+11,-119.01162,38.211724,"u ad.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"female",3.8,248,6.59467186217002,61.9905713677923,"Fall",43873
+7,-114.6022,49.4826,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23.5,NA,"female",-1,1070,9.77422011149119,86.6278123077577,"Summer",43880
+8,-119.611673,38.260639,"imm",1970,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"undetermined",1.5,1454,6.23506700894711,121.61531568381,"Summer",44011
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"male",1.6,903,6.58448014560594,108.24647008717,"Summer",44015
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",44017
+8,-118.879013,37.529371,"u imm.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"female",1.4,995,6.80874549028785,157.180245606134,"Summer",44027
+8,-119.308507,37.94706,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.5,NA,"female",0.2,1111,6.60933683007103,109.281714367615,"Summer",44028
+3,-120.0828,39.7766,"u imm.",1941,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23.5,NA,"female",8.8,385,6.3398391624757,97.573544523652,"Spring",44100
+3,-120.0828,39.7766,"u imm.",1941,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23.5,NA,"female",8.8,385,6.3398391624757,97.573544523652,"Spring",44101
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.6,NA,"female",-1.3,209,8.10951554806096,176.75630463477,"Summer",44069
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",23.7,NA,"male",2.1,1603,6.73180488202807,84.2176625093267,"Summer",43700
+7,-121.6986,44.0831,"u ad.",1940,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",23.7,NA,"male",1.2,1984,6.05187173650859,72.8486659766939,"Summer",43705
+1,-112.1016083,40.7091179,NA,1967,"Leucosticte tephrocotis atrata","Leucosticte_tephrocotis",23.7,NA,"female",11.1,367,9.44837247488912,55.449312208874,"Winter",43783
+3,-119.006702,38.211724,"ad.",1953,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.7,NA,"female",3.4,176,6.45928976300214,70.157330974079,"Spring",43799
+9,-119.2436,37.97494,"ad.",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",23.7,NA,"male",1.8,703,6.39878658004545,122.170320590885,"Fall",44179
+5,-121.1833,53.25,"u ad.",1934,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",23.9,NA,"male",0.9,1268,6.82949818467986,52.3034497905318,"Spring",44083
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",23.9,NA,"male",2.1,1603,6.73180488202807,84.2176625093267,"Summer",44095
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",24,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43451
+7,-120.6689,48.735271761,"imm.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",24,NA,"undetermined",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43458
+7,-118.0694,44.6197,"u ad.",1967,"Leucosticte tephrocotis littoralis x Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",24,NA,"male",6.4,505,8.26793734124708,63.8694027162276,"Summer",43463
+7,-118.0694,44.6197,"u ad.",1967,"Leucosticte tephrocotis littoralis x Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",24,NA,"male",6.4,505,8.26793734124708,63.8694027162276,"Summer",43465
+8,-116.0514,48.2147,"u ad.",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24,NA,"female",3,2035,7.99868833944136,88.8312218855193,"Summer",43467
+8,-116.6517,48.6792,"imm",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24,NA,"undetermined",2.4,1625,8.00719373533272,82.738425979527,"Summer",43474
+8,-119.8711,49.0514,"imm.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",24,NA,"female",-0.9,785,8.41378288430611,85.8812445587216,"Summer",43508
+1,-119.06344,39.75301,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24,NA,"female",11,196,8.50726516608367,122.708444952294,"Winter",43510
+1,-119.06344,39.75301,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",24,NA,"male",11,196,8.50726516608367,122.708444952294,"Winter",43513
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"male",1.6,903,6.58448014560594,108.24647008717,"Summer",43632
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",43637
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",43638
+12,-119.73791,39.56449,"u ad.",1970,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24,NA,"female",10.7,212,7.90616847784058,107.757566818367,"Winter",43648
+5,-119.88765,39.55434,"u ad.",1970,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",24,NA,"male",9.2,434,7.62394056226632,125.63147603165,"Spring",43651
+7,-118.6945,37.2251,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"female",0,984,5.82353506094542,130.65576526312,"Summer",43803
+7,-117.2903,45.1672,"u ad.",1967,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",24,NA,"male",1.1,1597,7.10663369143524,75.1954883459022,"Summer",43868
+8,-116.0514,48.2147,"u ad.",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24,NA,"male",3,2035,7.99868833944136,88.8312218855193,"Summer",43869
+11,-119.01162,38.211724,"u ad.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"male",3.8,248,6.59467186217002,61.9905713677923,"Fall",43871
+7,-114.6022,49.4826,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24,NA,"female",-1,1070,9.77422011149119,86.6278123077577,"Summer",43881
+8,-119.624322,38.228229,"imm",1970,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"undetermined",1.4,1661,6.18603020498362,121.500638571501,"Summer",44012
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",44020
+7,-118.743931,37.388146,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"female",0.3,804,6.79215233437335,152.43215634738,"Summer",44025
+7,-118.763001,37.379492,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"male",-0.3,896,6.7230043789059,158.508945351995,"Summer",44026
+7,-119.273445,37.765953,"ad.",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"male",1.1,1046,6.48204980673318,124.85578715087,"Summer",44059
+8,-118.254488,37.63397,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24,NA,"female ?",-4.1,230,8.09086184868741,186.461888183546,"Summer",44073
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.1,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",43686
+1,-119.84256,39.55276,"u imm.",1929,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24.18,NA,"undetermined",9.5,211,7.71796409015808,109.008008080154,"Winter",44081
+5,-120.6437195,39.5935085,"u ad.",1967,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.2,NA,"female",7.3,2193,7.60215280514193,108.717501505261,"Spring",43437
+7,-119.279055,37.757434,"ad.",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.2,NA,"male",0.8,1110,6.53333526592427,126.163513822083,"Summer",43673
+8,-119.31504,37.739991,"imm",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.2,NA,"male",1.2,1113,6.55292555530225,123.90885287265,"Summer",43674
+7,-117.3006,45.1636,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",24.2,NA,"female",0.7,1984,6.44832606890417,92.492961010121,"Summer",43697
+3,-119.006702,38.211724,"u ad.",1953,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.2,NA,"female",3.4,176,6.45928976300214,70.157330974079,"Spring",43798
+7,-119.34684,37.93371,"ad.",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.3,NA,"female",1.8,875,6.29378601671859,118.755430649825,"Summer",44056
+3,-118.5984459,37.2379875,"adult",1983,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.4,NA,"male",4.7,721,6.16285918493465,84.7843372232386,"Spring",43391
+3,-119.006702,38.211724,"ad.",1953,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.4,NA,"female",3.4,176,6.45928976300214,70.157330974079,"Spring",43796
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.4,NA,"female",-1.3,209,8.10951554806096,176.75630463477,"Summer",44071
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",24.4,NA,"male",2.1,1603,6.73180488202807,84.2176625093267,"Summer",44098
+11,-119.01162,38.211724,"u ad.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"female ?",3.8,248,6.59467186217002,61.9905713677923,"Fall",43479
+11,-119.01162,38.211724,"u imm.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"female",3.8,248,6.59467186217002,61.9905713677923,"Fall",43482
+8,-117.0833,50.2471,"u imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24.5,NA,"female",-1.8,1810,7.84294220457109,51.2774585898427,"Summer",43504
+11,-119.002426,38.222069,"u ad.",1969,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"male",3.7,432,7.15558692508338,119.300477014709,"Fall",43605
+11,-119.002426,38.222069,"u ad.",1969,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"male",3.7,432,7.15558692508338,119.300477014709,"Fall",43606
+12,-119.73791,39.56449,"u ad.",1970,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24.5,NA,"female",10.7,212,7.90616847784058,107.757566818367,"Winter",43649
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24.5,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43938
+5,-119.01162,38.211724,"u ad.",1969,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"male",3.8,431,7.1917039747619,120.534723331576,"Spring",43947
+4,-120.2691111,39.1972928,"u ad.",1969,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"male",4.3,2583,7.07511109239261,146.818485350044,"Spring",43948
+11,-119.002426,38.222069,"u ad.",1969,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"female",3.7,432,7.15558692508338,119.300477014709,"Fall",43995
+11,-119.002426,38.222069,"u ad.",1969,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"male",3.7,432,7.15558692508338,119.300477014709,"Fall",43996
+11,-119.002426,38.222069,"u ad.",1969,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"male",3.7,432,7.15558692508338,119.300477014709,"Fall",43997
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"female",1.6,903,6.58448014560594,108.24647008717,"Summer",44014
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",44018
+7,-118.752737,37.419946,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"female",1,780,6.7705243519243,157.482890111224,"Summer",44024
+6,-122.1915181,41.3653336,"u ad.",1970,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"female",5.1,2150,6.94813578660427,136.428059318775,"Summer",44031
+7,-119.273445,37.765953,"ad.",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"female",1.1,1046,6.48204980673318,124.85578715087,"Summer",44058
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",44076
+5,-121.1833,53.25,"u ad.",1934,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24.5,NA,"male",0.9,1268,6.82949818467986,52.3034497905318,"Spring",44085
+7,-119.310946,38.442012,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.5,NA,"male",-0.8,962,6.38741067659777,140.751938874364,"Summer",44114
+8,-118.25254,37.61851,"juv",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.6,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",44079
+6,-122.1754523,41.3695813,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",24.7,NA,"male",4.1,1719,8.1406341425238,105.695099143291,"Summer",43440
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.7,NA,"female",-1.3,209,8.10951554806096,176.75630463477,"Summer",43691
+7,-118.6945,37.2251,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.7,NA,"male",0,984,5.82353506094542,130.65576526312,"Summer",43802
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.7,NA,"female",-1.3,209,8.10951554806096,176.75630463477,"Summer",44066
+4,-149.90028,61.05919,"skull doubled",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",24.8,NA,"male",2.1,381,9.16308056575656,100.2540213597,"Spring",43405
+7,-119.34684,37.93371,"ad.",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.8,NA,"male",1.8,875,6.29378601671859,118.755430649825,"Summer",43672
+7,-117.3006,45.1636,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",24.8,NA,"male",0.7,1984,6.44832606890417,92.492961010121,"Summer",43696
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.8,NA,"female",-1.3,209,8.10951554806096,176.75630463477,"Summer",44067
+6,-119.30898,38.442839,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.8,NA,"male",-0.8,965,6.37211610349055,141.048768624098,"Summer",44109
+1,-119.06344,39.75301,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",24.9,NA,"male",11,196,8.50726516608367,122.708444952294,"Winter",43515
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",24.9,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43609
+7,-119.30436,38.429485,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.9,NA,"female",-0.8,975,6.36359794360696,140.753599597114,"Summer",43717
+1,-112.1388154,40.7607794,NA,1967,"Leucosticte tephrocotis atrata","Leucosticte_tephrocotis",24.9,NA,"male",11.2,365,9.53395844528198,57.1236423546133,"Winter",43781
+2,-112.1016083,40.7091179,NA,1967,"Leucosticte tephrocotis atrata","Leucosticte_tephrocotis",24.9,NA,"male",11.1,367,9.44837247488912,55.449312208874,"Winter",43784
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",24.9,NA,"female",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43793
+2,-119.01162,38.211724,"u ad.",1969,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",24.9,NA,"female",3.8,431,7.1917039747619,120.534723331576,"Winter",43941
+7,-117.3006,45.1636,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",24.9,NA,"male",0.7,1984,6.44832606890417,92.492961010121,"Summer",44089
+7,-117.3006,45.1636,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",24.9,NA,"male",0.7,1984,6.44832606890417,92.492961010121,"Summer",44090
+7,-118.6945,37.2251,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"male",0,984,5.82353506094542,130.65576526312,"Summer",43397
+6,-122.1754523,41.3695813,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25,NA,"male",4.1,1719,8.1406341425238,105.695099143291,"Summer",43441
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43443
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43445
+7,-120.6689,48.735271761,"imm.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25,NA,"undetermined",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43457
+7,-118.0694,44.6197,"u ad.",1967,"Leucosticte tephrocotis littoralis x Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",25,NA,"male",6.4,505,8.26793734124708,63.8694027162276,"Summer",43466
+8,-116.0514,48.2147,"imm",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25,NA,"undetermined",3,2035,7.99868833944136,88.8312218855193,"Summer",43468
+8,-116.6517,48.6792,"imm",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25,NA,"undetermined",2.4,1625,8.00719373533272,82.738425979527,"Summer",43473
+11,-119.01162,38.211724,"u ad.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"female ?",3.8,248,6.59467186217002,61.9905713677923,"Fall",43485
+7,-114.6022,49.4826,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25,NA,"female",-1,1070,9.77422011149119,86.6278123077577,"Summer",43493
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"male",1.6,903,6.58448014560594,108.24647008717,"Summer",43630
+6,-119.254552,37.927662,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"female",1.6,903,6.58448014560594,108.24647008717,"Summer",43631
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",43640
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"female",0.8,854,6.54501313747321,107.706049920665,"Summer",43642
+1,-119.73791,39.56449,"u ad.",1971,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25,NA,"female",9.5,270,7.59407165112525,89.9043282040097,"Winter",43650
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",43689
+3,-120.0828,39.7766,"u ad.",1941,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25,NA,"male",8.8,385,6.3398391624757,97.573544523652,"Spring",43708
+6,-122.1042,42.9036,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25,NA,"male",4.1,1191,7.56708882816459,85.4660830353072,"Summer",43852
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43857
+7,-113.9265,47.3808,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25,NA,"male",0,1743,8.64579070818262,112.70217252478,"Summer",43891
+8,-119.8711,49.0514,"imm.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25,NA,"undetermined",-0.9,785,8.41378288430611,85.8812445587216,"Summer",43897
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25,NA,"female",3.5,370,9.97880708847961,63.3120896104397,"Winter",43964
+7,-119.2574555,37.7721809,"ad.",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"female",1.1,969,6.44632852988052,125.556437429124,"Summer",44057
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",25,NA,"male",2.1,1603,6.73180488202807,84.2176625093267,"Summer",44096
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",25,NA,"female",2.1,1603,6.73180488202807,84.2176625093267,"Summer",44097
+7,-119.30436,38.429485,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"female",-0.8,975,6.36359794360696,140.753599597114,"Summer",44111
+6,-118.235988,37.583619,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25,NA,"male",-1.6,335,6.06907211718862,81.3329882820462,"Summer",44173
+6,-119.50555,37.84439,"u ad.",1915,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.1,NA,"female",2.1,1255,6.03472275981911,115.006905542893,"Summer",43671
+7,-118.6945,37.2251,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.2,NA,"male",0,984,5.82353506094542,130.65576526312,"Summer",43396
+3,-120.0828,39.7766,"u ad.",1941,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.2,NA,"female",8.8,385,6.3398391624757,97.573544523652,"Spring",43706
+1,-112.1730005,40.7746665,NA,1967,"Leucosticte tephrocotis atrata","Leucosticte_tephrocotis",25.2,NA,"undetermined",11.2,369,9.55454437332405,57.0244873993134,"Winter",43782
+1,-112.1016083,40.7091179,"adult",1967,"Leucosticte tephrocotis atratus","Leucosticte_tephrocotis",25.2,NA,"male",11.1,367,9.44837247488912,55.449312208874,"Winter",43785
+6,-121.6986,44.0831,"u ad.",1938,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.2,NA,"male",0.3,1898,6.71917202691468,89.5730829806661,"Summer",44087
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",25.2,NA,"male",2.1,1603,6.73180488202807,84.2176625093267,"Summer",44099
+6,-119.30898,38.442839,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.2,NA,"female",-0.8,965,6.37211610349055,141.048768624098,"Summer",44110
+6,-118.235988,37.583619,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.3,NA,"male",-1.6,335,6.06907211718862,81.3329882820462,"Summer",44174
+4,-149.90028,61.05919,"u ad.",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.4,NA,"female",2.1,381,9.16308056575656,100.2540213597,"Spring",43404
+7,-117.3006,45.1636,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",25.4,NA,"male",0.7,1984,6.44832606890417,92.492961010121,"Summer",43699
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",25.4,NA,"female",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43792
+1,-119.06344,39.75301,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.4,NA,"male",11,196,8.50726516608367,122.708444952294,"Winter",43899
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25.4,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43957
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.4,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43998
+8,-118.4038291,36.7726259,"ad.",1916,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.4,NA,"male",1.5,1725,6.74689603155451,154.344209769969,"Summer",44060
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.4,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",44072
+4,-149.90028,61.07363,"skull doubled",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.5,NA,"male",1.9,378,9.38010063265783,101.371447496998,"Spring",43406
+7,-114.6022,49.4826,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25.5,NA,"male ?",-1,1070,9.77422011149119,86.6278123077577,"Summer",43489
+6,-122.3103,42.4421,"u ad.",1969,"Leucosticte tephrocotis littoralis x Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.5,NA,"male",2.4,1775,7.0438184806168,108.233319553873,"Summer",43500
+8,-127.2484,53.7978,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.5,NA,"female",-2.1,2101,7.97347876628286,66.1015574099935,"Summer",43501
+2,-115.19353,41.0682,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25.5,NA,"female",7,349,9.4304471438704,73.0657060637711,"Winter",43547
+3,-115.95972,39.52003,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25.5,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",43616
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.5,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",43635
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.5,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",43639
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.5,NA,"female",0.8,854,6.54501313747321,107.706049920665,"Summer",43641
+7,-118.763001,37.379492,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.5,NA,"female",-0.3,896,6.7230043789059,158.508945351995,"Summer",43646
+12,-119.73791,39.56449,"u imm.",1970,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.5,NA,"male",10.7,212,7.90616847784058,107.757566818367,"Winter",43647
+11,-119.01162,38.211724,"u ad.",1968,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.5,NA,"undetermined",3.8,248,6.59467186217002,61.9905713677923,"Fall",43872
+7,-114.6022,49.4826,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25.5,NA,"female",-1,1070,9.77422011149119,86.6278123077577,"Summer",43878
+8,-119.624322,38.228229,"u imm.",1970,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.5,NA,"male",1.4,1661,6.18603020498362,121.500638571501,"Summer",44013
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.5,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",44021
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.5,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",44062
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.6,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",43678
+7,-119.30436,38.429485,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.6,NA,"male",-0.8,975,6.36359794360696,140.753599597114,"Summer",43718
+8,-118.22224,37.59175,"juv",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.6,NA,"female ?",-1.3,209,8.10951554806096,176.75630463477,"Summer",44064
+6,-118.235988,37.583619,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.6,NA,"female",-1.6,335,6.06907211718862,81.3329882820462,"Summer",44178
+5,-120.6437195,39.5935085,"u ad.",1967,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.7,NA,"male",7.3,2193,7.60215280514193,108.717501505261,"Spring",43438
+6,-122.1754523,41.3695813,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.7,NA,"male",4.1,1719,8.1406341425238,105.695099143291,"Summer",43439
+8,-118.22224,37.59175,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.7,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",43680
+1,-119.83925,39.5502,"u ad.",1929,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25.7,NA,"male",9.8,193,7.75094813359611,106.657979888988,"Winter",43694
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",25.8,NA,"male",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43790
+4,-149.8025,61.0716,"u ad.",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",25.8,NA,"male",1.3,366,9.8846529345427,101.364479407008,"Spring",43807
+6,-122.1754523,41.3695813,"u ad.",1967,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.8,NA,"female",4.1,1719,8.1406341425238,105.695099143291,"Summer",43850
+8,-118.4038291,36.7726259,"ad.",1916,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.8,NA,"male",1.5,1725,6.74689603155451,154.344209769969,"Summer",44061
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",25.8,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",44075
+5,-121.1833,53.25,"u ad.",1934,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25.8,NA,"male",0.9,1268,6.82949818467986,52.3034497905318,"Spring",44084
+2,-105.7516384,39.39637533,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",25.9,NA,"female",2.2,579,8.20415175753143,71.3207734312442,"Winter",43953
+5,-123.4083,47.9333,"u ad.",1968,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"female",3.6,2041,5.48343925475664,69.6771795502884,"Spring",43416
+6,-122.1042,42.9036,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"male",4.1,1191,7.56708882816459,85.4660830353072,"Summer",43447
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43449
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43450
+7,-120.6689,48.735271761,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"female",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43455
+7,-120.6689,48.735271761,"imm.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"undetermined",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43459
+7,-122.0658,43.1531,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"male",2.9,1193,7.57607878106938,84.0757001640765,"Summer",43461
+7,-117.2903,45.1672,"u ad.",1967,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",26,NA,"male",1.1,1597,7.10663369143524,75.1954883459022,"Summer",43476
+7,-113.9285,47.3825,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"male",0,1747,8.64579070818262,112.817842034816,"Summer",43498
+1,-105.8016618,39.35834934,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43528
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",43614
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",43624
+7,-118.755277,37.389766,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26,NA,"female",0.2,852,6.76843722171096,156.105381243733,"Summer",43644
+9,-147.8043,64.857,"HY",2010,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"female",-1.3,281,15.1132367229004,109.958601863594,"Fall",43737
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43855
+7,-120.6689,48.735271761,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"female",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43859
+7,-120.6689,48.735271761,"imm.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"male",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43862
+8,-114.97361,50.6125,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"female",-2.5,1188,10.4924503883276,82.1276555967741,"Summer",43875
+8,-114.98333,50.6175,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"female",-2.5,1276,10.5061742308843,78.2208892601633,"Summer",43876
+7,-114.6022,49.4826,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"female",-1,1070,9.77422011149119,86.6278123077577,"Summer",43877
+7,-113.9285,47.3825,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"female",0,1747,8.64579070818262,112.817842034816,"Summer",43889
+3,-115.95972,39.52003,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",44004
+7,-114.6022,49.4826,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26,NA,"female",-1,1070,9.77422011149119,86.6278123077577,"Summer",44039
+7,-119.304188,38.483799,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26,NA,"female",0.3,860,6.47919748117002,140.511188856889,"Summer",44113
+7,-121.8119,48.7775,NA,1977,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26,NA,"male",-3.4,4239,6.45663271842267,74.2589568193258,"Summer",44183
+8,-118.254488,37.63397,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.1,NA,"female",-4.1,230,8.09086184868741,186.461888183546,"Summer",43683
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.1,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",43684
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",26.1,NA,"female",2.1,1603,6.73180488202807,84.2176625093267,"Summer",43703
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",26.1,NA,"male",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43795
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26.2,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43548
+2,-105.7516384,39.39637533,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.2,NA,"female",2.2,579,8.20415175753143,71.3207734312442,"Winter",43569
+8,-118.4038291,36.7726259,"ad.",1916,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.2,NA,"male",1.5,1725,6.74689603155451,154.344209769969,"Summer",43675
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",26.2,NA,"female",2.1,1603,6.73180488202807,84.2176625093267,"Summer",43702
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",26.2,NA,"female",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43794
+3,-119.006702,38.211724,"u ad.",1953,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.2,NA,"female",3.4,176,6.45928976300214,70.157330974079,"Spring",43797
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.3,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43573
+7,-119.310946,38.442012,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.3,NA,"male",-0.8,962,6.38741067659777,140.751938874364,"Summer",43719
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.3,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43935
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.3,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43969
+8,-118.22224,37.59175,"juv",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.3,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",44065
+5,-120.6437195,39.5935085,"u ad.",1967,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.4,NA,"male",7.3,2193,7.60215280514193,108.717501505261,"Spring",43436
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.4,NA,"female",-1.8,216,8.1099779546089,182.804563448259,"Summer",44077
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43393
+7,-120.6789,48.7422,"u ad.",1959,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",0.3,1503,6.01890959620368,69.5891256405845,"Summer",43398
+8,-114.98333,50.6175,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",-2.5,1276,10.5061742308843,78.2208892601633,"Summer",43487
+7,-113.9288,47.3822,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",0,1746,8.64579070818262,112.817842034816,"Summer",43499
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43625
+7,-114.6022,49.4826,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",-1,1070,9.77422011149119,86.6278123077577,"Summer",43879
+7,-114.6022,49.4826,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",-1,1070,9.77422011149119,86.6278123077577,"Summer",43883
+7,-113.9285,47.3825,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",0,1747,8.64579070818262,112.817842034816,"Summer",43888
+3,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Spring",43981
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",26.5,NA,"male ?",4.3,980,5.11156591081501,39.3317176176884,"Winter",43986
+11,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26.5,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Fall",44000
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",44010
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.5,NA,"female",0.8,854,6.54501313747321,107.706049920665,"Summer",44022
+6,-119.226497,37.922744,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.5,NA,"male",0.8,854,6.54501313747321,107.706049920665,"Summer",44023
+12,-119.73791,39.56449,"u ad.",1970,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.5,NA,"male",10.7,212,7.90616847784058,107.757566818367,"Winter",44029
+7,-119.30436,38.429485,"u ad.",1946,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.6,NA,"female",-0.8,975,6.36359794360696,140.753599597114,"Summer",44112
+7,-145.0455555556,69.3183333333,"juv",1964,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.7,NA,"male",-13,415,15.4023807683531,66.4369373053471,"Summer",43415
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",26.7,NA,"male",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43788
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26.7,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43923
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26.7,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43934
+2,-105.7516384,39.39637533,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.7,NA,"female",2.2,579,8.20415175753143,71.3207734312442,"Winter",43952
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.7,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43999
+7,-149.1161111111,61.0602777778,"skull single",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26.8,NA,"female",-1.1,1301,4.43242187030563,71.715708660839,"Summer",43409
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",26.8,NA,"male",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43789
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",26.8,NA,"female",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43791
+1,-119.06344,39.75301,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.9,NA,"male",11,196,8.50726516608367,122.708444952294,"Winter",43516
+4,-149.90028,61.05919,"u ad.",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",26.9,NA,"male",2.1,381,9.16308056575656,100.2540213597,"Spring",43805
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",26.9,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43956
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",26.9,NA,"male",-1.8,216,8.1099779546089,182.804563448259,"Summer",44074
+5,-120.6437195,39.5935085,"u ad.",1967,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",27,NA,"male",7.3,2193,7.60215280514193,108.717501505261,"Spring",43435
+6,-122.1322,42.9722,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",4,1180,7.25872515729111,84.773972874212,"Summer",43442
+6,-122.1042,42.9036,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",4.1,1191,7.56708882816459,85.4660830353072,"Summer",43446
+6,-122.1042,42.9036,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"female",4.1,1191,7.56708882816459,85.4660830353072,"Summer",43448
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43452
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43453
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"female",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43454
+7,-120.6689,48.735271761,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43456
+11,-119.01162,38.211724,"u imm.",1968,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",3.8,248,6.59467186217002,61.9905713677923,"Fall",43484
+7,-114.6022,49.4826,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27,NA,"undetermined",-1,1070,9.77422011149119,86.6278123077577,"Summer",43490
+1,-119.06344,39.75301,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27,NA,"male",11,196,8.50726516608367,122.708444952294,"Winter",43511
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43552
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43617
+5,-123.4083,47.9333,"u ad.",1968,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"female",3.6,2041,5.48343925475664,69.6771795502884,"Spring",43813
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43853
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43854
+7,-120.6689,48.735271761,"imm.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43860
+7,-120.6689,48.735271761,"imm.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43861
+7,-120.6689,48.735271761,"imm.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"undetermined",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43863
+8,-115.6888,48.2239,"imm",1967,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27,NA,"undetermined",1.5,2376,7.81273242078518,75.2753528822381,"Summer",43866
+7,-115.61,48.0619,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27,NA,"female",0.8,1938,8.07571649884374,93.3212105726028,"Summer",43892
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",27,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43985
+3,-115.95972,39.52003,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",44008
+6,-122.1886555,41.3761841,"u ad.",1970,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27,NA,"male",2.7,2264,7.00292146828087,137.283027776017,"Summer",44030
+9,-147.8043,64.857,"HY",2010,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27,NA,"female",-1.3,281,15.1132367229004,109.958601863594,"Fall",44131
+9,-147.8043,64.857,"AD",2010,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27,NA,"male",-1.3,281,15.1132367229004,109.958601863594,"Fall",44132
+6,-118.235988,37.583619,"u ad.",1954,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",27,NA,"female",-1.6,335,6.06907211718862,81.3329882820462,"Summer",44175
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.1,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43551
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.1,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43553
+3,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.1,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Spring",43951
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.2,NA,"male",2.2,503,8.48726318453931,73.0521073878187,"Winter",43921
+6,-149.41133,68.19817,"adult",2007,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.2,NA,"male",-8.8,462,13.8700544011518,75.576665985385,"Summer",44186
+11,-105.5531666667,35.7683333333,NA,2010,"Leucosticte tephrocotis","Leucosticte_tephrocotis",27.3,NA,"male",3.2,1189,7.54671813078073,62.0800636355434,"Fall",43394
+5,-123.4083,47.9333,"u ad.",1968,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.3,NA,"female",3.6,2041,5.48343925475664,69.6771795502884,"Spring",43417
+2,-105.7516384,39.39637533,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.3,NA,"female",2.2,579,8.20415175753143,71.3207734312442,"Winter",43568
+2,-105.7519497,39.42536986,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.3,NA,"female",1.8,603,8.16594461866792,69.4734280308579,"Winter",43955
+1,-108.4639233,40.33766845,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.4,NA,"female",7.3,346,9.9943014066047,78.5064727358941,"Winter",43904
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.4,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43932
+2,-119.88765,39.55434,"u imm.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.4,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43933
+7,-117.3006,45.1636,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",27.4,NA,"female",0.7,1984,6.44832606890417,92.492961010121,"Summer",44091
+7,-149.1161111111,61.0602777778,"skull single",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.5,NA,"undetermined",-1.1,1301,4.43242187030563,71.715708660839,"Summer",43408
+7,-114.2237,48.0202,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.5,NA,"male",6.9,362,9.37545150427919,96.6174475489357,"Summer",43496
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.5,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",43613
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.5,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43615
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.5,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43621
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.5,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",43622
+7,-118.761408,37.379422,"u ad.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",27.5,NA,"female",-0.3,891,6.7230043789059,157.552512164736,"Summer",43645
+5,-123.4083,47.9333,"u ad.",1968,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.5,NA,"male",3.6,2041,5.48343925475664,69.6771795502884,"Spring",43812
+7,-114.2237,48.0202,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.5,NA,"male",6.9,362,9.37545150427919,96.6174475489357,"Summer",43887
+8,-118.4167,51.1311,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.5,NA,"male",-0.8,1981,9.20616970330553,53.5651111917985,"Summer",43894
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",27.5,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43983
+7,-121.8119,48.7775,NA,1977,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.5,NA,"male",-3.4,4239,6.45663271842267,74.2589568193258,"Summer",44177
+1,-108.4639233,40.33766845,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.6,NA,"female",7.3,346,9.9943014066047,78.5064727358941,"Winter",43517
+7,-117.3874,45.2269,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",27.6,NA,"female",2.1,1603,6.73180488202807,84.2176625093267,"Summer",44094
+1,-119.06344,39.75301,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.7,NA,"male",11,196,8.50726516608367,122.708444952294,"Winter",43514
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis tephrocotis x Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.7,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43549
+8,-118.25254,37.61851,"ad.",1917,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",27.7,NA,"male",-1.8,216,8.1099779546089,182.804563448259,"Summer",43685
+1,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.8,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43539
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.8,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43607
+1,-105.7870878,39.3917887,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.8,NA,"female ?",2.2,525,8.37327548957052,72.3930725783095,"Winter",43911
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.8,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43914
+1,-119.06344,39.75301,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.9,NA,"male",11,196,8.50726516608367,122.708444952294,"Winter",43509
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",27.9,NA,"male",2.2,525,8.37327548957052,72.3930725783095,"Winter",43525
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",27.9,NA,"female",8.8,580,7.60159472901854,152.136018578746,"Winter",43550
+7,-120.6689,48.735271761,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28,NA,"male",1.4,1340,6.79069662155957,85.2046424925922,"Summer",43460
+8,-114.96944,50.60972,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",-2.5,1191,10.5125141876458,82.2427350719961,"Summer",43486
+7,-114.2237,48.0202,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"female",6.9,362,9.37545150427919,96.6174475489357,"Summer",43494
+7,-114.2237,48.0202,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",6.9,362,9.37545150427919,96.6174475489357,"Summer",43497
+8,-127.2484,53.7978,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28,NA,"male",-2.1,2101,7.97347876628286,66.1015574099935,"Summer",43502
+8,-118.4167,51.1311,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"female",-0.8,1981,9.20616970330553,53.5651111917985,"Summer",43507
+4,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Spring",43566
+3,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Spring",43583
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43612
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43618
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43619
+3,-115.95972,39.52003,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",43623
+9,-147.8043,64.857,"HY",2010,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"female",-1.3,281,15.1132367229004,109.958601863594,"Fall",43738
+9,-147.8043,64.857,"HY",2010,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",-1.3,281,15.1132367229004,109.958601863594,"Fall",43739
+9,-147.8043,64.857,"HY",2010,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",-1.3,281,15.1132367229004,109.958601863594,"Fall",43740
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43858
+7,-114.2237,48.0202,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",6.9,362,9.37545150427919,96.6174475489357,"Summer",43885
+6,-122.3103,42.445,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28,NA,"female",2.4,1776,7.03870253195384,108.233319553873,"Summer",43893
+8,-118.4167,51.1311,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"female",-0.8,1981,9.20616970330553,53.5651111917985,"Summer",43896
+1,-108.4639233,40.33766845,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",7.3,346,9.9943014066047,78.5064727358941,"Winter",43901
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis x Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28,NA,"female",3.5,370,9.97880708847961,63.3120896104397,"Winter",43974
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",44002
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",44005
+7,-117.3006,45.1636,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",28,NA,"male",0.7,1984,6.44832606890417,92.492961010121,"Summer",44093
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28.2,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43529
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28.2,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43907
+11,-106.304365,39.853127,"Adult",2012,"Leucosticte tephrocotis","Leucosticte_tephrocotis",28.3,134,"undetermined",4.2,309,8.85672146742321,77.0553926785097,"Fall",43383
+7,-151.7358333333,68.1433333333,"u imm.",1963,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.3,NA,"female",-9.9,585,13.7590300926667,110.458769758524,"Summer",43399
+7,-145.0455555556,69.3183333333,"u ad.",1964,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.3,NA,"male",-13,415,15.4023807683531,66.4369373053471,"Summer",43412
+6,-149.41133,68.19817,"adult",2007,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.3,NA,"male",-8.8,462,13.8700544011518,75.576665985385,"Summer",44180
+7,-145.0455555556,69.3183333333,"u ad.",1964,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.4,NA,"male",-13,415,15.4023807683531,66.4369373053471,"Summer",43410
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.4,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43526
+1,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28.4,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43919
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.4,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43959
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28.5,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43542
+3,-105.807406,39.37135724,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.5,NA,"male",2.2,506,8.50395184427199,72.0519663603455,"Spring",43586
+3,-105.9824707,38.28290632,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.5,NA,"female",5.8,430,8.427210617273,84.794913808687,"Spring",43590
+3,-105.8016618,39.35834934,"u imm.",1959,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.5,NA,"male",2.3,423,8.15365227701951,43.4148733551719,"Spring",43980
+3,-115.95972,39.52003,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.5,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",44006
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.5,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",44007
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.5,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",44009
+7,-121.8119,48.7775,NA,1977,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28.5,NA,"male",-3.4,4239,6.45663271842267,74.2589568193258,"Summer",44184
+1,-108.4639233,40.33766845,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.6,NA,"female",7.3,346,9.9943014066047,78.5064727358941,"Winter",43900
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.6,NA,"female",3.5,370,9.97880708847961,63.3120896104397,"Winter",43963
+7,-117.3006,45.1636,"u ad.",1938,"Leucosticte tephrocotis wallowa","Leucosticte_tephrocotis",28.6,NA,"female",0.7,1984,6.44832606890417,92.492961010121,"Summer",44092
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis x Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28.7,NA,"male",2.2,525,8.37327548957052,72.3930725783095,"Winter",43523
+6,-121.6986,44.0831,"u ad.",1938,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28.7,NA,"female",0.3,1898,6.71917202691468,89.5730829806661,"Summer",43695
+1,-108.4639233,40.33766845,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.7,NA,"female",7.3,346,9.9943014066047,78.5064727358941,"Winter",43905
+1,-108.4639233,40.33766845,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.8,NA,"female",7.3,346,9.9943014066047,78.5064727358941,"Winter",43519
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.8,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43544
+6,-149.41133,68.19817,"adult",2007,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",28.8,NA,"male",-8.8,462,13.8700544011518,75.576665985385,"Summer",44181
+12,-107.9126716614,40.0052576971,"adult",1996,"Leucosticte tephrocotis","Leucosticte_tephrocotis",28.9,159,"male",7.1,465,8.98666942046536,45.8265626815381,"Winter",43779
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",28.9,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43915
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",28.9,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43942
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29,NA,"male",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43444
+7,-114.2237,48.0202,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29,NA,"female",6.9,362,9.37545150427919,96.6174475489357,"Summer",43495
+8,-127.2484,53.7978,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29,NA,"male",-2.1,2101,7.97347876628286,66.1015574099935,"Summer",43503
+2,-105.7516384,39.39637533,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29,NA,"male",2.2,579,8.20415175753143,71.3207734312442,"Winter",43570
+4,-149.90028,61.05919,"u ad.",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29,NA,"male",2.1,381,9.16308056575656,100.2540213597,"Spring",43806
+7,-149.1161111111,61.0602777778,"skull doubled",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29,NA,"male",-1.1,1301,4.43242187030563,71.715708660839,"Summer",43809
+6,-122.1144,42.9014,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29,NA,"female",3.9,1278,7.48730238268076,85.2326709924479,"Summer",43856
+7,-114.2237,48.0202,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29,NA,"male",6.9,362,9.37545150427919,96.6174475489357,"Summer",43886
+7,-113.9245,47.3822,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29,NA,"male",-0.4,1830,8.61344966616251,113.793526923306,"Summer",43890
+8,-118.4167,51.1311,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29,NA,"male",-0.8,1981,9.20616970330553,53.5651111917985,"Summer",43895
+1,-105.7870878,39.3917887,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29,NA,"male",2.2,525,8.37327548957052,72.3930725783095,"Winter",43908
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43910
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29,NA,"male",2.2,525,8.37327548957052,72.3930725783095,"Winter",43912
+1,-105.8016618,39.35834934,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43916
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29,NA,"female",7.6,334,9.04203567184454,78.8331577142975,"Spring",44003
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.1,NA,"male",3.5,370,9.97880708847961,63.3120896104397,"Winter",43576
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.3,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43524
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis tephrocotis x Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29.3,NA,"male",2.2,503,8.48726318453931,73.0521073878187,"Winter",43920
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.3,NA,"female",3.5,370,9.97880708847961,63.3120896104397,"Winter",43967
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29.4,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43541
+7,-145.0455555556,69.3183333333,"u imm.",1964,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.5,NA,"female",-13,415,15.4023807683531,66.4369373053471,"Summer",43411
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29.5,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43611
+5,-123.4083,47.9333,"u ad.",1968,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29.5,NA,"female",3.6,2041,5.48343925475664,69.6771795502884,"Spring",43811
+1,-108.4639233,40.33766845,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.5,NA,"female",7.3,346,9.9943014066047,78.5064727358941,"Winter",43902
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.5,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43958
+3,-105.807406,39.37135724,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.5,NA,"male",2.2,506,8.50395184427199,72.0519663603455,"Spring",43976
+3,-105.807406,39.37135724,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.5,NA,"female",2.2,506,8.50395184427199,72.0519663603455,"Spring",43977
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.6,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43925
+6,-149.2891666667,63.75,"u ad.",1926,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",29.7,NA,"female",-0.4,600,9.93589681179034,93.9787209957658,"Summer",43693
+1,-108.4639233,40.33766845,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.7,NA,"male",7.3,346,9.9943014066047,78.5064727358941,"Winter",43903
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.8,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43954
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",29.8,NA,"female",3.5,370,9.97880708847961,63.3120896104397,"Winter",43965
+7,-145.0455555556,69.3183333333,"u imm.",1964,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30,NA,"male",-13,415,15.4023807683531,66.4369373053471,"Summer",43413
+8,-118.4167,51.1311,"imm",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30,NA,"female ?",-0.8,1981,9.20616970330553,53.5651111917985,"Summer",43505
+8,-118.4167,51.1311,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30,NA,"male",-0.8,1981,9.20616970330553,53.5651111917985,"Summer",43506
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43543
+3,-105.8016618,39.35834934,"u imm.",1959,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30,NA,"male",2.3,423,8.15365227701951,43.4148733551719,"Spring",43584
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43620
+3,-105.8016618,39.35834934,"u imm.",1959,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30,NA,"male",2.3,423,8.15365227701951,43.4148733551719,"Spring",43979
+3,-105.9824707,38.28290632,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30,NA,"male",5.8,430,8.427210617273,84.794913808687,"Spring",43982
+7,-121.8119,48.7775,NA,1977,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30,NA,"male",-3.4,4239,6.45663271842267,74.2589568193258,"Summer",44185
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.1,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43534
+2,-119.88765,39.55434,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.1,NA,"male",8.8,580,7.60159472901854,152.136018578746,"Winter",43608
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.1,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43960
+7,-145.0455555556,69.3183333333,"u ad.",1964,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.2,NA,"male",-13,415,15.4023807683531,66.4369373053471,"Summer",43414
+1,-108.4639233,40.33766845,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.2,NA,"female",7.3,346,9.9943014066047,78.5064727358941,"Winter",43518
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.2,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43574
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.2,NA,"female",3.5,370,9.97880708847961,63.3120896104397,"Winter",43580
+12,-107.9126716614,40.0052576971,"immature",1996,"Leucosticte tephrocotis","Leucosticte_tephrocotis",30.2,157,"male",7.1,465,8.98666942046536,45.8265626815381,"Winter",43778
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.2,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43930
+1,-105.807406,39.37135724,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.3,NA,"male",2.2,506,8.50395184427199,72.0519663603455,"Winter",43926
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis tephrocotis x Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.4,NA,"male",2.2,503,8.48726318453931,73.0521073878187,"Winter",43533
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.4,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43575
+6,-149.2891666667,63.75,"u ad.",1926,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.4,NA,"female",-0.4,600,9.93589681179034,93.9787209957658,"Summer",43692
+1,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.5,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43538
+3,-105.8016618,39.35834934,"u ad.",1959,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.5,NA,"male",2.3,423,8.15365227701951,43.4148733551719,"Spring",43585
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",30.5,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43592
+6,-176.597,51.8478,"JUV",1992,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",30.5,NA,"undetermined",4.4,1484,3.84514648812649,39.7093101703376,"Summer",44160
+7,-121.8119,48.7775,NA,1977,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.5,NA,"male",-3.4,4239,6.45663271842267,74.2589568193258,"Summer",44182
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.6,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43968
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.7,NA,"male",2.2,503,8.48726318453931,73.0521073878187,"Winter",43535
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.7,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43545
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.7,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43546
+2,-106.0007195,39.17687033,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.7,NA,"female",1.6,507,8.65042913631597,57.3836547555224,"Winter",43571
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.7,NA,"female",3.5,370,9.97880708847961,63.3120896104397,"Winter",43581
+4,-149.90028,61.05919,"skull doubled",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",30.7,NA,"male",2.1,381,9.16308056575656,100.2540213597,"Spring",43808
+6,-176.597,51.8478,"HY",1992,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",30.7,NA,"undetermined",4.4,1484,3.84514648812649,39.7093101703376,"Summer",44162
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.8,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43536
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.9,NA,"male",3.5,370,9.97880708847961,63.3120896104397,"Winter",43577
+2,-105.835592,39.95209829,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",30.9,NA,"male",1.9,574,8.83364779314488,56.8674029225137,"Winter",43931
+7,-118.0694,44.6197,"u ad.",1967,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",31,NA,"female",6.4,505,8.26793734124708,63.8694027162276,"Summer",43464
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31,NA,"male",2.2,525,8.37327548957052,72.3930725783095,"Winter",43521
+1,-105.7870878,39.3917887,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43522
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",31,NA,"male",2.2,503,8.48726318453931,73.0521073878187,"Winter",43530
+1,-105.8016618,39.35834934,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43532
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis x Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",31,NA,"male",2.2,525,8.37327548957052,72.3930725783095,"Winter",43537
+2,-116.5052,47.0317,"sk.oss.",1982,"Leucosticte tephrocotis ssp.","Leucosticte_tephrocotis",31,NA,"male",5.2,1426,7.84484003351981,54.1064002852053,"Winter",43656
+2,-116.5052,47.0317,"sk.oss.",1982,"Leucosticte tephrocotis ssp.","Leucosticte_tephrocotis",31,NA,"male",5.2,1426,7.84484003351981,54.1064002852053,"Winter",43658
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31,NA,"female",3.5,370,9.97880708847961,63.3120896104397,"Winter",43966
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",31,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",44033
+5,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31.2,NA,"female",4.4,611,8.03597969739656,86.8062417693711,"Spring",43949
+3,-105.807406,39.37135724,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31.5,NA,"male",2.2,506,8.50395184427199,72.0519663603455,"Spring",43587
+4,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis tephrocotis x Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",31.5,NA,"male",4.4,611,8.03597969739656,86.8062417693711,"Spring",43589
+3,-115.95972,39.52003,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",31.5,NA,"male",7.6,334,9.04203567184454,78.8331577142975,"Spring",43610
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis tephrocotis x Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",31.5,NA,"male",2.2,503,8.48726318453931,73.0521073878187,"Winter",43917
+1,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",31.5,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43927
+5,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31.5,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Spring",43978
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31.7,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43928
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31.8,NA,"male",3.5,370,9.97880708847961,63.3120896104397,"Winter",43582
+2,-105.8147804,39.36260143,"u d",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",31.8,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43962
+2,-106.3640144,40.06930754,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",31.8,NA,"male",3.5,370,9.97880708847961,63.3120896104397,"Winter",43973
+1,-105.7870878,39.3917887,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",32,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43520
+6,-119.226497,37.922744,"u imm.",1971,"Leucosticte tephrocotis dawsoni","Leucosticte_tephrocotis",32,NA,"female",0.8,854,6.54501313747321,107.706049920665,"Summer",43634
+6,-176.597,51.8478,"JUV",1992,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",32,NA,"undetermined",4.4,1484,3.84514648812649,39.7093101703376,"Summer",43766
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",32,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43922
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",32.4,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43929
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",32.5,NA,"male",2.2,525,8.37327548957052,72.3930725783095,"Winter",43527
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",32.5,NA,"female",2.2,503,8.48726318453931,73.0521073878187,"Winter",43531
+1,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",32.5,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43540
+2,-116.5052,47.0317,"sk.oss.",1982,"Leucosticte tephrocotis ssp.","Leucosticte_tephrocotis",32.5,NA,"male",5.2,1426,7.84484003351981,54.1064002852053,"Winter",43657
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",32.5,NA,"female",2.2,498,8.50400974941714,73.8867308824561,"Winter",43961
+1,-105.7870878,39.3917887,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",33,NA,"female",2.2,525,8.37327548957052,72.3930725783095,"Winter",43906
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",33.4,NA,"male",2.2,503,8.48726318453931,73.0521073878187,"Winter",43924
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",33.5,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43591
+6,-176.597,51.8478,"JUV",1992,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",33.5,NA,"undetermined",4.4,1484,3.84514648812649,39.7093101703376,"Summer",43765
+1,-105.8016618,39.35834934,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",33.5,NA,"male",2.2,503,8.48726318453931,73.0521073878187,"Winter",43918
+5,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",33.5,NA,"male",4.4,611,8.03597969739656,86.8062417693711,"Spring",43946
+3,-105.807406,39.37135724,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",33.5,NA,"female",2.2,506,8.50395184427199,72.0519663603455,"Spring",43975
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",33.9,NA,"male",4.4,611,8.03597969739656,86.8062417693711,"Spring",43558
+7,-145.0455555556,69.3183333333,"u ad.",1964,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",33.9,NA,"male",-13,415,15.4023807683531,66.4369373053471,"Summer",43810
+6,-176.597,51.8478,"HY",1992,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",34.1,NA,"undetermined",4.4,1484,3.84514648812649,39.7093101703376,"Summer",44161
+2,-105.8147804,39.36260143,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",34.2,NA,"male",2.2,498,8.50400974941714,73.8867308824561,"Winter",43572
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",34.3,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43943
+5,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",34.4,NA,"female",4.4,611,8.03597969739656,86.8062417693711,"Spring",43945
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",34.5,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43595
+5,-105.5102905,39.96137485,"u imm.",1969,"Leucosticte tephrocotis tephrocotis","Leucosticte_tephrocotis",34.9,NA,"female",4.4,611,8.03597969739656,86.8062417693711,"Spring",43560
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",35.4,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",44032
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",35.5,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43984
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",35.7,NA,"female",4.4,611,8.03597969739656,86.8062417693711,"Spring",43561
+12,-152.406,57.79,"U",2011,"Leucosticte tephrocotis","Leucosticte_tephrocotis",36,NA,"female",4.8,1641,5.43222706715127,49.611234724522,"Winter",43748
+7,-161.7419,58.5632,"AHY",1997,"Leucosticte tephrocotis","Leucosticte_tephrocotis",36.3,NA,"male",1.2,851,8.73200313718901,80.5399423490402,"Summer",43767
+6,-149.3088888889,61.7697222222,"skull doubled",1960,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",36.6,NA,"female",-1.9,1618,7.55638902859793,79.2823653547317,"Summer",43407
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",36.7,NA,"male",4.4,611,8.03597969739656,86.8062417693711,"Spring",43563
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",37.5,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43599
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",38.3,NA,"male",4.4,611,8.03597969739656,86.8062417693711,"Spring",43559
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",39,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43565
+6,-176.597,51.8478,"HY",2009,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",39,NA,"undetermined",4.4,1417,3.97044955854746,31.0493906979586,"Summer",43741
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",39,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43944
+7,-161.7419,58.5632,"AHY",1997,"Leucosticte tephrocotis","Leucosticte_tephrocotis",39,NA,"male",1.2,851,8.73200313718901,80.5399423490402,"Summer",44154
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",39.2,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43602
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",39.4,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43993
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",39.5,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43564
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",39.8,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43593
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",40.1,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43601
+3,-105.5102905,39.96137485,"u ad.",1969,"Leucosticte tephrocotis littoralis","Leucosticte_tephrocotis",40.6,NA,"male",4.4,611,8.03597969739656,86.8062417693711,"Spring",43562
+7,-135.3313,57.182,"JUV",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",40.7,NA,"female",7,3374,5.09999257278128,34.2402785895502,"Summer",44148
+11,-168.4322222222,53.2238888889,"u ad.",1955,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",40.9,NA,"female ?",2.4,1620,3.70882444824216,23.6623904816598,"Fall",43400
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",40.9,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43988
+6,-176.597,51.8478,"AD",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",41,NA,"male",4.1,1417,4.2935734216702,31.0493906979586,"Summer",43732
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",41.2,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43598
+6,-162.6601,55.2227,"AHY",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",41.5,NA,"male",2,1046,5.90630761956823,44.3910710539758,"Summer",43727
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",42,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43594
+6,-176.597,51.8478,"AHY",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",42.1,NA,"female",4.1,1417,4.2935734216702,31.0493906979586,"Summer",43728
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",42.2,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43597
+5,-176.597,51.8478,"AD",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",42.5,NA,"male",4.1,1417,4.2935734216702,31.0493906979586,"Spring",44164
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",42.7,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43991
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",43.3,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43603
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",43.3,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43990
+5,-176.597,51.8478,"AD",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",43.4,NA,"male",4.1,1417,4.2935734216702,31.0493906979586,"Spring",44165
+6,-176.597,51.8478,"AD",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",43.7,NA,"male",4.1,1417,4.2935734216702,31.0493906979586,"Summer",43725
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",44,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43950
+7,-135.3313,57.182,"JUV",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",44,NA,"male",7,3374,5.09999257278128,34.2402785895502,"Summer",44155
+7,-135.3313,57.182,"AD",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",44.45,NA,"male",7,3374,5.09999257278128,34.2402785895502,"Summer",43771
+10,-170.303,57.182,"AHY",2011,"Leucosticte tephrocotis","Leucosticte_tephrocotis",45,NA,"female",1.5,617,4.46528698728177,36.5290712335343,"Fall",44139
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",45.8,NA,"male",4.3,980,5.11156591081501,39.3317176176884,"Winter",43600
+7,-170.303,57.182,"AD",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",45.9,NA,"male",1.8,488,5.42588492991948,71.6658384537278,"Summer",44152
+6,-176.597,51.8478,"AD",1999,"Leucosticte tephrocotis","Leucosticte_tephrocotis",46,NA,"male",4.1,1417,4.2935734216702,31.0493906979586,"Summer",44120
+6,-176.597,51.8478,"AD",2009,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",46,NA,"female",4.4,1417,3.97044955854746,31.0493906979586,"Summer",44130
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",46.6,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43989
+5,-176.597,51.8478,"AHY",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",46.7,NA,"male",4.1,1417,4.2935734216702,31.0493906979586,"Spring",44166
+11,-168.4322222222,53.2238888889,"skull double",1955,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",46.9,NA,"male",2.4,1620,3.70882444824216,23.6623904816598,"Fall",43403
+6,-176.597,51.8478,"AD",2009,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",47,NA,"female",4.4,1417,3.97044955854746,31.0493906979586,"Summer",43742
+7,-170.303,57.182,"AD",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",47.1,NA,"male",1.8,488,5.42588492991948,71.6658384537278,"Summer",44153
+11,-168.4322222222,53.2238888889,"imm.",1955,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",47.6,NA,"female",2.4,1620,3.70882444824216,23.6623904816598,"Fall",43804
+7,-135.3313,57.182,"AHY",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",47.7,NA,"male",7,3374,5.09999257278128,34.2402785895502,"Summer",43762
+7,-135.3313,57.182,"AD",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",47.8,NA,"female",7,3374,5.09999257278128,34.2402785895502,"Summer",43768
+7,-135.3313,57.182,"AD",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",47.9,NA,"female",7,3374,5.09999257278128,34.2402785895502,"Summer",43770
+11,-168.4322222222,53.2238888889,"u ad.",1955,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",48,NA,"male",2.4,1620,3.70882444824216,23.6623904816598,"Fall",43402
+6,-176.597,51.8478,"AD",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",48,NA,"female",4.1,1417,4.2935734216702,31.0493906979586,"Summer",43726
+6,-176.597,51.8478,"AHY",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",48,NA,"female",4.1,1417,4.2935734216702,31.0493906979586,"Summer",44124
+7,-170.303,57.182,"AD",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",48.1,NA,"male",1.8,488,5.42588492991948,71.6658384537278,"Summer",44151
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",48.5,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43596
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",49.2,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43987
+5,-176.597,51.8478,"AHY",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",49.7,NA,"male",4.1,1417,4.2935734216702,31.0493906979586,"Spring",44123
+7,-170.303,57.182,"AD",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",49.8,NA,"female",1.8,488,5.42588492991948,71.6658384537278,"Summer",43764
+5,-176.597,51.8478,"AHY",1999,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",50.2,NA,"male",4.1,1417,4.2935734216702,31.0493906979586,"Spring",43731
+7,-135.3313,57.182,"AD",1997,"Leucosticte tephrocotis umbrina","Leucosticte_tephrocotis",51,NA,"female",7,3374,5.09999257278128,34.2402785895502,"Summer",44156
+2,-162.5694444,55.1916667,"u ad.",1969,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",51.2,NA,"female",4.3,980,5.11156591081501,39.3317176176884,"Winter",43994
+8,-176.5818786,51.9869945,"adult",2002,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",52,80,NA,5.4,1360,4.14453820946278,32.0714541178851,"Summer",43392
+11,-168.4322222222,53.2238888889,"ad.",1955,"Leucosticte tephrocotis griseonucha","Leucosticte_tephrocotis",52.1,NA,"male",2.4,1620,3.70882444824216,23.6623904816598,"Fall",43401

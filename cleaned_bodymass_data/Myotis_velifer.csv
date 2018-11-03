@@ -1,0 +1,271 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-111.08972,31.97139,NA,1958,"Myotis velifer","Myotis_velifer",2.2,48,"female",19,397,7.161063701,90.39991827,"Summer",189116
+6,-111.08972,31.97139,NA,1958,"Myotis velifer","Myotis_velifer",2.7,57,"female",19,397,7.161063701,90.39991827,"Summer",189115
+6,-111.08972,31.97139,NA,1958,"Myotis velifer","Myotis_velifer",3.1,54,"female",19,397,7.161063701,90.39991827,"Summer",189239
+7,-111.4981,32.4142,"unknown",1964,"Myotis velifer","Myotis_velifer",4.1,95,"male",18.5,366,7.961893143,97.17138191,"Summer",188953
+5,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",4.4,85,"male",19.6,345,7.719985869,86.82519728,"Spring",189065
+7,-111.49806,32.41417,NA,1964,"Myotis velifer","Myotis_velifer",4.5,94,"female",18.5,366,7.961893143,97.17138191,"Summer",189159
+5,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",4.6,86,"male",19.6,345,7.719985869,86.82519728,"Spring",189066
+3,-111.0586,32.1088,"unknown",1951,"Myotis velifer","Myotis_velifer",4.7,98,"male",19.5,348,7.727690274,88.82423927,"Spring",188954
+7,-111.49806,32.41417,NA,1964,"Myotis velifer","Myotis_velifer",4.8,97,"female",18.5,366,7.961893143,97.17138191,"Summer",189268
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",5,89,"female",14.1,513,6.998960962,134.2873246,"Summer",189163
+4,-111.08083,31.96667,NA,1958,"Myotis velifer","Myotis_velifer",5.2,93,"female",19,396,7.172226526,90.8490145,"Spring",189120
+3,-111.0586,32.1088,"unknown",1951,"Myotis velifer","Myotis_velifer",5.4,97,"female",19.5,348,7.727690274,88.82423927,"Spring",189057
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",5.4,97,"female",14.1,513,6.998960962,134.2873246,"Summer",189166
+7,-111.49806,32.41417,NA,1964,"Myotis velifer","Myotis_velifer",5.4,100,"male",18.5,366,7.961893143,97.17138191,"Summer",189275
+6,-107.6579,33.1099,NA,2013,"Myotis velifer","Myotis_velifer",5.7,89,"male",13.3,370,7.895851423,145.9373063,"Summer",188951
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",5.7,98,"female",14.1,513,6.998960962,134.2873246,"Summer",189160
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",5.7,99,"male",14.1,513,6.998960962,134.2873246,"Summer",189167
+4,-111.04639,32.14722,NA,1958,"Myotis velifer","Myotis_velifer",5.7,88,"female",20.1,320,7.625078241,79.19136311,"Spring",189245
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",5.8,92,"male",14.1,513,6.998960962,134.2873246,"Summer",189269
+4,-111.04639,32.14722,NA,1958,"Myotis velifer","Myotis_velifer",5.9,94,"female",20.1,320,7.625078241,79.19136311,"Spring",189119
+7,-109.45028,32.14889,NA,1958,"Myotis velifer","Myotis_velifer",5.9,93,"male",15.2,475,7.409146681,95.9144132,"Summer",189132
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",6,99,"male",18.1,908,8.452846033,73.01551753,"Spring",188935
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",6,104,"male",18.1,908,8.452846033,73.01551753,"Spring",189012
+3,-111.0586,32.1088,"unknown",1951,"Myotis velifer","Myotis_velifer",6,95,"male",19.5,348,7.727690274,88.82423927,"Spring",189058
+8,-111.0371,31.7899,NA,1984,"Myotis velifer","Myotis_velifer",6,89,"female",18.4,614,7.128984797,147.9471409,"Summer",189190
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",6,94,"female",14.1,513,6.998960962,134.2873246,"Summer",189271
+10,-114.5037688,34.0361589,NA,1950,"Myotis velifer brevis Vaughan, 1954","Myotis_velifer",6.1,96,"male",22.3,42,7.763721967,135.9149904,"Fall",188897
+10,-111.0808,31.9667,"unknown",1951,"Myotis velifer","Myotis_velifer",6.1,95,"male",18.6,433,7.265401614,106.2651047,"Fall",188960
+6,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",6.1,96,"male",19.6,345,7.719985869,86.82519728,"Summer",189061
+6,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",6.1,95,"male",19.6,345,7.719985869,86.82519728,"Summer",189063
+10,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",6.1,91,"male",21.1,286,8.086164765,123.4844147,"Fall",189105
+5,-111.33778,31.54111,NA,1958,"Myotis velifer","Myotis_velifer",6.1,93,"male",17.2,457,6.940280974,87.27707404,"Spring",189124
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",6.1,96,"male",14.1,513,6.998960962,134.2873246,"Summer",189164
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",6.1,90,"male",14.1,513,6.998960962,134.2873246,"Summer",189270
+10,-110.92583,32.22167,NA,1961,"Myotis velifer","Myotis_velifer",6.3,88,"female",19.3,280,7.451845409,102.830083,"Fall",189260
+6,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",6.4,95,"male",19.6,345,7.719985869,86.82519728,"Summer",188957
+6,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",6.4,95,"male",19.6,345,7.719985869,86.82519728,"Summer",189062
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",6.4,99,"female",14.1,513,6.998960962,134.2873246,"Summer",189161
+6,-110.37167,31.532156,NA,1964,"Myotis velifer","Myotis_velifer",6.4,99,"female",14.1,513,6.998960962,134.2873246,"Summer",189162
+5,-111.08083,31.96667,NA,1959,"Myotis velifer","Myotis_velifer",6.4,96,"female",18.7,456,6.955812917,145.1473084,"Spring",189234
+5,-111.286886,32.95859,NA,1958,"Myotis velifer","Myotis_velifer",6.5,95,"male",21.2,277,8.40304328,95.9750211,"Spring",189121
+7,-111.507348,31.488605,NA,1958,"Myotis velifer","Myotis_velifer",6.5,97,"male",18,413,6.870021613,87.26777846,"Summer",189129
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",6.5,87,"male",24.2,1015,3.440137418,129.1628806,"Fall",189172
+4,-110.87944,31.725,NA,1959,"Myotis velifer","Myotis_velifer",6.5,92,"male",14.9,743,6.608649062,126.7523796,"Spring",189255
+5,-109.238808,31.344077,NA,1965,"Myotis velifer","Myotis_velifer",6.5,82,"female",17.2,271,6.672075457,118.4637921,"Spring",189274
+8,-111.0371,31.7899,NA,1984,"Myotis velifer","Myotis_velifer",6.5,93,"female",18.4,614,7.128984797,147.9471409,"Summer",189292
+7,-98.69219,37.63211,"juvenile",2011,"Myotis velifer","Myotis_velifer",6.6,89,"female",14.5,452,11.32558113,49.69052223,"Summer",189089
+7,-109.916149,32.970983,NA,1960,"Myotis velifer","Myotis_velifer",6.6,98,"female",17.4,169,9.169514709,86.52216677,"Summer",189146
+4,-111.103242,32.41416,NA,1958,"Myotis velifer","Myotis_velifer",6.6,94,"female",20.7,295,7.945934733,77.94062859,"Spring",189247
+7,-111.507348,31.488605,NA,1958,"Myotis velifer","Myotis_velifer",6.6,95,"male",18,413,6.870021613,87.26777846,"Summer",189252
+7,-98.69219,37.63211,"juvenile",2011,"Myotis velifer","Myotis_velifer",6.7,90,"male",14.5,452,11.32558113,49.69052223,"Summer",189088
+4,-111.103242,32.41416,NA,1958,"Myotis velifer","Myotis_velifer",6.7,94,"male",20.7,295,7.945934733,77.94062859,"Spring",189123
+7,-111.507348,31.488605,NA,1958,"Myotis velifer","Myotis_velifer",6.7,93,"male",18,413,6.870021613,87.26777846,"Summer",189253
+10,-111.0808,31.9667,"unknown",1951,"Myotis velifer","Myotis_velifer",6.8,93,"male",18.6,433,7.265401614,106.2651047,"Fall",188959
+7,-98.69219,37.63211,"juvenile",2011,"Myotis velifer","Myotis_velifer",6.8,88,"female",14.5,452,11.32558113,49.69052223,"Summer",189083
+7,-98.69219,37.63211,"juvenile",2011,"Myotis velifer","Myotis_velifer",6.8,92,"male",14.5,452,11.32558113,49.69052223,"Summer",189086
+7,-109.45028,32.14889,NA,1958,"Myotis velifer","Myotis_velifer",6.8,99,"male",15.2,475,7.409146681,95.9144132,"Summer",189133
+8,-110.87944,31.725,NA,1964,"Myotis velifer","Myotis_velifer",6.8,99,"male",13.8,733,7.142489168,109.8814303,"Summer",189165
+9,-109.943497,32.936594,NA,1959,"Myotis velifer","Myotis_velifer",6.8,96,"female",17.4,258,8.013563313,116.3673047,"Fall",189222
+10,-114.5037688,34.0361589,NA,1950,"Myotis velifer brevis Vaughan, 1954","Myotis_velifer",6.9,96,"male",22.3,42,7.763721967,135.9149904,"Fall",189038
+7,-111.507348,31.488605,NA,1958,"Myotis velifer","Myotis_velifer",6.9,97,"male",18,413,6.870021613,87.26777846,"Summer",189128
+5,-111.33778,31.54111,NA,1958,"Myotis velifer","Myotis_velifer",6.9,98,"male",17.2,457,6.940280974,87.27707404,"Spring",189248
+5,-109.3657,31.8674,NA,1982,"Myotis velifer brevis Vaughan, 1954","Myotis_velifer",7,93.5,"male",12.8,616,6.492233122,83.0774855,"Spring",188862
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",7,110,"male",18.1,908,8.452846033,73.01551753,"Spring",188927
+10,-111.0808,31.9667,"unknown",1951,"Myotis velifer","Myotis_velifer",7,95,"male",18.6,433,7.265401614,106.2651047,"Fall",188961
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",7,111,"female",18.1,908,8.452846033,73.01551753,"Spring",188966
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",7,108,"male",18.1,908,8.452846033,73.01551753,"Spring",188981
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",7,115,"male",18.1,908,8.452846033,73.01551753,"Spring",189011
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",7,107,"male",18.1,908,8.452846033,73.01551753,"Spring",189020
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",7,101,"male",18.1,908,8.452846033,73.01551753,"Spring",189044
+8,-98.93116,37.46514,"subadult",2011,"Myotis velifer","Myotis_velifer",7,95,"female",14.5,429,11.30538555,49.96853713,"Summer",189096
+5,-111.286886,32.95859,NA,1958,"Myotis velifer","Myotis_velifer",7,95,"male",21.2,277,8.40304328,95.9750211,"Spring",189122
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",7,96,"male",24.2,1015,3.440137418,129.1628806,"Fall",189170
+4,-110.805747,32.250695,NA,1954,"Myotis velifer","Myotis_velifer",7,92,"male",20.8,339,6.873731288,100.1113584,"Spring",189219
+9,-111.04639,32.14722,NA,1957,"Myotis velifer","Myotis_velifer",7,80,"female",20.1,318,7.160386607,82.25911515,"Fall",189243
+8,-110.87944,31.725,NA,1964,"Myotis velifer","Myotis_velifer",7,98,"female",13.8,733,7.142489168,109.8814303,"Summer",189272
+6,-110.785,31.90722,NA,1981,"Myotis velifer","Myotis_velifer",7,87,"male",18.8,375,6.559257857,97.00085052,"Summer",189290
+8,-111.0371,31.7899,NA,1984,"Myotis velifer","Myotis_velifer",7,88,"male",18.4,614,7.128984797,147.9471409,"Summer",189291
+10,-111.0808,31.9667,"unknown",1951,"Myotis velifer","Myotis_velifer",7.1,95,"male",18.6,433,7.265401614,106.2651047,"Fall",189064
+5,-111.53092,32.443967,NA,1959,"Myotis velifer","Myotis_velifer",7.1,92,"male",20.7,350,7.687041437,116.9725718,"Spring",189136
+5,-109.943497,32.855518,NA,1960,"Myotis velifer","Myotis_velifer",7.1,94,"male",17.2,187,8.945948804,88.89530848,"Spring",189259
+10,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",7.2,91,"female",21.1,286,8.086164765,123.4844147,"Fall",189106
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",7.2,100,"male",24.2,1015,3.440137418,129.1628806,"Fall",189173
+10,-111.387076,32.637902,NA,1983,"Myotis velifer","Myotis_velifer",7.2,92,"male",20.8,476,8.100332017,71.55608979,"Fall",189186
+9,-110.8841,31.7753,NA,1982,"Myotis velifer","Myotis_velifer",7.2,96,"female",16.9,594,6.671712106,100.6808223,"Fall",189189
+10,-111.08083,31.96667,NA,1953,"Myotis velifer","Myotis_velifer",7.2,91,"male",18.7,238,7.205358906,220.0175982,"Fall",189241
+5,-109.238808,31.344077,NA,1965,"Myotis velifer","Myotis_velifer",7.2,90,"female",17.2,271,6.672075457,118.4637921,"Spring",189273
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",7.25,91,"male",24.2,1015,3.440137418,129.1628806,"Fall",189168
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",7.3,100,"female",24.2,1015,3.440137418,129.1628806,"Fall",189169
+12,-110.71806,31.36083,NA,1964,"Myotis velifer velifer","Myotis_velifer",7.3,90,"female",13.2,654,7.078905925,137.1468277,"Winter",189204
+7,-98.69219,37.63211,"juvenile",2011,"Myotis velifer","Myotis_velifer",7.3,90,"male",14.5,452,11.32558113,49.69052223,"Summer",189209
+5,-111.286886,32.95859,NA,1958,"Myotis velifer","Myotis_velifer",7.3,94,"male",21.2,277,8.40304328,95.9750211,"Spring",189246
+7,-98.69219,37.63211,"juvenile",2011,"Myotis velifer","Myotis_velifer",7.4,97,"female",14.5,452,11.32558113,49.69052223,"Summer",189082
+5,-111.08083,31.96667,NA,1959,"Myotis velifer","Myotis_velifer",7.4,100,"female",18.7,456,6.955812917,145.1473084,"Spring",189112
+4,-110.848638,31.340252,NA,1960,"Myotis velifer","Myotis_velifer",7.4,97,"male",15.6,421,7.419441088,116.2361637,"Spring",189114
+5,-111.4,32.635,NA,1960,"Myotis velifer","Myotis_velifer",7.4,100,"male",20.6,186,8.850111282,95.04175748,"Spring",189140
+7,-103.164922,29.031442,NA,1969,"Myotis velifer incautus","Myotis_velifer",7.4,97,"male",20.5,218,7.982120171,118.9093892,"Summer",189205
+7,-98.69219,37.63211,"juvenile",2011,"Myotis velifer","Myotis_velifer",7.4,90,"female",14.5,452,11.32558113,49.69052223,"Summer",189211
+7,-109.45028,32.14889,NA,1958,"Myotis velifer","Myotis_velifer",7.5,99,"female",15.2,475,7.409146681,95.9144132,"Summer",189131
+4,-111.103242,32.41416,NA,1958,"Myotis velifer","Myotis_velifer",7.5,89,"male",20.7,295,7.945934733,77.94062859,"Spring",189134
+9,-109.943497,32.936594,NA,1959,"Myotis velifer","Myotis_velifer",7.5,95,"female",17.4,258,8.013563313,116.3673047,"Fall",189223
+10,-111.08083,31.96667,NA,1951,"Myotis velifer","Myotis_velifer",7.5,85,"male",18.6,433,7.255149686,106.2651047,"Fall",189242
+4,-111.234615,32.221295,NA,1938,"Myotis velifer","Myotis_velifer",7.6,93,"male",20,211,7.447813387,94.16363604,"Spring",189097
+11,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",7.7,97,"male",21.1,286,8.086164765,123.4844147,"Fall",189104
+5,-111.08083,31.96667,NA,1958,"Myotis velifer","Myotis_velifer",7.7,92,"female",19,396,7.172226526,90.8490145,"Spring",189126
+4,-111.103242,32.41416,NA,1960,"Myotis velifer","Myotis_velifer",7.7,96,"male",19.8,216,8.497575412,93.91922551,"Spring",189237
+5,-111.08083,31.96667,NA,1958,"Myotis velifer","Myotis_velifer",7.7,94,"female",19,396,7.172226526,90.8490145,"Spring",189251
+11,-110.86139,31.69944,NA,1959,"Myotis velifer","Myotis_velifer",7.8,97,"male",12.8,890,6.449588899,123.3057426,"Fall",189111
+5,-111.08083,31.96667,NA,1958,"Myotis velifer","Myotis_velifer",7.8,88,"female",19,396,7.172226526,90.8490145,"Spring",189127
+2,-110.86139,31.69944,NA,1960,"Myotis velifer","Myotis_velifer",7.8,94,"female",12.2,674,7.193473473,101.8757305,"Winter",189235
+4,-110.848638,31.340252,NA,1960,"Myotis velifer","Myotis_velifer",7.8,98,"male",15.6,421,7.419441088,116.2361637,"Spring",189238
+9,-111.047132,32.324233,NA,1953,"Myotis velifer","Myotis_velifer",7.9,98,"male",20.2,153,7.946807058,174.7682568,"Fall",189098
+2,-110.86139,31.69944,NA,1960,"Myotis velifer","Myotis_velifer",7.9,100,"female",12.2,674,7.193473473,101.8757305,"Winter",189113
+9,-111.04639,32.14722,NA,1957,"Myotis velifer","Myotis_velifer",7.9,99,"female",20.1,318,7.160386607,82.25911515,"Fall",189221
+3,-99.86134,33.584,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",8,96,"male",17.9,864,8.340386409,83.35919965,"Spring",188890
+4,-99.9338,34.23137,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",8,100,"female",17.6,859,8.604592678,82.31363504,"Spring",188895
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",8,102,"female",18.1,908,8.452846033,73.01551753,"Spring",188899
+3,-99.39254,33.633,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",8,102,"male",18.1,908,8.452846033,73.01551753,"Spring",189027
+3,-99.86134,33.584,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",8,95,"male",17.9,864,8.340386409,83.35919965,"Spring",189032
+6,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",8,97,"female",19.6,345,7.719985869,86.82519728,"Summer",189060
+10,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",8,95,"male",21.1,286,8.086164765,123.4844147,"Fall",189107
+5,-111.08083,31.96667,NA,1958,"Myotis velifer","Myotis_velifer",8,92,"female",19,396,7.172226526,90.8490145,"Spring",189125
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",8,96,"male",24.2,1015,3.440137418,129.1628806,"Fall",189171
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",8,96,"female",24.2,1015,3.440137418,129.1628806,"Fall",189174
+8,-109.4751,32.1446,NA,1976,"Myotis velifer","Myotis_velifer",8,92,"female",14.2,319,6.930056408,84.01984528,"Summer",189179
+7,-112.72417,32.06833,NA,1979,"Myotis velifer","Myotis_velifer",8,94,"female",20.1,390,7.818548265,144.4009718,"Summer",189180
+7,-112.72417,32.06833,NA,1979,"Myotis velifer","Myotis_velifer",8,93,"female",20.1,390,7.818548265,144.4009718,"Summer",189181
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",8,98,"male",24.2,1015,3.440137418,129.1628806,"Fall",189183
+6,-110.8495,31.9699,NA,1981,"Myotis velifer","Myotis_velifer",8,89,"female",19.6,287,6.922750154,92.0457951,"Summer",189185
+7,-98.99,36.99,NA,1941,"Myotis velifer incautus","Myotis_velifer",8,87,"male",14.4,849,9.720830492,72.70601486,"Summer",189194
+4,-100.05,19.97,NA,1986,"Myotis velifer velifer","Myotis_velifer",8,92,"male",14.3,762,2.168978953,105.4211866,"Spring",189195
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",8,95,"female",24.2,1015,3.440137418,129.1628806,"Fall",189280
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",8,90,"female",24.2,1015,3.440137418,129.1628806,"Fall",189282
+8,-109.4751,32.1446,NA,1976,"Myotis velifer","Myotis_velifer",8,91,"male",14.2,319,6.930056408,84.01984528,"Summer",189284
+8,-110.64167,31.78528,NA,1989,"Myotis velifer","Myotis_velifer",8,90,"male",16.9,313,6.93521427,124.3976093,"Summer",189296
+7,-109.45028,32.14889,NA,1958,"Myotis velifer","Myotis_velifer",8.1,98,"male",15.2,475,7.409146681,95.9144132,"Summer",189130
+5,-111.1742,32.2718,NA,2001,"Myotis velifer","Myotis_velifer",8.1,89,"male",20.8,244,8.032938818,63.06960446,"Spring",189191
+7,-98.69219,37.63211,"juvenile",2011,"Myotis velifer","Myotis_velifer",8.1,95,"male",14.5,452,11.32558113,49.69052223,"Summer",189213
+5,-111.08083,31.96667,NA,1958,"Myotis velifer","Myotis_velifer",8.1,93,"female",19,396,7.172226526,90.8490145,"Spring",189250
+5,-111.53092,32.443967,NA,1959,"Myotis velifer","Myotis_velifer",8.1,95,"female",20.7,350,7.687041437,116.9725718,"Spring",189256
+4,-100.05,19.97,NA,1986,"Myotis velifer velifer","Myotis_velifer",8.2,91,"female",14.3,762,2.168978953,105.4211866,"Spring",189070
+4,-111.103242,32.41416,NA,1960,"Myotis velifer","Myotis_velifer",8.2,97,"male",19.8,216,8.497575412,93.91922551,"Spring",189236
+5,-111.08083,31.96667,NA,1958,"Myotis velifer","Myotis_velifer",8.2,87,"female",19,396,7.172226526,90.8490145,"Spring",189249
+7,-102.96,29.18,NA,1969,"Myotis velifer incautus","Myotis_velifer",8.3,95,"female",21,186,8.136240476,115.9110885,"Summer",189080
+10,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",8.3,102,"male",21.1,286,8.086164765,123.4844147,"Fall",189109
+5,-111.53092,32.443967,NA,1959,"Myotis velifer","Myotis_velifer",8.3,102,"female",20.7,350,7.687041437,116.9725718,"Spring",189137
+9,-111.221242,32.824683,NA,1959,"Myotis velifer","Myotis_velifer",8.3,97,"male",20.7,330,7.931792567,125.0860933,"Fall",189227
+9,-109.844274,31.739207,NA,1954,"Myotis velifer","Myotis_velifer",8.4,97,"female",16.6,427,6.175237696,137.4329337,"Fall",189100
+9,-109.943497,32.936594,NA,1959,"Myotis velifer","Myotis_velifer",8.4,96,"male",17.4,258,8.013563313,116.3673047,"Fall",189224
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",8.4,95,"female",24.2,1015,3.440137418,129.1628806,"Fall",189276
+4,-110.92583,32.22167,NA,1938,"Myotis velifer","Myotis_velifer",8.44,88,"female",19.5,220,7.18525426,88.81894736,"Spring",189218
+5,-104.39,32.11,NA,1985,"Myotis velifer velifer","Myotis_velifer",8.5,NA,"male",16.6,330,8.392145498,111.2965529,"Spring",189079
+9,-109.844274,31.739207,NA,1954,"Myotis velifer","Myotis_velifer",8.5,90,"male",16.6,427,6.175237696,137.4329337,"Fall",189117
+10,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",8.5,97,"female",21.1,286,8.086164765,123.4844147,"Fall",189231
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",8.5,97,"male",24.2,1015,3.440137418,129.1628806,"Fall",189278
+6,-110.8495,31.9699,NA,1981,"Myotis velifer","Myotis_velifer",8.5,90,"female",19.6,287,6.922750154,92.0457951,"Summer",189289
+9,-112.87472,32.04167,NA,1993,"Myotis velifer","Myotis_velifer",8.5,90,"male",22,181,7.285269488,157.4868462,"Fall",189297
+4,-111.234615,32.221295,NA,1938,"Myotis velifer","Myotis_velifer",8.54,90,"female",20,211,7.447813387,94.16363604,"Spring",189217
+10,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",8.6,97,"male",21.1,286,8.086164765,123.4844147,"Fall",189110
+4,-110.87944,31.725,NA,1959,"Myotis velifer","Myotis_velifer",8.6,103,"male",14.9,743,6.608649062,126.7523796,"Spring",189135
+7,-109.45028,32.14889,NA,1958,"Myotis velifer","Myotis_velifer",8.6,98,"male",15.2,475,7.409146681,95.9144132,"Summer",189254
+5,-111.4,32.635,NA,1960,"Myotis velifer","Myotis_velifer",8.6,104,"female",20.6,186,8.850111282,95.04175748,"Spring",189257
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",8.6,104,"male",24.2,1015,3.440137418,129.1628806,"Fall",189281
+4,-100.05,19.97,NA,1986,"Myotis velifer velifer","Myotis_velifer",8.7,97,"male",14.3,762,2.168978953,105.4211866,"Spring",189071
+9,-110.63028,32.065,NA,1953,"Myotis velifer","Myotis_velifer",8.7,95,"male",18.1,233,7.425524163,176.6394399,"Fall",189099
+9,-111.04639,32.14722,NA,1957,"Myotis velifer","Myotis_velifer",8.7,94,"male",20.1,318,7.160386607,82.25911515,"Fall",189118
+2,-98.92161,37.31491,NA,1962,"Myotis velifer","Myotis_velifer",8.7,93,"male",14,640,10.25184019,83.31529954,"Winter",189192
+4,-100.3,19.9,NA,1986,"Myotis velifer velifer","Myotis_velifer",8.7,96,"male",16.2,763,2.387848023,105.2111294,"Spring",189200
+9,-111.221242,32.824683,NA,1959,"Myotis velifer","Myotis_velifer",8.7,94,"male",20.7,330,7.931792567,125.0860933,"Fall",189226
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",8.7,96,"female",24.2,1015,3.440137418,129.1628806,"Fall",189277
+9,-109.943497,32.936594,NA,1959,"Myotis velifer","Myotis_velifer",8.79,94,"male",17.4,258,8.013563313,116.3673047,"Fall",189101
+6,-103.25045,29.2502,NA,1973,"Myotis velifer incautus","Myotis_velifer",8.8,94,"male",17.1,455,6.041993199,131.0236697,"Summer",189081
+5,-111.08083,31.96667,NA,1960,"Myotis velifer","Myotis_velifer",8.9,98,"female",18.1,311,7.716741933,107.0826405,"Spring",189139
+4,-99.9338,34.23137,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",9,108,"female",17.6,859,8.604592678,82.31363504,"Spring",188875
+4,-99.9338,34.23137,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",9,103,"female",17.6,859,8.604592678,82.31363504,"Spring",188912
+6,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",9,98,"female",19.6,345,7.719985869,86.82519728,"Summer",188956
+4,-99.9338,34.23137,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",9,105,"female",17.6,859,8.604592678,82.31363504,"Spring",188979
+4,-99.9338,34.23137,NA,1986,"Myotis velifer grandis Hayward, 1970","Myotis_velifer",9,96,"female",17.6,859,8.604592678,82.31363504,"Spring",189052
+10,-99.5550003,29.8030796,NA,1998,"Myotis velifer","Myotis_velifer",9,93,"male",19.3,888,7.299605635,76.28745342,"Fall",189056
+8,-98.93116,37.46514,"juvenile",2011,"Myotis velifer","Myotis_velifer",9,101,"female",14.5,429,11.30538555,49.96853713,"Summer",189093
+8,-98.93116,37.46514,"adult",2011,"Myotis velifer","Myotis_velifer",9,101,"male",14.5,429,11.30538555,49.96853713,"Summer",189095
+3,-104.884078,20.38332,NA,1964,"Myotis velifer","Myotis_velifer",9,100,"male",18.7,1153,2.189420153,119.9540077,"Spring",189148
+4,-104.266667,20.354164,NA,1964,"Myotis velifer","Myotis_velifer",9,96,"male",17.8,919,2.224042184,120.9195214,"Spring",189151
+8,-110.7483,31.8392,NA,1975,"Myotis velifer","Myotis_velifer",9,102,"male",14.9,468,6.856693257,126.6575426,"Summer",189176
+8,-109.4751,32.1446,NA,1976,"Myotis velifer","Myotis_velifer",9,100,"female",14.2,319,6.930056408,84.01984528,"Summer",189178
+8,-112.4035,33.8475,NA,1978,"Myotis velifer","Myotis_velifer",9,91,"male",20.2,619,8.057120886,88.50795513,"Summer",189182
+8,-98.93116,37.46514,NA,2011,"Myotis velifer","Myotis_velifer",9,98,"female",14.5,429,11.30538555,49.96853713,"Summer",189215
+8,-98.93116,37.46514,"juvenile",2011,"Myotis velifer","Myotis_velifer",9,98,"male",14.5,429,11.30538555,49.96853713,"Summer",189216
+1,-111.27948,31.461103,NA,1960,"Myotis velifer","Myotis_velifer",9,101,"female",16,480,7.447080982,112.3053872,"Winter",189233
+3,-104.884078,20.38332,NA,1964,"Myotis velifer","Myotis_velifer",9,98,"female",18.7,1153,2.189420153,119.9540077,"Spring",189262
+9,-106.690833,24.385432,NA,1970,"Myotis velifer","Myotis_velifer",9,98,"female",24.2,1015,3.440137418,129.1628806,"Fall",189279
+8,-109.4751,32.1446,NA,1976,"Myotis velifer","Myotis_velifer",9,94,"female",14.2,319,6.930056408,84.01984528,"Summer",189285
+8,-98.93116,37.46514,NA,2011,"Myotis velifer","Myotis_velifer",9.1,100,"female",14.5,429,11.30538555,49.96853713,"Summer",189094
+4,-100.3,19.9,NA,1986,"Myotis velifer velifer","Myotis_velifer",9.2,93,"male",16.2,763,2.387848023,105.2111294,"Spring",189072
+5,-111.4,32.635,NA,1960,"Myotis velifer","Myotis_velifer",9.2,100,"female",20.6,186,8.850111282,95.04175748,"Spring",189141
+9,-111.04639,32.14722,NA,1957,"Myotis velifer","Myotis_velifer",9.2,98,"male",20.1,318,7.160386607,82.25911515,"Fall",189220
+7,-98.69219,37.63211,"adult",2011,"Myotis velifer","Myotis_velifer",9.3,105,"male",14.5,452,11.32558113,49.69052223,"Summer",189084
+10,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",9.3,101,"male",21.1,286,8.086164765,123.4844147,"Fall",189108
+4,-100.3,19.9,NA,1986,"Myotis velifer velifer","Myotis_velifer",9.3,94,"female",16.2,763,2.387848023,105.2111294,"Spring",189199
+9,-109.943497,32.936594,NA,1959,"Myotis velifer","Myotis_velifer",9.3,93,"male",17.4,258,8.013563313,116.3673047,"Fall",189225
+10,-110.9258,32.2217,"unknown",1951,"Myotis velifer","Myotis_velifer",9.4,104,"male",19.7,330,7.815524566,77.75203801,"Fall",188958
+7,-98.69219,37.63211,"adult",2011,"Myotis velifer","Myotis_velifer",9.4,100,"male",14.5,452,11.32558113,49.69052223,"Summer",189085
+1,-98.94,37.35,NA,1970,"Myotis velifer incautus","Myotis_velifer",9.4,100,"male",14,505,10.42588562,76.20453535,"Winter",189193
+10,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",9.4,96,"female",21.1,286,8.086164765,123.4844147,"Fall",189232
+5,-111.08083,31.96667,NA,1960,"Myotis velifer","Myotis_velifer",9.5,102,"female",18.1,311,7.716741933,107.0826405,"Spring",189138
+6,-110.8495,31.9699,NA,1981,"Myotis velifer","Myotis_velifer",9.5,91,"female",19.6,287,6.922750154,92.0457951,"Summer",189184
+9,-111.0031,32.1122,NA,1981,"Myotis velifer","Myotis_velifer",9.5,95,"male",20.5,228,7.011435464,84.95074807,"Fall",189187
+9,-110.63028,32.065,NA,1953,"Myotis velifer","Myotis_velifer",9.5,96,"male",18.1,233,7.425524163,176.6394399,"Fall",189240
+9,-111.04639,32.14722,NA,1957,"Myotis velifer","Myotis_velifer",9.5,81,"male",20.1,318,7.160386607,82.25911515,"Fall",189244
+4,-100.3,19.9,NA,1986,"Myotis velifer velifer","Myotis_velifer",9.6,95,"male",16.2,763,2.387848023,105.2111294,"Spring",189073
+8,-98.93116,37.46514,NA,2011,"Myotis velifer","Myotis_velifer",9.6,109,"female",14.5,429,11.30538555,49.96853713,"Summer",189092
+10,-111.4,32.635,NA,1959,"Myotis velifer","Myotis_velifer",9.6,99,"male",21.1,286,8.086164765,123.4844147,"Fall",189230
+6,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",9.7,95,"female",19.6,345,7.719985869,86.82519728,"Summer",189059
+5,-111.4,32.635,NA,1960,"Myotis velifer","Myotis_velifer",9.7,99,"female",20.6,186,8.850111282,95.04175748,"Spring",189142
+4,-100.27,20.04,NA,1986,"Myotis velifer velifer","Myotis_velifer",9.7,93,"female",14.7,808,2.169136122,107.8043607,"Spring",189196
+5,-109.943497,32.936594,NA,1960,"Myotis velifer","Myotis_velifer",9.8,96,"female",17.3,177,9.081061712,84.17741809,"Spring",189143
+4,-101.65,19.57,NA,1986,"Myotis velifer velifer","Myotis_velifer",9.8,97,"female",15.9,814,2.260530911,112.2398661,"Spring",189202
+10,-99.5550003,29.8030796,NA,1998,"Myotis velifer","Myotis_velifer",10,87,"male",19.3,888,7.299605635,76.28745342,"Fall",188952
+6,-111.0464,32.1472,"unknown",1951,"Myotis velifer","Myotis_velifer",10,99,"female",19.6,345,7.719985869,86.82519728,"Summer",188955
+9,-98.99984,36.99155,NA,1968,"Myotis velifer incautus","Myotis_velifer",10,92,"male",13.8,684,9.98226837,103.7927761,"Fall",189067
+9,-103.633333,19.55,NA,1959,"Myotis velifer","Myotis_velifer",10,98,"male",12.5,1052,1.883340038,95.8326578,"Fall",189103
+4,-104.266667,20.354164,NA,1964,"Myotis velifer","Myotis_velifer",10,98,"female",17.8,919,2.224042184,120.9195214,"Spring",189150
+4,-104.228166,20.299996,NA,1964,"Myotis velifer","Myotis_velifer",10,98,"male",18.8,895,2.261318334,122.7202317,"Spring",189153
+5,-102.133333,19.85,NA,1964,"Myotis velifer","Myotis_velifer",10,95,"female",17.6,1051,2.564796643,117.2434517,"Spring",189154
+8,-110.7483,31.8392,NA,1975,"Myotis velifer","Myotis_velifer",10,106,"male",14.9,468,6.856693257,126.6575426,"Summer",189175
+8,-109.4751,32.1446,NA,1976,"Myotis velifer","Myotis_velifer",10,96,"male",14.2,319,6.930056408,84.01984528,"Summer",189177
+9,-111.0031,32.1122,NA,1981,"Myotis velifer","Myotis_velifer",10,93,"male",20.5,228,7.011435464,84.95074807,"Fall",189188
+4,-100.27,20.04,NA,1986,"Myotis velifer velifer","Myotis_velifer",10,96,"female",14.7,808,2.169136122,107.8043607,"Spring",189197
+9,-103.633333,19.55,NA,1959,"Myotis velifer","Myotis_velifer",10,94,"male",12.5,1052,1.883340038,95.8326578,"Fall",189229
+3,-104.884078,20.38332,NA,1964,"Myotis velifer","Myotis_velifer",10,113,"male",18.7,1153,2.189420153,119.9540077,"Spring",189261
+4,-104.266667,20.354164,NA,1964,"Myotis velifer","Myotis_velifer",10,95,"female",17.8,919,2.224042184,120.9195214,"Spring",189263
+4,-104.266667,20.354164,NA,1964,"Myotis velifer","Myotis_velifer",10,100,"female",17.8,919,2.224042184,120.9195214,"Spring",189264
+8,-110.7483,31.8392,NA,1975,"Myotis velifer","Myotis_velifer",10,102,"male",14.9,468,6.856693257,126.6575426,"Summer",189283
+8,-109.4751,32.1446,NA,1976,"Myotis velifer","Myotis_velifer",10,96,"female",14.2,319,6.930056408,84.01984528,"Summer",189286
+8,-112.4035,33.8475,NA,1978,"Myotis velifer","Myotis_velifer",10,87,"male",20.2,619,8.057120886,88.50795513,"Summer",189287
+5,-109.943497,32.936594,NA,1960,"Myotis velifer","Myotis_velifer",10.1,95,"female",17.3,177,9.081061712,84.17741809,"Spring",189144
+7,-111.4,32.635,NA,1960,"Myotis velifer","Myotis_velifer",10.1,99,"female",20.6,186,8.850111282,95.04175748,"Summer",189145
+7,-110.67833,31.52083,NA,1989,"Myotis velifer","Myotis_velifer",10.1,87,"female",16.3,352,6.914850072,120.7154282,"Summer",189294
+4,-100.3,19.9,NA,1986,"Myotis velifer velifer","Myotis_velifer",10.2,100,"male",16.2,763,2.387848023,105.2111294,"Spring",189074
+4,-101.65,19.57,NA,1986,"Myotis velifer velifer","Myotis_velifer",10.2,100,"female",15.9,814,2.260530911,112.2398661,"Spring",189075
+7,-98.69219,37.63211,"adult",2011,"Myotis velifer","Myotis_velifer",10.2,102,"female",14.5,452,11.32558113,49.69052223,"Summer",189212
+7,-110.67833,31.52083,NA,1989,"Myotis velifer","Myotis_velifer",10.2,91,"male",16.3,352,6.914850072,120.7154282,"Summer",189295
+9,-111.221242,32.824683,NA,1959,"Myotis velifer","Myotis_velifer",10.3,93,"female",20.7,330,7.931792567,125.0860933,"Fall",189102
+1,-98.94,37.35,NA,1970,"Myotis velifer incautus","Myotis_velifer",10.4,100,"male",14,505,10.42588562,76.20453535,"Winter",189069
+7,-98.69219,37.63211,"adult",2011,"Myotis velifer","Myotis_velifer",10.4,98,"male",14.5,452,11.32558113,49.69052223,"Summer",189087
+4,-101.65,19.57,NA,1986,"Myotis velifer velifer","Myotis_velifer",10.5,101,"female",15.9,814,2.260530911,112.2398661,"Spring",189201
+4,-99.71,34.88,NA,1968,"Myotis velifer brevis","Myotis_velifer",11,89,"female",15.6,689,9.230429748,63.41874706,"Spring",189078
+4,-99.71,34.88,NA,1968,"Myotis velifer brevis","Myotis_velifer",11,92,"female",15.6,689,9.230429748,63.41874706,"Spring",189203
+8,-112.4035,33.8475,NA,1978,"Myotis velifer","Myotis_velifer",11,89,"female",20.2,619,8.057120886,88.50795513,"Summer",189288
+8,-111.0371,31.7899,NA,1984,"Myotis velifer","Myotis_velifer",11,99,"female",18.4,614,7.128984797,147.9471409,"Summer",189293
+7,-98.69219,37.63211,"adult",2011,"Myotis velifer","Myotis_velifer",11.1,98,"male",14.5,452,11.32558113,49.69052223,"Summer",189210
+9,-111.221242,32.824683,NA,1959,"Myotis velifer","Myotis_velifer",11.2,95,"female",20.7,330,7.931792567,125.0860933,"Fall",189228
+6,-103.53,29.14,NA,1971,"Myotis velifer incautus","Myotis_velifer",11.4,98,"female",21.4,315,6.706097406,124.4650053,"Summer",189068
+6,-110.744597,31.957327,NA,1961,"Myotis velifer","Myotis_velifer",11.5,98,"female",17.6,399,7.076909743,97.94110973,"Summer",189147
+8,-98.93116,37.46514,"adult",2011,"Myotis velifer","Myotis_velifer",11.9,104,"female",14.5,429,11.30538555,49.96853713,"Summer",189091
+7,-98.69219,37.63211,"adult",2011,"Myotis velifer","Myotis_velifer",11.9,99,"female",14.5,452,11.32558113,49.69052223,"Summer",189208
+4,-104.266667,20.354164,NA,1964,"Myotis velifer","Myotis_velifer",12,100,"female",17.8,919,2.224042184,120.9195214,"Spring",189149
+8,-98.93116,37.46514,"adult",2011,"Myotis velifer","Myotis_velifer",12,101,"male",14.5,429,11.30538555,49.96853713,"Summer",189214
+4,-100.27,20.04,NA,1986,"Myotis velifer velifer","Myotis_velifer",12.3,92,"female",14.7,808,2.169136122,107.8043607,"Spring",189198
+12,-118.13,34.7,NA,1996,"Myotis velifer J. A. Allen, 1890","Myotis_velifer",12.5,95,"male",17.7,143,7.86210705,127.0334238,"Winter",189206
+8,-98.93116,37.46514,"adult",2011,"Myotis velifer","Myotis_velifer",12.6,100,"female",14.5,429,11.30538555,49.96853713,"Summer",189090
+5,-102.133333,19.85,NA,1964,"Myotis velifer","Myotis_velifer",13,95,"male",17.6,1051,2.564796643,117.2434517,"Spring",189266
+5,-102.133333,19.85,NA,1964,"Myotis velifer","Myotis_velifer",13,100,"male",17.6,1051,2.564796643,117.2434517,"Spring",189267
+5,-102.133333,19.85,NA,1964,"Myotis velifer","Myotis_velifer",14,97,"male",17.6,1051,2.564796643,117.2434517,"Spring",189156
+5,-102.133333,19.85,NA,1964,"Myotis velifer","Myotis_velifer",14,96,"male",17.6,1051,2.564796643,117.2434517,"Spring",189157
+4,-101.58,27.345,NA,1999,"Myotis velifer","Myotis_velifer",14,101,"male",22.8,325,5.92577191,143.8865164,"Spring",189207
+5,-102.133333,19.85,NA,1964,"Myotis velifer","Myotis_velifer",14,101,"male",17.6,1051,2.564796643,117.2434517,"Spring",189265
+5,-102.133333,19.85,NA,1964,"Myotis velifer","Myotis_velifer",15,99,"female",17.6,1051,2.564796643,117.2434517,"Spring",189155
+5,-102.133333,19.85,NA,1964,"Myotis velifer","Myotis_velifer",15,102,"female",17.6,1051,2.564796643,117.2434517,"Spring",189158
+4,-104.266667,20.254864,NA,1964,"Myotis velifer","Myotis_velifer",16,100,"female",19,916,2.23640675,124.0665127,"Spring",189152

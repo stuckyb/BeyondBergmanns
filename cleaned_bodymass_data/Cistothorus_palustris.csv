@@ -1,0 +1,396 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+4,-98.01387,26.44249,NA,1967,"Cistothorus palustris","Cistothorus_palustris",6,NA,"male",23.1,907,5.70254462073864,127.727772679394,"Spring",21707
+4,-98.01387,26.44249,NA,1967,"Cistothorus palustris","Cistothorus_palustris",6,NA,"male",23.1,907,5.70254462073864,127.727772679394,"Spring",21708
+10,-117.9672431,33.7744386,"juvenile",2003,NA,"Cistothorus_palustris",6.4,NA,"male",16.2,295,2.95681032072185,146.708893752232,"Fall",21692
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",7.5,NA,"female",22.5,40,8.84871159941926,110.656667034498,"Spring",21631
+7,-83.6284305,42.2917473,"immature",1938,"Cistothorus palustris palustris","Cistothorus_palustris",7.7,NA,"female",10.5,697,9.63085319861814,49.7550324537146,"Summer",21865
+11,-122.3104271,37.8978545,"ad.",1921,"Cistothorus palustris paludicola","Cistothorus_palustris",8.1,NA,"female",14,478,2.64173955544219,139.394096239088,"Fall",21769
+11,-119.0631294,34.3500974,"adult",2000,NA,"Cistothorus_palustris",8.2,NA,"undetermined",15.6,365,3.25990332632268,174.810066880663,"Fall",21870
+4,-118.014552,36.338146,"unknown",1918,"Cistothorus palustris plesius","Cistothorus_palustris",8.4,NA,"female",14.8,170,8.60371220092604,133.247954209579,"Spring",21764
+8,-124.1323646,41.1604001,"juv.",1949,"Cistothorus palustris paludicola","Cistothorus_palustris",8.5,NA,"undetermined",10.5,1001,3.39250510818936,97.8424523869778,"Summer",21557
+10,-81.6545,30.3242,"ad.",1971,"Cistothorus palustris","Cistothorus_palustris",8.5,NA,"female ?",21,1202,5.36433226096787,53.4371989030029,"Fall",21566
+10,-122.3765387,37.9745281,"ad.",1919,"Cistothorus palustris paludicola","Cistothorus_palustris",8.5,NA,"female",13,501,2.76124422986626,161.504082484262,"Fall",21590
+5,-114.64222,34.925,"juv.",1934,"Cistothorus palustris aestuarinus","Cistothorus_palustris",8.5,NA,"female",23.5,67,7.8977701110676,126.799592819905,"Spring",21627
+2,-118.131,34.814,"adult",1983,NA,"Cistothorus_palustris",8.5,NA,"female",16,319,7.50455922029463,116.482087192771,"Winter",21689
+9,-76.4279394,39.0131877,NA,1966,"Cistothorus palustris","Cistothorus_palustris",8.6,NA,"female",13.1,1020,9.34676657751468,51.9960376721241,"Fall",21540
+9,-83.4516334,42.3690714,NA,1994,"Cistothorus palustris","Cistothorus_palustris",8.6,NA,"female",9.6,822,10.4907607258035,39.6014211001739,"Fall",21842
+6,-79.09496,43.82115,"nestl",1970,"Cistothorus palustris iliacus","Cistothorus_palustris",8.6,68,"female",7.5,763,11.1702933956747,25.1589861899289,"Summer",21909
+4,-109.6833,23.05,"ad.",1929,"Cistothorus palustris plesius","Cistothorus_palustris",8.7,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",21614
+9,-77.3138809,38.9771597,"immature",1969,"Cistothorus palustris","Cistothorus_palustris",8.7,NA,"male",12.3,1019,9.4778050137565,61.2262087061305,"Fall",21712
+7,-83.7263412,42.2708397,"juvenile",1934,"Cistothorus palustris","Cistothorus_palustris",8.7,NA,"male",9.6,480,11.7842055311336,58.1051749810578,"Summer",21849
+5,-118.1367378,34.6980419,"juvenile",1992,"Cistothorus palustris","Cistothorus_palustris",8.8,NA,"undetermined",16.9,259,8.22306438493509,142.939252511523,"Spring",21550
+10,-118.1367378,34.6980419,NA,1989,"Cistothorus palustris","Cistothorus_palustris",8.8,NA,"female",16.9,65,7.89861898170698,127.93654374299,"Fall",21714
+8,-124.1323646,41.1604001,"juv.",1949,"Cistothorus palustris paludicola","Cistothorus_palustris",8.8,NA,"female",10.5,1001,3.39250510818936,97.8424523869778,"Summer",21728
+10,-122.3765387,37.9745281,"imm.?",1919,"Cistothorus palustris paludicola","Cistothorus_palustris",8.8,NA,"female",13,501,2.76124422986626,161.504082484262,"Fall",21766
+10,-122.3765387,37.9745281,"imm.",1919,"Cistothorus palustris paludicola","Cistothorus_palustris",8.9,NA,"female",13,501,2.76124422986626,161.504082484262,"Fall",21592
+12,-83.7274933,42.2183477,NA,1946,"Cistothorus palustris palustris","Cistothorus_palustris",8.9,NA,"in question",10.2,598,8.77325049468122,51.7678854110552,"Winter",21664
+7,-81.3697,31.1503,"ad.",1951,"Cistothorus palustris griseus","Cistothorus_palustris",8.9,NA,"female",19.9,1045,6.38152518104909,66.2292427167261,"Summer",21729
+10,-122.3765387,37.9745281,"unknown",1919,"Cistothorus palustris paludicola","Cistothorus_palustris",9,NA,"female",13,501,2.76124422986626,161.504082484262,"Fall",21588
+10,-122.3765387,37.9745281,"imm.",1919,"Cistothorus palustris paludicola","Cistothorus_palustris",9,NA,"female",13,501,2.76124422986626,161.504082484262,"Fall",21591
+7,-119.16194,38.83361,"unknown",1934,"Cistothorus palustris plesius","Cistothorus_palustris",9,NA,"male",11.7,147,7.01407135476229,116.280751883103,"Summer",21628
+8,-81.4978,31.1062,"imm.",1951,"Cistothorus palustris griseus","Cistothorus_palustris",9,NA,"female",20.3,1065,6.22696968959634,62.3112228388006,"Summer",21730
+9,-76.4279394,39.0131877,NA,1966,"Cistothorus palustris","Cistothorus_palustris",9.1,NA,"undetermined",13.1,1020,9.34676657751468,51.9960376721241,"Fall",21541
+4,-117.02195,36.60537,"unknown",1917,"Cistothorus palustris plesius","Cistothorus_palustris",9.1,NA,"female",23.1,31,10.4880451424034,100.181653192407,"Spring",21760
+3,-115.2063889,32.054722,"ad.",1928,"Cistothorus palustris plesius","Cistothorus_palustris",9.1,NA,"female",22.3,29,6.30430348446539,87.8014288556337,"Spring",21898
+6,-79.09496,43.82115,"nestl",1970,"Cistothorus palustris iliacus","Cistothorus_palustris",9.1,67,"female",7.5,763,11.1702933956747,25.1589861899289,"Summer",21958
+10,-95.6966263,39.0483341,"adult",1954,"Cistothorus palustris","Cistothorus_palustris",9.2,NA,"female",13.8,845,10.2905369886684,89.9334865400063,"Fall",21535
+9,-118.1367378,34.6980419,NA,1996,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.2,NA,"undetermined",17.7,145,7.83157459302155,127.969772314647,"Fall",21547
+5,-115.233067,37.53167,"unknown",1932,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.2,NA,"female",12.4,163,9.40989163625494,83.4493057286671,"Spring",21619
+12,-116.37889,35.03639,"unknown",1956,"Cistothorus palustris plesius","Cistothorus_palustris",9.2,NA,"undetermined",19.2,28,8.63254500905343,122.639081336715,"Winter",21736
+4,-109.6833,23.05,"ad.",1929,"Cistothorus palustris plesius","Cistothorus_palustris",9.2,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",21782
+8,-83.7263412,42.2708397,"juvenile",1932,"Cistothorus palustris palustris","Cistothorus_palustris",9.2,NA,"female",9.6,875,9.77420848535325,48.9519424117505,"Summer",21830
+7,-83.6284305,42.2917473,"adult",1938,"Cistothorus palustris palustris","Cistothorus_palustris",9.2,NA,"female",10.5,697,9.63085319861814,49.7550324537146,"Summer",21861
+8,-79.03678,43.82399,"imm",1968,"Cistothorus palustris iliacus","Cistothorus_palustris",9.2,NA,"[female]",7.5,788,10.7333345096931,38.6744978696448,"Summer",21906
+9,-76.4279394,39.0131877,NA,1966,"Cistothorus palustris","Cistothorus_palustris",9.3,NA,"female",13.1,1020,9.34676657751468,51.9960376721241,"Fall",21539
+10,-122.3765387,37.9745281,"imm.",1919,"Cistothorus palustris paludicola","Cistothorus_palustris",9.3,NA,"female",13,501,2.76124422986626,161.504082484262,"Fall",21589
+10,-120.7895831,40.6709426,"imm.",1923,"Cistothorus palustris plesius","Cistothorus_palustris",9.3,NA,"female",7,315,7.14628002402776,67.4145846530578,"Fall",21601
+11,-116.1,30.9667,"ad.",1925,"Cistothorus palustris plesius","Cistothorus_palustris",9.3,NA,"female",16.9,232,3.40946765595007,128.779474546737,"Fall",21602
+9,-117.1143,38.96403,"imm.",1931,"Cistothorus palustris plesius","Cistothorus_palustris",9.3,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",21616
+1,-114.67067,35.46528,"unknown",1934,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.3,NA,"undetermined",23.4,84,7.85904227336547,99.5466287683851,"Winter",21625
+10,-122.3765387,37.9745281,"unknown",1919,"Cistothorus palustris paludicola","Cistothorus_palustris",9.3,NA,"female",13,501,2.76124422986626,161.504082484262,"Fall",21767
+3,-122.5511366,37.8415598,"unknown",1945,"Cistothorus palustris paludicola","Cistothorus_palustris",9.3,NA,"female",12.6,765,2.02010725787849,116.46536656222,"Spring",21817
+11,-122.694834,38.9992745,"imm.",1952,"Cistothorus palustris paludicola","Cistothorus_palustris",9.4,NA,"female",13.7,836,6.84404186799797,151.774060773624,"Fall",21563
+11,-122.3104271,37.8978545,"ad.",1921,"Cistothorus palustris paludicola","Cistothorus_palustris",9.4,NA,"female",14,478,2.64173955544219,139.394096239088,"Fall",21595
+10,-115.905556,32.048889,"unknown",1926,"Cistothorus palustris plesius","Cistothorus_palustris",9.4,NA,"female",13,410,5.31745980594859,121.536857020886,"Fall",21603
+3,-109.6833,23.05,"ad.",1929,"Cistothorus palustris plesius","Cistothorus_palustris",9.4,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",21612
+7,-83.6284305,42.2917473,"adult",1938,"Cistothorus palustris palustris","Cistothorus_palustris",9.4,NA,"female",10.5,697,9.63085319861814,49.7550324537146,"Summer",21687
+2,-122.3104271,37.8978545,"unknown",1922,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.4,NA,"female",13.3,618,3.42914204306488,110.204769486519,"Winter",21771
+8,-111.3953253,42.1675605,"adult",1934,"Cistothorus palustris plesius","Cistothorus_palustris",9.4,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",21852
+2,-122.11617,37.50747,"U-Ad.",1938,"Cistothorus palustris plesius","Cistothorus_palustris",9.4,NA,"female",14,451,3.06696721188667,132.487270949317,"Winter",21874
+10,-106.3194947,33.3250362,"unknown",1931,"Cistothorus palustris plesius","Cistothorus_palustris",9.4,NA,"female",16.1,329,8.76340531570192,81.4223667253386,"Fall",21953
+9,-108.083333,30.6,"imm.sk.",1948,"Cistothorus palustris plesius","Cistothorus_palustris",9.5,NA,"female",16.9,273,7.46488750448026,117.153040309365,"Fall",21559
+5,-115.233067,37.53167,"unknown",1932,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.5,NA,"undetermined",12.4,163,9.40989163625494,83.4493057286671,"Spring",21621
+8,-83.6422,42.30201,NA,1940,"Cistothorus palustris iliacus","Cistothorus_palustris",9.5,NA,"female",8.5,818,10.7377378973187,50.0190807731619,"Summer",21660
+10,-118.1367378,34.6980419,NA,1989,"Cistothorus palustris","Cistothorus_palustris",9.5,NA,"female",16.9,65,7.89861898170698,127.93654374299,"Fall",21713
+12,-122.0303269,38.2449508,"imm.",1921,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.5,NA,"male",15.5,411,4.82135401577757,143.571954762935,"Winter",21770
+11,-116.35,32.6,"imm.",1927,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.5,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",21777
+9,-117.1143,38.96403,"imm.",1931,"Cistothorus palustris plesius","Cistothorus_palustris",9.5,NA,"female",9.8,177,9.48371411069173,55.5409578086907,"Fall",21784
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.5,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21801
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.5,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21811
+5,-93.70399,48.53921,NA,1976,"Cistothorus palustris iliacus","Cistothorus_palustris",9.5,NA,"[male]",2.6,542,13.9833342362841,119.037348087315,"Spring",21820
+8,-83.9166667,42.4194444,"adult",1933,"Cistothorus palustris","Cistothorus_palustris",9.5,NA,"female",9.7,625,10.4244031876257,47.6810606178155,"Summer",21971
+9,-76.4279394,39.0131877,NA,1966,"Cistothorus palustris","Cistothorus_palustris",9.6,NA,"female",13.1,1020,9.34676657751468,51.9960376721241,"Fall",21538
+5,-115.5697,33.1714,"unknown",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.6,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21645
+8,-83.7263412,42.2708397,NA,1932,"Cistothorus palustris palustris","Cistothorus_palustris",9.6,NA,"female",9.6,875,9.77420848535325,48.9519424117505,"Summer",21667
+8,-83.6422,42.30201,NA,1940,"Cistothorus palustris iliacus","Cistothorus_palustris",9.6,NA,"female",8.5,818,10.7377378973187,50.0190807731619,"Summer",21827
+10,-116.3275,30.973333,"imm.",1925,"Cistothorus palustris plesius","Cistothorus_palustris",9.6,NA,"female",16.7,231,3.20041427242654,123.081977000581,"Fall",21894
+2,-115.2713889,30.194167,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.6,NA,"male",18.4,101,4.50121195800743,82.241330021081,"Winter",21900
+10,-114.7983333,32.579444,"imm.",1927,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.6,NA,"male",22.6,107,7.15147791464368,114.101181789438,"Fall",21945
+2,-115.2713889,30.194167,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.6,NA,"male",18.4,101,4.50121195800743,82.241330021081,"Winter",21949
+9,-120.858963,35.393236,"imm.",1918,"Cistothorus palustris paludicola","Cistothorus_palustris",9.7,NA,"female",12.5,455,2.34525633411942,149.577597143969,"Fall",21585
+1,-122.31034,37.91618,"unknown",1921,"Cistothorus palustris paludicola","Cistothorus_palustris",9.7,NA,"female",14,483,2.73865428134463,138.971750293631,"Winter",21594
+10,-83.8570118,42.2409729,"immature",1994,"Cistothorus palustris","Cistothorus_palustris",9.7,NA,"female",9.5,819,10.494572912037,41.7336976785104,"Fall",21671
+12,-76.4396365,39.0176693,NA,1965,"Cistothorus palustris","Cistothorus_palustris",9.7,NA,"female",13.4,785,9.08648680317329,50.2980762431763,"Winter",21703
+8,-83.6873245,42.2709579,"immature",1933,"Cistothorus palustris","Cistothorus_palustris",9.7,NA,"female",10.2,608,10.4108189646709,54.6272366003884,"Summer",21847
+9,-122.694834,38.9992745,"imm.",1951,"Cistothorus palustris paludicola","Cistothorus_palustris",9.8,NA,"undetermined",13.7,634,6.23025365503369,125.468222433722,"Fall",21560
+4,-122.0896,37.5533,"ad.sk.",1996,"Cistothorus palustris paludicola","Cistothorus_palustris",9.8,NA,"female",15.5,592,3.01906818857619,108.684801747636,"Spring",21567
+8,-83.6284305,42.2917473,NA,1938,"Cistothorus palustris iliacus","Cistothorus_palustris",9.8,NA,"female",10.5,697,9.63085319861814,49.7550324537146,"Summer",21685
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.8,NA,"female",22.5,40,8.84871159941926,110.656667034498,"Spring",21798
+8,-79.04152,43.83017,"juv",1968,"Cistothorus palustris iliacus","Cistothorus_palustris",9.8,NA,"female",7.5,789,10.702629951502,38.4448068302866,"Summer",21819
+5,-83.2030677,42.0139735,NA,1979,"Cistothorus palustris","Cistothorus_palustris",9.8,NA,"female",8.8,873,10.5785768361717,42.899432551101,"Spring",21838
+12,-115.9105556,30.402778,"ad.",1925,"Cistothorus palustris plesius","Cistothorus_palustris",9.8,NA,"male",19.6,171,3.54412659668547,126.39108158328,"Winter",21895
+9,-120.36589,39.75563,"immature",1999,"Cistothorus palustris","Cistothorus_palustris",9.8,NA,"male",9.2,350,6.88357729408455,111.844789340642,"Fall",21926
+10,-114.7983333,32.579444,"imm.",1927,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.8,NA,"male",22.6,107,7.15147791464368,114.101181789438,"Fall",21944
+2,-115.2713889,30.194167,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.8,NA,"male",18.4,101,4.50121195800743,82.241330021081,"Winter",21947
+12,-124.1530252,41.104244,"unknown",1941,"Cistothorus palustris paludicola","Cistothorus_palustris",9.9,NA,"male",12.2,1865,2.44619370376993,94.5728935259856,"Winter",21650
+5,-115.14084,32.4169,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.9,NA,"female",22.5,27,6.98484832051535,78.2460796435952,"Spring",21779
+9,-117.1143,38.96403,"unknown",1931,"Cistothorus palustris plesius","Cistothorus_palustris",9.9,NA,"female",9.8,177,9.48371411069173,55.5409578086907,"Fall",21785
+7,-111.3953253,42.1675605,"juvenile",1934,"Cistothorus palustris plesius","Cistothorus_palustris",9.9,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",21856
+2,-115.2063889,32.054722,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",9.9,NA,"male",22.3,29,6.30430348446539,87.8014288556337,"Winter",21950
+6,-115.14084,32.4169,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Summer",21607
+3,-109.6833,23.05,"ad.",1929,"Cistothorus palustris plesius","Cistothorus_palustris",10,NA,"male",22.9,181,3.69913994918229,118.983515716679,"Spring",21611
+7,-114.48722,39.25639,"unknown",1930,"Cistothorus palustris plesius","Cistothorus_palustris",10,NA,"male",8.1,301,9.26257948888315,72.7836145396376,"Summer",21615
+12,-115.2833333,29.9833333,"unknown",1930,"Cistothorus palustris plesius","Cistothorus_palustris",10,NA,"male",17.5,156,4.44756487679869,120.366482285165,"Winter",21618
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21633
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21641
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21642
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21643
+5,-115.5697,33.1714,"unknown",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"undetermined",22.5,40,8.84871159941926,110.656667034498,"Spring",21644
+9,-83.7263412,42.2708397,"juvenile",1937,"Cistothorus palustris","Cistothorus_palustris",10,NA,"male",9.1,869,10.1089819047971,60.2853375909974,"Fall",21683
+4,-118.1367378,34.6980419,NA,1989,"Cistothorus palustris","Cistothorus_palustris",10,NA,"female",16.9,65,7.89861898170698,127.93654374299,"Spring",21716
+3,-117.905657,35.9367219,"ad.",1918,"Cistothorus palustris plesius","Cistothorus_palustris",10,NA,"male",16.1,167,8.60861091106932,114.087178941663,"Spring",21762
+9,-120.85896,35.39324,"imm.",1918,"Cistothorus palustris plesius","Cistothorus_palustris",10,NA,"female",12.5,455,2.34525633411942,149.577597143969,"Fall",21765
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21796
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21805
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"female",22.5,40,8.84871159941926,110.656667034498,"Spring",21806
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21812
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21813
+9,-83.7263412,42.2708397,"immature",1937,"Cistothorus palustris","Cistothorus_palustris",10,NA,"male",9.1,869,10.1089819047971,60.2853375909974,"Fall",21860
+7,-83.6284305,42.2917473,"immature",1938,"Cistothorus palustris palustris","Cistothorus_palustris",10,NA,"male",10.5,697,9.63085319861814,49.7550324537146,"Summer",21864
+2,-115.2713889,30.194167,"unknown",1928,"Cistothorus palustris plesius","Cistothorus_palustris",10,NA,"undetermined",18.4,101,4.50121195800743,82.241330021081,"Winter",21897
+6,-79.09086,43.81788,"nestl",1970,"Cistothorus palustris iliacus","Cistothorus_palustris",10,74,"male",7.5,764,11.1482027359761,25.2673591164172,"Summer",21910
+6,-79.09496,43.82115,"nestl",1970,"Cistothorus palustris iliacus","Cistothorus_palustris",10,70,"female",7.5,763,11.1702933956747,25.1589861899289,"Summer",21911
+10,-78.24229,44.1516,"imm",1942,"Cistothorus palustris iliacus","Cistothorus_palustris",10,NA,"female",6.9,918,10.6105436412861,38.1413546051812,"Fall",21916
+5,-82.50596,41.90342,"ad",1947,"Cistothorus palustris iliacus","Cistothorus_palustris",10,NA,"male",9.7,931,10.3190761860417,48.8853234338721,"Spring",21918
+9,-101.7109,39.34894,NA,1964,"Cistothorus palustris","Cistothorus_palustris",10.1,NA,"undetermined",10.6,372,10.0765667253136,102.499276088729,"Fall",21536
+8,-70.3217154,43.5781391,"immature",2006,"Cistothorus palustris dissaeptus","Cistothorus_palustris",10.1,NA,NA,9.4,1449,8.46280184994988,57.4310714208291,"Summer",21672
+7,-111.3953253,42.1675605,"juvenile",1934,"Cistothorus palustris plesius","Cistothorus_palustris",10.1,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",21678
+8,-84.0110779,42.4180075,"chick",1936,"Cistothorus palustris","Cistothorus_palustris",10.1,NA,"male",8.5,634,11.497783053768,62.1801109404888,"Summer",21679
+9,-83.7263412,42.2708397,"immature",1937,"Cistothorus palustris palustris","Cistothorus_palustris",10.1,NA,"female",9.1,869,10.1089819047971,60.2853375909974,"Fall",21682
+8,-111.3953253,42.1675605,"immature",1934,"Cistothorus palustris plesius","Cistothorus_palustris",10.1,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",21854
+10,-116.3275,30.973333,"ad.",1925,"Cistothorus palustris plesius","Cistothorus_palustris",10.1,NA,"female",16.7,231,3.20041427242654,123.081977000581,"Fall",21943
+2,-115.2713889,30.194167,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.1,NA,"male",18.4,101,4.50121195800743,82.241330021081,"Winter",21946
+8,-79.05282,43.81471,"ad",1968,"Cistothorus palustris iliacus","Cistothorus_palustris",10.1,119,"female",7.5,792,10.702629951502,39.154815680205,"Summer",21957
+10,-120.7895831,40.6709426,"ad.",1923,"Cistothorus palustris plesius","Cistothorus_palustris",10.2,NA,"male",7,315,7.14628002402776,67.4145846530578,"Fall",21599
+10,-83.7237167,42.4295386,NA,1947,"Cistothorus palustris iliacus","Cistothorus_palustris",10.2,NA,"female",8.3,745,10.7135817229036,53.1864075179442,"Fall",21665
+2,-122.1007734,39.2760209,"unknown",1923,"Cistothorus palustris plesius","Cistothorus_palustris",10.2,NA,"female",15.8,209,6.83619489234037,110.915129308202,"Winter",21772
+8,-83.7263412,42.2708397,"adult",1932,"Cistothorus palustris palustris","Cistothorus_palustris",10.2,NA,"female",9.6,875,9.77420848535325,48.9519424117505,"Summer",21831
+6,-79.09496,43.82115,"nestl",1970,"Cistothorus palustris iliacus","Cistothorus_palustris",10.2,73,"female",7.5,763,11.1702933956747,25.1589861899289,"Summer",21912
+5,-122.6289447,38.9302293,"u ad.",1949,"Cistothorus palustris paludicola","Cistothorus_palustris",10.3,NA,"female",13.4,421,7.09897026250137,173.874749183274,"Spring",21726
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.3,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21803
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.3,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21809
+12,-115.7077778,30.056111,"unknown",1930,"Cistothorus palustris plesius","Cistothorus_palustris",10.3,NA,"male",19.4,141,3.86596453917801,109.17807278476,"Winter",21905
+11,-122.6504869,39.0099636,"imm.",1949,"Cistothorus palustris paludicola","Cistothorus_palustris",10.4,NA,"female ?",13.7,405,7.23741855033459,178.996199980684,"Fall",21558
+9,-122.6289447,38.9302293,"juv.",1953,"Cistothorus palustris paludicola","Cistothorus_palustris",10.4,NA,"male",13.9,454,5.97907335477816,123.524015705904,"Fall",21564
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.4,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21637
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.4,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21638
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.4,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21646
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.4,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21647
+8,-84.8088684,42.1458435,"immature",1938,"Cistothorus palustris iliacus","Cistothorus_palustris",10.4,NA,"male",10.3,853,9.46299010980049,50.6925716248328,"Summer",21688
+9,-117.1143,38.96403,"imm.",1931,"Cistothorus palustris plesius","Cistothorus_palustris",10.4,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",21783
+7,-111.25,42.1333333,"juvenile",1934,"Cistothorus palustris plesius","Cistothorus_palustris",10.4,NA,"female",5.8,344,7.65344050183651,52.3861914635034,"Summer",21967
+10,-118.1367378,34.6980419,NA,1989,"Cistothorus palustris","Cistothorus_palustris",10.5,NA,"male",16.9,65,7.89861898170698,127.93654374299,"Fall",21552
+11,-120.6973,35.723588,"ad.",1918,"Cistothorus palustris plesius","Cistothorus_palustris",10.5,NA,"male",14.7,402,5.48775496404992,155.147059734719,"Fall",21587
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.5,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21639
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.5,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21640
+10,-118.1367378,34.6980419,NA,1989,"Cistothorus palustris","Cistothorus_palustris",10.5,NA,"male",16.9,65,7.89861898170698,127.93654374299,"Fall",21715
+11,-122.694834,38.9992745,"imm.",1951,"Cistothorus palustris paludicola","Cistothorus_palustris",10.5,NA,"male",13.7,634,6.23025365503369,125.468222433722,"Fall",21732
+11,-118.5536,35.3819,"ad.",1933,"Cistothorus palustris plesius","Cistothorus_palustris",10.5,NA,"male",13.8,233,7.52721828775512,171.823440714423,"Fall",21791
+11,-122.694834,38.9992745,"imm.",1952,"Cistothorus palustris paludicola","Cistothorus_palustris",10.6,NA,"male",13.7,836,6.84404186799797,151.774060773624,"Fall",21734
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.6,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21804
+10,-84.2366409,42.337103,NA,1936,"Cistothorus palustris palustris","Cistothorus_palustris",10.6,NA,"female",8.6,681,11.565423258641,54.4165132337979,"Fall",21857
+2,-115.2713889,30.194167,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.6,NA,"male",18.4,101,4.50121195800743,82.241330021081,"Winter",21902
+10,-80.07309,42.80729,"imm",1970,"Cistothorus palustris iliacus","Cistothorus_palustris",10.6,125,"male",8.4,908,10.5469046155589,38.025836374342,"Fall",21913
+10,-119.4641,36.7166,"unknown",1916,"Cistothorus palustris plesius","Cistothorus_palustris",10.7,NA,"female ?",17.1,414,7.34171869069725,145.650371320593,"Fall",21580
+7,-83.6284305,42.2917473,"adult",1938,"Cistothorus palustris palustris","Cistothorus_palustris",10.7,NA,"female",10.5,697,9.63085319861814,49.7550324537146,"Summer",21686
+9,-76.4279394,39.0131877,NA,1966,"Cistothorus palustris","Cistothorus_palustris",10.7,NA,"female",13.1,1020,9.34676657751468,51.9960376721241,"Fall",21705
+10,-118.1367378,34.6980419,NA,1989,"Cistothorus palustris","Cistothorus_palustris",10.7,NA,"male",16.9,65,7.89861898170698,127.93654374299,"Fall",21720
+6,-72.931108,40.77982,NA,1939,"Cistothorus palustris palustris","Cistothorus_palustris",10.7,NA,"female",10.3,1123,8.90438689975936,57.6644244854921,"Summer",21832
+8,-111.3953253,42.1675605,"juvenile",1934,"Cistothorus palustris plesius","Cistothorus_palustris",10.7,NA,"male",7.2,220,8.49891258641452,48.1357958901737,"Summer",21850
+7,-83.6284305,42.2917473,"adult",1938,"Cistothorus palustris palustris","Cistothorus_palustris",10.7,NA,"female",10.5,697,9.63085319861814,49.7550324537146,"Summer",21863
+8,-95.2375,39.9666667,NA,2010,"Cistothorus palustris","Cistothorus_palustris",10.7,NA,"female",12.1,1037,11.8612049058341,70.9513625310679,"Summer",21880
+9,-82.3666667,42.6166667,"juvenile",1946,"Cistothorus palustris palustris","Cistothorus_palustris",10.7,NA,"female",10.1,712,9.15552490923575,52.2068116394232,"Fall",21966
+9,-117.1143,38.96403,"imm.",1931,"Cistothorus palustris plesius","Cistothorus_palustris",10.8,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",21617
+8,-83.7263412,42.2708397,"juvenile",1932,"Cistothorus palustris","Cistothorus_palustris",10.8,NA,"male",9.6,875,9.77420848535325,48.9519424117505,"Summer",21666
+8,-83.6284305,42.2917473,NA,1938,"Cistothorus palustris iliacus","Cistothorus_palustris",10.8,NA,"male",10.5,697,9.63085319861814,49.7550324537146,"Summer",21684
+10,-95.6966263,39.0483341,"adult",1954,"Cistothorus palustris","Cistothorus_palustris",10.8,NA,"male",13.8,845,10.2905369886684,89.9334865400063,"Fall",21699
+1,-122.694834,38.9992745,"imm.",1954,"Cistothorus palustris paludicola","Cistothorus_palustris",10.8,NA,"male",13.7,719,6.2863669230255,106.222504166808,"Winter",21735
+5,-115.14084,32.4169,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.8,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Spring",21778
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.8,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21808
+1,-122.30905,38.22113,"unknown",1941,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.8,NA,"male",14.6,947,3.46133403954795,101.002866800848,"Winter",21816
+8,-83.7263412,42.2708397,"juvenile",1932,"Cistothorus palustris palustris","Cistothorus_palustris",10.8,NA,"male",9.6,875,9.77420848535325,48.9519424117505,"Summer",21829
+8,-111.3953253,42.1675605,"immature",1934,"Cistothorus palustris plesius","Cistothorus_palustris",10.8,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",21853
+9,-79.03678,43.82399,"imm",1968,"Cistothorus palustris iliacus","Cistothorus_palustris",10.8,NA,"female",7.5,788,10.7333345096931,38.6744978696448,"Fall",21956
+8,-81.4978,31.1062,"imm.",1951,"Cistothorus palustris griseus","Cistothorus_palustris",10.9,NA,"male ?",20.3,1065,6.22696968959634,62.3112228388006,"Summer",21561
+5,-122.1044325,38.0448946,"sk.oss.",1954,"Cistothorus palustris","Cistothorus_palustris",10.9,NA,"female",14.6,423,4.86907370943168,108.408914278159,"Spring",21565
+11,-115.733333,31.366667,"imm.",1926,"Cistothorus palustris plesius","Cistothorus_palustris",10.9,NA,"male",16.4,256,4.77464896377448,131.351213404717,"Fall",21604
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.9,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21634
+9,-118.1367378,34.6980419,NA,1996,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.9,NA,"male",17.7,145,7.83157459302155,127.969772314647,"Fall",21718
+12,-106.8625333333,34.3546,NA,2013,"Cistothorus palustris","Cistothorus_palustris",10.9,NA,"male",14.7,172,9.36153882066987,144.441969213005,"Winter",21724
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.9,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21800
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.9,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21807
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",10.9,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21810
+8,-118.54611,39.60864,"unknown",1940,"Cistothorus palustris plesius","Cistothorus_palustris",10.9,NA,"male",12.3,157,8.6692070868766,96.8020111910355,"Summer",21815
+4,-118.1367378,34.6980419,NA,1989,"Cistothorus palustris","Cistothorus_palustris",11,NA,"male",16.9,65,7.89861898170698,127.93654374299,"Spring",21548
+4,-118.1367378,34.6980419,"juvenile",1990,"Cistothorus palustris","Cistothorus_palustris",11,NA,"male",16.8,76,8.0886517961146,123.140788706881,"Spring",21549
+5,-115.14084,32.4169,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Spring",21606
+6,-115.14084,32.4169,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Summer",21608
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21630
+12,-118.67059,39.39161,"unknown",1939,"Cistothorus palustris plesius","Cistothorus_palustris",11,NA,"undetermined",11.6,138,8.55642590351978,64.7569211481927,"Winter",21648
+12,-120.31047,40.3678,"unknown",1942,"Cistothorus palustris plesius","Cistothorus_palustris",11,NA,"male",9.4,243,8.24780503399467,87.8382856354981,"Winter",21653
+6,-84.7834682,42.1444416,NA,1934,"Cistothorus palustris","Cistothorus_palustris",11,NA,"male",9.5,605,11.7251090322513,42.3690521128853,"Summer",21676
+4,-101.7849276,37.9998703,NA,1950,"Cistothorus palustris","Cistothorus_palustris",11,NA,"male",12.4,318,9.29657398608691,119.086895701377,"Spring",21709
+10,-95.917,39.026,"adult",1999,"Cistothorus palustris","Cistothorus_palustris",11,NA,"female",13.6,955,9.38367376528688,87.1414334485158,"Fall",21710
+12,-122.493265,37.720971,"ad.",1917,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11,NA,"male",12.4,260,2.26668894819708,134.361688484823,"Winter",21761
+3,-117.905657,35.9367219,"ad.",1918,"Cistothorus palustris plesius","Cistothorus_palustris",11,NA,"male",16.1,167,8.60861091106932,114.087178941663,"Spring",21763
+11,-118.5536,35.3819,"imm.",1933,"Cistothorus palustris plesius","Cistothorus_palustris",11,NA,"female",13.8,233,7.52721828775512,171.823440714423,"Fall",21790
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21802
+7,-78.94191,43.88012,"ad",1991,"Cistothorus palustris palustris","Cistothorus_palustris",11,NA,"male",8.8,778,9.99658653862619,35.5877395706294,"Summer",21823
+7,-82.7114617,28.2716742,"ad",1952,"Cistothorus palustris marianae","Cistothorus_palustris",11,NA,"male",22,956,4.73945400256446,63.6150917590708,"Summer",21826
+8,-70.3217154,43.5781391,"juvenile",2006,"Cistothorus palustris dissaeptus","Cistothorus_palustris",11,NA,"male",9.4,1449,8.46280184994988,57.4310714208291,"Summer",21843
+8,-83.6284305,42.2917473,"immature",1938,"Cistothorus palustris palustris","Cistothorus_palustris",11,NA,"male",10.5,697,9.63085319861814,49.7550324537146,"Summer",21866
+10,-114.7983333,32.579444,"imm.",1927,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11,NA,"male",22.6,107,7.15147791464368,114.101181789438,"Fall",21899
+2,-115.2713889,30.194167,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11,NA,"male",18.4,101,4.50121195800743,82.241330021081,"Winter",21901
+3,-115.2063889,32.054722,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11,NA,"male",22.3,29,6.30430348446539,87.8014288556337,"Spring",21951
+5,-122.6289447,38.9302293,"u ad.",1952,"Cistothorus palustris paludicola","Cistothorus_palustris",11.1,NA,"male",13.6,829,6.95557330491168,152.730646058232,"Spring",21733
+5,-86.564493,41.976731,NA,1976,"Cistothorus palustris","Cistothorus_palustris",11.1,NA,"male",8.8,887,9.82384236375354,44.8603682572444,"Spring",21841
+8,-84.7893993,42.1458435,"immature",1938,"Cistothorus palustris palustris","Cistothorus_palustris",11.1,NA,"male",10.3,852,9.46299010980049,50.6451756679459,"Summer",21867
+10,-72.6822,41.2889,"immature",1974,"Cistothorus palustris palustris","Cistothorus_palustris",11.11,NA,NA,10.6,1090,8.73049340825106,44.7951602854713,"Fall",21975
+12,-122.493265,37.720971,"ad.",1917,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.2,NA,"male",12.4,260,2.26668894819708,134.361688484823,"Winter",21581
+10,-120.7895831,40.6709426,"imm.",1923,"Cistothorus palustris plesius","Cistothorus_palustris",11.2,NA,"male",7,315,7.14628002402776,67.4145846530578,"Fall",21600
+5,-115.233067,37.53167,"u ad.",1932,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.2,NA,"female",12.4,163,9.40989163625494,83.4493057286671,"Spring",21620
+5,-115.233067,37.53167,"u ad.",1932,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.2,NA,"female",12.4,163,9.40989163625494,83.4493057286671,"Spring",21622
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.2,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21635
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.2,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21636
+9,-124.1323646,41.1604001,"imm.",1942,"Cistothorus palustris plesius","Cistothorus_palustris",11.2,NA,"male",11.2,1547,2.53783491594825,101.279849352356,"Fall",21652
+9,-95.2885437,39.0309193,NA,1966,"Cistothorus palustris","Cistothorus_palustris",11.2,NA,"undetermined",12.2,665,9.94432989042987,100.021026188904,"Fall",21706
+5,-115.233067,37.53167,"u ad.",1932,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.2,NA,"male",12.4,163,9.40989163625494,83.4493057286671,"Spring",21788
+9,-94.578598,39.0997009,"imm",1992,"Cistothorus palustris palustris","Cistothorus_palustris",11.2,NA,"male",12.4,1154,8.26762121810504,64.8651335363599,"Fall",21824
+3,-117.905657,35.9367219,"ad.",1918,"Cistothorus palustris plesius","Cistothorus_palustris",11.3,NA,"male",16.1,167,8.60861091106932,114.087178941663,"Spring",21583
+1,-122.2282656,37.733492,"unknown",1920,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.3,NA,"undetermined",13.7,436,2.49743808125386,129.856367126454,"Winter",21593
+8,-83.452835,41.7672146,NA,1933,"Cistothorus palustris","Cistothorus_palustris",11.3,NA,"female",10.7,690,10.3305775895316,52.1027182233542,"Summer",21674
+9,-118.1367378,34.6980419,NA,1996,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.3,NA,"male",17.7,145,7.83157459302155,127.969772314647,"Fall",21719
+6,-120.79166,40.68532,"adult skull",2006,"Cistothorus palustris plesius","Cistothorus_palustris",11.4,NA,"male",9.1,529,8.14586714322984,90.3495174961972,"Summer",21568
+12,-118.005218,36.282226,"unknown",1933,"Cistothorus palustris plesius","Cistothorus_palustris",11.4,NA,"male",14.5,83,8.82209261920426,168.345696846219,"Winter",21626
+4,-121.9717,38.1514,"u ad.",1915,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.4,NA,"male",15.7,541,4.96942164795377,136.660263017165,"Spring",21758
+7,-111.3953253,42.1675605,"juvenile",1934,"Cistothorus palustris plesius","Cistothorus_palustris",11.4,NA,"male",7.2,220,8.49891258641452,48.1357958901737,"Summer",21855
+4,-122.85469,38.02299,"U-Ad.",1947,"Cistothorus palustris paludicola","Cistothorus_palustris",11.4,NA,"male",12.4,502,2.27494588680232,107.305401847233,"Spring",21875
+10,-106.3194947,33.3250362,"ad.",1931,"Cistothorus palustris plesius","Cistothorus_palustris",11.4,NA,"male",16.1,329,8.76340531570192,81.4223667253386,"Fall",21904
+10,-110.2233333,23.441667,"imm.",1928,"Cistothorus palustris plesius","Cistothorus_palustris",11.4,NA,"female",22.4,133,3.35381962255069,121.078314185869,"Fall",21952
+4,-118.1367378,34.6980419,NA,1989,"Cistothorus palustris","Cistothorus_palustris",11.5,NA,"male",16.9,65,7.89861898170698,127.93654374299,"Spring",21553
+11,-107.0325166667,33.6039666667,NA,2010,"Cistothorus palustris","Cistothorus_palustris",11.5,NA,"male",15.8,203,8.40286296809641,94.1621495794227,"Fall",21554
+5,-122.6289447,38.9302293,"u ad.",1949,"Cistothorus palustris paludicola","Cistothorus_palustris",11.5,NA,"male",13.4,421,7.09897026250137,173.874749183274,"Spring",21556
+9,-120.84938,35.366994,"imm.",1918,"Cistothorus palustris plesius","Cistothorus_palustris",11.5,NA,"male",12.4,469,2.33958038195664,149.267532058884,"Fall",21586
+5,-115.233067,37.53167,"u ad.",1932,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.5,NA,"male",12.4,163,9.40989163625494,83.4493057286671,"Spring",21623
+3,-122.0052672,39.2134848,"u ad.",1923,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.5,NA,"male",15.5,211,6.77268913961199,113.061655565259,"Spring",21649
+7,-84.0055847,42.4569008,"juvenile",1942,"Cistothorus palustris iliacus","Cistothorus_palustris",11.5,NA,"male",8.9,913,10.4434806400351,39.1175784705024,"Summer",21662
+9,-107.0325166667,33.6039666667,NA,2010,"Cistothorus palustris","Cistothorus_palustris",11.5,NA,"male",15.8,203,8.40286296809641,94.1621495794227,"Fall",21721
+6,-122.6289447,38.9302293,"u ad.",1949,"Cistothorus palustris paludicola","Cistothorus_palustris",11.5,NA,"male",13.4,421,7.09897026250137,173.874749183274,"Summer",21727
+8,-122.09126,38.0211559,"juv.",1960,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.5,NA,"male",15.1,381,5.05810930061517,110.714780844039,"Summer",21737
+11,-118.5536,35.3819,"imm.",1933,"Cistothorus palustris plesius","Cistothorus_palustris",11.5,NA,"male",13.8,233,7.52721828775512,171.823440714423,"Fall",21789
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.5,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21794
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.5,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21799
+5,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.5,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21814
+10,-83.7237167,42.4295386,NA,1947,"Cistothorus palustris iliacus","Cistothorus_palustris",11.5,NA,"undetermined",8.3,745,10.7135817229036,53.1864075179442,"Fall",21828
+4,-118.252,34.808,"adult",1980,NA,"Cistothorus_palustris",11.5,NA,"male",16.7,283,6.80447156900029,163.438705266005,"Spring",21868
+2,-118.131,34.814,"Not Recorded",1983,NA,"Cistothorus_palustris",11.5,NA,"male",16,319,7.50455922029463,116.482087192771,"Winter",21869
+9,-118.1367378,34.6980419,NA,1996,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.6,NA,"male",17.7,145,7.83157459302155,127.969772314647,"Fall",21551
+12,-106.86295,34.347,NA,2013,"Cistothorus palustris","Cistothorus_palustris",11.6,NA,"undetermined",14.7,174,9.3283983165126,142.783000356451,"Winter",21555
+12,-121.6789922,38.1680289,"unknown",1921,"Cistothorus palustris plesius","Cistothorus_palustris",11.6,NA,"male",15.7,339,5.28487693730178,139.962349378442,"Winter",21596
+5,-115.14084,32.4169,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.6,NA,"male",22.5,27,6.98484832051535,78.2460796435952,"Spring",21780
+1,-114.67067,35.46528,"unknown",1934,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.6,NA,"male",23.4,84,7.85904227336547,99.5466287683851,"Winter",21792
+12,-76.4396365,39.0176693,NA,1965,"Cistothorus palustris","Cistothorus_palustris",11.7,NA,"male",13.4,785,9.08648680317329,50.2980762431763,"Winter",21537
+3,-118.0672791,34.7554084,"Not Recorded",1988,NA,"Cistothorus_palustris",11.7,NA,"female",16.6,129,7.76719500088791,114.075147181783,"Spring",21690
+11,-122.694834,38.9992745,"imm.",1951,"Cistothorus palustris paludicola","Cistothorus_palustris",11.7,NA,"male",13.7,634,6.23025365503369,125.468222433722,"Fall",21731
+8,-111.3953253,42.1675605,"juvenile",1934,"Cistothorus palustris plesius","Cistothorus_palustris",11.7,NA,"male",7.2,220,8.49891258641452,48.1357958901737,"Summer",21851
+5,-115.776953,49.506887,"adult",1960,"Cistothorus palustris","Cistothorus_palustris",11.7,NA,"male",4.8,362,10.108457305193,55.3409998339953,"Spring",21962
+3,-89.6,29.3833333,NA,1939,"Cistothorus palustris","Cistothorus_palustris",11.7,NA,"male",21.5,1373,5.53673681381502,44.8131400707049,"Spring",21970
+5,-118.05361,37.73806,"u ad.",1928,"Cistothorus palustris plesius","Cistothorus_palustris",11.8,NA,"female",11.2,32,8.76598107700583,153.648802616404,"Spring",21609
+10,-83.7263412,42.2708397,"adult",1926,"Cistothorus palustris","Cistothorus_palustris",11.8,130,"female",7.8,841,10.4196347286643,58.2466199806851,"Fall",21663
+8,-118.03545,46.97315,NA,1952,"Cistothorus palustris","Cistothorus_palustris",11.8,NA,"male",10.1,244,8.78053977770608,94.0729008272611,"Summer",21693
+12,-116.0175,30.7197222222,"ad.",1925,"Cistothorus palustris plesius","Cistothorus_palustris",11.8,NA,"female",18.7,187,3.44524265759278,129.978629666692,"Winter",21774
+6,-72.931108,40.77982,NA,1939,"Cistothorus palustris palustris","Cistothorus_palustris",11.8,NA,"male",10.3,1123,8.90438689975936,57.6644244854921,"Summer",21834
+6,-72.931108,40.77982,NA,1939,"Cistothorus palustris palustris","Cistothorus_palustris",11.9,NA,"female",10.3,1123,8.90438689975936,57.6644244854921,"Summer",21670
+3,-122.0052672,39.2134848,"u ad.",1923,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.9,NA,"male",15.5,211,6.77268913961199,113.061655565259,"Spring",21725
+4,-121.9717,38.1514,"unknown",1915,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.9,NA,"male",15.7,541,4.96942164795377,136.660263017165,"Spring",21738
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.9,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21795
+6,-72.931108,40.77982,NA,1939,"Cistothorus palustris palustris","Cistothorus_palustris",11.9,NA,"female",10.3,1123,8.90438689975936,57.6644244854921,"Summer",21833
+5,-75.164387,39.209307,NA,1938,"Cistothorus palustris palustris","Cistothorus_palustris",11.9,NA,"male",13.1,1093,8.01127992649153,69.6174148839369,"Spring",21835
+10,-115.682,30.9845,"imm.",1925,"Cistothorus palustris plesius","Cistothorus_palustris",11.9,NA,"male",14.4,347,4.3397737687161,110.932259762074,"Fall",21893
+2,-115.2713889,30.194167,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",11.9,NA,"male",18.4,101,4.50121195800743,82.241330021081,"Winter",21948
+11,-118.5536,35.3819,"ad.",1933,"Cistothorus palustris plesius","Cistothorus_palustris",12,NA,"male",13.8,233,7.52721828775512,171.823440714423,"Fall",21624
+6,-124.130089,41.1633994,"u ad.",1942,"Cistothorus palustris paludicola","Cistothorus_palustris",12,NA,"female",11.2,1552,2.53783491594825,101.090757930844,"Summer",21651
+4,-118.126545,34.7849064,"adult",1989,NA,"Cistothorus_palustris",12,NA,"undetermined",17.1,63,8.02426245076692,131.596723693747,"Spring",21691
+5,-115.233067,37.53167,"u ad.",1932,"Cistothorus palustris aestuarinus","Cistothorus_palustris",12,NA,"male",12.4,163,9.40989163625494,83.4493057286671,"Spring",21786
+7,-119.16194,38.89885,"unknown",1934,"Cistothorus palustris plesius","Cistothorus_palustris",12,NA,"male",11.8,133,7.1571324882627,115.253840951549,"Summer",21793
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",12,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21797
+9,-79.32299,43.775239,"imm",1973,"Cistothorus palustris iliacus","Cistothorus_palustris",12,NA,"male",8.2,823,10.2396252002905,36.8000615016959,"Fall",21821
+9,-92.97,38.69,NA,2004,"Cistothorus palustris","Cistothorus_palustris",12,NA,"male",13,1223,9.09523684866608,55.9673174027803,"Fall",21877
+7,-95.2375,39.9633333,NA,2010,"Cistothorus palustris","Cistothorus_palustris",12,NA,"male",12.1,1037,11.874673839221,71.107023457839,"Summer",21878
+8,-95.236,40.087,"young",2013,"Cistothorus palustris","Cistothorus_palustris",12,NA,"male",10.7,881,10.8606148327548,85.4846006087457,"Summer",21885
+2,-115.2063889,32.054722,"ad.",1928,"Cistothorus palustris aestuarinus","Cistothorus_palustris",12,NA,"male",22.3,29,6.30430348446539,87.8014288556337,"Winter",21903
+9,-79.03678,43.82399,"juv",1968,"Cistothorus palustris iliacus","Cistothorus_palustris",12,NA,"undetermined",7.5,788,10.7333345096931,38.6744978696448,"Fall",21907
+5,-77.27931,43.96989,"ad",1930,"Cistothorus palustris iliacus","Cistothorus_palustris",12,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Spring",21915
+7,-111.25,42.1333333,"juvenile",1934,"Cistothorus palustris plesius","Cistothorus_palustris",12,NA,"male",5.8,344,7.65344050183651,52.3861914635034,"Summer",21921
+5,-123.90856,40.73382,"U",1981,"Cistothorus palustris","Cistothorus_palustris",12,10.9,"undetermined",12.8,1903,3.73057595683253,98.9652102119664,"Spring",21925
+6,-77.27931,43.96989,"ad",1930,"Cistothorus palustris iliacus","Cistothorus_palustris",12,NA,"female",7.7,613,10.1010200505001,37.744229913391,"Summer",21960
+12,-84.2666667,30.1166667,NA,1943,"Cistothorus palustris palustris","Cistothorus_palustris",12,NA,"female",20.3,1262,6.48961874959936,52.7187504426653,"Winter",21965
+9,-95.913,39.026,NA,1994,"Cistothorus palustris","Cistothorus_palustris",12.1,NA,"male",12.8,753,10.0322623509749,69.8395021181335,"Fall",21545
+3,-121.9215995,39.3009288,"u ad.",1923,"Cistothorus palustris aestuarinus","Cistothorus_palustris",12.1,NA,"male",15.3,234,6.78399966945397,108.93112470418,"Spring",21598
+9,-84.2366409,42.337103,NA,1940,"Cistothorus palustris iliacus","Cistothorus_palustris",12.1,NA,"male",8.3,822,10.7303590834886,61.4990575133845,"Fall",21659
+6,-83.5850505,29.824643,NA,1966,"Cistothorus palustris","Cistothorus_palustris",12.1,NA,"male",19.7,1534,6.40993546982126,62.6905828736005,"Summer",21704
+4,-115.5697,33.1714,"u ad.",1937,"Cistothorus palustris aestuarinus","Cistothorus_palustris",12.2,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",21632
+7,-83.6754669,46.0338356,"adult",1938,"Cistothorus palustris iliacus","Cistothorus_palustris",12.2,NA,"male",6,754,10.7770343646557,25.344849352987,"Summer",21658
+6,-83.4263563,41.7403857,NA,1934,"Cistothorus palustris","Cistothorus_palustris",12.2,NA,"male",10,539,11.6178643789327,61.9567064729306,"Summer",21677
+8,-83.4423637,41.7970399,"immature",1933,"Cistothorus palustris","Cistothorus_palustris",12.2,NA,"male",10.6,683,10.3218949399573,51.6950776187274,"Summer",21848
+6,-98.568,42.114,NA,2011,"Cistothorus palustris","Cistothorus_palustris",12.2,NA,"female",9.1,671,11.3065816177476,70.7955344763291,"Summer",21883
+3,-117.905657,35.9367219,"ad.",1918,"Cistothorus palustris plesius","Cistothorus_palustris",12.3,NA,"female",16.1,167,8.60861091106932,114.087178941663,"Spring",21584
+3,-109.6833,23.05,"ad.",1929,"Cistothorus palustris plesius","Cistothorus_palustris",12.3,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",21610
+7,-84.0055847,42.4569008,NA,1942,"Cistothorus palustris iliacus","Cistothorus_palustris",12.3,NA,"male",8.9,913,10.4434806400351,39.1175784705024,"Summer",21661
+1,-116.736859,32.39092,"ad.",1928,"Cistothorus palustris plesius","Cistothorus_palustris",12.3,NA,"male",16.8,212,3.95523243771635,107.166852477321,"Winter",21776
+11,-108.2985166667,36.6369166667,NA,2012,"Cistothorus palustris","Cistothorus_palustris",12.3,NA,"male",12.2,135,9.22409148026859,73.6629802885343,"Fall",21892
+6,-98.57,42.115,NA,2011,"Cistothorus palustris","Cistothorus_palustris",12.3,NA,"male",9.1,671,11.3065816177476,70.7955344763291,"Summer",21931
+11,-79.266667,43.783333,"imm",1969,"Cistothorus palustris iliacus","Cistothorus_palustris",12.4,NA,"male",7.3,690,10.2586991909749,44.1974029332126,"Fall",21656
+6,-118.03545,46.97315,"Ad",1953,"Cistothorus palustris","Cistothorus_palustris",12.4,135,"male",10.9,372,6.47013535524192,87.2649619728241,"Summer",21695
+12,-115.733333,31.366667,"imm.",1926,"Cistothorus palustris plesius","Cistothorus_palustris",12.4,NA,"male",16.4,256,4.77464896377448,131.351213404717,"Winter",21775
+10,-76.705987,43.084559,NA,2009,"Cistothorus palustris","Cistothorus_palustris",12.4,NA,NA,8.1,878,9.82379609402443,32.6511899235344,"Fall",21876
+7,-84,42.3833333,NA,1935,"Cistothorus palustris palustris","Cistothorus_palustris",12.4,NA,"male",8.3,663,10.2003862077805,43.9132173357665,"Summer",21924
+6,-98.568,42.114,NA,2011,"Cistothorus palustris","Cistothorus_palustris",12.4,NA,"male",9.1,671,11.3065816177476,70.7955344763291,"Summer",21935
+6,-100.556,42.601,NA,2011,"Cistothorus palustris","Cistothorus_palustris",12.4,NA,"male",8.9,615,11.0237312882323,68.8196879920977,"Summer",21936
+11,-117.147472,46.427583,NA,1981,"Cistothorus palustris","Cistothorus_palustris",12.5,NA,"male",11.7,446,7.08884633944356,51.2667694533246,"Fall",21532
+3,-117.905657,35.9367219,"ad.",1918,"Cistothorus palustris plesius","Cistothorus_palustris",12.5,NA,"male",16.1,167,8.60861091106932,114.087178941663,"Spring",21582
+7,-78.94191,43.88012,"imm",1991,"Cistothorus palustris palustris","Cistothorus_palustris",12.5,NA,"female?",8.8,778,9.99658653862619,35.5877395706294,"Summer",21822
+5,-82.7094,42.5981,NA,1934,"Cistothorus palustris","Cistothorus_palustris",12.5,NA,"male",9.4,516,11.4922206889546,43.7768652671832,"Spring",21972
+10,-118.03545,46.97315,NA,1952,"Cistothorus palustris","Cistothorus_palustris",12.6,137,"male",10.1,244,8.78053977770608,94.0729008272611,"Fall",21694
+7,-83.6284305,42.2917473,NA,1938,"Cistothorus palustris palustris","Cistothorus_palustris",12.6,NA,"male",10.5,697,9.63085319861814,49.7550324537146,"Summer",21836
+7,-83.6284305,42.2917473,"adult",1938,"Cistothorus palustris palustris","Cistothorus_palustris",12.6,NA,"male",10.5,697,9.63085319861814,49.7550324537146,"Summer",21862
+7,-95.237,39.9583333,NA,2010,"Cistothorus palustris","Cistothorus_palustris",12.6,NA,"male",12.1,1036,11.857090961134,71.2097206491848,"Summer",21879
+5,-118.03545,46.97315,NA,1954,"Cistothorus palustris","Cistothorus_palustris",12.7,132,"male",9.4,317,7.21351320282099,44.4596964141236,"Spring",21533
+10,-84.00509,42.44221,"imm.",1951,"Cistothorus palustris palustris","Cistothorus_palustris",12.7,NA,"male",8.4,847,9.90137348905176,29.4637169832086,"Fall",21562
+4,-116.865597,36.456792,"u ad.",1920,"Cistothorus palustris plesius","Cistothorus_palustris",12.7,NA,"male",21.9,51,10.12934530775,114.471914711275,"Spring",21768
+9,-79.03678,43.82399,"imm",1968,"Cistothorus palustris iliacus","Cistothorus_palustris",12.7,NA,"male",7.5,788,10.7333345096931,38.6744978696448,"Fall",21908
+9,-80.07309,42.80729,"imm",1974,"Cistothorus palustris iliacus","Cistothorus_palustris",12.7,NA,"male",8.2,898,9.25806364334586,37.9292150727009,"Fall",21914
+5,-83.8166667,42.25,NA,1938,"Cistothorus palustris palustris","Cistothorus_palustris",12.7,NA,"male",10.2,684,9.66522585918668,49.9082792856241,"Spring",21964
+7,-83.7263412,42.2708397,NA,1933,"Cistothorus palustris","Cistothorus_palustris",12.8,NA,"male",10,613,10.4579533312588,56.4215473330908,"Summer",21673
+5,-118.05361,37.73806,"u ad.",1928,"Cistothorus palustris plesius","Cistothorus_palustris",12.8,NA,"male",11.2,32,8.76598107700583,153.648802616404,"Spring",21781
+5,-83.8166667,42.25,NA,1938,"Cistothorus palustris palustris","Cistothorus_palustris",12.9,NA,"male",10.2,684,9.66522585918668,49.9082792856241,"Spring",21919
+5,-83.4655,41.7862,"adult",1934,"Cistothorus palustris palustris","Cistothorus_palustris",12.9,NA,"male",10,542,11.6599028011958,60.3690678019714,"Spring",21963
+9,-95.2885437,39.0309193,NA,1966,"Cistothorus palustris","Cistothorus_palustris",13,NA,"male",12.2,665,9.94432989042987,100.021026188904,"Fall",21542
+3,-100.4351449,37.1668658,NA,1950,"Cistothorus palustris","Cistothorus_palustris",13,NA,"male",13.7,411,8.91312872320173,149.185199291578,"Spring",21543
+10,-95.917,39.026,"adult",1999,"Cistothorus palustris","Cistothorus_palustris",13,NA,"male",13.6,955,9.38367376528688,87.1414334485158,"Fall",21546
+12,-120.3862721,40.3822922,"unknown",1942,"Cistothorus palustris plesius","Cistothorus_palustris",13,NA,"male",9.5,288,8.2825254163647,90.5300835072853,"Winter",21654
+9,-79.53279,44.19415,"ad",1954,"Cistothorus palustris iliacus","Cistothorus_palustris",13,NA,"[male]",6.7,880,9.76944448034511,44.3310852220347,"Fall",21825
+5,-84.118395,46.188029,NA,1982,"Cistothorus palustris","Cistothorus_palustris",13,NA,"male",3.9,825,10.8638544418329,50.406491895828,"Spring",21840
+9,-82.50596,41.90342,"imm",1914,"Cistothorus palustris iliacus","Cistothorus_palustris",13,NA,"male",9.8,744,10.7414095345015,34.5905521765701,"Fall",21917
+5,-82.7094,42.5981,NA,1934,"Cistothorus palustris","Cistothorus_palustris",13,NA,"male",9.4,516,11.4922206889546,43.7768652671832,"Spring",21923
+7,-83.7263412,42.2708397,NA,1933,"Cistothorus palustris","Cistothorus_palustris",13.1,NA,"male",10,613,10.4579533312588,56.4215473330908,"Summer",21845
+12,-108.29845,36.6369333333,NA,2012,"Cistothorus palustris","Cistothorus_palustris",13.1,2,"male",12.2,135,9.22409148026859,73.6629802885343,"Winter",21891
+6,-98.57,42.115,NA,2011,"Cistothorus palustris","Cistothorus_palustris",13.1,NA,"male",9.1,671,11.3065816177476,70.7955344763291,"Summer",21932
+10,-80.04948,42.54814,"imm",1996,"Cistothorus palustris iliacus","Cistothorus_palustris",13.1,NA,"female",8.7,1149,9.97285710254984,53.9825638726842,"Fall",21961
+5,-83.4263563,41.7403857,NA,1934,"Cistothorus palustris","Cistothorus_palustris",13.2,NA,"male",10,539,11.6178643789327,61.9567064729306,"Spring",21675
+6,-100.556,42.601,NA,2011,"Cistothorus palustris","Cistothorus_palustris",13.2,NA,"male",8.9,615,11.0237312882323,68.8196879920977,"Summer",21937
+6,-100.556,42.601,NA,2011,"Cistothorus palustris","Cistothorus_palustris",13.2,NA,"male",8.9,615,11.0237312882323,68.8196879920977,"Summer",21938
+6,-100.556,42.601,NA,2011,"Cistothorus palustris","Cistothorus_palustris",13.2,NA,"male",8.9,615,11.0237312882323,68.8196879920977,"Summer",21939
+9,-120.9805154,41.8842219,"imm.",1922,"Cistothorus palustris plesius","Cistothorus_palustris",13.3,NA,"male",6.8,326,9.32143180574159,74.6635413563481,"Fall",21597
+9,-83.7578354,42.4161339,NA,1937,"Cistothorus palustris","Cistothorus_palustris",13.4,NA,"male",8.8,822,10.0984097157859,59.5105052956515,"Fall",21859
+6,-100.556,42.601,NA,2011,"Cistothorus palustris","Cistothorus_palustris",13.4,NA,"male",8.9,615,11.0237312882323,68.8196879920977,"Summer",21884
+9,-101.7109,39.34894,NA,1964,"Cistothorus palustris","Cistothorus_palustris",13.5,NA,"male",10.6,372,10.0765667253136,102.499276088729,"Fall",21701
+11,-121.4945946,41.9790196,"immature",1963,"Cistothorus palustris","Cistothorus_palustris",13.5,NA,"male",7.7,274,6.35258835340988,63.0201487094804,"Fall",21711
+2,-122.1007734,39.2760209,"unknown",1923,"Cistothorus palustris plesius","Cistothorus_palustris",13.5,NA,"male",15.8,209,6.83619489234037,110.915129308202,"Winter",21773
+8,-79.04152,43.83017,"juv",1968,"Cistothorus palustris iliacus","Cistothorus_palustris",13.5,NA,"male",7.5,789,10.702629951502,38.4448068302866,"Summer",21818
+5,-84.118395,46.188029,NA,1982,"Cistothorus palustris","Cistothorus_palustris",13.5,NA,"male",3.9,825,10.8638544418329,50.406491895828,"Spring",21839
+6,-98.57,42.115,NA,2011,"Cistothorus palustris","Cistothorus_palustris",13.5,NA,"male",9.1,671,11.3065816177476,70.7955344763291,"Summer",21930
+5,-77.27931,43.96989,"ad",1930,"Cistothorus palustris iliacus","Cistothorus_palustris",13.5,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Spring",21959
+5,-84.2333333,42.3333333,NA,1949,"Cistothorus palustris palustris","Cistothorus_palustris",13.5,NA,"male",10.1,837,9.83299948072198,29.9357645172004,"Spring",21968
+3,-109.6833,23.05,"ad.",1929,"Cistothorus palustris plesius","Cistothorus_palustris",13.6,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",21613
+9,-83.7578354,42.4161339,NA,1937,"Cistothorus palustris","Cistothorus_palustris",13.6,NA,"male",8.8,822,10.0984097157859,59.5105052956515,"Fall",21680
+4,-83.4423637,41.7970399,NA,1933,"Cistothorus palustris","Cistothorus_palustris",13.6,NA,"male",10.6,683,10.3218949399573,51.6950776187274,"Spring",21844
+9,-79.03678,43.82399,"ad",1968,"Cistothorus palustris iliacus","Cistothorus_palustris",13.6,NA,"male",7.5,788,10.7333345096931,38.6744978696448,"Fall",21955
+5,-83.7264,42.2708,"u ad.",1933,"Cistothorus palustris palustris","Cistothorus_palustris",13.7,NA,"male",10,613,10.4579533312588,56.4215473330908,"Spring",21629
+9,-95.2233505,38.9114037,NA,1964,"Cistothorus palustris","Cistothorus_palustris",13.7,NA,"undetermined",12.9,1014,9.83504479199795,69.9551909430518,"Fall",21702
+6,-84.118395,46.188029,NA,1933,"Cistothorus palustris","Cistothorus_palustris",13.7,NA,"male",5.1,733,11.5972828583669,35.752604941577,"Summer",21846
+9,-83.7578354,42.4161339,NA,1937,"Cistothorus palustris","Cistothorus_palustris",13.7,NA,"male",8.8,822,10.0984097157859,59.5105052956515,"Fall",21858
+5,-83.8166667,42.25,NA,1938,"Cistothorus palustris palustris","Cistothorus_palustris",13.7,NA,"male",10.2,684,9.66522585918668,49.9082792856241,"Spring",21920
+10,-83.478241,41.6390521,NA,1937,"Cistothorus palustris palustris","Cistothorus_palustris",13.8,NA,"male",9.9,940,10.2290547269071,60.53549261454,"Fall",21681
+6,-98.568,42.114,NA,2011,"Cistothorus palustris","Cistothorus_palustris",13.8,NA,"male",9.1,671,11.3065816177476,70.7955344763291,"Summer",21934
+3,-100.4289086,37.2125779,NA,1950,"Cistothorus palustris","Cistothorus_palustris",14,NA,"male",13.5,406,8.94086210337209,148.993616514309,"Spring",21544
+12,-104.6480833333,36.6006166667,NA,2011,"Cistothorus palustris","Cistothorus_palustris",14,NA,"male",10.6,232,9.44730200382708,76.8002680706975,"Winter",21722
+7,-83.6284305,42.2917473,NA,1938,"Cistothorus palustris palustris","Cistothorus_palustris",14,NA,"male",10.5,697,9.63085319861814,49.7550324537146,"Summer",21837
+6,-98.57,42.115,NA,2011,"Cistothorus palustris","Cistothorus_palustris",14,NA,"male",9.1,671,11.3065816177476,70.7955344763291,"Summer",21882
+6,-98.57,42.115,NA,2011,"Cistothorus palustris","Cistothorus_palustris",14,NA,"male",9.1,671,11.3065816177476,70.7955344763291,"Summer",21933
+5,-86.45,36.8833333,NA,1949,"Cistothorus palustris palustris","Cistothorus_palustris",14,NA,"male",14.9,1411,8.15870979104818,48.9446086040374,"Spring",21969
+9,-83.5166667,43.7166667,NA,1934,"Cistothorus palustris","Cistothorus_palustris",14,NA,"male",7.7,525,11.4101230970971,58.3406921765277,"Fall",21973
+12,-83.8885498,42.3383369,NA,1956,"Cistothorus palustris palustris","Cistothorus_palustris",14.2,NA,"male",9.1,706,9.68123771200582,59.9386492381736,"Winter",21669
+6,-98.166,42.438,NA,2011,"Cistothorus palustris","Cistothorus_palustris",14.2,NA,"male",9.3,705,11.6911647552044,77.1665812551224,"Summer",21881
+5,-84.2333333,42.3333333,NA,1949,"Cistothorus palustris palustris","Cistothorus_palustris",14.2,NA,"male",10.1,837,9.83299948072198,29.9357645172004,"Spring",21922
+4,-111.870903,40.7569008,NA,1967,"Cistothorus palustris plesius","Cistothorus_palustris",14.5,NA,"undetermined",11.1,489,9.4103263718238,55.3274548750865,"Spring",21655
+8,-95.22,39.0266667,NA,2009,"Cistothorus palustris","Cistothorus_palustris",14.5,NA,"male",12.6,1084,9.45401550088157,57.5032574095333,"Summer",21928
+6,-98.166,42.438,NA,2011,"Cistothorus palustris","Cistothorus_palustris",14.5,NA,"male",9.3,705,11.6911647552044,77.1665812551224,"Summer",21929
+9,-119.1594,37.75857,"imm.",1915,"Cistothorus palustris plesius","Cistothorus_palustris",14.6,NA,"male",2.6,838,6.51894093462204,127.602226349369,"Fall",21759
+9,-79.684894,44.366155,"imm",1961,"Cistothorus palustris iliacus","Cistothorus_palustris",15,NA,"male",6.5,777,10.2278585690794,27.0039703627417,"Fall",21657
+5,-115.233067,37.53167,"u ad.",1932,"Cistothorus palustris aestuarinus","Cistothorus_palustris",15,NA,"male",12.4,163,9.40989163625494,83.4493057286671,"Spring",21787
+9,-79.03678,43.82399,"imm",1968,"Cistothorus palustris iliacus","Cistothorus_palustris",15,NA,"male",7.5,788,10.7333345096931,38.6744978696448,"Fall",21954
+8,-83.452835,41.7672146,"immature",1933,"Cistothorus palustris palustris","Cistothorus_palustris",15.2,NA,"female",10.7,690,10.3305775895316,52.1027182233542,"Summer",21668
+5,-83.45,41.7666667,"adult",1935,"Cistothorus palustris","Cistothorus_palustris",15.3,NA,"male",9.4,648,10.2805936628488,38.747412536514,"Spring",21974
+11,-115.733333,31.366667,"unknown",1926,"Cistothorus palustris plesius","Cistothorus_palustris",16.1,NA,"male",16.4,256,4.77464896377448,131.351213404717,"Fall",21605
+12,-115.7230556,31.4,"unknown",1926,"Cistothorus palustris plesius","Cistothorus_palustris",21.6,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Winter",21896

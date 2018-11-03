@@ -1,0 +1,150 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-111.103242,32.41416,NA,1958,"Antrozous pallidus","Antrozous_pallidus",5.7,63,"male",20.8,291,7.98365755019514,77.5910134352322,"Summer",4252
+7,-103.2446518,29.3631592,NA,1998,"Antrozous pallidus","Antrozous_pallidus",6,94,"male",20.1,216,7.54025057858681,113.551086543131,"Summer",4193
+7,-121.913645,37.646879,NA,2006,"Antrozous pallidus pacificus","Antrozous_pallidus",7,86,"male ?",14.6,675,4.86199703326886,117.11643351099,"Summer",4219
+8,-109.5092805151,38.536088,NA,2002,"Antrozous pallidus","Antrozous_pallidus",8.4,90,"male",12.4,169,10.4657413700245,96.1214445192901,"Summer",4281
+10,-122.281944,40.388889,NA,2006,"Antrozous pallidus pacificus","Antrozous_pallidus",8.5,102,"female",16.5,849,7.54772191198153,101.141379401015,"Fall",4217
+5,-116.7144622,33.7461682,NA,1991,"Antrozous pallidus Le Conte, 1856","Antrozous_pallidus",9,106,"female",12.3,872,5.95383757069185,173.35529527431,"Spring",4179
+7,-103.2446518,29.3631592,NA,1998,"Antrozous pallidus","Antrozous_pallidus",9,102,"female",20.1,216,7.54025057858681,113.551086543131,"Summer",4222
+7,-103.2446518,29.3631592,NA,1998,"Antrozous pallidus","Antrozous_pallidus",10,115,"female",20.1,216,7.54025057858681,113.551086543131,"Summer",4223
+7,-110.92583,32.033004,NA,1939,"Antrozous pallidus","Antrozous_pallidus",10.5,102,"female",19,229,7.5482488436763,87.1267833589394,"Summer",4289
+7,-112.73639,36.86194,NA,1964,"Antrozous pallidus","Antrozous_pallidus",10.5,110,"female",11.5,176,9.32224449498308,71.2333653324692,"Summer",4314
+7,-102.9201431,36.8769226,"subadult",1999,"Antrozous pallidus","Antrozous_pallidus",11,101,"male",12.9,585,7.81670220318859,88.9097604061996,"Summer",4194
+7,-102.9201431,36.8769226,"subadult",1999,"Antrozous pallidus","Antrozous_pallidus",11,104,"male",12.9,585,7.81670220318859,88.9097604061996,"Summer",4195
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",11.5,103,"male",17.5,221,8.36582151955023,64.6334147016904,"Summer",4268
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",11.6,99,"male",17.5,221,8.36582151955023,64.6334147016904,"Summer",4267
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",11.6,96,"female",17.5,221,8.36582151955023,64.6334147016904,"Summer",4315
+7,-102.9201431,36.8769226,"subadult",1999,"Antrozous pallidus","Antrozous_pallidus",12,103,"female",12.9,585,7.81670220318859,88.9097604061996,"Summer",4224
+4,-112.69111,32.01583,NA,1982,"Antrozous pallidus","Antrozous_pallidus",12,96,"male",18.8,457,6.90329302184505,91.3302693315903,"Spring",4274
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",12,100,"male",17.5,221,8.36582151955023,64.6334147016904,"Summer",4316
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",12,104,"male",17.5,221,8.36582151955023,64.6334147016904,"Summer",4317
+6,-107.53637,33.1793,NA,2013,"Antrozous pallidus","Antrozous_pallidus",12.1,116,"male",14.5,287,8.21379106359321,148.040844582055,"Summer",4188
+7,-113.14583,36.40222,NA,1964,"Antrozous pallidus","Antrozous_pallidus",12.1,115,"male",8,261,8.62959583308652,93.3116164141013,"Summer",4308
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",12.4,107,"female",17.5,221,8.36582151955023,64.6334147016904,"Summer",4264
+6,-105.4580555556,32.5747222222,NA,1995,"Antrozous pallidus","Antrozous_pallidus",12.5,115,"male",12.5,443,6.41505686221522,101.363747908307,"Summer",4240
+3,-112.97472,32.00861,NA,1979,"Antrozous pallidus","Antrozous_pallidus",12.5,111,"male",21.6,277,8.01076926658259,144.950885600822,"Spring",4326
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",12.8,102,"female",17.5,221,8.36582151955023,64.6334147016904,"Summer",4262
+6,-104.814582,38.048389,"adult",2001,"Antrozous pallidus","Antrozous_pallidus",13,107,"female",11.6,353,9.17986515382575,85.882980373627,"Summer",4175
+7,-102.9201431,36.8769226,"subadult",1999,"Antrozous pallidus","Antrozous_pallidus",13,105,"male",12.9,585,7.81670220318859,88.9097604061996,"Summer",4196
+7,-102.9201431,36.8769226,"adult",1999,"Antrozous pallidus","Antrozous_pallidus",13,105,"male",12.9,585,7.81670220318859,88.9097604061996,"Summer",4198
+7,-102.9201431,36.8769226,"adult",1999,"Antrozous pallidus","Antrozous_pallidus",13,93,"female",12.9,585,7.81670220318859,88.9097604061996,"Summer",4199
+7,-103.2446518,29.3631592,NA,1998,"Antrozous pallidus","Antrozous_pallidus",13,115,"male",20.1,216,7.54025057858681,113.551086543131,"Summer",4221
+6,-109.0777777778,33.0616666667,NA,1995,"Antrozous pallidus","Antrozous_pallidus",13,120,"male",13,419,6.74251549138118,100.809520386162,"Summer",4241
+9,-110.7483,31.8392,NA,1975,"Antrozous pallidus","Antrozous_pallidus",13,116,"male",14.9,469,6.8698727437378,126.657542566095,"Fall",4323
+9,-114.05222,35.276475,NA,1959,"Antrozous pallidus","Antrozous_pallidus",13.4,100,"female",16.7,245,8.04805171228642,87.6287652531505,"Fall",4248
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",13.7,106,"female",17.5,221,8.36582151955023,64.6334147016904,"Summer",4265
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",13.9,111,"female",17.5,221,8.36582151955023,64.6334147016904,"Summer",4263
+9,-116.195,35.8,NA,2011,"Antrozous pallidus pallidus","Antrozous_pallidus",14,100,"female",20.2,59,9.25094589758258,77.0888061213813,"Fall",4192
+7,-102.9201431,36.8769226,"adult",1999,"Antrozous pallidus","Antrozous_pallidus",14,97,"female",12.9,585,7.81670220318859,88.9097604061996,"Summer",4197
+7,-102.9201431,36.8769226,"adult",1999,"Antrozous pallidus","Antrozous_pallidus",14,104,"male",12.9,585,7.81670220318859,88.9097604061996,"Summer",4225
+10,-110.1747,31.8102,NA,1983,"Antrozous pallidus","Antrozous_pallidus",14,110,"female",16.3,552,7.27979769948688,91.2881890303531,"Fall",4330
+9,-109.21833,31.949233,NA,1957,"Antrozous pallidus","Antrozous_pallidus",14.1,108.5,"female",12.8,526,6.27817286680245,112.324470361224,"Fall",4298
+5,-110.2253,36.1008,"unknown",1988,"Antrozous pallidus","Antrozous_pallidus",14.2,112,"female",11,274,8.82532083715872,90.7749216987168,"Spring",4231
+7,-110.0589,33.0414,NA,1969,"Antrozous pallidus","Antrozous_pallidus",14.3,108,"male",17.5,221,8.36582151955023,64.6334147016904,"Summer",4266
+7,-110.92583,32.033004,NA,1939,"Antrozous pallidus","Antrozous_pallidus",14.3,107,"female",19,229,7.5482488436763,87.1267833589394,"Summer",4290
+4,-107.46507,33.00742,NA,2013,"Antrozous pallidus","Antrozous_pallidus",14.6,110,"female",15.9,250,8.41987187694934,144.259160730074,"Spring",4189
+8,-119.4230972,48.0520816,"unknown",1980,"Antrozous pallidus","Antrozous_pallidus",14.6,100,"male",9.2,386,9.04508488661442,56.799440322785,"Summer",4229
+4,-110.805747,32.250695,NA,1954,"Antrozous pallidus","Antrozous_pallidus",14.8,106,"male",20.8,337,6.87901397973091,99.8241011167638,"Spring",4246
+9,-110.21361,31.728557,NA,1961,"Antrozous pallidus","Antrozous_pallidus",14.95,114,"male",16.5,329,7.29314227493364,115.362428273898,"Fall",4302
+6,-118.224059,36.8229426,NA,1967,"Antrozous pallidus pallidus Le Conte, 1856","Antrozous_pallidus",15,114,"female",14.5,132,8.54536911627189,137.235612046925,"Summer",4176
+5,-118.401531,37.504659,NA,1974,"Antrozous pallidus pallidus Le Conte, 1856","Antrozous_pallidus",15,108,"male",13.3,104,8.64643471804034,94.8087738771482,"Spring",4177
+3,-112.97472,32.00861,NA,1979,"Antrozous pallidus","Antrozous_pallidus",15,108,"male",21.6,277,8.01076926658259,144.950885600822,"Spring",4272
+6,-115.93,35.79,NA,1968,"Antrozous pallidus pallidus Le Conte, 1856","Antrozous_pallidus",15,110,"male",14.5,113,7.73261490915805,105.110596405923,"Summer",4279
+5,-119.72,37.09,NA,1962,"Antrozous pallidus pacificus","Antrozous_pallidus",15.1,112,"male",16.1,422,7.25414719420219,195.521894445992,"Spring",4277
+6,-109.161,33.2007,NA,1983,"Antrozous pallidus","Antrozous_pallidus",15.1,116,"male",15,582,7.65345534957112,77.3452003813372,"Summer",4333
+9,-110.21361,31.728557,NA,1961,"Antrozous pallidus","Antrozous_pallidus",15.3,112,"male",16.5,329,7.29314227493364,115.362428273898,"Fall",4303
+8,-110.87944,31.725,NA,1964,"Antrozous pallidus","Antrozous_pallidus",15.5,120,"male",14.5,666,7.23582731757033,110.645889137615,"Summer",4313
+7,-103.6610565,29.6616344,NA,1998,"Antrozous pallidus","Antrozous_pallidus",16,108,"female",20,207,7.79115174120909,118.523732651825,"Summer",4220
+8,-110.87944,31.725,NA,1964,"Antrozous pallidus","Antrozous_pallidus",16,116,"male",14.5,666,7.23582731757033,110.645889137615,"Summer",4261
+6,-106.2,26.7,NA,1963,"Antrozous pallidus","Antrozous_pallidus",16,107,"male",17.4,439,4.81313701018243,127.134224224548,"Summer",4306
+8,-110.87944,31.725,NA,1964,"Antrozous pallidus","Antrozous_pallidus",16,110,"male",14.5,666,7.23582731757033,110.645889137615,"Summer",4311
+8,-110.87944,31.725,NA,1964,"Antrozous pallidus","Antrozous_pallidus",16,115,"male",14.5,666,7.23582731757033,110.645889137615,"Summer",4312
+8,-119.4230972,48.0520816,"unknown",1980,"Antrozous pallidus","Antrozous_pallidus",16.2,99,"male",9.2,386,9.04508488661442,56.799440322785,"Summer",4227
+9,-114.05222,35.276475,NA,1959,"Antrozous pallidus","Antrozous_pallidus",16.2,101,"female",16.7,245,8.04805171228642,87.6287652531505,"Fall",4249
+8,-119.9606552,47.0212963,"unknown",1981,"Antrozous pallidus","Antrozous_pallidus",16.3,110,"female",10.5,216,7.83411343633301,70.4423996569581,"Summer",4200
+8,-119.4230972,48.0520816,"unknown",1980,"Antrozous pallidus","Antrozous_pallidus",16.3,103,"male",9.2,386,9.04508488661442,56.799440322785,"Summer",4228
+8,-119.4230972,48.0520816,"unknown",1980,"Antrozous pallidus","Antrozous_pallidus",16.3,105,"female",9.2,386,9.04508488661442,56.799440322785,"Summer",4230
+4,-110.805747,32.250695,NA,1954,"Antrozous pallidus","Antrozous_pallidus",16.3,115,"male",20.8,337,6.87901397973091,99.8241011167638,"Spring",4245
+9,-110.21361,31.728557,NA,1961,"Antrozous pallidus","Antrozous_pallidus",16.4,150,"male",16.5,329,7.29314227493364,115.362428273898,"Fall",4299
+9,-110.848638,31.340252,NA,1961,"Antrozous pallidus","Antrozous_pallidus",16.4,106,"female",15.7,519,6.77783821797857,105.890521681751,"Fall",4300
+6,-103.2969971,30.5480003,NA,1974,"Antrozous pallidus pallidus","Antrozous_pallidus",16.5,105,"female",17.3,498,6.98912575275898,148.918864200118,"Summer",4286
+5,-111.3092,31.9066,NA,1987,"Antrozous pallidus","Antrozous_pallidus",16.6,118,"female",18.7,329,7.48883512404643,79.9329581489893,"Spring",4276
+7,-111.507348,31.488605,NA,1958,"Antrozous pallidus","Antrozous_pallidus",16.7,111,"female",18,409,6.87368169178643,86.8519003543141,"Summer",4254
+7,-110.92583,32.033004,NA,1939,"Antrozous pallidus","Antrozous_pallidus",16.7,111,"female",19,229,7.5482488436763,87.1267833589394,"Summer",4291
+7,-113.14583,36.40222,NA,1964,"Antrozous pallidus","Antrozous_pallidus",16.9,118,"female",8,261,8.62959583308652,93.3116164141013,"Summer",4307
+6,-115.90111,35.78417,NA,1968,"Antrozous pallidus pallidus Le Conte, 1856","Antrozous_pallidus",17,96,"male",14.3,116,7.72223766439848,106.920846262676,"Summer",4201
+6,-106.13641,26.699994,NA,1963,"Antrozous pallidus Le Conte, 1856","Antrozous_pallidus",17,NA,"female",17.2,439,4.82998839323532,129.896218253941,"Summer",4203
+6,-115.90111,35.78417,NA,1968,"Antrozous pallidus pallidus Le Conte, 1856","Antrozous_pallidus",17,102,"male",14.3,116,7.72223766439848,106.920846262676,"Summer",4211
+9,-116.195,35.8,NA,2011,"Antrozous pallidus pallidus","Antrozous_pallidus",17,103,"male",20.2,59,9.25094589758258,77.0888061213813,"Fall",4218
+9,-108.1737051879,32.954227,NA,2004,"Antrozous pallidus","Antrozous_pallidus",17,111,"female",10.7,623,7.05212196735311,47.2836655115333,"Fall",4235
+7,-102.445,30.0302778,NA,2004,"Antrozous pallidus","Antrozous_pallidus",17,115,"female",18.6,506,7.4051988289964,56.2362292394385,"Summer",4237
+9,-110.21361,31.728557,NA,1961,"Antrozous pallidus","Antrozous_pallidus",17,111,"male",16.5,329,7.29314227493364,115.362428273898,"Fall",4256
+6,-110.8495,31.9699,NA,1981,"Antrozous pallidus","Antrozous_pallidus",17,107,"male",19.6,289,6.9281321545937,92.6769396965348,"Summer",4273
+1,-109.183145,31.877684,NA,1957,"Antrozous pallidus","Antrozous_pallidus",17,118,"male",13.2,506,6.37998765079075,112.329734243075,"Winter",4296
+6,-103.2969971,30.5480003,NA,1974,"Antrozous pallidus pallidus","Antrozous_pallidus",17.2,106,"female",17.3,498,6.98912575275898,148.918864200118,"Summer",4287
+10,-110.981516,33.78641,NA,1959,"Antrozous pallidus","Antrozous_pallidus",17.4,115,"female",15.4,650,7.81699779617818,112.762027646576,"Fall",4295
+7,-110.92583,32.033004,NA,1939,"Antrozous pallidus","Antrozous_pallidus",17.5,112,"female",19,229,7.5482488436763,87.1267833589394,"Summer",4244
+6,-107.6579,33.1099,NA,2013,"Antrozous pallidus","Antrozous_pallidus",17.7,118,"female",13.6,347,7.96097964886841,145.80206566499,"Summer",4213
+7,-110.92583,32.033004,NA,1939,"Antrozous pallidus","Antrozous_pallidus",17.7,111,"female",19,229,7.5482488436763,87.1267833589394,"Summer",4242
+5,-118.401531,37.504659,NA,1974,"Antrozous pallidus pallidus Le Conte, 1856","Antrozous_pallidus",18,121,"female",13.3,104,8.64643471804034,94.8087738771482,"Spring",4204
+6,-115.93,35.79,NA,1968,"Antrozous pallidus pallidus Le Conte, 1856","Antrozous_pallidus",18,109,"male",14.5,113,7.73261490915805,105.110596405923,"Summer",4234
+9,-112.166667,29.045706,NA,1974,"Antrozous pallidus","Antrozous_pallidus",18,116,"female",22.7,82,6.01941303893771,111.0455796466,"Fall",4322
+6,-113.889,35.0584,NA,1979,"Antrozous pallidus","Antrozous_pallidus",18,108,"female",10.2,415,7.95171031726489,97.9482908007626,"Summer",4325
+8,-111.171,33.6449,NA,1979,"Antrozous pallidus","Antrozous_pallidus",18,99,"male",18.2,452,8.27751609646715,117.872951998277,"Summer",4328
+6,-103.2969971,30.5480003,NA,1974,"Antrozous pallidus pallidus","Antrozous_pallidus",18.1,109,"female",17.3,498,6.98912575275898,148.918864200118,"Summer",4288
+11,-109.18919,31.872551,NA,1956,"Antrozous pallidus","Antrozous_pallidus",18.2,103,"male",12.5,238,7.32001717997653,127.351573206444,"Fall",4253
+7,-110.92583,32.033004,NA,1939,"Antrozous pallidus","Antrozous_pallidus",18.3,120,"female",19,229,7.5482488436763,87.1267833589394,"Summer",4243
+7,-109.48955,36.14306,NA,1970,"Antrozous pallidus","Antrozous_pallidus",18.3,110,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",4318
+9,-110.1747,31.8102,NA,1983,"Antrozous pallidus","Antrozous_pallidus",18.3,118,"female",16.3,552,7.27979769948688,91.2881890303531,"Fall",4329
+10,-110.873526,31.391583,NA,1959,"Antrozous pallidus","Antrozous_pallidus",18.4,102,"male",16.4,558,6.75371951392174,133.240279072554,"Fall",4294
+7,-109.48955,36.14306,NA,1970,"Antrozous pallidus","Antrozous_pallidus",18.4,110,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",4320
+6,-103.2969971,30.5480003,NA,1974,"Antrozous pallidus pallidus","Antrozous_pallidus",18.6,106,"female",17.3,498,6.98912575275898,148.918864200118,"Summer",4239
+9,-114.05222,35.276475,NA,1959,"Antrozous pallidus","Antrozous_pallidus",18.6,106,"female",16.7,245,8.04805171228642,87.6287652531505,"Fall",4251
+7,-109.48955,36.14306,NA,1970,"Antrozous pallidus","Antrozous_pallidus",18.6,110,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",4269
+7,-109.48955,36.14306,NA,1970,"Antrozous pallidus","Antrozous_pallidus",18.6,103,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",4319
+6,-103.2969971,30.5480003,NA,1974,"Antrozous pallidus pallidus","Antrozous_pallidus",18.8,105,"female",17.3,498,6.98912575275898,148.918864200118,"Summer",4238
+6,-106.13641,26.699994,NA,1963,"Antrozous pallidus Le Conte, 1856","Antrozous_pallidus",19,NA,"female",17.2,439,4.82998839323532,129.896218253941,"Summer",4202
+6,-115.90111,35.78417,NA,1968,"Antrozous pallidus pallidus Le Conte, 1856","Antrozous_pallidus",19,103,"male",14.3,116,7.72223766439848,106.920846262676,"Summer",4209
+6,-106.13641,26.699994,NA,1963,"Antrozous pallidus Le Conte, 1856","Antrozous_pallidus",19,NA,"female",17.2,439,4.82998839323532,129.896218253941,"Summer",4210
+9,-110.848638,31.340252,NA,1961,"Antrozous pallidus","Antrozous_pallidus",19,115,"female",15.7,519,6.77783821797857,105.890521681751,"Fall",4257
+9,-112.166667,29.045706,NA,1974,"Antrozous pallidus","Antrozous_pallidus",19,116,"male",22.7,82,6.01941303893771,111.0455796466,"Fall",4270
+9,-110.848638,31.340252,NA,1961,"Antrozous pallidus","Antrozous_pallidus",19.41,115,"female",15.7,519,6.77783821797857,105.890521681751,"Fall",4258
+9,-109.8,35.00028,NA,1986,"Antrozous pallidus","Antrozous_pallidus",19.6,105,"male",12.8,316,7.93375508173587,63.0928787572882,"Fall",4331
+6,-106.3211111111,35.7788888889,"adult",1977,"Antrozous pallidus","Antrozous_pallidus",19.9,110,"male",10.3,430,8.68960978305805,87.8300949080782,"Summer",4181
+7,-106.04669,36.30307,NA,1995,"Antrozous pallidus","Antrozous_pallidus",20,NA,"female",11.3,268,7.23053290294748,61.284970649695,"Summer",4183
+8,-99.5550003,29.8030796,NA,1999,"Antrozous pallidus","Antrozous_pallidus",20,113,"male",19.2,626,6.20966987850401,84.1024419966026,"Summer",4226
+6,-103.25045,29.2502,NA,1973,"Antrozous pallidus pallidus","Antrozous_pallidus",20,109,"female",16.6,490,5.82218848783503,134.084714506058,"Summer",4233
+4,-101.58,27.345,NA,1999,"Antrozous pallidus","Antrozous_pallidus",20,102,"female",23.2,323,6.06432688812704,144.586784486112,"Spring",4236
+9,-110.21361,31.728557,NA,1961,"Antrozous pallidus","Antrozous_pallidus",20,111,"male",16.5,329,7.29314227493364,115.362428273898,"Fall",4260
+9,-112.166667,29.045706,NA,1974,"Antrozous pallidus","Antrozous_pallidus",20,112,"male",22.7,82,6.01941303893771,111.0455796466,"Fall",4271
+6,-106.2,26.7,NA,1963,"Antrozous pallidus","Antrozous_pallidus",20,116,"female",17.4,439,4.81313701018243,127.134224224548,"Summer",4305
+7,-111.0452,34.5434,NA,1993,"Antrozous pallidus","Antrozous_pallidus",20,102,"female",8.2,678,7.20290345498384,110.612067330811,"Summer",4332
+7,-106.04669,36.30307,NA,1995,"Antrozous pallidus","Antrozous_pallidus",20.2,NA,"female",11.3,268,7.23053290294748,61.284970649695,"Summer",4184
+9,-110.21361,31.728557,NA,1961,"Antrozous pallidus","Antrozous_pallidus",20.2,108,"male",16.5,329,7.29314227493364,115.362428273898,"Fall",4259
+6,-102.96,29.18,NA,1971,"Antrozous pallidus pallidus","Antrozous_pallidus",20.3,110,"female",21.4,270,6.84169481040976,120.953933778612,"Summer",4278
+5,-110.982713,31.85222,NA,1960,"Antrozous pallidus","Antrozous_pallidus",20.7,126,"female",18.5,295,8.02473449008524,102.632791220844,"Spring",4255
+7,-105.37053,32.83871,NA,1995,"Antrozous pallidus","Antrozous_pallidus",20.8,NA,"female",12.1,424,6.28882486493448,108.853015227829,"Summer",4185
+6,-106.13641,26.699994,NA,1963,"Antrozous pallidus Le Conte, 1856","Antrozous_pallidus",21,NA,"female",17.2,439,4.82998839323532,129.896218253941,"Summer",4180
+10,-104.1573833333,30.6639833333,NA,2000,"Antrozous pallidus","Antrozous_pallidus",21,108,"male",14.5,463,6.43519560108645,127.493506101038,"Fall",4283
+4,-101.58,27.345,NA,1999,"Antrozous pallidus","Antrozous_pallidus",21,116,"female",23.2,323,6.06432688812704,144.586784486112,"Spring",4284
+9,-112.166667,29.045706,NA,1974,"Antrozous pallidus","Antrozous_pallidus",21,122,"male",22.7,82,6.01941303893771,111.0455796466,"Fall",4321
+8,-109.4751,32.1446,NA,1976,"Antrozous pallidus","Antrozous_pallidus",21,116,"female",13.9,330,6.83506999365638,84.79336903802,"Summer",4324
+7,-110.8495,31.9699,NA,1981,"Antrozous pallidus","Antrozous_pallidus",21,113,"male",19.6,289,6.9281321545937,92.6769396965348,"Summer",4327
+3,-122.0923755,37.6473089,NA,2005,"Antrozous pallidus pacificus","Antrozous_pallidus",21.5,108,"male",15.2,609,3.0416677044415,122.099346723493,"Spring",4191
+6,-109.161,33.2007,NA,1983,"Antrozous pallidus","Antrozous_pallidus",21.5,113,"female",15,582,7.65345534957112,77.3452003813372,"Summer",4275
+7,-113.081602,36.285829,NA,1964,"Antrozous pallidus","Antrozous_pallidus",21.5,150,"female",13.4,216,9.32643684599988,88.6360039130517,"Summer",4310
+10,-108.919421,32.063182,NA,1958,"Antrozous pallidus","Antrozous_pallidus",21.9,NA,"female",15.9,354,8.08987395489328,106.965177351279,"Fall",4292
+9,-110.848638,31.340252,NA,1961,"Antrozous pallidus","Antrozous_pallidus",21.9,100,"female",15.7,519,6.77783821797857,105.890521681751,"Fall",4301
+7,-105.37053,32.83871,NA,1995,"Antrozous pallidus","Antrozous_pallidus",22,NA,"female",12.1,424,6.28882486493448,108.853015227829,"Summer",4212
+4,-101.58,27.345,NA,1999,"Antrozous pallidus","Antrozous_pallidus",22,118,"female",23.2,323,6.06432688812704,144.586784486112,"Spring",4285
+7,-107.32012,36.98967,NA,1998,"Antrozous pallidus","Antrozous_pallidus",22.4,NA,"female",8.6,471,8.22724133595217,92.9539619209639,"Summer",4186
+9,-109.21833,31.949233,NA,1957,"Antrozous pallidus","Antrozous_pallidus",22.4,98,"female",12.8,526,6.27817286680245,112.324470361224,"Fall",4297
+7,-113.081602,36.285829,NA,1964,"Antrozous pallidus","Antrozous_pallidus",22.5,106,"female",13.4,216,9.32643684599988,88.6360039130517,"Summer",4309
+7,-117.319356,33.232626,NA,1962,"Antrozous pallidus pacificus","Antrozous_pallidus",22.7,NA,"female",15.5,235,3.49774819337276,177.42157505053,"Summer",4182
+7,-107.32012,36.98967,NA,1998,"Antrozous pallidus","Antrozous_pallidus",22.7,NA,"male",8.6,471,8.22724133595217,92.9539619209639,"Summer",4187
+7,-109.22694,32.035578,NA,1954,"Antrozous pallidus","Antrozous_pallidus",22.7,112,"female",15.8,307,6.5215900180582,146.993449521501,"Summer",4247
+6,-106.2,26.7,NA,1963,"Antrozous pallidus","Antrozous_pallidus",24,119,"female",17.4,439,4.81313701018243,127.134224224548,"Summer",4304
+10,-110.873526,31.391583,NA,1959,"Antrozous pallidus","Antrozous_pallidus",24.3,101,"female",16.4,558,6.75371951392174,133.240279072554,"Fall",4250
+5,-109.1878,31.9781,NA,1982,"Antrozous pallidus pallidus Le Conte, 1856","Antrozous_pallidus",25,110,"female",14.4,454,6.81193248956742,78.4725722759157,"Spring",4206
+10,-122.047815,38.707581,NA,1957,"Antrozous pallidus pacificus","Antrozous_pallidus",26.3,135,"female",15.9,474,6.69902751874999,90.2067817122471,"Fall",4174
+10,-110.873526,31.391583,NA,1959,"Antrozous pallidus","Antrozous_pallidus",27.6,109,"female",16.4,558,6.75371951392174,133.240279072554,"Fall",4293
