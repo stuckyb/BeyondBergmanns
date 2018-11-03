@@ -1,6 +1,6 @@
 # clean body mass data ----
 
-if(! dir.exists("data_output/cleaned_bodymass_data/")){
+if(!length(list.files("data_output/cleaned_bodymass_data/"))){
   generate_cleaned_CSV_files(DataDir = "data_raw/bodymass_data/",
                              species_path = "data_raw/species_table.csv", 
                              output_dir = "data_output/cleaned_bodymass_data/", 
@@ -210,5 +210,5 @@ if(!file.exists('data_output/bergmann.rds')){
            season = factor(season, levels = c('Spring', 'Summer', 'Fall', 'Winter')))
   saveRDS(d, file = 'data_output/bergmann.rds')
 } else {
-  d = readRDS('data/bergmann.rds')
+  d = readRDS('data_output/bergmann.rds')
 }
