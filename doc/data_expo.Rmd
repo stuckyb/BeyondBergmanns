@@ -1,0 +1,153 @@
+---
+title: "Exploratory Data Analysis for Temporal Body Mass Changes"
+author: 'Daijiang Li'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_knit$set(root.dir = normalizePath("../"))
+opts_chunk$set(echo = TRUE, message = F, error = F, cache = T)
+library(tidyverse)
+library(ggridges)
+library(lme4)
+```
+
+```{r, eval=FALSE}
+# load packages
+library(tidyverse)
+library(ggridges)
+```
+
+First, let's read and clean the data.
+
+```{r}
+d = readRDS('data/bergmann.rds')
+d
+summary(d$long) 
+summary(d$lat)
+# plot(d$mass_g, d$length_mm) # look okay now
+hist(d$mass_g) # highly skewed
+hist(d$mass_g_log10) # much better
+d %>% select(long, lat) %>% unique() %>% nrow() # 26,739 unique lat/long combination
+n_distinct(d$sp) # 175 species
+summary(d$year)
+
+d$decade = cut(d$year, breaks = seq(1900, 2020, 10), dig.lab = 4)
+d$decade_numeric = as.numeric(d$decade)
+sp_n_order = group_by(d, sp) %>% 
+  tally() %>% ungroup() %>% 
+  arrange(desc(n)) %>% 
+  mutate(sp2 = paste(sp, n, sep = "_")) %>% 
+  rename(n_total = n)
+```
+
+```{r recordDecade, fig.height=11, fig.width=8}
+ndecades = d %>% 
+  group_by(sp, decade) %>% 
+  tally() %>% ungroup() %>% 
+  left_join(sp_n_order) %>% 
+  mutate(sp2 = factor(sp2, levels = sp_n_order$sp2))
+ggplot(ndecades, aes(x = decade, y = sp2, fill = log10(n))) +
+  geom_tile() +
+  labs(x = "", y = "") + 
+  scale_fill_viridis_c() +
+  theme(axis.text.x = element_text(angle = 45, vjust = 0.2),
+        axis.text.y = element_text(size = 6))
+```
+
+
+```{r eval=F, echo=F}
+xtabs(~ sp + season + yr_80, data = d)
+x = group_by(d, sp, year, season) %>% 
+  tally() %>% ungroup() %>% 
+  left_join(sp_n_order)
+
+p = mutate(x, sp2 = factor(sp2, levels = sp_n_order$sp2)) %>% 
+  ggplot(aes(x = year, y = n, color = season)) +
+  geom_line() + 
+  scale_y_log10() +
+  facet_wrap(~sp2, ncol = 8, scales = 'free_y') +
+  labs(title = 'Number of records by year, total numbers are attached with species names') +
+  theme(legend.position = 'top')
+ggsave('figures/n_records_sp.pdf', p, width = 20, height = 40)
+
+p = ggplot(d, aes(x = year, y = sp, height = ..density..)) +
+  geom_density_ridges(stat = 'density') +
+  facet_wrap(~ season, nrow = 1, scales = 'free_x') +
+  theme(axis.text.y = element_blank())
+p
+
+x2 = group_by(d, sp, decade, season) %>% 
+  tally() %>% ungroup() %>% 
+  left_join(sp_n_order) %>% 
+  select(-n_total, -sp)
+x2_wide = spread(x2, season, n, fill = 0)
+p = ggplot(x2, aes(x = season, y = sp2, fill = log(n))) +
+  geom_tile() +
+  scale_fill_viridis_c() +
+  theme(axis.text.y = element_blank(),
+        # axis.text.y = element_text(size = 6),
+        legend.position = 'top') +
+  facet_wrap(~decade, nrow = 1)
+p
+ggsave("n_record_decade.pdf", p, width = 16, height = 13)
+
+group_by(d, sp, yr_80, season) %>% 
+  tally() %>% ungroup() %>% 
+  left_join(sp_n_order) %>% 
+  select(-n_total, -sp)
+
+group_by(d, yr_80, season) %>% 
+  tally() %>% ungroup() %>% 
+  spread(yr_80, n)
+```
+
+# With all 175 species
+
+## With decade and climatic variables
+
+```{r}
+d2 = d
+d2[, c('bio1', 'bio12', 'bio4', 'bio15')] = scale(d2[, c('bio1', 'bio12', 'bio4', 'bio15')])
+lmm1 <- lmer(mass_g_log10 ~ decade_numeric + bio1 + bio4 + bio12 + bio15 + 
+              (1 | sp/season) + (0 + decade_numeric | sp) + (0 + bio1 | sp) + (0 + bio4 | sp) + 
+              (0 + bio12 | sp) + (0 + bio15 | sp), 
+            data = d2, REML = F)
+summary(lmm1)
+```
+
+## With decade only
+
+```{r}
+lmm2 <- lmer(mass_g_log10 ~ decade_numeric + 
+              (1 | sp/season) + (0 + decade_numeric | sp), 
+            data = d2, REML = F)
+summary(lmm2)
+```
+
+# Limit species to have at least 400 total records
+
+## With decade and climatic variables
+
+```{r}
+d2 = filter(d, sp %in% filter(sp_n_order, n_total > 400)$sp)
+d2[, c('bio1', 'bio12', 'bio4', 'bio15')] = scale(d2[, c('bio1', 'bio12', 'bio4', 'bio15')])
+lmm1 <- lmer(mass_g_log10 ~ decade_numeric + bio1 + bio4 + bio12 + bio15 + 
+              (1 | sp/season) + (0 + decade_numeric | sp) + (0 + bio1 | sp) + (0 + bio4 | sp) + 
+              (0 + bio12 | sp) + (0 + bio15 | sp), 
+            data = d2, REML = F)
+summary(lmm1)
+```
+
+## With decade only
+
+```{r}
+lmm2 <- lmer(mass_g_log10 ~ decade_numeric + 
+              (1 | sp/season) + (0 + decade_numeric | sp), 
+            data = d2, REML = F)
+summary(lmm2)
+```
+
+
+

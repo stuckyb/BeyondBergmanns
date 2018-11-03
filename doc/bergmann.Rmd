@@ -1,0 +1,122 @@
+---
+title: "Bergmann"
+author: 'Daijiang Li'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+opts_knit$set(root.dir = normalizePath("../"))
+opts_chunk$set(echo = TRUE, message = F, error = F, cache = T)
+library(tidyverse)
+library(lme4)
+```
+
+```{r, eval=FALSE}
+# load packages
+library(tidyverse)
+library(lme4)
+```
+
+First, let's read and clean the data.
+
+```{r}
+d = readRDS('data_output/bergmann.rds')
+d
+summary(d$long) 
+summary(d$lat)
+# plot(d$mass_g, d$length_mm) # look okay now
+hist(d$mass_g) # highly skewed
+hist(d$mass_g_log10) # much better
+d %>% select(long, lat) %>% unique() %>% nrow() # 26,739 unique lat/long combination
+n_distinct(d$sp) # 175 species
+```
+
+I then plotted mass ~ bio1 (which is average temperature) by year for each species. See [figures/mass_temp_by_sp_yr.pdf](figures/mass_temp_by_sp_yr.pdf) within Dropbox folder for the plot. The main problem is that most years only have 1 record for most species. And the slopes are so idiosyncratic. Not meaningful to put year as a predictor.
+
+Then I plotted mass ~ bio1 by pre-1980 and post-1980, and found that **the relationship did not change for most species**. See [figures/mass_temp_by_sp_1980.pdf](figures/mass_temp_by_sp_1980.pdf) within Dropbox folder for the plot.
+
+*Does the collection season matter for species' body mass?* For each species, I made boxplots of their body mass by colletion seasons. And it seems that **season is important for most species**. See [figures/mass_by_season.pdf](figures/mass_by_season.pdf) within Dropbox folder for the plot.
+
+*Does body mass changed when comparing pre-1980 and post-1980?* It seems that **most species' body mass declined**. See [figures/mass_by_yr_1980.pdf](figures/mass_by_yr_1980.pdf) within Dropbox folder for the plot.
+
+*For locations have records over 10 years, what are their temperature trends?* It is weird that some points, e.g. #3, #7, around LA, have decreased temperature over time! See [figures/temp_by_yr.pdf](figures/temp_by_yr.pdf) within Dropbox folder for the plot.
+
+*What are the geographic distributions for the body mass measures of these 175 species?* It seems that most of species have records from limited distribution areas, which justified the use of linear mixed models. See [figures/location_by_sp.pdf](figures/location_by_sp.pdf) within Dropbox folder for the plot.
+
+## LMM
+
+Let's standardize climatic variables to have mean 0 and sd 1 so that we can compare their effects.
+
+```{r}
+d[, c('bio1', 'bio12', 'bio4', 'bio15')] = scale(d[, c('bio1', 'bio12', 'bio4', 'bio15')])
+cor(d[, c('bio1', 'bio12', 'bio4', 'bio15')]) # seems okay, no very high correlations
+```
+
+Based on the plots, we know that we should account for collection seasons for each species, and the dacades of the collections (pre- and post-1980). We will put collection season nested in species as a random term, and the decades as a fixed term.
+
+Let's just try temperature `bio1` first.
+
+```{r}
+lmm1 = lmer(mass_g_log10 ~ bio1 + (1|sp/season) + (bio1|sp), data = d, REML = F)
+lmm2 = lmer(mass_g_log10 ~ bio1 + (1|sp/season) + (0 + bio1|sp), data = d, REML = F)
+anova(lmm1, lmm2) # is correlation between random intercept and slope strong? No.
+```
+
+We can ignore the correlations among random terms here given the ANOVA results. I.e. knowing the intercept of a species does not tell us what its slope will be.
+
+```{r fig.width=5, fig.height=5}
+summary(lmm1)
+ggplot(d, aes(x = bio1, y = mass_g_log10, color = sp)) +
+  geom_smooth(method = 'lm', se = F, size = 0.5) +
+  theme(legend.position = 'null') +
+  labs(x = 'Annual average temperature',
+       y = 'Log10 body mass in g') +
+  geom_abline(intercept = fixef(lmm2)[1], slope = fixef(lmm2)[2], size = 1)
+```
+
+In the above plot, the black line is the fit from LMM, the color lines are from each species based on linear regressions. The LMM model tells us what is the average relationship across all species. There is significantly negative relationship between `bio1` and `mass_g_log10`, which supports Bergmann's rule across these 175 species. Of course, if we just fit separate linear regressions for each species, there will be variations in their slopes. However, summarizing the slopes from these separate regressions suggests that we want to infer the overall pattern by treating each species as a sample. Doing this means that each species also share the same characteristics and we should use their similarity with LMMs. Furthermore,  given that most species' records are based on small geographic areas with narrow temperature range, we should use LMM instead of counting for significant/positive/negative slopes based separate regressions.
+
+Let's look at pre-1980 vs. post-1980 body mass.
+
+```{r}
+lmm4 = lmer(mass_g_log10 ~ yr_80 + bio1 + (1|sp/season) + (0 + bio1|sp), data = d, REML = F)
+summary(lmm4) # indeed, body mass decreased post-1980 significantly
+```
+
+Now, let's put all predictors in the model.
+
+```{r}
+lmm5 <- lmer(mass_g_log10 ~ yr_80 + bio1 + bio4 + bio12 + bio15 + 
+              (1 | sp/season) + (0 + bio1 | sp) + (0 + bio4 | sp) + 
+              (0 + bio12 | sp) + (0 + bio15 | sp), 
+            data = d, REML = F)
+MuMIn::r.squaredGLMM(lmm5) # conditional R2 is very high
+rr2::R2(lmm5, resid = F, pred = F)
+summary(lmm5)
+car::Anova(lmm5)
+```
+
+## Main results
+
+First, body mass of these 175 species had declined significantly (use `t = 2` as a rough cutoff) after 1980. The average body mass in post-1980 is about `r 100 * 10^fixef(lmm5)['yr_80post_1980']`% of those in pre-1980. Given theat climate warming is stronger after 1980, this results give support of Bergmann's rule.
+
+Second, there is strong (t = -2.79) negative relationship between `bio1` (temperature) and body mass after accounting for all other three climatic variables, which support Bergmann's rule (the higher the average temperature, the smaller the body mass).
+
+Third, annual precipitation (`bio4`) is also important (less than `bio1`), but it has a positive relationship with body mass (more precipitation, larger body mass) after accounting for temperature.
+
+Fourth, seasonality of temperature (`bio112`), not precipitation (`bio15`) is also significant. `bio12` is even more important than `bio1`: higher seasonality, larger body mass. Again, supports Bergmann.
+
+P.S. (results not shown)
+
+- Removing `bio15` will increase AIC largely, so we should keep it in the model even it is not significant. 
+- It is not necessary to include correlations among random terms as it won't improve the fit.
+- No significant interaction between `bio1` and `yr_80`, suggesting the relationships between body mass and temperature did not change over 1980.
+
+## Other analysis
+
+If we want to study how species' traits such as their distribution range, their niche, etc. affect their relationship between temperature and body mass, we can add these traits as interactions with temperature `bio1` or other climatic variables. In Ecology, this is the so-called fourth-corner problem (if we have a site by species matrix, a site by envi matrix, and a species by traits matrix, what is the trait by envi matrix?) See [Jamil et al. 2013](papers/Jamil_et_al-2013-Journal_of_Vegetation_Science) in the Dropbox/papers for some examples.
+
+This maybe a chanllenge if we want to use phylogenetic LMMs given the data size. A first step can take a look at the species-level estimates from LMM and see whether they have strong phylogenetic signal. If not, we probably will be fine. Another option is to add genus/family of species as random terms in LMM; not ideal but simple to do.
+
+
