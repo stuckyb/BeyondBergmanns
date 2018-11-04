@@ -2,7 +2,7 @@
 
 if(!require(xfun)) install.packages("xfun")
 if(!require(rr2)) devtools::install_github("arives/rr2")
-xfun::pkg_attach2(c("vegan", "tidyverse", "lme4", "rr2"))
+xfun::pkg_attach2(c("vegan", "tidyverse", "lme4", "rr2", "olsrr"))
 
 # Functions ----
 
@@ -71,37 +71,57 @@ lm_1_sp = function(x = "Accipiter_cooperii",
                    fm = "mass_g_log10 ~  bio1 + bio12 + bio4 + bio15 + season", 
                    df = d)
 {
-  cat("sp = ", x, "\t")
+  cat("sp = ", x, "\n")
   df = filter(df, sp == x)
-  # scale predictors
-  df[, c("bio1", "bio12", "bio4", "bio15")] = scale(df[, c("bio1", "bio12", "bio4", "bio15")]) 
-  # df = rename(df, temp = bio1, precip = bio12, 
-  #             temp_seasonality = bio4, precip_seasonality = bio15)
   
-  mod = lm(as.formula(fm), data = df)
-  # VIF for multicollinearity
-  gvif = car::vif(mod)[, "GVIF"]
-  reduced = any(gvif > 3)
-  while(any(gvif > 3)){
-    # remove the predictor has the highest VIF from the formula
-    fm = gsub(paste0(names(which.max(gvif)), " [+] "), "", fm)
-    # refit the model
-    mod = lm(as.formula(fm), data = df)
-    # VIF again
-    gvif = car::vif(mod2)[, "GVIF"]
+  # vif and conditional indices; conditional indices requires un-centered data...
+  mod_0 = lm(as.formula(fm), data = df)
+  mod_diag = ols_coll_diag(mod_0)
+  coll_prob = any(mod_diag[[2]]$`Condition Index` > 30)
+  # which variables cause multicollinearity?
+  if(coll_prob){
+    ci = filter(mod_diag$eig_cindex, `Condition Index` > 30) %>% 
+      select(intercept, starts_with("bio")) %>% 
+      as.matrix()
+    which_coll = colnames(ci)[ci[1,] > 0.5]
+  } else {
+    which_coll = NA
   }
   
   # output data frame
   out = tibble(
-               n_row = nrow(df),
-               multicol_prob = reduced,
-               full_mod = list(mod), 
-               coef = list(broom::tidy(mod)), # coef and p values of predictors
-               partial_r2_bio1 = NA,
-               partial_r2_bio4 = NA,
-               partial_r2_bio12 = NA,
-               partial_r2_bio15 = NA
-               )
+    n_row = nrow(df),
+    vif_raw = mod_diag[1],
+    cond_raw = mod_diag[2],
+    multicol_prob = coll_prob,
+    which_coll = list(which_coll)
+  )
+  
+  # scale predictors
+  df[, c("bio1", "bio12", "bio4", "bio15")] = scale(df[, c("bio1", "bio12", "bio4", "bio15")]) 
+  # fit model again
+  if(coll_prob && # has multicol problem
+     (!identical(which_coll, c("intercept", "bio4")) & # except intercept and bio4 coll
+     any(grepl("^bio", which_coll)) # except coll between intercept (Spring) and season; i.e. must has bioX variable
+     )){ 
+    # remove bio4
+    mod = lm(mass_g_log10 ~  bio1 + bio12 + bio15 + season, data = df)
+    coll_d2 = ols_coll_diag(mod)
+    coll_remain = any(coll_d2$eig_cindex$`Condition Index` > 30)
+  } else {
+    mod = lm(as.formula(fm), data = df)
+    coll_remain = FALSE
+  }
+  
+  # output data frame
+  out = mutate(out, coll_remain = coll_remain,
+         final_mod = list(mod), 
+         coef = list(broom::tidy(mod)), # coef and p values of predictors
+         partial_r2_bio1 = NA,
+         partial_r2_bio4 = NA,
+         partial_r2_bio12 = NA,
+         partial_r2_bio15 = NA
+         )
   
   # partial R2 of predictors
   bio_vars = grep("^bio", x = all.vars(formula(mod)), value = T)
