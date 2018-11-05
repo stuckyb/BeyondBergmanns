@@ -16,15 +16,14 @@ generateCleanedCSVFiles = function(DataDir, sp_table, output_dir) {
         InpFileName = paste0("Env_", SpName, ".csv")
         inp_path = paste0(DataDir, InpFileName)
         
-        print(paste0('Cleaning data for ', SpName, ' (', InpFileName, ')'))
+        print(paste0('Cleaning data for ', SpName, ' (', InpFileName, ')...'))
         
         Tbl2 = read.csv(inp_path, header=TRUE, stringsAsFactors=FALSE, fileEncoding="UTF-8" )
-        print(dim(Tbl2))
+        startcnt = nrow(Tbl2)
 
         # Remove data rows with temperature is too low. Specially to
         # remove data with -9999 values in bio1
         NoDataIndices = which(Tbl2[['bio1']] <= -50)
-        print(paste("Total -9999 rows ", length(NoDataIndices)))
         if (length(NoDataIndices) > 0 ) {
             Tbl2 = Tbl2[-NoDataIndices,]
         }
@@ -46,7 +45,7 @@ generateCleanedCSVFiles = function(DataDir, sp_table, output_dir) {
         Tbl3 = Tbl2[ValidIndices,]
         Tbl3 = Tbl3[Tbl3$seasonality != '',]
 
-        print(dim(Tbl3))
+        print(paste0(startcnt - nrow(Tbl3), ' record(s) removed.'))
 
         write.csv(Tbl3, paste0(output_dir, SpName, '.csv'), row.names=FALSE)
     }
@@ -188,11 +187,11 @@ GetModelSummary = function(model, resDir, SpName, modelName) {
 # res_models: Model names for which to generate fit diagnostics.
 #------
 Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
-    collin_dir = paste0(output_dir, '/collin_results/')
+    collin_dir = paste0(output_dir, 'collin_results/')
     if (!dir.exists(collin_dir)) { dir.create(collin_dir) }
-    diags_dir = paste0(output_dir, '/diagnostics/')
+    diags_dir = paste0(output_dir, 'diagnostics/')
     if (!dir.exists(diags_dir)) { dir.create(diags_dir) }
-    modfits_dir = paste0(output_dir, '/model_fits/')
+    modfits_dir = paste0(output_dir, 'model_fits/')
     if (!dir.exists(modfits_dir)) { dir.create(modfits_dir) }
 
     TotSps = dim(sp_table)[1]
@@ -208,10 +207,9 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
         SpName = trimws(as.character(sp_table[i,1]), which= "both")
         InpFileName = paste(DataDir, SpName, ".csv", sep = "")
 
-        print(paste(SpName, InpFileName, sep = ":"))
+        print(paste0('Analyzing data for ', SpName, ' (', InpFileName, ')...'))
 
         Tbl3 = read.csv(InpFileName, header=TRUE, stringsAsFactors=FALSE, fileEncoding="UTF-8" )
-        print(dim(Tbl3))
 
         # Initialize the output results row.
         CurRow = c(SpName)
@@ -250,7 +248,6 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
             mod_summary = GetModelSummary(mod, modfits_dir, SpName, mod_name)
   
             CurRow = c(CurRow, mod_summary, c_num, AIC(mod))
-            print(CurRow)
         }
 
         ResMat = rbind(ResMat, CurRow)

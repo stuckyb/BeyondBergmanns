@@ -29,5 +29,5 @@ if (!dir.exists(model_dir)) { dir.create(model_dir) }
 
 sp_table = read.csv('species_table.csv', header=TRUE, stringsAsFactors = FALSE)
 generateCleanedCSVFiles(data_dir, sp_table, clean_data_dir)
-Model_All(clean_data_dir, sp_table, model_dir, model_specs, res_models)
+results = Model_All(clean_data_dir, sp_table, model_dir, model_specs, res_models)
 
