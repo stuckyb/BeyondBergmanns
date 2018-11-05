@@ -71,7 +71,7 @@ lm_1_sp = function(x = "Accipiter_cooperii",
                    fm = "mass_g_log10 ~  bio1 + bio12 + bio4 + bio15 + season", 
                    df = d)
 {
-  cat("sp = ", x, "\n")
+  cat(x, "\n")
   df = filter(df, sp == x)
   
   # vif and conditional indices; conditional indices requires un-centered data...
@@ -98,6 +98,7 @@ lm_1_sp = function(x = "Accipiter_cooperii",
   )
   
   # scale predictors
+  df0 = df
   df[, c("bio1", "bio12", "bio4", "bio15")] = scale(df[, c("bio1", "bio12", "bio4", "bio15")]) 
   # fit model again
   if(coll_prob && # has multicol problem
@@ -106,17 +107,20 @@ lm_1_sp = function(x = "Accipiter_cooperii",
      )){ 
     # remove bio4
     mod = lm(mass_g_log10 ~  bio1 + bio12 + bio15 + season, data = df)
-    coll_d2 = ols_coll_diag(mod)
+    mod_1 = lm(mass_g_log10 ~  bio1 + bio12 + bio15 + season, data = df0) # raw data
+    coll_d2 = ols_coll_diag(mod_1)
     coll_remain = any(coll_d2$eig_cindex$`Condition Index` > 30)
   } else {
     mod = lm(as.formula(fm), data = df)
     coll_remain = FALSE
   }
   
+  mod_coef <- broom::tidy(mod)
+  
   # output data frame
   out = mutate(out, coll_remain = coll_remain,
          final_mod = list(mod), 
-         coef = list(broom::tidy(mod)), # coef and p values of predictors
+         coef = list(mod_coef), # coef and p values of predictors
          partial_r2_bio1 = NA,
          partial_r2_bio4 = NA,
          partial_r2_bio12 = NA,
@@ -130,7 +134,12 @@ lm_1_sp = function(x = "Accipiter_cooperii",
     mod.r = update(mod, new_fm)
     out[, paste0("partial_r2_", i)] = rr2::partialR2adj(mod = mod, mod.r = mod.r)$R2.adj
   }
-  out = bind_cols(out, broom::glance(mod))
+  out = bind_cols(out, broom::glance(mod)) %>% 
+    bind_cols(filter(mod_coef, term %in% paste0("bio", c(1, 4, 12, 15))) %>% 
+    select(-std.error, -statistic) %>% 
+    gather('var', 'value', estimate, p.value) %>% 
+    unite('coefs', term, var) %>% 
+    spread('coefs', 'value'))
   
   out
 }
