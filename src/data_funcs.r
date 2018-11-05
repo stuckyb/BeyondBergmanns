@@ -1,4 +1,7 @@
 
+source('src/collin_diags.r')
+
+
 #------
 # Generates cleaned body mass data files.  Filters out records with spurious
 # temperature and/or body size data.
