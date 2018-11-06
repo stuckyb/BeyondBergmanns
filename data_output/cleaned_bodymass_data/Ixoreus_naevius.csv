@@ -1,0 +1,355 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+3,-122.88905,38.39452,"AHY",2007,"Ixoreus naevius","Ixoreus_naevius",42.9,212,"male",13.6,723,4.34594900191808,136.392771093404,"Spring",39771
+10,-123.067661,49.319618,NA,1986,"Ixoreus naevius","Ixoreus_naevius",43,NA,"female",10.5,1663,5.17060455992832,62.6633660551533,"Fall",39788
+11,-122.8890206,38.4737224,"small skull windows",1998,"Ixoreus naevius ssp.","Ixoreus_naevius",44.4,NA,"female",14,1484,4.18348122399458,146.406598961983,"Fall",39676
+2,-122.43618,37.75113,"U-Ad.",1984,"Ixoreus naevius","Ixoreus_naevius",48.69,NA,"male",13.8,436,3.08529012436678,147.883139272553,"Winter",39812
+1,-122.52361,37.94861,"U-Imm.",1978,"Ixoreus naevius meruloides","Ixoreus_naevius",49.8,NA,"female",14.5,983,3.64325861466536,132.483575857999,"Winter",39750
+1,-122.97385,43.98393,"U-Ad.",1984,"Ixoreus naevius","Ixoreus_naevius",50,NA,"male",11,1361,5.07300490714121,85.3031527576765,"Winter",39758
+10,-122.1607629,37.8049862,"u ad.",1931,"Ixoreus naevius meruloides","Ixoreus_naevius",51.1,NA,"female",14.3,662,3.49920986752291,137.712930959321,"Fall",39692
+1,-122.7228,38.43761,"U-Ad.",1978,"Ixoreus naevius","Ixoreus_naevius",51.3,NA,"male",14.4,851,4.46062741883885,141.135453731317,"Winter",39809
+1,-121.91857,36.61955,"U",1986,"Ixoreus naevius","Ixoreus_naevius",52.2,NA,"male",13.4,437,1.28307750303241,142.181645177482,"Winter",39833
+3,-117.153569,46.667257,NA,2005,"Ixoreus naevius","Ixoreus_naevius",52.9,NA,"male",8.8,477,7.71325109303739,69.5535549979173,"Spring",39506
+1,-122.56067,37.96553,"U-Ad",2002,"Ixoreus naevius","Ixoreus_naevius",53.7,NA,"female",14.6,981,3.68521822058523,172.062173916452,"Winter",39762
+2,-122.0068146,36.9746516,"u ad.",1943,"Ixoreus naevius naevius","Ixoreus_naevius",54,NA,"female",13.2,600,2.45299754783754,123.406204830726,"Winter",39599
+4,-149.9044,61.1742,"AHY",2003,"Ixoreus naevius","Ixoreus_naevius",54.6,NA,"male",3.5,424,9.25682385479965,76.0938255710931,"Spring",39725
+6,-121.7789,44.7692,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",55.3,NA,"male",5,1853,5.31555749805714,67.9202443385519,"Summer",39585
+11,-122.48251,37.7695,"U-Ad.",1973,"Ixoreus naevius","Ixoreus_naevius",55.7,NA,"male",13.1,904,2.27829016163571,127.67203475357,"Fall",39748
+10,-147.8043,64.857,"U",1996,"Ixoreus naevius","Ixoreus_naevius",56.1,NA,"female",-3.7,295,15.2504619900215,87.5889499783543,"Fall",39614
+1,-122.58318,38.25596,"U",2007,"Ixoreus naevius","Ixoreus_naevius",59,195,"male",14.2,446,4.58002084155639,137.619189119121,"Winter",39772
+12,-122.75667,38.00111,"U-Ad.",1978,"Ixoreus naevius","Ixoreus_naevius",59.8,NA,"female",13.9,956,3.39128785763364,148.280818090131,"Winter",39754
+3,-117.164293,46.730767,NA,1928,"Ixoreus naevius","Ixoreus_naevius",60.3,239,"male",8.6,402,7.95548219592609,80.3834128378609,"Spring",39508
+2,-122.53243,37.9009,"adult",2004,"Ixoreus naevius","Ixoreus_naevius",60.8,NA,"female",14.8,838,3.18014674713815,130.599976274111,"Winter",39766
+5,-156.4236111111,70.9161111111,"u ad.",1958,"Ixoreus naevius meruloides","Ixoreus_naevius",61,NA,"female",-11.3,293,12.882017063968,62.7015932014477,"Spring",39655
+5,-122.64054,38.01106,"adult",2003,"Ixoreus naevius","Ixoreus_naevius",61.3,NA,"male",15.1,1079,4.12379458971732,124.175394581731,"Spring",39830
+7,-117.20894,46.824342,NA,1977,"Ixoreus naevius","Ixoreus_naevius",61.9,NA,"male",8.2,489,8.00225347049571,81.2952284410756,"Summer",39520
+11,-120.0139,35.4415,"adult",1999,"Ixoreus naevius","Ixoreus_naevius",63.5,NA,"male",14.7,195,6.22508975230417,146.054438037194,"Fall",39827
+1,-122.096634,37.884425,"adult skull",2003,"Ixoreus naevius meruloides","Ixoreus_naevius",63.7,NA,"male",15.1,576,4.71196896372965,118.931505410717,"Winter",39678
+3,-122.85909,38.25527,"U-Ad.",1978,"Ixoreus naevius meruloides","Ixoreus_naevius",63.8,NA,"female",13.6,904,3.71102983338081,137.501789873572,"Spring",39811
+11,-118.2895241,34.754427,NA,1994,"Ixoreus naevius","Ixoreus_naevius",64,NA,"male",16.8,146,8.5670616581501,114.239322680683,"Fall",39647
+11,-122.18646,37.88881,"adult",2002,"Ixoreus naevius","Ixoreus_naevius",64.1,NA,"female",14.2,647,4.16475107481246,172.377919963792,"Fall",39765
+1,-122.48251,37.7695,"U-Ad.",1987,"Ixoreus naevius","Ixoreus_naevius",64.2,NA,"undetermined",13.6,491,2.41729876790879,113.812691060217,"Winter",39813
+11,-119.768922,46.2068,NA,1991,"Ixoreus naevius","Ixoreus_naevius",64.7,NA,"male",11.4,227,8.13102457295885,82.549406007148,"Fall",39618
+9,-147.8043,64.857,"U",2000,"Ixoreus naevius","Ixoreus_naevius",65.6,NA,"undetermined",-1.6,285,12.314745411313,108.166813357895,"Fall",39604
+12,-122.59155,37.98906,"U-Ad",2001,"Ixoreus naevius","Ixoreus_naevius",66,NA,"female",14.8,1200,4.02488471508154,130.68347813026,"Winter",39823
+1,-122.2574231,37.871928,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",66.1,NA,"female",14.3,918,2.3683519394488,102.023991256098,"Winter",39699
+10,-117.9846239,37.3729538,NA,1999,"Ixoreus naevius","Ixoreus_naevius",66.4,NA,"female",12,103,7.88073985143911,88.2335349237877,"Fall",39539
+3,-117.165654,46.72955,NA,1981,"Ixoreus naevius","Ixoreus_naevius",66.6,NA,"male",8.7,601,6.36302648592681,55.6155635509603,"Spring",39633
+2,-122.12616,37.9668,"adult",2003,"Ixoreus naevius","Ixoreus_naevius",66.6,NA,"male",15.2,536,4.75553903518324,116.540484475397,"Winter",39829
+2,-122.54775,37.94264,"adult",2004,"Ixoreus naevius","Ixoreus_naevius",66.8,NA,"male",15.2,962,3.67088256252891,130.742921339573,"Winter",39767
+8,-161.7509,60.7912,"AHY",1999,"Ixoreus naevius","Ixoreus_naevius",67,NA,"male",-3.9,417,12.9234898889228,99.8967254628078,"Summer",39720
+1,-122.55927,38.09214,"U-Ad",2002,"Ixoreus naevius","Ixoreus_naevius",67.2,NA,"male",14.7,718,3.92832565150121,174.773112244844,"Winter",39764
+6,-162.3166667,67.9333333,"u ad.",1961,"Ixoreus naevius meruloides","Ixoreus_naevius",67.5,NA,"male",-7.5,315,15.5415181973573,93.3156622550499,"Summer",39846
+2,-122.36207,47.469266,"AHY",2013,"Ixoreus naevius naevius","Ixoreus_naevius",67.6,NA,"male",11.6,835,5.94739566125503,66.4892014149295,"Winter",39652
+4,-149.9495,61.1665277778,"u ad.",1958,"Ixoreus naevius meruloides","Ixoreus_naevius",67.6,NA,"male",2.1,391,9.18468339633485,78.3492623712058,"Spring",39660
+3,-122.229382,37.867099,"u ad.",1921,"Ixoreus naevius naevius","Ixoreus_naevius",67.8,NA,"female",13.6,620,3.37749907475931,136.388152959723,"Spring",39569
+1,-124.1530252,41.104244,"u ad.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",67.8,NA,"female",11.2,1645,2.83114443076979,99.0694154330484,"Winter",39588
+7,-117.3669,45.2558,"imm.",1938,"Ixoreus naevius meruloides","Ixoreus_naevius",68,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",39696
+2,-122.00523,37.81432,"adult",2003,"Ixoreus naevius","Ixoreus_naevius",68.4,NA,"male",15.1,523,4.85357568908706,115.919879523924,"Winter",39828
+1,-117.164293,46.730767,NA,1974,"Ixoreus naevius","Ixoreus_naevius",68.8,NA,"male",8.5,497,7.65899649253917,77.7730123127527,"Winter",39627
+11,-124.0816666667,40.8666666667,"immature",1987,"Ixoreus naevius","Ixoreus_naevius",68.8,257,"male",12.3,1004,2.43565684003807,121.13429630367,"Fall",39842
+11,-122.6160965,38.7523041,NA,1990,"Ixoreus naevius","Ixoreus_naevius",69,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Fall",39536
+10,-118.681281,38.412435,"AHY",2012,"Ixoreus naevius meruloides","Ixoreus_naevius",69,NA,"male",8.8,186,7.70778826901725,81.0534576697119,"Fall",39651
+11,-122.00016,37.8455,"adult",2002,"Ixoreus naevius","Ixoreus_naevius",69,NA,"male",14.7,516,4.67724180571102,176.06732927992,"Fall",39825
+3,-117.179457,46.728691,NA,1960,"Ixoreus naevius","Ixoreus_naevius",69.1,243,"female",8,595,8.25056471896428,62.0835874784356,"Spring",39511
+12,-122.68385,38.05035,"unknown",2007,"Ixoreus naevius","Ixoreus_naevius",69.35,250,"female",14.3,639,4.01213122538346,133.379258958668,"Winter",39769
+6,-130.014,55.917,"HY",1997,"Ixoreus naevius","Ixoreus_naevius",69.5,NA,"undetermined",5.8,1970,6.69902751874999,54.568761871554,"Summer",39605
+9,-147.8043,64.857,"U",1992,"Ixoreus naevius","Ixoreus_naevius",69.5,NA,"male",-3,328,13.7031156598738,72.8776631776709,"Fall",39739
+5,-149.6191666667,61.5313888889,"u ad.",1955,"Ixoreus naevius meruloides","Ixoreus_naevius",69.6,NA,"male",-0.1,517,10.5550612590273,71.0931953759275,"Spring",39658
+8,-147.8043,64.857,"U",1997,"Ixoreus naevius","Ixoreus_naevius",69.7,NA,"female",-1.3,187,14.6991960200673,97.0828472046794,"Summer",39727
+3,-122.43618,37.75113,"U-Ad.",1974,"Ixoreus naevius meruloides","Ixoreus_naevius",69.7,NA,"female",13.3,485,2.63346758384293,109.168705777336,"Spring",39752
+3,-117.164293,46.730767,NA,2002,"Ixoreus naevius","Ixoreus_naevius",69.8,NA,"male",8.4,428,7.24938868896105,59.6362615737021,"Spring",39504
+11,-117.164293,46.730767,NA,1985,"Ixoreus naevius","Ixoreus_naevius",69.9,NA,"male",6.5,398,9.78626124170559,50.4655094456465,"Fall",39637
+2,-122.56585,37.96167,"U-Ad.",1953,"Ixoreus naevius","Ixoreus_naevius",69.9,NA,"female",14.1,658,3.40297329885606,119.095429144897,"Winter",39798
+2,-117.164293,46.730767,NA,1993,"Ixoreus naevius","Ixoreus_naevius",70,NA,"male",8,450,8.12597779664178,64.9375768633916,"Winter",39528
+7,-115.733,48.8933,"unknown",1966,"Ixoreus naevius ssp.","Ixoreus_naevius",70,NA,"male",3.5,878,7.15496754751974,70.8026421177941,"Summer",39673
+10,-123.067661,49.319618,NA,1984,"Ixoreus naevius","Ixoreus_naevius",70,236,"male",9.9,1943,5.34831465949505,61.7649134935635,"Fall",39853
+12,-123.113521,49.261096,NA,1993,"Ixoreus naevius","Ixoreus_naevius",70,210,"female",10.4,1044,6.01731718131977,65.7012210860907,"Winter",39856
+2,-122.70606,37.94474,"unknown",2007,"Ixoreus naevius","Ixoreus_naevius",70.14,223,"female",13.4,529,2.98981858170611,126.875378939688,"Winter",39832
+1,-122.50966,37.97559,"U-Ad",2002,"Ixoreus naevius","Ixoreus_naevius",70.2,NA,"female",14.5,862,3.49215571175621,173.120534154938,"Winter",39763
+4,-149.9495,61.1665277778,"u ad.",1958,"Ixoreus naevius meruloides","Ixoreus_naevius",70.5,NA,"male",2.1,391,9.18468339633485,78.3492623712058,"Spring",39543
+7,-115.733,48.8933,"u ad.",1966,"Ixoreus naevius meruloides","Ixoreus_naevius",70.5,NA,"male",3.5,878,7.15496754751974,70.8026421177941,"Summer",39666
+4,-149.8172222222,61.195,"sk.doubled",1958,"Ixoreus naevius meruloides","Ixoreus_naevius",70.6,NA,"male",1.9,389,9.26009277393149,84.5454256248251,"Spring",39659
+1,-122.902595,47.043084,NA,1979,"Ixoreus naevius naevius","Ixoreus_naevius",70.6,NA,"female",10.7,1179,5.78264776305069,92.797238227145,"Winter",39680
+11,-123.159051,49.336463,"immature",1961,"Ixoreus naevius","Ixoreus_naevius",70.9,NA,"male",10.8,1822,5.58797410028487,69.6193674521104,"Fall",39848
+4,-149.9495,61.1665277778,"sk.doubled",1958,"Ixoreus naevius meruloides","Ixoreus_naevius",71,NA,"male",2.1,391,9.18468339633485,78.3492623712058,"Spring",39544
+11,-122.796934,39.2697931,"skull windows anteriorly",1981,"Ixoreus naevius ssp.","Ixoreus_naevius",71,NA,"male",13.8,1503,6.3382616391295,108.109552193457,"Fall",39674
+2,-124.0816666667,40.8666666667,NA,1988,"Ixoreus naevius","Ixoreus_naevius",71,288,"undetermined",11.7,910,2.36136837576449,117.736406577015,"Winter",39843
+7,-115.7236,47.5169,"u ad.",1932,"Ixoreus naevius meruloides","Ixoreus_naevius",71.1,NA,"female",2.9,1549,8.33104817153062,74.7674560661949,"Summer",39572
+6,-154.8880555556,59.8252777778,"sk.double",1958,"Ixoreus naevius meruloides","Ixoreus_naevius",71.2,NA,"male",2.4,672,7.73426065495519,76.098033921904,"Summer",39545
+9,-124.0816666667,40.8666666667,NA,1987,"Ixoreus naevius","Ixoreus_naevius",71.2,226,"male",12.3,1004,2.43565684003807,121.13429630367,"Fall",39779
+6,-115.9446,48.2631,"u ad.",1966,"Ixoreus naevius meruloides","Ixoreus_naevius",71.5,NA,"male",6,1261,7.35574399343599,76.037495097777,"Summer",39663
+1,-122.2377,37.87438,"skull",2007,"Ixoreus naevius","Ixoreus_naevius",71.5,NA,"female",13.7,422,3.74856538214854,123.585266709707,"Winter",39682
+10,-123.250567,49.263456,"immature",1992,"Ixoreus naevius naevius","Ixoreus_naevius",71.5,7218,"male",11.2,1221,5.39281227583756,79.9848511224388,"Fall",39857
+5,-131.619,55.331,"AHY",1999,"Ixoreus naevius","Ixoreus_naevius",71.6,NA,"male",6.8,3526,4.38682600797461,34.4115989845126,"Spring",39718
+1,-119.768097,46.264318,NA,1984,"Ixoreus naevius","Ixoreus_naevius",71.7,NA,"female",10.1,228,8.15506906869289,84.444973918612,"Winter",39638
+5,-161.7933,60.7043,"sk.double",1956,"Ixoreus naevius meruloides","Ixoreus_naevius",72,NA,"male",-4,348,13.3921845141338,84.1012928813907,"Spring",39541
+10,-122.30141,37.9098792,"u ad.",1977,"Ixoreus naevius ssp.","Ixoreus_naevius",72,NA,"male",14,389,2.87353388177292,112.819634838908,"Fall",39671
+1,-122.604134,37.903803,"skull ossified",2010,"Ixoreus naevius naevius","Ixoreus_naevius",72.1,NA,"female",13.8,1533,3.40996756405084,103.297288179523,"Winter",39685
+2,-123.067661,49.319618,NA,1987,"Ixoreus naevius","Ixoreus_naevius",72.1,186,"male",11.2,1302,5.1090828210871,68.7940716601333,"Winter",39791
+11,-118.28825,33.7360463,NA,1991,"Ixoreus naevius","Ixoreus_naevius",72.5,NA,"undetermined",16.6,347,2.45190093230093,162.059394238476,"Fall",39643
+11,-122.2483,37.89896,"adult",2002,"Ixoreus naevius","Ixoreus_naevius",72.7,NA,"male",14.1,676,3.7913777778725,169.972082037107,"Fall",39824
+6,-122.0024912,44.502946,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",72.8,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",39582
+5,-117.164293,46.730767,NA,1989,"Ixoreus naevius","Ixoreus_naevius",72.8,NA,"female",8.3,540,7.89573628708251,65.7785967734981,"Spring",39639
+11,-122.72351,38.0672,"Adult",1999,"Ixoreus naevius","Ixoreus_naevius",72.8,NA,"male",13.7,717,3.76221243741531,113.473936605612,"Fall",39768
+1,-122.50468,37.97732,"SY",2007,"Ixoreus naevius","Ixoreus_naevius",72.8,211,"male",14.2,536,3.81705701325304,133.957640296305,"Winter",39773
+10,-120.3101376,39.5460862,"imm.sk.",1964,"Ixoreus naevius meruloides","Ixoreus_naevius",73.1,NA,"male ?",5.5,930,6.83974015987051,170.989956682023,"Fall",39667
+2,-122.3320708,47.6062095,NA,1996,"Ixoreus naevius","Ixoreus_naevius",73.1,NA,"female",11.1,1157,5.28382322554302,72.9863859413858,"Winter",39741
+11,-120.64257,38.7681,"imm.",1916,"Ixoreus naevius meruloides","Ixoreus_naevius",73.2,NA,"female",13.1,1368,7.1031523091704,139.916071934976,"Fall",39687
+10,-122.263077,37.871057,"skull ossified",2008,"Ixoreus naevius meruloides","Ixoreus_naevius",73.4,NA,"female",14,449,3.49687089561597,172.653211128931,"Fall",39681
+3,-121.9927864,41.6623745,"immature",1961,"Ixoreus naevius","Ixoreus_naevius",73.5,NA,"male",8.5,486,7.47255077945377,67.0908552272247,"Spring",39535
+1,-123.63744,41.00125,"u ad.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",73.5,NA,"male",13.6,1656,5.8233854570875,106.967375578906,"Winter",39710
+9,-117.179457,46.728691,NA,1992,"Ixoreus naevius","Ixoreus_naevius",73.5,NA,"female",9.9,428,7.29924757434046,54.6314449832959,"Fall",39740
+8,-117.298473,46.815477,"Ad",1970,"Ixoreus naevius","Ixoreus_naevius",73.6,252,"female",8.6,560,7.79945608049146,81.8189548510173,"Summer",39514
+6,-122.0024912,44.502946,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",73.6,NA,"female",7.8,1996,5.38912344590023,73.3039481563502,"Summer",39706
+6,-122.0024912,44.502946,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",73.7,NA,"male",7.8,1996,5.38912344590023,73.3039481563502,"Summer",39583
+9,-123.88759,40.77914,"u imm.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",73.7,NA,"undetermined",12,1606,3.98157689181743,97.2485971118486,"Fall",39593
+1,-117.164293,46.730767,NA,1974,"Ixoreus naevius","Ixoreus_naevius",73.8,NA,"female",8.5,497,7.65899649253917,77.7730123127527,"Winter",39626
+6,-134.6722,58.3611,"HY",2002,"Ixoreus naevius","Ixoreus_naevius",73.8,NA,"undetermined",6.1,1231,5.69297813099611,44.734557531558,"Summer",39728
+7,-115.733,48.8933,"u ad.",1966,"Ixoreus naevius meruloides","Ixoreus_naevius",74,NA,"male",3.5,878,7.15496754751974,70.8026421177941,"Summer",39547
+12,-122.70639,37.94474,"U",2003,"Ixoreus naevius","Ixoreus_naevius",74.42,208,"male",14,852,2.84012110283838,130.473696184878,"Winter",39775
+10,-117.7550697,35.2118254,NA,1998,"Ixoreus naevius meruloides","Ixoreus_naevius",74.5,NA,"female",15.7,233,7.57291825580409,173.513650846451,"Fall",39645
+7,-115.7236,47.5169,"u ad.",1932,"Ixoreus naevius meruloides","Ixoreus_naevius",74.5,NA,"female",2.9,1549,8.33104817153062,74.7674560661949,"Summer",39693
+3,-123.250567,49.263456,NA,1982,"Ixoreus naevius","Ixoreus_naevius",74.5,245,"male",9.8,1345,5.79348510803037,71.8991853806993,"Spring",39785
+10,-123.250567,49.263456,NA,1985,"Ixoreus naevius","Ixoreus_naevius",74.6,200,"male",9.1,868,6.55290821396165,76.1255528803785,"Fall",39786
+6,-161.7661111111,60.7080555556,"sk.double",1956,"Ixoreus naevius meruloides","Ixoreus_naevius",74.7,NA,"male",-4,348,13.3848031194132,84.1012928813907,"Summer",39542
+10,-117.165636,46.72953,NA,2012,"Ixoreus naevius","Ixoreus_naevius",74.8,NA,"male",9.3,600,7.58085207491995,61.271378458313,"Fall",39509
+10,-117.20894,46.824342,NA,1994,"Ixoreus naevius","Ixoreus_naevius",74.8,NA,"female",9.4,504,8.04296700116432,86.319969527551,"Fall",39530
+6,-115.9446,48.2631,"u ad.",1966,"Ixoreus naevius meruloides","Ixoreus_naevius",74.8,NA,"female",6,1261,7.35574399343599,76.037495097777,"Summer",39548
+5,-145.8828,60.4478,NA,1985,"Ixoreus naevius","Ixoreus_naevius",74.8,NA,"male",5.2,3133,5.60537485568336,71.8847862444149,"Spring",39793
+2,-117.164293,46.730767,NA,1996,"Ixoreus naevius","Ixoreus_naevius",75,NA,"male",8.2,774,7.91608929314025,71.5732167831782,"Winter",39532
+3,-123.3326582,38.5671562,NA,1997,"Ixoreus naevius meruloides","Ixoreus_naevius",75,NA,"female",13,1056,2.64414733922207,119.514917063518,"Spring",39646
+11,-122.6160965,38.7523041,NA,1990,"Ixoreus naevius","Ixoreus_naevius",75,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Fall",39648
+12,-122.17968,37.90681,"u ad.",1974,"Ixoreus naevius ssp.","Ixoreus_naevius",75,NA,"male",14,547,4.39575380511142,112.727166481024,"Winter",39670
+5,-152.406,57.79,"AD",2008,"Ixoreus naevius","Ixoreus_naevius",75,NA,"male",4.4,1386,5.26799225742051,26.706213860254,"Spring",39732
+11,-123.159051,49.336463,NA,1982,"Ixoreus naevius","Ixoreus_naevius",75,241,"male",9.8,1687,5.81150243965023,71.2774350641607,"Fall",39850
+12,-122.4958,38.6278,"U-Ad",1967,"Ixoreus naevius naevius","Ixoreus_naevius",75.02,NA,"male",14.5,1104,6.29826214606903,139.728239539916,"Winter",39819
+11,-118.3742523,33.7717275,NA,2001,"Ixoreus naevius","Ixoreus_naevius",75.1,NA,"male",15,505,2.6866674186028,146.791377437019,"Fall",39537
+11,-122.2634126,37.8725859,"small to medium skull windows",1998,"Ixoreus naevius naevius ?","Ixoreus_naevius",75.2,NA,"male",13.8,846,3.10800530400078,145.880474196638,"Fall",39555
+10,-119.453197,46.91317,NA,2011,"Ixoreus naevius","Ixoreus_naevius",75.2,NA,"female",10.1,169,8.53893045605439,61.0817860441876,"Fall",39620
+12,-122.24769,37.86969,"u ad.",1941,"Ixoreus naevius meruloides","Ixoreus_naevius",75.2,NA,"female",14.1,981,2.51811617899355,101.434719416689,"Winter",39711
+5,-123.9603,45.7833,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",75.5,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",39577
+8,-131.619,55.331,"AD",2000,"Ixoreus naevius","Ixoreus_naevius",75.5,NA,"male",7.2,3020,4.85863804335779,37.2454760329806,"Summer",39602
+11,-122.9958917,38.5020724,"small to medium skull windows",1998,"Ixoreus naevius ssp.","Ixoreus_naevius",75.5,NA,"male",13.7,1777,3.8816194683366,143.758635200237,"Fall",39675
+1,-120.54143,40.50179,"u ad.",1943,"Ixoreus naevius meruloides","Ixoreus_naevius",75.5,NA,"male",8.5,479,7.14632242782428,120.783427520651,"Winter",39714
+11,-122.8558,38.1011,"u ad.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",75.6,NA,"female",12.5,997,2.09797882532574,90.5300675178325,"Fall",39596
+8,-151.507,59.646,"U",2004,"Ixoreus naevius","Ixoreus_naevius",75.6,NA,"male",4.5,607,6.67130331185653,78.6882710062699,"Summer",39609
+4,-131.619,55.331,"AD",1995,"Ixoreus naevius","Ixoreus_naevius",75.7,NA,"female",8.4,2460,5.14347924929019,65.2927845230024,"Spring",39613
+11,-122.56585,37.96167,"U-Ad.",1952,"Ixoreus naevius","Ixoreus_naevius",75.7,NA,"male",13.6,1295,3.98781287363782,142.246179414597,"Fall",39796
+11,-117.164293,46.730767,NA,1985,"Ixoreus naevius","Ixoreus_naevius",76,NA,"male",6.5,398,9.78626124170559,50.4655094456465,"Fall",39521
+11,-122.6160965,38.7523041,NA,1990,"Ixoreus naevius","Ixoreus_naevius",76,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Fall",39538
+7,-131.9167,57.1833,"juv.",1919,"Ixoreus naevius meruloides","Ixoreus_naevius",76,NA,"female",1.9,1670,8.58598223321542,50.7372885941423,"Summer",39565
+11,-122.6160965,38.7523041,NA,1990,"Ixoreus naevius","Ixoreus_naevius",76,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Fall",39642
+7,-114.61357,46.57761,"U-Ad.",1948,"Ixoreus naevius meruloides","Ixoreus_naevius",76,NA,"male",3.9,1336,8.61631204944049,65.8577464756773,"Summer",39744
+9,-123.250567,49.263456,"immature",1986,"Ixoreus naevius","Ixoreus_naevius",76,220,"female",10.6,1293,5.12737010975649,64.5036343537564,"Fall",39789
+12,-122.2715302,37.8697904,"u ad.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",76.2,NA,"female",13.5,650,2.44589947512653,87.8668854818576,"Winter",39713
+2,-124.053082,46.352016,NA,2011,"Ixoreus naevius","Ixoreus_naevius",76.2,NA,"male",9.2,1970,4.08755502233377,68.4838293281308,"Winter",39777
+11,-122.53474,37.93805,"U-Ad.",1987,"Ixoreus naevius","Ixoreus_naevius",76.3,NA,"male",14.8,818,3.45670187878386,118.374438283277,"Fall",39760
+8,-124.0816666667,40.8666666667,"adult",1987,"Ixoreus naevius","Ixoreus_naevius",76.3,213,"female",12.3,1004,2.43565684003807,121.13429630367,"Summer",39841
+12,-117.184639,46.643124,NA,1990,"Ixoreus naevius","Ixoreus_naevius",76.5,NA,"male",9.4,576,8.18661139059416,59.0490711415193,"Winter",39524
+8,-131.9167,57.1833,"u ad.",1919,"Ixoreus naevius meruloides","Ixoreus_naevius",76.5,NA,"male",1.9,1670,8.58598223321542,50.7372885941423,"Summer",39566
+5,-123.9603,45.7833,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",76.5,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",39704
+3,-123.0019347,38.4546707,"u ad.",1936,"Ixoreus naevius naevius","Ixoreus_naevius",76.5,NA,"female",13.7,1169,3.09427624082684,147.244660414605,"Spring",39784
+11,-122.127884,37.8305356,"imm.",1919,"Ixoreus naevius meruloides","Ixoreus_naevius",76.6,NA,"male",13.2,542,3.83591480930461,160.960883503472,"Fall",39688
+1,-120.54143,40.50179,"u ad.",1943,"Ixoreus naevius meruloides","Ixoreus_naevius",76.7,NA,"male",8.5,479,7.14632242782428,120.783427520651,"Winter",39597
+12,-122.237843,37.883602,"u ad.",1928,"Ixoreus naevius meruloides","Ixoreus_naevius",76.7,NA,"female",13.3,548,3.1681535584149,121.735897325392,"Winter",39700
+12,-122.9225696,39.4645693,"sk.oss.",1979,"Ixoreus naevius ssp.","Ixoreus_naevius",77,NA,"male",12.9,1717,6.58082614321885,98.8925881287596,"Winter",39551
+7,-115.733,48.8933,"unknown",1966,"Ixoreus naevius ssp.","Ixoreus_naevius",77,NA,"undetermined",3.5,878,7.15496754751974,70.8026421177941,"Summer",39552
+1,-117.179457,46.728691,NA,1975,"Ixoreus naevius","Ixoreus_naevius",77,NA,"female",7.5,661,7.79718286344886,57.1700607954943,"Winter",39629
+8,-131.9167,57.1833,"juv.",1919,"Ixoreus naevius meruloides","Ixoreus_naevius",77,NA,"female",1.9,1670,8.58598223321542,50.7372885941423,"Summer",39689
+2,-122.56585,37.96167,"U-Ad.",1953,"Ixoreus naevius","Ixoreus_naevius",77,NA,"male",14.1,658,3.40297329885606,119.095429144897,"Winter",39745
+7,-131.619,55.331,"AHY",2000,"Ixoreus naevius","Ixoreus_naevius",77.1,NA,"male",7.2,3020,4.85863804335779,37.2454760329806,"Summer",39606
+12,-122.87111,38.11444,"U-Ad.",1977,"Ixoreus naevius","Ixoreus_naevius",77.1,NA,"undetermined",12.9,634,2.80792978846867,111.961245369751,"Winter",39761
+12,-122.4958,38.6278,"U-Ad",1967,"Ixoreus naevius naevius","Ixoreus_naevius",77.2,NA,"male",14.5,1104,6.29826214606903,139.728239539916,"Winter",39818
+10,-117.164293,46.730767,NA,1991,"Ixoreus naevius","Ixoreus_naevius",77.3,NA,"male",8.9,481,7.10548230508519,70.4790903845913,"Fall",39527
+4,-117.179457,46.728691,NA,1954,"Ixoreus naevius","Ixoreus_naevius",77.3,243,"female",8,494,6.54385554963933,45.8375419667282,"Spring",39624
+12,-122.18468,37.83228,"skull ossified",2005,"Ixoreus naevius ssp.","Ixoreus_naevius",77.4,NA,"male",14.3,925,3.52354633684287,121.795871897678,"Winter",39560
+2,-122.56585,37.96167,"U-Ad.",1953,"Ixoreus naevius","Ixoreus_naevius",77.4,NA,"male",14.1,658,3.40297329885606,119.095429144897,"Winter",39800
+11,-117.164293,46.730767,NA,2000,"Ixoreus naevius","Ixoreus_naevius",77.5,NA,NA,8,488,7.60997650615575,51.370149069926,"Fall",39617
+1,-122.277108,37.871028,"u ad.",1941,"Ixoreus naevius meruloides","Ixoreus_naevius",77.5,NA,"male",14.4,851,2.13435108298859,102.659799643576,"Winter",39698
+6,-121.7789,44.7692,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",77.6,NA,"male",5,1853,5.31555749805714,67.9202443385519,"Summer",39708
+1,-122.27,37.88,"adult",1946,"Ixoreus naevius meruloides","Ixoreus_naevius",77.6,NA,"male",13.1,318,3.32875443080532,108.900337336287,"Winter",39845
+4,-123.4853,40.34014,"u ad.",1930,"Ixoreus naevius naevius","Ixoreus_naevius",77.7,NA,"female",10.7,1122,5.89650641302016,102.802179228652,"Spring",39573
+5,-123.8816,45.9264,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",77.7,NA,"female",11,2337,3.8816194683366,70.8959657856833,"Spring",39581
+6,-121.7789,44.7692,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",77.7,NA,"male",5,1853,5.31555749805714,67.9202443385519,"Summer",39586
+4,-117.179457,46.728691,NA,1980,"Ixoreus naevius","Ixoreus_naevius",77.7,NA,"male",8.2,589,7.00945249234377,53.9484446344293,"Spring",39630
+2,-122.70639,37.94474,"U",2011,"Ixoreus naevius","Ixoreus_naevius",77.7,208,"female",13.2,594,2.9165541103823,123.506339323331,"Winter",39839
+3,-122.56585,37.96167,"U-Ad.",1953,"Ixoreus naevius","Ixoreus_naevius",77.8,NA,"female",14.1,658,3.40297329885606,119.095429144897,"Spring",39801
+12,-123.00996,38.46783,"U-Ad.",1975,"Ixoreus naevius","Ixoreus_naevius",77.9,NA,"male",12.5,1165,3.8935455525391,133.931110236024,"Winter",39749
+7,-115.733,48.8933,"u ad.",1966,"Ixoreus naevius meruloides","Ixoreus_naevius",78,NA,"female",3.5,878,7.15496754751974,70.8026421177941,"Summer",39550
+10,-124.0856514,41.9304832,"adult skull",1998,"Ixoreus naevius meruloides","Ixoreus_naevius",78,NA,"female",11.9,3825,4.74459022083429,105.637425083038,"Fall",39556
+12,-122.1173979,37.1273854,"u ad.",1940,"Ixoreus naevius naevius","Ixoreus_naevius",78,NA,"female",14.3,2044,2.89508465360085,126.558680265418,"Winter",39574
+10,-118.2940292,37.1661072,NA,1994,"Ixoreus naevius meruloides","Ixoreus_naevius",78,NA,"male",14.3,108,8.85510895164224,89.7683763454298,"Fall",39649
+10,-118.34507,35.4793329,"imm.",1933,"Ixoreus naevius meruloides","Ixoreus_naevius",78,NA,"male",8.2,270,8.08346610325201,165.121056109658,"Fall",39847
+4,-122.972377,49.247638,"adult",1989,"Ixoreus naevius","Ixoreus_naevius",78,234,"male",10.5,1375,5.85948467069081,65.7631429998553,"Spring",39855
+4,-131.7166,55.3441,"AHY",2001,"Ixoreus naevius","Ixoreus_naevius",78.1,NA,"male",6.7,3695,4.62492424180378,40.8023229766941,"Spring",39607
+1,-117.179457,46.728691,NA,1975,"Ixoreus naevius","Ixoreus_naevius",78.2,NA,"male",7.5,661,7.79718286344886,57.1700607954943,"Winter",39628
+12,-119.762121,46.207557,NA,1990,"Ixoreus naevius","Ixoreus_naevius",78.3,NA,"male",11.9,148,8.47094857126223,73.6900415650722,"Winter",39619
+2,-122.859,38.09972,"U",2007,"Ixoreus naevius","Ixoreus_naevius",78.3,215,"male",13,574,3.16337947407036,129.081732824059,"Winter",39838
+11,-117.179457,46.728691,NA,1971,"Ixoreus naevius","Ixoreus_naevius",78.4,237,"male",8.1,663,7.58329004316648,44.776639089984,"Fall",39513
+7,-162.3483,67.9233,"immature",1961,"Ixoreus naevius","Ixoreus_naevius",78.4,NA,"male",-7.5,314,15.5868898874547,93.6087090267732,"Summer",39534
+5,-117.165649,46.729529,NA,1980,"Ixoreus naevius","Ixoreus_naevius",78.5,NA,"male",8.2,603,7.01497856321915,54.0572222661596,"Spring",39631
+5,-152.406,57.79,"AHY",2001,"Ixoreus naevius","Ixoreus_naevius",78.5,NA,"male",5.6,1437,5.35856719881746,45.0913096802335,"Spring",39721
+9,-147.8043,64.857,"HY",2002,"Ixoreus naevius","Ixoreus_naevius",78.6,NA,"male",-0.4,294,11.9405598569317,118.023795809022,"Fall",39608
+11,-119.101006,46.239616,NA,1998,"Ixoreus naevius","Ixoreus_naevius",78.6,NA,"male",13.1,195,8.1687273219643,74.5017518413769,"Fall",39622
+5,-145.8828,60.4478,NA,1985,"Ixoreus naevius","Ixoreus_naevius",78.6,NA,"male",5.2,3133,5.60537485568336,71.8847862444149,"Spring",39792
+6,-154.8880555556,59.8252777778,"u ad.",1959,"Ixoreus naevius meruloides","Ixoreus_naevius",78.7,NA,"male",1,484,9.39869026981306,69.2549252244065,"Summer",39661
+10,-117.164293,46.730767,NA,1994,"Ixoreus naevius","Ixoreus_naevius",78.8,NA,"male",9.4,491,8.01042880855761,84.5443613966003,"Fall",39531
+6,-121.7864,44.8072,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",78.8,NA,"female",5.6,1816,5.39036739063866,69.978304307899,"Summer",39709
+1,-122.50468,37.97732,"SY",2007,"Ixoreus naevius","Ixoreus_naevius",79,225,"male",14.2,536,3.81705701325304,133.957640296305,"Winter",39774
+7,-115.733,48.8933,"sk.double",1966,"Ixoreus naevius meruloides","Ixoreus_naevius",79.1,NA,"male",3.5,878,7.15496754751974,70.8026421177941,"Summer",39664
+1,-122.25153,37.87816,"ad.",1929,"Ixoreus naevius naevius","Ixoreus_naevius",79.1,NA,"female",13.7,283,3.64940842030346,119.325256709486,"Winter",39694
+6,-162.3166667,67.9333333,"u ad.",1961,"Ixoreus naevius meruloides","Ixoreus_naevius",79.1,NA,"female",-7.5,315,15.5415181973573,93.3156622550499,"Summer",39781
+6,-130.014,55.917,"U",1997,"Ixoreus naevius","Ixoreus_naevius",79.2,NA,"male",5.8,1970,6.69902751874999,54.568761871554,"Summer",39600
+12,-120.0705,40.31451,"u ad.",1924,"Ixoreus naevius meruloides","Ixoreus_naevius",79.3,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",39571
+5,-123.9603,45.7833,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",79.4,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",39701
+8,-131.619,55.331,"HY",2000,"Ixoreus naevius","Ixoreus_naevius",79.5,NA,"male",7.2,3020,4.85863804335779,37.2454760329806,"Summer",39603
+4,-131.619,55.331,"AD",1996,"Ixoreus naevius","Ixoreus_naevius",79.7,NA,"female",6.6,2564,5.77932574446242,50.8619060522427,"Spring",39612
+6,-122.2900123,42.7531053,"ad.sk.",1964,"Ixoreus naevius naevius","Ixoreus_naevius",79.8,NA,"male",5.9,1881,6.65602370151666,144.565746680807,"Summer",39546
+5,-123.9603,45.7833,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",79.8,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",39578
+5,-117.179457,46.728691,NA,1982,"Ixoreus naevius","Ixoreus_naevius",80,NA,NA,7.7,624,7.93245634317414,47.5084650830297,"Spring",39518
+10,-117.20894,46.824342,NA,1991,"Ixoreus naevius","Ixoreus_naevius",80,NA,"male",8.9,490,7.14338006743858,69.8583701827885,"Fall",39529
+11,-122.5606,37.9747,"u ad.",1937,"Ixoreus naevius meruloides","Ixoreus_naevius",80,NA,"male",13.8,1162,4.02683235159831,107.443347349164,"Fall",39695
+1,-122.87111,38.11444,"U-Ad.",1978,"Ixoreus naevius","Ixoreus_naevius",80.03,NA,"undetermined",13.2,827,3.04823595284919,135.245894958586,"Winter",39814
+1,-122.96903,47.07426,NA,1979,"Ixoreus naevius naevius","Ixoreus_naevius",80.1,NA,"undetermined",10.6,1195,5.78977677907492,93.2745817935467,"Winter",39559
+2,-122.2574231,37.871928,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",80.2,NA,"female",14.3,918,2.3683519394488,102.023991256098,"Winter",39575
+6,-122.0024912,44.502946,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",80.3,NA,"female",7.8,1996,5.38912344590023,73.3039481563502,"Summer",39707
+1,-117.20894,46.824342,NA,1974,"Ixoreus naevius","Ixoreus_naevius",80.4,NA,"female",8.5,517,7.68131834486447,78.5711914086713,"Winter",39635
+11,-122.26422,37.38635,"Adult",2000,"Ixoreus naevius","Ixoreus_naevius",80.45,235,"male",14.7,1113,3.78140385987997,132.388252558964,"Fall",39836
+11,-122.870041,38.1146453,"u ad.",1977,"Ixoreus naevius ssp.","Ixoreus_naevius",80.5,NA,"male",12.9,634,2.80792978846867,111.961245369751,"Fall",39668
+3,-117.164293,46.730767,NA,1991,"Ixoreus naevius","Ixoreus_naevius",80.6,NA,"male",8.9,481,7.10548230508519,70.4790903845913,"Spring",39526
+12,-122.56201,37.91132,"U-Ad.",1973,"Ixoreus naevius","Ixoreus_naevius",80.6,NA,"female",13.8,1581,3.27478891292896,133.073685580718,"Winter",39802
+2,-117.1625,46.730636,NA,1983,"Ixoreus naevius","Ixoreus_naevius",80.7,NA,"male",8.6,654,7.14721814923312,51.8771001530378,"Winter",39519
+6,-115.9446,48.2631,"unknown",1966,"Ixoreus naevius ssp.","Ixoreus_naevius",80.8,NA,"undetermined",6,1261,7.35574399343599,76.037495097777,"Summer",39553
+8,-147.8043,64.857,"HY",2004,"Ixoreus naevius","Ixoreus_naevius",80.9,NA,"undetermined",-1.3,208,15.1257431572999,73.097771959685,"Summer",39729
+1,-122.1520166667,37.8655666667,"Adult skull.",2002,"Ixoreus naevius ssp.","Ixoreus_naevius",81,NA,"female",14.1,661,4.26284156189486,172.871928077512,"Winter",39557
+5,-123.8816,45.9264,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",81,NA,"male",11,2337,3.8816194683366,70.8959657856833,"Spring",39580
+8,-151.507,59.646,"U",2004,"Ixoreus naevius","Ixoreus_naevius",81,NA,"male",4.5,607,6.67130331185653,78.6882710062699,"Summer",39726
+10,-118.34507,35.4793329,"ad.",1933,"Ixoreus naevius meruloides","Ixoreus_naevius",81,NA,"male",8.2,270,8.08346610325201,165.121056109658,"Fall",39783
+11,-123.113521,49.261096,NA,1983,"Ixoreus naevius","Ixoreus_naevius",81,245,"male",10.6,1711,5.17238442172086,75.7749642060194,"Fall",39852
+3,-122.78789,38.04042,"U-Ad",1999,"Ixoreus naevius naevius","Ixoreus_naevius",81.1,NA,"female",13,699,3.102149792214,113.088953796809,"Spring",39862
+2,-117.1625,46.730636,NA,1982,"Ixoreus naevius","Ixoreus_naevius",81.3,NA,"female",7.6,636,7.92790908274322,45.8176798771481,"Winter",39517
+3,-121.9465328,39.2403281,"u ad.",1923,"Ixoreus naevius naevius","Ixoreus_naevius",81.3,NA,"female",15.3,216,6.77828529313657,112.391611335281,"Spring",39690
+9,-147.8043,64.857,"HY",2005,"Ixoreus naevius","Ixoreus_naevius",81.3,NA,"undetermined",-1.1,312,14.3955380292476,110.675682190574,"Fall",39734
+12,-122.54679,37.90672,"U-Ad.",1977,"Ixoreus naevius","Ixoreus_naevius",81.4,NA,"female",13.8,641,3.0566866593312,117.214655944476,"Winter",39753
+2,-117.164293,46.730767,NA,1996,"Ixoreus naevius","Ixoreus_naevius",81.5,NA,"female",8.2,774,7.91608929314025,71.5732167831782,"Winter",39641
+12,-117.163002,46.72998,NA,1988,"Ixoreus naevius","Ixoreus_naevius",81.6,NA,"male",9,498,7.38749967953648,64.3030274674913,"Winter",39523
+8,-124.1323646,41.1604001,"ad.",1949,"Ixoreus naevius naevius","Ixoreus_naevius",81.6,NA,"female",10.5,1001,3.39250510818936,97.8424523869778,"Summer",39653
+3,-122.483981,48.759384,NA,2011,"Ixoreus naevius","Ixoreus_naevius",81.6,NA,"male",9.2,962,5.22026209721661,61.79779038032,"Spring",39778
+12,-122.483981,48.759384,NA,2010,"Ixoreus naevius","Ixoreus_naevius",81.6,NA,"male",10.2,980,4.13026523471446,54.5965268661414,"Winter",39840
+1,-117.179457,46.728691,NA,1949,"Ixoreus naevius","Ixoreus_naevius",81.8,257,"male",7.8,419,9.40175273794491,73.0522944114195,"Winter",39623
+2,-122.56468,37.96332,"U-Ad.",1953,"Ixoreus naevius","Ixoreus_naevius",81.9,NA,"female",14.1,652,3.40956764343392,119.472968531757,"Winter",39799
+3,-122.9267405,39.4351551,"skull ossified",1981,"Ixoreus naevius ssp.","Ixoreus_naevius",82,NA,"female",12.9,1508,5.98332911285409,107.784286162652,"Spring",39554
+1,-122.7453948,38.0240367,"u ad.",1978,"Ixoreus naevius ssp.","Ixoreus_naevius",82,NA,"female",14.1,1005,3.66800251148257,152.197541174892,"Winter",39669
+12,-122.56067,37.96553,"U-Ad",2001,"Ixoreus naevius","Ixoreus_naevius",82,NA,"female",14.7,1246,3.80313865594769,131.694235049991,"Winter",39822
+9,-149.9,61.218,"immature",2007,"Ixoreus naevius naevius","Ixoreus_naevius",82,NA,"female",2.2,371,10.1392875250262,81.6462875266799,"Fall",39860
+4,-122.78498,38.07683,"Adult.",2007,"Ixoreus naevius","Ixoreus_naevius",82.3,NA,"female",13.4,559,3.44896778585692,131.836253639334,"Spring",39776
+12,-117.164293,46.730767,NA,1990,"Ixoreus naevius","Ixoreus_naevius",82.4,NA,"female",9,573,8.21836450588042,60.5834714064507,"Winter",39525
+1,-117.043562,46.436024,NA,1955,"Ixoreus naevius","Ixoreus_naevius",82.5,249,"male",9.6,441,8.72357915842651,61.4631505843924,"Winter",39510
+11,-122.59329,37.92782,"U-Ad.",1976,"Ixoreus naevius","Ixoreus_naevius",82.5,NA,"female",13.5,556,4.22600176397158,82.693869869246,"Fall",39805
+11,-118.34743,46.05875,NA,2006,"Ixoreus naevius","Ixoreus_naevius",82.6,NA,"female",12.3,472,7.88063891426131,70.3839869395591,"Fall",39621
+4,-134.555,58.3449,"AD",2005,"Ixoreus naevius","Ixoreus_naevius",82.6,NA,"male",6.4,2015,5.87807946372097,38.8611785422315,"Spring",39735
+10,-122.10802,37.91851,"U-Ad",2001,"Ixoreus naevius","Ixoreus_naevius",82.7,NA,"female",14.8,745,4.64881868344154,132.196741013528,"Fall",39821
+2,-117.179457,46.728691,NA,2006,"Ixoreus naevius","Ixoreus_naevius",82.8,NA,"male",9.5,567,7.62561472931855,80.2748918274908,"Winter",39507
+7,-114.54816,46.54853,"Ad.",1948,"Ixoreus naevius meruloides","Ixoreus_naevius",82.8,NA,"female",1.9,1619,8.07785506333472,70.8095457515957,"Summer",39743
+7,-162.3166667,67.9333333,"u ad.",1961,"Ixoreus naevius meruloides","Ixoreus_naevius",82.8,NA,"male",-7.5,315,15.5415181973573,93.3156622550499,"Summer",39780
+10,-123.250567,49.263456,NA,1975,"Ixoreus naevius","Ixoreus_naevius",83,NA,"male",9.3,1433,5.6293266188611,85.3237049209375,"Fall",39849
+8,-131.9167,57.1833,"ad.",1919,"Ixoreus naevius meruloides","Ixoreus_naevius",83.5,NA,"female",1.9,1670,8.58598223321542,50.7372885941423,"Summer",39567
+9,-123.88759,40.77914,"u ad.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",83.5,NA,"female",12,1606,3.98157689181743,97.2485971118486,"Fall",39594
+2,-122.55197,38.39569,"U",1995,"Ixoreus naevius","Ixoreus_naevius",83.5,NA,"male",15.7,1550,4.39030440029763,162.879817783008,"Winter",39861
+1,-122.57779,37.9288,"U-Ad.",1978,"Ixoreus naevius","Ixoreus_naevius",83.6,NA,"female",13.7,1617,4.05898740917963,138.137138039475,"Winter",39755
+3,-122.2511303,37.8698538,"u ad.",1917,"Ixoreus naevius meruloides","Ixoreus_naevius",83.7,NA,"female",13.6,293,3.34781701827904,148.420686438282,"Spring",39564
+1,-120.43822,37.52078,"u ad.",1915,"Ixoreus naevius meruloides","Ixoreus_naevius",83.7,NA,"male",16.6,353,6.44614049433669,121.944960269831,"Winter",39686
+9,-135.4642,59.2327,"U",2004,"Ixoreus naevius","Ixoreus_naevius",83.8,NA,"undetermined",6.3,1228,7.46914359619669,73.4075325751574,"Fall",39610
+1,-122.870041,38.1146453,"sk.oss.",1978,"Ixoreus naevius naevius","Ixoreus_naevius",84,NA,"female",13.2,827,3.04823595284919,135.245894958586,"Winter",39672
+9,-147.8043,64.857,"HY",2007,"Ixoreus naevius","Ixoreus_naevius",84,NA,"female",-1.8,315,15.2271960649359,118.659453756455,"Fall",39730
+8,-147.8043,64.857,"AD",1997,"Ixoreus naevius","Ixoreus_naevius",84,NA,"male",-1.3,187,14.6991960200673,97.0828472046794,"Summer",39738
+2,-123.069143,49.324088,"young adult",2004,"Ixoreus naevius","Ixoreus_naevius",84,22.5,"female",11.3,1604,5.33433702676832,51.7693610936018,"Winter",39859
+6,-121.7789,44.7692,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",84.1,NA,"male",5,1853,5.31555749805714,67.9202443385519,"Summer",39587
+10,-117.164293,46.730767,NA,1984,"Ixoreus naevius","Ixoreus_naevius",84.2,NA,"male",7.9,602,7.41503386861633,53.1034086551605,"Fall",39522
+7,-115.733,48.8933,"sk.double",1966,"Ixoreus naevius meruloides","Ixoreus_naevius",84.2,NA,"female",3.5,878,7.15496754751974,70.8026421177941,"Summer",39665
+5,-123.8816,45.9264,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",84.3,NA,"female",11,2337,3.8816194683366,70.8959657856833,"Spring",39579
+1,-132.3,53.37,"AD",2000,"Ixoreus naevius","Ixoreus_naevius",84.3,NA,"female",7.1,1841,4.62020431136848,55.265610268007,"Winter",39601
+9,-133.7,59.5667,"u ad.",1924,"Ixoreus naevius meruloides","Ixoreus_naevius",84.5,NA,"female",-0.3,390,8.84507652809623,42.7361199847268,"Fall",39691
+12,-122.211408,37.882513,"adult",2009,"Ixoreus naevius meruloides","Ixoreus_naevius",84.6,NA,"female",14,665,4.27409391425584,124.462448847627,"Winter",39684
+1,-122.2377,37.87438,"skull ossified",2007,"Ixoreus naevius meruloides","Ixoreus_naevius",84.7,NA,"female",13.7,422,3.74856538214854,123.585266709707,"Winter",39562
+3,-122.57779,37.9288,"U-Ad.",1981,"Ixoreus naevius","Ixoreus_naevius",84.7,NA,"female",14.1,1787,3.57525163344124,120.709885853568,"Spring",39756
+3,-122.56585,37.96167,"U-Ad.",1953,"Ixoreus naevius","Ixoreus_naevius",84.8,NA,"male",14.1,658,3.40297329885606,119.095429144897,"Spring",39746
+8,-131.619,55.331,"HY",2000,"Ixoreus naevius","Ixoreus_naevius",84.9,NA,"male",7.2,3020,4.85863804335779,37.2454760329806,"Summer",39717
+6,-130.014,55.917,"AHY",1997,"Ixoreus naevius","Ixoreus_naevius",85,NA,"female",5.8,1970,6.69902751874999,54.568761871554,"Summer",39615
+1,-122.7878952,38.0404244,NA,1982,"Ixoreus naevius","Ixoreus_naevius",85,NA,"female",12.9,1245,3.23391122608241,98.768236674721,"Winter",39644
+10,-116.5661,46.9067,"thin skull",1951,"Ixoreus naevius meruloides","Ixoreus_naevius",85,NA,"female",5.7,1072,7.78903658414126,73.7715572138727,"Fall",39654
+1,-122.2715302,37.8697904,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",85,NA,"male",14.4,868,2.21762909159282,102.932889085151,"Winter",39697
+11,-78.22391,44.56195,"ad",2008,"Ixoreus naevius meruloides","Ixoreus_naevius",85,NA,"male",6.1,940,10.2209640475156,33.5962175499493,"Fall",39716
+2,-122.9438,38.48161,"U-Ad",1981,"Ixoreus naevius naevius","Ixoreus_naevius",85.1,NA,"female",14.4,1514,3.76719291040987,116.942647102995,"Winter",39816
+2,-122.2645,37.8983,"Adult skull.",1999,"Ixoreus naevius naevius ?","Ixoreus_naevius",85.2,NA,"male",13.3,570,3.70658709310706,121.468789492538,"Winter",39677
+6,-161.7661111111,60.7080555556,"u ad.",1956,"Ixoreus naevius meruloides","Ixoreus_naevius",85.5,NA,"female",-4,348,13.3848031194132,84.1012928813907,"Summer",39657
+9,-124.1323646,41.1604001,"imm.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",85.5,NA,"male",11.2,1547,2.53783491594825,101.279849352356,"Fall",39712
+9,-135.4642,59.2327,"AD",2005,"Ixoreus naevius","Ixoreus_naevius",85.5,NA,"male",6.4,1270,6.75077436635639,60.8278063096435,"Fall",39731
+4,-123.067661,49.319618,NA,1990,"Ixoreus naevius","Ixoreus_naevius",85.5,198,"female",10.4,1847,6.36783465408911,66.016961179942,"Spring",39858
+11,-122.43618,37.75113,"U-Ad.",1993,"Ixoreus naevius","Ixoreus_naevius",85.6,NA,"male",14.3,658,2.9823216500308,145.08585761194,"Fall",39815
+9,-119.76243,46.208223,NA,1983,"Ixoreus naevius","Ixoreus_naevius",85.7,NA,"female",11.2,355,7.76955987209447,59.9025088711919,"Fall",39634
+12,-122.239212,37.874434,"skull ossified",2006,"Ixoreus naevius ssp.","Ixoreus_naevius",86,NA,"male",13.8,790,3.71559979252096,117.436903055136,"Winter",39679
+9,-147.8043,64.857,"HY",1999,"Ixoreus naevius","Ixoreus_naevius",86.1,NA,"male",-4.1,278,16.3509243552995,93.4095215432179,"Fall",39723
+12,-117.179457,46.728691,NA,1993,"Ixoreus naevius","Ixoreus_naevius",86.2,NA,"female",8,439,8.1322962577763,65.790054026408,"Winter",39640
+9,-147.8043,64.857,"AD",2001,"Ixoreus naevius","Ixoreus_naevius",86.2,NA,"female",-1.4,226,13.1652060946706,120.843969687023,"Fall",39724
+2,-122.56585,37.96167,"U-Ad.",1953,"Ixoreus naevius","Ixoreus_naevius",86.2,NA,"male",14.1,658,3.40297329885606,119.095429144897,"Winter",39797
+1,-120.54143,40.50179,"u ad.",1943,"Ixoreus naevius meruloides","Ixoreus_naevius",86.4,NA,"male",8.5,479,7.14632242782428,120.783427520651,"Winter",39598
+6,-134.555,58.3449,"AD",1992,"Ixoreus naevius","Ixoreus_naevius",86.5,NA,"male",5.7,1896,5.32856794679737,49.2722903635047,"Summer",39616
+7,-115.95,48.97,"u ad.",1966,"Ixoreus naevius meruloides","Ixoreus_naevius",86.5,NA,"female",1.7,1313,7.28404233425869,68.7847673338833,"Summer",39662
+12,-122.4958,38.6278,"U-Ad",1967,"Ixoreus naevius naevius","Ixoreus_naevius",86.5,NA,"male",14.5,1104,6.29826214606903,139.728239539916,"Winter",39817
+11,-123.067661,49.319618,NA,1984,"Ixoreus naevius","Ixoreus_naevius",86.5,225,"female",9.9,1943,5.34831465949505,61.7649134935635,"Fall",39854
+1,-117.179457,46.728691,"Ad",1965,"Ixoreus naevius","Ixoreus_naevius",86.6,NA,"male",8.8,385,7.1714659758256,64.1542441733557,"Winter",39512
+12,-119.67895,37.7255,"u ad.",1914,"Ixoreus naevius meruloides","Ixoreus_naevius",86.6,NA,"male",7.8,1146,6.43421253216669,187.276465475911,"Winter",39563
+6,-165.7666667,68.1,"ad.",1961,"Ixoreus naevius meruloides","Ixoreus_naevius",86.6,NA,"male",-8.9,264,13.2238850707209,75.8869418866684,"Summer",39782
+2,-122.9744475,40.3728159,"u ad.",1947,"Ixoreus naevius meruloides","Ixoreus_naevius",86.7,NA,"female",11.7,704,6.06472038377148,112.145954412792,"Winter",39715
+12,-120.0705,40.31451,"u ad.",1924,"Ixoreus naevius naevius","Ixoreus_naevius",86.8,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",39570
+12,-122.89995,38.40814,"U-Ad.",1977,"Ixoreus naevius","Ixoreus_naevius",86.8,NA,"male",13.7,896,3.95439916134837,116.86278063076,"Winter",39808
+1,-122.6374229,38.0086039,"Adult skull.",2002,"Ixoreus naevius ssp.","Ixoreus_naevius",87,NA,"female",14.7,1092,3.97456877782948,177.096246362673,"Winter",39558
+12,-123.067661,49.319618,NA,2007,"Ixoreus naevius","Ixoreus_naevius",87,217,"female",10.4,1749,5.35012744113293,67.2070129570277,"Winter",39790
+1,-123.250567,49.263456,NA,1984,"Ixoreus naevius","Ixoreus_naevius",87,248,"male",10,1517,5.29913514956293,64.0808949921957,"Winter",39851
+6,-115.9446,48.2631,"u ad.",1966,"Ixoreus naevius meruloides","Ixoreus_naevius",87.8,NA,"male",6,1261,7.35574399343599,76.037495097777,"Summer",39549
+4,-122.22383,37.80897,"adult",2002,"Ixoreus naevius","Ixoreus_naevius",87.9,NA,"male",14.3,568,3.11851751881427,171.455636303636,"Spring",39826
+1,-105.11056,40.568919,"adult",1990,"Ixoreus naevius","Ixoreus_naevius",88,229,"male",9,435,8.99903614367403,84.2459279693343,"Winter",39533
+1,-121.71207,36.99312,"U-Ad.",1974,"Ixoreus naevius","Ixoreus_naevius",88,NA,"female",14.4,808,4.19772665747891,117.912129763127,"Winter",39803
+12,-121.89422,37.00601,"U-Ad.",1974,"Ixoreus naevius","Ixoreus_naevius",88,NA,"male",13.6,728,3.46150912963485,116.533455828355,"Winter",39804
+1,-123.47623,40.4313,"u ad.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",88.4,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",39592
+10,-134.555,58.3449,"HY ?",2010,"Ixoreus naevius","Ixoreus_naevius",88.5,NA,"male",6.1,1916,5.90182303627575,60.7995810981919,"Fall",39736
+11,-123.113521,49.261096,NA,1985,"Ixoreus naevius","Ixoreus_naevius",88.5,240,"male",9.2,975,6.55667020997886,77.8233453974889,"Fall",39787
+9,-115.39557,45.9907,"U-Ad.",1941,"Ixoreus naevius meruloides","Ixoreus_naevius",88.5,NA,"male",5.9,1154,7.04407660034409,48.203405329039,"Fall",39794
+9,-124.1323646,41.1604001,"imm.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",88.7,NA,"female",11.2,1547,2.53783491594825,101.279849352356,"Fall",39595
+4,-131.619,55.331,"AHY",1997,"Ixoreus naevius","Ixoreus_naevius",89,NA,"male",8.4,3113,5.11067658451551,44.9598815292511,"Spring",39737
+3,-122.56585,37.96167,"U-Ad.",1953,"Ixoreus naevius","Ixoreus_naevius",89,NA,"male",14.1,658,3.40297329885606,119.095429144897,"Spring",39747
+5,-161.7661111111,60.7080555556,"ad.",1956,"Ixoreus naevius meruloides","Ixoreus_naevius",89.4,NA,"female",-4,348,13.3848031194132,84.1012928813907,"Spring",39656
+12,-117.165649,46.729529,NA,1973,"Ixoreus naevius","Ixoreus_naevius",89.5,NA,"male",8.6,524,7.4718055908782,109.643696085904,"Winter",39625
+5,-123.9603,45.7833,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",89.6,NA,"female",11,2675,3.59405021802659,79.2686014511964,"Spring",39702
+2,-122.28355,37.89945,"skull ossified",2007,"Ixoreus naevius ssp.","Ixoreus_naevius",89.7,NA,"male",14.2,340,3.31177879513092,126.284031040165,"Winter",39561
+12,-122.54679,37.90672,"U-Ad.",1977,"Ixoreus naevius","Ixoreus_naevius",90.1,NA,"female",13.8,641,3.0566866593312,117.214655944476,"Winter",39751
+8,-132.4255555556,56.5897222222,"juv.",1919,"Ixoreus naevius naevius","Ixoreus_naevius",90.2,NA,"male",5.4,2071,6.1481889425039,42.5336794471752,"Summer",39568
+2,-122.85856,38.10348,"unknown",2007,"Ixoreus naevius","Ixoreus_naevius",90.23,227,"female",13,552,3.13990686987929,129.804140797617,"Winter",39831
+6,-122.0024912,44.502946,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",90.4,NA,"female",7.8,1996,5.38912344590023,73.3039481563502,"Summer",39584
+3,-117.163002,46.72998,NA,1984,"Ixoreus naevius","Ixoreus_naevius",91.1,NA,"male",7.9,602,7.42862502061921,53.1034086551605,"Spring",39636
+2,-131.619,55.331,"AD",2000,"Ixoreus naevius","Ixoreus_naevius",91.3,NA,"female",7.2,3020,4.85863804335779,37.2454760329806,"Winter",39719
+6,-122.0024912,44.502946,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",91.5,NA,"female",7.8,1996,5.38912344590023,73.3039481563502,"Summer",39705
+5,-161.7661111111,60.7080555556,"u ad.",1955,"Ixoreus naevius meruloides","Ixoreus_naevius",91.6,NA,"female",-2.5,508,10.3363289890414,75.0066928965721,"Spring",39540
+11,-117.164293,46.730767,NA,1996,"Ixoreus naevius","Ixoreus_naevius",91.7,NA,"male",8.2,774,7.91608929314025,71.5732167831782,"Fall",39505
+1,-122.79863,38.04393,"U",2007,"Ixoreus naevius","Ixoreus_naevius",91.75,200,"female",13.3,557,3.22570170895443,131.991648299386,"Winter",39834
+2,-117.179457,46.728691,NA,1978,"Ixoreus naevius","Ixoreus_naevius",92.1,NA,"male",7.7,476,7.679424497061,52.5999406874918,"Winter",39516
+1,-122.56468,37.96332,"U-Ad.",1952,"Ixoreus naevius","Ixoreus_naevius",92.2,NA,"male",13.6,1285,3.98781287363782,142.643099753459,"Winter",39795
+3,-117.165649,46.729529,NA,1975,"Ixoreus naevius","Ixoreus_naevius",92.5,NA,"male",7.5,673,7.79049051242875,55.5277570147625,"Spring",39515
+1,-123.64222,40.88169,"u ad.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",92.8,NA,"male",12.6,1782,6.16015421884875,105.358303675249,"Winter",39591
+1,-122.43618,37.75113,"U-Ad.",1982,"Ixoreus naevius","Ixoreus_naevius",93,NA,"male",12.9,961,2.80695834516923,100.666810906981,"Winter",39757
+8,-131.619,55.331,"HY",2000,"Ixoreus naevius","Ixoreus_naevius",93.3,NA,"undetermined",7.2,3020,4.85863804335779,37.2454760329806,"Summer",39722
+9,-122.64343,38.06174,"U",2007,"Ixoreus naevius","Ixoreus_naevius",94.37,205,"female",14.4,661,4.17963134520476,131.798662020507,"Fall",39835
+3,-123.3829,39.2289,"skull ossified",2008,"Ixoreus naevius ssp.","Ixoreus_naevius",94.5,NA,"male",12.4,894,5.62863350659067,152.927516579844,"Spring",39683
+3,-122.21341,37.39464,"U-Ad",1974,"Ixoreus naevius naevius","Ixoreus_naevius",94.9,NA,"male",14.4,634,4.06927698142006,115.085411040445,"Spring",39863
+12,-122.54679,37.90672,"U-Ad.",1977,"Ixoreus naevius","Ixoreus_naevius",95.1,NA,"female",13.8,641,3.0566866593312,117.214655944476,"Winter",39806
+3,-122.2715302,37.8697904,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",95.4,NA,"male",14.4,868,2.21762909159282,102.932889085151,"Spring",39576
+1,-122.24246,37.84379,"U-Ad.",1978,"Ixoreus naevius","Ixoreus_naevius",96.3,NA,"female",14.4,666,3.39173460582688,134.19383917811,"Winter",39810
+7,-123.01176,43.96608,"U-Ad.",1985,"Ixoreus naevius naevius","Ixoreus_naevius",96.5,NA,"male",10.3,779,6.40643615767958,72.3419053116553,"Summer",39759
+1,-152.406,57.79,"AHY",2009,"Ixoreus naevius","Ixoreus_naevius",97.5,NA,"female",5.1,1252,5.38974194018769,30.5089801754189,"Winter",39733
+1,-123.6183706,40.9201519,"u ad.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",98,NA,"male ?",13.6,1532,5.93951839696442,106.230134497904,"Winter",39590
+1,-124.130089,41.1633994,"u ad.",1942,"Ixoreus naevius naevius","Ixoreus_naevius",99.5,NA,"female",11.2,1552,2.53783491594825,101.090757930844,"Winter",39589
+11,-118.3957214,37.3652992,NA,2003,"Ixoreus naevius","Ixoreus_naevius",100.8,NA,"male",15,113,8.16537404736203,105.75532601441,"Fall",39650
+5,-123.9603,45.7833,"u ad.",1941,"Ixoreus naevius naevius","Ixoreus_naevius",103,NA,"female",11,2675,3.59405021802659,79.2686014511964,"Spring",39703
+12,-117.165649,46.729529,NA,1983,"Ixoreus naevius","Ixoreus_naevius",104.2,NA,"male",8.6,653,7.1532997259794,51.8771001530378,"Winter",39632
+12,-122.54679,37.90672,"U-Ad.",1977,"Ixoreus naevius","Ixoreus_naevius",106.7,NA,"female",13.8,641,3.0566866593312,117.214655944476,"Winter",39807

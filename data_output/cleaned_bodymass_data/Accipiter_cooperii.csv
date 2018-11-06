@@ -1,0 +1,624 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-117.7658844,33.8247223,"chick",1999,NA,"Accipiter_cooperii",92.5,NA,"undetermined",15.8,160,3.63921195265728,144.403289404523,"Spring",247
+7,-105.399007,39.819956,NA,1987,"Accipiter cooperii","Accipiter_cooperii",94.6,264,"male",5.1,682,7.65309899599007,46.9260198548287,"Summer",23
+5,-117.7658844,33.8247223,"chick",1999,NA,"Accipiter_cooperii",99,NA,"undetermined",15.8,160,3.63921195265728,144.403289404523,"Spring",497
+10,-104.98013,39.535112,NA,2010,"Accipiter cooperii","Accipiter_cooperii",143.9,319,"male",10.5,388,8.88556882441036,68.4913119819081,"Fall",280
+3,-76.4809,42.4466,NA,2012,"Accipiter cooperii","Accipiter_cooperii",159,457.2,"undetermined",10.5,978,8.74091736396337,36.4713596165971,"Spring",7
+7,-122.271441,37.84872,"immature plumage",2003,"Accipiter cooperii","Accipiter_cooperii",170,NA,"male ?",14.7,532,3.09264768393842,114.593785590848,"Summer",118
+7,-119.119091,34.1189105,"adult",2006,NA,"Accipiter_cooperii",175,NA,"male",15.5,297,2.82290415685476,117.432659630979,"Summer",262
+9,-105.314704,39.639579,"immature",1990,"Accipiter cooperii","Accipiter_cooperii",177,372,NA,7,568,7.68159942309996,76.0252872297291,"Fall",25
+2,-118.3349152,33.8320503,NA,2003,"Accipiter cooperii","Accipiter_cooperii",177,NA,"male",16.1,274,2.62901928943901,141.693562984885,"Winter",513
+7,-118.022625,33.964124,"juvenile",1999,NA,"Accipiter_cooperii",180,NA,"undetermined",16.5,153,3.59733697800655,136.01682506686,"Summer",242
+2,-112.279198,33.893938,"adult",1982,"Accipiter cooperii","Accipiter_cooperii",180,NA,"male",20.1,385,7.75755741001618,81.7996720077342,"Winter",341
+9,-118.7354278,34.0347371,NA,2002,"Accipiter cooperii","Accipiter_cooperii",188,NA,"male",15.2,208,2.1537845479035,166.143162049655,"Fall",65
+6,-117.9279327,33.8895124,"juvenile",2004,NA,"Accipiter_cooperii",188,NA,"male",16.9,320,3.6185025364176,155.440844493013,"Summer",254
+8,-118.243103,34.0390047,NA,2002,"Accipiter cooperii","Accipiter_cooperii",188,NA,"male",16,178,2.78452161170651,148.510313645182,"Summer",313
+9,-112.0740373,33.4483771,"adult",1982,"Accipiter cooperii","Accipiter_cooperii",192,NA,"male",21.1,276,7.89304930129841,82.5876788385802,"Fall",318
+12,-119.2752457,34.2785149,"adult",2000,NA,"Accipiter_cooperii",194,NA,"male",14.7,352,2.60919121336072,171.248152550812,"Winter",264
+6,-118.886371,34.188228,"nestling",2005,NA,"Accipiter_cooperii",195,NA,"female",16.1,644,3.24049893277769,166.944144293957,"Summer",510
+12,-118.251442,34.1428413,"juvenile",1988,NA,"Accipiter_cooperii",195.5,NA,"male",18.5,323,3.82349197842638,121.013790689778,"Winter",486
+3,-117.9846239,37.3729538,NA,1999,"Accipiter cooperii","Accipiter_cooperii",196,NA,"male",12,103,7.88073985143911,88.2335349237877,"Spring",348
+9,-123.159051,49.336463,"adult",1993,"Accipiter cooperii","Accipiter_cooperii",196,375,"male",10.4,1194,5.99456192955521,66.0057875918353,"Fall",579
+7,-83.95,42.45,"immature",1946,"Accipiter cooperii","Accipiter_cooperii",198.7,NA,"female",9.8,623,9.02076728578242,43.6993001397706,"Summer",644
+7,-79.358762,43.731702,"immature",1997,"Accipiter cooperii","Accipiter_cooperii",199.8,NA,"female",7.3,697,9.59865836584689,32.4419751510692,"Summer",150
+12,-122.8308,38.39691,"Imm.",1976,"Accipiter cooperii","Accipiter_cooperii",199.9,NA,"male",13.9,329,4.40512786592529,101.380338665734,"Winter",597
+11,-118.8823378,34.1986878,"adult",2003,NA,"Accipiter_cooperii",200,NA,"male",16,292,3.60541469896531,134.587802116982,"Fall",245
+8,-122.42785,38.6148,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",202,NA,"male",14.5,895,5.67180025933726,185.680820067918,"Summer",549
+7,-79.30383,44.08225,"nestling",2006,"Accipiter cooperii","Accipiter_cooperii",202.1,NA,"female",8.4,908,8.98997758449358,34.3951036051861,"Summer",634
+1,-76.415603,43.322761,NA,2009,"Accipiter cooperii","Accipiter_cooperii",204.8,410,"male",8.1,996,9.7258286240424,26.6945402123854,"Winter",626
+9,-118.301651,34.0320587,NA,1995,"Accipiter cooperii","Accipiter_cooperii",205,NA,"male",17.5,617,3.19156084166675,191.457191750775,"Fall",68
+8,-106.8611666667,34.3282166667,NA,2008,"Accipiter cooperii","Accipiter_cooperii",206.2,NA,"male",14.6,165,8.46037107861581,114.292265102488,"Summer",352
+11,-116.0543976,33.7561209,NA,1982,"Accipiter cooperii","Accipiter_cooperii",209,NA,"male",17,177,6.95009810264313,99.3935805664812,"Fall",335
+10,-118.301651,34.0320587,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",210,NA,"male",15.7,180,2.56402855371043,150.134355676384,"Fall",84
+7,-118.0353432,34.1397305,"juvenile",1996,"Accipiter cooperii","Accipiter_cooperii",212,NA,"female",19.2,505,4.23681555659508,121.661418470006,"Summer",69
+7,-117.821473,33.800967,"juvenile",2003,NA,"Accipiter_cooperii",212,NA,"male",16.5,345,3.39982174220765,145.791052008444,"Summer",506
+7,-105.088732,40.579867,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",212.9,NA,"female",8.7,371,9.96779663200297,80.8252483928997,"Summer",18
+1,-118.394165,33.7854251,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",213,NA,"male",15.1,213,2.13291307413551,156.678252676111,"Winter",49
+12,-118.9652,34.153828,"adult",2001,NA,"Accipiter_cooperii",216,NA,"male",15.7,509,3.67815006202682,127.098242383667,"Winter",499
+10,-122.298905,37.890355,"immature by plumage",2004,"Accipiter cooperii","Accipiter_cooperii",216.9,NA,"undetermined",15,524,3.09235371766419,127.447758695837,"Fall",375
+9,-123.205061,49.6250012,"immature",1999,"Accipiter cooperii","Accipiter_cooperii",218.9,NA,"female",9.7,2432,4.96942164795376,66.0639459942974,"Fall",165
+10,-117.7550697,35.2118254,NA,1998,"Accipiter cooperii","Accipiter_cooperii",220,NA,"male",15.7,233,7.57291825580409,173.513650846451,"Fall",86
+8,-117.804399,33.741155,"unknown",2002,NA,"Accipiter_cooperii",220,NA,"male",15.8,169,3.04237745949785,139.388080742472,"Summer",246
+10,-118.7354278,34.0347371,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",220,NA,"male",15.2,208,2.1537845479035,166.143162049655,"Fall",328
+9,-115.8090522,33.7365557,"u imm.",1950,"Accipiter cooperii","Accipiter_cooperii",220,NA,"male",17,47,6.75875974815893,129.246065528299,"Fall",356
+6,-118.886371,34.188228,"nestling",2005,NA,"Accipiter_cooperii",220,NA,"male",16.1,644,3.24049893277769,166.944144293957,"Summer",511
+1,-118.3089638,33.8883495,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",221,NA,"male",15.5,182,2.40168816889413,158.775585919248,"Winter",349
+8,-122.03438,37.96031,"immature",2003,"Accipiter cooperii","Accipiter_cooperii",224,NA,"undetermined",15.7,423,5.12841165085312,113.366324321737,"Summer",557
+1,-119.0390539,34.2267419,"adult",1995,NA,"Accipiter_cooperii",225,NA,"female",16,561,2.30419577766695,187.398597735787,"Winter",492
+11,-122.50614,37.92228,"Imm",1991,"Accipiter cooperii","Accipiter_cooperii",226.3,NA,"male",14.1,634,3.08618623134532,143.614041143692,"Fall",602
+10,-118.4450912,34.1539345,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",228,NA,"male",16.2,194,3.3999554364281,147.391546118909,"Fall",308
+1,-84.9030914,42.869236,"adult",1991,"Accipiter cooperii","Accipiter_cooperii",229,NA,"male",9.7,925,10.0889791356708,45.6606375081489,"Winter",191
+11,-117.883877,33.740259,"juvenile",1988,NA,"Accipiter_cooperii",230,NA,"female",17.8,243,3.15262036273243,138.04896296915,"Fall",489
+12,-122.07488,37.92295,"Adult",2008,"Accipiter cooperii","Accipiter_cooperii",231.2,407,"male",15,392,5.06512137519473,175.590621520986,"Winter",618
+11,-121.956351,37.952054,"adult",2001,"Accipiter cooperii","Accipiter_cooperii",232.2,NA,"male",14.8,551,5.11778686780159,127.495436785801,"Fall",367
+2,-83.7263412,42.2708397,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",233.8,NA,"male",9.7,954,10.3529640024663,55.1826048279845,"Winter",472
+6,-122.0223,37.8802,"adult",1999,"Accipiter cooperii","Accipiter_cooperii",235,NA,"male",13.9,427,4.66127664915954,129.165425423496,"Summer",106
+2,-83.942821,42.4580406,"adult",2009,"Accipiter cooperii","Accipiter_cooperii",235,NA,"male",8.6,941,10.0156090300303,45.7582184997402,"Winter",211
+10,-118.4005127,34.0826073,"immature",1994,"Accipiter cooperii","Accipiter_cooperii",235,NA,"male",17.1,259,3.48045408044132,144.863646448649,"Fall",317
+11,-119.0342812,34.2220475,"adult",1999,NA,"Accipiter_cooperii",235,NA,"female",14.6,198,2.79136927407364,130.994739484594,"Fall",496
+8,-83.4833333,42.2,"juvenile",2008,"Accipiter cooperii","Accipiter_cooperii",235.4,NA,"male",9.1,941,10.2015150389983,48.8736216592064,"Summer",656
+7,-122.069382,37.9369046,"immature",2001,"Accipiter cooperii","Accipiter_cooperii",237,NA,"male",15.3,582,4.88729800791622,131.678768084424,"Summer",112
+2,-121.888722,37.59441,NA,2008,"Accipiter cooperii","Accipiter_cooperii",237,NA,"undetermined",15.2,339,4.88680970479812,164.745307185408,"Winter",129
+8,-118.0731922,33.830622,"juvenile",2002,NA,"Accipiter_cooperii",238,NA,"male",15.7,174,2.72407893802769,149.503966477745,"Summer",239
+10,-123.347672,45.610272,"juvenile",2011,"Accipiter cooperii","Accipiter_cooperii",240,NA,"female",8.1,1986,5.7163972018831,79.365287811842,"Fall",92
+11,-122.1079925,37.882948,"immature",1997,"Accipiter cooperii","Accipiter_cooperii",240,NA,"female",15.5,619,4.71711101879491,161.876276803102,"Fall",104
+12,-118.2967341,33.8108199,NA,1981,"Accipiter cooperii","Accipiter_cooperii",240,NA,"male",18.6,257,3.12539694448658,125.170050695135,"Winter",516
+6,-105.016007,39.938412,"Immature",2011,"Accipiter cooperii","Accipiter_cooperii",240.5,302,"female",10.6,385,9.58295124402992,68.2630532393372,"Summer",296
+5,-108.4168624,37.2854579,"adult",1987,"Accipiter cooperii","Accipiter_cooperii",241.4,380,"male",8.4,633,8.1876662601671,54.9086630201369,"Spring",33
+8,-122.03777,37.95396,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",242.3,NA,"male",15.4,440,4.92109713069118,172.586435282181,"Summer",552
+7,-119.2703247,50.2634486,NA,1938,"Accipiter cooperii","Accipiter_cooperii",243,NA,"female",8.8,303,9.14865447964228,73.8694691341612,"Summer",479
+7,-117.9430389,33.8367717,NA,2003,"Accipiter cooperii","Accipiter_cooperii",244,NA,"male",16.6,311,3.18243284106339,144.409112917694,"Summer",51
+7,-119.2752457,34.2785149,"immature",2005,NA,"Accipiter_cooperii",244,NA,"male",15.3,584,1.93694151286053,138.30776066609,"Summer",263
+10,-119.74949,34.430669,"juvenile",2002,NA,"Accipiter_cooperii",244,NA,"male",14.3,350,2.49549594269356,174.534971855907,"Fall",503
+1,-117.7095239,33.595328,"juvenile",1998,NA,"Accipiter_cooperii",245,NA,"male",15.7,518,3.68439584291275,157.115990814444,"Winter",491
+12,-118.394165,33.7854251,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",246,NA,"male",15.1,213,2.13291307413551,156.678252676111,"Winter",47
+5,-83.72322,42.56808,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",246.5,NA,"male",9,882,10.4123578967349,54.4352456922589,"Spring",475
+8,-82.9175949,42.3927835,"immature",2006,"Accipiter cooperii","Accipiter_cooperii",246.9,NA,"male",11.1,1068,8.79018047182609,35.8495643450423,"Summer",207
+9,-123.1358556,40.315747,"u juv.",1949,"Accipiter cooperii","Accipiter_cooperii",247,NA,"male",9.4,1281,6.87278338922096,146.948460928128,"Fall",93
+7,-122.0231383,37.6615202,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",247.5,NA,"male",14.7,650,4.26923454923288,122.533222710108,"Summer",116
+2,-118.1170082,33.8816814,NA,2002,"Accipiter cooperii","Accipiter_cooperii",248,NA,"male",16,179,2.8365979409828,153.02664304473,"Winter",50
+10,-118.243103,34.0390047,"immature",1998,"Accipiter cooperii","Accipiter_cooperii",250,NA,"male",16,556,3.49314263300906,185.510290381922,"Fall",83
+4,-122.09332,38.00772,"immature",2000,"Accipiter cooperii","Accipiter_cooperii",250,NA,"male",15.3,512,4.57313465864068,136.054215780221,"Spring",108
+2,-117.6589393,33.6101875,"adult",2001,NA,"Accipiter_cooperii",250,NA,"female",15.8,404,3.5245459625921,151.378254653839,"Winter",238
+10,-117.9562607,33.7120781,NA,2003,"Accipiter cooperii","Accipiter_cooperii",250,NA,"male",16,292,2.82472846643547,147.189157144914,"Fall",336
+3,-118.301651,34.0320587,"adult",2006,"Accipiter cooperii","Accipiter_cooperii",250,NA,"male",16.6,275,3.4295065463584,112.815214963553,"Spring",343
+2,-117.7895737,33.6797826,"adult",1988,NA,"Accipiter_cooperii",250.5,NA,"male",17.9,251,3.35381962255069,137.729026292828,"Winter",240
+8,-78.34439,44.30694,"juvenile",2002,"Accipiter cooperii","Accipiter_cooperii",250.6,NA,"male",7.3,779,9.8893729310658,33.151897691051,"Summer",432
+8,-122.28239,37.8609,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",250.7,NA,"male",14.3,530,2.8820762717811,168.854479758391,"Summer",608
+3,-121.930797,37.713443,"juvenile by plumage",2004,"Accipiter cooperii","Accipiter_cooperii",251.3,NA,"female",15.8,515,5.04298943328681,121.311806527111,"Spring",127
+1,-118.2967341,33.8108199,NA,2001,"Accipiter cooperii","Accipiter_cooperii",252,NA,"male",15.5,428,3.05237115976575,146.568430862176,"Winter",329
+11,-83.4459686,42.5924742,"immature",2009,"Accipiter cooperii","Accipiter_cooperii",252.5,NA,"male",8.3,898,10.0910701597847,48.4995561528704,"Fall",471
+8,-120.63,36.35,"u imm.",1944,"Accipiter cooperii","Accipiter_cooperii",253,NA,"male",12.3,479,6.51284860638546,117.560293787102,"Summer",404
+12,-110,23.566667,"u imm.",1928,"Accipiter cooperii","Accipiter_cooperii",253.5,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",393
+4,-118.2978439,33.7900181,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",254,NA,"male",16.3,262,3.04734111625001,142.766088961842,"Spring",62
+4,-82.9175949,42.3927835,"adult",2010,"Accipiter cooperii","Accipiter_cooperii",254,NA,"male",11.2,767,10.7039039890154,52.6242035441195,"Spring",219
+6,-122.08133,37.88527,"nestling",2003,"Accipiter cooperii","Accipiter_cooperii",254,NA,"undetermined",15.2,559,4.7639428538923,119.014963634745,"Summer",555
+10,-105.06586,40.571961,"immature",2000,"Accipiter cooperii","Accipiter_cooperii",254.4,398,"undetermined",9.7,306,9.31858683524817,64.0029439111834,"Fall",29
+8,-121.741346,37.694503,"juvenile by plumage",2004,"Accipiter cooperii","Accipiter_cooperii",254.4,NA,"undetermined",15.5,367,5.1313356994652,119.206779526029,"Summer",378
+10,-122.890551,38.100079,NA,1988,"Accipiter cooperii","Accipiter_cooperii",254.9,NA,"undetermined",13.6,652,2.67355171782384,132.752931947814,"Fall",299
+6,-118.2001877,34.2065496,"natal",1995,"Accipiter cooperii","Accipiter_cooperii",255,NA,NA,18.3,879,4.49453371700929,184.334855203717,"Summer",78
+7,-118.5367546,34.2283382,"juvenile",2005,"Accipiter cooperii","Accipiter_cooperii",255,NA,"male",16.9,699,3.66642216815679,172.167000093143,"Summer",339
+12,-83.7263412,42.2708397,NA,2007,"Accipiter cooperii","Accipiter_cooperii",255.1,NA,"male",10.1,902,10.7183643030704,44.0536255680916,"Winter",461
+6,-121.97498,37.81572,"Immature",2007,"Accipiter cooperii","Accipiter_cooperii",255.53,390,"male",14.6,331,4.88456908555045,132.501789676472,"Summer",621
+1,-119.0222096,34.2362863,"Sub-adult",2005,NA,"Accipiter_cooperii",256,NA,"male",15.6,616,2.22565958898943,158.385419825974,"Winter",256
+6,-122.036,37.368,"U-Ad",2001,"Accipiter cooperii","Accipiter_cooperii",256.6,NA,"male",15.2,478,4.03169262897675,123.727758530786,"Summer",605
+3,-84.9571533,45.3720093,NA,1994,"Accipiter cooperii","Accipiter_cooperii",256.9,4090,"male",6.9,808,11.1337427342618,69.1162335521173,"Spring",455
+9,-118.2940292,37.1661072,"juvenile",2006,"Accipiter cooperii","Accipiter_cooperii",259,NA,"female",15,121,8.43289015484231,208.991254466988,"Fall",326
+1,-118.4450912,34.1539345,NA,1996,"Accipiter cooperii","Accipiter_cooperii",260,NA,"male",18.5,473,3.99623876193906,126.026397386694,"Winter",80
+7,-99.4540413663,25.4590086336,"u imm.",1945,"Accipiter cooperii","Accipiter_cooperii",260,NA,"female",24.1,594,5.84239988049743,90.0520771233239,"Summer",140
+4,-83.4318977,42.5328838,"adult",2010,"Accipiter cooperii","Accipiter_cooperii",260,NA,"male",10.1,746,10.9115868356865,58.2322326908387,"Spring",216
+5,-118.0322876,33.9741287,"adult",2004,NA,"Accipiter_cooperii",260,NA,"male",17.2,337,3.8169776239609,157.925655724299,"Spring",253
+8,-118.3361435,34.1555681,"immature",1993,"Accipiter cooperii","Accipiter_cooperii",260,NA,"female",18,683,3.99655154382178,185.074088288077,"Summer",327
+3,-83.805921,42.305864,"immature",2007,"Accipiter cooperii","Accipiter_cooperii",260,NA,"male",10,901,10.7301049163161,43.8449838747049,"Spring",462
+4,-122.45848,38.29186,"U-Ad.",1986,"Accipiter cooperii","Accipiter_cooperii",260,NA,"female",15.1,862,3.64076249090098,166.462666930306,"Spring",601
+1,-83.7833333,42.1666667,NA,2012,"Accipiter cooperii","Accipiter_cooperii",260,NA,"male",11.5,694,9.15086930793513,38.3451716125559,"Winter",659
+8,-72.9975,41.4217,"juvenile",1993,"Accipiter cooperii","Accipiter_cooperii",260,NA,"female",9.4,1215,9.66604491208396,44.7974508228676,"Summer",663
+7,-105.021477,40.556631,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",260.1,326,"undetermined",8.9,352,10.0925227347534,83.8912627769746,"Summer",282
+3,-83.5993423,42.5936317,"immature",2012,"Accipiter cooperii","Accipiter_cooperii",262,NA,"male",10.7,630,9.20587345451837,37.4289000593099,"Spring",470
+6,-122.03931,37.94334,"nestling",2009,"Accipiter cooperii","Accipiter_cooperii",262,277,"undetermined",15.5,384,5.18817857920263,124.109040675016,"Summer",559
+12,-122.229025,37.821313,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",262.2,NA,"male",14.9,575,3.31528827760669,127.624168988688,"Winter",377
+11,-119.3439674,34.3940204,"juvenile",2003,NA,"Accipiter_cooperii",263,NA,"male",15.6,374,3.53170702995797,128.72623071308,"Fall",260
+11,-118.53,35.383,"immature",1984,"Accipiter cooperii","Accipiter_cooperii",263,NA,"male",14.5,208,7.39292761954821,152.34008118074,"Fall",340
+10,-82.50596,41.90342,"juvenile",1965,"Accipiter cooperii","Accipiter_cooperii",263,NA,"female?",9.8,930,9.086966190399,25.7310298043453,"Fall",638
+8,-105.483479,39.98821,"juvenile",2004,"Accipiter cooperii","Accipiter_cooperii",263.3,406,"male",5.6,567,7.02745697355391,61.0938780363477,"Summer",31
+3,-76.439543,42.399675,NA,2008,"Accipiter cooperii","Accipiter_cooperii",264.3,400,"male",8.4,1064,9.44327562583315,38.2623432008575,"Spring",274
+11,-116.9625282,32.7947712,NA,1999,"Accipiter cooperii","Accipiter_cooperii",265,NA,"male",16.4,162,3.76357140186947,135.184453273668,"Fall",322
+1,-104.754367,40.358806,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",265.1,469.9,"female",9.5,306,10.2931869199824,75.4353818623323,"Winter",287
+1,-104.754367,40.358806,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",265.1,469.9,"female",9.5,306,10.2931869199824,75.4353818623323,"Winter",288
+5,-79.731,44.81541,"adult",1981,"Accipiter cooperii","Accipiter_cooperii",266,NA,"undetermined",6.4,919,9.9786248824903,34.6856355715529,"Spring",149
+2,-83.733673,42.5600349,"immature",2009,"Accipiter cooperii","Accipiter_cooperii",266,NA,"male",8.2,914,10.0209288567236,46.9448654908677,"Winter",218
+1,-117.82617,33.686163,"adult",2003,NA,"Accipiter_cooperii",266,NA,"male",16.2,308,3.0606990684938,145.934816261331,"Winter",259
+6,-117.6730156,33.6389184,"juvenile",1995,NA,"Accipiter_cooperii",266,NA,"undetermined",17.5,558,3.28822508998764,178.85239877558,"Summer",520
+5,-115.4436111,31.05,"u imm.",1926,"Accipiter cooperii","Accipiter_cooperii",266,NA,"male",10.8,587,4.5745259731242,129.82135315136,"Spring",575
+7,-86.405,42.099,"immature",2011,"Accipiter cooperii","Accipiter_cooperii",266.2,NA,"male",10.2,1206,9.93492081071367,37.6475318524768,"Summer",467
+8,-104.920513,39.719547,"immature",2009,"Accipiter cooperii","Accipiter_cooperii",266.5,432,"female",10.3,509,8.50849842537127,75.4577099811285,"Summer",293
+8,-121.642726,37.940643,"juvenile",2004,"Accipiter cooperii","Accipiter_cooperii",266.65,NA,"female ?",16.1,355,5.82160943070182,114.440159485896,"Summer",372
+2,-119.0730858,34.2506896,"adult",2004,NA,"Accipiter_cooperii",267,NA,"male",15.6,361,3.00316751972233,174.400557109394,"Winter",251
+6,-109.1895757,31.8726527,"adult",1956,"Accipiter cooperii","Accipiter_cooperii",267.1,NA,"male",12.5,238,7.32001717997653,127.351573206444,"Summer",298
+6,-122.26469,37.8727,"Juv",1994,"Accipiter cooperii","Accipiter_cooperii",267.1,NA,"male",13.9,526,3.39816126750924,125.953567596679,"Summer",604
+11,-123.4851937,39.6863371,"unknown",1928,"Accipiter cooperii","Accipiter_cooperii",267.5,NA,"male",12.2,1564,4.87442304278158,101.093204983301,"Fall",391
+7,-105.072357,40.631018,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",267.6,275,"male",8.6,371,9.97078687512129,82.742679551269,"Summer",20
+1,-122.277893,37.77374461,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",267.9,NA,"male",15.3,507,3.03854031941774,129.493532948009,"Winter",124
+7,-122.0587,37.91287,"adult",2000,"Accipiter cooperii","Accipiter_cooperii",268,NA,"male",15.2,573,4.44631273862928,136.711525323435,"Summer",110
+10,-123.5033,45.2179,"juvenile",2011,"Accipiter cooperii","Accipiter_cooperii",268,NA,"female",9.2,2057,5.99289351876643,78.2611876093893,"Fall",350
+1,-119.257294,34.269332,"adult",2003,NA,"Accipiter_cooperii",268,NA,"male",15.1,291,2.33645354148443,132.66126268983,"Winter",501
+5,-82.9175949,42.3927835,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",269,NA,"male",10.1,995,10.0188118511673,54.6103686869342,"Spring",473
+10,-122.02416,37.888695,"juvenile",2003,"Accipiter cooperii","Accipiter_cooperii",270,NA,"female",15.2,491,4.84657798676738,116.75480480573,"Fall",117
+9,-76.820106,42.068903,NA,2002,"Accipiter cooperii","Accipiter_cooperii",270.4,NA,"male",9.3,933,9.18432046611193,45.0081422830867,"Fall",568
+2,-83.8885498,42.3383369,"adult",1971,"Accipiter cooperii","Accipiter_cooperii",271,NA,"male",9.3,611,10.4254932301023,55.4519297872351,"Winter",185
+12,-117.6589393,33.6101875,"adult",1986,NA,"Accipiter_cooperii",271,NA,"male",17.8,382,3.0361833098331,141.045710541224,"Winter",485
+10,-121.7171,37.70313,"adult",2002,"Accipiter cooperii","Accipiter_cooperii",271,NA,"male",15,363,5.01055703671576,180.196993329839,"Fall",550
+9,-108.42132,37.284838,"hatch year bird",2007,"Accipiter cooperii","Accipiter_cooperii",272.1,322,"undetermined",9.1,542,8.73125264365158,53.1233628241211,"Fall",294
+12,-122.127884,37.8305356,"imm.",1923,"Accipiter cooperii","Accipiter_cooperii",272.72,NA,"female",13.5,314,4.16944150027824,128.995959384736,"Winter",98
+12,-122.070069,37.954421,"immature",2004,"Accipiter cooperii","Accipiter_cooperii",272.8,NA,"male",15.8,468,4.99008107057482,126.605844488786,"Winter",122
+7,-84.45,42.5833333,NA,1956,"Accipiter cooperii","Accipiter_cooperii",273,NA,"male",9,744,9.78398505908322,64.5417837555276,"Summer",582
+10,-122.972377,49.247638,"immature",1993,"Accipiter cooperii","Accipiter_cooperii",274,396,"male",10.4,1114,6.08940336431521,64.5535366435814,"Fall",640
+7,-118.3758545,33.7719269,"immature",1997,"Accipiter cooperii","Accipiter_cooperii",275,NA,"female",16.7,476,2.86176466008248,183.360785167233,"Summer",57
+6,-117.950592,33.9313968,"adult",2004,NA,"Accipiter_cooperii",275,NA,"male",17,325,3.76429598230854,156.947427152297,"Summer",255
+7,-122.0938,37.87151,"U",2009,"Accipiter cooperii","Accipiter_cooperii",275.5,417,"female",14.7,541,4.83741729237886,123.593773611056,"Summer",560
+4,-104.791221,39.725479,"juvenile",2012,"Accipiter cooperii","Accipiter_cooperii",275.8,397,"undetermined",12.1,269,8.81732110763533,73.3845027421629,"Spring",279
+9,-118.6325,47.128781,"Immature",1948,"Accipiter cooperii","Accipiter_cooperii",276.6,425,NA,8.7,344,8.91875789694072,54.0893710626214,"Fall",2
+1,-83.7446057,42.127185,"immature",2011,"Accipiter cooperii","Accipiter_cooperii",276.7,NA,"male",10.3,1106,10.5090545375275,50.4703065492914,"Winter",466
+7,-118.8720703,37.9701846,NA,2005,"Accipiter cooperii","Accipiter_cooperii",277,NA,"female",8,517,7.19854257134839,118.329647301413,"Summer",333
+7,-105.082332,39.704324,"juvenile",2009,"Accipiter cooperii","Accipiter_cooperii",277.5,410,"female",10.3,478,8.35317032901009,72.589327303053,"Summer",35
+4,-120.6800042,38.1976503,"u ad.",1936,"Accipiter cooperii","Accipiter_cooperii",277.5,NA,"male",16.7,921,6.94033009432418,145.430380059671,"Spring",135
+7,-122.0375401,37.94774,"immature",2000,"Accipiter cooperii","Accipiter_cooperii",278,NA,"male",15.4,486,4.69038345657335,134.571126362548,"Summer",109
+8,-118.9045486,36.4388371,"adult",1982,NA,"Accipiter_cooperii",278,NA,"female",16.7,869,7.25460668691406,84.9355770408201,"Summer",235
+4,-83.73863,42.27537,"adult",2007,"Accipiter cooperii","Accipiter_cooperii",278.5,NA,"male",10.1,903,10.7199156204278,43.5512105827102,"Spring",209
+12,-122.820598,38.423637,"first year plumage",2005,"Accipiter cooperii","Accipiter_cooperii",278.8,NA,"male ?",14.4,1168,3.87848572450016,124.594054150075,"Winter",120
+10,-119.771211,37.827725,"u imm.",1915,"Accipiter cooperii","Accipiter_cooperii",279,NA,"male",8,1025,6.26990768865399,113.731967182027,"Fall",382
+3,-117.821473,33.800967,NA,2003,"Accipiter cooperii","Accipiter_cooperii",280,NA,"male",16.5,345,3.39982174220765,145.791052008444,"Spring",89
+10,-83.7263412,42.2708397,"immature",1999,"Accipiter cooperii","Accipiter_cooperii",282,NA,"male",10.2,871,9.96574435785208,44.628272107928,"Fall",463
+9,-122.50966,37.97559,"immature",2001,"Accipiter cooperii","Accipiter_cooperii",282.4,NA,"female",14.5,1094,3.62491379207837,132.362616175161,"Fall",610
+10,-117.821473,33.800967,NA,1985,"Accipiter cooperii","Accipiter_cooperii",283,NA,"female",17.6,159,4.32946214029438,146.314196555762,"Fall",52
+9,-118.3758545,33.7719269,"juvenile",2005,"Accipiter cooperii","Accipiter_cooperii",283,NA,"male",15.7,536,2.02798601393779,157.248563475414,"Fall",75
+10,-122.26334,37.87056,"adult",1997,"Accipiter cooperii","Accipiter_cooperii",283,NA,"male",15.2,588,3.35938306024403,156.740476725724,"Fall",362
+6,-104.934141,39.723164,NA,2006,"Accipiter cooperii","Accipiter_cooperii",284.2,403,"male",11.2,393,8.70891218896778,59.4976278903883,"Summer",292
+11,-121.95602,37.94348,"adult",2003,"Accipiter cooperii","Accipiter_cooperii",284.5,NA,"male",15.1,448,5.10996501203701,114.841304644824,"Fall",613
+11,-118.25,34,"immature",1982,"Accipiter cooperii","Accipiter_cooperii",285,NA,"undetermined",17.6,346,3.60843918243516,111.266387191655,"Fall",71
+6,-117.9279327,33.8895124,"juvenile",2004,NA,"Accipiter_cooperii",286,NA,"male",16.9,320,3.6185025364176,155.440844493013,"Summer",258
+7,-106.8987177777,29.3920969444,"u ad.",1959,"Accipiter cooperii","Accipiter_cooperii",286,NA,"male",14.4,416,6.22801588133667,161.139334141977,"Summer",359
+4,-105.0815,39.7255,"adult",2010,"Accipiter cooperii","Accipiter_cooperii",286.8,408,"male",11.1,385,8.9446615194187,68.7830800359717,"Spring",283
+12,-109.7470238,31.7366859,"adult",1970,"Accipiter cooperii","Accipiter_cooperii",287,NA,"male",16.1,251,7.42078877617508,136.500030631577,"Winter",302
+1,-117.3666667,33.9833333,"immature",1978,"Accipiter cooperii","Accipiter_cooperii",287,NA,"female",18.2,520,5.62534174046072,125.570150631718,"Winter",325
+7,-122.013461,37.829881,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",287,NA,"female",15.4,548,4.7899199714957,123.546186089098,"Summer",374
+9,-118.5955,36.7887,"u juv.",1928,"Accipiter cooperii","Accipiter_cooperii",288,NA,"female",8.4,471,6.76011027344162,109.799087659749,"Fall",390
+6,-122.82817,40.32421,"u ad.",1943,"Accipiter cooperii","Accipiter_cooperii",288.3,NA,"male",14.4,687,6.28728273918266,121.916631216622,"Summer",403
+10,-118.49432,35.4277106,"imm.",1933,"Accipiter cooperii","Accipiter_cooperii",288.7,NA,"female ?",13.1,192,7.6035677431218,174.984785049846,"Fall",398
+6,-122.2553349,37.7702999,"1st year",2001,"Accipiter cooperii","Accipiter_cooperii",289,NA,"male",14.6,653,3.06460734545524,133.202553742453,"Summer",114
+12,-76.643707,42.331123,NA,2013,"Accipiter cooperii","Accipiter_cooperii",289,390,"male",8.1,1139,9.81339143798674,44.7176755859239,"Winter",275
+2,-83.8174438,42.0768202,"adult",1975,"Accipiter cooperii","Accipiter_cooperii",289,NA,"male",9.4,943,9.72629597191723,47.9551022685818,"Winter",448
+6,-122.26469,37.8727,"Juv",1994,"Accipiter cooperii","Accipiter_cooperii",289,NA,"male",13.9,526,3.39816126750924,125.953567596679,"Summer",603
+6,-114.256346,38.929166,"u ad.",1962,"Accipiter cooperii","Accipiter_cooperii",290,NA,"male",5.7,338,8.58892874401092,76.4282508032243,"Summer",99
+8,-83.7263412,42.2708397,"immature",1941,"Accipiter cooperii","Accipiter_cooperii",290,NA,"male",10.3,683,10.3579862322692,48.7778988168438,"Summer",176
+11,-118.418,47.292,NA,1983,"Accipiter cooperii","Accipiter_cooperii",290.1,NA,"male",9,409,7.84897213884491,69.3231354566794,"Fall",5
+7,-108.14806,28.56806,"u ad.",1957,"Accipiter cooperii","Accipiter_cooperii",290.5,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",358
+11,-122.06667,38.27038,"immature",2003,"Accipiter cooperii","Accipiter_cooperii",291,NA,"undetermined",15.7,545,5.45352263137406,118.525809524318,"Fall",558
+8,-104.8560902,39.3722121,"immature",1999,"Accipiter cooperii","Accipiter_cooperii",291.4,401,"male",9.5,466,7.20127829561593,92.2006980519734,"Summer",290
+4,-118.3789711,34.172226,NA,1995,"Accipiter cooperii","Accipiter_cooperii",292,NA,"male",18.2,717,4.14738873670329,192.050322778863,"Spring",61
+6,-118.081763,34.064898,"juvenile",2001,"Accipiter cooperii","Accipiter_cooperii",293,NA,"male",16.7,430,3.97456877782949,145.130101797357,"Summer",306
+12,-116.55,31.634444,"u imm.",1926,"Accipiter cooperii","Accipiter_cooperii",293,NA,"male",14.1,508,3.75486553041719,138.652228664706,"Winter",633
+7,-121.96536,38.0111,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",293.2,NA,"male",14.9,460,4.9738330441939,175.094655767124,"Summer",607
+9,-111.918203,33.8222611,"immature",1982,"Accipiter cooperii","Accipiter_cooperii",294,NA,"female",19.8,445,7.77757070431417,82.1111083061468,"Fall",87
+11,-83.843751,42.4484464,"immature",1975,"Accipiter cooperii","Accipiter_cooperii",294,NA,"female",9.1,934,9.77936913129168,57.6111953147962,"Fall",186
+9,-118.914639,34.172475,"juvenile",2005,NA,"Accipiter_cooperii",294,NA,"male",16.5,676,3.10624980946283,166.566780584272,"Fall",261
+11,-122.69737,37.90158,"Immature",2007,"Accipiter cooperii","Accipiter_cooperii",295.1,447,"male",12.7,429,2.35080579350738,125.337584784774,"Fall",617
+7,-83.95,42.45,"juvenile",1941,"Accipiter cooperii","Accipiter_cooperii",295.3,NA,"female",9.9,665,10.3526420284726,53.4465169423322,"Summer",643
+12,-118.9945507,34.2637427,"juvenile",2004,NA,"Accipiter_cooperii",296,NA,"female",15.5,364,3.17098589009026,171.954162391721,"Winter",505
+12,-117.8057313,33.7877614,"juvenile",2000,NA,"Accipiter_cooperii",296,NA,"male",16.5,268,3.38699607679761,150.167971120546,"Winter",507
+10,-117.465934,36.58766,"u ad.",1917,"Accipiter cooperii","Accipiter_cooperii",296.5,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",130
+7,-119.058289,34.369419,"adult",2002,NA,"Accipiter_cooperii",298,NA,"female",15.1,286,3.07378948826718,172.693418729042,"Summer",257
+8,-118.441108,35.131336,NA,1997,"Accipiter cooperii","Accipiter_cooperii",298,NA,"male",12.8,255,6.28250939055599,131.904051605023,"Summer",346
+6,-119.1162287,34.8077162,"imm.",1929,"Accipiter cooperii","Accipiter_cooperii",298,NA,"female",8,257,6.9901662528458,140.427028144661,"Summer",392
+12,-104.851006,40.524263,"immature",2012,"Accipiter cooperii","Accipiter_cooperii",300,432,"male",11,217,9.61696732894838,83.9692194792651,"Winter",16
+1,-84.3452168,42.13878,"adult",1991,"Accipiter cooperii","Accipiter_cooperii",300,NA,"male",10.2,785,9.96533385230414,46.615000129767,"Winter",197
+10,-118.251442,34.1428413,"immature",1983,"Accipiter cooperii","Accipiter_cooperii",300,NA,"male",18.4,961,4.44436994887062,103.017804571047,"Fall",316
+11,-118.1549,33.9651,"adult",1983,"Accipiter cooperii","Accipiter_cooperii",300,NA,"female",18.6,757,4.03577749634442,101.717989530704,"Fall",515
+4,-83.7816391,42.1667404,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",300.3,NA,"male",9.7,837,9.98181300711904,63.3930666052152,"Spring",204
+10,-123.364945,48.428382,"immature",1993,"Accipiter cooperii","Accipiter_cooperii",301,429,"male",10.3,595,5.20585334896298,62.5551300759516,"Fall",639
+4,-76.69664,44.48616,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",301.4,NA,"male",6.5,873,10.9693650544127,42.9334273643948,"Spring",434
+8,-122.42387,37.79382,"Imm.",1982,"Accipiter cooperii","Accipiter_cooperii",302.4,NA,"male",13,904,2.78937377570774,100.241464885687,"Summer",542
+1,-122.54966,37.95076,"adult",2002,"Accipiter cooperii","Accipiter_cooperii",303.2,NA,"male",14.6,998,3.51760722737212,174.246375451934,"Winter",611
+2,-117.35038,33.89611,"adult",2001,"Accipiter cooperii","Accipiter_cooperii",303.5,NA,"female",16.1,284,5.03643542777844,132.254043509881,"Winter",554
+8,-108.4167461155,30.0146438844,"u imm.",1948,"Accipiter cooperii","Accipiter_cooperii",304,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",95
+5,-118.3428535,34.1244526,NA,2004,"Accipiter cooperii","Accipiter_cooperii",304,NA,"male",16.8,464,3.52715655072657,167.07315669771,"Spring",307
+10,-117.7550697,35.2118254,NA,2000,"Accipiter cooperii","Accipiter_cooperii",305,NA,"female",16.8,96,7.2965070514264,153.561770418443,"Fall",48
+10,-116.373,33.74,NA,1982,"Accipiter cooperii","Accipiter_cooperii",305,NA,"undetermined",21.4,135,7.38025108384573,99.1304299057808,"Fall",72
+9,-118.301651,34.0320587,NA,1995,"Accipiter cooperii","Accipiter_cooperii",305,NA,"male",17.5,617,3.19156084166675,191.457191750775,"Fall",77
+6,-120.4269,44.3964,"u ad.",1923,"Accipiter cooperii","Accipiter_cooperii",305.2,NA,"male",6.6,380,7.22476276217406,59.9757483551794,"Summer",402
+6,-115.56667,36.4,"u ad.",1963,"Accipiter cooperii","Accipiter_cooperii",305.4,NA,"male",11.9,310,7.88863778231743,150.844373985848,"Summer",101
+12,-121.9420326,40.3415818,"u juv.",1927,"Accipiter cooperii","Accipiter_cooperii",305.5,NA,"undetermined",15.1,954,6.73315518816244,92.4141216423363,"Winter",132
+9,-105.149924,40.26551,"immature",2011,"Accipiter cooperii","Accipiter_cooperii",306.5,550,"undetermined",9.3,436,9.68139030211148,67.1647131941815,"Fall",21
+12,-122.69648,37.93236,"adult",1998,"Accipiter cooperii","Accipiter_cooperii",306.7,NA,"male",13.3,999,2.55537164467798,143.86735186292,"Winter",614
+8,-122.0685193,37.9404644,"immature",1998,"Accipiter cooperii","Accipiter_cooperii",307,NA,"female",14.7,697,4.8148366031623,143.410055745255,"Summer",103
+5,-115.458333,30.883333,"u imm.",1925,"Accipiter cooperii","Accipiter_cooperii",307,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",389
+12,-79.57963,43.5536,"juvenile",1948,"Accipiter cooperii","Accipiter_cooperii",309,NA,"male",8,720,10.4594563564617,35.9260756124215,"Winter",166
+3,-123.113521,49.261096,"adult",1994,"Accipiter cooperii","Accipiter_cooperii",309,417,"male",11,1322,5.58281996735331,61.9429400506454,"Spring",642
+10,-84.45,42.5833333,"adult",1954,"Accipiter cooperii","Accipiter_cooperii",309,NA,"male",9.2,841,9.61269284000917,48.0915947357754,"Fall",646
+12,-119.171276,34.3613637,"adult",2000,NA,"Accipiter_cooperii",310,NA,"female",15.5,436,3.73509157731227,176.710176688873,"Winter",233
+7,-105.094598,40.527004,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",311,411,"female",8.6,373,9.92190719691746,79.5617632383117,"Summer",286
+9,-83.7329865,42.3438278,NA,1941,"Accipiter cooperii","Accipiter_cooperii",311,NA,"male",10.1,675,10.3799924096428,47.5586065177635,"Fall",439
+8,-83.7263298,42.3417978,NA,1946,"Accipiter cooperii","Accipiter_cooperii",311.6,NA,"male",9.9,623,8.92833419598256,48.0174457269088,"Summer",178
+8,-84.45,42.5833333,"immature",1958,"Accipiter cooperii","Accipiter_cooperii",312,NA,"male",8.6,617,10.4253478976905,63.4213434405358,"Summer",585
+4,-105.187327,39.740455,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",312.2,403,"male",10.3,558,7.55506552926678,64.4802767766234,"Spring",30
+1,-112.0740051,33.4483414,"immature",1982,"Accipiter cooperii","Accipiter_cooperii",313,NA,"female",21.1,276,7.89304930129841,82.5876788385802,"Winter",342
+4,-105.03167,39.60111,"adult",2005,"Accipiter cooperii","Accipiter_cooperii",313.4,390,"male",11.3,378,8.22738866484526,66.3681725215325,"Spring",295
+10,-118.301651,34.0320587,NA,1986,"Accipiter cooperii","Accipiter_cooperii",315,NA,"female",18.2,360,2.49581467843486,134.835419842692,"Fall",55
+1,-121.65041,37.60228,"imm.",1994,"Accipiter cooperii","Accipiter_cooperii",315,NA,"female",14.9,469,5.59601454500243,110.850247745835,"Winter",361
+3,-116.3744545,33.7222404,NA,1982,"Accipiter cooperii","Accipiter_cooperii",316,NA,"female",21.3,137,7.40656445119442,97.7844651096783,"Spring",330
+8,-95.2412999,38.9549568,"immature",1955,"Accipiter cooperii","Accipiter_cooperii",316.5,NA,"male",12.7,748,10.9531924224139,65.5450745984551,"Summer",41
+8,-79.9175,43.312222,"juvenile",1941,"Accipiter cooperii","Accipiter_cooperii",317,NA,"male",8.3,639,10.1346502832429,40.9726668065223,"Summer",164
+5,-83.1763229,42.3222389,"immature",2003,"Accipiter cooperii","Accipiter_cooperii",317,NA,"male",9.5,836,10.2140277871349,46.9586983067919,"Spring",208
+9,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",318,NA,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",159
+12,-83.8885498,42.3383369,"immature",1982,"Accipiter cooperii","Accipiter_cooperii",318,NA,"male",8.7,837,10.6046694975145,49.3106503875799,"Winter",182
+8,-122.0180006,37.8279366,"immature plumage",2001,"Accipiter cooperii","Accipiter_cooperii",318.5,NA,"female",14.9,673,4.73154308867625,128.275724164857,"Summer",113
+9,-114.885,39.90056,"imm.",1930,"Accipiter cooperii","Accipiter_cooperii",319,NA,"female",6.8,370,9.40889327855687,68.1408602658598,"Fall",394
+11,-122.260543,37.838641,"immature by plumage",2004,"Accipiter cooperii","Accipiter_cooperii",319.5,NA,"male",15,542,3.11481066110694,128.242549802834,"Fall",123
+5,-102.494438,40.569446,"adult",2012,"Accipiter cooperii","Accipiter_cooperii",319.7,415,"male",11.8,254,9.8457959033131,72.4891688479616,"Spring",574
+3,-86.6459,38.80399,"U-Ad.",1988,"Accipiter cooperii","Accipiter_cooperii",319.9,NA,"male",12,928,10.2049119189108,51.5992045564468,"Spring",543
+11,-117.8849316,33.6438489,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",320,NA,"male",15.2,158,2.58925518716144,145.69014873163,"Fall",91
+9,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",320,NA,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",161
+10,-84.376267,42.5456,"immature",1979,"Accipiter cooperii","Accipiter_cooperii",320,NA,"male",7.9,726,10.7922917216901,50.5571167262344,"Fall",183
+3,-117.7641561,33.6662353,"immature",1982,"Accipiter cooperii","Accipiter_cooperii",320,NA,"female",16.7,350,4.11479223673749,111.980707324622,"Spring",305
+1,-76.48236,42.460012,NA,2001,"Accipiter cooperii","Accipiter_cooperii",320,406,"male",9.2,809,9.18907041824771,57.7071161711364,"Winter",564
+3,-122.082813,37.892209,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",320.2,NA,"male",15.5,578,4.77766267185751,127.137656049884,"Spring",121
+9,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",322,NA,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",160
+10,-82.73856,42.03748,"juvenile",1935,"Accipiter cooperii","Accipiter_cooperii",322,NA,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",168
+4,-83.3666667,43.9,NA,1933,"Accipiter cooperii","Accipiter_cooperii",322,NA,"male",7.9,726,10.5977234547917,51.1691859496215,"Spring",661
+10,-83.7537575,42.4083754,"immature",1995,"Accipiter cooperii","Accipiter_cooperii",322.6,NA,"male",9.3,783,10.8972160748431,43.2396547584196,"Fall",454
+10,-121.928536,37.807716,"skull not fully ossified",2003,"Accipiter cooperii","Accipiter_cooperii",322.7,NA,"female",15.3,493,4.93361997529259,114.899535816421,"Fall",368
+11,-79.7597,43.4237,"immature",2003,"Accipiter cooperii","Accipiter_cooperii",324,NA,"female",7.3,848,10.2901063103735,32.4510101607798,"Fall",636
+7,-93.82525,48.90185,"not applicable",1929,"Accipiter cooperii","Accipiter_cooperii",324.5,NA,"male",1.5,422,14.4096558535651,41.9524409763164,"Summer",414
+3,-83.8166667,42.25,NA,1978,"Accipiter cooperii","Accipiter_cooperii",324.9,NA,"male",7.9,743,11.4768112718515,37.4600485906161,"Spring",651
+12,-79.366673,43.691256,"not applicable",1958,"Accipiter cooperii","Accipiter_cooperii",325,NA,"female",7.3,561,10.2640111185844,43.0093619422197,"Winter",170
+4,-83.6392593,42.5361331,"immature",1979,"Accipiter cooperii","Accipiter_cooperii",325,NA,"male",7.8,712,10.7762470276066,49.1227285266918,"Spring",445
+12,-104.68761,40.427573,"adult",2013,"Accipiter cooperii","Accipiter_cooperii",325.6,318,"female",9.5,301,10.392519891584,75.0836319181426,"Winter",19
+8,-94.56915,48.72362,"juvenile",1929,"Accipiter cooperii","Accipiter_cooperii",326,NA,"undetermined",1.9,355,14.4086122184132,45.1910240663824,"Summer",415
+12,-118.8066483,34.0016289,"adult",1984,NA,"Accipiter_cooperii",327,NA,"female",17.3,207,3.5774123033107,197.650272912629,"Winter",234
+10,-118.5364723,34.2011166,NA,2002,"Accipiter cooperii","Accipiter_cooperii",327,NA,"male",16.5,197,3.78668920714589,153.324448986698,"Fall",310
+9,-117.1143,38.96403,"u imm.",1931,"Accipiter cooperii","Accipiter_cooperii",327,NA,"female",9.8,177,9.48371411069173,55.5409578086907,"Fall",395
+2,-122.30168,38.30421,"U-Ad.",1982,"Accipiter cooperii","Accipiter_cooperii",328.1,NA,"female",13.7,1071,5.01019415337824,99.7595077843863,"Winter",539
+2,-79.371896,43.650458,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",329,NA,"male",7.8,790,10.0963389704417,42.4012558682867,"Winter",174
+12,-122.69648,37.90533,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",329.1,NA,"female",13,691,2.0866821569761,176.037681272374,"Winter",612
+4,-120.1388,39.17212,"U-Ad.",1980,"Accipiter cooperii","Accipiter_cooperii",329.3,NA,"male",6.1,975,5.89966614361021,137.72625840545,"Spring",541
+3,-83.4959006,42.3734071,"adult",2010,"Accipiter cooperii","Accipiter_cooperii",330.2,NA,"male",10.5,808,10.8785722102367,63.2012222109181,"Spring",213
+7,-122.0542,37.9116,"immature",1999,"Accipiter cooperii","Accipiter_cooperii",331,NA,"male",14.4,427,4.67808397711816,128.472856134595,"Summer",105
+11,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",331,NA,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",157
+8,-85.1213837,42.2035989,"immature",1940,"Accipiter cooperii","Accipiter_cooperii",331.59,NA,NA,8.1,984,10.8095075995836,57.8558907448802,"Summer",438
+12,-122.88289,38.41244,"U-Ad.",1977,"Accipiter cooperii","Accipiter_cooperii",335.2,NA,"female",13.8,841,4.0171130143048,116.387785936704,"Winter",600
+11,-82.73856,42.03748,"juvenile",1929,"Accipiter cooperii","Accipiter_cooperii",335.5,NA,"male",8.9,965,10.0112171935769,38.1225451505046,"Fall",152
+6,-84.3774,42.0449,"immature",2005,"Accipiter cooperii","Accipiter_cooperii",335.9,NA,"female",9.5,786,10.9028214307818,50.4195176818335,"Summer",521
+1,-83.7400246,42.2754036,"immature",1994,"Accipiter cooperii","Accipiter_cooperii",337.5,NA,"male",9.9,835,10.4907860005383,39.6164758702311,"Winter",193
+7,-121.8006924,37.6428119,"immature plumage",2001,"Accipiter cooperii","Accipiter_cooperii",338,NA,"female",15.3,435,5.03450969596721,121.982683850792,"Summer",115
+4,-104.644109,39.4659,"adult",1988,"Accipiter cooperii","Accipiter_cooperii",338,392,"male",9,464,9.19258594540385,85.7345996435852,"Spring",289
+84,-85.5295561,42.2448504,NA,1983,"Accipiter cooperii","Accipiter_cooperii",338,NA,"male",9.7,998,10.483276725771,47.4735559133303,"Winter",527
+3,-83.6333333,42.8,"adult",1988,"Accipiter cooperii","Accipiter_cooperii",338,NA,"male",8.8,732,10.9438615698759,61.6326850574156,"Spring",667
+9,-118.2967341,33.8108199,"adult",1993,"Accipiter cooperii","Accipiter_cooperii",339,NA,"female",16.8,544,2.79906640279803,197.391774403825,"Fall",88
+2,-104.689488,40.429136,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",340,470,"female",9.5,300,10.4047046468354,75.0836319181426,"Winter",17
+12,-84.7482186,49.2678238,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",340,NA,"female",0.6,806,12.3059575372699,35.5699588721635,"Winter",171
+11,-123.4851937,39.6863371,"u ad.",1917,"Accipiter cooperii","Accipiter_cooperii",340,NA,"male",11.4,1250,5.16629519681232,110.863674659798,"Fall",384
+9,-119.3439674,34.3940204,NA,2004,"Accipiter cooperii","Accipiter_cooperii",341,NA,"female",15.5,446,3.82577977791337,169.709060902783,"Fall",324
+1,-83.7263412,42.2708397,"adult",2013,"Accipiter cooperii","Accipiter_cooperii",341.5,NA,"male",9.7,954,10.3529640024663,55.1826048279845,"Winter",221
+1,-83.7263412,42.2708397,NA,1976,"Accipiter cooperii","Accipiter_cooperii",342,NA,"male",8.6,698,10.6434216416726,51.8966552298352,"Winter",449
+11,-83.7389731,43.0794365,"adult",2009,"Accipiter cooperii","Accipiter_cooperii",343.5,NA,"male",7.9,899,9.87239800779134,53.0263894659818,"Fall",214
+7,-122.304185,37.996433,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",344.3,NA,"female",14.8,543,3.65441824744688,128.225713313923,"Summer",371
+10,-118.399,33.987,"adult",1984,NA,"Accipiter_cooperii",346,NA,"female",18.3,224,3.84644660890432,211.618958243208,"Fall",483
+3,-118.3349152,33.8320503,NA,2001,"Accipiter cooperii","Accipiter_cooperii",347,NA,"female",15.3,439,2.94097231911798,146.333642272414,"Spring",63
+1,-82.73856,42.03748,"not applicable",1937,"Accipiter cooperii","Accipiter_cooperii",347,NA,"male",9.7,826,9.77124336866588,66.926147916188,"Winter",151
+12,-122.256768,38.340537,"juvenile",2010,"Accipiter cooperii","Accipiter_cooperii",347,NA,"female",15.4,916,4.76473790178718,108.466267685955,"Winter",380
+8,-83.8166667,42.25,NA,1981,"Accipiter cooperii","Accipiter_cooperii",348,NA,"male",8.8,901,10.1437359383946,55.0423161363743,"Summer",587
+10,-83.9858,42.73109,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",348.2,NA,"male",9,918,10.4000874122201,56.4050256497694,"Fall",227
+3,-122.1424,37.9077,"adult",1999,"Accipiter cooperii","Accipiter_cooperii",349,NA,"female",13.8,530,4.51061878439996,127.25458023881,"Spring",363
+12,-118.251442,34.1428413,"immature",1996,"Accipiter cooperii","Accipiter_cooperii",350,NA,"female",18.8,504,3.88653464093034,123.767891768329,"Winter",46
+7,-121.89741,38.01437,"Immature",2007,"Accipiter cooperii","Accipiter_cooperii",350,424,"female",15,274,5.39569834275978,127.539555008085,"Summer",561
+2,-83.7833333,42.1666667,"immature",2012,"Accipiter cooperii","Accipiter_cooperii",350.3,NA,"male",11.5,694,9.15086930793513,38.3451716125559,"Winter",658
+10,-83.7166667,42.3166667,NA,1949,"Accipiter cooperii","Accipiter_cooperii",350.5,NA,"female",10.3,835,9.78258734443578,23.0385388149746,"Fall",645
+12,-84.0833333,42.2833333,"first year",1985,"Accipiter cooperii","Accipiter_cooperii",351,NA,"female",8.3,940,10.7275452584796,34.3856022899316,"Winter",589
+8,-117.9672431,33.7744386,"juvenile",1988,NA,"Accipiter_cooperii",352,NA,"female",17.8,221,3.07955132505311,135.244998490996,"Summer",241
+5,-80.40111,42.71556,"adult",1994,"Accipiter cooperii","Accipiter_cooperii",353,NA,"male",8.1,907,10.2228316957088,35.5917208938536,"Spring",637
+1,-83.6166667,42.2,NA,1986,"Accipiter cooperii","Accipiter_cooperii",353,NA,"female",9.5,893,9.95910958049783,52.8504096327415,"Winter",652
+7,-118.2884216,33.7361891,NA,2003,"Accipiter cooperii","Accipiter_cooperii",354,NA,"female",15.9,275,2.58297162668165,145.446776652036,"Summer",64
+1,-83.8,42.4,"immature",1988,"Accipiter cooperii","Accipiter_cooperii",354.5,NA,"male",9.1,831,11.0194146850003,59.3375568060593,"Winter",654
+10,-118.0062103,36.2822326,"immature",1999,"Accipiter cooperii","Accipiter_cooperii",354.9,NA,"female",14.8,88,7.49306750310316,125.628368006305,"Fall",457
+9,-115.29143,46.02538,"Imm.",1941,"Accipiter cooperii","Accipiter_cooperii",354.9,NA,"female",9.3,846,7.67500370150932,47.8519191345838,"Fall",595
+11,-110.926445,32.2217751,"adult",1981,"Accipiter cooperii","Accipiter_cooperii",355,NA,"female",20.5,236,7.05671826894575,78.8421340912787,"Fall",319
+1,-79.497395,43.649666,"not applicable",1941,"Accipiter cooperii","Accipiter_cooperii",355,NA,"male",8.2,655,10.5632582209479,39.0685091807634,"Winter",425
+1,-118.3866119,33.8430453,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",357,NA,"female",15.9,267,2.69646232885036,147.388617899086,"Winter",81
+2,-84.4333333,42.2,NA,1977,"Accipiter cooperii","Accipiter_cooperii",357.7,NA,"male",8.9,793,11.1317590975578,45.3804872729506,"Winter",648
+12,-122.1575,38.0494,"Immature",2008,"Accipiter cooperii","Accipiter_cooperii",357.99,455,"female",14.8,378,4.94578945501457,174.177626507944,"Winter",622
+12,-83.997309,42.071016,NA,2011,"Accipiter cooperii","Accipiter_cooperii",358,NA,"female",10.2,1145,10.4902949376454,43.7751130759807,"Winter",220
+8,-122.24292,37.79425,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",358.3,NA,"female",14.5,524,2.92699038728738,171.52724432961,"Summer",553
+12,-83.9255047,42.232839,NA,1989,"Accipiter cooperii","Accipiter_cooperii",358.9,NA,"male",8.3,843,10.5238365800518,49.326462317434,"Winter",450
+10,-118.0063819,33.6904955,"juvenile",2003,"Accipiter cooperii","Accipiter_cooperii",360,NA,"female",15.8,280,2.67525133342079,144.567681281962,"Fall",323
+1,-123.61833,40.91792,"u ad.",1942,"Accipiter cooperii","Accipiter_cooperii",361,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",139
+2,-83.4833333,42.2,"adult",1977,"Accipiter cooperii","Accipiter_cooperii",362,NA,"male",8.9,876,11.0574087325552,39.0143972794727,"Winter",650
+5,-115.233067,37.53167,"u ad.",1932,"Accipiter cooperii","Accipiter_cooperii",362.5,NA,"female",12.4,163,9.40989163625494,83.4493057286671,"Spring",134
+12,-83.6088753,42.2898817,"juvenile",1993,"Accipiter cooperii","Accipiter_cooperii",363.4,NA,"female",9,818,10.0398712716606,48.2339649357635,"Winter",195
+7,-122.45719,37.75826,"Imm.",1977,"Accipiter cooperii","Accipiter_cooperii",364.5,NA,"female",12.9,433,2.37269824665864,107.474721524005,"Summer",599
+1,-83.7287807,42.2077314,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",364.9,NA,"female",10.8,754,9.86406087621609,30.8007412850232,"Winter",201
+1,-83.7263412,42.2708397,NA,2013,"Accipiter cooperii","Accipiter_cooperii",365,NA,"female",9.7,954,10.3529640024663,55.1826048279845,"Winter",222
+2,-78.29676,43.95541,"adult",2001,"Accipiter cooperii","Accipiter_cooperii",365,NA,"male",8.8,758,9.72338636608884,28.7177220006736,"Winter",429
+10,-118.301651,34.0320587,"immature",1994,"Accipiter cooperii","Accipiter_cooperii",367,NA,"female",17.3,233,3.5808412757932,144.0634875553,"Fall",76
+2,-79.941,43.72098,"not applicable",1959,"Accipiter cooperii","Accipiter_cooperii",369,NA,"male",7.1,853,11.1623962888392,28.5325879749265,"Winter",431
+8,-122.29836,37.3901,"Immature",2001,"Accipiter cooperii","Accipiter_cooperii",369.6,439,"female",14.3,1360,4.26027278967254,125.965288287738,"Summer",623
+2,-118.7745361,34.1297025,"adult",2003,"Accipiter cooperii","Accipiter_cooperii",370,NA,"female",16.9,357,3.94449174818698,134.557945253242,"Winter",53
+5,-77.6095247,44.0847182,"adult",2005,"Accipiter cooperii","Accipiter_cooperii",370.7,NA,"male",7.8,840,11.2940719231843,31.9548747515728,"Spring",406
+12,-122.890551,38.100079,NA,1988,"Accipiter cooperii","Accipiter_cooperii",371.8,NA,"female",13.6,652,2.67355171782384,132.752931947814,"Winter",300
+1,-75.983569,42.334269,"immature",2008,"Accipiter cooperii","Accipiter_cooperii",372.5,451,"female",8,1032,9.48039444263153,38.6195493298667,"Winter",12
+7,-122.33511,37.93927,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",372.9,NA,"female",14.2,538,2.87669581080079,165.886985421436,"Summer",609
+7,-122.175776,38.08402,"juvenile",2004,"Accipiter cooperii","Accipiter_cooperii",373,NA,"undetermined",15.3,531,4.63592689565077,127.878830314343,"Summer",370
+3,-82.73856,42.03748,"juvenile",1929,"Accipiter cooperii","Accipiter_cooperii",374,NA,"male",8.9,965,10.0112171935769,38.1225451505046,"Spring",154
+10,-117.6657791,33.5006599,"juvenile",1988,NA,"Accipiter_cooperii",375,NA,"female",17.3,242,3.2861509214867,131.130745209906,"Fall",487
+4,-105.17449,40.422617,"Adult",2013,"Accipiter cooperii","Accipiter_cooperii",375.8,441,"female",8.8,380,9.89260513533399,76.8110135323288,"Spring",37
+2,-83.7263412,42.2708397,"juvenile",1990,"Accipiter cooperii","Accipiter_cooperii",376,NA,"female",10.3,1143,8.6246299876715,40.3792365163565,"Winter",451
+10,-105.2659417,40.007581,"immature",2000,"Accipiter cooperii","Accipiter_cooperii",376.7,440,"female",10.7,373,9.0605538662731,52.8536610830773,"Fall",28
+8,-119.0342812,34.2220475,"juvenile",2003,NA,"Accipiter_cooperii",377,NA,"female",15.4,281,2.572347118289,135.294813882487,"Summer",502
+8,-118.3349152,33.8320503,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",378,NA,"female",15.4,192,2.37690912104291,160.808504128358,"Summer",320
+1,-108.0750833333,36.6982222222,NA,2002,"Accipiter cooperii","Accipiter_cooperii",378,NA,"female",11.7,176,9.56120237779177,134.00434739438,"Winter",632
+9,-77.669368,43.287013,NA,2009,"Accipiter cooperii","Accipiter_cooperii",378.2,475,"female",8.7,810,9.08819997512592,37.1414956067062,"Fall",569
+9,-77.669368,43.287013,NA,2009,"Accipiter cooperii","Accipiter_cooperii",378.2,475,"female",8.7,810,9.08819997512592,37.1414956067062,"Fall",571
+1,-85.4554367,42.375666,"immature",1984,"Accipiter cooperii","Accipiter_cooperii",379,NA,"female",9.4,873,10.2978667988113,47.2257750577605,"Winter",519
+7,-122.2562,37.7695,"immature",1999,"Accipiter cooperii","Accipiter_cooperii",380,NA,"female ?",13.8,430,3.07166917410575,122.095862244251,"Summer",107
+2,-76.5067,44.24199,"immature",1998,"Accipiter cooperii","Accipiter_cooperii",380,NA,"female",9.3,837,9.21768310467342,47.8368177178148,"Winter",410
+11,-83.8833333,42.3833333,"adult",1952,"Accipiter cooperii","Accipiter_cooperii",382,NA,"in question",9.8,668,9.68129640079261,34.7206330310885,"Fall",653
+9,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",385,NA,"male",9.5,645,10.1647340438311,41.2680657101302,"Fall",421
+10,-83.6166667,42.2,NA,1944,"Accipiter cooperii","Accipiter_cooperii",385,NA,"female",9.7,657,10.6627750950338,50.8687797636571,"Fall",581
+10,-118.4166667,34.15,NA,1981,"Accipiter cooperii","Accipiter_cooperii",385.2,NA,"female",18.8,309,4.24242640692585,134.606116416537,"Fall",315
+8,-123.8761,46.1339,"juv.",1940,"Accipiter cooperii","Accipiter_cooperii",385.4,NA,"female",11.6,1862,3.86086620835116,78.3867931523987,"Summer",401
+7,-76.613705,42.582192,"imm.",2013,"Accipiter cooperii","Accipiter_cooperii",386.7,381,"female",9.7,1004,9.62386553723543,48.4744168437703,"Summer",572
+10,-111.3250961,34.230835,"adult",1981,"Accipiter cooperii","Accipiter_cooperii",387,NA,"female",14.2,500,7.26784116168723,53.8831058023671,"Fall",56
+11,-118.310257,34.0933456,NA,2000,"Accipiter cooperii","Accipiter_cooperii",388,NA,"female",16.5,317,3.0242955603518,173.047767956393,"Fall",66
+12,-92.9449,36.2633,"ad.",1938,"Accipiter cooperii","Accipiter_cooperii",388,NA,"female",15.9,1233,8.45969051658296,50.4120318060558,"Winter",138
+1,-118.1737518,33.7745814,NA,2000,"Accipiter cooperii","Accipiter_cooperii",388,NA,"male",16.2,231,2.82955184373138,148.62901736082,"Winter",344
+11,-122.9024658,38.1614977,"immature plumage",1997,"Accipiter cooperii","Accipiter_cooperii",388,NA,"female",13.9,844,3.1247181691096,137.908255792753,"Fall",381
+8,-118.2940292,37.1661072,"immature",1985,"Accipiter cooperii","Accipiter_cooperii",390,NA,"female",14.2,138,8.21301166479511,106.918274597281,"Summer",54
+4,-117.9279327,33.8895124,"adult",2000,NA,"Accipiter_cooperii",390,NA,"female",16.6,264,3.32109875940132,156.523223905914,"Spring",236
+8,-116.3038572,34.0304563,"imm.",1950,"Accipiter cooperii","Accipiter_cooperii",390,NA,"female",13.9,82,5.9258805764258,102.312243370886,"Summer",355
+4,-83.6612932,42.2052815,NA,1940,"Accipiter cooperii","Accipiter_cooperii",390,NA,"male",8.5,799,10.7444136295297,48.2267372089195,"Spring",480
+9,-103.29922,44.00372,NA,2009,"Accipiter cooperii","Accipiter_cooperii",390.4,NA,"female",6.1,560,9.16568038771247,69.2465832399453,"Fall",570
+10,-119.0342812,34.2220475,"adult",2002,NA,"Accipiter_cooperii",392,NA,"female",14.8,257,2.45262691575355,178.923151990406,"Fall",243
+2,-83.60994,42.194892,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",392,NA,"female",9.6,941,10.2156297362958,54.2387905343979,"Winter",474
+1,-88.6559067,43.5496941,NA,1947,"Accipiter cooperii","Accipiter_cooperii",394,NA,"female",7.6,814,11.7008514323712,60.7766400069889,"Winter",180
+12,-121.70983,37.92805,"HY",2008,"Accipiter cooperii","Accipiter_cooperii",394,485,"female",15.6,236,6.01294059054757,171.701228848683,"Winter",562
+12,-118.1904082,34.0238991,"immature",2001,"Accipiter cooperii","Accipiter_cooperii",395,NA,"female",16.2,420,3.52028752269246,146.239255465099,"Winter",59
+5,-78.7896,45.11403,"adult",1974,"Accipiter cooperii","Accipiter_cooperii",395.6,NA,"female",4.3,1145,10.3392859198947,32.4985076808213,"Spring",635
+2,-79.186515,43.81837,"adult",1987,"Accipiter cooperii","Accipiter_cooperii",396.1,NA,"female",8.6,782,9.74761820169731,39.1495649239975,"Winter",518
+7,-122.283559,37.873822,"adult by plumage",2004,"Accipiter cooperii","Accipiter_cooperii",396.2,NA,"female",15,532,3.07229802452743,127.186690757221,"Summer",376
+10,-122.71049,37.92209,"Immature",2009,"Accipiter cooperii","Accipiter_cooperii",396.7,435,"female",13.3,608,2.56957725564484,121.80888527744,"Fall",620
+1,-77.792417,44.309135,"juvenile",2005,"Accipiter cooperii","Accipiter_cooperii",397,NA,"female",7.2,839,11.36712431319,30.1960543585057,"Winter",435
+9,-104.988974,39.249131,NA,1991,"Accipiter cooperii","Accipiter_cooperii",397.5,450,"undetermined",8.4,633,7.99160070437593,73.8992581027556,"Fall",573
+1,-76.1804783,42.6011955,NA,2001,"Accipiter cooperii","Accipiter_cooperii",398,NA,"female",8.5,924,9.24358499914203,53.5382352176005,"Winter",565
+6,-117.5214386,33.5860233,"adult",1999,NA,"Accipiter_cooperii",400,NA,"female",15.8,164,3.3162021907141,124.915294694705,"Summer",250
+7,-122.229484,37.763937,"immature",2004,"Accipiter cooperii","Accipiter_cooperii",401,NA,"female",15.3,517,3.09089572189622,128.172475415499,"Summer",125
+1,-85.587204,42.2917404,NA,1988,"Accipiter cooperii","Accipiter_cooperii",401,NA,"female",9.4,902,10.9739636771715,53.4831119235109,"Winter",189
+2,-83.7263412,42.2708397,NA,2007,"Accipiter cooperii","Accipiter_cooperii",401.1,NA,"male",10.1,902,10.7183643030704,44.0536255680916,"Winter",460
+1,-117.7132058,33.5599749,"juvenile",2002,NA,"Accipiter_cooperii",402,NA,"female",15.7,169,3.08646851252169,137.291210852729,"Winter",252
+9,-118.5541534,34.4256025,NA,1994,"Accipiter cooperii","Accipiter_cooperii",403,NA,"male",17.4,282,5.38811121119845,125.406944264498,"Fall",345
+1,-83.6130371,42.2411385,"adult",2010,"Accipiter cooperii","Accipiter_cooperii",403.1,NA,"female",10.7,871,10.867002458095,69.5438607234442,"Winter",464
+3,-122.902595,47.043084,NA,1983,"Accipiter cooperii","Accipiter_cooperii",403.3,NA,"female",10.6,1562,4.94705299479734,81.3036466866964,"Spring",369
+4,-85.5295561,42.2448504,NA,1983,"Accipiter cooperii","Accipiter_cooperii",404,NA,"female",9.7,998,10.483276725771,47.4735559133303,"Spring",446
+2,-118.301651,34.0320587,NA,1996,"Accipiter cooperii","Accipiter_cooperii",405,NA,"female",17.8,420,3.03624568814644,124.139826732119,"Winter",82
+6,-83.83701,42.24148,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",405.1,NA,"female",9.5,841,10.00199980004,63.5933047348099,"Summer",468
+9,-119.2752457,34.2785149,"juvenile",1994,NA,"Accipiter_cooperii",407,NA,"female",15.1,297,2.71565327817686,143.398460246114,"Fall",493
+9,-105.145194,40.632564,"Immature",2011,"Accipiter cooperii","Accipiter_cooperii",407.8,458,"female",8.7,487,9.63080600170226,82.1858478437091,"Fall",297
+7,-122.16834,37.746474,"juvenile by plumage",2004,"Accipiter cooperii","Accipiter_cooperii",407.95,NA,"female",15.3,524,3.20542863393848,125.616226897839,"Summer",126
+11,-118.3883286,33.9968887,"immature",1994,"Accipiter cooperii","Accipiter_cooperii",408,NA,"female",16.6,244,3.05460407591656,148.351554568996,"Fall",334
+10,-116.361351,33.6959944,"juvenile",1983,NA,"Accipiter_cooperii",408.5,NA,"female",21.7,178,7.34467442602069,98.2615608215461,"Fall",482
+7,-122.04563,37.90851,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",408.5,NA,"female",15,512,4.6509937028814,177.783723563797,"Summer",551
+3,-83.7400246,42.2754036,"adult",2003,"Accipiter cooperii","Accipiter_cooperii",409,NA,"female",9.3,892,10.1640297126681,38.7334456336678,"Spring",200
+8,-122.04933,37.96103,"immature",2003,"Accipiter cooperii","Accipiter_cooperii",409,NA,"female",15.8,433,5.07992931232137,113.782219962798,"Summer",615
+10,-117.186693,46.741547,NA,2010,"Accipiter cooperii","Accipiter_cooperii",409.5,NA,"female",8.6,582,6.59225900491469,53.7414537094081,"Fall",266
+8,-118.0322876,33.9741287,NA,2004,"Accipiter cooperii","Accipiter_cooperii",410,NA,"female",17.2,337,3.8169776239609,157.925655724299,"Summer",321
+1,-83.7439423,42.4394341,NA,2001,"Accipiter cooperii","Accipiter_cooperii",411.8,NA,"female",10.1,888,9.36704409894152,50.5891973013133,"Winter",199
+4,-119.6206589,34.4350967,"JUVENILE",1999,"Accipiter cooperii","Accipiter_cooperii",412,NA,"female",14.3,273,2.72067003779316,139.551952600985,"Spring",85
+9,-119.4969,36.7339,"imm.",1924,"Accipiter cooperii","Accipiter_cooperii",412.5,NA,"female",17.3,221,7.1553487092884,116.128465155622,"Fall",131
+1,-83.9817238,42.2742604,"adult",1994,"Accipiter cooperii","Accipiter_cooperii",412.5,NA,"male",9.2,805,10.5261686891636,45.3959808224184,"Winter",196
+10,-117.897464,46.393267,"Immature",1947,"Accipiter cooperii","Accipiter_cooperii",413,464,"female",10.3,581,7.57327838221635,69.741057558118,"Fall",3
+8,-117.60269,46.474874,"Imm",1948,"Accipiter cooperii","Accipiter_cooperii",414,463,"male",8.9,563,7.96965361781042,59.6294288682991,"Summer",267
+8,-107.01155,29.27428,"u ad.",1961,"Accipiter cooperii","Accipiter_cooperii",414.6,NA,"female",14.5,405,6.18004486597424,117.118632753466,"Summer",360
+5,-118.047066,46.33722,"Immature",1948,"Accipiter cooperii","Accipiter_cooperii",416,466,"female",9.1,657,7.71313323121183,58.6936022507163,"Spring",1
+1,-100.4421616,37.1680456,NA,1950,"Accipiter cooperii","Accipiter_cooperii",416.5,NA,"undetermined",13.6,411,8.91173468812415,150.234770109294,"Winter",179
+6,-117.179457,46.728691,NA,1974,"Accipiter cooperii","Accipiter_cooperii",416.7,NA,"female",8.5,489,7.664612702465,78.7202166869468,"Summer",4
+1,-121.42517,39.02442,"Ad.",1959,"Accipiter cooperii","Accipiter_cooperii",417.6,NA,"male",17.4,395,6.51164458117265,140.462220551478,"Winter",596
+7,-118.24639,40.5275,"u imm.",1936,"Accipiter cooperii","Accipiter_cooperii",419,NA,"female",11.2,225,8.60827649662952,77.957771526732,"Summer",399
+7,-77.37481,44.17581,"nestling",1999,"Accipiter cooperii","Accipiter_cooperii",420,NA,"male",8.8,852,10.357880179756,37.8219985049891,"Summer",156
+4,-117.8983078,33.9191093,"adult",1985,NA,"Accipiter_cooperii",420,NA,"female",17.9,168,4.41329774315046,146.413113418675,"Spring",484
+2,-76.12307,44.55018,"adult",1998,"Accipiter cooperii","Accipiter_cooperii",420,NA,"male",9,777,9.55438975740281,49.4091513385122,"Winter",578
+12,-85.59869,43.28658,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",421,NA,"female",8.3,1051,10.3904785960294,46.449017815432,"Winter",225
+6,-117.3044,33.9844,"juvenile",2009,"Accipiter cooperii","Accipiter_cooperii",421,NA,"female",16.8,157,4.86860691916418,183.592738707972,"Summer",631
+9,-119.0966892,34.2098857,"juvenile",1994,NA,"Accipiter_cooperii",422.4,NA,"female",15.4,270,2.78790678510316,146.360255379176,"Fall",490
+10,-122.24253,37.85904,"U-Ad",1998,"Accipiter cooperii","Accipiter_cooperii",424.8,NA,"female",13.7,878,3.23450853369495,144.825280601839,"Fall",668
+11,-112.3029362,33.5939281,"adult",1980,"Accipiter cooperii","Accipiter_cooperii",425,NA,"female",21.5,205,7.48069738282022,143.694128329986,"Fall",73
+10,-84.3935394,42.806075,NA,1939,"Accipiter cooperii","Accipiter_cooperii",425,481,NA,9.3,676,10.0373054152995,50.4383640736712,"Fall",203
+4,-85.6964188,42.4606361,NA,1979,"Accipiter cooperii","Accipiter_cooperii",425,NA,"female",8.1,959,10.7312627402371,54.7266197712108,"Spring",458
+9,-117.883877,33.740259,"juvenile",1989,NA,"Accipiter_cooperii",425,NA,"female",17.5,106,3.24634993165985,117.731230942547,"Fall",488
+8,-118.4984131,34.0085106,"immature",1991,"Accipiter cooperii","Accipiter_cooperii",425,NA,"female",16.7,365,2.50991971379504,160.296444245868,"Summer",512
+1,-83.7833333,42.5333333,"adult",2013,"Accipiter cooperii","Accipiter_cooperii",427.5,NA,"female",9,890,10.3968927467719,54.9193638860652,"Winter",660
+12,-118.4213094,34.0453572,"adult",1972,NA,"Accipiter_cooperii",428,NA,"female",17,136,3.35906733087227,177.216285008682,"Winter",481
+10,-118.7271881,34.0828058,"immature",1997,"Accipiter cooperii","Accipiter_cooperii",429,NA,"female",17.6,525,4.06231759497263,188.864055072184,"Fall",314
+11,-122.92309,44.737122,NA,1938,"Accipiter cooperii","Accipiter_cooperii",429,NA,"female",11.6,1024,5.82772890948303,83.4881374509647,"Fall",441
+12,-118.5166667,34.2666667,NA,1984,"Accipiter cooperii","Accipiter_cooperii",430,NA,"undetermined",18.7,261,5.60056138960978,204.458112964407,"Winter",90
+10,-118.5264702,34.0518259,NA,2002,"Accipiter cooperii","Accipiter_cooperii",430,NA,"female",15.4,219,2.25804957403239,158.144752243459,"Fall",309
+10,-118.3957214,37.3652992,NA,2004,"Accipiter cooperii","Accipiter_cooperii",430,NA,"female",14.5,156,8.05129389187436,130.69717656827,"Fall",311
+8,-119.1793213,34.1867027,"immature",1982,"Accipiter cooperii","Accipiter_cooperii",430,NA,"male",14.8,416,2.80652648465873,118.380713474317,"Summer",337
+3,-84.45,42.5833333,"immature",1954,"Accipiter cooperii","Accipiter_cooperii",431.5,NA,"male",9.2,841,9.61269284000917,48.0915947357754,"Spring",584
+6,-117.5664997,33.6551736,"adult",2001,NA,"Accipiter_cooperii",432,NA,"female",15.6,497,3.86651318922156,154.761774296534,"Summer",498
+12,-118.7354278,34.0347371,"immature",1995,"Accipiter cooperii","Accipiter_cooperii",433,NA,"female",16.6,590,2.54955432825568,188.831743005812,"Winter",514
+84,-85.5295561,42.2448504,NA,1983,"Accipiter cooperii","Accipiter_cooperii",434,NA,"female",9.7,998,10.483276725771,47.4735559133303,"Winter",528
+7,-122.038069,37.88878,"immature",2004,"Accipiter cooperii","Accipiter_cooperii",435,NA,"female",15.5,530,4.79945546153652,126.605481360765,"Summer",373
+6,-83.7329865,42.3438278,"juvenile",1935,"Accipiter cooperii","Accipiter_cooperii",435,NA,"female | male",8.6,653,10.2715073692406,43.6763440891601,"Summer",478
+8,-83.9382398,42.3096726,"immature",1993,"Accipiter cooperii","Accipiter_cooperii",435.5,NA,"female",8.4,835,10.0388450078139,49.5356906308604,"Summer",194
+2,-92.93,36.2534,"ad.",1939,"Accipiter cooperii","Accipiter_cooperii",435.5,NA,"female",15.4,1235,8.58573076256603,46.8095147139492,"Winter",400
+10,-118.301651,34.0320587,NA,1997,"Accipiter cooperii","Accipiter_cooperii",437,NA,"female",17.2,333,3.2689888159472,181.402081214294,"Fall",60
+9,-117.179252,46.789164,"Immature",1953,"Accipiter cooperii","Accipiter_cooperii",437,478,"female",9.2,621,5.94716637389504,97.9177073329603,"Fall",269
+7,-121.9613712,37.9455504,"immature",2001,"Accipiter cooperii","Accipiter_cooperii",437,NA,"female",14.8,552,5.06284744411919,127.506491939027,"Summer",366
+4,-110.3958,33.6181,"u ad.",1951,"Accipiter cooperii","Accipiter_cooperii",437.4,NA,"female",10.1,708,8.26634285778326,71.4859096749422,"Spring",96
+8,-108.4167461155,30.0146438844,"u imm.",1948,"Accipiter cooperii","Accipiter_cooperii",438,NA,"female",13.1,351,6.92931300980687,121.571115249925,"Summer",94
+3,-118.006382,33.6904956,"adult",2005,NA,"Accipiter_cooperii",438,NA,"female",15.8,457,2.24087374733945,175.497996323816,"Spring",508
+9,-117.47689,47.954338,"Immature",1947,"Accipiter cooperii","Accipiter_cooperii",440,473,"female",8.5,544,8.09640305470537,63.4732073260945,"Fall",268
+7,-105.088941,40.564797,"Adult",2012,"Accipiter cooperii","Accipiter_cooperii",442,448,"female",10.6,241,9.3283008618771,82.7647267862342,"Summer",39
+7,-118.301651,34.0320587,NA,2006,"Accipiter cooperii","Accipiter_cooperii",442,NA,"female",16.6,275,3.4295065463584,112.815214963553,"Summer",70
+1,-122.2377,37.87438,"u imm.",1933,"Accipiter cooperii","Accipiter_cooperii",443.15,NA,"female",13.1,556,3.685557397916,124.679317726335,"Winter",396
+10,-124.3943,42.4297,"u ad.",1947,"Accipiter cooperii","Accipiter_cooperii",443.2,NA,"female",12.7,1718,4.13399615897551,82.5352627724574,"Fall",405
+8,-118.3834004,33.8626238,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",444,NA,"female",15.1,186,2.17720629999256,158.879254426678,"Summer",312
+2,-122.28674,37.88247,"adult",1998,"Accipiter cooperii","Accipiter_cooperii",445,NA,"female",13.9,799,2.93891084752447,147.342912899274,"Winter",102
+8,-118.0063819,33.6904955,"juvenile",2000,NA,"Accipiter_cooperii",445,NA,"undetermined",15.7,223,2.64338797757726,151.673628911046,"Summer",244
+12,-118.45,34,"immature",1982,"Accipiter cooperii","Accipiter_cooperii",445,NA,"female",16.5,335,2.98206761706157,110.034578240928,"Winter",304
+1,-118.0617294,36.6070404,NA,1998,"Accipiter cooperii","Accipiter_cooperii",445,NA,"female",14.1,332,7.96383397084291,211.046373876121,"Winter",338
+7,-103.855662,20.806827,"u imm.",1950,"Accipiter cooperii","Accipiter_cooperii",445,NA,"female",14.1,897,2.47550117362244,129.964499748076,"Summer",354
+6,-120.6724,36.4443,"juv.",1936,"Accipiter cooperii","Accipiter_cooperii",447,NA,"undetermined",15.7,456,6.74066694838804,164.92942332847,"Summer",137
+12,-85.42765,38.75516,"U-Ad",1990,"Accipiter cooperii","Accipiter_cooperii",447,NA,"female",13.2,1499,7.52045191259787,44.7710789910869,"Winter",544
+12,-79.372722,43.73418,"not applicable",1973,"Accipiter cooperii","Accipiter_cooperii",447.6,NA,"female",8.4,822,10.2319871289042,37.5482130486895,"Winter",144
+6,-104.934141,39.723164,NA,2006,"Accipiter cooperii","Accipiter_cooperii",447.9,441,"male",11.2,393,8.70891218896778,59.4976278903883,"Summer",32
+3,-104.9841666667,39.7391666667,"adult",1995,"Accipiter cooperii","Accipiter_cooperii",448.3,458,"female",10.5,476,7.82956227732722,99.6607865421015,"Spring",291
+5,-122.10053,37.91526,"adult",2003,"Accipiter cooperii","Accipiter_cooperii",450.6,NA,"female",15.2,575,4.72032998332904,117.452037277376,"Spring",556
+4,-118.671001,46.029111,NA,1997,"Accipiter cooperii","Accipiter_cooperii",450.9,NA,"female",11.9,298,7.93077530697327,51.4006902832072,"Spring",270
+4,-116.865597,36.456792,"u ad.",1917,"Accipiter cooperii","Accipiter_cooperii",451,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",383
+8,-119.164871,34.189881,"juvenile",2004,NA,"Accipiter_cooperii",452,NA,"female",15.2,333,2.53299439518934,174.854123851909,"Summer",504
+4,-85.5800018,42.2011547,"adult",1982,"Accipiter cooperii","Accipiter_cooperii",453,NA,"female",9.1,991,10.4893307987717,53.0413693288373,"Spring",184
+2,-83.7263412,42.2708397,"immature",2013,"Accipiter cooperii","Accipiter_cooperii",453,NA,"female",9.7,954,10.3529640024663,55.1826048279845,"Winter",476
+1,-122.00472,37.98533,"U",2012,"Accipiter cooperii","Accipiter_cooperii",453,460,"undetermined",15.1,496,4.60967362283827,116.908224300859,"Winter",616
+10,-122.2650647,37.8942433,"u imm.",1924,"Accipiter cooperii","Accipiter_cooperii",453.59,NA,"female",13.2,510,2.93732510762408,113.721867020779,"Fall",387
+5,-104.66299,39.610659,"adult",1995,"Accipiter cooperii","Accipiter_cooperii",453.7,450,"female",9.2,513,7.70251828162633,91.8184525435318,"Spring",26
+10,-78.96422,44.16079,"adult",1984,"Accipiter cooperii","Accipiter_cooperii",454.2,NA,"female",7,834,9.95666367389958,21.8427422681575,"Fall",408
+12,-122.569,37.978,"adult",2001,"Accipiter cooperii","Accipiter_cooperii",455.4,NA,"female",14.7,1196,3.87473361743238,130.900774352612,"Winter",364
+2,-118.5887861,34.1830152,NA,2003,"Accipiter cooperii","Accipiter_cooperii",456,NA,"female",16.9,324,4.14643877869366,136.751019420455,"Winter",332
+1,-104.9841666667,39.7391666667,"adult",1993,"Accipiter cooperii","Accipiter_cooperii",457,441,"female",9.8,381,8.80872071336472,48.4247603730526,"Winter",24
+1,-83.7263412,42.2708397,NA,1961,"Accipiter cooperii","Accipiter_cooperii",457,NA,"female",9.6,830,10.1137620012625,59.4126364108948,"Winter",181
+4,-117.7641561,33.6662353,"juvenile",1985,NA,"Accipiter_cooperii",457,NA,"female",17.3,154,4.22445980050238,149.953610637517,"Spring",237
+11,-118.3668708,33.7654486,"adult",1997,NA,"Accipiter_cooperii",458,NA,"male",16.7,476,2.89810544175245,183.923175000534,"Fall",494
+11,-83.7171936,41.3953547,"immature",1934,"Accipiter cooperii","Accipiter_cooperii",458.5,NA,"female",10.1,552,11.6307944177463,55.3738501961936,"Fall",231
+6,-114.45813,37.45917,"u ad.",1963,"Accipiter cooperii","Accipiter_cooperii",459.2,NA,"female",10.1,445,8.22479621189928,85.1166081006915,"Summer",100
+12,-84.04713,42.37725,"immature",2008,"Accipiter cooperii","Accipiter_cooperii",460,NA,"female",8.9,955,10.3046620811194,46.562972667215,"Winter",210
+10,-106.48345,35.08854,NA,2011,"Accipiter cooperii","Accipiter_cooperii",460.2,NA,"female",12.6,188,9.3974327571014,109.388868371708,"Fall",353
+8,-82.945404,42.3788363,NA,2006,"Accipiter cooperii","Accipiter_cooperii",462,NA,"female",11.1,1062,8.79205478103539,35.1010724678171,"Summer",206
+6,-103.098351,44.030821,NA,2010,"Accipiter cooperii","Accipiter_cooperii",465.6,NA,"female",8.1,508,10.5746803089438,104.60027842254,"Summer",627
+9,-83.8885498,42.3383369,"immature",2011,"Accipiter cooperii","Accipiter_cooperii",467,NA,"female",10,1049,10.5922033934056,47.7014848695139,"Fall",217
+1,-80.46493,44.54025,"immature",1992,"Accipiter cooperii","Accipiter_cooperii",467,NA,"female",5.8,1025,8.65084949410733,37.47504877447,"Winter",576
+8,-84.002924,42.2111009,"immature",2006,"Accipiter cooperii","Accipiter_cooperii",467.2,NA,"female",10.3,1087,8.80371822274285,33.7249347698118,"Summer",205
+4,-76.461744,42.56876,NA,2011,"Accipiter cooperii","Accipiter_cooperii",468,460,"female",9,1357,10.1449942873769,49.0050425855596,"Spring",628
+10,-95.4429182,39.5222045,"adult",1955,"Accipiter cooperii","Accipiter_cooperii",468.4,NA,"female",11.5,741,11.3093250609103,65.3178287522269,"Fall",40
+6,-116.94528,39.24556,"u ad.",1930,"Accipiter cooperii","Accipiter_cooperii",471.3,NA,"female",8,222,9.01587824929222,87.4454411123066,"Summer",133
+3,-79.91551,43.9576,"adult",1989,"Accipiter cooperii","Accipiter_cooperii",472.9,NA,"female",5.7,730,11.0565043245498,41.5319314594002,"Spring",665
+4,-76.4509,42.4793,NA,1992,"Accipiter cooperii","Accipiter_cooperii",473.299987792969,449,"female",7.5,1045,8.91892777901429,46.7662762710505,"Spring",625
+4,-105.130626,39.751494,"adult",1996,"Accipiter cooperii","Accipiter_cooperii",473.7,458,"female",10.4,418,8.52726465076829,73.8320655498771,"Spring",27
+1,-72.683541,41.641361,"adult",2013,"Accipiter cooperii","Accipiter_cooperii",473.8,NA,"female",10.1,1212,9.58706119852389,63.1239602718232,"Winter",594
+4,-83.7263412,42.2708397,NA,1946,"Accipiter cooperii","Accipiter_cooperii",475.4,NA,"female",10.1,607,8.82578865906869,50.6298829879788,"Spring",440
+10,-122.30168,38.30421,"Imm.",1981,"Accipiter cooperii","Accipiter_cooperii",475.9,NA,"female",15,790,4.55381957561701,120.185723927011,"Fall",540
+1,-118.5922622,34.0770475,NA,2004,"Accipiter cooperii","Accipiter_cooperii",476,NA,"female",16.9,531,3.45309479110604,172.884449428804,"Winter",74
+9,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",476,NA,"female",9.5,645,10.1647340438311,41.2680657101302,"Fall",423
+12,-110.9333333,32.2166667,NA,1979,"Accipiter cooperii","Accipiter_cooperii",476.8,NA,"female",19.7,260,7.85574485791941,127.812005269932,"Winter",649
+8,-122.33511,37.93927,"immature",2001,"Accipiter cooperii","Accipiter_cooperii",477,NA,"female",14.2,679,3.07495996524813,129.694151430081,"Summer",546
+1,-79.91644,43.65006,"adult",1977,"Accipiter cooperii","Accipiter_cooperii",478.4,NA,"female",7.1,949,10.4772336159133,40.0201409881847,"Winter",147
+7,-118.1300507,34.1444969,NA,2001,"Accipiter cooperii","Accipiter_cooperii",479,NA,"female",16.1,523,3.99441845427827,140.038370793734,"Summer",58
+6,-116.41056,39.88119,"u ad.",1936,"Accipiter cooperii","Accipiter_cooperii",481.3,NA,"female",8,326,8.61015520924407,59.4542671096039,"Summer",136
+7,-116.96859,38.72358,"u ad.",1933,"Accipiter cooperii","Accipiter_cooperii",481.4,NA,"female",4.9,285,8.9740155195684,100.655119266236,"Summer",397
+7,-118.310257,34.0933456,NA,1999,"Accipiter cooperii","Accipiter_cooperii",483,NA,"female",16,173,3.27500867452009,130.568127019206,"Summer",347
+11,-122.16029,37.7215,"immature",2001,"Accipiter cooperii","Accipiter_cooperii",483.4,NA,"female",14.7,627,3.24933559642303,130.383439936813,"Fall",606
+10,-79.372722,43.73418,"immature",1987,"Accipiter cooperii","Accipiter_cooperii",484.1,NA,"female",8.6,767,9.74643291391546,40.4443155034396,"Fall",172
+12,-117.7095239,33.595328,"adult",1997,NA,"Accipiter_cooperii",486,NA,"female",17.2,353,3.76421548025856,167.66555487477,"Winter",500
+12,-79.582118,43.74327,"juvenile",2005,"Accipiter cooperii","Accipiter_cooperii",487,NA,"female",8,745,11.1177853691799,33.4112758208724,"Winter",142
+8,-122.29386,37.80546,"immature",2000,"Accipiter cooperii","Accipiter_cooperii",489,NA,"female",14.7,571,2.68129039490656,136.708102139627,"Summer",111
+2,-118.251442,34.1428413,NA,1995,"Accipiter cooperii","Accipiter_cooperii",490,NA,"female",18.5,762,4.09510979613786,190.45768750586,"Winter",331
+11,-78.74331,44.35592,"adult",2000,"Accipiter cooperii","Accipiter_cooperii",490,NA,"female",6.2,872,10.0559194085631,33.1532923468654,"Fall",426
+5,-84.0692609,42.4769786,NA,1936,"Accipiter cooperii","Accipiter_cooperii",494,NA,"female",8.4,642,11.4437060907256,63.3115603063577,"Spring",232
+3,-76.874113,42.378227,NA,2004,"Accipiter cooperii","Accipiter_cooperii",494.799987792969,455,"female",8.5,1079,9.88566455208569,56.3052468013942,"Spring",6
+1,-85.8906841,42.2183477,"adult",1987,"Accipiter cooperii","Accipiter_cooperii",495,NA,"female",10.3,961,9.56293349185787,67.8421463264674,"Winter",188
+8,-83.7329865,42.3438278,NA,1935,"Accipiter cooperii","Accipiter_cooperii",496,NA,"female | male",8.6,653,10.2715073692406,43.6763440891601,"Summer",477
+11,-121.88372,37.672745,"adult by plumage",2004,"Accipiter cooperii","Accipiter_cooperii",496.6,NA,"female",15.9,458,5.07867645607146,120.691488270971,"Fall",379
+11,-118.0967369,33.9830704,NA,2000,"Accipiter cooperii","Accipiter_cooperii",497,NA,"female",17,277,3.34713808100791,162.363536101249,"Fall",79
+7,-121.14779,36.49089,"u ad.",1918,"Accipiter cooperii","Accipiter_cooperii",497,NA,"female",13.9,444,5.62971014916722,133.861318211973,"Summer",385
+8,-82.65924,41.77505,"not applicable",1949,"Accipiter cooperii","Accipiter_cooperii",499,NA,"male?",11.2,725,9.27242572296369,26.9150536223915,"Summer",167
+12,-79.71043,43.71164,"not applicable",1970,"Accipiter cooperii","Accipiter_cooperii",500,NA,"female",7.2,778,10.8637951681052,36.513029002932,"Winter",143
+12,-122.08747,37.65739,"Adult",2008,"Accipiter cooperii","Accipiter_cooperii",502,466,"female",14.6,354,3.78668920714589,168.058658276701,"Winter",619
+10,-79.372722,43.73418,"not applicable",1966,"Accipiter cooperii","Accipiter_cooperii",502.9,NA,"[female]",7.3,744,10.0636271249034,52.584333209989,"Fall",175
+11,-118.3866119,33.8430453,NA,2003,"Accipiter cooperii","Accipiter_cooperii",504,NA,"female",15.8,266,2.45398562639341,142.306381566273,"Fall",67
+3,-117.6722431,33.59673,"adult",1998,NA,"Accipiter_cooperii",505,NA,"female",15.8,537,3.72827037646145,158.082275784798,"Spring",495
+11,-97.1913141,37.3657709,"immature",1958,"Accipiter cooperii","Accipiter_cooperii",506.4,NA,"female",13.9,832,10.2893001204988,75.8757371489511,"Fall",301
+7,-83.7690353,42.8847693,NA,2010,"Accipiter cooperii","Accipiter_cooperii",506.8,NA,"female",9.7,743,10.7115061329565,58.5095900867066,"Summer",465
+3,-83.7400246,42.2754036,"immature",1995,"Accipiter cooperii","Accipiter_cooperii",507.2,NA,"female",9.8,839,10.8634081375799,41.90802786177,"Spring",453
+10,-122.26836,37.86897,"not recorded",2006,"Accipiter cooperii","Accipiter_cooperii",507.5,NA,"female",14.1,643,3.19045688758133,110.843820706479,"Fall",119
+10,-79.47468,44.03381,"immature",1995,"Accipiter cooperii","Accipiter_cooperii",508,NA,"female",6.9,875,10.6768334597517,40.6472311799636,"Fall",409
+9,-79.420787,43.767467,"not applicable",1975,"Accipiter cooperii","Accipiter_cooperii",508.5,NA,"female",8,811,10.1098923951951,22.964049067396,"Fall",146
+10,-83.8387084,42.3255548,NA,1946,"Accipiter cooperii","Accipiter_cooperii",510,NA,"female",9.9,616,8.90571403225156,46.9482966233917,"Fall",177
+1,-72.6822,41.2889,NA,2009,"Accipiter cooperii","Accipiter_cooperii",510,NA,"female",10.7,1150,8.73503482152952,44.2080102446222,"Winter",592
+7,-108.14806,28.56806,"u ad.",1957,"Accipiter cooperii","Accipiter_cooperii",511,NA,"female",12.2,668,4.62590695448094,114.900395304386,"Summer",97
+4,-115.7666666667,30.8666666667,"u ad.",1925,"Accipiter cooperii","Accipiter_cooperii",511,NA,"female",16,266,4.03021730371348,124.899293379329,"Spring",388
+11,-122.51361,38.33094,"Imm.",1927,"Accipiter cooperii","Accipiter_cooperii",511,NA,"female",14.2,985,3.98895254725378,106.768564435729,"Fall",538
+9,-121.90293,37.68034,"Imm-By Plumage",1939,"Accipiter cooperii","Accipiter_cooperii",511,NA,"male",15.2,289,4.95237928737901,108.919069519237,"Fall",545
+3,-121.95625,37.95205,"immature plumage",2000,"Accipiter cooperii","Accipiter_cooperii",511.6,NA,"female",14.7,510,4.73519222994647,134.113751834003,"Spring",365
+6,-104.848899,39.763889,NA,2009,"Accipiter cooperii","Accipiter_cooperii",512,473,"female",10.3,475,8.54111269452675,77.1240876404325,"Summer",36
+3,-90.8,40.4166667,NA,1992,"Accipiter cooperii","Accipiter_cooperii",512.9,NA,"female",11.3,905,8.6692201949125,84.5173663660697,"Spring",655
+4,-102.5421973639,29.06028,"u ad.",1953,"Accipiter cooperii","Accipiter_cooperii",513,NA,"female",19.2,213,6.60240429118381,106.416775602656,"Spring",357
+1,-76.574406,42.569447,NA,2008,"Accipiter cooperii","Accipiter_cooperii",513.2,NA,"female",8.9,1025,9.46095645110456,38.0435298327644,"Winter",567
+11,-83.6063004,42.3964283,NA,1997,"Accipiter cooperii","Accipiter_cooperii",513.4,NA,"female",8.6,893,9.52395305627772,37.4311428420157,"Fall",456
+12,-81,40.2666667,"immature",1960,"Accipiter cooperii","Accipiter_cooperii",514,NA,"female",9.7,727,10.174757088903,41.4926844762153,"Winter",647
+3,-83.75,42.2833333,NA,1983,"Accipiter cooperii","Accipiter_cooperii",514,NA,"female",9.6,931,10.462342283667,45.7671964297348,"Spring",666
+12,-122.338257,40.660503,NA,2011,"Accipiter cooperii","Accipiter_cooperii",518,NA,"female",16.4,816,7.25326990001229,111.352535553092,"Winter",128
+1,-122.787602,49.283419,"immature",1994,"Accipiter cooperii","Accipiter_cooperii",519,458,"female",10.9,1702,5.76509875339214,60.6172790379396,"Winter",641
+12,-75.208691,43.224308,NA,2010,"Accipiter cooperii","Accipiter_cooperii",519.6,450,"female",8.7,1245,10.3890968487801,49.0236039957279,"Winter",629
+2,-122.44077,37.79827,"Ad.",1978,"Accipiter cooperii","Accipiter_cooperii",520.6,NA,"female",13.7,636,2.71036171129623,133.323551985294,"Winter",598
+11,-117.2198756,36.6258053,"immature",2004,"Accipiter cooperii","Accipiter_cooperii",521,NA,"female",24.3,89,9.44470350209175,94.3334167417789,"Fall",303
+8,-83.2766836,42.3088335,"immature",2009,"Accipiter cooperii","Accipiter_cooperii",521.5,NA,"female",9,890,10.0312655173108,50.7720517785948,"Summer",215
+6,-84.6153259,44.6823245,NA,1980,"Accipiter cooperii","Accipiter_cooperii",522.75,NA,"female",5.1,716,11.047651608401,61.8909517786961,"Summer",459
+9,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",523,NA,"female",9.5,645,10.1647340438311,41.2680657101302,"Fall",422
+1,-85.5166667,42.2833333,NA,1984,"Accipiter cooperii","Accipiter_cooperii",523,NA,"female",9.5,884,10.2782316307109,46.9428386002058,"Winter",669
+4,-83.7400246,42.2754036,NA,1994,"Accipiter cooperii","Accipiter_cooperii",523.3,NA,"female",9.9,835,10.4907860005383,39.6164758702311,"Spring",192
+4,-116.865597,36.456792,"ad.",1920,"Accipiter cooperii","Accipiter_cooperii",524,NA,"female",21.9,51,10.12934530775,114.471914711275,"Spring",386
+1,-76.477502,42.456004,NA,1996,"Accipiter cooperii","Accipiter_cooperii",524.799987792969,469,"female",8,1140,10.1353566560558,32.1995893848402,"Winter",624
+2,-83.7340646,42.2844388,"immature",2010,"Accipiter cooperii","Accipiter_cooperii",527.3,NA,"female",10.7,930,10.9003301312252,70.1415861675729,"Winter",212
+2,-95.6862445,39.0370273,"immature",1996,"Accipiter cooperii","Accipiter_cooperii",529,NA,"female",11.8,1005,10.3987178696863,81.0273837184492,"Winter",44
+1,-85.8833333,42.3666667,NA,1986,"Accipiter cooperii","Accipiter_cooperii",533,NA,"female",9.5,1209,9.74376257361134,77.8095231240315,"Winter",590
+8,-78.16661,43.97027,"adult",2002,"Accipiter cooperii","Accipiter_cooperii",534.3,NA,"female",8.6,775,9.80709004503962,34.6975165075845,"Summer",433
+1,-76.5067,44.24199,"immature",2000,"Accipiter cooperii","Accipiter_cooperii",535,NA,"female",6.7,1029,10.1682065401143,26.414890477505,"Winter",430
+9,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",536,NA,"female",9.5,645,10.1647340438311,41.2680657101302,"Fall",424
+3,-120,49.4167,"u ad.",1944,"Accipiter cooperii","Accipiter_cooperii",538.63,NA,"male",2.3,560,7.5746137015212,53.6669377124637,"Spring",141
+1,-95.2426529,38.9598045,NA,1994,"Accipiter cooperii","Accipiter_cooperii",540,NA,"female",13.6,865,9.86712862350174,71.7740562565273,"Winter",43
+8,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",540,NA,"female",9.5,645,10.1647340438311,41.2680657101302,"Summer",158
+7,-104.9149851007,39.6893008965,NA,2009,"Accipiter cooperii","Accipiter_cooperii",540.5,430,"female",10.3,512,8.49379006668812,75.1398375933052,"Summer",34
+10,-76.705962,42.763518,"imm.",2005,"Accipiter cooperii","Accipiter_cooperii",540.8,470,"female",9.5,1012,10.9582955985063,47.9825470160995,"Fall",566
+1,-83.75,42.2833333,NA,2009,"Accipiter cooperii","Accipiter_cooperii",541.6,NA,"female",9.1,1006,10.0622004943193,46.129874586769,"Winter",657
+11,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",542,NA,"female",9.5,645,10.1647340438311,41.2680657101302,"Fall",419
+1,-79.865934,43.229111,"immature",1997,"Accipiter cooperii","Accipiter_cooperii",543.3,NA,"female",7.8,764,9.26601398399091,29.8139277686274,"Winter",417
+1,-95.2356335,38.9716721,"immature",1992,"Accipiter cooperii","Accipiter_cooperii",543.6,NA,"female",13,1085,8.33537096300513,59.208238266476,"Winter",42
+12,-82.73856,42.03748,"not applicable",1929,"Accipiter cooperii","Accipiter_cooperii",545.7,NA,"female",8.9,965,10.0112171935769,38.1225451505046,"Winter",153
+2,-83.7746572,42.3118148,NA,1983,"Accipiter cooperii","Accipiter_cooperii",546,NA,"female",9.5,926,10.4921471356034,44.2879978065431,"Winter",444
+10,-79.372722,43.73418,"immature",1979,"Accipiter cooperii","Accipiter_cooperii",547,NA,"female",6.9,874,10.4041949581538,28.5133539654655,"Fall",407
+12,-73.0261,41.2783,"immature",2002,"Accipiter cooperii","Accipiter_cooperii",550,NA,"female",11.7,1229,8.59555910709922,35.4111718370409,"Winter",593
+3,-85.5295561,42.2448504,"adult",1980,"Accipiter cooperii","Accipiter_cooperii",551,NA,"female",8.5,975,10.6804834756076,60.457356747861,"Spring",447
+9,-84.2366409,42.337103,NA,1939,"Accipiter cooperii","Accipiter_cooperii",554.4,NA,"female",9.8,693,10.1312410619107,48.4666264381982,"Fall",437
+3,-84.947693,46.65362,NA,1987,"Accipiter cooperii","Accipiter_cooperii",555,NA,"female",6.4,798,9.06034901327892,42.3947442637135,"Spring",187
+8,-84.45,42.5833333,NA,1956,"Accipiter cooperii","Accipiter_cooperii",557,NA,"female",9,744,9.78398505908322,64.5417837555276,"Summer",583
+12,-122.33154,37.96299,"adult",2001,"Accipiter cooperii","Accipiter_cooperii",558.9,NA,"female",14.2,686,3.21751833598882,130.495271642243,"Winter",547
+1,-83.6166667,42.3333333,NA,1977,"Accipiter cooperii","Accipiter_cooperii",567,NA,"female",9.1,842,11.1332800307198,39.6663086711035,"Winter",588
+1,-83.7400246,42.2754036,"adult",1993,"Accipiter cooperii","Accipiter_cooperii",568,NA,"female",8.8,847,10.0318583432075,46.2270573921712,"Winter",452
+12,-79.57963,43.5536,"immature",1980,"Accipiter cooperii","Accipiter_cooperii",570,NA,"female",7.3,794,10.5853636802154,43.3725045164639,"Winter",148
+2,-83.8490295,42.471084,NA,2006,"Accipiter cooperii","Accipiter_cooperii",570.7,NA,"female",10,1064,8.80113629027525,29.470871624309,"Winter",202
+6,-82.4926471,43.1138287,"adult",2010,"Accipiter cooperii","Accipiter_cooperii",571.2,NA,"female",10.1,730,10.468057473702,54.9043639743455,"Summer",469
+10,-95.2598661,38.9549568,NA,2001,"Accipiter cooperii","Accipiter_cooperii",572,NA,"female",13.6,980,10.1907266223223,63.9326820243611,"Fall",45
+8,-76.451,42.4799,NA,2007,"Accipiter cooperii","Accipiter_cooperii",573.4,NA,"female",8.5,984,10.3389342103556,29.2580911832691,"Summer",273
+12,-82.73856,42.03748,"not applicable",1929,"Accipiter cooperii","Accipiter_cooperii",588.2,NA,"female",8.9,965,10.0112171935769,38.1225451505046,"Winter",412
+1,-83.1541442,42.1440598,NA,1981,"Accipiter cooperii","Accipiter_cooperii",591,NA,"female",9.4,901,10.021745296498,56.180795714231,"Winter",443
+1,-83.9490223,42.1010245,NA,1992,"Accipiter cooperii","Accipiter_cooperii",592.6,NA,"female",8.8,956,8.53915668960917,45.7199465565781,"Winter",190
+12,-76.55564,42.19913,NA,1998,"Accipiter cooperii","Accipiter_cooperii",596.7,459,"female",9.4,1007,8.22130915623687,44.6489989611922,"Winter",563
+11,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",600,NA,"female",9.5,645,10.1647340438311,41.2680657101302,"Fall",416
+1,-76.5095,42.4381,NA,1939,"Accipiter cooperii","Accipiter_cooperii",602,NA,"female",9.5,688,10.2050306964336,30.703559881706,"Winter",272
+4,-72.92453112,41.30723064,"adult",2008,"Accipiter cooperii","Accipiter_cooperii",604,NA,"female",11.6,1310,8.77779567828376,33.7178731235686,"Spring",265
+2,-77.35176,43.95265,"not applicable",1936,"Accipiter cooperii","Accipiter_cooperii",607,NA,"female",7.1,788,10.9941995726121,50.6068978054384,"Winter",162
+1,-79.372722,43.73418,"juvenile",1944,"Accipiter cooperii","Accipiter_cooperii",613,NA,"female",7.5,756,10.4403464182628,38.0410870542255,"Winter",427
+11,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",614,NA,"female",9.5,645,10.1647340438311,41.2680657101302,"Fall",420
+3,-82.73856,42.03748,"not applicable",1945,"Accipiter cooperii","Accipiter_cooperii",615,NA,"female",9.5,986,10.4003897071507,44.9140877739922,"Spring",428
+12,-82.78746,42.16222,"not applicable",1929,"Accipiter cooperii","Accipiter_cooperii",619,NA,"female",8.8,940,10.0504183540243,39.3448262405965,"Winter",413
+1,-72.9286,41.3081,NA,2006,"Accipiter cooperii","Accipiter_cooperii",640,NA,"female",12.5,1309,8.14930281457478,46.128040232356,"Winter",664
+1,-76.12307,44.55018,"adult",1998,"Accipiter cooperii","Accipiter_cooperii",641,NA,"female",9,777,9.55438975740281,49.4091513385122,"Winter",577
+1,-75.28734,45.44021,"immature",1978,"Accipiter cooperii","Accipiter_cooperii",642.9,NA,"female",4.8,824,12.0570204621309,44.9215137972069,"Winter",145
+5,-83.4810734,42.824617,"adult",1997,"Accipiter cooperii","Accipiter_cooperii",643.6,NA,"female",8,787,9.6758368207519,41.2969317756798,"Spring",198
+9,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",644,NA,"female",9.5,645,10.1647340438311,41.2680657101302,"Fall",418
+11,-119.0433883,34.169559,"juvenile",2006,NA,"Accipiter_cooperii",644,NA,"female",15.7,315,3.05032288405174,120.022716824175,"Fall",509
+1,-76.45219,42.477118,NA,1959,"Accipiter cooperii","Accipiter_cooperii",648,910,"female",8.6,1008,10.6922621412389,47.2332859582294,"Winter",271
+10,-82.73856,42.03748,"not applicable",1935,"Accipiter cooperii","Accipiter_cooperii",653,NA,"female",9.5,645,10.1647340438311,41.2680657101302,"Fall",169
+3,-82.73856,42.03748,"not applicable",1929,"Accipiter cooperii","Accipiter_cooperii",660,NA,"female",8.9,965,10.0112171935769,38.1225451505046,"Spring",155
+11,-82.73856,42.03748,"adult",1929,"Accipiter cooperii","Accipiter_cooperii",666.7,NA,"female",8.9,965,10.0112171935769,38.1225451505046,"Fall",411
+2,-79.36179,43.76209,"not applicable",1941,"Accipiter cooperii","Accipiter_cooperii",670,NA,"female",7.9,691,10.6268527796333,40.0857145280065,"Winter",163
+2,-79.387705,43.698488,"adult",2004,"Accipiter cooperii","Accipiter_cooperii",670,NA,"female",7.4,798,10.0953146948413,43.2650960962587,"Winter",173
+12,-84.3833333,43.3333333,NA,1979,"Accipiter cooperii","Accipiter_cooperii",672,NA,"female",7.8,672,10.8729020964966,54.0935715045187,"Winter",586

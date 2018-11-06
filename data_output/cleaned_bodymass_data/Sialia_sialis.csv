@@ -1,0 +1,254 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+1,-85.3273773,42.3014364,NA,1903,"Sialia sialis sialis","Sialia_sialis",11.3,NA,"male",8.5,933,10.1558872312834,46.0780077736481,"Winter",117403
+7,-78.59,43.9172,"nestl",1996,"Sialia sialis sialis","Sialia_sialis",12.1,NA,"undetermined",7.3,958,10.3411908053535,31.5722676246224,"Summer",117450
+5,-84.4029808,42.1343858,"nestling",1994,"Sialia sialis sialis","Sialia_sialis",13.7,NA,"female",8.7,826,10.5972838143755,49.2855928019303,"Spring",117295
+6,-80.31482,43.68694,"fledgeling",2002,"Sialia sialis sialis","Sialia_sialis",15.2,NA,"male",6.8,902,9.52083441084803,23.1483391949103,"Summer",117453
+7,-78.59,43.9172,"nestl",1996,"Sialia sialis sialis","Sialia_sialis",16.3,NA,"female",7.3,958,10.3411908053535,31.5722676246224,"Summer",117449
+6,-83.7833333,42.1666667,"nestling",2013,"Sialia sialis sialis","Sialia_sialis",16.4,NA,"female",9.6,944,10.2603790762271,53.716452551169,"Summer",117478
+8,-85.0322914,42.417754,"juvenile",1953,"Sialia sialis sialis","Sialia_sialis",16.5,NA,"undetermined",10.5,604,9.43979326943641,30.6515666419532,"Summer",117401
+7,-78.59,43.9172,"nestl",1996,"Sialia sialis sialis","Sialia_sialis",16.9,NA,"undetermined",7.3,958,10.3411908053535,31.5722676246224,"Summer",117499
+5,-79.87184,42.96129,"nestl",2006,"Sialia sialis sialis","Sialia_sialis",17.1,NA,"female",9.6,1006,8.625451239843,30.5806040577075,"Spring",117496
+6,-81.2613,42.99875,"juv",1933,"Sialia sialis sialis","Sialia_sialis",17.3,NA,"[male]",8.1,733,9.80171599076592,37.3644898450615,"Summer",117375
+5,-71.54859,43.46083,"nestling",1999,"Sialia sialis sialis","Sialia_sialis",18,74,"undetermined",8.2,1088,9.87379068160969,59.0355257547641,"Spring",117439
+4,-88.6280393,47.0981165,NA,2007,"Sialia sialis sialis","Sialia_sialis",18.4,NA,"male",4.8,838,11.9423203420238,51.4901149752754,"Spring",117410
+5,-79.87184,42.96129,"nestl",2006,"Sialia sialis sialis","Sialia_sialis",18.5,NA,"male",9.6,1006,8.625451239843,30.5806040577075,"Spring",117447
+7,-85.785556,42.211792,"juvenile",1988,"Sialia sialis sialis","Sialia_sialis",18.8,NA,"male",9.6,907,10.9490832603659,51.4111443648035,"Summer",117293
+10,-79.73102,44.4458,"ad",1990,"Sialia sialis sialis","Sialia_sialis",18.8,NA,"female",7.4,1009,8.81625135070387,28.4051913044523,"Fall",117498
+4,-88.6280393,47.0981165,NA,2007,"Sialia sialis sialis","Sialia_sialis",19.2,NA,"female",4.8,838,11.9423203420238,51.4901149752754,"Spring",117298
+6,-83.79391,42.47221,"adult",2012,"Sialia sialis sialis","Sialia_sialis",19.28,NA,"male",11,658,9.15843707719662,38.1472969473893,"Summer",117302
+7,-83.7263412,42.2708397,"juvenile",1990,"Sialia sialis sialis","Sialia_sialis",19.5,NA,"male",10.3,1143,8.6246299876715,40.3792365163565,"Summer",117294
+4,-88.6280393,47.0981165,NA,2007,"Sialia sialis sialis","Sialia_sialis",19.8,NA,"female",4.8,838,11.9423203420238,51.4901149752754,"Spring",117299
+4,-79.847894,43.40004,"ad",2012,"Sialia sialis sialis","Sialia_sialis",19.8,NA,"male",10.2,746,8.94862440757677,53.257124359262,"Spring",117371
+10,-83.85873,42.50621,"adult",2012,"Sialia sialis sialis","Sialia_sialis",20,NA,"male",10.9,661,9.20429741528874,39.4107469136095,"Fall",117303
+1,-95.2552829,39.1640255,NA,2003,"Sialia sialis","Sialia_sialis",20.5,NA,"male",12.7,756,10.2716253766767,81.2849358101364,"Winter",117348
+7,-71.54859,43.46083,"nestling",2001,"Sialia sialis sialis","Sialia_sialis",20.5,104,"undetermined",7.7,840,9.99094665942698,50.0371449436145,"Summer",117440
+3,-79.39181,43.707734,"ad",1992,"Sialia sialis sialis","Sialia_sialis",20.6,NA,"male",7,942,8.90190224819188,44.7027353377657,"Spring",117369
+6,-83.9131206,42.6026099,NA,2009,"Sialia sialis sialis","Sialia_sialis",20.8,NA,"female",8.3,917,9.99436204703796,47.8458148654113,"Summer",117409
+6,-85.5394222,46.3717274,NA,1942,"Sialia sialis sialis","Sialia_sialis",21,NA,"female",5.6,751,10.3763243039434,45.9210389492857,"Summer",117398
+6,-112.4560534,34.4550641,NA,1970,"Sialia sialis fulva","Sialia_sialis",21.5,NA,"undetermined",10.5,694,7.32684458106977,122.289304851251,"Summer",117367
+7,-83.95,42.45,"juvenile",1948,"Sialia sialis sialis","Sialia_sialis",21.6,NA,"male",8.9,705,10.5075730265885,40.7170942213858,"Summer",117470
+8,-82.67234,42.05043,"nestl",2005,"Sialia sialis sialis","Sialia_sialis",22.5,NA,"male",10,843,10.6829905868529,36.1456879171194,"Summer",117446
+5,-79.87184,42.96129,"nestl",2006,"Sialia sialis sialis","Sialia_sialis",22.5,NA,"male",9.6,1006,8.625451239843,30.5806040577075,"Spring",117497
+1,-83.9483678,42.534038,NA,2009,"Sialia sialis sialis","Sialia_sialis",22.6,NA,"male",8.4,924,10.0323869482186,46.3424544294106,"Winter",117408
+9,-79.11561,43.85047,"imm",1970,"Sialia sialis sialis","Sialia_sialis",23.1,168,"female",7.3,773,11.1487021938009,26.3571121127905,"Fall",117275
+10,-83.5558962,42.6712663,NA,2009,"Sialia sialis sialis","Sialia_sialis",23.3,NA,"male",8,903,10.0822488773211,47.8121864043897,"Fall",117411
+5,-79.87184,42.96129,"nestl",2006,"Sialia sialis sialis","Sialia_sialis",23.4,NA,"male",9.6,1006,8.625451239843,30.5806040577075,"Spring",117448
+7,-76.5095,42.4381,NA,2007,"Sialia sialis","Sialia_sialis",23.6,140,"male",9.7,901,10.237808714404,28.3413535885695,"Summer",117238
+1,-75.00222,43.7,NA,2008,"Sialia sialis","Sialia_sialis",24,NA,"male",5.2,1551,9.8626437847183,35.133971943153,"Winter",117241
+12,-110.7833,31.3833,NA,1975,"Sialia sialis fulva","Sialia_sialis",24.1,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",117483
+4,-77.351951,39.081041,NA,2008,"Sialia sialis","Sialia_sialis",24.2,NA,"male",12.9,1083,8.61890100566508,49.4041534436175,"Spring",117441
+12,-110.7833,31.3833,NA,1975,"Sialia sialis fulva","Sialia_sialis",24.4,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",117481
+9,-84.300286,42.288096,NA,2009,"Sialia sialis sialis","Sialia_sialis",24.5,NA,"undetermined",8.9,952,10.0202030766332,42.7979130072793,"Fall",117477
+6,-84.02807,42.50571,NA,2012,"Sialia sialis sialis","Sialia_sialis",24.6,NA,"male",11,691,9.22200924665848,39.9555527859441,"Summer",117301
+6,-83.7391662,46.0204493,"juvenile",1938,"Sialia sialis sialis","Sialia_sialis",24.6,NA,"female",6.1,746,10.7863550166613,25.6582764962601,"Summer",117386
+4,-76.55564,42.19913,NA,2004,"Sialia sialis","Sialia_sialis",24.6000003814697,NA,"male",7.4,1250,9.8866607409206,53.594290062214,"Spring",117489
+3,-83.8394165,42.4732365,"adult",1991,"Sialia sialis sialis","Sialia_sialis",24.7,NA,"male",10,785,10.0544389412957,40.114445176573,"Spring",117405
+12,-110.7833,31.3833,NA,1975,"Sialia sialis fulva","Sialia_sialis",24.7,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",117480
+7,-119.3439674,34.3940204,"immature",2000,NA,"Sialia_sialis",24.8,NA,"male",15.1,461,3.70216971599907,174.866949151296,"Summer",117332
+5,-85.6672373,43.1251136,"adult",2009,"Sialia sialis sialis","Sialia_sialis",25,NA,"male",8.4,1080,9.81181646914792,48.4043945283078,"Spring",117304
+6,-120.5881808,35.1185856,"juv",1968,"Sialia sialis sialis","Sialia_sialis",25,162,"female",13.8,306,2.06280186037135,93.8126370854985,"Summer",117366
+11,-78.58602,43.91472,"imm",1992,"Sialia sialis sialis","Sialia_sialis",25,NA,"male",7.3,929,9.0125627808514,38.6198309800574,"Fall",117370
+4,-83.7263412,42.2708397,NA,1936,"Sialia sialis sialis","Sialia_sialis",25,NA,"female",8.9,620,11.5959501812512,64.4156693647403,"Spring",117423
+5,-72.568598,41.303832,"adult",2003,"Sialia sialis sialis","Sialia_sialis",25,NA,"male",10.1,1427,9.45451631697142,24.3154357046881,"Spring",117485
+12,-110.7833,31.3833,NA,1975,"Sialia sialis fulva","Sialia_sialis",25,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",117534
+7,-84.4172287,42.1597133,"skull ossification",1989,"Sialia sialis sialis","Sialia_sialis",25.2,NA,"male",8.4,851,10.5256828757093,59.9784155028621,"Summer",117292
+3,-76.2954,42.3784,"adult",2013,"Sialia sialis","Sialia_sialis",25.4,143,"female",7.8,1168,9.823576309835,44.7523026830399,"Spring",117335
+6,-76.4646,42.5052,NA,2013,"Sialia sialis","Sialia_sialis",25.9,160,"male",8.4,1099,9.7443068071318,46.3312183431717,"Summer",117239
+4,-79.06651,43.90531,"ad",1964,"Sialia sialis sialis","Sialia_sialis",26,155,"male",7.6,713,9.53732698719123,52.6062463354196,"Spring",117283
+6,-83.7263412,42.2708397,"adult",2012,"Sialia sialis sialis","Sialia_sialis",26,NA,"male",11.5,682,9.21854192112371,37.699178293142,"Summer",117413
+7,-108.4167461155,30.0146438844,"ad.sk.",1948,"Sialia sialis fulva","Sialia_sialis",26.1,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",117262
+8,-99.1572222222,18.9711111111,"sk.imm.",1964,"Sialia sialis fulva","Sialia_sialis",26.1,NA,"female ?",20.3,958,1.77429029772641,115.540114801617,"Summer",117271
+8,-95.3659629,38.9365128,NA,1989,"Sialia sialis","Sialia_sialis",26.1,NA,"undetermined",12.1,844,10.480139948175,76.655047585876,"Summer",117346
+8,-108.4167461155,30.0146438844,"unknown",1948,"Sialia sialis fulva","Sialia_sialis",26.2,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",117356
+6,-83.7833333,42.5333333,NA,2009,"Sialia sialis","Sialia_sialis",26.3,NA,"female",8.3,923,10.0104907093721,46.7725635708115,"Summer",117476
+7,-108.4167461155,30.0146438844,"ad.sk.",1948,"Sialia sialis fulva","Sialia_sialis",26.5,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",117263
+7,-108.4167461155,30.0146438844,"juv.",1948,"Sialia sialis fulva","Sialia_sialis",26.5,NA,"female",13.1,351,6.92931300980687,121.571115249925,"Summer",117355
+7,-83.6757374,46.0772795,"immature",1938,"Sialia sialis sialis","Sialia_sialis",26.5,NA,"female",5.9,761,10.8286761551321,24.6625120494371,"Summer",117382
+7,-85.3811932,45.2163895,"adult",1937,"Sialia sialis sialis","Sialia_sialis",26.5,NA,"male",7.5,752,10.4691610615815,68.4234808234294,"Summer",117426
+8,-83.7050915,42.790362,NA,1986,"Sialia sialis sialis","Sialia_sialis",26.5,NA,"male",8.6,893,10.1060250555915,70.5304947941995,"Summer",117432
+5,-83.6959934,42.4515813,"adult",2000,"Sialia sialis sialis","Sialia_sialis",26.6,NA,"female",9,1017,10.2240469660324,48.2560987382472,"Spring",117296
+5,-100.8526807,37.1803491,NA,1967,"Sialia sialis","Sialia_sialis",26.6,NA,"female",13.8,453,8.55702351960958,110.730233977802,"Spring",117343
+12,-110.7833,31.3833,NA,1975,"Sialia sialis fulva","Sialia_sialis",26.7,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",117532
+6,-83.7389946,42.641662,"adult",2002,"Sialia sialis sialis","Sialia_sialis",26.8,NA,"male",9.6,656,9.96111758972675,33.6065587285176,"Summer",117297
+7,-101.9877326,39.9993272,NA,1965,"Sialia sialis","Sialia_sialis",27,NA,"male",10.3,627,9.41305911052203,96.2900603970472,"Summer",117247
+7,-100.0413888888,19.0433333333,"juv.",1946,"Sialia sialis fulva","Sialia_sialis",27,NA,"female",18.8,1158,1.71276402521206,86.8945354920841,"Summer",117273
+7,-94.56915,48.72362,"juv",1929,"Sialia sialis sialis","Sialia_sialis",27,NA,"female",1.9,355,14.4086122184132,45.1910240663824,"Summer",117280
+6,-95.3134346,38.968218,NA,1946,"Sialia sialis","Sialia_sialis",27,NA,"male",13.7,889,8.68387568829132,54.0712954716059,"Summer",117339
+9,-79.68674,43.64176,"juv",1945,"Sialia sialis sialis","Sialia_sialis",27,NA,"[female]",7,984,10.1431085725803,40.3406874179594,"Fall",117376
+8,-84.2168579,42.3190842,"adult",1934,"Sialia sialis sialis","Sialia_sialis",27,NA,"female",9.1,508,11.5403737925913,44.8234559143155,"Summer",117419
+8,-103.182062,18.889003,"adult",1950,"Sialia sialis fulva","Sialia_sialis",27,NA,"female",17.2,1293,1.79392915639995,122.734921665555,"Summer",117474
+12,-110.7833,31.3833,NA,1975,"Sialia sialis fulva","Sialia_sialis",27,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",117484
+12,-110.7833,31.3833,NA,1975,"Sialia sialis fulva","Sialia_sialis",27,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",117533
+6,-83.64501,42.2138662,NA,1991,"Sialia sialis sialis","Sialia_sialis",27.2,NA,"male",10.7,777,10.0027571956512,47.9589267084491,"Summer",117433
+3,-110.7303619,31.4156534,"Not recorded",1955,NA,"Sialia_sialis",27.3,NA,"male",13.7,666,6.79418200307506,172.310531949295,"Spring",117330
+8,-99.1572222222,18.9711111111,"sk.imm.",1964,"Sialia sialis fulva","Sialia_sialis",27.3,NA,"male",20.3,958,1.77429029772641,115.540114801617,"Summer",117365
+12,-110.7833,31.3833,NA,1975,"Sialia sialis fulva","Sialia_sialis",27.3,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",117482
+3,-83.8166667,42.25,NA,2004,"Sialia sialis sialis","Sialia_sialis",27.3,NA,"male",9.5,843,10.0111263859344,63.4722951453562,"Spring",117535
+3,-85.47303,38.71571,"adult",1998,"Sialia sialis","Sialia_sialis",27.4,NA,"male",14.2,1169,8.27648640865961,55.5705190447376,"Spring",117488
+6,-86.71792,50.18312,"ad",1947,"Sialia sialis sialis","Sialia_sialis",27.5,NA,"female",-0.7,756,13.5037003907234,45.2918593959555,"Summer",117377
+6,-110.3333333,31.5833333,NA,1963,"Sialia sialis fulva","Sialia_sialis",27.5,NA,"male",16.8,363,6.63755956430501,114.290005417741,"Summer",117475
+8,-83.6215433,45.9522238,"immature",1938,"Sialia sialis","Sialia_sialis",27.8,NA,"female",6.2,756,10.6461118240274,24.8313674024005,"Summer",117394
+6,-86.71792,50.18312,"ad",1947,"Sialia sialis sialis","Sialia_sialis",28,NA,"male",-0.7,756,13.5037003907234,45.2918593959555,"Summer",117281
+2,-97.56546,30.11,"unknown",1952,"Sialia sialis sialis","Sialia_sialis",28,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",117364
+12,-122.0909064,37.8656808,"hy",1947,"Sialia sialis sialis","Sialia_sialis",28,NA,"male",14.3,388,5.18905462283718,102.850639996799,"Winter",117378
+7,-83.6757374,46.0772795,"immature",1938,"Sialia sialis sialis","Sialia_sialis",28,NA,"female",5.9,761,10.8286761551321,24.6625120494371,"Summer",117383
+6,-83.7391662,46.0204493,"adult",1938,"Sialia sialis sialis","Sialia_sialis",28.1,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",117284
+6,-85.5568848,45.6646004,NA,1937,"Sialia sialis","Sialia_sialis",28.1,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",117392
+5,-83.908081,42.5992191,NA,2011,"Sialia sialis sialis","Sialia_sialis",28.1,NA,"male",9.5,982,10.6202493835925,47.8658152440636,"Spring",117412
+10,-105.83417,23.46889,"unknown",1946,"Sialia sialis fulva","Sialia_sialis",28.2,NA,"male",17.6,1187,2.77319419814157,108.597016186447,"Fall",117353
+7,-103.23833,21.0024089914,"sk.imm.",1963,"Sialia sialis fulva","Sialia_sialis",28.3,NA,"female",17.7,898,2.66132514269706,105.046366016947,"Summer",117270
+7,-85.5568848,45.6646004,"adult",1937,"Sialia sialis sialis","Sialia_sialis",28.3,NA,"female",6.3,734,10.4803278921641,72.7502344657928,"Summer",117325
+2,-97.56546,30.11,"unknown",1952,"Sialia sialis sialis","Sialia_sialis",28.3,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",117361
+7,-94.98538,49.92533,"juv",1947,"Sialia sialis sialis","Sialia_sialis",28.3,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",117504
+7,-83.6757374,46.0772795,"juvenile",1938,"Sialia sialis sialis","Sialia_sialis",28.4,NA,"male",5.9,761,10.8286761551321,24.6625120494371,"Summer",117387
+7,-101.9355091,38.8948282,NA,1963,"Sialia sialis","Sialia_sialis",28.5,NA,"female",12.1,337,11.3560022842014,83.0064709013868,"Summer",117246
+4,-101.8459776,37.9845333,"immature",1967,"Sialia sialis","Sialia_sialis",28.5,NA,"male",12.2,382,9.07515339214214,114.187297037588,"Spring",117351
+7,-94.98538,49.92533,"juv",1947,"Sialia sialis sialis","Sialia_sialis",28.5,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",117503
+6,-84.5025444,44.8021794,"juvenile",1934,"Sialia sialis","Sialia_sialis",28.7,NA,"male",6,700,11.4537277245392,60.7531561309444,"Summer",117418
+5,-100.8526807,37.1803491,NA,1967,"Sialia sialis","Sialia_sialis",28.8,NA,"male",13.8,453,8.55702351960958,110.730233977802,"Spring",117252
+6,-83.7391662,46.0204493,"adult",1938,"Sialia sialis sialis","Sialia_sialis",28.8,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",117384
+6,-83.5909152,42.3393155,NA,1991,"Sialia sialis sialis","Sialia_sialis",28.8,NA,"male",10.5,791,10.0664007590809,44.9687455854164,"Summer",117404
+6,-83.736248,42.3760465,NA,1991,"Sialia sialis sialis","Sialia_sialis",28.9,NA,"male",10.2,805,10.0810803894316,40.3735221210683,"Summer",117431
+3,-95.2598661,38.9549568,NA,2003,"Sialia sialis","Sialia_sialis",29,NA,"male",12.9,787,10.2258547838607,77.8226524850861,"Spring",117256
+3,-101.78469,37.1521231,NA,1950,"Sialia sialis","Sialia_sialis",29,NA,"female",13.5,457,8.51972310689625,120.003987155499,"Spring",117344
+10,-80.56171,51.3443,"ad",1964,"Sialia sialis sialis","Sialia_sialis",29,NA,"male",-0.9,858,12.7664658976222,53.11505724024,"Fall",117379
+6,-76.69664,44.48616,"ad",2003,"Sialia sialis sialis","Sialia_sialis",29,NA,"male",6.4,890,11.0219890411959,37.6424770389813,"Summer",117380
+7,-94.98538,49.92533,"ad",1947,"Sialia sialis sialis","Sialia_sialis",29,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",117505
+6,-85.8666667,45.4333333,NA,1939,"Sialia sialis sialis","Sialia_sialis",29,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",117518
+6,-85.8666667,45.4333333,"adult",1939,"Sialia sialis sialis","Sialia_sialis",29,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",117520
+2,-97.56546,30.11,"unknown",1952,"Sialia sialis sialis","Sialia_sialis",29.1,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",117359
+8,-108.4167461155,30.0146438844,"ad.sk.",1948,"Sialia sialis fulva","Sialia_sialis",29.3,NA,"female",13.1,351,6.92931300980687,121.571115249925,"Summer",117354
+7,-83.7391662,45.9914917,"adult",1938,"Sialia sialis sialis","Sialia_sialis",29.4,NA,"female",6.1,749,10.7486574214474,25.9279651212285,"Summer",117381
+5,-100.8526807,37.1803491,NA,1967,"Sialia sialis","Sialia_sialis",29.5,NA,"male",13.8,453,8.55702351960958,110.730233977802,"Spring",117251
+4,-95.3933067,39.0800421,NA,1994,"Sialia sialis sialis","Sialia_sialis",29.5,NA,"male",13.2,809,9.99734813322862,68.409386548837,"Spring",117254
+3,-100.751422,19.716421,"unknown",1961,"Sialia sialis fulva","Sialia_sialis",29.5,NA,"male",14.6,930,2.09067192330817,115.374337858318,"Spring",117269
+6,-120.5881808,35.1185856,"sy",1969,"Sialia sialis sialis","Sialia_sialis",29.5,NA,"female",13.6,661,2.1884510919411,172.758475351773,"Summer",117274
+4,-76.5095,42.4381,NA,1939,"Sialia sialis sialis","Sialia_sialis",29.5,NA,"male",9.5,688,10.2050306964336,30.703559881706,"Spring",117333
+7,-84.0037823,42.4696911,"juvenile",1934,"Sialia sialis sialis","Sialia_sialis",29.6,NA,"male",9,484,11.5789876304215,50.8407004464127,"Summer",117312
+10,-105.83417,23.46889,"unknown",1946,"Sialia sialis fulva","Sialia_sialis",29.7,NA,"female",17.6,1187,2.77319419814157,108.597016186447,"Fall",117261
+7,-85.5568848,45.6646004,NA,1937,"Sialia sialis sialis","Sialia_sialis",29.7,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",117428
+10,-76.859106,34.78655,"AHY",2012,"Sialia sialis sialis","Sialia_sialis",29.8,NA,"male",18.2,1359,6.82253396451565,41.4293229670714,"Fall",117258
+6,-85.5568848,45.6646004,NA,1937,"Sialia sialis sialis","Sialia_sialis",29.8,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",117326
+6,-85.5568848,45.6646004,NA,1937,"Sialia sialis sialis","Sialia_sialis",29.8,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",117327
+5,-84.0565681,44.577263,"adult",1956,"Sialia sialis sialis","Sialia_sialis",29.8,NA,"male",6,705,10.0058467756092,56.5445699498523,"Spring",117402
+3,-83.7226867,41.594905,NA,1936,"Sialia sialis sialis","Sialia_sialis",29.8,NA,"male",9.1,737,11.4939773425701,46.0037486353484,"Spring",117424
+6,-98.80748198,43.16900209,NA,2007,"Sialia sialis","Sialia_sialis",29.9,NA,"female",9.7,773,12.496169109941,80.8920984033302,"Summer",117245
+9,-85.5295561,42.2448504,"juvenile",1984,"Sialia sialis sialis","Sialia_sialis",29.9,NA,"male",9.6,889,10.2440966000675,46.7841795285034,"Fall",117291
+7,-83.6215433,45.9522238,"adult",1938,"Sialia sialis sialis","Sialia_sialis",29.9,NA,"female",6.2,756,10.6461118240274,24.8313674024005,"Summer",117390
+3,-83.9836121,42.4591805,NA,1953,"Sialia sialis sialis","Sialia_sialis",29.9,NA,"female",10.1,567,9.45568211407428,40.3671321387636,"Spring",117400
+2,-97.56546,30.11,"unknown",1952,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",117267
+6,-83.7391662,46.0204493,"adult",1938,"Sialia sialis sialis","Sialia_sialis",30,NA,"female",6.1,746,10.7863550166613,25.6582764962601,"Summer",117285
+8,-83.7263412,42.2708397,"adult",1934,"Sialia sialis","Sialia_sialis",30,NA,"male",9.6,480,11.7842055311336,58.1051749810578,"Summer",117313
+3,-85.952708,33.329759,"ad.",1991,"Sialia sialis","Sialia_sialis",30,NA,"male",16.2,1441,7.21769710608249,43.4250195536205,"Spring",117334
+4,-77.41055,43.93656,"sy",1950,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",7.3,891,9.88874474982911,33.1101288282299,"Spring",117368
+8,-76.59304,44.40921,"juv",2000,"Sialia sialis sialis","Sialia_sialis",30,NA,"female",6.3,1021,10.3188669509552,25.7336691636442,"Summer",117374
+6,-83.7391662,46.0204493,"adult",1938,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",117385
+7,-83.6215433,45.9522238,"adult",1938,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",6.2,756,10.6461118240274,24.8313674024005,"Summer",117388
+6,-86.1218261,45.0237958,NA,1940,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",117395
+6,-86.1218261,45.0237958,NA,1940,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",117396
+4,-84.1140103,42.3871733,"adult",2006,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",10.1,1056,8.8305727533108,34.5696413806113,"Spring",117407
+6,-77.27931,43.96989,"ad",1930,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",117451
+11,-76.54289,44.31763,"imm",2002,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",8.2,885,9.87728876429829,40.0994202338712,"Fall",117454
+6,-85.8666667,45.4333333,NA,1939,"Sialia sialis sialis","Sialia_sialis",30,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",117466
+8,-103.182062,18.889003,"juvenile",1950,"Sialia sialis fulva","Sialia_sialis",30,NA,"undetermined",17.2,1293,1.79392915639995,122.734921665555,"Summer",117473
+4,-72.9975,41.4217,"juvenile",2005,"Sialia sialis sialis","Sialia_sialis",30,NA,"female",10.1,1226,10.1138481421477,61.4507433528636,"Spring",117486
+6,-85.8666667,45.4333333,"adult",1939,"Sialia sialis sialis","Sialia_sialis",30,NA,"male",6.2,749,10.3052355037563,45.0409106964284,"Summer",117516
+4,-84.1438895,36.2749988,NA,1938,"Sialia sialis sialis","Sialia_sialis",30.1,NA,"male",14.1,1267,8.19726488013847,38.6317792113863,"Spring",117328
+2,-97.56546,30.11,"unknown",1952,"Sialia sialis sialis","Sialia_sialis",30.2,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",117266
+9,-83.5655365,42.6699295,"immature",1990,"Sialia sialis sialis","Sialia_sialis",30.2,NA,"female",9.5,992,8.78148879487672,30.9752897746628,"Fall",117406
+6,-93.83787,48.63186,"ad",1929,"Sialia sialis sialis","Sialia_sialis",30.25,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",117372
+7,-78.77037,44.05515,"imm",1979,"Sialia sialis sialis","Sialia_sialis",30.3,NA,"male",6.4,887,10.5067078141019,32.8039054168523,"Summer",117277
+10,-84.8283375,42.1458435,NA,1938,"Sialia sialis sialis","Sialia_sialis",30.3,NA,"male",10.3,853,9.47508295318289,50.5610816135042,"Fall",117425
+4,-83.815239,42.3256378,NA,1935,"Sialia sialis","Sialia_sialis",30.4,NA,"male",8.6,651,10.2368762991274,43.7560852137542,"Spring",117416
+3,-98.2666667,29.4666667,NA,1947,"Sialia sialis sialis","Sialia_sialis",30.4,NA,"female",20.2,576,7.75245806571091,84.1041752075044,"Spring",117522
+3,-92.5733333333,16.6744444444,"unknown",1950,"Sialia sialis guatemalae","Sialia_sialis",30.5,NA,"male",13.5,1057,0.98761267097926,77.8117725986951,"Spring",117264
+6,-94.98866,35.23704,"skull ossified",1982,"Sialia sialis","Sialia_sialis",30.5,NA,"male",16.6,1168,8.88507430776724,62.7856145115124,"Summer",117272
+6,-85.9965,45.0939,NA,1940,"Sialia sialis sialis","Sialia_sialis",30.5,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",117521
+3,-83.95,42.45,NA,1953,"Sialia sialis sialis","Sialia_sialis",30.5,NA,"male",10.2,567,9.47725746674158,41.6329073884431,"Spring",117523
+7,-83.6215433,45.9522238,"adult",1938,"Sialia sialis sialis","Sialia_sialis",30.6,NA,"female",6.2,756,10.6461118240274,24.8313674024005,"Summer",117389
+5,-84.0706177,36.1963806,NA,1938,"Sialia sialis sialis","Sialia_sialis",30.6,NA,"female",14.5,1291,8.07727826946826,39.2355287608617,"Spring",117430
+4,-84.1438895,36.2749988,NA,1938,"Sialia sialis sialis","Sialia_sialis",30.7,NA,"female",14.1,1267,8.19726488013847,38.6317792113863,"Spring",117329
+10,-84.0093613,42.4551277,NA,1936,"Sialia sialis sialis","Sialia_sialis",30.7,NA,"male",8.4,632,11.4605350501782,63.705204806209,"Fall",117421
+3,-95.149,31.799,"sk.fully oss.",1971,"Sialia sialis sialis","Sialia_sialis",30.7,NA,"male",19.1,905,6.67802819745923,54.8815282609333,"Spring",117495
+3,-80.0621796,35.4771671,"adult",1988,NA,"Sialia_sialis",30.8,NA,"male",15,1024,8.49000749544588,37.5070697843876,"Spring",117331
+2,-97.56546,30.11,"unknown",1952,"Sialia sialis sialis","Sialia_sialis",30.8,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",117363
+7,-79.95,39.5666667,"juvenile",1947,"Sialia sialis sialis","Sialia_sialis",30.8,NA,"male",10.8,964,9.89304928939628,43.3962214716428,"Summer",117528
+9,-95.2722275,39.0954362,NA,1967,"Sialia sialis","Sialia_sialis",31,NA,"undetermined",11.8,1203,8.986757934974,91.0083518573538,"Fall",117250
+6,-86.1218261,45.0237958,NA,1940,"Sialia sialis sialis","Sialia_sialis",31,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",117397
+6,-85.8666667,45.4333333,NA,1939,"Sialia sialis sialis","Sialia_sialis",31,NA,"male",6.2,749,10.3052355037563,45.0409106964284,"Summer",117517
+9,-83.8833333,42.2833333,NA,1935,"Sialia sialis sialis","Sialia_sialis",31,NA,"male",8.6,648,10.2135790479977,44.5915075317947,"Fall",117526
+2,-97.56546,30.11,"unknown",1952,"Sialia sialis sialis","Sialia_sialis",31.1,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",117265
+10,-84.7893993,42.1458435,NA,1936,"Sialia sialis sialis","Sialia_sialis",31.1,NA,"male",9,785,11.809892489183,69.1436995388915,"Fall",117322
+3,-83.95,42.45,NA,1953,"Sialia sialis","Sialia_sialis",31.1,NA,"male",10.2,567,9.47725746674158,41.6329073884431,"Spring",117524
+3,-83.9836121,42.4591805,NA,1953,"Sialia sialis sialis","Sialia_sialis",31.2,NA,"male",10.1,567,9.45568211407428,40.3671321387636,"Spring",117399
+7,-84.5233154,44.8032756,"adult",1936,"Sialia sialis sialis","Sialia_sialis",31.3,NA,"male",5.8,722,11.4827505679633,50.0108903674259,"Summer",117318
+4,-92.5733333333,16.6744444444,"unknown",1950,"Sialia sialis guatemalae","Sialia_sialis",31.3,NA,"male",13.5,1057,0.98761267097926,77.8117725986951,"Spring",117357
+3,-83.7,42.3166667,"adult",1948,"Sialia sialis sialis","Sialia_sialis",31.45,NA,"male",9.2,735,10.4564754476773,43.8093701622507,"Spring",117531
+6,-85.8380699,45.702463,NA,1938,"Sialia sialis sialis","Sialia_sialis",31.5,NA,"female",6.8,906,10.0071300338884,32.6908727229931,"Summer",117391
+6,-93.63727,52.84037,"ad",1938,"Sialia sialis sialis","Sialia_sialis",31.5,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",117452
+3,-76.485675,42.458406,NA,2013,"Sialia sialis","Sialia_sialis",31.7,146,"female",8.9,1036,9.70786544587179,45.2623084481015,"Spring",117240
+6,-85.5568848,45.6646004,"adult",1937,"Sialia sialis","Sialia_sialis",31.7,NA,"female",6.3,734,10.4803278921641,72.7502344657928,"Summer",117393
+9,-84.05975,42.44582,NA,2013,"Sialia sialis sialis","Sialia_sialis",31.8,NA,"male",9.1,930,10.3419123722429,55.1619382183233,"Fall",117305
+6,-93.63727,52.84037,"ad",1938,"Sialia sialis sialis","Sialia_sialis",31.8,NA,"female",0,617,13.8670636598183,60.9325865622278,"Summer",117501
+1,-103.15415,36.569,NA,2009,"Sialia sialis","Sialia_sialis",31.9,NA,"male",12.8,339,8.53308622985029,106.356354843677,"Winter",117259
+8,-85.436554,46.6732343,"adult",1938,"Sialia sialis sialis","Sialia_sialis",31.9,NA,"female",5.2,939,10.0161082383541,23.7434522788991,"Summer",117324
+7,-80.14068,43.78864,"ad",2002,"Sialia sialis sialis","Sialia_sialis",32,NA,"male",6.7,884,9.57896606680966,23.6918047295832,"Summer",117282
+8,-84.0572548,42.4138253,"adult",1936,"Sialia sialis sialis","Sialia_sialis",32,NA,"male",8.4,643,11.5080604163106,60.9816119973715,"Summer",117319
+3,-101.78469,37.1521231,NA,1950,"Sialia sialis","Sialia_sialis",32,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",117345
+1,-97.11693,16.20082,"U-Ad.",1965,"Sialia sialis fulva","Sialia_sialis",32,NA,"male",18.1,948,1.41635468935596,125.961998190857,"Winter",117438
+9,-86.60213,38.40571,"U-Ad.",1987,"Sialia sialis sialis","Sialia_sialis",32,NA,"male",13.6,915,9.29861508098074,55.7269106215766,"Fall",117487
+3,-95.334131,38.85348,NA,1954,"Sialia sialis","Sialia_sialis",32.2,NA,"male",14.1,884,10.3364719084972,89.3387156058015,"Spring",117349
+3,-83.7226867,41.594905,NA,1936,"Sialia sialis sialis","Sialia_sialis",32.3,NA,"male",9.1,737,11.4939773425701,46.0037486353484,"Spring",117323
+10,-80.66863,42.76297,"ad",1987,"Sialia sialis sialis","Sialia_sialis",32.4,NA,"female",8.9,855,9.54375886814694,39.0428015961114,"Fall",117279
+9,-76.294277,42.334453,NA,2004,"Sialia sialis","Sialia_sialis",32.4000015258789,159,"male",7.1,1234,10.1174017505394,55.4352703396173,"Fall",117237
+3,-101.176094,38.8977732,NA,1967,"Sialia sialis","Sialia_sialis",32.5,NA,"female",11.5,477,8.91071452428667,120.544084226397,"Spring",117340
+10,-84.2,37,"immature",1951,"Sialia sialis sialis","Sialia_sialis",32.5,NA,"female",13,1388,8.51686384163617,41.7737405003027,"Fall",117530
+10,-84.4010773,42.746933,NA,1935,"Sialia sialis sialis","Sialia_sialis",32.6,NA,"male",8,760,10.1037759218417,44.0170063972812,"Fall",117317
+3,-95.3809598,38.8322483,"immature",1964,"Sialia sialis","Sialia_sialis",32.6,NA,"male",12.7,996,9.83522965793084,70.7662526882801,"Spring",117350
+8,-85.6162415,46.6744003,NA,1938,"Sialia sialis sialis","Sialia_sialis",32.7,NA,"male",5.5,886,9.94516404484048,25.4883707826648,"Summer",117289
+9,-87.5833333,37.8833333,"immature",1949,"Sialia sialis sialis","Sialia_sialis",32.7,NA,"male",14.4,1302,8.70271204681029,50.099624890425,"Fall",117529
+8,-95.226991,39.0776389,NA,1967,"Sialia sialis","Sialia_sialis",32.8,NA,"male",11.9,1208,8.99192819851631,89.6828215462097,"Summer",117249
+4,-92.5411111111,16.6436111111,"unknown",1954,"Sialia sialis guatemalae","Sialia_sialis",32.8,NA,"female",13.1,1787,1.15715822233399,96.9510085213872,"Spring",117268
+3,-101.176094,38.8977732,NA,1967,"Sialia sialis","Sialia_sialis",32.8,NA,"male",11.5,477,8.91071452428667,120.544084226397,"Spring",117341
+4,-83.6422,42.30201,NA,1937,"Sialia sialis sialis","Sialia_sialis",33,NA,"male",9.1,851,10.0927967112464,58.0362612941202,"Spring",117320
+4,-83.9709949,42.1052977,"adult",1934,"Sialia sialis","Sialia_sialis",33.1,NA,"female",9.5,513,11.6993654321571,52.7529021712324,"Spring",117310
+8,-83.6215433,45.9522238,"immature",1938,"Sialia sialis","Sialia_sialis",33.2,NA,"male",6.2,756,10.6461118240274,24.8313674024005,"Summer",117287
+4,-91.7391666666,16.0944444444,"unknown",1950,"Sialia sialis guatemalae","Sialia_sialis",33.2,NA,"female",18.6,1513,1.00856183236179,70.3160107863977,"Spring",117358
+7,-85.3811932,45.2163895,"adult",1937,"Sialia sialis sialis","Sialia_sialis",33.3,NA,"female",7.5,752,10.4691610615815,68.4234808234294,"Summer",117427
+4,-95.24147,39.02837,NA,1984,"Sialia sialis","Sialia_sialis",33.4,NA,"male",12.5,1016,9.87305408522089,79.8499104981456,"Spring",117253
+3,-83.7263412,42.2708397,"adult",1935,"Sialia sialis","Sialia_sialis",33.4,NA,"female",8.8,649,10.2459748194108,44.6617555019791,"Spring",117315
+11,-94.8323631,38.8976993,NA,2000,"Sialia sialis","Sialia_sialis",33.5,NA,"male",13.2,800,10.9278071769669,74.3571969800394,"Fall",117255
+2,-97.56546,30.11,"unknown",1952,"Sialia sialis sialis","Sialia_sialis",33.5,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",117360
+7,-93.67195,48.52224,"ad",1929,"Sialia sialis sialis","Sialia_sialis",33.5,NA,"male",1.8,430,14.3428870556422,51.5092607773849,"Summer",117500
+4,-83.815239,42.3256378,NA,1935,"Sialia sialis","Sialia_sialis",33.6,NA,"male",8.6,651,10.2368762991274,43.7560852137542,"Spring",117415
+4,-83.6616667,42.3391667,NA,1949,"Sialia sialis sialis","Sialia_sialis",33.7,NA,"male",10.4,841,9.75847727813509,23.4876130160063,"Spring",117471
+2,-97.56546,30.11,"unknown",1952,"Sialia sialis sialis","Sialia_sialis",33.8,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",117362
+10,-74.8782234,41.0359287,NA,1934,"Sialia sialis sialis","Sialia_sialis",33.8,155,"male",8.8,1147,10.6570043832328,45.7121321062282,"Fall",117422
+3,-83.7155199,42.0908662,NA,2011,"Sialia sialis","Sialia_sialis",33.9,NA,"male",10.2,1121,10.4945115525818,50.5355953147773,"Spring",117300
+4,-83.7263412,42.2708397,NA,1935,"Sialia sialis","Sialia_sialis",34,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Spring",117308
+2,-83.6561111,42.3127778,NA,1938,"Sialia sialis sialis","Sialia_sialis",34.1,NA,"male",10.5,696,9.64633703443013,49.7350022000717,"Winter",117527
+3,-83.6561111,42.3127778,NA,1937,"Sialia sialis sialis","Sialia_sialis",34.2,NA,"female",9.2,851,10.0976557435452,58.3878068944244,"Spring",117479
+10,-84.4010773,42.746933,NA,1935,"Sialia sialis sialis","Sialia_sialis",34.5,NA,"male",8,760,10.1037759218417,44.0170063972812,"Fall",117420
+4,-83.9709949,42.1052977,"adult",1934,"Sialia sialis","Sialia_sialis",34.7,NA,"male",9.5,513,11.6993654321571,52.7529021712324,"Spring",117311
+2,-84.2367325,36.2650795,NA,1938,"Sialia sialis sialis","Sialia_sialis",35,NA,"male",11.4,1570,8.1503067426938,38.9850087370812,"Winter",117429
+11,-82.50596,41.90342,"hy",1913,"Sialia sialis sialis","Sialia_sialis",35,NA,"female",10.7,662,9.58297100764337,29.7649191704453,"Fall",117502
+10,-77.89111,44.20184,"hy",1972,"Sialia sialis sialis","Sialia_sialis",35.2,NA,"male",5.7,928,10.5263702052023,23.2584400140776,"Fall",117276
+3,-101.176094,38.8977732,NA,1967,"Sialia sialis","Sialia_sialis",35.2,NA,"male",11.5,477,8.91071452428667,120.544084226397,"Spring",117342
+6,-85.8380699,45.702463,"adult",1938,"Sialia sialis sialis","Sialia_sialis",35.3,NA,"female",6.8,906,10.0071300338884,32.6908727229931,"Summer",117286
+8,-85.6162415,46.6744003,"immature",1938,"Sialia sialis sialis","Sialia_sialis",35.3,NA,"male",5.5,886,9.94516404484048,25.4883707826648,"Summer",117290
+3,-101.176094,38.8977732,NA,1967,"Sialia sialis","Sialia_sialis",35.5,NA,"female",11.5,477,8.91071452428667,120.544084226397,"Spring",117248
+3,-83.7329865,42.3438278,NA,1942,"Sialia sialis sialis","Sialia_sialis",35.5,NA,"male",9.2,920,10.5036898278653,38.4539683483026,"Spring",117288
+4,-83.7263412,42.2708397,NA,1935,"Sialia sialis","Sialia_sialis",35.6,NA,"female",8.8,649,10.2459748194108,44.6617555019791,"Spring",117417
+4,-83.6422,42.30201,NA,1937,"Sialia sialis sialis","Sialia_sialis",35.7,NA,"female",9.1,851,10.0927967112464,58.0362612941202,"Spring",117321
+3,-83.6429791,42.2708702,NA,1936,"Sialia sialis sialis","Sialia_sialis",36.3,NA,"male",9.1,621,11.5091366866819,64.401070422279,"Spring",117316
+3,-83.7263412,42.2708397,NA,1935,"Sialia sialis","Sialia_sialis",36.4,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Spring",117314
+2,-95.2598661,38.9549568,NA,1998,"Sialia sialis sialis","Sialia_sialis",36.4,NA,"male",13.9,1225,9.8228243793666,69.5373055135808,"Winter",117347
+9,-71.425,42.3916666667,"adult",1997,"Sialia sialis","Sialia_sialis",37,NA,"male",9.2,985,9.10113213070803,50.5105383017971,"Fall",117352
+4,-77.41055,43.93656,"ad",1950,"Sialia sialis sialis","Sialia_sialis",38,NA,"female",7.3,891,9.88874474982911,33.1101288282299,"Spring",117278
+3,-83.6561111,42.3127778,NA,1949,"Sialia sialis sialis","Sialia_sialis",38.1,NA,"male",10.5,841,9.74649898292933,23.8253832581416,"Spring",117469
+4,-83.7263412,42.2708397,NA,1935,"Sialia sialis","Sialia_sialis",38.9,NA,"female",8.8,649,10.2459748194108,44.6617555019791,"Spring",117309
+4,-83.8333333,42.2833333,NA,1935,"Sialia sialis sialis","Sialia_sialis",39,NA,"female",8.7,649,10.2204340772431,44.6409379438386,"Spring",117525
+6,-85.8666667,45.4333333,"adult",1939,"Sialia sialis sialis","Sialia_sialis",40.5,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",117467
+2,-83.6666667,42.3166667,NA,1949,"Sialia sialis sialis","Sialia_sialis",40.6,NA,"male",10.4,842,9.74973193104676,23.5817626049553,"Winter",117472
+6,-85.8666667,45.4333333,"adult",1939,"Sialia sialis sialis","Sialia_sialis",44,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",117468
+6,-85.8666667,45.4333333,"adult",1939,"Sialia sialis sialis","Sialia_sialis",44,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",117519

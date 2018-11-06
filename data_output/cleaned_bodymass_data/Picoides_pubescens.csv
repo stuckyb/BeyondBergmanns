@@ -1,0 +1,631 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-121.05343,36.5768639,"juv.",1936,"Picoides pubescens turati","Picoides_pubescens",10.3,NA,"female",14.9,654,6.59639479127987,154.965162010619,"Summer",103931
+6,-83.7263412,42.2708397,"nestling",2011,"Picoides pubescens medianus","Picoides_pubescens",10.3,NA,NA,10.3,1078,10.6367395038483,51.6940841774473,"Summer",104033
+5,-122.017517,37.85792,"juvenile by plumage",2004,"Picoides pubescens turati","Picoides_pubescens",14.1,NA,"undetermined",15.3,538,4.76712224989611,125.27886055016,"Spring",103648
+6,-83.6333333,42.2666667,NA,1981,"Picoides pubescens","Picoides_pubescens",14.5,NA,"female",9.1,895,10.0918621581045,53.3689948643142,"Summer",104094
+7,-105.371193,39.580974,NA,1984,"Picoides pubescens","Picoides_pubescens",14.7,142,"female",5.2,619,7.86312837735642,77.1489031776709,"Summer",103805
+6,-83.1763229,42.3222389,"juvenile",2011,"Picoides pubescens medianus","Picoides_pubescens",15,NA,"female",10.4,1055,10.5905725658591,59.1132685764338,"Summer",104026
+6,-83.602523,42.276851,"immature",2007,"Picoides pubescens","Picoides_pubescens",15.2,NA,"male",10.2,874,10.6468198410264,45.2873980892699,"Summer",104020
+10,-83.6422,42.30201,"adult",1938,"Picoides pubescens medianus","Picoides_pubescens",15.3,NA,"female",10.4,697,9.64633703443013,49.7333643051101,"Fall",104041
+5,-82.253366,29.565505,"juvenile",1999,"Picoides pubescens pubescens","Picoides_pubescens",16,NA,"male",21,1012,5.38102023670965,80.1368168758153,"Spring",103646
+6,-83.3125,42.34941,NA,2012,"Picoides pubescens medianus","Picoides_pubescens",16.1,NA,"female",11.6,653,9.08383512653442,42.4762813207496,"Summer",103769
+6,-83.1480331,42.5769348,"immature",2011,"Picoides pubescens medianus","Picoides_pubescens",16.2,NA,"in question",10,1000,10.6125426079739,53.6756860922678,"Summer",103766
+7,-84.02525,46.353393,"juvenile",1931,"Picoides pubescens medianus","Picoides_pubescens",17,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",103718
+8,-83.7936902,42.5804516,NA,2010,"Picoides pubescens medianus","Picoides_pubescens",17,NA,"female",9.8,778,10.8872005751541,61.0207422293292,"Summer",103764
+6,-84.0014648,42.2122452,"juvenile",1991,"Picoides pubescens","Picoides_pubescens",17.1,NA,"male",10.1,759,9.99203849739048,44.0684662251469,"Summer",104011
+7,-122.68101,38.4526,"U-Ad.",1977,"Picoides pubescens turati","Picoides_pubescens",17.1,NA,"male",14.1,644,4.27349122764131,114.750202731814,"Summer",104112
+4,-95.2864532,39.0223911,"adult",1967,"Picoides pubescens","Picoides_pubescens",17.2,NA,"male",12.1,1210,8.96225671661694,89.8988083106885,"Spring",103547
+6,-80.46841,45.72264,"juvenile",1979,"Picoides pubescens medianus","Picoides_pubescens",17.4,NA,"female",5.1,1045,11.0246108981018,34.586794296114,"Summer",103705
+5,-91.4,37.2666667,NA,2003,"Picoides pubescens","Picoides_pubescens",17.4,NA,"female",13.2,1168,9.24201129231472,45.2033703334003,"Spring",104124
+7,-104.913929,39.59281,"adult",1986,"Picoides pubescens","Picoides_pubescens",17.5,164,"male",10.8,388,7.68013474471443,59.8455000737006,"Summer",103526
+9,-83.2666667,42.8166667,NA,2010,"Picoides pubescens medianus","Picoides_pubescens",17.9,NA,"female",10,714,10.8729717718531,60.1773522483442,"Fall",104154
+5,-100.211277,35.8912752,"juvenile",1986,"Picoides pubescens","Picoides_pubescens",18,NA,"female",15.6,678,8.68388877418546,77.8047650994036,"Spring",104008
+10,-84.5552444,42.7335852,NA,2006,"Picoides pubescens","Picoides_pubescens",18,NA,"female",9.8,1034,8.86663391427079,32.6069681872984,"Fall",104021
+12,-83.9158058,42.3326616,NA,2000,"Picoides pubescens medianus","Picoides_pubescens",18.5,NA,"female",9.1,1013,10.2149140817224,52.611434383853,"Winter",104016
+5,-122.54249,37.90446,"Fledgling",2002,"Picoides pubescens","Picoides_pubescens",18.5,NA,"undetermined",14.1,874,3.01334154597969,176.40592906484,"Spring",104114
+6,-118.062852,33.795627,NA,2004,"Picoides pubescens turati","Picoides_pubescens",18.9,NA,"female",16.3,243,3.1666228067138,150.178563827242,"Summer",103590
+7,-96.08355,30.4691667,NA,2011,"Picoides pubescens","Picoides_pubescens",18.9,NA,"male",21.1,694,8.20016629543129,74.6337506158598,"Summer",104144
+6,-76.5095,42.4381,NA,1995,"Picoides pubescens","Picoides_pubescens",19,NA,"male",9.3,750,10.4556929541525,55.4277252579675,"Summer",103513
+2,-83.5993423,42.5936317,NA,2012,"Picoides pubescens medianus","Picoides_pubescens",19.6,NA,"male",10.7,630,9.20587345451837,37.4289000593099,"Winter",103768
+12,-83.7263412,42.2708397,NA,2008,"Picoides pubescens medianus","Picoides_pubescens",19.9,NA,"male",9.4,1009,10.3051472869659,47.554168259734,"Winter",104031
+7,-84.4794,31.1899,"ad.",1951,"Picoides pubescens pubescens","Picoides_pubescens",20,NA,"female",20.2,1207,6.60653372645504,51.3031598636248,"Summer",103602
+8,-83.8240099,46.0289717,NA,1989,"Picoides pubescens","Picoides_pubescens",20,NA,"female",4.5,592,11.5290509215423,36.1058704453091,"Summer",103751
+3,-83.7263412,42.2708397,NA,2010,"Picoides pubescens medianus","Picoides_pubescens",20,NA,"male",10.6,931,10.929314902702,70.3967332319748,"Spring",103763
+6,-84.1019726,42.3267922,"immature",2008,"Picoides pubescens medianus","Picoides_pubescens",20,NA,"male",9,956,10.3083667107076,45.8720092857191,"Summer",103770
+4,-76.5067,44.24199,"adult",1999,"Picoides pubescens medianus","Picoides_pubescens",20.1,NA,"female",8.6,856,10.4156751043217,47.4318422078451,"Spring",103725
+1,-76.33263,42.227486,NA,2006,"Picoides pubescens","Picoides_pubescens",20.1,NA,"female",9.3,1167,8.47014364301653,57.4957912671769,"Winter",104116
+7,-77.62782,45.37805,"juvenile",1943,"Picoides pubescens nelsoni","Picoides_pubescens",20.5,NA,"female",3.3,796,12.3135888227994,35.8673792020314,"Summer",103706
+7,-118.2291126,34.1875238,"adult",1988,NA,"Picoides_pubescens",20.5,NA,"male",18.3,380,3.87939389205285,118.497099663155,"Summer",104044
+9,-79.321969,43.670488,"adult",1972,"Picoides pubescens medianus","Picoides_pubescens",20.7,NA,"female",7.1,886,10.2396584933584,25.9872796706193,"Fall",103700
+6,-79.168179,43.775004,"fledgeling",2003,"Picoides pubescens medianus","Picoides_pubescens",20.8,NA,"male",7.2,812,10.563143471524,38.2077367685751,"Summer",103733
+5,-121.05343,36.5768639,"juv.",1936,"Picoides pubescens turati","Picoides_pubescens",20.9,NA,"female",14.9,654,6.59639479127987,154.965162010619,"Spring",103928
+7,-84.02525,46.353393,"not applicable",1931,"Picoides pubescens medianus","Picoides_pubescens",21,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",103974
+7,-84.02525,46.353393,"juvenile",1931,"Picoides pubescens medianus","Picoides_pubescens",21,NA,"female",6.7,772,10.5130618611787,65.7387277263846,"Summer",103979
+5,-100.211277,35.8912752,NA,1986,"Picoides pubescens","Picoides_pubescens",21,NA,"male",15.6,678,8.68388877418546,77.8047650994036,"Spring",104009
+7,-96.08355,30.4691667,NA,2011,"Picoides pubescens","Picoides_pubescens",21,NA,"male",21.1,694,8.20016629543129,74.6337506158598,"Summer",104143
+12,-73.010344,41.301991,NA,2005,"Picoides pubescens medianus","Picoides_pubescens",21,NA,NA,11,1166,9.95028170760035,62.3560322257602,"Winter",104160
+7,-105.096544,39.767613,NA,1998,"Picoides pubescens","Picoides_pubescens",21.3,146,"male",10.5,441,8.68420282972932,73.6256496643995,"Summer",103528
+6,-85.5156898,42.1720552,"immature",2007,"Picoides pubescens medianus","Picoides_pubescens",21.3,NA,"male",10.4,914,10.7518391661402,56.0381712924473,"Summer",104027
+6,-118.5033416,34.0453344,NA,1981,"Picoides pubescens turati","Picoides_pubescens",21.3,NA,"undetermined",17.8,286,2.86741093227766,132.777926398768,"Summer",104046
+7,-71.588289,42.666335,NA,2009,"Picoides pubescens","Picoides_pubescens",21.5,58,"undetermined",8.3,1330,9.48999473129464,37.9198121377779,"Summer",103593
+4,-119.630241,49.495707,NA,1985,"Picoides pubescens","Picoides_pubescens",21.5,169,"male",7.6,248,9.92799836397808,65.6980621376137,"Spring",104090
+6,-121.05343,36.5768639,"juv.",1936,"Picoides pubescens turati","Picoides_pubescens",21.6,NA,"male",14.9,654,6.59639479127987,154.965162010619,"Summer",103930
+7,-83.8207054,42.4419228,NA,2001,"Picoides pubescens medianus","Picoides_pubescens",21.65,NA,"male",10.1,887,9.37525353192535,51.5884256527697,"Summer",103755
+7,-83.5927,31.5136,"ad.",1951,"Picoides pubescens pubescens","Picoides_pubescens",21.7,NA,"female",19.6,1146,6.52860256985762,54.3247188894842,"Summer",103859
+7,-79.07297,43.9762,"immature",1962,"Picoides pubescens medianus","Picoides_pubescens",21.8,NA,"male",6.8,802,10.5977806424484,40.1550287645485,"Summer",103952
+7,-72.1333,42,"immature",1975,"Picoides pubescens medianus","Picoides_pubescens",21.8,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Summer",104098
+7,-72.1333,42,"immature",1975,"Picoides pubescens medianus","Picoides_pubescens",21.8,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Summer",104109
+8,-82.2874,31.2133,"ad.",1951,"Picoides pubescens pubescens","Picoides_pubescens",22,NA,"female",20,1063,6.47931440443471,70.5937285013853,"Summer",103603
+6,-79.511373,43.647339,"juvenile",2003,"Picoides pubescens medianus","Picoides_pubescens",22,NA,"male",7.2,817,10.485411944047,37.1179032419809,"Summer",103735
+5,-100.211277,35.8912752,NA,1986,"Picoides pubescens","Picoides_pubescens",22,NA,"male",15.6,678,8.68388877418546,77.8047650994036,"Spring",103750
+5,-122.07874,37.980764,"juvenile plumage",2004,"Picoides pubescens turati","Picoides_pubescens",22,NA,"male",15.8,471,5.02106924505492,125.716457631081,"Spring",103895
+7,-121.14779,36.49089,"u ad.",1918,"Picoides pubescens turati","Picoides_pubescens",22,NA,"female",13.9,444,5.62971014916722,133.861318211973,"Summer",103899
+3,-83.6429501,42.3036582,NA,2004,"Picoides pubescens medianus","Picoides_pubescens",22.2,NA,"female",9.7,842,10.0270845335234,61.9846999068396,"Spring",104017
+3,-106.6708681,35.0442049,"ad",2007,"Picoides pubescens","Picoides_pubescens",22.4,NA,"male",13.8,197,9.0584424040714,77.4629000008,"Spring",103853
+4,-104.924871,39.745969,NA,1998,"Picoides pubescens","Picoides_pubescens",22.5,162,"male",10.5,456,8.8197565760403,99.1634216746244,"Spring",103806
+7,-94.98538,49.92533,"juvenile",1947,"Picoides pubescens nelsoni","Picoides_pubescens",22.5,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",104086
+8,-94.98538,49.92533,"juvenile",1947,"Picoides pubescens nelsoni","Picoides_pubescens",22.5,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",104088
+6,-82.4584312,27.9503656,NA,1966,"Picoides pubescens","Picoides_pubescens",22.8,NA,"male",21.7,1167,5.13815200832031,73.0022106160848,"Summer",103814
+3,-83.35278,42.36833,NA,2009,"Picoides pubescens medianus","Picoides_pubescens",22.8,NA,"female",8.9,904,10.0160326023286,49.2693280306733,"Spring",104153
+9,-120.33745,35.57592,"u ad.",1947,"Picoides pubescens turati","Picoides_pubescens",22.9,NA,"male",15.1,104,5.95622287268458,94.5531093024022,"Fall",103858
+11,-105.60144,35.7695266667,NA,2010,"Picoides pubescens","Picoides_pubescens",22.9,NA,"male",4.7,1015,7.63883122108627,58.454193273687,"Fall",104129
+11,-101.9889271,37.1131734,NA,1964,"Picoides pubescens leucurus","Picoides_pubescens",23,NA,"female",13.3,314,10.0403843642471,102.401107866722,"Fall",103536
+3,-101.78469,37.1521231,NA,1950,"Picoides pubescens medianus","Picoides_pubescens",23,NA,"female",13.5,457,8.51972310689625,120.003987155499,"Spring",103578
+6,-94.274,31.04448,"unknown",1964,"Picoides pubescens pubescens","Picoides_pubescens",23,NA,"male",18.7,1013,7.49931309985768,41.6582448880009,"Summer",103626
+9,-83.7263412,42.2708397,"immature",2000,"Picoides pubescens medianus","Picoides_pubescens",23,NA,"female",9.5,1110,10.2283918579609,50.3887536637219,"Fall",103756
+5,-119.0342812,34.2220475,"juvenile",2007,NA,"Picoides_pubescens",23,NA,"undetermined",15.4,146,2.7117030319217,121.396874954596,"Spring",103782
+11,-79.09086,43.81788,"not applicable",1947,"Picoides pubescens medianus","Picoides_pubescens",23,NA,"undetermined",7.7,800,10.665137200953,42.8900483046479,"Fall",104133
+3,-122.787602,49.283419,"adult",1994,"Picoides pubescens gairdnerii","Picoides_pubescens",23,165,"female",10.9,1702,5.76509875339214,60.6172790379396,"Spring",104146
+8,-72.1333,42,"immature",1975,"Picoides pubescens medianus","Picoides_pubescens",23,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Summer",104163
+3,-95.2798841,38.9041998,NA,1987,"Picoides pubescens","Picoides_pubescens",23.1,NA,"undetermined",13.8,1010,9.58979887298177,59.9095899022682,"Spring",103581
+2,-97.1947251,37.3657709,NA,1957,"Picoides pubescens","Picoides_pubescens",23.1,NA,"female",13.9,1017,9.63982820794997,96.8442828527663,"Winter",103584
+12,-103.1271333333,36.4766833333,NA,2012,"Picoides pubescens","Picoides_pubescens",23.1,NA,"female",14.2,214,8.71847133528822,84.8677474685313,"Winter",103597
+6,-57.693328,50.0791758,"not applicable",1972,"Picoides pubescens microleucus","Picoides_pubescens",23.1,NA,"male",1.2,1147,9.8027013902013,27.8880369688553,"Summer",103953
+4,-106.725,39.915,NA,1992,"Picoides pubescens","Picoides_pubescens",23.1,164,"male",5.9,284,9.53095038028817,56.7010952785479,"Spring",104070
+7,-83.5927,31.5136,"ad.",1951,"Picoides pubescens pubescens","Picoides_pubescens",23.2,NA,"male",19.6,1146,6.52860256985762,54.3247188894842,"Summer",103860
+7,-121.4335,38.96871,"u ad.",1971,"Picoides pubescens turati","Picoides_pubescens",23.2,NA,"female",15.8,337,7.08392867373363,137.780424540009,"Summer",103880
+9,-78.3263397,34.653827,NA,1989,"Picoides pubescens","Picoides_pubescens",23.2,NA,"female",16.4,1491,7.77026188084866,34.9821142300665,"Fall",104010
+6,-122.28117,37.86238,"U-Ad",2001,"Picoides pubescens","Picoides_pubescens",23.2,NA,"male",14.4,676,3.04745298519431,130.618019774296,"Summer",104059
+7,-119.16194,38.83361,"u juv.",1934,"Picoides pubescens turati","Picoides_pubescens",23.3,NA,"male",11.7,147,7.01407135476229,116.280751883103,"Summer",103666
+12,-122.1254,40.1707,"u ad.",1927,"Picoides pubescens turati","Picoides_pubescens",23.3,NA,"female",17.2,656,7.31032375024071,100.573161578608,"Winter",103910
+5,-98.0844833,29.9643,NA,2011,"Picoides pubescens","Picoides_pubescens",23.3,NA,"male",21.4,558,7.9314630466646,76.0538926559441,"Spring",104089
+10,-72.8689,41.2761,NA,1974,"Picoides pubescens medianus","Picoides_pubescens",23.3,NA,"female",11,1036,8.81386648550126,45.1298094413855,"Fall",104161
+6,-115.21645,41.84056,"u ad.",1955,"Picoides pubescens leucurus","Picoides_pubescens",23.4,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",103867
+9,-121.9491551,39.583726,"u ad.",1933,"Picoides pubescens turati","Picoides_pubescens",23.4,NA,"male",16.2,418,7.68392162343887,165.689347539508,"Fall",103916
+7,-79.312758,43.705418,"immature",2001,"Picoides pubescens medianus","Picoides_pubescens",23.4,NA,"male",9,704,9.68114380920692,37.4617518979229,"Summer",103989
+1,-76.46632,42.44127,NA,1941,"Picoides pubescens medianus","Picoides_pubescens",23.5,NA,"male",8.7,730,10.485950196103,45.3977570504568,"Winter",103504
+11,-121.8874757,39.362006,"ad.",1926,"Picoides pubescens turati","Picoides_pubescens",23.5,NA,"female",16.4,675,6.93329691132625,118.219184285415,"Fall",103621
+6,-121.05343,36.5768639,"u ad.",1936,"Picoides pubescens turati","Picoides_pubescens",23.5,NA,"male",14.9,654,6.59639479127987,154.965162010619,"Summer",103929
+12,-95.5360794,38.0056315,NA,1966,"Picoides pubescens","Picoides_pubescens",23.6,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",103561
+7,-120.9513295,38.5193522,"immature",1965,"Picoides pubescens","Picoides_pubescens",23.6,NA,"undetermined",15.3,545,6.17548305066826,113.38841303849,"Summer",103585
+9,-120.84938,35.366994,"u ad.",1918,"Picoides pubescens turati","Picoides_pubescens",23.6,NA,"male",12.4,469,2.33958038195664,149.267532058884,"Fall",103901
+6,-117.5363,41.6846,"u ad.",1935,"Picoides pubescens leucurus","Picoides_pubescens",23.6,NA,"female",4.1,691,8.15818978732786,87.7343027045431,"Summer",103922
+6,-119.409649,38.415251,"u ad.",1985,"Picoides pubescens turati","Picoides_pubescens",23.7,NA,"male",4.3,539,7.15736535240998,72.5870885503594,"Summer",103641
+4,-83.4478,31.4765,"ad.",1952,"Picoides pubescens pubescens","Picoides_pubescens",23.7,NA,"female",19.4,1108,6.48961874959936,52.6499748362476,"Spring",103865
+1,-83.7263412,42.2708397,NA,2003,"Picoides pubescens medianus","Picoides_pubescens",23.8,NA,"male",9.3,891,10.1758180372525,38.9795835672959,"Winter",104015
+12,-95.7356074,37.6789414,NA,1967,"Picoides pubescens","Picoides_pubescens",23.9,NA,"female",13.6,1059,8.65326615512982,91.6152771560625,"Winter",103563
+8,-79.420787,43.767467,"immature",1959,"Picoides pubescens medianus","Picoides_pubescens",23.9,NA,"male",7.5,753,11.3293130124175,28.5710371169219,"Summer",103699
+11,-84.1001272,42.3259514,NA,1997,"Picoides pubescens","Picoides_pubescens",23.9,NA,"female",8.1,873,9.40339638834627,38.2782028399208,"Fall",103759
+6,-83.8541579,42.2911515,"immature",2009,"Picoides pubescens medianus","Picoides_pubescens",23.9,NA,"male",8.9,979,10.058179243629,45.084676791625,"Summer",103762
+10,-119.20833,38.57028,"immature",1999,"Picoides pubescens turati","Picoides_pubescens",23.9,NA,"female",8.1,216,7.1023043635659,94.744408322703,"Fall",103893
+6,-72.7175,41.9958,NA,1968,"Picoides pubescens medianus","Picoides_pubescens",23.9,NA,"male",8.8,1006,10.503805226794,59.0183438276553,"Summer",104159
+7,-94.56915,48.72362,"juvenile",1929,"Picoides pubescens medianus","Picoides_pubescens",24,NA,"male",1.9,355,14.4086122184132,45.1910240663824,"Summer",103713
+5,-86.5787888,31.1506791,NA,1986,"Picoides pubescens","Picoides_pubescens",24,NA,"female",19.4,1475,6.94288386505466,41.9113477687407,"Spring",103749
+12,-76.46632,42.44127,NA,1952,"Picoides pubescens","Picoides_pubescens",24,NA,"female",9,873,9.24361778185196,39.4320112942418,"Winter",103787
+2,-101.7836952,37.1484135,NA,1950,"Picoides pubescens medianus","Picoides_pubescens",24,NA,"female",13.5,459,8.49568072075987,120.179387649733,"Winter",103845
+8,-120.33745,35.57592,"u ad.",1947,"Picoides pubescens turati","Picoides_pubescens",24,NA,"female",15.1,104,5.95622287268458,94.5531093024022,"Summer",103857
+3,-121.9465328,39.2403281,"u ad.",1923,"Picoides pubescens turati","Picoides_pubescens",24,NA,"female",15.3,216,6.77828529313657,112.391611335281,"Spring",103906
+7,-79.99343,43.80176,"juvenile",1933,"Picoides pubescens medianus","Picoides_pubescens",24,NA,"male",6.9,745,10.3470095225918,39.980176160617,"Summer",103965
+7,-84.090732,46.33973,"juvenile",1931,"Picoides pubescens medianus","Picoides_pubescens",24,NA,"female",6.8,758,10.4687268769532,66.6597948770626,"Summer",103980
+5,-86.6417027,31.1518544,NA,1986,"Picoides pubescens","Picoides_pubescens",24,NA,"male",19.4,1482,6.91839883385183,41.8614868944503,"Spring",104006
+5,-101.6678237,35.6282795,NA,1986,"Picoides pubescens","Picoides_pubescens",24,NA,"male",15.1,574,8.6316542183671,85.9410386833642,"Spring",104007
+12,-76.398652,42.408514,NA,2011,"Picoides pubescens","Picoides_pubescens",24,158,"female",8.7,1386,10.1035659771462,49.2090278841999,"Winter",104066
+12,-105.4972222222,40.1313888889,NA,1989,"Picoides pubescens","Picoides_pubescens",24,152,"female",4.3,507,8.02652798631834,37.9337121080532,"Winter",104069
+7,-94.98538,49.92533,"juvenile",1947,"Picoides pubescens nelsoni","Picoides_pubescens",24,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",104085
+7,-117.24014,46.341092,"Juv",1954,"Picoides pubescens","Picoides_pubescens",24.1,173,"male",9.1,340,6.7055099460342,44.9052688535369,"Summer",103501
+10,-118.86,39.01,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",24.1,NA,"female",10.2,143,8.18747657873125,148.934483288593,"Fall",103639
+10,-120.7895831,40.6709426,"u ad.",1923,"Picoides pubescens leucurus","Picoides_pubescens",24.1,NA,"female",7,315,7.14628002402776,67.4145846530578,"Fall",103652
+1,-123.61833,40.91792,"u ad.",1942,"Picoides pubescens gairdnerii","Picoides_pubescens",24.1,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",103688
+8,-106.6511345,35.0844898,NA,2006,"Picoides pubescens","Picoides_pubescens",24.1,NA,"female",13.8,226,8.35098887267341,127.151226275779,"Summer",103852
+10,-119.58,39.25,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",24.2,NA,"male",9.5,201,7.81267424048122,130.958734976142,"Fall",103636
+9,-83.7400246,42.2754036,NA,1992,"Picoides pubescens","Picoides_pubescens",24.2,NA,"female",8.8,954,8.66238822132613,38.9637791632208,"Fall",103752
+3,-87.272352,34.296585,NA,1991,"Picoides pubescens","Picoides_pubescens",24.2999992370605,148,"female",16.6,1818,7.88744207105462,55.9291182170424,"Spring",103506
+12,-95.7356074,37.6789414,NA,1966,"Picoides pubescens","Picoides_pubescens",24.3,NA,"female",13.4,568,9.84822318999727,76.706214828175,"Winter",103556
+9,-120.2906923,39.5460947,"juv.sk.",1971,"Picoides pubescens turati","Picoides_pubescens",24.3,NA,"female",5.3,821,7.21909819768915,103.773141201367,"Fall",103630
+9,-111.3815451,42.2392739,NA,1934,"Picoides pubescens leucurus","Picoides_pubescens",24.3,NA,"female",7.2,244,8.57542295096159,53.7654026889073,"Fall",103777
+5,-108.7192,33.3696333333,NA,2010,"Picoides pubescens","Picoides_pubescens",24.3,NA,"female",9.1,946,7.09188076093167,91.0364773103133,"Spring",103854
+10,-119.918335,37.593927,"imm.",1915,"Picoides pubescens turati","Picoides_pubescens",24.3,NA,"female ?",13,968,6.25692343800776,122.946408288034,"Fall",103896
+7,-93.63727,52.84037,"juvenile",1938,"Picoides pubescens nelsoni","Picoides_pubescens",24.3,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",104082
+7,-93.63727,52.84037,"juvenile",1938,"Picoides pubescens nelsoni","Picoides_pubescens",24.3,NA,"female",0,617,13.8670636598183,60.9325865622278,"Summer",104140
+6,-108.65,33.4,NA,1964,"Picoides pubescens leucurus","Picoides_pubescens",24.3,NA,"female",6.6,739,7.73885807095751,101.789373511029,"Summer",104148
+6,-76.451,42.4799,NA,2010,"Picoides pubescens","Picoides_pubescens",24.4,144,"male",9.2,1029,10.1121401685241,48.1150507039629,"Summer",103510
+6,-123.61833,40.91792,"u ad.",1942,"Picoides pubescens gairdnerii","Picoides_pubescens",24.4,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Summer",103945
+7,-77.669368,43.287013,NA,2008,"Picoides pubescens","Picoides_pubescens",24.4,140,"female",9.6,964,9.25657833242081,39.6934997725133,"Summer",104117
+6,-76.39509,42.38263,NA,2004,"Picoides pubescens","Picoides_pubescens",24.5,125,NA,7.6,1191,10.0469805504847,56.0376850814601,"Summer",103516
+8,-101.9315911,39.7000654,"immature",1957,"Picoides pubescens medianus","Picoides_pubescens",24.5,NA,"male",10.3,570,9.79274623320133,105.483023968338,"Summer",103535
+12,-121.9121622,40.3351913,"u ad.",1927,"Picoides pubescens turati","Picoides_pubescens",24.5,NA,"female",15.6,883,6.85888055182786,93.6385676202149,"Winter",103656
+10,-118.8512,39.47361,"u ad.",1940,"Picoides pubescens turati","Picoides_pubescens",24.5,NA,"male",11.9,161,8.42497639597449,107.61357636554,"Fall",103676
+7,-76.5095,42.4381,"ad.",1949,"Picoides pubescens","Picoides_pubescens",24.5,NA,"male",10.8,727,9.43864958882393,38.6913357749824,"Summer",103789
+6,-94.992,35.231,"immature",1982,"Picoides pubescens ssp.","Picoides_pubescens",24.5,NA,"male",16.6,1170,8.87002101053164,63.0383296429876,"Summer",103892
+11,-120.6973,35.723588,"ad.",1918,"Picoides pubescens turati","Picoides_pubescens",24.5,NA,"male",14.7,402,5.48775496404992,155.147059734719,"Fall",103900
+10,-118.49432,35.4277106,"ad.",1933,"Picoides pubescens turati","Picoides_pubescens",24.5,NA,"female",13.1,192,7.6035677431218,174.984785049846,"Fall",103917
+1,-74.96333,41.07333,NA,1934,"Picoides pubescens medianus","Picoides_pubescens",24.5,166,"female",8.5,1156,10.6737109788773,44.0308714906806,"Winter",104040
+11,-72.5989,41.2794,NA,1974,"Picoides pubescens medianus","Picoides_pubescens",24.5,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",104105
+6,-72.1333,42,NA,1975,"Picoides pubescens medianus","Picoides_pubescens",24.5,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Summer",104158
+7,-149.815389,61.140089,"adult",2007,"Picoides pubescens glacialis","Picoides_pubescens",24.6,NA,"female",1.9,362,10.3249147035878,81.6014975279261,"Summer",104100
+7,-105.2,40.0667,NA,1986,"Picoides pubescens","Picoides_pubescens",24.6,NA,"female",10.9,363,7.92651859076209,62.9728506282904,"Summer",104106
+12,-122.694834,38.9992745,"u ad.",1951,"Picoides pubescens turati","Picoides_pubescens",24.7,NA,"female",13.7,634,6.23025365503369,125.468222433722,"Winter",103605
+1,-76.5095,42.4381,NA,1956,"Picoides pubescens","Picoides_pubescens",24.7999992370605,NA,"male",8.7,913,9.00213358548456,36.7863452860828,"Winter",103788
+1,-101.950375,39.7000654,NA,1969,"Picoides pubescens","Picoides_pubescens",24.8,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",103573
+8,-83.6215433,45.9522238,NA,1938,"Picoides pubescens","Picoides_pubescens",24.8,NA,"male",6.2,756,10.6461118240274,24.8313674024005,"Summer",103743
+7,-123.6617683,40.4821786,"juv.",1923,"Picoides pubescens gairdnerii","Picoides_pubescens",24.8,NA,"male",11.6,1075,5.74891294072192,88.4254132545796,"Summer",103907
+12,-121.5955981,40.3477021,"u ad.",1927,"Picoides pubescens turati","Picoides_pubescens",24.8,NA,"female",9,1523,6.49425737000612,100.857192490312,"Winter",103909
+8,-106.2666072,39.9680202,"juv.sk.",1963,"Picoides pubescens leucurus","Picoides_pubescens",24.9,NA,"undetermined",3.9,408,9.46509936876555,56.7966300742826,"Summer",103622
+3,-93.42,35.221881,NA,1990,"Picoides pubescens","Picoides_pubescens",25,143,"female",16.2,1680,7.94200093099206,54.5482374058194,"Spring",103509
+10,-95.2030992,38.915446,NA,1988,"Picoides pubescens","Picoides_pubescens",25,NA,"male",13.5,617,10.7510676002644,63.0438891689349,"Fall",103580
+4,-149.7972222222,61.0561111111,"u ad.",1959,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",25,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Spring",103616
+7,-120.0309,42.1828,"u ad.",1972,"Picoides pubescens leucurus","Picoides_pubescens",25,NA,"female",6.8,452,7.86874811959927,68.0291829130773,"Summer",103628
+7,-120.8386527,41.3000336,"u ad.",1972,"Picoides pubescens turati","Picoides_pubescens",25,NA,"female",6.7,640,7.83029760648091,61.3720506976756,"Summer",103629
+7,-119.16194,38.81187,"u ad.",1934,"Picoides pubescens turati","Picoides_pubescens",25,NA,"male",11.5,163,6.93336247080125,115.913289868419,"Summer",103667
+1,-123.63744,41.00125,"u ad.",1942,"Picoides pubescens turati","Picoides_pubescens",25,NA,"male",13.6,1656,5.8233854570875,106.967375578906,"Winter",103687
+9,-79.495948,43.689613,"not applicable",1934,"Picoides pubescens medianus","Picoides_pubescens",25,NA,"female",7,630,11.4535524461349,36.6380458230382,"Fall",103707
+7,-77.15879,43.93758,"juvenile",1930,"Picoides pubescens medianus","Picoides_pubescens",25,NA,"male",7.8,618,10.0701178109927,37.7808519328136,"Summer",103715
+7,-84.02525,46.353393,"not applicable",1931,"Picoides pubescens medianus","Picoides_pubescens",25,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",103717
+7,-83.98084,46.51696,"juvenile",1931,"Picoides pubescens medianus","Picoides_pubescens",25,NA,"male",6.1,809,10.6254803812973,63.4269618148558,"Summer",103720
+12,-79.31261,43.658433,"not applicable",1941,"Picoides pubescens medianus","Picoides_pubescens",25,NA,"male",8.3,658,10.5691195413236,37.6509121639656,"Winter",103727
+2,-95.2598661,38.9404601,NA,1968,"Picoides pubescens","Picoides_pubescens",25,NA,"male",12.1,977,10.2491980469723,79.3122212209723,"Winter",103842
+6,-108.8883666667,36.1011,NA,2013,"Picoides pubescens","Picoides_pubescens",25,NA,"male",4.5,718,8.85658033055169,68.7678346162178,"Summer",103855
+5,-70.2103,44.5867,"u ad.",1952,"Picoides pubescens medianus","Picoides_pubescens",25,NA,"female",6.9,1027,10.3192083323315,45.6049007402491,"Spring",103864
+4,-79.41878,43.86842,"not applicable",1938,"Picoides pubescens medianus","Picoides_pubescens",25,NA,"female",7.5,725,10.0977457730411,48.2481962822704,"Spring",103971
+11,-84.6430588,42.1778412,NA,2010,"Picoides pubescens medianus","Picoides_pubescens",25,NA,"female",10.4,896,10.7439165309603,63.7081740997519,"Fall",104024
+1,-88.97896,48.50943,"not applicable",1944,"Picoides pubescens medianus","Picoides_pubescens",25,NA,"male",3.2,899,11.0293375992753,65.1048608072301,"Winter",104084
+12,-95.7356074,37.6789414,NA,1967,"Picoides pubescens","Picoides_pubescens",25.1,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",103564
+9,-119.12479,39.08731,"juv.sk.",1965,"Picoides pubescens turati","Picoides_pubescens",25.1,NA,"male",9.6,186,7.27854360223918,76.1755074178538,"Fall",103638
+11,-79.27065,43.87406,"not applicable",1969,"Picoides pubescens medianus","Picoides_pubescens",25.1,NA,"male",7.2,689,10.2606448790187,41.7621807235534,"Fall",103698
+5,-83.2437354,42.0811084,NA,1989,"Picoides pubescens medianus","Picoides_pubescens",25.1,NA,"male",9.2,784,10.4744241181108,47.1366374181096,"Spring",103754
+6,-83.7263412,42.2708397,NA,1999,"Picoides pubescens medianus","Picoides_pubescens",25.1,NA,"female",10.2,871,9.96574435785208,44.628272107928,"Summer",103760
+9,-119.12479,39.08731,"juv.sk.",1965,"Picoides pubescens turati","Picoides_pubescens",25.1,NA,"female",9.6,186,7.27854360223918,76.1755074178538,"Fall",103888
+6,-83.7391662,46.0204493,"adult",1938,"Picoides pubescens medianus","Picoides_pubescens",25.1,NA,"female",6.1,746,10.7863550166613,25.6582764962601,"Summer",104002
+6,-85.5156898,42.1720552,"immature",2007,"Picoides pubescens medianus","Picoides_pubescens",25.1,NA,"female",10.4,914,10.7518391661402,56.0381712924473,"Summer",104028
+8,-76.65966,42.54401,NA,2007,"Picoides pubescens","Picoides_pubescens",25.1,140,"female",8.8,949,10.3233480592061,28.5201886108488,"Summer",104115
+4,-79.9488401,43.2808296,"adult",2005,"Picoides pubescens medianus","Picoides_pubescens",25.2,NA,"male",8.7,822,10.7971797664525,31.9222746388757,"Spring",103697
+6,-86.564493,41.976731,NA,1977,"Picoides pubescens","Picoides_pubescens",25.2,NA,"female",9.6,929,11.0667670678177,49.7874088217176,"Summer",103748
+12,-95.7356074,37.6789414,NA,1967,"Picoides pubescens","Picoides_pubescens",25.2,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",103834
+1,-96.25091,30.55615,"u ad.",1954,"Picoides pubescens pubescens","Picoides_pubescens",25.2,NA,"male",20.8,528,7.00408430629565,72.3944921581212,"Winter",103866
+12,-105.36886,41.779289,NA,2011,"Picoides pubescens leucurus","Picoides_pubescens",25.2,NA,"female",7.3,483,9.40668282755307,69.2947187480021,"Winter",104043
+11,-76.5095,42.4381,NA,1940,"Picoides pubescens medianus","Picoides_pubescens",25.2000007629395,NA,"male",7.9,859,10.1830816315667,35.7147842586663,"Fall",103803
+6,-76.4091,42.3687,NA,1998,"Picoides pubescens","Picoides_pubescens",25.2000007629395,148,"female",9.4,968,8.34966883756294,42.3104716103605,"Summer",104063
+10,-118.86,39.01,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",25.3,NA,"female",10.2,143,8.18747657873125,148.934483288593,"Fall",103640
+7,-121.59867,40.35677,"adult",2006,"Picoides pubescens turati","Picoides_pubescens",25.3,NA,"female",9.5,1744,7.27203026963064,101.343544623853,"Summer",103647
+7,-120.11166,37.75634,"juv.",1920,"Picoides pubescens turati","Picoides_pubescens",25.3,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",103649
+7,-120.11166,37.75634,"juv.",1920,"Picoides pubescens turati","Picoides_pubescens",25.3,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",103650
+7,-120.11166,37.75634,"juv.",1920,"Picoides pubescens turati","Picoides_pubescens",25.3,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",103903
+7,-120.11166,37.75634,"juv.",1920,"Picoides pubescens turati","Picoides_pubescens",25.3,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",103904
+8,-109.83667,43.30329,"imm.",1939,"Picoides pubescens leucurus","Picoides_pubescens",25.3,NA,"male",0.5,432,8.61082387921086,62.4349229099711,"Summer",103934
+6,-108.65,33.4,NA,1964,"Picoides pubescens leucurus","Picoides_pubescens",25.3,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",104091
+7,-79.97972,43.63902,"not applicable",1971,"Picoides pubescens medianus","Picoides_pubescens",25.3,165,"male",6.8,785,10.3037357156019,42.7902042987614,"Summer",104132
+2,-121.5902214,36.2971689,NA,1971,"Picoides pubescens","Picoides_pubescens",25.4,NA,"male",12.5,667,6.60414814546681,151.675227886594,"Winter",103589
+6,-81.59189,52.25485,"not applicable",1942,"Picoides pubescens nelsoni","Picoides_pubescens",25.4,NA,"female",-1.5,703,13.437904327955,49.7651862110958,"Summer",103728
+9,-119.12479,39.08731,"juv.sk.",1965,"Picoides pubescens turati","Picoides_pubescens",25.4,NA,"male",9.6,186,7.27854360223918,76.1755074178538,"Fall",103886
+4,-76.591056,42.450492,NA,2011,"Picoides pubescens","Picoides_pubescens",25.5,NA,"male",8.9,1324,10.1244827776609,47.7928797825369,"Spring",103517
+1,-74.792949,43.75451,NA,2004,"Picoides pubescens","Picoides_pubescens",25.5,146,"undetermined",4.6,1177,10.8479679705883,46.4827828041083,"Winter",103518
+10,-106.6922607,35.7686367,NA,2007,"Picoides pubescens","Picoides_pubescens",25.5,NA,"male",10.8,424,8.77986677609977,94.0292872888875,"Fall",103594
+9,-119.58,39.25,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",25.5,NA,"male",9.5,201,7.81267424048122,130.958734976142,"Fall",103634
+5,-118.5194778,34.0956716,"adult",1985,NA,"Picoides_pubescens",25.5,NA,"male",18.1,258,4.17728344378221,138.016319520229,"Spring",103780
+9,-119.58,39.25,"juv.sk.",1965,"Picoides pubescens turati","Picoides_pubescens",25.5,NA,"male",9.5,322,6.86466578673983,101.811421634975,"Fall",103885
+7,-116.7244,48.1081,"u ad.",1932,"Picoides pubescens leucurus","Picoides_pubescens",25.5,NA,"female",4.5,1294,8.54968987564444,67.9751234516142,"Summer",103911
+6,-118.72917,41.74888,"u ad.",1935,"Picoides pubescens leucurus","Picoides_pubescens",25.5,NA,"male",8.4,195,8.76720386647668,98.1858027203346,"Summer",103925
+6,-79.75435,51.14935,"adult",1982,"Picoides pubescens nelsoni","Picoides_pubescens",25.5,NA,"female",-0.8,732,13.6119265886408,45.4362182397203,"Summer",103960
+7,-93.82525,48.90185,"not applicable",1929,"Picoides pubescens medianus","Picoides_pubescens",25.5,NA,"female",1.5,422,14.4096558535651,41.9524409763164,"Summer",103969
+9,-76.6966279,42.7443544,NA,2005,"Picoides pubescens","Picoides_pubescens",25.5,NA,"male",9.4,1016,10.9209938220203,49.0985527457848,"Fall",104061
+7,-93.64004,48.53149,"not applicable",1929,"Picoides pubescens medianus","Picoides_pubescens",25.5,NA,"female",1.8,422,14.3442629224327,53.3224264194836,"Summer",104076
+7,-93.63727,52.84037,"not applicable",1938,"Picoides pubescens nelsoni","Picoides_pubescens",25.5,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",104137
+11,-72.8689,41.2761,NA,1977,"Picoides pubescens medianus","Picoides_pubescens",25.5,NA,"female",10.9,1287,9.46902446096873,38.5224444555419,"Fall",104162
+7,-76.536336,42.90421,NA,2006,"Picoides pubescens","Picoides_pubescens",25.5,151,NA,9.9,1145,8.67781479964684,48.2962973925782,"Summer",104165
+2,-100.4903539,39.8510785,NA,1967,"Picoides pubescens","Picoides_pubescens",25.6,NA,"male",10.9,498,9.12148645515166,109.219496920202,"Winter",103546
+12,-95.5360794,38.0056315,NA,1967,"Picoides pubescens","Picoides_pubescens",25.6,NA,"female",13.1,1129,8.69466485666337,85.6585970824359,"Winter",103559
+10,-114.6285,41.67723,"u ad.",1964,"Picoides pubescens leucurus","Picoides_pubescens",25.6,NA,"male",4.6,388,9.15315395220288,90.0953932015065,"Fall",103627
+10,-120.2539698,39.5306951,"unknown",1997,"Picoides pubescens turati","Picoides_pubescens",25.6,NA,"female",5.8,818,6.47519158485724,153.864362988329,"Fall",103645
+10,-118.8512,39.47361,"u ad.",1940,"Picoides pubescens turati","Picoides_pubescens",25.6,NA,"male",11.9,161,8.42497639597449,107.61357636554,"Fall",103677
+8,-111.3953253,42.1675605,"immature",1934,"Picoides pubescens leucurus","Picoides_pubescens",25.6,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",103776
+3,-76.496727,42.440786,NA,2011,"Picoides pubescens","Picoides_pubescens",25.6,155,"undetermined",10.2,1230,10.0028935207708,52.4582546083661,"Spring",103792
+7,-119.16194,38.83361,"u ad.",1934,"Picoides pubescens turati","Picoides_pubescens",25.6,NA,"undetermined",11.7,147,7.01407135476229,116.280751883103,"Summer",103919
+6,-123.49373,40.61736,"u ad.",1946,"Picoides pubescens turati","Picoides_pubescens",25.6,NA,"male",11.8,868,6.50782745482839,107.408417197194,"Summer",103948
+7,-83.9166667,42.6166667,NA,1981,"Picoides pubescens","Picoides_pubescens",25.6,NA,"female",8.3,840,9.99425592603829,65.288837183504,"Summer",104092
+7,-85.3370333,43.7113161,NA,2005,"Picoides pubescens","Picoides_pubescens",25.68,NA,"undetermined",7.9,795,10.9669614034263,59.1954457517422,"Summer",103757
+2,-97.64218,30.22127,"u ad.",1952,"Picoides pubescens pubescens","Picoides_pubescens",25.7,NA,"male",19.8,877,6.79656776125519,69.8685650582725,"Winter",103607
+12,-120.3862721,40.3822922,"u ad.",1942,"Picoides pubescens turati","Picoides_pubescens",25.7,NA,"male",9.5,288,8.2825254163647,90.5300835072853,"Winter",103692
+7,-103.8829918,42.758235,NA,1957,"Picoides pubescens leucurus > medianus","Picoides_pubescens",25.7,NA,"male",6.7,477,9.96914558206287,106.61511532469,"Summer",103812
+3,-101.176094,38.8977732,NA,1967,"Picoides pubescens","Picoides_pubescens",25.7,NA,"female",11.5,477,8.91071452428667,120.544084226397,"Spring",103815
+8,-111.3953253,42.1675605,"juvenile",1934,"Picoides pubescens leucurus","Picoides_pubescens",25.7,NA,"male",7.2,220,8.49891258641452,48.1357958901737,"Summer",104039
+1,-76.396337,42.337822,NA,2005,"Picoides pubescens","Picoides_pubescens",25.7,158,"female",8.2,1117,10.8777051668525,52.5806402734554,"Winter",104118
+6,-76.5095,42.4381,NA,2007,"Picoides pubescens","Picoides_pubescens",25.8,135,"female",9.7,901,10.237808714404,28.3413535885695,"Summer",103514
+12,-121.9121622,40.3351913,"u ad.",1927,"Picoides pubescens turati","Picoides_pubescens",25.8,NA,"male",15.6,883,6.85888055182786,93.6385676202149,"Winter",103657
+6,-120.0958,42.0433,"u ad.",1937,"Picoides pubescens leucurus","Picoides_pubescens",25.8,NA,"female",5.7,1038,9.03090233419103,92.8962877607081,"Summer",103671
+1,-123.61833,40.91792,"u ad.",1942,"Picoides pubescens turati","Picoides_pubescens",25.8,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",103685
+4,-117.119,46.939,"Ad",1952,"Picoides pubescens","Picoides_pubescens",25.8,181,"male",8.6,423,8.21264269282428,70.6809220660126,"Spring",103783
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",25.8,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",103816
+2,-99.5697108,39.9495034,NA,1967,"Picoides pubescens","Picoides_pubescens",25.8,NA,"female",10.8,620,9.41807980815237,119.031092942624,"Winter",103828
+11,-91.665991,39.6378722,NA,1967,"Picoides pubescens","Picoides_pubescens",25.8,NA,"male",11.6,1087,9.19589829513928,57.6735536689013,"Fall",103837
+1,-99.3940788,39.6834717,NA,1969,"Picoides pubescens","Picoides_pubescens",25.8,NA,"male",10.8,771,11.2160464054718,88.067245175206,"Winter",103839
+11,-118.5536,35.3819,"ad.",1933,"Picoides pubescens turati","Picoides_pubescens",25.8,NA,"male",13.8,233,7.52721828775512,171.823440714423,"Fall",103918
+4,-85.5023003,43.5110865,NA,1999,"Picoides pubescens","Picoides_pubescens",25.8,NA,"male",8.2,868,9.79251414772189,48.5377307462392,"Spring",104013
+7,-85.3401,43.7098,"immature",2012,"Picoides pubescens medianus","Picoides_pubescens",25.8,NA,"male",9.6,803,9.25812910611288,47.4176025057961,"Summer",104030
+11,-76.5095,42.4381,NA,1940,"Picoides pubescens medianus","Picoides_pubescens",25.8999996185303,NA,"female",7.9,859,10.1830816315667,35.7147842586663,"Fall",103802
+3,-101.176094,38.8977732,"adult",1967,"Picoides pubescens","Picoides_pubescens",25.9,NA,"female",11.5,477,8.91071452428667,120.544084226397,"Spring",103538
+12,-95.5360794,38.0056315,NA,1966,"Picoides pubescens","Picoides_pubescens",25.9,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",103549
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",25.9,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",103552
+11,-105.5525,35.77445,"AHY",2008,"Picoides pubescens","Picoides_pubescens",25.9,NA,"female",2.7,1013,6.94372945814271,59.5596141810088,"Fall",103595
+4,-149.7972222222,61.0561111111,"u ad.",1959,"Picoides pubescens nelsoni / Picoides pubescens glacialis intergrade","Picoides_pubescens",25.9,NA,"male",0.2,420,11.0997508844555,89.1684944818699,"Spring",103620
+8,-101.9315911,39.7000654,"immature",1957,"Picoides pubescens medianus","Picoides_pubescens",25.9,NA,"undetermined",10.3,570,9.79274623320133,105.483023968338,"Summer",103813
+8,-79.98485,43.48854,"not applicable",1968,"Picoides pubescens medianus","Picoides_pubescens",25.9,NA,"male",6.8,968,10.3235351884846,41.8738549000059,"Summer",103950
+10,-76.655259,42.276659,"imm.",1953,"Picoides pubescens","Picoides_pubescens",26,NA,"male",9,867,8.52914788454062,36.6418370422818,"Fall",103505
+2,-105.0525355,39.5898941,"adult",2008,"Picoides pubescens","Picoides_pubescens",26,160,"male",10.4,336,8.79653426933103,72.3459290733928,"Winter",103529
+6,-108.72642,42.56598,NA,2008,"Picoides pubescens","Picoides_pubescens",26,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",103530
+3,-71.588289,42.666335,"larvae",2006,"Picoides pubescens","Picoides_pubescens",26,64,"female",9.9,1467,8.66868274918748,55.6964613287385,"Spring",103591
+5,-70.2103,44.5867,"u ad.",1952,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"female",6.9,1027,10.3192083323315,45.6049007402491,"Spring",103610
+10,-120.10899,40.36474,"u ad.",1922,"Picoides pubescens turati","Picoides_pubescens",26,NA,"male",5.6,370,8.16137893132074,94.877245394151,"Fall",103651
+12,-121.7264709,40.3462883,"ad.",1927,"Picoides pubescens turati","Picoides_pubescens",26,NA,"female",12.4,1025,6.74305478835727,94.4015173287662,"Winter",103655
+7,-119.28444,39.63389,"u ad.",1934,"Picoides pubescens turati","Picoides_pubescens",26,NA,"undetermined",12.7,141,7.34332824385303,72.2265573273248,"Summer",103668
+6,-117.5363,41.6846,"u ad.",1935,"Picoides pubescens leucurus","Picoides_pubescens",26,NA,"male",4.1,691,8.15818978732786,87.7343027045431,"Summer",103669
+8,-123.0044,48.5389,"u ad.",1941,"Picoides pubescens gairdnerii","Picoides_pubescens",26,NA,"undetermined",11.1,610,3.96082138711228,58.3315034351504,"Summer",103690
+7,-77.1448,44.00382,"juvenile",1930,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"male",7.6,610,10.1156344638416,37.9860569908723,"Summer",103714
+6,-84.02525,46.353393,"not applicable",1931,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",103716
+7,-83.6422,42.30201,NA,1939,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"male",10.1,665,10.2263770651579,62.7384799477183,"Summer",103779
+6,-108.72642,42.56598,NA,2008,"Picoides pubescens","Picoides_pubescens",26,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",103808
+6,-98.406901,37.2848828,NA,1956,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"female",15.5,375,10.6946885712658,109.200951105145,"Summer",103811
+3,-101.78469,37.1521231,NA,1950,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"female",13.5,457,8.51972310689625,120.003987155499,"Spring",103846
+2,-95.2598661,38.9549568,NA,1989,"Picoides pubescens","Picoides_pubescens",26,NA,"female",12.2,842,10.5332374372313,74.6673503267985,"Winter",103848
+7,-119.16194,38.83361,"u ad.",1934,"Picoides pubescens turati","Picoides_pubescens",26,NA,"female",11.7,147,7.01407135476229,116.280751883103,"Summer",103921
+7,-93.82525,48.90185,"juvenile",1929,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"male",1.5,422,14.4096558535651,41.9524409763164,"Summer",103966
+7,-84.068313,46.398713,"not applicable",1931,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"female",6.6,774,10.5250746776304,65.8753037409536,"Summer",103973
+7,-84.11228,46.40592,"juvenile",1931,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"female",6.7,764,10.5003427072499,65.8247191451027,"Summer",103976
+7,-84.068313,46.398713,"juvenile",1931,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"male",6.6,774,10.5250746776304,65.8753037409536,"Summer",103977
+12,-76.69664,44.48616,"adult",1998,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"male",8.9,821,9.43547464721208,45.5924382269075,"Winter",103985
+2,-83.5832977,43.4878536,NA,1934,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"female",8,534,11.4317838423486,61.6906344150796,"Winter",104037
+10,-72.8689,41.2761,NA,1974,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"female",11,1036,8.81386648550126,45.1298094413855,"Fall",104102
+10,-72.9286,41.3081,"adult",2004,"Picoides pubescens medianus","Picoides_pubescens",26,NA,"male",10.9,1255,9.33637396358344,50.5885797325144,"Fall",104104
+8,-94.98538,49.92533,"not applicable",1947,"Picoides pubescens nelsoni","Picoides_pubescens",26,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",104142
+3,-101.3448009,38.9122703,NA,1967,"Picoides pubescens","Picoides_pubescens",26.1,NA,"male",11.4,484,8.88797280632995,116.619314574137,"Spring",103540
+12,-95.5360794,38.0056315,NA,1967,"Picoides pubescens","Picoides_pubescens",26.1,NA,"female",13.1,1129,8.69466485666337,85.6585970824359,"Winter",103560
+3,-79.372722,43.73418,"not applicable",1966,"Picoides pubescens medianus","Picoides_pubescens",26.1,178,"[female]",7.3,744,10.0636271249034,52.584333209989,"Spring",103736
+1,-90.2519989,44.0246684,NA,1947,"Picoides pubescens","Picoides_pubescens",26.1,NA,"female",6.5,867,11.8739178135283,62.6868226070085,"Winter",103746
+1,-95.1941611,38.8069025,NA,1967,"Picoides pubescens","Picoides_pubescens",26.1,NA,"male",12,1199,8.884136355768,84.1010178253019,"Winter",103823
+1,-83.9166667,42.6166667,NA,1988,"Picoides pubescens","Picoides_pubescens",26.2,NA,"male",8.8,759,10.9659666351136,62.1838983152794,"Winter",104095
+3,-71.588289,42.666335,NA,2009,"Picoides pubescens","Picoides_pubescens",26.25,53,NA,8.3,1330,9.48999473129464,37.9198121377779,"Spring",103592
+6,-108.3355,36.7255,NA,2013,"Picoides pubescens","Picoides_pubescens",26.3,NA,"male",10.8,241,10.4070343343511,82.5977264395978,"Summer",103598
+6,-106.785312,46.26478,"u ad.",1940,"Picoides pubescens leucurus","Picoides_pubescens",26.3,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",103673
+1,-123.61833,40.91792,"u ad.",1942,"Picoides pubescens turati","Picoides_pubescens",26.3,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",103686
+3,-83.6429791,42.2708702,NA,1936,"Picoides pubescens medianus","Picoides_pubescens",26.3,NA,"male",9.1,621,11.5091366866819,64.401070422279,"Spring",103778
+12,-95.5360794,38.0056315,NA,1967,"Picoides pubescens","Picoides_pubescens",26.3,NA,"male",13.1,1129,8.69466485666337,85.6585970824359,"Winter",103831
+1,-84.8228645,42.1388729,"not applicable",1936,"Picoides pubescens medianus","Picoides_pubescens",26.3,NA,"male",9,786,11.814792346115,67.5969552913637,"Winter",103963
+7,-87.72961,52.24829,"not applicable",1939,"Picoides pubescens nelsoni","Picoides_pubescens",26.3,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",103982
+11,-79.20135,43.88637,"adult",1973,"Picoides pubescens medianus","Picoides_pubescens",26.3,NA,"male",8,833,10.2719793908507,34.6635218415079,"Fall",104131
+2,-76.5095,42.4381,NA,1939,"Picoides pubescens medianus","Picoides_pubescens",26.3999996185303,NA,"male",9.5,688,10.2050306964336,30.703559881706,"Winter",103519
+10,-76.450248,42.473805,NA,2005,"Picoides pubescens","Picoides_pubescens",26.3999996185303,157,"male",8.5,1067,10.8591917495984,50.6930850558144,"Fall",103790
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",26.4,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",103554
+1,-101.950375,39.7000654,NA,1969,"Picoides pubescens","Picoides_pubescens",26.4,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",103575
+3,-95.3926933,39.0080643,NA,1954,"Picoides pubescens medianus","Picoides_pubescens",26.4,NA,"male",13.8,874,10.2951003350667,89.8979161851682,"Spring",103810
+12,-95.7356074,37.6789414,NA,1966,"Picoides pubescens","Picoides_pubescens",26.4,NA,"female",13.4,568,9.84822318999727,76.706214828175,"Winter",103829
+6,-117.5363,41.6846,"u ad.",1935,"Picoides pubescens leucurus","Picoides_pubescens",26.4,NA,"female",4.1,691,8.15818978732786,87.7343027045431,"Summer",103923
+7,-118.4086,44.2483,"u ad.",1938,"Picoides pubescens leucurus","Picoides_pubescens",26.4,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",103932
+7,-86.196148,41.878819,"juvenile",1981,"Picoides pubescens","Picoides_pubescens",26.4,NA,"male",9.3,1131,9.55334306074913,62.3203120312238,"Summer",104004
+4,-83.7263412,42.2708397,NA,1934,"Picoides pubescens","Picoides_pubescens",26.4,NA,"male",9.6,480,11.7842055311336,58.1051749810578,"Spring",104038
+6,-104.00402,44.560435,NA,2012,"Picoides pubescens","Picoides_pubescens",26.5,NA,NA,9.4,339,10.1182403548635,88.3232433068409,"Summer",103531
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",26.5,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",103548
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",26.5,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",103553
+10,-85.31367,42.3997,"imm.",1951,"Picoides pubescens medianus","Picoides_pubescens",26.5,NA,"female",8.9,987,9.78184388021858,25.9637848866777,"Fall",103604
+7,-78.48,45.57872,"not applicable",1946,"Picoides pubescens medianus","Picoides_pubescens",26.5,NA,"female",4.2,753,10.9999552340687,32.8682916545026,"Summer",103731
+4,-119.56139,39.30528,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",26.5,NA,"female",9.6,208,7.93534479211187,131.897514629467,"Spring",103882
+6,-123.49373,40.61736,"u ad.",1946,"Picoides pubescens turati","Picoides_pubescens",26.5,NA,"female",11.8,868,6.50782745482839,107.408417197194,"Summer",103949
+11,-79.394728,43.66727,"adult",1994,"Picoides pubescens medianus","Picoides_pubescens",26.5,NA,"female",7.6,761,10.967676337421,31.9755908235201,"Fall",103961
+1,-79.99487,47.81063,"not applicable",1936,"Picoides pubescens nelsoni","Picoides_pubescens",26.5,NA,"male",0.7,806,12.609336968607,28.0326145047863,"Winter",104141
+7,-149.9,61.218,"immature",2007,"Picoides pubescens glacialis","Picoides_pubescens",26.5,NA,"male",2.2,371,10.1392875250262,81.6462875266799,"Summer",104164
+5,-100.8526807,37.1803491,NA,1967,"Picoides pubescens","Picoides_pubescens",26.6,NA,"male",13.8,453,8.55702351960958,110.730233977802,"Spring",103569
+4,-122.4658,37.76937,"U-Ad.",1956,"Picoides pubescens turati","Picoides_pubescens",26.6,NA,"female",12.6,437,2.51462389500564,162.149619238188,"Spring",104057
+4,-76.53472,42.539502,NA,2012,"Picoides pubescens","Picoides_pubescens",26.6,156,"male",11.3,946,8.72535056168189,36.8783116388984,"Spring",104065
+2,-83.95,42.45,NA,1954,"Picoides pubescens medianus","Picoides_pubescens",26.6,NA,"male",9.2,782,9.634832639958,57.3873455220178,"Winter",104097
+4,-83.7833333,42.1666667,NA,1978,"Picoides pubescens","Picoides_pubescens",26.65,NA,"male",8.1,747,11.4776726602988,38.7673614121857,"Spring",104150
+12,-95.1715552,38.9524093,NA,1966,"Picoides pubescens","Picoides_pubescens",26.7,NA,"male",12.3,699,9.93205325288693,94.9793222927539,"Winter",103566
+6,-115.21645,41.84056,"u ad.",1955,"Picoides pubescens leucurus","Picoides_pubescens",26.7,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",103612
+6,-120.0958,42.0433,"u ad.",1937,"Picoides pubescens leucurus","Picoides_pubescens",26.7,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",103670
+7,-119.16194,38.83361,"u ad.",1934,"Picoides pubescens turati","Picoides_pubescens",26.7,NA,"undetermined",11.7,147,7.01407135476229,116.280751883103,"Summer",103920
+8,-111.106,44.1296,"imm.",1939,"Picoides pubescens leucurus","Picoides_pubescens",26.7,NA,"male",4.3,639,9.28354686659374,67.6867962566796,"Summer",103933
+6,-106.785312,46.26478,"u ad.",1940,"Picoides pubescens leucurus","Picoides_pubescens",26.7,NA,"female",8.2,314,12.0179758039465,84.4856629974161,"Summer",103936
+7,-93.63727,52.84037,"not applicable",1938,"Picoides pubescens nelsoni","Picoides_pubescens",26.7,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",104081
+1,-105.1444,40.05,NA,1984,"Picoides pubescens","Picoides_pubescens",26.7,NA,"female",9.7,366,9.20162617380342,68.8098654713234,"Winter",104099
+5,-73.0089,41.3525,NA,1977,"Picoides pubescens medianus","Picoides_pubescens",26.7,NA,"male",10,1400,9.61773929210545,40.8108901759975,"Spring",104101
+1,-106.725,39.915,NA,1992,"Picoides pubescens","Picoides_pubescens",26.7,168,"female",5.9,284,9.53095038028817,56.7010952785479,"Winter",104122
+1,-99.3940788,39.6834717,NA,1969,"Picoides pubescens","Picoides_pubescens",26.8,NA,"female",10.8,771,11.2160464054718,88.067245175206,"Winter",103570
+1,-101.950375,39.7000654,NA,1969,"Picoides pubescens","Picoides_pubescens",26.8,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",103571
+6,-108.8882166667,36.0772,NA,2013,"Picoides pubescens","Picoides_pubescens",26.8,NA,"female",5.1,636,8.95914971614849,71.6146576171571,"Summer",103599
+4,-123.4644508,40.4048454,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",26.8,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",103662
+1,-117.471885,46.702968,NA,1995,"Picoides pubescens","Picoides_pubescens",26.8,NA,"male",12.5,542,7.26791933878958,51.8683515559374,"Winter",103786
+2,-95.2,39.0333333,NA,1999,"Picoides pubescens","Picoides_pubescens",26.8,NA,"male",13.6,989,9.28718161899736,81.6386153186377,"Winter",103850
+4,-76.5095,42.4381,NA,1939,"Picoides pubescens medianus","Picoides_pubescens",26.8999996185303,NA,"male",9.5,688,10.2050306964336,30.703559881706,"Spring",103799
+2,-100.4903539,39.8510785,NA,1967,"Picoides pubescens","Picoides_pubescens",26.9,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",103543
+4,-123.4644508,40.4048454,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",26.9,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",103661
+1,-87.878952,46.8653554,NA,1941,"Picoides pubescens medianus","Picoides_pubescens",26.9,NA,"male",6.9,826,9.98584983712938,46.837922055835,"Winter",103745
+8,-111.3953253,42.1675605,"immature",1934,"Picoides pubescens leucurus","Picoides_pubescens",26.9,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",103775
+5,-100.8526807,37.1803491,NA,1967,"Picoides pubescens","Picoides_pubescens",26.9,NA,"male",13.8,453,8.55702351960958,110.730233977802,"Spring",103836
+2,-95.2598661,38.9259634,NA,1968,"Picoides pubescens","Picoides_pubescens",26.9,NA,"female",12.1,982,10.2624167216936,79.5023735335543,"Winter",103843
+3,-83.7263412,42.2708397,NA,2012,"Picoides pubescens medianus","Picoides_pubescens",26.9,NA,"male",11.5,682,9.21854192112371,37.699178293142,"Spring",104032
+7,-76.398652,42.408514,NA,2003,"Picoides pubescens","Picoides_pubescens",26.9,150,"male",6.9,1179,10.2599360562719,36.9154704701825,"Summer",104119
+12,-117.57768,47.53187,NA,1973,"Picoides pubescens","Picoides_pubescens",27,NA,"female",8.8,492,8.07515831536335,109.664904218939,"Winter",103502
+11,-97.5573494,39.7084915,NA,1967,"Picoides pubescens","Picoides_pubescens",27,NA,"male",11.5,850,9.3383374031219,117.987528731402,"Fall",103542
+3,-101.78469,37.1521231,NA,1950,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",103577
+11,-116.4571,46.7808,"u ad.",1951,"Picoides pubescens leucurus","Picoides_pubescens",27,NA,"female",7,747,8.09958846691197,73.2760473306841,"Fall",103606
+7,-84.068313,46.398713,"juvenile",1931,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",6.6,774,10.5250746776304,65.8753037409536,"Summer",103719
+7,-87.72961,52.24829,"juvenile",1939,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",103723
+4,-79.84415,43.30974,"not applicable",1940,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",7,893,10.1812959822799,28.7466490845274,"Spring",103724
+2,-79.422027,43.662764,"not applicable",1944,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",7.8,751,10.4187622134592,36.7507355137602,"Winter",103730
+6,-86.71792,50.18312,"not applicable",1947,"Picoides pubescens nelsoni","Picoides_pubescens",27,NA,"male",-0.7,756,13.5037003907234,45.2918593959555,"Summer",103732
+7,-94.694252,39.9365924,"not applicable",1967,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"male",11,1005,9.31591583682398,94.0361811271896,"Summer",103737
+1,-152.406,57.79,"AHY",2007,"Picoides pubescens nelsoni","Picoides_pubescens",27,NA,"male",5.1,1482,5.90559570289574,56.7258872294155,"Winter",103738
+10,-117.217813,46.75323,NA,1972,"Picoides pubescens","Picoides_pubescens",27,NA,"im.",8.2,547,8.04808936482706,61.216625892399,"Fall",103784
+11,-76.46632,42.44127,NA,1940,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"male",6.9,910,10.249434574205,34.3467677606997,"Fall",103800
+6,-113.4525,37.31722,"ad.sk.",1980,"Picoides pubescens leucurus","Picoides_pubescens",27,NA,"male",10.1,585,7.27129578715117,97.9595790851547,"Summer",103889
+11,-120.6350067,38.75449,"imm.",1916,"Picoides pubescens turati","Picoides_pubescens",27,NA,"male",13.2,1377,7.12562596931283,139.91112725994,"Fall",103897
+7,-93.82525,48.90185,"not applicable",1929,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",1.5,422,14.4096558535651,41.9524409763164,"Summer",103968
+7,-93.82525,48.90185,"not applicable",1929,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",1.5,422,14.4096558535651,41.9524409763164,"Summer",103970
+7,-84.068313,46.398713,"juvenile",1931,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",6.6,774,10.5250746776304,65.8753037409536,"Summer",103972
+10,-79.10074,43.10595,"not applicable",1949,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",10,805,9.64026829124961,36.4779234512184,"Fall",103992
+1,-86.13753,49.61467,"not applicable",1952,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",0.8,842,11.7993708101386,48.2415514553803,"Winter",103993
+7,-80.97659,43.37195,"immature",1965,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"male",6.2,1002,9.44816801225924,29.5563733779442,"Summer",103995
+11,-147.8043,64.857,"U",2000,"Picoides pubescens","Picoides_pubescens",27,NA,"female",-1.6,285,12.314745411313,108.166813357895,"Fall",103998
+2,-83.6342812,42.3037217,NA,2009,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",9,968,10.0497248567794,46.0368742246833,"Winter",104029
+4,-73.208424,41.26017218,"adult",1978,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",9.6,1276,9.77297991216785,53.4087963555958,"Spring",104045
+11,-76.439261,42.45476,NA,1939,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"male",8.5,730,10.2482038337546,31.1938993138668,"Fall",104067
+8,-120.7411667,39.0428333,"ad.",1916,"Picoides pubescens turati","Picoides_pubescens",27,NA,"female",12.9,1630,7.01340707416009,139.669966232881,"Summer",104072
+7,-77.27931,43.96989,"not applicable",1930,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",104078
+3,-82.16057,50.05877,"not applicable",1933,"Picoides pubescens nelsoni","Picoides_pubescens",27,NA,"male",-0.1,762,14.4568611162082,30.0190542900515,"Spring",104083
+7,-77.27931,43.96989,"juvenile",1930,"Picoides pubescens medianus","Picoides_pubescens",27,NA,"female",7.7,613,10.1010200505001,37.744229913391,"Summer",104136
+3,-83.95,42.45,NA,1953,"Picoides pubescens","Picoides_pubescens",27,NA,NA,10.2,567,9.47725746674158,41.6329073884431,"Spring",104147
+5,-120.3190614,39.5461513,"u ad.",1959,"Picoides pubescens turati","Picoides_pubescens",27.1,NA,"male",6.7,537,6.55334173371021,131.109094905755,"Spring",103613
+9,-119.58,39.25,"juv.sk.",1964,"Picoides pubescens turati","Picoides_pubescens",27.1,NA,"male",9.5,201,7.81267424048122,130.958734976142,"Fall",103633
+12,-124.1530252,41.104244,"u ad.",1941,"Picoides pubescens gairdnerii","Picoides_pubescens",27.1,NA,"male",12.2,1865,2.44619370376993,94.5728935259856,"Winter",103683
+6,-123.49373,40.61736,"u ad.",1946,"Picoides pubescens turati","Picoides_pubescens",27.1,NA,"female",11.8,868,6.50782745482839,107.408417197194,"Summer",103694
+12,-95.5360794,38.0056315,NA,1967,"Picoides pubescens","Picoides_pubescens",27.1,NA,"male",13.1,1129,8.69466485666337,85.6585970824359,"Winter",103830
+9,-119.58,39.25,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",27.1,NA,"female",9.5,201,7.81267424048122,130.958734976142,"Fall",103884
+7,-121.6479,44.3628,"u ad.",1941,"Picoides pubescens leucurus","Picoides_pubescens",27.1,NA,"female",7.9,594,5.71316263314176,66.9000007133394,"Summer",103942
+5,-80.054082,43.24403,"adult",1970,"Picoides pubescens medianus","Picoides_pubescens",27.1,NA,"female",7.6,860,10.6889173701294,31.820703263793,"Spring",104047
+4,-83.9333333,42.6,NA,2009,"Picoides pubescens medianus","Picoides_pubescens",27.1,NA,"female",8.3,918,9.99457428565695,47.5631053877381,"Spring",104096
+11,-122.47622,37.72193,"U-Ad",1979,"Picoides pubescens","Picoides_pubescens",27.13,NA,"female",13.6,703,2.75196899207337,106.240478234363,"Fall",104058
+12,-95.1715552,38.9524093,NA,1966,"Picoides pubescens","Picoides_pubescens",27.2,NA,"male",12.3,699,9.93205325288693,94.9793222927539,"Winter",103555
+6,-117.6822,45.1011,"u ad.",1932,"Picoides pubescens leucurus","Picoides_pubescens",27.2,NA,"male",6,646,8.61112740304748,79.4579087166232,"Summer",103658
+7,-93.63727,52.84037,"juvenile",1938,"Picoides pubescens nelsoni","Picoides_pubescens",27.2,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",104139
+6,-97.0150418,41.4334329,NA,1956,"Picoides pubescens","Picoides_pubescens",27.2000007629395,NA,"female",10.4,425,11.7923961119276,75.2709594540328,"Summer",103508
+2,-76.5095,42.4381,NA,1939,"Picoides pubescens medianus","Picoides_pubescens",27.2000007629395,NA,"female",9.5,688,10.2050306964336,30.703559881706,"Winter",103520
+6,-106.008968,40.07396,"adult",1990,"Picoides pubescens","Picoides_pubescens",27.3,157,"male",3,497,8.21496693956718,42.3218957682626,"Summer",103525
+5,-123.3052,40.2337238,"u ad.",1933,"Picoides pubescens turati","Picoides_pubescens",27.3,NA,"female",10.6,1441,6.87685512161165,127.945322087102,"Spring",103665
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",27.3,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",103819
+1,-101.950375,39.7000654,NA,1969,"Picoides pubescens","Picoides_pubescens",27.3,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",103841
+2,-99.5697108,39.9495034,NA,1967,"Picoides pubescens","Picoides_pubescens",27.3,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",103844
+9,-119.28444,39.69187,"juv.sk.",1964,"Picoides pubescens turati","Picoides_pubescens",27.3,NA,"male",10.3,139,8.2244047403647,101.37396037394,"Fall",103881
+10,-121.5381,44.2529667,NA,2001,"Picoides pubescens leucurus","Picoides_pubescens",27.3,NA,"male",7.9,337,6.38356673360781,89.9605105990811,"Fall",103894
+5,-122.0503,42.7457,"u ad.",1940,"Picoides pubescens turati","Picoides_pubescens",27.3,NA,"female",7.8,763,6.84563010358809,84.4041296720213,"Spring",103939
+10,-79.372722,43.73418,"not applicable",1969,"Picoides pubescens medianus","Picoides_pubescens",27.3,167,"male",7.4,689,10.2642473044677,44.0562373974158,"Fall",103951
+8,-87.72961,52.24829,"juvenile",1939,"Picoides pubescens nelsoni","Picoides_pubescens",27.3,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",103981
+7,-78.48,45.57872,"not applicable",1945,"Picoides pubescens medianus","Picoides_pubescens",27.3,NA,"male",3.8,842,11.3962879389685,33.8670121179428,"Summer",103988
+6,-72.6372,41.3597,"juvenile",1968,"Picoides pubescens medianus","Picoides_pubescens",27.3,NA,NA,9.3,1011,9.86779272853526,57.3532884782539,"Summer",104110
+9,-115.36616,46.01118,"U-Ad.",1941,"Picoides pubescens leucurus","Picoides_pubescens",27.3,NA,"female",5.6,1147,6.97701855227488,49.4249031611815,"Fall",104111
+5,-100.8526807,37.1803491,"juvenile",1967,"Picoides pubescens","Picoides_pubescens",27.4,NA,"female",13.8,453,8.55702351960958,110.730233977802,"Spring",103568
+9,-77.2878957,38.9660325,"immature",1969,"Picoides pubescens","Picoides_pubescens",27.4,NA,"female",12.4,1036,9.49080495995354,62.0693284642199,"Fall",103588
+6,-115.21645,41.84056,"u ad.",1955,"Picoides pubescens leucurus","Picoides_pubescens",27.4,NA,"female",2,657,9.08320127788356,81.0159891196372,"Summer",103611
+4,-119.28444,39.69187,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",27.4,NA,"male",10.3,139,8.2244047403647,101.37396037394,"Spring",103631
+10,-119.58,39.25,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",27.4,NA,"female",9.5,201,7.81267424048122,130.958734976142,"Fall",103637
+5,-117.331268,46.738584,NA,1987,"Picoides pubescens","Picoides_pubescens",27.4,NA,"male",10.2,388,7.74823538072712,67.6167626767111,"Spring",103785
+6,-108.8873166667,36.09675,NA,2013,"Picoides pubescens","Picoides_pubescens",27.4,NA,"female",4.6,693,8.86694149722166,69.4009361267631,"Summer",103856
+10,-79.372722,43.73418,"not applicable",1974,"Picoides pubescens medianus","Picoides_pubescens",27.4,NA,"female",7.3,818,9.77893143446665,44.9764184473273,"Fall",103958
+6,-85.5023003,43.5110865,"immature",1999,"Picoides pubescens","Picoides_pubescens",27.4,NA,"female",8.2,868,9.79251414772189,48.5377307462392,"Summer",104012
+6,-79.01425,45.29641,"adult",1985,"Picoides pubescens medianus","Picoides_pubescens",27.4,NA,"female",4.5,1163,10.8884530164257,18.7177145662764,"Summer",104073
+2,-100.4903539,39.8510785,NA,1967,"Picoides pubescens","Picoides_pubescens",27.5,NA,"male",10.9,498,9.12148645515166,109.219496920202,"Winter",103545
+11,-95.2,39.0333333,NA,2001,"Picoides pubescens","Picoides_pubescens",27.5,NA,"female",13.6,1011,10.2086824306419,65.2320971475559,"Fall",103582
+6,-106.1259166667,35.9037833333,NA,2009,"Picoides pubescens","Picoides_pubescens",27.5,NA,"female",11.7,244,8.5064102388443,69.3958553047673,"Summer",103596
+4,-149.7724722222,61.1237777778,"sk.double",1959,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",27.5,NA,"female",0.6,410,10.652087574601,92.9141706202539,"Spring",103615
+7,-121.6479,44.3628,"u ad.",1941,"Picoides pubescens leucurus","Picoides_pubescens",27.5,NA,"male",7.9,594,5.71316263314176,66.9000007133394,"Summer",103682
+7,-93.82525,48.90185,"not applicable",1929,"Picoides pubescens medianus","Picoides_pubescens",27.5,NA,"male",1.5,422,14.4096558535651,41.9524409763164,"Summer",103710
+6,-108.72642,42.56598,NA,2008,"Picoides pubescens","Picoides_pubescens",27.5,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",103809
+6,-117.5363,41.6846,"u ad.",1935,"Picoides pubescens leucurus","Picoides_pubescens",27.5,NA,"male",4.1,691,8.15818978732786,87.7343027045431,"Summer",103924
+1,-124.130089,41.1633994,"u ad.",1942,"Picoides pubescens gairdnerii","Picoides_pubescens",27.5,NA,"male",11.2,1552,2.53783491594825,101.090757930844,"Winter",103943
+7,-122.6094818,49.2960238,"adult",1973,"Picoides pubescens gairdnerii","Picoides_pubescens",27.5,NA,"male",9.3,1521,5.43462524146344,77.6522963192103,"Summer",103956
+7,-135.4454,59.2295,"U",2002,"Picoides pubescens glacialis","Picoides_pubescens",27.5,NA,"female ?",5.7,747,6.49481728112127,48.1542629923122,"Summer",104000
+9,-85.3370333,43.7113161,NA,2006,"Picoides pubescens medianus","Picoides_pubescens",27.5,NA,"female",8.5,1053,9.11167665773712,34.668556074004,"Fall",104022
+3,-94.591875,39.0520556,"larvae",2009,"Picoides pubescens","Picoides_pubescens",27.5,NA,"male",12.3,1157,9.45057317485735,64.4446895509153,"Spring",104071
+7,-94.98538,49.92533,"not applicable",1947,"Picoides pubescens nelsoni","Picoides_pubescens",27.5,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",104087
+12,-117.048389,46.341657,NA,1979,"Picoides pubescens","Picoides_pubescens",27.6,NA,"female",11.3,345,9.76546171075605,51.1224752482825,"Winter",103503
+5,-100.8526807,37.1803491,NA,1967,"Picoides pubescens","Picoides_pubescens",27.6,NA,"female",13.8,453,8.55702351960958,110.730233977802,"Spring",103567
+4,-149.7972222222,61.0561111111,"sk.double",1959,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",27.6,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Spring",103618
+9,-119.58,39.25,"ad.?",1965,"Picoides pubescens turati","Picoides_pubescens",27.6,NA,"male",9.5,322,6.86466578673983,101.811421634975,"Fall",103635
+11,-83.5993423,42.5936317,NA,2011,"Picoides pubescens medianus","Picoides_pubescens",27.6,NA,"male",9.3,967,10.7016955609281,50.6803929550132,"Fall",103767
+6,-106.785312,46.26478,"u ad.",1940,"Picoides pubescens leucurus","Picoides_pubescens",27.6,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",103937
+1,-123.47623,40.4313,"u ad.",1942,"Picoides pubescens turati","Picoides_pubescens",27.6,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",103946
+6,-122.8339037,40.325449,"u ad.",1943,"Picoides pubescens turati","Picoides_pubescens",27.6,NA,"female",14.2,694,6.27671864668928,121.568131946776,"Summer",103947
+4,-79.97972,43.63902,"adult",1989,"Picoides pubescens medianus","Picoides_pubescens",27.6,NA,"male",6.3,722,10.8616506363193,40.9813702956302,"Spring",104075
+6,-76.451,42.4799,NA,2011,"Picoides pubescens","Picoides_pubescens",27.7,162,"female",9.2,1318,10.0593202674149,50.0417496199746,"Summer",103515
+11,-95.7356074,37.6789414,NA,1967,"Picoides pubescens","Picoides_pubescens",27.7,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Fall",103541
+12,-95.5360794,38.0056315,NA,1967,"Picoides pubescens","Picoides_pubescens",27.7,NA,"female",13.1,1129,8.69466485666337,85.6585970824359,"Winter",103562
+12,-97.1795654,37.352147,"adult",1967,"Picoides pubescens","Picoides_pubescens",27.7,NA,"female",14.6,770,8.47073393120887,91.1759716909329,"Winter",103587
+6,-80.144339,43.615992,"fledgeling",2002,"Picoides pubescens medianus","Picoides_pubescens",27.7,NA,"female",7.3,876,9.51107807036647,24.0622766839422,"Summer",103734
+2,-99.5697108,39.9495034,NA,1967,"Picoides pubescens","Picoides_pubescens",27.7,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",103822
+12,-95.1715552,38.9524093,NA,1966,"Picoides pubescens","Picoides_pubescens",27.7,NA,"female",12.3,699,9.93205325288693,94.9793222927539,"Winter",103826
+12,-95.5360794,38.0056315,NA,1966,"Picoides pubescens","Picoides_pubescens",27.7,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",103832
+10,-85.31367,42.3997,"imm.",1951,"Picoides pubescens medianus","Picoides_pubescens",27.7,NA,"female",8.9,987,9.78184388021858,25.9637848866777,"Fall",103861
+3,-122.544243,41.7181125,"u ad.",1971,"Picoides pubescens turati","Picoides_pubescens",27.7,NA,"male",10.4,459,7.96498016889616,75.9940154795135,"Spring",103875
+5,-114.223289,46.750939,"u ad.",1940,"Picoides pubescens leucurus","Picoides_pubescens",27.7,NA,"male",7.4,463,9.27425158297113,57.8843735392237,"Spring",103935
+3,-85.3401,43.7098,NA,2011,"Picoides pubescens medianus","Picoides_pubescens",27.7,NA,"male",8.1,1012,10.5112349705475,42.2110085674665,"Spring",104025
+9,-119.58,39.25,"juv.sk.",1964,"Picoides pubescens turati","Picoides_pubescens",27.8,NA,"male",9.5,201,7.81267424048122,130.958734976142,"Fall",103632
+12,-95.7356074,37.6789414,NA,1967,"Picoides pubescens","Picoides_pubescens",27.8,NA,"female",13.6,1059,8.65326615512982,91.6152771560625,"Winter",103833
+6,-133.7,59.5667,"u ad.",1924,"Picoides pubescens nelsoni","Picoides_pubescens",27.8,NA,"male",-0.3,390,8.84507652809623,42.7361199847268,"Summer",103908
+7,-122.6094818,49.2960238,"not applicable",1973,"Picoides pubescens nelsoni","Picoides_pubescens",27.8,NA,"male",9.3,1521,5.43462524146344,77.6522963192103,"Summer",103955
+2,-84.001379,42.4058404,"adult",1928,"Picoides pubescens medianus","Picoides_pubescens",27.8,NA,"male",8.3,698,9.43479617097682,39.6727045488842,"Winter",104036
+11,-72.6822,41.2889,NA,1974,"Picoides pubescens medianus","Picoides_pubescens",27.8,NA,"male",10.6,1090,8.73049340825106,44.7951602854713,"Fall",104103
+3,-72.9975,41.4217,"adult",2007,"Picoides pubescens medianus","Picoides_pubescens",27.8,NA,"female",10.4,1208,9.67934382950089,50.5400033829543,"Spring",104157
+2,-99.2464304,37.327426,NA,1967,"Picoides pubescens","Picoides_pubescens",27.9,NA,"male",14.3,493,8.88420457379786,88.7124887952805,"Winter",103551
+8,-111.106,44.1296,"ad.",1939,"Picoides pubescens leucurus","Picoides_pubescens",27.9,NA,"male",4.3,639,9.28354686659374,67.6867962566796,"Summer",103672
+6,-123.49373,40.61736,"u ad.",1946,"Picoides pubescens turati","Picoides_pubescens",27.9,NA,"male",11.8,868,6.50782745482839,107.408417197194,"Summer",103695
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",27.9,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",103817
+2,-100.4903539,39.8510785,NA,1967,"Picoides pubescens","Picoides_pubescens",27.9,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",103818
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",27.9,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",103825
+9,-120.3190614,39.5461513,"juv.",1964,"Picoides pubescens turati","Picoides_pubescens",27.9,NA,"male",5.6,924,6.8445676313852,171.151075895812,"Fall",103878
+9,-119.58,39.25,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",27.9,NA,"male",9.5,201,7.81267424048122,130.958734976142,"Fall",103883
+9,-79.05282,43.81471,"not applicable",1968,"Picoides pubescens medianus","Picoides_pubescens",27.9,NA,"male",7.5,792,10.702629951502,39.154815680205,"Fall",104074
+6,-93.63727,52.84037,"not applicable",1938,"Picoides pubescens nelsoni","Picoides_pubescens",27.9,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",104080
+7,-111.172949,43.3163447,NA,1949,"Picoides pubescens leucurus","Picoides_pubescens",28,NA,"female",5,448,10.536976738509,46.3393767046034,"Summer",103533
+1,-101.950375,39.7000654,NA,1969,"Picoides pubescens","Picoides_pubescens",28,NA,"male",10.4,481,10.08672620103,102.043402663202,"Winter",103574
+1,-70.2103,44.5867,"u ad.",1952,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Winter",103608
+5,-70.2103,44.5867,"u ad.",1952,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",103609
+6,-122.0921,42.2089,"u ad.",1964,"Picoides pubescens turati","Picoides_pubescens",28,NA,"female",6.2,765,6.90434645712395,157.501906375894,"Summer",103623
+5,-122.8741356,46.0084949,"u ad.",1941,"Picoides pubescens gairdnerii","Picoides_pubescens",28,NA,"female",12.1,959,4.73545620342385,69.8215869796105,"Spring",103681
+5,-94.7531657,37.0783039,"adult",1973,"Picoides pubescens pubescens","Picoides_pubescens",28,NA,"male",14.7,1467,9.10198113632744,55.4959926220036,"Spring",103701
+5,-77.3966217,48.1044509,"adult",1974,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"female",0.3,975,12.3371175603124,34.6384770769057,"Spring",103702
+1,-79.99343,43.80176,"not applicable",1933,"Picoides pubescens nelsoni","Picoides_pubescens",28,NA,"male",6.9,745,10.3470095225918,39.980176160617,"Winter",103708
+12,-79.99343,43.80176,"not applicable",1934,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"male",5.8,691,11.3042094599822,30.2557679447059,"Winter",103709
+9,-147.8043,64.857,"U",2008,"Picoides pubescens","Picoides_pubescens",28,NA,"male",-2.8,379,14.4723456246314,112.814485663953,"Fall",103742
+2,-86.9086075,40.4267349,"adult",1983,NA,"Picoides_pubescens",28,NA,"male",10.9,920,10.9145822668853,55.6713158779523,"Winter",103781
+1,-76.5095,42.4381,NA,1934,"Picoides pubescens medianus","Picoides_pubescens",28,165,"male",8.9,704,11.0734291587265,50.3319570189957,"Winter",103797
+4,-70.2103,44.5867,"u ad.",1952,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",103862
+5,-70.2103,44.5867,"u ad.",1952,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",103863
+6,-116.40639,39.325,"unknown",1994,"Picoides pubescens leucurus","Picoides_pubescens",28,NA,"male",7.5,207,8.95914971614849,68.8729655010573,"Summer",103891
+5,-94.7374458,37.0245075,"adult",1973,"Picoides pubescens pubescens","Picoides_pubescens",28,NA,"female",14.8,1523,9.03422365063523,54.0550553176996,"Spring",103954
+12,-80.12486,46.41137,"immature",1975,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"female",5.1,841,11.7210636604932,34.5685276241832,"Winter",103959
+7,-84.11228,46.40592,"juvenile",1931,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"male",6.7,764,10.5003427072499,65.8247191451027,"Summer",103975
+7,-84.02525,46.353393,"not applicable",1931,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",103978
+4,-82.46778,45.91631,"not applicable",1952,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"undetermined",5.7,710,9.72645174955202,43.0087705529656,"Spring",103994
+9,-72.9286,41.3081,NA,1974,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"male",10.9,1068,8.86366006212838,44.8544482256288,"Fall",104108
+3,-95.2,39.0333333,NA,2007,"Picoides pubescens","Picoides_pubescens",28,NA,"female",13.6,1022,10.8105272766873,65.5836013233886,"Spring",104125
+3,-94.4026944,39.8206944,NA,2008,"Picoides pubescens","Picoides_pubescens",28,NA,"female",10.6,1122,10.7048275713966,60.4968178610434,"Spring",104126
+12,-95.4166667,38.95,NA,2009,"Picoides pubescens","Picoides_pubescens",28,NA,"female",12.4,1081,9.44996392489507,60.7489448086064,"Winter",104128
+6,-77.27931,43.96989,"not applicable",1930,"Picoides pubescens medianus","Picoides_pubescens",28,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",104135
+3,-119.630241,49.495707,NA,1992,"Picoides pubescens","Picoides_pubescens",28,174,"male",10.1,318,8.30897196718795,69.8841254458756,"Spring",104145
+3,-101.176094,38.8977732,"adult",1967,"Picoides pubescens","Picoides_pubescens",28.1,NA,"male",11.5,477,8.91071452428667,120.544084226397,"Spring",103539
+12,-95.5360794,38.0056315,NA,1966,"Picoides pubescens","Picoides_pubescens",28.1,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",103557
+12,-95.5360794,38.0056315,NA,1967,"Picoides pubescens","Picoides_pubescens",28.1,NA,"female",13.1,1129,8.69466485666337,85.6585970824359,"Winter",103558
+12,-95.1715552,38.9524093,NA,1966,"Picoides pubescens","Picoides_pubescens",28.1,NA,"female",12.3,699,9.93205325288693,94.9793222927539,"Winter",103565
+6,-106.785312,46.26478,"u ad.",1940,"Picoides pubescens leucurus","Picoides_pubescens",28.1,NA,"female ?",8.2,314,12.0179758039465,84.4856629974161,"Summer",103674
+7,-83.7738418,45.9374225,NA,1938,"Picoides pubescens","Picoides_pubescens",28.1,NA,"female",6.3,741,10.7046718772693,26.3590708882279,"Summer",103744
+9,-83.8383865,42.2765466,NA,2010,"Picoides pubescens medianus","Picoides_pubescens",28.1,NA,"male",10.5,903,10.881538438469,69.3880742335412,"Fall",104023
+2,-95.2253214,38.9927314,NA,1966,"Picoides pubescens medianus","Picoides_pubescens",28.2,NA,"female",12.2,687,9.93522963392331,97.8594728226189,"Winter",103537
+1,-83.7263412,42.2708397,NA,1934,"Picoides pubescens medianus","Picoides_pubescens",28.2,NA,"male",9.6,480,11.7842055311336,58.1051749810578,"Winter",103747
+12,-83.9158058,42.3326616,NA,2000,"Picoides pubescens","Picoides_pubescens",28.2,NA,"female",9.1,1013,10.2149140817224,52.611434383853,"Winter",103753
+5,-76.5095,42.4381,NA,2007,"Picoides pubescens","Picoides_pubescens",28.2,152,"female",9.7,901,10.237808714404,28.3413535885695,"Spring",103791
+10,-76.299816,42.489085,NA,2010,"Picoides pubescens","Picoides_pubescens",28.2,154,"female",8.9,1055,10.0741342962153,48.2342633823828,"Fall",103796
+2,-99.5697108,39.9495034,NA,1967,"Picoides pubescens","Picoides_pubescens",28.2,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",103827
+6,-127.6667,55.25,"u ad.",1921,"Picoides pubescens leucurus","Picoides_pubescens",28.2,NA,"female",4.1,528,9.01276871998833,42.8930178884019,"Summer",103905
+4,-123.4644508,40.4048454,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",28.2,NA,"female",11.2,1031,7.06169243170502,104.669249158388,"Spring",103915
+9,-115.38086,46.00094,"U-Ad.",1941,"Picoides pubescens leucurus","Picoides_pubescens",28.2,NA,"female",5.8,1140,7.01497856321915,49.3250386968766,"Fall",104056
+6,-70.5525,43.7358,NA,2007,"Picoides pubescens medianus","Picoides_pubescens",28.2,NA,"male",7,1207,10.447908301607,48.2290890945379,"Summer",104151
+9,-76.51583,42.57306,NA,2003,"Picoides pubescens","Picoides_pubescens",28.2000007629395,161,"female",7.8,1075,10.2077028253029,32.3614475461249,"Fall",103512
+1,-124.1530252,41.104244,"u ad.",1942,"Picoides pubescens gairdnerii","Picoides_pubescens",28.3,NA,"female",11.2,1645,2.83114443076979,99.0694154330484,"Winter",103684
+10,-95.4370307,38.873728,NA,1987,"Picoides pubescens","Picoides_pubescens",28.4,NA,"male",13.5,1004,9.53255983299853,61.3442904835374,"Fall",103579
+4,-149.7972222222,61.0561111111,"sk.double",1959,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",28.4,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Spring",103619
+6,-106.785312,46.26478,"u ad.",1940,"Picoides pubescens leucurus","Picoides_pubescens",28.4,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",103675
+2,-99.2464304,37.327426,NA,1967,"Picoides pubescens","Picoides_pubescens",28.4,NA,"male",14.3,493,8.88420457379786,88.7124887952805,"Winter",103821
+6,-114.256346,38.929166,"u ad.",1962,"Picoides pubescens leucurus","Picoides_pubescens",28.4,NA,"male",5.7,338,8.58892874401092,76.4282508032243,"Summer",103872
+9,-120.3190614,39.5461513,"juv.sk.",1964,"Picoides pubescens turati","Picoides_pubescens",28.4,NA,"female",5.6,924,6.8445676313852,171.151075895812,"Fall",103879
+7,-151,61.2167,"adult",2007,"Picoides pubescens glacialis","Picoides_pubescens",28.4,NA,"male",2.6,587,9.2841139979684,88.552517903191,"Summer",104107
+5,-105.15528,40.61139,"Adult",2008,"Picoides pubescens","Picoides_pubescens",28.5,150,"female",8.3,344,9.25942599176481,85.390214786849,"Spring",103523
+8,-87.72961,52.24829,"juvenile",1939,"Picoides pubescens nelsoni","Picoides_pubescens",28.5,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",103721
+11,-84.1557884,42.3190818,NA,1997,"Picoides pubescens medianus","Picoides_pubescens",28.5,NA,"male",8.1,875,9.3434914958667,39.0642000483491,"Fall",103758
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",28.5,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",103824
+11,-122.7689064,39.1332184,"u ad.",1981,"Picoides pubescens turati","Picoides_pubescens",28.5,NA,"male",13.8,1942,6.36688282990169,114.855364630703,"Fall",103890
+6,-118.72917,41.66194,"u ad.",1935,"Picoides pubescens leucurus","Picoides_pubescens",28.5,NA,"male",2.3,432,8.06415563221631,107.478497314396,"Summer",103926
+6,-93.83787,48.63186,"not applicable",1929,"Picoides pubescens medianus","Picoides_pubescens",28.5,NA,"female",1.8,428,14.3487381981409,51.6416404531459,"Summer",103967
+6,-86.71792,50.18312,"not applicable",1947,"Picoides pubescens nelsoni","Picoides_pubescens",28.5,NA,"male",-0.7,756,13.5037003907234,45.2918593959555,"Summer",103991
+9,-78.94961,45.29449,"not applicable",1969,"Picoides pubescens medianus","Picoides_pubescens",28.5,NA,"female",4.4,951,10.6003823544534,50.0415295889046,"Fall",104130
+11,-91.047761,40.8323817,NA,1967,"Picoides pubescens","Picoides_pubescens",28.6,NA,"male",10,959,9.6520369965007,55.0947184014483,"Fall",103838
+7,-87.72961,52.24829,"not applicable",1939,"Picoides pubescens nelsoni","Picoides_pubescens",28.6,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",103983
+1,-101.950375,39.7000654,NA,1969,"Picoides pubescens","Picoides_pubescens",28.7,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",103572
+3,-149.7459,61.15,"sk.double",1958,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",28.7,NA,"female",1.6,391,9.46689206944631,91.6097070512986,"Spring",103869
+4,-123.4644508,40.4048454,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",28.7,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",103914
+6,-118.55889,41.32083,"ad.",1993,"Picoides pubescens leucurus","Picoides_pubescens",28.8,NA,"female",8.9,192,9.17293036685396,70.864878257477,"Summer",103642
+4,-123.5151,40.46008,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",28.8,NA,"female",11,1081,6.76884014951579,102.306728354819,"Spring",103660
+5,-123.50169,40.47157,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",28.8,NA,"male",10.6,1177,6.91222018448399,101.695625034038,"Spring",103664
+12,-86.965319,46.014536,NA,2005,"Picoides pubescens medianus","Picoides_pubescens",28.8,NA,"female",7,754,10.8396438496788,46.9215708612897,"Winter",103761
+10,-123.4851937,39.6863371,"u ad.",1919,"Picoides pubescens gairdnerii","Picoides_pubescens",28.8,NA,"male",11,1749,4.85217851728853,122.312210147835,"Fall",103902
+4,-79.12056,43.86749,"adult",1987,"Picoides pubescens medianus","Picoides_pubescens",28.8,NA,"female",8.5,795,9.74236297638496,37.6733616421039,"Spring",103987
+2,-85.5156898,42.1720552,NA,2011,"Picoides pubescens medianus","Picoides_pubescens",28.8,NA,"female",10.3,1183,10.3663646063369,34.4328297443145,"Winter",104035
+3,-123.4853,40.3329,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",28.9,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",103659
+12,-84.1019726,42.3267922,"adult",2011,"Picoides pubescens medianus","Picoides_pubescens",28.9,NA,"female",9.7,1063,10.5086220011777,43.4061090594874,"Winter",103765
+6,-120.2008764,41.5082567,"u ad.",1964,"Picoides pubescens leucurus","Picoides_pubescens",28.9,NA,"female",7.2,589,7.64270299638218,110.96454731095,"Summer",103874
+3,-83.7500668,42.6573812,NA,2002,"Picoides pubescens","Picoides_pubescens",28.9,NA,"male",9.6,657,9.94990482671096,34.010465278306,"Spring",104014
+3,-76.5095,42.4381,"ad.",1934,"Picoides pubescens medianus","Picoides_pubescens",29,177,"male",8.9,704,11.0734291587265,50.3319570189957,"Spring",103521
+6,-120.2357672,41.5389116,"u ad.",1964,"Picoides pubescens leucurus","Picoides_pubescens",29,NA,"male",6.4,742,7.63435218819078,112.677157587897,"Summer",103625
+9,-147.8043,64.857,"U",2011,"Picoides pubescens","Picoides_pubescens",29,NA,"female",-1.9,257,14.5662202622119,89.8030687917233,"Fall",103739
+2,-95.2598661,38.9549568,NA,1994,"Picoides pubescens","Picoides_pubescens",29,NA,"female",13.5,865,9.85763432804517,72.4430264855141,"Winter",103849
+2,-149.9638888889,61.1516666667,"sk.double",1957,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",29,NA,"female",2.9,343,10.2121882022801,88.3238895402146,"Winter",103868
+8,-118.91056,36.78619,"imm.",1916,"Picoides pubescens turati","Picoides_pubescens",29,NA,"female",9.5,1484,7.31330771244925,152.529949124809,"Summer",103898
+5,-84.118395,46.188029,NA,1982,"Picoides pubescens","Picoides_pubescens",29,NA,"male",3.9,825,10.8638544418329,50.406491895828,"Spring",104005
+7,-93.63727,52.84037,"not applicable",1938,"Picoides pubescens nelsoni","Picoides_pubescens",29,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",104138
+5,-104.0333333,50.75,NA,1966,"Picoides pubescens","Picoides_pubescens",29,NA,"male",0.6,373,14.6689813944771,95.0753829618757,"Spring",104149
+2,-95.2598661,38.9259634,NA,1968,"Picoides pubescens","Picoides_pubescens",29.1,NA,"female",12.1,982,10.2624167216936,79.5023735335543,"Winter",103576
+8,-123.6330443,40.9878094,"u ad.",1949,"Picoides pubescens gairdnerii","Picoides_pubescens",29.1,NA,"female",13.1,933,6.69834895984666,112.092797597894,"Summer",103601
+6,-120.2357672,41.5389116,"u ad.",1964,"Picoides pubescens leucurus","Picoides_pubescens",29.1,NA,"female",6.4,742,7.63435218819078,112.677157587897,"Summer",103624
+5,-122.0695,40.3146,"u ad.",1924,"Picoides pubescens turati","Picoides_pubescens",29.1,NA,"male",16.7,494,7.4583032841785,107.492321804429,"Spring",103653
+2,-105.513578,39.742699,NA,1998,"Picoides pubescens","Picoides_pubescens",29.2,150,"female",5.7,409,7.80948820734151,87.3274261751677,"Winter",103527
+2,-100.4903539,39.8510785,NA,1967,"Picoides pubescens","Picoides_pubescens",29.2,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",103544
+9,-123.88759,40.77914,"u ad.",1942,"Picoides pubescens gairdnerii","Picoides_pubescens",29.2,NA,"female",12,1606,3.98157689181743,97.2485971118486,"Fall",103691
+3,-95.3019171,39.9750312,NA,1967,"Picoides pubescens","Picoides_pubescens",29.2,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",103835
+6,-120.3101376,39.5460862,"u ad.",1967,"Picoides pubescens turati","Picoides_pubescens",29.2,NA,"female",6.1,957,7.51707148006214,115.205671309416,"Summer",103877
+12,-83.7268066,42.4176196,"not applicable",1932,"Picoides pubescens medianus","Picoides_pubescens",29.2,NA,"female",9.3,882,9.73367709023521,49.1048354061436,"Winter",103964
+9,-76.4646,42.5052,NA,2003,"Picoides pubescens","Picoides_pubescens",29.2000007629395,NA,"male",7.4,1115,10.2071387674599,33.4920116664522,"Fall",103511
+4,-73.65222,43.19611,"adult",2013,"Picoides pubescens","Picoides_pubescens",29.4,158,"female",9.1,1163,10.3484151912115,62.0033021996682,"Spring",103794
+5,-122.0242,42.7337,"u ad.",1940,"Picoides pubescens turati","Picoides_pubescens",29.4,NA,"female",7.9,699,6.86799229628413,83.7998631516205,"Spring",103940
+7,-93.82525,48.90185,"not applicable",1929,"Picoides pubescens nelsoni","Picoides_pubescens",29.5,NA,"male",1.5,422,14.4096558535651,41.9524409763164,"Summer",103711
+4,-147.8043,64.857,"AHY",1999,"Picoides pubescens","Picoides_pubescens",29.5,NA,"male",-4.1,278,16.3509243552995,93.4095215432179,"Spring",103999
+7,-83.7738418,45.9374225,NA,1938,"Picoides pubescens","Picoides_pubescens",29.5,NA,"male",6.3,741,10.7046718772693,26.3590708882279,"Summer",104003
+7,-77.27931,43.96989,"juvenile",1930,"Picoides pubescens medianus","Picoides_pubescens",29.5,NA,"female",7.7,613,10.1010200505001,37.744229913391,"Summer",104079
+7,-122.9475,42.4553,"adult",1990,"Picoides pubescens turati","Picoides_pubescens",29.6,NA,"female",11.7,451,7.42722265477725,68.7920392259181,"Summer",103644
+4,-123.4644508,40.4048454,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",29.6,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",103913
+6,-123.1971839,41.8431138,"u ad.",1935,"Picoides pubescens leucurus","Picoides_pubescens",29.6,NA,"female",11.5,898,7.19311012937612,104.029458741929,"Summer",103927
+6,-101.8001034,39.7870332,"adult",1954,"Picoides pubescens medianus","Picoides_pubescens",29.7,NA,"male",12.5,266,9.88768747667338,92.7904500384176,"Summer",103534
+2,-97.9750443,38.8691172,NA,1967,"Picoides pubescens","Picoides_pubescens",29.7,NA,"male",12.4,907,9.05250676817636,113.994758006922,"Winter",103550
+5,-79.2526245,41.7457012,"adult",1974,"Picoides pubescens medianus","Picoides_pubescens",29.7,NA,"male",7,1075,8.67201612293033,32.4872196484064,"Spring",103957
+6,-123.14392,40.55443,"u ad.",1943,"Picoides pubescens turati","Picoides_pubescens",29.8,NA,"male",11.5,837,5.90030173856055,120.785766804994,"Summer",103693
+1,-84.736982,47.998154,"not applicable",1968,"Picoides pubescens medianus","Picoides_pubescens",29.8,164,"female",2.1,1087,11.361604666862,38.0050782043053,"Winter",103696
+4,-149.7972222222,61.0561111111,"sk.double",1959,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",29.9,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Spring",103871
+5,-123.9214,46.0368,"u ad.",1941,"Picoides pubescens gairdnerii","Picoides_pubescens",30,NA,"male",11.6,1683,3.39949862613458,70.3715929306626,"Spring",103680
+1,-123.47623,40.4313,"u ad.",1942,"Picoides pubescens gairdnerii","Picoides_pubescens",30,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",103689
+11,-75.70644,45.38681,"not applicable",1909,"Picoides pubescens medianus","Picoides_pubescens",30,NA,"male",5.7,918,11.118572368571,36.9933022561288,"Fall",103729
+11,-147.8043,64.857,"U",2012,"Picoides pubescens","Picoides_pubescens",30,NA,"male",-2.5,295,15.6269653309446,58.5024616331023,"Fall",103741
+9,-119.12479,39.08731,"juv.sk.",1965,"Picoides pubescens turati","Picoides_pubescens",30,NA,"female",9.6,186,7.27854360223918,76.1755074178538,"Fall",103887
+6,-86.71792,50.18312,"not applicable",1947,"Picoides pubescens nelsoni","Picoides_pubescens",30,NA,"female",-0.7,756,13.5037003907234,45.2918593959555,"Summer",103990
+10,-147.8043,64.857,"U",2011,"Picoides pubescens","Picoides_pubescens",30,NA,"male",-1.9,257,14.5662202622119,89.8030687917233,"Fall",104001
+11,-70.3442156,43.5411953,NA,2006,"Picoides pubescens medianus","Picoides_pubescens",30,NA,"female",9.4,1448,8.54105947583185,57.2217927600698,"Fall",104018
+7,-77.27931,43.96989,"juvenile",1930,"Picoides pubescens medianus","Picoides_pubescens",30,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",104077
+5,-149.7972222222,61.0561111111,"u ad.",1959,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",30.1,NA,"male",0.2,420,11.0997508844555,89.1684944818699,"Spring",103617
+1,-124.130089,41.1633994,"u ad.",1942,"Picoides pubescens gairdnerii","Picoides_pubescens",30.1,NA,"male ?",11.2,1552,2.53783491594825,101.090757930844,"Winter",103944
+5,-123.9603,45.7833,"u ad.",1941,"Picoides pubescens gairdnerii","Picoides_pubescens",30.2,NA,"female",11,2675,3.59405021802659,79.2686014511964,"Spring",103679
+9,-77.2878957,38.9660325,"adult",1969,"Picoides pubescens","Picoides_pubescens",30.2,NA,"male",12.4,1036,9.49080495995354,62.0693284642199,"Fall",103851
+6,-93.83787,48.63186,"not applicable",1929,"Picoides pubescens medianus","Picoides_pubescens",30.25,NA,"female",1.8,428,14.3487381981409,51.6416404531459,"Summer",103712
+2,-99.2464304,37.327426,NA,1967,"Picoides pubescens","Picoides_pubescens",30.4,NA,"female",14.3,493,8.88420457379786,88.7124887952805,"Winter",103820
+8,-123.8807184,41.1535776,"u juv.",1949,"Picoides pubescens gairdnerii","Picoides_pubescens",30.5,NA,"male",11,2102,6.16755931295256,97.7290658644895,"Summer",103600
+6,-120.3101376,39.5460862,"u ad.",1967,"Picoides pubescens turati","Picoides_pubescens",30.5,NA,"male",6.1,957,7.51707148006214,115.205671309416,"Summer",103876
+4,-147.8043,64.857,"U",1999,"Picoides pubescens","Picoides_pubescens",30.5,NA,"female",-4.1,278,16.3509243552995,93.4095215432179,"Spring",103997
+4,-83.7263412,42.2708397,NA,1939,"Picoides pubescens medianus","Picoides_pubescens",30.5,NA,"female",10.1,662,10.2795766921453,66.7450603426487,"Spring",104042
+11,-79.420787,43.767467,"not applicable",1972,"Picoides pubescens medianus","Picoides_pubescens",30.5,NA,"undetermined",6.6,887,10.2749880188679,27.4478463160488,"Fall",104048
+1,-101.950375,39.7000654,NA,1969,"Picoides pubescens","Picoides_pubescens",30.6,NA,"female",10.4,481,10.08672620103,102.043402663202,"Winter",103840
+8,-149.815389,61.140089,NA,2007,"Picoides pubescens glacialis","Picoides_pubescens",30.6,NA,"female",1.9,362,10.3249147035878,81.6014975279261,"Summer",104155
+4,-149.7722777778,61.1363333333,"sk.double",1959,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",30.7,NA,"female",0.7,411,10.540297851004,94.7401513861944,"Spring",103614
+7,-87.72961,52.24829,"juvenile",1939,"Picoides pubescens nelsoni","Picoides_pubescens",30.7,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",103722
+1,-92.1523333,40.2571667,NA,2009,"Picoides pubescens","Picoides_pubescens",30.7,NA,"male",11,1316,9.84446852836965,58.1737527250799,"Winter",104127
+5,-122.3176413,41.3106733,"u ad.",1940,"Picoides pubescens turati","Picoides_pubescens",31,NA,"male",11.4,1756,6.75808718678906,116.65227347021,"Spring",103938
+5,-77.27931,43.96989,"not applicable",1930,"Picoides pubescens medianus","Picoides_pubescens",31,NA,"female",7.7,613,10.1010200505001,37.744229913391,"Spring",104134
+10,-95.4370307,38.873728,NA,1987,"Picoides pubescens","Picoides_pubescens",31.1,NA,"male",13.5,1004,9.53255983299853,61.3442904835374,"Fall",103847
+5,-123.4853,40.33652,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",31.2,NA,"female",10.6,1082,6.98986278965344,106.608780589431,"Spring",103663
+6,-83.9023667,42.3516833,NA,2007,"Picoides pubescens","Picoides_pubescens",31.2,NA,"female",9.8,875,10.7353141405815,45.8665436501036,"Summer",104152
+5,-123.9603,45.7833,"u ad.",1941,"Picoides pubescens gairdnerii","Picoides_pubescens",31.4,NA,"female",11,2675,3.59405021802659,79.2686014511964,"Spring",103678
+5,-79.268383,41.7595358,"not applicable",1974,"Picoides pubescens medianus","Picoides_pubescens",31.4,NA,"undetermined",7.1,1070,8.6868195177138,32.3812903654938,"Spring",103703
+5,-103.84325,44.45248,NA,2008,"Picoides pubescens","Picoides_pubescens",31.6,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",103807
+4,-123.4644508,40.4048454,"u ad.",1932,"Picoides pubescens turati","Picoides_pubescens",31.9,NA,"female",11.2,1031,7.06169243170502,104.669249158388,"Spring",103912
+10,-76.3233948,38.0449818,"immature",1966,"Picoides pubescens","Picoides_pubescens",32,NA,"female",13.3,1011,8.94126880698639,43.1154351196843,"Fall",103586
+11,-79.366324,43.716504,"adult",1974,"Picoides pubescens medianus","Picoides_pubescens",32,NA,"male",7.5,811,9.78116232170985,44.7864754428247,"Fall",103704
+11,-147.8043,64.857,"U",2011,"Picoides pubescens","Picoides_pubescens",32,NA,"male",-1.9,257,14.5662202622119,89.8030687917233,"Fall",103740
+11,-72.5989,41.2794,NA,1974,"Picoides pubescens medianus","Picoides_pubescens",32.3,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",104156
+4,-149.7972222222,61.0561111111,"sk.double",1959,"Picoides pubescens glacialis / Picoides pubescens nelsoni intergrade","Picoides_pubescens",32.8,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Spring",103870
+5,-82.4333333,42.9666667,"immature",1983,"Picoides pubescens","Picoides_pubescens",34,NA,"female",9,899,10.1251561903404,40.1411650467837,"Spring",104093
+11,-76.46632,42.44127,NA,1940,"Picoides pubescens medianus","Picoides_pubescens",34.0999984741211,NA,"female",6.9,910,10.249434574205,34.3467677606997,"Fall",103801
+4,-119.384,40.53,"u ad.",1941,"Picoides pubescens turati","Picoides_pubescens",34.7,NA,"male",10.4,326,7.30447662655435,74.9434791594172,"Spring",103941
+7,-149.9044,61.1742,"HY",1998,"Picoides pubescens","Picoides_pubescens",35,NA,"male",2.4,317,9.30214621699876,97.7514556415979,"Summer",103996
+6,-110.682998,43.6813712,NA,1949,"Picoides pubescens leucurus","Picoides_pubescens",38.2,NA,"female",2.4,531,10.7083760758491,40.2391363384955,"Summer",103532
+10,-121.994205,37.9733762,"u ad.",1926,"Picoides pubescens turati","Picoides_pubescens",45,NA,"male",15.2,510,4.84282505831612,119.742886659945,"Fall",103654

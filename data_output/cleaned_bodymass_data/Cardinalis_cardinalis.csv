@@ -1,0 +1,985 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+10,-83.1338348,42.6806297,NA,1997,"Cardinalis cardinalis","Cardinalis_cardinalis",12,NA,"male",8.5,809,9.54331036523872,42.3217976815784,"Fall",14327
+8,-84.0118504,42.4569008,"immature",1957,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",15.3,NA,"male",9,861,9.68893073501296,38.2664298370381,"Summer",14285
+9,-79.2989,43.670294,"fledgeling",2000,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",16,NA,"male",7.8,795,9.83045669274214,57.1636122515834,"Fall",14249
+9,-87.5833333,37.8833333,"juvenile",1949,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",20.5,NA,"male",14.4,1302,8.70271204681029,50.099624890425,"Fall",14571
+6,-79.387998,43.766636,"juv",1997,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",23.2,NA,"female",7.1,698,9.6081838538663,32.8838149763919,"Summer",13942
+2,-84.0092718,36.2523596,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",23.6,NA,"male",14.3,1311,8.07594163756359,39.5619411672636,"Winter",14075
+1,-81.7981833333,26.5929,NA,2010,"Cardinalis cardinalis","Cardinalis_cardinalis",23.7,NA,"male",22.5,1417,6.05967795923983,90.5272993430461,"Winter",13873
+9,-79.398331,43.706802,"juv",1999,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",23.7,NA,"male",8.9,727,10.0779199092357,44.8506468287147,"Fall",13946
+11,-83.6422,42.30201,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",24.2,NA,"female",9.1,851,10.0927967112464,58.0362612941202,"Fall",14066
+8,-83.7263412,42.2708397,"fledgling",1999,"Cardinalis cardinalis","Cardinalis_cardinalis",24.2,NA,"male",10.2,871,9.96574435785208,44.628272107928,"Summer",14323
+7,-83.95,42.45,"juvenile",1946,"Cardinalis cardinalis","Cardinalis_cardinalis",25.5,NA,"male",9.8,623,9.02076728578242,43.6993001397706,"Summer",14542
+7,-83.7263412,42.2708397,"immature",1997,"Cardinalis cardinalis","Cardinalis_cardinalis",26,NA,"female",8.8,966,9.51882902780621,35.8510146973812,"Summer",14326
+5,-79.388194,43.688489,"juv",1943,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",27,NA,"female",6.8,791,10.6342036786394,36.4218791014776,"Spring",14250
+3,-91.093203,30.312878,"AHY",2006,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",27.8,NA,"male",20.6,1311,6.24548321637811,67.6091615339286,"Spring",14174
+6,-79.372722,43.73418,"ad",1995,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",27.8,NA,"female",7.7,860,10.6979890492078,43.0238240393688,"Summer",14243
+7,-80.12527,43.74299,"juv",2006,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",27.8,NA,"female",7.5,1065,8.9770878385257,29.3462533772437,"Summer",14507
+8,-83.95,42.45,"juvenile",1940,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",28.2,NA,"female",8.1,811,10.6975039569561,57.0342322994254,"Summer",14708
+7,-83.4263563,41.7403857,"juvenile",1934,"Cardinalis cardinalis","Cardinalis_cardinalis",28.5,NA,NA,10,539,11.6178643789327,61.9567064729306,"Summer",14373
+7,-83.7263412,42.2708397,NA,1940,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",28.7,NA,"male",8.5,807,10.7686518950314,48.2844847781589,"Summer",14266
+5,-79.432802,43.711354,"nestl",1958,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",29,NA,"undetermined",6.8,565,10.2197187591025,43.7109497990835,"Spring",13950
+3,-106.247794,21.308934,NA,1962,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",29.1,NA,"female",23.7,911,3.05915169465476,156.096176766701,"Spring",14703
+6,-83.8205337,42.3263479,NA,2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",29.6,NA,"female",9.2,997,10.2882508746923,45.5090889455647,"Summer",14344
+5,-95.3017616,38.9619449,NA,1946,"Cardinalis cardinalis","Cardinalis_cardinalis",29.8,NA,"male",13.8,888,8.68691108751691,54.17370050755,"Spring",13803
+9,-83.6130371,42.2411385,NA,2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",29.8,NA,"male",9.5,958,10.2638229040675,48.2268253476469,"Fall",14340
+1,-76.439543,42.399675,"ad.",1994,"Cardinalis cardinalis","Cardinalis_cardinalis",29.8999996185303,192,"male",7.8,1078,10.7401082044095,51.9199741000523,"Winter",13785
+7,-79.396195,43.664596,NA,1969,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",30,NA,"female",7.7,693,10.2477011464952,42.8509808377444,"Summer",13919
+6,-80.3972702,27.6386108,NA,1965,"Cardinalis cardinalis","Cardinalis_cardinalis",30.3,NA,"female",22.4,1074,3.68291510034696,65.3685542495051,"Summer",13806
+9,-82.5917625,28.2062985,NA,1964,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",30.3,NA,"female",22,1434,4.98379191160524,60.9173401314392,"Fall",13957
+2,-83.7890339,42.1825503,NA,1989,"Cardinalis cardinalis","Cardinalis_cardinalis",30.3,NA,"female",8.6,879,10.4666968248938,46.49707355368,"Winter",14313
+5,-79.372722,43.73418,"ad",1994,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",30.5,NA,"female",7.3,765,10.9848104492549,33.0606440716419,"Spring",13938
+6,-83.7263412,42.2708397,NA,1935,"Cardinalis cardinalis","Cardinalis_cardinalis",30.6,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Summer",14379
+3,-83.7363338,42.2789917,NA,2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",30.9,NA,"female",9.7,955,10.3508746519609,55.1826048279845,"Spring",14033
+1,-83.7263412,42.2708397,NA,1943,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",31.2,NA,"male",8.7,801,10.592232002174,59.9867745208329,"Winter",14274
+5,-86.535648,37.409301,NA,1992,"Cardinalis cardinalis","Cardinalis_cardinalis",31.2000007629395,205,"male",13.1,1081,7.79259069225182,45.0569289088535,"Spring",14103
+3,-80.3972702,27.6386108,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",31.4,NA,"male",21.8,1537,4.37391544998716,65.1920031705294,"Spring",14121
+5,-112.2222222,27.224722,"u ad.",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",31.4,NA,"male",23.4,113,5.30479342984563,139.796764755099,"Spring",14495
+2,-79.91644,43.65006,"ad",1971,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",31.6,213,"[female]",7.2,761,10.2858353618415,43.3424691245915,"Winter",13921
+8,-79.323607,43.683371,"juv",1998,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",31.8,NA,"male",10,718,9.03276862821744,38.9950521527305,"Summer",13943
+11,-80.26736,43.69678,"imm",1974,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",32,NA,"male",6,904,9.52016599677026,39.9532430520398,"Fall",14242
+3,-110.8744632,31.2890603,"adult",1968,NA,"Cardinalis_cardinalis",32,NA,"female",15.6,376,6.39210568995188,107.01841173473,"Spring",14408
+1,-83.75,42.2833333,NA,2004,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",32.2,NA,"female",9.8,848,10.010751795702,62.8723882555722,"Winter",14588
+6,-83.7263412,42.2708397,NA,2011,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",32.3,NA,"male",10.3,1078,10.6367395038483,51.6940841774473,"Summer",14351
+7,-88.5784142,20.6689352,"juvenile",1937,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",32.3,NA,"female",25.6,995,1.90422178489288,83.7292589549767,"Summer",14535
+5,-83.7263412,42.2708397,NA,1950,"Cardinalis cardinalis","Cardinalis_cardinalis",32.5,NA,"male",8.8,937,10.057004192767,28.9269781957829,"Spring",13966
+12,-83.7263412,42.2708397,"adult",2005,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",32.5,NA,"male",9.9,834,10.9583370780037,57.4672335500996,"Winter",14013
+9,-83.9333333,42.6,NA,2010,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",32.5,NA,"female",9.9,765,10.799028435536,58.7402229268361,"Fall",14763
+4,-106.674626,21.751084,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",32.6,NA,"female",25,560,2.65174328022952,117.213156487893,"Spring",14698
+3,-106.425646,21.463515,NA,1962,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",32.6,NA,"female",22.7,826,3.02875111776015,156.971028638107,"Spring",14700
+4,-95.6335642,18.7006952,"ad",1963,"Cardinalis cardinalis coccineus","Cardinalis_cardinalis",32.8,NA,"undetermined",26.4,1765,2.25731135323742,96.4552490858317,"Spring",14673
+3,-85.5156898,42.1720552,NA,2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",33,NA,"male",9.6,1097,10.2705521966563,44.2315838398825,"Spring",14046
+7,-88.5784142,20.6689352,NA,1937,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",33,NA,"male",25.6,995,1.90422178489288,83.7292589549767,"Summer",14532
+8,-83.95,42.45,"juvenile",1934,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",33.2,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",14598
+5,-83.2068,42.5925,"adult",2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",33.3,NA,"male",9.6,809,10.6296718783989,48.177665130055,"Spring",14760
+7,-83.4702377,42.3714371,"immature",2005,"Cardinalis cardinalis","Cardinalis_cardinalis",33.4,NA,"male",9.7,761,10.9179862723134,53.8247527075528,"Summer",14012
+9,-83.6422,42.30201,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",33.4,NA,"female",9.1,851,10.0927967112464,58.0362612941202,"Fall",14063
+5,-112.2222222,27.224722,"u ad.",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",33.4,NA,"female",23.4,113,5.30479342984563,139.796764755099,"Spring",14494
+3,-106.425646,21.463515,NA,1962,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",33.4,NA,"female",22.7,826,3.02875111776015,156.971028638107,"Spring",14527
+3,-79.4614,33.0881,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",33.4,NA,"male",17.7,1260,6.08086915637639,70.8970913452336,"Spring",14780
+2,-106.573197,21.625481,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",33.5,NA,"female",23.5,735,2.45782609045251,116.536608175662,"Winter",14523
+2,-83.8885498,42.3383369,NA,2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",33.6,NA,"male",9.8,879,10.7317251289075,45.3347164978029,"Winter",14019
+11,-103.8127033295,18.8465933295,"sk.not oss.",1957,"Cardinalis cardinalis carneus","Cardinalis_cardinalis",33.7,NA,"male",26.5,613,1.96196793598116,133.520572296686,"Fall",13885
+4,-106.247794,21.308934,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",33.8,NA,"male",24.4,869,2.37810403218169,121.891399312086,"Spring",14524
+4,-95.3659629,38.9365128,NA,1990,"Cardinalis cardinalis","Cardinalis_cardinalis",33.9,NA,"male",13.6,953,9.30592431049851,66.1377306145929,"Spring",13846
+4,-112.280146,28.778293,"u ad.",1936,"Cardinalis cardinalis townsendi","Cardinalis_cardinalis",33.9,NA,"female",23.7,109,5.03656328233546,92.5472243250871,"Spring",13904
+2,-88.5784142,20.6689352,NA,1936,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",33.9,NA,"female",25.8,1372,1.76710257629587,60.9052551150767,"Winter",14770
+5,-112.9,27.3,"u ad.",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",34,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13895
+7,-83.7263412,42.2708397,NA,1941,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",34,NA,"male",10.3,683,10.3579862322692,48.7778988168438,"Summer",14269
+6,-86.4236,38.72864,"U-Ad",1988,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",34,NA,"male",12.2,973,9.9771974871188,55.9477201597212,"Summer",14460
+3,-88.5666667,21.4666667,NA,1998,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",34,NA,"female",26.5,830,2.49440282523602,100.163055814387,"Spring",14486
+6,-85.47303,38.71571,"Immature",1995,"Cardinalis cardinalis","Cardinalis_cardinalis",34,NA,"undetermined",12.4,1168,9.91691239827959,65.9971742965683,"Summer",14630
+1,-83.7263412,42.2708397,NA,2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",34.1,NA,"male",10.1,902,10.7183643030704,44.0536255680916,"Winter",14335
+3,-83.543644,42.7515502,NA,1992,"Cardinalis cardinalis","Cardinalis_cardinalis",34.2,NA,"female",8.3,841,8.73489605495733,39.4088363766173,"Spring",13997
+3,-106.674626,21.751084,NA,1962,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",34.2,NA,"female",24.3,617,3.32742279012488,173.327819258569,"Spring",14702
+4,-112.9,27.3,"unknown",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",34.3,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",13894
+6,-83.7263412,42.2708397,"juvenile",1986,"Cardinalis cardinalis","Cardinalis_cardinalis",34.5,NA,"female",9.4,885,10.041716018991,52.6805384751907,"Summer",14305
+7,-83.6429791,42.2708702,NA,1935,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",34.5,NA,"male",9,657,10.2044961866935,43.1320668552585,"Summer",14380
+5,-112.89395,27.29858,"U-Ad.",1928,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",34.5,NA,"male",21.4,68,4.49028412410078,74.2241508482841,"Spring",14437
+2,-97.56546,30.11,"unknown",1952,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",34.6,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",13883
+8,-85.3401,43.7098,NA,2005,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",34.6,NA,"female",7.9,795,10.9722376933787,59.0492874100587,"Summer",14020
+1,-79.168203,43.774971,"ad",2001,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",34.6,NA,"female",8.9,713,9.73999486652842,34.9844840660766,"Winter",14248
+3,-106.425646,21.463515,NA,1962,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",34.8,NA,"female",22.7,826,3.02875111776015,156.971028638107,"Spring",14528
+11,-83.6333333,42.8,NA,1993,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",34.8,NA,"male",8.2,773,10.1771877999353,62.1455412097629,"Fall",14578
+2,-88.5784142,20.6689352,NA,1936,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",34.8,NA,"male",25.8,1372,1.76710257629587,60.9052551150767,"Winter",14600
+2,-110.3411111,24.111667,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",34.8,NA,"female",22.9,144,4.45961677929638,109.175051725163,"Winter",14660
+6,-98.71878,26.74447,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",34.8,NA,"male",23,622,6.15075137070606,94.1188419816701,"Summer",14691
+10,-71.213327,42.459775,NA,1967,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",34.9,NA,"female",8.6,1211,9.43669096472044,41.6868989267666,"Fall",13856
+9,-83.820684,42.4418911,NA,2004,"Cardinalis cardinalis","Cardinalis_cardinalis",34.9,NA,"male",9.2,835,10.0067098700943,61.967769985599,"Fall",14010
+11,-82.73856,42.03748,NA,1939,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",35,NA,"male",10.5,757,9.86338499889179,52.9960820565692,"Fall",14246
+7,-83.94344,42.45259,NA,1945,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",35,NA,"male",8.5,906,10.0651024773118,63.1201523328938,"Summer",14275
+6,-72.261389,41.885278,"adult",2004,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",35,NA,"male",8.4,1204,9.6264274817092,55.5341139161212,"Summer",14604
+5,-76.069235,42.101873,NA,2011,"Cardinalis cardinalis","Cardinalis_cardinalis",35,185.5,NA,9.2,1417,9.89132999605761,49.3712259784051,"Spring",14645
+7,-88.5784142,20.6689352,"adult",1937,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",35,NA,"female",25.6,995,1.90422178489288,83.7292589549767,"Summer",14706
+7,-103.5854,18.5306904,"adult",1950,"Cardinalis cardinalis carneus","Cardinalis_cardinalis",35,NA,"male",26.2,1006,1.72017881381999,133.377244907375,"Summer",14718
+7,-103.5854,18.5306904,"adult",1950,"Cardinalis cardinalis carneus","Cardinalis_cardinalis",35,NA,"female",26.2,1006,1.72017881381999,133.377244907375,"Summer",14719
+10,-83.6166667,42.2,NA,2000,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",35,NA,"male",9.6,1086,10.1350726178798,51.0672889695274,"Fall",14757
+3,-98.0852833,29.963,NA,2012,"Cardinalis cardinalis","Cardinalis_cardinalis",35.1,NA,"male",21.2,1120,6.40686185178663,81.6555971394755,"Spring",14513
+7,-88.5784142,20.6689352,NA,1937,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",35.2,NA,"male",25.6,995,1.90422178489288,83.7292589549767,"Summer",14533
+2,-110.3411111,24.111667,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",35.2,NA,"female",22.9,144,4.45961677929638,109.175051725163,"Winter",14661
+3,-76.4646,42.5052,NA,1995,"Cardinalis cardinalis","Cardinalis_cardinalis",35.2999992370605,210,"female",8.1,814,10.5479855896754,54.6039323379105,"Spring",13781
+4,-106.674626,21.751084,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",35.3,NA,"male",25,560,2.65174328022952,117.213156487893,"Spring",14525
+1,-94.1166667,36.45,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",35.4,NA,"male",15.8,1116,8.27604703620361,60.7831738665514,"Winter",14725
+10,-83.777275,42.5074609,NA,2011,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",35.5,NA,"male",9.6,990,10.6445746602187,49.7486320189858,"Fall",14350
+9,-83.6130371,42.2411385,NA,2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",35.5,NA,"female",11.6,662,9.14553625181888,39.7764574000237,"Fall",14359
+9,-77.2878956,38.9660325,NA,1969,"Cardinalis cardinalis","Cardinalis_cardinalis",35.7,NA,"male",12.4,1036,9.49080495995354,62.0693284642199,"Fall",14168
+7,-85.40222,38.82312,"Imm",1988,"Cardinalis cardinalis","Cardinalis_cardinalis",35.7,NA,"female",11.7,1049,9.88529287130711,44.6191396901133,"Summer",14794
+7,-83.8166667,42.25,NA,1982,"Cardinalis cardinalis","Cardinalis_cardinalis",35.7,NA,"female",8.7,883,10.6147517420548,52.1237127810616,"Summer",14802
+2,-83.7263412,42.2708397,NA,1939,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",35.8,NA,"female",10.1,662,10.2795766921453,66.7450603426487,"Winter",14086
+10,-109.8583333,24.258333,"ad.",1960,"Cardinalis cardinalis clintoni","Cardinalis_cardinalis",35.8,NA,"female",24,228,5.07957138492466,139.054327009674,"Fall",14491
+6,-76.38849,42.42766,NA,2006,"Cardinalis cardinalis","Cardinalis_cardinalis",35.9,189,"female",9.3,1155,8.58929919178862,52.6500385249457,"Summer",13794
+12,-100.0772631,31.1707308,NA,1963,"Cardinalis cardinalis","Cardinalis_cardinalis",36,NA,"male",19.2,363,8.99661131490714,91.5050014821169,"Winter",13842
+5,-83.4853363,42.4378357,NA,2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",36,NA,"female",9.4,932,10.3167560088167,55.070095945535,"Spring",14039
+4,-97.4281465,28.1023602,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",36,NA,"male",21.9,1060,6.05202195113085,168.088920631327,"Spring",14123
+7,-88.5784142,20.6689352,"adult",1937,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",36,NA,"male",25.6,995,1.90422178489288,83.7292589549767,"Summer",14534
+3,-110.5916667,24.877778,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",36,NA,"female",22.7,152,4.65353401060729,118.720668490875,"Spring",14662
+3,-97.2626517,30.4676833,NA,2012,"Cardinalis cardinalis","Cardinalis_cardinalis",36,NA,"male",21.4,1087,6.59229922643906,72.213560177047,"Spring",14684
+8,-98.6819652,16.6841242,"adult",1950,"Cardinalis cardinalis carneus","Cardinalis_cardinalis",36,NA,"male",27.4,1485,0.948164095246783,119.098623430077,"Summer",14717
+6,-100.8108333333,33.7704166667,"adult",2011,"Cardinalis cardinalis","Cardinalis_cardinalis",36.1,NA,"female",17.8,298,9.86723995058518,79.1304897388647,"Summer",14488
+5,-112.2222222,27.224722,"u ad.",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",36.1,NA,"female",23.4,113,5.30479342984563,139.796764755099,"Spring",14656
+7,-82.7075204,27.9618088,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",36.2,NA,"female",21.6,1303,5.06780539436466,80.4535397741321,"Summer",14120
+11,-83.8291473,42.4761353,NA,1986,"Cardinalis cardinalis","Cardinalis_cardinalis",36.2,NA,"female",8.8,866,10.0801635388369,61.4154286294042,"Fall",14304
+3,-106.425646,21.463515,NA,1962,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",36.2,NA,"female",22.7,826,3.02875111776015,156.971028638107,"Spring",14699
+12,-84.5833333,30.9,NA,1946,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",36.2,NA,"female",20.2,1462,5.59422727352749,52.0437393622771,"Winter",14732
+5,-83.7263412,42.2708397,"adult",1936,"Cardinalis cardinalis","Cardinalis_cardinalis",36.3,NA,"male",8.9,620,11.5959501812512,64.4156693647403,"Spring",14059
+3,-109.883333,22.866667,NA,1963,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",36.3,NA,"male",25,153,3.15364147382903,173.433921442796,"Spring",14531
+11,-72.5989,41.2794,"immature",1974,"Cardinalis cardinalis","Cardinalis_cardinalis",36.3,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",14603
+7,-85.42556,38.74069,"immature",1997,"Cardinalis cardinalis","Cardinalis_cardinalis",36.3,NA,"female",12,1178,8.72523334757856,75.4194352576024,"Summer",14626
+2,-88.5784142,20.6689352,NA,1936,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",36.3,NA,"male",25.8,1372,1.76710257629587,60.9052551150767,"Winter",14771
+12,-79.430642,43.669786,"ad",1968,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",36.4,NA,"male",7.4,860,10.5216515583416,42.3536834896082,"Winter",13918
+8,-83.7263412,42.2708397,NA,1936,"Cardinalis cardinalis","Cardinalis_cardinalis",36.4,NA,"female",8.9,620,11.5959501812512,64.4156693647403,"Summer",14053
+3,-96.472,30.766,"unknown",1951,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",36.4,NA,"female",20.4,683,7.72226219014437,52.8546272316857,"Spring",14490
+10,-109.8583333,24.258333,"ad.",1960,"Cardinalis cardinalis clintoni","Cardinalis_cardinalis",36.4,NA,"male",24,228,5.07957138492466,139.054327009674,"Fall",14654
+4,-98.8957807,37.29163,NA,1966,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",36.5,NA,"female",13.4,324,10.558534534449,100.718366493467,"Spring",13809
+5,-83.7263412,42.2708397,NA,2010,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",36.5,NA,"female",10.6,931,10.929314902702,70.3967332319748,"Spring",14353
+4,-106.425646,21.463515,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",36.5,NA,"female",23.4,774,2.37174018710978,117.592140832527,"Spring",14696
+7,-88.5784142,20.6689352,NA,1937,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",36.5,NA,"male",25.6,995,1.90422178489288,83.7292589549767,"Summer",14705
+2,-91.178769,18.970999,"ad",1965,"Cardinalis cardinalis","Cardinalis_cardinalis",36.5999984741211,NA,"female",26.2,1391,1.76506502584311,89.5210462392389,"Winter",14088
+11,-111.930332,28.812222,"ad.",1941,"Cardinalis cardinalis affinis","Cardinalis_cardinalis",36.6,NA,"female",23.8,107,5.58300315622553,124.240890795279,"Fall",13911
+9,-83.7263412,42.2708397,NA,1958,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",36.6,NA,"female",9,572,10.398466524474,68.1346112678721,"Fall",13972
+7,-76.432222,42.404308,"juv.",2004,"Cardinalis cardinalis","Cardinalis_cardinalis",36.6,190,"undetermined",7.9,1157,10.0054379153932,55.6331893892006,"Summer",14105
+4,-83.4991836,42.5683794,NA,2009,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",36.6,NA,"male",8.2,903,10.0676198625579,47.9113707550516,"Spring",14342
+6,-97.419,28.185,"ad.sk.",1964,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",36.6,NA,"female",21.7,618,6.74543055210958,75.5378133727753,"Summer",14655
+4,-92.3343833,29.9578833,NA,2011,"Cardinalis cardinalis","Cardinalis_cardinalis",36.7,NA,"male",21,1109,6.8782210085475,75.2087744936927,"Spring",14682
+2,-94.1062237,36.4508769,NA,1935,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",36.8,NA,"male",14,1416,8.46652499284951,76.7756480861086,"Winter",14382
+1,-109.898893,27.6085835,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",36.8,NA,"female",26,323,5.66742419179092,149.330300327277,"Winter",14568
+9,-82.5917625,28.2062985,"ad",1964,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",36.9,NA,"male",22,1434,4.98379191160524,60.9173401314392,"Fall",13956
+11,-109.85554,24.23539,"Ad.",1961,"Cardinalis cardinalis clintoni","Cardinalis_cardinalis",36.9,NA,"female",23.4,309,4.96350316171589,183.188777428929,"Fall",14445
+4,-97.4789333,29.7947667,NA,2012,"Cardinalis cardinalis","Cardinalis_cardinalis",36.9,NA,"female",21.6,1111,6.28943317771719,75.6436730086761,"Spring",14686
+7,-103.483728,18.5006921,"adult",1950,"Cardinalis cardinalis carneus","Cardinalis_cardinalis",37,NA,"male",25.4,908,1.65993336850573,132.00864027809,"Summer",14544
+5,-72.261389,41.885278,"adult",2002,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",37,NA,"male",9.4,1227,8.82489591319852,32.4072625801655,"Spring",14601
+11,-72.5989,41.2794,"immature",1974,"Cardinalis cardinalis","Cardinalis_cardinalis",37,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",14606
+2,-106.425646,21.463515,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",37,NA,"male",23.4,774,2.37174018710978,117.592140832527,"Winter",14694
+6,-100.8108333333,33.7704166667,NA,2011,"Cardinalis cardinalis","Cardinalis_cardinalis",37.1,107,"male",17.8,298,9.86723995058518,79.1304897388647,"Summer",14650
+2,-88.5784142,20.6689352,NA,1936,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",37.1,NA,"male",25.8,1372,1.76710257629587,60.9052551150767,"Winter",14769
+4,-83.7263412,42.2708397,NA,1962,"Cardinalis cardinalis","Cardinalis_cardinalis",37.2,NA,"female",9,634,10.6272662467254,55.0275355929463,"Spring",13974
+11,-83.9409112,42.5495394,"adult",2009,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",37.2,NA,"male",8.4,921,10.0383016491835,46.5393033020908,"Fall",14026
+5,-103.8956451,30.6207775,"ad",1968,"Cardinalis cardinalis princeps","Cardinalis_cardinalis",37.2,NA,"female",14.6,563,6.57158137879931,109.595428438828,"Spring",14226
+6,-98.71878,26.74447,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",37.2,NA,"male",23,622,6.15075137070606,94.1188419816701,"Summer",14689
+2,-88.5784142,20.6689352,"adult",1936,"Cardinalis cardinalis yucatanicus","Cardinalis_cardinalis",37.2,NA,"female",25.8,1372,1.76710257629587,60.9052551150767,"Winter",14772
+7,-103.5744933,30.0391157,"imm",1978,"Cardinalis cardinalis princeps","Cardinalis_cardinalis",37.3,NA,"female",16.4,559,7.13835139272792,104.002098769366,"Summer",13936
+5,-83.7263412,42.2708397,NA,1961,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",37.3,NA,"male",9.6,830,10.1137620012625,59.4126364108948,"Spring",14290
+5,-112.095133255,29.40194,"u ad.",1938,"Cardinalis cardinalis townsendi","Cardinalis_cardinalis",37.4,NA,"female",22.2,137,5.66062289109171,87.6258822479518,"Spring",13905
+2,-91.093203,30.312878,"AHY",2001,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",37.4,NA,"female",19.9,1490,6.33840506656673,71.7127978868394,"Winter",14179
+4,-82.6394,30.1894,"ad.",1970,"Cardinalis cardinalis floridanus / Cardinalis cardinalis cardinalis intergrade","Cardinalis_cardinalis",37.4,NA,"male",19.7,1436,6.67824940770522,65.565085277031,"Spring",14212
+6,-97.4265,28.1265,"imm.sk.",1964,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",37.5,NA,"male",21.7,612,6.75445419816816,79.0911575173331,"Summer",14209
+2,-84.2,30.1666667,NA,1943,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",37.5,NA,"female",20.3,1228,6.5195452062985,52.5500244091493,"Winter",14734
+6,-76.513394,42.423052,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",37.6,159,"male",9.2,1025,9.64969382462941,44.6385892338973,"Summer",14483
+11,-72.5989,41.2794,"immature",1974,"Cardinalis cardinalis","Cardinalis_cardinalis",37.6,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",14605
+11,-72.5989,41.2794,"immature",1974,"Cardinalis cardinalis","Cardinalis_cardinalis",37.6,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",14783
+11,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",37.6,NA,"male",14.9,782,10.657690351871,98.5531515533842,"Fall",14791
+2,-102.9398494,29.2016354,NA,1935,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",37.7,NA,"male",20.8,299,7.1299411362269,87.5859531096876,"Winter",14372
+5,-112.2222222,27.224722,"u ad.",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",37.7,NA,"male",23.4,113,5.30479342984563,139.796764755099,"Spring",14657
+5,-76.5095,42.4381,NA,1953,"Cardinalis cardinalis","Cardinalis_cardinalis",37.7000007629395,NA,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",14093
+11,-83.7263412,42.2708397,NA,1988,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",37.8,NA,"female",9.5,888,11.0073907678047,58.7686020667816,"Fall",13989
+11,-83.4730079,42.3361572,"adult",2009,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",37.8,NA,"female",8.8,924,10.0311786672627,47.3569814207273,"Fall",14346
+11,-83.841685,42.251561,NA,1994,"Cardinalis cardinalis","Cardinalis_cardinalis",37.9,NA,NA,9.5,823,10.4837825697454,41.2288226118723,"Fall",14000
+2,-85.4156756,43.5674568,NA,2001,"Cardinalis cardinalis","Cardinalis_cardinalis",37.9,NA,"male",8.3,988,9.42235816201726,60.8139287595172,"Winter",14006
+7,-83.5266,31.4665,"ad.",1951,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",37.9,NA,"female",19.6,1138,6.50531251432942,54.6381963551322,"Summer",14197
+2,-110.3411111,24.111667,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",37.9,NA,"male",22.9,144,4.45961677929638,109.175051725163,"Winter",14496
+6,-96.08355,30.4691667,NA,2012,"Cardinalis cardinalis","Cardinalis_cardinalis",37.9,NA,"female",21.3,1258,6.3322885900659,57.842210595672,"Summer",14515
+11,-89.0666667,36.5166667,NA,1948,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",37.9,NA,"female",15,1325,9.2454534280861,52.1571438006194,"Fall",14570
+12,-110.33,24.12,"unknown",1928,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",37.9,NA,"male",23.6,159,4.15322984938447,128.930957062497,"Winter",14659
+5,-97.2626517,30.4676833,NA,2012,"Cardinalis cardinalis","Cardinalis_cardinalis",37.9,NA,"female",21.4,1087,6.59229922643906,72.213560177047,"Spring",14685
+6,-95.34422,34.92625,"skull unossified",1982,"Cardinalis cardinalis ssp.","Cardinalis_cardinalis",38,NA,"female",16.3,1216,8.63728264647809,75.39398089437,"Summer",13890
+5,-112.9,27.3,"u ad.",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",38,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",13896
+9,-79.379301,43.691224,"juv",1938,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",38,NA,"male",8.2,713,10.0502826735461,48.1757019614484,"Fall",13944
+9,-85.0375,45.64222,NA,1989,"Cardinalis cardinalis","Cardinalis_cardinalis",38,NA,"in question",5.6,605,10.7461621056078,53.3852785802785,"Fall",13992
+3,-99.2358320391,22.7257331604,NA,1986,"Cardinalis cardinalis","Cardinalis_cardinalis",38,217,"female",22.1,1194,3.86345543248371,106.038052961905,"Spring",14112
+4,-97.4281465,28.1023602,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",38,NA,"female",21.9,1060,6.05202195113085,168.088920631327,"Spring",14124
+5,-110.083333,23.15,"u ad.",1931,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",38,NA,"male",21.7,302,3.49192792108609,120.149980687521,"Spring",14218
+11,-79.907709,43.327339,"ad",1965,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",38,NA,"male",7.2,874,9.36767491607887,31.2249259572365,"Fall",14241
+9,-86.564493,41.976731,NA,1977,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38,NA,"female",9.6,929,11.0667670678177,49.7874088217176,"Fall",14297
+3,-83.7263412,42.2708397,NA,2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38,NA,"male",10.1,902,10.7183643030704,44.0536255680916,"Spring",14334
+6,-83.6014938,42.2168221,NA,1991,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38,NA,"male",10.6,775,10.0212010107057,49.6031588766487,"Summer",14419
+10,-98.0077778,28.15,NA,2010,"Cardinalis cardinalis","Cardinalis_cardinalis",38,NA,"female",22,793,6.79442730656841,103.981992571776,"Fall",14510
+8,-83.95,42.45,"juvenile",1934,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",14764
+11,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38,NA,"female",14.9,782,10.657690351871,98.5531515533842,"Fall",14800
+6,-83.7263412,42.2708397,NA,2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38.1,NA,"male",10.1,902,10.7183643030704,44.0536255680916,"Summer",14017
+6,-109.7747222,23.441944,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",38.2,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",14667
+4,-72.9286,41.3081,"adult",2006,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38.2,NA,"female",12.5,1309,8.14930281457478,46.128040232356,"Spring",14774
+2,-91.178769,18.970999,NA,1965,"Cardinalis cardinalis","Cardinalis_cardinalis",38.2000007629395,NA,"male",26.2,1391,1.76506502584311,89.5210462392389,"Winter",13775
+7,-82.4584312,27.9503656,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",38.3,NA,"female",21.7,1167,5.13815200832031,73.0022106160848,"Summer",13807
+4,-112.9,27.3,"unknown",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",38.3,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",13893
+1,-84.5724106,42.8384648,NA,1997,"Cardinalis cardinalis","Cardinalis_cardinalis",38.3,NA,"male",7.6,735,9.34320365535583,39.4768085983112,"Winter",14324
+8,-86.40438,38.72837,"U-Ad",1988,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38.3,NA,"female",12.2,975,10.0013143075692,56.8262949392222,"Summer",14461
+3,-106.573197,21.625481,NA,1962,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",38.3,NA,"female",22.8,788,3.08746242769434,168.265289271699,"Spring",14530
+11,-110.25055,23.9504,"Ad.; Sk. Oss.",1961,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",38.4,NA,"male",23,269,4.51713069292551,182.03488769107,"Fall",14440
+8,-85.47303,38.71571,"immature",2004,"Cardinalis cardinalis","Cardinalis_cardinalis",38.4,NA,"female",13.1,1388,9.10425724592621,57.9766327262872,"Summer",14465
+3,-97.26265,30.4676833,NA,2011,"Cardinalis cardinalis","Cardinalis_cardinalis",38.4,NA,"female",21.5,571,8.38694873544062,75.6113982533247,"Spring",14512
+7,-83.95,42.45,"immature",1998,"Cardinalis cardinalis","Cardinalis_cardinalis",38.4,NA,"male",10.9,820,8.88844585385824,47.8821021890201,"Summer",14754
+3,-83.7263412,42.2708397,NA,1943,"Cardinalis cardinalis","Cardinalis_cardinalis",38.5,NA,"female",8.7,801,10.592232002174,59.9867745208329,"Spring",13960
+7,-82.6791076,27.6800504,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",38.5,NA,"female",21.9,1303,4.98843359151645,80.9806892862944,"Summer",14119
+5,-100.67184,29.37918,"U-Ad.",1985,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",38.5,NA,"female",20.6,510,7.87764385633628,77.2322316251188,"Spring",14449
+11,-92.27253,34.83142,"adult",2005,"Cardinalis cardinalis","Cardinalis_cardinalis",38.5,200,"male",16.8,905,8.3342075299044,48.7116788654738,"Fall",14471
+5,-112.2222222,27.224722,"u ad.",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",38.5,NA,"male",23.4,113,5.30479342984563,139.796764755099,"Spring",14493
+12,-91.093203,30.312878,"AHY",2012,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",38.6,NA,"female",21.4,1705,5.5263213146475,76.9749382304365,"Winter",14183
+5,-98.78828,26.95606,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",38.6,NA,"female",22.7,605,6.32496257025696,90.3137866236592,"Spring",14518
+6,-98.2666667,29.4666667,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",38.6,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Summer",14713
+7,-97.509,28.14492,"unknown",1964,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",38.7,NA,"male",21.9,600,6.76427222898952,76.7732012150335,"Summer",14210
+5,-98.84032,26.90949,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",38.7,NA,"male",22.8,613,6.37915046115551,91.1427930802012,"Spring",14690
+3,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38.7,NA,"female",14.9,782,10.657690351871,98.5531515533842,"Spring",14727
+3,-83.7263412,42.2708397,NA,2010,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38.8,NA,"male",10.6,931,10.929314902702,70.3967332319748,"Spring",14349
+4,-112.2222222,27.224722,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",38.8,NA,"female",23.3,88,5.61477353222566,106.699180718167,"Spring",14489
+11,-110.25055,23.9504,"Ad.",1961,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",38.8,NA,"female",23,269,4.51713069292551,182.03488769107,"Fall",14612
+2,-98.636,28.998,"unknown",1952,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",38.8,NA,"female",21.4,539,6.29402674980594,61.0998593495638,"Winter",14653
+3,-91.093203,30.312878,"AHY",2003,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",38.9,NA,"female",20,1384,7.00116873360181,62.8677493174365,"Spring",13866
+7,-83.5258,31.4579,"ad.",1951,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",38.9,NA,"male",19.6,1138,6.48373255762357,54.6381963551322,"Summer",13880
+7,-96.268823,30.512478,NA,2009,"Cardinalis cardinalis","Cardinalis_cardinalis",38.9,NA,"female",20.4,1074,7.47068513348249,101.626852888037,"Summer",14509
+11,-98.2666667,29.4666667,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",38.9,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Fall",14541
+4,-112.2222222,27.224722,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",38.9,NA,"male",23.3,88,5.61477353222566,106.699180718167,"Spring",14663
+3,-109.883333,22.866667,NA,1963,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",38.9,NA,"male",25,153,3.15364147382903,173.433921442796,"Spring",14704
+4,-76.376845,42.437105,"ad.",1995,"Cardinalis cardinalis","Cardinalis_cardinalis",38.9000015258789,NA,"male",7.9,844,10.5943774396296,54.6957628718303,"Spring",13783
+10,-111.930332,28.812222,"unknown",1941,"Cardinalis cardinalis townsendi","Cardinalis_cardinalis",39,NA,"male",23.8,107,5.58300315622553,124.240890795279,"Fall",13912
+12,-79.260687,42.902436,"imm",1949,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",39,NA,"male",9.9,792,9.51080326722611,35.1253706116619,"Winter",13949
+4,-76.429309,42.453121,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",39,186,"female",8.4,1097,9.74776975269293,45.9126672236615,"Spring",14107
+11,-82.3248215,29.6516457,NA,2004,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",39,NA,"female",20.6,1387,5.90461427164973,81.8863427317982,"Fall",14171
+4,-111.6757877,33.5600452,"ad",1969,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",39,NA,"male",20.9,256,8.27431220248804,65.2104778169299,"Spring",14228
+4,-94.2850573,33.1137409,"ad",1971,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",39,NA,"female",18.1,1056,7.35994482851522,66.8446706363854,"Spring",14231
+5,-95.1406761,31.4638105,"ad",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",39,NA,"female",17.7,1247,6.88791211713196,42.9443314190278,"Spring",14234
+11,-79.376723,43.690928,"imm",1941,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",39,NA,"male",8,674,10.5680765716493,38.8085041298215,"Fall",14247
+2,-98.2666667,29.4666667,NA,1947,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",39,NA,"female",20.2,576,7.75245806571091,84.1041752075044,"Winter",14540
+8,-82.4333333,42.9666667,NA,1977,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39,NA,"in question",8.9,790,10.7981023866009,35.84548760732,"Summer",14565
+7,-72.905,41.3339,"adult",2009,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39,NA,"male",10.6,1142,8.84821502286812,44.9199829374138,"Summer",14602
+4,-106.247794,21.308934,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",39,NA,"male",24.4,869,2.37810403218169,121.891399312086,"Spring",14697
+7,-103.5854,18.5306904,"adult",1950,"Cardinalis cardinalis carneus","Cardinalis_cardinalis",39,NA,"male",26.2,1006,1.72017881381999,133.377244907375,"Summer",14720
+12,-83.7263412,42.2708397,NA,2000,"Cardinalis cardinalis","Cardinalis_cardinalis",39.1,NA,"female",9.5,1110,10.2283918579609,50.3887536637219,"Winter",14024
+5,-96.08355,30.4691667,NA,2011,"Cardinalis cardinalis","Cardinalis_cardinalis",39.1,NA,"female",21.1,694,8.20016629543129,74.6337506158598,"Spring",14511
+12,-84.5833333,30.9,NA,1946,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",39.1,NA,"male",20.2,1462,5.59422727352749,52.0437393622771,"Winter",14731
+11,-79.71593,43.46917,"imm",1971,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",39.2,203,"female",7.9,735,10.3190321369024,39.8224068640758,"Fall",13923
+5,-99.9151611,32.2937353,"ad",1967,"Cardinalis cardinalis princeps","Cardinalis_cardinalis",39.2,NA,"male",17.8,660,7.7782281615631,83.4726010532815,"Spring",14227
+7,-76.51583,42.57306,NA,2004,"Cardinalis cardinalis","Cardinalis_cardinalis",39.2,200,"male",8.1,1125,10.0409464723504,53.9702170828129,"Summer",14417
+11,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.2,NA,"female",14.9,782,10.657690351871,98.5531515533842,"Fall",14796
+3,-98.2492937,29.4791442,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",39.3,NA,"male",20.7,1088,6.49603025631109,44.0507514220736,"Spring",13961
+4,-97.4789333,29.7947667,NA,2012,"Cardinalis cardinalis","Cardinalis_cardinalis",39.3,NA,"male",21.6,1111,6.28943317771719,75.6436730086761,"Spring",14514
+1,-110.3112,24.15643,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",39.4,NA,"male",22.9,147,4.49675809148472,111.370942907182,"Winter",13898
+12,-99.14,30.047,"unknown",1939,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",39.4,NA,"female",19.5,647,7.51222740643949,62.734781617072,"Winter",13907
+10,-83.6342812,42.3037217,NA,2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.4,NA,"male",9.4,980,10.3040445133614,46.6995971640062,"Fall",14357
+11,-110.25055,23.9504,"Ad.",1961,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",39.4,NA,"male",23,269,4.51713069292551,182.03488769107,"Fall",14441
+4,-97.4789333,29.7947667,NA,2012,"Cardinalis cardinalis","Cardinalis_cardinalis",39.4,NA,"male",21.6,1111,6.28943317771719,75.6436730086761,"Spring",14517
+5,-98.2666667,29.4666667,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",39.4,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Spring",14536
+12,-79.35167,43.81321,"ad",1993,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.4,NA,"male",6.9,811,10.4546169299269,39.7256467074519,"Winter",14677
+2,-96.2286389,30.4718611,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",39.4,NA,"female",19.8,1122,7.55420813891573,70.8639156400434,"Winter",14687
+3,-87.272352,34.296585,NA,1991,"Cardinalis cardinalis","Cardinalis_cardinalis",39.5,NA,NA,16.6,1818,7.88744207105462,55.9291182170424,"Spring",13779
+11,-79.372722,43.73418,"ad",1968,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",39.5,NA,"male",7.2,857,10.5680586503087,42.8319815700503,"Fall",13917
+8,-95.2877154,38.9549568,NA,1961,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.5,NA,"female",11.5,1364,9.74562450383232,67.1355731391786,"Summer",14115
+2,-97.7903,30.22594,"u ad.",1952,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",39.5,NA,"female",19.7,874,6.78520560863966,69.4473499404529,"Winter",14199
+1,-83.5919237,42.0864075,NA,2006,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.5,NA,"male",10.3,1115,8.66576335618822,30.9769557604175,"Winter",14420
+4,-85.47296,38.71366,"U-Ad.",1983,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.5,NA,"female",12.7,1230,10.0209288567236,76.7439932356471,"Spring",14448
+2,-106.425646,21.463515,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",39.5,NA,"male",23.4,774,2.37174018710978,117.592140832527,"Winter",14521
+2,-84.5833333,30.9,NA,1945,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",39.5,NA,"male",20.1,1342,6.67139415714587,50.7127530883841,"Winter",14733
+2,-84.6666667,29.8833333,NA,1943,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",39.5,NA,"female",19.6,1375,6.21059700443646,59.2385554403658,"Winter",14735
+10,-110.2167,23.45,"ad.",1928,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",39.6,NA,"female",22.2,164,3.36140077222505,130.878889965229,"Fall",13897
+3,-91.129161,30.399273,"AHY",2008,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",39.6,NA,"female",20.1,1305,6.29388231105846,48.412738740077,"Spring",14181
+1,-84.0155233,42.5079561,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.6,NA,"male",8.6,811,10.1278606134791,58.3170974145823,"Winter",14383
+11,-110.25055,23.9504,"Ad.",1961,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",39.6,NA,"female",23,269,4.51713069292551,182.03488769107,"Fall",14443
+10,-79.40957,43.746884,"imm",2001,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.65,NA,"female",8.7,714,9.66873671670553,39.1701871452842,"Fall",14256
+4,-82.3912811,29.5555397,"ad",1953,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",39.7,NA,"male",21,1791,5.21902115517669,61.1483938082592,"Spring",14259
+7,-84.1328785,36.2680917,"juvenile",1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.7,NA,"male",14.1,1273,8.19177340477332,38.7012028207999,"Summer",14388
+5,-99.3955167,30.0416667,NA,2012,"Cardinalis cardinalis","Cardinalis_cardinalis",39.7,NA,"male",19.8,821,6.6762071885347,81.6878886124675,"Spring",14516
+4,-98.2492937,29.4791442,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",39.8,NA,"male",20.7,1088,6.49603025631109,44.0507514220736,"Spring",13962
+6,-94.5661926,39.4748955,NA,1991,"Cardinalis cardinalis","Cardinalis_cardinalis",39.8,NA,"female",12.8,817,10.5218495608813,53.0631999953534,"Summer",14163
+10,-83.7263412,42.2708397,"immature",2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.8,NA,"male",11.5,682,9.21854192112371,37.699178293142,"Fall",14358
+6,-83.7263412,42.2708397,NA,2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.8,NA,"male",11.5,682,9.21854192112371,37.699178293142,"Summer",14365
+11,-110.25055,23.9504,"Ad.",1961,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",39.8,NA,"male",23,269,4.51713069292551,182.03488769107,"Fall",14442
+8,-85.47296,38.71366,"immature",2004,"Cardinalis cardinalis","Cardinalis_cardinalis",39.8,NA,"female",13.1,1388,9.10239312522046,57.9766327262872,"Summer",14470
+7,-83.7263412,42.2708397,"immature",2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",39.9,NA,"male",10.1,902,10.7183643030704,44.0536255680916,"Summer",14336
+4,-111.8172222,26.056667,"unknown",1931,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",39.9,NA,"male",20.9,213,4.21522313295584,94.0918085008082,"Spring",14500
+6,-109.7747222,23.441944,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",39.9,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",14668
+4,-97.3831558,28.098938,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",40,NA,"female",21.9,1048,6.00264461918598,166.375362796772,"Spring",13810
+2,-99.2464304,37.327426,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",40,NA,"male",14.3,493,8.88420457379786,88.7124887952805,"Winter",13824
+2,-97.56546,30.11,"u ad.",1952,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",40,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",13882
+4,-109.6833,23.05,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40,NA,"female",22.9,181,3.69913994918229,118.983515716679,"Spring",13900
+4,-109.6833,23.05,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40,NA,"male",22.9,181,3.69913994918229,118.983515716679,"Spring",13901
+5,-103.8953018,30.6390936,"ad",1968,"Cardinalis cardinalis princeps","Cardinalis_cardinalis",40,NA,"male",14.6,569,6.57820091459111,111.603845728292,"Spring",13916
+10,-79.372722,43.73418,"ad",1945,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",40,NA,"male",7,1001,10.2890792355367,43.2918216084957,"Fall",13947
+4,-97.3831558,28.098938,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",40,NA,"male",21.9,1048,6.00264461918598,166.375362796772,"Spring",14122
+4,-97.4281465,28.1023602,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",40,NA,"male",21.9,1060,6.05202195113085,168.088920631327,"Spring",14125
+4,-95.2227337,38.9549568,NA,1970,"Cardinalis cardinalis","Cardinalis_cardinalis",40,NA,"female",12.4,892,10.644702765681,97.2412926269159,"Spring",14159
+4,-112.14756,28.990021,"u ad.",1936,"Cardinalis cardinalis townsendi","Cardinalis_cardinalis",40,NA,"male",23.8,114,5.26184090380636,92.8032337334619,"Spring",14219
+4,-111.8172222,26.056667,"unknown",1931,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40,NA,"female",20.9,213,4.21522313295584,94.0918085008082,"Spring",14501
+3,-109.883333,22.866667,NA,1959,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",14520
+5,-98.2666667,29.4666667,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",40,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Spring",14537
+2,-76.33263,42.227486,NA,2009,"Cardinalis cardinalis","Cardinalis_cardinalis",40,184,"male",7.9,952,9.35940217593566,49.3110347942047,"Winter",14644
+5,-95.2066667,39.0316667,NA,2011,"Cardinalis cardinalis","Cardinalis_cardinalis",40,NA,"female",13.4,890,11.0286678774689,54.6776925915888,"Spring",14649
+4,-111.8172222,26.056667,"unknown",1931,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40,NA,"female",20.9,213,4.21522313295584,94.0918085008082,"Spring",14669
+2,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40,NA,"female",14.9,782,10.657690351871,98.5531515533842,"Winter",14737
+4,-72.261389,41.885278,"adult",2004,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40,NA,"male",8.4,1204,9.6264274817092,55.5341139161212,"Spring",14779
+7,-83.4263563,41.7403857,NA,1934,"Cardinalis cardinalis","Cardinalis_cardinalis",40.1,NA,"male",10,539,11.6178643789327,61.9567064729306,"Summer",14048
+8,-109.6,23.6,"imm.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40.1,NA,"male",23.2,176,4.89356410982524,115.963556434036,"Summer",14217
+3,-80.33587,43.39164,"ad",1974,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",40.1,112,"male",6.8,871,9.48870141512813,37.2910902735916,"Spring",14412
+6,-109.7747222,23.441944,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40.1,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",14666
+2,-99.4098396,37.8940705,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",40.2,NA,"female",13.2,586,8.83586013031127,99.5453688509186,"Winter",14132
+12,-84.5833333,30.9,NA,1946,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",40.2,NA,"male",20.2,1462,5.59422727352749,52.0437393622771,"Winter",14730
+10,-82.4333333,42.9666667,"fr",1985,"Cardinalis cardinalis","Cardinalis_cardinalis",40.2,NA,"male",8.8,1013,10.11651440153,38.1101261325599,"Fall",14743
+11,-72.5989,41.2794,"immature",1974,"Cardinalis cardinalis","Cardinalis_cardinalis",40.2,NA,"female",10.5,1098,8.67623015467949,43.9919250647,"Fall",14775
+11,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.2,NA,"male",14.9,782,10.657690351871,98.5531515533842,"Fall",14793
+2,-110.3,24.12311,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40.3,NA,"female",22.8,160,4.47933808692419,113.012449126554,"Winter",13899
+10,-83.5993423,42.5936317,NA,2004,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"female",8.7,813,10.0892682258593,58.9671633307065,"Fall",14011
+8,-83.4730079,42.3361572,"immature",2009,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"male",8.8,924,10.0311786672627,47.3569814207273,"Summer",14025
+12,-84.1438895,36.2749988,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"female",13.6,1402,8.46054568768075,58.464969530583,"Winter",14073
+6,-84.0706177,36.1963806,"juvenile",1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Summer",14084
+10,-71.213327,42.459775,NA,1973,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"female",10.2,1228,9.03773235168015,47.1445974694262,"Fall",14173
+11,-83.7263412,42.2708397,NA,1981,"Cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"male",8.9,903,10.1239440152661,52.5494662268708,"Fall",14298
+7,-83.9161671,42.3588263,NA,2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"male",9.1,958,10.2773213111848,45.7996071884984,"Summer",14343
+6,-85.47299,38.7136,"Immature",2006,"Cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"female",13.5,1545,8.13307873421681,31.4279741060155,"Summer",14473
+12,-86.4715,38.73252,"Adult",2003,"Cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"female",12.3,1212,9.31318306423098,41.3146484017519,"Winter",14474
+7,-83.9166667,42.6166667,"adult",2001,"Cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"male",9.8,879,9.39685634086789,52.5698927470504,"Summer",14582
+4,-111.8172222,26.056667,"unknown",1931,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40.3,NA,"female",20.9,213,4.21522313295584,94.0918085008082,"Spring",14670
+7,-83.4655,41.7862,"juvenile",1935,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.3,NA,"female",9.4,650,10.278408525554,38.5226996202882,"Summer",14767
+1,-112.7387586,32.2396468,NA,1969,"Cardinalis cardinalis","Cardinalis_cardinalis",40.4,NA,"male",20.8,207,8.01963499509457,107.750834380413,"Winter",13852
+9,-85.5156898,42.1720552,"immature",2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.4,NA,"female",10.4,914,10.7518391661402,56.0381712924473,"Fall",14030
+6,-94.274,31.02997,"ad.sk.",1942,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.4,NA,"male",18.7,1184,7.00192614192478,42.5419660932077,"Summer",14207
+11,-112.1096847278,29.40194,"unknown",1941,"Cardinalis cardinalis affinis","Cardinalis_cardinalis",40.4,NA,"male",22.1,137,5.68721985657049,129.997073328986,"Fall",14223
+2,-84.072361,42.2048704,NA,1948,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.4,NA,"male",9,731,10.5612499260267,38.4951775667672,"Winter",14277
+3,-85.45846,38.71306,"U",1989,"Cardinalis cardinalis","Cardinalis_cardinalis",40.4,NA,"female",12.1,1375,9.68705399755339,34.1297299625679,"Spring",14455
+8,-83.6333333,42.2666667,"immature",1999,"Cardinalis cardinalis","Cardinalis_cardinalis",40.4,NA,"female",10.4,852,9.97054373764252,43.8536127160969,"Summer",14753
+2,-99.4098396,37.8940705,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",40.5,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",13823
+11,-110.88361,31.00056,"unknown",1946,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",40.5,NA,"male",17.6,467,6.99213302522372,138.697810308703,"Fall",14194
+7,-96.8148708,33.879252,"adult",1999,"Cardinalis cardinalis","Cardinalis_cardinalis",40.5,NA,"female",18.9,840,7.79047592586712,71.0822774464626,"Summer",14331
+8,-84.1018867,42.3259197,"juvenile",2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.5,NA,"male",9.7,879,10.7471631210992,50.2189047290592,"Summer",14337
+7,-83.4263563,41.7403857,NA,1934,"Cardinalis cardinalis","Cardinalis_cardinalis",40.5,NA,"male",10,539,11.6178643789327,61.9567064729306,"Summer",14375
+3,-84.0018082,36.206884,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.5,NA,"female",14.5,1313,8.0556398463023,39.4639297658041,"Spring",14398
+6,-85.47296,38.71366,"immature",2007,"Cardinalis cardinalis","Cardinalis_cardinalis",40.5,NA,"female",14,1201,10.1098624215079,43.9362062416294,"Summer",14477
+4,-72.1333,42,NA,1975,"Cardinalis cardinalis","Cardinalis_cardinalis",40.5,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Spring",14782
+11,-73.0089,41.3525,"adult",2003,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.5,NA,"female",9.7,1428,9.65932976531765,23.0844400686884,"Fall",14784
+2,-110.926479,32.2217429,NA,1952,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",40.55,NA,"female",19.6,260,8.36273751757633,94.1837330873431,"Winter",14258
+2,-91.093203,30.312878,"AHY",2006,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",40.6,NA,"female",20.6,1311,6.24548321637811,67.6091615339286,"Winter",13865
+7,-84.4794,31.1899,"ad.",1941,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.6,NA,"male",19.9,1171,7.45621562960404,57.6250090405892,"Summer",13879
+1,-84.1019726,42.3267922,NA,2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.6,NA,"male",11,717,9.2439169187093,40.9491005491138,"Winter",14361
+5,-83.4693146,42.5698965,NA,2005,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.6,NA,"male",9.2,714,10.9888752285154,49.3572713132895,"Spring",14414
+11,-110.25055,23.9504,"Ad.; Sk. Oss.",1961,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40.6,NA,"male",23,269,4.51713069292551,182.03488769107,"Fall",14439
+4,-112.2222222,27.224722,"unknown",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40.6,NA,"male",23.3,88,5.61477353222566,106.699180718167,"Spring",14497
+4,-106.425646,21.463515,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",40.6,NA,"female",23.4,774,2.37174018710978,117.592140832527,"Spring",14522
+3,-109.883333,22.866667,NA,1959,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40.6,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",14693
+2,-106.425646,21.463515,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",40.6,NA,"male",23.4,774,2.37174018710978,117.592140832527,"Winter",14695
+2,-99.5697108,39.9495034,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",40.7,NA,"female",10.8,620,9.41807980815237,119.031092942624,"Winter",13820
+4,-98.518,29.433,"u ad.",1951,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",40.7,NA,"female",21.2,566,7.1442284397967,83.742939936414,"Spring",13876
+6,-83.7068696,42.7971021,NA,1988,"Cardinalis cardinalis","Cardinalis_cardinalis",40.7,NA,"female",8.8,739,10.9503286238221,62.0289139119788,"Summer",14306
+4,-109.8656333,23.5588667,NA,2001,"Cardinalis cardinalis","Cardinalis_cardinalis",40.7,NA,"female",22.2,634,4.49521631258938,281.384446087319,"Spring",14487
+3,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.7,NA,"female",14.9,782,10.657690351871,98.5531515533842,"Spring",14555
+3,-83.9166667,42.6166667,NA,1984,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.7,NA,"male",8.7,757,10.4194602314684,40.9174834813858,"Spring",14567
+10,-72.6672,41.2642,NA,1974,"Cardinalis cardinalis","Cardinalis_cardinalis",40.7,NA,"female",10.7,1084,8.76129141580893,44.9712235453067,"Fall",14607
+6,-109.7747222,23.441944,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",40.7,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",14665
+7,-96.268823,30.512478,NA,2009,"Cardinalis cardinalis","Cardinalis_cardinalis",40.7,NA,"male",20.4,1074,7.47068513348249,101.626852888037,"Summer",14680
+3,-83.8853359,43.3431576,"adult",1999,"Cardinalis cardinalis","Cardinalis_cardinalis",40.8,NA,"female",9.4,793,9.97996477797878,51.040071394727,"Spring",14004
+6,-95.2798841,38.9041998,NA,1985,"Cardinalis cardinalis","Cardinalis_cardinalis",40.8,NA,"female",11.2,1239,11.3913144743943,59.3370658514506,"Summer",14162
+11,-112.280146,28.778293,"unknown",1941,"Cardinalis cardinalis townsendi","Cardinalis_cardinalis",40.8,NA,"female",23.3,85,5.27808505219287,128.603081484426,"Fall",14224
+6,-83.6283159,42.8163383,NA,1987,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.8,NA,"male",9.9,793,9.85775728996605,50.9519611510283,"Summer",14309
+7,-78,39.06,"HY",2008,"Cardinalis cardinalis","Cardinalis_cardinalis",40.8,NA,"undetermined",12.7,991,8.68755204911376,44.1527693971943,"Summer",14476
+3,-97.60197,28.28447,"u ad.",1951,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",40.9,NA,"male",22.7,632,6.44844355192974,116.378432867577,"Spring",13878
+5,-83.7263412,42.2708397,NA,1996,"Cardinalis cardinalis","Cardinalis_cardinalis",40.9,NA,"male",9.2,828,10.4395663441805,43.3522039361995,"Spring",14321
+2,-83.9449387,42.0039444,NA,2009,"Cardinalis cardinalis","Cardinalis_cardinalis",40.9,NA,"female",9.3,994,10.0611275649794,40.5357811113938,"Winter",14345
+2,-83.7263412,42.2708397,NA,2005,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",40.9,NA,"female",9.9,834,10.9583370780037,57.4672335500996,"Winter",14413
+3,-92.49599,35.71037,NA,1990,"Cardinalis cardinalis","Cardinalis_cardinalis",40.9000015258789,NA,"female",14.7,1779,7.83768576697345,51.6546674416341,"Spring",13780
+7,-82.7075204,27.9618088,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",41,NA,"male",21.6,1303,5.06780539436466,80.4535397741321,"Summer",13808
+12,-83.7263412,42.2708397,NA,1998,"Cardinalis cardinalis","Cardinalis_cardinalis",41,NA,"female",11.5,943,8.91020439856698,57.6097916849787,"Winter",14003
+5,-95.0808176,31.4417995,"ad",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",41,NA,"male",17.7,1249,6.87357698771612,43.1443682198605,"Spring",14233
+6,-83.7263412,42.2708397,NA,1942,"Cardinalis cardinalis","Cardinalis_cardinalis",41,NA,"male",9.4,910,10.4734585182419,40.89200918289,"Summer",14268
+3,-98.2492937,29.4791442,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",41,NA,"female",20.7,1088,6.49603025631109,44.0507514220736,"Spring",14276
+2,-94.1062237,36.4508769,NA,1935,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",41,NA,"male",14,1416,8.46652499284951,76.7756480861086,"Winter",14381
+6,-83.4933472,41.6369994,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",41,NA,"female",9.8,810,9.4646831575456,41.1191009743835,"Summer",14410
+10,-98.2666667,29.4666667,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",41,NA,"male",20.8,1074,6.50879940518754,44.2576588163986,"Fall",14538
+7,-83.95,42.45,"juvenile",1948,"Cardinalis cardinalis","Cardinalis_cardinalis",41,NA,"female",8.9,705,10.5075730265885,40.7170942213858,"Summer",14543
+3,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41,NA,"male",14.9,782,10.657690351871,98.5531515533842,"Spring",14728
+7,-95.4519653,30.6142774,"ad",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",41.1,NA,"male",18.5,1235,6.85118879310648,45.4550669841441,"Summer",13931
+6,-79.372722,43.73418,"ad",1995,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.1,NA,"male",7.7,860,10.6979890492078,43.0238240393688,"Summer",13941
+9,-79.80509,43.33348,"ad",2001,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.1,NA,"female",9.2,713,9.456583405066,36.3773585939438,"Fall",13948
+7,-83.7263412,42.2708397,"immature",2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.1,NA,"female",9.7,954,10.3529640024663,55.1826048279845,"Summer",14034
+12,-84.0185811,36.2366714,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.1,NA,"female",13.8,1408,8.37971938490168,57.908015482066,"Winter",14074
+3,-83.7263412,42.2708397,NA,1941,"Cardinalis cardinalis","Cardinalis_cardinalis",41.1,NA,"male",10.3,683,10.3579862322692,48.7778988168438,"Spring",14267
+11,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.1,NA,"female",14.9,782,10.657690351871,98.5531515533842,"Fall",14792
+2,-83.773799,42.285806,NA,2011,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.18,NA,"female",10.2,1079,10.6228598557616,50.2748921296217,"Winter",14352
+8,-84.0572548,42.4138253,"immature",1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.2,NA,"male",8.4,643,11.5080604163106,60.9816119973715,"Summer",14055
+2,-84.0701294,42.117198,NA,1988,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.2,NA,"female",9.2,799,10.9164457530273,58.5097514387022,"Winter",14307
+3,-106.425646,21.463515,NA,1962,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",41.2,NA,"female",22.7,826,3.02875111776015,156.971028638107,"Spring",14529
+4,-112.2222222,27.224722,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",41.2,NA,"male",23.3,88,5.61477353222566,106.699180718167,"Spring",14652
+9,-87.5833333,37.8833333,"adult",1949,"Cardinalis cardinalis","Cardinalis_cardinalis",41.2,NA,"female",14.4,1302,8.70271204681029,50.099624890425,"Fall",14722
+11,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.2,NA,"female",14.9,782,10.657690351871,98.5531515533842,"Fall",14790
+5,-95.2827072,38.9560717,"ad",1966,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.3,NA,"male",12.1,692,9.93208376317819,97.5685434862534,"Spring",14263
+3,-84.55,42.7333333,NA,2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.3,NA,"male",9.6,881,10.7419173278697,47.0538057941822,"Spring",14762
+9,-77.2878956,38.9660325,NA,1969,"Cardinalis cardinalis","Cardinalis_cardinalis",41.4,NA,"female",12.4,1036,9.49080495995354,62.0693284642199,"Fall",13855
+10,-84.072361,42.2048704,"immature",2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.4,NA,"female",9.1,953,10.3014084062091,53.8530200923072,"Fall",14036
+3,-97.63955,28.27067,"u ad.",1951,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",41.4,NA,"male",22.8,631,6.44110850614075,116.15640689923,"Spring",14195
+7,-83.4263563,41.7403857,NA,1934,"Cardinalis cardinalis","Cardinalis_cardinalis",41.4,NA,"female",10,539,11.6178643789327,61.9567064729306,"Summer",14374
+8,-83.95,42.45,NA,1934,"Cardinalis cardinalis","Cardinalis_cardinalis",41.4,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",14597
+1,-76.5095,42.4381,NA,1955,"Cardinalis cardinalis","Cardinalis_cardinalis",41.4000015258789,NA,"female",9.8,870,10.7663723104522,75.6794603011292,"Winter",14094
+4,-95.2598661,38.9549568,NA,1961,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.5,NA,"male",11.5,1376,9.74562450383232,67.7236636526228,"Spring",13800
+7,-95.4519653,30.6142774,"ad",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",41.5,NA,"female",18.5,1235,6.85118879310648,45.4550669841441,"Summer",13932
+11,-83.6422,42.30201,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.5,NA,"male",9.1,851,10.0927967112464,58.0362612941202,"Fall",14067
+4,-103.4454536,29.6288013,NA,1937,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",41.5,NA,"male",17.9,307,7.16675827989365,81.4043182334281,"Spring",14085
+6,-94.98866,35.23704,"skull ossified",1982,"Cardinalis cardinalis ssp.","Cardinalis_cardinalis",41.5,NA,"male",16.6,1168,8.88507430776724,62.7856145115124,"Summer",14214
+5,-95.0808176,31.4417995,"ad",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",41.5,100,"male",17.7,1249,6.87357698771612,43.1443682198605,"Spring",14235
+4,-106.674626,21.751084,NA,1959,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",41.5,NA,"male",25,560,2.65174328022952,117.213156487893,"Spring",14526
+11,-72.8689,41.2761,"immature",1977,"Cardinalis cardinalis","Cardinalis_cardinalis",41.5,NA,"female",10.9,1287,9.46902446096873,38.5224444555419,"Fall",14776
+6,-94.274,31.04448,"ad.sk.",1942,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.6,NA,"male",18.6,1184,7.05117119005879,42.5485508007504,"Summer",13888
+6,-79.35567,43.161167,"ad",1967,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",41.6,226,"male",8.2,745,9.50761656395927,37.0848450968932,"Summer",13914
+10,-83.4188385,42.7358322,NA,1993,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.6,NA,"female",8.4,786,10.2932899590859,61.0750885876774,"Fall",13998
+6,-83.6130371,42.2411385,NA,2008,"Cardinalis cardinalis","Cardinalis_cardinalis",41.6,NA,"female",9.5,958,10.2638229040675,48.2268253476469,"Summer",14023
+4,-79.71593,43.46917,"ad",1971,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",41.6,NA,"male",7.9,735,10.3190321369024,39.8224068640758,"Spring",14232
+6,-109.7747222,23.441944,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",41.6,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",14499
+11,-92.27253,34.83142,"adult",2005,"Cardinalis cardinalis","Cardinalis_cardinalis",41.6,200,"female",16.8,905,8.3342075299044,48.7116788654738,"Fall",14635
+10,-76.451,42.4799,NA,2008,"Cardinalis cardinalis","Cardinalis_cardinalis",41.7,190,"female",8.3,1060,9.4695164831285,38.0685165012606,"Fall",13788
+6,-76.551753,42.459884,NA,2009,"Cardinalis cardinalis","Cardinalis_cardinalis",41.7,198,NA,7.9,909,9.4628460066438,45.4587373360537,"Summer",13790
+4,-83.7263412,42.2708397,NA,1997,"Cardinalis cardinalis","Cardinalis_cardinalis",41.7,NA,"female",8.8,966,9.51882902780621,35.8510146973812,"Spring",14002
+4,-96.20343,30.51509,"u ad.",1953,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",41.7,NA,"female",20.4,990,7.19220959009669,48.3610997766622,"Spring",14202
+3,-84.5552444,42.7335852,NA,2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.7,NA,"male",9.6,882,10.7419173278697,47.0253677867642,"Spring",14339
+3,-76.380699,42.434881,"ad.",1995,"Cardinalis cardinalis","Cardinalis_cardinalis",41.7000007629395,215,"male",7.9,843,10.5855068157106,54.591276790979,"Spring",13784
+11,-98.7621879578,23.7463752771,NA,1985,"Cardinalis cardinalis","Cardinalis_cardinalis",41.75,223,"male",25.3,808,4.76852051256864,77.9090439331418,"Fall",13796
+5,-95.2506065,38.9580072,NA,1965,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.8,NA,"male",12.8,1108,9.93170619172697,105.263174273182,"Spring",13802
+1,-97.0596898,37.3730211,NA,1961,"Cardinalis cardinalis","Cardinalis_cardinalis",41.8,NA,"female",13.4,1141,9.40945688060043,66.8159323420839,"Winter",13851
+2,-83.5709594,36.3995546,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.8,NA,"female",14.5,1269,7.83528827958758,45.6602356007609,"Winter",14079
+4,-83.6096,32.8194,"unknown",1959,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.8,NA,"male",18.5,1381,7.62203742745039,44.1699914228256,"Spring",14203
+5,-112.095133255,29.40194,"u ad.",1938,"Cardinalis cardinalis townsendi","Cardinalis_cardinalis",41.8,NA,"male",22.2,137,5.66062289109171,87.6258822479518,"Spring",14220
+1,-83.7974687,36.3366651,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.8,NA,"male",14.4,1301,7.94310736081633,43.1322988465877,"Winter",14400
+10,-98.3166667,29.5166667,NA,1916,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",41.8,NA,"male",21,673,6.03871348931712,67.8861166662364,"Fall",14558
+4,-84.3935394,42.806075,NA,2004,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.9,NA,"male",8.9,904,10.0366449784897,62.2218355917872,"Spring",14332
+3,-79.4614,33.0881,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",41.9,NA,"female",17.7,1260,6.08086915637639,70.8970913452336,"Spring",14609
+3,-97.2626517,30.4676833,NA,2012,"Cardinalis cardinalis","Cardinalis_cardinalis",41.9,NA,"male",21.4,1087,6.59229922643906,72.213560177047,"Spring",14683
+7,-82.4333333,42.9666667,NA,1978,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",41.9,NA,"male",7.5,668,11.0064306272068,48.2228385549767,"Summer",14738
+7,-76.467634,42.48915,NA,2005,"Cardinalis cardinalis","Cardinalis_cardinalis",42,186,"male",8.7,1056,10.8557867545658,50.4764484347583,"Summer",13792
+12,-91.093203,30.312878,"HY",2012,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",42,NA,"male",21.4,1705,5.5263213146475,76.9749382304365,"Winter",13864
+4,-112.14756,28.990021,"unknown",1936,"Cardinalis cardinalis townsendi","Cardinalis_cardinalis",42,NA,"male",23.8,114,5.26184090380636,92.8032337334619,"Spring",13903
+7,-95.4519653,30.6142774,"ad",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",42,NA,"male",18.5,1235,6.85118879310648,45.4550669841441,"Summer",13930
+3,-76.4809,42.4466,NA,2003,"Cardinalis cardinalis","Cardinalis_cardinalis",42,NA,"male",7.8,1085,10.1718379793815,34.4194122905824,"Spring",14097
+7,-100.4903539,39.836584,NA,1963,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42,NA,"male",12.4,488,11.8326557637853,97.1835099616336,"Summer",14117
+3,-97.434524,28.2015654,NA,1975,"Cardinalis cardinalis","Cardinalis_cardinalis",42,NA,"female",21.8,719,5.38091464569384,59.5773106457837,"Spring",14160
+7,-95.4519653,30.6142774,NA,1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",42,NA,"female",18.5,1235,6.85118879310648,45.4550669841441,"Summer",14239
+3,-83.9836121,42.4591805,NA,1953,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42,NA,"male",10.1,567,9.45568211407428,40.3671321387636,"Spring",14279
+11,-84.0185811,36.2366714,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42,NA,"male",13.8,1408,8.37971938490168,57.908015482066,"Fall",14393
+10,-85.429,38.74738,"U-Ad",1996,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42,NA,"female",11.7,1507,9.49817765615482,55.8877358217772,"Fall",14462
+11,-86.831716,20.5206129,"ad",1971,"Cardinalis cardinalis saturatus","Cardinalis_cardinalis",42,NA,"male",26.1,1024,1.38921713292928,86.9019053908751,"Fall",14505
+3,-88.65,33.4166667,NA,1939,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42,NA,"male",17.9,1435,7.39176445905724,59.3152460690126,"Spring",14551
+5,-98.6333333,29.6666667,NA,1947,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",42,NA,"male",19.6,554,8.10446939919106,78.8261175234201,"Spring",14560
+6,-83.35,42.3666667,NA,1986,"Cardinalis cardinalis","Cardinalis_cardinalis",42,NA,"male",9.6,928,9.94571249180756,58.1421784724517,"Summer",14744
+9,-83.7400246,42.2754036,"immature",2010,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.1,NA,"female",10.6,936,10.9200260849949,70.5432408048427,"Fall",14028
+5,-83.815239,42.3256378,NA,1935,"Cardinalis cardinalis","Cardinalis_cardinalis",42.1,NA,"male",8.6,651,10.2368762991274,43.7560852137542,"Spring",14056
+11,-82.41805,29.6848666667,NA,2006,"Cardinalis cardinalis","Cardinalis_cardinalis",42.1,NA,"female",20.9,1118,5.30884767500101,63.9180714239851,"Fall",14651
+7,-96.268823,30.512478,NA,2009,"Cardinalis cardinalis","Cardinalis_cardinalis",42.1,NA,"male",20.4,1074,7.47068513348249,101.626852888037,"Summer",14681
+3,-83.6422,42.30201,NA,1948,"Cardinalis cardinalis","Cardinalis_cardinalis",42.2,NA,"female",9.4,734,10.417453303631,42.5124400763285,"Spring",13963
+3,-84.0715027,42.2940721,NA,2000,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.2,NA,"female",8.9,969,10.1907377732741,55.1525196475042,"Spring",14018
+6,-94.274,31.04448,"ad.sk.",1964,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.2,NA,"female",18.7,1013,7.49931309985768,41.6582448880009,"Summer",14206
+12,-79.414369,43.673158,"ad",2000,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.2,NA,"female",7.7,805,9.82613629792781,58.6197797672692,"Winter",14255
+6,-83.7263412,42.2708397,NA,1959,"Cardinalis cardinalis","Cardinalis_cardinalis",42.2,NA,"female",9.8,884,11.0022690497199,35.9635877707922,"Summer",14286
+4,-111.8172222,26.056667,"unknown",1931,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",42.2,NA,"male",20.9,213,4.21522313295584,94.0918085008082,"Spring",14502
+3,-84.4,42.2,NA,1956,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.2,NA,"female",9.2,777,9.72726564712288,59.1586338489897,"Spring",14546
+1,-85.47296,38.71366,"U",1987,"Cardinalis cardinalis","Cardinalis_cardinalis",42.2,NA,"female",13.4,838,9.11143138141213,65.364965067181,"Winter",14620
+12,-84.5833333,30.9,NA,1946,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.2,NA,"male",20.2,1462,5.59422727352749,52.0437393622771,"Winter",14724
+8,-85.41938,38.7688,"U",1988,"Cardinalis cardinalis","Cardinalis_cardinalis",42.2,NA,"male",11.9,1055,9.81240711208689,45.2235803884597,"Summer",14787
+1,-76.580447,42.422762,NA,1991,"Cardinalis cardinalis","Cardinalis_cardinalis",42.2000007629395,195,NA,9.4,778,9.52079064707625,32.0641453871771,"Winter",14095
+8,-83.7263412,42.2708397,"adult",1940,"Cardinalis cardinalis","Cardinalis_cardinalis",42.3,NA,"male",8.5,807,10.7686518950314,48.2844847781589,"Summer",13958
+12,-83.773799,42.285806,NA,2010,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.3,NA,"female",10.5,928,10.9075001996819,70.0747080300142,"Winter",14029
+8,-85.47296,38.71366,"Imm",1987,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.3,NA,"female",13.4,838,9.11143138141213,65.364965067181,"Summer",14459
+5,-112.2222222,27.224722,"u ad.",1927,"Cardinalis cardinalis seftoni","Cardinalis_cardinalis",42.3,NA,"female",23.4,113,5.30479342984563,139.796764755099,"Spring",14492
+4,-85.47296,38.71366,"adult",2005,"Cardinalis cardinalis","Cardinalis_cardinalis",42.3,NA,"female",13.3,1131,9.63907373269042,49.4337487557365,"Spring",14634
+11,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.3,NA,"male",14.9,782,10.657690351871,98.5531515533842,"Fall",14799
+3,-83.7068696,42.7971021,"adult",1989,"Cardinalis cardinalis","Cardinalis_cardinalis",42.4,NA,"female",7.8,791,10.5448249550826,49.3086014315943,"Spring",13999
+5,-83.6429791,42.2708702,NA,1935,"Cardinalis cardinalis","Cardinalis_cardinalis",42.4,NA,"male",9,657,10.2044961866935,43.1320668552585,"Spring",14057
+12,-95.5360794,38.0056315,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",42.4,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",14151
+9,-84.1018867,42.3259197,"juvenile",1988,"Cardinalis cardinalis","Cardinalis_cardinalis",42.4,NA,"male",8.9,779,10.9587760597282,60.6948965251344,"Fall",14310
+12,-91.093203,30.312878,"AHY",2012,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",42.5,NA,"female",21.4,1705,5.5263213146475,76.9749382304365,"Winter",13858
+6,-94.274,31.04448,"imm.sk.",1964,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"male",18.7,1013,7.49931309985768,41.6582448880009,"Summer",13887
+3,-75.9963,38.8761,"skull",1993,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"female",13.2,1065,9.32056621377986,35.9707755683109,"Spring",13891
+3,-76.0812,38.5724,"skull",1993,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"male",13.7,1117,9.19505796115995,34.134172766186,"Spring",13892
+3,-79.52493,43.92542,"ad",1978,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",42.5,NA,"male",5.7,724,10.8001964067438,47.8988753597175,"Spring",13937
+1,-83.6042404,42.3037217,NA,1990,"Cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"female",10.4,1108,8.59359786366713,37.2201371998974,"Winter",13991
+9,-83.7263412,42.2708397,"juvenile",2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"male",10.1,902,10.7183643030704,44.0536255680916,"Fall",14021
+11,-76.379661,42.432793,NA,2008,"Cardinalis cardinalis","Cardinalis_cardinalis",42.5,210,"male",8.1,1082,9.48032651911794,38.3974407687411,"Fall",14099
+1,-78.898619,35.994033,"AHY",2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"male",15.2,1381,7.83652578402166,52.0405394881718,"Winter",14187
+3,-75.9963,38.8761,"skull",1993,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"female",13.2,1065,9.32056621377986,35.9707755683109,"Spring",14215
+3,-85.48255,38.81349,"U",1988,"Cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"male",11.9,1050,9.86333891466042,46.2501065535552,"Spring",14454
+3,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"male",14.9,782,10.657690351871,98.5531515533842,"Spring",14556
+5,-83.8986111,42.3463889,NA,2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"male",9.8,876,10.722067304057,45.6299842343773,"Spring",14589
+9,-85.47296,38.71366,"Imm",1992,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"male",12.3,1055,7.87128940960101,54.7787980882683,"Fall",14624
+9,-85.47299,38.7136,"Immature",2006,"Cardinalis cardinalis","Cardinalis_cardinalis",42.5,NA,"male",13.5,1545,8.13307873421681,31.4279741060155,"Fall",14639
+5,-98.2666667,29.4666667,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",42.5,NA,"male",20.8,1074,6.50879940518754,44.2576588163986,"Spring",14710
+4,-95.2227337,38.9549568,NA,1970,"Cardinalis cardinalis","Cardinalis_cardinalis",42.6,NA,"female",12.4,892,10.644702765681,97.2412926269159,"Spring",13841
+4,-97.7903,30.22594,"u ad.",1951,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",42.6,NA,"female",20.2,700,7.44121914905363,83.318900341336,"Spring",13877
+4,-79.375024,43.682677,"ad",1995,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.6,NA,"female",8,849,10.6843981410449,42.8422461236118,"Spring",13939
+11,-83.7263412,42.2708397,NA,1951,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.6,NA,"female",8.9,880,9.86622644390571,38.1301303035367,"Fall",13965
+7,-83.7263412,42.2708397,NA,1981,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.6,NA,"male",8.9,903,10.1239440152661,52.5494662268708,"Summer",13981
+2,-83.5709594,36.3995546,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.6,NA,"male",14.5,1269,7.83528827958758,45.6602356007609,"Winter",14078
+1,-112.7387586,32.2396468,NA,1969,"Cardinalis cardinalis","Cardinalis_cardinalis",42.6,NA,"male",20.8,207,8.01963499509457,107.750834380413,"Winter",14166
+10,-110.8728561,32.5037648,"OSSIFIED",1970,"Cardinalis cardinalis superba","Cardinalis_cardinalis",42.6,NA,"male",18.1,327,7.62354307988806,106.713176905939,"Fall",14169
+7,-85.5166893,42.7891998,"juvenile",2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.6,NA,"male",8.9,1160,10.2720383920268,52.3130079987513,"Summer",14415
+3,-87.34778,39.08144,"adult",2004,"Cardinalis cardinalis","Cardinalis_cardinalis",42.6,NA,"female",12.5,1120,9.19800703051119,64.8483297180178,"Spring",14633
+9,-76.428788,42.44246,NA,2011,"Cardinalis cardinalis","Cardinalis_cardinalis",42.6,208,"undetermined",9.2,1327,10.0628441970118,49.9703025642993,"Fall",14795
+4,-110.0125,33.5893,"u ad.",1949,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",42.7,NA,"female",11.7,484,8.41605158268557,90.2666446207202,"Spring",13875
+7,-83.7500668,42.6573812,"immature",2001,"Cardinalis cardinalis","Cardinalis_cardinalis",42.7,NA,"male",9.7,865,9.40565191141942,49.8944399602191,"Summer",14009
+10,-97.0596898,37.3730211,NA,1961,"Cardinalis cardinalis","Cardinalis_cardinalis",42.7,NA,"male",13.4,1141,9.40945688060043,66.8159323420839,"Fall",14165
+11,-83.7263412,42.2708397,NA,1986,"Cardinalis cardinalis","Cardinalis_cardinalis",42.7,NA,"male",9.4,885,10.041716018991,52.6805384751907,"Fall",14418
+10,-85.47296,38.71366,"Imm.",1986,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.7,NA,"female",13.2,992,9.27591782602409,32.4485291079975,"Fall",14618
+5,-85.42484,38.72406,"U",2007,"Cardinalis cardinalis","Cardinalis_cardinalis",42.7,NA,"male",14.1,1207,10.1315401623152,43.3941399421512,"Spring",14788
+10,-84.2366409,42.337103,NA,1956,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.8,NA,"in question",9.1,761,9.70989420408613,60.0324755185653,"Fall",13969
+11,-91.093203,30.312878,"AHY",2006,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",42.8,NA,"male",20.6,1311,6.24548321637811,67.6091615339286,"Fall",14175
+6,-84.0706177,36.1963806,"juvenile",1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.8,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Summer",14404
+2,-75.2333333,38.5166667,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.8,NA,"male",13.7,1226,7.88437272922414,55.854216822866,"Winter",14547
+3,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.8,NA,"male",14.9,782,10.657690351871,98.5531515533842,"Spring",14554
+12,-79.62419,43.90855,"ad",1973,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",42.9,NA,"female",7.9,849,10.1065535293899,31.8406448315927,"Winter",13926
+5,-94.57569,48.68335,"ad",1977,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",42.9,NA,"male",3.9,737,13.7288984086543,61.0620368903699,"Spring",13934
+9,-83.9275217,42.2889928,NA,1990,"Cardinalis cardinalis","Cardinalis_cardinalis",42.9,NA,"female",10,1059,8.63017960415657,35.5851487756069,"Fall",13994
+10,-84.2366409,42.337103,NA,1935,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.9,NA,"female",8.5,706,10.1901430388153,43.4872210715174,"Fall",14052
+3,-79.420787,43.767467,"ad",1971,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",42.9,222,"male",7.4,710,10.4634428542252,46.9446885224962,"Spring",14230
+1,-84.1438895,36.2749988,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.9,NA,"female",14.1,1267,8.19726488013847,38.6317792113863,"Winter",14395
+7,-85.47296,38.71366,"U-Ad",1990,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.9,NA,"female",13.4,1487,7.54073282348284,46.0590540975,"Summer",14456
+5,-83.9166667,42.6166667,NA,1977,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",42.9,NA,"male",8.5,714,11.1627186598421,44.2551242991311,"Spring",14564
+5,-98.2666667,29.4666667,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",42.9,NA,"male",20.8,1074,6.50879940518754,44.2576588163986,"Spring",14709
+11,-72.5989,41.2794,"immature",1974,"Cardinalis cardinalis","Cardinalis_cardinalis",42.9,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",14777
+3,-92.864278,32.119241,NA,1990,"Cardinalis cardinalis","Cardinalis_cardinalis",43,215,"male",19.2,1684,6.81395070736678,57.0686410089929,"Spring",13777
+10,-76.45219,42.477118,NA,1990,"Cardinalis cardinalis","Cardinalis_cardinalis",43,198,"male",9.5,1120,8.15614195040471,41.4266121345918,"Fall",13778
+11,-95.4148865,38.6833658,NA,1968,"Cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"male",12.1,1055,10.1829142402478,77.1754370518707,"Fall",13839
+4,-95.2491903,38.9349105,NA,1991,"Cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"female",14,741,10.4714727915534,62.3280992863541,"Spring",13847
+7,-78.3802414,42.0390942,"ad",1970,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"male",7.3,1046,10.4180786921756,35.8094721441663,"Summer",13920
+5,-94.7612,37.0951692,"ad",1973,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"female",14.7,1450,9.11475660008472,55.8871146892135,"Spring",13925
+5,-83.1428146,42.8632572,NA,1957,"Cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"male",8.9,862,10.0182863108448,42.6031136285543,"Spring",13971
+3,-100.4289086,37.2125779,NA,1950,"Cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"female",13.5,406,8.94086210337209,148.993616514309,"Spring",14161
+4,-82.3248215,29.6516457,NA,2004,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",43,NA,"male",20.6,1387,5.90461427164973,81.8863427317982,"Spring",14170
+2,-91.096093,30.310774,"AHY",2004,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",43,NA,"female",20.2,1799,6.62392358322193,59.3894865368536,"Winter",14180
+1,-98.672,29.03,"unknown",1952,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",43,NA,"male",21.4,534,6.2614743156912,61.0813709830374,"Winter",14198
+5,-79.479237,43.651156,"ad",1944,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",43,NA,"male",7.8,744,10.4060406408096,36.0332973239664,"Spring",14252
+7,-84.1018867,42.3259197,NA,2006,"Cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"male",10.1,1058,8.81563263684909,34.4596360853826,"Summer",14333
+11,-83.73657,42.48316,"immature",2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"male",11,646,9.15473052083407,37.712692332793,"Fall",14362
+10,-86.5289001,39.1661453,"adult",1927,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"female",12.4,1367,8.73460550530666,45.4373726626078,"Fall",14371
+3,-83.45,41.7666667,NA,1935,"Cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"male",9.4,648,10.2805936628488,38.747412536514,"Spring",14599
+3,-79.6493,43.4774,"ad",1991,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43,NA,"male",9.4,771,10.0637475699421,40.3602356195723,"Spring",14676
+8,-100.1574477,39.1380273,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",43.1,NA,"female",11.3,376,10.8801180920507,91.8270750397748,"Summer",13805
+2,-99.4098396,37.8940705,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",43.1,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",14139
+3,-84.1383333,42.3818333,NA,2004,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.1,NA,"male",9.2,863,10.0040408502431,64.2426751530035,"Spring",14586
+12,-83.6561111,42.3127778,NA,1939,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.1,NA,"male",10.1,663,10.2290584299649,62.7384799477183,"Winter",14707
+12,-85.3360833,43.7110833,"adult",2005,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.15,NA,"female",7.9,795,10.9669614034263,59.1577226003187,"Winter",14590
+2,-99.2464304,37.327426,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",43.2,NA,"female",14.3,493,8.88420457379786,88.7124887952805,"Winter",13834
+1,-71.236968,42.373251,NA,1974,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.2,NA,"male",9.5,1155,8.8249474202228,40.8309829833874,"Winter",13857
+11,-91.093203,30.312878,"AHY",2010,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",43.2,NA,"female",19.9,1239,8.27277389264253,59.8057588055042,"Fall",13860
+4,-109.1108,32.7163,"u ad.",1960,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",43.2,NA,"male",15.9,247,8.93276230648966,92.0740884816451,"Spring",13886
+12,-84.1438895,36.2749988,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.2,NA,"male",13.6,1402,8.46054568768075,58.464969530583,"Winter",14072
+7,-83.7263412,42.2708397,NA,2011,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.2,NA,"female",10.3,1078,10.6367395038483,51.6940841774473,"Summer",14354
+11,-84.1438895,36.2749988,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.2,NA,"female",13.6,1402,8.46054568768075,58.464969530583,"Fall",14391
+12,-85.47296,38.71366,"U-Ad.",1981,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.2,NA,"female",12.1,893,9.77468514566938,45.4595818036942,"Winter",14447
+10,-77.1333333,38.9666667,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.2,NA,"female",13,1421,8.69459950808895,56.2304144781037,"Fall",14548
+10,-85.3361667,43.7106667,NA,2004,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.2,NA,"male",7.3,1009,9.95923128955181,56.1767775927091,"Fall",14756
+1,-111.1055312,32.3561848,NA,1969,"Cardinalis cardinalis","Cardinalis_cardinalis",43.3,NA,"female",20.4,200,7.88992453011492,77.8249784627485,"Winter",13853
+12,-83.704716,42.2953181,NA,2006,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.3,NA,"male",10.6,1141,8.79522942316234,26.4679049871762,"Winter",14015
+11,-108.49865,33.0736,NA,2012,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",43.3,NA,"male",15.2,304,7.52617654146734,143.359035799295,"Fall",14189
+6,-97.509,28.14492,"unknown",1964,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",43.3,NA,"male",21.9,600,6.76427222898952,76.7732012150335,"Summer",14211
+5,-83.8885498,42.3383369,NA,1961,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.3,NA,"male",9.3,800,10.1317196183196,56.3352656075751,"Spring",14291
+8,-84.1001272,42.3259514,"juvenile",1988,"Cardinalis cardinalis","Cardinalis_cardinalis",43.3,NA,"male",8.9,778,10.9288886013449,60.7907843703444,"Summer",14311
+4,-84.1438895,36.2749988,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.3,NA,"male",14.1,1267,8.19726488013847,38.6317792113863,"Spring",14394
+12,-85.47303,38.71571,"adult",2004,"Cardinalis cardinalis","Cardinalis_cardinalis",43.3,NA,"female",13.1,1388,9.10425724592621,57.9766327262872,"Winter",14629
+12,-76.432222,42.404308,NA,2010,"Cardinalis cardinalis","Cardinalis_cardinalis",43.39,19,NA,9.4,1016,10.0916557190342,47.6147077398558,"Winter",14098
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",43.4,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",13821
+11,-112.280146,28.778293,"unknown",1941,"Cardinalis cardinalis townsendi","Cardinalis_cardinalis",43.4,NA,"male",23.3,85,5.27808505219287,128.603081484426,"Fall",13913
+6,-79.375024,43.682677,"juv",1995,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.4,NA,"male",8,849,10.6843981410449,42.8422461236118,"Summer",13940
+8,-84.2366409,42.337103,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.4,NA,"female",8.9,875,10.2074356438942,56.9535774244878,"Summer",14384
+12,-85.47296,38.71366,"Sk. Partly Oss.",1984,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.4,NA,"female",12.6,1192,9.26381032935054,47.1395683737697,"Winter",14450
+11,-85.47296,38.71366,"U-Ad",1992,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.4,NA,"female",12.3,1055,7.87128940960101,54.7787980882683,"Fall",14623
+7,-95.0808176,31.4417995,"ad",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",43.5,NA,"male",17.7,1249,6.87357698771612,43.1443682198605,"Summer",13928
+6,-94.274,31.04448,"u ad.",1942,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.5,NA,"male",18.6,1184,7.05117119005879,42.5485508007504,"Summer",14208
+11,-110.2167,23.45,"ad.",1928,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",43.5,NA,"male",22.2,164,3.36140077222505,130.878889965229,"Fall",14216
+4,-79.91644,43.65006,"ad",1966,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",43.5,215,"female",6.7,764,9.86328898983345,41.9555566363423,"Spring",14264
+10,-83.6726903,42.6563239,"immature",2010,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.5,NA,"female",9.6,752,10.9261571053554,58.8416033656573,"Fall",14348
+6,-83.818948,42.429661,NA,2004,"Cardinalis cardinalis","Cardinalis_cardinalis",43.5,NA,"male",9.3,842,10.0246363192553,61.8900378996703,"Summer",14360
+12,-85.47303,38.71571,"adult",1995,"Cardinalis cardinalis","Cardinalis_cardinalis",43.5,NA,"female",12.4,1168,9.91691239827959,65.9971742965683,"Winter",14464
+12,-84.5833333,30.9,NA,1946,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",43.5,NA,"male",20.2,1462,5.59422727352749,52.0437393622771,"Winter",14557
+9,-83.9166667,42.6166667,"immature",2003,"Cardinalis cardinalis","Cardinalis_cardinalis",43.5,NA,"male",8.5,786,10.1989304252055,49.202872937344,"Fall",14583
+3,-98.2666667,29.4666667,NA,1947,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",43.5,NA,"female",20.2,576,7.75245806571091,84.1041752075044,"Spring",14716
+3,-76.496727,42.440786,NA,2009,"Cardinalis cardinalis","Cardinalis_cardinalis",43.6,NA,"female",8.8,861,9.39869026981307,47.2678451931907,"Spring",13782
+11,-94.8010254,37.0524372,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",43.6,NA,"female",14.1,1107,8.17536487926324,69.6038760304252,"Fall",14138
+1,-83.7268,42.3158,"unknown",1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.6,NA,"female",10.3,692,9.69346859144514,49.3823989779966,"Winter",14222
+12,-83.6025238,42.3048643,NA,1995,"Cardinalis cardinalis","Cardinalis_cardinalis",43.6,NA,"female",9.8,799,10.8328484739982,43.2872851107753,"Winter",14318
+11,-83.7263412,42.2708397,"immature",1996,"Cardinalis cardinalis","Cardinalis_cardinalis",43.6,NA,"female",9.2,828,10.4395663441805,43.3522039361995,"Fall",14370
+12,-84.1438895,36.2749988,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.6,NA,"female",13.6,1402,8.46054568768075,58.464969530583,"Winter",14397
+11,-98.3166667,29.5166667,NA,1916,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",43.6,NA,"female",21,673,6.03871348931712,67.8861166662364,"Fall",14559
+11,-89.0666667,36.7833333,NA,1948,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.6,NA,"female",14.8,1257,9.25167879933478,54.249183394743,"Fall",14569
+1,-95.2506065,38.9580072,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",43.7,NA,"male",12.1,1212,8.93445407940349,88.3103739314762,"Winter",13816
+12,-91.093203,30.312878,"AHY",2012,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",43.7,NA,"female",21.4,1705,5.5263213146475,76.9749382304365,"Winter",13861
+11,-84.2366409,42.337103,NA,1934,"Cardinalis cardinalis","Cardinalis_cardinalis",43.7,NA,"male",9.1,509,11.5211630042152,44.8754695474902,"Fall",14049
+11,-84.7250214,44.3500137,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.7,NA,"male",7.6,756,9.9981816528625,44.2947385903311,"Fall",14295
+10,-85.47303,38.71571,"adult",2003,"Cardinalis cardinalis","Cardinalis_cardinalis",43.7,NA,"female",12.2,1333,9.40280422388594,44.0618251306209,"Fall",14628
+7,-98.77509,26.7379,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",43.7,NA,"female",23.1,626,6.16595614252284,94.1973294352195,"Summer",14692
+11,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.7,NA,"male",14.9,782,10.657690351871,98.5531515533842,"Fall",14797
+11,-83.9166667,42.6166667,NA,2005,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.7,NA,"male",9.1,728,10.9801025275337,53.3955971163265,"Fall",14803
+1,-95.1941611,38.8069025,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",43.8,NA,"female",12,1199,8.884136355768,84.1010178253019,"Winter",13832
+12,-91.093203,30.312878,"AHY",2009,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",43.8,NA,"female",20.4,1556,6.63276417536917,67.6703175623237,"Winter",13859
+5,-112.095133255,29.40194,"u ad.",1938,"Cardinalis cardinalis townsendi","Cardinalis_cardinalis",43.8,NA,"male",22.2,137,5.66062289109171,87.6258822479518,"Spring",13906
+10,-83.1446228,42.4894333,NA,1988,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.8,NA,"male",9.8,683,10.8971500305299,54.0651881377403,"Fall",13995
+1,-83.8069143,36.3411805,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.8,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Winter",14401
+12,-85.47303,38.71571,NA,1999,"Cardinalis cardinalis","Cardinalis_cardinalis",43.8,NA,"female",13.4,917,9.16486621436847,54.6900144021701,"Winter",14466
+9,-79.85857,43.64689,"imm",1968,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",43.8,NA,"female",7.1,930,10.3504172072258,44.222651382487,"Fall",14671
+8,-83.95,42.45,"juvenile",1935,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.8,NA,"male",8.4,658,10.1983473111474,44.4104509785528,"Summer",14768
+11,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.8,NA,"male",14.9,782,10.657690351871,98.5531515533842,"Fall",14798
+3,-84.0018082,36.206884,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.9,NA,"male",14.5,1313,8.0556398463023,39.4639297658041,"Spring",14076
+3,-85.47296,38.71366,"U-Ad",1993,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",43.9,NA,"male",12.1,1214,9.46823637220787,26.3367141690237,"Spring",14458
+4,-97.4281465,28.1023602,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"male",21.9,1060,6.05202195113085,168.088920631327,"Spring",13811
+2,-97.64218,30.22127,"unknown",1952,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",44,NA,"male",19.8,877,6.79656776125519,69.8685650582725,"Winter",13881
+3,-83.7268,42.2862,"u ad.",1942,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"female",9.5,911,10.4570405454745,40.0515910056028,"Spring",13910
+5,-94.7531657,37.0783039,"ad",1973,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"male",14.7,1467,9.10198113632744,55.4959926220036,"Spring",13924
+7,-95.4519653,30.6142774,"ad",1966,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",44,NA,"female",19.2,1029,7.40540343262945,65.4519688301828,"Summer",13929
+8,-83.0751801,43.0234746,NA,1945,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44,203.2,"female",8.2,858,10.271713881364,65.6449326025249,"Summer",13964
+1,-95.2691492,38.9549568,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"female",12.1,1210,8.94438625365349,88.1696446824483,"Winter",14126
+3,-97.62469,28.27613,"u ad.",1951,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",44,NA,"male",22.8,630,6.43302911825865,116.321046778906,"Spring",14196
+11,-96.73082,33.81064,"sk.n.f.oss.",1970,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",44,NA,"female",17.3,993,8.69627227696738,83.1305079088879,"Fall",14213
+7,-95.0808176,31.4417995,"ad",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",44,104,"male",17.7,1249,6.87357698771612,43.1443682198605,"Summer",14236
+7,-95.4519653,30.6142774,"ad",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",44,NA,"male",18.5,1235,6.85118879310648,45.4550669841441,"Summer",14237
+11,-79.372722,43.73418,"ad",1971,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",44,NA,"female",7.6,706,10.4587791164199,47.1826091796146,"Fall",14240
+3,-83.7268066,42.3154008,NA,1942,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"male",9.3,918,10.5050492909867,38.9713122650859,"Spring",14271
+9,-83.7263412,42.2708397,"juvenile",1953,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"female",10.7,596,9.53530521035092,50.9741906978463,"Fall",14280
+10,-109.85554,24.23539,"Ad.",1961,"Cardinalis cardinalis clintoni","Cardinalis_cardinalis",44,NA,"male",23.4,309,4.96350316171589,183.188777428929,"Fall",14444
+2,-85.47296,38.71366,"U-Ad",1992,"Cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"male",12.3,1055,7.87128940960101,54.7787980882683,"Winter",14457
+5,-76.48236,42.460012,NA,1992,"Cardinalis cardinalis","Cardinalis_cardinalis",44,198,"female",7.8,1010,8.86970926379453,46.4486888424887,"Spring",14479
+4,-111.6208833,25.9311333,NA,2001,"Cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"male",22.4,289,4.54981684613055,263.549398397784,"Spring",14648
+3,-94.1166667,36.45,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"female",14.9,782,10.657690351871,98.5531515533842,"Spring",14726
+5,-83.9166667,42.6166667,NA,2003,"Cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"male",8.5,786,10.1989304252055,49.202872937344,"Spring",14755
+8,-83.95,42.45,"juvenile",1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"male",8.5,620,11.4649135375825,63.832744272204,"Summer",14766
+7,-83.6561111,42.3127778,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44,NA,"male",10.5,696,9.64633703443013,49.7350022000717,"Summer",14773
+2,-100.4903539,39.8510785,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",44.1,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",13812
+3,-78.3058986,35.3708791,"AHY",2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.1,NA,"male",17.5,1222,7.18780005961279,45.0231957919693,"Spring",13871
+3,-84.0018082,36.206884,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.1,NA,"female",14.5,1313,8.0556398463023,39.4639297658041,"Spring",14077
+11,-95.2598661,38.9549568,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",44.1,NA,"male",12,697,9.93647626707077,97.5609986381197,"Fall",14149
+3,-83.8371849,42.2342371,NA,1997,"Cardinalis cardinalis","Cardinalis_cardinalis",44.1,NA,"female",8.6,951,9.48016669716628,35.1560652665305,"Spring",14320
+2,-79.63871,43.74961,"ad",1970,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",44.1,NA,"female",7.4,760,10.9031375801147,35.5961567620389,"Winter",14672
+3,-83.6113889,42.3188889,NA,1947,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.1,NA,"female",8.8,765,10.6495838587072,58.456370491652,"Spring",14715
+7,-83.95,42.45,NA,1934,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.1,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",14765
+12,-95.157006,38.9625233,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",44.2,NA,"female",12.3,695,9.92034945621037,94.8611131495892,"Winter",13838
+11,-79.420787,43.767467,"imm",1970,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",44.2,202,"female",7.2,772,11.0370004434121,31.5341779599923,"Fall",13922
+12,-91.093203,30.312878,"AHY",2009,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",44.2,NA,"male",20.4,1556,6.63276417536917,67.6703175623237,"Winter",14177
+5,-103.8273376,30.3849235,"ad",1968,"Cardinalis cardinalis princeps","Cardinalis_cardinalis",44.2,NA,"male",14.3,582,6.60873503689464,84.8778240899149,"Spring",14225
+10,-85.1796951,42.3211403,NA,1959,"Cardinalis cardinalis","Cardinalis_cardinalis",44.2,NA,NA,9.3,1045,11.118235089939,37.1243881510739,"Fall",14288
+12,-84.1438895,36.2749988,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.2,NA,"male",13.6,1402,8.46054568768075,58.464969530583,"Winter",14389
+12,-85.47296,38.71366,"U-Ad.",1983,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.2,NA,"female",12.7,1230,10.0209288567236,76.7439932356471,"Winter",14446
+5,-85.47225,38.85414,"U-Ad",1995,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.2,NA,"male",11.8,1152,10.0030298440326,63.4585584169987,"Spring",14463
+6,-76.400551,42.438907,NA,2008,"Cardinalis cardinalis","Cardinalis_cardinalis",44.3,NA,"male",8.3,1066,9.47953137826523,38.0525397907195,"Summer",13787
+2,-99.2464304,37.327426,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",44.3,NA,"female",14.3,493,8.88420457379786,88.7124887952805,"Winter",13826
+3,-83.7344027,42.2782296,"adult",1991,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.3,NA,"male",10.5,802,10.053930333532,43.8924815101033,"Spring",13996
+9,-83.6422,42.30201,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.3,NA,"female",9,627,11.5244502925499,63.8445384579534,"Fall",14054
+8,-85.47296,38.71366,"immature",2001,"Cardinalis cardinalis","Cardinalis_cardinalis",44.3,NA,"female",13.3,1172,8.73779668503971,51.6436875064848,"Summer",14632
+2,-95.2827072,38.9560717,NA,1966,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.4,NA,"female",12.1,692,9.93208376317819,97.5685434862534,"Winter",13952
+3,-83.7263412,42.2708397,NA,2005,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.4,NA,"female",9.9,834,10.9583370780037,57.4672335500996,"Spring",14016
+11,-83.71187,42.45429,NA,2011,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.4,NA,"male",9.8,1011,10.6543631693994,50.7540439873737,"Fall",14035
+3,-95.2500916,38.957807,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",44.4,NA,"female",12.1,698,9.92928023879909,97.5609986381197,"Spring",14129
+2,-83.5709594,36.3995546,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.4,NA,"male",14.5,1269,7.83528827958758,45.6602356007609,"Winter",14399
+1,-83.7193,42.4538,NA,2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.4,NA,"male",8.9,951,10.2683501669701,44.8167587698596,"Winter",14591
+10,-110.44056,27.77333,"unknown",1946,"Cardinalis cardinalis affinis","Cardinalis_cardinalis",44.5,NA,"male",25.6,348,5.47796550378022,160.443391690303,"Fall",14193
+6,-84.0706177,36.1963806,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.5,NA,"female",14.5,1291,8.07727826946826,39.2355287608617,"Summer",14403
+6,-83.9193249,42.325761,NA,2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.5,NA,"male",11.2,686,9.20923038274232,40.2733848016122,"Summer",14421
+1,-76.4509,42.4793,NA,1995,"Cardinalis cardinalis","Cardinalis_cardinalis",44.5,210,"female",8.1,811,10.5479963629462,54.8584774687859,"Winter",14642
+3,-83.8069143,36.3411805,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.6,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Spring",14080
+10,-85.5156898,42.1720552,NA,2007,"Cardinalis cardinalis","Cardinalis_cardinalis",44.6,NA,"male",10.4,914,10.7518391661402,56.0381712924473,"Fall",14356
+5,-79.986454,39.6584148,NA,1977,"Cardinalis cardinalis","Cardinalis_cardinalis",44.6,NA,"male",11.5,995,10.3930921114153,37.2521480220844,"Spring",14411
+3,-98.2666667,29.4666667,NA,1947,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",44.6,NA,"female",20.2,576,7.75245806571091,84.1041752075044,"Spring",14539
+7,-90.8,40.4166667,NA,1990,"Cardinalis cardinalis","Cardinalis_cardinalis",44.6,NA,"male",11.7,1230,8.95158695935582,66.2222038607951,"Summer",14576
+12,-84.5833333,30.9,"immature",1946,"Cardinalis cardinalis floridanus","Cardinalis_cardinalis",44.6,NA,"male",20.2,1462,5.59422727352749,52.0437393622771,"Winter",14729
+4,-84.0037823,42.4696911,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.7,NA,"male",8.4,627,11.4695644682311,63.6448669509308,"Spring",14060
+2,-97.56546,30.11,"unknown",1952,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",44.7,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",14201
+12,-84.1487503,42.3317732,"juvenile",1988,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.7,NA,"female",8.9,772,10.9312174597121,60.5323299714968,"Winter",14308
+6,-78.940009,36.001532,"fledgling",2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.8,NA,"undetermined",15.2,1388,7.83196635396865,52.0215601372903,"Summer",14188
+2,-97.56546,30.11,"unknown",1952,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",44.8,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",14200
+11,-84.0185811,36.2366714,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.8,NA,"male",13.8,1408,8.37971938490168,57.908015482066,"Fall",14392
+12,-83.9166667,42.6166667,NA,1986,"Cardinalis cardinalis","Cardinalis_cardinalis",44.8,NA,"male",8.7,878,10.09405765785,71.0122072933514,"Winter",14577
+5,-98.78828,26.95606,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",44.8,NA,"female",22.7,605,6.32496257025696,90.3137866236592,"Spring",14688
+10,-95.2256091,39.0131697,NA,1949,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.9,NA,"male",12.4,1114,10.1890724293086,58.0358167552439,"Fall",13797
+12,-76.5059539,39.0227875,NA,1968,"Cardinalis cardinalis","Cardinalis_cardinalis",44.9,NA,"male",13.5,969,9.66685605875075,40.2648310635175,"Winter",13840
+1,-83.974,42.599,NA,2001,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.9,NA,"female",9.8,884,9.39766250756328,53.0196972785578,"Winter",14022
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",44.9,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",14131
+1,-83.8069143,36.3411805,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",44.9,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Winter",14402
+5,-98.2666667,29.4666667,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",44.9,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Spring",14712
+2,-100.4289086,37.2125779,NA,1950,"Cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"male",13.5,406,8.94086210337209,148.993616514309,"Winter",13843
+11,-91.093203,30.312878,"AHY",2010,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",45,NA,"male",19.9,1239,8.27277389264253,59.8057588055042,"Fall",13868
+4,-96.73082,33.81064,"ad.",1975,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",45,NA,"male",17.1,974,8.15056700016891,54.3884976831674,"Spring",13889
+5,-83.7263412,42.2708397,NA,1939,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"male",10.1,662,10.2795766921453,66.7450603426487,"Spring",13975
+11,-83.804664,42.566476,NA,2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"female",9,887,10.4115429823215,55.2333725809064,"Fall",14041
+8,-84.2366409,42.337103,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"male",8.9,875,10.2074356438942,56.9535774244878,"Summer",14061
+7,-83.6422,42.30201,"adult",1939,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"female",10.1,665,10.2263770651579,62.7384799477183,"Summer",14087
+10,-79.73274,43.88022,"imm",1951,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",45,NA,"male",7,905,9.65443845172684,29.7757156208238,"Fall",14257
+3,-83.7263412,42.2708397,NA,1942,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"male",9.4,910,10.4734585182419,40.89200918289,"Spring",14270
+4,-83.4257278,41.7401466,NA,1969,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"male",9.4,858,10.1937146409843,58.999975416682,"Spring",14302
+11,-83.4822,42.3086,"immature",2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"female",9.6,948,10.2160709698301,55.4686365798603,"Fall",14363
+1,-83.6333333,42.2666667,NA,1995,"Cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"female",9.9,814,10.7986075140466,42.9366717945106,"Winter",14580
+3,-73.0089,41.3525,"adult",2009,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"female",10,1192,8.91866870755672,45.2475967541197,"Spring",14608
+12,-85.47296,38.71366,"Adult",2002,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"male",13.5,1328,9.39207838359734,51.9404265937075,"Winter",14636
+2,-85.47296,38.71366,"adult",2007,"Cardinalis cardinalis","Cardinalis_cardinalis",45,NA,"female",14,1201,10.1098624215079,43.9362062416294,"Winter",14638
+3,-79.47712,44.01114,"ad",1945,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",45,NA,"male",6.2,968,10.3497438117906,40.8401623160523,"Spring",14678
+12,-91.093203,30.312878,"AHY",2012,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",45.1,NA,"male",21.4,1705,5.5263213146475,76.9749382304365,"Winter",13863
+12,-95.7356074,37.6789414,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",45.1,NA,"female",13.6,1059,8.65326615512982,91.6152771560625,"Winter",14148
+2,-79.63024,43.51111,NA,1967,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",45.1,223,"[female]",7.4,800,9.73797237933062,44.7982520965247,"Winter",14265
+12,-83.4257278,41.7401466,NA,1959,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.1,NA,"female",10.3,947,10.9318654317633,23.6907271114673,"Winter",14289
+11,-76.451,42.4799,NA,2008,"Cardinalis cardinalis","Cardinalis_cardinalis",45.2,184,"female",8.3,1060,9.4695164831285,38.0685165012606,"Fall",13789
+4,-94.7351374,37.0237526,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",45.2,NA,"male",14.1,821,9.36163592929822,48.0616660831434,"Spring",13804
+12,-95.5360794,38.0056315,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",45.2,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",14150
+7,-108.7374593,32.6860419,"ad.sk.",1963,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",45.2,NA,"male",15.5,298,7.9601850138389,143.477554605826,"Summer",14204
+12,-85.47296,38.71366,"U-Ad.",1984,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.2,NA,"male",12.6,1192,9.26381032935054,47.1395683737697,"Winter",14617
+11,-85.47303,38.71571,"adult",2002,"Cardinalis cardinalis","Cardinalis_cardinalis",45.2,NA,"male",13.5,1328,9.38887155577863,51.9404265937075,"Fall",14631
+11,-76.450248,42.473805,"ad.",1993,"Cardinalis cardinalis","Cardinalis_cardinalis",45.2999992370605,192,"male",7.6,962,10.364402217848,45.4600579532371,"Fall",14102
+11,-95.2256091,39.0131697,NA,1949,"Cardinalis cardinalis","Cardinalis_cardinalis",45.3,NA,"male",12.4,1114,10.1890724293086,58.0358167552439,"Fall",13798
+8,-112.2329398,34.3076567,"ad",1977,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",45.3,110,"[female]",17.6,293,7.84837369758663,79.7520851999554,"Summer",13935
+11,-84.1438895,36.2749988,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.3,NA,"male",13.6,1402,8.46054568768075,58.464969530583,"Fall",14390
+7,-83.7263412,42.2708397,NA,1954,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.4,NA,"female",9.5,821,9.58692291139816,63.8357105504427,"Summer",13968
+1,-83.755892,42.7291,NA,1988,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.4,NA,"male",8.7,738,10.9916359385699,60.9243214757286,"Winter",13987
+1,-83.7329865,42.3438278,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.4,NA,"female",10.2,691,9.6846136951477,49.2277531135063,"Winter",14068
+10,-91.093203,30.312878,"AHY",2012,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",45.4,NA,"male",21.4,1705,5.5263213146475,76.9749382304365,"Fall",14176
+7,-84.1328785,36.2680917,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.4,NA,"male",14.1,1273,8.19177340477332,38.7012028207999,"Summer",14387
+12,-79.1557,43.8326,"imm",1971,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",45.4,222,"male",7.5,705,10.4888974490634,44.9151743064,"Winter",14506
+11,-85.47296,38.71366,"U-Ad.",1983,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.4,NA,"male",12.7,1230,10.0209288567236,76.7439932356471,"Fall",14614
+3,-80.55,40.2,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.4,NA,"male",11.3,1005,8.5042057331367,42.1265847458343,"Spring",14723
+9,-82.4333333,42.9666667,NA,1991,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.4,NA,"male",10.1,705,9.86631858517869,43.7201384620119,"Fall",14747
+4,-76.456245,42.448516,NA,2003,"Cardinalis cardinalis","Cardinalis_cardinalis",45.5,202,NA,7.5,1103,10.170754270173,34.144611743461,"Spring",13786
+3,-83.7573,42.2915,"u ad.",1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.5,NA,"male",9.1,868,10.1065085539723,60.1644415410227,"Spring",13909
+12,-83.715643,42.799291,NA,1983,"Cardinalis cardinalis","Cardinalis_cardinalis",45.5,NA,"female",9.1,854,10.2676418761549,39.7158462022284,"Winter",13983
+4,-83.8387299,42.2976274,NA,1998,"Cardinalis cardinalis","Cardinalis_cardinalis",45.5,NA,"male",11.2,911,8.89345605521614,54.8170648782248,"Spring",14005
+3,-92.47505,31.525542,NA,1990,"Cardinalis cardinalis","Cardinalis_cardinalis",45.5,209,"male",19.7,1562,6.42959539704459,62.2978501863127,"Spring",14090
+11,-76.450248,42.473805,"ad.",1994,"Cardinalis cardinalis","Cardinalis_cardinalis",45.5,207,"male",7.6,1056,10.7959132278952,51.1939290114998,"Fall",14101
+4,-110.0125,33.5893,"u ad.",1949,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",45.5,NA,"male",11.7,484,8.41605158268557,90.2666446207202,"Spring",14192
+11,-96.9337463,32.9427082,NA,1958,NA,"Cardinalis_cardinalis",45.5,227,"male",18.1,936,9.38494522997854,52.496526087741,"Fall",14407
+2,-87.34778,39.08144,"adult",2005,"Cardinalis cardinalis","Cardinalis_cardinalis",45.5,NA,"male",12.8,1109,9.75737483324094,50.862818863641,"Winter",14469
+11,-83.7833333,42.1666667,NA,1979,"Cardinalis cardinalis","Cardinalis_cardinalis",45.5,NA,"male",8.3,796,10.6554687907907,49.423051724262,"Fall",14566
+11,-85.47296,38.71366,"adult",2000,"Cardinalis cardinalis","Cardinalis_cardinalis",45.5,NA,"male",12.4,1365,9.49540159841339,29.7254086021866,"Fall",14625
+2,-100.4903539,39.8510785,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",45.6,NA,"female",10.9,498,9.12148645515166,109.219496920202,"Winter",13813
+12,-84.1438895,36.2749988,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.6,NA,"male",13.6,1402,8.46054568768075,58.464969530583,"Winter",14396
+4,-84.1383333,42.3818333,"adult",2005,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.6,NA,"female",9.4,740,10.9539947051293,53.2312942359986,"Spring",14584
+11,-98.3166667,29.5166667,NA,1916,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",45.6,NA,"male",21,673,6.03871348931712,67.8861166662364,"Fall",14736
+11,-95.2209331,39.0259853,NA,1949,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.7,NA,"male",12.4,1112,10.1890612765342,57.6823698244734,"Fall",13799
+2,-83.7263412,42.2708397,NA,1965,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.7,NA,"female",8.8,775,9.86370758248273,37.083318482774,"Winter",14301
+11,-85.47296,38.71366,"U-Ad.",1981,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.7,NA,"male",12.1,893,9.77468514566938,45.4595818036942,"Fall",14616
+2,-97.56546,30.11,"u ad.",1952,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",45.8,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",13884
+11,-95.2256091,39.0131697,NA,1949,"Cardinalis cardinalis","Cardinalis_cardinalis",45.8,NA,"female",12.4,1114,10.1890724293086,58.0358167552439,"Fall",14113
+2,-95.2598661,38.9549568,"ad",1966,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.9,NA,"[male]",12,697,9.93647626707077,97.5609986381197,"Winter",13953
+11,-85.42765,38.75516,"U-Ad.",1984,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.9,NA,"male",12.4,1203,9.25600542154316,46.8202866212597,"Fall",14451
+11,-85.47296,38.71366,"U-Ad.",1981,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.9,NA,"male",12.1,893,9.77468514566938,45.4595818036942,"Fall",14615
+9,-79.97972,43.63902,"imm",1976,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",45.9,NA,"male",6.1,932,10.1320673052832,33.4958975574402,"Fall",14674
+10,-83.6333333,42.8,"juvenile",1994,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",45.9,NA,"female",8.5,832,10.6889350888352,51.0945453897504,"Fall",14750
+3,-83.7460327,42.740961,NA,2002,"Cardinalis cardinalis","Cardinalis_cardinalis",46,NA,"male",9.6,655,9.95129045994447,37.3215807883202,"Spring",14008
+1,-83.7263412,42.2708397,"adult",1934,"Cardinalis cardinalis","Cardinalis_cardinalis",46,NA,"female",9.6,480,11.7842055311336,58.1051749810578,"Winter",14047
+11,-91.093203,30.312878,"AHY",2010,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",46,NA,"male",19.9,1239,8.27277389264253,59.8057588055042,"Fall",14182
+1,-83.7263412,42.2708397,NA,2000,"Cardinalis cardinalis","Cardinalis_cardinalis",46,NA,"female",9.5,1110,10.2283918579609,50.3887536637219,"Winter",14325
+8,-85.47303,38.71571,"immature",2004,"Cardinalis cardinalis","Cardinalis_cardinalis",46,NA,"female",13.1,1388,9.10425724592621,57.9766327262872,"Summer",14627
+12,-76.28712,42.349548,"ad.",1995,"Cardinalis cardinalis","Cardinalis_cardinalis",46,210,"male",7.3,894,10.6356889192886,52.4030462431895,"Winter",14641
+1,-79.97972,43.63902,"ad",1977,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",46,NA,"female",6.8,965,10.5111592936731,39.5531044359853,"Winter",14675
+3,-106.573197,21.625481,NA,1962,"Cardinalis cardinalis mariae","Cardinalis_cardinalis",46,NA,"male",22.8,788,3.08746242769434,168.265289271699,"Spring",14701
+11,-84.0185811,36.2366714,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.1,NA,"male",13.8,1408,8.37971938490168,57.908015482066,"Fall",14071
+12,-84.1019726,42.3267922,NA,2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.1,NA,"male",9,956,10.3083667107076,45.8720092857191,"Winter",14341
+6,-109.7747222,23.441944,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",46.1,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",14498
+1,-83.8833333,42.3833333,NA,1955,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.1,NA,"in question",9.8,657,10.9567745751617,47.2620609277581,"Winter",14545
+2,-99.4098396,37.8940705,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",46.2,NA,"male",13.2,586,8.83586013031127,99.5453688509186,"Winter",13822
+12,-95.2005,38.825,NA,1991,"Cardinalis cardinalis","Cardinalis_cardinalis",46.2,2,"male",14,713,10.4172460444935,62.6429816225119,"Winter",13848
+12,-84.0701294,42.117198,NA,1989,"Cardinalis cardinalis","Cardinalis_cardinalis",46.2,NA,"male",8.4,851,10.5261111124439,53.299952814391,"Winter",13988
+7,-84.1328785,36.2680917,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.2,NA,"female",14.1,1273,8.19177340477332,38.7012028207999,"Summer",14069
+12,-94.7711563,37.0235246,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",46.2,NA,"male",14.1,818,9.36833399373559,48.1183441872257,"Winter",14128
+12,-91.093203,30.312878,"AHY",2012,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",46.2,NA,"male",21.4,1705,5.5263213146475,76.9749382304365,"Winter",14184
+10,-83.6422,42.30201,"adult",1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.2,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",14405
+5,-84.8088684,42.1458435,NA,1939,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.3,NA,"male",9.7,849,10.0520878277585,45.0370335067184,"Spring",13979
+12,-95.1981074,38.812209,NA,1965,"Cardinalis cardinalis","Cardinalis_cardinalis",46.3,NA,"male",12.7,1064,9.8500999841103,104.20403284051,"Winter",14118
+1,-79.46643,44.00005,"ad",1970,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",46.3,NA,"male",6.6,751,11.0880053948564,34.6840252015426,"Winter",14229
+5,-83.8116288,42.3990429,"fr",1993,"Cardinalis cardinalis","Cardinalis_cardinalis",46.3,NA,"male",8.5,821,10.085284058739,50.4112222049732,"Spring",14315
+2,-83.7263412,42.2708397,NA,2002,"Cardinalis cardinalis","Cardinalis_cardinalis",46.3,NA,"male",10.7,758,9.9001798269557,30.6804186071242,"Winter",14330
+1,-85.47296,38.71366,"adult",2001,"Cardinalis cardinalis","Cardinalis_cardinalis",46.3,NA,"male",13.3,1172,8.73779668503971,51.6436875064848,"Winter",14467
+11,-76.5439,42.448042,NA,2009,"Cardinalis cardinalis","Cardinalis_cardinalis",46.4,211,"male",7.9,908,9.4628460066438,45.7648905223049,"Fall",13791
+12,-95.7356074,37.6789414,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",46.4,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",13835
+1,-79.372722,43.73418,"imm",1968,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",46.4,208,"male",7.2,857,10.5680586503087,42.8319815700503,"Winter",13915
+10,-110.1436111,23.217222,"ad.",1928,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",46.4,NA,"male",22.8,120,3.29024038911776,128.403369284181,"Fall",14658
+3,-95.2681589,38.8621335,NA,1999,"Cardinalis cardinalis","Cardinalis_cardinalis",46.5,NA,"male",13.6,995,9.259867791451,82.5991213938425,"Spring",13849
+12,-84.4134521,42.2468185,NA,1953,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.5,NA,"female",10.3,588,9.39491722672263,32.8220971539497,"Winter",13967
+3,-83.7329865,42.3438278,NA,1942,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.5,NA,"female",9.2,920,10.5036898278653,38.4539683483026,"Spring",14273
+12,-83.9135742,42.6056632,NA,1949,"Cardinalis cardinalis","Cardinalis_cardinalis",46.5,NA,"female",9.7,787,9.87543631563904,23.6483054374741,"Winter",14299
+9,-83.8291473,42.4761353,NA,1985,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.5,NA,"male",8.5,976,10.6136561546762,37.3020181684659,"Fall",14303
+2,-83.6042404,42.3037217,NA,1991,"Cardinalis cardinalis","Cardinalis_cardinalis",46.5,NA,"female",10.6,788,10.0367921653134,46.556062108438,"Winter",14312
+11,-76.410842,42.407817,NA,2003,"Cardinalis cardinalis","Cardinalis_cardinalis",46.5999984741211,NA,NA,7.3,1141,10.2035495903349,35.8710019888167,"Fall",14643
+11,-83.6042404,42.3037217,NA,2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.6,NA,"male",9.4,964,10.2640111185844,46.7705650186422,"Fall",14031
+1,-84.1383333,42.3818333,NA,2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.6,NA,"male",9,958,10.3216747525278,45.7450941234537,"Winter",14592
+1,-84.1019726,42.3267922,NA,2013,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.7,NA,"female",9,933,10.3040445133614,54.7313835562576,"Winter",14038
+12,-95.5360794,38.0056315,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",46.7,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",14152
+3,-85.47296,38.71366,"adult",2005,"Cardinalis cardinalis","Cardinalis_cardinalis",46.7,NA,"male",13.3,1131,9.63907373269042,49.4337487557365,"Spring",14468
+1,-84.1383333,42.3818333,NA,2009,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.7,NA,"female",8.7,946,10.011569065412,43.7346532359645,"Winter",14593
+1,-83.8833333,42.4,NA,1979,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.7,NA,"female",8,746,10.7358222222557,50.3607014750575,"Winter",14801
+1,-83.8069143,36.3411805,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.8,NA,"female",14.4,1303,7.94816540676736,43.0876878187572,"Winter",14083
+1,-83.7500668,42.6573812,NA,1992,"Cardinalis cardinalis","Cardinalis_cardinalis",46.8,NA,"female",8.2,817,8.67550976582758,36.0154908730933,"Winter",14314
+12,-85.47296,38.71366,"U-Ad.",1984,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.8,NA,"male",12.6,1192,9.26381032935054,47.1395683737697,"Winter",14453
+3,-88.65,33.4166667,NA,1939,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",46.8,NA,"male",17.9,1435,7.39176445905724,59.3152460690126,"Spring",14550
+6,-109.7747222,23.441944,"ad.",1929,"Cardinalis cardinalis igneus","Cardinalis_cardinalis",46.8,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",14664
+2,-95.2798841,38.9041998,NA,1986,"Cardinalis cardinalis","Cardinalis_cardinalis",46.9,NA,"male",13.4,1185,9.71488626549561,84.5048522273298,"Winter",13845
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",46.9,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",14137
+12,-94.7095603,37.0442608,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",46.9,NA,"female",14,817,9.38708009592295,47.5713378639071,"Winter",14154
+12,-95.5360794,38.0056315,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",47,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",13814
+12,-83.7263412,42.2708397,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47,NA,"female",10.4,686,9.65898859125844,50.0000629664573,"Winter",13980
+5,-83.7263412,42.2708397,NA,1960,"Cardinalis cardinalis","Cardinalis_cardinalis",47,NA,"female",8.9,691,10.5845048265964,64.2066606677382,"Spring",13984
+6,-76.5095,42.4381,"juv.",1990,"Cardinalis cardinalis","Cardinalis_cardinalis",47,202,"male",10.7,1041,8.0643435172143,43.5887460754602,"Summer",14089
+12,-76.432222,42.404308,NA,2009,"Cardinalis cardinalis","Cardinalis_cardinalis",47,202,"male",8,923,9.45578226176016,46.6739004649463,"Winter",14106
+12,-95.7356074,37.6789414,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",47,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",14143
+12,-95.7356074,37.6789414,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",47,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",14147
+5,-96.9861031,37.252877,NA,1969,"Cardinalis cardinalis","Cardinalis_cardinalis",47,NA,"male",14.2,908,10.0752133596477,60.9503282395822,"Spring",14167
+12,-91.093203,30.312878,"AHY",2012,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",47,NA,"male",21.4,1705,5.5263213146475,76.9749382304365,"Winter",14178
+11,-79.478597,43.643272,NA,1943,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",47,NA,"male",6.9,782,10.6213193268268,35.6383630781103,"Fall",14251
+6,-76.439543,42.399675,NA,1992,"Cardinalis cardinalis","Cardinalis_cardinalis",47,197,"male",7.6,1046,8.88278467803671,45.260880506187,"Summer",14416
+12,-94.1166667,36.45,NA,1934,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47,NA,"male",15.2,969,9.6113096260225,71.3360480151834,"Winter",14553
+10,-80.02545,43.82285,"imm",1952,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",47,NA,"male",6.6,825,9.51357483076714,33.5270504286207,"Fall",14679
+4,-83.9175,42.4196,"u ad.",1935,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.1,NA,"male",8.4,653,10.1940676450333,44.0763982295502,"Spring",13902
+8,-76.5107561,39.0216968,"juv",1966,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.1,NA,"male",13,1007,9.34654368137649,54.3266189375754,"Summer",13955
+4,-83.7263412,42.2708397,NA,1963,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.1,NA,"female",8.8,439,11.2148541918945,54.4367135765739,"Spring",14292
+1,-83.983,42.599,NA,2001,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.1,NA,"male",9.8,886,9.4059418680025,52.9141980591344,"Winter",14338
+2,-83.8009858,42.1985042,NA,2010,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.1,NA,"female",10.6,919,10.8806298558772,70.2805733314825,"Winter",14347
+10,-93.2419202,29.8251898,"Skull fully ossified",1990,NA,"Cardinalis_cardinalis",47.1,NA,"male",20.8,1313,5.91828189646798,41.4837566829492,"Fall",14406
+1,-79.97972,43.63902,"ad",1986,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.1,NA,"male",6.9,1024,9.56978752811855,59.9799869278424,"Winter",14503
+12,-85.42765,38.75516,"U",1987,"Cardinalis cardinalis","Cardinalis_cardinalis",47.1,NA,"male",13.2,836,9.09150452595469,65.6798089516445,"Winter",14619
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",47.2,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",13819
+1,-83.8405699,42.3234607,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.2,NA,"female",8.7,622,11.5740403097151,61.899630572208,"Winter",14376
+8,-76.39509,42.38263,NA,2011,"Cardinalis cardinalis","Cardinalis_cardinalis",47.3,183,"undetermined",9.1,1365,10.0607661314393,49.6485986786004,"Summer",14110
+12,-85.47299,38.7136,"adult",2006,"Cardinalis cardinalis","Cardinalis_cardinalis",47.3,NA,"male",13.5,1545,8.13307873421681,31.4279741060155,"Winter",14475
+9,-79.97972,43.63902,"juv",1987,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.3,NA,"male",7.9,793,9.66886599850105,41.182087134131,"Fall",14508
+10,-83.7343597,42.3291083,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.4,NA,"male",9,860,10.1415437232657,59.7541548725622,"Fall",14062
+12,-97.1520996,37.3524199,"adult",1967,"Cardinalis cardinalis","Cardinalis_cardinalis",47.5,NA,"male",14.5,778,8.47073393120887,90.9306091561202,"Winter",13854
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",47.5,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",14136
+12,-83.7263412,42.2708397,NA,1993,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.5,NA,"male",8.8,845,10.0431003000251,46.4116604466192,"Winter",14316
+5,-83.9114456,42.4281349,NA,1935,"Cardinalis cardinalis","Cardinalis_cardinalis",47.5,NA,"male",8.4,652,10.1940676450333,44.0763982295502,"Spring",14378
+11,-76.4509,42.4793,NA,1993,"Cardinalis cardinalis","Cardinalis_cardinalis",47.5,195,"female",7.6,963,10.3691084038556,45.5222482620103,"Fall",14480
+11,-84.1383333,42.3818333,"immature",2007,"Cardinalis cardinalis","Cardinalis_cardinalis",47.5,NA,"male",9.7,887,10.7470926301023,50.0748701674525,"Fall",14594
+1,-76.4646,42.5052,NA,1991,"Cardinalis cardinalis","Cardinalis_cardinalis",47.5999984741211,208,"male",9.4,796,9.52067924747669,31.2181679349222,"Winter",14092
+2,-95.2798841,38.9041998,NA,1987,"Cardinalis cardinalis","Cardinalis_cardinalis",47.6,NA,"male",13.8,1010,9.58979887298177,59.9095899022682,"Winter",13844
+11,-95.2170732,39.0331723,NA,1949,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.6,NA,"male",12.4,1111,10.1827356864747,57.0589101994055,"Fall",14114
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",47.6,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",14135
+1,-83.7974687,36.3366651,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.7,NA,"female",14.4,1301,7.94310736081633,43.1322988465877,"Winter",14081
+1,-83.8069143,36.3411805,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.7,NA,"male",14.4,1303,7.94816540676736,43.0876878187572,"Winter",14082
+11,-85.47296,38.71366,"U-Ad.",1984,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.7,NA,"male",12.6,1192,9.26381032935054,47.1395683737697,"Fall",14452
+11,-85.4181862,43.5654667,NA,2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",47.8,NA,"male",9.8,826,9.2117966200789,46.8706825334025,"Fall",14043
+12,-99.14,30.00345,"unknown",1939,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",47.8,NA,"male",19.3,653,7.48843047033829,64.6278435801135,"Winter",14221
+5,-98.2666667,29.4666667,NA,1946,"Cardinalis cardinalis canicaudus","Cardinalis_cardinalis",47.8,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Spring",14711
+9,-76.432222,42.404308,NA,2006,"Cardinalis cardinalis","Cardinalis_cardinalis",47.9,189.5,"male",9.5,1136,8.55967908630961,51.6016822043504,"Fall",14111
+10,-82.4333333,42.9666667,NA,1987,"Cardinalis cardinalis","Cardinalis_cardinalis",47.9,NA,"female",10,815,9.63479725691299,41.7643292895577,"Fall",14745
+12,-91.093203,30.312878,"AHY",2009,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",48,NA,"female",20.4,1556,6.63276417536917,67.6703175623237,"Winter",13867
+3,-95.1819,38.8251,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",48,NA,"male",12.2,1199,8.92767233568377,84.4264068986605,"Spring",14141
+1,-83.95,42.45,NA,1953,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48,NA,"male",10.2,567,9.47725746674158,41.6329073884431,"Winter",14721
+11,-72.8689,41.2761,"immature",1977,"Cardinalis cardinalis","Cardinalis_cardinalis",48,NA,"female",10.9,1287,9.46902446096873,38.5224444555419,"Fall",14778
+11,-85.4156756,43.5674568,NA,2000,"Cardinalis cardinalis","Cardinalis_cardinalis",48.1,NA,"male",7.6,931,9.77533615635273,41.7732501627268,"Fall",14007
+12,-83.7268066,42.4283983,"immature",1948,"Cardinalis cardinalis","Cardinalis_cardinalis",48.1,NA,"male",8.9,709,10.4639641367192,43.1697035632357,"Winter",14287
+10,-85.4156756,43.5674568,"immature",2000,"Cardinalis cardinalis","Cardinalis_cardinalis",48.1,NA,"male",7.6,931,9.77533615635273,41.7732501627268,"Fall",14328
+12,-91.096093,30.310774,"AHY",1999,"Cardinalis cardinalis magnirostris","Cardinalis_cardinalis",48.2,NA,"male",20.5,1257,6.10267576683798,56.0725007283098,"Winter",13862
+7,-108.7374593,32.6860419,"unknown",1963,"Cardinalis cardinalis superbus","Cardinalis_cardinalis",48.2,NA,"male",15.5,298,7.9601850138389,143.477554605826,"Summer",14205
+2,-83.7833333,42.1666667,NA,1978,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.2,NA,"male",8.1,747,11.4776726602988,38.7673614121857,"Winter",14563
+12,-85.4181862,43.5654667,NA,2009,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.3,NA,"male",7.4,990,9.85120743253272,48.4035130453512,"Winter",14027
+11,-84.0185811,36.2366714,"adult",1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.3,NA,"male",13.8,1408,8.37971938490168,57.908015482066,"Fall",14070
+12,-85.4180145,43.565591,NA,1999,"Cardinalis cardinalis","Cardinalis_cardinalis",48.3,NA,"male",8.1,850,9.83744777815256,48.4988236124328,"Winter",14322
+1,-85.42765,38.75516,"U-Ad.",1986,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.3,NA,"female",13,994,9.27443537446628,31.4162421503516,"Winter",14786
+12,-95.7356074,37.6789414,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",48.4,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",14158
+2,-83.7833333,42.1666667,NA,1978,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.4,NA,"male",8.1,747,11.4776726602988,38.7673614121857,"Winter",14562
+12,-85.47296,38.71366,"U-Ad.",1983,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.4,NA,"male",12.7,1230,10.0209288567236,76.7439932356471,"Winter",14613
+2,-95.2598661,38.9549568,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",48.5,NA,"male",12,1211,8.92800751465959,88.1621771403689,"Winter",13828
+10,-83.7263412,42.2708397,"immature",1999,"Cardinalis cardinalis","Cardinalis_cardinalis",48.5,NA,"male",10.2,871,9.96574435785208,44.628272107928,"Fall",14044
+1,-83.7329865,42.3438278,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.5,NA,"female",10.2,691,9.6846136951477,49.2277531135063,"Winter",14386
+3,-88.65,33.4166667,NA,1939,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.5,NA,"female",17.9,1435,7.39176445905724,59.3152460690126,"Spring",14549
+12,-95.7356074,37.6789414,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",48.6,NA,"female",13.4,568,9.84822318999727,76.706214828175,"Winter",13837
+1,-83.4833333,42.2,NA,1992,"Cardinalis cardinalis","Cardinalis_cardinalis",48.6,NA,"female",8.8,966,8.52946319672243,44.9969227326541,"Winter",14746
+2,-83.6333333,42.2666667,NA,1996,"Cardinalis cardinalis","Cardinalis_cardinalis",48.6,NA,"female",9.3,802,10.3989364258023,43.3767847419037,"Winter",14751
+10,-83.6333333,42.2666667,"adult",1997,"Cardinalis cardinalis","Cardinalis_cardinalis",48.6,NA,"male",9,931,9.47580651400761,37.3870741048263,"Fall",14752
+12,-83.7833333,42.5333333,"fr",1990,"Cardinalis cardinalis","Cardinalis_cardinalis",48.7,NA,"female",9.6,1016,8.7087208120262,32.8160707595862,"Winter",14575
+12,-95.7356074,37.6789414,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",48.8,NA,"female",13.6,1059,8.65326615512982,91.6152771560625,"Winter",14145
+2,-85.42765,38.75516,"U-Ad",1990,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.8,NA,"male",13.2,1499,7.52045191259787,44.7710789910869,"Winter",14622
+12,-83.7263412,42.2708397,NA,2005,"Cardinalis cardinalis","Cardinalis_cardinalis",48.9,NA,"male",9.9,834,10.9583370780037,57.4672335500996,"Winter",14014
+2,-83.8405699,42.3234607,NA,1936,"Cardinalis cardinalis","Cardinalis_cardinalis",48.9,NA,"male",8.7,622,11.5740403097151,61.899630572208,"Winter",14058
+1,-78.3058986,35.3708791,"AHY",2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",48.9,NA,"male",17.5,1222,7.18780005961279,45.0231957919693,"Winter",14186
+12,-83.9166667,42.6166667,NA,1982,"Cardinalis cardinalis","Cardinalis_cardinalis",48.9,NA,"female",8.4,754,10.5162644594846,46.5133219866939,"Winter",14741
+2,-76.5095,42.4381,"ad.",1991,"Cardinalis cardinalis","Cardinalis_cardinalis",48.9000015258789,205,"male",10.6,719,9.41613701916218,32.7397887157664,"Winter",14409
+1,-95.1941611,38.8069025,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",49,NA,"male",12,1199,8.884136355768,84.1010178253019,"Winter",13817
+5,-83.7263412,42.2708397,NA,1941,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49,NA,"female",10.3,683,10.3579862322692,48.7778988168438,"Spring",13976
+2,-83.7263412,42.2708397,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49,NA,"male",10.4,686,9.65898859125844,50.0000629664573,"Winter",13977
+1,-83.7329865,42.3438278,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49,NA,"male",10.2,691,9.6846136951477,49.2277531135063,"Winter",14065
+12,-90.743721,39.0683479,NA,1961,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49,NA,"male",11.8,1208,9.61849150271906,59.1733496372866,"Winter",14116
+12,-84.4134521,42.2468185,NA,1953,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49,NA,"male",10.3,588,9.39491722672263,32.8220971539497,"Winter",14281
+2,-83.7329865,42.3438278,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49,NA,"male",8.7,617,11.5544921082144,63.4430279595731,"Winter",14377
+3,-83.6333333,42.2666667,NA,2007,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49,NA,"female",10.2,880,10.6593926428832,44.9787739008102,"Spring",14758
+2,-83.6342812,42.3037217,NA,2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.1,NA,"male",11.5,673,9.19528864872296,38.4676172352483,"Winter",14032
+2,-83.7178802,42.2842305,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.1,NA,"male",9,619,11.5815259108739,63.5452495706186,"Winter",14050
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",49.1,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",14130
+2,-80.032799,43.266624,"ad",1972,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",49.1,NA,"male",6.7,970,9.88501697550695,22.1416804266537,"Winter",14238
+2,-83.6333333,42.2666667,"adult",1995,"Cardinalis cardinalis","Cardinalis_cardinalis",49.2,NA,"male",9.9,814,10.7986075140466,42.9366717945106,"Winter",14579
+3,-83.6113889,42.3188889,NA,1947,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.2,NA,"female",8.8,765,10.6495838587072,58.456370491652,"Spring",14714
+1,-83.8166667,42.25,NA,1994,"Cardinalis cardinalis","Cardinalis_cardinalis",49.2,NA,"male",9.6,827,10.471418531441,40.4169165198898,"Winter",14749
+12,-76.450248,42.473805,"ad.",1995,"Cardinalis cardinalis","Cardinalis_cardinalis",49.2000007629395,205,"male",8.1,810,10.5348196112902,54.6465083030282,"Winter",14100
+12,-94.7711563,37.0235245,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",49.3,NA,"female",14.1,818,9.36833399373559,48.1183441872257,"Winter",13815
+2,-95.2827072,38.9560717,"ad",1966,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.3,NA,"female",12.1,692,9.93208376317819,97.5685434862534,"Winter",13951
+1,-84.1383333,42.3818333,NA,2004,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.3,NA,"female",9.2,863,10.0040408502431,64.2426751530035,"Winter",14587
+1,-83.6917448,42.7487139,NA,1986,"Cardinalis cardinalis","Cardinalis_cardinalis",49.4,NA,"male",8.6,890,10.1651327705261,68.9158439207849,"Winter",13986
+1,-79.12849,43.97075,"ad",1969,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.4,NA,"male",6.8,715,10.2062666429934,40.0602413332969,"Winter",14504
+2,-72.52232,42.43748,"Adult",1998,"Cardinalis cardinalis","Cardinalis_cardinalis",49.4,215,"male",9.8,1102,8.50892579482382,57.3879567679476,"Winter",14640
+2,-76.451,42.4799,NA,2013,"Cardinalis cardinalis","Cardinalis_cardinalis",49.5,200,"female",8.4,1091,9.73227604261701,46.0327443353956,"Winter",13795
+2,-83.7833333,42.1666667,NA,1978,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.5,NA,"male",8.1,747,11.4776726602988,38.7673614121857,"Winter",14561
+2,-99.2464304,37.327426,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",49.6,NA,"female",14.3,493,8.88420457379786,88.7124887952805,"Winter",14140
+5,-83.6422,42.30201,NA,1942,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.6,NA,"female",9.4,905,10.457891756946,34.4116054483883,"Spring",14272
+2,-85.1796951,42.3211403,NA,1957,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.6,NA,"in question",9.1,958,9.70411893179511,35.2698480173915,"Winter",14284
+1,-85.47296,38.71366,"U-Ad.",1987,"Cardinalis cardinalis","Cardinalis_cardinalis",49.6,NA,"male",13.4,838,9.11143138141213,65.364965067181,"Winter",14621
+11,-89,36.55,NA,1948,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.6,NA,"male",15,1323,9.27993518133058,53.0820109152964,"Fall",14742
+1,-84.1383333,42.3818333,"adult",2005,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.7,NA,"female",9.4,740,10.9539947051293,53.2312942359986,"Winter",14585
+12,-94.7095603,37.0442608,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",49.8,NA,"female",14,817,9.38708009592295,47.5713378639071,"Winter",13831
+12,-79.07564,43.98459,"imm",1971,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",49.8,NA,"male",6.8,743,10.4784916795686,42.6293087024637,"Winter",13927
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",49.9,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",13818
+12,-83.7268066,42.4283983,"adult",1948,"Cardinalis cardinalis","Cardinalis_cardinalis",49.9,NA,"male",8.9,709,10.4639641367192,43.1697035632357,"Winter",13973
+2,-83.7263412,42.2708397,NA,1997,"Cardinalis cardinalis","Cardinalis_cardinalis",49.9,NA,"female",8.8,966,9.51882902780621,35.8510146973812,"Winter",14319
+12,-85.4156756,43.5674568,NA,2000,"Cardinalis cardinalis","Cardinalis_cardinalis",49.9,NA,"male",7.6,931,9.77533615635273,41.7732501627268,"Winter",14329
+12,-83.829,42.405,"immature",2006,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",49.9,NA,"male",10.2,1094,8.81026863003242,29.2648631435532,"Winter",14759
+2,-99.2464304,37.327426,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",50,NA,"male",14.3,493,8.88420457379786,88.7124887952805,"Winter",13827
+2,-95.3898296,38.8389833,"ad",1966,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",50,NA,"male",12.1,698,9.97905382045388,92.731940959168,"Winter",13954
+12,-84.0221481,42.4342346,NA,1935,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",50,NA,"male",8.3,669,10.1760376583542,43.8447379759677,"Winter",14051
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",50,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",14134
+12,-95.7356074,37.6789414,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",50,NA,"female",13.4,568,9.84822318999727,76.706214828175,"Winter",14146
+11,-79.372722,43.73418,"ad",1945,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",50,NA,"female",7,1001,10.2890792355367,43.2918216084957,"Fall",14254
+2,-93.470993,32.7959329,"adult",1994,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",50,NA,"female",18.2,1350,7.45757190966864,50.8430124760202,"Winter",14317
+12,-95.5360794,38.0056315,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",50.1,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",14153
+12,-83.7263412,42.2708397,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",50.2,NA,"female",10.4,686,9.65898859125844,50.0000629664573,"Winter",14296
+2,-84.1383333,42.3818333,NA,2008,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",50.3,NA,"male",9,958,10.3216747525278,45.7450941234537,"Winter",14761
+12,-95.7356074,37.6789414,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",50.4,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",13829
+1,-95.1941611,38.8069025,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",50.4,NA,"male",12,1199,8.884136355768,84.1010178253019,"Winter",13836
+2,-83.7263412,42.2708397,NA,1955,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",50.5,NA,"male",10.1,635,10.9436123613344,52.1311958502556,"Winter",14283
+3,-84.1386223,42.3530892,NA,1950,"Cardinalis cardinalis","Cardinalis_cardinalis",50.7,NA,"male",8.2,1003,10.0870604181192,33.8452141016957,"Spring",13982
+2,-85.47296,38.71366,"Adult",2004,"Cardinalis cardinalis","Cardinalis_cardinalis",50.7,NA,"male",13.1,1388,9.10239312522046,57.9766327262872,"Winter",14637
+1,-83.7263412,42.2708397,"adult",1997,"Cardinalis cardinalis","Cardinalis_cardinalis",50.9,NA,"male",8.8,966,9.51882902780621,35.8510146973812,"Winter",14001
+1,-79.208522,43.742088,"ad",1955,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",51,NA,"male",8.3,716,11.0590529212565,44.8423093907694,"Winter",14253
+2,-76.4509,42.4793,NA,1996,"Cardinalis cardinalis","Cardinalis_cardinalis",51,201,"male",7.6,1177,10.1685641547712,31.9868131721417,"Winter",14481
+1,-83.7329865,42.3438278,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",51.1,NA,"male",10.2,691,9.6846136951477,49.2277531135063,"Winter",14385
+12,-85.3360833,43.7110833,"immature",2012,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",51.1,NA,"male",9.6,802,9.25812910611288,47.4099261637925,"Winter",14595
+2,-99.2464304,37.327426,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",51.2,NA,"male",14.3,493,8.88420457379786,88.7124887952805,"Winter",13825
+1,-83.6333333,42.2666667,NA,1996,"Cardinalis cardinalis","Cardinalis_cardinalis",51.2,NA,"female",9.3,802,10.3989364258023,43.3767847419037,"Winter",14581
+1,-76.427074,42.430475,NA,1995,"Cardinalis cardinalis","Cardinalis_cardinalis",51.2000007629395,210,"female",8.1,823,10.5606007347493,54.5196341597786,"Winter",14096
+1,-83.7263412,42.2708397,NA,1952,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",51.23,NA,"male",10.3,678,9.69596526521431,36.7749765740153,"Winter",14278
+6,-86.564493,41.976731,NA,1977,"Cardinalis cardinalis","Cardinalis_cardinalis",51.4,NA,"female",9.6,929,11.0667670678177,49.7874088217176,"Summer",13985
+2,-95.3898296,38.8389833,"ad",1966,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",51.4,NA,"male",12.1,698,9.97905382045388,92.731940959168,"Winter",14261
+9,-76.432222,42.404308,NA,2003,"Cardinalis cardinalis","Cardinalis_cardinalis",51.5,207,"male",7.6,1123,10.1661947232736,35.3248173523237,"Fall",14104
+12,-94.7095603,37.0442608,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",51.5,NA,"male",14,817,9.38708009592295,47.5713378639071,"Winter",14155
+1,-95.3898296,38.8389833,"ad",1965,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",51.5,NA,"female",12.8,1063,9.91761136320209,104.595581980997,"Winter",14262
+12,-83.7263412,42.2708397,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",51.5,NA,"male",10.4,686,9.65898859125844,50.0000629664573,"Winter",14294
+1,-83.6042404,42.3037217,NA,1989,"Cardinalis cardinalis","Cardinalis_cardinalis",51.6,NA,"male",8.7,840,10.4849784323704,44.0147552173208,"Winter",13993
+3,-95.3019171,39.9750312,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",51.7,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",14133
+1,-95.288887,39.0421862,"imm",1966,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",51.7,NA,"male",12.1,661,9.94464984833858,101.139984419632,"Winter",14260
+12,-94.7711563,37.0235246,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",51.9,NA,"male",14.1,818,9.36833399373559,48.1183441872257,"Winter",14127
+2,-79.378901,43.746156,NA,1934,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",52,NA,"male",6.9,638,11.5111902077935,36.9313811066613,"Winter",13945
+12,-79.65977,43.55051,NA,1938,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",52,NA,"male",8.2,714,9.94312233748443,47.569571726912,"Winter",14245
+11,-82.4333333,42.9666667,NA,1989,"Cardinalis cardinalis","Cardinalis_cardinalis",52,NA,"male",8.3,736,10.4176532866092,42.3250078668238,"Fall",14574
+2,-83.452835,41.7672146,NA,1933,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",52.2,NA,"male",10.7,690,10.3305775895316,52.1027182233542,"Winter",13970
+2,-95.15831,38.79918,NA,1965,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",52.3,NA,"male",12.8,1066,9.87728876429829,102.289105387399,"Winter",13801
+12,-95.5360794,38.0056315,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",52.3,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",13830
+12,-95.7356074,37.6789414,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",52.3,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",14156
+1,-83.6333333,42.2666667,NA,1986,"Cardinalis cardinalis","Cardinalis_cardinalis",52.3,NA,"male",9.6,887,10.0044952017793,54.1185119364783,"Winter",14573
+2,-83.9166667,42.6166667,NA,1979,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",52.3,NA,"male",7.8,687,10.8084843217416,50.6912848803578,"Winter",14740
+1,-83.7833333,42.5333333,NA,1986,"Cardinalis cardinalis","Cardinalis_cardinalis",52.6,NA,"male",8.7,851,10.1192286207392,60.9436797477467,"Winter",14572
+2,-83.8166667,42.25,NA,1949,"Cardinalis cardinalis","Cardinalis_cardinalis",52.8,NA,"female",10.2,819,9.72779133423534,22.9563580114142,"Winter",14789
+1,-85.47296,38.71366,"U-Ad.",1984,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",52.9,NA,"male",12.6,1192,9.26381032935054,47.1395683737697,"Winter",14785
+2,-83.7536,42.3083,"unknown",1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",53,NA,"male",9,618,11.5640377765281,63.6526901701889,"Winter",13908
+12,-83.7263412,42.2708397,NA,1937,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",53,NA,"male",9.1,869,10.1089819047971,60.2853375909974,"Winter",14064
+7,-71.588289,42.666335,NA,2004,"Cardinalis cardinalis","Cardinalis_cardinalis",53,95,NA,8.6,1242,9.8003710504895,56.798027750132,"Summer",14172
+1,-84.4134521,42.2468185,NA,1954,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",53,NA,"male",9.6,892,9.5986741508682,44.8493304979235,"Winter",14282
+2,-76.439261,42.45476,NA,1947,"Cardinalis cardinalis","Cardinalis_cardinalis",53,NA,"male",8.5,995,10.3833017169614,56.2124814520479,"Winter",14478
+12,-95.7356074,37.6789414,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",53.2,NA,"male",13.4,568,9.84822318999727,76.706214828175,"Winter",14142
+11,-83.8286877,42.4761169,NA,1989,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",53.3,NA,"male",8.1,820,10.5526673347921,47.9165435284979,"Fall",13990
+1,-83.7833333,42.1666667,NA,1978,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",53.3,NA,"male",8.1,747,11.4776726602988,38.7673614121857,"Winter",14739
+1,-95.1941611,38.8069025,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",53.4,NA,"male",12,1199,8.884136355768,84.1010178253019,"Winter",14157
+2,-95.2419989,38.9935223,NA,1996,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",54,NA,"female",12.5,1195,10.3213334527291,83.5329063457015,"Winter",14164
+12,-79.85733,44.15323,"ad",1995,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",54,NA,"male",6.8,923,10.5477126631437,40.2030495457597,"Winter",14244
+1,-79.91644,43.65006,"ad",1977,"Cardinalis cardinalis ssp?","Cardinalis_cardinalis",54.9,NA,"male",7.1,949,10.4772336159133,40.0201409881847,"Winter",13933
+1,-95.4166667,38.95,NA,2003,"Cardinalis cardinalis","Cardinalis_cardinalis",55,NA,"male",12.9,789,10.2036646714439,77.7063730801099,"Winter",13850
+2,-86.4715,38.73252,"adult",2001,"Cardinalis cardinalis","Cardinalis_cardinalis",55.2,NA,"female",13.4,1140,8.71325618430523,45.7159944998471,"Winter",14472
+12,-83.7263412,42.2708397,NA,1983,"Cardinalis cardinalis","Cardinalis_cardinalis",55.7,NA,"male",9.6,933,10.4893452434536,45.8653753978826,"Winter",14300
+12,-83.7263412,42.2708397,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",56.2,NA,"male",10.4,686,9.65898859125844,50.0000629664573,"Winter",13978
+12,-83.7263412,42.2708397,NA,1938,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",56.2,NA,"male",10.4,686,9.65898859125844,50.0000629664573,"Winter",14293
+12,-94.7095603,37.0442608,NA,1966,"Cardinalis cardinalis","Cardinalis_cardinalis",56.4,NA,"male",14,817,9.38708009592295,47.5713378639071,"Winter",13833
+2,-83.7666667,42.3166667,NA,1936,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",56.5,NA,"male",8.9,619,11.5723285417753,63.4109041671084,"Winter",14552
+1,-84.8833333,39.8333333,"adult",1994,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",56.5,NA,"male",10.5,811,9.92756722007416,46.8692421191,"Winter",14748
+12,-84.1019726,42.3267922,NA,2011,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",57,NA,"male",9.7,1063,10.5086220011777,43.4061090594874,"Winter",14355
+2,-76.45219,42.477118,NA,1993,"Cardinalis cardinalis","Cardinalis_cardinalis",57.5,201,"male",7.6,962,10.3691084038556,45.6896078405754,"Winter",13776
+2,-76.45219,42.477118,NA,1993,"Cardinalis cardinalis","Cardinalis_cardinalis",57.5,NA,"male",7.6,962,10.3691084038556,45.6896078405754,"Winter",14091
+12,-95.7356074,37.6789414,NA,1967,"Cardinalis cardinalis","Cardinalis_cardinalis",58.3,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",14144
+1,-83.7263412,42.2708397,NA,1943,"Cardinalis cardinalis cardinalis","Cardinalis_cardinalis",59,NA,"male",8.7,801,10.592232002174,59.9867745208329,"Winter",13959

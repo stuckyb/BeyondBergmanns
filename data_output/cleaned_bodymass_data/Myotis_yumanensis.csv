@@ -1,0 +1,221 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-122.5386,47.0044,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",1.65,70,"female",11.3,1259,4.69050459261403,76.6134698001403,"Summer",72714
+6,-103.53,29.14,NA,1969,"Myotis yumanensis yumanensis","Myotis_yumanensis",2.5,74,"male",21.4,219,8.01901150108575,134.68386894119,"Summer",72717
+5,-117.2786,48.3139,"unknown",1994,"Myotis yumanensis","Myotis_yumanensis",2.7,63,"undetermined",8.7,509,8.43405793988477,61.453103392784,"Spring",72598
+8,-122.7372,47.2519,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",2.7,67,"male",12.1,1385,4.89380406042357,82.7538967314372,"Summer",72704
+8,-122.3983,45.5872,"unknown",1994,"Myotis yumanensis","Myotis_yumanensis",2.9,71,"female",12.4,1159,6.10476713873525,75.1724986897736,"Summer",72686
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",3,74,"male",14.6,309,7.95762927236269,151.226430654425,"Summer",72768
+7,-121.5269,45.9975,"unknown",1984,"Myotis yumanensis","Myotis_yumanensis",3.1,69,"male",7.3,1179,6.5595812412536,83.6230314914391,"Summer",72684
+9,-121.5563333,39.5136667,NA,2005,"Myotis yumanensis sociabilis","Myotis_yumanensis",3.25,72,"male",16.8,808,6.87896992817437,141.372932465032,"Fall",72671
+8,-122.635,47.5406,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",3.3,72,"male",12,1491,4.8752544611134,82.8779005654046,"Summer",72606
+8,-119.5822,48.3614,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",3.35,74,"male",10.3,333,8.86390364787365,69.7518696206739,"Summer",72700
+6,-108.0062259126,38.3902055807,NA,1997,"Myotis yumanensis yumanensis","Myotis_yumanensis",3.4,80,"male",7.4,468,8.22934052367171,59.1615555401969,"Summer",72761
+6,-108.964858,39.477091,NA,2006,"Myotis yumanensis yumanensis","Myotis_yumanensis",3.5,66,"male",9.5,429,9.66474380039496,88.4806276875458,"Summer",72646
+7,-122.0969,47.9131,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",3.5,75,"female",11.8,1097,4.83944493436254,63.0280822431918,"Summer",72706
+7,-103.25045,29.2502,NA,1968,"Myotis yumanensis yumanensis","Myotis_yumanensis",3.5,65,"male",15.9,556,6.05121450369238,75.5330278398052,"Summer",72719
+5,-111.95,33.882661,NA,1965,"Myotis yumanensis","Myotis_yumanensis",3.5,80,"male",18.5,630,7.47332630497331,87.3994567429641,"Spring",72752
+6,-106.2,26.7,NA,1963,"Myotis yumanensis","Myotis_yumanensis",3.5,75,"male",17.4,439,4.81313701018243,127.134224224548,"Summer",72781
+8,-122.4869,48.7597,"unknown",1994,"Myotis yumanensis","Myotis_yumanensis",3.55,72,"male",10.9,782,5.11148439567928,62.2050025701072,"Summer",72709
+8,-122.0969,47.9131,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",3.7,74,"male",11.8,1097,4.83944493436254,63.0280822431918,"Summer",72705
+8,-122.5897,48.8467,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",3.8,72,"female",10.9,980,4.87394899315522,74.5712061803045,"Summer",72615
+7,-122.7458,48.9939,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",3.8,55,"female",10.7,1338,4.92848092645434,74.2243792353576,"Summer",72712
+8,-102.992108,29.181747,NA,1971,"Myotis yumanensis yumanensis","Myotis_yumanensis",3.8,75,"male",21.3,268,6.78532284129547,120.832688832685,"Summer",72716
+8,-102.992108,29.181747,NA,1971,"Myotis yumanensis yumanensis","Myotis_yumanensis",3.8,78,"male",21.3,268,6.78532284129547,120.832688832685,"Summer",72718
+6,-103.53,29.14,NA,1969,"Myotis yumanensis yumanensis","Myotis_yumanensis",3.8,79,"female",21.4,219,8.01901150108575,134.68386894119,"Summer",72763
+8,-122.7169,46.5753,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",3.9,67,"female",11.4,1589,4.95237928737901,72.8271422081497,"Summer",72607
+8,-122.4869,48.7597,"unknown",1993,"Myotis yumanensis","Myotis_yumanensis",3.9,70,"male",10.2,745,5.70583831781894,52.7443651228938,"Summer",72711
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",3.9,71,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72770
+7,-122.4869,48.7597,"unknown",1994,"Myotis yumanensis","Myotis_yumanensis",3.95,76,"male",10.9,782,5.11148439567928,62.2050025701072,"Summer",72613
+4,-107.4689,33.01215,NA,2013,"Myotis yumanensis","Myotis_yumanensis",4,81,"female",15.8,253,8.41313457240126,144.339686941785,"Spring",72578
+8,-121.88513,37.65924,NA,2005,"Myotis yumanensis oxalis","Myotis_yumanensis",4,74,"female",15.7,613,4.58180690835554,119.477735260701,"Summer",72580
+7,-121.03272,35.64562,NA,1983,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",4,72,"female",14.5,1624,4.6222780688157,95.7561831199531,"Summer",72623
+7,-108.987517,40.651346,NA,1990,"Myotis yumanensis yumanensis","Myotis_yumanensis",4,85,"male",7.3,294,10.0577725107892,51.7315924902801,"Summer",72644
+6,-121.980593,37.556974,NA,2005,"Myotis yumanensis oxalis","Myotis_yumanensis",4,71,"male",15.4,544,3.48019287170157,119.111878277177,"Summer",72664
+9,-121.755962746,37.6812783727,NA,2005,"Myotis yumanensis oxalis","Myotis_yumanensis",4,65,"male",15.3,484,4.66622292262558,119.576654190549,"Fall",72665
+7,-122.296663,37.8372262,NA,2006,"Myotis yumanensis oxalis","Myotis_yumanensis",4,73,"female",14.3,585,2.99397121501922,111.749525672177,"Summer",72667
+10,-122.199955,39.523132,NA,2006,"Myotis yumanensis saturatus","Myotis_yumanensis",4,76,"male",16.1,477,7.11145043382342,113.682378822586,"Fall",72669
+9,-121.551752,39.522298,NA,2005,"Myotis yumanensis sociabilis","Myotis_yumanensis",4,75,"male",16.8,862,6.86790956683195,142.175339404826,"Fall",72670
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",4,72,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72724
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",4,75,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72727
+7,-102.96,29.18,NA,1969,"Myotis yumanensis yumanensis","Myotis_yumanensis",4,82,"female",21.2,183,8.25153796500257,119.571530895308,"Summer",72765
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",4,70,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72795
+8,-123.6014,46.9814,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.05,80,"male",11.5,2487,4.53277625810723,79.2547274270185,"Summer",72695
+7,-102.96,29.18,NA,1969,"Myotis yumanensis yumanensis","Myotis_yumanensis",4.1,79,"female",21.2,183,8.25153796500257,119.571530895308,"Summer",72715
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",4.1,78,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72771
+7,-122.9531,46.7164,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.15,82,"female",11.8,1443,4.90849603578666,75.7915831815276,"Summer",72697
+8,-117.319356,33.232626,NA,1963,"Myotis yumanensis sociabilis","Myotis_yumanensis",4.2,85,"female",16.2,242,3.72960108355093,101.662970675582,"Summer",72651
+6,-107.53637,33.1793,NA,2013,"Myotis yumanensis","Myotis_yumanensis",4.2,77,"male",14.5,287,8.21379106359321,148.040844582055,"Summer",72656
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",4.2,82,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72723
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",4.2,82,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72725
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",4.2,84,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72772
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",4.2,78,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72773
+9,-107.51829,33.042321,NA,2013,"Myotis yumanensis","Myotis_yumanensis",4.25,75,"male",15.4,270,8.28914953418021,143.552826481913,"Fall",72658
+9,-122.199955,39.523132,NA,2005,"Myotis yumanensis saturatus","Myotis_yumanensis",4.25,77,"male",16.4,591,6.70907910403823,109.678777461185,"Fall",72668
+8,-119.55289,48.38533,"unknown",1994,"Myotis yumanensis","Myotis_yumanensis",4.25,81,"male",10.8,248,9.74711690084755,65.9546648461042,"Summer",72701
+8,-119.9666128,48.6515691,"unknown",1987,"Myotis yumanensis","Myotis_yumanensis",4.3,72,"male",3,671,7.21905622136805,73.8420605881626,"Summer",72594
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",4.3,82,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72726
+8,-117.0472,46.3394,"unknown",1993,"Myotis yumanensis","Myotis_yumanensis",4.35,81,"male",10.7,343,8.49204172901151,53.4421135295306,"Summer",72603
+9,-124.0531,46.3525,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.35,69,"female",11,2118,3.34947983297633,73.0366935243962,"Fall",72609
+7,-122.4839,46.5297,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.35,75,"male",11.1,1729,5.01122981337159,71.3595154919861,"Summer",72698
+8,-107.546454,40.515249,NA,1996,"Myotis yumanensis yumanensis","Myotis_yumanensis",4.4,82,"undetermined",6.6,407,9.73223322965308,39.8447820109358,"Summer",72551
+8,-122.6407,47.1047,"unknown",1992,"Myotis yumanensis","Myotis_yumanensis",4.4,76,"female",11.7,867,5.10469184063826,79.9072107687153,"Summer",72596
+8,-122.0088257,39.4019964,NA,2005,"Myotis yumanensis saturatus","Myotis_yumanensis",4.5,70,"male",16.3,589,6.64244273250025,122.066423552826,"Summer",72581
+10,-121.860451,37.660453,NA,2008,"Myotis yumanensis oxalis","Myotis_yumanensis",4.5,71,"male",15.2,302,5.29731206854147,167.229950328751,"Fall",72584
+9,-120.6699756,48.3186182,"unknown",1991,"Myotis yumanensis","Myotis_yumanensis",4.5,80,"male",9.4,859,8.10716106945339,96.969367143022,"Fall",72683
+6,-122.2791,48.5072,"unknown",1991,"Myotis yumanensis","Myotis_yumanensis",4.5,82,"male",10.7,1002,5.0204732361752,57.5464609691817,"Summer",72685
+7,-123.7317,46.6867,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.5,80,"female",11.2,2242,4.21967792825256,78.7828359081305,"Summer",72702
+6,-110.1575,34.90222,NA,1960,"Myotis yumanensis","Myotis_yumanensis",4.5,83,"female",12,157,10.3086422995759,81.5324235401526,"Summer",72735
+9,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",4.5,78,"female",19.6,784,7.96767617542051,89.3746724266611,"Fall",72746
+8,-103.25045,29.2502,NA,1968,"Myotis yumanensis yumanensis","Myotis_yumanensis",4.5,73,"male",15.9,556,6.05121450369238,75.5330278398052,"Summer",72766
+7,-103.3088,29.2419,NA,1968,"Myotis yumanensis yumanensis","Myotis_yumanensis",4.5,75,"male",15.3,621,5.83430294971824,77.5877933068719,"Summer",72767
+7,-114.13889,34.274628,NA,1968,"Myotis yumanensis","Myotis_yumanensis",4.5,70,"female",22.6,68,8.3603863909547,102.031316811995,"Summer",72787
+8,-122.4869,48.7597,"unknown",1993,"Myotis yumanensis","Myotis_yumanensis",4.6,50,"undetermined",10.2,745,5.70583831781894,52.7443651228938,"Summer",72710
+6,-118.03,36.32,NA,1978,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",4.6,81,"female",14.6,309,7.95762927236269,151.226430654425,"Summer",72721
+4,-110.805747,32.250695,NA,1954,"Myotis yumanensis","Myotis_yumanensis",4.6,78,"female",20.8,337,6.87901397973091,99.8241011167638,"Spring",72777
+9,-122.8744,47.8225,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.65,76,"male",11.8,1027,4.91756283563558,72.8986077589368,"Fall",72616
+8,-123.5478,46.5592,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.7,76,"male",11,2897,4.3462279012607,79.2547999906691,"Summer",72608
+6,-103.53,29.14,NA,1971,"Myotis yumanensis yumanensis","Myotis_yumanensis",4.7,80,"female",21.5,313,6.71801625662237,124.286179309075,"Summer",72762
+9,-107.51829,33.042321,NA,2013,"Myotis yumanensis","Myotis_yumanensis",4.75,80,"male",15.4,270,8.28914953418021,143.552826481913,"Fall",72657
+9,-117.0419,48.1833,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.8,73,"male",8.4,772,7.54193830081719,44.8259098656655,"Fall",72611
+6,-110.991521,32.184155,NA,1958,"Myotis yumanensis","Myotis_yumanensis",4.8,80,"female",20.2,304,7.78473155956873,77.5047622033019,"Summer",72734
+7,-121.556531,41.825367,NA,1978,"Myotis yumanensis sociabilis","Myotis_yumanensis",4.8,94,"male",7.8,291,6.90732483408999,79.9816214972,"Summer",72764
+6,-110.1575,34.90222,NA,1960,"Myotis yumanensis","Myotis_yumanensis",4.8,83,"male",12,157,10.3086422995759,81.5324235401526,"Summer",72780
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",4.8,80,"male",19.6,784,7.96767617542051,89.3746724266611,"Summer",72797
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",4.8,86,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72798
+8,-120.7166667,47.8166667,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.8,70,"male",8,967,7.89249739635783,92.6929728134547,"Summer",72804
+8,-120.7166667,47.8166667,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.8,78,"male",8,967,7.89249739635783,92.6929728134547,"Summer",72805
+9,-122.0297,46.7586,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.85,78,"female",8.8,2323,4.99517191138027,79.345118930218,"Fall",72703
+4,-119.721443,37.090636,NA,1978,"Myotis yumanensis saturatus Miller, 1897","Myotis_yumanensis",4.9,82,"male",16.9,697,7.10997485398102,114.259548218486,"Spring",72562
+9,-109.916149,32.970983,NA,1959,"Myotis yumanensis","Myotis_yumanensis",4.9,74,"female",17.5,248,8.13113637740007,116.128204692649,"Fall",72732
+9,-109.916149,32.970983,NA,1959,"Myotis yumanensis","Myotis_yumanensis",4.9,76,"female",17.5,248,8.13113637740007,116.128204692649,"Fall",72778
+8,-123.8847,47.4633,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",4.95,78,"male",11.3,3919,4.71614731052217,77.9697019781502,"Summer",72597
+3,-114.36285,34.30978,NA,1989,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",5,79,"female",20.1,89,7.98412724590408,201.366481333558,"Spring",72564
+6,-110.757078018,41.864026,NA,2002,"Myotis yumanensis","Myotis_yumanensis",5,94,"male",3.4,299,9.65034149183804,63.1304565598455,"Summer",72572
+7,-110.507355,36.732198,NA,2004,"Myotis yumanensis","Myotis_yumanensis",5,89,"female",10.4,414,9.04813726016509,84.1626472107941,"Summer",72574
+9,-122.190361,39.747628,NA,2005,"Myotis yumanensis saturatus","Myotis_yumanensis",5,77,"female",16.5,708,6.92944420352,113.008344857652,"Fall",72582
+9,-121.5563333,39.5136667,NA,2005,"Myotis yumanensis sociabilis","Myotis_yumanensis",5,81,"female",16.8,808,6.87896992817437,141.372932465032,"Fall",72583
+4,-123.93421,46.41466,"unknown",1989,"Myotis yumanensis","Myotis_yumanensis",5,75,"female",10.4,1660,4.55737830004236,65.8840859186579,"Spring",72593
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",5,73,"male",7.3,878,7.82414193184767,79.7853229076841,"Summer",72632
+7,-108.814723,40.491992,NA,1982,"Myotis yumanensis","Myotis_yumanensis",5,88,"male",6.5,304,10.3601070545539,74.7698559066701,"Summer",72642
+7,-108.814723,40.491992,NA,1982,"Myotis yumanensis","Myotis_yumanensis",5,86,"male",6.5,304,10.3601070545539,74.7698559066701,"Summer",72643
+7,-110.50735,36.732198,NA,2004,"Myotis yumanensis","Myotis_yumanensis",5,89,"female",10.4,414,9.04813726016509,84.1626472107941,"Summer",72645
+5,-108.4897869723,37.256701,NA,2006,"Myotis yumanensis","Myotis_yumanensis",5,93,"male",9.2,463,8.07025965561771,81.9489190764669,"Spring",72647
+9,-107.1865603,33.9435955,NA,1996,"Myotis yumanensis","Myotis_yumanensis",5,68,"male",10.5,428,6.93899826846044,101.724503931874,"Fall",72654
+7,-118.8287,41.586,"adult",2007,"Myotis yumanensis","Myotis_yumanensis",5,84,"female",9.2,150,9.06285709850259,65.7488333805938,"Summer",72655
+5,-122.763115,39.037511,NA,2008,"Myotis yumanensis saturatus","Myotis_yumanensis",5,75,"female",13.5,660,6.77955929559026,183.950330438947,"Spring",72672
+4,-123.9556,46.4365,"unknown",1989,"Myotis yumanensis","Myotis_yumanensis",5,79,"male",10.2,1701,4.57549467436599,65.4258968929864,"Spring",72682
+10,-106.9823611111,32.5237777778,NA,2011,"Myotis yumanensis","Myotis_yumanensis",5,79,"female",17.5,181,9.39114266775139,119.720072758293,"Fall",72728
+5,-102.133333,19.85,NA,1964,"Myotis yumanensis","Myotis_yumanensis",5,79,"male",17.4,1055,2.5595187757929,117.1391932797,"Spring",72736
+7,-114.13889,34.274628,NA,1968,"Myotis yumanensis","Myotis_yumanensis",5,71,"female",22.6,68,8.3603863909547,102.031316811995,"Summer",72739
+9,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5,82,"female",19.6,784,7.96767617542051,89.3746724266611,"Fall",72743
+8,-112.4382,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5,80,"female",18.7,882,7.91333741798674,88.9665792863873,"Summer",72747
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5,71,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72751
+5,-108.0075,32.5666666667,NA,1995,"Myotis yumanensis","Myotis_yumanensis",5,97,"female",15.3,254,7.27529547457863,104.055542068495,"Spring",72759
+8,-103.5988333421,37.615731162,"juvenile",2002,"Myotis yumanensis","Myotis_yumanensis",5,70,"male",12.4,207,9.68508303182442,80.0581627316088,"Summer",72760
+3,-104.884078,20.38332,NA,1964,"Myotis yumanensis","Myotis_yumanensis",5,77,"male",17.9,1205,2.13626692237566,120.597181978283,"Spring",72782
+5,-102.133333,19.85,NA,1964,"Myotis yumanensis","Myotis_yumanensis",5,81,"female",17.4,1055,2.5595187757929,117.1391932797,"Spring",72783
+7,-114.13889,34.274628,NA,1968,"Myotis yumanensis","Myotis_yumanensis",5,72,"male",22.6,68,8.3603863909547,102.031316811995,"Summer",72786
+9,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5,80,"female",19.6,784,7.96767617542051,89.3746724266611,"Fall",72790
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5,78,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72792
+9,-122.9369,46.1383,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.05,77,"male",11.9,1245,4.86159968684707,75.1501531056043,"Fall",72694
+7,-121.556531,41.825367,NA,1978,"Myotis yumanensis sociabilis","Myotis_yumanensis",5.1,82,"male",7.8,291,6.90732483408999,79.9816214972,"Summer",72720
+10,-110.80917,32.32222,NA,1953,"Myotis yumanensis","Myotis_yumanensis",5.1,73,"male",19.4,216,7.69562547913758,179.102767339031,"Fall",72779
+7,-114.13889,34.274628,NA,1968,"Myotis yumanensis","Myotis_yumanensis",5.1,73,"female",22.6,68,8.3603863909547,102.031316811995,"Summer",72785
+8,-117.4161,48.7411,"unknown",1993,"Myotis yumanensis","Myotis_yumanensis",5.2,80,"male",6.8,591,8.6637305632578,54.0624993402636,"Summer",72610
+7,-117.319356,33.232626,NA,1963,"Myotis yumanensis sociabilis","Myotis_yumanensis",5.2,71.5,"male",16.2,242,3.72960108355093,101.662970675582,"Summer",72652
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5.2,78,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72750
+8,-120.7166667,47.8166667,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.2,81,"female",8,967,7.89249739635783,92.6929728134547,"Summer",72756
+8,-122.9369,46.1383,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.25,84,"male",11.9,1245,4.86159968684707,75.1501531056043,"Summer",72687
+4,-122.8339,47.3319,"unknown",1994,"Myotis yumanensis","Myotis_yumanensis",5.3,71,"male",11.6,1218,5.4877480616259,74.9777030695603,"Spring",72699
+9,-114.05222,35.276475,NA,1959,"Myotis yumanensis","Myotis_yumanensis",5.3,81,"male",16.7,245,8.04805171228642,87.6287652531505,"Fall",72730
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5.3,75,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72744
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5.3,73,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72796
+7,-122.2147,48.8258,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.35,81,"female",10.9,1571,5.50611230608973,77.2210990945603,"Summer",72614
+4,-123.93421,46.41466,"unknown",1989,"Myotis yumanensis","Myotis_yumanensis",5.4,75,"female",10.4,1660,4.55737830004236,65.8840859186579,"Spring",72592
+5,-117.0442,46.4164,"unknown",1994,"Myotis yumanensis","Myotis_yumanensis",5.4,79,"female",12.9,314,8.63822986216014,63.7864263822979,"Spring",72604
+9,-109.916149,32.970983,NA,1959,"Myotis yumanensis","Myotis_yumanensis",5.4,74,"female",17.5,248,8.13113637740007,116.128204692649,"Fall",72733
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5.4,76,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72741
+7,-104.3840217,36.9462905,NA,2007,"Myotis yumanensis","Myotis_yumanensis",5.5,79,"undetermined",8.9,411,8.62515700340193,64.6622475294525,"Summer",72577
+8,-122.9369,46.1383,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.5,79,"male",11.9,1245,4.86159968684707,75.1501531056043,"Summer",72605
+7,-108.58528,37.34889,NA,1997,"Myotis yumanensis yumanensis","Myotis_yumanensis",5.5,86,"undetermined",8.9,476,8.59877986411532,49.3936762388641,"Summer",72618
+8,-105.3285833333,35.2672333333,NA,2009,"Myotis yumanensis","Myotis_yumanensis",5.5,89,"female",12.1,354,7.82158532330224,86.5109400981636,"Summer",72650
+6,-121.755962746,37.6812783727,NA,2005,"Myotis yumanensis oxalis","Myotis_yumanensis",5.5,81,"female",15.3,484,4.66622292262558,119.576654190549,"Summer",72666
+8,-122.4431,47.2531,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.5,78,"male",12,1117,4.79911608022927,78.3717305714875,"Summer",72689
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5.5,76,"male",19.6,784,7.96767617542051,89.3746724266611,"Summer",72791
+9,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",5.5,79,"female",19.6,784,7.96767617542051,89.3746724266611,"Fall",72794
+3,-114.36285,34.30978,NA,1989,"Myotis yumanensis yumanensis H. Allen, 1864","Myotis_yumanensis",5.6,80,"male",20.1,89,7.98412724590408,201.366481333558,"Spring",72554
+5,-110.80917,32.32222,NA,1964,"Myotis yumanensis","Myotis_yumanensis",5.6,85,"female",18.1,405,7.96113666317172,97.9785715035413,"Spring",72737
+7,-114.13889,34.274628,NA,1968,"Myotis yumanensis","Myotis_yumanensis",5.6,80,"male",22.6,68,8.3603863909547,102.031316811995,"Summer",72738
+8,-120.7166667,47.8166667,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.6,82,"male",8,967,7.89249739635783,92.6929728134547,"Summer",72758
+7,-122.8994,47.0381,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.7,86,"male",11.7,1496,4.946348515457,80.8041000017187,"Summer",72602
+7,-128.43784,51.952207,NA,1948,"Myotis yumanensis saturatus","Myotis_yumanensis",5.7,82,"male",7.9,2506,4.61111963002742,54.7843653603971,"Summer",72800
+8,-123.8847,47.4633,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.75,83,"male",11.3,3919,4.71614731052217,77.9697019781502,"Summer",72688
+4,-123.9556,46.4365,"unknown",1989,"Myotis yumanensis","Myotis_yumanensis",5.8,80,"female",10.2,1701,4.57549467436599,65.4258968929864,"Spring",72591
+8,-120.5034889,46.6868,"unknown",1993,"Myotis yumanensis","Myotis_yumanensis",5.8,82,"male",9,214,8.86621097029035,69.9488738204199,"Summer",72595
+8,-120.7166667,47.8166667,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.8,78,"male",8,967,7.89249739635783,92.6929728134547,"Summer",72757
+7,-121.8153,47.8628,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",5.85,79,"male",11.6,1529,5.16957151966869,63.4624765667414,"Summer",72707
+6,-109.6948978,41.0274838,NA,1998,"Myotis yumanensis yumanensis","Myotis_yumanensis",5.9,71.5,"female",7.2,279,8.95228090116331,71.4238996883899,"Summer",72620
+7,-114.13889,34.281882,NA,1968,"Myotis yumanensis","Myotis_yumanensis",5.9,82,"female",22.7,65,8.40508504094126,100.644507237152,"Summer",72784
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,82,"female",7.3,878,7.82414193184767,79.7853229076841,"Summer",72555
+8,-123.0486,42.9163,NA,1990,"Myotis yumanensis saturatus Miller, 1897","Myotis_yumanensis",6,80,"female",11.6,820,7.12326002146021,65.3322891422897,"Summer",72557
+7,-119.7281321,34.4258667,NA,1981,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,84,"female",15.7,339,2.75564159608259,151.052664408618,"Summer",72558
+7,-121.03272,35.64562,NA,1983,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,80,"female",14.5,1624,4.6222780688157,95.7561831199531,"Summer",72559
+7,-121.03272,35.64562,NA,1983,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,80,"female",14.5,1624,4.6222780688157,95.7561831199531,"Summer",72563
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,80,"female",7.3,878,7.82414193184767,79.7853229076841,"Summer",72565
+7,-108.814723,40.491992,NA,1982,"Myotis yumanensis","Myotis_yumanensis",6,88,"female",6.5,304,10.3601070545539,74.7698559066701,"Summer",72570
+7,-108.814723,40.491992,NA,1982,"Myotis yumanensis","Myotis_yumanensis",6,85,"male",6.5,304,10.3601070545539,74.7698559066701,"Summer",72571
+8,-118.1522,46.2706,"unknown",1993,"Myotis yumanensis","Myotis_yumanensis",6,82,"male",9.8,484,8.73774032920446,56.1090680648544,"Summer",72612
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,81,"female",7.3,878,7.82414193184767,79.7853229076841,"Summer",72621
+9,-123.0604248,38.3525635,NA,1997,"Myotis yumanensis saturatus Miller, 1897","Myotis_yumanensis",6,84,"male",13.5,913,2.96753902734031,132.65467609959,"Fall",72622
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,79,"male",7.3,878,7.82414193184767,79.7853229076841,"Summer",72627
+7,-121.03272,35.64562,NA,1983,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,82,"female",14.5,1624,4.6222780688157,95.7561831199531,"Summer",72629
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,82,"female",7.3,878,7.82414193184767,79.7853229076841,"Summer",72630
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",6,82,"male",7.3,878,7.82414193184767,79.7853229076841,"Summer",72633
+8,-122.5941,43.2431,NA,1990,"Myotis yumanensis saturatus Miller, 1897","Myotis_yumanensis",6,73,"male",8.3,1340,6.85938308914412,59.2453899899478,"Summer",72634
+8,-123.0604248,38.3525635,NA,1997,"Myotis yumanensis saturatus Miller, 1897","Myotis_yumanensis",6,88,"male",13.5,913,2.96753902734031,132.65467609959,"Summer",72635
+7,-106.3211111111,35.7788888889,NA,1977,"Myotis yumanensis","Myotis_yumanensis",6,78,"female",10.3,430,8.68960978305805,87.8300949080782,"Summer",72649
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",6,75,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72742
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",6,72,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72745
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",6,75,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72793
+8,-119.611111,50.873611,NA,1990,"Myotis yumanensis sociabilis","Myotis_yumanensis",6,82,"female",8.2,555,9.22826274730696,65.7508389267333,"Summer",72801
+8,-108.0551111111,39.1627222222,NA,1998,"Myotis yumanensis yumanensis","Myotis_yumanensis",6.1,85,NA,8.3,490,8.72920472617724,57.141806206251,"Summer",72617
+7,-114.13889,34.274628,NA,1968,"Myotis yumanensis","Myotis_yumanensis",6.1,82,"female",22.6,68,8.3603863909547,102.031316811995,"Summer",72740
+7,-122.4431,47.2531,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",6.15,79,"male",12,1117,4.79911608022927,78.3717305714875,"Summer",72600
+8,-122.4431,47.2531,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",6.2,73,"male",12,1117,4.79911608022927,78.3717305714875,"Summer",72599
+7,-104.3840217,36.9462905,NA,2007,"Myotis yumanensis","Myotis_yumanensis",6.2,84,"male",8.9,411,8.62515700340193,64.6622475294525,"Summer",72653
+9,-109.916149,32.970983,NA,1959,"Myotis yumanensis","Myotis_yumanensis",6.2,85,"female",17.5,248,8.13113637740007,116.128204692649,"Fall",72731
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",6.2,80,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72749
+7,-114.13889,34.274628,NA,1968,"Myotis yumanensis","Myotis_yumanensis",6.2,81,"female",22.6,68,8.3603863909547,102.031316811995,"Summer",72788
+11,-122.2008,47.9792,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",6.25,77,"male",11.4,993,4.78821153427558,61.6840803469991,"Fall",72690
+8,-122.9369,46.1383,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",6.25,81,"female",11.9,1245,4.86159968684707,75.1501531056043,"Summer",72693
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",6.3,80,"female",19.6,784,7.96767617542051,89.3746724266611,"Summer",72799
+7,-104.3855237,36.9538014,NA,2007,"Myotis yumanensis","Myotis_yumanensis",6.35,85,"male",9,411,8.67446182070034,64.7158704876658,"Summer",72576
+7,-123.7114,46.2847,"unknown",1994,"Myotis yumanensis","Myotis_yumanensis",6.35,83,"undetermined",10.5,2402,4.43405382616555,77.2908563823781,"Summer",72708
+7,-122.3139,47.8211,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",6.4,85,"female",11.2,1065,4.80829460096789,68.682322102693,"Summer",72691
+7,-123.0604248,38.3525635,NA,1997,"Myotis yumanensis saturatus Miller, 1897","Myotis_yumanensis",6.5,78,"female",13.5,913,2.96753902734031,132.65467609959,"Summer",72556
+8,-120.7166667,47.8166667,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",6.6,80,"female",8,967,7.89249739635783,92.6929728134547,"Summer",72755
+8,-120.7166667,47.8166667,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",6.6,81,"female",8,967,7.89249739635783,92.6929728134547,"Summer",72802
+8,-120.7166667,47.8166667,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",6.8,81,"female",8,967,7.89249739635783,92.6929728134547,"Summer",72803
+7,-128.43784,51.952207,NA,1948,"Myotis yumanensis saturatus","Myotis_yumanensis",6.9,235,"female",7.9,2506,4.61111963002742,54.7843653603971,"Summer",72753
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",7,87,"female",7.3,878,7.82414193184767,79.7853229076841,"Summer",72561
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",7,83,"female",7.3,878,7.82414193184767,79.7853229076841,"Summer",72567
+8,-122.5941,43.2431,NA,1990,"Myotis yumanensis saturatus Miller, 1897","Myotis_yumanensis",7,79,"female",8.3,1340,6.85938308914412,59.2453899899478,"Summer",72568
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",7,73,"male",7.3,878,7.82414193184767,79.7853229076841,"Summer",72569
+6,-109.5599280619,35.707659,NA,2004,"Myotis yumanensis","Myotis_yumanensis",7,88,"female",10.2,261,8.71450810517447,75.6273878671059,"Summer",72573
+7,-107.31472,38.102494,NA,1996,"Myotis yumanensis yumanensis","Myotis_yumanensis",7,98,"male",3.8,433,7.9553107856934,42.908685451442,"Summer",72619
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",7,80,"female",7.3,878,7.82414193184767,79.7853229076841,"Summer",72628
+8,-116.8787,48.6091,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",7,83,"female",7.3,878,7.82414193184767,79.7853229076841,"Summer",72636
+7,-108.814723,40.491992,NA,1982,"Myotis yumanensis","Myotis_yumanensis",7,87,"female",6.5,304,10.3601070545539,74.7698559066701,"Summer",72641
+6,-106.3211111111,35.7788888889,"adult",1977,"Myotis yumanensis","Myotis_yumanensis",7,70,"male",10.3,430,8.68960978305805,87.8300949080782,"Summer",72648
+9,-123.57,38.8,NA,1974,"Myotis yumanensis sociabilis H. W. Grinnell, 1914","Myotis_yumanensis",7,83,"male",11.4,1010,2.65101467138128,108.587685328294,"Fall",72722
+5,-128.43784,51.952207,NA,1948,"Myotis yumanensis saturatus","Myotis_yumanensis",7.1,92,"female",7.9,2506,4.61111963002742,54.7843653603971,"Spring",72754
+9,-123.6014,46.9814,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",7.2,85,"female",11.5,2487,4.53277625810723,79.2547274270185,"Fall",72696
+7,-102.9336058,38.0633052,NA,1979,"Myotis yumanensis","Myotis_yumanensis",7.5,84,"female",11.4,388,10.74307387872,82.7508858465609,"Summer",72579
+7,-102.9336058,38.0633052,NA,1979,"Myotis yumanensis","Myotis_yumanensis",7.5,88,"female",11.4,388,10.74307387872,82.7508858465609,"Summer",72662
+9,-122.0633,48.015,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",7.65,75,"male",11.2,1225,4.9349096580721,64.0213423415461,"Fall",72601
+9,-123.3819,46.2033,"unknown",1995,"Myotis yumanensis","Myotis_yumanensis",7.65,71,"male",11.3,2095,4.32526054566413,79.6205195699167,"Fall",72692
+8,-117.319356,33.232626,NA,1963,"Myotis yumanensis sociabilis","Myotis_yumanensis",7.9,84,"female",16.2,242,3.72960108355093,101.662970675582,"Summer",72575
+6,-116.9959362,36.0834642,NA,1967,"Myotis yumanensis H. Allen, 1864","Myotis_yumanensis",9,81,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",72639
+10,-118.41,34.09472,NA,1968,"Myotis yumanensis","Myotis_yumanensis",9,80,"female",17.5,202,3.13653930118511,129.22707287421,"Fall",72789
+8,-112.3689,33.9787,NA,1978,"Myotis yumanensis","Myotis_yumanensis",10,80,"male",19.6,784,7.96767617542051,89.3746724266611,"Summer",72748
+3,-121.737,37.3816,NA,2005,"Myotis yumanensis saturatus","Myotis_yumanensis",10.2,79,"female",15.2,831,4.46114538900249,117.048005675325,"Spring",72663

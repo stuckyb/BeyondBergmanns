@@ -1,0 +1,164 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-84.978666,44.082059,NA,1961,"Dendroica pinus pinus","Dendroica_pinus",7,4,"male",7.3,857,10.1586021169104,68.2623288741271,"Summer",181621
+6,-84.0706177,36.1963806,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",7,5,"male",14.6,1286,8.09872324393285,39.1747927006827,"Summer",181645
+6,-84.4295883,44.9635833,"adult",1935,"Dendroica pinus","Dendroica_pinus",8.2,NA,"male",5.9,700,10.603930089044,50.7662985517522,"Summer",181637
+3,-92.864278,32.119241,NA,1990,"Dendroica pinus","Dendroica_pinus",9,129,"female",19.2,1684,6.78690249337247,57.0686410089929,"Spring",181597
+5,-79.2718506,47.041118,"ad",1942,"Dendroica pinus pinus","Dendroica_pinus",10,NA,"male",3.3,687,12.1479609213009,38.8023552009148,"Spring",181675
+9,-78.23265,44.11545,"juv",1952,"Dendroica pinus pinus","Dendroica_pinus",10,NA,"male",7.6,803,9.70112067877946,34.4314421814837,"Fall",181714
+5,-97.3343833,29.9578833,NA,2012,"Dendroica pinus","Dendroica_pinus",10.4,NA,"female",21.7,1123,6.32720796292177,74.6973578017136,"Spring",181715
+6,-84.2706298,44.7252716,"adult",1948,"Dendroica pinus","Dendroica_pinus",10.5,NA,"female",6.4,653,10.7829270215241,42.4689009235058,"Summer",181620
+11,-93.624115,36.7586908,NA,2001,"Setophaga pinus","Dendroica_pinus",10.5,0,"undetermined",14.2,1115,9.00094271157026,47.9035247655766,"Fall",181741
+6,-94.274,31.04448,"sk.imm.",1964,"Dendroica pinus pinus","Dendroica_pinus",10.6,NA,"female",18.7,1012,7.46038019991426,41.6342595271796,"Summer",181664
+9,-80.07309,42.80729,NA,1970,"Dendroica pinus pinus","Dendroica_pinus",10.6,NA,"undetermined",8.2,909,10.5448680610163,37.9747916721035,"Fall",181708
+7,-84.2666667,36.8333333,NA,1948,"Dendroica pinus pinus","Dendroica_pinus",10.6,NA,"female",12.4,1308,8.3658758530042,46.4550051419162,"Summer",181735
+7,-83.542,31.4503,"ad.",1951,"Dendroica pinus pinus","Dendroica_pinus",10.7,NA,"female",19.6,1140,6.47767143908421,54.7264722438419,"Summer",181660
+8,-80.15174,43.42463,"imm",1998,"Dendroica pinus pinus","Dendroica_pinus",10.7,NA,"male",9.2,775,8.99964224878193,44.6442129114844,"Summer",181722
+9,-91.4907073,44.8098524,NA,1979,"Dendroica pinus pinus","Dendroica_pinus",10.8,NA,"undetermined",5.5,803,12.6911893799907,68.400130323942,"Fall",181654
+9,-78.6405659,35.9331237,"skull 25% ossified",1988,NA,"Dendroica_pinus",10.9,NA,"female",14.6,986,8.54571928990288,33.3656406266335,"Fall",181646
+3,-85.952708,33.329759,NA,1991,"Dendroica pinus","Dendroica_pinus",11,136,NA,16.1,1449,7.19433173344885,43.4852609417511,"Spring",181598
+6,-94.274,31.04448,"unknown",1964,"Dendroica pinus pinus","Dendroica_pinus",11,NA,"female",18.7,1012,7.46038019991426,41.6342595271796,"Summer",181611
+5,-84.3015289,44.7111221,"adult",1934,"Dendroica pinus","Dendroica_pinus",11,NA,"male",6,661,11.34326659167,61.3537211096775,"Spring",181632
+3,-92.208009,35.99259,NA,1990,"Dendroica pinus","Dendroica_pinus",11,133,"female",15.5,1592,7.77821355200576,47.7432615448044,"Spring",181647
+7,-94.56915,48.72362,"juv",1929,"Dendroica pinus pinus","Dendroica_pinus",11,NA,"undetermined",1.9,355,14.4070058715133,45.1910240663824,"Summer",181672
+7,-90.29081,48.77381,NA,1929,"Dendroica pinus pinus","Dendroica_pinus",11,NA,"male",-0.3,542,13.4204050880468,41.9849848771242,"Summer",181709
+7,-94.98538,49.92533,NA,1947,"Dendroica pinus pinus","Dendroica_pinus",11,NA,"male",1.5,630,13.7715781098741,62.1606433222123,"Summer",181713
+9,-84.3015289,44.7111221,"immature",1934,"Dendroica pinus pinus","Dendroica_pinus",11.1,NA,"female",6,661,11.34326659167,61.3537211096775,"Fall",181690
+9,-75.4167,38.1,"immature",1975,"Setophaga pinus pinus","Dendroica_pinus",11.1,0,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",181762
+9,-85.3401,43.7098,"immature",2005,"Dendroica pinus pinus","Dendroica_pinus",11.2,NA,"female",7.9,795,10.9722376933787,59.0492874100587,"Fall",181628
+5,-84.4759369,44.5860661,"adult",1933,"Dendroica pinus","Dendroica_pinus",11.2,NA,"male",6.7,752,10.8928771556129,49.8309831093998,"Spring",181685
+9,-75.4167,38.1,"immature",1975,"Setophaga pinus pinus","Dendroica_pinus",11.2,0,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",181772
+5,-84.3015289,44.7111221,"adult",1934,"Dendroica pinus","Dendroica_pinus",11.3,NA,"male",6,661,11.34326659167,61.3537211096775,"Spring",181631
+6,-84.6282405,44.72356,"adult",1952,"Dendroica pinus pinus","Dendroica_pinus",11.3,139,"male",7.2,773,10.14255959566,65.4426533347611,"Summer",181680
+3,-92.208009,35.99259,"ad.",1990,"Dendroica pinus","Dendroica_pinus",11.3000001907349,127,"female",15.5,1592,7.77821355200576,47.7432615448044,"Spring",181648
+2,-90.8912659,31.470656,NA,1959,"Setophaga pinus","Dendroica_pinus",11.4,0,"female",18.5,1478,7.12049964198547,24.6125027265945,"Winter",181739
+2,-90.8912659,31.470656,NA,1959,"Setophaga pinus","Dendroica_pinus",11.4,0,"male",18.5,1478,7.12049964198547,24.6125027265945,"Winter",181743
+10,-79.3500423,35.0636548,"immature",1988,"Dendroica pinus","Dendroica_pinus",11.5,NA,"undetermined",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181682
+7,-94.98538,49.92533,NA,1947,"Dendroica pinus pinus","Dendroica_pinus",11.5,NA,"male",1.5,630,13.7715781098741,62.1606433222123,"Summer",181712
+7,-84.2166667,37,"juvenile",1948,"Dendroica pinus pinus","Dendroica_pinus",11.5,NA,"male",12.7,1310,8.43168626867327,44.2755959038139,"Summer",181716
+10,-84.2333333,36.9833333,"immature",1951,"Dendroica pinus pinus","Dendroica_pinus",11.5,NA,"male",13.1,1387,8.55947109665927,40.8771481259852,"Fall",181717
+4,-75.6666667,37.7166667,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",11.5,NA,"female",14.5,1205,7.73234058413692,54.2273520721835,"Spring",181728
+6,-80.40751,43.33776,"ad",1969,"Dendroica pinus pinus","Dendroica_pinus",11.6,NA,"male",6.8,827,10.0318092570432,46.2820113814353,"Summer",181669
+7,-84.3015289,44.7111221,"adult",1934,"Dendroica pinus","Dendroica_pinus",11.6,NA,"male",6,661,11.34326659167,61.3537211096775,"Summer",181687
+10,-84.25,36.9666667,"immature",1951,"Dendroica pinus pinus","Dendroica_pinus",11.6,NA,"female",13.2,1386,8.56838356807729,40.3136502838233,"Fall",181732
+10,-84.3333333,30.4833333,NA,1977,"Dendroica pinus","Dendroica_pinus",11.6,NA,"undetermined",19.3,1286,7.39059086496698,56.9663142722548,"Fall",181736
+11,-84.3333333,30.4833333,NA,1977,"Dendroica pinus","Dendroica_pinus",11.6,NA,"undetermined",19.3,1286,7.39059086496698,56.9663142722548,"Fall",181737
+9,-75.4167,38.1,"immature",1975,"Setophaga pinus pinus","Dendroica_pinus",11.6,0,"female",14.4,1191,8.05531539175258,42.0969838039138,"Fall",181761
+6,-74.4284333,44.4992333,NA,2008,"Dendroica pinus","Dendroica_pinus",11.7,NA,"male",5.8,1279,9.97816935296067,32.2528382659897,"Summer",181705
+7,-94.98538,49.92533,NA,1947,"Dendroica pinus pinus","Dendroica_pinus",11.7,NA,"male",1.5,630,13.7715781098741,62.1606433222123,"Summer",181727
+10,-84.2333333,36.9833333,"adult",1951,"Dendroica pinus pinus","Dendroica_pinus",11.7,NA,"male",13.1,1387,8.55947109665927,40.8771481259852,"Fall",181731
+6,-94.274,31.04448,"unknown",1964,"Dendroica pinus pinus","Dendroica_pinus",11.8,NA,"male",18.7,1012,7.46038019991426,41.6342595271796,"Summer",181613
+8,-84.827845,44.654918,"juvenile",1938,"Dendroica pinus pinus","Dendroica_pinus",11.8,NA,"female",7.3,863,10.2053870207075,39.4345834078128,"Summer",181641
+7,-94.98538,49.92533,NA,1947,"Dendroica pinus pinus","Dendroica_pinus",11.8,NA,"male",1.5,630,13.7715781098741,62.1606433222123,"Summer",181725
+7,-82.393017,28.0201328,NA,1966,"Setophaga pinus","Dendroica_pinus",11.8,0,"female",21.7,1221,5.05736786253182,69.8840232398805,"Summer",181744
+7,-94.98538,49.92533,NA,1947,"Dendroica pinus pinus","Dendroica_pinus",11.9,NA,"male",1.5,630,13.7715781098741,62.1606433222123,"Summer",181726
+10,-76.5871351,38.2763004,"immature",1966,"Setophaga pinus","Dendroica_pinus",11.9,0,"male",13.1,1011,8.87606160957492,51.7057912055007,"Fall",181751
+7,-94.56915,48.72362,"juv",1929,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"undetermined",1.9,355,14.4070058715133,45.1910240663824,"Summer",181616
+4,-81.49143,42.90534,"ad",1908,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"female",7.7,873,10.1859491755094,40.7920593883527,"Spring",181618
+6,-74.99278,39.22306,NA,1963,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"male",11.9,953,9.08516523089852,59.1814305226844,"Summer",181622
+9,-85.5474472,46.6727632,"immature",1936,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"female",4,644,10.8923103262083,39.7771303934676,"Fall",181635
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"undetermined",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181656
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"undetermined",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181657
+5,-95.1093292,31.347773,"ad",1979,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"male",17.6,1467,7.99823370652811,41.3319794523589,"Spring",181670
+7,-77.15879,43.93758,"ad",1930,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"female",7.7,621,10.056597412403,37.480037345766,"Summer",181673
+7,-90.29081,48.77381,"ad",1929,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"female",-0.3,542,13.4204050880468,41.9849848771242,"Summer",181723
+4,-75.6666667,37.7166667,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",12,NA,"female",14.5,1205,7.73234058413692,54.2273520721835,"Spring",181738
+6,-84.48194,44.80306,NA,1990,"Dendroica pinus","Dendroica_pinus",12.1,NA,"male",6.7,990,9.12797896579522,44.3756137745472,"Summer",181683
+5,-84.3015289,44.7111221,"adult",1934,"Dendroica pinus","Dendroica_pinus",12.1,NA,"male",6,661,11.34326659167,61.3537211096775,"Spring",181686
+7,-94.98538,49.92533,"ad",1947,"Dendroica pinus pinus","Dendroica_pinus",12.1,NA,"female",1.5,630,13.7715781098741,62.1606433222123,"Summer",181724
+7,-84.2333333,36.9833333,"juvenile",1948,"Dendroica pinus pinus","Dendroica_pinus",12.1,NA,"male",12.7,1308,8.42440538320694,44.7382948265564,"Summer",181730
+8,-83.5312,31.4708,"ad.",1951,"Dendroica pinus pinus","Dendroica_pinus",12.2,NA,"female",19.6,1138,6.50531251432942,54.6381963551322,"Summer",181607
+8,-85.5127716,46.6734699,"immature",1934,"Dendroica pinus pinus","Dendroica_pinus",12.2,NA,"female",3.9,763,10.600114350441,60.0805301931089,"Summer",181689
+7,-84.3015289,44.7111221,NA,1934,"Dendroica pinus","Dendroica_pinus",12.2,NA,"male",6,661,11.34326659167,61.3537211096775,"Summer",181691
+4,-95.488,30.764,"u ad.",1955,"Dendroica pinus pinus","Dendroica_pinus",12.2,NA,"male",20.2,885,6.83604528594678,66.6632541151258,"Spring",181707
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",12.3,NA,"male",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181602
+6,-94.274,31.04448,"unknown",1964,"Dendroica pinus pinus","Dendroica_pinus",12.3,NA,"male",18.7,1012,7.46038019991426,41.6342595271796,"Summer",181612
+3,-84.0018082,36.206884,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",12.3,NA,"male",14.5,1312,8.05642976795929,39.5342619241137,"Spring",181644
+6,-94.274,31.04448,"sk.imm.",1964,"Dendroica pinus pinus","Dendroica_pinus",12.3,NA,"male ?",18.7,1012,7.46038019991426,41.6342595271796,"Summer",181666
+5,-91.9916667,37.5316667,"juvenile",2000,"Setophaga pinus","Dendroica_pinus",12.3,0,"male",12.9,842,9.78840919380951,40.9655433712619,"Spring",181753
+7,-84.3015289,44.7111221,"adult",1934,"Dendroica pinus","Dendroica_pinus",12.4,NA,"male",6,661,11.34326659167,61.3537211096775,"Summer",181633
+6,-94.274,31.04448,"unknown",1964,"Dendroica pinus pinus","Dendroica_pinus",12.4,NA,"female",18.7,1012,7.46038019991426,41.6342595271796,"Summer",181667
+6,-94.274,31.04448,"unknown",1964,"Dendroica pinus pinus","Dendroica_pinus",12.4,NA,"female",18.7,1012,7.46038019991426,41.6342595271796,"Summer",181668
+5,-95.1093292,31.347773,"ad",1979,"Dendroica pinus pinus","Dendroica_pinus",12.4,NA,"male",17.6,1467,7.99823370652811,41.3319794523589,"Spring",181671
+3,-87.272352,34.296585,NA,1991,"Dendroica pinus","Dendroica_pinus",12.5,128.5,NA,16.6,1824,7.86840151646079,56.1028580719504,"Spring",181596
+7,-84.531722,44.776502,"adult",1930,"Dendroica pinus","Dendroica_pinus",12.5,138,"male",6.4,616,10.7567420718357,59.6907647737514,"Summer",181629
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",12.5,NA,"undetermined",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181652
+8,-83.5213,31.46,"imm.",1951,"Dendroica pinus pinus","Dendroica_pinus",12.5,NA,"female",19.6,1138,6.50531251432942,54.7090786039322,"Summer",181662
+10,-80.24294,42.5613,NA,1936,"Dendroica pinus pinus","Dendroica_pinus",12.5,NA,"undetermined",8.5,689,11.1006005843528,39.4822571899604,"Fall",181677
+5,-82.50596,41.90342,"ad",1914,"Dendroica pinus pinus","Dendroica_pinus",12.5,NA,"male",9.8,744,10.7319792577082,34.5905521765701,"Spring",181711
+10,-84.3333333,30.4833333,NA,1977,"Dendroica pinus","Dendroica_pinus",12.5,NA,"undetermined",19.3,1286,7.39059086496698,56.9663142722548,"Fall",181720
+10,-76.3233948,38.0449818,"immature",1966,"Setophaga pinus","Dendroica_pinus",12.5,0,"male",13.3,1011,8.94126880698639,43.1154351196843,"Fall",181742
+5,-92.1666667,36.8166667,NA,1999,"Setophaga pinus","Dendroica_pinus",12.5,0,"male",14.6,943,8.13735773510609,52.729053524423,"Spring",181752
+5,-91.005,37.4866667,NA,2002,"Setophaga pinus","Dendroica_pinus",12.5,0,"female",13.7,1407,8.94980531360963,53.4255910289226,"Spring",181754
+5,-92.15,36.8,NA,1999,"Setophaga pinus","Dendroica_pinus",12.5,0,"female",14.6,938,8.12407570500214,52.8926696169647,"Spring",181765
+8,-84.827845,44.654918,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",12.6,NA,"male",7.3,863,10.2053870207075,39.4345834078128,"Summer",181694
+5,-91.4392519,37.2807459,NA,1998,"Setophaga pinus","Dendroica_pinus",12.6,0,"male",14.3,1256,8.77242148941094,59.7847109614984,"Spring",181746
+8,-83.5312,31.4708,"imm.",1951,"Dendroica pinus pinus","Dendroica_pinus",12.7,NA,"female",19.6,1138,6.50531251432942,54.6381963551322,"Summer",181606
+3,-84.0018082,36.206884,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",12.7,NA,"male",14.5,1312,8.05642976795929,39.5342619241137,"Spring",181699
+10,-79.3500423,35.0636548,NA,1988,"Dendroica pinus","Dendroica_pinus",12.8,NA,"male",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181625
+9,-84.3118286,44.7101461,"adult",1934,"Dendroica pinus pinus","Dendroica_pinus",12.8,NA,"male",6,662,11.350727516398,61.0877116923299,"Fall",181634
+9,-85.436554,46.6732343,"immature",1938,"Dendroica pinus pinus","Dendroica_pinus",12.8,NA,"male",5.3,934,10.0087650980468,23.8620583246855,"Fall",181639
+6,-94.274,31.04448,"ad.sk.",1964,"Dendroica pinus pinus","Dendroica_pinus",12.8,NA,"male",18.7,1012,7.46038019991426,41.6342595271796,"Summer",181665
+8,-85.436554,46.6732343,"adult",1938,"Dendroica pinus pinus","Dendroica_pinus",12.8,NA,"female",5.3,934,10.0087650980468,23.8620583246855,"Summer",181693
+3,-84.0018082,36.206884,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",12.8,NA,"male",14.5,1312,8.05642976795929,39.5342619241137,"Spring",181698
+10,-94.6393644,39.1138345,NA,1964,"Setophaga pinus","Dendroica_pinus",12.8,0,"male",12.9,965,9.83790982358395,61.9620429825668,"Fall",181740
+3,-89.4664764,34.6567993,NA,1959,"Setophaga pinus","Dendroica_pinus",12.8,0,"male",16,1223,8.27696236916697,25.0039841891558,"Spring",181750
+3,-87.272352,34.296585,NA,1991,"Dendroica pinus","Dendroica_pinus",12.8000001907349,140,"male",16.6,1824,7.86840151646079,56.1028580719504,"Spring",181649
+9,-84.3118286,44.7101461,"immature",1934,"Dendroica pinus pinus","Dendroica_pinus",12.9,NA,"male",6,662,11.350727516398,61.0877116923299,"Fall",181688
+3,-93.42,35.221881,NA,1990,"Dendroica pinus","Dendroica_pinus",13,138,"female",16.4,1664,7.89143667067491,54.2696492453125,"Spring",181594
+3,-93.42,35.221881,NA,1990,"Dendroica pinus","Dendroica_pinus",13,136,NA,16.4,1664,7.89143667067491,54.2696492453125,"Spring",181600
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"female",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181603
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"female",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181604
+5,-95.1093292,31.347773,"ad",1979,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"male",17.6,1467,7.99823370652811,41.3319794523589,"Spring",181614
+5,-95.1093292,31.347773,"ad",1979,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"male",17.6,1467,7.99823370652811,41.3319794523589,"Spring",181615
+7,-77.15879,43.93758,"ad",1930,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"female",7.7,621,10.056597412403,37.480037345766,"Summer",181617
+8,-85.6162415,46.6744003,"immature",1938,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"male",5.5,885,9.94516404484048,25.3614028029793,"Summer",181619
+4,-84.0092718,36.2523596,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"male",14.3,1310,8.06850874284296,39.5619411672636,"Spring",181643
+3,-82.554444,30.322522,NA,1993,"Dendroica pinus","Dendroica_pinus",13,137,NA,20.1,1149,6.31280564816589,48.4034480699729,"Spring",181650
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"female",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181655
+4,-81.49143,42.90534,"ad",1908,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"male",7.7,873,10.1859491755094,40.7920593883527,"Spring",181676
+2,-81.6428473,30.7716654,NA,1950,"Dendroica pinus","Dendroica_pinus",13,NA,"male",20.7,1336,5.72313222145378,97.4664510316756,"Winter",181679
+3,-84.0018082,36.206884,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"female",14.5,1312,8.05642976795929,39.5342619241137,"Spring",181700
+6,-84.0706177,36.1963806,"juvenile",1938,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"male",14.6,1286,8.09872324393285,39.1747927006827,"Summer",181701
+5,-82.50596,41.90342,"ad",1914,"Dendroica pinus pinus","Dendroica_pinus",13,NA,"male",9.8,744,10.7319792577082,34.5905521765701,"Spring",181710
+5,-93.6045456,36.7009758,NA,1998,"Setophaga pinus","Dendroica_pinus",13,0,"male",14.7,1157,8.96857730010055,33.7775303086513,"Spring",181748
+11,-93.624115,36.7586908,NA,2001,"Setophaga pinus","Dendroica_pinus",13,0,"male",14.2,1115,9.00094271157026,47.9035247655766,"Fall",181749
+5,-92.15,36.8,NA,1999,"Setophaga pinus","Dendroica_pinus",13,0,"male",14.6,938,8.12407570500214,52.8926696169647,"Spring",181763
+5,-90.9833333,37.9666667,"adult",2001,"Setophaga pinus","Dendroica_pinus",13,0,"male",13.7,1022,8.97521840706651,39.5587230359868,"Spring",181766
+7,-84.531722,44.776502,NA,1930,"Dendroica pinus","Dendroica_pinus",13.1,141,"female",6.4,616,10.7567420718357,59.6907647737514,"Summer",181630
+6,-94.274,31.07352,"ad.sk.",1964,"Dendroica pinus pinus","Dendroica_pinus",13.2,NA,"male",18.7,1014,7.52456582861037,41.4885615030896,"Summer",181609
+8,-85.436554,46.6732343,"adult",1938,"Dendroica pinus pinus","Dendroica_pinus",13.2,NA,"male",5.3,934,10.0087650980468,23.8620583246855,"Summer",181640
+3,-84.0129412,36.2449499,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",13.2,NA,"male",14.3,1310,8.09330063395122,39.4783419977885,"Spring",181697
+3,-83.8939096,36.2408126,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",13.4,NA,"female",14.3,1328,7.97968538150965,40.2439807094963,"Spring",181642
+6,-84.840462,44.575976,"immature",1954,"Dendroica pinus","Dendroica_pinus",13.4,NA,"in question",6.8,873,9.99922345469735,70.3447916561003,"Summer",181681
+3,-75.7249486,38.3078595,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",13.4,NA,"male",13.9,1403,7.9687837937489,63.8572635001838,"Spring",181684
+3,-75.7166667,38.2666667,"adult",1938,"Dendroica pinus pinus","Dendroica_pinus",13.4,NA,"male",13.9,1413,7.96828467149992,64.7404274142467,"Spring",181729
+7,-82.393017,28.0201328,NA,1966,"Setophaga pinus","Dendroica_pinus",13.4,0,"female",21.7,1221,5.05736786253182,69.8840232398805,"Summer",181745
+3,-92.864278,32.119241,NA,1990,"Dendroica pinus","Dendroica_pinus",13.5,125,NA,19.2,1684,6.78690249337247,57.0686410089929,"Spring",181595
+10,-79.3500423,35.0636548,"immature",1988,"Dendroica pinus pinus","Dendroica_pinus",13.5,NA,"undetermined",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181624
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",13.5,NA,"undetermined",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181653
+7,-84.7482186,49.2678238,"ad",1947,"Dendroica pinus pinus","Dendroica_pinus",13.5,NA,"female",0,707,12.8330863809376,34.0856358259349,"Summer",181678
+6,-94.274,31.04448,"sk.imm.",1964,"Dendroica pinus pinus","Dendroica_pinus",13.6,NA,"male",18.7,1012,7.46038019991426,41.6342595271796,"Summer",181610
+5,-84.0323639,42.1915175,NA,1989,"Dendroica pinus","Dendroica_pinus",13.6,NA,"female",8.3,836,10.567628529016,52.0334553253903,"Spring",181626
+6,-84.1328785,36.2680917,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",13.6,NA,"male",14.2,1273,8.1965763362738,38.7012028207999,"Summer",181638
+4,-95.488,30.764,"u ad.",1955,"Dendroica pinus pinus","Dendroica_pinus",13.6,NA,"male",20.2,885,6.83604528594678,66.6632541151258,"Spring",181706
+6,-74.99278,39.22306,"immature",1963,"Dendroica pinus pinus","Dendroica_pinus",13.7,NA,"male",11.9,953,9.08516523089852,59.1814305226844,"Summer",181623
+5,-83.1301,31.657,"imm.",1952,"Dendroica pinus pinus","Dendroica_pinus",13.7,NA,"female",19.5,1146,6.66134825737708,52.0782732722533,"Spring",181663
+10,-84.25,36.9666667,"immature",1951,"Dendroica pinus pinus","Dendroica_pinus",13.7,NA,"male",13.2,1386,8.56838356807729,40.3136502838233,"Fall",181718
+5,-93.5507298,36.7284973,NA,1998,"Setophaga pinus","Dendroica_pinus",13.7,0,"male",14.7,1162,8.93343651003285,34.6157310765418,"Spring",181747
+3,-85.952708,33.329759,NA,1991,"Dendroica pinus","Dendroica_pinus",14,139,NA,16.1,1449,7.19433173344885,43.4852609417511,"Spring",181599
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",14,NA,"male",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181601
+3,-82.51659,30.330216,NA,1993,"Dendroica pinus","Dendroica_pinus",14,126,"male",20.1,1153,6.32188958135049,47.8719373394879,"Spring",181651
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",14,NA,"undetermined",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181658
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",14,NA,"undetermined",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181659
+7,-83.542,31.4503,"ad.",1951,"Dendroica pinus pinus","Dendroica_pinus",14.1,NA,"male",19.6,1140,6.47767143908421,54.7264722438419,"Summer",181661
+4,-74.08389,40.05667,NA,1935,"Dendroica pinus pinus","Dendroica_pinus",14.1,135,"male",10.6,1173,9.24406443469145,41.1042732678417,"Spring",181692
+4,-83.6833333,37.8166667,NA,1949,"Dendroica pinus pinus","Dendroica_pinus",14.2,NA,"male",13.3,1208,7.98656068124143,33.7229236125394,"Spring",181734
+4,-84.0092718,36.2523596,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",14.3,NA,"male",14.3,1310,8.06850874284296,39.5619411672636,"Spring",181695
+5,-92.1666667,36.8166667,NA,1999,"Setophaga pinus","Dendroica_pinus",14.5,0,"female",14.6,943,8.13735773510609,52.729053524423,"Spring",181764
+3,-84.0129412,36.2449499,NA,1938,"Dendroica pinus pinus","Dendroica_pinus",14.6,NA,"male",14.3,1310,8.09330063395122,39.4783419977885,"Spring",181696
+4,-95.488,30.764,"u ad.",1955,"Dendroica pinus pinus","Dendroica_pinus",14.6,NA,"male",20.2,885,6.83604528594678,66.6632541151258,"Spring",181721
+9,-78.512764,34.2861553,NA,1989,"Dendroica pinus","Dendroica_pinus",14.7,NA,"male",16.5,1311,7.69263224839787,33.2187154506277,"Fall",181627
+7,-82.8333333,37.0333333,"immature",1949,"Dendroica pinus pinus","Dendroica_pinus",14.7,NA,"male",13,1517,6.95916117376399,28.0900106577935,"Summer",181733
+9,-79.3501282,35.0635845,NA,1988,"Dendroica pinus pinus","Dendroica_pinus",15,NA,"undetermined",15.3,1070,8.31726936542094,48.6875851437016,"Fall",181605
+9,-75.4167,38.1,"immature",1975,"Setophaga pinus pinus","Dendroica_pinus",15.4,0,"male",14.4,1191,8.05531539175258,42.0969838039138,"Fall",181771
+6,-83.7666667,37.75,NA,1948,"Dendroica pinus pinus","Dendroica_pinus",15.5,NA,"male",12.8,1332,8.77030112471526,41.0950669057058,"Summer",181719

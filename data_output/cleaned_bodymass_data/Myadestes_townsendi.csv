@@ -1,0 +1,248 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-103.95,44.23333,NA,2008,"Myadestes townsendi","Myadestes_townsendi",13,NA,NA,2.8,808,9.08088234933281,92.9937358366349,"Summer",67578
+6,-115.28361,36.63,"ad.",1963,"Myadestes townsendi townsendi","Myadestes_townsendi",18.1,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",67725
+11,-105.257231,39.972559,"adult",2012,"Myadestes townsendi","Myadestes_townsendi",23.2,206,"male",11.8,283,8.66957410439032,67.565609150796,"Fall",67571
+11,-115.7230556,31.4,"ad.",1926,"Myadestes townsendi townsendi","Myadestes_townsendi",25,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Fall",67789
+8,-108.4167461155,30.0146438844,"juv.sk.",1948,"Myadestes townsendi calophonus","Myadestes_townsendi",25.4,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",67602
+5,-117.27444,38.94472,"ad.",1930,"Myadestes townsendi townsendi","Myadestes_townsendi",25.6,NA,"male",6.4,356,8.51506241191384,97.165616642835,"Spring",67642
+1,-123.63744,41.00487,"unknown",1942,"Myadestes townsendi townsendi","Myadestes_townsendi",26.7,NA,"female",13.6,1661,5.82447162384449,107.25295654571,"Winter",67764
+10,-118.49432,35.4277106,"imm.",1933,"Myadestes townsendi townsendi","Myadestes_townsendi",27.2,NA,"female",13.1,192,7.6035677431218,174.984785049846,"Fall",67646
+6,-108.6748695,33.2705557,NA,1964,"Myadestes townsendi townsendi","Myadestes_townsendi",27.4,NA,"male",7.1,693,7.65808643714524,104.600032610344,"Summer",67665
+4,-116.44903,37.88806,"unknown",1931,"Myadestes townsendi townsendi","Myadestes_townsendi",27.5,NA,"male",8,365,8.70542759989248,70.141850703044,"Spring",67643
+7,-108.14806,28.56806,"unknown",1957,"Myadestes townsendi calophonus","Myadestes_townsendi",28,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",67613
+1,-118.5504344,35.712119,"adult",1993,NA,"Myadestes_townsendi",28,NA,"female",9.1,981,6.58328922117941,142.40109995792,"Winter",67668
+6,-106.6953533524,29.5152066475,"unknown",1957,"Myadestes townsendi calophonus","Myadestes_townsendi",28,NA,"male",14.3,459,5.82868429459519,151.355595038893,"Summer",67715
+7,-108.14806,28.56806,"unknown",1957,"Myadestes townsendi calophonus","Myadestes_townsendi",28,NA,"female",12.2,668,4.62590695448094,114.900395304386,"Summer",67719
+4,-117.179457,46.728691,NA,2000,"Myadestes townsendi","Myadestes_townsendi",28.3,NA,"female",8,476,7.59897820084843,52.1018227415742,"Spring",67561
+7,-119.279393,38.461747,"unknown",1946,"Myadestes townsendi townsendi","Myadestes_townsendi",28.5,NA,"male",2.7,649,6.71801625662237,135.119478282975,"Summer",67656
+7,-119.342281,38.38288,"imm.",1946,"Myadestes townsendi townsendi","Myadestes_townsendi",29.3,NA,"male",3.9,557,6.84131832058971,125.744649504261,"Summer",67801
+4,-105.7974833333,34.24815,NA,2011,"Myadestes townsendi","Myadestes_townsendi",29.4,NA,"male",8.8,282,8.61747695621573,131.477405201509,"Spring",67698
+3,-104.7247,32.11905,NA,2010,"Myadestes townsendi","Myadestes_townsendi",29.5,NA,"female",14.1,622,7.37592315742527,136.530435279694,"Spring",67596
+5,-109.2756175,31.9034249,"ad",1971,"Myadestes townsendi townsendi","Myadestes_townsendi",29.5,NA,"female",8,809,6.5644300913516,109.2087806359,"Spring",67776
+10,-117.165636,46.72953,NA,2010,"Myadestes townsendi","Myadestes_townsendi",29.7,NA,"male",8.6,583,6.57881701625249,53.5915099553872,"Fall",67564
+6,-123.7317033,40.8748542,"unknown",1933,"Myadestes townsendi townsendi","Myadestes_townsendi",29.8,NA,"male",9.5,2671,7.14598849111524,110.780670855594,"Summer",67757
+8,-108.4167461155,30.0146438844,"juv.",1948,"Myadestes townsendi calophonus","Myadestes_townsendi",30,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",67601
+7,-108.14806,28.56806,"unknown",1957,"Myadestes townsendi calophonus","Myadestes_townsendi",30,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",67614
+5,-115.50028,35.96583,"ad.sk.",1971,"Myadestes townsendi townsendi","Myadestes_townsendi",30,NA,"female ?",7.4,282,8.09565914362116,157.648734937003,"Spring",67627
+6,-119.5295334,49.3502892,"ad",1980,"Myadestes townsendi townsendi","Myadestes_townsendi",30,NA,"male",8.8,328,8.33533915254075,54.0952103933311,"Summer",67662
+11,-122.829771,49.103184,"immature",1994,"Myadestes townsendi townsendi","Myadestes_townsendi",30,215,"male",10.7,1304,5.55558005045105,61.4348265978345,"Fall",67793
+10,-118.8512,39.47361,"unknown",1940,"Myadestes townsendi townsendi","Myadestes_townsendi",30.1,NA,"male",11.9,161,8.42497639597449,107.61357636554,"Fall",67763
+6,-109.0665166667,33.8775333333,NA,2013,"Myadestes townsendi","Myadestes_townsendi",30.2,NA,"female",7.7,487,7.59124296126594,108.985783917023,"Summer",67702
+8,-108.4167461155,30.0146438844,"ad.sk.",1948,"Myadestes townsendi calophonus","Myadestes_townsendi",30.2,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",67708
+10,-116.0941527,33.8957522,"ad.",1945,"Myadestes townsendi townsendi","Myadestes_townsendi",30.2,NA,"male",14.1,383,6.98413787222029,141.93188433344,"Fall",67771
+10,-115.211389,35.322418,NA,1993,"Myadestes townsendi","Myadestes_townsendi",30.5,NA,"female",13.8,278,7.66283830633864,135.505591828959,"Fall",67586
+4,-104.1670847,30.6342934,NA,1937,"Myadestes townsendi","Myadestes_townsendi",30.5,NA,"female",12.7,552,6.42685535055595,64.4684780139461,"Spring",67667
+6,-119.04701,34.827853,"ad.",1929,"Myadestes townsendi townsendi","Myadestes_townsendi",30.6,NA,"male",10.6,204,7.04665727759473,138.340499276856,"Summer",67752
+6,-118.168469,37.53385,"unknown",1954,"Myadestes townsendi townsendi","Myadestes_townsendi",30.7,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",67608
+6,-115.27089,36.61974,"ad.sk.",1963,"Myadestes townsendi townsendi","Myadestes_townsendi",30.7,NA,"male",9.3,305,7.83505622574631,136.396603380443,"Summer",67723
+7,-118.4086,44.2483,"unknown",1938,"Myadestes townsendi townsendi","Myadestes_townsendi",30.8,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",67650
+5,-119.9833,51.6333,"unknown",1935,"Myadestes townsendi townsendi","Myadestes_townsendi",30.8,NA,"male",5.8,427,8.72811548961172,81.0833454983028,"Spring",67769
+4,-102.1011550903,28.5002283999,NA,1982,"Myadestes townsendi","Myadestes_townsendi",30.9,213,"female",18.8,344,5.98317717361847,70.6550305349087,"Spring",67678
+6,-115.40506,38.91725,"ad.sk.",1973,"Myadestes townsendi townsendi","Myadestes_townsendi",31,NA,"female",3.7,531,8.5993084640921,68.0536223222658,"Summer",67625
+6,-118.580792,37.814991,"unknown",1942,"Myadestes townsendi townsendi","Myadestes_townsendi",31,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",67653
+7,-108.14806,28.56806,"unknown",1957,"Myadestes townsendi calophonus","Myadestes_townsendi",31,NA,"female",12.2,668,4.62590695448094,114.900395304386,"Summer",67716
+7,-108.14806,28.56806,"unknown",1957,"Myadestes townsendi calophonus","Myadestes_townsendi",31,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",67717
+7,-108.14806,28.56806,"unknown",1957,"Myadestes townsendi calophonus","Myadestes_townsendi",31,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",67718
+10,-115.63028,35.51806,"unknown",1945,"Myadestes townsendi townsendi","Myadestes_townsendi",31,NA,"male",12.8,242,8.0679876203688,96.1878092340837,"Fall",67770
+7,-123.5681168,40.623889,"juv.",1932,"Myadestes townsendi townsendi","Myadestes_townsendi",31.1,NA,"male",8.8,1569,7.10229903025432,99.1683262710205,"Summer",67755
+9,-111.5625,35.4603,"imm.",1922,"Myadestes townsendi townsendi","Myadestes_townsendi",31.2,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",67636
+3,-103.7205602,30.3584919,NA,1935,"Myadestes townsendi","Myadestes_townsendi",31.2,NA,"female",16.1,390,6.12715639220556,82.1490778993885,"Spring",67666
+6,-120.2971805,41.5590607,"ad.sk.",1964,"Myadestes townsendi townsendi","Myadestes_townsendi",31.3,NA,"male",5.8,847,7.61698162600574,109.235639777376,"Summer",67619
+6,-120.2971805,41.5590607,"unknown",1964,"Myadestes townsendi townsendi","Myadestes_townsendi",31.4,NA,"male",5.8,847,7.61698162600574,109.235639777376,"Summer",67729
+4,-117.27444,38.94472,"ad.",1930,"Myadestes townsendi townsendi","Myadestes_townsendi",31.4,NA,"male",6.4,356,8.51506241191384,97.165616642835,"Spring",67753
+6,-105.4177333333,36.3082833333,"AHY",2008,"Myadestes townsendi","Myadestes_townsendi",31.5,NA,NA,5.1,587,7.57091724157568,59.1366519080502,"Summer",67593
+7,-119.44434,37.84358,"ad.",1915,"Myadestes townsendi townsendi","Myadestes_townsendi",31.5,NA,"male",4,1020,6.30835785191985,116.242009946809,"Summer",67631
+6,-109.25162,42.62525,NA,2008,"Myadestes townsendi","Myadestes_townsendi",31.5,NA,"male",0.8,572,9.09116704179492,75.377464223606,"Summer",67680
+12,-94.4736242,39.099127,NA,1963,"Myadestes townsendi","Myadestes_townsendi",31.5,NA,"male",12.9,660,12.0784807393023,74.0114565205643,"Winter",67685
+7,-115.951,48.933,"unknown",1966,"Myadestes townsendi townsendi","Myadestes_townsendi",31.5,NA,"undetermined",1.8,1340,7.26623573923815,68.3047764156009,"Summer",67735
+10,-119.891052,37.593871,"imm.",1915,"Myadestes townsendi townsendi","Myadestes_townsendi",31.5,NA,"male",13.1,933,6.26546571342152,122.059608415496,"Fall",67740
+6,-120.14686,39.40084,"unknown",1960,"Myadestes townsendi townsendi","Myadestes_townsendi",31.6,NA,"male",5.9,648,7.49731264985641,115.346510720111,"Summer",67722
+9,-119.14372,37.91708,"unknown",1915,"Myadestes townsendi townsendi","Myadestes_townsendi",31.6,NA,"female",5.2,455,6.74543055210958,119.339869837633,"Fall",67799
+9,-116.67194,37.7175,"unknown",1931,"Myadestes townsendi townsendi","Myadestes_townsendi",31.7,NA,"female",10.2,180,9.12628571265939,97.6077493197785,"Fall",67644
+9,-117.179457,46.728691,NA,1968,"Myadestes townsendi","Myadestes_townsendi",31.8,212,"female",8.6,550,7.20056289887159,64.6216986536996,"Fall",67568
+4,-116.2346518,33.9625431,"unknown",1951,"Myadestes townsendi townsendi","Myadestes_townsendi",31.9,NA,"female",13.5,316,6.85171953644197,110.45302127544,"Spring",67605
+4,-102.5517555606,28.9779644393,"unknown",1953,"Myadestes townsendi townsendi","Myadestes_townsendi",31.9,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",67711
+6,-106.1985,45.3019,"imm.",1947,"Myadestes townsendi townsendi","Myadestes_townsendi",31.9,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",67774
+11,-106.9019138169,29.3812953854,"juv.",1968,"Myadestes townsendi calophonus","Myadestes_townsendi",32,NA,"female",13.9,520,6.13684229334055,170.614180224898,"Fall",67624
+11,-122.7216912,39.1907959,"unknown",1981,"Myadestes townsendi townsendi","Myadestes_townsendi",32,NA,"female",14.5,1411,6.37708967533566,109.040387769224,"Fall",67628
+9,-114.28,38.96917,"imm.",1934,"Myadestes townsendi townsendi","Myadestes_townsendi",32,NA,"female",7.3,517,7.1378419623012,83.1565094368637,"Fall",67761
+4,-149.9044,61.1742,"AD",2012,"Myadestes townsendi","Myadestes_townsendi",32,NA,"male ?",1.4,555,10.3099980895275,76.7289344239312,"Spring",67778
+9,-104.8439544081,39.8197137293,"immature",1995,"Myadestes townsendi","Myadestes_townsendi",32.1,190,"female",10.2,451,7.8650502319766,94.4712015542169,"Fall",67574
+3,-104.7246666667,32.11905,NA,2010,"Myadestes townsendi","Myadestes_townsendi",32.1,NA,NA,14.1,622,7.37592315742527,136.530435279694,"Spring",67595
+4,-117.165649,46.729529,NA,1983,"Myadestes townsendi","Myadestes_townsendi",32.1,NA,"male",8.6,653,7.1532997259794,51.8771001530378,"Spring",67675
+6,-121.5601336,40.3581265,"ad.",1924,"Myadestes townsendi townsendi","Myadestes_townsendi",32.1,NA,"female",8.1,904,6.88238859170802,103.758398764678,"Summer",67747
+6,-118.168469,37.53385,"unknown",1954,"Myadestes townsendi townsendi","Myadestes_townsendi",32.2,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",67609
+8,-107.1544666667,34.0022333333,NA,2009,"Myadestes townsendi","Myadestes_townsendi",32.2,NA,"male",10.1,380,6.99863081847681,95.3980118230114,"Summer",67696
+6,-115.9594,48.2479,"unknown",1966,"Myadestes townsendi townsendi","Myadestes_townsendi",32.2,NA,"male",5.3,1620,7.26387387255338,78.1791790562549,"Summer",67731
+7,-119.073779,37.612592,"unknown",1949,"Myadestes townsendi townsendi","Myadestes_townsendi",32.3,NA,"female",4.7,515,7.86951829414089,108.22226771464,"Summer",67599
+5,-118.00528,37.82389,"unknown",1927,"Myadestes townsendi townsendi","Myadestes_townsendi",32.3,NA,"female",11.9,54,8.72033499495532,87.1348306992916,"Spring",67641
+7,-131.3833,57.8333,"juv.",1919,"Myadestes townsendi townsendi","Myadestes_townsendi",32.3,NA,"male",1.2,379,10.9927352043396,49.0966307949911,"Summer",67743
+1,-114.67067,35.46528,"unknown",1934,"Myadestes townsendi townsendi","Myadestes_townsendi",32.4,NA,"male",23.4,84,7.85904227336547,99.5466287683851,"Winter",67760
+10,-122.12743,37.83398,"U-Ad",1994,"Myadestes townsendi","Myadestes_townsendi",32.4,NA,"male",13.9,583,4.59771847240728,125.708650299198,"Fall",67787
+6,-107.40025,44.20397,NA,2008,"Myadestes townsendi","Myadestes_townsendi",32.5,NA,"male",4.8,574,9.04699849774398,88.7495767255469,"Summer",67577
+9,-123.1358556,40.315747,"imm.",1949,"Myadestes townsendi townsendi","Myadestes_townsendi",32.5,NA,"male",9.4,1281,6.87278338922096,146.948460928128,"Fall",67600
+7,-119.91126,38.51603,"unknown",1958,"Myadestes townsendi townsendi","Myadestes_townsendi",32.5,NA,"male",4.1,1363,6.47706910897392,90.0916109137602,"Summer",67615
+6,-109.25162,42.62525,NA,2008,"Myadestes townsendi","Myadestes_townsendi",32.5,NA,"male",0.8,572,9.09116704179492,75.377464223606,"Summer",67679
+3,-104.73503,32.0124,"unknown",1950,"Myadestes townsendi townsendi","Myadestes_townsendi",32.5,NA,"female",15.5,386,6.29665615925459,145.784899137763,"Spring",67710
+7,-115.92,48.94,"unknown",1966,"Myadestes townsendi townsendi","Myadestes_townsendi",32.5,NA,"male",3.5,1110,7.40963234682744,68.9118033453043,"Summer",67730
+10,-115.458333,30.883333,"imm.",1925,"Myadestes townsendi townsendi","Myadestes_townsendi",32.5,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",67749
+6,-109.0453833333,36.2504333333,NA,2013,"Myadestes townsendi","Myadestes_townsendi",32.7,NA,"male",8,439,9.0602361331192,77.6714634930389,"Summer",67597
+7,-119.7497894,48.6586762,"adult",1940,"Myadestes townsendi","Myadestes_townsendi",32.7,NA,"male",4.7,648,8.14331385899258,67.489253569456,"Summer",67779
+3,-107.60255,32.0932,NA,2013,"Myadestes townsendi","Myadestes_townsendi",32.8,NA,"female",16,320,8.31017539836044,138.481004604832,"Spring",67699
+6,-122.9617,41.3154,"sk.oss.",1980,"Myadestes townsendi townsendi","Myadestes_townsendi",32.8,NA,"female",5.9,1131,6.26120813204028,97.6128549905964,"Summer",67733
+11,-109.0048333333,31.5198333333,NA,2013,"Myadestes townsendi","Myadestes_townsendi",32.9,NA,"female",15.3,439,7.49077715756132,120.460174092381,"Fall",67598
+12,-107.14645,34.0285333333,NA,2013,"Myadestes townsendi","Myadestes_townsendi",32.9,NA,"male",11,343,8.09516784410567,144.384539087769,"Winter",67703
+7,-106.8987177777,29.3920969444,"unknown",1959,"Myadestes townsendi calophonus","Myadestes_townsendi",32.9,NA,"male",14.4,416,6.22801588133667,161.139334141977,"Summer",67720
+6,-110.43045,46.7413833333,NA,2009,"Myadestes townsendi","Myadestes_townsendi",33,NA,NA,1.7,624,8.65974228043978,53.8002446766994,"Summer",67579
+6,-120.2193548,51.6499977,NA,1935,"Myadestes townsendi townsendi","Myadestes_townsendi",33,NA,"male",2.7,591,7.94183399931825,69.8082383797105,"Summer",67693
+10,-119.56963,39.05579,"AHY",2012,"Myadestes townsendi townsendi","Myadestes_townsendi",33,NA,"undetermined",10,538,7.52198293488674,137.623901552949,"Fall",67694
+6,-118.9749,37.88203,"unknown",1916,"Myadestes townsendi townsendi","Myadestes_townsendi",33,NA,"male",5.3,540,7.86343185931312,134.479918518894,"Summer",67741
+6,-123.7317033,40.8748542,"unknown",1933,"Myadestes townsendi townsendi","Myadestes_townsendi",33,NA,"male",9.5,2671,7.14598849111524,110.780670855594,"Summer",67758
+7,-149.9044,61.1742,"HY",2001,"Myadestes townsendi","Myadestes_townsendi",33,NA,"female",2.4,321,9.66543356816475,110.30053240868,"Summer",67777
+5,-118.6301375,35.9746704,"adult",1984,NA,"Myadestes_townsendi",33,NA,"male",9,695,7.04367328411343,141.916718383901,"Spring",67782
+4,-123.113521,49.261096,NA,1983,"Myadestes townsendi townsendi","Myadestes_townsendi",33,208,NA,10.6,1711,5.17238442172086,75.7749642060194,"Spring",67791
+9,-122.829771,49.103184,"immature",1993,"Myadestes townsendi townsendi","Myadestes_townsendi",33,217,"male",10.1,1076,6.02531905354146,60.4107221174976,"Fall",67792
+10,-117.165636,46.72953,NA,2010,"Myadestes townsendi","Myadestes_townsendi",33.1,NA,"female",8.6,583,6.57881701625249,53.5915099553872,"Fall",67563
+9,-105.5730667,36.4072495,NA,2007,"Myadestes townsendi","Myadestes_townsendi",33.1,NA,"male",9,373,9.03694437497341,60.2415585711054,"Fall",67591
+9,-118.999189,47.170469,NA,1952,"Myadestes townsendi","Myadestes_townsendi",33.1,207,"female",10.8,153,9.41612092813879,90.9225829084096,"Fall",67670
+9,-116.2346518,33.9625431,"unknown",1950,"Myadestes townsendi townsendi","Myadestes_townsendi",33.2,NA,"female",14.4,82,5.88054702670877,100.197198889473,"Fall",67603
+6,-118.168469,37.53385,"unknown",1954,"Myadestes townsendi townsendi","Myadestes_townsendi",33.2,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",67607
+6,-121.5601336,40.3581265,"juv.",1924,"Myadestes townsendi townsendi","Myadestes_townsendi",33.2,NA,"undetermined",8.1,904,6.88238859170802,103.758398764678,"Summer",67637
+12,-121.7264709,40.3462883,"unknown",1924,"Myadestes townsendi townsendi","Myadestes_townsendi",33.2,NA,"male",12,624,7.02417362766006,104.178062949932,"Winter",67639
+6,-120.2893066,51.7933285,NA,1935,"Myadestes townsendi townsendi","Myadestes_townsendi",33.3,NA,"male",1.3,724,7.55454408708006,69.6001039923692,"Summer",67590
+9,-118.91056,36.78619,"ad.",1916,"Myadestes townsendi townsendi","Myadestes_townsendi",33.4,NA,"female",9.5,1484,7.31330771244925,152.529949124809,"Fall",67632
+1,-123.61833,40.91792,"unknown",1942,"Myadestes townsendi townsendi","Myadestes_townsendi",33.4,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",67652
+10,-111.4178,35.5211,"unknown",1932,"Myadestes townsendi townsendi","Myadestes_townsendi",33.4,NA,"male",11.9,268,9.23903117051225,73.1147908941546,"Fall",67756
+9,-119.14372,37.91708,"ad.",1915,"Myadestes townsendi townsendi","Myadestes_townsendi",33.4,NA,"male",5.2,455,6.74543055210958,119.339869837633,"Fall",67788
+4,-119.594211,49.49871,"adult",1995,"Myadestes townsendi townsendi","Myadestes_townsendi",33.4,206,"male",9.7,387,8.02535753947222,51.6685447447669,"Spring",67803
+7,-108.65,33.4,NA,1964,"Myadestes townsendi townsendi","Myadestes_townsendi",33.4,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",67808
+9,-101.8001034,39.7870332,NA,1953,"Myadestes townsendi","Myadestes_townsendi",33.5,NA,"female",12.2,346,9.49811783587898,83.6424782762256,"Fall",67581
+6,-120.2971805,41.5590607,"ad.sk.",1964,"Myadestes townsendi townsendi","Myadestes_townsendi",33.5,NA,"male",5.8,847,7.61698162600574,109.235639777376,"Summer",67618
+10,-117.465934,36.58766,"imm.",1917,"Myadestes townsendi townsendi","Myadestes_townsendi",33.5,NA,"female",11.3,120,8.64527809462098,94.2916172886492,"Fall",67634
+8,-108.4167461155,30.0146438844,"unknown",1948,"Myadestes townsendi calophonus","Myadestes_townsendi",33.5,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",67709
+1,-123.61833,40.91792,"unknown",1942,"Myadestes townsendi townsendi","Myadestes_townsendi",33.5,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",67765
+10,-105.2391155,39.7329607,NA,1986,"Myadestes townsendi","Myadestes_townsendi",33.6,188,"female",8.3,493,6.68668396323936,58.8812373116288,"Fall",67572
+6,-115.65611,36.40167,"ad.",1963,"Myadestes townsendi townsendi","Myadestes_townsendi",33.6,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",67726
+6,-119.852339,38.75684,"unknown",1921,"Myadestes townsendi townsendi","Myadestes_townsendi",33.6,NA,"male",3.6,981,5.87000593670651,143.427477153791,"Summer",67744
+5,-117.047413,46.876431,NA,1950,"Myadestes townsendi","Myadestes_townsendi",33.7,212,"female",6.8,840,8.82418766112711,65.1420968481076,"Spring",67565
+6,-114.82083,40.5525,"unknown",1956,"Myadestes townsendi townsendi","Myadestes_townsendi",33.7,NA,"male",3,727,7.97288967043754,111.831904649184,"Summer",67610
+7,-108.14806,28.56806,"unknown",1957,"Myadestes townsendi calophonus","Myadestes_townsendi",33.7,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",67612
+6,-115.28361,36.63,"ad.",1963,"Myadestes townsendi townsendi","Myadestes_townsendi",33.7,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",67617
+6,-121.5319,40.4147,"unknown",1924,"Myadestes townsendi townsendi","Myadestes_townsendi",33.7,NA,"male",6.9,1423,6.82073487554122,104.276018204552,"Summer",67638
+9,-119.4312034,37.9129863,"imm.",1915,"Myadestes townsendi townsendi","Myadestes_townsendi",33.7,NA,"male",4.1,848,6.32668710281848,114.818770345049,"Fall",67739
+6,-108.65,33.4,NA,1964,"Myadestes townsendi townsendi","Myadestes_townsendi",33.7,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",67807
+6,-124.3162516,51.9666672,"ad",1973,"Myadestes townsendi townsendi","Myadestes_townsendi",33.8,NA,"male",1.5,426,8.61425879257493,57.1957751350288,"Summer",67658
+5,-117.179457,46.728691,NA,1974,"Myadestes townsendi","Myadestes_townsendi",33.8,NA,"female",8.5,489,7.664612702465,78.7202166869468,"Spring",67673
+11,-105.4667,40.0278,NA,1984,"Myadestes townsendi townsendi","Myadestes_townsendi",33.8,NA,"male",4.5,558,8.11759686039402,59.4712321904972,"Fall",67810
+10,-115.8090522,33.7365557,"imm.",1945,"Myadestes townsendi townsendi","Myadestes_townsendi",33.9,NA,"female",15.9,300,7.56030302423004,194.693231894318,"Fall",67772
+4,-102.96361,36.97499,NA,1969,"Myadestes townsendi","Myadestes_townsendi",34,NA,"male",12.3,621,9.28840919934869,78.5214806957902,"Spring",67585
+6,-104.42025,44.44875,NA,2008,"Myadestes townsendi","Myadestes_townsendi",34,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",67682
+6,-118.53902,36.11753,"sk.oss.",1979,"Myadestes townsendi townsendi","Myadestes_townsendi",34,NA,"male",7.8,727,6.67069575218221,137.792686029485,"Summer",67732
+6,-116.98667,39.23861,"unknown",1930,"Myadestes townsendi townsendi","Myadestes_townsendi",34,NA,"male",8.2,223,9.05938321534221,90.698323731634,"Summer",67754
+12,-98.584,38.935,NA,2012,"Myadestes townsendi","Myadestes_townsendi",34,NA,"male",14.7,529,9.92915434770787,71.7849593625552,"Winter",67798
+3,-122.6198837,52.1166668,NA,1932,"Myadestes townsendi townsendi","Myadestes_townsendi",34.06,NA,"male",1.5,454,8.90377431035272,56.4897168533407,"Spring",67587
+12,-119.66043,37.72232,"unknown",1914,"Myadestes townsendi townsendi","Myadestes_townsendi",34.1,NA,"male",9.6,1105,6.59216132304807,187.364546937371,"Winter",67738
+9,-117.164293,46.730767,NA,1994,"Myadestes townsendi","Myadestes_townsendi",34.2,NA,"female",9.4,491,8.01042880855761,84.5443613966003,"Fall",67570
+3,-105.082547,40.574108,NA,1993,"Myadestes townsendi","Myadestes_townsendi",34.2,199,"undetermined",7.9,431,9.02847347746746,53.3396460910442,"Spring",67573
+4,-123.4853,40.3329,"unknown",1932,"Myadestes townsendi townsendi","Myadestes_townsendi",34.2,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",67645
+7,-117.3257,45.2124,"unknown",1938,"Myadestes townsendi townsendi","Myadestes_townsendi",34.2,NA,"male",1.2,1660,6.5231522404061,85.3036181365412,"Summer",67762
+7,-117.3006,45.1636,"unknown",1938,"Myadestes townsendi townsendi","Myadestes_townsendi",34.4,NA,"male",0.7,1984,6.44832606890417,92.492961010121,"Summer",67651
+10,-111.8232192,34.8184514,NA,1970,"Myadestes townsendi","Myadestes_townsendi",34.4,NA,"male",14.9,424,8.08537774833887,105.302920509743,"Fall",67690
+6,-109.25162,42.62525,NA,2008,"Myadestes townsendi","Myadestes_townsendi",34.5,NA,"male",0.8,572,9.09116704179492,75.377464223606,"Summer",67576
+10,-118.34449,35.47933,"imm.",1933,"Myadestes townsendi townsendi","Myadestes_townsendi",34.5,NA,"female",8.2,270,8.07316917982403,163.93350836666,"Fall",67647
+9,-114.10722,39.01722,"ad.",1934,"Myadestes townsendi townsendi","Myadestes_townsendi",34.5,NA,"female",12,145,8.45472792243631,67.979497800529,"Fall",67649
+6,-114.6885109,50.6637169,NA,1960,"Myadestes townsendi","Myadestes_townsendi",34.5,NA,"male",1.4,449,9.23732136826505,83.529785201913,"Summer",67664
+9,-121.352708,40.434685,"ad.",1923,"Myadestes townsendi townsendi","Myadestes_townsendi",34.5,NA,"female",6.6,715,6.61061474242201,93.0287963965877,"Fall",67745
+1,-120.23207,40.79823,"unknown",1926,"Myadestes townsendi townsendi","Myadestes_townsendi",34.5,NA,"male",9.2,223,7.45859276677619,96.0471141886474,"Winter",67751
+12,-120.277486,40.5427277,"unknown",1942,"Myadestes townsendi townsendi","Myadestes_townsendi",34.5,NA,"female",8.8,219,8.35674287717119,92.5221304861657,"Winter",67768
+3,-104.0461493,30.6298252,NA,1937,"Myadestes townsendi","Myadestes_townsendi",34.5,NA,"male",14.7,432,6.82421601668824,64.3002398762827,"Spring",67781
+9,-117.628281,47.550788,"Ad",1958,"Myadestes townsendi","Myadestes_townsendi",34.6,222,"male",10.2,552,8.23532671243868,69.7437829563671,"Fall",67671
+5,-123.0218589,40.2528009,"unknown",1946,"Myadestes townsendi townsendi","Myadestes_townsendi",34.6,NA,"female",9.1,900,6.53199584330622,100.72331767489,"Spring",67773
+9,-117.179457,46.728691,"Ad",1966,"Myadestes townsendi","Myadestes_townsendi",34.7,214,"female",8.9,460,6.92708780473768,75.3229855802859,"Fall",67567
+9,-116.2346518,33.9625431,"imm.",1950,"Myadestes townsendi townsendi","Myadestes_townsendi",34.7,NA,"male",14.4,82,5.88054702670877,100.197198889473,"Fall",67604
+9,-114.3333333,47.1,NA,1960,"Myadestes townsendi","Myadestes_townsendi",34.8,NA,"male",3.4,661,8.90183842095144,53.4100304974514,"Fall",67805
+6,-106.6953533524,29.5152066475,"unknown",1957,"Myadestes townsendi calophonus","Myadestes_townsendi",34.9,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",67611
+9,-123.6882035,40.9681342,"ad.",1949,"Myadestes townsendi townsendi","Myadestes_townsendi",34.9,NA,"male",11.2,1648,6.98294459032256,105.366983468353,"Fall",67705
+6,-125.6588745,52.5379436,NA,1932,"Myadestes townsendi townsendi","Myadestes_townsendi",34.97,NA,"male",0.1,1090,7.56352891823451,72.6966827036938,"Summer",67588
+5,-115.40083,37.66592,"ad.sk.",1972,"Myadestes townsendi townsendi","Myadestes_townsendi",35,NA,"female",7.5,348,8.11094938955977,126.064808585424,"Spring",67626
+6,-117.746053,46.210634,NA,1979,"Myadestes townsendi","Myadestes_townsendi",35,NA,"male",6.6,1022,9.02190516062282,65.2594733663895,"Summer",67674
+6,-115.0144,48.5062,"unknown",1966,"Myadestes townsendi townsendi","Myadestes_townsendi",35.1,NA,"male",3.2,890,7.24323613428209,63.530539948484,"Summer",67621
+7,-109.065286,42.8619874,NA,1949,"Myadestes townsendi","Myadestes_townsendi",35.1,NA,"female",0.8,753,9.49540558758431,70.5073892721532,"Summer",67684
+6,-105.4177333333,36.3082833333,"AHY",2008,"Myadestes townsendi","Myadestes_townsendi",35.1,NA,"female",5.1,587,7.57091724157568,59.1366519080502,"Summer",67695
+9,-103.9043,44.3768,"ad.",1959,"Myadestes townsendi townsendi","Myadestes_townsendi",35.1,NA,"female",5.2,576,9.57586533790534,68.7945453182439,"Fall",67721
+6,-115.8938,48.3214,"unknown",1966,"Myadestes townsendi townsendi","Myadestes_townsendi",35.2,NA,"male",4.5,1403,6.90493894384171,74.9926114876521,"Summer",67623
+6,-119.1412354,52.7080113,"ad",1973,"Myadestes townsendi townsendi","Myadestes_townsendi",35.2,NA,"male",-0.7,1143,7.91907459393094,61.3099808860301,"Summer",67659
+5,-113.9833333,46.8666667,NA,1960,"Myadestes townsendi","Myadestes_townsendi",35.2,NA,"female",6.3,267,9.57393478527649,52.136416445915,"Spring",67804
+3,-104.7446666667,32.1106833333,"ad",2008,"Myadestes townsendi","Myadestes_townsendi",35.3,NA,"female",13.7,416,6.38954520124773,127.897254922621,"Spring",67592
+12,-109.2335783,34.1333799,"adult",1963,"Myadestes townsendi","Myadestes_townsendi",35.3,NA,"female",8.6,251,7.69608322263325,121.773082560817,"Winter",67689
+7,-108.65,33.4,NA,1964,"Myadestes townsendi townsendi","Myadestes_townsendi",35.3,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",67809
+11,-99.0909032,37.2544124,NA,1965,"Myadestes townsendi","Myadestes_townsendi",35.5,NA,"female",14.3,750,9.78407410338894,80.4511352125403,"Fall",67583
+1,-104.7127777778,32.1336111111,NA,2010,"Myadestes townsendi","Myadestes_townsendi",35.5,NA,"male",14.4,610,7.38899160709342,136.500328053159,"Winter",67697
+11,-108.5010166667,33.04865,NA,2012,"Myadestes townsendi","Myadestes_townsendi",35.5,NA,"male",15,312,7.38653053424497,142.290067648718,"Fall",67700
+6,-118.168469,37.53385,"unknown",1954,"Myadestes townsendi townsendi","Myadestes_townsendi",35.5,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",67713
+6,-120.2971805,41.5590607,"unknown",1964,"Myadestes townsendi townsendi","Myadestes_townsendi",35.5,NA,"male",5.8,847,7.61698162600574,109.235639777376,"Summer",67728
+6,-133.7,59.5667,"juv.",1924,"Myadestes townsendi townsendi","Myadestes_townsendi",35.5,NA,"male",-0.3,390,8.84507652809623,42.7361199847268,"Summer",67746
+5,-114.5056915,50.6755758,NA,1960,"Myadestes townsendi","Myadestes_townsendi",35.5,NA,"male",2.4,439,9.12020733416636,68.9185506293889,"Spring",67780
+4,-113.9333333,47.1166667,NA,1960,"Myadestes townsendi","Myadestes_townsendi",35.5,NA,"male",1.2,1058,8.70149760708239,60.791167829434,"Spring",67806
+10,-117.465934,36.58766,"imm.",1917,"Myadestes townsendi townsendi","Myadestes_townsendi",35.6,NA,"female",11.3,120,8.64527809462098,94.2916172886492,"Fall",67742
+9,-119.9514771,50.6390103,"imm",1974,"Myadestes townsendi townsendi","Myadestes_townsendi",35.7,NA,"male",7.9,292,8.19556421042949,59.5541848597439,"Fall",67660
+11,-118.0617294,36.6070404,NA,2000,"Myadestes townsendi","Myadestes_townsendi",35.7,NA,"male",15.6,75,7.90632178970881,147.402593440581,"Fall",67691
+7,-131.3021,57.8333,"juv.",1919,"Myadestes townsendi townsendi","Myadestes_townsendi",36,NA,"female",0,479,10.5338703353717,48.0638780679278,"Summer",67635
+3,-104.8319195,39.7294319,NA,1999,"Myadestes townsendi","Myadestes_townsendi",36,203,"undetermined",10.7,469,7.52983459917342,87.6409218510326,"Spring",67677
+12,-104.81142,36.18766,NA,2012,"Myadestes townsendi","Myadestes_townsendi",36,NA,"male",11.3,262,7.91804134795208,71.8661354909917,"Winter",67701
+9,-123.1358556,40.315747,"unknown",1949,"Myadestes townsendi townsendi","Myadestes_townsendi",36,NA,"male",9.4,1281,6.87278338922096,146.948460928128,"Fall",67706
+6,-108.8889333333,36.1065166667,NA,2013,"Myadestes townsendi","Myadestes_townsendi",36.1,NA,"female",4.5,718,8.83834620482608,68.7751989492292,"Summer",67704
+9,-104.78205,39.370718,NA,1998,"Myadestes townsendi","Myadestes_townsendi",36.2,208,"male",8.9,475,8.51649024308759,95.8304799058348,"Fall",67676
+11,-118.21,35.37,"imm.",1933,"Myadestes townsendi townsendi","Myadestes_townsendi",36.3,NA,"male",13.3,200,8.08130558758917,160.922341519132,"Fall",67759
+10,-117.164293,46.730767,NA,2005,"Myadestes townsendi","Myadestes_townsendi",36.5,NA,"female",8.8,452,7.66058388470131,68.689838074749,"Fall",67562
+11,-117.179457,46.728691,NA,1971,"Myadestes townsendi","Myadestes_townsendi",36.5,207,"female",8.1,663,7.58329004316648,44.776639089984,"Fall",67569
+7,-109.2375783,47.1638049,NA,1961,"Myadestes townsendi","Myadestes_townsendi",36.5,NA,"male",5,415,8.65986912911121,71.6338313818282,"Summer",67582
+9,-108.3358333333,36.7329666667,NA,2009,"Myadestes townsendi","Myadestes_townsendi",36.5,NA,NA,11.7,135,9.53142728349779,35.3783462722711,"Fall",67594
+12,-119.265425,34.643093,"adult",1996,NA,"Myadestes_townsendi",36.5,NA,"male",12.7,982,6.10987774514401,130.203935295129,"Winter",67669
+5,-119.052048,37.956225,"ad.",1953,"Myadestes townsendi townsendi","Myadestes_townsendi",36.6,NA,"female",7.2,175,6.93674340673699,66.6987463513256,"Spring",67606
+6,-115.28361,36.63,"ad.sk.",1963,"Myadestes townsendi townsendi","Myadestes_townsendi",36.6,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",67616
+11,-120.22386,39.43159,"ad.",1953,"Myadestes townsendi townsendi","Myadestes_townsendi",36.6,NA,"male ?",4.4,628,5.95427017638042,92.1433952612745,"Fall",67712
+12,-119.598212,37.736686,"unknown",1914,"Myadestes townsendi townsendi","Myadestes_townsendi",36.8,NA,"female",9.3,942,6.9558946007663,172.736308446662,"Winter",67736
+7,-115.733,48.8933,"unknown",1966,"Myadestes townsendi townsendi","Myadestes_townsendi",37,NA,"female",3.5,878,7.15496754751974,70.8026421177941,"Summer",67620
+7,-117.3460007,52.9835835,"ad",1980,"Myadestes townsendi townsendi","Myadestes_townsendi",37,NA,"female",-0.4,1029,9.29461802563313,71.8318731017019,"Summer",67661
+3,-121.9927864,41.6623745,"immature",1961,"Myadestes townsendi","Myadestes_townsendi",37.1,NA,"male",8.5,486,7.47255077945377,67.0908552272247,"Spring",67584
+6,-115.40583,40.65028,"unknown",1956,"Myadestes townsendi townsendi","Myadestes_townsendi",37.1,NA,"female",4.3,644,8.23510593113226,101.722999908376,"Summer",67714
+10,-119.42944,40.45639,"unknown",1947,"Myadestes townsendi townsendi","Myadestes_townsendi",37.2,NA,"female",10.6,125,8.40485069180382,80.7611696446165,"Fall",67655
+1,-97.1411132,37.3385,NA,1958,"Myadestes townsendi","Myadestes_townsendi",37.2,NA,"female",13.9,823,10.2597182311123,74.6628658566371,"Winter",67686
+10,-115.458333,30.883333,"imm.",1925,"Myadestes townsendi townsendi","Myadestes_townsendi",37.2,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",67750
+9,-114.10722,39.01722,"imm.",1934,"Myadestes townsendi townsendi","Myadestes_townsendi",37.3,NA,"male",12,145,8.45472792243631,67.979497800529,"Fall",67648
+1,-84.200306,42.372414,NA,1957,"Myadestes townsendi townsendi","Myadestes_townsendi",37.4,NA,"female",9.2,878,9.6915262894026,40.6488666530552,"Winter",67663
+4,-117.179457,46.728691,"Ad",1952,"Myadestes townsendi","Myadestes_townsendi",37.5,206,"male",8.7,401,8.12942187366359,67.678286012021,"Spring",67566
+3,-122.5277977,41.8770546,"immature",1962,"Myadestes townsendi","Myadestes_townsendi",37.5,NA,"female",10.4,527,7.45609370470445,93.0296673446959,"Spring",67687
+6,-118.031662,36.968,"ad.sk.",1984,"Myadestes townsendi townsendi","Myadestes_townsendi",37.5,NA,"female",4.2,359,6.62695940149711,116.035010308792,"Summer",67734
+6,-120.289512,41.9885085,"unknown",1964,"Myadestes townsendi townsendi","Myadestes_townsendi",37.6,NA,"female",7,710,7.4748619121734,116.183190869799,"Summer",67727
+11,-115.7230556,31.4,"ad.",1926,"Myadestes townsendi townsendi","Myadestes_townsendi",37.6,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",67790
+7,-124.6931,58.6861,NA,1965,"Myadestes townsendi townsendi","Myadestes_townsendi",37.9,NA,NA,-3.7,684,9.45760476435698,47.3004415034113,"Summer",67795
+6,-115.945,48.905,"unknown",1966,"Myadestes townsendi townsendi","Myadestes_townsendi",38,NA,"female",1.7,1333,7.27253030036293,67.794514305509,"Summer",67622
+12,-118.2285118,35.6578541,NA,1986,"Myadestes townsendi townsendi","Myadestes_townsendi",38,NA,"male",15.7,432,6.99273974139672,159.488970632951,"Winter",67692
+5,-120.2893066,51.7933285,NA,1935,"Myadestes townsendi townsendi","Myadestes_townsendi",38.1,NA,"female",1.3,724,7.55454408708006,69.6001039923692,"Spring",67589
+7,-103.95742,44.40666,NA,2007,"Myadestes townsendi","Myadestes_townsendi",38.2,NA,NA,6.8,591,10.2574437125022,64.0352596716035,"Summer",67575
+10,-115.458333,30.883333,"imm.",1925,"Myadestes townsendi townsendi","Myadestes_townsendi",38.2,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",67640
+1,-123.47623,40.41681,"unknown",1942,"Myadestes townsendi townsendi","Myadestes_townsendi",38.3,NA,"male",11.1,1775,6.20226620362316,98.9318072725107,"Winter",67766
+11,-122.745095,39.1547934,"skull ossified",1981,"Myadestes townsendi","Myadestes_townsendi",38.5,NA,"female",14,1774,6.42813418426444,111.7932818702,"Fall",67629
+11,-118.5718774,34.7012067,"adult",1988,NA,"Myadestes_townsendi",38.6,NA,"male",13.9,504,6.49481728112127,109.699232173634,"Fall",67783
+9,-115.29143,46.02538,"U-Ad.",1941,"Myadestes townsendi townsendi","Myadestes_townsendi",38.6,NA,"male",9.3,846,7.67500370150932,47.8519191345838,"Fall",67796
+12,-120.277486,40.5427277,"unknown",1942,"Myadestes townsendi","Myadestes_townsendi",38.7,NA,"female",8.8,219,8.35674287717119,92.5221304861657,"Winter",67767
+12,-119.69783,37.7296,"unknown",1914,"Myadestes townsendi townsendi","Myadestes_townsendi",38.8,NA,"female",8.7,1093,6.41681030929344,186.876061429584,"Winter",67630
+9,-115.29143,46.02538,"U-Ad.",1941,"Myadestes townsendi townsendi","Myadestes_townsendi",39,NA,"male",9.3,846,7.67500370150932,47.8519191345838,"Fall",67786
+6,-107.40025,44.20397,NA,2008,"Myadestes townsendi","Myadestes_townsendi",39.2,NA,"male",4.8,574,9.04699849774398,88.7495767255469,"Summer",67681
+3,-114,46.8666667,NA,1959,"Myadestes townsendi","Myadestes_townsendi",39.8,NA,"male",6.5,432,8.47357747067407,62.5466550215576,"Spring",67794
+6,-111.0448666667,46.9036666667,NA,2009,"Myadestes townsendi","Myadestes_townsendi",40,NA,NA,2.7,561,8.77749791779922,57.9424575410796,"Summer",67580
+9,-117.465934,36.58766,"ad.",1917,"Myadestes townsendi townsendi","Myadestes_townsendi",40,NA,"female",11.3,120,8.64527809462098,94.2916172886492,"Fall",67633
+12,-119.598212,37.736686,"unknown",1914,"Myadestes townsendi townsendi","Myadestes_townsendi",40,NA,"male",9.3,942,6.9558946007663,172.736308446662,"Winter",67737
+3,-82.50596,41.90342,"ad",1962,"Myadestes townsendi townsendi","Myadestes_townsendi",40,NA,"female",9.5,760,10.7224594363251,28.4787133152679,"Spring",67802
+4,-102.96361,36.97499,NA,1969,"Myadestes townsendi","Myadestes_townsendi",40.4,NA,"male",12.3,621,9.28840919934869,78.5214806957902,"Spring",67688
+5,-112.4312792,34.4465659,"ad",1969,"Myadestes townsendi townsendi","Myadestes_townsendi",41,NA,"male",9.9,683,7.58077212826016,72.3272356493059,"Spring",67657
+1,-116.5844444,32.567222,"ad.",1927,"Myadestes townsendi townsendi","Myadestes_townsendi",41.7,NA,"female",15.6,533,5.07873612290111,136.085882643513,"Winter",67800
+12,-117.324999,46.742744,NA,1973,"Myadestes townsendi","Myadestes_townsendi",41.9,NA,"female",9.2,512,7.54326410337947,111.333614200495,"Winter",67672
+6,-104.42025,44.44875,NA,2008,"Myadestes townsendi","Myadestes_townsendi",42,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",67683
+6,-115.26453,36.64538,"ad.sk.",1963,"Myadestes townsendi townsendi","Myadestes_townsendi",43.3,NA,"male",9.6,304,7.85514693263807,131.979071869577,"Summer",67724
+9,-116.9153,46.8111,"unknown",1949,"Myadestes townsendi townsendi","Myadestes_townsendi",45,NA,"male",6.1,923,9.34289553455977,95.3559072397906,"Fall",67707
+6,-117.1743385,51.2999992,NA,1968,"Myadestes townsendi townsendi","Myadestes_townsendi",45,NA,"undetermined",-2.8,2451,7.46597839089649,77.9367110564347,"Summer",67775
+12,-120.277486,40.5427277,"unknown",1942,"Myadestes townsendi townsendi","Myadestes_townsendi",48.5,NA,"female",8.8,219,8.35674287717119,92.5221304861657,"Winter",67654
+10,-120.46574,40.90019,"unknown",1924,"Myadestes townsendi townsendi","Myadestes_townsendi",50,NA,"female",7.3,181,8.14722019892042,97.6077493197785,"Fall",67748

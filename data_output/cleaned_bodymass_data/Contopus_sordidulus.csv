@@ -1,0 +1,446 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-105.71972,39.4575,NA,1902,"Contopus sordidulus","Contopus_sordidulus",3.5,6.4,"male",2.5,389,7.63155331899123,45.8357335508579,"Summer",24657
+8,-117.237765,46.826862,NA,1977,"Contopus sordidulus","Contopus_sordidulus",8,NA,"male",8.1,486,7.99185191114656,82.7404455358394,"Summer",24420
+5,-107.44369778,38.8832958,NA,1992,"Contopus sordidulus","Contopus_sordidulus",8.5,117,"male",7.2,555,8.07368996785049,57.267928892138,"Spring",24430
+6,-120.781906,40.54848,"adult skull",2006,"Contopus sordidulus veliei","Contopus_sordidulus",10,NA,"male",9.2,752,8.20380547321938,92.8542524944321,"Summer",24532
+8,-123.4568,40.45807,"juv.",1942,"Contopus sordidulus veliei","Contopus_sordidulus",10,NA,"female",10.2,2118,6.39962120091115,99.0391196236951,"Summer",24598
+7,-103.630525,37.087592,"immature",1991,"Contopus sordidulus","Contopus_sordidulus",10,145,"female",10,422,7.98238116672645,71.1761649868937,"Summer",24658
+9,-105.263367,39.6636798,"immature",1989,"Contopus sordidulus","Contopus_sordidulus",10,137,"undetermined",7.2,415,8.19262417721519,49.694244539247,"Fall",24660
+9,-116.257,34.03749,"imm.",1950,"Contopus sordidulus veliei","Contopus_sordidulus",10,NA,"female",15,75,6.33367024622207,105.057559980664,"Fall",24700
+8,-116.3038572,34.0304563,"u ad.",1950,"Contopus sordidulus veliei","Contopus_sordidulus",10.2,NA,"male",13.9,82,5.9258805764258,102.312243370886,"Summer",24487
+6,-120.781906,40.54848,"skull",2006,"Contopus sordidulus veliei","Contopus_sordidulus",10.39,NA,"female",9.2,752,8.20380547321938,92.8542524944321,"Summer",24751
+5,-122.18016,40.37479,"u ad.",1926,"Contopus sordidulus veliei","Contopus_sordidulus",10.4,NA,"female",18,804,7.37236855981971,110.49542409175,"Spring",24769
+5,-103.6336899,30.497497,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",10.5,NA,"male",16.6,591,7.27490497699059,108.782829974301,"Spring",24828
+8,-116.3038572,34.0304563,"u ad.",1950,"Contopus sordidulus veliei","Contopus_sordidulus",10.8,NA,"undetermined",13.9,82,5.9258805764258,102.312243370886,"Summer",24486
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",11,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",24498
+3,-118.7806322,36.2666699,"adult",1984,NA,"Contopus_sordidulus",11,NA,"female",15.4,484,7.22740470624683,134.011355440779,"Spring",24639
+9,-121.9491551,39.583726,"imm.",1933,"Contopus sordidulus veliei","Contopus_sordidulus",11,NA,"male",16.2,418,7.68392162343887,165.689347539508,"Fall",24785
+5,-115.5697,33.1714,"u ad.",1937,"Contopus sordidulus veliei","Contopus_sordidulus",11,NA,"female",22.5,40,8.84871159941926,110.656667034498,"Spring",24788
+5,-118.7806322,36.2666699,"adult",1984,NA,"Contopus_sordidulus",11,NA,"female",15.4,484,7.22740470624683,134.011355440779,"Spring",24839
+8,-108.4167461155,30.0146438844,"u ad.",1948,"Contopus sordidulus veliei","Contopus_sordidulus",11.1,NA,"female",13.1,351,6.92931300980687,121.571115249925,"Summer",24483
+6,-117.578,47.4303,NA,1956,"Contopus sordidulus","Contopus_sordidulus",11.1,NA,NA,8.6,376,8.9001659841519,62.9542451510329,"Summer",24642
+5,-112.4808276,34.4345475,"ad",1971,"Contopus sordidulus veliei","Contopus_sordidulus",11.1,NA,"female",9.4,599,7.25753004983393,117.363576555852,"Spring",24810
+5,-115.5697,33.1714,"u ad.",1937,"Contopus sordidulus veliei","Contopus_sordidulus",11.2,NA,"female",22.5,40,8.84871159941926,110.656667034498,"Spring",24576
+5,-115.2425,30.194167,"ad.",1928,"Contopus sordidulus veliei","Contopus_sordidulus",11.2,NA,"female",18.1,103,4.54561893642126,80.9395635616722,"Spring",24888
+7,-105.5054855,32.7724089,"adult",1965,"Contopus sordidulus veliei","Contopus_sordidulus",11.4,NA,"female",10.3,481,6.54013251649639,83.2576445293993,"Summer",24461
+8,-106.8987177777,29.3920969444,"sk.oss.",1961,"Contopus sordidulus veliei","Contopus_sordidulus",11.4,NA,"female",13.9,408,6.2050504844966,116.088641244644,"Summer",24717
+6,-115.14084,32.4169,"ad.",1928,"Contopus sordidulus veliei","Contopus_sordidulus",11.4,NA,"female",22.5,27,6.98484832051535,78.2460796435952,"Summer",24770
+8,-121.0361,36.4814,"juv.",1936,"Contopus sordidulus veliei","Contopus_sordidulus",11.4,NA,"female ?",14.4,614,5.96130832701153,160.513533885601,"Summer",24786
+9,-118.67287,36.79291,"imm.",1916,"Contopus sordidulus veliei","Contopus_sordidulus",11.5,NA,"male",10.1,1563,7.33203845317166,157.642952108709,"Fall",24538
+5,-101.773138,37.1534075,NA,1950,"Contopus sordidulus","Contopus_sordidulus",11.5,NA,"male",13.5,455,8.51630788546304,120.05312192143,"Spring",24689
+8,-116.94528,39.24556,"imm.",1931,"Contopus sordidulus veliei","Contopus_sordidulus",11.5,NA,"male",8.9,185,9.5724470447343,48.9411099092045,"Summer",24780
+7,-121.530840063,40.4125823385,"adult skull",2006,"Contopus sordidulus veliei","Contopus_sordidulus",11.6,NA,"female",8.1,2962,7.22288031189774,106.173989785825,"Summer",24753
+5,-100.8651667,24.499667,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",11.6,NA,"female",18.4,325,4.52195821084252,79.3099054650547,"Spring",24892
+6,-115.28361,36.63,"ad.",1963,"Contopus sordidulus veliei","Contopus_sordidulus",11.7,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",24518
+6,-122.0921,42.2089,"ad.sk.",1964,"Contopus sordidulus veliei","Contopus_sordidulus",11.7,NA,"female",6.2,765,6.90434645712395,157.501906375894,"Summer",24520
+6,-131.1833,57.9167,"u ad.",1919,"Contopus sordidulus veliei","Contopus_sordidulus",11.7,NA,"male",0.4,393,10.7032563722307,47.6274398471146,"Summer",24541
+7,-105.5054855,32.7724089,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",11.7,NA,"male",10.3,481,6.54013251649639,83.2576445293993,"Summer",24681
+8,-124.1323646,41.1604001,"ad.",1949,"Contopus sordidulus veliei","Contopus_sordidulus",11.7,NA,"female",10.5,1001,3.39250510818936,97.8424523869778,"Summer",24697
+8,-96.4419187,16.8124604,"immature",1963,"Contopus sordidulus sordidulus","Contopus_sordidulus",11.7,NA,"female",15.9,575,1.44355936364378,117.33702562292,"Summer",24898
+7,-105.5054855,32.7724089,"juvenile; Immature",1965,"Contopus sordidulus veliei","Contopus_sordidulus",11.8,NA,"female",10.3,481,6.54013251649639,83.2576445293993,"Summer",24460
+6,-106.08889,28.7080373639,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",11.8,NA,"undetermined",19,240,5.85322366501804,147.45161899312,"Summer",24496
+6,-106.770421,29.485097,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",11.8,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",24503
+7,-99.0813888888,18.9186111111,"ad.sk.",1964,"Contopus sordidulus veliei","Contopus_sordidulus",11.8,NA,"female",22.6,944,2.00474815164278,115.805668241408,"Summer",24524
+6,-115.442739,31.008554,"u ad.",1925,"Contopus sordidulus veliei","Contopus_sordidulus",11.8,NA,"female",8,674,4.13110888334604,118.374400142833,"Summer",24550
+5,-123.3052,40.2337238,"u ad.",1933,"Contopus sordidulus veliei","Contopus_sordidulus",11.8,NA,"female",10.6,1441,6.87685512161165,127.945322087102,"Spring",24568
+5,-115.42377,35.17113,"ad.",1938,"Contopus sordidulus veliei","Contopus_sordidulus",11.8,NA,"male",12.9,253,7.70287234895155,131.435743784361,"Spring",24580
+8,-112.2329398,34.3076567,"imm",1977,"Contopus sordidulus veliei","Contopus_sordidulus",11.8,NA,"female",17.6,293,7.84837369758663,79.7520851999554,"Summer",24612
+7,-104.703607,39.465371,"adult",1990,"Contopus sordidulus","Contopus_sordidulus",11.8,132,"female",9.3,569,8.61736706607739,69.1364877692871,"Summer",24659
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",11.8,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24823
+6,-107.7225,39.746111,"adult",1995,"Contopus sordidulus","Contopus_sordidulus",11.9,150,"male",4.8,790,7.01122476656345,56.2835727291497,"Summer",24431
+7,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",11.9,NA,"female",10.5,584,6.60830515107293,68.5549331093322,"Summer",24448
+7,-105.5054855,32.7724089,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",11.9,NA,"female",10.3,481,6.54013251649639,83.2576445293993,"Summer",24455
+7,-108.4167461155,30.0146438844,"ad.sk.",1948,"Contopus sordidulus veliei","Contopus_sordidulus",11.9,NA,"female",13.1,351,6.92931300980687,121.571115249925,"Summer",24479
+9,-117.1143,38.96403,"imm.",1931,"Contopus sordidulus veliei","Contopus_sordidulus",11.9,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",24563
+6,-117.1622,46.8663,NA,1988,"Contopus sordidulus","Contopus_sordidulus",11.9,NA,"female",7.9,616,7.49314838551011,63.3027035863333,"Summer",24649
+7,-105.5054855,32.7724089,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",11.9,NA,"male",10.3,481,6.54013251649639,83.2576445293993,"Summer",24683
+7,-121.62709,40.35075,"skull",2006,"Contopus sordidulus veliei","Contopus_sordidulus",11.9,NA,"female",9.9,1616,7.2931890185711,100.92670880767,"Summer",24755
+6,-117.10315,36.95078,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",11.9,NA,"male",10,173,7.54121503754032,91.8049180411786,"Summer",24796
+7,-120.7856667,36.294333,"ad.",1936,"Contopus sordidulus veliei","Contopus_sordidulus",11.9,NA,"female",14.5,835,6.81675187025361,151.496118517119,"Summer",24890
+7,-103.630525,37.087592,"immature",1991,"Contopus sordidulus","Contopus_sordidulus",12,144,"male",10,422,7.98238116672645,71.1761649868937,"Summer",24429
+5,-118.1367378,34.6980419,NA,1990,"Contopus sordidulus veliei","Contopus_sordidulus",12,NA,"undetermined",16.8,76,8.0886517961146,123.140788706881,"Spring",24472
+8,-108.4167461155,30.0146438844,"ad.sk.",1948,"Contopus sordidulus veliei","Contopus_sordidulus",12,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",24480
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",12,NA,"male",14.3,459,5.82868429459519,151.355595038893,"Summer",24499
+7,-118.2352,37.40611,"u ad.",1917,"Contopus sordidulus veliei","Contopus_sordidulus",12,NA,"male",8.5,118,8.81095650570666,155.358295351485,"Summer",24539
+7,-105.5054855,32.7724089,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12,NA,"female",10.3,481,6.54013251649639,83.2576445293993,"Summer",24680
+5,-101.78469,37.1521231,NA,1950,"Contopus sordidulus","Contopus_sordidulus",12,NA,"female",13.5,457,8.51972310689625,120.003987155499,"Spring",24688
+9,-115.4046783,33.7131195,"juvenile",1985,"Contopus sordidulus","Contopus_sordidulus",12,NA,"undetermined",21.8,85,8.13728791093535,137.068577376647,"Fall",24692
+6,-115.28361,36.63,"ad.sk.",1963,"Contopus sordidulus veliei","Contopus_sordidulus",12,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",24727
+5,-122.866367,39.3759636,"unknown",1982,"Contopus sordidulus","Contopus_sordidulus",12,NA,"female",11.9,1728,6.30351032554421,94.2981302012903,"Spring",24748
+6,-122.678833,54.4923772,"ad",1976,"Contopus sordidulus saturatus","Contopus_sordidulus",12,NA,"undetermined",3.3,955,7.99869307506488,42.8563294808645,"Summer",24811
+5,-118.7806322,36.2666699,"adult",1984,NA,"Contopus_sordidulus",12,NA,"male",15.4,484,7.22740470624683,134.011355440779,"Spring",24838
+7,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.1,NA,"male",10.5,584,6.60830515107293,68.5549331093322,"Summer",24450
+7,-105.5054855,32.7724089,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.1,NA,"male",10.3,481,6.54013251649639,83.2576445293993,"Summer",24459
+7,-105.5054855,32.7724089,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.1,NA,"female",10.3,481,6.54013251649639,83.2576445293993,"Summer",24679
+6,-118.23917,37.76944,"u ad.",1954,"Contopus sordidulus veliei","Contopus_sordidulus",12.1,NA,"female",7,220,6.73934625010378,89.5166081824812,"Summer",24703
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",12.1,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",24707
+8,-120.63,36.35,"ad.",1944,"Contopus sordidulus veliei","Contopus_sordidulus",12.1,NA,"male",12.3,479,6.51284860638546,117.560293787102,"Summer",24798
+7,-105.5054855,32.7724089,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.2,NA,"male",10.3,481,6.54013251649639,83.2576445293993,"Summer",24462
+5,-123.4644508,40.4048454,"u ad.",1932,"Contopus sordidulus veliei","Contopus_sordidulus",12.2,NA,"female",11.2,1031,7.06169243170502,104.669249158388,"Spring",24565
+5,-115.57412,35.51722,"u ad.",1939,"Contopus sordidulus veliei","Contopus_sordidulus",12.2,NA,"female",10.8,350,7.72694518022367,101.422951309955,"Spring",24585
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",12.2,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24619
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",12.2,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24625
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",12.2,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",24706
+7,-109.1839875,31.9137028,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",12.2,NA,"female",11.7,688,6.93482100881071,58.1833872674254,"Summer",24827
+6,-109.7747222,23.441944,"ad.",1929,"Contopus sordidulus peninsulae","Contopus_sordidulus",12.2,NA,"male",22.5,318,4.72709789886507,128.387621440706,"Summer",24889
+5,-99.1336384,18.9273487,"ad",1973,"Contopus sordidulus sordidulus","Contopus_sordidulus",12.2,NA,"female",21.8,979,1.92306573423318,107.404557150392,"Spring",24893
+7,-105.5054855,32.7724089,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.3,NA,"male",10.3,481,6.54013251649639,83.2576445293993,"Summer",24457
+5,-103.7816096,30.495327,"ad",1967,"Contopus sordidulus veliei","Contopus_sordidulus",12.3,158,"male",15.6,408,6.45316459834501,124.499495520407,"Spring",24629
+6,-105.8554713,32.8871024,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.3,NA,"male",11.4,552,6.63285554850041,68.1740844557013,"Summer",24674
+5,-115.49833,35.1942447,"ad.",1938,"Contopus sordidulus veliei","Contopus_sordidulus",12.3,NA,"male",15,206,8.20469193187469,142.89420936495,"Spring",24791
+6,-120.83,39.2,"u ad.",1939,"Contopus sordidulus veliei","Contopus_sordidulus",12.3,NA,"male",13.4,832,6.85901309271681,93.6396326701105,"Summer",24891
+5,-117.377536,47.186696,NA,1977,"Contopus sordidulus","Contopus_sordidulus",12.4,NA,"male",8.1,436,8.26504138470638,87.3788674640472,"Spring",24418
+6,-104.598772,39.363925,"adult",1985,"Contopus sordidulus","Contopus_sordidulus",12.4,136,"female",7.7,509,9.42019108086455,89.7770609382076,"Summer",24428
+5,-118.1683,36.55839,"u ad.",1942,"Contopus sordidulus veliei","Contopus_sordidulus",12.4,NA,"male",9.7,135,7.15873592193482,132.213105980386,"Spring",24597
+7,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.4,NA,"female",10.5,584,6.60830515107293,68.5549331093322,"Summer",24678
+7,-149.7972222222,61.0561111111,"sk.doubled",1959,"Contopus sordidulus saturatus","Contopus_sordidulus",12.4,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Summer",24715
+6,-114.2075,38.84417,"u ad.",1962,"Contopus sordidulus veliei","Contopus_sordidulus",12.4,NA,"female",5.9,324,8.59439563690411,72.0186456043525,"Summer",24719
+6,-120.794605,40.663347,"skull",2006,"Contopus sordidulus veliei","Contopus_sordidulus",12.48,NA,"male",9.1,570,8.12095586999611,90.642643550796,"Summer",24749
+9,-116.39528,34.05639,"imm.",1950,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Fall",24484
+7,-98.67,20.5783333333,"juv.",1952,"Contopus sordidulus sordidulus ?","Contopus_sordidulus",12.5,NA,"female",15.6,1473,2.43178136477369,113.183196741868,"Summer",24490
+7,-99.0966666666,18.9186111111,"imm.sk.",1964,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"undetermined",21.9,959,1.92706009404497,115.778870112236,"Summer",24523
+7,-121.420517,36.144555,"ad.",1919,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"female",11,761,6.20299903028341,156.606197540788,"Summer",24540
+6,-112.0840539,35.8333226,NA,1969,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"female",9.5,312,8.05424789107643,68.9864731551357,"Summer",24603
+5,-112.4808276,34.4345475,NA,1970,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"female",10,718,7.27625340655228,122.825272080474,"Spring",24604
+6,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"male",10.5,584,6.60830515107293,68.5549331093322,"Summer",24672
+6,-114.22917,39.095,"ad. sk.oss.",1962,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"female",8.6,183,9.17767383216994,70.0943316473903,"Summer",24721
+6,-122.0921,42.2089,"ad.sk.",1964,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"male",6.2,765,6.90434645712395,157.501906375894,"Summer",24729
+6,-127.6667,55.25,"u ad.",1921,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",24760
+6,-115.526687,31.029931,"ad.",1926,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",24764
+5,-117.1143,38.96403,"u ad.",1932,"Contopus sordidulus veliei","Contopus_sordidulus",12.5,NA,"undetermined",8.1,122,9.43595236156356,87.178195894225,"Spring",24781
+4,-98.98733333,21.06666667,NA,1999,"Contopus sordidulus","Contopus_sordidulus",12.5,NA,NA,24,1403,3.69319603726867,116.317227090286,"Spring",24850
+6,-106.91861,40.70611,"adult",2011,"Contopus sordidulus","Contopus_sordidulus",12.6,150,"female",3.9,855,9.42457699396379,37.0289075770193,"Summer",24427
+8,-114.840694,43.928887,"adult",1948,"Contopus sordidulus","Contopus_sordidulus",12.6,NA,"female",1,590,9.07829162276024,62.5814499600158,"Summer",24436
+7,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.6,NA,"male",10.5,584,6.60830515107293,68.5549331093322,"Summer",24449
+7,-105.5054855,32.7724089,"juvenile; Immature",1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.6,NA,"male",10.3,481,6.54013251649639,83.2576445293993,"Summer",24456
+7,-105.5054855,32.7724089,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.6,NA,"male",10.3,481,6.54013251649639,83.2576445293993,"Summer",24458
+7,-106.45,29.3226,"u ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",12.6,NA,"female",15.9,315,6.35721970866529,149.588297511,"Summer",24508
+7,-109.716873,23.387557,"ad.",1929,"Contopus sordidulus peninsulae","Contopus_sordidulus",12.6,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",24558
+7,-120.78951,36.3099701,"ad.",1936,"Contopus sordidulus veliei","Contopus_sordidulus",12.6,NA,"female ?",14.4,829,6.79215233437335,151.811401392615,"Summer",24572
+6,-115.28361,36.63,"ad.sk.",1963,"Contopus sordidulus veliei","Contopus_sordidulus",12.6,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",24725
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",12.6,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24818
+7,-105.1311807,36.695863,NA,1963,"Contopus sordidulus veliei","Contopus_sordidulus",12.7,NA,"undetermined",6.9,381,8.22716767051626,94.6059702111715,"Summer",24444
+6,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.7,NA,"male",10.5,584,6.60830515107293,68.5549331093322,"Summer",24447
+6,-106.45,29.3226,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",12.7,NA,"male",15.9,315,6.35721970866529,149.588297511,"Summer",24507
+9,-116.98667,39.23861,"u imm.",1931,"Contopus sordidulus veliei","Contopus_sordidulus",12.7,NA,"female",9.1,185,9.60889739204812,49.4793629683915,"Fall",24561
+6,-104.2117576,30.7585058,"ad",1977,"Contopus sordidulus veliei","Contopus_sordidulus",12.7,NA,"male",14.9,330,6.89986275665002,77.762730706587,"Summer",24610
+8,-111.3815451,42.2392739,"immature",1934,"Contopus sordidulus sordidulus","Contopus_sordidulus",12.7,NA,"female",7.2,244,8.57542295096159,53.7654026889073,"Summer",24636
+6,-120.16554,39.41534,"unknown",1982,"Contopus sordidulus veliei","Contopus_sordidulus",12.7,NA,"male",4.7,1285,6.89041934775227,67.6665526017109,"Summer",24741
+6,-121.432252,35.983176,"ad.",1919,"Contopus sordidulus veliei","Contopus_sordidulus",12.7,NA,"male",12,814,4.69793636191531,153.647561962751,"Summer",24756
+6,-109.7747222,23.441944,"ad.",1928,"Contopus sordidulus peninsulae","Contopus_sordidulus",12.7,NA,"female",23.2,343,4.31813476848371,160.934760701149,"Summer",24862
+5,-117.377536,47.186696,NA,1977,"Contopus sordidulus","Contopus_sordidulus",12.8,NA,"female",8.1,436,8.26504138470638,87.3788674640472,"Spring",24417
+8,-114.8514776,44.5471332,"immature",1948,"Contopus sordidulus","Contopus_sordidulus",12.8,NA,"male",2.5,743,8.8947848186281,63.0290492854406,"Summer",24437
+8,-108.4167461155,30.0146438844,"ad.sk.",1948,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",24481
+9,-106.7359053467,29.82389,"s.n.o.",1961,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",16.8,272,6.54723513238893,111.942865153066,"Fall",24514
+5,-115.5697,33.1714,"u ad.",1937,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",24577
+8,-111.106,44.1296,"imm.",1939,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",4.3,639,9.28354686659374,67.6867962566796,"Summer",24586
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24621
+7,-109.1728895,31.9248109,"imm",1978,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24623
+6,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",10.5,584,6.60830515107293,68.5549331093322,"Summer",24673
+7,-105.5054855,32.7724089,"immature",1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"undetermined",10.3,481,6.54013251649639,83.2576445293993,"Summer",24682
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"female",12.4,260,8.08100560049005,67.6181929382578,"Summer",24687
+8,-106.8987177777,29.3920969444,"s.n.s.",1961,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",24718
+6,-114.45813,37.45917,"ad.",1963,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",10.1,445,8.22479621189928,85.1166081006915,"Summer",24722
+6,-120.781906,40.54848,"adult skull",2006,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"male",9.2,752,8.20380547321938,92.8542524944321,"Summer",24752
+5,-115.23306,37.53167,"u ad.",1932,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"female",12.4,163,9.40989163625494,83.4493057286671,"Spring",24782
+5,-112.4808276,34.4345475,NA,1970,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"female",10,718,7.27625340655228,122.825272080474,"Spring",24804
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",12.8,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24822
+5,-99.1953097,18.9240088,"ad",1972,"Contopus sordidulus sordidulus","Contopus_sordidulus",12.8,NA,"male",21.5,986,1.42243921955679,108.056715822466,"Spring",24864
+7,-99.0966666666,18.9186111111,"imm.sk.",1964,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"female",21.9,959,1.92706009404497,115.778870112236,"Summer",24522
+6,-122.157881,41.8844387,"ad.sk.",1981,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"male",8.7,593,6.56642054607217,111.254603062775,"Summer",24527
+6,-120.781906,40.54848,"adult skull",2006,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"male",9.2,752,8.20380547321938,92.8542524944321,"Summer",24533
+6,-115.526687,31.029931,"u ad.",1926,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",24553
+6,-119.9028,42.4117,"u ad.",1937,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"female",8.7,267,9.18273660273186,56.7770867404079,"Summer",24578
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24617
+7,-147.104,64.67,"HY",1997,"Contopus sordidulus","Contopus_sordidulus",12.9,NA,"female",-2.4,203,15.3204755049238,100.203427311453,"Summer",24632
+6,-105.8380394,32.87537,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"male",10.7,583,6.59974173048392,68.2850421690492,"Summer",24676
+7,-99.0966666666,18.9186111111,"unknown",1964,"Contopus sordidulus","Contopus_sordidulus",12.9,NA,"male",21.9,959,1.92706009404497,115.778870112236,"Summer",24732
+6,-120.2954878,39.5460959,"ad.sk.",1982,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"male",4.9,1292,6.75216575805441,68.2248371848973,"Summer",24742
+6,-120.2792747,39.5382166,"unknown",1982,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"male",4.8,1306,6.76261447558964,68.3067703368749,"Summer",24744
+6,-119.1162287,34.8077162,"ad.",1929,"Contopus sordidulus","Contopus_sordidulus",12.9,NA,"female",8,257,6.9901662528458,140.427028144661,"Summer",24772
+5,-121.0511667,36.577833,"u ad.",1936,"Contopus sordidulus veliei","Contopus_sordidulus",12.9,NA,"male",14.9,657,6.65679761938536,155.17413254456,"Spring",24863
+6,-104.822786,40.346603,NA,1956,"Contopus sordidulus","Contopus_sordidulus",13,NA,"female",9.5,271,9.726050617083,75.6277407444161,"Summer",24424
+5,-121.12136,41.56081,"u ad.",1948,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"female",6.9,534,7.6679182114163,55.7253413422282,"Spring",24476
+8,-108.4167461155,30.0146438844,"juv.",1948,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"undetermined",13.1,351,6.92931300980687,121.571115249925,"Summer",24482
+8,-106.4342871,37.02282872,"ad.",1952,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"female",0.8,822,8.31323789160543,89.4217443656982,"Summer",24488
+6,-106.08889,28.7080373639,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"male",19,240,5.85322366501804,147.45161899312,"Summer",24497
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"male",14.3,459,5.82868429459519,151.355595038893,"Summer",24500
+6,-114.45813,37.45917,"ad.sk.",1963,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"female",10.1,445,8.22479621189928,85.1166081006915,"Summer",24517
+7,-99.0966666666,18.9186111111,"ad.sk.",1964,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"male",21.9,959,1.92706009404497,115.778870112236,"Summer",24521
+5,-121.6335278,40.3498232,"u ad.",1927,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"male",9.6,1359,6.55824717898053,101.023777952812,"Spring",24555
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24622
+8,-114.8487,44.5969313,"immature",1948,"Contopus sordidulus","Contopus_sordidulus",13,NA,"male",2.2,795,8.83802048315153,62.2526108126819,"Summer",24666
+7,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"female",10.5,584,6.60830515107293,68.5549331093322,"Summer",24677
+5,-115.288311,33.2580891,NA,1989,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"female",23.3,56,7.71886217867202,227.829587248865,"Spring",24691
+5,-118.1683,36.59102,"u ad.",1942,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"male",11.5,115,7.35841612568818,133.865303255789,"Spring",24797
+5,-112.5196152,34.5466908,NA,1969,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"male",10.8,591,7.67072356430604,73.2302779363675,"Spring",24801
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24821
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24824
+6,-96.7169246,16.8941159,"Not recorded",1965,NA,"Contopus_sordidulus",13,NA,"male",19.5,650,1.67718649692112,118.877591062423,"Summer",24871
+6,-115.36343,41.86105,"u ad.",1955,"Contopus sordidulus veliei","Contopus_sordidulus",13.1,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",24492
+7,-149.7972222222,61.0561111111,"sk.single ntl",1959,"Contopus sordidulus saturatus","Contopus_sordidulus",13.1,NA,"female",0.2,420,11.0997508844555,89.1684944818699,"Summer",24512
+6,-120.79506,40.66357,"full skull ossification",2006,"Contopus sordidulus veliei","Contopus_sordidulus",13.1,NA,"male",9.1,572,8.12095586999611,90.642643550796,"Summer",24534
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13.1,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24624
+5,-103.6631688,30.4947158,"ad",1981,"Contopus sordidulus veliei","Contopus_sordidulus",13.1,NA,"female",16.7,576,6.51806347891393,73.8891599559754,"Spring",24628
+7,-108.4167461155,30.0146438844,"ad.sk.",1948,"Contopus sordidulus veliei","Contopus_sordidulus",13.1,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",24698
+7,-109.1728895,31.9248109,"imm?",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13.1,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24820
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13.1,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24825
+6,-102.962338,42.846422,NA,1955,"Contopus sordidulus","Contopus_sordidulus",13.1000003814697,NA,"male",8,385,11.8044932380031,89.742011030672,"Summer",24877
+9,-119.553058,47.346964,NA,1955,"Contopus sordidulus","Contopus_sordidulus",13.2,150,"im.",8.6,208,9.68655347282088,69.4824549875784,"Fall",24415
+7,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"male",10.5,584,6.60830515107293,68.5549331093322,"Summer",24452
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"female",12.4,260,8.08100560049005,67.6181929382578,"Summer",24463
+6,-106.770421,29.485097,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",24504
+6,-114.22917,39.095,"ad. sk.oss.",1962,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",24515
+5,-120.63754,36.37518,"ad.sk.",1984,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"male",13.7,302,7.27779416298564,141.340042457013,"Spring",24531
+7,-109.716873,23.387557,"ad.",1929,"Contopus sordidulus peninsulae","Contopus_sordidulus",13.2,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",24557
+6,-117.195282,51.7644403,"ad",1973,"Contopus sordidulus saturatus","Contopus_sordidulus",13.2,NA,"female",-0.8,1115,8.34049540713042,90.1486806737903,"Summer",24608
+6,-106.770421,29.485097,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",24710
+7,-120.2418191,39.4319423,"sk.oss.",1967,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"female",5.1,1032,7.4561902287477,116.39171164983,"Summer",24736
+5,-122.9986536,40.3904803,"u ad.",1926,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"male",12.1,1258,6.58070526753644,124.451711212798,"Spring",24768
+5,-115.23306,37.53167,"u ad.",1932,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"female",12.4,163,9.40989163625494,83.4493057286671,"Spring",24783
+6,-106.2394,45.3018,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",13.2,NA,"male",7.8,445,11.6803220949777,72.5812653346876,"Summer",24795
+6,-108.2442994,48.3810809,"ad",1970,"Contopus sordidulus amplus","Contopus_sordidulus",13.2,NA,"male",4.7,306,12.7692902201834,82.6241185020019,"Summer",24808
+8,-106.004446,36.615864,"u juv.",1952,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"female",4.6,374,8.83969610748736,76.5889731635705,"Summer",24489
+6,-106.770421,29.485097,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",24502
+6,-115.65611,36.40167,"ad.",1963,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",24519
+7,-109.716873,23.387557,"ad.",1929,"Contopus sordidulus peninsulae","Contopus_sordidulus",13.3,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",24559
+5,-116.33486,36.42528,"u ad.",1933,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"male",16.7,29,9.51577637400123,104.446593573419,"Spring",24570
+4,-116.0664242,33.5573954,"u ad.",1937,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"male",22.6,48,8.80184209369972,140.46069543915,"Spring",24573
+5,-115.5697,33.1714,"u ad.",1937,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"female",22.5,40,8.84871159941926,110.656667034498,"Spring",24575
+5,-118.1683,36.55839,"u ad.",1942,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"female",9.7,135,7.15873592193482,132.213105980386,"Spring",24596
+5,-104.2654037,30.6128,NA,1968,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,160,"male",13.7,533,6.69918018503124,114.379291461444,"Spring",24600
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24620
+5,-118.18083,37.88056,"u ad.",1954,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"undetermined",10.6,133,7.69538921377699,83.048599460054,"Spring",24701
+6,-122.0921,42.2089,"u ad.",1964,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"female",6.2,765,6.90434645712395,157.501906375894,"Summer",24730
+6,-116.98667,39.23861,"ad.",1930,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"female",8.2,223,9.05938321534221,90.698323731634,"Summer",24778
+5,-99.2336406,19.0173441,"ad",1973,"Contopus sordidulus sordidulus","Contopus_sordidulus",13.3,NA,"female",15,1364,2.06463732232256,111.291010474418,"Spring",24865
+7,-108.65,33.4,"adult",1964,"Contopus sordidulus veliei","Contopus_sordidulus",13.3,NA,"female",6.6,739,7.73885807095751,101.789373511029,"Summer",24900
+6,-117.1883,46.95488,NA,1980,"Contopus sordidulus","Contopus_sordidulus",13.4,NA,"male",8.1,625,7.11162087819307,60.9496340506577,"Summer",24419
+7,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"male",10.5,584,6.60830515107293,68.5549331093322,"Summer",24454
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"male",12.4,260,8.08100560049005,67.6181929382578,"Summer",24468
+9,-116.39528,34.05639,"ad.",1950,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Fall",24485
+6,-106.770421,29.485097,"u ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",24501
+6,-114.22917,39.095,"ad. sk.oss.",1962,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",24516
+6,-120.2954878,39.5460959,"unknown",1982,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"female",4.9,1292,6.75216575805441,68.2248371848973,"Summer",24530
+5,-120.6846059,41.4204792,"u ad.",1920,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"female",8.6,350,7.06276514653797,77.0383129991747,"Spring",24545
+5,-115.458333,30.883333,"u ad.",1925,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",24549
+6,-118.2691956,55.2313725,"ad",1970,"Contopus sordidulus amplus","Contopus_sordidulus",13.4,NA,"male",1.5,354,13.0774933887704,64.4067796610169,"Summer",24607
+5,-117.377536,47.186696,NA,1977,"Contopus sordidulus","Contopus_sordidulus",13.4,NA,"female",8.1,436,8.26504138470638,87.3788674640472,"Spring",24645
+7,-106.8987177777,29.3920969444,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"male",14.4,416,6.22801588133667,161.139334141977,"Summer",24712
+5,-115.5697,33.1714,"u ad.",1937,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",24787
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13.4,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24816
+5,-110.732269,30.9367945,"Not recorded",1955,NA,"Contopus_sordidulus",13.4,NA,"male",14.7,605,6.50628484038644,168.567103014893,"Spring",24870
+6,-125.6588745,52.5379436,NA,1932,"Contopus sordidulus","Contopus_sordidulus",13.48,NA,"male",0.1,1090,7.56352891823451,72.6966827036938,"Summer",24693
+8,-110.7682,45.033,"ad.sk.2 layer",1967,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"female",4.2,517,9.14780980576358,44.4716076609678,"Summer",24525
+5,-119.141074,37.990578,"u ad.",1916,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"male",6.8,455,8.43831449491849,130.724498411799,"Spring",24536
+5,-116.3131,34.6453,"u ad.",1920,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"male",17.6,89,8.27348814349825,119.975495642413,"Spring",24543
+5,-117.1143,38.96403,"u ad.",1930,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"female",9,181,9.03966009015021,85.0909976284415,"Spring",24560
+5,-123.4644508,40.4048454,"u ad.",1932,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",24564
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24618
+6,-104.822786,40.346603,NA,1956,"Contopus sordidulus","Contopus_sordidulus",13.5,NA,"male",9.5,271,9.726050617083,75.6277407444161,"Summer",24651
+6,-115.70722,36.42194,"ad.sk.",1963,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"male",10.7,412,7.88063891426131,156.158481061255,"Summer",24728
+5,-119.6941782,35.0604116,"ad.sk.",1982,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"male",14.8,335,6.22251532498691,107.375349049582,"Spring",24739
+8,-133.7,59.5667,"imm.",1924,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"female",-0.3,390,8.84507652809623,42.7361199847268,"Summer",24761
+6,-115.526687,31.029931,"ad.",1926,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",24766
+6,-115.526687,31.029931,"ad.",1926,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",24767
+6,-117.09056,39.20583,"u ad.",1930,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"male",8.3,273,8.78139821130181,90.0660208507521,"Summer",24777
+5,-112.4560534,34.4550641,NA,1970,"Contopus sordidulus veliei","Contopus_sordidulus",13.5,NA,"undetermined",10.5,694,7.32684458106977,122.289304851251,"Spring",24803
+6,-96.3369168,17.0624476,"adult",1956,"Contopus sordidulus sordidulus","Contopus_sordidulus",13.5,NA,"female",14.2,1250,0.919815528277603,93.8030295119727,"Summer",24868
+6,-120.781906,40.54848,"adult skull",2006,"Contopus sordidulus veliei","Contopus_sordidulus",13.51,NA,"female",9.2,752,8.20380547321938,92.8542524944321,"Summer",24750
+8,-101.8985211,37.1131734,NA,1957,"Contopus sordidulus","Contopus_sordidulus",13.6,NA,"male",13.2,535,9.10469409400747,81.7100830150913,"Summer",24443
+7,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",13.6,NA,"female",10.5,584,6.60830515107293,68.5549331093322,"Summer",24451
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",13.6,NA,"male",12.4,260,8.08100560049005,67.6181929382578,"Summer",24466
+8,-122.1555673,41.7951488,NA,1961,"Contopus sordidulus","Contopus_sordidulus",13.6,NA,"male",5.3,696,7.10509846817229,62.6971003024591,"Summer",24471
+7,-108.4167461155,30.0146438844,"ad.sk.",1948,"Contopus sordidulus veliei","Contopus_sordidulus",13.6,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",24478
+7,-109.716873,23.387557,"ad.",1929,"Contopus sordidulus peninsulae","Contopus_sordidulus",13.6,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",24556
+5,-115.57412,35.51722,"u ad.",1939,"Contopus sordidulus veliei","Contopus_sordidulus",13.6,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",24583
+6,-106.7813,46.268,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",13.6,NA,"female",8.3,314,12.0339765210462,84.4856629974161,"Summer",24591
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13.6,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24626
+6,-135.4454,59.2295,"U",1997,"Contopus sordidulus saturatus","Contopus_sordidulus",13.6,NA,"male",6.1,1301,7.03586052543208,39.9995853589716,"Summer",24631
+6,-114.45813,37.45917,"ad.sk.",1963,"Contopus sordidulus veliei","Contopus_sordidulus",13.6,NA,"female",10.1,445,8.22479621189928,85.1166081006915,"Summer",24723
+6,-103.8386646,43.64534531,NA,2007,"Contopus sordidulus","Contopus_sordidulus",13.7,NA,NA,7.7,401,10.7384998387987,58.8691960795923,"Summer",24432
+8,-114.840694,43.928887,"immature",1948,"Contopus sordidulus","Contopus_sordidulus",13.7,NA,"male",1,590,9.07829162276024,62.5814499600158,"Summer",24435
+4,-93.2069444444,16.8780555555,"u ad.",1954,"Contopus sordidulus","Contopus_sordidulus",13.7,NA,"male",22.4,1340,1.72387424838427,99.2707568466573,"Spring",24491
+6,-106.770421,29.485097,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",13.7,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",24505
+5,-118.079301,36.229573,"u ad.",1942,"Contopus sordidulus veliei","Contopus_sordidulus",13.7,NA,"male",8.8,181,6.92306203054601,135.029169716459,"Spring",24594
+6,-103.8750854,43.63477279,NA,2007,"Contopus sordidulus","Contopus_sordidulus",13.7,NA,NA,7.8,378,10.982920624977,59.2446556595187,"Summer",24661
+8,-106.8585,34.3522,NA,2007,"Contopus sordidulus","Contopus_sordidulus",13.7,NA,"female",14.9,213,9.10442782719519,74.9374093515419,"Summer",24695
+5,-122.0695,40.3146,"u ad.",1924,"Contopus sordidulus veliei","Contopus_sordidulus",13.7,NA,"male",16.7,494,7.4583032841785,107.492321804429,"Spring",24762
+7,-109.1728895,31.9248109,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",13.7,NA,"male",13.5,535,7.11930793367905,59.2472170799551,"Summer",24819
+7,-109.1833333,33.2,NA,1963,"Contopus sordidulus","Contopus_sordidulus",13.7,NA,"female",14.9,333,7.74621608505492,112.660802000239,"Summer",24869
+6,-110.9166667,54.25,NA,1960,"Contopus sordidulus","Contopus_sordidulus",13.7,NA,"male",1.9,526,12.0367115211101,79.8615799638047,"Summer",24897
+6,-117.179457,46.728691,NA,1947,"Contopus sordidulus","Contopus_sordidulus",13.8,157,"undetermined",8.6,534,7.3098314866785,67.4667835290506,"Summer",24413
+8,-114.8514776,44.5471332,"immature",1948,"Contopus sordidulus","Contopus_sordidulus",13.8,NA,"male",2.5,743,8.8947848186281,63.0290492854406,"Summer",24438
+7,-111.0465066,43.224161,NA,1949,"Contopus sordidulus","Contopus_sordidulus",13.8,NA,"male",3.4,609,10.2627599808357,47.3736024052355,"Summer",24440
+7,-109.0751276,42.8692308,NA,1949,"Contopus sordidulus","Contopus_sordidulus",13.8,NA,"female",0.5,767,9.44701331670812,70.4735412141921,"Summer",24441
+6,-123.7317033,40.8748542,"u ad.",1933,"Contopus sordidulus veliei","Contopus_sordidulus",13.8,NA,"male",9.5,2671,7.14598849111524,110.780670855594,"Summer",24569
+5,-115.42377,35.17113,"ad.",1938,"Contopus sordidulus veliei","Contopus_sordidulus",13.8,NA,"male",12.9,253,7.70287234895155,131.435743784361,"Spring",24582
+6,-101.3698795,37.3983788,NA,1964,"Contopus sordidulus veliei","Contopus_sordidulus",13.8,NA,"female",13.3,353,10.4830599280241,108.185899657254,"Summer",24671
+6,-106.08889,28.7080373639,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",13.8,NA,"female",19,240,5.85322366501804,147.45161899312,"Summer",24705
+6,-106.770421,29.485097,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",13.8,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",24709
+6,-109.1408,31.841,"unknown",1963,"Contopus sordidulus","Contopus_sordidulus",13.8,NA,"female",14.5,369,6.99611905403144,118.369878264811,"Summer",24731
+6,-115.526687,31.029931,"ad.",1926,"Contopus sordidulus veliei","Contopus_sordidulus",13.8,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",24765
+6,-104.822786,40.346603,NA,1956,"Contopus sordidulus","Contopus_sordidulus",13.8000001907349,NA,"male",9.5,271,9.726050617083,75.6277407444161,"Summer",24654
+6,-104.822786,40.346603,NA,1956,"Contopus sordidulus","Contopus_sordidulus",13.8000001907349,NA,"male",9.5,271,9.726050617083,75.6277407444161,"Summer",24655
+5,-100.7939888,37.148914,NA,1967,"Contopus sordidulus","Contopus_sordidulus",13.9,NA,"male",14,464,8.5809867342476,109.614427279531,"Spring",24469
+8,-120.281732,35.597748,"ad.",1947,"Contopus sordidulus veliei","Contopus_sordidulus",13.9,NA,"male",14.6,104,6.07759796051836,93.2076166137476,"Summer",24477
+7,-149.7972222222,61.0561111111,"sk.doubled",1959,"Contopus sordidulus saturatus","Contopus_sordidulus",13.9,NA,"male",0.2,420,11.0997508844555,89.1684944818699,"Summer",24511
+6,-115.526687,31.029931,"u ad.",1926,"Contopus sordidulus veliei","Contopus_sordidulus",13.9,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",24552
+5,-104.2654037,30.6128,NA,1968,"Contopus sordidulus veliei","Contopus_sordidulus",13.9,NA,"male",13.7,533,6.69918018503124,114.379291461444,"Spring",24599
+8,-117.179457,46.728691,NA,1954,"Contopus sordidulus","Contopus_sordidulus",13.9,158,"female",8,494,6.54385554963933,45.8375419667282,"Summer",24641
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",13.9,NA,"female",12.4,260,8.08100560049005,67.6181929382578,"Summer",24686
+9,-108.083333,30.6,"im.sk.",1948,"Contopus sordidulus veliei","Contopus_sordidulus",13.9,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",24699
+6,-120.2418191,39.4319423,"ad.sk.",1982,"Contopus sordidulus veliei","Contopus_sordidulus",13.9,NA,"male",4.2,1416,6.70203496911742,68.4490575844265,"Summer",24747
+5,-118.05361,37.73806,"u ad.",1928,"Contopus sordidulus veliei","Contopus_sordidulus",13.9,NA,"male",11.2,32,8.76598107700583,153.648802616404,"Spring",24771
+7,-109.716873,23.387557,"ad.",1929,"Contopus sordidulus peninsulae","Contopus_sordidulus",13.9,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",24774
+7,-109.716873,23.387557,"ad.",1929,"Contopus sordidulus peninsulae","Contopus_sordidulus",13.9,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",24776
+6,-101.8623587,37.1349256,NA,1964,"Contopus sordidulus saturatus","Contopus_sordidulus",14,NA,"male",13.6,312,10.107284351877,101.585387192234,"Summer",24446
+6,-106.08889,28.7080373639,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"male",19,240,5.85322366501804,147.45161899312,"Summer",24495
+6,-127.6667,55.25,"u ad.",1921,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",24547
+9,-116.98667,39.23861,"imm.",1931,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"undetermined",9.1,185,9.60889739204812,49.4793629683915,"Fall",24562
+5,-117.510504,35.943643,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"female",12.9,257,7.39600629332541,151.451365416565,"Spring",24593
+5,-112.462247,34.449935,NA,1970,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"male",10.7,678,7.35322543122569,122.290387732146,"Spring",24605
+5,-103.6944103,30.4447763,"ad",1975,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"male",15.9,371,6.33439385060208,118.252769009068,"Spring",24609
+8,-103.6958385,30.507234,"imm",1980,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"female",16.8,425,7.64559687108544,147.658502324407,"Summer",24627
+6,-103.4088135,43.663898,"adult",1935,"Contopus sordidulus","Contopus_sordidulus",14,NA,"male",7.9,504,8.93184632580962,134.391766654313,"Summer",24637
+6,-103.4088135,43.663898,"adult",1935,"Contopus sordidulus","Contopus_sordidulus",14,NA,"male",7.9,504,8.93184632580962,134.391766654313,"Summer",24638
+8,-103.9333,44.4833,NA,2010,"Contopus sordidulus","Contopus_sordidulus",14,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",24664
+7,-109.0751276,42.8692308,NA,1949,"Contopus sordidulus","Contopus_sordidulus",14,NA,"male",0.5,767,9.44701331670812,70.4735412141921,"Summer",24669
+6,-120.8170983,41.3889813,"u ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"female",9.5,289,7.53523038597341,89.8523256812683,"Summer",24713
+8,-110.7682,45.033,"ad.sk.2 layer",1967,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"male",4.2,517,9.14780980576358,44.4716076609678,"Summer",24734
+8,-110.57953,44.94243,"ad.sk.2 layer",1967,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"female",2.8,587,9.16860585549043,42.0217077195831,"Summer",24735
+5,-118.427435,33.350233,"unknown",1982,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"male",16.3,322,3.29637082350585,120.474108219305,"Spring",24740
+7,-131.3833,57.8333,"u ad.",1919,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"female",1.2,379,10.9927352043396,49.0966307949911,"Summer",24757
+6,-127.6667,55.25,"u ad.",1921,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",24759
+7,-109.1728895,31.9248109,"imm?",1978,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"female",13.5,535,7.11930793367905,59.2472170799551,"Summer",24817
+7,-120.3906666667,40.7001666667,"ad.",1928,"Contopus sordidulus veliei","Contopus_sordidulus",14,NA,"male",9.1,264,7.49514489317565,108.84135993461,"Summer",24861
+8,-99.9003224,17.850732,"adult",1950,"Contopus sordidulus sordidulus","Contopus_sordidulus",14,NA,"male",24.2,1017,2.01063460508157,132.93504523843,"Summer",24894
+7,-147.8043,64.857,"AD",1997,"Contopus sordidulus","Contopus_sordidulus",14.1,NA,"male",-1.3,187,14.6991960200673,97.0828472046794,"Summer",24633
+8,-111.3529242,42.3631281,NA,1934,"Contopus sordidulus","Contopus_sordidulus",14.1,NA,"male",7,250,8.59168026040132,52.295106671831,"Summer",24635
+9,-117.4407,47.3951,"Imm",1956,"Contopus sordidulus","Contopus_sordidulus",14.1,154,"male",8.3,404,8.86222405220694,59.7487208139913,"Fall",24643
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",14.1,NA,"female",12.4,260,8.08100560049005,67.6181929382578,"Summer",24685
+7,-149.8661111111,61.1272222222,"u ad.",1956,"Contopus sordidulus saturatus","Contopus_sordidulus",14.1,NA,"male",-1.1,352,11.8582888795777,77.6335540974272,"Summer",24716
+6,-120.2792747,39.5382166,"unknown",1982,"Contopus sordidulus veliei","Contopus_sordidulus",14.1,NA,"male",4.8,1306,6.76261447558964,68.3067703368749,"Summer",24743
+7,-109.716873,23.387557,"ad.",1929,"Contopus sordidulus peninsulae","Contopus_sordidulus",14.1,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",24775
+6,-101.8804399,37.1204241,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",14.1,NA,"female",12.2,378,11.0705554047526,115.144281834393,"Summer",24813
+6,-103.6971436,44.6683178,NA,1937,"Contopus sordidulus veliei","Contopus_sordidulus",14.1,NA,"male",7.9,472,11.7222496289593,87.3692533758576,"Summer",24835
+6,-103.91,44.45,NA,2007,"Contopus sordidulus","Contopus_sordidulus",14.2,NA,NA,7.8,546,10.3050590694203,65.8374250132,"Summer",24434
+8,-106.8987177777,29.3920969444,"u ad.",1961,"Contopus sordidulus veliei","Contopus_sordidulus",14.2,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",24513
+5,-119.141074,37.990578,"u ad.",1916,"Contopus sordidulus veliei","Contopus_sordidulus",14.2,NA,"male",6.8,455,8.43831449491849,130.724498411799,"Spring",24537
+6,-106.7813,46.268,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",14.2,NA,"male",8.3,314,12.0339765210462,84.4856629974161,"Summer",24588
+5,-118.245112,36.581746,"u ad.",1942,"Contopus sordidulus veliei","Contopus_sordidulus",14.2,NA,"male",2.3,312,6.59896686128697,155.633303164937,"Spring",24595
+8,-103.9333,44.4833,"adult",2010,"Contopus sordidulus","Contopus_sordidulus",14.2,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",24663
+7,-111.0465066,43.224161,NA,1949,"Contopus sordidulus","Contopus_sordidulus",14.2,NA,"male",3.4,609,10.2627599808357,47.3736024052355,"Summer",24668
+5,-107.6072,33.7895333333,"ad",2008,"Contopus sordidulus","Contopus_sordidulus",14.2,NA,"male",9.9,344,7.15788926904285,115.651583879884,"Spring",24696
+6,-115.28361,36.63,"ad.",1962,"Contopus sordidulus veliei","Contopus_sordidulus",14.2,NA,"male",11.2,99,7.94067014956813,89.5002722854054,"Summer",24726
+9,-114.885,39.90056,"imm.",1930,"Contopus sordidulus veliei","Contopus_sordidulus",14.2,NA,"female",6.8,370,9.40889327855687,68.1408602658598,"Fall",24779
+5,-123.4644508,40.4048454,"u ad.",1932,"Contopus sordidulus veliei","Contopus_sordidulus",14.2,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",24784
+6,-106.7813,46.268,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",14.2,NA,"male",8.3,314,12.0339765210462,84.4856629974161,"Summer",24794
+5,-112.4560534,34.4960973,"ad",1971,"Contopus sordidulus veliei","Contopus_sordidulus",14.2,NA,"male",9.9,566,7.41576433053671,116.868622278658,"Spring",24809
+9,-111.2702042,42.370761,NA,1934,"Contopus sordidulus","Contopus_sordidulus",14.2,NA,"male",6,331,7.96423825039727,55.8533595923151,"Fall",24836
+7,-109.1839875,31.9137028,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",14.25,NA,"male",11.7,688,6.93482100881071,58.1833872674254,"Summer",24826
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",14.3,NA,"male",12.4,260,8.08100560049005,67.6181929382578,"Summer",24465
+5,-103.7816096,30.495327,"ad",1967,"Contopus sordidulus veliei","Contopus_sordidulus",14.3,170,"female",15.6,408,6.45316459834501,124.499495520407,"Spring",24602
+6,-108.2442994,48.3810809,NA,1970,"Contopus sordidulus amplus","Contopus_sordidulus",14.3,NA,"male",4.7,306,12.7692902201834,82.6241185020019,"Summer",24806
+7,-98.653803,42.80885,NA,1955,"Contopus sordidulus","Contopus_sordidulus",14.3000001907349,NA,"male",9.2,437,13.3131144046581,83.917077188249,"Summer",24422
+8,-117.133433,46.762782,"Juv",1953,"Contopus sordidulus","Contopus_sordidulus",14.4,153,"male",9.2,604,5.95459461002149,97.8357244914501,"Summer",24414
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",14.4,NA,"male",12.4,260,8.08100560049005,67.6181929382578,"Summer",24467
+6,-115.45278,40.93833,"u ad.",1956,"Contopus sordidulus veliei","Contopus_sordidulus",14.4,NA,"male",6.5,286,9.02533051522718,114.98373023295,"Summer",24704
+7,-109.716873,23.387557,"ad.",1929,"Contopus sordidulus peninsulae","Contopus_sordidulus",14.4,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",24773
+6,-125.6588745,52.5379436,NA,1932,"Contopus sordidulus","Contopus_sordidulus",14.42,NA,"female",0.1,1090,7.56352891823451,72.6966827036938,"Summer",24694
+5,-109.0467,36.2499833333,NA,2013,"Contopus sordidulus","Contopus_sordidulus",14.5,NA,"male",8,436,9.05549807876659,78.0071727672005,"Spring",24475
+6,-115.36343,41.86105,"u ad.",1955,"Contopus sordidulus veliei","Contopus_sordidulus",14.5,NA,"female",0.2,1075,8.88933221747996,89.1715823564443,"Summer",24493
+6,-121.0983817,40.5764634,"u ad.",1960,"Contopus sordidulus veliei","Contopus_sordidulus",14.5,NA,"female",6.4,911,7.66449409269586,96.2105215330978,"Summer",24510
+5,-120.0068585,40.247102,"u ad.",1937,"Contopus sordidulus veliei","Contopus_sordidulus",14.5,NA,"undetermined",10.3,250,9.11885741779422,101.897196492672,"Spring",24579
+6,-106.7813,46.268,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",14.5,NA,"male",8.3,314,12.0339765210462,84.4856629974161,"Summer",24589
+5,-117.377536,47.186696,NA,1977,"Contopus sordidulus","Contopus_sordidulus",14.5,NA,"female",8.1,436,8.26504138470638,87.3788674640472,"Spring",24644
+6,-104.822786,40.346603,NA,1956,"Contopus sordidulus","Contopus_sordidulus",14.5,NA,"male",9.5,271,9.726050617083,75.6277407444161,"Summer",24653
+6,-120.2418191,39.4319423,"ad.sk.",1982,"Contopus sordidulus veliei","Contopus_sordidulus",14.5,NA,"female",4.2,1416,6.70203496911742,68.4490575844265,"Summer",24746
+6,-122.9107,44.2042,"u ad.",1938,"Contopus sordidulus veliei","Contopus_sordidulus",14.5,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",24789
+6,-119.7497894,48.6586762,"adult",1940,"Contopus sordidulus saturatus","Contopus_sordidulus",14.5,NA,"female",4.7,648,8.14331385899258,67.489253569456,"Summer",24833
+7,-105.8339761,32.9016138,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",14.6,NA,"female",10.5,584,6.60830515107293,68.5549331093322,"Summer",24453
+6,-121.5341,36.32858,"unknown",1982,"Contopus sordidulus veliei","Contopus_sordidulus",14.6,NA,"male",13.8,1038,5.67730062831293,95.6362291553654,"Summer",24528
+6,-120.2954878,39.5460959,"ad.sk.",1982,"Contopus sordidulus veliei","Contopus_sordidulus",14.6,NA,"male",4.9,1292,6.75216575805441,68.2248371848973,"Summer",24529
+6,-115.442739,31.008554,"u ad.",1925,"Contopus sordidulus veliei","Contopus_sordidulus",14.6,NA,"male",8,674,4.13110888334604,118.374400142833,"Summer",24551
+5,-115.5697,33.1714,"u ad.",1937,"Contopus sordidulus veliei","Contopus_sordidulus",14.6,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",24574
+5,-118.23917,37.76944,"ad.",1954,"Contopus sordidulus veliei","Contopus_sordidulus",14.6,NA,"female",7,220,6.73934625010378,89.5166081824812,"Spring",24702
+6,-127.6667,55.25,"u ad.",1921,"Contopus sordidulus veliei","Contopus_sordidulus",14.6,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",24758
+4,-115.7666666667,30.8666666667,"u ad.",1925,"Contopus sordidulus veliei","Contopus_sordidulus",14.6,NA,"male",16,266,4.03021730371348,124.899293379329,"Spring",24763
+6,-104.822786,40.346603,NA,1956,"Contopus sordidulus","Contopus_sordidulus",14.6000003814697,NA,"male",9.5,271,9.726050617083,75.6277407444161,"Summer",24423
+6,-104.822786,40.346603,NA,1956,"Contopus sordidulus","Contopus_sordidulus",14.6000003814697,NA,"male",9.5,271,9.726050617083,75.6277407444161,"Summer",24652
+5,-104.5154861,30.58822,NA,1968,"Contopus sordidulus veliei","Contopus_sordidulus",14.7,163,"male",15.5,337,7.27816889225871,109.63831149325,"Spring",24601
+7,-117.24014,46.341092,"Ad",1954,"Contopus sordidulus","Contopus_sordidulus",14.7,161,"male",9.1,340,6.7055099460342,44.9052688535369,"Summer",24640
+6,-114.22917,39.095,"ad. sk.oss.",1962,"Contopus sordidulus veliei","Contopus_sordidulus",14.7,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",24720
+5,-103.8935852,30.6529761,NA,1968,"Contopus sordidulus veliei","Contopus_sordidulus",14.7,161,"male",14.3,601,6.45944809538475,113.078584045478,"Spring",24800
+5,-103.6631688,30.4947158,"ad",1981,"Contopus sordidulus veliei","Contopus_sordidulus",14.7,NA,"female",16.7,576,6.51806347891393,73.8891599559754,"Spring",24830
+8,-118.099737,37.432159,"ad.",1917,"Contopus sordidulus veliei","Contopus_sordidulus",14.7,NA,"male",5.6,160,8.42134283541023,153.363953658046,"Summer",24860
+5,-108.65,33.4,"adult",1964,"Contopus sordidulus veliei","Contopus_sordidulus",14.7,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Spring",24899
+6,-106.7813,46.268,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",14.8,NA,"female",8.3,314,12.0339765210462,84.4856629974161,"Summer",24590
+6,-106.7813,46.268,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",14.8,NA,"male",8.3,314,12.0339765210462,84.4856629974161,"Summer",24592
+5,-117.377536,47.186696,NA,1977,"Contopus sordidulus","Contopus_sordidulus",14.8,NA,"male",8.1,436,8.26504138470638,87.3788674640472,"Spring",24646
+9,-117.1765,46.469,NA,1978,"Contopus sordidulus","Contopus_sordidulus",14.8,NA,"female",10.1,430,8.01260370802264,53.5194321070268,"Fall",24648
+6,-106.7813,46.268,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",14.8,NA,"male",8.3,314,12.0339765210462,84.4856629974161,"Summer",24792
+6,-111.7480724,48.3894847,"ad",1970,"Contopus sordidulus amplus","Contopus_sordidulus",14.8,NA,"male",5.1,311,11.503553469439,88.195098903982,"Summer",24807
+6,-101.8056599,38.9238219,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",14.8,NA,"male",10.7,496,11.5295930176011,94.0601835768938,"Summer",24815
+6,-98.39133,40.456467,NA,1955,"Contopus sordidulus","Contopus_sordidulus",14.8999996185303,NA,"male",11,510,12.4594858593277,98.5098152752699,"Summer",24421
+6,-123.45806,40.45389,"u ad.",1932,"Contopus sordidulus veliei","Contopus_sordidulus",14.9,NA,"male",10.3,1224,7.2326438017945,102.630462235569,"Summer",24566
+6,-119.0386191,53.9732918,NA,1970,"Contopus sordidulus amplus","Contopus_sordidulus",14.9,NA,"female",1.7,465,9.53208298645191,47.9665004661194,"Summer",24606
+6,-106.7813,46.268,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",14.9,NA,"male",8.3,314,12.0339765210462,84.4856629974161,"Summer",24793
+6,-120.5881808,35.1185856,NA,1969,"Contopus sordidulus veliei","Contopus_sordidulus",14.9,150,"female",13.6,661,2.1884510919411,172.758475351773,"Summer",24802
+8,-119.594211,49.49871,"hatch-year",1998,"Contopus sordidulus","Contopus_sordidulus",14.9,154,"male",11.1,343,8.43044626591168,41.0838982488769,"Summer",24866
+7,-101.8985211,37.1131734,NA,1964,"Contopus sordidulus veliei ?","Contopus_sordidulus",15,NA,"male",13.6,314,10.114076599203,101.030505866285,"Summer",24445
+8,-114.840694,43.928887,"immature",1948,"Contopus sordidulus","Contopus_sordidulus",15,NA,"male",1,590,9.07829162276024,62.5814499600158,"Summer",24665
+7,-106.45,29.3226,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",15,NA,"female",15.9,315,6.35721970866529,149.588297511,"Summer",24711
+6,-115.28361,36.63,"ad.",1963,"Contopus sordidulus veliei","Contopus_sordidulus",15,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",24724
+7,-120.04297,38.18139,"U-Ad",1960,"Contopus sordidulus veliei","Contopus_sordidulus",15,NA,"female",10.2,863,7.48991240795164,107.583581917785,"Summer",24846
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",15.1,NA,"female",12.4,260,8.08100560049005,67.6181929382578,"Summer",24464
+7,-120.11166,37.75634,"ad.",1920,"Contopus sordidulus veliei","Contopus_sordidulus",15.1,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",24544
+6,-106.7813,46.268,"u ad.",1940,"Contopus sordidulus veliei","Contopus_sordidulus",15.1,NA,"male",8.3,314,12.0339765210462,84.4856629974161,"Summer",24587
+5,-104.752165,38.877736,NA,1944,"Contopus sordidulus","Contopus_sordidulus",15.1,NA,"male",8.4,391,8.39236214806311,100.37905565613,"Spring",24634
+5,-117.377536,47.186696,NA,1977,"Contopus sordidulus","Contopus_sordidulus",15.1,NA,"male",8.1,436,8.26504138470638,87.3788674640472,"Spring",24647
+7,-104.2049408,43.9126368,"adult",1935,"Contopus sordidulus","Contopus_sordidulus",15.1,NA,"male",6.5,367,9.24253589102957,112.919892919165,"Summer",24837
+5,-108.3064333333,36.5995166667,NA,2013,"Contopus sordidulus","Contopus_sordidulus",15.1,NA,"male",10,284,10.1718714943205,92.1103211188107,"Spring",24887
+5,-103.5741655,30.109093,NA,1966,"Contopus sordidulus veliei","Contopus_sordidulus",15.19,153,"male",15.5,468,7.5846086173769,119.033222316553,"Spring",24831
+6,-101.8056599,38.9238219,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",15.2,NA,"female",10.7,496,11.5295930176011,94.0601835768938,"Summer",24614
+5,-110.8060455,50.0558162,NA,1970,"Contopus sordidulus amplus","Contopus_sordidulus",15.2,NA,"female",3.8,353,13.0532359856462,114.193105517617,"Spring",24805
+5,-123.2744908,40.2300137,"u ad.",1933,"Contopus sordidulus veliei","Contopus_sordidulus",15.3,NA,"male",10.3,1544,6.90539973169877,127.728675406576,"Spring",24567
+7,-103.8829918,42.758235,NA,1957,"Contopus sordidulus","Contopus_sordidulus",15.4,NA,"female",6.7,477,9.96914558206287,106.61511532469,"Summer",24442
+6,-121.0983817,40.5764634,"u ad.",1960,"Contopus sordidulus veliei","Contopus_sordidulus",15.4,NA,"female",6.4,911,7.66449409269586,96.2105215330978,"Summer",24714
+7,-121.530840063,40.4125823385,"skull",2006,"Contopus sordidulus veliei","Contopus_sordidulus",15.42,NA,"female",8.1,2962,7.22288031189774,106.173989785825,"Summer",24754
+6,-110.682998,43.6813712,NA,1949,"Contopus sordidulus","Contopus_sordidulus",15.5,NA,"female",2.4,531,10.7083760758491,40.2391363384955,"Summer",24439
+6,-104.42025,44.44875,NA,2008,"Contopus sordidulus","Contopus_sordidulus",15.5,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",24662
+8,-119.603,38.31176,"U-Ad",1960,"Contopus sordidulus veliei","Contopus_sordidulus",15.5,NA,"female",2.6,861,7.18780005961279,109.297017549131,"Summer",24876
+6,-106.6113281,35.2144901,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",15.6,NA,"female",12.4,260,8.08100560049005,67.6181929382578,"Summer",24684
+8,-111.7387431,35.2698666,"ad",1977,"Contopus sordidulus veliei","Contopus_sordidulus",15.7,65,"male",7.1,385,8.1196870741315,42.2681432125154,"Summer",24611
+6,-130.014,55.917,"AHY",1997,"Contopus sordidulus","Contopus_sordidulus",15.7,NA,"male",5.8,1970,6.69902751874999,54.568761871554,"Summer",24832
+6,-106.2394,45.3018,"u ad.",1947,"Contopus sordidulus veliei","Contopus_sordidulus",15.8,NA,"female",6.7,444,10.5011218736886,88.6627303491813,"Summer",24799
+6,-101.8804399,37.1204241,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",15.9,NA,"male",12.2,378,11.0705554047526,115.144281834393,"Summer",24613
+6,-101.8056599,38.9238219,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",15.9,NA,"male",10.7,496,11.5295930176011,94.0601835768938,"Summer",24615
+6,-105.8339761,32.8943581,NA,1965,"Contopus sordidulus veliei","Contopus_sordidulus",15.9,NA,"female",10.1,612,6.54607793748565,68.9602321171057,"Summer",24675
+6,-120.2792747,39.5382166,"ad.sk.",1982,"Contopus sordidulus veliei","Contopus_sordidulus",15.9,NA,"female",4.8,1306,6.76261447558964,68.3067703368749,"Summer",24745
+6,-122.9107,44.2042,"u ad.",1958,"Contopus sordidulus veliei","Contopus_sordidulus",15.9,NA,"female",12.5,1330,5.45712628337729,81.3849257157334,"Summer",24790
+6,-104.822786,40.346603,"ad.",1956,"Contopus sordidulus","Contopus_sordidulus",16,NA,"female",9.5,271,9.726050617083,75.6277407444161,"Summer",24425
+5,-101.78469,37.1521231,NA,1950,"Contopus sordidulus","Contopus_sordidulus",16,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",24470
+5,-103.6631688,30.4947158,"ad",1981,"Contopus sordidulus veliei","Contopus_sordidulus",16,NA,"male",16.7,576,6.51806347891393,73.8891599559754,"Spring",24829
+8,-114.840694,43.928887,"adult",1948,"Contopus sordidulus","Contopus_sordidulus",16.1,NA,"female",1,590,9.07829162276024,62.5814499600158,"Summer",24667
+6,-108.5995102,33.3979122,NA,1958,"Contopus sordidulus","Contopus_sordidulus",16.1,NA,"female",8.2,871,7.25063738055093,68.5492137319993,"Summer",24670
+7,-102.707356,40.853691,NA,1956,"Contopus sordidulus","Contopus_sordidulus",16.2000007629395,NA,"male",10.1,371,9.97112497832282,91.3966704712838,"Summer",24650
+6,-121.0026,40.5196,"u ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",16.3,NA,"female",6.7,622,6.91263117032651,133.03591154119,"Summer",24509
+6,-121.567023,40.5342838,"u ad.",1926,"Contopus sordidulus veliei","Contopus_sordidulus",16.4,NA,"female",8.7,1190,6.53500481092309,127.108430590412,"Summer",24554
+6,-131.1833,57.9167,"u ad.",1919,"Contopus sordidulus veliei","Contopus_sordidulus",16.5,NA,"female",0.4,393,10.7032563722307,47.6274398471146,"Summer",24542
+5,-115.57412,35.51722,"u ad.",1939,"Contopus sordidulus veliei","Contopus_sordidulus",16.5,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",24584
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",16.5,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",24708
+6,-100.8195736,37.1284059,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",16.6,NA,"female",12.9,425,11.4374550835349,101.056748527061,"Summer",24812
+6,-106.08889,28.7080373639,"u ad.",1957,"Contopus sordidulus veliei","Contopus_sordidulus",16.7,NA,"female",19,240,5.85322366501804,147.45161899312,"Summer",24494
+5,-115.42377,35.17113,"ad.",1938,"Contopus sordidulus veliei","Contopus_sordidulus",16.7,NA,"male",12.9,253,7.70287234895155,131.435743784361,"Spring",24581
+5,-117.210511,46.826688,NA,1961,"Contopus sordidulus","Contopus_sordidulus",16.8,16.7,NA,8.7,616,8.05663193783967,67.8004174757326,"Spring",24416
+5,-109.185985,31.9322283333,"AHY",2007,"Contopus sordidulus","Contopus_sordidulus",16.8,NA,"female",14.5,435,7.253604119834,99.7291478522797,"Spring",24474
+5,-114.5077515,54.5402065,NA,1942,"Contopus sordidulus saturatus","Contopus_sordidulus",16.8,NA,"male",2.6,489,11.2944441960182,77.3296322441838,"Spring",24834
+6,-106.45,29.3226,"ad.",1959,"Contopus sordidulus veliei","Contopus_sordidulus",16.9,NA,"female",15.9,315,6.35721970866529,149.588297511,"Summer",24506
+6,-101.8056599,38.9238219,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",16.9,NA,"male",10.7,496,11.5295930176011,94.0601835768938,"Summer",24616
+6,-103.91,44.45,NA,2007,"Contopus sordidulus","Contopus_sordidulus",17,NA,NA,7.8,546,10.3050590694203,65.8374250132,"Summer",24433
+5,-122.2252066,40.1903286,"u ad.",1924,"Contopus sordidulus veliei","Contopus_sordidulus",17,NA,"male",17.4,446,7.60053327475159,110.786178445725,"Spring",24548
+5,-120.29042,37.65638,"ad.",1915,"Contopus sordidulus veliei","Contopus_sordidulus",17.4,NA,"female",17,515,6.71698435221333,126.132219286824,"Spring",24535
+6,-101.8056599,38.9238219,"ad",1978,"Contopus sordidulus veliei","Contopus_sordidulus",17.5,NA,"male",10.7,496,11.5295930176011,94.0601835768938,"Summer",24814
+6,-127.6667,55.25,"u ad.",1921,"Contopus sordidulus veliei","Contopus_sordidulus",19,NA,"female",4.1,528,9.01276871998833,42.8930178884019,"Summer",24546
+7,-123.625462,41.9955479,"u ad.",1935,"Contopus sordidulus veliei","Contopus_sordidulus",23.2,NA,"female",10.5,1417,6.23793380710458,91.6998801163272,"Summer",24571

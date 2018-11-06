@@ -1,0 +1,281 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-83.7263412,42.2708397,"juvenile",1956,"Colinus virginianus virginianus","Colinus_virginianus",44.4,NA,"undetermined",9.4,705,9.67381658254524,61.8738767305599,"Summer",24203
+7,-99.4540413663,25.4590086336,"imm.",1945,"Colinus virginianus texanus","Colinus_virginianus",55,NA,"male",24.1,594,5.84239988049743,90.0520771233239,"Summer",24277
+11,-79.0961,34.4967,"u ad.",1960,"Colinus virginianus virginianus","Colinus_virginianus",58.5,NA,"male",16.2,1249,8.59303364782934,52.367151397174,"Fall",24154
+7,-96.4085985,32.0441186,"immature",1977,"Colinus virginianus texanus","Colinus_virginianus",67.5,NA,"undetermined",19.4,811,8.9635626034214,57.0891528478506,"Summer",24298
+10,-95.3654546,39.1742757,NA,1995,"Colinus virginianus virginianus","Colinus_virginianus",89.5,NA,"female",12.6,1021,9.9030145395075,95.9025416604413,"Fall",24264
+9,-85.41938,38.76907,"Imm.",1984,"Colinus virginianus virginianus","Colinus_virginianus",89.9,NA,"male",12.2,1205,9.27183744987851,46.422324006565,"Fall",24353
+4,-95.2598661,38.9549568,"adult",1994,"Colinus virginianus virginianus","Colinus_virginianus",98,NA,"male",13.5,865,9.85763432804517,72.4430264855141,"Spring",24263
+3,-84.1386223,42.3530892,NA,1956,"Colinus virginianus virginianus","Colinus_virginianus",107.9,NA,"female",9,740,9.6903380495807,58.9750467886921,"Spring",24309
+2,-89.21778,42.91694,"u ad.",1951,"Colinus virginianus virginianus","Colinus_virginianus",112,NA,"male",6.9,966,11.3488051700555,44.8820285927612,"Winter",24271
+9,-100.28333,22.86389,"imm.",1945,"Colinus virginianus graysoni","Colinus_virginianus",113,NA,"male",21.8,334,3.79565141931786,102.835010383536,"Fall",24283
+9,-78.576107,34.2831767,NA,1989,"Colinus virginianus virginianus","Colinus_virginianus",115,NA,"female",16.5,1284,7.69507910448245,32.7719290105898,"Fall",24315
+1,-83.8333333,42.2833333,NA,1935,"Colinus virginianus virginianus","Colinus_virginianus",115.7,NA,"male",8.7,649,10.2204340772431,44.6409379438386,"Winter",24400
+1,-80.53806,37.35528,NA,1940,"Colinus virginianus","Colinus_virginianus",117,223,"female",7.8,1244,8.70557118728976,54.8090165243405,"Winter",24122
+11,-84.486412,43.9808235,NA,1934,"Colinus virginianus virginianus","Colinus_virginianus",118.1,NA,"in question",7.1,594,11.4633110400093,63.7733566947858,"Fall",24216
+10,-85.3297308,42.336441,NA,1931,"Colinus virginianus virginianus","Colinus_virginianus",119.6,NA,"male",11.2,796,9.5104567649923,51.2876398872467,"Fall",24211
+12,-91.9238888888,17.3805555555,"imm.",1945,"Colinus virginianus insignis","Colinus_virginianus",122,NA,"female",26,2381,1.68298076115689,59.627239163439,"Winter",24294
+3,-85.3880596,42.3984883,NA,1934,"Colinus virginianus","Colinus_virginianus",122.6,NA,"undetermined",9.7,673,11.5476089614808,51.2313588886797,"Spring",24218
+6,-79.1806,35.4797,NA,1995,"Colinus virginianus virginianus","Colinus_virginianus",123,NA,"male",15.6,1381,8.59936572713889,47.7745718365003,"Summer",24159
+12,-91.9238888888,17.3805555555,"imm.",1945,"Colinus virginianus insignis","Colinus_virginianus",124,NA,"male",26,2381,1.68298076115689,59.627239163439,"Winter",24181
+8,-96.0252185,39.9212254,"immature",1971,"Colinus virginianus virginianus","Colinus_virginianus",125,NA,"male",11.7,768,11.1899305384147,74.3878120082893,"Summer",24186
+12,-91.9238888888,17.3805555555,"imm.",1945,"Colinus virginianus insignis","Colinus_virginianus",125,NA,"male",26,2381,1.68298076115689,59.627239163439,"Winter",24293
+8,-96.0466011,39.9239283,"immature",1971,"Colinus virginianus virginianus","Colinus_virginianus",126,NA,"male",11.7,773,11.1939783595981,74.6366708203381,"Summer",24297
+2,-89.21778,42.91694,"u ad.",1951,"Colinus virginianus virginianus","Colinus_virginianus",127,NA,"female",6.9,966,11.3488051700555,44.8820285927612,"Winter",24156
+11,-91.9238888888,17.3805555555,"u ad.",1945,"Colinus virginianus insignis","Colinus_virginianus",127,NA,"male",26,2381,1.68298076115689,59.627239163439,"Fall",24292
+12,-91.9238888888,17.3805555555,"imm.",1945,"Colinus virginianus insignis","Colinus_virginianus",128,NA,"male",26,2381,1.68298076115689,59.627239163439,"Winter",24179
+8,-95.1833333,16.3333333,NA,1963,"Colinus virginianus coyoleos","Colinus_virginianus",128.5,NA,NA,27.2,675,1.57564320680525,145.233757586625,"Summer",24395
+7,-93.3718541,16.7607963,"Not recorded",1957,NA,"Colinus_virginianus",129.9,NA,"male",23.4,628,1.94016556619337,96.8446444443359,"Summer",24371
+12,-91.9238888888,17.3805555555,"imm.",1945,"Colinus virginianus insignis","Colinus_virginianus",130,NA,"female",26,2381,1.68298076115689,59.627239163439,"Winter",24183
+7,-99.4540413663,25.4590086336,"imm.",1945,"Colinus virginianus texanus","Colinus_virginianus",130,NA,"female",24.1,594,5.84239988049743,90.0520771233239,"Summer",24278
+11,-84.0118504,42.4569008,NA,1932,"Colinus virginianus virginianus","Colinus_virginianus",130,NA,"female",9.1,863,9.72293056582627,46.5367036866831,"Fall",24321
+12,-91.9238888888,17.3805555555,"imm.",1945,"Colinus virginianus insignis","Colinus_virginianus",131,NA,"female",26,2381,1.68298076115689,59.627239163439,"Winter",24180
+3,-95.3123793,38.913954,NA,1960,"Colinus virginianus virginianus","Colinus_virginianus",132,NA,"male",11.8,860,11.1197612793212,52.3054369878821,"Spring",24128
+7,-99.4540413663,25.4590086336,"u ad.",1945,"Colinus virginianus texanus","Colinus_virginianus",132,NA,"male",24.1,594,5.84239988049743,90.0520771233239,"Summer",24275
+8,-98.4305555555,22.8280555555,"u ad.",1945,"Colinus virginianus maculatus","Colinus_virginianus",132,NA,"male",25.9,589,3.910853196845,92.3693331332496,"Summer",24279
+1,-99.3213888888,18.7727777777,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",133,NA,"male",23.6,864,2.19273939641857,127.471459151513,"Winter",24169
+7,-83.7268066,42.2147828,NA,1934,"Colinus virginianus virginianus","Colinus_virginianus",133,NA,"female",9.6,482,11.7643110784914,58.8623200976034,"Summer",24328
+12,-91.9238888888,17.3805555555,"imm.",1945,"Colinus virginianus insignis","Colinus_virginianus",134,NA,"female",26,2381,1.68298076115689,59.627239163439,"Winter",24184
+12,-91.9238888888,17.3805555555,"imm.",1945,"Colinus virginianus insignis","Colinus_virginianus",135,NA,"male",26,2381,1.68298076115689,59.627239163439,"Winter",24182
+10,-99.28444,22.37306,"imm.",1945,"Colinus virginianus aridus","Colinus_virginianus",135,NA,"male",24.4,965,4.21651694547943,103.844227078793,"Fall",24281
+7,-101.8623587,37.1059226,NA,1963,"Colinus virginianus taylori","Colinus_virginianus",136.5,NA,"male",14.5,255,10.7726505559217,101.663825416613,"Summer",24130
+9,-99.28444,22.37306,"imm.",1945,"Colinus virginianus aridus","Colinus_virginianus",137,NA,"male",24.4,965,4.21651694547943,103.844227078793,"Fall",24164
+9,-98.465,18.6736111111,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",137,NA,"male",22.7,765,2.0439860048148,123.70993420988,"Fall",24167
+1,-99.3213888888,18.7727777777,"imm.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",137,NA,"female",23.6,864,2.19273939641857,127.471459151513,"Winter",24286
+1,-99.3213888888,18.7727777777,"imm.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",139,NA,"male",23.6,864,2.19273939641857,127.471459151513,"Winter",24174
+3,-99.3213888888,18.7727777777,"imm.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",139,NA,"female",23.6,864,2.19273939641857,127.471459151513,"Spring",24287
+10,-82.11838,42.94823,"adult",1942,"Colinus virginianus virginianus","Colinus_virginianus",140,NA,"female",8.5,872,10.0727768432212,30.8226837531663,"Fall",24347
+6,-86.4236,38.72864,"U-Ad",1988,"Colinus virginianus virginianus","Colinus_virginianus",140,NA,"male",12.2,973,9.9771974871188,55.9477201597212,"Summer",24372
+7,-82.3023148,28.1075675,NA,1966,"Colinus virginianus","Colinus_virginianus",140.7,NA,"male",21.5,1269,5.03336594410467,68.8118373613655,"Summer",24133
+3,-82.3739433,28.0739493,"immature",1985,"Colinus virginianus","Colinus_virginianus",142.3,NA,"female",22.6,1249,5.15119138911308,79.8289436897778,"Spring",24258
+3,-95.3123793,38.913954,"immature",1960,"Colinus virginianus virginianus","Colinus_virginianus",143,NA,"male",11.8,860,11.1197612793212,52.3054369878821,"Spring",24129
+5,-97.1302622,16.1324951,"adult",1965,NA,"Colinus_virginianus",143,NA,"male",23.7,1112,1.51064405289448,122.569836030426,"Spring",24402
+9,-94.1335299,16.5174783,"juvenile",1965,NA,"Colinus_virginianus",143.5,NA,"female",21.3,1002,1.16645019636762,104.195201425018,"Fall",24401
+3,-99.3213888888,18.7727777777,"imm.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",144,NA,"female",23.6,864,2.19273939641857,127.471459151513,"Spring",24171
+4,-91.7391666666,16.0944444444,"u ad.",1950,"Colinus virginianus insignis","Colinus_virginianus",145,NA,"male",18.6,1513,1.00856183236179,70.3160107863977,"Spring",24268
+8,-95.9719429,39.9596095,"immature",1971,"Colinus virginianus virginianus","Colinus_virginianus",145,NA,"female",11.5,753,11.1882649560722,74.6089252674806,"Summer",24296
+12,-83.5,41.8,NA,1964,"Colinus virginianus","Colinus_virginianus",145,NA,"male",10.3,657,9.78871876966108,62.6408031469669,"Winter",24396
+4,-97.4281465,28.1023602,NA,1967,"Colinus virginianus","Colinus_virginianus",146,NA,"male",21.9,1060,6.05202195113085,168.088920631327,"Spring",24250
+5,-96.1772222222,18.9386111111,"u ad.",1954,"Colinus virginianus godmani","Colinus_virginianus",146,NA,"female",25.8,1534,2.22097439713457,115.027440834291,"Spring",24270
+3,-99.3213888888,18.7727777777,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",146,NA,"male",23.6,864,2.19273939641857,127.471459151513,"Spring",24289
+7,-99.4540413663,25.4590086336,"u ad.",1945,"Colinus virginianus texanus","Colinus_virginianus",147,NA,"male",24.1,594,5.84239988049743,90.0520771233239,"Summer",24162
+1,-99.3213888888,18.7727777777,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",147,NA,"male",23.6,864,2.19273939641857,127.471459151513,"Winter",24175
+7,-83.7263412,42.2708397,NA,1956,"Colinus virginianus","Colinus_virginianus",148,NA,"male",9.4,705,9.67381658254524,61.8738767305599,"Summer",24310
+7,-99.0847222222,22.5497222222,"u ad.",1945,"Colinus virginianus aridus","Colinus_virginianus",149,NA,"male",24.8,845,4.14012150312114,104.858043910022,"Summer",24163
+9,-95.136891,16.5674746,"juvenile",1965,NA,"Colinus_virginianus",149.1,NA,"male",26.3,667,1.52930960854494,123.945684545927,"Fall",24370
+1,-99.3213888888,18.7727777777,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",150,NA,"female",23.6,864,2.19273939641857,127.471459151513,"Winter",24173
+1,-99.2341666666,18.6908333333,"u ad.",1946,"Colinus virginianus nigripectus","Colinus_virginianus",150,NA,"female",24.1,770,2.07691131396134,109.949675854388,"Winter",24178
+1,-99.3213888888,18.7727777777,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",150,NA,"male",23.6,864,2.19273939641857,127.471459151513,"Winter",24288
+7,-104.243746,19.8456227,NA,1963,"Colinus virginianus graysoni","Colinus_virginianus",150,NA,"female",23.8,996,2.11808589976608,116.600078828527,"Summer",24394
+9,-100.28333,22.86389,"u ad.",1945,"Colinus virginianus graysoni","Colinus_virginianus",151,NA,"female",21.8,334,3.79565141931786,102.835010383536,"Fall",24282
+3,-99.3213888888,18.7727777777,"imm.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",152,NA,"male",23.6,864,2.19273939641857,127.471459151513,"Spring",24172
+8,-98.4361111111,23.2027777777,"u ad.",1945,"Colinus virginianus maculatus","Colinus_virginianus",152,NA,"male",21.6,712,3.53076307315966,82.4147224580186,"Summer",24280
+1,-99.2341666666,18.6908333333,"u ad.",1946,"Colinus virginianus nigripectus","Colinus_virginianus",152,NA,"female",24.1,770,2.07691131396134,109.949675854388,"Winter",24291
+5,-80.3972702,27.6386108,NA,1966,"Colinus virginianus","Colinus_virginianus",152.2,NA,"male",21.8,1537,4.37391544998716,65.1920031705294,"Spring",24135
+2,-98.660547,26.816691,NA,2009,"Colinus virginianus","Colinus_virginianus",152.3,NA,"male",23.8,498,6.23936671223105,127.878918438955,"Winter",24236
+7,-84.8248,31.2802,"ad.",1951,"Colinus virginianus virginianus","Colinus_virginianus",153,NA,"male",19.8,1292,6.79297208127412,55.9288979291582,"Summer",24269
+5,-93.6951903,16.1058301,NA,1939,"Colinus virginianus coyoleos","Colinus_virginianus",153,NA,NA,25.9,1686,1.17163444500718,126.106193676105,"Spring",24381
+7,-104.243746,19.8456227,NA,1963,"Colinus virginianus graysoni","Colinus_virginianus",153,NA,"male",23.8,996,2.11808589976608,116.600078828527,"Summer",24393
+7,-99.4540413663,25.4590086336,"u ad.",1945,"Colinus virginianus texanus","Colinus_virginianus",154,NA,"male",24.1,594,5.84239988049743,90.0520771233239,"Summer",24161
+2,-97.916944,27.518646,NA,2009,"Colinus virginianus","Colinus_virginianus",154,208,"female",23.4,506,6.18845454834805,104.25015168854,"Winter",24234
+7,-99.4540413663,25.4590086336,"u ad.",1945,"Colinus virginianus texanus","Colinus_virginianus",154,NA,"male",24.1,594,5.84239988049743,90.0520771233239,"Summer",24274
+7,-104.2665455491,19.8737244508,"u ad.",1963,"Colinus virginianus graysoni","Colinus_virginianus",154.2,NA,"male",20.8,1126,1.90380400697385,116.520490242981,"Summer",24155
+7,-101.8623587,37.1059226,NA,1963,"Colinus virginianus taylori","Colinus_virginianus",154.5,NA,"female",14.5,255,10.7726505559217,101.663825416613,"Summer",24241
+3,-89.4664764,34.6567993,NA,1959,"Colinus virginianus virginianus","Colinus_virginianus",154.6,NA,"male",16.2,1223,8.28364580838582,25.0039841891558,"Spring",24127
+5,-93.6951903,16.1058301,NA,1939,"Colinus virginianus coyoleos","Colinus_virginianus",155,NA,NA,25.9,1686,1.17163444500718,126.106193676105,"Spring",24380
+3,-82.4564133,27.9773979,NA,1966,"Colinus virginianus","Colinus_virginianus",155.1,NA,"male",21.7,1192,5.11470695863676,72.0540723867603,"Spring",24134
+5,-98.73529,26.95606,NA,2013,"Colinus virginianus","Colinus_virginianus",155.9,NA,"male",22.8,606,6.26256313099493,89.2767695910549,"Spring",24379
+9,-98.5786111111,18.5183333333,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",156,NA,"male",24.2,694,2.28526240121878,122.370369542718,"Fall",24285
+1,-99.2341666666,18.6908333333,"u ad.",1946,"Colinus virginianus nigripectus","Colinus_virginianus",156,NA,"male",24.1,770,2.07691131396134,109.949675854388,"Winter",24290
+3,-89.4664764,34.6567993,NA,1959,"Colinus virginianus virginianus","Colinus_virginianus",156.1,NA,"female",16.2,1223,8.28364580838582,25.0039841891558,"Spring",24239
+5,-97.11359,16.05915,"U-Ad.",1965,"Colinus virginianus harrisoni","Colinus_virginianus",156.1,NA,"male",22.6,1164,1.49088137446521,120.900329327984,"Spring",24351
+10,-83.6422,42.30201,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",157,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",24230
+11,-95.28294,38.5646764,NA,1988,"Colinus virginianus","Colinus_virginianus",157,NA,"female",13.3,699,10.4913348083362,61.9077573069998,"Fall",24260
+9,-101.726756,21.973864,"u ad.",1945,"Colinus virginianus graysoni","Colinus_virginianus",157,NA,"male",17.8,340,3.09892454463372,121.316721089044,"Fall",24284
+1,-99.3213888888,18.7727777777,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",158,NA,"male",23.6,864,2.19273939641857,127.471459151513,"Winter",24170
+6,-96.1833333,38.4,NA,1953,"Colinus virginianus virginianus","Colinus_virginianus",158.3,NA,"male",13.8,679,9.79747957694253,56.6195668547024,"Summer",24385
+10,-97.4638367,32.6769507,NA,2006,"Colinus virginianus virginianus","Colinus_virginianus",159,NA,"male",20.2,749,7.90505687787408,28.3761687713482,"Fall",24153
+11,-83.3619833,42.3596063,NA,1944,"Colinus virginianus virginianus","Colinus_virginianus",159.7,NA,"female",9.7,633,10.6839266133191,47.576552472334,"Fall",24303
+6,-95.992679,29.985747,NA,2013,"Colinus virginianus","Colinus_virginianus",159.8,NA,"male",20.4,1088,7.29426923251148,62.9807234899852,"Summer",24357
+1,-84.2666667,42.25,NA,2009,"Colinus virginianus virginianus","Colinus_virginianus",159.8,NA,"male",8.9,957,10.0255544696661,42.4568597906894,"Winter",24367
+7,-102.7016667,21.884444,"u ad.",1959,"Colinus virginianus graysoni","Colinus_virginianus",160.8,NA,"male",19.3,387,3.06992991727331,118.109285316271,"Summer",24377
+10,-83.7263412,42.2708397,NA,1954,"Colinus virginianus virginianus","Colinus_virginianus",161.8,NA,"female",9.5,821,9.58692291139816,63.8357105504427,"Fall",24308
+9,-100.28333,22.86389,"u ad.",1945,"Colinus virginianus graysoni","Colinus_virginianus",163,NA,"male",21.8,334,3.79565141931786,102.835010383536,"Fall",24165
+3,-102.4431262006,19.985,"u ad.",1954,"Colinus virginianus graysoni","Colinus_virginianus",163,NA,"female",18.8,713,2.36045385979951,107.652689088126,"Spring",24272
+7,-99.4540413663,25.4590086336,"u ad.",1945,"Colinus virginianus texanus","Colinus_virginianus",163,NA,"female",24.1,594,5.84239988049743,90.0520771233239,"Summer",24276
+7,-102.7516667,21.884444,"ad.",1959,"Colinus virginianus graysoni","Colinus_virginianus",163,NA,"male",19.3,391,3.06040203340355,120.213903383569,"Summer",24375
+6,-95.3926933,39.0443055,NA,1985,"Colinus virginianus virginianus","Colinus_virginianus",163.1,NA,"male",10.9,1231,11.3816805224515,63.3604774633137,"Summer",24143
+11,-95.28294,38.5646764,NA,1988,"Colinus virginianus","Colinus_virginianus",164,NA,"male",13.3,699,10.4913348083362,61.9077573069998,"Fall",24145
+1,-99.2341666666,18.6908333333,"u ad.",1946,"Colinus virginianus nigripectus","Colinus_virginianus",165,NA,"male",24.1,770,2.07691131396134,109.949675854388,"Winter",24177
+4,-97.4281465,28.1023602,NA,1967,"Colinus virginianus","Colinus_virginianus",165,NA,"female",21.9,1060,6.05202195113085,168.088920631327,"Spring",24251
+10,-105.127025,39.605626,NA,2011,"Colinus virginianus","Colinus_virginianus",165.5,225,"female",10.1,474,9.07684366446238,53.5528364936794,"Fall",24121
+8,-95.9907787,39.9598926,"immature",1971,"Colinus virginianus virginianus","Colinus_virginianus",166,NA,"female",11.5,759,11.1939377532771,74.8926402297231,"Summer",24295
+6,-84.4316482,42.1980035,NA,1955,"Colinus virginianus","Colinus_virginianus",166.5,NA,"male",10,793,10.9086391951934,40.4836389908126,"Summer",24209
+4,-84.3833333,37.15,NA,1949,"Colinus virginianus virginianus","Colinus_virginianus",167.1,NA,"female",13.6,1315,7.70668246040114,35.2781242536773,"Spring",24384
+2,-97.916944,27.518646,NA,2009,"Colinus virginianus","Colinus_virginianus",167.2,190,"male",23.4,506,6.18845454834805,104.25015168854,"Winter",24235
+2,-97.916944,27.518646,NA,2009,"Colinus virginianus","Colinus_virginianus",167.7,210,"female",23.4,506,6.18845454834805,104.25015168854,"Winter",24119
+1,-95.398407,38.5213097,NA,1992,"Colinus virginianus","Colinus_virginianus",167.7,NA,"male",12.8,1082,8.19213869289555,61.4680446014286,"Winter",24261
+7,-98.2014271,38.3409498,NA,2002,"Colinus virginianus","Colinus_virginianus",167.8,NA,"male",13.5,679,10.0051653326336,92.6168279425841,"Summer",24148
+10,-83.8473129,42.5813997,NA,1933,"Colinus virginianus virginianus","Colinus_virginianus",168,NA,"female",9.4,601,10.4910748503264,47.2840734468453,"Fall",24214
+11,-95.6967823,39.1263159,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",168.5,NA,"female",12.1,577,10.1537685196933,110.773153885156,"Fall",24244
+10,-83.7329865,42.3438278,NA,1942,"Colinus virginianus virginianus","Colinus_virginianus",168.7,NA,"male",9.2,920,10.5036898278653,38.4539683483026,"Fall",24302
+10,-83.6511961,42.2708702,NA,1933,"Colinus virginianus virginianus","Colinus_virginianus",169,NA,"male",10.2,607,10.402108614909,52.2309753659338,"Fall",24215
+7,-83.65,42.4333333,NA,1955,"Colinus virginianus virginianus","Colinus_virginianus",169.2,NA,"male",9.7,639,11.0052879851626,45.1849803182878,"Summer",24388
+11,-99.720028,39.902468,NA,1967,"Colinus virginianus","Colinus_virginianus",170,224,"female",10.8,632,9.27526851690052,119.087816450969,"Fall",24123
+3,-99.1483333333,18.8411111111,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",170,NA,"male",20.8,948,1.54056266777218,125.798493062119,"Spring",24176
+6,-100.148427,40.899611,NA,1956,"Colinus virginianus","Colinus_virginianus",170,NA,"male",10.6,370,10.7835733662573,82.4346081313575,"Summer",24232
+3,-74.8492,39.8225,NA,1976,"Colinus virginianus","Colinus_virginianus",170,NA,"female",12,995,9.04110143464363,54.2950545206691,"Spring",24409
+10,-89.3825646,43.8126224,NA,1936,"Colinus virginianus","Colinus_virginianus",170.2,NA,"female",6.5,628,13.70921775723,62.1996185488558,"Fall",24342
+3,-83.5784912,42.0866145,NA,1987,"Colinus virginianus virginianus","Colinus_virginianus",171,NA,"male",10.1,878,9.68666687522159,59.1223594738619,"Spring",24314
+7,-102.7016667,21.884444,"u ad.",1959,"Colinus virginianus graysoni","Colinus_virginianus",171,NA,"female",19.3,387,3.06992991727331,118.109285316271,"Summer",24376
+10,-83.7329865,42.3438278,NA,1933,"Colinus virginianus virginianus","Colinus_virginianus",171.5,NA,"male",9.8,615,10.496879045553,53.6656271322528,"Fall",24325
+12,-94.8456651,37.1701488,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",172.3,NA,"male",13.7,785,9.36456894443901,49.7936367895885,"Winter",24253
+12,-83.6657677,42.0189362,"adult",1932,"Colinus virginianus","Colinus_virginianus",172.5,NA,"female",9.3,885,9.62386553723544,45.0263010748758,"Winter",24322
+8,-100.1574477,39.1380273,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",173,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",24132
+4,-95.3788376,38.6391318,"juvenile",1989,"Colinus virginianus","Colinus_virginianus",173.35,NA,"male",12.2,861,10.3669163469884,75.3252534759163,"Spring",24262
+11,-95.28294,38.5646764,NA,1988,"Colinus virginianus","Colinus_virginianus",174.8,NA,"female",13.3,699,10.4913348083362,61.9077573069998,"Fall",24259
+4,-97.4281465,28.1023602,NA,1967,"Colinus virginianus","Colinus_virginianus",175,NA,"female",21.9,1060,6.05202195113085,168.088920631327,"Spring",24249
+1,-95.1941611,38.8069025,NA,1967,"Colinus virginianus virginianus","Colinus_virginianus",175,NA,"female",12,1199,8.884136355768,84.1010178253019,"Winter",24255
+4,-102.5333333,36.9,NA,1959,"Colinus virginianus taylori","Colinus_virginianus",175,NA,"male",12.4,381,9.51921501729289,78.4038708257657,"Spring",24392
+7,-83.5,42.3666667,NA,1958,"Colinus virginianus virginianus","Colinus_virginianus",175.3,NA,"male",8.9,550,10.372720633148,62.4904620821423,"Summer",24390
+6,-81.6188049,28.2801959,NA,1966,"Colinus virginianus","Colinus_virginianus",175.7,NA,"female",21.8,1438,5.24030851509082,71.5161168913794,"Summer",24242
+1,-83.800654,36.3389817,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",176.6,NA,"female",14.5,1302,7.96885984772773,43.2899970220859,"Winter",24229
+12,-97.1182231,37.3873744,"immature",1963,"Colinus virginianus","Colinus_virginianus",177,NA,"male",14.6,633,11.3877392866454,66.4471003327566,"Winter",24265
+12,-83.8291473,42.4761353,NA,1963,"Colinus virginianus virginianus","Colinus_virginianus",177.5,NA,"male",8.2,455,11.3392987865078,46.6049031111,"Winter",24207
+12,-103.1909891,33.6419461,"imm.",1975,"Colinus virginianus texanus","Colinus_virginianus",177.7,NA,"female",13.6,382,7.59059924970993,97.9455843987282,"Winter",24356
+6,-100.148427,40.899611,NA,1956,"Colinus virginianus","Colinus_virginianus",178,NA,"male",10.6,370,10.7835733662573,82.4346081313575,"Summer",24117
+9,-100.28333,22.86389,"u ad.",1945,"Colinus virginianus graysoni","Colinus_virginianus",178,NA,"female",21.8,334,3.79565141931786,102.835010383536,"Fall",24166
+1,-85.3880596,42.3984883,NA,1934,"Colinus virginianus","Colinus_virginianus",178.5,NA,"undetermined",9.7,673,11.5476089614808,51.2313588886797,"Winter",24326
+4,-83.6429791,42.2708702,NA,1936,"Colinus virginianus virginianus","Colinus_virginianus",179.2,NA,"male",9.1,621,11.5091366866819,64.401070422279,"Spring",24220
+6,-83.4782409,41.782577,"adult",1935,"Colinus virginianus","Colinus_virginianus",179.5,NA,"male",9.4,650,10.3010149544066,38.2002875486616,"Summer",24329
+1,-83.9241261,36.2315755,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",179.5,NA,"male",14.4,1327,7.98196831500966,40.1062140008205,"Winter",24336
+3,-89.4664764,34.6567993,NA,1959,"Colinus virginianus virginianus","Colinus_virginianus",179.7,NA,"female",16.2,1223,8.28364580838582,25.0039841891558,"Spring",24240
+11,-89.0666667,36.5166667,NA,1948,"Colinus virginianus virginianus","Colinus_virginianus",180.2,NA,"male",15,1325,9.2454534280861,52.1571438006194,"Fall",24383
+9,-98.465,18.6736111111,"u ad.",1945,"Colinus virginianus nigripectus","Colinus_virginianus",181,NA,"female",22.7,765,2.0439860048148,123.70993420988,"Fall",24168
+9,-83.7263298,42.3505717,NA,1935,"Colinus virginianus virginianus","Colinus_virginianus",181,NA,"female",8.6,654,10.2484108154594,43.740314825775,"Fall",24304
+11,-85.0046539,42.3774414,NA,1939,"Colinus virginianus virginianus","Colinus_virginianus",181.2,NA,"male",9.7,857,10.0472029878364,47.0409393978711,"Fall",24301
+6,-101.78469,37.1593736,NA,1956,"Colinus virginianus taylori","Colinus_virginianus",181.4,NA,"male",14.4,291,10.3023791015238,114.067878559899,"Summer",24125
+8,-83.9168892,42.3769987,NA,1935,"Colinus virginianus","Colinus_virginianus",181.5,NA,"female",8.5,651,10.205464964984,44.0097719010474,"Summer",24223
+4,-101.8459776,37.9845333,NA,1967,"Colinus virginianus","Colinus_virginianus",181.6,NA,"male",12.2,382,9.07515339214214,114.187297037588,"Spring",24149
+12,-79.372722,43.73418,"immature",1970,"Colinus virginianus ssp?","Colinus_virginianus",181.8,NA,"male",7.4,773,11.0440714934084,30.1707821095848,"Winter",24185
+6,-83.7263412,42.2708397,"adult",1941,"Colinus virginianus","Colinus_virginianus",181.8,NA,"male",10.3,683,10.3579862322692,48.7778988168438,"Summer",24192
+10,-105.127025,39.605626,NA,2011,"Colinus virginianus","Colinus_virginianus",181.9,230,"male",10.1,474,9.07684366446238,53.5528364936794,"Fall",24120
+10,-84.0833333,37.15,NA,1951,"Colinus virginianus virginianus","Colinus_virginianus",182.5,NA,"male",12.7,1450,8.4104327348763,45.6283625077528,"Fall",24382
+6,-85.3297308,42.336441,NA,1930,"Colinus virginianus virginianus","Colinus_virginianus",183,NA,"male",9.7,586,10.2500960823287,43.2802871183626,"Summer",24212
+4,-88.2333333,36.7833333,NA,1950,"Colinus virginianus virginianus","Colinus_virginianus",183,NA,"male",14.3,1714,8.48488852804404,39.8062594510188,"Spring",24361
+4,-83.45438,41.7432677,NA,1934,"Colinus virginianus virginianus","Colinus_virginianus",183.3,NA,"female",10.1,545,11.6384029936424,61.3490734946655,"Spring",24217
+6,-85.3297308,42.336441,NA,1930,"Colinus virginianus virginianus","Colinus_virginianus",183.5,NA,"male",9.7,586,10.2500960823287,43.2802871183626,"Summer",24319
+3,-74.8492,39.8225,NA,1976,"Colinus virginianus","Colinus_virginianus",184,NA,"male",12,995,9.04110143464363,54.2950545206691,"Spring",24410
+1,-83.800654,36.3389817,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",184.2,NA,"female",14.5,1302,7.96885984772773,43.2899970220859,"Winter",24339
+1,-83.9241261,36.2315755,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",184.8,NA,"male",14.4,1327,7.98196831500966,40.1062140008205,"Winter",24335
+6,-100.148427,40.899611,NA,1956,"Colinus virginianus","Colinus_virginianus",185,NA,"male",10.6,370,10.7835733662573,82.4346081313575,"Summer",24116
+3,-74.8492,39.8225,NA,1976,"Colinus virginianus","Colinus_virginianus",185,NA,"male",12,995,9.04110143464363,54.2950545206691,"Spring",24403
+4,-83.4423637,41.7970399,"adult",1933,"Colinus virginianus","Colinus_virginianus",185.2,NA,"female",10.6,683,10.3218949399573,51.6950776187274,"Spring",24323
+2,-96.9049077,37.3050041,NA,1971,"Colinus virginianus","Colinus_virginianus",185.3,NA,"female",14.2,836,9.80248886144676,56.9516627923785,"Winter",24151
+11,-95.6967823,39.1263159,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",185.8,NA,"male",12.1,577,10.1537685196933,110.773153885156,"Fall",24138
+9,-94.1335299,16.5174783,"juvenile",1965,NA,"Colinus_virginianus",185.9,NA,"male",21.3,1002,1.16645019636762,104.195201425018,"Fall",24369
+7,-99.4540413663,25.4590086336,"u ad.",1945,"Colinus virginianus texanus","Colinus_virginianus",186,NA,"female",24.1,594,5.84239988049743,90.0520771233239,"Summer",24273
+3,-81.73926,42.71332,"adult",1964,"Colinus virginianus virginianus","Colinus_virginianus",186,NA,"male",8.7,807,9.17411955977083,65.7384768551664,"Spring",24346
+11,-95.6967823,39.1263159,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",186.7,NA,"female",12.1,577,10.1537685196933,110.773153885156,"Fall",24245
+2,-96.9049077,37.3775087,NA,1971,"Colinus virginianus","Colinus_virginianus",187,NA,"male",14,827,9.84563816667518,56.5594943012168,"Winter",24152
+3,-74.8492,39.8225,NA,1976,"Colinus virginianus","Colinus_virginianus",187,NA,"female",12,995,9.04110143464363,54.2950545206691,"Spring",24407
+11,-96.8880005,28.4549999,"adult",1989,"Colinus virginianus virginianus","Colinus_virginianus",187.6,NA,"male",21.6,711,6.71517390735792,62.379315926159,"Fall",24299
+1,-83.9669609,42.4754013,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",187.8,NA,"male",10,685,9.58535420062895,50.3564383872916,"Winter",24228
+3,-74.8492,39.8225,NA,1976,"Colinus virginianus","Colinus_virginianus",188,NA,"male",12,995,9.04110143464363,54.2950545206691,"Spring",24406
+6,-85.3297308,42.336441,NA,1930,"Colinus virginianus","Colinus_virginianus",188.1,NA,"female",9.7,586,10.2500960823287,43.2802871183626,"Summer",24320
+1,-92.9569,36.2738,"u ad.",1940,"Colinus virginianus taylori","Colinus_virginianus",188.2,NA,"female",13.4,1035,9.47594642270948,42.6288570514663,"Winter",24160
+11,-95.6967823,39.1263159,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",188.5,NA,"male",12.1,577,10.1537685196933,110.773153885156,"Fall",24243
+10,-83.6284305,42.2917473,NA,1937,"Colinus virginianus virginianus","Colinus_virginianus",188.9,NA,"female",9.2,851,10.0872857267619,57.9741023198496,"Fall",24227
+8,-86.4715,38.73252,"U-Ad.",1987,"Colinus virginianus","Colinus_virginianus",188.9,NA,"female",13.4,801,9.1517964787182,49.5232499657396,"Summer",24352
+5,-83.7263412,42.2708397,NA,1936,"Colinus virginianus","Colinus_virginianus",189,NA,"male",8.9,620,11.5959501812512,64.4156693647403,"Spring",24224
+12,-83.7263412,42.2708397,NA,1962,"Colinus virginianus virginianus","Colinus_virginianus",189.4,NA,"male",9,634,10.6272662467254,55.0275355929463,"Winter",24311
+3,-101.7708206,37.9723499,NA,1950,"Colinus virginianus","Colinus_virginianus",190,NA,"female",12.5,318,9.34727313987963,119.433338907103,"Spring",24257
+8,-83.7833333,42.2166667,"adult",1933,"Colinus virginianus","Colinus_virginianus",190.4,NA,"male",10,621,10.4313448100163,56.6449115665086,"Summer",24398
+12,-95.1506996,38.8450557,"immature",1978,"Colinus virginianus virginianus","Colinus_virginianus",190.5,NA,"female",11.6,806,12.441508604813,58.6863929312259,"Winter",24345
+5,-101.41877,31.18549,NA,2009,"Colinus virginianus","Colinus_virginianus",191,NA,"female",18.2,391,8.02875513955365,78.2836607631323,"Spring",24378
+3,-74.8492,39.8225,NA,1976,"Colinus virginianus","Colinus_virginianus",191,NA,"male",12,995,9.04110143464363,54.2950545206691,"Spring",24404
+1,-83.800654,36.3389817,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",191.4,NA,"female",14.5,1302,7.96885984772773,43.2899970220859,"Winter",24338
+3,-81.73926,42.71332,"adult",1964,"Colinus virginianus virginianus","Colinus_virginianus",192,NA,"male",8.7,807,9.17411955977083,65.7384768551664,"Spring",24344
+11,-95.6967823,39.1263159,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",192.4,NA,"female",12.1,577,10.1537685196933,110.773153885156,"Fall",24246
+4,-83.6166667,42.2,NA,1932,"Colinus virginianus","Colinus_virginianus",192.7,NA,"female",9.6,880,9.67173325947445,46.914250561202,"Spring",24368
+6,-83.4263563,41.7403857,NA,1934,"Colinus virginianus virginianus","Colinus_virginianus",193.3,NA,"male",10,539,11.6178643789327,61.9567064729306,"Summer",24327
+4,-101.8459776,37.9845333,NA,1967,"Colinus virginianus","Colinus_virginianus",193.4,NA,"female",12.2,382,9.07515339214214,114.187297037588,"Spring",24150
+5,-84.1284943,42.3154008,NA,1934,"Colinus virginianus","Colinus_virginianus",194,NA,"female",9,496,11.591176764586,46.986489489076,"Spring",24219
+11,-95.6967823,39.1263159,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",194,NA,"male",12.1,577,10.1537685196933,110.773153885156,"Fall",24247
+10,-83.7263412,42.2708397,NA,1975,"Colinus virginianus virginianus","Colinus_virginianus",194.2,NA,"female",9.4,921,9.84699615788152,58.576515015485,"Fall",24313
+1,-95.1941611,38.8069025,NA,1967,"Colinus virginianus virginianus","Colinus_virginianus",195,NA,"female",12,1199,8.884136355768,84.1010178253019,"Winter",24140
+9,-83.7263298,42.3505717,NA,1935,"Colinus virginianus virginianus","Colinus_virginianus",195,NA,"female",8.6,654,10.2484108154594,43.740314825775,"Fall",24199
+12,-98.4091837,37.2921332,NA,1951,"Colinus virginianus taylori","Colinus_virginianus",195,NA,"female",13.1,1052,9.89934188201265,100.11749546369,"Winter",24237
+4,-95.2227337,38.9549568,"immature",1970,"Colinus virginianus virginianus","Colinus_virginianus",195.1,NA,"female",12.4,892,10.644702765681,97.2412926269159,"Spring",24256
+6,-83.7384796,43.3872731,"adult",1935,"Colinus virginianus virginianus","Colinus_virginianus",195.5,NA,"male",8.2,615,10.5103520397749,46.9409454823715,"Summer",24330
+8,-100.1589127,39.1377678,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",196,NA,"male",11.3,376,10.8702645558952,91.8270750397748,"Summer",24131
+3,-101.7673359,37.9742809,NA,1950,"Colinus virginianus","Colinus_virginianus",196,NA,"male",12.5,318,9.32853231497405,119.603789267262,"Spring",24141
+11,-82.11838,42.94823,"adult",1966,"Colinus virginianus virginianus","Colinus_virginianus",196,NA,"male",8,793,9.8960161865084,38.5423963996411,"Fall",24187
+11,-89.1200943,47.8276978,NA,1936,"Colinus virginianus virginianus","Colinus_virginianus",196,NA,"female",2,681,11.8776687591259,40.442352132259,"Fall",24225
+4,-98.35,35.4666667,NA,1959,"Colinus virginianus virginianus","Colinus_virginianus",196,NA,"male",15.3,916,9.30604235120517,78.1684252403204,"Spring",24364
+4,-84.2908292,42.5317007,NA,1954,"Colinus virginianus virginianus","Colinus_virginianus",197,NA,"female",9.2,833,9.57102239559441,48.000743263453,"Spring",24307
+2,-83.8372707,42.2342371,NA,1998,"Colinus virginianus virginianus","Colinus_virginianus",197.1,NA,"male",11.2,927,8.89345605521614,55.9844190207429,"Winter",24208
+10,-83.8166667,42.25,NA,1975,"Colinus virginianus virginianus","Colinus_virginianus",197.6,NA,"male",9.2,919,9.84252908493944,55.5055522759795,"Fall",24365
+6,-84.0706177,36.1963806,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",197.7,NA,"female",14.5,1291,8.07727826946826,39.2355287608617,"Summer",24340
+6,-100.148427,40.899611,NA,1956,"Colinus virginianus","Colinus_virginianus",198,NA,"male",10.6,370,10.7835733662573,82.4346081313575,"Summer",24233
+12,-98.4091837,37.2921332,NA,1951,"Colinus virginianus taylori","Colinus_virginianus",198,NA,"female",13.1,1052,9.89934188201265,100.11749546369,"Winter",24238
+6,-75.9467,38.5405,"skull",1994,"Colinus virginianus virginianus","Colinus_virginianus",198.4,NA,"female",14.1,1197,8.83619879195285,54.0308096938998,"Summer",24157
+9,-102.81727,40.84005,"adult",1990,"Colinus virginianus","Colinus_virginianus",198.8,246,"male",10.2,444,9.92215152621098,82.319907956526,"Fall",24374
+1,-83.800654,36.3389817,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",199.2,NA,"male",14.5,1302,7.96885984772773,43.2899970220859,"Winter",24337
+5,-95.28294,38.5646764,NA,1988,"Colinus virginianus","Colinus_virginianus",199.8,NA,"female",13.3,699,10.4913348083362,61.9077573069998,"Spring",24144
+2,-84.4132805,42.1812147,NA,1952,"Colinus virginianus virginianus","Colinus_virginianus",200.1,NA,"male",9.6,745,9.5572398386424,45.3442043572492,"Winter",24200
+10,-83.7263412,42.2708397,NA,1975,"Colinus virginianus","Colinus_virginianus",200.3,NA,"male",9.4,921,9.84699615788152,58.576515015485,"Fall",24312
+6,-96.1833333,38.4,NA,1953,"Colinus virginianus virginianus","Colinus_virginianus",200.3,NA,"female",13.8,679,9.79747957694253,56.6195668547024,"Summer",24386
+4,-76.6028671,36.0664597,NA,1988,"Colinus virginianus virginianus","Colinus_virginianus",201,NA,"female",15.5,1126,7.93259482175036,45.0041324732739,"Spring",24316
+3,-74.8492,39.8225,NA,1976,"Colinus virginianus","Colinus_virginianus",202,NA,"female",12,995,9.04110143464363,54.2950545206691,"Spring",24408
+5,-83.815239,42.3256378,"adult",1936,"Colinus virginianus virginianus","Colinus_virginianus",202.5,NA,"female",8.8,621,11.5543872029789,62.0252282354498,"Spring",24305
+4,-83.7833333,42.1666667,NA,1991,"Colinus virginianus virginianus","Colinus_virginianus",202.6,NA,"male",10.6,779,10.0122046735093,44.7833847709689,"Spring",24366
+11,-97.1154826,37.3583733,"adult",1966,"Colinus virginianus taylori","Colinus_virginianus",203,NA,"male",13.9,490,9.98338012838732,82.0068947804022,"Fall",24266
+4,-102.5166667,37,NA,1959,"Colinus virginianus taylori","Colinus_virginianus",203,NA,"female",12.1,384,9.5261362958585,77.67636985949,"Spring",24363
+12,-83.7165375,42.2743378,NA,1933,"Colinus virginianus virginianus","Colinus_virginianus",203.5,NA,"male",10,612,10.4366777484141,55.5908612726619,"Winter",24324
+1,-95.1941611,38.8069025,NA,1967,"Colinus virginianus virginianus","Colinus_virginianus",204,NA,"female",12,1199,8.884136355768,84.1010178253019,"Winter",24254
+5,-84.032858,42.4675587,NA,1955,"Colinus virginianus virginianus","Colinus_virginianus",204.5,NA,"male",9.7,685,10.9601862127512,44.1443317118986,"Spring",24201
+12,-83.8153839,42.2732443,NA,1937,"Colinus virginianus virginianus","Colinus_virginianus",204.7,NA,"male",8.9,870,10.124898054107,60.1354328995792,"Winter",24334
+12,-84.8088684,42.1458435,NA,1940,"Colinus virginianus virginianus","Colinus_virginianus",205.5,NA,"female",8.1,938,10.7485411272245,58.4501325515404,"Winter",24193
+1,-84.0155233,42.5079561,NA,1937,"Colinus virginianus virginianus","Colinus_virginianus",205.5,NA,"female",8.6,811,10.1278606134791,58.3170974145823,"Winter",24226
+6,-83.7384796,43.3872731,"adult",1935,"Colinus virginianus","Colinus_virginianus",205.5,NA,"female",8.2,615,10.5103520397749,46.9409454823715,"Summer",24331
+5,-135.4642,59.2327,"AD",2005,"Colinus virginianus","Colinus_virginianus",206,NA,"male",6.4,1270,6.75077436635639,60.8278063096435,"Spring",24189
+5,-83.7263412,42.2708397,NA,1935,"Colinus virginianus virginianus","Colinus_virginianus",206,NA,"female",8.8,649,10.2459748194108,44.6617555019791,"Spring",24222
+11,-95.6967823,39.1263159,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",206.1,NA,"male",12.1,577,10.1537685196933,110.773153885156,"Fall",24136
+6,-83.7263412,42.2708397,"adult",1939,"Colinus virginianus virginianus","Colinus_virginianus",207,NA,"female",10.1,662,10.2795766921453,66.7450603426487,"Summer",24190
+11,-95.6967823,39.1263159,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",207.2,NA,"female",12.1,577,10.1537685196933,110.773153885156,"Fall",24248
+12,-98.4091837,37.2921332,NA,1951,"Colinus virginianus taylori","Colinus_virginianus",207.8,NA,"male",13.1,1052,9.89934188201265,100.11749546369,"Winter",24142
+11,-95.6967823,39.1263159,NA,1966,"Colinus virginianus virginianus","Colinus_virginianus",209.1,NA,"male",12.1,577,10.1537685196933,110.773153885156,"Fall",24137
+11,-95.6967823,39.1263159,"adult",1966,"Colinus virginianus virginianus","Colinus_virginianus",209.7,NA,"female",12.1,577,10.1537685196933,110.773153885156,"Fall",24139
+12,-95.3767776,38.7155188,NA,1993,"Colinus virginianus virginianus","Colinus_virginianus",210,NA,"female",11.8,1322,10.2399692234386,78.2640594143397,"Winter",24147
+5,-83.2949066,42.3199703,NA,2003,"Colinus virginianus virginianus","Colinus_virginianus",210,NA,"female",9.4,831,10.1772882915685,47.0562064543663,"Spring",24317
+5,-75.568,38.0757,"adult",1980,NA,"Colinus_virginianus",210,NA,"female",13.4,966,9.1830995955515,57.082677662404,"Spring",24343
+6,-95.95,37.8,NA,1953,"Colinus virginianus","Colinus_virginianus",210.3,NA,"female",14.2,713,9.41792295186538,47.39486104547,"Summer",24389
+1,-117.179796,46.716302,"Ad",1927,"Colinus virginianus","Colinus_virginianus",212.5,255,"female",7.7,691,7.97121240920898,66.6533767809043,"Winter",24231
+9,-75.9467,38.5405,"skull not pneumatized",1994,"Colinus virginianus virginianus","Colinus_virginianus",212.6,NA,"female",14.1,1197,8.83619879195285,54.0308096938998,"Fall",24158
+12,-83.6333333,42.4666667,NA,1941,"Colinus virginianus virginianus","Colinus_virginianus",213,NA,"female",9.7,625,10.3893593584392,46.3371612109645,"Winter",24358
+3,-95.3788375,38.6391318,NA,1989,"Colinus virginianus","Colinus_virginianus",214.5,NA,"female",12.2,861,10.3669163469884,75.3252534759163,"Spring",24146
+1,-84.0155233,42.5079561,NA,1937,"Colinus virginianus virginianus","Colinus_virginianus",214.5,NA,"male",8.6,811,10.1278606134791,58.3170974145823,"Winter",24333
+11,-81.40296,43.51454,"adult",1959,"Colinus virginianus virginianus","Colinus_virginianus",215,NA,"male",7.6,999,10.7403621348574,34.863456756167,"Fall",24300
+5,-84.4134521,42.2468185,NA,1956,"Colinus virginianus virginianus","Colinus_virginianus",216,NA,"female",9.2,772,9.72629597191723,60.4080832555482,"Spring",24202
+12,-84.4,42.25,NA,1971,"Colinus virginianus virginianus","Colinus_virginianus",217,NA,"female",9.2,746,10.3165760998619,50.3837324607302,"Winter",24397
+7,-83.9451599,42.4289051,NA,1933,"Colinus virginianus virginianus","Colinus_virginianus",218.2,NA,"female",9.6,631,10.4399872286001,47.1221590719201,"Summer",24213
+6,-83.6561111,42.3127778,NA,1936,"Colinus virginianus","Colinus_virginianus",222.2,NA,"female",9,625,11.5172466196122,62.8680662982891,"Summer",24399
+12,-83.7263412,42.2708397,NA,1938,"Colinus virginianus virginianus","Colinus_virginianus",222.6,NA,NA,10.4,686,9.65898859125844,50.0000629664573,"Winter",24198
+11,-83.8333333,42.2833333,NA,1934,"Colinus virginianus virginianus","Colinus_virginianus",225.5,NA,"female",9.4,479,11.7380596971793,54.7873256176867,"Fall",24359
+6,-97.151,33.639,"s.f.o.",1974,"Colinus virginianus taylori","Colinus_virginianus",226.6,NA,"female",17.6,1007,8.01649813972675,71.9362308250487,"Summer",24355
+11,-83.8333333,42.2833333,"adult",1934,"Colinus virginianus virginianus","Colinus_virginianus",227,NA,"male",9.4,479,11.7380596971793,54.7873256176867,"Fall",24360
+1,-83.7263412,42.2708397,NA,1956,"Colinus virginianus","Colinus_virginianus",228.2,NA,"male",9.4,705,9.67381658254524,61.8738767305599,"Winter",24204
+8,-83.7561178,42.4005483,NA,1936,"Colinus virginianus virginianus","Colinus_virginianus",228.6,NA,"female",8.6,602,11.5221887388349,64.3906980758122,"Summer",24221
+6,-100.148427,40.899611,NA,1956,"Colinus virginianus","Colinus_virginianus",229,NA,"female",10.6,370,10.7835733662573,82.4346081313575,"Summer",24118
+5,-83.2901001,40.8377102,NA,1939,"Colinus virginianus virginianus","Colinus_virginianus",229.3,NA,"female",10.8,879,9.49090074596173,52.4104241574358,"Spring",24341
+5,-83.7819839,42.3137154,NA,1941,"Colinus virginianus","Colinus_virginianus",229.5,NA,"female",10.2,683,10.3603118006197,48.6822348263565,"Spring",24191
+12,-83.9,42.3666667,"immature",1957,"Colinus virginianus virginianus","Colinus_virginianus",229.6,NA,"female",9.2,852,9.70106210992415,36.5790422246897,"Winter",24391
+6,-84.4013519,42.3472532,NA,1953,"Colinus virginianus virginianus","Colinus_virginianus",232.5,NA,"female",10.3,577,9.39277607655172,33.3096506778866,"Summer",24306
+2,-83.7263412,42.2708397,NA,1956,"Colinus virginianus","Colinus_virginianus",236.2,NA,"female",9.4,705,9.67381658254524,61.8738767305599,"Winter",24206
+1,-83.6666667,42.2166667,NA,1956,"Colinus virginianus virginianus","Colinus_virginianus",243,NA,"female",9.5,711,9.58952632571157,61.2010377344602,"Winter",24387
+1,-83.7263412,42.2708397,NA,1956,"Colinus virginianus","Colinus_virginianus",244,NA,"female",9.4,705,9.67381658254524,61.8738767305599,"Winter",24205
+1,-83.6666667,42.2166667,NA,1956,"Colinus virginianus virginianus","Colinus_virginianus",252.8,NA,"female",9.5,711,9.58952632571157,61.2010377344602,"Winter",24362
+7,-75.209656,38.092417,"adult",1975,"Colinus virginianus virginianus","Colinus_virginianus",254.5,NA,"female",14.2,1166,8.03792148619168,37.7861483454838,"Summer",24405
+4,-97.4281465,28.1023602,NA,1967,"Colinus virginianus","Colinus_virginianus",271,NA,"female",21.9,1060,6.05202195113085,168.088920631327,"Spring",24252
+5,-83.4853363,42.4378357,NA,1936,"Colinus virginianus virginianus","Colinus_virginianus",296,NA,"female",8.6,626,11.4367032757776,62.3349397764054,"Spring",24332

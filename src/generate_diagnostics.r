@@ -3,13 +3,13 @@ source('src/data_funcs.r')
 
 
 # This file lists the species that we want to analyze. Contains 197 species.
-sp_table_path = 'species_table.csv'
+sp_table_path = 'data_raw/species_table.csv'
 
 # The directory with raw individual species data files.
-data_dir = 'bodymass_data/'
+data_dir = 'data_raw/bodymass_data/'
 
 # Root directory for the modeling and diagnostics output.
-output_dir = 'lm_output/'
+output_dir = 'data_output/'
 
 # Define the models that we want to fit.
 model_specs = list(
@@ -27,7 +27,8 @@ if (!dir.exists(output_dir)) { dir.create(output_dir) }
 if (!dir.exists(clean_data_dir)) { dir.create(clean_data_dir) }
 if (!dir.exists(model_dir)) { dir.create(model_dir) }
 
-sp_table = read.csv('species_table.csv', header=TRUE, stringsAsFactors = FALSE)
-generateCleanedCSVFiles(data_dir, sp_table, clean_data_dir)
+sp_table = read.csv(sp_table_path, header = TRUE, stringsAsFactors = FALSE)
+if(!length(list.files(clean_data_dir))) 
+  generateCleanedCSVFiles(data_dir, sp_table, clean_data_dir)
 results = Model_All(clean_data_dir, sp_table, model_dir, model_specs, res_models)
 

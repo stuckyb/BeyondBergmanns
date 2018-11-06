@@ -1,0 +1,310 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-122.06747,37.92854,"U-Nestling",2001,"Mimus polyglottos leucopterus","Mimus_polyglottos",12.6,NA,"undetermined",15.3,602,4.85226438860968,132.090877807667,"Summer",64163
+8,-122.51918,37.94667,"nestling",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",15.8,NA,"undetermined",14.8,892,3.43179209301743,117.484930277745,"Summer",64175
+7,-117.9989853,33.8561363,"nestling",2006,NA,"Mimus_polyglottos",18,NA,"female",16.9,233,3.76430604494374,111.315285809391,"Summer",64144
+7,-122.51676,37.9487,"nestling",2002,"Mimus polyglottos leucopterus","Mimus_polyglottos",19,NA,"undetermined",14.4,894,3.28304874939576,172.645075755398,"Summer",64246
+7,-117.9989853,33.8561363,"nestling",2006,NA,"Mimus_polyglottos",20,NA,"male",16.9,233,3.76430604494374,111.315285809391,"Summer",64145
+7,-117.9989853,33.8561363,"nestling",2006,NA,"Mimus_polyglottos",20,NA,"male",16.9,233,3.76430604494374,111.315285809391,"Summer",64146
+7,-122.7228,38.43761,"Juv.",1977,"Mimus polyglottos leucopterus","Mimus_polyglottos",20,NA,"female",14,629,4.18426888005612,112.352000343389,"Summer",64234
+8,-122.7228,38.43761,"Juv.",1978,"Mimus polyglottos leucopterus","Mimus_polyglottos",21,NA,"male",14.4,851,4.46062741883885,141.135453731317,"Summer",64156
+7,-122.16105,38.06829,"nestling",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",21.5,NA,"undetermined",15.2,526,4.70257827412181,113.222581064971,"Summer",64172
+6,-79.51209,43.83259,"fledgeling",2004,"Mimus polyglottos polyglottos","Mimus_polyglottos",21.5,NA,"undetermined",7,799,10.0920610863043,43.6608455367157,"Summer",64208
+6,-119.028386,34.247197,"juvenile",1999,NA,"Mimus_polyglottos",22.3,NA,"undetermined",14.8,202,2.93644807083784,130.158119159324,"Summer",64043
+5,-117.821473,33.800967,"juvenile",2006,NA,"Mimus_polyglottos",25,NA,"male",16.9,252,4.04834421820711,114.986233356135,"Spring",64143
+7,-122.53578,37.93622,"nestling",2002,"Mimus polyglottos leucopterus","Mimus_polyglottos",25,NA,"undetermined",14.4,937,3.29475018595929,175.282642174013,"Summer",64245
+5,-122.66315,38.47416,"Nestling",1987,"Mimus polyglottos leucopterus","Mimus_polyglottos",25.1,NA,"f?",14.8,840,4.21881607692361,116.783735730722,"Spring",64158
+8,-79.44258,43.86947,"juv",2002,"Mimus polyglottos polyglottos","Mimus_polyglottos",25.1,NA,"female?",7.9,781,9.64231520041958,26.9360608052703,"Summer",64272
+5,-117.9279327,33.8895124,"juvenile",2004,NA,"Mimus_polyglottos",25.5,NA,"female",16.9,320,3.6185025364176,155.440844493013,"Spring",64045
+4,-122.70411,38.34336,"Juv.",1978,"Mimus polyglottos leucopterus","Mimus_polyglottos",25.7,NA,"female",14.3,840,4.32423578814976,139.588037990126,"Spring",64153
+8,-79.44258,43.86947,"juv",2002,"Mimus polyglottos polyglottos","Mimus_polyglottos",25.7,NA,"undetermined",7.9,781,9.64231520041958,26.9360608052703,"Summer",64273
+7,-117.821473,33.800967,"juvenile",2004,NA,"Mimus_polyglottos",26,NA,"undetermined",16.7,313,3.66683539556684,154.78727730742,"Summer",64138
+7,-117.6589393,33.6101875,"juvenile",2006,NA,"Mimus_polyglottos",26.4,NA,"undetermined",16.8,250,4.03337402934641,107.588282459317,"Summer",64141
+7,-122.7228,38.43761,"Juv.",1978,"Mimus polyglottos leucopterus","Mimus_polyglottos",26.8,NA,"male",14.4,851,4.46062741883885,141.135453731317,"Summer",64236
+7,-117.8068924,33.8924866,"juvenile",2006,NA,"Mimus_polyglottos",27,NA,"male",17,282,4.25031193151179,114.224317991628,"Summer",64047
+7,-117.8671646,33.8427601,"juvenile",2006,NA,"Mimus_polyglottos",27,NA,"female",17,245,3.97064989719071,114.012087743543,"Summer",64142
+8,-122.7228,38.43761,"Juv.",1978,"Mimus polyglottos leucopterus","Mimus_polyglottos",27.2,NA,"female",14.4,851,4.46062741883885,141.135453731317,"Summer",64235
+6,-122.39291,37.92771,"nestling",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",27.7,NA,"undetermined",14.5,576,3.05588106622445,114.198826226022,"Summer",64249
+6,-122.19329,37.78967,"U-Nestling",2001,"Mimus polyglottos leucopterus","Mimus_polyglottos",27.9,NA,"undetermined",14.5,694,3.23619445420923,131.364603075991,"Summer",64243
+6,-118.05361,37.73806,"juv.",1928,"Mimus polyglottos ssp.","Mimus_polyglottos",28,NA,"undetermined",11.2,32,8.76598107700583,153.648802616404,"Summer",64011
+7,-79.28629,43.766636,"juv",1958,"Mimus polyglottos polyglottos","Mimus_polyglottos",29,NA,"female",6.9,564,10.2246878888425,42.816878703027,"Summer",64031
+6,-116.5421104,33.8173777,"juvenile",1996,NA,"Mimus_polyglottos",29,NA,"male",23.4,99,7.31900804671499,128.407882553975,"Summer",64042
+7,-122.50966,37.97559,"nestling",2002,"Mimus polyglottos leucopterus","Mimus_polyglottos",29,NA,"undetermined",14.5,862,3.49215571175621,173.120534154938,"Summer",64244
+7,-117.9279327,33.8895124,"juvenile",2005,NA,"Mimus_polyglottos",29.2,NA,"undetermined",16.7,565,2.92112213805834,181.25452776565,"Summer",64139
+9,-122.7228,38.43761,"U-Ad.",1978,"Mimus polyglottos leucopterus","Mimus_polyglottos",29.7,NA,"male",14.4,851,4.46062741883885,141.135453731317,"Fall",64155
+8,-122.8308,38.39691,"Juv.",1978,"Mimus polyglottos leucopterus","Mimus_polyglottos",29.8,NA,"male",14.3,1002,4.3793160528682,143.140304981918,"Summer",64233
+8,-121.99447,37.98265,"U-Nestling",2001,"Mimus polyglottos leucopterus","Mimus_polyglottos",31.8,NA,"undetermined",15.1,526,5.07534145738894,126.717601971276,"Summer",64162
+6,-118.05361,37.73806,"juv.",1928,"Mimus polyglottos ssp.","Mimus_polyglottos",32,NA,"undetermined",11.2,32,8.76598107700583,153.648802616404,"Summer",64103
+8,-122.5686,38.10749,"HY",2007,"Mimus polyglottos","Mimus_polyglottos",32.8,228,"undetermined",14.6,467,4.3486326656325,140.135210462033,"Summer",64179
+5,-122.7228,38.43761,"Imm",1987,"Mimus polyglottos leucopterus","Mimus_polyglottos",33,NA,"male",14.7,779,4.14429143704343,116.132772598592,"Spring",64159
+8,-122.58111,37.99926,"fledgeling",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",33,NA,"undetermined",15.3,942,4.10306611147707,117.189609892937,"Summer",64174
+5,-122.4362,37.72779,"nestling",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",34.1,NA,"undetermined",14.4,542,2.69477609122134,120.972490403163,"Spring",64170
+7,-71.236968,42.373251,"juvenile",1972,"Mimus polyglottos polyglottos","Mimus_polyglottos",34.35,NA,"female",8.6,1517,9.23283009240133,39.805691675314,"Summer",63980
+9,-116.39528,34.05639,"imm.",1950,"Mimus polyglottos leucopterus","Mimus_polyglottos",34.4,NA,"female",14.3,82,5.90174601796842,107.145599754757,"Fall",64086
+7,-122.68101,38.4526,"U-Ad",1990,"Mimus polyglottos leucopterus","Mimus_polyglottos",34.4,NA,"male",14.4,416,5.06395461705932,123.385346784534,"Summer",64160
+10,-122.064801,37.95951,"adult skull",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",34.5,NA,"female",15.7,440,4.99260058547253,115.049572026914,"Fall",63997
+7,-122.8308,38.39691,"U-Ad.",1978,"Mimus polyglottos leucopterus","Mimus_polyglottos",34.5,NA,"female",14.3,1002,4.3793160528682,143.140304981918,"Summer",64154
+11,-122.72948,38.41858,"U-Ad.",1976,"Mimus polyglottos leucopterus","Mimus_polyglottos",35,NA,"male",14,289,4.39965563390701,93.2926949448923,"Fall",64152
+9,-122.55927,38.09214,"nestling",2002,"Mimus polyglottos leucopterus","Mimus_polyglottos",35,NA,"undetermined",14.7,718,3.92832565150121,174.773112244844,"Fall",64168
+10,-118.480339,34.0587748,"juvenile",1986,NA,"Mimus_polyglottos",36,NA,"male",17.9,413,2.25079110671351,137.301353735249,"Fall",64137
+9,-122.5167,37.95974,"immature",2002,"Mimus polyglottos leucopterus","Mimus_polyglottos",36.2,NA,"undetermined",14.5,883,3.376960709923,172.674114598318,"Fall",64167
+7,-122.53647,38.1121,"fledgling",2002,"Mimus polyglottos leucopterus","Mimus_polyglottos",36.3,NA,"undetermined",14.6,691,3.93835067770838,174.515163207612,"Summer",64166
+8,-122.42929,37.62762,"nestling",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",36.5,NA,"undetermined",14.4,556,2.79982412867579,125.865247100022,"Summer",64173
+7,-103.513056,37.769722,"juvenile",1995,"Mimus polyglottos","Mimus_polyglottos",36.7,NA,"male",12.7,396,8.59173316554226,107.386439551817,"Summer",64052
+3,-122.51264,37.95597,"adult",2004,"Mimus polyglottos leucopterus","Mimus_polyglottos",36.7,NA,"undetermined",15.1,895,3.57655454652133,130.521176272625,"Spring",64177
+8,-122.55475,38.01533,"nestling",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",36.9,NA,"undetermined",15.1,854,3.9203721993987,118.846503742917,"Summer",64251
+3,-73.428993,41.064116,NA,2013,"Mimus polyglottos","Mimus_polyglottos",36.9,225,"female",11.5,1162,9.44429842430197,59.6109409813256,"Spring",64254
+7,-101.8901634,37.1168388,"snco",1964,"Mimus polyglottos","Mimus_polyglottos",37,NA,"undetermined",13.6,313,10.114076599203,101.506433954583,"Summer",64056
+9,-96.9794444,28.8322222,NA,2010,"Mimus polyglottos","Mimus_polyglottos",37,NA,"male",21.4,1143,7.0176563039237,78.8131625125028,"Fall",64210
+1,-116.1295,33.6178333,NA,2004,"Mimus polyglottos","Mimus_polyglottos",37,NA,"male",23,87,7.82084917500535,159.167632031143,"Winter",64279
+10,-122.68101,38.4526,"U-Ad",1987,"Mimus polyglottos leucopterus","Mimus_polyglottos",37.1,NA,"female",14.7,786,4.20118129130656,116.111772576099,"Fall",64157
+1,-121.9019068,38.0134834,"skull",2002,"Mimus polyglottos polyglottos","Mimus_polyglottos",37.5,NA,"male",15.1,449,5.16831840655306,176.957907452877,"Winter",63995
+6,-118.05361,37.73806,"u ad.",1928,"Mimus polyglottos leucopterus","Mimus_polyglottos",37.5,NA,"female",11.2,32,8.76598107700583,153.648802616404,"Summer",64101
+9,-122.9438,38.48161,"U-Ad.",1990,"Mimus polyglottos leucopterus","Mimus_polyglottos",37.7,NA,"undetermined",14,659,4.92823497816409,121.15052440376,"Fall",64240
+4,-122.9438,38.48161,"U-Ad",1991,"Mimus polyglottos leucopterus","Mimus_polyglottos",37.7,NA,"m?",14,974,4.03987698582594,150.832630817611,"Spring",64241
+5,-118.7354278,34.0347371,NA,2000,"Mimus polyglottos leucopterus","Mimus_polyglottos",37.8,NA,"undetermined",15.5,297,2.27814052297575,180.076461341721,"Spring",63972
+8,-121.918824,37.716567,"juvenile skull",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",37.8,NA,"male",15.7,473,5.12371195935371,117.250999259842,"Summer",64092
+3,-117.8685989,33.6094666,NA,2006,"Mimus polyglottos leucopterus","Mimus_polyglottos",38,NA,"female",16.1,206,3.42141207779195,107.580578166013,"Spring",63973
+7,-118.301651,34.0320587,"adult",1996,"Mimus polyglottos leucopterus","Mimus_polyglottos",38,NA,"female",17.8,420,3.03624568814644,124.139826732119,"Summer",63977
+5,-122.36067,37.94109,"nestling",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",38.1,NA,"undetermined",14.5,564,3.06366783546464,112.815214963553,"Spring",64169
+4,-96.609,33.62,"juv.",1974,"Mimus polyglottos polyglottos","Mimus_polyglottos",38.2,NA,"female ?",17.6,1148,7.92733571353904,59.0288815069554,"Spring",64190
+2,-117.179457,46.728691,"Ad",1962,"Mimus polyglottos","Mimus_polyglottos",38.4,262,"male",7.9,512,7.15412574333965,55.6788134339435,"Winter",64048
+1,-122.1009513,37.9522362,"skull fully ossified",2002,"Mimus polyglottos polyglottos","Mimus_polyglottos",38.8,NA,"male",14.9,543,4.62728240160922,177.513774162155,"Winter",64091
+4,-114.8339833,29.7028,NA,2001,"Mimus polyglottos","Mimus_polyglottos",39,NA,"female",18.8,98,4.45280810275943,99.3140659887822,"Spring",64189
+8,-121.0816515,36.5082208,"ad.",1936,"Mimus polyglottos leucopterus","Mimus_polyglottos",39.4,NA,"female",14.8,577,5.77226256779048,169.434946896766,"Summer",64016
+3,-118.1892216,33.7756966,NA,1998,"Mimus polyglottos leucopterus","Mimus_polyglottos",39.5,NA,"male",15.7,486,3.27287983651133,176.634621150809,"Spring",64080
+8,-118.4984131,34.0085106,"juvenile",1988,NA,"Mimus_polyglottos",40,NA,"female",17.1,252,2.38001464217548,130.49879199014,"Summer",64132
+5,-118.4980164,34.1673737,"juvenile",1990,NA,"Mimus_polyglottos",40,NA,"female",18.6,198,4.89714666459413,152.305489983565,"Spring",64135
+4,-122.50966,37.97559,"Ad",2002,"Mimus polyglottos leucopterus","Mimus_polyglottos",40,NA,"male",14.5,862,3.49215571175621,173.120534154938,"Spring",64165
+8,-79.42833,43.8445,"nestl",2005,"Mimus polyglottos polyglottos","Mimus_polyglottos",41,NA,"female",7.8,749,11.0764286991463,33.5681912737829,"Summer",64271
+4,-122.28694,37.89483,NA,2009,"Mimus polyglottos","Mimus_polyglottos",41.3,231,"male",14.4,486,3.27482361310799,131.21102632906,"Spring",64178
+10,-121.993794,37.953976,"adult skull",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",41.5,NA,"female",15.2,433,5.11246249152722,114.433867646947,"Fall",63996
+4,-98.2666667,29.4666667,NA,1946,"Mimus polyglottos leucopterus","Mimus_polyglottos",41.5,NA,"male",20.8,1074,6.50879940518754,44.2576588163986,"Spring",64220
+12,-94.1,36.45,NA,1935,"Mimus polyglottos polyglottos","Mimus_polyglottos",41.5,NA,"male",14,1416,8.46652499284951,76.6843798363635,"Winter",64225
+9,-122.56908,37.98244,"U-Ad",2001,"Mimus polyglottos leucopterus","Mimus_polyglottos",41.8,NA,"undetermined",14.8,1180,3.89361365221657,131.247939611779,"Fall",64242
+10,-121.779682,37.655981,"large skull windows",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",42,NA,"male",15.5,339,5.1329815896806,116.527354587895,"Fall",64093
+1,-119.268296,34.275972,"adult",2007,NA,"Mimus_polyglottos",42,NA,"female",15.2,145,2.48063713712034,122.990925280956,"Winter",64140
+11,-103.7562836127,19.2687836127,"sk.oss.",1957,"Mimus polyglottos leucopterus","Mimus_polyglottos",42.1,NA,"female",25.3,673,1.51497574738064,141.918571726944,"Fall",63986
+11,-104.568427,19.217673,"sk.oss.",1957,"Mimus polyglottos leucopterus","Mimus_polyglottos",42.2,NA,"female",26.5,969,1.73316578444292,154.069885492477,"Fall",63987
+11,-115.8008333,32.368333,"ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",42.2,NA,"female",21.6,153,6.26287764239701,130.466164725967,"Fall",64197
+6,-118.05361,37.73806,"u ad.",1928,"Mimus polyglottos leucopterus","Mimus_polyglottos",42.3,NA,"male",11.2,32,8.76598107700583,153.648802616404,"Summer",64102
+7,-118.3883286,33.9968887,"juvenile",1991,"Mimus polyglottos leucopterus","Mimus_polyglottos",42.5,NA,"undetermined",16.9,378,2.59175557676587,164.582277048253,"Summer",63974
+8,-110.926445,32.2217751,"juvenile",1970,"Mimus polyglottos","Mimus_polyglottos",42.7,NA,"female",19.2,297,7.54204377091676,114.099555941693,"Summer",64069
+4,-112.9,27.3,"u ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",43,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",64007
+5,-97.4789333,29.7947667,NA,2012,"Mimus polyglottos","Mimus_polyglottos",43.1,NA,"male",21.6,1111,6.28943317771719,75.6436730086761,"Spring",64213
+2,-110.3411111,24.111667,"ad.",1929,"Mimus polyglottos leucopterus","Mimus_polyglottos",43.2,NA,"female",22.9,144,4.45961677929638,109.175051725163,"Winter",64201
+7,-116.0772209,33.5716934,"adult",1991,NA,"Mimus_polyglottos",43.5,NA,"female",22.2,114,7.42833946940548,119.218474126938,"Summer",64041
+4,-103.9183044,30.6091065,NA,1937,"Mimus polyglottos leucopterus","Mimus_polyglottos",43.5,NA,"male",15,419,6.88793411435072,69.0224963410682,"Spring",64127
+6,-101.78469,37.1593736,NA,1956,"Mimus polyglottos","Mimus_polyglottos",43.8,NA,"male",14.4,291,10.3023791015238,114.067878559899,"Summer",63961
+4,-97.3615265,28.0459249,NA,1967,"Mimus polyglottos","Mimus_polyglottos",44,NA,"male",22.1,1026,6.00277713507118,165.148212934368,"Spring",63967
+8,-103.6610146,30.4165603,"imm",1980,"Mimus polyglottos leucopterus","Mimus_polyglottos",44,NA,"male",16.9,425,7.53884887925487,146.063927870478,"Summer",64030
+4,-122.068973,37.899491,"skull",2004,"Mimus polyglottos leucopterus","Mimus_polyglottos",44,NA,"male",15.6,541,4.83453485588089,127.206011053078,"Spring",64094
+8,-79.3797,43.8833,"juv",2003,"Mimus polyglottos polyglottos","Mimus_polyglottos",44,NA,"female",6.6,828,10.5575873908366,39.9268450743386,"Summer",64207
+4,-102.9666667,36.9666667,NA,1959,"Mimus polyglottos","Mimus_polyglottos",44,NA,"male",12.1,369,9.41481746391229,78.0918794719204,"Spring",64223
+4,-82.01202,45.56271,"ad",1965,"Mimus polyglottos polyglottos","Mimus_polyglottos",44,220,"female",4.7,941,9.47207618596511,45.1993593249893,"Spring",64274
+7,-98.77705,26.7599,NA,2013,"Mimus polyglottos","Mimus_polyglottos",44.1,NA,"female",23.1,624,6.18274112985396,93.5102990767359,"Summer",64215
+8,-122.27062,37.85896,"fledgling",2002,"Mimus polyglottos leucopterus","Mimus_polyglottos",44.1,NA,"undetermined",14.3,540,2.95002568042238,168.466453432535,"Summer",64247
+1,-122.69294,38.44307,"U-Ad.",1978,"Mimus polyglottos leucopterus","Mimus_polyglottos",44.2,NA,"male",14.5,853,4.51149205984679,140.706718219846,"Winter",64232
+6,-122.57895,38.10359,"fledgeling",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",44.2,NA,"undetermined",15.3,768,4.1666333332,117.254838312073,"Summer",64250
+10,-115.8008333,32.368333,"ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",44.6,NA,"male",21.6,153,6.26287764239701,130.466164725967,"Fall",64268
+11,-109.84887,23.94041,"U-Ad.",1961,"Mimus polyglottos leucopterus","Mimus_polyglottos",44.7,NA,"female",23.3,276,5.04738155938905,139.463534061328,"Fall",64151
+3,-109.883333,22.866667,NA,1959,"Mimus polyglottos leucopterus","Mimus_polyglottos",44.7,NA,"female",24.8,234,3.45779751234274,179.516890124789,"Spring",64217
+6,-98.3561,31.1774,NA,2011,"Mimus polyglottos","Mimus_polyglottos",44.8,NA,"female",20.5,475,8.67285472557387,62.3252288208385,"Summer",64211
+2,-119.164603,34.157594,"adult",2005,NA,"Mimus_polyglottos",45,NA,"female",15.2,592,1.7703791752736,154.997595460636,"Winter",64044
+7,-119.5184555,34.3988953,NA,1985,"Mimus polyglottos leucopterus","Mimus_polyglottos",45,NA,"male",15.2,241,2.95218203840461,114.186934656203,"Summer",64072
+12,-96.609,33.62,"u ad.",1964,"Mimus polyglottos polyglottos","Mimus_polyglottos",45,NA,"female",17.7,1107,9.01871370926569,70.6841643919981,"Winter",64191
+12,-84.5833333,31.0666667,NA,1946,"Mimus polyglottos polyglottos","Mimus_polyglottos",45,NA,"female",20.1,1420,5.62237817686043,49.9954762684942,"Winter",64278
+8,-96.5616666666,16.25,"unknown",1964,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.1,NA,"female",17.8,809,1.36811637817929,123.737891367363,"Summer",63990
+5,-115.23306,37.53167,"u ad.",1932,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.3,NA,"male",12.4,163,9.40989163625494,83.4493057286671,"Spring",64108
+5,-115.2111111,30.85,"imm.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.3,NA,"male",18.7,106,4.89194607121096,107.885736297598,"Spring",64193
+10,-115.864167,32.288333,"u ad.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.5,NA,"female",16.9,304,5.85312659260766,129.574444396434,"Fall",64005
+7,-118.1313019,33.9377136,"juvenile",1998,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.5,NA,"male",16.2,572,3.57977272005818,180.378179433527,"Summer",64075
+5,-110.33,24.12,"ad.",1929,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.5,NA,"male",22.9,146,4.4716192579287,109.533853749809,"Spring",64202
+3,-122.16799,37.431008,"u ad.",1976,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.6,NA,"female",14.9,191,4.17165761691049,90.4306720777016,"Spring",63993
+2,-94.44347,30.76822,NA,2010,"Mimus polyglottos","Mimus_polyglottos",45.6,NA,"female",19,982,8.51214373169831,69.5705626332053,"Winter",64209
+11,-115.8008333,32.368333,"ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.8,NA,"female",21.6,153,6.26287764239701,130.466164725967,"Fall",64196
+6,-115.86962,35.77286,"u ad.",1939,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.9,NA,"male",14.3,213,8.10009352733134,88.3629994794891,"Summer",64115
+2,-122.05295,37.92159,"adult",2004,"Mimus polyglottos leucopterus","Mimus_polyglottos",45.9,NA,"undetermined",15.7,510,4.87411219577163,126.234114054381,"Winter",64252
+5,-118.6,34.0333333,NA,1982,"Mimus polyglottos leucopterus","Mimus_polyglottos",46,NA,"female",16.1,358,2.83980099601534,111.24372811308,"Spring",63979
+7,-100.5104828,31.4673251,NA,1977,"Mimus polyglottos leucopterus","Mimus_polyglottos",46,NA,"undetermined",19.1,456,8.61540199382197,94.8081486019651,"Summer",64029
+7,-118.1300507,34.1444969,NA,1990,"Mimus polyglottos leucopterus","Mimus_polyglottos",46,NA,"female",18.4,259,4.63866327401515,138.060023899142,"Summer",64073
+7,-102.9622538,29.1930171,"ad",1977,"Mimus polyglottos leucopterus","Mimus_polyglottos",46,NA,"male",22,250,8.30733520341019,84.9288900412361,"Summer",64121
+5,-98.2666667,29.4666667,NA,1946,"Mimus polyglottos leucopterus","Mimus_polyglottos",46,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Spring",64222
+3,-109.883333,22.866667,NA,1963,"Mimus polyglottos leucopterus","Mimus_polyglottos",46,NA,"female",25,153,3.15364147382903,173.433921442796,"Spring",64276
+10,-110.926445,32.2217751,"adult",1970,"Mimus polyglottos","Mimus_polyglottos",46.1,NA,"male",19.2,297,7.54204377091676,114.099555941693,"Fall",64068
+6,-71.213327,42.459775,NA,1966,"Mimus polyglottos polyglottos","Mimus_polyglottos",46.15,NA,"undetermined",9.2,992,9.15436640311192,38.9038733370919,"Summer",63981
+4,-112.9,27.3,"u ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",46.2,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",64098
+5,-120.6912518,35.2658044,"adult",1987,NA,"Mimus_polyglottos",46.3,NA,"female",14.1,443,3.01454805899657,110.297245821248,"Spring",64040
+5,-98.0852833,29.963,NA,2012,"Mimus polyglottos","Mimus_polyglottos",46.3,NA,"female",21.2,1120,6.40686185178663,81.6555971394755,"Spring",64212
+6,-106.08889,28.7080373639,"u ad.",1957,"Mimus polyglottos leucopterus","Mimus_polyglottos",46.5,NA,"male",19,240,5.85322366501804,147.45161899312,"Summer",63985
+4,-118.1892216,33.7756966,NA,1997,"Mimus polyglottos leucopterus","Mimus_polyglottos",46.5,NA,NA,17.2,377,3.36977429331384,180.370279120548,"Spring",64079
+10,-110.926445,32.2217751,"adult",1970,"Mimus polyglottos","Mimus_polyglottos",46.6,NA,"male",19.2,297,7.54204377091676,114.099555941693,"Fall",63971
+7,-102.9622538,29.1930171,"ad",1977,"Mimus polyglottos leucopterus","Mimus_polyglottos",46.7,NA,"male",22,250,8.30733520341019,84.9288900412361,"Summer",64027
+7,-102.0074452,38.0115142,NA,1963,"Mimus polyglottos","Mimus_polyglottos",46.8,NA,"female",13.3,286,11.4721368647007,96.8731690651687,"Summer",64054
+11,-72.6822,41.2889,"immature",1974,"Mimus polyglottos","Mimus_polyglottos",46.8,NA,"female",10.6,1090,8.73049340825106,44.7951602854713,"Fall",64230
+5,-104.2654037,30.6128,"ad",1968,"Mimus polyglottos leucopterus","Mimus_polyglottos",46.9,NA,"male",13.7,533,6.69918018503124,114.379291461444,"Spring",64119
+4,-102.5421973639,29.06028,"u ad.",1953,"Mimus polyglottos leucopterus","Mimus_polyglottos",47,NA,"male",19.2,213,6.60240429118381,106.416775602656,"Spring",63984
+12,-117.111769,32.460771,"ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",47,NA,"female",16.5,463,3.17846684978018,138.467360163425,"Winter",64010
+5,-103.8942719,30.514949,"ad",1976,"Mimus polyglottos leucopterus","Mimus_polyglottos",47,NA,"female",14.4,371,6.49425737000612,100.22170844106,"Spring",64026
+7,-102.705277,37.0075,"immature",1995,"Mimus polyglottos","Mimus_polyglottos",47,225,"female",13,346,8.30619976556395,102.903162133982,"Summer",64051
+8,-100.1574477,39.1380273,NA,1966,"Mimus polyglottos","Mimus_polyglottos",47,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",64059
+2,-110.3,24.12311,"ad.",1929,"Mimus polyglottos leucopterus","Mimus_polyglottos",47,NA,"male",22.8,160,4.47933808692419,113.012449126554,"Winter",64106
+4,-122.4876,37.77521,"U",2011,"Mimus polyglottos","Mimus_polyglottos",47,240,"male",12.9,455,2.40750090468531,136.768474854134,"Spring",64181
+5,-104.2648887,30.6128,"ad",1968,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.3,257,"male",13.7,533,6.69918018503124,114.379291461444,"Spring",64023
+6,-106.45,29.3226,"u ad.",1959,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.4,NA,"male",15.9,315,6.35721970866529,149.588297511,"Summer",64089
+12,-118.0817299,33.9022388,"adult",1986,NA,"Mimus_polyglottos",47.5,NA,"male",18.6,336,2.80954811420994,139.995693016177,"Winter",64039
+7,-102.9622538,29.1930171,"ad",1977,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.5,NA,"male",22,250,8.30733520341019,84.9288900412361,"Summer",64123
+5,-111.532252,24.7170399,"ad",1973,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.5,NA,"male",20.6,55,3.32359562504043,125.321524879195,"Spring",64205
+5,-98.79912,26.83624,NA,2013,"Mimus polyglottos","Mimus_polyglottos",47.5,NA,"male",23,618,6.26613674419651,91.7202295615941,"Spring",64214
+5,-115.39825,35.17621,"u ad.",1938,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.6,NA,"male",12.7,259,7.64460594144656,131.243074050721,"Spring",64112
+10,-84.3333333,30.4833333,NA,1975,"Mimus polyglottos","Mimus_polyglottos",47.6,NA,"female",20,2015,5.82609074194123,51.4034253951248,"Fall",64227
+6,-96.71692,16.89411,"U-Ad.",1965,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.6,NA,"male",19.5,650,1.67718649692112,118.877591062423,"Summer",64238
+3,-118.131,34.814,"adult",1984,NA,"Mimus_polyglottos",47.7,NA,"male",17.1,144,8.69627227696738,223.832549243871,"Spring",64037
+10,-72.9286,41.3081,"adult",2006,"Mimus polyglottos polyglottos","Mimus_polyglottos",47.7,NA,NA,12.5,1309,8.14930281457478,46.128040232356,"Fall",64281
+5,-100.8526807,37.1803491,NA,1967,"Mimus polyglottos","Mimus_polyglottos",47.8,NA,"male",13.8,453,8.55702351960958,110.730233977802,"Spring",64062
+6,-117.545524,36.538937,"u ad.",1917,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.8,NA,"male",11.6,124,8.66039400041501,96.4123066036533,"Summer",64095
+11,-115.8008333,32.368333,"ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.8,NA,"female",21.6,153,6.26287764239701,130.466164725967,"Fall",64195
+9,-118.1737518,33.7745814,"juvenile",2001,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.9,NA,"male",15.5,406,3.12230489843447,148.425830936777,"Fall",63975
+6,-120.25486,40.88333,"u ad.",1928,"Mimus polyglottos leucopterus","Mimus_polyglottos",47.9,NA,"female",8.9,211,7.49082266793336,118.569420178788,"Summer",64100
+7,-101.7629893,38.9149691,NA,1963,"Mimus polyglottos","Mimus_polyglottos",48,NA,"male",12.5,368,11.5082677789808,81.3978308643899,"Summer",63964
+4,-101.8814894,37.9990643,NA,1950,"Mimus polyglottos","Mimus_polyglottos",48,NA,"male",12.5,318,9.29686734466199,118.945494578839,"Spring",63969
+11,-120.670572,37.819853,"imm.",1919,"Mimus polyglottos leucopterus","Mimus_polyglottos",48,NA,"male",15.6,340,6.7797604319881,128.453427777913,"Fall",64002
+7,-84.510777,38.007675,NA,1992,"Mimus polyglottos","Mimus_polyglottos",48,250,"male",12.8,1164,7.68593757219224,53.3082225094477,"Summer",64049
+4,-97.3615265,28.0459249,NA,1967,"Mimus polyglottos","Mimus_polyglottos",48,NA,"male",22.1,1026,6.00277713507118,165.148212934368,"Spring",64060
+6,-118.6095314,34.4436073,NA,1985,"Mimus polyglottos leucopterus","Mimus_polyglottos",48,NA,"female",17.6,199,5.28659683166837,133.370555541696,"Summer",64077
+5,-115.4873752,35.2614609,"ad.",1938,"Mimus polyglottos leucopterus","Mimus_polyglottos",48,NA,"male",14.6,210,8.16828215314171,138.364129966889,"Spring",64110
+5,-115.7675,35.5272,"u ad.",1939,"Mimus polyglottos leucopterus","Mimus_polyglottos",48,NA,"female",15.7,181,8.56314778571525,91.2671478996481,"Spring",64114
+5,-103.6601563,30.4422389,"ad",1968,"Mimus polyglottos leucopterus","Mimus_polyglottos",48,NA,"male",16,533,6.86777168219706,86.0546399839518,"Spring",64117
+5,-104.2654037,30.6128,NA,1968,"Mimus polyglottos leucopterus","Mimus_polyglottos",48,NA,"male",13.7,533,6.69918018503124,114.379291461444,"Spring",64118
+5,-84.0706177,36.1963806,"adult",1938,"Mimus polyglottos polyglottos","Mimus_polyglottos",48,NA,"male",14.5,1291,8.07727826946826,39.2355287608617,"Spring",64130
+6,-101.3698795,37.3983788,NA,1965,"Mimus polyglottos","Mimus_polyglottos",48.1,NA,"male",13.1,523,9.45433602623525,99.0806439499719,"Summer",64057
+7,-102.9622538,29.1930171,NA,1977,"Mimus polyglottos leucopterus","Mimus_polyglottos",48.2,NA,"undetermined",22,250,8.30733520341019,84.9288900412361,"Summer",64124
+6,-122.28945,37.89337,"adult",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",48.2,NA,"undetermined",14.7,541,3.09921788765352,112.548281197222,"Summer",64171
+6,-122.68193,38.4427,"Adult",2007,"Mimus polyglottos","Mimus_polyglottos",48.2,233,"female",13.8,571,4.56637081545536,138.099486400364,"Summer",64180
+6,-99.272026,37.1923409,NA,1956,"Mimus polyglottos","Mimus_polyglottos",48.3,NA,"female",15.5,262,10.8590243157896,129.145826229463,"Summer",64053
+5,-100.8526807,37.1803491,NA,1967,"Mimus polyglottos","Mimus_polyglottos",48.3,NA,"male",13.8,453,8.55702351960958,110.730233977802,"Spring",64063
+4,-103.9183044,30.6091065,NA,1937,"Mimus polyglottos leucopterus","Mimus_polyglottos",48.5,NA,"male",15,419,6.88793411435072,69.0224963410682,"Spring",64131
+7,-116.0772209,33.5716934,"adult",1991,NA,"Mimus_polyglottos",48.5,NA,"male",22.2,114,7.42833946940548,119.218474126938,"Summer",64136
+6,-115.2111111,30.85,"imm.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",48.5,NA,"male",18.7,106,4.89194607121096,107.885736297598,"Summer",64264
+11,-110.2167,23.45,"ad.",1928,"Mimus polyglottos leucopterus","Mimus_polyglottos",48.7,NA,"female",22.2,164,3.36140077222505,130.878889965229,"Fall",64012
+5,-103.6422729,29.9739702,"ad",1968,"Mimus polyglottos leucopterus","Mimus_polyglottos",48.8,NA,"male",15.5,495,6.8758250193682,74.1068659727676,"Spring",64022
+1,-83.8918904,36.3326804,NA,1938,"Mimus polyglottos polyglottos","Mimus_polyglottos",48.8,NA,"female",14.2,1314,8.02564072774935,41.5782767408606,"Winter",64036
+12,-114.52364,32.80333,"u ad.",1940,"Mimus polyglottos leucopterus","Mimus_polyglottos",48.8,NA,"female",23.8,82,7.41991586981628,119.378195288808,"Winter",64116
+5,-104.2654037,30.6128,"ad",1968,"Mimus polyglottos leucopterus","Mimus_polyglottos",48.9,NA,"male",13.7,533,6.69918018503124,114.379291461444,"Spring",64021
+7,-108.4167461155,30.0146438844,"u ad.",1948,"Mimus polyglottos leucopterus","Mimus_polyglottos",49,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",63983
+6,-93.8114067,38.3018837,"just fledged",2004,"Mimus polyglottos","Mimus_polyglottos",49,NA,"female",13.6,1249,9.01861290819596,54.7085555779124,"Summer",64071
+7,-118.1300507,34.1444969,NA,1990,"Mimus polyglottos leucopterus","Mimus_polyglottos",49,NA,"male",18.4,259,4.63866327401515,138.060023899142,"Summer",64081
+6,-117.667554,36.408021,"u ad.",1917,"Mimus polyglottos leucopterus","Mimus_polyglottos",49,NA,"male",13.1,115,8.44645792715216,113.416306698074,"Summer",64096
+5,-115.4873752,35.2614609,"ad.",1938,"Mimus polyglottos leucopterus","Mimus_polyglottos",49.1,NA,"male",14.6,210,8.16828215314171,138.364129966889,"Spring",64111
+3,-109.883333,22.866667,NA,1961,"Mimus polyglottos leucopterus","Mimus_polyglottos",49.1,NA,"male",24.5,134,3.81682876458741,126.965799543214,"Spring",64219
+4,-118.5194778,34.0956716,"adult",1985,NA,"Mimus_polyglottos",49.2,NA,"male",18.1,258,4.17728344378221,138.016319520229,"Spring",64038
+6,-106.58789,31.84271,"U-Ad",1989,"Mimus polyglottos","Mimus_polyglottos",49.3,NA,"female",18.1,190,8.18500106440081,147.844753085315,"Summer",64239
+7,-76.601761,42.524729,"imm.",2008,"Mimus polyglottos","Mimus_polyglottos",49.4,191,"male",8.7,1041,9.45639113686259,38.7315050433296,"Summer",64253
+10,-117.27198,34.02053,"imm.",1916,"Mimus polyglottos leucopterus","Mimus_polyglottos",49.5,NA,"female",15.8,472,4.95307526143653,179.83609227029,"Fall",63999
+5,-120.489236,37.651589,"u ad.",1919,"Mimus polyglottos leucopterus","Mimus_polyglottos",49.5,NA,"male",15.6,270,6.95053409763769,125.041856067475,"Spring",64001
+11,-116.1,30.9667,"ad.",1925,"Mimus polyglottos leucopterus","Mimus_polyglottos",49.5,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Fall",64003
+6,-103.740995,30.4338023,"ad",1977,"Mimus polyglottos leucopterus","Mimus_polyglottos",49.5,NA,"male",16.7,406,7.07689368596309,90.0107612011107,"Summer",64122
+4,-98.2666667,29.4666667,NA,1946,"Mimus polyglottos leucopterus","Mimus_polyglottos",49.6,NA,"male",20.8,1074,6.50879940518754,44.2576588163986,"Spring",64221
+7,-101.8623587,37.1059226,NA,1963,"Mimus polyglottos","Mimus_polyglottos",49.8,NA,"female",14.5,255,10.7726505559217,101.663825416613,"Summer",64055
+7,-101.9355091,38.8948282,NA,1963,"Mimus polyglottos","Mimus_polyglottos",50,NA,"female",12.1,337,11.3560022842014,83.0064709013868,"Summer",63963
+5,-118.0063819,33.6904955,NA,2005,"Mimus polyglottos leucopterus","Mimus_polyglottos",50,NA,"female",15.8,457,2.24087374733945,175.497996323816,"Spring",63978
+5,-117.1143,38.96403,"u ad.",1933,"Mimus polyglottos leucopterus","Mimus_polyglottos",50,NA,"male",8.6,101,9.60890921820143,91.1642465519317,"Spring",64014
+4,-118.1314087,34.1861191,NA,2001,"Mimus polyglottos leucopterus","Mimus_polyglottos",50,NA,"male",15.8,549,4.15907186615942,136.430069170415,"Spring",64074
+11,-118.4984131,34.0085106,"adult",1988,NA,"Mimus_polyglottos",50,NA,"male",17.1,252,2.38001464217548,130.49879199014,"Fall",64134
+2,-93.9311389,39.6267222,NA,2008,"Mimus polyglottos","Mimus_polyglottos",50,NA,"female",10.8,1291,10.5906870180905,61.9216343837865,"Winter",64188
+11,-115.7230556,31.4,"ad.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",50,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",64266
+5,-118.301651,34.0320587,"adult",2006,NA,"Mimus_polyglottos",50.2,NA,"male",16.6,275,3.4295065463584,112.815214963553,"Spring",64046
+11,-108.3324166667,31.6700166667,NA,2013,"Mimus polyglottos","Mimus_polyglottos",50.2,NA,"undetermined",17,265,8.28523696191916,127.842063072856,"Fall",64082
+5,-115.23306,37.53167,"u ad.",1932,"Mimus polyglottos leucopterus","Mimus_polyglottos",50.3,NA,"undetermined",12.4,163,9.40989163625494,83.4493057286671,"Spring",64107
+6,-98.4000315,37.2776323,"IMMATURE; SKULL INCOMPLETELY OSS",1956,"Mimus polyglottos","Mimus_polyglottos",50.5,NA,"female",15.5,374,10.6946885712658,108.2281650391,"Summer",63962
+3,-120.0367837,33.9913481,"u ad.",1950,"Mimus polyglottos leucopterus","Mimus_polyglottos",50.5,NA,"male",13.7,273,2.30472176720801,95.6095627113095,"Spring",64084
+7,-104.9045513076,39.751197559,NA,2008,"Mimus polyglottos","Mimus_polyglottos",50.7,237,"undetermined",10.4,344,9.01841130267645,65.0329303358883,"Summer",63960
+1,-114.7016667,29.735556,"u ad.",1931,"Mimus polyglottos leucopterus","Mimus_polyglottos",50.7,NA,"male",17.9,191,4.8280352362451,122.720385041159,"Winter",64270
+1,-113.0167,31.94,"u a.",1934,"Mimus polyglottos leucopterus","Mimus_polyglottos",50.8,NA,"female",22.9,165,6.84488307003299,124.281254430646,"Winter",64015
+4,-112.280146,28.778293,"unknown",1936,"Mimus polyglottos leucopterus","Mimus_polyglottos",50.9,NA,"female",23.7,109,5.03656328233546,92.5472243250871,"Spring",64113
+11,-116.1,30.9667,"ad.",1925,"Mimus polyglottos leucopterus","Mimus_polyglottos",51,NA,"male",16.9,232,3.40946765595007,128.779474546737,"Fall",64004
+7,-102.9622538,29.1930171,"ad",1977,"Mimus polyglottos leucopterus","Mimus_polyglottos",51,NA,"female",22,250,8.30733520341019,84.9288900412361,"Summer",64028
+2,-79.42888,43.655176,"ad",1936,"Mimus polyglottos polyglottos","Mimus_polyglottos",51,260,"female",7.2,697,10.9409260867791,43.4126838345316,"Winter",64125
+7,-102.7516667,21.884444,"ad.sk.",1959,"Mimus polyglottos leucopterus","Mimus_polyglottos",51,NA,"male",19.3,391,3.06040203340355,120.213903383569,"Summer",64259
+8,-107.01155,29.27428,"s.n.o.",1961,"Mimus polyglottos leucopterus","Mimus_polyglottos",51.1,NA,"female",14.5,405,6.18004486597424,117.118632753466,"Summer",63988
+10,-109.8583333,24.258333,"u ad.",1960,"Mimus polyglottos leucopterus","Mimus_polyglottos",51.1,NA,"undetermined",24,228,5.07957138492466,139.054327009674,"Fall",64260
+2,-112.9506,32.17,"u ad.",1934,"Mimus polyglottos leucopterus","Mimus_polyglottos",51.3,NA,"male",22.5,152,6.92288147224751,127.046332441177,"Winter",64109
+4,-118.014552,36.338146,"u ad.",1918,"Mimus polyglottos leucopterus","Mimus_polyglottos",51.4,NA,"male",14.8,170,8.60371220092604,133.247954209579,"Spring",64097
+10,-80.3714,36.3746,"imm.",1961,"Mimus polyglottos polyglottos","Mimus_polyglottos",51.6,NA,"male",12.9,1216,7.75169580664695,45.6806584042402,"Fall",63989
+10,-109.85554,24.23539,"U-Ad.",1960,"Mimus polyglottos leucopterus","Mimus_polyglottos",51.7,NA,"male",23.1,296,4.94376711965009,140.86501005987,"Fall",64231
+1,-120.43822,37.52078,"u ad.",1915,"Mimus polyglottos leucopterus","Mimus_polyglottos",51.8,NA,"male",16.6,353,6.44614049433669,121.944960269831,"Winter",63998
+6,-106.08889,28.7080373639,"u ad.",1957,"Mimus polyglottos leucopterus","Mimus_polyglottos",51.8,NA,"male",19,240,5.85322366501804,147.45161899312,"Summer",64088
+11,-115.8008333,32.368333,"ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",51.9,NA,"male",21.6,153,6.26287764239701,130.466164725967,"Fall",64200
+4,-122.15259,37.79139,"U-Ad.",1980,"Mimus polyglottos leucopterus","Mimus_polyglottos",51.9,NA,"male",14,566,3.29851895139732,140.671551175398,"Spring",64237
+12,-118.4450912,34.1539345,NA,1990,"Mimus polyglottos leucopterus","Mimus_polyglottos",52,NA,"male",18.5,203,4.65197090847883,154.160904509671,"Winter",63976
+1,-79.266667,43.783333,"ad",1959,"Mimus polyglottos polyglottos","Mimus_polyglottos",52,NA,"male",7.7,753,11.3536804872279,28.499557591529,"Winter",64033
+4,-97.3615265,28.0459249,NA,1967,"Mimus polyglottos","Mimus_polyglottos",52,NA,"male",22.1,1026,6.00277713507118,165.148212934368,"Spring",64061
+4,-117.669813,35.637009,NA,1997,"Mimus polyglottos leucopterus","Mimus_polyglottos",52,NA,"female",18.1,98,7.99239695528876,125.182839282859,"Spring",64078
+1,-103.1904488,29.1852036,NA,1971,"Mimus polyglottos leucopterus","Mimus_polyglottos",52,NA,"undetermined",19.5,324,6.25955633048745,128.054990877131,"Winter",64120
+8,-118.4984131,34.0085106,"adult",1988,NA,"Mimus_polyglottos",52,NA,"undetermined",17.1,252,2.38001464217548,130.49879199014,"Summer",64133
+1,-103.622072,19.1123308,"adult",1959,NA,"Mimus_polyglottos",52,NA,"male",25.4,916,1.43745882681483,113.16367965226,"Winter",64228
+4,-112.1166667,25.7333333,"u ad.",1931,"Mimus polyglottos leucopterus","Mimus_polyglottos",52.2,NA,"male",22.4,67,4.14582667122961,103.158958860839,"Spring",64203
+9,-119.765,35.349667,"ad.",1947,"Mimus polyglottos leucopterus","Mimus_polyglottos",52.2,NA,"male",16.2,64,7.02132574030825,95.0478348469386,"Fall",64258
+10,-76.3328,38.718,"skull",1993,"Mimus polyglottos polyglottos","Mimus_polyglottos",52.4,NA,"male",13.8,1116,9.27885752502413,39.561072585838,"Fall",63994
+10,-110.44056,27.77333,"u ad.",1946,"Mimus polyglottos leucopterus","Mimus_polyglottos",52.5,NA,"male",25.6,348,5.47796550378022,160.443391690303,"Fall",63982
+5,-100.8526807,37.1803491,NA,1967,"Mimus polyglottos","Mimus_polyglottos",52.6,NA,"male",13.8,453,8.55702351960958,110.730233977802,"Spring",63968
+2,-97.56546,30.11,"u ad.",1952,"Mimus polyglottos leucopterus","Mimus_polyglottos",52.6,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",64087
+3,-103.5076904,29.8483865,NA,1935,"Mimus polyglottos leucopterus","Mimus_polyglottos",52.6,NA,"male",17.8,316,6.68623076315661,79.7933997432338,"Spring",64126
+3,-109.883333,22.866667,NA,1959,"Mimus polyglottos leucopterus","Mimus_polyglottos",52.6,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",64275
+10,-72.5989,41.2794,"immature",1974,"Mimus polyglottos","Mimus_polyglottos",52.6,NA,NA,10.5,1098,8.67623015467949,43.9919250647,"Fall",64280
+5,-100.8526807,37.1803491,NA,1967,"Mimus polyglottos","Mimus_polyglottos",52.8,NA,"male",13.8,453,8.55702351960958,110.730233977802,"Spring",64064
+5,-115.2111111,30.85,"u imm.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",52.8,NA,"male",18.7,106,4.89194607121096,107.885736297598,"Spring",64194
+3,-109.883333,22.866667,NA,1959,"Mimus polyglottos leucopterus","Mimus_polyglottos",52.9,NA,"male",24.8,234,3.45779751234274,179.516890124789,"Spring",64218
+11,-103.8818264,30.5819921,"ad",1991,"Mimus polyglottos leucopterus","Mimus_polyglottos",53,NA,"undetermined",15,684,6.32786047426918,120.467478069617,"Fall",64032
+11,-83.7219494,36.3327785,NA,1937,"Mimus polyglottos polyglottos","Mimus_polyglottos",53,NA,"female",13.7,1336,8.14227185182925,57.695269086932,"Fall",64035
+11,-110.2167,23.45,"ad.",1928,"Mimus polyglottos leucopterus","Mimus_polyglottos",53,NA,"male",22.2,164,3.36140077222505,130.878889965229,"Fall",64105
+9,-76.428788,42.44246,NA,1994,"Mimus polyglottos","Mimus_polyglottos",53,NA,"male ?",7.7,1066,10.7656967852865,51.5656589890487,"Fall",64182
+8,-100.1969791,39.0980901,NA,1966,"Mimus polyglottos","Mimus_polyglottos",53.1,NA,"male",11.2,385,10.8218633918899,93.0544786412816,"Summer",63966
+3,-114.8336111,31.033889,"u ad.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",53.2,NA,"male",21.5,88,5.29633235018691,170.945573739325,"Spring",64262
+5,-115.5697,33.1714,"u ad.",1937,"Mimus polyglottos leucopterus","Mimus_polyglottos",53.5,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",64017
+1,-110.933438,32.5260484,"adult",1969,"Mimus polyglottos","Mimus_polyglottos",53.5,NA,"male",18.5,297,7.54742581040956,71.6158265700613,"Winter",64066
+10,-122.43535,37.74431,"immature",2002,"Mimus polyglottos leucopterus","Mimus_polyglottos",53.5,NA,"undetermined",13.6,590,2.44073697265743,167.494802583331,"Fall",64248
+12,-115.7077778,30.056111,"u ad.",1930,"Mimus polyglottos leucopterus","Mimus_polyglottos",53.6,NA,"male",19.4,141,3.86596453917801,109.17807278476,"Winter",64269
+8,-119.7218356,34.014116,"imm.",1967,"Mimus polyglottos leucopterus","Mimus_polyglottos",53.8,NA,"male",13.5,602,3.45975783002572,142.276561267244,"Summer",63992
+10,-110.2167,23.45,"ad.",1928,"Mimus polyglottos leucopterus","Mimus_polyglottos",53.8,NA,"male",22.2,164,3.36140077222505,130.878889965229,"Fall",64104
+11,-72.5989,41.2794,"immature",1974,"Mimus polyglottos","Mimus_polyglottos",53.9,NA,"male",10.5,1098,8.67623015467949,43.9919250647,"Fall",64229
+4,-114.8336111,31.033889,"u imm.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",53.9,NA,"male",21.5,88,5.29633235018691,170.945573739325,"Spring",64263
+1,-112.7387586,32.2396468,NA,1971,"Mimus polyglottos","Mimus_polyglottos",54,NA,"male",20,180,7.82991059974506,183.893409015809,"Winter",64067
+3,-118.3668708,33.7654486,NA,1999,"Mimus polyglottos leucopterus","Mimus_polyglottos",54,NA,"female",15.1,173,2.62209435144481,142.54053276421,"Spring",64076
+8,-119.8404624,34.0199361,"subad.",1967,"Mimus polyglottos leucopterus","Mimus_polyglottos",54.1,NA,"male",13.7,467,3.26082114588558,134.231331386315,"Summer",63991
+2,-84.0092718,36.2523596,NA,1938,"Mimus polyglottos polyglottos","Mimus_polyglottos",54.1,NA,"male",14.3,1311,8.07594163756359,39.5619411672636,"Winter",64129
+4,-121.9827,38.413,"immature",1962,"Mimus polyglottos","Mimus_polyglottos",54.5,NA,"male",15.7,556,6.19036396834678,143.91399313299,"Spring",63970
+4,-114.8336111,31.033889,"u ad.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",54.5,NA,"male",21.5,88,5.29633235018691,170.945573739325,"Spring",64192
+11,-115.8008333,32.368333,"ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",54.5,NA,"male",21.6,153,6.26287764239701,130.466164725967,"Fall",64199
+5,-101.78469,37.1521231,NA,1950,"Mimus polyglottos","Mimus_polyglottos",55,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",64065
+8,-97.48492,26.51376,NA,2013,"Mimus polyglottos","Mimus_polyglottos",55,NA,NA,23,705,5.51089141994508,119.076241985577,"Summer",64216
+10,-95.2283333,39.0413333,NA,2003,"Mimus polyglottos","Mimus_polyglottos",55,NA,"male",13.1,775,10.2214569322666,78.690241447913,"Fall",64255
+11,-94.1166667,36.45,NA,1936,"Mimus polyglottos polyglottos","Mimus_polyglottos",55,NA,NA,14.9,782,10.657690351871,98.5531515533842,"Fall",64282
+9,-106.7359053467,29.82389,"u ad.",1961,"Mimus polyglottos leucopterus","Mimus_polyglottos",55.2,NA,"male",16.8,272,6.54723513238893,111.942865153066,"Fall",64090
+11,-121.76104,38.00418,"adult",2003,"Mimus polyglottos leucopterus","Mimus_polyglottos",55.2,NA,"undetermined",15.9,311,5.63309350394989,116.472011043465,"Fall",64176
+1,-116.736859,32.39092,"ad.",1928,"Mimus polyglottos leucopterus","Mimus_polyglottos",55.3,NA,"male",16.8,212,3.95523243771635,107.166852477321,"Winter",64099
+6,-97.419,28.185,"unknown",1964,"Mimus polyglottos leucopterus","Mimus_polyglottos",55.3,NA,"male",21.7,618,6.74543055210958,75.5378133727753,"Summer",64261
+3,-120.0367837,33.9913481,"u ad.",1950,"Mimus polyglottos leucopterus","Mimus_polyglottos",55.6,NA,"male",13.7,273,2.30472176720801,95.6095627113095,"Spring",64083
+12,-115.3694888,35.1274017,"u ad.",1937,"Mimus polyglottos leucopterus","Mimus_polyglottos",55.7,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",64018
+12,-94.1,36.45,NA,1935,"Mimus polyglottos polyglottos","Mimus_polyglottos",55.8,NA,"female",14,1416,8.46652499284951,76.6843798363635,"Winter",64224
+10,-119.4641,36.7166,"ad.",1916,"Mimus polyglottos leucopterus","Mimus_polyglottos",56,NA,"male",17.1,414,7.34171869069725,145.650371320593,"Fall",64000
+2,-94.1,36.45,NA,1936,"Mimus polyglottos polyglottos","Mimus_polyglottos",56,NA,"male",14.9,785,10.6651904755043,98.2193089368036,"Winter",64226
+3,-120.0367837,33.9913481,"u ad.",1950,"Mimus polyglottos leucopterus","Mimus_polyglottos",56.1,NA,"male",13.7,273,2.30472176720801,95.6095627113095,"Spring",64085
+1,-95.30079,39.01715,NA,1965,"Mimus polyglottos","Mimus_polyglottos",56.4,NA,"male",12.8,1115,9.94516404484048,103.435989257718,"Winter",63965
+4,-82.50596,41.90342,"ad",1909,"Mimus polyglottos polyglottos","Mimus_polyglottos",56.5,NA,"male",9.7,936,9.4678403028357,31.4299573447436,"Spring",64206
+8,-100.1574477,39.1380273,NA,1966,"Mimus polyglottos","Mimus_polyglottos",57.6,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",64058
+11,-115.7230556,31.4,"ad.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",57.9,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",64265
+3,-93.707636,36.039548,NA,1990,"Mimus polyglottos","Mimus_polyglottos",58,263,"male",15.1,1598,7.6525050364788,56.7854814991553,"Spring",63959
+5,-115.57412,35.51722,"u ad.",1939,"Mimus polyglottos leucopterus","Mimus_polyglottos",58,NA,"female",10.8,350,7.72694518022367,101.422951309955,"Spring",64019
+10,-103.8499258,30.3941115,"ad",1974,"Mimus polyglottos leucopterus","Mimus_polyglottos",58,NA,"male",15,593,6.34165521840244,153.657341598397,"Fall",64025
+5,-104.952119,25.6203535,"ad",1971,"Mimus polyglottos leucopterus","Mimus_polyglottos",58,NA,"male",19.7,383,4.14319449290769,132.972041341058,"Spring",64204
+11,-79.103231,43.237539,"ad",2006,"Mimus polyglottos polyglottos","Mimus_polyglottos",58.6,NA,"undetermined",10.5,938,8.65746743708819,39.1135742947039,"Fall",64024
+11,-115.7230556,31.4,"ad.",1926,"Mimus polyglottos leucopterus","Mimus_polyglottos",59.1,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",64267
+4,-112.9,27.3,"u ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",59.3,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",64006
+11,-103.0598561,29.8169754,"imm",1986,"Mimus polyglottos leucopterus","Mimus_polyglottos",60,NA,"male",19.1,439,7.16804250359422,99.349775322533,"Fall",64020
+4,-112.89395,27.29858,"U-Ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",60,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",64148
+4,-112.89395,27.29858,"U-Ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",60,NA,"male",21.1,93,4.28191227458862,95.8155765889166,"Spring",64149
+2,-94.1,36.45,NA,1936,"Mimus polyglottos polyglottos","Mimus_polyglottos",60.8,NA,"male",14.9,785,10.6651904755043,98.2193089368036,"Winter",64277
+4,-109.9,22.8833,"ad.",1929,"Mimus polyglottos leucopterus","Mimus_polyglottos",63.8,NA,"male",23,165,3.59750544885556,121.293124556952,"Spring",64013
+4,-112.9,27.3,"u ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",64.1,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",64008
+4,-112.9,27.3,"u ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",70,NA,"male",21,97,4.31916097351691,102.524941533091,"Spring",64009
+11,-115.8008333,32.368333,"u ad.",1927,"Mimus polyglottos leucopterus","Mimus_polyglottos",92,NA,"male",21.6,153,6.26287764239701,130.466164725967,"Fall",64198

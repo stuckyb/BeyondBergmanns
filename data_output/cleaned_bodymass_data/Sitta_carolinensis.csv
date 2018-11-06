@@ -1,0 +1,930 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+9,-83.1338348,42.6806297,NA,1998,"Sitta carolinensis","Sitta_carolinensis",5.2,NA,"female",11.1,689,8.90279152680197,50.5514142788074,"Fall",119692
+3,-123.4853,40.3329,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",8.3,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",119182
+8,-105.2858664251,39.6880656579,NA,2009,"Sitta carolinensis","Sitta_carolinensis",10.8,140,"undetermined",6.9,547,7.56083909885589,67.7233829159622,"Summer",118959
+7,-118.2352,37.40611,"u ad.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",10.8,NA,"female",8.5,118,8.81095650570666,155.358295351485,"Summer",119509
+9,-79.97972,43.63902,"imm",1998,"Sitta carolinensis carolinensis","Sitta_carolinensis",11.8,NA,"male",9.1,760,9.03005084048912,44.2429819351752,"Fall",119875
+5,-122.6160965,38.7523041,NA,1990,"Sitta carolinensis aculeata","Sitta_carolinensis",12,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Spring",119402
+2,-87.878952,46.8653554,NA,1941,"Sitta carolinensis carolinensis","Sitta_carolinensis",12.2,NA,"male",6.9,826,9.98584983712938,46.837922055835,"Winter",119285
+7,-106.2872314,35.8890501,"im",2007,"Sitta carolinensis","Sitta_carolinensis",12.4,NA,"male",10.2,502,8.82130255619196,85.9520885250782,"Summer",119409
+6,-79.359791,43.714623,"juv",1997,"Sitta carolinensis carolinensis","Sitta_carolinensis",12.5,NA,"female",7.4,697,9.5778943722543,32.188118471391,"Summer",119271
+12,-95.2000522,39.0332528,NA,2003,"Sitta carolinensis","Sitta_carolinensis",13,NA,"female",12.9,777,10.266048043149,77.9915829389809,"Winter",118999
+10,-122.77233,38.49454,"U-Ad.",1976,"Sitta carolinensis","Sitta_carolinensis",13,NA,"male",14,300,4.39133961751578,95.088777863543,"Fall",119846
+8,-106.5488956,35.21297816,"imm.",1952,"Sitta carolinensis nelsoni","Sitta_carolinensis",13.2,NA,"male",12.6,222,9.50321715860668,76.2874534212886,"Summer",119045
+8,-105.228154,39.529748,NA,1995,"Sitta carolinensis","Sitta_carolinensis",13.3,139,"undetermined",5.8,720,6.8465153711412,81.2004900965331,"Summer",118957
+10,-115.9072222,32.053333,"u ad.",1926,"Sitta carolinensis aculeata","Sitta_carolinensis",13.5,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",119793
+6,-120.781906,40.54848,"adult skull",2006,"Sitta carolinensis tenuissima","Sitta_carolinensis",13.8,NA,"male",9.2,752,8.20380547321938,92.8542524944321,"Summer",119505
+12,-115.51,40.17,"u ad.",1927,"Sitta carolinensis tenuissima","Sitta_carolinensis",14,NA,"undetermined",6.4,562,8.10167865134732,57.6431713373589,"Winter",119066
+11,-106.7968637642,29.5078562357,"u ad.",1968,"Sitta carolinensis nelsoni","Sitta_carolinensis",14,NA,"male",11.4,659,6.00960720745364,168.531998145658,"Fall",119479
+10,-115.9072222,32.053333,"u ad.",1926,"Sitta carolinensis aculeata","Sitta_carolinensis",14,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",119789
+8,-105.805,39.9691666667,NA,1997,"Sitta carolinensis","Sitta_carolinensis",14.1,135,"undetermined",1.5,626,8.75613637641764,46.66585702396,"Summer",119360
+11,-110,23.566667,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",14.1,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",119560
+7,-109.716873,23.387557,"u imm.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",14.3,NA,"undetermined",22.2,342,4.69806536585201,128.498769417651,"Summer",119169
+6,-120.9544,44.4383,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",14.3,NA,"male",7.1,360,7.35198901143374,59.0537256981254,"Summer",119209
+7,-122.72096,38.83346,"U",2010,"Sitta carolinensis","Sitta_carolinensis",14.3,120,"undetermined",14.2,1964,5.94833182624772,108.562846556313,"Summer",119850
+7,-118.17378,37.49611,"juv.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",14.5,NA,"male",0.9,179,8.08132902361232,159.763341981202,"Summer",119117
+8,-118.18594,37.57547,"juv.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",14.5,NA,"female",0.4,191,8.10536672192996,167.009636203242,"Summer",119121
+12,-110,23.566667,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",14.5,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",119165
+6,-120.6724,36.4443,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",14.5,NA,"undetermined",15.7,456,6.74066694838804,164.92942332847,"Summer",119198
+6,-118.168469,37.53385,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",14.5,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",119461
+11,-110,23.566667,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",14.5,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",119557
+7,-118.2352,37.40611,"u ad.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",14.6,NA,"male",8.5,118,8.81095650570666,155.358295351485,"Summer",119115
+6,-107.7541666667,39.6769444444,"adult",1995,"Sitta carolinensis","Sitta_carolinensis",14.6,132,"undetermined",7.2,612,7.50383235420408,54.4774303244854,"Summer",119361
+5,-121.0511667,36.577833,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",14.6,NA,"female ?",14.9,657,6.65679761938536,155.17413254456,"Spring",119795
+6,-118.580792,37.814991,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",14.7,NA,"female",8,141,7.9230914918281,67.397246054092,"Summer",119232
+8,-120.6204582,38.0745266,"u ad.",1964,"Sitta carolinensis aculeata","Sitta_carolinensis",14.7,NA,"male",15,757,6.72175910417396,134.081198260555,"Summer",119485
+10,-79.38155,43.647587,"imm",1968,"Sitta carolinensis carolinensis","Sitta_carolinensis",14.8,145,"male",7.6,847,10.5348016333743,42.1557497747136,"Fall",119650
+11,-110,23.566667,"ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",14.9,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",119556
+10,-118.49432,35.4277106,"imm.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",14.9,NA,"female",13.1,192,7.6035677431218,174.984785049846,"Fall",119579
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",14.9,NA,"female",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119610
+11,-118.5536,35.3819,"ad.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",15,NA,"female",13.8,233,7.52721828775512,171.823440714423,"Fall",119193
+7,-118.4086,44.2483,"u ad.",1937,"Sitta carolinensis tenuissima","Sitta_carolinensis",15,NA,"male",4.5,788,8.92209973248246,77.3755128609664,"Summer",119210
+6,-117.9725246,37.0202014,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",15,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",119227
+3,-75.90667,42.09528,NA,1953,"Sitta carolinensis","Sitta_carolinensis",15,NA,"undetermined",9.3,822,8.40145640332494,34.2468999236566,"Spring",119350
+8,-120.28173,35.59775,"u ad.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",15,NA,"female",14.6,104,6.07759796051836,93.2076166137476,"Summer",119423
+8,-120.33745,35.575918,"imm.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",15,NA,"female",15.1,104,5.95622287268458,94.5531093024022,"Summer",119427
+7,-118.17378,37.49611,"juv.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",15,NA,"female",0.9,179,8.08132902361232,159.763341981202,"Summer",119514
+6,-121.6479,44.3628,"u ad.",1941,"Sitta carolinensis tenuissima","Sitta_carolinensis",15,NA,"female",7.9,594,5.71316263314176,66.9000007133394,"Summer",119627
+12,-79.372722,43.73418,"ad",1948,"Sitta carolinensis carolinensis","Sitta_carolinensis",15,NA,"male",7.6,767,10.5658505085817,32.6280547703867,"Winter",119660
+10,-115.9072222,32.053333,"ad.",1926,"Sitta carolinensis aculeata","Sitta_carolinensis",15,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",119865
+10,-115.9072222,32.053333,"u ad.",1926,"Sitta carolinensis aculeata","Sitta_carolinensis",15,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",119866
+11,-110,23.566667,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",15.1,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",119164
+6,-120.4269,44.3964,"u ad.",1932,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.1,NA,"female",6.4,261,7.23250239606534,87.4673627281652,"Summer",119179
+6,-121.6479,44.3628,"u ad.",1941,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.1,NA,"male",7.9,594,5.71316263314176,66.9000007133394,"Summer",119221
+8,-118.170385,37.516048,"juv.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.1,NA,"female",0.9,179,8.09905999034905,159.528445334026,"Summer",119515
+6,-120.83662,40.6661,"adult skull",2006,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.2,NA,"male",8.8,695,8.10684334935054,91.8978204569927,"Summer",119106
+6,-118.457299,37.13606,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.2,NA,"male",3.3,223,6.783195590888,102.16521869475,"Summer",119226
+6,-83.7263412,42.2708397,"immature",2012,"Sitta carolinensis cookei","Sitta_carolinensis",15.2,NA,"male",11.5,682,9.21854192112371,37.699178293142,"Summer",119310
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.2,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",119620
+6,-121.6479,44.3628,"u ad.",1941,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.2,NA,"female",7.9,594,5.71316263314176,66.9000007133394,"Summer",119628
+5,-97.3785994,17.5640805,"ad",1971,"Sitta carolinensis kinneari","Sitta_carolinensis",15.2,NA,"male",14.4,674,1.37068883368468,102.706499406304,"Spring",119801
+8,-120.33745,35.575918,"u ad.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",15.3,NA,"male",15.1,104,5.95622287268458,94.5531093024022,"Summer",119024
+7,-121.24134,36.450906,"juv.",1919,"Sitta carolinensis aculeata","Sitta_carolinensis",15.3,NA,"undetermined",13.3,330,4.80611983608273,152.609785183058,"Summer",119133
+6,-115.66596667,38.137616667,"juvenile skull",2002,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.3,NA,"male",6.9,201,8.23024724397571,60.6265245444592,"Summer",119498
+7,-118.16669,37.48965,"ad.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.3,NA,"male",0.6,179,8.08466561966654,159.763341981202,"Summer",119511
+6,-120.6323,36.3557,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",15.3,NA,"male ?",13.1,750,7.08600840752501,154.893793525523,"Summer",119600
+9,-121.9491551,39.583726,"ad.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",15.4,NA,"male",16.2,418,7.68392162343887,165.689347539508,"Fall",119188
+7,-118.20732,37.39253,"juv.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.4,NA,"male ?",4.2,189,8.2819765976267,171.099572064859,"Summer",119510
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.4,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",119614
+10,-115.9072222,32.053333,"u imm.",1926,"Sitta carolinensis aculeata","Sitta_carolinensis",15.4,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",119791
+6,-107.7541666667,39.6769444444,NA,1995,"Sitta carolinensis","Sitta_carolinensis",15.5,150,"undetermined",7.2,612,7.50383235420408,54.4774303244854,"Summer",118956
+7,-118.17378,37.49611,"u ad.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.5,NA,"male",0.9,179,8.08132902361232,159.763341981202,"Summer",119116
+12,-110,23.566667,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",15.5,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Winter",119166
+7,-109.716873,23.387557,"ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",15.5,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",119176
+5,-122.82817,40.32421,"u ad.",1946,"Sitta carolinensis aculeata","Sitta_carolinensis",15.5,NA,"male",13.5,472,6.95093191920728,97.4720294844736,"Spring",119245
+5,-115.458333,30.883333,"u ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.5,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",119546
+11,-110,23.566667,"ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",15.5,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",119555
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.5,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",119613
+3,-103.31111,29.24389,NA,1935,"Sitta carolinensis nelsoni","Sitta_carolinensis",15.5,NA,"male",16.1,539,5.13806354278506,96.3686736298756,"Spring",119707
+6,-109.272,33.919,NA,2013,"Sitta carolinensis","Sitta_carolinensis",15.5,NA,"male",6,615,7.48481290630729,97.2974639221737,"Summer",119773
+3,-119.680632,49.604415,NA,1990,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.5,126,"male",8.9,382,8.76412712381697,71.9666583349649,"Spring",119903
+1,-117.068833,47.647253,"Ad",1959,"Sitta carolinensis","Sitta_carolinensis",15.6,151,"male",8.4,557,7.74825493549706,64.3208332287725,"Winter",118943
+7,-121.420517,36.144555,"juv.",1919,"Sitta carolinensis aculeata","Sitta_carolinensis",15.6,NA,"male",11,761,6.20299903028341,156.606197540788,"Summer",119129
+6,-118.261045,37.712773,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.6,NA,"male",1.4,303,6.17008300125892,86.7206712367888,"Summer",119455
+6,-115.36343,41.86105,"u ad.",1955,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.6,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",119462
+8,-121.0361,36.4814,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",15.6,NA,"female",14.4,614,5.96130832701153,160.513533885601,"Summer",119603
+11,-83.94366,42.53367,NA,2012,"Sitta carolinensis cookei","Sitta_carolinensis",15.6,NA,"male",10.9,668,9.23210390020836,40.1826115402592,"Fall",119702
+7,-120.7856667,36.294333,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",15.6,NA,"female",14.5,835,6.81675187025361,151.496118517119,"Summer",119798
+5,-121.0511667,36.577833,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",15.6,NA,"male",14.9,657,6.65679761938536,155.17413254456,"Spring",119868
+6,-120.781906,40.54848,"skull",2006,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.67,NA,"female",9.2,752,8.20380547321938,92.8542524944321,"Summer",119504
+6,-115.65611,36.40167,"juv.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.7,NA,"female",9.9,447,7.74891488004493,157.395981687623,"Summer",119072
+7,-109.716873,23.387557,"u ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",15.7,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",119177
+11,-121.7523,36.3711,"ad.",1940,"Sitta carolinensis aculeata","Sitta_carolinensis",15.7,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",119219
+6,-118.454815,37.832677,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.7,NA,"female",9.3,85,8.07452034413678,67.2822537505902,"Summer",119228
+5,-118.261045,37.712773,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.7,NA,"male",1.4,303,6.17008300125892,86.7206712367888,"Spring",119454
+6,-120.77372,40.98341,"u ad.",1970,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.7,NA,"female",7.3,585,7.20035773522063,90.9367240292946,"Summer",119486
+9,-121.0984186,41.5849439,"juv.sk.",1996,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.7,NA,"female",9,695,7.08780429307763,74.4258787662813,"Fall",119494
+8,-119.7675,39.35528,"imm.",1932,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.7,NA,"male",9.2,196,8.28989892836,143.164260387408,"Summer",119567
+9,-121.973869,39.608591,"u ad.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",15.7,NA,"female",16.3,409,7.68794313825029,166.56646940066,"Fall",119577
+7,-121.0361,36.4814,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",15.7,NA,"female",14.4,614,5.96130832701153,160.513533885601,"Summer",119601
+5,-112.4808276,34.4345475,NA,1970,"Sitta carolinensis nelsoni","Sitta_carolinensis",15.7,NA,"undetermined",10,718,7.27625340655228,122.825272080474,"Spring",119651
+5,-96.4669183,16.0674993,"adult",1965,NA,"Sitta_carolinensis",15.7,NA,"male",15.4,1058,0.946284600664381,118.293539357867,"Spring",119897
+10,-97.866949,17.1840994,"not indicated",1964,NA,"Sitta_carolinensis",15.7,NA,"male",16.4,1072,1.42467433811976,110.507533992294,"Fall",119898
+7,-104.9812317,36.5074285,"immature",1963,"Sitta carolinensis","Sitta_carolinensis",15.8,NA,"undetermined",9.1,373,8.64443681675029,100.6655196966,"Summer",118978
+10,-115.45,30.88333,"ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"male",10.5,546,4.22878842165833,120.43511225078,"Fall",119149
+7,-109.716873,23.387557,"ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",15.8,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",119175
+6,-118.9492,44.2159,"u ad.",1932,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"undetermined",5.2,340,7.6333151382607,73.2723956759926,"Summer",119180
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",119213
+6,-118.168469,37.53385,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",119457
+6,-114.82083,40.5525,"u ad.",1956,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"male",3,727,7.97288967043754,111.831904649184,"Summer",119463
+6,-115.42361,38.29,"ad.sk.",1972,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"male",9.3,282,8.71042565845752,104.703192294453,"Summer",119488
+6,-118.9492,44.2159,"u ad.",1932,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"female",5.2,340,7.6333151382607,73.2723956759926,"Summer",119569
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119608
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119609
+6,-118.67839,37.78958,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.8,NA,"female",4.2,272,7.17438097847072,76.9294133185257,"Summer",119632
+3,-96.4669183,16.0674993,"adult",1965,NA,"Sitta_carolinensis",15.8,NA,"female",15.4,1058,0.946284600664381,118.293539357867,"Spring",119836
+6,-120.65881,38.41296,NA,1990,"Sitta carolinensis","Sitta_carolinensis",15.8,NA,"male",14.9,626,7.47717233054088,96.9430048111682,"Summer",119848
+7,-120.7856667,36.294333,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",15.8,NA,"male",14.5,835,6.81675187025361,151.496118517119,"Summer",119873
+6,-118.66208,38.33503,"ad.sk.",1995,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.9,NA,"male",7,398,6.34213901398631,101.635569211366,"Summer",119101
+11,-110,23.566667,"ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",15.9,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",119163
+10,-118.34449,35.47933,"imm.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",15.9,NA,"male",8.2,270,8.07316917982403,163.93350836666,"Fall",119191
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.9,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119205
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.9,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",119211
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",15.9,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",119449
+5,-115.40083,37.66592,"ad.sk.",1972,"Sitta carolinensis nelsoni","Sitta_carolinensis",15.9,NA,"male",7.5,348,8.11094938955977,126.064808585424,"Spring",119483
+7,-109.716873,23.387557,"ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",15.9,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",119563
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.9,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",119618
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",15.9,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",119619
+4,-103.9333,44.4833,NA,2011,"Sitta carolinensis","Sitta_carolinensis",16,NA,"undetermined",6.4,739,10.2775424488483,93.9862502359533,"Spring",118973
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",16,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",119049
+6,-122.1795664,41.9588183,"u ad.",1968,"Sitta carolinensis aculeata","Sitta_carolinensis",16,NA,"female",9.5,467,7.07807112913475,75.0589989685515,"Summer",119083
+7,-121.420517,36.144555,"imm.",1919,"Sitta carolinensis aculeata","Sitta_carolinensis",16,NA,"female",11,761,6.20299903028341,156.606197540788,"Summer",119128
+6,-115.442739,31.008554,"u ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"female",8,674,4.13110888334604,118.374400142833,"Summer",119154
+6,-115.526687,31.029931,"ad.",1926,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",119158
+6,-115.526687,31.029931,"ad.",1926,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",119160
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119203
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119208
+6,-119.304311,38.436766,"u ad.",1946,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"female",-1,988,6.33807039749768,140.975695548664,"Summer",119249
+9,-119.9514771,50.6390103,NA,1974,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"undetermined",7.9,292,8.19556421042949,59.5541848597439,"Fall",119265
+4,-84.1801643,42.4497448,NA,2009,"Sitta carolinensis cookei","Sitta_carolinensis",16,NA,"male",8.6,954,10.0123673524297,44.3798502883295,"Spring",119307
+3,-103.311844,29.244393,"adult",1935,"Sitta carolinensis nelsoni","Sitta_carolinensis",16,NA,"female",16.1,539,5.15001471018788,96.3686736298756,"Spring",119317
+11,-119.291519,34.508028,"adult",1992,NA,"Sitta_carolinensis",16,NA,"female",16.2,877,4.96688274901112,146.060150355572,"Fall",119343
+11,-119.291519,34.508028,"immature",1992,NA,"Sitta_carolinensis",16,NA,"undetermined",16.2,877,4.96688274901112,146.060150355572,"Fall",119344
+7,-106.1259166667,35.9037833333,"im?",2007,"Sitta carolinensis","Sitta_carolinensis",16,NA,"undetermined",11.7,286,9.17045651684106,78.5947921832217,"Summer",119407
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",16,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",119453
+9,-117.465934,36.58766,"ad.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",119518
+7,-120.11166,37.75634,"juv.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",16,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",119528
+6,-115.526687,31.029931,"ad.",1926,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",119548
+10,-119.7675,39.35528,"ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"male",11.3,183,6.61286051889984,63.3374243824665,"Fall",119597
+8,-121.0361,36.4814,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",16,NA,"male",14.4,614,5.96130832701153,160.513533885601,"Summer",119604
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",119617
+6,-118.454815,37.832677,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",16,NA,"male",9.3,85,8.07452034413678,67.2822537505902,"Summer",119630
+10,-79.378019,43.66648,"imm",2003,"Sitta carolinensis carolinensis","Sitta_carolinensis",16,NA,"female",7.3,816,10.4869146457802,37.9047829434567,"Fall",119672
+5,-118.5861253,35.9805066,"adult",1984,NA,"Sitta_carolinensis",16,NA,"male",9.6,646,6.8972765815519,147.179069549751,"Spring",119729
+10,-119.5698738,34.7579737,"immature",1992,NA,"Sitta_carolinensis",16,NA,"male",14.5,394,6.64780665583268,136.155124556253,"Fall",119731
+6,-110.289,31.429,"immature",2013,"Sitta carolinensis","Sitta_carolinensis",16,NA,"female",15,660,7.07483804290482,110.907736070847,"Summer",119767
+6,-110.866,33.293,NA,2013,"Sitta carolinensis","Sitta_carolinensis",16,NA,"male",14,689,8.05453006360114,95.421687283244,"Summer",119784
+5,-121.0511667,36.577833,"u ad.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",16,NA,"female",14.9,657,6.65679761938536,155.17413254456,"Spring",119796
+8,-103.162062,18.7773487,"immature",1950,"Sitta carolinensis mexicana","Sitta_carolinensis",16,NA,"in question",23.3,1218,1.86539458820298,125.302027276804,"Summer",119806
+6,-115.18467,36.64934,"ad.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.1,NA,"male",5.1,447,7.6134002677098,147.578295101864,"Summer",119070
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.1,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119207
+9,-83.7263412,42.2708397,NA,2012,"Sitta carolinensis cookei","Sitta_carolinensis",16.1,NA,"male",11.5,682,9.21854192112371,37.699178293142,"Fall",119311
+6,-120.7617707,41.8993424,"u ad.",1949,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.1,NA,"male",6.8,368,8.90928609866575,93.7607611271232,"Summer",119422
+8,-120.33745,35.575918,"imm.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",16.1,NA,"male",15.1,104,5.95622287268458,94.5531093024022,"Summer",119424
+6,-118.168469,37.53385,"unknown",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.1,NA,"undetermined",2.4,304,6.26691650050026,89.9139197279071,"Summer",119460
+6,-115.526687,31.029931,"u ad.",1926,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.1,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",119547
+8,-121.0361,36.4814,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",16.1,NA,"male",14.4,614,5.96130832701153,160.513533885601,"Summer",119605
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.1,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",119616
+11,-110.88361,31.00056,"u ad.",1946,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.2,NA,"female",17.6,467,6.99213302522372,138.697810308703,"Fall",119019
+8,-120.33745,35.575918,"imm.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",16.2,NA,"female",15.1,104,5.95622287268458,94.5531093024022,"Summer",119023
+7,-121.145153,36.5332007,"u ad.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",16.2,NA,"female",14,434,5.60435436770266,135.885113296231,"Summer",119122
+12,-110,23.566667,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",16.2,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",119167
+1,-117.068833,47.647253,"Ad",1959,"Sitta carolinensis","Sitta_carolinensis",16.2,141,"female",8.4,557,7.74825493549706,64.3208332287725,"Winter",119346
+4,-105.807829,39.96912,"adult",2005,"Sitta carolinensis","Sitta_carolinensis",16.2,128,"male",3,551,8.13501131473762,39.7837426132705,"Spring",119358
+6,-111.8733333333,46.7915333333,NA,2009,"Sitta carolinensis","Sitta_carolinensis",16.2,NA,NA,6.4,312,9.47714955228436,62.3885074801692,"Summer",119374
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.2,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",119450
+6,-118.168469,37.53385,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.2,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",119458
+6,-122.1795664,41.9588183,"u ad.",1968,"Sitta carolinensis aculeata","Sitta_carolinensis",16.2,NA,"male",9.5,467,7.07807112913475,75.0589989685515,"Summer",119484
+12,-110,23.566667,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",16.2,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Winter",119561
+4,-123.4853,40.3329,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",16.2,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",119574
+5,-119.7675,39.35528,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.2,NA,"male",11.3,183,6.61286051889984,63.3374243824665,"Spring",119587
+12,-110.7833,31.3833,NA,1975,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.2,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",119841
+6,-112.0973,45.8715,"ad.sk.",1970,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.3,NA,"male",6.6,269,8.84511507025548,72.7426925087132,"Summer",119081
+6,-114.44903,37.45917,"ad.sk.",1997,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.3,NA,"male",11,399,8.18951658024952,81.9970833271174,"Summer",119102
+7,-109.716873,23.387557,"ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",16.3,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",119171
+9,-79.64117,44.70553,"juv",2005,"Sitta carolinensis","Sitta_carolinensis",16.3,NA,"male",6.9,872,11.0758917829617,33.7102768522359,"Fall",119256
+6,-107.7058333333,39.7461111111,"adult",1995,"Sitta carolinensis","Sitta_carolinensis",16.3,145,"male",5.9,702,7.25514968623646,55.5393572830843,"Summer",119362
+11,-110.88361,31.00056,"u ad.",1946,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.3,NA,"female",17.6,467,6.99213302522372,138.697810308703,"Fall",119420
+8,-120.33745,35.575918,"imm.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",16.3,NA,"male",15.1,104,5.95622287268458,94.5531093024022,"Summer",119426
+9,-118.68124,38.41193,"skull unossified",2005,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.3,NA,"female",8.9,260,7.5722379702957,96.1373412407994,"Fall",119499
+10,-115.458333,30.883333,"ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.3,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",119542
+11,-110,23.566667,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",16.3,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",119558
+11,-110,23.566667,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",16.3,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",119559
+6,-118.9492,44.2159,"u ad.",1932,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.3,NA,"female",5.2,340,7.6333151382607,73.2723956759926,"Summer",119570
+6,-119.0960193,38.6594616,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.3,NA,"male",7.7,261,6.23787915590198,105.891223157822,"Summer",119591
+5,-107.080526,26.82155,"u ad.",1937,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.3,NA,"male",13.5,745,4.49473597835863,133.835790075511,"Spring",119621
+5,-114.2158,46.7589,"u ad.",1940,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.3,NA,"male",6.7,657,9.12951839149284,63.8455749630087,"Spring",119623
+6,-106.7576666667,34.58445,NA,2012,"Sitta carolinensis","Sitta_carolinensis",16.3,NA,"female",15.3,128,8.83633596765839,119.145573202014,"Summer",119864
+1,-74.792949,43.75451,NA,2004,"Sitta carolinensis","Sitta_carolinensis",16.4,134,"undetermined",4.6,1177,10.8479679705883,46.4827828041083,"Winter",118955
+6,-107.40025,44.20397,NA,2008,"Sitta carolinensis","Sitta_carolinensis",16.4,NA,"male",4.8,574,9.04699849774398,88.7495767255469,"Summer",118963
+6,-118.168469,37.53385,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.4,NA,"undetermined",2.4,304,6.26691650050026,89.9139197279071,"Summer",119053
+6,-115.64714,36.40167,"ad.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.4,NA,"male",9.9,443,7.75036656024615,157.805418806367,"Summer",119073
+7,-109.716873,23.387557,"ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",16.4,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",119172
+10,-118.34449,35.47933,"ad.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",16.4,NA,"female",8.2,270,8.07316917982403,163.93350836666,"Fall",119192
+5,-114.10722,39.01722,"u ad.",1934,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.4,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",119194
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.4,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119204
+6,-117.10315,36.95078,"u ad.",1940,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.4,NA,"male",10,173,7.54121503754032,91.8049180411786,"Summer",119218
+6,-106.1985,45.3019,"u ad.",1947,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.4,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",119251
+9,-120.17411,35.285637,"ad.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",16.4,NA,"female",15.1,136,6.31637482335326,101.144960479023,"Fall",119430
+7,-118.17378,37.49611,"juv.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.4,NA,"male",0.9,179,8.08132902361232,159.763341981202,"Summer",119513
+8,-118.170385,37.516048,"juv.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.4,NA,"female ?",0.9,179,8.09905999034905,159.528445334026,"Summer",119517
+10,-115.458333,30.883333,"ad.",1925,"Sitta carolinensis alexandrae","Sitta_carolinensis",16.4,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",119541
+10,-118.34449,35.47933,"imm.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",16.4,NA,"undetermined",8.2,270,8.07316917982403,163.93350836666,"Fall",119582
+11,-118.5536,35.3819,"ad.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",16.4,NA,"female",13.8,233,7.52721828775512,171.823440714423,"Fall",119584
+6,-121.5351,44.0323,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.4,NA,"male",5.4,850,6.97584577255147,89.4521605666682,"Summer",119612
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.4,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",119615
+2,-122.6160965,38.7523041,NA,1990,"Sitta carolinensis aculeata","Sitta_carolinensis",16.5,NA,"undetermined",14.8,485,6.84308985677368,136.518873548435,"Winter",119002
+3,-104.7264166667,32.1129166667,"ad",2008,"Sitta carolinensis","Sitta_carolinensis",16.5,NA,"female",13.9,408,6.41623768735277,127.948329303699,"Spring",119009
+5,-120.742395,41.8959486,"u ad.",1948,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",5.9,556,7.59079885603138,55.1023653639579,"Spring",119017
+9,-119.8792403,35.3983222,"ad.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",16.5,NA,"male",14.6,101,6.77540113986328,104.927362943041,"Fall",119020
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.5,NA,"male",14.3,459,5.82868429459519,151.355595038893,"Summer",119057
+5,-114.26327,37.36056,"u ad.",1972,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.5,NA,"male",9.5,416,8.30335364886874,111.108055943179,"Spring",119088
+5,-122.2167836,40.7267961,"ad.sk.",1992,"Sitta carolinensis aculeata","Sitta_carolinensis",16.5,NA,"male",16.9,1735,7.26842486375143,126.923915156864,"Spring",119091
+6,-120.81404,40.66362,"adult skull",2006,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",9,611,8.12822896211752,90.8332093316617,"Summer",119107
+10,-111.5625,35.4603,"u ad.",1922,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.5,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",119139
+10,-111.6766,35.3429,"u ad.",1922,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.5,NA,"female",-0.6,1504,8.21133732141486,68.7858903809985,"Fall",119140
+5,-122.2252066,40.1903286,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",16.5,NA,"male",17.4,446,7.60053327475159,110.786178445725,"Spring",119142
+6,-115.526687,31.029931,"ad.",1926,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",119157
+6,-115.526687,31.029931,"ad.",1926,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",119159
+8,-119.7675,39.35528,"imm.",1932,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",9.2,196,8.28989892836,143.164260387408,"Summer",119178
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119206
+6,-117.10315,36.95078,"u ad.",1939,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"female",9.3,217,7.70137236884676,123.888434641389,"Summer",119215
+6,-121.6479,44.3628,"u ad.",1941,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",7.9,594,5.71316263314176,66.9000007133394,"Summer",119220
+6,-121.6479,44.3628,"u ad.",1941,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",7.9,594,5.71316263314176,66.9000007133394,"Summer",119222
+6,-118.868273,37.872789,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"female",4.2,324,7.1714659758256,76.7990048348649,"Summer",119229
+6,-118.60426,37.790812,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"female",6.4,199,7.59956139085233,72.3674242153719,"Summer",119235
+1,-120.72455,40.44879,"u ad.",1943,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"female",8.7,552,7.03303891384346,127.757676626902,"Winter",119239
+11,-107.25885,33.9890333333,NA,2008,"Sitta carolinensis","Sitta_carolinensis",16.5,NA,"female",10.8,330,7.20231444282554,121.643669715029,"Fall",119410
+4,-97.4463888888,19.1038888888,"ad.",1948,"Sitta carolinensis mexicana","Sitta_carolinensis",16.5,NA,"male",14.9,577,1.64065304810079,86.3881378056927,"Spring",119415
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.5,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",119451
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.5,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",119452
+7,-108.4762,46.3327,"ad.sk.",1970,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.5,NA,"male",6.9,370,10.1624494482324,80.635631413516,"Summer",119480
+9,-120.9633234,41.7377421,"ad.sk.",1996,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",8.8,676,7.25784841646363,72.2232920492327,"Fall",119493
+6,-120.85126,40.67847,"adult skull",2006,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"female",8.8,678,8.12878816120195,91.0064440005993,"Summer",119500
+6,-118.9749,37.88203,"u ad.",1916,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",5.3,540,7.86343185931312,134.479918518894,"Summer",119507
+10,-115.458333,30.883333,"ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",119545
+12,-110.036049,23.537556,"u ad.",1928,"Sitta carolinensis lagunae","Sitta_carolinensis",16.5,NA,"male",17.6,439,3.51835016432246,141.547739595244,"Winter",119562
+7,-116.7244,48.1081,"imm.",1932,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"male",4.5,1294,8.54968987564444,67.9751234516142,"Summer",119572
+8,-109.83667,43.30329,"imm.",1939,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.5,NA,"female",0.5,432,8.61082387921086,62.4349229099711,"Summer",119622
+7,-119.12722,38.43472,"u ad.",1946,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.5,NA,"female ?",7.8,258,7.68593757219224,126.043888825393,"Summer",119645
+6,-110.876,31.704,"immature",2013,"Sitta carolinensis","Sitta_carolinensis",16.5,NA,"male",14.5,602,7.25678366019748,122.31375960761,"Summer",119768
+5,-121.0511667,36.577833,"u ad.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",16.5,NA,"male",14.9,657,6.65679761938536,155.17413254456,"Spring",119794
+6,-108.65,33.4,NA,1964,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.5,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",119817
+6,-110.866,33.293,NA,2013,"Sitta carolinensis","Sitta_carolinensis",16.5,NA,"female",14,689,8.05453006360114,95.421687283244,"Summer",119855
+6,-121.0511667,36.577833,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",16.5,NA,"male",14.9,657,6.65679761938536,155.17413254456,"Summer",119869
+6,-120.756963,40.565523,"skull",2006,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.52,NA,"male",9,779,8.07772845357511,94.7622375042123,"Summer",119108
+6,-118.168469,37.53385,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",119051
+8,-118.170385,37.516048,"juv.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"male",0.9,179,8.09905999034905,159.528445334026,"Summer",119120
+5,-115.458333,30.883333,"u ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",119152
+5,-115.458333,30.883333,"u ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",119153
+8,-120.63092,36.35948,"juv.",1944,"Sitta carolinensis aculeata","Sitta_carolinensis",16.6,NA,"undetermined",12.5,473,6.48828781635639,119.498492680805,"Summer",119243
+4,-118.870928,37.826174,"u ad.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"male",4,767,6.45332895066217,88.2554749670803,"Spring",119469
+6,-115.56667,36.4,"ad.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"male",11.9,310,7.88863778231743,150.844373985848,"Summer",119474
+6,-115.526687,31.029931,"u ad.",1926,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"female",9.8,674,4.46145104809472,133.157864337848,"Summer",119549
+6,-120.9544,44.4383,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"male",7.1,360,7.35198901143374,59.0537256981254,"Summer",119611
+6,-118.60426,37.790812,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"male",6.4,199,7.59956139085233,72.3674242153719,"Summer",119634
+1,-120.72455,40.44879,"u ad.",1943,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.6,NA,"male",8.7,552,7.03303891384346,127.757676626902,"Winter",119642
+5,-103.3085632,29.242072,"juv",1967,"Sitta carolinensis mexicana","Sitta_carolinensis",16.6,134,"male",16,424,5.69424882640105,112.045927114023,"Spring",119649
+6,-112.422,34.412,NA,2013,"Sitta carolinensis","Sitta_carolinensis",16.6,NA,"male",11.2,743,7.54603548329529,106.693611386958,"Summer",119763
+6,-111.415,34.475,NA,2013,"Sitta carolinensis","Sitta_carolinensis",16.6,NA,"undetermined",10,885,8.13437803772397,98.8297183664962,"Summer",119771
+7,-104.9812317,36.5074285,NA,1963,"Sitta carolinensis","Sitta_carolinensis",16.7,NA,"undetermined",9.1,373,8.64443681675029,100.6655196966,"Summer",118977
+6,-106.770421,29.485097,"ad.",1959,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.7,NA,"female ?",12.5,463,6.20212573529138,151.806493038029,"Summer",119063
+7,-120.11166,37.75634,"juv.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",16.7,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",119134
+7,-109.716873,23.387557,"u ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",16.7,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",119170
+7,-118.4086,44.2483,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.7,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",119212
+6,-123.49373,40.61736,"u ad.",1946,"Sitta carolinensis aculeata","Sitta_carolinensis",16.7,NA,"female",11.8,868,6.50782745482839,107.408417197194,"Summer",119246
+4,-105.8391666667,39.95,"immature",1998,"Sitta carolinensis","Sitta_carolinensis",16.7,135,"female",2.4,479,8.48672314247199,39.8434436262731,"Spring",119359
+1,-110.77265,31.80078,NA,1969,"Sitta carolinensis","Sitta_carolinensis",16.7,NA,"female",15.6,501,6.66912265367019,122.877206818145,"Winter",119400
+5,-121.12136,41.56081,"ad.",1948,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.7,NA,"male",6.9,534,7.6679182114163,55.7253413422282,"Spring",119416
+8,-123.8193291,41.1515112,"imm.",1949,"Sitta carolinensis aculeata","Sitta_carolinensis",16.7,NA,"female",11.1,1784,6.60419403015075,99.056239467751,"Summer",119432
+5,-102.07604,19.525763,"u ad.",1961,"Sitta carolinensis mexicana","Sitta_carolinensis",16.7,NA,"male",15,1199,2.13092311764956,106.478337532272,"Spring",119466
+9,-121.0984186,41.5849439,"lg.sk.wind.",1996,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.7,NA,"male ?",9,695,7.08780429307763,74.4258787662813,"Fall",119495
+7,-118.182829,37.488762,"ad.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.7,NA,"female",1,182,8.07072431130508,162.208847686414,"Summer",119512
+10,-121.17385,35.970848,"ad.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",16.7,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",119522
+7,-120.11166,37.75634,"imm.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",16.7,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",119529
+10,-115.458333,30.883333,"ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.7,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",119539
+6,-117.10315,36.95078,"u ad.",1940,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.7,NA,"male",10,173,7.54121503754032,91.8049180411786,"Summer",119624
+6,-115.50028,35.96583,"u ad.",1940,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.7,NA,"female",8.4,568,7.43201000586468,145.832625928857,"Summer",119625
+6,-121.6479,44.3628,"u ad.",1941,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.7,NA,"male",7.9,594,5.71316263314176,66.9000007133394,"Summer",119626
+6,-118.580792,37.814991,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.7,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",119631
+6,-122.82817,40.32421,"u ad.",1943,"Sitta carolinensis aculeata","Sitta_carolinensis",16.7,NA,"male",14.4,687,6.28728273918266,121.916631216622,"Summer",119644
+8,-119.7497894,48.557371,"immature",1940,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.7,NA,"male",8.1,393,8.840004627724,64.6569023039918,"Summer",119674
+8,-119.60266,38.31189,"U-Ad",1960,"Sitta carolinensis aculeata","Sitta_carolinensis",16.7,NA,"female",2.7,859,7.18311888873468,109.158237188393,"Summer",119757
+6,-109.272,33.919,"immature",2013,"Sitta carolinensis","Sitta_carolinensis",16.7,NA,"male",6,615,7.48481290630729,97.2974639221737,"Summer",119775
+7,-120.7856667,36.294333,"ad.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",16.7,NA,"male",14.5,835,6.81675187025361,151.496118517119,"Summer",119871
+6,-107.40025,44.20397,NA,2008,"Sitta carolinensis","Sitta_carolinensis",16.8,NA,"male",4.8,574,9.04699849774398,88.7495767255469,"Summer",118965
+7,-103.29708,29.2417,NA,1962,"Sitta carolinensis","Sitta_carolinensis",16.8,NA,NA,16.4,380,6.22930513173359,98.3845025647802,"Summer",119005
+8,-106.004446,36.615864,"u ad.",1952,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.8,NA,"male",4.6,374,8.83969610748736,76.5889731635705,"Summer",119044
+6,-106.770421,29.485097,"juv.",1958,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.8,NA,"female",12.1,640,6.92923101247479,101.53061497824,"Summer",119060
+7,-120.0309,42.1828,"ad.sk.",1972,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.8,NA,"male",6.8,452,7.86874811959927,68.0291829130773,"Summer",119084
+6,-115.42361,38.29,"ad.sk.",1972,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.8,NA,"male",9.3,282,8.71042565845752,104.703192294453,"Summer",119087
+7,-121.481404,36.206072,"ad.",1919,"Sitta carolinensis aculeata","Sitta_carolinensis",16.8,NA,"female",13.6,542,5.33350615250305,160.375408367308,"Summer",119130
+10,-115.458333,30.883333,"ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.8,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",119150
+7,-119.269072,38.468374,"imm.",1946,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.8,NA,"male",3.7,550,6.85622919598512,133.948219827167,"Summer",119247
+6,-115.63817,36.40167,"ad.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.8,NA,"male",10,441,7.73533314007088,157.815192110921,"Summer",119476
+10,-115.458333,30.883333,"ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.8,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",119543
+6,-118.511982,37.934178,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.8,NA,"female",7,103,7.78738295792196,68.9177415154312,"Summer",119637
+6,-111.415,34.475,NA,2013,"Sitta carolinensis","Sitta_carolinensis",16.8,NA,"male",10,885,8.13437803772397,98.8297183664962,"Summer",119770
+10,-115.9072222,32.053333,"ad.",1926,"Sitta carolinensis aculeata","Sitta_carolinensis",16.8,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",119792
+8,-79.24229,45.20199,"imm",1966,"Sitta carolinensis carolinensis","Sitta_carolinensis",16.8,146,"female",4.6,940,10.6831607795832,51.074988988459,"Summer",119803
+6,-110.695,32.383,"juv",2013,"Sitta carolinensis","Sitta_carolinensis",16.8,NA,"male",13.4,578,7.45805950064435,108.846863046032,"Summer",119859
+11,-83.6568333,42.2288333,NA,1991,"Sitta carolinensis cookei","Sitta_carolinensis",16.8,NA,"male",10.7,782,9.99885978348016,47.1424337040867,"Fall",119889
+10,-119.20396,38.51328,"AHY",2012,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.9,NA,"female",8.5,276,7.43946784509361,117.021487556613,"Fall",119007
+8,-120.33745,35.575918,"ad.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",16.9,NA,"female",15.1,104,5.95622287268458,94.5531093024022,"Summer",119026
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.9,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",119048
+6,-118.168469,37.53385,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.9,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",119054
+7,-109.716873,23.387557,"ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",16.9,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",119173
+10,-118.49432,35.4277106,"ad.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",16.9,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",119190
+10,-119.20396,38.51328,"AHY",2012,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.9,NA,"undetermined",8.5,276,7.43946784509361,117.021487556613,"Fall",119406
+8,-120.33745,35.575918,"ad.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",16.9,NA,"male",15.1,104,5.95622287268458,94.5531093024022,"Summer",119428
+7,-108.4167461155,30.0146438844,"juv.sk.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.9,NA,"female",13.1,351,6.92931300980687,121.571115249925,"Summer",119438
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",16.9,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",119448
+6,-115.65611,36.40167,"juv.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.9,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",119475
+6,-115.63817,36.40167,"ad.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.9,NA,"female",10,441,7.73533314007088,157.815192110921,"Summer",119477
+5,-121.5258762,40.9251229,"ad.sk.",1994,"Sitta carolinensis ssp.","Sitta_carolinensis",16.9,NA,"female",10.1,366,7.72334124585985,91.4170221519623,"Spring",119491
+4,-121.2983333333,39.2783333333,"adult skull",2000,"Sitta carolinensis aculeata","Sitta_carolinensis",16.9,NA,"male",15.7,1154,6.27063261029805,131.841379595515,"Spring",119497
+6,-121.422759,35.969875,"unknown",1919,"Sitta carolinensis aculeata","Sitta_carolinensis",16.9,NA,"undetermined",12,830,4.81955455001871,153.244125473405,"Summer",119524
+7,-120.11166,37.75634,"ad.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",16.9,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",119526
+7,-115.78011,38.05188,"u ad.",1933,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.9,NA,"female",5.7,314,9.17646446078227,90.3463082784513,"Summer",119578
+6,-118.457299,37.13606,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.9,NA,"female",3.3,223,6.783195590888,102.16521869475,"Summer",119629
+1,-120.72455,40.44879,"u ad.",1943,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.9,NA,"female",8.7,552,7.03303891384346,127.757676626902,"Winter",119641
+9,-119.9514771,50.6390103,NA,1974,"Sitta carolinensis tenuissima","Sitta_carolinensis",16.9,NA,"female",7.9,292,8.19556421042949,59.5541848597439,"Fall",119653
+6,-109.314,31.771,NA,2013,"Sitta carolinensis","Sitta_carolinensis",16.9,NA,"male",14.2,511,7.27459256382768,128.936912645775,"Summer",119776
+7,-120.7856667,36.294333,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",16.9,NA,"male",14.5,835,6.81675187025361,151.496118517119,"Summer",119799
+6,-117.77211,46.27703,NA,1979,"Sitta carolinensis","Sitta_carolinensis",17,NA,"undetermined",7.8,945,9.13758057627285,62.4767376643326,"Summer",118945
+11,-106.7968637642,29.5078562357,"u ad.",1968,"Sitta carolinensis nelsoni","Sitta_carolinensis",17,NA,"female",11.4,659,6.00960720745364,168.531998145658,"Fall",119078
+5,-121.5258762,40.9251229,"ad.sk.",1992,"Sitta carolinensis ssp.","Sitta_carolinensis",17,NA,"female",11.2,527,7.28576861027196,112.36199408832,"Spring",119092
+5,-121.5258762,40.9251229,"ad.sk.",1994,"Sitta carolinensis ssp.","Sitta_carolinensis",17,NA,"male",10.1,366,7.72334124585985,91.4170221519623,"Spring",119097
+6,-119.7693,38.72401,"skull",2013,"Sitta carolinensis aculeata","Sitta_carolinensis",17,NA,"male",10,252,8.41248621053397,69.3424702604269,"Summer",119111
+7,-109.716873,23.387557,"ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",17,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",119174
+5,-119.97194,39.33837,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",17,NA,"male",5.7,639,5.85131427867952,61.9722032630173,"Spring",119195
+8,-109.83667,43.30329,"ad.",1939,"Sitta carolinensis nelsoni","Sitta_carolinensis",17,NA,"male",0.5,432,8.61082387921086,62.4349229099711,"Summer",119217
+8,-123.4568,40.45807,"imm.",1942,"Sitta carolinensis aculeata","Sitta_carolinensis",17,NA,"female",10.2,2118,6.39962120091115,99.0391196236951,"Summer",119237
+5,-118.7806322,36.2666699,"adult",1984,NA,"Sitta_carolinensis",17,NA,"male",15.4,484,7.22740470624683,134.011355440779,"Spring",119339
+4,-122.2435797,40.4113616,NA,1963,"Sitta carolinensis","Sitta_carolinensis",17,NA,"male",15.7,692,7.21524060372882,95.2845535888201,"Spring",119397
+8,-122.6160965,38.7523041,NA,1990,"Sitta carolinensis aculeata","Sitta_carolinensis",17,NA,"undetermined",14.8,485,6.84308985677368,136.518873548435,"Summer",119403
+10,-115.458333,30.883333,"ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",17,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",119544
+6,-118.9492,44.2159,"u ad.",1932,"Sitta carolinensis tenuissima","Sitta_carolinensis",17,NA,"male",5.2,340,7.6333151382607,73.2723956759926,"Summer",119568
+5,-113.1458,36.4022,"u ad.",1937,"Sitta carolinensis nelsoni","Sitta_carolinensis",17,NA,"female",8.1,264,9.30254119728973,95.1327211606243,"Spring",119576
+5,-119.7675,39.35528,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",17,NA,"male",11.3,183,6.61286051889984,63.3374243824665,"Spring",119588
+5,-119.97194,39.33837,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",17,NA,"male",5.7,639,5.85131427867952,61.9722032630173,"Spring",119589
+5,-119.97194,39.33837,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",17,NA,"male",5.7,639,5.85131427867952,61.9722032630173,"Spring",119590
+9,-114.10722,39.01722,"imm.",1934,"Sitta carolinensis nelsoni","Sitta_carolinensis",17,NA,"male",12,145,8.45472792243631,67.979497800529,"Fall",119594
+10,-119.7675,39.35528,"imm.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",17,NA,"male",11.3,183,6.61286051889984,63.3374243824665,"Fall",119596
+5,-111.0917,31.3886,"u ad.",1936,"Sitta carolinensis nelsoni","Sitta_carolinensis",17,NA,"female",16.1,489,6.85266482118563,107.372214086655,"Spring",119599
+6,-110.289,31.429,NA,2013,"Sitta carolinensis","Sitta_carolinensis",17,NA,"male",15,660,7.07483804290482,110.907736070847,"Summer",119777
+6,-110.876,31.704,NA,2013,"Sitta carolinensis","Sitta_carolinensis",17,NA,"male",14.5,602,7.25678366019748,122.31375960761,"Summer",119782
+12,-104.7272166667,32.1208666667,NA,2009,"Sitta carolinensis","Sitta_carolinensis",17,NA,"female",14.4,453,6.85923398850709,140.857401785693,"Winter",119786
+8,-103.162062,18.7773487,NA,1950,"Sitta carolinensis mexicana","Sitta_carolinensis",17,NA,"male",23.3,1218,1.86539458820298,125.302027276804,"Summer",119807
+6,-112.421,34.412,NA,2013,"Sitta carolinensis","Sitta_carolinensis",17,NA,"male",11.2,744,7.54603548329529,106.555978343168,"Summer",119856
+6,-112.421,34.412,NA,2013,"Sitta carolinensis","Sitta_carolinensis",17,NA,"male",11.2,744,7.54603548329529,106.555978343168,"Summer",119861
+10,-115.9072222,32.053333,"ad.",1926,"Sitta carolinensis aculeata","Sitta_carolinensis",17,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",119867
+3,-100.9836228819,19.6181408867,"ad.",1948,"Sitta carolinensis mexicana","Sitta_carolinensis",17.1,NA,"male",20,1006,2.59019128812737,115.67938871944,"Spring",119015
+8,-120.28173,35.59775,"imm.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",17.1,NA,"male",14.6,104,6.07759796051836,93.2076166137476,"Summer",119021
+10,-120.3101376,39.5460862,"u ad.",1964,"Sitta carolinensis aculeata","Sitta_carolinensis",17.1,NA,"male",5.5,930,6.83974015987051,170.989956682023,"Fall",119085
+9,-118.68124,38.41193,"skull unossified",2005,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.1,NA,"female",8.9,260,7.5722379702957,96.1373412407994,"Fall",119105
+6,-117.080084,36.171153,"u ad.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.1,NA,"male",6.7,220,8.29693262049843,124.559120235707,"Summer",119114
+6,-115.442739,31.008554,"u ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.1,NA,"male",8,674,4.13110888334604,118.374400142833,"Summer",119156
+6,-117.10315,36.95078,"u ad.",1939,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.1,NA,"male",9.3,217,7.70137236884676,123.888434641389,"Summer",119214
+1,-123.47623,40.4313,"u ad.",1942,"Sitta carolinensis aculeata","Sitta_carolinensis",17.1,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",119223
+6,-106.1985,45.3019,"u ad.",1947,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.1,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",119250
+5,-103.778,43.639,NA,2011,"Sitta carolinensis","Sitta_carolinensis",17.1,NA,"male",5.8,533,10.0812156554113,85.8724302873337,"Spring",119377
+7,-109.1337403,42.8174539,NA,1949,"Sitta carolinensis","Sitta_carolinensis",17.1,NA,"male",-0.7,858,9.41415359332892,71.6272126410389,"Summer",119381
+6,-122.9107,44.2042,"u ad.",1938,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.1,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",119607
+12,-118.6669349,34.713678,"adult",1986,NA,"Sitta_carolinensis",17.1,NA,"female",13.9,401,5.60616543718529,145.224381414577,"Winter",119730
+6,-110.695,32.383,"immature",2013,"Sitta carolinensis","Sitta_carolinensis",17.1,NA,"male",13.4,578,7.45805950064435,108.846863046032,"Summer",119778
+8,-118.099737,37.432159,"imm.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.1,NA,"male",5.6,160,8.42134283541023,153.363953658046,"Summer",119787
+4,-107.922205,30.363487,NA,1955,NA,"Sitta_carolinensis",17.1,NA,"male",16.2,224,6.74096477224188,147.769925403063,"Spring",119895
+3,-96.4669183,16.0674993,"adult",1965,NA,"Sitta_carolinensis",17.1,NA,"female",15.4,1058,0.946284600664381,118.293539357867,"Spring",119896
+6,-103.8290815,43.63048688,NA,2007,"Sitta carolinensis","Sitta_carolinensis",17.2,NA,NA,7.9,395,10.771887513619,59.453748571927,"Summer",118960
+8,-120.33745,35.575918,"imm.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"male",15.1,104,5.95622287268458,94.5531093024022,"Summer",119022
+6,-106.770421,29.485097,"u ad.",1959,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.2,NA,"female ?",12.5,463,6.20212573529138,151.806493038029,"Summer",119062
+5,-121.5258762,40.9251229,"ad.sk.",1994,"Sitta carolinensis ssp.","Sitta_carolinensis",17.2,NA,"male",10.1,366,7.72334124585985,91.4170221519623,"Spring",119098
+5,-121.4492192,40.925172,"ad.sk.",1995,"Sitta carolinensis ssp.","Sitta_carolinensis",17.2,NA,"male",11,802,5.9956739454882,117.399397397493,"Spring",119100
+10,-121.17385,35.970848,"ad.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",119125
+10,-121.17385,35.970848,"ad.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",119126
+7,-120.11166,37.75634,"juv.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",119138
+12,-122.1254,40.1707,"unknown",1927,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"undetermined",17.2,656,7.31032375024071,100.573161578608,"Winter",119161
+8,-121.0361,36.4814,"ad.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"male",14.4,614,5.96130832701153,160.513533885601,"Summer",119199
+6,-121.3146,43.7203,"u ad.",1937,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.2,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",119202
+8,-120.63,36.35,"juv.",1944,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"female",12.3,479,6.51284860638546,117.560293787102,"Summer",119244
+6,-111.8733333333,46.7915333333,NA,2009,"Sitta carolinensis","Sitta_carolinensis",17.2,NA,NA,6.4,312,9.47714955228436,62.3885074801692,"Summer",119373
+8,-120.33745,35.575918,"imm.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"male",15.1,104,5.95622287268458,94.5531093024022,"Summer",119425
+6,-115.28361,36.63,"ad.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.2,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",119472
+9,-119.16169,38.65086,"juv.sk.",1997,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.2,NA,"female",5.5,326,6.67125788874796,127.556832427452,"Fall",119496
+11,-120.979308,36.103805,"imm.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"male",14.7,361,5.0953558771838,143.80120958736,"Fall",119519
+7,-109.716873,23.387557,"u ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",17.2,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",119564
+4,-123.4853,40.3329,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",119573
+10,-118.49432,35.4277106,"imm.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",119580
+9,-114.28,38.96917,"imm.",1934,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.2,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",119595
+9,-123.34811,40.69934,"ad.",1942,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"male",10.7,1528,6.55894023220954,102.554334440198,"Fall",119640
+7,-120.7856667,36.294333,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",17.2,NA,"male",14.5,835,6.81675187025361,151.496118517119,"Summer",119797
+6,-109.272,33.919,"immature",2013,"Sitta carolinensis","Sitta_carolinensis",17.2,NA,"male",6,615,7.48481290630729,97.2974639221737,"Summer",119858
+5,-123.18308,40.55431,"U-Ad.",1988,"Sitta carolinensis","Sitta_carolinensis",17.25,NA,"undetermined",12.4,837,6.84707413735416,143.554295604378,"Spring",119902
+7,-105.6808205,33.4567299,NA,1963,"Sitta carolinensis","Sitta_carolinensis",17.3,NA,"male",10.2,466,7.62437776894852,139.304003775889,"Summer",118976
+9,-79.3501282,35.0635845,NA,1988,"Sitta carolinensis carolinensis","Sitta_carolinensis",17.3,NA,"female",15.3,1073,8.32393409319648,48.5252028931618,"Fall",119001
+3,-100.9836228819,19.6181408867,"ad.",1948,"Sitta carolinensis mexicana","Sitta_carolinensis",17.3,NA,"male",20,1006,2.59019128812737,115.67938871944,"Spring",119016
+11,-122.4085555,41.8948941,"imm.",1951,"Sitta carolinensis aculeata","Sitta_carolinensis",17.3,NA,"male ?",10.9,498,7.77115879974853,100.243175474802,"Fall",119037
+6,-106.770421,29.485097,"ad.",1959,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.3,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",119061
+7,-118.17378,37.49611,"ad.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.3,NA,"female",0.9,179,8.08132902361232,159.763341981202,"Summer",119118
+7,-121.4647,36.2306,"juv.",1919,"Sitta carolinensis aculeata","Sitta_carolinensis",17.3,NA,"female",14,417,5.05952447160678,161.14647594351,"Summer",119131
+7,-121.4647,36.2306,"juv.",1919,"Sitta carolinensis aculeata","Sitta_carolinensis",17.3,NA,"male",14,417,5.05952447160678,161.14647594351,"Summer",119132
+3,-123.4853,40.3329,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",17.3,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",119181
+6,-118.60426,37.790812,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.3,NA,"male",6.4,199,7.59956139085233,72.3674242153719,"Summer",119233
+6,-118.566964,37.876794,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.3,NA,"female",7.9,115,7.86052662280835,66.7743217428091,"Summer",119236
+12,-117.57768,47.53187,NA,1973,"Sitta carolinensis","Sitta_carolinensis",17.3,NA,"male",8.8,492,8.07515831536335,109.664904218939,"Winter",119348
+9,-120.3190614,39.5461513,"juv.sk.",1964,"Sitta carolinensis aculeata","Sitta_carolinensis",17.3,NA,"female ?",5.6,924,6.8445676313852,171.151075895812,"Fall",119487
+12,-121.9121622,40.3351913,"u ad.",1927,"Sitta carolinensis aculeata","Sitta_carolinensis",17.3,NA,"undetermined",15.6,883,6.85888055182786,93.6385676202149,"Winter",119552
+10,-83.95,42.45,NA,1949,"Sitta carolinensis","Sitta_carolinensis",17.3,NA,"female",10,807,9.8279749139429,23.946603124971,"Fall",119816
+8,-122.26167,38.45083,"U-Ad.",1974,"Sitta carolinensis aculeata","Sitta_carolinensis",17.3,NA,"male",13.3,785,5.46029053506063,122.155435326222,"Summer",119844
+3,-104.7431333333,32.1108333333,"ad",2008,"Sitta carolinensis","Sitta_carolinensis",17.3,NA,"female",13.6,416,6.38954520124773,127.833669330595,"Spring",119863
+7,-120.7856667,36.294333,"juv.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",17.3,NA,"female",14.5,835,6.81675187025361,151.496118517119,"Summer",119870
+6,-107.329617,44.05273,NA,2008,"Sitta carolinensis","Sitta_carolinensis",17.4,NA,"male",6.3,498,9.33242960992701,95.6058016126735,"Summer",118961
+10,-119.20396,38.51328,"AHY",2012,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.4,NA,"female",8.5,276,7.43946784509361,117.021487556613,"Fall",119006
+4,-110.3958,33.6181,"u ad.",1949,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.4,NA,"male",10.5,610,8.6683681313501,99.6252537030282,"Spring",119018
+8,-103.341168,20.210995,"u ad.",1950,"Sitta carolinensis mexicana","Sitta_carolinensis",17.4,NA,"male",19.6,573,2.39827905470619,133.83232774905,"Summer",119035
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.4,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",119050
+6,-109.7003,45.8005,"ad.sk.",1970,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.4,NA,"male",7,467,9.31038846307356,81.0835798533608,"Summer",119082
+6,-118.69889,38.22629,"u ad.",1971,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.4,NA,"male",4.6,356,7.3637729130624,105.711388071625,"Summer",119086
+7,-120.11166,37.75634,"imm.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",17.4,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",119136
+6,-115.442739,31.008554,"u ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.4,NA,"male",8,674,4.13110888334604,118.374400142833,"Summer",119155
+6,-118.60426,37.790812,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.4,NA,"male",6.4,199,7.59956139085233,72.3674242153719,"Summer",119234
+7,-103.95742,44.40666,NA,2007,"Sitta carolinensis","Sitta_carolinensis",17.4,NA,NA,6.8,591,10.2574437125022,64.0352596716035,"Summer",119365
+7,-108.4167461155,30.0146438844,"imm.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.4,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",119437
+6,-106.770421,29.485097,"ad.",1959,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.4,NA,"female",12.5,463,6.20212573529138,151.806493038029,"Summer",119465
+6,-120.81404,40.66362,"adult skull",2006,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.4,NA,"male",9,611,8.12822896211752,90.8332093316617,"Summer",119502
+9,-118.9944,37.90949,"imm.",1915,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.4,NA,"female",6.4,361,7.00339203529261,123.081157438014,"Fall",119506
+11,-120.6973,35.723588,"imm.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",17.4,NA,"female",14.7,402,5.48775496404992,155.147059734719,"Fall",119520
+7,-120.11166,37.75634,"ad.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",17.4,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",119527
+7,-114.8583,43.9153,"u ad.",1932,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.4,NA,"male",0.5,623,9.5174799312856,59.461782431832,"Summer",119571
+10,-118.34449,35.47933,"imm.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",17.4,NA,"male",8.2,270,8.07316917982403,163.93350836666,"Fall",119581
+10,-119.7675,39.35528,"imm.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.4,NA,"female",11.3,183,6.61286051889984,63.3374243824665,"Fall",119598
+7,-108.4167461155,30.0146438844,"ad.sk.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.5,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",119031
+3,-116.9208,47.2469,"u ad.",1952,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"female",8.4,413,8.27308066178275,79.787977723558,"Spring",119046
+3,-116.9208,47.2469,"u ad.",1952,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"male",8.4,413,8.27308066178275,79.787977723558,"Spring",119047
+7,-108.14806,28.56806,"u ad.",1957,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.5,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",119059
+7,-121.420517,36.144555,"imm.",1919,"Sitta carolinensis aculeata","Sitta_carolinensis",17.5,NA,"male",11,761,6.20299903028341,156.606197540788,"Summer",119127
+6,-118.580792,37.814991,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",119231
+1,-120.72455,40.44879,"u ad.",1943,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"female",8.7,552,7.03303891384346,127.757676626902,"Winter",119238
+6,-83.755892,42.7291,NA,2003,"Sitta carolinensis","Sitta_carolinensis",17.5,NA,NA,8.4,781,10.2372759160735,49.544455181871,"Summer",119304
+4,-103.9333,44.4833,NA,2011,"Sitta carolinensis","Sitta_carolinensis",17.5,NA,"male",6.4,739,10.2775424488483,93.9862502359533,"Spring",119379
+11,-122.6160965,38.7523041,NA,1989,"Sitta carolinensis aculeata","Sitta_carolinensis",17.5,NA,"female",14.5,612,6.51136535512167,149.544062583856,"Fall",119401
+1,-117.9175034,34.2999992,NA,1990,"Sitta carolinensis aculeata","Sitta_carolinensis",17.5,NA,"female",13.4,496,6.82182327001167,136.249110156234,"Winter",119404
+4,-110.3958,33.6181,"u ad.",1949,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.5,NA,"male",10.5,610,8.6683681313501,99.6252537030282,"Spring",119417
+3,-116.9208,47.2469,"u ad.",1952,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"female",8.4,413,8.27308066178275,79.787977723558,"Spring",119446
+6,-118.168469,37.53385,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",119459
+6,-115.69417,36.31573,"ad.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"male",4.7,585,7.53659255053152,166.320927145513,"Summer",119473
+8,-118.170385,37.516048,"juv.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"female",0.9,179,8.09905999034905,159.528445334026,"Summer",119516
+7,-121.5319,40.4147,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",17.5,NA,"female",6.9,1423,6.82073487554122,104.276018204552,"Summer",119532
+5,-122.0695,40.3146,"juv.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",17.5,NA,"male",16.7,494,7.4583032841785,107.492321804429,"Spring",119533
+10,-115.458333,30.883333,"ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",119540
+11,-118.5536,35.3819,"ad.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",17.5,NA,"male",13.8,233,7.52721828775512,171.823440714423,"Fall",119585
+6,-119.0960193,38.6594616,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"male",7.7,261,6.23787915590198,105.891223157822,"Summer",119592
+6,-118.585422,37.863392,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"male",7.8,125,7.86262254806457,64.6574150692592,"Summer",119635
+6,-118.585422,37.863392,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.5,NA,"male",7.8,125,7.86262254806457,64.6574150692592,"Summer",119639
+6,-111.415,34.475,NA,2013,"Sitta carolinensis","Sitta_carolinensis",17.5,NA,"male",10,885,8.13437803772397,98.8297183664962,"Summer",119766
+6,-110.866,33.293,NA,2013,"Sitta carolinensis","Sitta_carolinensis",17.5,NA,"male",14,689,8.05453006360114,95.421687283244,"Summer",119783
+6,-110.289,31.429,"immature",2013,"Sitta carolinensis","Sitta_carolinensis",17.5,NA,"male",15,660,7.07483804290482,110.907736070847,"Summer",119857
+7,-120.7856667,36.294333,"ad.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",17.5,NA,"female",14.5,835,6.81675187025361,151.496118517119,"Summer",119872
+4,-105.688788,23.7287643,NA,1965,"Sitta carolinensis","Sitta_carolinensis",17.5,NA,"male",11.2,1196,3.54104718289875,133.99747567613,"Spring",119883
+6,-107.40025,44.20397,NA,2008,"Sitta carolinensis","Sitta_carolinensis",17.6,NA,"male",4.8,574,9.04699849774398,88.7495767255469,"Summer",118964
+6,-118.099737,37.432159,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.6,NA,"male",7.3,233,6.4217669615995,119.938621164374,"Summer",119056
+5,-111.0917,31.3886,"u ad.",1936,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.6,NA,"male",16.1,489,6.85266482118563,107.372214086655,"Spring",119197
+6,-118.868273,37.872789,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.6,NA,"male",4.2,324,7.1714659758256,76.7990048348649,"Summer",119230
+7,-119.269072,38.468374,"imm.",1946,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.6,NA,"male",3.7,550,6.85622919598512,133.948219827167,"Summer",119248
+2,-117.78293,47.52351,"Ad",1959,"Sitta carolinensis","Sitta_carolinensis",17.6,152,"male",8,512,7.86709198901579,73.9413062652321,"Winter",119347
+9,-120.17411,35.285637,"ad.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",17.6,NA,"male",15.1,136,6.31637482335326,101.144960479023,"Fall",119429
+6,-118.261045,37.712773,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.6,NA,"male",1.4,303,6.17008300125892,86.7206712367888,"Summer",119456
+6,-109.7003,45.8005,"ad.sk.",1970,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.6,NA,"male",7,467,9.31038846307356,81.0835798533608,"Summer",119482
+5,-122.0695,40.3146,"juv.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",17.6,NA,"male",16.7,494,7.4583032841785,107.492321804429,"Spring",119534
+12,-120.0705,40.31451,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",17.6,NA,"female",8.8,149,8.08051809770096,107.293383086489,"Winter",119535
+6,-119.0960193,38.6594616,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.6,NA,"female",7.7,261,6.23787915590198,105.891223157822,"Summer",119593
+6,-106.1985,45.3019,"u ad.",1947,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.6,NA,"female",6.8,423,10.6045551961924,93.2076166137476,"Summer",119646
+6,-110.876,31.704,NA,2013,"Sitta carolinensis","Sitta_carolinensis",17.6,NA,"male",14.5,602,7.25678366019748,122.31375960761,"Summer",119769
+6,-107.329617,44.05273,NA,2008,"Sitta carolinensis","Sitta_carolinensis",17.7,NA,"male",6.3,498,9.33242960992701,95.6058016126735,"Summer",118962
+4,-110.3958,33.6181,"u ad.",1949,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.7,NA,"male",10.5,610,8.6683681313501,99.6252537030282,"Spring",119040
+6,-118.168469,37.53385,"u ad.",1954,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.7,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",119052
+8,-99.2341666666,19.0280555555,"imm.sk.",1964,"Sitta carolinensis mexicana","Sitta_carolinensis",17.7,NA,"female",13.9,1395,2.02190654101669,104.686392095333,"Summer",119076
+6,-118.959868,37.887635,"u ad.",1916,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.7,NA,"male",5.5,516,7.89443129392773,134.832679706332,"Summer",119113
+7,-120.11166,37.75634,"imm.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",17.7,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",119137
+12,-120.0705,40.31451,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",17.7,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",119145
+10,-115.458333,30.883333,"ad.",1925,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.7,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",119151
+4,-123.4853,40.3329,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",17.7,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",119185
+4,-123.4853,40.3329,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",17.7,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",119187
+6,-121.3146,43.7203,"u ad.",1937,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.7,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",119201
+6,-118.457299,37.13606,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.7,NA,"male",3.3,223,6.783195590888,102.16521869475,"Summer",119225
+8,-120.63092,36.35948,"imm.",1944,"Sitta carolinensis aculeata","Sitta_carolinensis",17.7,NA,"male",12.5,473,6.48828781635639,119.498492680805,"Summer",119242
+7,-104.2049408,43.9126368,"immature",1935,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.7,NA,"female",6.5,367,9.24253589102957,112.919892919165,"Summer",119330
+6,-107.329617,44.05273,NA,2008,"Sitta carolinensis","Sitta_carolinensis",17.7,NA,NA,6.3,498,9.33242960992701,95.6058016126735,"Summer",119372
+11,-110.88361,31.00056,"u ad.",1946,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.7,NA,"female",17.6,467,6.99213302522372,138.697810308703,"Fall",119419
+6,-112.0973,45.8715,"ad.sk.",1970,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.7,NA,"female",6.6,269,8.84511507025548,72.7426925087132,"Summer",119481
+12,-121.7264709,40.3462883,"ad.",1927,"Sitta carolinensis aculeata","Sitta_carolinensis",17.7,NA,"female",12.4,1025,6.74305478835727,94.4015173287662,"Winter",119551
+6,-118.60426,37.790812,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.7,NA,"male",6.4,199,7.59956139085233,72.3674242153719,"Summer",119633
+6,-118.622542,37.833908,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.7,NA,"male",6.1,173,7.61415647251085,69.7738727674245,"Summer",119636
+7,-104.2049408,43.9126368,"adult",1935,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.7,NA,"in question",6.5,367,9.24253589102957,112.919892919165,"Summer",119726
+3,-86.40609,38.47079,"U-Ad",1988,"Sitta carolinensis","Sitta_carolinensis",17.7,NA,"male",12.1,1010,9.82113907483611,50.901209737306,"Spring",119847
+6,-115.19972,36.65722,"u ad.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.8,NA,"male",4.5,463,7.54109448691674,149.174476454243,"Summer",119069
+6,-115.63817,36.40167,"juv.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.8,NA,"male",10,441,7.73533314007088,157.815192110921,"Summer",119075
+5,-114.1083,36.60278,"u ad.",1970,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.8,NA,"male",10.3,354,8.13425230774535,109.151393920592,"Spring",119080
+11,-120.747539,36.133317,"ad.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",17.8,NA,"female",13.8,509,6.04545283663681,145.445265510829,"Fall",119124
+6,-106.1985,45.3019,"u ad.",1947,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.8,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",119252
+3,-110.799285,31.710051,"adult",1957,NA,"Sitta_carolinensis",17.8,NA,"male",14.7,663,6.20856568611365,89.7526038404757,"Spring",119341
+6,-107.40025,44.20397,NA,2008,"Sitta carolinensis","Sitta_carolinensis",17.8,NA,"male",4.8,574,9.04699849774398,88.7495767255469,"Summer",119369
+8,-108.3333,29.91071,"u ad.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.8,NA,"female",11.2,444,6.70388286402332,119.926397434996,"Summer",119435
+10,-121.17385,35.970848,"ad.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",17.8,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",119521
+10,-121.17385,35.970848,"ad.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",17.8,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",119523
+12,-120.0705,40.31451,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",17.8,NA,"female",8.8,149,8.08051809770096,107.293383086489,"Winter",119538
+12,-121.9121622,40.3351913,"u ad.",1927,"Sitta carolinensis aculeata","Sitta_carolinensis",17.8,NA,"male",15.6,883,6.85888055182786,93.6385676202149,"Winter",119553
+9,-116.98667,39.23861,"u ad.",1931,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.8,NA,"male",9.1,185,9.60889739204812,49.4793629683915,"Fall",119566
+6,-106.1985,45.3019,"u ad.",1947,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.8,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",119647
+11,-122.1128861,40.8288238,"ad.sk.",1951,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",14.4,2172,7.88097056013388,110.521781153293,"Fall",119038
+5,-121.4492192,40.925172,"ad.sk.",1995,"Sitta carolinensis ssp.","Sitta_carolinensis",17.9,NA,"female",11,802,5.9956739454882,117.399397397493,"Spring",119099
+8,-119.43223,37.74407,"imm.",1915,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",5.5,1014,6.23390047654878,120.482907518523,"Summer",119112
+12,-120.0705,40.31451,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",119146
+9,-121.9491551,39.583726,"ad.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",16.2,418,7.68392162343887,165.689347539508,"Fall",119189
+6,-123.47471,40.61736,"u ad.",1943,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",13.1,998,6.018676739697,124.778735426946,"Summer",119241
+9,-120.23726,35.27921,"ad.",1947,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",14.9,218,6.65907901539945,99.9383731970119,"Fall",119431
+9,-123.1358556,40.315747,"imm.",1949,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",9.4,1281,6.87278338922096,146.948460928128,"Fall",119433
+8,-108.4167461155,30.0146438844,"ad.sk.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",17.9,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",119439
+6,-115.21941,36.63555,"ad.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",17.9,NA,"male",5.7,402,7.62380641428048,146.319223243484,"Summer",119471
+7,-120.11166,37.75634,"imm.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",119530
+12,-83.7263412,42.2708397,NA,1935,"Sitta carolinensis carolinensis","Sitta_carolinensis",17.9,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Winter",119715
+5,-123.1853,39.40403,"U-Ad",1961,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",13.3,1065,6.09671421688964,95.0471731423943,"Spring",119754
+8,-119.60266,38.31189,"U-Ad",1960,"Sitta carolinensis aculeata","Sitta_carolinensis",17.9,NA,"male",2.7,859,7.18311888873468,109.158237188393,"Summer",119756
+3,-96.4669183,16.0674993,"adult",1965,NA,"Sitta_carolinensis",17.9,NA,"male",15.4,1058,0.946284600664381,118.293539357867,"Spring",119837
+7,-105.32333,39.41,"immature",1999,"Sitta carolinensis","Sitta_carolinensis",18,142,"male",7.9,652,6.58710862214978,83.8560972234912,"Summer",118958
+5,-103.778,43.639,NA,2011,"Sitta carolinensis","Sitta_carolinensis",18,NA,"male",5.8,533,10.0812156554113,85.8724302873337,"Spring",118968
+5,-103.6573,43.6348,NA,2011,"Sitta carolinensis","Sitta_carolinensis",18,NA,"male",5.5,552,10.0604385710775,92.0074565296448,"Spring",118972
+3,-100.751422,19.716421,"u ad.",1961,"Sitta carolinensis mexicana","Sitta_carolinensis",18,NA,"male",14.6,930,2.09067192330817,115.374337858318,"Spring",119064
+6,-115.19422,36.64165,"u ad.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",18,NA,"male",5.3,444,7.58842819194083,145.724434282779,"Summer",119071
+6,-115.63817,36.40167,"ad.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",18,NA,"male",10,441,7.73533314007088,157.815192110921,"Summer",119074
+7,-119.5501944,38.5135556,"sk.oss.",1979,"Sitta carolinensis aculeata","Sitta_carolinensis",18,NA,"male",4.1,725,6.95001090036206,96.8787613116417,"Summer",119089
+6,-119.79005,38.72702,"skull",2013,"Sitta carolinensis aculeata","Sitta_carolinensis",18,NA,"male",9.6,269,8.32264162609226,67.1831937686432,"Summer",119110
+12,-120.0705,40.31451,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",18,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",119147
+5,-112.4035006,34.463081,"ad",1969,"Sitta carolinensis nelsoni","Sitta_carolinensis",18,NA,"male",9.3,725,7.49377013986224,72.9738225262778,"Spring",119259
+6,-112.0840539,35.8333226,"ad",1969,"Sitta carolinensis nelsoni","Sitta_carolinensis",18,NA,"male?",9.5,312,8.05424789107643,68.9864731551357,"Summer",119261
+12,-109.212149,31.843357,"ad",1973,"Sitta carolinensis nelsoni","Sitta_carolinensis",18,NA,"female",11,552,7.14796008196278,121.770888009095,"Winter",119264
+7,-83.7263412,42.2708397,NA,1972,"Sitta carolinensis","Sitta_carolinensis",18,NA,"male",8.5,745,10.1826464084141,36.6112261865124,"Summer",119297
+9,-118.8514538,34.188228,"immature",1984,NA,"Sitta_carolinensis",18,NA,"female",18.3,236,5.29307008352345,199.172244829484,"Fall",119340
+12,-104.943804,39.747974,"immature",2010,"Sitta carolinensis","Sitta_carolinensis",18,139,"male",11.2,360,9.13649027501559,70.6067453620849,"Winter",119357
+6,-104.42025,44.44875,NA,2008,"Sitta carolinensis","Sitta_carolinensis",18,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",119371
+9,-106.1259166667,35.9037833333,"ad",2007,"Sitta carolinensis","Sitta_carolinensis",18,NA,"female",11.7,286,9.17045651684106,78.5947921832217,"Fall",119408
+8,-106.004446,36.615864,"ad.",1952,"Sitta carolinensis nelsoni","Sitta_carolinensis",18,NA,"male",4.6,374,8.83969610748736,76.5889731635705,"Summer",119443
+5,-121.4492192,40.925172,"ad.sk.",1995,"Sitta carolinensis ssp.","Sitta_carolinensis",18,NA,"male",11,802,5.9956739454882,117.399397397493,"Spring",119492
+7,-121.24134,36.45744,"unknown",1919,"Sitta carolinensis aculeata","Sitta_carolinensis",18,NA,"male",13.4,329,4.83161934081582,151.671760210111,"Summer",119525
+8,-121.0361,36.4814,"ad.",1936,"Sitta carolinensis aculeata","Sitta_carolinensis",18,NA,"male",14.4,614,5.96130832701153,160.513533885601,"Summer",119602
+1,-120.72455,40.44879,"u ad.",1943,"Sitta carolinensis tenuissima","Sitta_carolinensis",18,NA,"male",8.7,552,7.03303891384346,127.757676626902,"Winter",119643
+7,-119.5295334,49.3502892,"juv",1980,"Sitta carolinensis tenuissima","Sitta_carolinensis",18,NA,"male",8.8,328,8.33533915254075,54.0952103933311,"Summer",119658
+12,-119.165933,34.557323,"adult",1972,NA,"Sitta_carolinensis",18,NA,"male",13.5,232,5.98016924864374,186.593403932011,"Winter",119727
+6,-109.825,32.692,NA,2013,"Sitta carolinensis","Sitta_carolinensis",18,NA,"male",13.6,489,7.74402506726471,111.150574322588,"Summer",119765
+6,-109.314,31.771,"immature",2013,"Sitta carolinensis","Sitta_carolinensis",18,NA,"female",14.2,511,7.27459256382768,128.936912645775,"Summer",119772
+6,-109.303,31.784,NA,2013,"Sitta carolinensis","Sitta_carolinensis",18,NA,"male",13.5,550,7.23088388913706,127.408617185378,"Summer",119774
+1,-95.4166667,38.95,NA,2007,"Sitta carolinensis","Sitta_carolinensis",18,NA,"male",13.6,1063,10.763856467856,67.2960488467905,"Winter",119779
+10,-115.9072222,32.053333,"imm.",1926,"Sitta carolinensis aculeata","Sitta_carolinensis",18,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",119790
+7,-122.03683,37.88107,"immature",2002,"Sitta carolinensis","Sitta_carolinensis",18,NA,"undetermined",14.9,541,4.64754741446464,177.834443458172,"Summer",119849
+5,-120.07434,39.4290904,"u ad.",1950,"Sitta carolinensis aculeata","Sitta_carolinensis",18.1,NA,"male",6,1048,6.87697079190593,89.9378258940193,"Spring",119033
+6,-118.099737,37.432159,"u ad.",1934,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.1,NA,"male",7.3,233,6.4217669615995,119.938621164374,"Summer",119055
+6,-108.14806,28.56806,"u ad.",1957,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.1,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",119058
+5,-99.2341666666,19.0208333333,"ad.sk.",1965,"Sitta carolinensis mexicana","Sitta_carolinensis",18.1,NA,"female",14.3,1386,2.19729516920373,116.124862247001,"Spring",119077
+6,-119.1162287,34.8077162,"ad.",1929,"Sitta carolinensis aculeata","Sitta_carolinensis",18.1,NA,"female",8,257,6.9901662528458,140.427028144661,"Summer",119162
+7,-109.716873,23.387557,"u ad.",1929,"Sitta carolinensis lagunae","Sitta_carolinensis",18.1,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",119168
+7,-105.6808205,33.4567299,NA,1963,"Sitta carolinensis","Sitta_carolinensis",18.1,NA,"female",10.2,466,7.62437776894852,139.304003775889,"Summer",119383
+2,-97.1947251,37.3657709,NA,1957,"Sitta carolinensis","Sitta_carolinensis",18.1,NA,"male",13.9,1017,9.63982820794997,96.8442828527663,"Winter",119396
+1,-110.7045349,32.3931309,NA,1969,"Sitta carolinensis","Sitta_carolinensis",18.1,NA,"female",11,599,6.7001809111713,76.8255990245179,"Winter",119399
+4,-109.9636,33.7209,"u ad.",1949,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.1,NA,"male",11.1,513,8.45560151436295,90.2722595045756,"Spring",119418
+2,-110.7562408,31.5394936,NA,1952,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.1,NA,"male",15.6,464,7.66188421323174,79.3171593092612,"Winter",119670
+7,-121.1441667,36.530833,"unknown",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",18.1,NA,"female ?",14,435,5.60602354615105,135.752704896893,"Summer",119788
+4,-123.4853,40.3329,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",18.2,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",119184
+4,-119.97194,39.25139,"u ad.",1937,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.2,NA,"male",5.6,809,7.44704029067314,130.668529777137,"Spring",119200
+6,-107.40025,44.20397,NA,2008,"Sitta carolinensis","Sitta_carolinensis",18.2,NA,"male",4.8,574,9.04699849774398,88.7495767255469,"Summer",119370
+4,-107.13485,34.0136333333,NA,2013,"Sitta carolinensis","Sitta_carolinensis",18.2,NA,"female",11.1,345,8.02850980549751,145.386046768414,"Spring",119413
+9,-105.822524,36.058436,"ad.",1952,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.2,NA,"male",7.2,381,8.44764177242096,65.8506232087275,"Fall",119445
+6,-120.83662,40.6661,"adult skull",2006,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.2,NA,"male",8.8,695,8.10684334935054,91.8978204569927,"Summer",119501
+6,-120.781906,40.54848,"adult skull",2006,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.2,NA,"female",9.2,752,8.20380547321938,92.8542524944321,"Summer",119503
+7,-121.5319,40.4147,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",18.2,NA,"male",6.9,1423,6.82073487554122,104.276018204552,"Summer",119531
+11,-118.5536,35.3819,"ad.",1933,"Sitta carolinensis aculeata","Sitta_carolinensis",18.2,NA,"female",13.8,233,7.52721828775512,171.823440714423,"Fall",119583
+6,-106.1985,45.3019,"ad.",1947,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.2,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",119648
+9,-105.4977758,40.1313744,NA,1993,"Sitta carolinensis","Sitta_carolinensis",18.2,139,"male",3.4,620,7.63752696766553,39.2143246994501,"Fall",119762
+12,-84.5833333,31.0666667,NA,1946,"Sitta carolinensis carolinensis","Sitta_carolinensis",18.2,NA,"female",20.1,1420,5.62237817686043,49.9954762684942,"Winter",119881
+6,-104.42025,44.44875,NA,2008,"Sitta carolinensis","Sitta_carolinensis",18.3,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",118966
+6,-108.5709114,35.306013,NA,1956,"Sitta carolinensis","Sitta_carolinensis",18.3,NA,"undetermined",8.5,205,8.71530784935856,100.909712100543,"Summer",118975
+3,-123.4853,40.3329,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",18.3,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",119183
+6,-107.329617,44.05273,NA,2008,"Sitta carolinensis","Sitta_carolinensis",18.3,NA,"male",6.3,498,9.33242960992701,95.6058016126735,"Summer",119367
+12,-121.9420326,40.3415818,"u ad.",1927,"Sitta carolinensis aculeata","Sitta_carolinensis",18.3,NA,"male",15.1,954,6.73315518816244,92.4141216423363,"Winter",119554
+4,-119.97194,39.25139,"u ad.",1937,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.3,NA,"female",5.6,809,7.44704029067314,130.668529777137,"Spring",119606
+8,-119.60266,38.31189,"U-Imm",1960,"Sitta carolinensis aculeata","Sitta_carolinensis",18.3,NA,"female",2.7,859,7.18311888873468,109.158237188393,"Summer",119755
+6,-85.47303,38.71571,"Adult",1995,"Sitta carolinensis","Sitta_carolinensis",18.3,NA,"female",12.4,1168,9.91691239827959,65.9971742965683,"Summer",119759
+6,-76.5094764,42.4381028,NA,2008,"Sitta carolinensis","Sitta_carolinensis",18.3,180,NA,9.5,987,9.39065864021101,38.7015264125027,"Summer",119852
+3,-87.272352,34.296585,NA,1991,"Sitta carolinensis","Sitta_carolinensis",18.3999996185303,127,"female",16.6,1818,7.88744207105462,55.9291182170424,"Spring",119349
+12,-117.918721,46.911475,NA,1952,"Sitta carolinensis","Sitta_carolinensis",18.4,154,"male",10.6,239,8.64338510426361,96.3355928158238,"Winter",118942
+3,-108.0265333333,35.1125833333,"ad",2008,"Sitta carolinensis","Sitta_carolinensis",18.4,NA,"male",8.5,272,7.86100367560522,89.2191141532606,"Spring",119008
+4,-123.4853,40.3329,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",18.4,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",119186
+5,-104.0429306,30.7748788,"ad",1968,"Sitta carolinensis carolinensis","Sitta_carolinensis",18.4,NA,"male",14,587,6.51661629059038,126.641282620125,"Spring",119255
+6,-122.0921,42.2089,"u ad.",1964,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.4,NA,"male",6.2,765,6.90434645712395,157.501906375894,"Summer",119478
+12,-121.5955981,40.3477021,"imm.",1927,"Sitta carolinensis aculeata","Sitta_carolinensis",18.4,NA,"undetermined",9,1523,6.49425737000612,100.857192490312,"Winter",119550
+5,-103.778,43.639,NA,2011,"Sitta carolinensis","Sitta_carolinensis",18.5,NA,"female",5.8,533,10.0812156554113,85.8724302873337,"Spring",118969
+8,-108.3333,29.91071,"ad.sk.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.5,NA,"female",11.2,444,6.70388286402332,119.926397434996,"Summer",119030
+3,-105.25337,30.921,"u ad.",1950,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.5,NA,"male",17.8,181,6.82514846103376,141.100394924263,"Spring",119034
+12,-120.0705,40.31451,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",18.5,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",119148
+8,-109.83667,43.30329,"imm.",1939,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.5,NA,"male",0.5,432,8.61082387921086,62.4349229099711,"Summer",119216
+1,-123.47623,40.4313,"u ad.",1942,"Sitta carolinensis aculeata","Sitta_carolinensis",18.5,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",119224
+2,-83.7277184,42.2744808,"adult",1937,"Sitta carolinensis","Sitta_carolinensis",18.5,NA,"male",9.1,869,10.1089819047971,60.5096898630637,"Winter",119333
+11,-118.0354,34.3437,"adult",1988,NA,"Sitta_carolinensis",18.5,NA,"male",13.9,627,6.03225547043608,121.121468203245,"Fall",119342
+5,-103.778,43.639,NA,2011,"Sitta carolinensis","Sitta_carolinensis",18.5,NA,"male",5.8,533,10.0812156554113,85.8724302873337,"Spring",119375
+5,-103.778,43.639,NA,2011,"Sitta carolinensis","Sitta_carolinensis",18.5,NA,"male",5.8,533,10.0812156554113,85.8724302873337,"Spring",119376
+8,-106.004446,36.615864,"imm.",1952,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.5,NA,"female",4.6,374,8.83969610748736,76.5889731635705,"Summer",119444
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.5,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",119447
+7,-108.14806,28.56806,"imm.",1957,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.5,NA,"undetermined",12.2,668,4.62590695448094,114.900395304386,"Summer",119464
+6,-115.28361,36.63,"u ad.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.5,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",119470
+12,-120.0705,40.31451,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",18.5,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",119537
+83,-83.672384,42.794253,NA,1981,"Sitta carolinensis","Sitta_carolinensis",18.5,NA,"undetermined",8.1,854,9.92465555466727,64.8330047398353,"Winter",119735
+10,-122.69854,38.57442,"U-Ad",1996,"Sitta carolinensis aculeata","Sitta_carolinensis",18.5,NA,"undetermined",15.9,1367,4.76731294622796,118.541199609775,"Fall",119753
+6,-83.6333333,42.2666667,"immature",1998,"Sitta carolinensis","Sitta_carolinensis",18.5,NA,"female",11.7,912,8.87200226794517,52.9624446525685,"Summer",119830
+6,-71.588289,42.666335,"juvenile",2010,"Sitta carolinensis","Sitta_carolinensis",18.6,45.5,"female",10.2,1180,9.67532005578204,53.0412802525707,"Summer",119004
+1,-121.925969,37.345183,"skull unossified",2008,"Sitta carolinensis aculeata","Sitta_carolinensis",18.6,NA,"male",15.2,290,4.34936428653311,167.054059388636,"Winter",119109
+11,-120.747539,36.133317,"ad.",1918,"Sitta carolinensis aculeata","Sitta_carolinensis",18.6,NA,"male",13.8,509,6.04545283663681,145.445265510829,"Fall",119123
+11,-118.34799,34.511221,"u ad.",1930,"Sitta carolinensis aculeata","Sitta_carolinensis",18.6,NA,"female",16.5,306,5.78594823427387,135.356374336099,"Fall",119565
+12,-110.7833,31.3833,NA,1975,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.6,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",119842
+6,-110.735,32.419,NA,2013,"Sitta carolinensis","Sitta_carolinensis",18.6,NA,"undetermined",10.6,676,7.16296768529679,109.239691521346,"Summer",119860
+10,-103.529842,34.111886,"imm",2011,"Sitta carolinensis","Sitta_carolinensis",18.64,NA,"female",15.3,179,9.8091330355486,99.1569054962257,"Fall",119012
+4,-110.3958,33.6181,"u ad.",1951,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.7,NA,"female",10.1,708,8.26634285778326,71.4859096749422,"Spring",119039
+6,-114.45813,37.45917,"ad.",1963,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.7,NA,"male",10.1,445,8.22479621189928,85.1166081006915,"Summer",119067
+8,-118.170385,37.516048,"ad.",1917,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.7,NA,"male",0.9,179,8.09905999034905,159.528445334026,"Summer",119119
+12,-120.6097,36.1576,"u ad.",1932,"Sitta carolinensis aculeata","Sitta_carolinensis",18.7,NA,"female",13.5,295,6.56013557694342,142.166365940969,"Winter",119575
+12,-84.0129662,42.4430946,NA,1949,"Sitta carolinensis carolinensis","Sitta_carolinensis",18.7,NA,"female",9.9,816,9.81501632472129,25.489898305367,"Winter",119677
+10,-76.301441,42.465978,NA,1997,"Sitta carolinensis","Sitta_carolinensis",18.7,137,"male",6.4,871,9.17616725297362,40.8930193462573,"Fall",119761
+6,-109.825,32.692,NA,2013,"Sitta carolinensis","Sitta_carolinensis",18.7,NA,"male",13.6,489,7.74402506726471,111.150574322588,"Summer",119764
+10,-72.5989,41.2794,"immature",1977,"Sitta carolinensis carolinensis","Sitta_carolinensis",18.7,NA,"male",10.4,1352,9.44167101286375,37.0204213964468,"Fall",119899
+11,-76.053813,42.085075,NA,2004,"Sitta carolinensis","Sitta_carolinensis",18.7000007629395,127,"female",7.8,1178,9.97048675143827,52.8959895319285,"Fall",119353
+11,-105.6692166667,35.7556833333,NA,2011,"Sitta carolinensis","Sitta_carolinensis",18.8,NA,"female",7,317,8.33495741749861,81.2908772666249,"Fall",119013
+6,-115.21772,36.64997,"ad.sk.",1963,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.8,NA,"male",5.8,417,7.62735805565013,146.128356818137,"Summer",119068
+4,-110.3958,33.6181,"u ad.",1951,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.8,NA,"female",10.1,708,8.26634285778326,71.4859096749422,"Spring",119440
+9,-84.5575565,42.734787,NA,2009,"Sitta carolinensis cookei","Sitta_carolinensis",18.8,NA,"male",8.5,977,9.92613248252339,51.1096233665505,"Fall",119700
+7,-123.18162,39.83951,"immature",2001,"Sitta carolinensis","Sitta_carolinensis",18.8,NA,"female",13.1,1219,6.14079133189023,116.535941245108,"Summer",119758
+2,-84.2333333,36.9833333,NA,1950,"Sitta carolinensis carolinensis","Sitta_carolinensis",18.8,NA,"female",12.5,1438,8.18984496837764,56.3637768298078,"Winter",119821
+7,-117.204659,46.135021,NA,1979,"Sitta carolinensis","Sitta_carolinensis",18.9,NA,"female",7.3,469,9.09835149903542,49.4103675265819,"Summer",118944
+7,-109.0751276,42.8692308,NA,1949,"Sitta carolinensis","Sitta_carolinensis",18.9,NA,"male",0.5,767,9.44701331670812,70.4735412141921,"Summer",118974
+6,-109.0414833333,36.2523333333,NA,2013,"Sitta carolinensis","Sitta_carolinensis",18.9,NA,"male",7.6,495,9.04316249322038,73.6057046587212,"Summer",119014
+6,-95.34422,34.92625,"skull unossified",1982,"Sitta carolinensis ssp.","Sitta_carolinensis",18.9,NA,"male",16.3,1216,8.63728264647809,75.39398089437,"Summer",119103
+6,-106.1985,45.3019,"u ad.",1947,"Sitta carolinensis nelsoni","Sitta_carolinensis",18.9,NA,"female",6.8,423,10.6045551961924,93.2076166137476,"Summer",119253
+8,-84.0570831,45.4447168,NA,1982,"Sitta carolinensis carolinensis","Sitta_carolinensis",18.9,NA,"female",6,758,10.3962806577714,47.7509607043215,"Summer",119296
+3,-104.7448333333,32.1109333333,"Adult",2008,"Sitta carolinensis","Sitta_carolinensis",18.9,NA,"male",13.7,416,6.38954520124773,127.897254922621,"Spring",119412
+5,-109.0453833333,36.2504333333,NA,2013,"Sitta carolinensis","Sitta_carolinensis",18.9,NA,"male",8,439,9.0602361331192,77.6714634930389,"Spring",119414
+6,-118.622466,37.848788,"u ad.",1942,"Sitta carolinensis tenuissima","Sitta_carolinensis",18.9,NA,"male",6.6,157,7.6385981579202,69.017829637892,"Summer",119638
+9,-74.088823,39.836494,NA,1963,"Sitta carolinensis carolinensis","Sitta_carolinensis",18.9,NA,"female",10.9,919,9.23968302617803,57.843172607389,"Fall",119682
+12,-84.0272141,42.4041926,NA,2001,"Sitta carolinensis carolinensis","Sitta_carolinensis",18.9,NA,"male",10,899,9.35729742775739,53.7137944775057,"Winter",119694
+5,-103.778,43.639,NA,2011,"Sitta carolinensis","Sitta_carolinensis",19,NA,"male",5.8,533,10.0812156554113,85.8724302873337,"Spring",118970
+5,-103.778,43.639,NA,2011,"Sitta carolinensis","Sitta_carolinensis",19,NA,"female",5.8,533,10.0812156554113,85.8724302873337,"Spring",118971
+6,-122.6160965,38.7523041,NA,1990,"Sitta carolinensis aculeata","Sitta_carolinensis",19,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Summer",119003
+10,-78.84865,43.91331,"imm",1990,"Sitta carolinensis carolinensis","Sitta_carolinensis",19,NA,"female",8.6,937,9.05951283057057,30.7094979516475,"Fall",119269
+6,-107.329617,44.05273,NA,2008,"Sitta carolinensis","Sitta_carolinensis",19,NA,"male",6.3,498,9.33242960992701,95.6058016126735,"Summer",119368
+5,-103.5363,43.6821,NA,2011,"Sitta carolinensis","Sitta_carolinensis",19,NA,"male",5.7,602,9.93742543330134,97.5957006003073,"Spring",119378
+9,-108.2142166667,35.1449333333,"HY",2008,"Sitta carolinensis","Sitta_carolinensis",19,NA,"female",7.7,410,7.67974017079413,65.5033798323065,"Fall",119411
+8,-108.3333,29.91071,"ad.sk.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",19,NA,"male",11.2,444,6.70388286402332,119.926397434996,"Summer",119434
+8,-106.8987177777,29.3920969444,"skull mat.",1961,"Sitta carolinensis nelsoni","Sitta_carolinensis",19,NA,"undetermined",13.9,408,6.2050504844966,116.088641244644,"Summer",119468
+7,-119.5295334,49.3502892,"juv",1980,"Sitta carolinensis tenuissima","Sitta_carolinensis",19,NA,"male",8.8,328,8.33533915254075,54.0952103933311,"Summer",119656
+7,-119.5295334,49.3502892,"juv",1980,"Sitta carolinensis tenuissima","Sitta_carolinensis",19,NA,"male",8.8,328,8.33533915254075,54.0952103933311,"Summer",119657
+11,-79.548056,43.640833,"ad",1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",19,NA,"female",7.1,703,10.9350007967189,42.5585423314455,"Fall",119664
+2,-70.064013,42.01527,NA,1993,"Sitta carolinensis","Sitta_carolinensis",19,NA,"female",9.6,1003,8.71000817589986,53.972468486666,"Winter",119690
+12,-104.7272166667,32.1208666667,NA,2009,"Sitta carolinensis","Sitta_carolinensis",19,NA,"male",14.4,453,6.85923398850709,140.857401785693,"Winter",119785
+6,-76.432222,42.404308,"juv.",2000,"Sitta carolinensis","Sitta_carolinensis",19.1,NA,"female",7.9,1010,9.45374705253601,40.6109600172442,"Summer",118948
+8,-123.8193291,41.1515112,"imm.",1949,"Sitta carolinensis aculeata","Sitta_carolinensis",19.1,NA,"male",11.1,1784,6.60419403015075,99.056239467751,"Summer",119027
+5,-122.4514867,41.4453638,"u ad.",1935,"Sitta carolinensis aculeata","Sitta_carolinensis",19.1,NA,"male",10.6,635,7.55727624494594,99.0219924807584,"Spring",119196
+12,-120.0705,40.31451,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",19.1,NA,"male",8.8,149,8.08051809770096,107.293383086489,"Winter",119536
+7,-83.7263412,42.2708397,"immature",2012,"Sitta carolinensis cookei","Sitta_carolinensis",19.1,NA,"female",11.5,682,9.21854192112371,37.699178293142,"Summer",119703
+12,-83.65,42.4666667,"adult",1926,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.1,NA,"male",7.2,805,10.4308218973648,52.4919076321559,"Winter",119813
+10,-83.75,42.2833333,NA,1963,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.1,NA,"female",8.9,437,11.2111146149297,54.7005187373839,"Fall",119814
+4,-108.543877,30.0301664,NA,1955,NA,"Sitta_carolinensis",19.1,NA,"male",14.7,326,6.61460161653403,142.084807501934,"Spring",119835
+6,-109.825,32.692,NA,2013,"Sitta carolinensis","Sitta_carolinensis",19.1,NA,"male",13.6,489,7.74402506726471,111.150574322588,"Summer",119854
+6,-104.42025,44.44875,NA,2008,"Sitta carolinensis","Sitta_carolinensis",19.2,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",118967
+8,-108.3333,29.91071,"ad.sk.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",19.2,NA,"male",11.2,444,6.70388286402332,119.926397434996,"Summer",119029
+6,-123.14392,40.55443,"u ad.",1943,"Sitta carolinensis aculeata","Sitta_carolinensis",19.2,NA,"male",11.5,837,5.90030173856055,120.785766804994,"Summer",119240
+10,-85.5156898,42.1720552,"immature",2009,"Sitta carolinensis cookei","Sitta_carolinensis",19.2,NA,"male",9.3,1115,9.8819241164069,47.8057734128908,"Fall",119308
+6,-76.451,42.4799,NA,2011,"Sitta carolinensis","Sitta_carolinensis",19.2,132,"male",9.2,1318,10.0593202674149,50.0417496199746,"Summer",119354
+12,-74.792949,43.75451,NA,2004,"Sitta carolinensis","Sitta_carolinensis",19.2,125,"undetermined",4.6,1177,10.8479679705883,46.4827828041083,"Winter",119355
+12,-95.5360794,38.0056315,NA,1966,"Sitta carolinensis","Sitta_carolinensis",19.3,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",118987
+7,-120.11166,37.75634,"imm.",1920,"Sitta carolinensis aculeata","Sitta_carolinensis",19.3,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",119135
+8,-108.3333,29.91071,"u ad.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",19.3,NA,"female",11.2,444,6.70388286402332,119.926397434996,"Summer",119436
+8,-106.8987177777,29.3920969444,"ad.",1961,"Sitta carolinensis nelsoni","Sitta_carolinensis",19.3,NA,"female",13.9,408,6.2050504844966,116.088641244644,"Summer",119467
+10,-79.395348,43.663612,"juv",1980,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.3,NA,"female",7.1,833,10.6143520620417,44.8037904600847,"Fall",119655
+5,-103.84325,44.45248,NA,2008,"Sitta carolinensis","Sitta_carolinensis",19.4,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",119366
+12,-95.5360794,38.0056315,NA,1966,"Sitta carolinensis","Sitta_carolinensis",19.4,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",119384
+12,-95.5360794,38.0056315,NA,1966,"Sitta carolinensis","Sitta_carolinensis",19.4,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",119388
+1,-110.6964759,32.3356308,NA,1969,"Sitta carolinensis","Sitta_carolinensis",19.4,NA,"female",16.6,405,7.16182535560889,76.4559801282329,"Winter",119398
+10,-83.7263412,42.2708397,"immature",1999,"Sitta carolinensis","Sitta_carolinensis",19.4,NA,"female",10.2,871,9.96574435785208,44.628272107928,"Fall",119691
+9,-87.5833333,37.8833333,NA,1949,"Sitta carolinensis carolinensis x cookei","Sitta_carolinensis",19.4,NA,"female",14.4,1302,8.70271204681029,50.099624890425,"Fall",119823
+4,-104.143553,30.653731,"adult",1937,"Sitta carolinensis nelsoni","Sitta_carolinensis",19.5,NA,"male",13.3,507,6.55748473582715,64.5765308781502,"Spring",119337
+10,-95.2598661,38.9549568,NA,1998,"Sitta carolinensis","Sitta_carolinensis",19.5,NA,"male",13.9,1225,9.8228243793666,69.5373055135808,"Fall",119393
+6,-71.5916666667,42.675,"adult",1997,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.5,NA,"male",8.3,1021,9.14454217088814,46.8820208121677,"Summer",119405
+7,-83.8387299,42.2976274,NA,1992,"Sitta carolinensis","Sitta_carolinensis",19.5,NA,"male",8.7,939,8.63949703923261,41.1541626134476,"Summer",119698
+6,-76.439543,42.399675,NA,1993,"Sitta carolinensis","Sitta_carolinensis",19.5,137,"male",7.7,968,10.327442113421,46.7780807065956,"Summer",119732
+12,-95.5360794,38.0056315,NA,1966,"Sitta carolinensis","Sitta_carolinensis",19.6,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",118986
+9,-72.1333,42,NA,1975,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.6,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",119843
+3,-104.72685,32.1208666667,NA,2010,"Sitta carolinensis","Sitta_carolinensis",19.7,NA,NA,14,627,7.35643915013894,136.646684712699,"Spring",119010
+8,-108.3333,29.91071,"imm.sk.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",19.7,NA,"male",11.2,444,6.70388286402332,119.926397434996,"Summer",119028
+8,-108.4167461155,30.0146438844,"juv.sk.",1948,"Sitta carolinensis nelsoni","Sitta_carolinensis",19.7,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",119032
+2,-85.5628967,46.5564995,NA,1957,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.7,NA,"female",4.7,902,10.0513077695784,42.2678920891963,"Winter",119293
+1,-83.7460327,42.740961,NA,1991,"Sitta carolinensis","Sitta_carolinensis",19.7,NA,"female",9.6,811,10.1150952301573,42.3542237959467,"Winter",119301
+7,-83.5860443,41.7761765,"immature",1937,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.7,NA,"female",9.7,908,10.2876654594743,58.5908899261902,"Summer",119332
+10,-105.83417,23.46889,"u ad.",1946,"Sitta carolinensis nelsoni","Sitta_carolinensis",19.7,NA,"male",17.6,1187,2.77319419814157,108.597016186447,"Fall",119421
+7,-84.2366409,42.337103,"immature",1933,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.8,NA,NA,9.7,704,10.3750976629211,45.299563850901,"Summer",119323
+2,-83.95,42.45,NA,1954,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.8,NA,"male",9.2,782,9.634832639958,57.3873455220178,"Winter",119808
+7,-84.2166667,37,NA,1948,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.8,NA,"male",12.6,1310,8.4270622869348,44.2755959038139,"Summer",119819
+6,-81.259363,44.675025,"imm",2001,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.9,NA,"male",7.8,918,9.14000530468648,48.6084057490984,"Summer",119278
+10,-83.7263412,42.2708397,NA,1960,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.9,NA,"female",8.9,691,10.5845048265964,64.2066606677382,"Fall",119294
+9,-72.6372,41.3597,NA,1968,"Sitta carolinensis carolinensis","Sitta_carolinensis",19.9,NA,NA,9.3,1011,9.86779272853526,57.3532884782539,"Fall",119901
+4,-95.3819275,38.8322196,NA,1966,"Sitta carolinensis","Sitta_carolinensis",20,NA,"male",12.1,702,9.96932796130211,92.3413565591203,"Spring",118988
+4,-70.2103,44.5867,"u ad.",1952,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",119042
+4,-70.2103,44.5867,"u ad.",1952,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"female",6.9,1027,10.3192083323315,45.6049007402491,"Spring",119043
+8,-107.01155,29.27428,"imm.sk.?",1961,"Sitta carolinensis nelsoni","Sitta_carolinensis",20,NA,"undetermined",14.5,405,6.18004486597424,117.118632753466,"Summer",119065
+11,-106.7953572816,29.480652502,"juv.",1968,"Sitta carolinensis nelsoni","Sitta_carolinensis",20,NA,"male",11.8,638,6.02162768692984,169.126621518657,"Fall",119079
+7,-95.3354,45.7556,"s.n.o.",1981,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"male",6.5,622,11.3669643611599,90.2688249366509,"Summer",119090
+9,-121.4270138,40.4592417,"ad.",1923,"Sitta carolinensis tenuissima","Sitta_carolinensis",20,NA,"male",5.7,1147,6.41000047274617,102.179774782288,"Fall",119141
+12,-79.372722,43.73418,NA,1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"[male]",6.9,702,10.9590525746222,42.8598060884291,"Winter",119272
+10,-79.372722,43.73418,"imm",1943,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"female",6.6,791,10.6728911762749,35.7394849937762,"Fall",119277
+1,-79.401766,43.669722,NA,1954,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"male",7.8,912,9.717568438845,45.9996277343613,"Winter",119280
+10,-79.379301,43.691224,"imm",1961,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"female",7.7,695,10.2740737251146,42.8127850787824,"Fall",119281
+6,-101.135007,38.8895189,"immature",1999,"Sitta carolinensis","Sitta_carolinensis",20,NA,"undetermined",12.4,457,8.73180792831414,95.4883029082364,"Summer",119395
+4,-70.2103,44.5867,"u ad.",1952,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"female",6.9,1027,10.3192083323315,45.6049007402491,"Spring",119442
+9,-118.5955,36.7887,"imm.",1916,"Sitta carolinensis aculeata","Sitta_carolinensis",20,NA,"male",8.5,1653,7.2632115778244,159.17289683802,"Fall",119508
+10,-79.252264,43.77702,"imm",2003,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"undetermined",7,825,10.5434885837256,39.1141497661034,"Fall",119671
+7,-84.1018867,42.3259197,NA,1991,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"male",9.9,763,9.97826046053027,42.5355891674891,"Summer",119688
+9,-83.715643,42.799291,NA,1983,"Sitta carolinensis","Sitta_carolinensis",20,NA,"male",9.1,854,10.2676418761549,39.7158462022284,"Fall",119734
+2,-84.2833333,36.9333333,NA,1950,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"female",12.6,1449,8.17379404505087,55.7417348684253,"Winter",119818
+9,-87.3333333,37.3333333,NA,1951,"Sitta carolinensis carolinensis x cookei","Sitta_carolinensis",20,NA,"male",13.8,1320,9.25122432519888,55.1546869408586,"Fall",119825
+4,-76.48236,42.460012,NA,1954,"Sitta carolinensis","Sitta_carolinensis",20,NA,"male",8.8,880,9.42959557601877,31.3950615113712,"Spring",119851
+2,-76.3367242,42.228294,NA,2010,"Sitta carolinensis","Sitta_carolinensis",20,140,"male",9.2,1024,10.034346319547,45.5658814916156,"Winter",119853
+2,-84.2333333,36.9833333,NA,1950,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"female",12.5,1438,8.18984496837764,56.3637768298078,"Winter",119885
+9,-78.9478,43.87317,"imm",1983,"Sitta carolinensis carolinensis","Sitta_carolinensis",20,NA,"female",8.2,843,10.2348298678699,43.6142738785866,"Fall",119904
+6,-94.971,35.20803,"skull unossified",1982,"Sitta carolinensis ssp.","Sitta_carolinensis",20.1,NA,"male",16.5,1187,8.80428184395972,62.7579408933301,"Summer",119104
+9,-84.2366409,42.337103,"immature",1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.1,NA,"female",8.6,681,11.565423258641,54.4165132337979,"Fall",119716
+2,-84.2333333,36.9833333,NA,1950,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.1,NA,"male",12.5,1438,8.18984496837764,56.3637768298078,"Winter",119820
+2,-95.3939437,38.8239283,NA,1970,"Sitta carolinensis","Sitta_carolinensis",20.2,NA,"female",12.2,878,10.6209769567188,94.9484012115616,"Winter",118995
+10,-95.4372024,38.874864,NA,1987,"Sitta carolinensis","Sitta_carolinensis",20.2,NA,"male",13.5,1004,9.53255983299853,61.3442904835374,"Fall",118997
+3,-79.58921,43.96537,NA,1969,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.2,143,"undetermined",6.4,714,10.2282252081723,39.0596836381973,"Spring",119260
+10,-79.372722,43.73418,"imm",1971,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.2,146,"male",7.6,706,10.4587791164199,47.1826091796146,"Fall",119263
+10,-83.6957359,42.450948,NA,1998,"Sitta carolinensis","Sitta_carolinensis",20.2,NA,"male",10.9,831,8.90142991577502,51.8659845403514,"Fall",119316
+9,-76.801312,43.228495,NA,2013,"Sitta carolinensis","Sitta_carolinensis",20.3,86,"male",9.4,1109,9.71099033741324,44.9765811236087,"Fall",118953
+8,-83.95,42.45,"immature",1934,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.3,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",119832
+12,-95.7356074,37.6789414,NA,1967,"Sitta carolinensis","Sitta_carolinensis",20.4,NA,"male",13.6,1059,8.65326615512982,91.6152771560625,"Winter",118989
+6,-96.95317836,42.74104457,NA,2007,"Sitta carolinensis","Sitta_carolinensis",20.4,NA,NA,9.9,741,12.360567801021,78.3158096996762,"Summer",119364
+5,-114.10722,39.01722,"u ad.",1934,"Sitta carolinensis nelsoni","Sitta_carolinensis",20.4,NA,"female",12,145,8.45472792243631,67.979497800529,"Spring",119586
+10,-79.395348,43.663612,"imm",1983,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.4,NA,"[male]",8.2,835,10.1421263684065,37.6079801982002,"Fall",119659
+10,-83.0666667,37.6833333,NA,1948,"Sitta carolinensis carolinensis x cookei","Sitta_carolinensis",20.4,NA,"male",12.9,1256,8.60415685302837,41.9895645257694,"Fall",119826
+5,-122.2297661,40.2121782,"u ad.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",20.5,NA,"female",17.4,462,7.5992174637002,110.123926819142,"Spring",119144
+5,-80.24294,42.5613,NA,1928,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.5,NA,"female",9.2,821,9.33141890539048,43.0734582008226,"Spring",119663
+11,-83.8793278,42.342115,NA,1986,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.5,NA,"female",9,871,10.0371129496303,57.8189690811031,"Fall",119685
+10,-83.6422,42.30201,NA,1938,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.5,NA,"male",10.4,697,9.64633703443013,49.7333643051101,"Fall",119725
+10,-78.8822671,44.1545219,"immature",1965,NA,"Sitta_carolinensis",20.5,NA,"female",6.2,848,9.77976807681878,32.7571904004756,"Fall",119728
+9,-87.5833333,37.8833333,"adult",1949,"Sitta carolinensis carolinensis x cookei","Sitta_carolinensis",20.5,NA,"male",14.4,1302,8.70271204681029,50.099624890425,"Fall",119824
+2,-84.2833333,36.9333333,NA,1950,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.5,NA,"male",12.6,1449,8.17379404505087,55.7417348684253,"Winter",119886
+9,-85.65,38.3,NA,1950,"Sitta carolinensis carolinensis x cookei","Sitta_carolinensis",20.5,NA,"male",12.8,1550,8.75547880420649,44.3216765290986,"Fall",119888
+3,-95.3019171,39.9750312,NA,1967,"Sitta carolinensis","Sitta_carolinensis",20.6,NA,"undetermined",11,936,9.343296900436,97.450497886119,"Spring",118993
+10,-79.381924,43.647863,"ad",2001,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.6,NA,"female",9.1,697,9.65735314136175,37.8745626908572,"Fall",119668
+9,-83.6284305,42.2917473,NA,1937,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.6,NA,"male",9.2,851,10.0872857267619,57.9741023198496,"Fall",119722
+11,-72.5989,41.2794,NA,2011,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.6,NA,"male",11.9,1556,9.4267028845046,50.2059552788643,"Fall",119839
+10,-84.0833333,37.15,NA,1951,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.6,NA,"male",12.7,1450,8.4104327348763,45.6283625077528,"Fall",119884
+5,-122.2297661,40.2121782,"juv.",1924,"Sitta carolinensis aculeata","Sitta_carolinensis",20.7,NA,"male",17.4,462,7.5992174637002,110.123926819142,"Spring",119143
+2,-99.5697108,39.9495034,NA,1967,"Sitta carolinensis","Sitta_carolinensis",20.7,NA,"female",10.8,620,9.41807980815237,119.031092942624,"Winter",119387
+4,-75.93037,40.18575,"ad.sk.",1994,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.7,NA,"male",10.6,1259,10.1160089147666,44.6625962187868,"Spring",119489
+1,-78.39246,45.81601,"ad",1989,"Sitta carolinensis cookei","Sitta_carolinensis",20.7,NA,"female",2.4,952,12.6733405464408,32.5574710269024,"Winter",119661
+10,-76.439543,42.399675,NA,2003,"Sitta carolinensis","Sitta_carolinensis",20.7000007629395,NA,"male",7.5,1134,10.1759483215288,35.5873006862813,"Fall",118949
+12,-95.7356074,37.6789414,NA,1967,"Sitta carolinensis","Sitta_carolinensis",20.8,NA,"female",13.6,1059,8.65326615512982,91.6152771560625,"Winter",118990
+3,-85.5156898,42.1720552,"adult",2002,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.8,NA,"male",10,777,9.81764027687207,39.7971250104921,"Spring",119305
+4,-72.170985,41.8911152,NA,1984,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.8,NA,"male",8.7,1307,9.29555123310461,53.5564460852493,"Spring",119345
+2,-75.3242,40.0256,"ad.sk.",1994,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.8,NA,"female",12.3,1258,9.94277566270043,51.9485590398292,"Winter",119490
+10,-79.381924,43.647863,"imm",2001,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.8,NA,"male",9.1,697,9.65735314136175,37.8745626908572,"Fall",119669
+2,-85.5156898,42.1720552,NA,2004,"Sitta carolinensis carolinensis","Sitta_carolinensis",20.8,NA,"female",9.6,996,9.83880304989105,63.0858001540925,"Winter",119695
+10,-83.734982,42.2764196,NA,2010,"Sitta carolinensis cookei","Sitta_carolinensis",20.8,NA,"male",10.6,933,10.9200260849949,70.5087782666067,"Fall",119699
+6,-85.4181862,43.5654667,NA,2013,"Sitta carolinensis","Sitta_carolinensis",20.8,NA,"male",7.5,1030,10.3920533450937,39.9031615359829,"Summer",119705
+9,-84.1383333,42.3818333,NA,2007,"Sitta carolinensis cookei","Sitta_carolinensis",20.8,NA,"female",9.7,887,10.7470926301023,50.0748701674525,"Fall",119831
+11,-87.34778,39.08144,"Immature",2003,"Sitta carolinensis","Sitta_carolinensis",20.9,NA,"female",11.7,1107,9.63341328476836,44.7122104181919,"Fall",119760
+2,-95.3915405,38.8268705,NA,1970,"Sitta carolinensis","Sitta_carolinensis",21,NA,"female",12.2,878,10.6132385883543,94.9484012115616,"Winter",118994
+1,-95.2969985,38.9549568,NA,1972,"Sitta carolinensis","Sitta_carolinensis",21,NA,"male",11.8,937,10.5101538206314,54.6343270944205,"Winter",118996
+10,-79.252264,43.77702,"juv",2003,"Sitta carolinensis carolinensis","Sitta_carolinensis",21,NA,"female",7,825,10.5434885837256,39.1141497661034,"Fall",119282
+10,-79.40957,43.746884,"juv",2003,"Sitta carolinensis carolinensis","Sitta_carolinensis",21,NA,"male",7,822,10.5256792770075,38.9287295598561,"Fall",119284
+12,-84.1180229,42.1142693,NA,1990,"Sitta carolinensis","Sitta_carolinensis",21,NA,"female",10.1,1063,8.61439950245395,30.9514416539123,"Winter",119299
+8,-84.0577698,42.4216191,"immature",1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",21,NA,"female",8.4,643,11.4985638101882,61.6822429906542,"Summer",119324
+10,-80.24294,42.5613,"imm",1961,"Sitta carolinensis carolinensis","Sitta_carolinensis",21,147,"female",9,890,9.91145648716523,47.9607600826409,"Fall",119673
+7,-83.1161213,42.8151421,"immature",1952,"Sitta carolinensis carolinensis","Sitta_carolinensis",21,NA,"female",9.6,614,10.0766907747384,33.560128402197,"Summer",119678
+7,-85.9965,45.0939,NA,1940,"Sitta carolinensis carolinensis","Sitta_carolinensis",21,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",119804
+11,-95.211,39.036,NA,2011,"Sitta carolinensis","Sitta_carolinensis",21,NA,"male",13.4,890,11.0412449890894,54.6141812609438,"Fall",119862
+10,-76.432222,42.404308,NA,2009,"Sitta carolinensis","Sitta_carolinensis",21.1,130,"male",8,923,9.45578226176016,46.6739004649463,"Fall",118951
+2,-79.71593,43.46917,"ad",1971,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.1,NA,"male",7.9,735,10.3190321369024,39.8224068640758,"Winter",119262
+10,-74.8782234,41.0359287,NA,1934,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.1,144,"female",8.8,1147,10.6570043832328,45.7121321062282,"Fall",119327
+7,-83.2804871,42.9272685,"immature",1938,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.1,NA,"female",9.7,644,9.83993101725019,49.6188332689933,"Summer",119723
+6,-79.97972,43.63902,"imm",1985,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.1,NA,"female",6.6,1052,10.0659642540413,42.8557390815619,"Summer",119802
+10,-79.372722,43.73418,"ad",1975,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.2,NA,"male",8.2,807,10.1184200467476,22.8094245601912,"Fall",119266
+10,-84.0025806,42.2013735,NA,1992,"Sitta carolinensis","Sitta_carolinensis",21.2,NA,"female",8.5,941,8.54968987564444,48.7282084591258,"Fall",119300
+11,-85.3939819,42.2706721,NA,2005,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.2,NA,"male",9.8,781,10.8748632871936,50.7210490460391,"Fall",119306
+4,-79.381924,43.647863,"ad",2006,"Sitta carolinensis","Sitta_carolinensis",21.2,NA,"male",9.5,890,8.9848820838454,32.9859361480764,"Spring",119652
+4,-83.7263412,42.2708397,NA,1935,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.2,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Spring",119718
+9,-84.304821,46.503663,"ad",1992,"Sitta carolinensis cookei","Sitta_carolinensis",21.3,NA,"male",4,893,9.3125363533966,47.4644347711686,"Fall",119270
+12,-83.7322998,42.4487948,NA,1932,"Sitta carolinensis","Sitta_carolinensis",21.3,NA,"male",9.2,872,9.71975495388831,49.4798525614705,"Winter",119318
+9,-84.2366409,42.337103,NA,1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.3,NA,"male",8.6,681,11.565423258641,54.4165132337979,"Fall",119325
+2,-83.7263412,42.2708397,NA,1938,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.3,NA,"female",10.4,686,9.65898859125844,50.0000629664573,"Winter",119683
+1,-84.4243526,42.8134264,NA,2003,"Sitta carolinensis","Sitta_carolinensis",21.3,NA,"female",8.3,792,10.2017341068996,59.2267281384608,"Winter",119693
+4,-83.8418197,42.3055625,"adult",2008,"Sitta carolinensis","Sitta_carolinensis",21.3,NA,"male",9.2,993,10.3003383292477,45.712746362786,"Spring",119696
+10,-83.7880414,42.2787257,NA,2009,"Sitta carolinensis cookei","Sitta_carolinensis",21.3,NA,"male",8.9,1000,10.0763750095624,45.4265228725315,"Fall",119697
+9,-87.3333333,37.3333333,NA,1951,"Sitta carolinensis carolinensis x cookei","Sitta_carolinensis",21.3,NA,"male",13.8,1320,9.25122432519888,55.1546869408586,"Fall",119887
+4,-106.3655815,35.16782,NA,2007,"Sitta carolinensis","Sitta_carolinensis",21.4,NA,"female",9.9,539,8.40491829318712,66.4181206130782,"Spring",119011
+7,-83.7263412,42.2708397,NA,1948,"Sitta carolinensis","Sitta_carolinensis",21.4,NA,"male",9.3,729,10.4303752220487,44.9409217727664,"Summer",119286
+10,-84.2366409,42.337103,NA,1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.4,NA,"female",8.6,681,11.565423258641,54.4165132337979,"Fall",119326
+10,-85.0368158,45.6396689,"juvenile",1991,"Sitta carolinensis","Sitta_carolinensis",21.4,NA,"male",7.5,765,9.89099299485357,62.8890699894413,"Fall",119689
+11,-87.85,42.4166667,"immature",1927,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.4,NA,"female",9.2,890,9.40436310733191,45.1242406004029,"Fall",119894
+3,-95.28294,38.5646764,NA,1988,"Sitta carolinensis","Sitta_carolinensis",21.5,NA,"male",13.3,699,10.4913348083362,61.9077573069998,"Spring",118998
+4,-75.93037,40.18575,"ad.sk.",1994,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.5,NA,"male",10.6,1259,10.1160089147666,44.6625962187868,"Spring",119093
+9,-79.251966,43.777483,"imm",2001,"Sitta carolinensis","Sitta_carolinensis",21.5,NA,"male",8.7,721,9.7159974300432,37.1379310227833,"Fall",119279
+3,-83.9812946,42.4581673,NA,1950,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.5,NA,"male",8.1,950,10.0609054354873,28.4182880101414,"Spring",119289
+10,-88.5216522,46.7570335,NA,1997,"Sitta carolinensis cookei","Sitta_carolinensis",21.5,140,"male",4.2,715,10.1654793146693,56.7959630265362,"Fall",119302
+1,-85.4180145,43.565591,NA,2012,"Sitta carolinensis cookei","Sitta_carolinensis",21.5,NA,"male",9.8,826,9.2117966200789,46.8706825334025,"Winter",119312
+3,-83.9836121,42.4591805,NA,1953,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.5,NA,"male",10.1,567,9.45568211407428,40.3671321387636,"Spring",119679
+7,-84.0736542,42.3821335,"immature",1930,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.5,NA,"male",9.2,513,10.2172277269444,55.2573208847351,"Summer",119680
+8,-84.0221481,42.4342346,"adult",1934,"Sitta carolinensis","Sitta_carolinensis",21.5,NA,"male",9,485,11.5965087483913,49.4890095543903,"Summer",119710
+3,-95.3019171,39.9750312,NA,1967,"Sitta carolinensis","Sitta_carolinensis",21.6,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",118983
+1,-83.7263412,42.2708397,NA,1987,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.6,NA,"male",10.6,838,9.89934188201265,67.1092470711226,"Winter",119298
+10,-85.5156898,42.1720552,NA,2012,"Sitta carolinensis","Sitta_carolinensis",21.6,NA,"male",11.6,840,9.22438714396887,42.5044313385722,"Fall",119706
+12,-95.7356074,37.6789414,NA,1967,"Sitta carolinensis","Sitta_carolinensis",21.7,NA,"female",13.6,1059,8.65326615512982,91.6152771560625,"Winter",119389
+1,-91.5413333,40.0876667,NA,2009,"Sitta carolinensis","Sitta_carolinensis",21.7,NA,"female",11.4,1359,9.70764693892959,53.652089547405,"Winter",119781
+11,-79.01076,45.33157,"ad",1985,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.7,NA,"male",4.6,1153,10.8963991828271,18.4744055822146,"Fall",119800
+1,-83.5333333,42.3,NA,1950,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.7,NA,"male",8.8,948,10.013184490279,26.7469079740803,"Winter",119878
+3,-83.95,42.45,NA,1953,"Sitta carolinensis","Sitta_carolinensis",21.7,NA,"male",10.2,567,9.47725746674158,41.6329073884431,"Spring",119880
+12,-83.4655,41.7862,NA,1935,"Sitta carolinensis","Sitta_carolinensis",21.7,NA,"male",9.4,650,10.278408525554,38.5226996202882,"Winter",119893
+10,-84.00509,42.44221,"ad.",1951,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.8,NA,"female",8.4,847,9.90137348905176,29.4637169832086,"Fall",119036
+10,-79.85501,42.95022,"imm",2005,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.8,NA,"female",8.8,878,10.6683438548849,34.5762463543278,"Fall",119257
+3,-84.1386223,42.3530892,NA,1950,"Sitta carolinensis","Sitta_carolinensis",21.8,NA,"male",8.2,1003,10.0870604181192,33.8452141016957,"Spring",119295
+7,-85.4156756,43.5674568,"immature",2000,"Sitta carolinensis","Sitta_carolinensis",21.8,NA,"male",7.6,931,9.77533615635273,41.7732501627268,"Summer",119303
+5,-83.9114456,42.4281349,NA,1935,"Sitta carolinensis","Sitta_carolinensis",21.8,NA,"male",8.4,652,10.1940676450333,44.0763982295502,"Spring",119328
+6,-96.95317836,42.74104457,NA,2007,"Sitta carolinensis","Sitta_carolinensis",21.8,NA,NA,9.9,741,12.360567801021,78.3158096996762,"Summer",119363
+6,-84.0377778,42.1502778,NA,1986,"Sitta carolinensis","Sitta_carolinensis",21.8,NA,"male",8.9,895,10.0034956011598,53.9668274391149,"Summer",119828
+3,-95.3019171,39.9750312,NA,1967,"Sitta carolinensis","Sitta_carolinensis",21.9,NA,"undetermined",11,936,9.343296900436,97.450497886119,"Spring",118981
+4,-75.93037,40.18575,"ad.sk.",1994,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.9,NA,"male",10.6,1259,10.1160089147666,44.6625962187868,"Spring",119094
+9,-83.6284305,42.2917473,NA,1937,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.9,NA,"male",9.2,851,10.0872857267619,57.9741023198496,"Fall",119334
+10,-83.6422,42.30201,NA,1938,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.9,NA,"female",10.4,697,9.64633703443013,49.7333643051101,"Fall",119338
+11,-83.8382149,42.269243,NA,1986,"Sitta carolinensis carolinensis","Sitta_carolinensis",21.9,NA,"female",9.1,873,10.0163502697975,53.7350609591784,"Fall",119686
+10,-82.4333333,42.9666667,"juvenile",1993,"Sitta carolinensis","Sitta_carolinensis",21.9,NA,"female",8.8,812,10.0087537443556,47.3382666454627,"Fall",119829
+4,-70.2103,44.5867,"u ad.",1952,"Sitta carolinensis carolinensis","Sitta_carolinensis",22,NA,"female",6.9,1027,10.3192083323315,45.6049007402491,"Spring",119041
+10,-79.395348,43.663612,"imm",1980,"Sitta carolinensis carolinensis","Sitta_carolinensis",22,NA,"male",7.1,833,10.6143520620417,44.8037904600847,"Fall",119268
+10,-79.252264,43.77702,"imm",2003,"Sitta carolinensis carolinensis","Sitta_carolinensis",22,NA,"male",7,825,10.5434885837256,39.1141497661034,"Fall",119283
+3,-95.3019171,39.9750312,NA,1967,"Sitta carolinensis","Sitta_carolinensis",22,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",119385
+1,-79.495948,43.689613,NA,1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",22,NA,"female",7.1,697,10.9574659755831,42.7284126461249,"Winter",119662
+9,-83.715643,42.799291,NA,1983,"Sitta carolinensis","Sitta_carolinensis",22,NA,"male",9.1,854,10.2676418761549,39.7158462022284,"Fall",119733
+9,-87.5833333,37.8833333,NA,1949,"Sitta carolinensis carolinensis x cookei","Sitta_carolinensis",22,NA,"male",14.4,1302,8.70271204681029,50.099624890425,"Fall",119822
+8,-83.95,42.45,"immature",1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",22,NA,"male",8.5,620,11.4649135375825,63.832744272204,"Summer",119833
+1,-79.69422,44.36884,"ad",1988,"Sitta carolinensis cookei","Sitta_carolinensis",22,NA,"male",6.7,863,10.533151129993,33.1928850555819,"Winter",119874
+5,-77.27931,43.96989,"ad",1930,"Sitta carolinensis carolinensis","Sitta_carolinensis",22,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Spring",119876
+12,-83.8333333,42.45,"adult",1926,"Sitta carolinensis carolinensis","Sitta_carolinensis",22,154,"male",7.3,797,10.4391164144841,52.2595494661934,"Winter",119879
+8,-83.95,42.45,"juvenile",1934,"Sitta carolinensis carolinensis","Sitta_carolinensis",22,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",119892
+10,-80.054082,43.24403,"imm",1970,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.1,NA,"male",7.6,860,10.6889173701294,31.820703263793,"Fall",119267
+1,-83.983612,42.458876,NA,1950,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.1,NA,"male",8.2,948,10.0729573461308,28.2840652462802,"Winter",119288
+4,-79.372722,43.73418,"ad",1978,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.1,NA,"male",6.6,720,10.7971657335982,52.5760524473283,"Spring",119654
+1,-83.8437939,42.5642705,NA,1981,"Sitta carolinensis","Sitta_carolinensis",22.1,NA,"female",8.2,839,10.0562358160436,61.9590273005782,"Winter",119684
+3,-84.0377778,42.1502778,NA,1928,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.1,153,"male",8.7,694,9.46082833198408,36.9150245245816,"Spring",119809
+9,-83.8333333,42.2833333,NA,1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.1,NA,"female",8.8,624,11.5787422774355,61.6530838110344,"Fall",119815
+4,-84.2366409,42.337103,NA,1935,"Sitta carolinensis","Sitta_carolinensis",22.2,NA,"male",8.5,706,10.1901430388153,43.4872210715174,"Spring",119320
+3,-83.7263412,42.2708397,NA,1935,"Sitta carolinensis","Sitta_carolinensis",22.2,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Spring",119712
+12,-72.5989,41.2794,"adult",2011,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.2,NA,"male",11.9,1556,9.4267028845046,50.2059552788643,"Winter",119840
+8,-84.8088684,42.1458435,"adult",1938,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.3,NA,"male",10.3,853,9.46299010980049,50.6925716248328,"Summer",119336
+12,-84.5416374,42.3730907,NA,1930,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.3,NA,"female",9.4,518,10.2317242837257,53.1301040961666,"Winter",119681
+1,-83.7263412,42.2708397,"immature",1934,"Sitta carolinensis","Sitta_carolinensis",22.4,NA,"male",9.6,480,11.7842055311336,58.1051749810578,"Winter",119322
+1,-95.4789232,39.3433323,NA,1999,"Sitta carolinensis","Sitta_carolinensis",22.4,NA,"female",13.3,917,9.39709819813832,88.5142859940391,"Winter",119394
+1,-83.7263412,42.2708397,NA,1934,"Sitta carolinensis","Sitta_carolinensis",22.4,NA,"female",9.6,480,11.7842055311336,58.1051749810578,"Winter",119708
+10,-76.5095,42.4381,NA,1999,"Sitta carolinensis","Sitta_carolinensis",22.5,NA,NA,9.9,749,9.67187425037937,55.2173885655597,"Fall",118950
+2,-95.2,39.0333333,NA,2003,"Sitta carolinensis","Sitta_carolinensis",22.5,NA,"male",12.9,777,10.266048043149,77.9915829389809,"Winter",119000
+12,-84.0440369,42.4574074,"immature",1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.5,NA,"female",8.4,638,11.4706608617839,63.0576626212412,"Winter",119331
+12,-90.743721,39.0683479,NA,1961,"Sitta carolinensis","Sitta_carolinensis",22.5,NA,"undetermined",11.8,1208,9.61849150271906,59.1733496372866,"Winter",119382
+10,-84.2366409,42.337103,NA,1935,"Sitta carolinensis","Sitta_carolinensis",22.5,NA,"male",8.5,706,10.1901430388153,43.4872210715174,"Fall",119714
+3,-83.6422,42.30201,NA,1937,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.5,NA,"male",9.1,851,10.0927967112464,58.0362612941202,"Spring",119719
+1,-95.1864548,38.805701,NA,1967,"Sitta carolinensis","Sitta_carolinensis",22.6,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",118991
+1,-95.1864548,38.805701,NA,1967,"Sitta carolinensis","Sitta_carolinensis",22.6,NA,"female",12,1201,8.87302688267122,83.9610299213543,"Winter",118992
+2,-87.878952,46.8653554,NA,1941,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.6,NA,"male",6.9,826,9.98584983712938,46.837922055835,"Winter",119675
+12,-84.1036463,42.3300601,NA,1988,"Sitta carolinensis","Sitta_carolinensis",22.6,NA,"male",8.9,779,10.9400397484182,60.7679029685867,"Winter",119687
+2,-86.0808372,41.8680505,NA,1940,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.6,NA,"male",8.5,936,10.7860881217287,47.6721860514869,"Winter",119724
+2,-75.3242,40.0256,"ad.sk.",1994,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.7,NA,"male",12.3,1258,9.94277566270043,51.9485590398292,"Winter",119096
+2,-79.71593,43.46917,NA,1968,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.7,149,"undetermined",7.5,915,10.4245776020814,43.2809465156348,"Winter",119254
+9,-80.03064,43.52096,"imm",1968,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.7,NA,"female",6.5,988,10.3694006430926,42.1681549984111,"Fall",119258
+5,-83.9114456,42.4281349,NA,1935,"Sitta carolinensis","Sitta_carolinensis",22.7,NA,"male",8.4,652,10.1940676450333,44.0763982295502,"Spring",119329
+1,-91.4903333,39.8898333,NA,2009,"Sitta carolinensis","Sitta_carolinensis",22.7,NA,"female",11.5,1357,9.64271981624196,53.6419549743127,"Winter",119780
+9,-76.45219,42.477118,NA,1988,"Sitta carolinensis","Sitta_carolinensis",22.7999992370605,13.8,"male",8.1,777,10.1430077423122,50.576632246793,"Fall",118946
+3,-95.3019171,39.9750312,NA,1967,"Sitta carolinensis","Sitta_carolinensis",22.8,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",118980
+1,-83.9836121,42.4591805,NA,1953,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.8,NA,"male",10.1,567,9.45568211407428,40.3671321387636,"Winter",119290
+3,-83.9836121,42.4591805,NA,1953,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.8,NA,"male",10.1,567,9.45568211407428,40.3671321387636,"Spring",119291
+10,-76.5095,42.4381,NA,1963,"Sitta carolinensis","Sitta_carolinensis",22.8999996185303,NA,"male",8.4,690,10.2947765513596,56.1492136918095,"Fall",118947
+12,-83.7762451,42.3103232,NA,1937,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.9,NA,"female",9,864,10.1321682444249,59.752694126141,"Winter",119335
+1,-83.95,42.45,NA,1950,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.9,NA,"female",8.2,942,10.0519069500933,27.8856330911228,"Winter",119805
+4,-72.1333,42,NA,1974,"Sitta carolinensis carolinensis","Sitta_carolinensis",22.9,NA,"male",7.8,1245,9.10119456028946,37.9673293593544,"Spring",119900
+2,-99.5697108,39.9495034,NA,1967,"Sitta carolinensis","Sitta_carolinensis",23,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",118985
+4,-70.2103,44.5867,"u ad.",1952,"Sitta carolinensis carolinensis","Sitta_carolinensis",23,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",119441
+10,-83.7263412,42.2708397,NA,1945,"Sitta carolinensis carolinensis","Sitta_carolinensis",23,NA,"male",9,912,10.0947781280494,62.2832900397484,"Fall",119676
+10,-75.95092,44.62722,"imm",1938,"Sitta carolinensis carolinensis","Sitta_carolinensis",23,NA,"male",7,763,10.6670265090818,41.2223438959489,"Fall",119877
+3,-95.3019171,39.9750312,NA,1967,"Sitta carolinensis","Sitta_carolinensis",23.1,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",118979
+2,-99.5697108,39.9495034,NA,1967,"Sitta carolinensis","Sitta_carolinensis",23.1,NA,"female",10.8,620,9.41807980815237,119.031092942624,"Winter",118984
+3,-95.3019171,39.9750312,NA,1967,"Sitta carolinensis","Sitta_carolinensis",23.1,NA,"female",11,936,9.343296900436,97.450497886119,"Spring",119390
+4,-95.3722795,38.6801126,NA,1989,"Sitta carolinensis","Sitta_carolinensis",23.1,NA,"female",12.1,852,10.3754810038189,74.9264004409599,"Spring",119391
+9,-83.8833333,42.45,NA,1977,"Sitta carolinensis carolinensis","Sitta_carolinensis",23.3,NA,"female",8.7,767,11.1418233369914,42.1953906762123,"Fall",119882
+11,-84.0692609,42.4769786,NA,1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",23.4,NA,"male",8.4,642,11.4437060907256,63.3115603063577,"Fall",119721
+12,-83.8333333,42.45,"adult",1926,"Sitta carolinensis carolinensis","Sitta_carolinensis",23.4,157,"female",7.3,797,10.4391164144841,52.2595494661934,"Winter",119811
+12,-84.5416374,42.3730907,NA,1930,"Sitta carolinensis carolinensis","Sitta_carolinensis",23.5,NA,"male",9.4,518,10.2317242837257,53.1301040961666,"Winter",119292
+4,-95.2426529,38.9598045,NA,1990,"Sitta carolinensis","Sitta_carolinensis",23.5,NA,"female",13.7,964,9.28962846241425,68.1405858505853,"Spring",119392
+10,-84.154044,42.3428456,"immature",1934,"Sitta carolinensis","Sitta_carolinensis",23.5,NA,"male",9.1,500,11.5592118584218,46.0804598266975,"Fall",119711
+3,-83.7263412,42.2708397,NA,1935,"Sitta carolinensis","Sitta_carolinensis",23.5,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Spring",119713
+2,-83.9166667,42.6166667,"adult",1928,"Sitta carolinensis carolinensis","Sitta_carolinensis",23.5,158,"female",8,695,9.40304189981609,39.0304602205493,"Winter",119812
+2,-83.6833333,42.2833333,"adult",1939,"Sitta carolinensis carolinensis","Sitta_carolinensis",23.5,NA,"female",10.1,668,10.247660486889,65.1152082954545,"Winter",119834
+4,-83.6333333,42.2666667,NA,1993,"Sitta carolinensis","Sitta_carolinensis",23.6,NA,"male",9,822,10.021885142935,47.7185736780293,"Spring",119890
+1,-76.46632,42.44127,NA,1953,"Sitta carolinensis","Sitta_carolinensis",23.7999992370605,NA,"male",9.7,772,8.50965583465292,31.7337565581881,"Winter",119351
+10,-72.9225,41.3175,"immature",2012,"Sitta carolinensis carolinensis","Sitta_carolinensis",23.9,NA,NA,12.8,1254,8.29561311596057,51.3846518147871,"Fall",119838
+12,-83.7322998,42.4487948,NA,1932,"Sitta carolinensis","Sitta_carolinensis",24,NA,"female",9.2,872,9.71975495388831,49.4798525614705,"Winter",119319
+4,-83.815239,42.3256378,NA,1935,"Sitta carolinensis","Sitta_carolinensis",24.1,NA,"male",8.6,651,10.2368762991274,43.7560852137542,"Spring",119321
+11,-83.9836121,42.4591805,"immature",1948,"Sitta carolinensis carolinensis","Sitta_carolinensis",24.2,NA,"male",8.9,707,10.5272661851657,40.4481204862788,"Fall",119287
+1,-83.7833333,42.5333333,NA,1986,"Sitta carolinensis","Sitta_carolinensis",24.2,NA,"male",8.7,851,10.1192286207392,60.9436797477467,"Winter",119827
+5,-83.9114456,42.4281349,NA,1935,"Sitta carolinensis","Sitta_carolinensis",24.3,NA,"female",8.4,652,10.1940676450333,44.0763982295502,"Spring",119717
+4,-75.93037,40.18575,"ad.sk.",1994,"Sitta carolinensis carolinensis","Sitta_carolinensis",24.5,NA,"female",10.6,1259,10.1160089147666,44.6625962187868,"Spring",119095
+2,-83.666608,42.1637863,NA,1934,"Sitta carolinensis carolinensis","Sitta_carolinensis",24.5,NA,"male",9.5,499,11.704424830211,57.6922738507733,"Winter",119709
+3,-95.3019171,39.9750312,NA,1967,"Sitta carolinensis","Sitta_carolinensis",24.6,NA,"male",11,936,9.343296900436,97.450497886119,"Spring",118982
+12,-83.8333333,42.45,"adult",1926,"Sitta carolinensis carolinensis","Sitta_carolinensis",24.6,156,"male",7.3,797,10.4391164144841,52.2595494661934,"Winter",119810
+12,-84.0440369,42.4574074,NA,1936,"Sitta carolinensis carolinensis","Sitta_carolinensis",24.8,NA,"female",8.4,638,11.4706608617839,63.0576626212412,"Winter",119720
+10,-83.6342812,42.3037217,NA,2010,"Sitta carolinensis cookei","Sitta_carolinensis",25,NA,"male",10.6,880,10.9068056318479,67.3845953944136,"Fall",119701
+2,-99.5697108,39.9495034,NA,1967,"Sitta carolinensis","Sitta_carolinensis",25.4,NA,"male",10.8,620,9.41807980815237,119.031092942624,"Winter",119386
+4,-83.725,42.2869,NA,2013,"Sitta carolinensis cookei","Sitta_carolinensis",28,NA,"male",9.8,955,10.3323264416573,55.3643840255421,"Spring",119891
+12,-122.26167,38.45083,"U-Ad.",1974,"Sitta carolinensis","Sitta_carolinensis",29.1,NA,"male",13.3,785,5.46029053506063,122.155435326222,"Winter",119845
+3,-92.20634,36.052609,"ad.",1990,"Sitta carolinensis","Sitta_carolinensis",30,131,"female",15.3,1579,7.8244178794026,48.6539841250142,"Spring",119352
