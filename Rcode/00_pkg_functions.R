@@ -1,7 +1,6 @@
 # Packages ----
 
 if(!require(xfun)) install.packages("xfun")
-if(!require(rr2)) devtools::install_github("arives/rr2")
 xfun::pkg_attach2(c("vegan", "tidyverse", "lme4", "rr2", "olsrr"))
 
 # Functions ----
