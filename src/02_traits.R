@@ -1,14 +1,3 @@
-# clean body mass data ----
-
-if(!length(list.files("data_output/cleaned_bodymass_data/"))){
-  generate_cleaned_CSV_files(DataDir = "data_raw/bodymass_data/",
-                             species_path = "data_raw/species_table.csv", 
-                             output_dir = "data_output/cleaned_bodymass_data/", 
-                             FromRecord = 1, ToRecord = 198)
-}
-
-species = read_csv("data_raw/ReducedListSpecies.csv") # 175 sp
-
 # Elton traits ----
 if(file.exists("data_output/Elton_axes_bird.csv") &
    file.exists("data_output/Elton_axes_mammal.csv")){
@@ -18,9 +7,9 @@ if(file.exists("data_output/Elton_axes_bird.csv") &
   # modified from Ben Baiser's code; thus omit data explore 
   bird_traits = read_csv("data_raw/BirdFuncDat.csv") # bird traits from Elton Database
   mammal_traits = read_csv("data_raw/MamFuncDat.csv") # mammal traits from Elton Database
-  
+  species = read_csv("data_raw/metamodeling_data.csv")$SpName %>% str_replace("_", " ")
   # see if any species are not in Elton Data base
-  not.in.all = setdiff(species$Species, c(bird_traits$Scientific, mammal_traits$Scientific))
+  not.in.all = setdiff(species, c(bird_traits$Scientific, mammal_traits$Scientific))
   # 11 species not in either Elton database
   
   #synonyms use in Elton for the 11 taxa in question
@@ -45,12 +34,12 @@ if(file.exists("data_output/Elton_axes_bird.csv") &
   
   # Trophic traits
   # extract trophic traits for the species in the bergmann's study
-  bird_reduced = filter(bird_traits, Scientific2 %in% species$Species) %>% 
+  bird_reduced = filter(bird_traits, Scientific2 %in% species) %>% 
     select(Scientific2, `Diet-Inv`:`Diet-PlantO`) %>% 
     as.data.frame() %>% 
     column_to_rownames(var = "Scientific2")
   
-  mammal_reduced = filter(mammal_traits, Scientific2%in% species$Species) %>% 
+  mammal_reduced = filter(mammal_traits, Scientific2%in% species) %>% 
     select(Scientific2, `Diet-Inv`:`Diet-PlantO`) %>% 
     as.data.frame() %>% 
     column_to_rownames(var = "Scientific2")
@@ -123,7 +112,7 @@ if(file.exists("data_output/Elton_axes_bird.csv") &
   
   # Habitat traits
   # extract trophic traits for bird species in bergmann's list
-  bird_reduced <- filter(bird_traits, Scientific2 %in% species$Species) %>% 
+  bird_reduced <- filter(bird_traits, Scientific2 %in% species) %>% 
     select(Scientific2, `ForStrat-watbelowsurf`:`PelagicSpecialist`) %>% 
     as.data.frame() %>% 
     column_to_rownames(var = "Scientific2")
@@ -134,7 +123,7 @@ if(file.exists("data_output/Elton_axes_bird.csv") &
     as.tibble()
   
   #extract trophic traits for mammal species in bergmann's list
-  mammal_reduced = filter(mammal_habitat, Scientific2%in% species$Species) %>% 
+  mammal_reduced = filter(mammal_habitat, Scientific2%in% species) %>% 
     select(Scientific2, ForStrat_A, ForStrat_Ar, ForStrat_G, ForStrat_S) %>% 
     as.data.frame() %>% 
     column_to_rownames(var = "Scientific2")
@@ -186,29 +175,4 @@ if(file.exists("data_output/Elton_axes_bird.csv") &
     rownames_to_column("Species") %>% 
     as.tibble()
   write_csv(elton_axes_mammal, "data_output/Elton_axes_mammal.csv")
-}
-
-# combine all data ----
-if(!file.exists('data_output/bergmann.rds')){
-  sps = list.files('data_output/cleaned_bodymass_data/', pattern = 'csv$', full.names = F)
-  sps = data_frame(files = as.character(1:length(sps)), fnames = sps)
-  files = list.files('data_output/cleaned_bodymass_data', pattern = 'csv$', full.names = T)
-  d = map_dfr(files, read_csv, .id = 'files') %>% 
-    left_join(sps, by = 'files') %>% 
-    rename(long = decimallongitude, lat = decimallatitude, sp = sciname_cor,
-           length_mm = lengthinmm, mass_g = massing) %>% 
-    select(-files, -Ids, -scientificname)
-  # reduce to 175 sp
-  sp2 = read_csv('data_raw/ReducedListSpecies.csv') %>% 
-    mutate(Species = gsub(' ', '_', Species)) %>% 
-    pull(Species)
-  d = filter(d, sp %in% sp2) %>%
-    rename(season = seasonality) %>% 
-    mutate(mass_g_log10 = log10(mass_g),
-           yr_80 = ifelse(year < 1980, 'pre_1980', 'post_1980'),
-           yr_80 = factor(yr_80, levels = c('pre_1980', 'post_1980')),
-           season = factor(season, levels = c('Spring', 'Summer', 'Fall', 'Winter')))
-  saveRDS(d, file = 'data_output/bergmann.rds')
-} else {
-  d = readRDS('data_output/bergmann.rds')
 }
