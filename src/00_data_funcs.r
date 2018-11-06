@@ -314,7 +314,7 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
         Tbl3 = read.csv(InpFileName, header=TRUE, stringsAsFactors=FALSE, fileEncoding="UTF-8" )
 
         # Initialize the output results row.
-        CurRow = c(SpName)
+        CurRow = SpName
 
         # Do each model fit and get the fit statistics. 
         for (mod_name in names(model_specs)) {
@@ -374,3 +374,75 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
     return(ResMat)
 }
 
+
+# added by D Li ----
+
+if(!require(xfun)) install.packages("xfun")
+xfun::pkg_attach2(c("tidyverse", "rr2", "cowplot"))
+
+#' Linear regression after z-sclae predictors
+#' @param x species name
+#' @param mod_type which model to use?
+#' @param data_path where are the data?
+#' @param mass_transf how to transfer mass?
+#' @param verbose do you want to see which sp is running?
+#' @return a data frame with the final model, coefs, and partial R2s. etc.
+lm_1_sp = function(x = "Accipiter_cooperii", 
+                   mod_type = 'm8', 
+                   data_path = "data_output/cleaned_bodymass_data/",
+                   mass_transf = c('log10', 'scale_', 'scale_log10'),
+                   verbose = FALSE)
+{
+  if(verbose) cat(x, "\n")
+  
+  mass_transf = match.arg(mass_transf)
+  df = read.csv(paste0(data_path, x, '.csv'), stringsAsFactors = F) %>% as.tibble()
+  # rename ...
+  df = rename(df, season = seasonality, mass_in_g = massing)
+  df = mutate(df, season = factor(season, levels = c('Spring', 'Summer', 'Fall', 'Winter')))
+  # scale predictors to have mean 0 and sd 1
+  df[, c("bio1", "bio12", "bio4", "bio15")] = scale(df[, c("bio1", "bio12", "bio4", "bio15")]) 
+  if(mass_transf == 'log10') df$Y = log10(df$mass_in_g)
+  if(mass_transf == 'scale_') df$Y = scale(df$mass_in_g, center = FALSE)
+  if(mass_transf == 'scale_log10') df$Y = scale(log10(df$mass_in_g), center = FALSE)
+  # log_10 body mass
+  
+  if(mod_type == 'm8') fm = 'Y ~ bio1 + bio12 + bio4 + bio15 + season'
+  if(mod_type == 'm10') fm = 'Y ~ bio1 + bio12 + bio15 + season'
+  
+  # fit the model
+  mod = lm(as.formula(fm), data = df)
+  mod_coef = broom::tidy(mod)
+  mod_r2 = broom::glance(mod)
+  
+  # output data frame
+  out = tibble(
+    n_row = nrow(df),
+    final_mod = list(mod), 
+    coef = list(mod_coef),
+    partial_r2_bio1 = NA,
+    partial_r2_bio4 = NA,
+    partial_r2_bio12 = NA,
+    partial_r2_bio15 = NA
+  ) %>% 
+    bind_cols(mod_r2)
+ 
+  # partial R2 of predictors
+  bio_vars = grep("^bio", x = all.vars(formula(mod)), value = T)
+  for(i in bio_vars){
+    new_fm = paste0(". ~ . - ", i)
+    mod.r = update(mod, new_fm)
+    out[, paste0("partial_r2_", i)] = rr2::partialR2adj(mod = mod, mod.r = mod.r)$R2.adj
+  }
+  
+  # extract coef and p-values
+  mod_coef2 = filter(mod_coef, term %in% paste0("bio", c(1, 4, 12, 15))) %>% 
+    select(-std.error, -statistic) %>% 
+    gather('var', 'value', estimate, p.value) %>% 
+    unite('coefs', term, var) %>% 
+    spread('coefs', 'value')
+  
+  out = bind_cols(out, mod_coef2)
+  
+  out
+}

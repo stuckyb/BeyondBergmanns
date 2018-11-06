@@ -1,7 +1,3 @@
-
-source('src/data_funcs.r')
-
-
 # This file lists the species that we want to analyze. Contains 197 species.
 sp_table_path = 'data_raw/species_table.csv'
 
@@ -31,5 +27,4 @@ sp_table = read.csv(sp_table_path, header = TRUE, stringsAsFactors = FALSE)
 if(!length(list.files(clean_data_dir))) 
   generateCleanedCSVFiles(data_dir, sp_table, clean_data_dir)
 
-results = Model_All(clean_data_dir, sp_table, model_dir, model_specs, res_models)
-
+# results = Model_All(DataDir = clean_data_dir, sp_table, model_dir, model_specs, res_models)
