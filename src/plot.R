@@ -47,3 +47,14 @@ mod_coefs %>%
   coord_flip() +
   scale_fill_manual(values = c('orange', 'blue'))
 ggsave('figures/fig2_strongest_est.pdf', width = 6, height = 6)
+
+
+# Fig partial R2
+ggplot(par_r2, aes(x = var, y = partial_r2)) +
+  ggparl::geom_boxjitter(outlier.color = NA, width = 0.5,
+                         jitter.alpha = 0.6, jitter.shape = 21,
+                         errorbar.draw = T, errorbar.length = 0.2,
+                         fill = 'skyblue') +
+  labs(y = expression(paste("Partial adjusted ", R^{2})), 
+       x = 'Climatic predictors')
+ggsave('figures/fig3_partial_r2.pdf', width = 6, height = 5)

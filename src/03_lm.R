@@ -18,6 +18,17 @@ lm_by_sp2 = select(lm_by_sp, sp, n_row, starts_with('partial'), r.squared,
 sp_order = arrange(lm_by_sp2, adj.r.squared)$sp
 hist(lm_by_sp2$adj.r.squared)
 
+par_r2 = select(lm_by_sp2, sp, starts_with("partial")) %>% 
+  gather('var', 'partial_r2', -sp) %>% 
+  mutate(var = recode(var, 
+                      'partial_r2_bio1' = 'Temp', 'partial_r2_bio4' = 'Temp S.',
+                      'partial_r2_bio12' = 'Precip', 'partial_r2_bio15' = 'Precip S.'))
+var_order = group_by(par_r2, var) %>% summarise(median_r2 = median(partial_r2, na.rm = T)) %>% 
+  arrange(desc(median_r2)) %>% 
+  pull(var)
+par_r2 = mutate(par_r2, var = factor(var, levels = var_order))
+  
+
 # reshape lm coefs
 mod_coefs = gather(lm_by_sp2, 'var', 'value', starts_with('bio')) %>% 
   separate('var', c('bio_variable', 'var'), sep = "_") %>% 
