@@ -1,4 +1,5 @@
-
+.Rhistory
+.Rproj.user/
 # VIM swap files.
 *.swp
 
