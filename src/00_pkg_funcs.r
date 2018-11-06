@@ -378,7 +378,7 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
 # added by D Li ----
 
 if(!require(xfun)) install.packages("xfun")
-xfun::pkg_attach2(c("tidyverse", "rr2", "cowplot"))
+xfun::pkg_attach2(c("tidyverse", "rr2", "cowplot", "broom"))
 
 #' Linear regression after z-sclae predictors
 #' @param x species name

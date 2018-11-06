@@ -18,6 +18,7 @@ lm_by_sp2 = select(lm_by_sp, sp, n_row, starts_with('partial'), r.squared,
 sp_order = arrange(lm_by_sp2, adj.r.squared)$sp
 hist(lm_by_sp2$adj.r.squared)
 
+# reshape lm coefs
 mod_coefs = gather(lm_by_sp2, 'var', 'value', starts_with('bio')) %>% 
   separate('var', c('bio_variable', 'var'), sep = "_") %>% 
   select(sp, n_row, adj.r.squared, bio_variable, var, value) %>% 
