@@ -30,5 +30,6 @@ if (!dir.exists(model_dir)) { dir.create(model_dir) }
 sp_table = read.csv(sp_table_path, header = TRUE, stringsAsFactors = FALSE)
 if(!length(list.files(clean_data_dir))) 
   generateCleanedCSVFiles(data_dir, sp_table, clean_data_dir)
+
 results = Model_All(clean_data_dir, sp_table, model_dir, model_specs, res_models)
 
