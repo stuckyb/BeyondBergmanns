@@ -3,3 +3,4 @@
 # VIM swap files.
 *.swp
 
+data_output/models
