@@ -33,19 +33,26 @@ p = plot_grid(p_a, p_b, align = 'h', rel_widths = c(5, 1))
 ggsave(here('figures/fig1_lms.pdf'), p, width = 8, height = 10)
 
 # Fig 2 ----
+plot_order = mod_coefs %>% 
+  group_by(sp) %>% 
+  slice(which.max(abs(estimate))) %>% 
+  pull(bio_variable) %>% 
+  table() %>% sort(decreasing = T) %>% names()
+
 mod_coefs %>% 
   group_by(sp) %>% 
   slice(which.max(abs(estimate))) %>% 
   group_by(bio_variable) %>% 
-  summarise(sig_pos = sum(estimate > 0 & p.value < 0.05, na.rm = T),
-            sig_neg = sum(estimate < 0 & p.value < 0.05, na.rm = T)) %>% 
-  gather("sig", "count", sig_pos, sig_neg) %>% 
-  mutate(bio_variable = factor(bio_variable, levels = c('Temp', 'Precip S.', 'Precip', 'Temp S.'))) %>% 
-  ggplot(aes(x = bio_variable, y = count, fill = sig)) +
-  geom_bar(stat = 'identity', width = 0.5) +
-  labs(x = '', y = '') +
+  summarise(Positive = sum(estimate > 0, na.rm = T),
+            Negative = sum(estimate < 0, na.rm = T)) %>% 
+  gather("Direction", "count", Positive, Negative) %>% 
+  mutate(bio_variable = factor(bio_variable, levels = plot_order)) %>% 
+  ggplot(aes(x = bio_variable, y = count, fill = Direction)) +
+  geom_bar(stat = 'identity', width = 0.4) +
+  labs(y = 'Number of species', x = 'Variable that has the strongest effect') +
   coord_flip() +
-  scale_fill_manual(values = c('orange', 'blue'))
+  scale_fill_manual(values = c('orange', 'blue')) +
+  theme(legend.position = c(0.7, 0.8))
 ggsave(here('figures/fig2_strongest_est.pdf'), width = 6, height = 6)
 
 
@@ -54,7 +61,22 @@ ggplot(par_r2, aes(x = var, y = partial_r2)) +
   ggparl::geom_boxjitter(outlier.color = NA, width = 0.5,
                          jitter.alpha = 0.6, jitter.shape = 21,
                          errorbar.draw = T, errorbar.length = 0.2,
-                         fill = 'skyblue') +
+                         fill = 'skyblue'
+                         ) +
   labs(y = expression(paste("Partial adjusted ", R^{2})), 
-       x = 'Climatic predictors')
+       x = 'Climatic predictors') +
+  theme(legend.position = 'none')
 ggsave(heer('figures/fig3_partial_r2.pdf'), width = 6, height = 5)
+
+# how many species have the highest partial R2 of Temp? 60
+group_by(par_r2, sp) %>% 
+  slice(which.max(partial_r2)) %>% 
+  pull(var) %>% 
+  table() %>% 
+  sort()
+
+ggplot(par_r2, aes(y = partial_r2, x = sp)) +
+  geom_line(aes(group = var, color = var)) +
+  # geom_point(aes( color = var)) +
+  theme(axis.text.x = element_blank()) +
+  scale_y_log10()
