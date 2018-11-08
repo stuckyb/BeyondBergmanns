@@ -2,5 +2,6 @@
 .Rproj.user/
 # VIM swap files.
 *.swp
-
+*history
+*/*history
 data_output/models

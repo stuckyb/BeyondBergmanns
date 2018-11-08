@@ -30,7 +30,7 @@ p_b = ggplot(mod_coefs, aes(y = sp, x = adj.r.squared)) +
         axis.text.x = element_text(size = 9),
         axis.title.x = element_text(size = 10))
 p = plot_grid(p_a, p_b, align = 'h', rel_widths = c(5, 1))
-ggsave('figures/fig1_lms.pdf', p, width = 8, height = 10)
+ggsave(here('figures/fig1_lms.pdf'), p, width = 8, height = 10)
 
 # Fig 2 ----
 mod_coefs %>% 
@@ -46,7 +46,7 @@ mod_coefs %>%
   labs(x = '', y = '') +
   coord_flip() +
   scale_fill_manual(values = c('orange', 'blue'))
-ggsave('figures/fig2_strongest_est.pdf', width = 6, height = 6)
+ggsave(here('figures/fig2_strongest_est.pdf'), width = 6, height = 6)
 
 
 # Fig partial R2
@@ -57,4 +57,4 @@ ggplot(par_r2, aes(x = var, y = partial_r2)) +
                          fill = 'skyblue') +
   labs(y = expression(paste("Partial adjusted ", R^{2})), 
        x = 'Climatic predictors')
-ggsave('figures/fig3_partial_r2.pdf', width = 6, height = 5)
+ggsave(heer('figures/fig3_partial_r2.pdf'), width = 6, height = 5)

@@ -1,11 +1,11 @@
 # This file lists the species that we want to analyze. Contains 197 species.
-sp_table_path = 'data_raw/species_table.csv'
+sp_table_path = here('data_raw/species_table.csv')
 
 # The directory with raw individual species data files.
-data_dir = 'data_raw/bodymass_data/'
+data_dir = here('data_raw/bodymass_data/')
 
 # Root directory for the modeling and diagnostics output.
-output_dir = 'data_output/'
+output_dir = here('data_output/')
 
 # Define the models that we want to fit.
 model_specs = list(
@@ -17,8 +17,8 @@ model_specs = list(
 res_models = list("m8", "m10")
 
 # Make sure the output directories are ready.
-clean_data_dir = paste0(output_dir, 'cleaned_bodymass_data/')
-model_dir = paste0(output_dir, 'models/')
+clean_data_dir = here('data_output/cleaned_bodymass_data/')
+model_dir = here('data_output/models/')
 if (!dir.exists(output_dir)) { dir.create(output_dir) }
 if (!dir.exists(clean_data_dir)) { dir.create(clean_data_dir) }
 if (!dir.exists(model_dir)) { dir.create(model_dir) }

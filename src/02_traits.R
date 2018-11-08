@@ -1,13 +1,13 @@
 # Elton traits ----
-if(file.exists("data_output/Elton_axes_bird.csv") &
-   file.exists("data_output/Elton_axes_mammal.csv")){
-  elton_axes_bird = read_csv("data_output/Elton_axes_bird.csv")
-  elton_axes_mammal = read_csv("data_output/Elton_axes_mammal.csv")
+if(file.exists(here("data_output/Elton_axes_bird.csv")) &
+   file.exists(here("data_output/Elton_axes_mammal.csv"))){
+  elton_axes_bird = read_csv(here("data_output/Elton_axes_bird.csv"))
+  elton_axes_mammal = read_csv(here("data_output/Elton_axes_mammal.csv"))
 } else {
   # modified from Ben Baiser's code; thus omit data explore 
-  bird_traits = read_csv("data_raw/BirdFuncDat.csv") # bird traits from Elton Database
-  mammal_traits = read_csv("data_raw/MamFuncDat.csv") # mammal traits from Elton Database
-  species = read_csv("data_raw/metamodeling_data.csv")$SpName %>% str_replace("_", " ")
+  bird_traits = read_csv(here("data_raw/BirdFuncDat.csv")) # bird traits from Elton Database
+  mammal_traits = read_csv(here("data_raw/MamFuncDat.csv")) # mammal traits from Elton Database
+  species = read_csv(here("data_raw/metamodeling_data.csv"))$SpName %>% str_replace("_", " ")
   # see if any species are not in Elton Data base
   not.in.all = setdiff(species, c(bird_traits$Scientific, mammal_traits$Scientific))
   # 11 species not in either Elton database
@@ -167,12 +167,12 @@ if(file.exists("data_output/Elton_axes_bird.csv") &
     setNames(c("habitat_axis1", "habitat_axis2","trophic_axis1", "trophic_axis2")) %>% 
     rownames_to_column("Species") %>% 
     as.tibble()
-  write_csv(elton_axes_bird, "data_output/Elton_axes_bird.csv")
+  write_csv(elton_axes_bird, here("data_output/Elton_axes_bird.csv"))
   
   elton_axes_mammal <- cbind(mammal_habitat_1, mammal_habitat_2, mammal_trophic_1, mammal_trophic_2) %>% 
     as.data.frame() %>% 
     setNames(c("habitat_axis1", "habitat_axis2","trophic_axis1", "trophic_axis2")) %>% 
     rownames_to_column("Species") %>% 
     as.tibble()
-  write_csv(elton_axes_mammal, "data_output/Elton_axes_mammal.csv")
+  write_csv(elton_axes_mammal, here("data_output/Elton_axes_mammal.csv"))
 }

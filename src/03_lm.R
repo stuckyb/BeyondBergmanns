@@ -1,12 +1,12 @@
 # source('src/00_data_funcs.r')
 # source('src/01_generate_diagnostics.r')
 
-model_decisions = read_csv('data_raw/metamodeling_data.csv')
+model_decisions = read_csv(here('data_raw/metamodeling_data.csv'))
 names(model_decisions)
 model_decisions2 = select(model_decisions, sp = SpName, model = modelName, starts_with('include'))
 lm_by_sp = mutate(model_decisions2,
                        lm_mod = map2(.x = sp, .y = model, .f = lm_1_sp,
-                                     data_path = "data_output/cleaned_bodymass_data/",
+                                     data_path = here("data_output/cleaned_bodymass_data/"),
                                      mass_transf = "log10", 
                                      # scale_ or scale_log10 are the other options
                                      verbose = T)) %>% 

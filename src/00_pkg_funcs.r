@@ -379,7 +379,7 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
 
 if(!require(xfun)) install.packages("xfun")
 if(!require(ggparl)) devtools::install_github('erocoar/ggparl')
-xfun::pkg_attach2(c("tidyverse", "rr2", "cowplot", "broom"))
+xfun::pkg_attach2(c("tidyverse", "rr2", "cowplot", "broom", "here"))
 
 #' Linear regression after z-sclae predictors
 #' @param x species name
