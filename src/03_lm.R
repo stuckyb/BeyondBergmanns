@@ -2,7 +2,8 @@
 # source('src/01_generate_diagnostics.r')
 
 # separate LMs by sp ----
-if(!file.exists(here('data_output/model_results.csv'))){
+re_run = FALSE # do you want to re-run all LMs?
+if(re_run | (!file.exists(here('data_output/model_results.csv')))){
   model_decisions = read_csv(here('data_raw/metamodeling_data.csv'))
   names(model_decisions)
   model_decisions2 = select(model_decisions, sp = SpName, model = modelName, starts_with('include'))
