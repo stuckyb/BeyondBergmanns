@@ -21,7 +21,7 @@ if(re_run | (!file.exists(here('data_output/model_results.csv')))){
   # combine data
   elton_traits = bind_rows(
     mutate(elton_axes_bird, taxa = 'birds'),
-    mutate(elton_axes_mammal, taxa = 'mamals')
+    mutate(elton_axes_mammal, taxa = 'mammals')
   ) %>% 
     rename(sp = Species) %>% 
     mutate(sp = str_replace(sp, " ", "_")) 
@@ -47,7 +47,7 @@ var_order = group_by(par_r2, var) %>% summarise(median_r2 = median(partial_r2, n
 par_r2 = mutate(par_r2, var = factor(var, levels = var_order))
 
 spread(par_r2, var, partial_r2) %>% 
-  mutate(ratio = Temp/`Precip`) %>% 
+  mutate(ratio = partial_r2_bio1_bio4/partial_r2_bio12_bio15) %>% 
   pull(ratio) %>% hist()
 
 

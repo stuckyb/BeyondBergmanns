@@ -424,7 +424,9 @@ lm_1_sp = function(x = "Accipiter_cooperii",
     partial_r2_bio1 = NA,
     partial_r2_bio4 = NA,
     partial_r2_bio12 = NA,
-    partial_r2_bio15 = NA
+    partial_r2_bio15 = NA,
+    partial_r2_bio1_bio4 = NA,
+    partial_r2_bio12_bio15 = NA
   ) %>% 
     bind_cols(mod_r2)
   
@@ -434,6 +436,14 @@ lm_1_sp = function(x = "Accipiter_cooperii",
     new_fm = paste0(". ~ . - ", i)
     mod.r = update(mod, new_fm)
     out[, paste0("partial_r2_", i)] = rr2::partialR2adj(mod = mod, mod.r = mod.r)$R2.adj
+  }
+  if(all(c('bio1', 'bio4') %in% bio_vars)){
+    mod.r = update(mod, ". ~ . - bio1 - bio4")
+    out[, "partial_r2_bio1_bio4"] = rr2::partialR2adj(mod = mod, mod.r = mod.r)$R2.adj
+  }
+  if(all(c('bio12', 'bio15') %in% bio_vars)){
+    mod.r = update(mod, ". ~ . - bio12 - bio15")
+    out[, "partial_r2_bio12_bio15"] = rr2::partialR2adj(mod = mod, mod.r = mod.r)$R2.adj
   }
   
   # extract coef and p-values
