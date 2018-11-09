@@ -34,7 +34,7 @@ if(re_run | (!file.exists(here('data_output/model_results.csv')))){
   model_results = read_csv(here('data_output/model_results.csv'))
 }
 
-hist(model_results$adj.r.squared)
+# hist(model_results$adj.r.squared)
 
 par_r2 = select(model_results, sp, starts_with("partial")) %>% 
   gather('var', 'partial_r2', -sp) %>% 
@@ -48,7 +48,7 @@ par_r2 = mutate(par_r2, var = factor(var, levels = var_order))
 
 spread(par_r2, var, partial_r2) %>% 
   mutate(ratio = partial_r2_bio1_bio4/partial_r2_bio12_bio15) %>% 
-  pull(ratio) %>% hist()
+  pull(ratio) 
 
 
 # reshape lm coefs
