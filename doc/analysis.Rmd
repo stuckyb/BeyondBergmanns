@@ -22,31 +22,13 @@ source("src/00_pkg_funcs.r", verbose = F, echo = F)
 source("src/01_generate_data_diagnostics.r")
 source("src/02_traits.R")
 source("src/03_lm.R")
-```
-
-Now, we can move on to look at the model results. We decided to do two sets of analyses:
-
-1. Look at partial R^2^s of temperature related predictors (`Temp` and `Temp Seasonality`) and precipitation related predictors (`Precip` and `Precip Seasonality`) and see what kind of "traits" predict whether temperature or precipitation explains more variation in body mass.
-2. Look at estimates of coefficients of LMs and use the similar set of traits as predictors.
-
-# Part 1: partial R^2^
-
-```{r}
 model_results = mutate(model_results, 
                        partial_r2_bio1_bio4 = ifelse(is.na(partial_r2_bio1_bio4), 
                                                      partial_r2_bio1, 
                                                      partial_r2_bio1_bio4),
                        ratio_temp_precip_r2 = partial_r2_bio1_bio4/partial_r2_bio12_bio15,
-                       diff_temp_precip_r2 = partial_r2_bio1_bio4 - partial_r2_bio12_bio15)
-hist(model_results$ratio_temp_precip_r2)
-hist(model_results$diff_temp_precip_r2)
-```
-
-So, I will just take the differences between their partial R^2^s because it is easier for us to interpret.
-
-Let's standardize predictors first. Also, note that the Elton traits of birds and mammals are generated from different datasets and thus are not directly comparable. To use these Elton traits, we need to look at birds and mammals separately.
-
-```{r}
+                       diff_temp_precip_r2 = partial_r2_bio1_bio4 - partial_r2_bio12_bio15,
+                       diff_bio1_bio12_r2 = partial_r2_bio1 - partial_r2_bio12)
 model_results = mutate(model_results, mass_mean = log10(mass_mean))
 
 predictors_common = c("mass_mean", 
@@ -69,29 +51,70 @@ model_results_mammals[, c(predictors_common, predictors_taxa)] =
 model_results[, predictors_common] = scale(model_results[, predictors_common])
 ```
 
-## All species together
+Now, we can move on to look at the model results. We decided to do two sets of analyses:
 
-Let's look at all species together, but use all predictors except Elton traits.
+1. Look at partial R^2^s of temperature related predictors (`Temp` and `Temp Seasonality`) and precipitation related predictors (`Precip` and `Precip Seasonality`) and see what kind of "traits" predict whether temperature or precipitation explains more variation in body mass.
+2. Look at estimates of coefficients of LMs and use the similar set of traits as predictors.
 
-```{r}
-mod_1 = lm(diff_temp_precip_r2 ~ mass_mean + bio1_mean + bio1_breadth + 
-             bio4_mean + bio4_breadth +
-             bio15_mean + bio15_breadth +
-             bio12_mean + bio12_breadth, 
-           data = model_results)
-summary(mod_1)
-summary(step(mod_1, trace = 0))
+# Some important decisions
+
+1. Which variables' parital R^2^s to use? Or just compare partial R^2^ for `bio1` and `bio12`? Or Lump `bio1` and `bio4` as temperature-relevant variables and lump `bio12` and `bio15` as precip-relevant variables and then measure their paritial R^2^s? 
+2. Which predictors to use? For example, when use the coef estimates of `bio1`, should we use all predictors or should we only use Elton traits axes and temperature-related niche? 
+
+Here, I use the later option for both points above for simplicity reason.
+
+# First plotting the data
+
+First thing first.
+
+```{r fig.width=13, fig.height=12, out.width='100%'}
+pairs(model_results_birds[, c(predictors_common, predictors_taxa)], 
+      diag.panel = panel.hist, lower.panel = panel.cor)
+pairs(model_results_mammals[, c(predictors_common, predictors_taxa)], 
+      diag.panel = panel.hist, lower.panel = panel.cor)
 ```
 
-Humm, not much interesting things here. Also, note the very low R^2^!
+So, niche `bio1_mean` correlated with `bio4_mean` negatively; niche `bio1_breath` correlated with `bio4_breath` positively. 
+
+```{r fig.width=12, fig.height=6, out.width='100%'}
+d = gather(model_results, "var", "value", mass_mean:bio15_breadth, habitat_axis1:trophic_axis2) %>% 
+  filter(!var %in% c("bio4_mean", "bio4_breath"))
+ggplot(d, aes(x = value, y = diff_temp_precip_r2)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  facet_grid(taxa ~ var, scales = 'free') +
+  labs(x = "Trait values", y = "Partial R2 of temp - partial R2 of precip")
+
+ggplot(d, aes(x = value, y = bio1_estimate)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  facet_grid(taxa ~ var, scales = 'free') +
+  labs(x = "Trait values", y = "Model coef estimates of bio1")
+
+ggplot(d, aes(x = value, y = bio12_estimate)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  facet_grid(taxa ~ var, scales = 'free') +
+  labs(x = "Trait values", y = "Model coef estimates of bio12")
+```
+
+Note the large variations in partial R2, coef estimates of bio1 and bio12. This probably explain why the following models all have low R^2^s.
+
+# Part 1: partial R^2^
+
+I will just take the differences between their partial R^2^s because it is easier for us to interpret.
+
+I standardized predictors first. Also, note that the Elton traits of birds and mammals are generated from different datasets and thus are not directly comparable. To use these Elton traits, we need to look at birds and mammals separately.
+
 
 ## Birds
 
 ```{r}
-mod_2 = lm(diff_temp_precip_r2 ~ mass_mean + bio1_mean + bio1_breadth + 
+mod_2 = lm(diff_temp_precip_r2 ~ mass_mean + 
+             bio1_mean + bio1_breadth + 
              bio4_mean + bio4_breadth +
-             bio15_mean + bio15_breadth +
              bio12_mean + bio12_breadth +
+             bio15_mean + bio15_breadth +
              habitat_axis1 + habitat_axis2 +
              trophic_axis1 + trophic_axis2, 
            data = model_results_birds)
@@ -99,15 +122,16 @@ summary(mod_2)
 summary(step(mod_2, trace = 0)) 
 ```
 
-Higher R^2^! And most of the estimates make sense. So, estimate of `bio1_mean` and `bio4_mean` are both significantly positive, which means that if the distribution area of a species are hot or has strong temperature seasonality, then temperature related predictors (`bio1` and `bio4`) will have higher partial R^2^ (compare with precipitation related variables). The breadth variables are not so intuitive for me ... `Mass_mean` dropped out, which makes sense for birds?
+So, let's look at the results. `bio12_mean` and `bio15_mean` are negative, which means the higher average precipitation and seasonality across the species' distribution region, the more important for precip-related variables (negative values) in explaining body mass variations. `bio12_breadth` is positive, which means the larger the range of precipitation across distribution area, the more important for temperature-related variables in explaining body mass variation.
 
 ## Mammals
 
 ```{r}
-mod_3 = lm(diff_temp_precip_r2 ~ mass_mean + bio1_mean + bio1_breadth + 
+mod_3 = lm(diff_temp_precip_r2 ~ mass_mean + 
+             bio1_mean + bio1_breadth + 
              bio4_mean + bio4_breadth +
-             bio15_mean + bio15_breadth +
              bio12_mean + bio12_breadth +
+             bio15_mean + bio15_breadth +
              habitat_axis1 + habitat_axis2 +
              trophic_axis1 + trophic_axis2, 
            data = model_results_mammals)
@@ -115,51 +139,23 @@ summary(mod_3)
 summary(step(mod_3, trace = 0)) 
 ```
 
-The larger the mammals are, the more variation of body mass explained by temperature related variables. Err... definitely different responses with birds. Higher temperature niche, less important of temperature related variables for explaining variations in body mass.
+The larger the mammals are, the more variation of body mass explained by temperature related variables. Err... definitely different responses with birds. Higher temperature niche, less important of temperature related variables for explaining variations in body mass. ...
 
 # Part 2: Coef
 
 ```{r}
 hist(model_results$bio1_estimate)
-hist(model_results$bio4_estimate)
 hist(model_results$bio12_estimate)
-hist(model_results$bio15_estimate)
 ```
-
-## All species
-
-Let's look at all species first.
-
-```{r}
-# bio1
-mod_4 = lm(bio1_estimate ~ mass_mean + bio1_mean + bio1_breadth + 
-             bio4_mean + bio4_breadth, 
-           data = model_results)
-summary(mod_4)
-summary(step(mod_4, trace = 0))
-```
-
-I find `bio4_breadth` is hard to interpret: the higher breath of temperature seasonality, the less effects of `bio1`. Also, note the very low R^2^.
-
-```{r}
-# bio12
-mod_5 = lm(bio12_estimate ~ mass_mean + 
-             bio15_mean + bio15_breadth +
-             bio12_mean + bio12_breadth, 
-           data = model_results)
-summary(mod_5)
-summary(step(mod_5, trace = 0))
-```
-
-Nothing here.
 
 ## Birds
 
 ```{r}
 # bio1
-mod_6 = lm(bio1_estimate ~ mass_mean + bio1_mean + bio1_breadth + 
+mod_6 = lm(bio1_estimate ~ mass_mean + 
+             bio1_mean + bio1_breadth + 
              bio4_mean + bio4_breadth +
-             # + bio15_mean + bio15_breadth +
+             # bio15_mean + bio15_breadth +
              # bio12_mean + bio12_breadth +
              habitat_axis1 + habitat_axis2 +
              trophic_axis1 + trophic_axis2, 
@@ -172,11 +168,11 @@ Nothing here.
 
 ```{r}
 # bio12
-mod_7 = lm(bio1_estimate ~ mass_mean + 
+mod_7 = lm(bio12_estimate ~ mass_mean + 
              # bio1_mean + bio1_breadth + 
              # bio4_mean + bio4_breadth +
-             bio15_mean + bio15_breadth +
              bio12_mean + bio12_breadth +
+             bio15_mean + bio15_breadth +
              habitat_axis1 + habitat_axis2 +
              trophic_axis1 + trophic_axis2, 
            data = model_results_birds)
@@ -190,10 +186,11 @@ Nothing here.
 
 ```{r}
 # bio1
-mod_8 = lm(bio1_estimate ~ mass_mean + bio1_mean + bio1_breadth + 
+mod_8 = lm(bio1_estimate ~ mass_mean +
+             bio1_mean + bio1_breadth + 
              bio4_mean + bio4_breadth +
-             # + bio15_mean + bio15_breadth +
              # bio12_mean + bio12_breadth +
+             # bio15_mean + bio15_breadth +
              habitat_axis1 + habitat_axis2 +
              trophic_axis1 + trophic_axis2, 
            data = model_results_mammals)
@@ -201,15 +198,15 @@ summary(mod_8)
 summary(step(mod_8, trace = 0)) 
 ```
 
-Something here. But again, hard to interpret.
+Something here. 
 
 ```{r}
 # bio12
-mod_9 = lm(bio1_estimate ~ mass_mean + 
+mod_9 = lm(bio12_estimate ~ mass_mean + 
              # bio1_mean + bio1_breadth + 
              # bio4_mean + bio4_breadth +
-             bio15_mean + bio15_breadth +
              bio12_mean + bio12_breadth +
+             bio15_mean + bio15_breadth +
              habitat_axis1 + habitat_axis2 +
              trophic_axis1 + trophic_axis2, 
            data = model_results_mammals)
@@ -217,7 +214,7 @@ summary(mod_9)
 summary(step(mod_9, trace = 0)) 
 ```
 
-Something here. But again, hard to interpret. And still very low R^2^.
+Almost nothing here. And still very low R^2^.
 
 
 **So, how these results compare with the previous multinomial regression results??**
