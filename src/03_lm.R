@@ -15,8 +15,10 @@ if(re_run | (!file.exists(here('data_output/model_results.csv')))){
                                   verbose = T)) %>% 
     unnest()
   
-  lm_by_sp2 = select(lm_by_sp, sp, n_row, starts_with('partial'), r.squared,
-                     adj.r.squared, AIC, starts_with('bio'))
+  lm_by_sp2 = select(lm_by_sp, sp, n_row, starts_with('partial'), 
+                     r.squared, adj.r.squared, 
+                     r.squared.bio1, adj.r.squared.bio1, 
+                     AIC, starts_with('bio'))
   
   # combine data
   elton_traits = bind_rows(
@@ -40,22 +42,18 @@ par_r2 = select(model_results, sp, starts_with("partial")) %>%
   gather('var', 'partial_r2', -sp) %>% 
   mutate(var = recode(var, 
                       'partial_r2_bio1' = 'Temp', 'partial_r2_bio4' = 'Temp S.',
-                      'partial_r2_bio12' = 'Precip', 'partial_r2_bio15' = 'Precip S.'))
+                      'partial_r2_bio12' = 'Precip', 'partial_r2_bio15' = 'Precip S.')) %>% 
+  filter(!grepl("partial", var))
 var_order = group_by(par_r2, var) %>% summarise(median_r2 = median(partial_r2, na.rm = T)) %>% 
   arrange(desc(median_r2)) %>% 
   pull(var)
 par_r2 = mutate(par_r2, var = factor(var, levels = var_order))
 
-spread(par_r2, var, partial_r2) %>% 
-  mutate(ratio = partial_r2_bio1_bio4/partial_r2_bio12_bio15) %>% 
-  pull(ratio) 
-
-
 # reshape lm coefs
-sp_order = arrange(model_results, adj.r.squared)$sp
+sp_order = arrange(model_results, r.squared)$sp
 mod_coefs = gather(model_results, 'var', 'value', starts_with('bio')) %>% 
   separate('var', c('bio_variable', 'var'), sep = "_") %>% 
-  select(sp, n_row, adj.r.squared, bio_variable, var, value) %>% 
+  select(sp, n_row, r.squared, r.squared.bio1, bio_variable, var, value) %>% 
   spread('var', 'value') %>% 
   mutate(bio_variable = recode(bio_variable, 
                                'bio1' = 'Temp', 'bio4' = 'Temp S.',
@@ -63,3 +61,4 @@ mod_coefs = gather(model_results, 'var', 'value', starts_with('bio')) %>%
          bio_variable = factor(bio_variable, levels = c('Temp', 'Temp S.', 'Precip', 'Precip S.')),
          sp = factor(sp, levels = sp_order),
          sig = ifelse(p.value < 0.05, "*", ""))
+

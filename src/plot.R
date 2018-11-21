@@ -13,11 +13,14 @@ p_a = ggplot(mod_coefs, aes(x = bio_variable, y = sp)) +
         axis.text.x = element_text(size = 9),
         axis.title.x = element_text(size = 10))
 
-p_b = ggplot(mod_coefs, aes(y = sp, x = adj.r.squared)) +
+p_b = ggplot(mod_coefs, aes(y = sp, x = r.squared)) +
   geom_segment(aes(yend = sp), xend = 0, color = 'gray') +
+  geom_segment(aes(yend = sp, x = r.squared.bio1, y = sp), xend = 0, 
+               color = 'mediumvioletred', inherit.aes = F) +
   geom_point(color = 'blue', size = 0.8) +
-  labs(x = expression(paste("Adjust ", R^{2})), 
+  labs(x = expression(paste("", R^{2})), 
        y = '') +
+  xlim(c(0, 0.51)) +
   theme(axis.text.y = element_blank(),
         axis.line.y = element_blank(),
         axis.ticks.y = element_blank(),
@@ -30,7 +33,8 @@ p_b = ggplot(mod_coefs, aes(y = sp, x = adj.r.squared)) +
         axis.text.x = element_text(size = 9),
         axis.title.x = element_text(size = 10))
 p = plot_grid(p_a, p_b, align = 'h', rel_widths = c(5, 1))
-ggsave(here('figures/fig1_lms.pdf'), p, width = 8, height = 10)
+ggsave(here('figures/fig1_lms.png'), p, width = 10, height = 10)
+ggsave(here('figures/fig1_lms.pdf'), p, width = 10, height = 10)
 
 # Fig 2 ----
 plot_order = mod_coefs %>% 
@@ -53,6 +57,7 @@ mod_coefs %>%
   coord_flip() +
   scale_fill_manual(values = c('orange', 'blue')) +
   theme(legend.position = c(0.7, 0.8))
+ggsave(here('figures/fig2_strongest_est.png'), width = 6, height = 6)
 ggsave(here('figures/fig2_strongest_est.pdf'), width = 6, height = 6)
 
 
@@ -66,7 +71,8 @@ ggplot(par_r2, aes(x = var, y = partial_r2)) +
   labs(y = expression(paste("Partial adjusted ", R^{2})), 
        x = 'Climatic predictors') +
   theme(legend.position = 'none')
-ggsave(heer('figures/fig3_partial_r2.pdf'), width = 6, height = 5)
+ggsave(here('figures/fig3_partial_r2.png'), width = 6, height = 5)
+ggsave(here('figures/fig3_partial_r2.pdf'), width = 6, height = 5)
 
 # how many species have the highest partial R2 of Temp? 60
 group_by(par_r2, sp) %>% 

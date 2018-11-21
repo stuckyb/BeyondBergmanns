@@ -100,6 +100,15 @@ ggplot(d, aes(x = value, y = bio12_estimate)) +
 
 Note the large variations in partial R2, coef estimates of bio1 and bio12. This probably explain why the following models all have low R^2^s.
 
+# Figures in main text
+
+```{r}
+knitr::include_graphics(here("figures/fig1_lms.png"))
+knitr::include_graphics(here("figures/fig2_strongest_est.png"))
+knitr::include_graphics(here("figures/fig3_partial_r2.png"))
+```
+
+
 # Part 1: partial R^2^
 
 I will just take the differences between their partial R^2^s because it is easier for us to interpret.
@@ -110,6 +119,38 @@ I standardized predictors first. Also, note that the Elton traits of birds and m
 ## Birds
 
 ```{r}
+hist(model_results_birds$partial_r2_bio1_bio4)
+hist(model_results_birds$partial_r2_bio12_bio15)
+hist(model_results_birds$diff_temp_precip_r2)
+
+mod_0 = lm(partial_r2_bio1_bio4 ~ mass_mean + 
+             bio1_mean + bio1_breadth + 
+             bio4_mean + bio4_breadth +
+             bio12_mean + bio12_breadth +
+             bio15_mean + bio15_breadth +
+             habitat_axis1 + habitat_axis2 +
+             trophic_axis1 + trophic_axis2, 
+           data = model_results_birds)
+summary(mod_0)
+summary(mod_0_2 <- step(mod_0, trace = 0)) 
+ols_coll_diag(mod_0_2)
+
+mod_1 = lm(partial_r2_bio12_bio15 ~ mass_mean + 
+             bio1_mean + bio1_breadth + 
+             bio4_mean + bio4_breadth +
+             bio12_mean + bio12_breadth +
+             bio15_mean + bio15_breadth +
+             habitat_axis1 + habitat_axis2 +
+             trophic_axis1 + trophic_axis2, 
+           data = model_results_birds)
+summary(mod_1)
+summary(mod_1_2 <- step(mod_1, trace = 0)) 
+ols_coll_diag(mod_1_2)
+
+# now this is weird
+summary(mod_1_3 <- update(mod_1_2, ". ~ . - bio4_mean"))
+ols_coll_diag(mod_1_3)
+
 mod_2 = lm(diff_temp_precip_r2 ~ mass_mean + 
              bio1_mean + bio1_breadth + 
              bio4_mean + bio4_breadth +
@@ -119,7 +160,10 @@ mod_2 = lm(diff_temp_precip_r2 ~ mass_mean +
              trophic_axis1 + trophic_axis2, 
            data = model_results_birds)
 summary(mod_2)
-summary(step(mod_2, trace = 0)) 
+summary(mod_2_2 <- step(mod_2, trace = 0)) 
+ols_coll_diag(mod_2_2)
+summary(mod_2_3 <- update(mod_2_2, ". ~ . - bio4_mean"))
+ols_coll_diag(mod_2_3)
 ```
 
 So, let's look at the results. `bio12_mean` and `bio15_mean` are negative, which means the higher average precipitation and seasonality across the species' distribution region, the more important for precip-related variables (negative values) in explaining body mass variations. `bio12_breadth` is positive, which means the larger the range of precipitation across distribution area, the more important for temperature-related variables in explaining body mass variation.
@@ -127,7 +171,11 @@ So, let's look at the results. `bio12_mean` and `bio15_mean` are negative, which
 ## Mammals
 
 ```{r}
-mod_3 = lm(diff_temp_precip_r2 ~ mass_mean + 
+hist(model_results_mammals$partial_r2_bio1_bio4)
+hist(model_results_mammals$partial_r2_bio12_bio15)
+hist(model_results_mammals$diff_temp_precip_r2)
+
+mod_3 = lm(partial_r2_bio1_bio4 ~ mass_mean + 
              bio1_mean + bio1_breadth + 
              bio4_mean + bio4_breadth +
              bio12_mean + bio12_breadth +
@@ -136,7 +184,32 @@ mod_3 = lm(diff_temp_precip_r2 ~ mass_mean +
              trophic_axis1 + trophic_axis2, 
            data = model_results_mammals)
 summary(mod_3)
-summary(step(mod_3, trace = 0)) 
+summary(mod_3_2 <- step(mod_3, trace = 0)) 
+ols_coll_diag(mod_3_2)
+
+mod_4 = lm(partial_r2_bio12_bio15 ~ mass_mean + 
+             bio1_mean + bio1_breadth + 
+             bio4_mean + bio4_breadth +
+             bio12_mean + bio12_breadth +
+             bio15_mean + bio15_breadth +
+             habitat_axis1 + habitat_axis2 +
+             trophic_axis1 + trophic_axis2, 
+           data = model_results_mammals)
+summary(mod_4)
+summary(mod_4_2 <- step(mod_4, trace = 0)) 
+ols_coll_diag(mod_4_2)
+
+mod_5 = lm(diff_temp_precip_r2 ~ mass_mean + 
+             bio1_mean + bio1_breadth + 
+             bio4_mean + bio4_breadth +
+             bio12_mean + bio12_breadth +
+             bio15_mean + bio15_breadth +
+             habitat_axis1 + habitat_axis2 +
+             trophic_axis1 + trophic_axis2, 
+           data = model_results_mammals)
+summary(mod_5)
+summary(mod_5_2 <- step(mod_5, trace = 0)) 
+ols_coll_diag(mod_5_2)
 ```
 
 The larger the mammals are, the more variation of body mass explained by temperature related variables. Err... definitely different responses with birds. Higher temperature niche, less important of temperature related variables for explaining variations in body mass. ...

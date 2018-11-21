@@ -379,7 +379,7 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
 
 if(!require(xfun)) install.packages("xfun")
 if(!require(ggparl)) devtools::install_github('erocoar/ggparl')
-xfun::pkg_attach2(c("tidyverse", "rr2", "cowplot", "broom", "here", "vegan"))
+xfun::pkg_attach2(c("tidyverse", "rr2", "cowplot", "broom", "here", "vegan", "olsrr"))
 
 #' Linear regression after z-sclae predictors
 #' @param x species name
@@ -454,6 +454,11 @@ lm_1_sp = function(x = "Accipiter_cooperii",
     spread('coefs', 'value')
   
   out = bind_cols(out, mod_coef2)
+  
+  # temp only model
+  mod2 = broom::glance(lm(Y ~ bio1 + season, data = df))
+  out$r.squared.bio1 = mod2$r.squared
+  out$adj.r.squared.bio1 = mod2$adj.r.squared
   
   out
 }
