@@ -18,6 +18,7 @@ if(re_run | (!file.exists(here('data_output/model_results.csv')))){
   lm_by_sp2 = select(lm_by_sp, sp, n_row, starts_with('partial'), 
                      r.squared, adj.r.squared, 
                      r.squared.bio1, adj.r.squared.bio1, 
+                     p.value, df, df.residual,
                      AIC, starts_with('bio'))
   
   # combine data
