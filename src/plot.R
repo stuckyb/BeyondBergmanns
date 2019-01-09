@@ -1,5 +1,9 @@
 # Fig 1 ----
 # mod_ceof2 from 03_lm.R
+sp_taxa = data.frame(sp = factor(sp_order, levels = sp_order)) %>% 
+  left_join(select(model_results, sp, taxa) %>% 
+              mutate(sp = factor(sp, levels = sp_order))) %>% 
+  mutate(co = ifelse(taxa == "birds", "olivedrab", "black"))
 p_a = ggplot(mod_coefs, aes(x = bio_variable, y = sp)) +
   geom_tile(aes(fill = estimate, width = 0.5)) +
   scale_fill_gradient2() +
@@ -8,7 +12,7 @@ p_a = ggplot(mod_coefs, aes(x = bio_variable, y = sp)) +
   theme(legend.position = c(0.44, 0.5),
         legend.text = element_text(size = 5.5),
         legend.title = element_text(size = 7),
-        axis.text.y = element_text(size = 4),
+        axis.text.y = element_text(size = 4, color = sp_taxa$co),
         axis.ticks.y.left = element_line(size = 0.2),
         axis.text.x = element_text(size = 9),
         axis.title.x = element_text(size = 10))
