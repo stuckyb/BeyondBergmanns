@@ -447,7 +447,7 @@ lm_1_sp = function(x = "Accipiter_cooperii",
   }
   
   # extract coef and p-values
-  mod_coef2 = filter(mod_coef, term %in% paste0("bio", c(1, 4, 12, 15))) %>% 
+  mod_coef2 = mod_coef %>% 
     select(-std.error, -statistic) %>% 
     gather('var', 'value', estimate, p.value) %>% 
     unite('coefs', term, var) %>% 

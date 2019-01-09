@@ -19,7 +19,9 @@ if(re_run | (!file.exists(here('data_output/model_results.csv')))){
                      r.squared, adj.r.squared, 
                      r.squared.bio1, adj.r.squared.bio1, 
                      p.value, df, df.residual,
-                     AIC, starts_with('bio'))
+                     AIC, starts_with("(Intercept)"),
+                     starts_with("season"),
+                     starts_with('bio'))
   
   # combine data
   elton_traits = bind_rows(
