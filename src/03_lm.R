@@ -2,7 +2,7 @@
 # source('src/01_generate_diagnostics.r')
 
 # separate LMs by sp ----
-re_run = FALSE # do you want to re-run all LMs?
+re_run = T # do you want to re-run all LMs?
 if(re_run | (!file.exists(here('data_output/model_results.csv')))){
   model_decisions = read_csv(here('data_raw/metamodeling_data.csv'))
   names(model_decisions)
@@ -10,8 +10,8 @@ if(re_run | (!file.exists(here('data_output/model_results.csv')))){
   lm_by_sp = mutate(model_decisions2,
                     lm_mod = map2(.x = sp, .y = model, .f = lm_1_sp,
                                   data_path = here("data_output/cleaned_bodymass_data/"),
-                                  mass_transf = "log10", 
-                                  # scale_ or scale_log10 are the other options
+                                  mass_transf = "scale_", 
+                                  # log10 or scale_log10 are the other options
                                   verbose = T)) %>% 
     unnest()
   
