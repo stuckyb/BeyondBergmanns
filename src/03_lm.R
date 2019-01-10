@@ -2,7 +2,7 @@
 # source('src/01_generate_diagnostics.r')
 
 # separate LMs by sp ----
-re_run = T # do you want to re-run all LMs?
+re_run = F # do you want to re-run all LMs?
 if(re_run | (!file.exists(here('data_output/model_results.csv')))){
   model_decisions = read_csv(here('data_raw/metamodeling_data.csv'))
   names(model_decisions)
@@ -34,6 +34,12 @@ if(re_run | (!file.exists(here('data_output/model_results.csv')))){
                          mass_mean = Mean_used, starts_with('bio')) %>% 
     left_join(lm_by_sp2, by = 'sp') %>% 
     left_join(elton_traits, by = 'sp')
+  model_results$p.value.adj = p.adjust(model_results$p.value, "BH")
+  for(i in 1:nrow(model_results)){ # not trust the p value
+    if(model_results$include_bio1[i] == "N") model_results$bio1_p.value[i] = NA
+    if(model_results$include_bio4[i] == "N" & !is.na(model_results$bio4_p.value[i])) 
+      model_results$bio4_p.value[i] = NA
+  }
   write_csv(model_results, here('data_output/model_results.csv'))
 } else {
   model_results = read_csv(here('data_output/model_results.csv'))
