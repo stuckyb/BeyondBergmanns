@@ -86,6 +86,7 @@ plot_order = mod_coefs %>%
   table() %>% sort(decreasing = T) %>% names()
 
 mod_coefs %>% 
+  filter(sp %in% filter(model_results, p.value.adj <= 0.05)$sp) %>% # 161 sp
   group_by(sp) %>% 
   slice(which.max(abs(estimate))) %>% 
   group_by(bio_variable) %>% 
