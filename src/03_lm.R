@@ -2,7 +2,7 @@
 # source('src/01_generate_diagnostics.r')
 
 # separate LMs by sp ----
-re_run = T # do you want to re-run all LMs?
+re_run = F # do you want to re-run all LMs?
 if(re_run | (!file.exists(here('data_output/model_results.csv')))){
   model_decisions = read_csv(here('data_raw/metamodeling_data.csv'))
   names(model_decisions)

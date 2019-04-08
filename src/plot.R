@@ -4,27 +4,28 @@ sp_taxa = data.frame(sp = factor(sp_order, levels = sp_order)) %>%
   left_join(select(model_results, sp, taxa) %>% 
               mutate(sp = factor(sp, levels = sp_order))) %>% 
   mutate(co = ifelse(taxa == "birds", "olivedrab", "black"))
-p_a = ggplot(mod_coefs, aes(x = bio_variable, y = sp)) +
+p_a_birds = ggplot(filter(mod_coefs, sp %in% filter(sp_taxa, taxa == "birds")$sp), 
+             aes(x = bio_variable, y = sp)) +
   geom_tile(aes(fill = estimate, width = 0.5)) +
   scale_fill_gradient2() +
-  geom_text(aes(label = sig), nudge_y = -0.55) +
+  geom_text(aes(label = sig), nudge_y = -0.3) +
   labs(x = 'Climatic predictors', y = '', fill = 'Coefs') +
   theme(legend.position = c(0.44, 0.5),
-        legend.text = element_text(size = 5.5),
-        legend.title = element_text(size = 7),
-        axis.text.y = element_text(size = 4, color = sp_taxa$co),
-        axis.ticks.y.left = element_line(size = 0.2),
+        legend.text = element_text(size = 7),
+        legend.title = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+        axis.ticks.y.left = element_line(),
         axis.text.x = element_text(size = 9),
         axis.title.x = element_text(size = 10))
-
-p_b = ggplot(mod_coefs, aes(y = sp, x = r.squared)) +
+p_b_birds = ggplot(filter(mod_coefs, sp %in% filter(sp_taxa, taxa == "birds")$sp), 
+             aes(y = sp, x = r.squared)) +
   geom_segment(aes(yend = sp), xend = 0, color = 'gray') +
   geom_segment(aes(yend = sp, x = r.squared.bio1, y = sp), xend = 0, 
                color = 'mediumvioletred', inherit.aes = F) +
   geom_point(color = 'blue', size = 0.8) +
   labs(x = expression(paste("", R^{2})), 
        y = '') +
-  xlim(c(0, 0.51)) +
+  xlim(c(0, 0.5)) +
   theme(axis.text.y = element_blank(),
         axis.line.y = element_blank(),
         axis.ticks.y = element_blank(),
@@ -36,9 +37,46 @@ p_b = ggplot(mod_coefs, aes(y = sp, x = r.squared)) +
         plot.margin = margin(l = -0.3, unit = "cm"),
         axis.text.x = element_text(size = 9),
         axis.title.x = element_text(size = 10))
-p = plot_grid(p_a, p_b, align = 'h', rel_widths = c(5, 1))
-ggsave(here('figures/fig1_lms.png'), p, width = 10, height = 10)
-ggsave(here('figures/fig1_lms.pdf'), p, width = 10, height = 10)
+p_birds = plot_grid(p_a_birds, p_b_birds, align = 'h', rel_widths = c(5, 1))
+ggsave(here('figures/fig1_lms_birds.png'), p_birds, width = 9, height = 11)
+ggsave(here('figures/fig1_lms_birds.pdf'), p_birds, width = 9, height = 11)
+
+p_a_mammals = ggplot(filter(mod_coefs, sp %in% filter(sp_taxa, taxa == "mammals")$sp), 
+                   aes(x = bio_variable, y = sp)) +
+  geom_tile(aes(fill = estimate, width = 0.5)) +
+  scale_fill_gradient2() +
+  geom_text(aes(label = sig), nudge_y = -0.3) +
+  labs(x = 'Climatic predictors', y = '', fill = 'Coefs') +
+  theme(legend.position = c(0.44, 0.5),
+        legend.text = element_text(size = 7),
+        legend.title = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+        axis.ticks.y.left = element_line(),
+        axis.text.x = element_text(size = 9),
+        axis.title.x = element_text(size = 10))
+p_b_mammals = ggplot(filter(mod_coefs, sp %in% filter(sp_taxa, taxa == "mammals")$sp), 
+                   aes(y = sp, x = r.squared)) +
+  geom_segment(aes(yend = sp), xend = 0, color = 'gray') +
+  geom_segment(aes(yend = sp, x = r.squared.bio1, y = sp), xend = 0, 
+               color = 'mediumvioletred', inherit.aes = F) +
+  geom_point(color = 'blue', size = 0.8) +
+  labs(x = expression(paste("", R^{2})), 
+       y = '') +
+  xlim(c(0, 0.5)) +
+  theme(axis.text.y = element_blank(),
+        axis.line.y = element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.title.y = element_blank(),
+        panel.grid.major.y = element_blank(),
+        panel.grid.minor.y = element_blank(),
+        panel.grid.minor.x = element_blank(),
+        panel.grid.major.x = element_line(colour = "grey92"),
+        plot.margin = margin(l = -0.3, unit = "cm"),
+        axis.text.x = element_text(size = 9),
+        axis.title.x = element_text(size = 10))
+p_mammals = plot_grid(p_a_mammals, p_b_mammals, align = 'h', rel_widths = c(5, 1))
+ggsave(here('figures/fig1_lms_mammals.png'), p_mammals, width = 9, height = 11)
+ggsave(here('figures/fig1_lms_mammals.pdf'), p_mammals, width = 9, height = 11)
 
 # Fig 2 ----
 plot_order = mod_coefs %>% 
