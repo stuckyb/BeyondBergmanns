@@ -1,0 +1,49 @@
+Sex,sex_cor
+undetermined,NS
+male,M
+male ?,M
+NA,NS
+female,F
+female?,F
+female ?,F
+in question,NS
+female | male,NS
+male?,M
+[female],F
+[male],M
+m?,M
+female; female,F
+"female,male",NS
+f?,F
+[female?],F
+female female,F
+gynandromorph,NS
+im.,NS
+"male,female",NS
+wing,NS
+,NS
+significant degradation,NS
+hermaphrodite,NS
+[male?],M
+male male,M
+male; female,NS
+skull os.,NS
+skull oss.,NS
+not det.,NS
+skull not oss.,NS
+immature,NS
+male; male,M
+female; male,NS
+not recorded; male,M
+male ?; male,M
+not recorded; female,F
+"female , female",F
+female ?; male,F
+male; male ?,M
+organs,NS
+female; female ?,F
+"male , male",M
+"not recorded , female",F
+female; female; male,F
+male; male; male,M
+by plumage,NS
