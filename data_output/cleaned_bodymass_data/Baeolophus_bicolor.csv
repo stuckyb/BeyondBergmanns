@@ -1,215 +1,215 @@
-"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
-6,-98.84032,26.90949,NA,2013,"Baeolophus bicolor","Baeolophus_bicolor",14.2,NA,"female",22.8,613,6.37915046115551,91.1427930802012,"Summer",6698
-6,-98.75737,26.79981,NA,2013,"Baeolophus bicolor","Baeolophus_bicolor",14.8,NA,"female",23,621,6.1551345897699,92.8017529902052,"Summer",6730
-7,-98.77705,26.7549,NA,2013,"Baeolophus bicolor","Baeolophus_bicolor",15.1,NA,"male",23.1,625,6.18752410463624,93.8822583306508,"Summer",6699
-7,-98.1557167,30.91685,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",15.2,NA,"female",20.8,487,8.56371839373953,63.6205575179294,"Summer",6694
-4,-97.51147,30.112,"nestling",1951,"Baeolophus bicolor","Baeolophus_bicolor",15.3,NA,"male",20.4,692,7.41527395844468,81.1460081524042,"Spring",6564
-6,-97.26265,30.4676833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",15.5,NA,"female",21.5,571,8.38694873544062,75.6113982533247,"Summer",6715
-8,-99.3955167,30.0416667,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",16,NA,"female",19.9,507,7.9562582571549,87.1695881738925,"Summer",6725
-6,-97.3343833,29.9578833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.3,NA,"male",21.7,580,7.96777600999517,80.2599628902454,"Summer",6690
-5,-98.79912,26.83624,NA,2013,"Baeolophus bicolor","Baeolophus_bicolor",16.3,NA,"male",23,618,6.26613674419651,91.7202295615941,"Spring",6697
-6,-97.26265,30.4676833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.4,NA,"female",21.5,571,8.38694873544062,75.6113982533247,"Summer",6688
-5,-98.0852833,29.963,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.7,NA,"female",21.4,558,7.9314630466646,76.0538926559441,"Spring",6723
-7,-97.08355,31.4691667,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.8,NA,"female",20.6,575,8.95527608156051,61.050390039782,"Summer",6685
-7,-97.9691667,30.4736833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.9,NA,"female",21.3,516,8.33497105119402,69.5132791145214,"Summer",6692
-2,-97.6546,30.2292,NA,1957,"Baeolophus bicolor","Baeolophus_bicolor",17.1,NA,"female",19.9,1241,6.85373156489488,73.5671061999326,"Winter",6622
-7,-96.08355,30.4691667,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",17.1,NA,"female",21.1,694,8.20016629543129,74.6337506158598,"Summer",6719
-5,-98.0852833,29.963,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",17.2,NA,"male",21.4,558,7.9314630466646,76.0538926559441,"Spring",6681
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",17.3,NA,"female",19.8,888,6.76660695599868,70.2578073199386,"Winter",6576
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",17.3,NA,"male",19.8,888,6.76660695599868,70.2578073199386,"Winter",6578
-6,-98.75737,26.79981,NA,2013,"Baeolophus bicolor","Baeolophus_bicolor",17.3,NA,"male",23,621,6.1551345897699,92.8017529902052,"Summer",6731
-10,-99.3964833,30.0431167,NA,2009,"Baeolophus bicolor","Baeolophus_bicolor",17.4,NA,"female",19.1,671,7.33461593466835,90.8332776600774,"Fall",6674
-4,-98.0852833,29.963,NA,2012,"Baeolophus bicolor","Baeolophus_bicolor",17.4,NA,"male",21.2,1120,6.40686185178663,81.6555971394755,"Spring",6726
-5,-98.84032,26.90949,NA,2013,"Baeolophus bicolor","Baeolophus_bicolor",17.5,NA,"male",22.8,613,6.37915046115551,91.1427930802012,"Spring",6696
-7,-84.4794,31.1899,"juv.",1951,"Baeolophus bicolor","Baeolophus_bicolor",17.7,NA,"female ?",20.2,1207,6.60653372645504,51.3031598636248,"Summer",6567
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",17.7,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",6651
-8,-99.3955167,30.0416667,NA,2010,"Baeolophus bicolor","Baeolophus_bicolor",17.7,NA,"female",18.3,835,7.77963055132771,84.6145044430334,"Summer",6724
-2,-97.61539,30.19711,"ad.sk.",1952,"Baeolophus bicolor","Baeolophus_bicolor",17.8,NA,"female",19.8,887,6.78100622728998,70.0661863505369,"Winter",6570
-6,-100.5689166667,33.8672833333,NA,2011,"Baeolophus bicolor atricristatus","Baeolophus_bicolor",17.8,NA,"female",18.1,326,10.0353768179769,76.6536259773188,"Summer",6708
-4,-97.9691667,30.4736833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",17.8,NA,"male",21.3,516,8.33497105119402,69.5132791145214,"Spring",6718
-6,-100.8033166667,33.7664333333,NA,2011,"Baeolophus bicolor atricristatus","Baeolophus_bicolor",17.9,NA,"male",17.8,298,9.87296200680823,79.644981245135,"Summer",6670
-8,-99.3955167,30.0416667,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",18,NA,"female",19.9,507,7.9562582571549,87.1695881738925,"Summer",6678
-7,-94.4434,30.7682,NA,2010,"Baeolophus bicolor","Baeolophus_bicolor",18,NA,"female",19,982,8.51214373169831,69.5705626332053,"Summer",6679
-6,-97.3343833,29.9578833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",18,NA,"male",21.7,580,7.96777600999517,80.2599628902454,"Summer",6691
-3,-79.4614,33.0881,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",18,NA,"male",17.7,1260,6.08086915637639,70.8970913452336,"Spring",6704
-2,-97.56546,30.11,"imm.",1952,"Baeolophus bicolor","Baeolophus_bicolor",18.2,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",6646
-5,-98.0852833,29.963,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.4,NA,"female",21.4,558,7.9314630466646,76.0538926559441,"Spring",6687
-6,-97.26265,30.4676833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.4,NA,"male",21.5,571,8.38694873544062,75.6113982533247,"Summer",6717
-9,-72.1333,42,"immature",1975,"Baeolophus bicolor","Baeolophus_bicolor",18.4,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",6735
-7,-99.8790321,32.7565079,NA,1970,"Baeolophus bicolor","Baeolophus_bicolor",18.5,NA,"male",17.8,486,8.60571955683597,75.4624504259777,"Summer",6620
-5,-98.0852833,29.963,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.5,NA,"male",21.4,558,7.9314630466646,76.0538926559441,"Spring",6721
-6,-97.26265,30.4676833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.7,NA,"male",21.5,571,8.38694873544062,75.6113982533247,"Summer",6682
-5,-98.0852833,29.963,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.7,NA,"male",21.4,558,7.9314630466646,76.0538926559441,"Spring",6684
-8,-99.3955167,30.0416667,NA,2010,"Baeolophus bicolor","Baeolophus_bicolor",18.8,NA,"male",18.3,835,7.77963055132771,84.6145044430334,"Summer",6713
-6,-97.26265,30.4676833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.9,NA,"male",21.5,571,8.38694873544062,75.6113982533247,"Summer",6683
-7,-94.4434,30.7682,NA,2010,"Baeolophus bicolor","Baeolophus_bicolor",18.9,NA,"female",19,982,8.51214373169831,69.5705626332053,"Summer",6714
-3,-93.42,35.221881,NA,1990,"Baeolophus bicolor","Baeolophus_bicolor",19,150,"female",16.2,1680,7.94200093099206,54.5482374058194,"Spring",6520
-2,-97.61539,30.19711,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19,NA,"female",19.8,887,6.78100622728998,70.0661863505369,"Winter",6640
-10,-71.99975147,41.69791209,"immature",2010,"Baeolophus bicolor","Baeolophus_bicolor",19,NA,"female",10.9,1219,9.82708070341926,50.1505862622951,"Fall",6663
-11,-77.367491,42.764634,"immature",2010,"Baeolophus bicolor","Baeolophus_bicolor",19.1,138,"female",8.8,1026,9.99604088293627,51.9954808022083,"Fall",6525
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.1,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",6586
-2,-97.61539,30.19711,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.1,NA,"female",19.8,887,6.78100622728998,70.0661863505369,"Winter",6638
-4,-97.9691667,30.4736833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",19.1,NA,"male",21.3,516,8.33497105119402,69.5132791145214,"Spring",6716
-2,-97.60767,30.19433,"imm.sk.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,"male",19.8,888,6.76660695599868,70.2578073199386,"Winter",6572
-7,-84.4794,31.1899,"ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,"male",20.2,1207,6.60653372645504,51.3031598636248,"Summer",6633
-10,-99.3964833,30.0431167,NA,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,"male",19.1,671,7.33461593466835,90.8332776600774,"Fall",6673
-10,-99.3964833,30.0431167,NA,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,"female",19.1,671,7.33461593466835,90.8332776600774,"Fall",6675
-10,-99.3964833,30.0431167,NA,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,"male",19.1,671,7.33461593466835,90.8332776600774,"Fall",6676
-8,-99.3955167,30.0416667,NA,2010,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,"male",18.3,835,7.77963055132771,84.6145044430334,"Summer",6680
-3,-96.7385,28.904,"unknown",1988,"Baeolophus bicolor","Baeolophus_bicolor",19.3,NA,"male",21.1,636,6.77428292079015,63.1087462629587,"Spring",6595
-4,-97.51147,30.112,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",19.3,NA,"female",20.4,692,7.41527395844468,81.1460081524042,"Spring",6629
-2,-97.56546,30.11,"ad.sk.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.3,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6648
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.3,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6649
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,"female",19.8,888,6.76660695599868,70.2578073199386,"Winter",6573
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6584
-2,-97.42126,30.20239,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,"female",20,871,6.73491018139924,71.4641372174458,"Winter",6589
-7,-98.08355,32.4691667,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,"male",19.8,523,9.28273078943319,68.1891547191531,"Summer",6686
-6,-97.3343833,29.9578833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,"male",21.7,580,7.96777600999517,80.2599628902454,"Summer",6689
-4,-97.51147,30.112,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",19.5,NA,"male",20.4,692,7.41527395844468,81.1460081524042,"Spring",6560
-3,-85.47296,38.71366,"U-Ad.",1984,"Baeolophus bicolor bicolor","Baeolophus_bicolor",19.5,NA,"female",12.6,1192,9.26381032935054,47.1395683737697,"Spring",6706
-4,-94.4434,30.7682,NA,2010,"Baeolophus bicolor","Baeolophus_bicolor",19.5,NA,"male",19,982,8.51214373169831,69.5705626332053,"Spring",6712
-5,-97.2626517,30.4676833,NA,2012,"Baeolophus bicolor","Baeolophus_bicolor",19.5,NA,"male",21.4,1087,6.59229922643906,72.213560177047,"Spring",6727
-11,-95.2784323,38.9513326,NA,1964,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,"male",12.8,1008,9.83264121858076,72.0524942544508,"Fall",6526
-2,-97.39765,30.18186,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,"female",20,874,6.72464373281837,71.4982125968517,"Winter",6591
-10,-72.170985,41.8911152,NA,1985,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,NA,8.4,1123,9.54601297067858,54.5260514137491,"Fall",6599
-4,-97.3343833,29.9578833,NA,2012,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,"male",21.6,1123,6.32821962611631,74.5472839294494,"Spring",6728
-10,-72.1333,42,"adult",1975,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",6737
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",6530
-4,-97.51147,30.112,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,"male",20.4,692,7.41527395844468,81.1460081524042,"Spring",6561
-7,-84.4794,31.1899,"juv.",1951,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,"male",20.2,1207,6.60653372645504,51.3031598636248,"Summer",6568
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",6580
-2,-97.56546,30.11,"imm.sk.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6581
-6,-94.274,31.04448,"u imm.",1964,"Baeolophus bicolor ?","Baeolophus_bicolor",19.7,NA,"undetermined",18.7,1013,7.49931309985768,41.6582448880009,"Summer",6593
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,"male",19.8,888,6.76660695599868,70.2578073199386,"Winter",6644
-1,-95.1864548,38.805701,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,"female",12,1201,8.87302688267122,83.9610299213543,"Winter",6543
-7,-84.4794,31.1899,"ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,"female",20.2,1207,6.60653372645504,51.3031598636248,"Summer",6634
-10,-99.3964833,30.0431167,NA,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,"male",19.1,671,7.33461593466835,90.8332776600774,"Fall",6671
-10,-99.3964833,30.0431167,NA,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,"male",19.1,671,7.33461593466835,90.8332776600774,"Fall",6672
-8,-96.4434,30.7682,NA,2010,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,"female",19.8,702,8.49168934186761,64.6272235426517,"Summer",6677
-10,-99.3964833,30.0431167,NA,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,"male",19.1,671,7.33461593466835,90.8332776600774,"Fall",6710
-10,-99.3964833,30.0431167,NA,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,"male",19.1,671,7.33461593466835,90.8332776600774,"Fall",6711
-7,-96.08355,30.4691667,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,"female",21.1,694,8.20016629543129,74.6337506158598,"Summer",6720
-5,-96.2286389,30.4718611,NA,2012,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,NA,21.3,1224,6.37799246462301,60.0161338158273,"Spring",6729
-4,-97.51147,30.112,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",19.9,NA,"male",20.4,692,7.41527395844468,81.1460081524042,"Spring",6562
-4,-97.51147,30.112,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",19.9,NA,"male",20.4,692,7.41527395844468,81.1460081524042,"Spring",6563
-10,-72.170985,41.8911152,NA,1975,"Baeolophus bicolor","Baeolophus_bicolor",19.9,NA,"male",8.6,1413,9.15626958576869,33.6008530675797,"Fall",6598
-3,-91.376231,36.024164,NA,1990,"Baeolophus bicolor","Baeolophus_bicolor",20,145,"female",16.4,1645,7.64975737385101,50.5232907062635,"Spring",6521
-3,-82.554534,30.382873,NA,1993,"Baeolophus bicolor","Baeolophus_bicolor",20,145,"male",20.1,1152,6.3405560887947,46.7890944772635,"Spring",6522
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6588
-4,-97.3343833,29.9578833,NA,2012,"Baeolophus bicolor","Baeolophus_bicolor",20,NA,"male",21.6,1123,6.32821962611631,74.5472839294494,"Spring",6695
-8,-73.0261,41.2783,"adult",1996,"Baeolophus bicolor","Baeolophus_bicolor",20,NA,"male",10.9,1594,8.87780258779608,45.2751508773755,"Summer",6700
-7,-97.26265,30.4676833,NA,2011,"Baeolophus bicolor","Baeolophus_bicolor",20,NA,"male",21.5,571,8.38694873544062,75.6113982533247,"Summer",6722
-1,-95.1864548,38.805701,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",20.1,NA,"undetermined",12,1201,8.87302688267122,83.9610299213543,"Winter",6539
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.1,NA,"male",19.8,888,6.76660695599868,70.2578073199386,"Winter",6571
-2,-97.39765,30.18186,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.2,NA,"female",20,874,6.72464373281837,71.4982125968517,"Winter",6592
-1,-76.2954,42.3784,NA,2003,"Baeolophus bicolor","Baeolophus_bicolor",20.2999992370605,NA,"female",6.8,1197,10.2809142088482,36.929454160157,"Winter",6603
-2,-97.61539,30.19711,"ad.sk.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.3,NA,"male",19.8,887,6.78100622728998,70.0661863505369,"Winter",6639
-6,-95.2426529,38.9598045,"immature",1986,"Baeolophus bicolor","Baeolophus_bicolor",20.4,NA,"female",13.4,1203,9.70421261227527,85.2519259735507,"Summer",6553
-4,-97.51147,30.112,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",20.4,NA,"male",20.4,692,7.41527395844468,81.1460081524042,"Spring",6565
-2,-97.61539,30.19711,"ad.sk.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.4,NA,"male",19.8,887,6.78100622728998,70.0661863505369,"Winter",6642
-2,-97.42126,30.20239,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.4,NA,"male",20,871,6.73491018139924,71.4641372174458,"Winter",6653
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,"female",19.8,914,6.74220088155735,70.7359995857113,"Winter",6582
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6585
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,"female",19.8,888,6.76660695599868,70.2578073199386,"Winter",6645
-2,-97.56546,30.11,"imm.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6650
-9,-72.1333,42,"immature",1975,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,"female",8.2,1441,9.25400404738894,32.5704076809867,"Fall",6702
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.6,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6579
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.6,NA,"male",19.8,888,6.76660695599868,70.2578073199386,"Winter",6643
-7,-98.1087447,39.0400349,NA,1965,"Baeolophus bicolor","Baeolophus_bicolor",20.7,NA,"male",12.5,709,10.4605282617634,96.6349849632112,"Summer",6527
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.7,NA,"male",19.8,888,6.76660695599868,70.2578073199386,"Winter",6575
-3,-85.47303,38.71571,"adult",1998,"Baeolophus bicolor","Baeolophus_bicolor",20.7,NA,"female",14.2,1169,8.27648640865961,55.5705190447376,"Spring",6667
-3,-76.28712,42.349548,NA,1989,"Baeolophus bicolor","Baeolophus_bicolor",20.7000007629395,140,"male",6.7,1059,10.5529365437763,55.5779248757815,"Spring",6668
-6,-94.98866,35.23704,"skull unossified",1982,"Baeolophus bicolor","Baeolophus_bicolor",20.8,NA,"male",16.6,1168,8.88507430776724,62.7856145115124,"Summer",6597
-12,-95.7356074,37.6789414,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",20.9,NA,"female",13.4,568,9.84822318999727,76.706214828175,"Winter",6538
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",20.9,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6583
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",20.9,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",6617
-10,-72.9047,41.2483,NA,1979,"Baeolophus bicolor","Baeolophus_bicolor",20.9,NA,NA,11,1402,9.14513863241343,59.9331167410996,"Fall",6701
-9,-79.3501282,35.0635845,NA,1988,"Baeolophus bicolor bicolor","Baeolophus_bicolor",21,NA,"undetermined",15.3,1073,8.32393409319648,48.5252028931618,"Fall",6559
-2,-97.39765,30.18186,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",21,NA,"male",20,874,6.72464373281837,71.4982125968517,"Winter",6590
-11,-76.5095,42.4381,NA,2005,"Baeolophus bicolor","Baeolophus_bicolor",21,163,"female",9.7,997,10.8141706976905,51.8235923439078,"Fall",6604
-9,-79.3501282,35.0635845,NA,1988,"Baeolophus bicolor bicolor","Baeolophus_bicolor",21,NA,"male",15.3,1073,8.32393409319648,48.5252028931618,"Fall",6626
-7,-94.4434,30.7682,NA,2010,"Baeolophus bicolor","Baeolophus_bicolor",21,NA,"male",19,982,8.51214373169831,69.5705626332053,"Summer",6693
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.1,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",6531
-6,-76.42909,42.44577,NA,2004,"Baeolophus bicolor","Baeolophus_bicolor",21.1,144,"female",7.8,1158,10.0247081118241,55.3278248901777,"Summer",6605
-2,-97.39765,30.18186,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",21.1,NA,"male",20,874,6.72464373281837,71.4982125968517,"Winter",6654
-2,-97.6415062,30.25625,NA,1957,"Baeolophus bicolor","Baeolophus_bicolor",21.2,NA,"male",19.9,1243,6.85783670281119,73.5702379045598,"Winter",6621
-3,-96.472,30.766,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",21.2,NA,"male",20.4,683,7.72226219014437,52.8546272316857,"Spring",6709
-7,-72.6372,41.3597,NA,1968,"Baeolophus bicolor","Baeolophus_bicolor",21.3,NA,NA,9.3,1011,9.86779272853526,57.3532884782539,"Summer",6734
-2,-97.61539,30.19711,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",21.4,NA,"male",19.8,887,6.78100622728998,70.0661863505369,"Winter",6641
-6,-94.274,31.04448,"ad.sk.",1964,"Baeolophus bicolor ?","Baeolophus_bicolor",21.4,NA,"male",18.7,1013,7.49931309985768,41.6582448880009,"Summer",6658
-3,-87.272352,34.296585,NA,1991,"Baeolophus bicolor","Baeolophus_bicolor",21.5,155,NA,16.6,1818,7.88744207105462,55.9291182170424,"Spring",6601
-1,-95.1864548,38.805701,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",21.5,NA,"female",12,1201,8.87302688267122,83.9610299213543,"Winter",6616
-9,-79.3501282,35.0635845,NA,1988,"Baeolophus bicolor bicolor","Baeolophus_bicolor",21.5,NA,"male",15.3,1073,8.32393409319648,48.5252028931618,"Fall",6627
-8,-83.4478,31.6689,"imm.",1951,"Baeolophus bicolor","Baeolophus_bicolor",21.5,NA,"undetermined",19.4,1130,6.68337489596386,55.8131044660853,"Summer",6635
-12,-95.2066667,39.0316667,NA,2008,"Baeolophus bicolor","Baeolophus_bicolor",21.5,NA,"female",12.1,1052,10.3985539495847,62.046927174184,"Winter",6669
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",6529
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,"undetermined",13,655,9.84308325062772,81.5367050850986,"Winter",6549
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6587
-12,-95.7356074,37.6789414,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,"female",13.4,568,9.84822318999727,76.706214828175,"Winter",6613
-2,-97.42126,30.20239,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,"male",20,871,6.73491018139924,71.4641372174458,"Winter",6652
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.7,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",6528
-3,-95.30079,39.01715,NA,1964,"Baeolophus bicolor","Baeolophus_bicolor",21.8,NA,"male",12.8,999,9.86531650262523,73.6138062849034,"Spring",6624
-2,-97.56546,30.11,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",21.8,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",6647
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.9,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",6536
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",21.9,NA,"male",19.8,888,6.76660695599868,70.2578073199386,"Winter",6577
-2,-97.39765,30.18186,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",21.9,NA,"male",20,874,6.72464373281837,71.4982125968517,"Winter",6657
-7,-72.6372,41.3597,NA,1968,"Baeolophus bicolor","Baeolophus_bicolor",21.9,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Summer",6703
-10,-72.170985,41.8911152,NA,1975,"Baeolophus bicolor","Baeolophus_bicolor",22,NA,"male",8.6,1413,9.15626958576869,33.6008530675797,"Fall",6662
-7,-99.8790321,32.7565079,NA,1970,"Baeolophus bicolor","Baeolophus_bicolor",22.1,NA,"male",17.8,486,8.60571955683597,75.4624504259777,"Summer",6552
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.1,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",6618
-4,-97.51147,30.112,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",22.1,NA,"male",20.4,692,7.41527395844468,81.1460081524042,"Spring",6628
-2,-97.61539,30.19711,"imm.sk.",1952,"Baeolophus bicolor","Baeolophus_bicolor",22.1,NA,"male",19.8,887,6.78100622728998,70.0661863505369,"Winter",6637
-2,-97.39765,30.18186,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",22.2,NA,"male",20,874,6.72464373281837,71.4982125968517,"Winter",6655
-3,-95.3020834,39.9706494,"immature",1967,"Baeolophus bicolor","Baeolophus_bicolor",22.3,NA,"female",11,938,9.34569662756851,98.0371055503981,"Spring",6548
-10,-76.375027,42.440495,"imm.",1992,"Baeolophus bicolor","Baeolophus_bicolor",22.3999996185303,157,"male",7,1094,8.99994528602897,46.5996637624587,"Fall",6523
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.4,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",6532
-1,-95.1864548,38.805701,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",22.4,NA,"undetermined",12,1201,8.87302688267122,83.9610299213543,"Winter",6544
-2,-97.39765,30.18186,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",22.4,NA,"undetermined",20,874,6.72464373281837,71.4982125968517,"Winter",6656
-11,-95.2798841,38.9041998,NA,1987,"Baeolophus bicolor","Baeolophus_bicolor",22.5,NA,"undetermined",13.8,1010,9.58979887298177,59.9095899022682,"Fall",6555
-1,-95.2,39.0333333,NA,2003,"Baeolophus bicolor","Baeolophus_bicolor",22.5,NA,"male",12.9,777,10.266048043149,77.9915829389809,"Winter",6558
-9,-79.3501282,35.0635845,NA,1988,"Baeolophus bicolor bicolor","Baeolophus_bicolor",22.5,NA,"undetermined",15.3,1073,8.32393409319648,48.5252028931618,"Fall",6625
-11,-95.2,39.0333333,NA,2007,"Baeolophus bicolor","Baeolophus_bicolor",22.5,NA,"female",13.6,1022,10.8105272766873,65.5836013233886,"Fall",6707
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.6,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",6610
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.7,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",6534
-12,-94.8456651,37.1701488,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.7,NA,"undetermined",13.7,785,9.36456894443901,49.7936367895885,"Winter",6535
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",6547
-3,-95.3020834,39.9706494,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,"male",11,938,9.34569662756851,98.0371055503981,"Spring",6550
-3,-96.7385,28.904,"unknown",1988,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,"male",21.1,636,6.77428292079015,63.1087462629587,"Spring",6594
-1,-95.1864548,38.805701,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",6615
-4,-97.3207,30.1093,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,"male",20.6,677,7.4155191485441,84.9080361782141,"Spring",6632
-10,-76.450248,42.473805,NA,2009,"Baeolophus bicolor","Baeolophus_bicolor",22.9,NA,NA,7.9,931,9.46422290267485,46.3530151171688,"Fall",6606
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.9,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",6609
-4,-95.2,39.0333333,NA,1996,"Baeolophus bicolor","Baeolophus_bicolor",23,NA,"male",12.2,1179,10.3515004036159,82.7626922652531,"Spring",6556
-3,-92.864278,32.119241,NA,1990,"Baeolophus bicolor","Baeolophus_bicolor",23,155,"male",19.2,1684,6.81395070736678,57.0686410089929,"Spring",6600
-6,-95.07298,35.29503,"skull ossified",1982,"Baeolophus bicolor","Baeolophus_bicolor",23,NA,"male",16.3,1144,8.91393189441011,64.2152578053709,"Summer",6659
-9,-72.170985,41.8911152,NA,1975,"Baeolophus bicolor","Baeolophus_bicolor",23,NA,NA,8.6,1413,9.15626958576869,33.6008530675797,"Fall",6660
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",23.1,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",6540
-3,-95.3020834,39.9706494,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",23.2,NA,"male",11,938,9.34569662756851,98.0371055503981,"Spring",6546
-4,-94.8779297,38.6951569,NA,1946,"Baeolophus bicolor","Baeolophus_bicolor",23.3,NA,"male",14.2,910,8.75243689009818,53.0665819538149,"Spring",6623
-2,-85.47296,38.71366,"U-Ad",1997,"Baeolophus bicolor","Baeolophus_bicolor",23.3,NA,"male",11.9,1172,8.71158667661881,74.3520982241372,"Winter",6666
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",6533
-4,-97.39849,30.11,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,"male",20.5,682,7.42169220269307,83.120899009602,"Spring",6566
-2,-97.60767,30.19433,"u ad.",1952,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,"male",19.8,888,6.76660695599868,70.2578073199386,"Winter",6574
-4,-97.39849,30.11,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,"male",20.5,682,7.42169220269307,83.120899009602,"Spring",6630
-9,-72.1333,42,"immature",1975,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,"male",8.2,1441,9.25400404738894,32.5704076809867,"Fall",6733
-1,-95.1864548,38.805701,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",23.7,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",6537
-1,-95.1864548,38.805701,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",23.7,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",6545
-9,-95.2598661,38.9549568,NA,1998,"Baeolophus bicolor","Baeolophus_bicolor",23.9,NA,"male",13.9,1225,9.8228243793666,69.5373055135808,"Fall",6557
-6,-94.98866,35.23704,"unknown",1982,"Baeolophus bicolor","Baeolophus_bicolor",24,NA,"male",16.6,1168,8.88507430776724,62.7856145115124,"Summer",6596
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",24,NA,"female",13,655,9.84308325062772,81.5367050850986,"Winter",6608
-7,-73.434007,42.03537,"adult",1977,"Baeolophus bicolor","Baeolophus_bicolor",24,NA,"male",7,1450,10.1127282534078,41.3112920589954,"Summer",6705
-9,-72.170985,41.8911152,"immature",1975,"Baeolophus bicolor","Baeolophus_bicolor",24.2,NA,"male",8.6,1413,9.15626958576869,33.6008530675797,"Fall",6661
-12,-95.5360794,38.0056315,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",24.4,NA,"male",13,655,9.84308325062772,81.5367050850986,"Winter",6551
-3,-93.42,35.221881,NA,1990,"Baeolophus bicolor","Baeolophus_bicolor",24.5,153,"female",16.2,1680,7.94200093099206,54.5482374058194,"Spring",6602
-12,-95.7356074,37.6789414,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",24.6,NA,"female",13.4,568,9.84822318999727,76.706214828175,"Winter",6611
-10,-76.5095,42.4381,NA,2006,"Baeolophus bicolor","Baeolophus_bicolor",24.7,155,"male",10.5,1055,8.50810665118149,49.1325543788149,"Fall",6524
-9,-75.4167,38.1,"immature",1975,"Baeolophus bicolor","Baeolophus_bicolor",24.8,NA,"male",14.4,1191,8.05531539175258,42.0969838039138,"Fall",6736
-12,-95.7356074,37.6789414,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",25,NA,"male",13.4,568,9.84822318999727,76.706214828175,"Winter",6619
-4,-97.39849,30.11,"u ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",25.2,NA,"female",20.5,682,7.42169220269307,83.120899009602,"Spring",6631
-10,-84.00509,42.44221,"ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",25.6,NA,"male",8.4,847,9.90137348905176,29.4637169832086,"Fall",6569
-1,-95.1864548,38.805701,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",25.7,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",6542
-12,-95.7356074,37.6789414,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",25.8,NA,"female",13.4,568,9.84822318999727,76.706214828175,"Winter",6612
-1,-95.1864548,38.805701,NA,1967,"Baeolophus bicolor","Baeolophus_bicolor",26.2,NA,"male",12,1201,8.87302688267122,83.9610299213543,"Winter",6541
-10,-84.00509,42.44221,"ad.",1951,"Baeolophus bicolor","Baeolophus_bicolor",26.3,NA,"male",8.4,847,9.90137348905176,29.4637169832086,"Fall",6636
-2,-95.2918146,38.9799025,NA,1988,"Baeolophus bicolor","Baeolophus_bicolor",27.2,NA,"male",13.3,583,10.7073855847544,60.2445603138664,"Winter",6554
-12,-95.7356074,37.6789414,NA,1966,"Baeolophus bicolor","Baeolophus_bicolor",27.5,NA,"male",13.4,568,9.84822318999727,76.706214828175,"Winter",6614
+"lifestage","sex","month","decimallongitude","decimallatitude","year","scientificname","sciname_cor","massing","lengthinmm","bio1","bio12","bio4","bio15","seasonality","Ids","bio1_2yr","bio12_2yr","bio4_2yr","bio15_2yr","bio1_5yr","bio12_5yr","bio4_5yr","bio15_5yr","sex_cor","lifestage_cor"
+"ad.","male",7,-84.4794,31.1899,1951,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,20.2,1207,6.60653372645504,51.3031598636248,"Summer",6633,20.15,1113,6.47877386164048,54.6337544346272,20.14,1375,6.40814227307603,50.4029117997363,"M","Adult"
+"ad.","female",7,-84.4794,31.1899,1951,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,20.2,1207,6.60653372645504,51.3031598636248,"Summer",6634,20.15,1113,6.47877386164048,54.6337544346272,20.14,1375,6.40814227307603,50.4029117997363,"F","Adult"
+"ad.","male",10,-84.00509,42.44221,1951,"Baeolophus bicolor","Baeolophus_bicolor",25.6,NA,8.4,847,9.90137348905176,29.4637169832086,"Fall",6569,8.25,902,9.97871990116303,29.3376272944883,8.72,829,10.192800263038,33.7194121129802,"M","Adult"
+"ad.","male",10,-84.00509,42.44221,1951,"Baeolophus bicolor","Baeolophus_bicolor",26.3,NA,8.4,847,9.90137348905176,29.4637169832086,"Fall",6636,8.25,902,9.97871990116303,29.3376272944883,8.72,829,10.192800263038,33.7194121129802,"M","Adult"
+"ad.sk.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.3,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6648,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Adult"
+"ad.sk.","male",2,-97.61539,30.19711,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.4,NA,19.8,887,6.78100622728998,70.0661863505369,"Winter",6642,20.1,793,7.12403259983395,76.5072299645018,20.06,732.8,7.22716798398578,74.0388249200063,"M","Adult"
+"ad.sk.","female",2,-97.61539,30.19711,1952,"Baeolophus bicolor","Baeolophus_bicolor",17.8,NA,19.8,887,6.78100622728998,70.0661863505369,"Winter",6570,20.1,793,7.12403259983395,76.5072299645018,20.06,732.8,7.22716798398578,74.0388249200063,"F","Adult"
+"ad.sk.","male",2,-97.61539,30.19711,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.3,NA,19.8,887,6.78100622728998,70.0661863505369,"Winter",6639,20.1,793,7.12403259983395,76.5072299645018,20.06,732.8,7.22716798398578,74.0388249200063,"M","Adult"
+"ad.sk.","male",6,-94.274,31.04448,1964,"Baeolophus bicolor ?","Baeolophus_bicolor",21.4,NA,18.7,1013,7.49931309985768,41.6582448880009,"Summer",6658,18.8,895,7.96750058845531,47.1969122770453,18.7,1117,7.65645007350295,48.3694757690146,"M","Adult"
+"adult","female",3,-85.47303,38.71571,1998,"Baeolophus bicolor","Baeolophus_bicolor",20.7,NA,14.2,1169,8.27648640865961,55.5705190447376,"Spring",6667,13.05,1170,8.50503203560728,64.9287997365511,12.54,1209,9.14863299336858,57.9886587497613,"F","Adult"
+"adult","male",8,-73.0261,41.2783,1996,"Baeolophus bicolor","Baeolophus_bicolor",20,NA,10.9,1594,8.87780258779608,45.2751508773755,"Summer",6700,10.85,1296,9.06724570304662,49.6907913331949,10.6,1237,9.15593740045854,46.0909013170069,"M","Adult"
+"adult","male",7,-73.434007,42.03537,1977,"Baeolophus bicolor","Baeolophus_bicolor",24,NA,7,1450,10.1127282534078,41.3112920589954,"Summer",6705,6.7,1352,9.98773210643479,43.6732960599387,7.12,1356.6,9.64779351205715,40.3972313539806,"M","Adult"
+"adult","female",10,-72.1333,42,1975,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,8.2,1441,9.25400404738894,32.5704076809867,"Fall",6737,8,1343,9.1775993038392,35.2688685201705,7.92,1353.2,9.42559701425729,37.6469102931459,"F","Adult"
+"imm.","female",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",18.2,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6646,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"F","Juvenile"
+"imm.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6650,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Juvenile"
+"imm.","undetermined",8,-83.4478,31.6689,1951,"Baeolophus bicolor","Baeolophus_bicolor",21.5,NA,19.4,1130,6.68337489596386,55.8131044660853,"Summer",6635,19.3,1065,6.62989813853303,60.1535474035443,19.42,1297.2,6.53291854313994,51.7447299568707,"NS","Juvenile"
+"imm.","male",10,-76.375027,42.440495,1992,"Baeolophus bicolor","Baeolophus_bicolor",22.3999996185303,157,7,1094,8.99994528602897,46.5996637624587,"Fall",6523,8,964,9.30340221011138,38.6518110705577,7.94,987.8,9.53941076911098,44.9390690222768,"M","Juvenile"
+"immature","female",9,-72.1333,42,1975,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,8.2,1441,9.25400404738894,32.5704076809867,"Fall",6702,8,1343,9.1775993038392,35.2688685201705,7.92,1353.2,9.42559701425729,37.6469102931459,"F","Juvenile"
+"immature","female",3,-95.3020834,39.9706494,1967,"Baeolophus bicolor","Baeolophus_bicolor",22.3,NA,11,938,9.34569662756851,98.0371055503981,"Spring",6548,11,795.5,9.78899921069885,100.858027943975,11.38,872,10.4712514099194,92.8182694991784,"F","Juvenile"
+"immature","male",9,-75.4167,38.1,1975,"Baeolophus bicolor","Baeolophus_bicolor",24.8,NA,14.4,1191,8.05531539175258,42.0969838039138,"Fall",6736,14.1,1065,7.76630465174228,45.4026662091738,14.04,1177.2,7.91107088695717,43.8427435298165,"M","Juvenile"
+"immature","female",10,-71.99975147,41.69791209,2010,"Baeolophus bicolor","Baeolophus_bicolor",19,NA,10.9,1219,9.82708070341926,50.1505862622951,"Fall",6663,10.1,1245,9.52330436328596,46.3535792854746,10.2,1285.6,9.30752995314466,49.8231323631297,"F","Juvenile"
+"immature","male",9,-72.170985,41.8911152,1975,"Baeolophus bicolor","Baeolophus_bicolor",24.2,NA,8.6,1413,9.15626958576869,33.6008530675797,"Fall",6661,8.45,1326,9.10246924921351,36.6828974016183,8.42,1350,9.36092711173418,38.2952906014461,"M","Juvenile"
+"immature","female",11,-77.367491,42.764634,2010,"Baeolophus bicolor","Baeolophus_bicolor",19.1,138,8.8,1026,9.99604088293627,51.9954808022083,"Fall",6525,8.1,927.5,9.6369776780057,49.0705369519765,8.46,962,9.47962777964747,44.6010356566056,"F","Juvenile"
+"immature","female",6,-95.2426529,38.9598045,1986,"Baeolophus bicolor","Baeolophus_bicolor",20.4,NA,13.4,1203,9.70421261227527,85.2519259735507,"Summer",6553,12.25,1228,10.5372194416554,72.3920132408669,12.18,1088.4,10.5626625077199,73.851740173095,"F","Juvenile"
+"immature","female",9,-72.1333,42,1975,"Baeolophus bicolor","Baeolophus_bicolor",18.4,NA,8.2,1441,9.25400404738894,32.5704076809867,"Fall",6735,8,1343,9.1775993038392,35.2688685201705,7.92,1353.2,9.42559701425729,37.6469102931459,"F","Juvenile"
+"immature","male",9,-72.1333,42,1975,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,8.2,1441,9.25400404738894,32.5704076809867,"Fall",6733,8,1343,9.1775993038392,35.2688685201705,7.92,1353.2,9.42559701425729,37.6469102931459,"M","Juvenile"
+"imm.sk.","male",2,-97.61539,30.19711,1952,"Baeolophus bicolor","Baeolophus_bicolor",22.1,NA,19.8,887,6.78100622728998,70.0661863505369,"Winter",6637,20.1,793,7.12403259983395,76.5072299645018,20.06,732.8,7.22716798398578,74.0388249200063,"M","Juvenile"
+"imm.sk.","male",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6572,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"M","Juvenile"
+"imm.sk.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6581,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Juvenile"
+"juv.","male",7,-84.4794,31.1899,1951,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,20.2,1207,6.60653372645504,51.3031598636248,"Summer",6568,20.15,1113,6.47877386164048,54.6337544346272,20.14,1375,6.40814227307603,50.4029117997363,"M","Juvenile"
+"juv.","female ?",7,-84.4794,31.1899,1951,"Baeolophus bicolor","Baeolophus_bicolor",17.7,NA,20.2,1207,6.60653372645504,51.3031598636248,"Summer",6567,20.15,1113,6.47877386164048,54.6337544346272,20.14,1375,6.40814227307603,50.4029117997363,"NS","Juvenile"
+"nestling","male",4,-97.51147,30.112,1951,"Baeolophus bicolor","Baeolophus_bicolor",15.3,NA,20.4,692,7.41527395844468,81.1460081524042,"Spring",6564,20.4,641,6.96789758880928,84.3716628503811,20.06,700.2,7.43852078690502,71.52347037962,"M","Juvenile"
+"skull ossified","male",6,-95.07298,35.29503,1982,"Baeolophus bicolor","Baeolophus_bicolor",23,NA,16.3,1144,8.91393189441011,64.2152578053709,"Summer",6659,16.4,1127.5,8.75757372666219,71.300181134136,16.06,982.2,9.62912541371447,68.4705260525881,"M","Adult"
+"skull unossified","male",6,-94.98866,35.23704,1982,"Baeolophus bicolor","Baeolophus_bicolor",20.8,NA,16.6,1168,8.88507430776724,62.7856145115124,"Summer",6597,16.65,1142,8.75051073361184,67.7050665983031,16.32,1004.6,9.61530769303026,65.9836978588619,"M","Juvenile"
+"u ad.","male",2,-97.42126,30.20239,1952,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,20,871,6.73491018139924,71.4641372174458,"Winter",6652,20.25,775.5,7.06053574199465,77.2620636054607,20.24,732.4,7.16393209606907,75.1096473912414,"M","Adult"
+"u ad.","female",2,-97.39765,30.18186,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,20,874,6.72464373281837,71.4982125968517,"Winter",6591,20.25,776,7.05428693403998,77.4667945842798,20.24,736.4,7.16279170561519,75.2409754638037,"F","Adult"
+"u ad.","female",2,-97.61539,30.19711,1952,"Baeolophus bicolor","Baeolophus_bicolor",19,NA,19.8,887,6.78100622728998,70.0661863505369,"Winter",6640,20.1,793,7.12403259983395,76.5072299645018,20.06,732.8,7.22716798398578,74.0388249200063,"F","Adult"
+"u ad.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6585,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Adult"
+"u ad.","female",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",17.7,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6651,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"F","Adult"
+"u ad.","female",2,-97.42126,30.20239,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,20,871,6.73491018139924,71.4641372174458,"Winter",6589,20.25,775.5,7.06053574199465,77.2620636054607,20.24,732.4,7.16393209606907,75.1096473912414,"F","Adult"
+"u ad.","female",2,-97.39765,30.18186,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.2,NA,20,874,6.72464373281837,71.4982125968517,"Winter",6592,20.25,776,7.05428693403998,77.4667945842798,20.24,736.4,7.16279170561519,75.2409754638037,"F","Adult"
+"u ad.","male",4,-97.39849,30.11,1951,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,20.5,682,7.42169220269307,83.120899009602,"Spring",6630,20.45,641,6.97243093177186,85.7007217781302,20.14,705.8,7.45250030079487,72.4340798322073,"M","Adult"
+"u ad.","male",2,-97.42126,30.20239,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.4,NA,20,871,6.73491018139924,71.4641372174458,"Winter",6653,20.25,775.5,7.06053574199465,77.2620636054607,20.24,732.4,7.16393209606907,75.1096473912414,"M","Adult"
+"u ad.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",21.8,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6647,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Adult"
+"u ad.","male",4,-97.51147,30.112,1951,"Baeolophus bicolor","Baeolophus_bicolor",20.4,NA,20.4,692,7.41527395844468,81.1460081524042,"Spring",6565,20.4,641,6.96789758880928,84.3716628503811,20.06,700.2,7.43852078690502,71.52347037962,"M","Adult"
+"u ad.","male",4,-97.51147,30.112,1951,"Baeolophus bicolor","Baeolophus_bicolor",19.9,NA,20.4,692,7.41527395844468,81.1460081524042,"Spring",6563,20.4,641,6.96789758880928,84.3716628503811,20.06,700.2,7.43852078690502,71.52347037962,"M","Adult"
+"u ad.","female",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",17.3,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6576,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"F","Adult"
+"u ad.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.6,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6579,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Adult"
+"u ad.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",20,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6588,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Adult"
+"u ad.","male",2,-97.61539,30.19711,1952,"Baeolophus bicolor","Baeolophus_bicolor",21.4,NA,19.8,887,6.78100622728998,70.0661863505369,"Winter",6641,20.1,793,7.12403259983395,76.5072299645018,20.06,732.8,7.22716798398578,74.0388249200063,"M","Adult"
+"u ad.","male",4,-97.3207,30.1093,1951,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,20.6,677,7.4155191485441,84.9080361782141,"Spring",6632,20.55,643,6.96593111950748,87.4057652818554,20.22,711.6,7.44762702616852,73.6196846579518,"M","Adult"
+"u ad.","male",4,-97.51147,30.112,1951,"Baeolophus bicolor","Baeolophus_bicolor",19.5,NA,20.4,692,7.41527395844468,81.1460081524042,"Spring",6560,20.4,641,6.96789758880928,84.3716628503811,20.06,700.2,7.43852078690502,71.52347037962,"M","Adult"
+"u ad.","male",2,-97.39765,30.18186,1952,"Baeolophus bicolor","Baeolophus_bicolor",21.9,NA,20,874,6.72464373281837,71.4982125968517,"Winter",6657,20.25,776,7.05428693403998,77.4667945842798,20.24,736.4,7.16279170561519,75.2409754638037,"M","Adult"
+"u ad.","female",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.1,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6586,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"F","Adult"
+"u ad.","female",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6580,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"F","Adult"
+"u ad.","male",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6644,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"M","Adult"
+"u ad.","male",4,-97.51147,30.112,1951,"Baeolophus bicolor","Baeolophus_bicolor",19.9,NA,20.4,692,7.41527395844468,81.1460081524042,"Spring",6562,20.4,641,6.96789758880928,84.3716628503811,20.06,700.2,7.43852078690502,71.52347037962,"M","Adult"
+"u ad.","female",4,-97.39849,30.11,1951,"Baeolophus bicolor","Baeolophus_bicolor",25.2,NA,20.5,682,7.42169220269307,83.120899009602,"Spring",6631,20.45,641,6.97243093177186,85.7007217781302,20.14,705.8,7.45250030079487,72.4340798322073,"F","Adult"
+"u ad.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6587,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Adult"
+"u ad.","male",2,-97.39765,30.18186,1952,"Baeolophus bicolor","Baeolophus_bicolor",22.2,NA,20,874,6.72464373281837,71.4982125968517,"Winter",6655,20.25,776,7.05428693403998,77.4667945842798,20.24,736.4,7.16279170561519,75.2409754638037,"M","Adult"
+"u ad.","male",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",17.3,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6578,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"M","Adult"
+"u ad.","female",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6582,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"F","Adult"
+"u ad.","male",4,-97.39849,30.11,1951,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,20.5,682,7.42169220269307,83.120899009602,"Spring",6566,20.45,641,6.97243093177186,85.7007217781302,20.14,705.8,7.45250030079487,72.4340798322073,"M","Adult"
+"u ad.","female",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.5,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6645,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"F","Adult"
+"u ad.","male",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6574,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"M","Adult"
+"u ad.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.3,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6649,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Adult"
+"u ad.","female",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6573,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"F","Adult"
+"u ad.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6584,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Adult"
+"u ad.","male",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.7,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6575,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"M","Adult"
+"u ad.","male",4,-97.51147,30.112,1951,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,20.4,692,7.41527395844468,81.1460081524042,"Spring",6561,20.4,641,6.96789758880928,84.3716628503811,20.06,700.2,7.43852078690502,71.52347037962,"M","Adult"
+"u ad.","undetermined",2,-97.39765,30.18186,1952,"Baeolophus bicolor","Baeolophus_bicolor",22.4,NA,20,874,6.72464373281837,71.4982125968517,"Winter",6656,20.25,776,7.05428693403998,77.4667945842798,20.24,736.4,7.16279170561519,75.2409754638037,"NS","Adult"
+"u ad.","male",4,-97.51147,30.112,1951,"Baeolophus bicolor","Baeolophus_bicolor",22.1,NA,20.4,692,7.41527395844468,81.1460081524042,"Spring",6628,20.4,641,6.96789758880928,84.3716628503811,20.06,700.2,7.43852078690502,71.52347037962,"M","Adult"
+"u ad.","male",2,-97.39765,30.18186,1952,"Baeolophus bicolor","Baeolophus_bicolor",21.1,NA,20,874,6.72464373281837,71.4982125968517,"Winter",6654,20.25,776,7.05428693403998,77.4667945842798,20.24,736.4,7.16279170561519,75.2409754638037,"M","Adult"
+"u ad.","male",3,-96.472,30.766,1951,"Baeolophus bicolor","Baeolophus_bicolor",21.2,NA,20.4,683,7.72226219014437,52.8546272316857,"Spring",6709,20.3,740.5,7.14627903233422,60.4406638051248,20.12,831.6,7.59868023363174,60.8353298167875,"M","Adult"
+"u ad.","male",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",21.9,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6577,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"M","Adult"
+"u ad.","male",2,-97.56546,30.11,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.9,NA,19.8,914,6.74220088155735,70.7359995857113,"Winter",6583,20.1,806.5,7.08084395882638,76.0871382596358,20.08,753.2,7.16997988516188,74.0601027502103,"M","Adult"
+"u ad.","female",4,-97.51147,30.112,1951,"Baeolophus bicolor","Baeolophus_bicolor",19.3,NA,20.4,692,7.41527395844468,81.1460081524042,"Spring",6629,20.4,641,6.96789758880928,84.3716628503811,20.06,700.2,7.43852078690502,71.52347037962,"F","Adult"
+"u ad.","male",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.6,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6643,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"M","Adult"
+"u ad.","female",2,-97.61539,30.19711,1952,"Baeolophus bicolor","Baeolophus_bicolor",19.1,NA,19.8,887,6.78100622728998,70.0661863505369,"Winter",6638,20.1,793,7.12403259983395,76.5072299645018,20.06,732.8,7.22716798398578,74.0388249200063,"F","Adult"
+"u ad.","male",2,-97.39765,30.18186,1952,"Baeolophus bicolor","Baeolophus_bicolor",21,NA,20,874,6.72464373281837,71.4982125968517,"Winter",6590,20.25,776,7.05428693403998,77.4667945842798,20.24,736.4,7.16279170561519,75.2409754638037,"M","Adult"
+"u ad.","male",2,-97.60767,30.19433,1952,"Baeolophus bicolor","Baeolophus_bicolor",20.1,NA,19.8,888,6.76660695599868,70.2578073199386,"Winter",6571,20.1,793.5,7.1168329641883,76.6030404492027,20.06,734,7.22114052012533,73.9934867311766,"M","Adult"
+"U-Ad","male",2,-85.47296,38.71366,1997,"Baeolophus bicolor","Baeolophus_bicolor",23.3,NA,11.9,1172,8.71158667661881,74.3520982241372,"Winter",6666,11.85,1335.5,9.11384074785832,64.78705536942,12.12,1218.2,9.38236383267172,52.1292706881167,"M","Adult"
+"U-Ad.","female",3,-85.47296,38.71366,1984,"Baeolophus bicolor bicolor","Baeolophus_bicolor",19.5,NA,12.6,1192,9.26381032935054,47.1395683737697,"Spring",6706,12.65,1211,9.64236959303707,61.9417808047084,12.4,1112.4,9.74133308104968,50.3577875578746,"F","Adult"
+"u imm.","undetermined",6,-94.274,31.04448,1964,"Baeolophus bicolor ?","Baeolophus_bicolor",19.7,NA,18.7,1013,7.49931309985768,41.6582448880009,"Summer",6593,18.8,895,7.96750058845531,47.1969122770453,18.7,1117,7.65645007350295,48.3694757690146,"NS","Juvenile"
+"unknown","male",3,-96.7385,28.904,1988,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,21.1,636,6.77428292079015,63.1087462629587,"Spring",6594,21,831,6.69638013508456,80.2088199245522,21.14,933.4,6.7219094301428,76.0633887167462,"M","NS"
+"unknown","male",3,-96.7385,28.904,1988,"Baeolophus bicolor","Baeolophus_bicolor",19.3,NA,21.1,636,6.77428292079015,63.1087462629587,"Spring",6595,21,831,6.69638013508456,80.2088199245522,21.14,933.4,6.7219094301428,76.0633887167462,"M","NS"
+"unknown","male",6,-94.98866,35.23704,1982,"Baeolophus bicolor","Baeolophus_bicolor",24,NA,16.6,1168,8.88507430776724,62.7856145115124,"Summer",6596,16.65,1142,8.75051073361184,67.7050665983031,16.32,1004.6,9.61530769303026,65.9836978588619,"M","NS"
+NA,"female",6,-98.84032,26.90949,2013,"Baeolophus bicolor","Baeolophus_bicolor",14.2,NA,22.8,613,6.37915046115551,91.1427930802012,"Summer",6698,23.4,542,6.09868774233466,80.4599569316786,23.4,512.8,6.49239137139401,104.116853296944,"F","NS"
+NA,"female",6,-98.75737,26.79981,2013,"Baeolophus bicolor","Baeolophus_bicolor",14.8,NA,23,621,6.1551345897699,92.8017529902052,"Summer",6730,23.6,548,5.88060609503587,81.7224668762553,23.56,523.6,6.27469593266833,106.895125349625,"F","NS"
+NA,"female",1,-95.1864548,38.805701,1967,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,12,1201,8.87302688267122,83.9610299213543,"Winter",6543,12,971,9.3791138947836,88.2232332789639,12.46,930.6,10.0750899109518,83.5675867877259,"F","NS"
+NA,"female",7,-98.1557167,30.91685,2011,"Baeolophus bicolor","Baeolophus_bicolor",15.2,NA,20.8,487,8.56371839373953,63.6205575179294,"Summer",6694,19.95,622,8.45081008590066,76.1176546943995,19.24,756.8,7.89225299425173,79.8422535657468,"F","NS"
+NA,"female",3,-93.42,35.221881,1990,"Baeolophus bicolor","Baeolophus_bicolor",19,150,16.2,1680,7.94200093099206,54.5482374058194,"Spring",6520,15.45,1457,8.34953583359538,63.0268650290665,15.66,1310.8,8.56968891881568,57.6991283333666,"F","NS"
+NA,"female",6,-97.26265,30.4676833,2011,"Baeolophus bicolor","Baeolophus_bicolor",15.5,NA,21.5,571,8.38694873544062,75.6113982533247,"Summer",6715,20.7,694,8.36875334587908,72.2374021712862,20.08,828,7.82446913016966,75.9812604406472,"F","NS"
+NA,"female",8,-99.3955167,30.0416667,2011,"Baeolophus bicolor","Baeolophus_bicolor",16,NA,19.9,507,7.9562582571549,87.1695881738925,"Summer",6725,19.1,671,7.8679444042413,85.892046308463,18.8,725.8,7.29062906996271,90.7698651324891,"F","NS"
+NA,"female",11,-76.5095,42.4381,2005,"Baeolophus bicolor","Baeolophus_bicolor",21,163,9.7,997,10.8141706976905,51.8235923439078,"Fall",6604,9.3,1039,10.3710158540605,54.0272791273535,9.44,958.4,9.85295385600218,48.7257284582607,"F","NS"
+NA,"male",5,-98.84032,26.90949,2013,"Baeolophus bicolor","Baeolophus_bicolor",17.5,NA,22.8,613,6.37915046115551,91.1427930802012,"Spring",6696,23.4,542,6.09868774233466,80.4599569316786,23.4,512.8,6.49239137139401,104.116853296944,"M","NS"
+NA,"female",6,-97.26265,30.4676833,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.4,NA,21.5,571,8.38694873544062,75.6113982533247,"Summer",6688,20.7,694,8.36875334587908,72.2374021712862,20.08,828,7.82446913016966,75.9812604406472,"F","NS"
+NA,"female",5,-98.0852833,29.963,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.7,NA,21.4,558,7.9314630466646,76.0538926559441,"Spring",6723,20.55,749,7.88392916092956,76.1560327458616,20.14,794.2,7.38624246106225,84.5606058230554,"F","NS"
+NA,"female",7,-97.08355,31.4691667,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.8,NA,20.6,575,8.95527608156051,61.050390039782,"Summer",6685,20.1,670.5,8.92569473256525,62.8449435906248,19.66,857.6,8.22032190253782,74.8669561264976,"F","NS"
+NA,"female",7,-97.9691667,30.4736833,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.9,NA,21.3,516,8.33497105119402,69.5132791145214,"Summer",6692,20.5,683,8.26013183182465,76.0716560183313,19.82,770.4,7.76020516083858,80.425498287685,"F","NS"
+NA,"female",2,-97.6546,30.2292,1957,"Baeolophus bicolor","Baeolophus_bicolor",17.1,NA,19.9,1241,6.85373156489488,73.5671061999326,"Winter",6622,20.4,842,7.1432300859521,62.6139413774063,20.52,722,7.16466212413055,63.8204347973894,"F","NS"
+NA,"female",7,-96.08355,30.4691667,2011,"Baeolophus bicolor","Baeolophus_bicolor",17.1,NA,21.1,694,8.20016629543129,74.6337506158598,"Summer",6719,20.5,726,8.30960293246329,67.6689475661507,20.24,972,7.65218533557694,65.7803080913809,"F","NS"
+NA,"female",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.7,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6528,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"F","NS"
+NA,"female",3,-93.42,35.221881,1990,"Baeolophus bicolor","Baeolophus_bicolor",24.5,153,16.2,1680,7.94200093099206,54.5482374058194,"Spring",6602,15.45,1457,8.34953583359538,63.0268650290665,15.66,1310.8,8.56968891881568,57.6991283333666,"F","NS"
+NA,"female",7,-94.4434,30.7682,2010,"Baeolophus bicolor","Baeolophus_bicolor",18,NA,19,982,8.51214373169831,69.5705626332053,"Summer",6679,19.15,1215,7.85284019648187,70.3716948546615,19.32,1364,7.26487797530858,59.4670424080408,"F","NS"
+NA,"female",12,-95.2066667,39.0316667,2008,"Baeolophus bicolor","Baeolophus_bicolor",21.5,NA,12.1,1052,10.3985539495847,62.046927174184,"Winter",6669,12.9,1037.5,10.5938221293205,63.8414260120413,13.4,995.2,9.98470209968255,67.9483332417141,"F","NS"
+NA,"female",10,-99.3964833,30.0431167,2009,"Baeolophus bicolor","Baeolophus_bicolor",17.4,NA,19.1,671,7.33461593466835,90.8332776600774,"Fall",6674,19,554,7.03590177520479,97.5822026348497,18.8,686,6.85470004270256,82.3988285489169,"F","NS"
+NA,"male",7,-97.26265,30.4676833,2011,"Baeolophus bicolor","Baeolophus_bicolor",20,NA,21.5,571,8.38694873544062,75.6113982533247,"Summer",6722,20.7,694,8.36875334587908,72.2374021712862,20.08,828,7.82446913016966,75.9812604406472,"M","NS"
+NA,"female",8,-96.4434,30.7682,2010,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,19.8,702,8.49168934186761,64.6272235426517,"Summer",6677,20,893,8.01307528706969,82.7542536978944,20,962,7.45186809411114,65.1610351894812,"F","NS"
+NA,"female",12,-95.7356074,37.6789414,1966,"Baeolophus bicolor","Baeolophus_bicolor",25.8,NA,13.4,568,9.84822318999727,76.706214828175,"Winter",6612,13.85,742,9.7024461438353,76.0893737477128,14.02,720,10.1845065455841,76.463743684596,"F","NS"
+NA,"male",4,-94.8779297,38.6951569,1946,"Baeolophus bicolor","Baeolophus_bicolor",23.3,NA,14.2,910,8.75243689009818,53.0665819538149,"Spring",6623,13.05,989.5,9.23752789266242,70.535977356436,12.74,1014,9.74086448969176,71.2523710627243,"M","NS"
+NA,"female",8,-99.3955167,30.0416667,2010,"Baeolophus bicolor","Baeolophus_bicolor",17.7,NA,18.3,835,7.77963055132771,84.6145044430334,"Summer",6724,18.7,753,7.55712324299803,87.7800569956449,18.74,724.4,7.04553243684624,82.356263960613,"F","NS"
+NA,"female",11,-95.2,39.0333333,2007,"Baeolophus bicolor","Baeolophus_bicolor",22.5,NA,13.6,1022,10.8105272766873,65.5836013233886,"Fall",6707,14,916.5,9.97594590291164,70.6408125274533,13.44,940.6,9.9707772620773,71.1314542639448,"F","NS"
+NA,"female",6,-100.5689166667,33.8672833333,2011,"Baeolophus bicolor atricristatus","Baeolophus_bicolor",17.8,NA,18.1,326,10.0353768179769,76.6536259773188,"Summer",6708,17.5,515,9.65430159300346,72.716005601791,17.06,542.4,8.85010470165779,76.9588558766022,"F","NS"
+NA,"female",3,-91.376231,36.024164,1990,"Baeolophus bicolor","Baeolophus_bicolor",20,145,16.4,1645,7.64975737385101,50.5232907062635,"Spring",6521,15.55,1406.5,8.27507446062383,59.7475772648675,15.84,1274.8,8.62518752301199,59.3593020811552,"F","NS"
+NA,"female",12,-95.7356074,37.6789414,1966,"Baeolophus bicolor","Baeolophus_bicolor",20.9,NA,13.4,568,9.84822318999727,76.706214828175,"Winter",6538,13.85,742,9.7024461438353,76.0893737477128,14.02,720,10.1845065455841,76.463743684596,"F","NS"
+NA,"female",8,-99.3955167,30.0416667,2011,"Baeolophus bicolor","Baeolophus_bicolor",18,NA,19.9,507,7.9562582571549,87.1695881738925,"Summer",6678,19.1,671,7.8679444042413,85.892046308463,18.8,725.8,7.29062906996271,90.7698651324891,"F","NS"
+NA,"female",7,-94.4434,30.7682,2010,"Baeolophus bicolor","Baeolophus_bicolor",18.9,NA,19,982,8.51214373169831,69.5705626332053,"Summer",6714,19.15,1215,7.85284019648187,70.3716948546615,19.32,1364,7.26487797530858,59.4670424080408,"F","NS"
+NA,"male",4,-97.9691667,30.4736833,2011,"Baeolophus bicolor","Baeolophus_bicolor",17.8,NA,21.3,516,8.33497105119402,69.5132791145214,"Spring",6718,20.5,683,8.26013183182465,76.0716560183313,19.82,770.4,7.76020516083858,80.425498287685,"M","NS"
+NA,"male",10,-99.3964833,30.0431167,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,19.1,671,7.33461593466835,90.8332776600774,"Fall",6673,19,554,7.03590177520479,97.5822026348497,18.8,686,6.85470004270256,82.3988285489169,"M","NS"
+NA,"male",3,-79.4614,33.0881,1967,"Baeolophus bicolor","Baeolophus_bicolor",18,NA,17.7,1260,6.08086915637639,70.8970913452336,"Spring",6704,17.55,1348.5,6.59822585760283,61.2748902194812,17.66,1403.4,6.85702214204,62.2192921450639,"M","NS"
+NA,"female",5,-98.0852833,29.963,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.4,NA,21.4,558,7.9314630466646,76.0538926559441,"Spring",6687,20.55,749,7.88392916092956,76.1560327458616,20.14,794.2,7.38624246106225,84.5606058230554,"F","NS"
+NA,"female",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",19.7,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6530,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"F","NS"
+NA,"male",6,-97.26265,30.4676833,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.4,NA,21.5,571,8.38694873544062,75.6113982533247,"Summer",6717,20.7,694,8.36875334587908,72.2374021712862,20.08,828,7.82446913016966,75.9812604406472,"M","NS"
+NA,"female",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",24,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6608,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"F","NS"
+NA,"undetermined",1,-95.1864548,38.805701,1967,"Baeolophus bicolor","Baeolophus_bicolor",20.1,NA,12,1201,8.87302688267122,83.9610299213543,"Winter",6539,12,971,9.3791138947836,88.2232332789639,12.46,930.6,10.0750899109518,83.5675867877259,"NS","NS"
+NA,"male",5,-98.79912,26.83624,2013,"Baeolophus bicolor","Baeolophus_bicolor",16.3,NA,23,618,6.26613674419651,91.7202295615941,"Spring",6697,23.6,545.5,5.98974582337028,81.0073729339233,23.56,519,6.38157426535821,105.836753378591,"M","NS"
+NA,"female",12,-95.7356074,37.6789414,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,13.4,568,9.84822318999727,76.706214828175,"Winter",6613,13.85,742,9.7024461438353,76.0893737477128,14.02,720,10.1845065455841,76.463743684596,"F","NS"
+NA,"female",10,-99.3964833,30.0431167,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,19.1,671,7.33461593466835,90.8332776600774,"Fall",6675,19,554,7.03590177520479,97.5822026348497,18.8,686,6.85470004270256,82.3988285489169,"F","NS"
+NA,"female",12,-95.7356074,37.6789414,1966,"Baeolophus bicolor","Baeolophus_bicolor",24.6,NA,13.4,568,9.84822318999727,76.706214828175,"Winter",6611,13.85,742,9.7024461438353,76.0893737477128,14.02,720,10.1845065455841,76.463743684596,"F","NS"
+NA,"male",8,-99.3955167,30.0416667,2010,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,18.3,835,7.77963055132771,84.6145044430334,"Summer",6680,18.7,753,7.55712324299803,87.7800569956449,18.74,724.4,7.04553243684624,82.356263960613,"M","NS"
+NA,"male",11,-95.2784323,38.9513326,1964,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,12.8,1008,9.83264121858076,72.0524942544508,"Fall",6526,12.85,803,10.9364934523744,73.0026089324706,12.22,945.8,10.7212466631505,66.2774882539972,"M","NS"
+NA,"male",6,-98.75737,26.79981,2013,"Baeolophus bicolor","Baeolophus_bicolor",17.3,NA,23,621,6.1551345897699,92.8017529902052,"Summer",6731,23.6,548,5.88060609503587,81.7224668762553,23.56,523.6,6.27469593266833,106.895125349625,"M","NS"
+NA,"female",1,-95.1864548,38.805701,1967,"Baeolophus bicolor","Baeolophus_bicolor",21.5,NA,12,1201,8.87302688267122,83.9610299213543,"Winter",6616,12,971,9.3791138947836,88.2232332789639,12.46,930.6,10.0750899109518,83.5675867877259,"F","NS"
+NA,"male",4,-97.3343833,29.9578833,2012,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,21.6,1123,6.32821962611631,74.5472839294494,"Spring",6728,21.65,851.5,7.14799781805574,77.4036234098474,20.94,808,7.33228032643749,76.8037873891966,"M","NS"
+NA,"male",10,-99.3964833,30.0431167,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,19.1,671,7.33461593466835,90.8332776600774,"Fall",6710,19,554,7.03590177520479,97.5822026348497,18.8,686,6.85470004270256,82.3988285489169,"M","NS"
+NA,"male",10,-99.3964833,30.0431167,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,19.1,671,7.33461593466835,90.8332776600774,"Fall",6711,19,554,7.03590177520479,97.5822026348497,18.8,686,6.85470004270256,82.3988285489169,"M","NS"
+NA,"female",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.1,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6531,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"F","NS"
+NA,"female",6,-76.42909,42.44577,2004,"Baeolophus bicolor","Baeolophus_bicolor",21.1,144,7.8,1158,10.0247081118241,55.3278248901777,"Summer",6605,7.6,1139,10.1041980244563,44.9556078801212,8.16,1025.8,9.64100117202333,46.7316832662097,"F","NS"
+NA,"male",6,-97.26265,30.4676833,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.7,NA,21.5,571,8.38694873544062,75.6113982533247,"Summer",6682,20.7,694,8.36875334587908,72.2374021712862,20.08,828,7.82446913016966,75.9812604406472,"M","NS"
+NA,"male",2,-95.2918146,38.9799025,1988,"Baeolophus bicolor","Baeolophus_bicolor",27.2,NA,13.3,583,10.7073855847544,60.2445603138664,"Winter",6554,13.5,794,10.1341929563958,60.0009472516364,12.76,1010,10.2369760026327,68.9048791732104,"M","NS"
+NA,"female",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",20.9,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6617,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"F","NS"
+NA,"female",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",23.4,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6533,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"F","NS"
+NA,"male",7,-98.77705,26.7549,2013,"Baeolophus bicolor","Baeolophus_bicolor",15.1,NA,23.1,625,6.18752410463624,93.8822583306508,"Summer",6699,23.7,547,5.91063155371125,82.9833867904915,23.66,522.2,6.31112816516236,107.56216784116,"M","NS"
+NA,"female",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.7,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6534,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"F","NS"
+NA,"male",10,-99.3964833,30.0431167,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,19.1,671,7.33461593466835,90.8332776600774,"Fall",6671,19,554,7.03590177520479,97.5822026348497,18.8,686,6.85470004270256,82.3988285489169,"M","NS"
+NA,"female",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.4,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6532,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"F","NS"
+NA,"male",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.9,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6609,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"M","NS"
+NA,"male",6,-97.3343833,29.9578833,2011,"Baeolophus bicolor","Baeolophus_bicolor",16.3,NA,21.7,580,7.96777600999517,80.2599628902454,"Summer",6690,20.9,724.5,7.97549615285737,71.1526578498986,20.56,817.6,7.43203899474635,75.5083118555449,"M","NS"
+NA,"male",3,-92.864278,32.119241,1990,"Baeolophus bicolor","Baeolophus_bicolor",23,155,19.2,1684,6.81395070736678,57.0686410089929,"Spring",6600,18.4,1739.5,7.1821835558488,72.4968979560517,18.32,1488,7.41264490125724,65.7595136181996,"M","NS"
+NA,"male",10,-72.170985,41.8911152,1975,"Baeolophus bicolor","Baeolophus_bicolor",22,NA,8.6,1413,9.15626958576869,33.6008530675797,"Fall",6662,8.45,1326,9.10246924921351,36.6828974016183,8.42,1350,9.36092711173418,38.2952906014461,"M","NS"
+NA,"female",1,-76.2954,42.3784,2003,"Baeolophus bicolor","Baeolophus_bicolor",20.2999992370605,NA,6.8,1197,10.2809142088482,36.929454160157,"Winter",6603,7.55,1140.5,9.82522448974276,40.4272815852222,7.68,1033.8,9.66524758088651,49.1737875721937,"F","NS"
+NA,"male",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",23.1,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6540,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"M","NS"
+NA,"male",6,-97.3343833,29.9578833,2011,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,21.7,580,7.96777600999517,80.2599628902454,"Summer",6689,20.9,724.5,7.97549615285737,71.1526578498986,20.56,817.6,7.43203899474635,75.5083118555449,"M","NS"
+NA,"male",3,-76.28712,42.349548,1989,"Baeolophus bicolor","Baeolophus_bicolor",20.7000007629395,140,6.7,1059,10.5529365437763,55.5779248757815,"Spring",6668,6.9,957,10.4165292902738,51.8822458064562,7.18,975.4,9.95731375207249,47.0513625053864,"M","NS"
+NA,"female",7,-96.08355,30.4691667,2011,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,21.1,694,8.20016629543129,74.6337506158598,"Summer",6720,20.5,726,8.30960293246329,67.6689475661507,20.24,972,7.65218533557694,65.7803080913809,"F","NS"
+NA,"male",3,-82.554534,30.382873,1993,"Baeolophus bicolor","Baeolophus_bicolor",20,145,20.1,1152,6.3405560887947,46.7890944772635,"Spring",6522,20.1,1258,6.01865278034128,48.360173040778,20.5,1249.2,5.75764750302241,55.9223505501672,"M","NS"
+NA,"male",5,-98.0852833,29.963,2011,"Baeolophus bicolor","Baeolophus_bicolor",17.2,NA,21.4,558,7.9314630466646,76.0538926559441,"Spring",6681,20.55,749,7.88392916092956,76.1560327458616,20.14,794.2,7.38624246106225,84.5606058230554,"M","NS"
+NA,"male",4,-97.3343833,29.9578833,2012,"Baeolophus bicolor","Baeolophus_bicolor",20,NA,21.6,1123,6.32821962611631,74.5472839294494,"Spring",6695,21.65,851.5,7.14799781805574,77.4036234098474,20.94,808,7.33228032643749,76.8037873891966,"M","NS"
+NA,"male",6,-97.3343833,29.9578833,2011,"Baeolophus bicolor","Baeolophus_bicolor",18,NA,21.7,580,7.96777600999517,80.2599628902454,"Summer",6691,20.9,724.5,7.97549615285737,71.1526578498986,20.56,817.6,7.43203899474635,75.5083118555449,"M","NS"
+NA,"male",7,-94.4434,30.7682,2010,"Baeolophus bicolor","Baeolophus_bicolor",21,NA,19,982,8.51214373169831,69.5705626332053,"Summer",6693,19.15,1215,7.85284019648187,70.3716948546615,19.32,1364,7.26487797530858,59.4670424080408,"M","NS"
+NA,"male",5,-98.0852833,29.963,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.7,NA,21.4,558,7.9314630466646,76.0538926559441,"Spring",6684,20.55,749,7.88392916092956,76.1560327458616,20.14,794.2,7.38624246106225,84.5606058230554,"M","NS"
+NA,"male",7,-72.6372,41.3597,1968,"Baeolophus bicolor","Baeolophus_bicolor",21.9,NA,9.3,1011,9.86779272853526,57.3532884782539,"Summer",6703,9,1111,9.46559448735437,46.0748954440998,9.14,991.6,9.2781834498421,41.7814565582259,"M","NS"
+NA,"male",9,-79.3501282,35.0635845,1988,"Baeolophus bicolor bicolor","Baeolophus_bicolor",21,NA,15.3,1073,8.32393409319648,48.5252028931618,"Fall",6626,15.65,1124,8.35440929064847,47.3298283870387,16.1,1115.8,8.03103762219417,56.0261536588865,"M","NS"
+NA,"male",4,-98.0852833,29.963,2012,"Baeolophus bicolor","Baeolophus_bicolor",17.4,NA,21.2,1120,6.40686185178663,81.6555971394755,"Spring",6726,21.3,839,7.16916244922561,78.8547448977098,20.56,788.6,7.3171278261081,86.4925988040788,"M","NS"
+NA,"male",7,-98.08355,32.4691667,2011,"Baeolophus bicolor","Baeolophus_bicolor",19.4,NA,19.8,523,9.28273078943319,68.1891547191531,"Summer",6686,19.2,656.5,9.1557531682355,71.3806234307384,18.9,731.4,8.41689816201312,74.3372637840389,"M","NS"
+NA,"male",5,-98.0852833,29.963,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.5,NA,21.4,558,7.9314630466646,76.0538926559441,"Spring",6721,20.55,749,7.88392916092956,76.1560327458616,20.14,794.2,7.38624246106225,84.5606058230554,"M","NS"
+NA,NA,10,-72.9047,41.2483,1979,"Baeolophus bicolor","Baeolophus_bicolor",20.9,NA,11,1402,9.14513863241343,59.9331167410996,"Fall",6701,10.5,1293,9.34728769597118,56.9658338955786,10.78,1259.8,9.22985938593676,45.8935528493728,"NS","NS"
+NA,"male",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",24.4,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6551,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"M","NS"
+NA,"male",6,-100.8033166667,33.7664333333,2011,"Baeolophus bicolor atricristatus","Baeolophus_bicolor",17.9,NA,17.8,298,9.87296200680823,79.644981245135,"Summer",6670,17.2,511,9.46806001444799,77.6502846560213,16.78,536.2,8.6743114426381,82.6260996912715,"M","NS"
+NA,"male",6,-97.26265,30.4676833,2011,"Baeolophus bicolor","Baeolophus_bicolor",18.9,NA,21.5,571,8.38694873544062,75.6113982533247,"Summer",6683,20.7,694,8.36875334587908,72.2374021712862,20.08,828,7.82446913016966,75.9812604406472,"M","NS"
+NA,"male",1,-95.1864548,38.805701,1967,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,12,1201,8.87302688267122,83.9610299213543,"Winter",6615,12,971,9.3791138947836,88.2232332789639,12.46,930.6,10.0750899109518,83.5675867877259,"M","NS"
+NA,"male",10,-76.5095,42.4381,2006,"Baeolophus bicolor","Baeolophus_bicolor",24.7,155,10.5,1055,8.50810665118149,49.1325543788149,"Fall",6524,10.1,1026,9.661138674436,50.4780733613614,9.54,1016,9.72555408690195,47.1045861893521,"M","NS"
+NA,"male",12,-95.7356074,37.6789414,1966,"Baeolophus bicolor","Baeolophus_bicolor",25,NA,13.4,568,9.84822318999727,76.706214828175,"Winter",6619,13.85,742,9.7024461438353,76.0893737477128,14.02,720,10.1845065455841,76.463743684596,"M","NS"
+NA,NA,5,-96.2286389,30.4718611,2012,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,21.3,1224,6.37799246462301,60.0161338158273,"Spring",6729,21.25,945.5,7.29981667316875,67.2632429872841,20.54,914.4,7.52567213401141,68.2506988351452,"NS","NS"
+NA,"male",1,-95.2,39.0333333,2003,"Baeolophus bicolor","Baeolophus_bicolor",22.5,NA,12.9,777,10.266048043149,77.9915829389809,"Winter",6558,13.1,711.5,10.1226553160236,83.1124756546961,13.32,830,10.1644472388248,78.0221049960715,"M","NS"
+NA,"male",1,-95.1864548,38.805701,1967,"Baeolophus bicolor","Baeolophus_bicolor",23.7,NA,12,1201,8.87302688267122,83.9610299213543,"Winter",6545,12,971,9.3791138947836,88.2232332789639,12.46,930.6,10.0750899109518,83.5675867877259,"M","NS"
+NA,"male",7,-98.1087447,39.0400349,1965,"Baeolophus bicolor","Baeolophus_bicolor",20.7,NA,12.5,709,10.4605282617634,96.6349849632112,"Summer",6527,12.75,641,10.4997733369394,83.8470683714569,12.64,659.8,10.782741940659,81.2045446597436,"M","NS"
+NA,"male",7,-99.8790321,32.7565079,1970,"Baeolophus bicolor","Baeolophus_bicolor",18.5,NA,17.8,486,8.60571955683597,75.4624504259777,"Summer",6620,17.85,714,8.64123679655681,77.7371073720772,17.76,699.2,8.47397163260003,86.9175364434351,"M","NS"
+NA,NA,3,-87.272352,34.296585,1991,"Baeolophus bicolor","Baeolophus_bicolor",21.5,155,16.6,1818,7.88744207105462,55.9291182170424,"Spring",6601,16.65,1800.5,7.36022509669861,63.8677016976394,15.82,1559.4,7.8716182413678,55.9101916859739,"NS","NS"
+NA,"male",3,-95.3020834,39.9706494,1967,"Baeolophus bicolor","Baeolophus_bicolor",23.2,NA,11,938,9.34569662756851,98.0371055503981,"Spring",6546,11,795.5,9.78899921069885,100.858027943975,11.38,872,10.4712514099194,92.8182694991784,"M","NS"
+NA,"male",10,-72.170985,41.8911152,1975,"Baeolophus bicolor","Baeolophus_bicolor",19.9,NA,8.6,1413,9.15626958576869,33.6008530675797,"Fall",6598,8.45,1326,9.10246924921351,36.6828974016183,8.42,1350,9.36092711173418,38.2952906014461,"M","NS"
+NA,"male",10,-99.3964833,30.0431167,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.2,NA,19.1,671,7.33461593466835,90.8332776600774,"Fall",6676,19,554,7.03590177520479,97.5822026348497,18.8,686,6.85470004270256,82.3988285489169,"M","NS"
+NA,"male",4,-94.4434,30.7682,2010,"Baeolophus bicolor","Baeolophus_bicolor",19.5,NA,19,982,8.51214373169831,69.5705626332053,"Spring",6712,19.15,1215,7.85284019648187,70.3716948546615,19.32,1364,7.26487797530858,59.4670424080408,"M","NS"
+NA,"male",5,-97.2626517,30.4676833,2012,"Baeolophus bicolor","Baeolophus_bicolor",19.5,NA,21.4,1087,6.59229922643906,72.213560177047,"Spring",6727,21.45,829,7.48962398093984,73.9124792151858,20.54,798.2,7.70337517253271,74.9720710527908,"M","NS"
+NA,"male",3,-95.30079,39.01715,1964,"Baeolophus bicolor","Baeolophus_bicolor",21.8,NA,12.8,999,9.86531650262523,73.6138062849034,"Spring",6624,12.9,798,10.9611307826099,74.7338393267638,12.24,936.2,10.7480426609391,66.6007117649918,"M","NS"
+NA,"male",10,-99.3964833,30.0431167,2009,"Baeolophus bicolor","Baeolophus_bicolor",19.8,NA,19.1,671,7.33461593466835,90.8332776600774,"Fall",6672,19,554,7.03590177520479,97.5822026348497,18.8,686,6.85470004270256,82.3988285489169,"M","NS"
+NA,"male",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.9,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6536,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"M","NS"
+NA,"male",4,-95.2,39.0333333,1996,"Baeolophus bicolor","Baeolophus_bicolor",23,NA,12.2,1179,10.3515004036159,82.7626922652531,"Spring",6556,12.6,1085.5,10.0961218156377,90.8236464950375,12.64,1084.6,9.76129933447519,77.8515413510668,"M","NS"
+NA,NA,7,-72.6372,41.3597,1968,"Baeolophus bicolor","Baeolophus_bicolor",21.3,NA,9.3,1011,9.86779272853526,57.3532884782539,"Summer",6734,9,1111,9.46559448735437,46.0748954440998,9.14,991.6,9.2781834498421,41.7814565582259,"NS","NS"
+NA,"male",12,-95.7356074,37.6789414,1966,"Baeolophus bicolor","Baeolophus_bicolor",27.5,NA,13.4,568,9.84822318999727,76.706214828175,"Winter",6614,13.85,742,9.7024461438353,76.0893737477128,14.02,720,10.1845065455841,76.463743684596,"M","NS"
+NA,"male",4,-97.9691667,30.4736833,2011,"Baeolophus bicolor","Baeolophus_bicolor",19.1,NA,21.3,516,8.33497105119402,69.5132791145214,"Spring",6716,20.5,683,8.26013183182465,76.0716560183313,19.82,770.4,7.76020516083858,80.425498287685,"M","NS"
+NA,"male",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.1,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6618,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"M","NS"
+NA,"undetermined",11,-95.2798841,38.9041998,1987,"Baeolophus bicolor","Baeolophus_bicolor",22.5,NA,13.8,1010,9.58979887298177,59.9095899022682,"Fall",6555,13.6,1097.5,9.65234256923869,72.207221064799,12.62,1072.4,10.4177833843783,70.9018407487769,"NS","NS"
+NA,"undetermined",9,-79.3501282,35.0635845,1988,"Baeolophus bicolor bicolor","Baeolophus_bicolor",21,NA,15.3,1073,8.32393409319648,48.5252028931618,"Fall",6559,15.65,1124,8.35440929064847,47.3298283870387,16.1,1115.8,8.03103762219417,56.0261536588865,"NS","NS"
+NA,"undetermined",9,-79.3501282,35.0635845,1988,"Baeolophus bicolor bicolor","Baeolophus_bicolor",22.5,NA,15.3,1073,8.32393409319648,48.5252028931618,"Fall",6625,15.65,1124,8.35440929064847,47.3298283870387,16.1,1115.8,8.03103762219417,56.0261536588865,"NS","NS"
+NA,"male",8,-99.3955167,30.0416667,2010,"Baeolophus bicolor","Baeolophus_bicolor",18.8,NA,18.3,835,7.77963055132771,84.6145044430334,"Summer",6713,18.7,753,7.55712324299803,87.7800569956449,18.74,724.4,7.04553243684624,82.356263960613,"M","NS"
+NA,"undetermined",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6549,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"NS","NS"
+NA,"male",1,-95.1864548,38.805701,1967,"Baeolophus bicolor","Baeolophus_bicolor",23.7,NA,12,1201,8.87302688267122,83.9610299213543,"Winter",6537,12,971,9.3791138947836,88.2232332789639,12.46,930.6,10.0750899109518,83.5675867877259,"M","NS"
+NA,"undetermined",12,-94.8456651,37.1701488,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.7,NA,13.7,785,9.36456894443901,49.7936367895885,"Winter",6535,14.25,876.5,9.25541913086019,59.2813540356451,14.42,856.6,9.68551962156036,73.9754717126465,"NS","NS"
+NA,"male",7,-99.8790321,32.7565079,1970,"Baeolophus bicolor","Baeolophus_bicolor",22.1,NA,17.8,486,8.60571955683597,75.4624504259777,"Summer",6552,17.85,714,8.64123679655681,77.7371073720772,17.76,699.2,8.47397163260003,86.9175364434351,"M","NS"
+NA,"male",9,-79.3501282,35.0635845,1988,"Baeolophus bicolor bicolor","Baeolophus_bicolor",21.5,NA,15.3,1073,8.32393409319648,48.5252028931618,"Fall",6627,15.65,1124,8.35440929064847,47.3298283870387,16.1,1115.8,8.03103762219417,56.0261536588865,"M","NS"
+NA,NA,9,-72.170985,41.8911152,1975,"Baeolophus bicolor","Baeolophus_bicolor",23,NA,8.6,1413,9.15626958576869,33.6008530675797,"Fall",6660,8.45,1326,9.10246924921351,36.6828974016183,8.42,1350,9.36092711173418,38.2952906014461,"NS","NS"
+NA,"male",1,-95.1864548,38.805701,1967,"Baeolophus bicolor","Baeolophus_bicolor",25.7,NA,12,1201,8.87302688267122,83.9610299213543,"Winter",6542,12,971,9.3791138947836,88.2232332789639,12.46,930.6,10.0750899109518,83.5675867877259,"M","NS"
+NA,"male",2,-97.6415062,30.25625,1957,"Baeolophus bicolor","Baeolophus_bicolor",21.2,NA,19.9,1243,6.85783670281119,73.5702379045598,"Winter",6621,20.4,842.5,7.1455552924472,63.0635496848654,20.52,722.2,7.16549723338437,63.9559336031047,"M","NS"
+NA,"male",1,-95.1864548,38.805701,1967,"Baeolophus bicolor","Baeolophus_bicolor",26.2,NA,12,1201,8.87302688267122,83.9610299213543,"Winter",6541,12,971,9.3791138947836,88.2232332789639,12.46,930.6,10.0750899109518,83.5675867877259,"M","NS"
+NA,"male",9,-95.2598661,38.9549568,1998,"Baeolophus bicolor","Baeolophus_bicolor",23.9,NA,13.9,1225,9.8228243793666,69.5373055135808,"Fall",6557,13,1079,9.89487727358067,62.3404635928786,12.96,1040.8,9.95228102780593,75.7840799679206,"M","NS"
+NA,"undetermined",1,-95.1864548,38.805701,1967,"Baeolophus bicolor","Baeolophus_bicolor",22.4,NA,12,1201,8.87302688267122,83.9610299213543,"Winter",6544,12,971,9.3791138947836,88.2232332789639,12.46,930.6,10.0750899109518,83.5675867877259,"NS","NS"
+NA,NA,10,-72.170985,41.8911152,1985,"Baeolophus bicolor","Baeolophus_bicolor",19.6,NA,8.4,1123,9.54601297067858,54.5260514137491,"Fall",6599,8.55,1215,9.4207821018916,54.0412487494992,8.52,1271.6,9.47898194126585,57.0055249142995,"NS","NS"
+NA,"male",3,-95.3020834,39.9706494,1967,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,11,938,9.34569662756851,98.0371055503981,"Spring",6550,11,795.5,9.78899921069885,100.858027943975,11.38,872,10.4712514099194,92.8182694991784,"M","NS"
+NA,"male",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.6,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6610,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"M","NS"
+NA,"male",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",21.6,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6529,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"M","NS"
+NA,NA,10,-76.450248,42.473805,2009,"Baeolophus bicolor","Baeolophus_bicolor",22.9,NA,7.9,931,9.46422290267485,46.3530151171688,"Fall",6606,8.1,995,9.46174882612312,42.2091483543604,8.54,1036.2,9.73776843898993,43.0417696196324,"NS","NS"
+NA,"male",12,-95.5360794,38.0056315,1966,"Baeolophus bicolor","Baeolophus_bicolor",22.8,NA,13,655,9.84308325062772,81.5367050850986,"Winter",6547,13.45,814.5,9.75703813706438,81.3760518868918,13.6,784.6,10.2721736037883,75.3008611327438,"M","NS"
