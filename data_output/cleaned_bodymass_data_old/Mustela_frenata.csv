@@ -1,0 +1,126 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-114.6892,39.2375,NA,2010,"Mustela frenata","Mustela_frenata",74,331,"female",4.8,610,8.65582655402321,67.6037733843793,"Summer",67481
+6,-106.7285805556,34.7386472222,NA,2006,"Mustela frenata","Mustela_frenata",76,311,"female",13.9,244,8.34823062363843,119.16257723679,"Summer",67546
+12,-78.4019834,42.9612707,NA,1953,"Mustela frenata noveboracensis","Mustela_frenata",78,298,"female",9.7,807,8.69915965986823,46.3378330565221,"Winter",67467
+5,-119.27694,47.13028,"unknown",1984,"Mustela frenata","Mustela_frenata",82.2,292,"female",9.5,240,8.5892242215041,74.0206503477217,"Spring",67495
+11,-119.9607,48.7931,"unknown",1981,"Mustela frenata","Mustela_frenata",84,284,"male",1.8,874,6.52575317840436,58.106001814599,"Fall",67454
+7,-109.153,33.8862,NA,1980,"Mustela frenata","Mustela_frenata",85,318,"female",6.5,594,6.58460095199168,78.2076217625116,"Summer",67529
+11,-74.294898,44.84866,NA,1955,"Mustela frenata noveboracensis","Mustela_frenata",92,345,"female",7,744,12.1186901732469,56.1324826866276,"Fall",67421
+11,-120.6525,45.9705213,"unknown",1977,"Mustela frenata","Mustela_frenata",94.3,282,"female",7.9,558,8.0064178802213,122.707766641665,"Fall",67497
+9,-119.72,41.88,NA,1977,"Mustela frenata nevadensis","Mustela_frenata",100,302,"female",6.6,272,8.16204724021585,86.0568476773038,"Fall",67515
+7,-119.33899,38.06129,NA,2005,"Mustela frenata nevadensis","Mustela_frenata",105,331,"female",3.1,1212,6.62421521938465,110.617510025956,"Summer",67550
+4,-122.4431,47.2531,"unknown",1978,"Mustela frenata","Mustela_frenata",110,343,"female",10.6,915,5.36997122050863,59.5020867386814,"Spring",67498
+7,-123.4751,43.4405,"unknown",1988,"Mustela frenata","Mustela_frenata",111.1,325,"female",10.9,1186,5.30522898143469,106.774891531125,"Summer",67501
+10,-123.8724,47.4388,"unknown",1989,"Mustela frenata","Mustela_frenata",111.6,336,"female",10,3184,5.44676718129871,72.7393739745718,"Fall",67458
+5,-122.1617,47.6031,"unknown",1989,"Mustela frenata","Mustela_frenata",113,299,"female",11,876,5.54788384445053,67.960569507842,"Spring",67456
+6,-121.1352921,47.2372,"unknown",1958,"Mustela frenata","Mustela_frenata",113,307,"female",8.5,1726,7.30559665080426,90.6421735733993,"Summer",67491
+8,-109.8236,34.0771,NA,1977,"Mustela frenata arizonensis","Mustela_frenata",115.7,308,"undetermined",8,758,7.49488714613725,64.1177236836689,"Summer",67482
+8,-121.4390209,40.5002302,NA,2001,"Mustela frenata nevadensis","Mustela_frenata",119,330,"female",7.4,2242,7.04093550086015,109.88340127463,"Summer",67438
+4,-120.6525,45.9705213,"unknown",1978,"Mustela frenata","Mustela_frenata",120,350,"male",7.4,494,7.39186694751042,77.3650206766472,"Spring",67499
+6,-122.4869,48.7597,"unknown",1932,"Mustela frenata","Mustela_frenata",123,225.4,"female",9.5,1199,5.09131762430072,66.0519802472392,"Summer",67446
+9,-119.12977,37.90028,NA,2004,"Mustela frenata nevadensis","Mustela_frenata",123,339,"female",7.7,471,7.29183852611323,121.430219304826,"Fall",67549
+3,-95.31,38.41,NA,1988,"Mustela frenata primulina","Mustela_frenata",124.5,308,"female",13.4,720,10.3907155526927,63.2175976011794,"Spring",67518
+8,-111.574,42.322,NA,1987,"Mustela frenata","Mustela_frenata",130,170,"female",3.6,955,8.20386087969155,60.3295038330899,"Summer",67527
+6,-95.47,38.78,NA,1996,"Mustela frenata primulina","Mustela_frenata",134.6,302,"female",12,1088,10.2726025736599,77.7307192513828,"Summer",67540
+8,-107.779075,41.246208,NA,1981,"Mustela frenata","Mustela_frenata",138,328,"female",5.6,330,8.76910468461273,82.0401030740253,"Summer",67429
+6,-123.0606448,38.352599,NA,1996,"Mustela frenata munda Bangs, 1899","Mustela_frenata",140,343,"female",13.1,1182,1.76806691221249,117.632233468556,"Summer",67475
+9,-74.753775,39.290115,NA,1952,"Mustela frenata noveboracensis","Mustela_frenata",141,321,"female",12.8,1447,8.47439548214967,51.967603848612,"Fall",67468
+10,-96.85,39.07,"JUVENILE",1996,"Mustela frenata primulina","Mustela_frenata",146,393,"female",12.6,801,10.6279505707043,84.9947993850953,"Fall",67539
+9,-106.83915,36.0036333333,NA,2006,"Mustela frenata","Mustela_frenata",149,1370,"female",6.7,617,7.25475810427303,105.145947739818,"Fall",67432
+1,-119.8333333333,50.0833333333,NA,1999,"Mustela frenata","Mustela_frenata",150,365,"female",3.7,735,6.1684129386592,58.7340673587292,"Winter",67442
+5,-123.55,44.5,NA,1989,"Mustela frenata","Mustela_frenata",151,361,"female",9.5,2276,5.75505048288945,92.5744317832183,"Spring",67485
+11,-122.677033,46.948055,NA,1994,"Mustela frenata","Mustela_frenata",152,445,"male",10.7,1150,5.41871057009177,74.0465580912701,"Fall",67512
+8,-122.1858,47.5789,"unknown",1999,"Mustela frenata","Mustela_frenata",156.4,353,"female",10.8,1130,4.44674719385537,79.1857664608964,"Summer",67459
+5,-72.18,42.48,"adult",1936,"Mustela frenata","Mustela_frenata",159.5,413,"male",6.6,1324,9.93266725446286,47.2783711314241,"Spring",67488
+6,-117.7602982,33.6515124,NA,1975,"Mustela frenata latirostra Hall, 1936","Mustela_frenata",160,386,"female",16,215,3.85426760719579,151.091022156356,"Summer",67427
+6,-118.74615,41.69606,NA,2012,"Mustela frenata nevadensis","Mustela_frenata",160,341,"male",6.2,441,8.1648312718004,89.3045154984675,"Summer",67439
+12,-122.4333333333,51.6875,NA,2004,"Mustela frenata","Mustela_frenata",160,391,"female",3.5,708,7.67639040806092,37.4209708458749,"Winter",67522
+8,-89.35,44.56,NA,1984,"Mustela frenata noveboracensis","Mustela_frenata",160.9,351,"male",6.4,971,11.0915576685672,53.7871716706402,"Summer",67544
+7,-122.0969,47.9131,"unknown",1993,"Mustela frenata","Mustela_frenata",162.6,415,"male",10.9,821,5.50294686894433,57.0511912493173,"Summer",67502
+7,-119.9169,48.7502,"unknown",1982,"Mustela frenata","Mustela_frenata",164,360,"male",-0.1,964,7.71352118626176,44.4879310830105,"Summer",67453
+8,-122.2451902,47.2044,"unknown",1980,"Mustela frenata","Mustela_frenata",164.1,346,"female",11.2,1067,5.12027313428659,75.0786238637803,"Summer",67493
+7,-81.4626,36.4009,NA,2006,"Mustela frenata","Mustela_frenata",165.2,NA,"female",9.9,1225,6.54596799332971,40.7300857531224,"Summer",67484
+8,-122.4869,48.7597,"unknown",1933,"Mustela frenata","Mustela_frenata",166,231.8,"male",9,1196,5.00832640043891,73.6368991347277,"Summer",67492
+3,-76.5094764,42.4381028,NA,1952,"Mustela frenata noveboracensis","Mustela_frenata",174,NA,"male",10,821,9.18590405639713,40.5512633587367,"Spring",67533
+6,-106.3727951,35.1075478,NA,1997,"Mustela frenata","Mustela_frenata",176,321,"male",9.7,643,8.52985399001115,63.7667463874004,"Summer",67431
+7,-106.98917,38.901184,"adult",1982,"Mustela frenata","Mustela_frenata",178,387,"male",1.5,635,8.59158767562077,52.6337932459984,"Summer",67419
+4,-119.858992,35.020476,NA,1984,"Mustela frenata nigriauris","Mustela_frenata",178.7,352,"female",16.4,145,7.01327745109664,117.115920334538,"Spring",67471
+12,-119.7702592,48.08677,"unknown",1979,"Mustela frenata","Mustela_frenata",183.5,360,"male",9.8,235,10.621971939277,74.2370552766418,"Winter",67449
+4,-95.9043,38.49814,NA,1988,"Mustela frenata","Mustela_frenata",189,341,"male",13.2,583,10.4244758606703,60.7131920268708,"Spring",67514
+8,-114.745,44.086,NA,1987,"Mustela frenata","Mustela_frenata",190,360,"female",2.8,607,7.70636789029735,76.949910449636,"Summer",67552
+8,-105.516878,40.028345,NA,1986,"Mustela frenata nevadensis","Mustela_frenata",190.4,398,"male",4.5,599,6.69932153959706,49.4010265651716,"Summer",67423
+6,-104.4265,40.3517,NA,2003,"Mustela frenata","Mustela_frenata",190.9,370,"male",10.5,322,9.8861243440215,83.4411068576396,"Summer",67513
+12,-106.2755,35.8802,NA,2011,"Mustela frenata","Mustela_frenata",192,436,"female",10.4,278,9.10357904975573,87.4583028689682,"Winter",67523
+7,-121.18,40.82,NA,1961,"Mustela frenata nevadensis","Mustela_frenata",197.8,384,"male",9.1,471,7.05671290118118,61.6091836399681,"Summer",67538
+11,-74.294898,44.84866,NA,1952,"Mustela frenata noveboracensis","Mustela_frenata",198,390,"male",7.6,921,10.1543989571918,40.6142628334494,"Fall",67503
+2,-123.0699206,38.3659521,NA,1995,"Mustela frenata munda Bangs, 1899","Mustela_frenata",200,390,"male",13.1,1401,2.0866821569761,157.376469370327,"Winter",67428
+1,-120.1666666667,49.9666666667,NA,1999,"Mustela frenata","Mustela_frenata",200,414,"male",3.6,655,6.14922389781463,56.1180716487776,"Winter",67486
+1,-120.1666666667,49.9666666667,NA,1999,"Mustela frenata","Mustela_frenata",200,425,"male",3.6,655,6.14922389781463,56.1180716487776,"Winter",67487
+8,-73.49,40.87,NA,1968,"Mustela frenata noveboracensis","Mustela_frenata",200,345,"male",10.7,1100,9.8209539436674,53.4764670853533,"Summer",67545
+6,-120.09833,34.622287,NA,1997,"Mustela frenata nigriauris","Mustela_frenata",201,380.5,"male",15.7,432,4.21090755351414,163.79207786762,"Summer",67440
+8,-122.2042,47.7625,"unknown",1933,"Mustela frenata","Mustela_frenata",202,505,"undetermined",10,1181,5.16341295398047,89.5567760717949,"Summer",67443
+6,-106.2699514,42.2383464,NA,1990,"Mustela frenata","Mustela_frenata",202,360,"male",4.8,313,9.49267660309299,61.7348265664431,"Summer",67478
+9,-105.55139,40.70056,NA,1984,"Mustela frenata nevadensis","Mustela_frenata",202.4,396,"female",4.6,444,8.44699605920604,64.4746658414056,"Fall",67424
+11,-119.123454,50.628094,NA,1946,"Mustela frenata nevadensis","Mustela_frenata",203,410,"male",7.4,424,8.42436491626664,49.1142951441603,"Fall",67556
+8,-119.32,44.27,NA,1987,"Mustela frenata effera","Mustela_frenata",203.6,390,"male",7.2,312,7.14040997040468,69.8110875900886,"Summer",67517
+5,-121.6853,47.9756,"unknown",1979,"Mustela frenata","Mustela_frenata",204.3,437,"male",8,2650,6.44719224769883,98.000675356147,"Spring",67451
+11,-93.5833333,45.3,"adult",1921,"Mustela frenata spadix","Mustela_frenata",205.53,NA,"female",8.2,595,12.0249992124992,78.866536243584,"Fall",67530
+7,-106.822057,39.196532,NA,1980,"Mustela frenata nevadensis","Mustela_frenata",207.5,396,"male",5.2,582,7.76758513232258,67.7643744210176,"Summer",67422
+11,-93.5833333,45.3,"adult",1925,"Mustela frenata frenata","Mustela_frenata",209.5,NA,"female",6.5,566,11.9468868773671,102.999414754672,"Fall",67558
+10,-122.4869,48.7597,"unknown",1932,"Mustela frenata","Mustela_frenata",213,429.3,"male",9.5,1199,5.09131762430072,66.0519802472392,"Fall",67447
+7,-114.4034,43.7662,NA,2010,"Mustela frenata","Mustela_frenata",215,410,"undetermined",4.5,705,8.12616425224998,56.1403120697202,"Summer",67435
+8,-105.291266,40.423673,NA,1984,"Mustela frenata nevadensis","Mustela_frenata",215.7,383,"male",7.6,473,8.48928022790382,64.5039155690709,"Summer",67470
+6,-106.94,38.88,NA,1994,"Mustela frenata nevadensis","Mustela_frenata",216,389,"male",2,803,8.37110379746177,41.6800287118018,"Summer",67520
+11,-74.294898,44.84866,NA,1955,"Mustela frenata noveboracensis","Mustela_frenata",219,414,"male",7,744,12.1186901732469,56.1324826866276,"Fall",67469
+5,-95.48,38.48,NA,1987,"Mustela frenata primulina","Mustela_frenata",219.8,380,"male",13.5,1031,9.52213927453471,58.0441111931782,"Spring",67516
+1,-120.1666666667,49.9666666667,NA,1999,"Mustela frenata","Mustela_frenata",220,422,"male",3.6,655,6.14922389781463,56.1180716487776,"Winter",67441
+9,-122.4333333333,51.6875,NA,2004,"Mustela frenata","Mustela_frenata",220,475,"male",3.5,708,7.67639040806092,37.4209708458749,"Fall",67548
+7,-120.475556,50.841944,NA,1949,"Mustela frenata nevadensis","Mustela_frenata",221,405,"female",3.9,363,10.3086422995759,62.6547771206405,"Summer",67557
+5,-123.9302,43.2216,"unknown",1987,"Mustela frenata","Mustela_frenata",222.4,480,"male",11.4,1889,4.45662598290626,115.846062311145,"Spring",67496
+11,-122.2058,47.7033,"unknown",1983,"Mustela frenata","Mustela_frenata",225,406,"male",11,1200,4.8488283495744,71.9721180250756,"Fall",67494
+6,-119.3667,47,"unknown",1979,"Mustela frenata","Mustela_frenata",228.9,361,"male",10.1,175,10.439551830622,59.2169564394652,"Summer",67506
+2,-106.4358902,35.3106427,NA,2004,"Mustela frenata neomexicana","Mustela_frenata",230,444,"female",12.2,369,8.31331079436083,62.809293260577,"Winter",67430
+8,-119.845,51.713,NA,1988,"Mustela frenata","Mustela_frenata",233,393,"female",0.8,1301,6.9329691046521,38.820166995756,"Summer",67528
+7,-72.6097,40.8229,"adult",1952,"Mustela frenata noveboracensis","Mustela_frenata",235,384,"male",11.4,1138,8.56951520852206,58.6706103299441,"Summer",67465
+7,-72.6097,40.8229,"adult",1952,"Mustela frenata noveboracensis","Mustela_frenata",247,380,"male",11.4,1138,8.56951520852206,58.6706103299441,"Summer",67505
+10,-122.2042,47.7625,"unknown",1936,"Mustela frenata","Mustela_frenata",248,350,"female",10.8,840,5.83974755577255,78.3290239475691,"Fall",67445
+4,-72.6097,40.8229,"adult",1952,"Mustela frenata noveboracensis","Mustela_frenata",249,360,"male",11.4,1138,8.56951520852206,58.6706103299441,"Spring",67466
+10,-122.89935,38.10638,"subadult",1957,"Mustela frenata munda","Mustela_frenata",250,360,"female",12.8,948,3.13758979106092,89.4948620595962,"Fall",67532
+11,-117.89917,33.945688,NA,1967,"Mustela frenata","Mustela_frenata",253.1,467,"female",17.8,430,5.00081054036304,119.435635099151,"Fall",67555
+8,-105.490351,37.456558,NA,1941,"Mustela frenata","Mustela_frenata",256.5,403,"male",4.8,351,9.4052330694624,66.8005088134555,"Summer",67464
+8,-105.331869,38.964324,"adult",1981,"Mustela frenata","Mustela_frenata",259,424,"male",6.4,390,7.45365478788558,109.49932513713,"Summer",67461
+7,-106.98,38.86,NA,1994,"Mustela frenata nevadensis","Mustela_frenata",259.3,438,"male",2.7,657,9.50486318904298,40.8093713688437,"Summer",67521
+8,-113.184,47.152,NA,1987,"Mustela frenata","Mustela_frenata",260,410,"male",5.9,420,7.89101426057551,81.7796102690416,"Summer",67526
+8,-106.2993,39.8466,NA,2004,"Mustela frenata nevadensis","Mustela_frenata",264.2,430,"male",3,387,8.34521728387892,28.8726729419695,"Summer",67534
+6,-123.0606448,38.352599,NA,1995,"Mustela frenata munda Bangs, 1899","Mustela_frenata",270,422,"male",13.2,1352,2.13858846112584,157.951455964206,"Summer",67473
+7,-105.592763,41.307768,NA,1980,"Mustela frenata","Mustela_frenata",272,405,"male",5.7,260,9.01663445913701,59.5460069476564,"Summer",67480
+7,-118.326,36.774,NA,1988,"Mustela frenata","Mustela_frenata",282,393,"male",5.6,467,6.7392113557129,116.480165488569,"Summer",67553
+9,-106.98,38.95,NA,1996,"Mustela frenata nevadensis","Mustela_frenata",282.2,428,"male",2.7,999,8.3332666664,63.4813164906893,"Fall",67542
+6,-123.3158,47.0611,"unknown",1978,"Mustela frenata","Mustela_frenata",283,449,"male",10.3,1717,5.45584896040826,59.2109798413588,"Summer",67452
+7,-121.9321,46.7503,"unknown",1977,"Mustela frenata","Mustela_frenata",287,407,"male",7.2,1935,5.81914291304349,76.0057212265887,"Summer",67450
+5,-122.1203,47.6742,"unknown",1977,"Mustela frenata","Mustela_frenata",288.5,415,"male",10.7,838,5.28247531509097,58.3645481239352,"Spring",67448
+3,-122.035682,37.369995,NA,1960,"Mustela frenata latirostra","Mustela_frenata",288.5,396,"male",14.6,324,4.04170493577633,120.33540025563,"Spring",67460
+7,-106.84805,38.7184666667,"adult",2010,"Mustela frenata","Mustela_frenata",289,402,"male",3.7,478,9.70411893179511,65.5944865641639,"Summer",67535
+3,-122.01826,47.57963,"unknown",1997,"Mustela frenata","Mustela_frenata",291.8,438,"male",10.7,1412,5.4011783226188,50.6728821433048,"Spring",67507
+5,-108.972993,40.244805,NA,1990,"Mustela frenata","Mustela_frenata",292,387,"male",8.9,248,10.8705886211234,56.863366571275,"Spring",67479
+5,-120.90111,37.63833,NA,1968,"Mustela frenata","Mustela_frenata",292,388,"male",16.2,320,6.32798019381645,104.258747180447,"Spring",67554
+3,-123.83,44.56,NA,1990,"Mustela frenata altifrontalis","Mustela_frenata",292.3,431,"male",10.8,1804,5.16286272480215,79.5987251804867,"Spring",67519
+10,-106.3691666667,35.1247222222,NA,2009,"Mustela frenata","Mustela_frenata",292.3,430,"male",10.6,385,7.83399739287135,71.3915112616266,"Fall",67547
+12,-122.4431,47.2531,"unknown",1971,"Mustela frenata","Mustela_frenata",295.7,420,"male",9.9,1118,5.6281489502376,62.1887425757588,"Winter",67457
+10,-76.6481,42.675,NA,1994,"Mustela frenata","Mustela_frenata",312.5,418,"male",8.1,979,10.9303961779096,50.0213880270905,"Fall",67418
+11,-93.5833333,45.3,"adult",1926,"Mustela frenata spadix","Mustela_frenata",313,NA,"male",5.8,761,11.9824745762174,94.1031773336835,"Fall",67559
+7,-105.53,40.27,NA,1981,"Mustela frenata nevadensis","Mustela_frenata",315,454,"male",4.4,627,6.77474700410997,64.657453872876,"Summer",67536
+7,-106.94,38.88,NA,1995,"Mustela frenata nevadensis","Mustela_frenata",317.4,429,"male",2.2,1100,6.45900827362745,66.5549376795341,"Summer",67541
+7,-106.35493,35.03341,NA,2010,"Mustela frenata","Mustela_frenata",320,445,"male",10.1,535,8.29287298975707,62.3533387293421,"Summer",67436
+5,-122.1853,47.1772,"unknown",1979,"Mustela frenata","Mustela_frenata",325,420,"male",10.4,1049,5.71258578610741,78.8046110013431,"Spring",67500
+6,-120.31028,34.96333,NA,1984,"Mustela frenata nigriauris","Mustela_frenata",325.8,437,"male",15.8,255,4.58517869186836,133.625106691077,"Summer",67425
+7,-122.2272,47.3075,"unknown",1937,"Mustela frenata","Mustela_frenata",330,380,"male",10.9,1156,6.0086995013039,75.4310829821207,"Summer",67490
+8,-122.2272,47.3075,"unknown",1937,"Mustela frenata","Mustela_frenata",333,453,"male",10.9,1156,6.0086995013039,75.4310829821207,"Summer",67444
+8,-122.2272,47.3075,"unknown",1937,"Mustela frenata","Mustela_frenata",334,396,"male",10.9,1156,6.0086995013039,75.4310829821207,"Summer",67489
+7,-105.49722,40.087909,NA,1992,"Mustela frenata nevadensis","Mustela_frenata",341,409,"male",3.9,641,7.22543906603396,75.7898747435062,"Summer",67426
+6,-122.95884,46.95293,"unknown",1985,"Mustela frenata","Mustela_frenata",345,425,"male",9.5,854,6.37259164252851,80.8076415108796,"Summer",67455
+7,-109.232,38.486,NA,1987,"Mustela frenata","Mustela_frenata",370,480,"male",2.9,1243,6.97651362961776,67.0215565447161,"Summer",67551
+5,-122.8138145,38.0919025,NA,1992,"Mustela frenata munda Bangs, 1899","Mustela_frenata",400,455,"male",14.6,860,3.44448395220092,132.471096380206,"Spring",67477
+5,-120.57914,35.1246,"adult",1996,"Mustela frenata nigriauris","Mustela_frenata",400,420,"male",14.8,629,1.78144901865324,117.745961404216,"Spring",67531
+5,-122.80662,38.318866,"adult",2013,"Mustela frenata munda","Mustela_frenata",405,450,"male",14,235,4.37045001496795,92.6377273089249,"Spring",67483
+4,-106.59667,32.42564,NA,2007,"Mustela frenata","Mustela_frenata",410,490,"male",16.6,351,7.66936052804215,94.7236290248786,"Spring",67433

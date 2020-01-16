@@ -4,13 +4,15 @@ model_results
 # ratio of partial R2 ~ predictors ----
 model_results = mutate(model_results, 
                        partial_r2_bio1_bio4 = ifelse(is.na(partial_r2_bio1_bio4), 
-                                                     partial_r2_bio1, 
+                                                     partial_r2_bio1_2yr, 
                                                      partial_r2_bio1_bio4),
                        ratio_temp_precip_r2 = partial_r2_bio1_bio4/partial_r2_bio12_bio15,
                        diff_temp_precip_r2 = partial_r2_bio1_bio4 - partial_r2_bio12_bio15)
+					   
 hist(model_results$ratio_temp_precip_r2)
 hist(model_results$diff_temp_precip_r2)
-ggplot(model_results, aes(x = partial_r2_bio1, fill = taxa)) +
+
+ggplot(model_results, aes(x = partial_r2_bio1_2yr, fill = taxa)) +
   geom_histogram() +
   facet_wrap(~taxa, ncol = 1)
 

@@ -1,0 +1,669 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+9,-115.7333333333,30.9666666667,"imm.",1925,"Vireo gilvus swainsonii","Vireo_gilvus",6.5,NA,"male",16,268,4.08169416697617,123.676529282106,"Fall",157689
+7,-117.179457,46.728691,"Juv",1952,"Vireo gilvus","Vireo_gilvus",6.9,72,"male",8.7,401,8.12942187366359,67.678286012021,"Summer",157242
+10,-116.4416027,33.1149088,NA,2002,"Vireo gilvus swainsoni","Vireo_gilvus",7.1,NA,"undetermined",16.5,101,6.17185694761457,148.435622430972,"Fall",157584
+9,-118.99134,34.236425,"Skull 35% ossified",2002,NA,"Vireo_gilvus",7.2,NA,"undetermined",14.9,255,2.61723599287956,176.980368853218,"Fall",157519
+5,-118.3866119,33.8430453,NA,2001,"Vireo gilvus swainsoni","Vireo_gilvus",7.4,NA,"female",15,420,2.73612200684904,144.888465390194,"Spring",157589
+9,-116.39528,34.05639,"unknown",1950,"Vireo gilvus leucopolius","Vireo_gilvus",7.5,NA,"male ?",14.3,82,5.90174601796842,107.145599754757,"Fall",157318
+9,-106.6442871,35.1648275,NA,2006,"Vireo gilvus","Vireo_gilvus",7.6,NA,"male",13.7,252,8.35871437845594,125.09078312442,"Fall",157302
+9,-122.49991,37.97478,"adult",2002,"Vireo gilvus","Vireo_gilvus",7.7,NA,"undetermined",14.4,808,3.44808906233847,172.86273697239,"Fall",157852
+9,-122.50966,37.97559,"U-Imm",2001,"Vireo gilvus","Vireo_gilvus",7.9,NA,"undetermined",14.5,1094,3.62491379207837,132.362616175161,"Fall",157850
+9,-117.8152008,33.6631355,NA,2007,"Vireo gilvus swainsoni","Vireo_gilvus",8,NA,"undetermined",16,134,3.43974100504939,115.179721714433,"Fall",157583
+5,-122.0695,40.3146,"u juv.",1924,"Vireo gilvus swainsonii","Vireo_gilvus",8,NA,"male",16.7,494,7.4583032841785,107.492321804429,"Spring",157687
+2,-102.033333,17.966667,NA,1960,"Vireo gilvus","Vireo_gilvus",8,NA,"female",27.4,842,1.41193505730986,144.959647155031,"Winter",157868
+7,-117.179457,46.728691,"Juv",1952,"Vireo gilvus","Vireo_gilvus",8.4,82,"female",8.7,401,8.12942187366359,67.678286012021,"Summer",157522
+9,-117.7550697,35.2118254,NA,1999,"Vireo gilvus swainsonii","Vireo_gilvus",8.5,NA,"male",16.1,63,7.11462429000146,135.286942526549,"Fall",157581
+9,-116.39528,34.05639,"unknown",1950,"Vireo gilvus swainsonii","Vireo_gilvus",8.7,NA,"female",14.3,82,5.90174601796842,107.145599754757,"Fall",157608
+5,-103.529842,34.11826,NA,2011,"Vireo gilvus","Vireo_gilvus",8.81,NA,"male",15.3,180,9.8091330355486,99.0051524013786,"Spring",157305
+5,-115.519043,33.239108,NA,1999,"Vireo gilvus swainsonii","Vireo_gilvus",8.9,NA,"male",22.1,30,7.04276977194385,116.315726273687,"Spring",157296
+6,-80.32299,43.76456,"ad",1993,"Vireo gilvus gilvus","Vireo_gilvus",8.9,NA,"male",5.4,963,10.2093391588587,36.9964896375054,"Summer",157500
+3,-115.886,33.723,"Skull ossified",1984,NA,"Vireo_gilvus",9,NA,"female",16.7,126,7.28154058790675,167.404659433362,"Spring",157516
+9,-108.083333,30.6,"juv.sk.",1948,"Vireo gilvus leucopolius","Vireo_gilvus",9.1,NA,"female",16.9,273,7.46488750448026,117.153040309365,"Fall",157317
+5,-114.2158,46.7589,"u ad.",1940,"Vireo gilvus leucopolius","Vireo_gilvus",9.2,NA,"male",6.7,657,9.12951839149284,63.8455749630087,"Spring",157450
+7,-121.530840063,40.4125823385,"adult skull",2006,"Vireo gilvus swainsonii","Vireo_gilvus",9.2,NA,"female",8.1,2962,7.22288031189774,106.173989785825,"Summer",157665
+9,-118.7354278,34.0347371,NA,2002,"Vireo gilvus swainsoni","Vireo_gilvus",9.3,NA,"female",15.2,208,2.1537845479035,166.143162049655,"Fall",157299
+9,-116.257,34.03749,"ad.",1950,"Vireo gilvus swainsonii","Vireo_gilvus",9.3,NA,"female",15,75,6.33367024622207,105.057559980664,"Fall",157321
+9,-116.2346518,33.9625431,"imm.",1950,"Vireo gilvus leucopolius","Vireo_gilvus",9.3,NA,"female",14.4,82,5.88054702670877,100.197198889473,"Fall",157323
+9,-116.2346518,33.9625431,"unknown",1950,"Vireo gilvus swainsonii","Vireo_gilvus",9.5,NA,"female",14.4,82,5.88054702670877,100.197198889473,"Fall",157324
+5,-119.141074,37.990578,"u ad.",1916,"Vireo gilvus leucopolius","Vireo_gilvus",9.5,NA,"male",6.8,455,8.43831449491849,130.724498411799,"Spring",157674
+6,-118.334535,36.773919,"u ad.",1942,"Vireo gilvus leucopolius","Vireo_gilvus",9.5,NA,"male",4.1,346,6.8014481523935,156.079720318373,"Summer",157774
+6,-118.066714,37.428591,"unknown",1954,"Vireo gilvus leucopolius","Vireo_gilvus",9.7,NA,"undetermined",7.5,257,7.02806064029305,96.2478292245597,"Summer",157617
+7,-121.530840063,40.4125823385,"skull",2006,"Vireo gilvus swainsonii","Vireo_gilvus",9.7,NA,"male",8.1,2962,7.22288031189774,106.173989785825,"Summer",157669
+5,-123.8816,45.9264,"unknown",1941,"Vireo gilvus swainsonii","Vireo_gilvus",9.7,NA,"undetermined",11,2337,3.8816194683366,70.8959657856833,"Spring",157767
+8,-122.47899,37.89031,"HY",2009,"Vireo gilvus","Vireo_gilvus",9.7,122,"m?",14.2,603,3.06696721188667,126.564905945319,"Summer",157894
+7,-121.530840063,40.4125823385,"skull",2006,"Vireo gilvus swainsonii","Vireo_gilvus",9.77,NA,"female",8.1,2962,7.22288031189774,106.173989785825,"Summer",157667
+5,-123.52347,40.49,"u ad.",1932,"Vireo gilvus swainsonii","Vireo_gilvus",9.8,NA,"male",10.5,1214,6.85452184305876,101.017400304421,"Spring",157417
+5,-118.060716,36.239302,"u ad.",1942,"Vireo gilvus leucopolius","Vireo_gilvus",9.8,NA,"male",11.4,138,7.30808497902194,127.93887145259,"Spring",157462
+5,-118.3758545,33.7719269,NA,2004,"Vireo gilvus","Vireo_gilvus",9.8,NA,"female",15.8,303,2.59234011517148,140.728087260855,"Spring",157582
+8,-80.24294,42.5613,NA,1966,"Vireo gilvus gilvus","Vireo_gilvus",9.8,142,"undetermined",8.4,899,9.68766788710828,37.2336331069563,"Summer",157817
+2,-102.033333,17.966667,NA,1960,"Vireo gilvus","Vireo_gilvus",9.8,NA,"male",27.4,842,1.41193505730986,144.959647155031,"Winter",157913
+7,-121.530840063,40.4125823385,"skull",2006,"Vireo gilvus swainsonii","Vireo_gilvus",9.83,NA,"male",8.1,2962,7.22288031189774,106.173989785825,"Summer",157668
+5,-121.9509888,55.9676501,"ad",1976,"Vireo gilvus swainsonii","Vireo_gilvus",9.9,NA,"male",2.6,587,9.2210685964592,67.0511297460914,"Spring",157811
+6,-112.7079333333,48.0092166667,NA,2009,"Vireo gilvus","Vireo_gilvus",10,NA,NA,2.5,598,8.44678081049852,54.3582327431585,"Summer",157271
+9,-123.1507796,40.3763001,"imm.",1949,"Vireo gilvus swainsonii","Vireo_gilvus",10,NA,"undetermined",9.3,1247,6.85849948250455,145.352478782216,"Fall",157316
+9,-116.39528,34.05639,"ad.",1950,"Vireo gilvus swainsonii","Vireo_gilvus",10,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Fall",157319
+9,-116.2346518,33.9625431,"unknown",1950,"Vireo gilvus swainsonii","Vireo_gilvus",10,NA,"female",14.4,82,5.88054702670877,100.197198889473,"Fall",157325
+5,-103.2907,44.0589,"unknown",1961,"Vireo gilvus gilvus","Vireo_gilvus",10,NA,"male",9,295,9.37276842127169,74.2584027513065,"Spring",157345
+5,-123.4853,40.3329,"u ad.",1932,"Vireo gilvus swainsonii","Vireo_gilvus",10,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",157416
+5,-118.289486,36.78325,"u ad.",1942,"Vireo gilvus swainsonii","Vireo_gilvus",10,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",157463
+5,-118.289486,36.78325,"u ad.",1942,"Vireo gilvus swainsonii","Vireo_gilvus",10,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",157464
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",10,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157545
+9,-118.7354278,34.0347371,NA,2002,"Vireo gilvus swainsoni","Vireo_gilvus",10,NA,"male",15.2,208,2.1537845479035,166.143162049655,"Fall",157579
+5,-117.677136,33.4600169,NA,2007,"Vireo gilvus swainsoni","Vireo_gilvus",10,NA,"female",15.4,111,3.28684245642126,111.124981610575,"Spring",157580
+8,-118.3166667,33.75,"immature",1972,"Vireo gilvus swainsonii","Vireo_gilvus",10,NA,"male",16.4,156,3.91162796458627,185.213236926135,"Summer",157588
+9,-108.083333,30.6,"imm.",1948,"Vireo gilvus swainsonii","Vireo_gilvus",10,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",157607
+6,-114.260809,38.931237,"ad.sk.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",10,NA,"male",5.5,364,8.50523902715796,77.1140771301572,"Summer",157630
+6,-115.28361,36.63,"ad.",1964,"Vireo gilvus leucopolius","Vireo_gilvus",10,NA,"male",10.1,115,8.49008334184743,79.8062728407785,"Summer",157643
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",10,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157698
+5,-117.22,38.95,"unknown",1930,"Vireo gilvus leucopolius","Vireo_gilvus",10,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",157706
+5,-123.4644508,40.4048454,"unknown",1932,"Vireo gilvus swainsonii","Vireo_gilvus",10,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",157716
+6,-122.9107,44.2042,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",10,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",157744
+5,-114.2158,46.7589,"u ad.",1940,"Vireo gilvus leucopolius","Vireo_gilvus",10,NA,"male",6.7,657,9.12951839149284,63.8455749630087,"Spring",157764
+5,-115.8090522,33.7365557,"u ad.",1945,"Vireo gilvus leucopolius","Vireo_gilvus",10,NA,"male",15.9,300,7.56030302423004,194.693231894318,"Spring",157780
+10,-115.4814771,33.8569026,"imm.",1945,"Vireo gilvus leucopolius","Vireo_gilvus",10,NA,"female",20,207,7.96549376429929,181.168085159431,"Fall",157781
+9,-122.7661,37.93798,"immature",1966,"Vireo gilvus","Vireo_gilvus",10,NA,"male",12.3,626,2.34804883538084,131.645010263484,"Fall",157889
+5,-103.529842,34.111886,NA,2011,"Vireo gilvus","Vireo_gilvus",10.06,NA,"male",15.3,179,9.8091330355486,99.1569054962257,"Spring",157304
+5,-122.4958,38.6278,"U-Ad",1966,"Vireo gilvus swainsoni","Vireo_gilvus",10.08,NA,"male",14.6,947,5.72982627056956,136.387866592824,"Spring",157849
+7,-109.2375783,47.1638049,NA,1961,"Vireo gilvus","Vireo_gilvus",10.1,NA,"female",5,415,8.65986912911121,71.6338313818282,"Summer",157285
+4,-115.993824,33.6277702,"Skull ossified",1990,NA,"Vireo_gilvus",10.1,NA,"female",20.5,42,7.99262444097966,97.5276646875848,"Spring",157517
+5,-115.288311,33.2580891,NA,1989,"Vireo gilvus swainsonii","Vireo_gilvus",10.1,NA,"male",23.3,56,7.71886217867202,227.829587248865,"Spring",157587
+5,-116.6490936,33.966259,"Skull ossified",1988,NA,"Vireo_gilvus",10.1,NA,"male",19.3,198,6.23994949474511,127.246488178072,"Spring",157840
+5,-103.529842,34.11186,NA,2011,"Vireo gilvus","Vireo_gilvus",10.1,NA,"male",15.3,179,9.8091330355486,99.1569054962257,"Spring",157906
+4,-106.425646,21.463515,NA,1963,"Vireo gilvus","Vireo_gilvus",10.1,NA,"female",23.3,548,2.5656678497326,102.889348753329,"Spring",157914
+7,-121.530840063,40.4125823385,"adult skull",2006,"Vireo gilvus swainsonii","Vireo_gilvus",10.18,NA,"male",8.1,2962,7.22288031189774,106.173989785825,"Summer",157664
+5,-103.9333,44.4833,NA,2012,"Vireo gilvus","Vireo_gilvus",10.2,NA,NA,8.7,436,9.44539329755276,84.4517033427315,"Spring",157263
+10,-117.1550674,33.5023613,NA,2000,"Vireo gilvus swainsonii","Vireo_gilvus",10.2,NA,"female",17.1,273,4.81464778912574,166.707975544754,"Fall",157298
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.2,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157425
+6,-117.195282,51.7644403,"ad",1973,"Vireo gilvus swainsonii","Vireo_gilvus",10.2,NA,"male",-0.8,1115,8.34049540713042,90.1486806737903,"Summer",157489
+6,-107.7797222222,39.6577777778,NA,1995,"Vireo gilvus","Vireo_gilvus",10.2,127,"male",9.2,497,8.04650780642061,55.9430687529826,"Summer",157528
+4,-115.519043,33.239108,NA,1999,"Vireo gilvus swainsonii","Vireo_gilvus",10.2,NA,"female",22.1,30,7.04276977194385,116.315726273687,"Spring",157585
+9,-115.7392497,33.7010716,"imm.",1950,"Vireo gilvus swainsonii","Vireo_gilvus",10.2,NA,"male",18,41,6.82539820128178,128.643558410803,"Fall",157610
+6,-114.21871,38.856596,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",10.2,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",157632
+6,-115.20694,36.63139,"u ad.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",10.2,NA,"male",6.5,394,7.65416800696117,142.812990429918,"Summer",157642
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.2,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157736
+5,-118.095,36.26164,"u ad.",1942,"Vireo gilvus swainsonii","Vireo_gilvus",10.2,NA,"female",7.3,203,6.81088144520267,140.576310031852,"Spring",157769
+6,-108.72642,42.56598,NA,2008,"Vireo gilvus","Vireo_gilvus",10.3,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",157259
+5,-120.742395,41.8959486,"u ad.",1948,"Vireo gilvus leucopolius","Vireo_gilvus",10.3,NA,"male",5.9,556,7.59079885603138,55.1023653639579,"Spring",157310
+6,-118.23917,37.76944,"u ad.",1954,"Vireo gilvus leucopolius","Vireo_gilvus",10.3,NA,"male",7,220,6.73934625010378,89.5166081824812,"Summer",157335
+4,-114.8667,31,"u ad.",1926,"Vireo gilvus swainsonii","Vireo_gilvus",10.3,NA,"male",21.3,85,5.24377697558706,168.172831604019,"Spring",157394
+5,-123.8816,45.9264,"u ad.",1941,"Vireo gilvus swainsonii","Vireo_gilvus",10.3,NA,"male",11,2337,3.8816194683366,70.8959657856833,"Spring",157455
+5,-123.8816,45.9264,"u ad.",1941,"Vireo gilvus swainsonii","Vireo_gilvus",10.3,NA,"male",11,2337,3.8816194683366,70.8959657856833,"Spring",157456
+6,-122.357,44.7554,"u ad.",1941,"Vireo gilvus swainsonii","Vireo_gilvus",10.3,NA,"male",10.7,1754,4.66153668251407,73.0621858393346,"Summer",157461
+6,-123.49373,40.61736,"u ad.",1946,"Vireo gilvus swainsonii","Vireo_gilvus",10.3,NA,"male",11.8,868,6.50782745482839,107.408417197194,"Summer",157467
+8,-111.2702042,42.370761,"immature",1934,"Vireo gilvus swainsonii","Vireo_gilvus",10.3,NA,"male",6,331,7.96423825039727,55.8533595923151,"Summer",157512
+9,-116.257,34.03749,"imm.",1950,"Vireo gilvus swainsonii","Vireo_gilvus",10.3,NA,"female",15,75,6.33367024622207,105.057559980664,"Fall",157609
+6,-114.256346,38.929166,"ad.sk.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",10.3,NA,"male",5.7,338,8.58892874401092,76.4282508032243,"Summer",157628
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.3,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157737
+7,-117.3669,45.2558,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",10.3,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",157751
+9,-122.41653,37.76528,"adult",2002,"Vireo gilvus","Vireo_gilvus",10.3,NA,"undetermined",14.2,493,2.47623553488807,170.983765671344,"Fall",157851
+8,-107.5140833333,33.8776833333,NA,2009,"Vireo gilvus","Vireo_gilvus",10.32,NA,"male",9.8,397,6.96038574340314,91.59473404114,"Summer",157595
+6,-115.36343,41.86105,"u ad.",1955,"Vireo gilvus leucopolius","Vireo_gilvus",10.4,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",157336
+6,-115.36343,41.86105,"u ad.",1955,"Vireo gilvus leucopolius","Vireo_gilvus",10.4,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",157338
+6,-115.19422,36.64165,"u ad.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",10.4,NA,"male",5.3,444,7.58842819194083,145.724434282779,"Summer",157357
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",10.4,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157396
+6,-116.98667,39.23861,"ad.",1930,"Vireo gilvus leucopolius","Vireo_gilvus",10.4,NA,"male",8.2,223,9.05938321534221,90.698323731634,"Summer",157407
+6,-114.03889,39.34028,"unknown",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.4,NA,"male",9.5,232,11.075033346964,74.9573750496518,"Summer",157429
+7,-117.3669,45.2558,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",10.4,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",157436
+5,-120.385437,55.2791153,"ad",1976,"Vireo gilvus swainsonii","Vireo_gilvus",10.4,NA,"male",2.8,667,8.58311856159661,89.0524434237256,"Spring",157490
+6,-114.02278,38.94167,"ad.sk.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",10.4,NA,"male",9.8,140,9.36729885712994,66.135032660162,"Summer",157629
+9,-116.94528,39.24556,"imm.",1931,"Vireo gilvus leucopolius","Vireo_gilvus",10.4,NA,"male",8.9,185,9.5724470447343,48.9411099092045,"Fall",157710
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",10.5,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157264
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",10.5,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157266
+6,-112.7422333333,47.6075666667,NA,2009,"Vireo gilvus","Vireo_gilvus",10.5,NA,NA,3.8,322,8.60638857142903,68.5116229513047,"Summer",157268
+6,-106.1259166667,35.9037833333,NA,2012,"Vireo gilvus","Vireo_gilvus",10.5,NA,"male",12.6,152,8.81412433987562,81.8591425979455,"Summer",157306
+8,-116.3038572,34.0304563,"unknown",1950,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"female",13.9,82,5.9258805764258,102.312243370886,"Summer",157322
+8,-118.156953,37.532774,"ad.",1917,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",2,172,8.12811711768401,155.631484468924,"Summer",157382
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",10.5,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157399
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",10.5,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157400
+7,-117.3669,45.2558,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",157438
+5,-115.4207,35.1716,"ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",157440
+6,-118.403201,37.12681,"u ad.",1942,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",6.4,164,7.09812181730726,107.009233949972,"Summer",157465
+5,-112.4870212,34.4294184,NA,1970,"Vireo gilvus swainsonii","Vireo_gilvus",10.5,NA,"undetermined",10.7,683,7.34390594611985,123.283260201867,"Spring",157479
+6,-107.693916,39.763186,"adult",1995,"Vireo gilvus","Vireo_gilvus",10.5,132,"male",6.7,654,7.4714557828546,54.7078819640566,"Summer",157527
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",10.5,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157546
+9,-108.083333,30.6,"imm.",1948,"Vireo gilvus swainsonii","Vireo_gilvus",10.5,NA,"female",16.9,273,7.46488750448026,117.153040309365,"Fall",157606
+6,-118.261045,37.712773,"u ad.",1954,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",1.4,303,6.17008300125892,86.7206712367888,"Summer",157614
+6,-114.21871,38.856596,"ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",157631
+6,-115.20694,36.63139,"u ad.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",6.5,394,7.65416800696117,142.812990429918,"Summer",157641
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",10.5,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157693
+7,-109.716873,23.387557,"unknown",1929,"Vireo gilvus victoriae","Vireo_gilvus",10.5,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",157696
+9,-116.94528,39.24556,"unknown",1931,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",8.9,185,9.5724470447343,48.9411099092045,"Fall",157711
+6,-120.0958,42.0433,"unknown",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157734
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157735
+6,-121.3146,43.7203,"unknown",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",4.5,863,7.97102232901759,70.1301998942241,"Summer",157741
+7,-117.3669,45.2558,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",10.5,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",157750
+10,-118.4711123,34.0166687,"immature",1984,NA,"Vireo_gilvus",10.5,NA,"male",18,244,3.65922454113221,213.985382012493,"Fall",157839
+4,-118.3527088,33.7821436,NA,2002,"Vireo gilvus swainsoni","Vireo_gilvus",10.6,NA,"female",15.2,213,2.27389666884977,160.03687515774,"Spring",157294
+6,-118.099737,37.432159,"u ad.",1954,"Vireo gilvus leucopolius","Vireo_gilvus",10.6,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",157334
+9,-122.2377,37.87438,"large skull windows",2004,"Vireo gilvus swainsonii","Vireo_gilvus",10.6,NA,"male",14.6,660,3.68620483161287,126.232016413738,"Fall",157378
+5,-122.2252066,40.1903286,"u ad.",1924,"Vireo gilvus swainsonii","Vireo_gilvus",10.6,NA,"female",17.4,446,7.60053327475159,110.786178445725,"Spring",157392
+9,-116.98667,39.23861,"imm.",1931,"Vireo gilvus leucopolius","Vireo_gilvus",10.6,NA,"female",9.1,185,9.60889739204812,49.4793629683915,"Fall",157411
+5,-123.4644508,40.4048454,"u ad.",1932,"Vireo gilvus swainsonii","Vireo_gilvus",10.6,NA,"male",11.2,1031,7.06169243170502,104.669249158388,"Spring",157415
+6,-117.408,46.932,"Ad",1953,"Vireo gilvus","Vireo_gilvus",10.6,137,"male",10.1,539,6.107143110301,95.6855621909589,"Summer",157523
+6,-108.72642,42.56598,NA,2008,"Vireo gilvus","Vireo_gilvus",10.6,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",157536
+6,-118.23917,37.76944,"u ad.",1954,"Vireo gilvus leucopolius","Vireo_gilvus",10.6,NA,"male",7,220,6.73934625010378,89.5166081824812,"Summer",157618
+7,-117.52944,41.70556,"ad.",1967,"Vireo gilvus leucopolius","Vireo_gilvus",10.6,NA,"male",5.8,616,8.55493832221891,73.635279801778,"Summer",157654
+5,-120.29042,37.65638,"ad.",1915,"Vireo gilvus swainsonii","Vireo_gilvus",10.6,NA,"male",17,515,6.71698435221333,126.132219286824,"Spring",157671
+6,-114.28,38.96917,"unknown",1929,"Vireo gilvus leucopolius","Vireo_gilvus",10.6,NA,"male",4.6,478,8.40108218137294,76.8026346439335,"Summer",157692
+5,-123.50169,40.43534,"u ad.",1932,"Vireo gilvus swainsonii","Vireo_gilvus",10.6,NA,"male",10.8,1084,6.87213852296269,103.719277536632,"Spring",157715
+6,-118.72917,41.74888,"unknown",1935,"Vireo gilvus leucopolius","Vireo_gilvus",10.6,NA,"male",8.4,195,8.76720386647668,98.1858027203346,"Summer",157726
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.6,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157733
+6,-130.014,55.917,"AHY",1999,"Vireo gilvus","Vireo_gilvus",10.6,NA,"male",5.2,2012,6.10414662836715,47.8828166517052,"Summer",157819
+5,-108.7232166667,33.3693,NA,2010,"Vireo gilvus","Vireo_gilvus",10.7,NA,"male",9,946,7.08243666338846,90.8965198940201,"Spring",157303
+6,-122.9107,44.2042,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",10.7,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",157430
+5,-114.2158,46.7589,"u ad.",1940,"Vireo gilvus leucopolius","Vireo_gilvus",10.7,NA,"male",6.7,657,9.12951839149284,63.8455749630087,"Spring",157449
+5,-117.510504,35.943643,"u ad.",1940,"Vireo gilvus leucopolius","Vireo_gilvus",10.7,NA,"female",12.9,257,7.39600629332541,151.451365416565,"Spring",157453
+5,-118.1300507,34.1444969,NA,1980,"Vireo gilvus swainsonii","Vireo_gilvus",10.7,NA,"female",18.4,821,3.76324932133727,175.488687147847,"Spring",157590
+6,-118.099737,37.432159,"u ad.",1954,"Vireo gilvus leucopolius","Vireo_gilvus",10.7,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",157616
+9,-123.88759,40.77914,"imm.",1942,"Vireo gilvus swainsonii","Vireo_gilvus",10.7,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",157776
+6,-123.0949402,55.4796317,"ad",1976,"Vireo gilvus swainsonii","Vireo_gilvus",10.7,NA,"male",1.5,997,8.24031111504458,43.1211597368053,"Summer",157812
+5,-99.298642,19.0040046,NA,1973,"Vireo gilvus swainsonii","Vireo_gilvus",10.7,NA,"undetermined",15.9,1229,2.02505143967588,109.846821336342,"Spring",157908
+6,-108.7,33.4,NA,1964,"Vireo gilvus swainsonii","Vireo_gilvus",10.7,NA,"male",7.8,643,7.89903618976852,101.707291132455,"Summer",157925
+7,-108.65,33.4,"adult",1964,"Vireo gilvus swainsonii","Vireo_gilvus",10.7,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",157926
+8,-117.155,39.42556,"ad.",1932,"Vireo gilvus leucopolius","Vireo_gilvus",10.8,NA,"male",6.5,190,9.3193306756668,99.67360482781,"Summer",157413
+5,-115.56598,35.45636,"ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",10.8,NA,"female",12.6,235,7.82147393689032,131.60980357885,"Spring",157441
+6,-122.357,44.7554,"u ad.",1941,"Vireo gilvus swainsonii","Vireo_gilvus",10.8,NA,"male",10.7,1754,4.66153668251407,73.0621858393346,"Summer",157460
+6,-115.56667,36.4,"ad.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",10.8,NA,"male",11.9,310,7.88863778231743,150.844373985848,"Summer",157646
+7,-121.47294,36.236376,"ad.",1919,"Vireo gilvus swainsonii","Vireo_gilvus",10.8,NA,"female",13.9,431,5.07381871607928,161.996694299459,"Summer",157679
+5,-118.00528,37.82389,"unknown",1927,"Vireo gilvus leucopolius","Vireo_gilvus",10.8,NA,"female",11.9,54,8.72033499495532,87.1348306992916,"Spring",157691
+5,-123.4853,40.3329,"u ad.",1932,"Vireo gilvus swainsonii","Vireo_gilvus",10.8,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",157718
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.8,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157740
+8,-120.63092,36.35948,"imm.",1944,"Vireo gilvus swainsonii","Vireo_gilvus",10.8,NA,"male",12.5,473,6.48828781635639,119.498492680805,"Summer",157779
+7,-112.863476,45.423143,"u ad.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",10.8,NA,"male",3.3,484,8.29594187028522,64.1789972549058,"Summer",157788
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",10.9,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157401
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",10.9,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157427
+9,-108.79917,42.46833,"ad.",1939,"Vireo gilvus leucopolius","Vireo_gilvus",10.9,NA,"female",2.8,267,9.15997551935329,66.6966996623024,"Fall",157445
+6,-106.6953533524,29.5152066475,"u ad.",1957,"Vireo gilvus brewsteri","Vireo_gilvus",10.9,NA,"female",14.3,459,5.82868429459519,151.355595038893,"Summer",157625
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",10.9,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157694
+4,-123.4853,40.3329,"u ad.",1932,"Vireo gilvus swainsonii","Vireo_gilvus",10.9,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",157714
+5,-115.5697,33.1714,"u ad.",1937,"Vireo gilvus swainsonii","Vireo_gilvus",10.9,NA,"male",22.5,40,8.84871159941926,110.656667034498,"Spring",157730
+5,-123.8816,45.9264,"u ad.",1941,"Vireo gilvus swainsonii","Vireo_gilvus",10.9,NA,"male",11,2337,3.8816194683366,70.8959657856833,"Spring",157768
+6,-118.580792,37.814991,"u ad.",1942,"Vireo gilvus leucopolius","Vireo_gilvus",10.9,NA,"male",8,141,7.9230914918281,67.397246054092,"Summer",157775
+7,-112.863476,45.423143,"u ad.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",10.9,NA,"male",3.3,484,8.29594187028522,64.1789972549058,"Summer",157787
+8,-111.3953253,42.1675605,"immature",1934,"Vireo gilvus swainsonii","Vireo_gilvus",10.9,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",157836
+7,-105.4389402,40.1215683,"immature",1998,"Vireo gilvus","Vireo_gilvus",11,118,"undetermined",4.8,562,7.8025005704271,57.2028905428423,"Summer",157244
+6,-108.72642,42.56598,NA,2008,"Vireo gilvus","Vireo_gilvus",11,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",157260
+6,-108.72642,42.56598,NA,2008,"Vireo gilvus","Vireo_gilvus",11,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",157261
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",11,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157265
+6,-112.7422333333,47.6075666667,NA,2009,"Vireo gilvus","Vireo_gilvus",11,NA,NA,3.8,322,8.60638857142903,68.5116229513047,"Summer",157270
+6,-113.5252666667,47.90035,NA,2009,"Vireo gilvus","Vireo_gilvus",11,NA,NA,4.5,605,8.71263015641225,41.6355603618125,"Summer",157273
+7,-111.172949,43.3163447,NA,1949,"Vireo gilvus","Vireo_gilvus",11,NA,"female",5,448,10.536976738509,46.3393767046034,"Summer",157280
+9,-115.2833216,33.0267299,NA,1989,"Vireo gilvus swainsonii","Vireo_gilvus",11,NA,"undetermined",23.3,52,7.72074635268018,156.308958752647,"Fall",157293
+4,-115.519043,33.239108,NA,1999,"Vireo gilvus swainsoni","Vireo_gilvus",11,NA,"male",22.1,30,7.04276977194385,116.315726273687,"Spring",157297
+6,-131.1833,57.9167,"u ad.",1919,"Vireo gilvus swainsonii","Vireo_gilvus",11,NA,"male",0.4,393,10.7032563722307,47.6274398471146,"Summer",157386
+9,-116.98667,39.23861,"imm.",1931,"Vireo gilvus leucopolius","Vireo_gilvus",11,NA,"female",9.1,185,9.60889739204812,49.4793629683915,"Fall",157409
+7,-118.81028,38.90734,"unknown",1934,"Vireo gilvus leucopolius","Vireo_gilvus",11,NA,"male",12.1,140,7.28248209435117,110.696898509026,"Summer",157419
+7,-117.3669,45.2558,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",157437
+7,-112.863476,45.423143,"u ad.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",11,NA,"female",3.3,484,8.29594187028522,64.1789972549058,"Summer",157469
+5,-112.2678939,34.2786409,"ad",1969,"Vireo gilvus swainsonii","Vireo_gilvus",11,NA,"female",15.7,428,8.15621625733181,73.2741432370881,"Spring",157473
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",11,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157548
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",11,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157549
+6,-115.36343,41.86105,"u ad.",1955,"Vireo gilvus leucopolius","Vireo_gilvus",11,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",157621
+7,-121.24134,36.450906,"juv.",1919,"Vireo gilvus swainsonii","Vireo_gilvus",11,NA,"female",13.3,330,4.80611983608273,152.609785183058,"Summer",157680
+7,-131.9167,57.1833,"ad.",1919,"Vireo gilvus swainsonii","Vireo_gilvus",11,NA,"male",1.9,1670,8.58598223321542,50.7372885941423,"Summer",157682
+5,-119.4435,39.75689,"u ad.",1934,"Vireo gilvus leucopolius","Vireo_gilvus",11,NA,"male",8.5,356,5.9792570735431,69.2161752657013,"Spring",157724
+4,-116.0664242,33.5573954,"u ad.",1937,"Vireo gilvus swainsonii","Vireo_gilvus",11,NA,"female",22.6,48,8.80184209369972,140.46069543915,"Spring",157729
+5,-131.619,55.331,"AHY",2002,"Vireo gilvus","Vireo_gilvus",11,NA,"male",8,2596,4.81703888673982,35.3245110976994,"Spring",157820
+2,-96.847,18.1707833,NA,1993,"Vireo gilvus","Vireo_gilvus",11,NA,"female",19.4,2520,1.74034131100422,106.973121926386,"Winter",157861
+5,-107.3430666667,33.5636166667,"ad",2008,"Vireo gilvus","Vireo_gilvus",11,NA,"male",12.9,310,7.13293683406687,141.718195034325,"Spring",157905
+9,-123.250567,49.263456,"immature",1991,"Vireo gilvus swainsoni","Vireo_gilvus",11,138,"male",10.4,1188,5.28550763021783,62.3474452056783,"Fall",157915
+9,-103.529842,34.111886,NA,2011,"Vireo gilvus","Vireo_gilvus",11.02,NA,"male",15.3,179,9.8091330355486,99.1569054962257,"Fall",157865
+6,-121.9133377,41.4968264,NA,1965,"Vireo gilvus","Vireo_gilvus",11.1,NA,"male",7.5,917,6.65015379179651,126.356205514178,"Summer",157290
+6,-121.9133377,41.4968264,NA,1965,"Vireo gilvus","Vireo_gilvus",11.1,NA,"male",7.5,917,6.65015379179651,126.356205514178,"Summer",157291
+9,-116.257,34.03749,"unknown",1950,"Vireo gilvus leucopolius","Vireo_gilvus",11.1,NA,"female",15,75,6.33367024622207,105.057559980664,"Fall",157320
+6,-115.36343,41.86105,"u ad.",1955,"Vireo gilvus leucopolius","Vireo_gilvus",11.1,NA,"female",0.2,1075,8.88933221747996,89.1715823564443,"Summer",157337
+6,-120.4269,44.3964,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11.1,NA,"male",7.4,302,7.80598061317944,56.2662407960212,"Summer",157431
+8,-117.165636,46.72953,NA,2008,"Vireo gilvus","Vireo_gilvus",11.1,NA,"male",8.3,485,8.24790147782324,67.9844832320076,"Summer",157521
+6,-114.21871,38.856596,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",11.1,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",157635
+6,-119.409649,38.415251,"ad.sk.",1985,"Vireo gilvus","Vireo_gilvus",11.1,NA,"male",4.3,539,7.15736535240998,72.5870885503594,"Summer",157659
+4,-121.5484021,36.37619467,"ad.sk.",1997,"Vireo gilvus swainsonii","Vireo_gilvus",11.1,NA,"male",15.2,606,4.99563445784053,166.488004696492,"Spring",157661
+5,-117.22,38.95,"ad.",1930,"Vireo gilvus leucopolius","Vireo_gilvus",11.1,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",157707
+5,-123.45182,40.35852,"u ad.",1932,"Vireo gilvus swainsonii","Vireo_gilvus",11.1,NA,"male",10.8,1051,7.09974391343544,106.245907367968,"Spring",157719
+6,-122.9107,44.2042,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11.1,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",157742
+6,-115.4207,35.18611,"ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11.1,NA,"male",12.3,269,7.60647152698997,131.877574761701,"Summer",157753
+7,-108.4843,45.2077,"u ad.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",11.1,NA,"male",4.7,423,9.06660539194981,47.8632843818864,"Summer",157786
+7,-108.65,33.4,"adult",1964,"Vireo gilvus swainsonii","Vireo_gilvus",11.1,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",157927
+7,-110.5666667,42.4,"adult",1934,"Vireo gilvus swainsonii","Vireo_gilvus",11.1,NA,"male",3.8,387,7.37236342187785,77.4521992329168,"Summer",157929
+6,-104.42025,44.44875,NA,2008,"Vireo gilvus","Vireo_gilvus",11.2,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",157262
+9,-106.7359053467,29.82389,"sk.not oss.",1961,"Vireo gilvus brewsteri","Vireo_gilvus",11.2,NA,"male",16.8,272,6.54723513238893,111.942865153066,"Fall",157348
+8,-99.0966666666,18.9186111111,"ad.sk.",1964,"Vireo gilvus gilvus","Vireo_gilvus",11.2,NA,"male",21.9,959,1.92706009404497,115.778870112236,"Summer",157363
+7,-115.803525,48.891091,"u ad.",1966,"Vireo gilvus swainsonii","Vireo_gilvus",11.2,NA,"male",5,844,7.4332331152369,71.9951005450523,"Summer",157364
+7,-121.42052,36.14456,"imm.",1919,"Vireo gilvus swainsonii","Vireo_gilvus",11.2,NA,"male",11,761,6.20299903028341,156.606197540788,"Summer",157384
+7,-124.0586921,40.5379163,"unknown",1923,"Vireo gilvus","Vireo_gilvus",11.2,NA,"undetermined",11.5,697,3.76453747812961,87.7679153537944,"Summer",157390
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",11.2,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",157397
+6,-122.357,44.7554,"u ad.",1941,"Vireo gilvus swainsonii","Vireo_gilvus",11.2,NA,"female",10.7,1754,4.66153668251407,73.0621858393346,"Summer",157459
+6,-116.9625092,51.2520312,"ad",1973,"Vireo gilvus swainsonii","Vireo_gilvus",11.2,NA,"female",3.5,573,9.09606558303694,88.727267092819,"Summer",157488
+6,-115.21645,41.84056,"u ad.",1955,"Vireo gilvus leucopolius","Vireo_gilvus",11.2,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",157619
+4,-118.87757,35.3605116,"ad.",1918,"Vireo gilvus swainsonii","Vireo_gilvus",11.2,NA,"female ?",18.3,193,7.52214407700035,111.585576915642,"Spring",157678
+6,-117.5363,41.6846,"unknown",1935,"Vireo gilvus leucopolius","Vireo_gilvus",11.2,NA,"female",4.1,691,8.15818978732786,87.7343027045431,"Summer",157725
+5,-111.0917,31.3886,"unknown",1936,"Vireo gilvus swainsonii","Vireo_gilvus",11.2,NA,"female",16.1,489,6.85266482118563,107.372214086655,"Spring",157727
+6,-122.9107,44.2042,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11.2,NA,"male",11.3,1216,6.10073890209335,80.6421416311516,"Summer",157743
+6,-117.1743385,51.2999992,"ad",1968,"Vireo gilvus swainsonii","Vireo_gilvus",11.2,NA,"male",-2.8,2451,7.46597839089649,77.9367110564347,"Summer",157791
+7,-111.0204703,42.3852083,"adult",1934,"Vireo gilvus swainsonii","Vireo_gilvus",11.2,NA,"male",5.2,400,7.64347116924971,68.1148762285917,"Summer",157835
+9,-123.250567,49.263456,"juvenile",1961,"Vireo gilvus swainsoni","Vireo_gilvus",11.2,NA,"male",10.8,1460,5.55277708298589,69.9851027256916,"Fall",157869
+7,-108.65,33.4,"adult",1964,"Vireo gilvus swainsonii","Vireo_gilvus",11.2,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",157874
+6,-125.3043079,52.4606641,NA,1932,"Vireo gilvus swainsonii","Vireo_gilvus",11.22,NA,"male",1.2,620,8.26223152041685,63.1283078314763,"Summer",157591
+5,-103.84325,44.45248,NA,2008,"Vireo gilvus","Vireo_gilvus",11.3,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",157256
+8,-106.4342871,37.02282872,"u ad.",1952,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"female",0.8,822,8.31323789160543,89.4217443656982,"Summer",157329
+6,-121.0983817,40.5764634,"u ad.",1960,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"male",6.4,911,7.66449409269586,96.2105215330978,"Summer",157344
+6,-114.02278,38.94167,"ad.sk.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",11.3,NA,"male",9.8,140,9.36729885712994,66.135032660162,"Summer",157349
+6,-114.21871,38.856596,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",11.3,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",157351
+6,-115.28361,36.63,"ad.sk.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",11.3,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",157359
+6,-115.28361,36.63,"ad.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",11.3,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",157361
+9,-122.2554321,37.8470514,"juvenile skull",2001,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"male",14.3,700,3.13320438161472,131.557700540214,"Fall",157377
+4,-123.50169,40.46432,"unknown",1932,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"male",10.9,1108,6.86296053265114,102.049049726289,"Spring",157414
+6,-118.72917,41.74888,"unknown",1935,"Vireo gilvus leucopolius","Vireo_gilvus",11.3,NA,"female",8.4,195,8.76720386647668,98.1858027203346,"Summer",157421
+5,-122.0503,42.7457,"u ad.",1940,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"female",7.8,763,6.84563010358809,84.4041296720213,"Spring",157452
+7,-108.4843,45.2077,"u ad.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"male",4.7,423,9.06660539194981,47.8632843818864,"Summer",157468
+5,-109.3823166,31.9297905,NA,1969,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"undetermined",12.3,493,6.9904426096484,118.777198192016,"Spring",157472
+5,-118.268436,37.74241,"u ad.",1954,"Vireo gilvus leucopolius","Vireo_gilvus",11.3,NA,"female",3.4,280,6.35726141725136,88.2308477643851,"Spring",157613
+9,-122.75167,41.21563,"sk.1/4 oss.",1967,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"undetermined",6.9,1475,7.96383872719226,110.973925960497,"Fall",157656
+5,-119.141074,37.990578,"u ad.",1916,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"female",6.8,455,8.43831449491849,130.724498411799,"Spring",157675
+7,-118.4086,44.2483,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11.3,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",157748
+7,-118.4086,44.2483,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11.3,NA,"female",5.5,675,7.55674994273131,73.652077413303,"Summer",157749
+5,-123.8816,45.9264,"u ad.",1941,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"female",11,2337,3.8816194683366,70.8959657856833,"Spring",157766
+5,-118.1683,36.55839,"u ad.",1942,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"female",9.7,135,7.15873592193482,132.213105980386,"Spring",157770
+5,-118.289486,36.78325,"u ad.",1942,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",157771
+5,-103.8953018,30.6390936,"ad",1968,"Vireo gilvus swainsonii","Vireo_gilvus",11.3,NA,"male",14.6,569,6.57820091459111,111.603845728292,"Spring",157789
+7,-111.172949,43.3163447,NA,1949,"Vireo gilvus","Vireo_gilvus",11.4,NA,"male",5,448,10.536976738509,46.3393767046034,"Summer",157279
+8,-123.6330443,40.9878094,"imm.",1949,"Vireo gilvus swainsonii","Vireo_gilvus",11.4,NA,"undetermined",13.1,933,6.69834895984666,112.092797597894,"Summer",157315
+6,-114.22917,39.095,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",11.4,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",157356
+6,-115.61306,38.14861,"ad.sk.",1998,"Vireo gilvus leucopolius","Vireo_gilvus",11.4,NA,"male",8.5,563,7.97193467260253,81.3328454801251,"Summer",157376
+6,-117.10315,36.95078,"unknown",1940,"Vireo gilvus swainsonii","Vireo_gilvus",11.4,NA,"female",10,173,7.54121503754032,91.8049180411786,"Summer",157454
+5,-122.8741356,46.0084949,"u ad.",1941,"Vireo gilvus swainsonii","Vireo_gilvus",11.4,NA,"male",12.1,959,4.73545620342385,69.8215869796105,"Spring",157457
+6,-116.9625092,51.2520312,"ad",1973,"Vireo gilvus swainsonii","Vireo_gilvus",11.4,NA,"male",3.5,573,9.09606558303694,88.727267092819,"Summer",157487
+6,-108.72642,42.56598,NA,2008,"Vireo gilvus","Vireo_gilvus",11.4,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",157537
+5,-103.9333,44.4833,NA,2012,"Vireo gilvus","Vireo_gilvus",11.4,NA,"male",8.7,436,9.44539329755276,84.4517033427315,"Spring",157544
+6,-120.2971805,41.5590607,"ad.sk.",1964,"Vireo gilvus leucopolius","Vireo_gilvus",11.4,NA,"male",5.8,847,7.61698162600574,109.235639777376,"Summer",157651
+6,-115.57361,38.34306,"ad.sk.",1998,"Vireo gilvus leucopolius","Vireo_gilvus",11.4,NA,"male",9,404,8.38633448299113,70.4875652131989,"Summer",157662
+6,-118.289486,36.78325,"u ad.",1942,"Vireo gilvus swainsonii","Vireo_gilvus",11.4,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Summer",157773
+7,-108.4843,45.2077,"u ad.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",11.4,NA,"male",4.7,423,9.06660539194981,47.8632843818864,"Summer",157785
+7,-108.65,33.4,"adult",1964,"Vireo gilvus swainsonii","Vireo_gilvus",11.4,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",157928
+6,-108.72642,42.56598,NA,2008,"Vireo gilvus","Vireo_gilvus",11.5,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",157258
+6,-112.7422333333,47.6075666667,NA,2009,"Vireo gilvus","Vireo_gilvus",11.5,NA,NA,3.8,322,8.60638857142903,68.5116229513047,"Summer",157267
+6,-112.7422333333,47.6075666667,NA,2009,"Vireo gilvus","Vireo_gilvus",11.5,NA,NA,3.8,322,8.60638857142903,68.5116229513047,"Summer",157269
+6,-113.5252666667,47.90035,NA,2009,"Vireo gilvus","Vireo_gilvus",11.5,NA,NA,4.5,605,8.71263015641225,41.6355603618125,"Summer",157272
+8,-103.9333,44.4833,"adult",2010,"Vireo gilvus","Vireo_gilvus",11.5,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",157276
+8,-106.8624833333,34.3269166667,"AHY",2008,"Vireo gilvus","Vireo_gilvus",11.5,NA,"female",14.6,165,8.46037107861581,114.452277463925,"Summer",157301
+6,-115.40583,40.65028,"u ad.",1956,"Vireo gilvus leucopolius","Vireo_gilvus",11.5,NA,"male",4.3,644,8.23510593113226,101.722999908376,"Summer",157339
+6,-106.08889,28.7080373639,"u ad.",1957,"Vireo gilvus brewsteri","Vireo_gilvus",11.5,NA,"female",19,240,5.85322366501804,147.45161899312,"Summer",157342
+6,-114.005,38.87472,"ad.sk.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",11.5,NA,"male",9.7,148,9.27954332079032,64.1545878549474,"Summer",157350
+6,-119.799191,37.756856,"unknown",1915,"Vireo gilvus swainsonii","Vireo_gilvus",11.5,NA,"male",9.2,953,6.13135878953928,118.175936560612,"Summer",157380
+9,-118.48803,37.88755,"imm.",1917,"Vireo gilvus swainsonii","Vireo_gilvus",11.5,NA,"female",9.6,86,9.31430961673293,162.578402961469,"Fall",157383
+7,-120.11166,37.75634,"ad.",1920,"Vireo gilvus swainsonii","Vireo_gilvus",11.5,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",157388
+5,-122.2252066,40.1903286,"u ad.",1924,"Vireo gilvus swainsonii","Vireo_gilvus",11.5,NA,"male",17.4,446,7.60053327475159,110.786178445725,"Spring",157391
+6,-117.14386,39.25556,"ad.",1930,"Vireo gilvus leucopolius","Vireo_gilvus",11.5,NA,"female",5.1,622,8.24041684000086,85.6752551249091,"Summer",157406
+6,-122.357,44.7554,"u ad.",1941,"Vireo gilvus swainsonii","Vireo_gilvus",11.5,NA,"male",10.7,1754,4.66153668251407,73.0621858393346,"Summer",157458
+6,-104.109383,37.254002,"immature",1992,"Vireo gilvus","Vireo_gilvus",11.5,125,"female",11,359,8.40593224869776,100.821235777026,"Summer",157526
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",11.5,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157551
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",11.5,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157552
+6,-112.7422333333,47.6075666667,NA,2009,"Vireo gilvus","Vireo_gilvus",11.5,NA,NA,3.8,322,8.60638857142903,68.5116229513047,"Summer",157555
+5,-108.8832166667,36.0777833333,NA,2013,"Vireo gilvus","Vireo_gilvus",11.5,NA,"female",4.7,662,8.92773597822929,71.109146056222,"Spring",157598
+5,-108.8832166667,36.0777833333,NA,2013,"Vireo gilvus","Vireo_gilvus",11.5,NA,"male",4.7,662,8.92773597822929,71.109146056222,"Spring",157600
+6,-114.21871,38.856596,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",11.5,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",157633
+8,-110.7682,45.033,"u ad.",1967,"Vireo gilvus gilvus","Vireo_gilvus",11.5,NA,"female",4.2,517,9.14780980576358,44.4716076609678,"Summer",157655
+5,-131.1667,57.9578,"u ad.",1919,"Vireo gilvus swainsonii","Vireo_gilvus",11.5,NA,"male",-0.3,493,10.4450365187867,49.2878273494409,"Spring",157681
+8,-116.94528,39.24556,"imm.",1931,"Vireo gilvus leucopolius","Vireo_gilvus",11.5,NA,"female",8.9,185,9.5724470447343,48.9411099092045,"Summer",157709
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",11.5,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157738
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",11.5,NA,"female",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157739
+6,-115.88742,35.77286,"u ad.",1939,"Vireo gilvus leucopolius","Vireo_gilvus",11.5,NA,"male",13.8,234,8.0216562938691,91.1478545268865,"Summer",157754
+6,-123.14392,40.55443,"u ad.",1940,"Vireo gilvus swainsonii","Vireo_gilvus",11.5,NA,"male",12.5,1479,6.16276698972929,112.814020933709,"Summer",157777
+7,-122.6094818,49.2960238,"ad",1973,"Vireo gilvus swainsonii","Vireo_gilvus",11.5,NA,"male",9.3,1521,5.43462524146344,77.6522963192103,"Summer",157808
+7,-135.4454,59.2295,"HY",2002,"Vireo gilvus","Vireo_gilvus",11.5,NA,"male",5.7,747,6.49481728112127,48.1542629923122,"Summer",157821
+5,-83.1713104,42.8389683,NA,1955,"Vireo gilvus gilvus","Vireo_gilvus",11.5,NA,"male",9.9,673,11.2572804724926,38.8754741955505,"Spring",157826
+6,-109.7747222,23.441944,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",11.5,NA,"female",22.5,318,4.72709789886507,128.387621440706,"Summer",157866
+11,-99.0586368,18.9373484,"imm",1972,"Vireo gilvus swainsonii","Vireo_gilvus",11.5,NA,"female",22.1,914,1.42709176617725,113.428484630578,"Fall",157907
+6,-120.76691,40.5252,"adult skull",2006,"Vireo gilvus swainsonii","Vireo_gilvus",11.6,NA,"male",9.2,812,8.28419451654045,95.8038397733814,"Summer",157379
+7,-120.2085,44.0368,"unknown",1920,"Vireo gilvus leucopolius","Vireo_gilvus",11.6,NA,"male",5.9,368,7.19803740086438,61.0264071937593,"Summer",157389
+6,-117.1625,39.25556,"ad.",1936,"Vireo gilvus leucopolius","Vireo_gilvus",11.6,NA,"male",6.8,637,8.25285992669795,94.2160425573452,"Summer",157405
+7,-80.03064,43.52096,"ad",1971,"Vireo gilvus gilvus","Vireo_gilvus",11.6,141,"male",6.9,792,10.2656938244314,41.3419210076523,"Summer",157486
+5,-83.9982891,42.4561409,NA,1953,"Vireo gilvus gilvus","Vireo_gilvus",11.6,NA,"male",10.1,568,9.45885427747062,39.9973849932399,"Spring",157510
+5,-107.1789666667,33.9370333333,NA,2012,"Vireo gilvus","Vireo_gilvus",11.6,NA,"female",12,261,7.35005668912379,114.991328596339,"Spring",157596
+5,-109.0453833333,36.2504333333,NA,2013,"Vireo gilvus","Vireo_gilvus",11.6,NA,"male",8,439,9.0602361331192,77.6714634930389,"Spring",157601
+5,-120.005127,37.980979,"sk.oss.",1978,"Vireo gilvus swainsonii","Vireo_gilvus",11.6,NA,"male",10.7,1443,6.57411706250468,102.304985759185,"Spring",157658
+4,-121.5645284,36.371327,"adult skull",2000,"Vireo gilvus swainsonii","Vireo_gilvus",11.6,NA,"male",14.3,762,4.37266820976932,142.981878497817,"Spring",157663
+6,-120.14187,37.73845,"ad.",1915,"Vireo gilvus swainsonii","Vireo_gilvus",11.6,NA,"female",13.6,972,6.59859948409624,126.927396722398,"Summer",157672
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",11.6,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",157699
+7,-116.7244,48.1081,"unknown",1932,"Vireo gilvus leucopolius","Vireo_gilvus",11.6,NA,"female",4.5,1294,8.54968987564444,67.9751234516142,"Summer",157713
+10,-118.49432,35.4277106,"imm.",1933,"Vireo gilvus swainsonii","Vireo_gilvus",11.6,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",157722
+11,-97.07359,16.17082,"U-Ad.",1964,"Vireo gilvus","Vireo_gilvus",11.6,NA,"female",21.1,1076,1.49362280744139,125.928260241033,"Fall",157884
+5,-103.84325,44.45248,NA,2008,"Vireo gilvus","Vireo_gilvus",11.7,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",157255
+6,-115.40583,40.65028,"u ad.",1956,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"male",4.3,644,8.23510593113226,101.722999908376,"Summer",157340
+6,-115.40583,40.65028,"u ad.",1956,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"male",4.3,644,8.23510593113226,101.722999908376,"Summer",157341
+5,-114.67889,35.16917,"ad.sk.",1967,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"female",20.7,123,8.82748376928384,97.7661768376951,"Spring",157368
+6,-117.54611,37.41083,"ad.sk.",1969,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"male",6,350,7.81540824657331,114.404613475225,"Summer",157369
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",11.7,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157395
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"female",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157428
+7,-117.3669,45.2558,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",157435
+5,-114.2158,46.7589,"u ad.",1940,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"undetermined",6.7,657,9.12951839149284,63.8455749630087,"Spring",157451
+6,-108.72642,42.56598,NA,2008,"Vireo gilvus","Vireo_gilvus",11.7,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",157538
+6,-108.80775,42.5061,NA,2008,"Vireo gilvus","Vireo_gilvus",11.7,NA,"male",1.6,452,9.32690390020377,77.8751919788363,"Summer",157540
+6,-115.36343,41.86105,"u ad.",1955,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"female",0.2,1075,8.88933221747996,89.1715823564443,"Summer",157620
+6,-115.28361,36.63,"ad.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",157644
+6,-115.65611,36.40167,"ad.sk.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"female",9.9,447,7.74891488004493,157.395981687623,"Summer",157649
+5,-123.4853,40.34014,"u ad.",1932,"Vireo gilvus swainsonii","Vireo_gilvus",11.7,NA,"female",10.6,1091,6.98986278965344,105.935643472532,"Spring",157717
+5,-123.3052,40.2337238,"unknown",1933,"Vireo gilvus swainsonii","Vireo_gilvus",11.7,NA,"female",10.6,1441,6.87685512161165,127.945322087102,"Spring",157720
+7,-118.4086,44.2483,"unknown",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11.7,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",157747
+5,-103.9333,44.4833,NA,2007,"Vireo gilvus","Vireo_gilvus",11.8,NA,NA,8.1,523,10.4357304342806,67.2258486086865,"Spring",157247
+6,-103.91,44.45,NA,2007,"Vireo gilvus","Vireo_gilvus",11.8,NA,NA,7.8,546,10.3050590694203,65.8374250132,"Summer",157250
+5,-117.9333333,37.4833333,NA,1982,"Vireo gilvus","Vireo_gilvus",11.8,NA,"female",10.3,225,8.31626281888249,48.9184166115195,"Spring",157292
+9,-116.2346518,33.9625431,"ad.",1950,"Vireo gilvus swainsonii","Vireo_gilvus",11.8,NA,"male",14.4,82,5.88054702670877,100.197198889473,"Fall",157326
+9,-115.8090522,33.7365557,"imm.",1950,"Vireo gilvus swainsonii","Vireo_gilvus",11.8,NA,"male",17,47,6.75875974815893,129.246065528299,"Fall",157327
+6,-114.005,38.87472,"ad.sk.oss.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",11.8,NA,"male",9.7,148,9.27954332079032,64.1545878549474,"Summer",157354
+5,-119.141074,37.990578,"u ad.",1916,"Vireo gilvus leucopolius","Vireo_gilvus",11.8,NA,"male",6.8,455,8.43831449491849,130.724498411799,"Spring",157381
+7,-109.716873,23.387557,"unknown",1929,"Vireo gilvus victoriae","Vireo_gilvus",11.8,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157398
+7,-118.4086,44.2483,"u ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",11.8,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",157433
+5,-100.34276,17.408847,NA,1972,"Vireo gilvus swainsonii","Vireo_gilvus",11.8,NA,"male",25.3,1183,0.999090495491683,121.83744159922,"Spring",157481
+6,-108.72642,42.56598,NA,2008,"Vireo gilvus","Vireo_gilvus",11.8,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",157539
+7,-111.172949,43.3163447,NA,1949,"Vireo gilvus","Vireo_gilvus",11.8,NA,"female",5,448,10.536976738509,46.3393767046034,"Summer",157564
+6,-118.168469,37.53385,"u ad.",1954,"Vireo gilvus leucopolius","Vireo_gilvus",11.8,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",157615
+6,-114.82083,40.5525,"u ad.",1956,"Vireo gilvus leucopolius","Vireo_gilvus",11.8,NA,"female",3,727,7.97288967043754,111.831904649184,"Summer",157623
+8,-106.8987177777,29.3920969444,"sk.oss.",1961,"Vireo gilvus brewsteri","Vireo_gilvus",11.8,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",157626
+9,-106.7359053467,29.82389,"imm sk.",1961,"Vireo gilvus brewsteri","Vireo_gilvus",11.8,NA,"female",16.8,272,6.54723513238893,111.942865153066,"Fall",157627
+6,-114.21871,38.856596,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",11.8,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",157636
+5,-106.3304805555,29.4621811111,"u ad.",1964,"Vireo gilvus brewsteri","Vireo_gilvus",11.8,NA,"female",16.2,175,7.15102768626279,136.342973641135,"Spring",157652
+6,-119.409649,38.415251,"ad.sk.",1985,"Vireo gilvus","Vireo_gilvus",11.8,NA,"male",4.3,539,7.15736535240998,72.5870885503594,"Summer",157660
+7,-121.530840063,40.4125823385,"skull",2006,"Vireo gilvus swainsonii","Vireo_gilvus",11.8,NA,"female",8.1,2962,7.22288031189774,106.173989785825,"Summer",157666
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",11.8,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",157695
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",11.8,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157700
+8,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",11.8,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157705
+5,-119.9287611,42.1136267,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",11.8,NA,"male",9.4,318,9.43030254342914,79.396199210954,"Spring",157732
+7,-119.265487,38.469445,"u ad.",1946,"Vireo gilvus leucopolius","Vireo_gilvus",11.8,NA,"male",3.8,536,6.87055090199976,134.131653796807,"Summer",157782
+5,-103.8953018,30.6390936,"ad",1968,"Vireo gilvus swainsonii","Vireo_gilvus",11.8,NA,"female",14.6,569,6.57820091459111,111.603845728292,"Spring",157790
+5,-109.16863,31.89006,"ad",1969,"Vireo gilvus swainsonii","Vireo_gilvus",11.8,36,"male",13.4,422,7.20622626412028,112.8215497296,"Spring",157794
+6,-80.03064,43.52096,"ad",1971,"Vireo gilvus gilvus","Vireo_gilvus",11.8,NA,"male",6.9,792,10.2656938244314,41.3419210076523,"Summer",157802
+5,-82.4333333,42.9666667,NA,1977,"Vireo gilvus","Vireo_gilvus",11.8,NA,"female",8.9,790,10.7981023866009,35.84548760732,"Spring",157877
+1,-97.1535928,16.267488,"Not recorded",1965,NA,"Vireo_gilvus",11.8,NA,"male",19.8,1060,1.55378326166889,123.112924847007,"Winter",157881
+8,-122.66498,37.91439,"immature",2001,"Vireo gilvus","Vireo_gilvus",11.8,NA,"male",13.3,910,2.45202451913194,135.53444749398,"Summer",157890
+2,-96.4502478,15.9675045,"Not recorded",1965,NA,"Vireo_gilvus",11.8,NA,"male",21.9,1232,1.37408371673856,111.251271163287,"Winter",157933
+6,-126.7530012,52.3716429,NA,1933,"Vireo gilvus swainsonii","Vireo_gilvus",11.89,NA,"male",6.7,2216,6.32874036009177,70.7293163870436,"Summer",157300
+5,-103.9333,44.4833,"adult",2010,"Vireo gilvus","Vireo_gilvus",11.9,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Spring",157275
+6,-109.0469166667,36.2480333333,NA,2013,"Vireo gilvus","Vireo_gilvus",11.9,NA,"male",8.1,423,9.0659034883792,78.9796921196655,"Summer",157308
+5,-121.12136,41.56081,"ad.",1948,"Vireo gilvus leucopolius","Vireo_gilvus",11.9,NA,"male",6.9,534,7.6679182114163,55.7253413422282,"Spring",157309
+6,-115.69417,36.31573,"ad.sk.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",11.9,NA,"undetermined",4.7,585,7.53659255053152,166.320927145513,"Summer",157362
+6,-117.750243,34.40176,"ad.sk.",1985,"Vireo gilvus swainsonii","Vireo_gilvus",11.9,NA,"male",11.9,167,7.20004208741908,125.543198789903,"Summer",157372
+6,-119.409649,38.415251,"ad.sk.",1985,"Vireo gilvus","Vireo_gilvus",11.9,NA,"male",4.3,539,7.15736535240998,72.5870885503594,"Summer",157374
+5,-115.57412,35.51722,"u ad.",1939,"Vireo gilvus leucopolius","Vireo_gilvus",11.9,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",157444
+6,-103.9333,44.4833,NA,2007,"Vireo gilvus","Vireo_gilvus",11.9,NA,NA,8.1,523,10.4357304342806,67.2258486086865,"Summer",157529
+6,-115.69146,36.30917,"ad.sk.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",11.9,NA,"male",4.8,591,7.55470453466319,167.704094867407,"Summer",157647
+8,-111.106,44.1296,"imm.",1939,"Vireo gilvus leucopolius","Vireo_gilvus",11.9,NA,"male",4.3,639,9.28354686659374,67.6867962566796,"Summer",157757
+8,-80.02348,43.51594,"ad",1972,"Vireo gilvus gilvus","Vireo_gilvus",11.9,132,"female",6,962,10.0118868745047,24.0278844891503,"Summer",157805
+6,-80.03064,43.52096,"ad",1971,"Vireo gilvus gilvus","Vireo_gilvus",11.9,NA,"male",6.9,792,10.2656938244314,41.3419210076523,"Summer",157814
+6,-130.014,55.917,"AHY",1997,"Vireo gilvus","Vireo_gilvus",11.9,NA,"male",5.8,1970,6.69902751874999,54.568761871554,"Summer",157823
+6,-80.03064,43.52096,"ad",1971,"Vireo gilvus gilvus","Vireo_gilvus",11.9,NA,"male",6.9,792,10.2656938244314,41.3419210076523,"Summer",157841
+6,-106.3,39.0436,NA,1987,"Vireo gilvus","Vireo_gilvus",11.9,NA,"male",2.6,273,8.10291286943757,44.6173735209402,"Summer",157934
+7,-104.824696,40.330265,NA,1980,"Vireo gilvus","Vireo_gilvus",12,122,"undetermined",9.8,303,9.82070709668035,83.6384299511089,"Summer",157243
+5,-103.9333,44.4833,NA,2007,"Vireo gilvus","Vireo_gilvus",12,NA,NA,8.1,523,10.4357304342806,67.2258486086865,"Spring",157246
+8,-120.28173,35.59775,"imm.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",12,NA,"male",14.6,104,6.07759796051836,93.2076166137476,"Summer",157313
+6,-115.28361,36.63,"ad.sk.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",157360
+7,-117.52944,41.70556,"unknown",1967,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"undetermined",5.8,616,8.55493832221891,73.635279801778,"Summer",157366
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",12,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157402
+9,-116.94528,39.24556,"unknown",1931,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"female",8.9,185,9.5724470447343,48.9411099092045,"Fall",157408
+6,-118.72917,41.74888,"unknown",1935,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"female",8.4,195,8.76720386647668,98.1858027203346,"Summer",157420
+5,-119.9287611,42.1136267,"unknown",1937,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"male",9.4,318,9.43030254342914,79.396199210954,"Spring",157424
+7,-118.4086,44.2483,"unknown",1938,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",157432
+6,-130.014,55.917,"SY",1997,"Vireo gilvus","Vireo_gilvus",12,NA,"male",5.8,1970,6.69902751874999,54.568761871554,"Summer",157505
+4,-117.3049521,33.1229601,"adult",2006,NA,"Vireo_gilvus",12,NA,"male",16.2,204,3.75268590680748,94.1591003045687,"Spring",157520
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",12,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157547
+6,-109.3332333333,46.7106666667,NA,2009,"Vireo gilvus","Vireo_gilvus",12,NA,NA,2.6,640,8.70452686128246,59.6331112264441,"Summer",157550
+6,-103.9333,44.4833,"adult",2010,"Vireo gilvus","Vireo_gilvus",12,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",157557
+8,-103.9333,44.4833,"adult",2010,"Vireo gilvus","Vireo_gilvus",12,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",157561
+5,-107.4063833333,33.57645,"ad",2008,"Vireo gilvus","Vireo_gilvus",12,NA,"male",10.8,409,6.84364336778697,149.381207989893,"Spring",157593
+5,-109.0468833333,36.2479833333,NA,2013,"Vireo gilvus","Vireo_gilvus",12,NA,"male",8.1,423,9.0659034883792,78.9796921196655,"Spring",157599
+6,-106.08889,28.7080373639,"u ad.",1957,"Vireo gilvus brewsteri","Vireo_gilvus",12,NA,"male",19,240,5.85322366501804,147.45161899312,"Summer",157624
+6,-114.22917,39.095,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",157640
+6,-115.65611,36.40167,"ad.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",157648
+7,-121.972897,37.779678,"juvenile",2004,"Vireo gilvus swainsonii","Vireo_gilvus",12,NA,"female ?",15.4,556,4.88010028461289,122.160884820264,"Summer",157670
+8,-119.39231,37.73082,"imm.",1915,"Vireo gilvus swainsonii","Vireo_gilvus",12,NA,"female",4.7,933,6.33711410276911,122.055904220382,"Summer",157673
+6,-127.6667,55.25,"u ad.",1921,"Vireo gilvus swainsonii","Vireo_gilvus",12,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",157684
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",12,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157697
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",12,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157701
+6,-117.09639,39.16222,"unknown",1930,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"male",8.3,253,8.91877063820848,91.7816550905034,"Summer",157708
+9,-116.94528,39.24556,"imm.",1931,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"female",8.9,185,9.5724470447343,48.9411099092045,"Fall",157712
+7,-116.96317,38.71333,"unknown",1933,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"male",4.6,297,8.93527229070782,100.931098581735,"Summer",157721
+7,-118.24639,40.5275,"unknown",1936,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"male",11.2,225,8.60827649662952,77.957771526732,"Summer",157728
+8,-111.106,44.1296,"ad.",1939,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"male",4.3,639,9.28354686659374,67.6867962566796,"Summer",157755
+8,-111.106,44.1296,"imm",1939,"Vireo gilvus leucopolius","Vireo_gilvus",12,NA,"female",4.3,639,9.28354686659374,67.6867962566796,"Summer",157756
+5,-112.2576561,34.2581237,"ad",1971,"Vireo gilvus swainsonii","Vireo_gilvus",12,NA,"male",15.3,408,7.63704587500754,109.741037506447,"Spring",157801
+6,-111.6943275,35.3530637,"ad",1978,"Vireo gilvus swainsonii","Vireo_gilvus",12,NA,"male",2.9,1330,6.72261560748944,96.428948466689,"Summer",157816
+12,-98.7679833,18.6804333,NA,2002,"Vireo gilvus","Vireo_gilvus",12,NA,"male",23.4,888,1.95779328465866,138.405684317565,"Winter",157860
+1,-97.07694444,16.15555556,NA,1990,"Vireo gilvus","Vireo_gilvus",12,NA,NA,22.5,1264,1.29988344465839,91.1854179142235,"Winter",157863
+4,-109.8656333,23.5588667,NA,2001,"Vireo gilvus","Vireo_gilvus",12,NA,"female",22.2,634,4.49521631258938,281.384446087319,"Spring",157903
+12,-98.7679833,18.6804333,NA,2002,"Vireo gilvus","Vireo_gilvus",12,NA,"male",23.4,888,1.95779328465866,138.405684317565,"Winter",157904
+9,-123.159051,49.336463,"immature",1991,"Vireo gilvus swainsoni","Vireo_gilvus",12,138.5,"male",10.5,1490,5.3262358076589,62.1406058068762,"Fall",157916
+11,-93.0901782,16.8274632,"Skull ossified",1965,NA,"Vireo_gilvus",12,NA,"male",21.6,1339,1.54417281965773,101.611467599886,"Fall",157931
+5,-117.179457,46.728691,NA,1950,"Vireo gilvus","Vireo_gilvus",12.1,125,"female",7.6,652,8.66198154248924,66.8975596396836,"Spring",157241
+5,-103.9333,44.4833,NA,2007,"Vireo gilvus","Vireo_gilvus",12.1,NA,NA,8.1,523,10.4357304342806,67.2258486086865,"Spring",157245
+7,-111.172949,43.3163447,NA,1949,"Vireo gilvus","Vireo_gilvus",12.1,NA,"female",5,448,10.536976738509,46.3393767046034,"Summer",157282
+9,-105.822524,36.058436,"imm.",1952,"Vireo gilvus swainsonii","Vireo_gilvus",12.1,NA,"male",7.2,381,8.44764177242096,65.8506232087275,"Fall",157331
+7,-131.6833,57.6,"unknown",1919,"Vireo gilvus swainsonii","Vireo_gilvus",12.1,NA,"male",1,886,9.61054897054021,51.1869259047249,"Summer",157387
+7,-116.47028,38.73167,"unknown",1933,"Vireo gilvus leucopolius","Vireo_gilvus",12.1,NA,"female",6.7,134,9.37583935636504,88.9797515396781,"Summer",157418
+7,-111.2424846,42.3631281,"adult",1934,"Vireo gilvus swainsonii","Vireo_gilvus",12.1,NA,"male",4.9,451,7.27515489786154,58.8262292903876,"Summer",157513
+6,-108.80775,42.5061,NA,2008,"Vireo gilvus","Vireo_gilvus",12.1,NA,"male",1.6,452,9.32690390020377,77.8751919788363,"Summer",157541
+9,-101.7109,39.34894,NA,1964,"Vireo gilvus","Vireo_gilvus",12.1,NA,"female",10.6,372,10.0765667253136,102.499276088729,"Fall",157572
+6,-120.7617707,41.8993424,"u ad.",1949,"Vireo gilvus leucopolius","Vireo_gilvus",12.1,NA,"female",6.8,368,8.90928609866575,93.7607611271232,"Summer",157603
+5,-115.4207,35.1716,"ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",12.1,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",157752
+6,-80.02348,43.51594,"imm",1970,"Vireo gilvus gilvus","Vireo_gilvus",12.1,100,"male",6.7,857,10.8137398570971,30.6621264846415,"Summer",157797
+8,-111.6512725,35.2996069,"imm",1977,"Vireo gilvus brewsteri","Vireo_gilvus",12.1,62,"female",5.3,571,7.82146909396686,35.4614861256155,"Summer",157815
+7,-104.189922,44.301682,"adult",1935,"Vireo gilvus gilvus","Vireo_gilvus",12.1,NA,"male",5.4,511,9.09926320693554,101.668432516955,"Summer",157838
+7,-108.65,33.4,"adult",1964,"Vireo gilvus swainsonii","Vireo_gilvus",12.1,NA,"in question",6.6,739,7.73885807095751,101.789373511029,"Summer",157875
+4,-97.11693,16.20082,"U-Ad.",1965,"Vireo gilvus","Vireo_gilvus",12.1,NA,"male",18.1,948,1.41635468935596,125.961998190857,"Spring",157883
+8,-122.46533,37.77029,"HY",2009,"Vireo gilvus","Vireo_gilvus",12.13,124,"male",13.6,519,2.60034962684216,122.482361208739,"Summer",157892
+6,-103.91,44.45,NA,2007,"Vireo gilvus","Vireo_gilvus",12.2,NA,NA,7.8,546,10.3050590694203,65.8374250132,"Summer",157252
+9,-119.8792403,35.3983222,"imm.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",12.2,NA,"male",14.6,101,6.77540113986328,104.927362943041,"Fall",157312
+8,-106.004446,36.615864,"unknown",1952,"Vireo gilvus swainsonii","Vireo_gilvus",12.2,NA,"female",4.6,374,8.83969610748736,76.5889731635705,"Summer",157330
+9,-122.7184135,39.0042218,"imm.",1953,"Vireo gilvus swainsonii","Vireo_gilvus",12.2,NA,"male",13.9,464,5.89843327939845,123.7542216218,"Fall",157332
+8,-106.8987177777,29.3920969444,"ad.sk.",1961,"Vireo gilvus brewsteri","Vireo_gilvus",12.2,NA,"female",13.9,408,6.2050504844966,116.088641244644,"Summer",157346
+8,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",12.2,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",157403
+5,-112.4312792,34.4465659,"ad",1969,"Vireo gilvus swainsonii","Vireo_gilvus",12.2,NA,"male",9.9,683,7.58077212826016,72.3272356493059,"Spring",157475
+5,-112.4808276,34.4345475,NA,1971,"Vireo gilvus swainsonii","Vireo_gilvus",12.2,NA,"female",9.4,599,7.25753004983393,117.363576555852,"Spring",157482
+8,-111.7387431,35.2698666,"imm",1977,"Vireo gilvus brewsteri","Vireo_gilvus",12.2,NA,"male",7.1,385,8.1196870741315,42.2681432125154,"Summer",157492
+7,-119.7497894,48.5863153,NA,1940,"Vireo gilvus swainsonii","Vireo_gilvus",12.2,NA,"female",5.6,561,8.22527516349158,66.6721549998131,"Summer",157507
+8,-111.2702042,42.370761,"adult",1934,"Vireo gilvus swainsonii","Vireo_gilvus",12.2,NA,"female",6,331,7.96423825039727,55.8533595923151,"Summer",157515
+6,-121.5319,40.4147,"ad.",1924,"Vireo gilvus swainsonii","Vireo_gilvus",12.2,NA,"male",6.9,1423,6.82073487554122,104.276018204552,"Summer",157685
+8,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",12.2,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157704
+7,-118.4086,44.2483,"unknown",1938,"Vireo gilvus leucopolius","Vireo_gilvus",12.2,NA,"male",5.5,675,7.55674994273131,73.652077413303,"Summer",157746
+6,-106.785312,46.26478,"u ad.",1940,"Vireo gilvus gilvus","Vireo_gilvus",12.2,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",157762
+5,-79.372722,43.73418,"ad",2006,"Vireo gilvus","Vireo_gilvus",12.2,NA,"female",9.2,899,8.99216409723016,33.3987237402082,"Spring",157804
+7,-108.65,33.4,"adult",1964,"Vireo gilvus swainsonii","Vireo_gilvus",12.2,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",157872
+7,-103.95742,44.40666,NA,2007,"Vireo gilvus","Vireo_gilvus",12.3,NA,NA,6.8,591,10.2574437125022,64.0352596716035,"Summer",157253
+5,-103.84325,44.45248,NA,2008,"Vireo gilvus","Vireo_gilvus",12.3,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",157254
+6,-115.28361,36.63,"ad.sk.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",12.3,NA,"female",10.9,263,7.94470950324234,127.021594027793,"Summer",157358
+6,-115.9594,48.2479,"u ad.",1966,"Vireo gilvus swainsonii","Vireo_gilvus",12.3,NA,"male",5.3,1620,7.26387387255338,78.1791790562549,"Summer",157365
+6,-112.4312792,34.442939,"ad",1970,"Vireo gilvus brewsteri","Vireo_gilvus",12.3,NA,"male",9.7,730,7.28339747562076,120.748137722289,"Summer",157485
+6,-119.7883286,49.3664832,"ad",1980,"Vireo gilvus swainsonii","Vireo_gilvus",12.3,NA,"male",4.5,514,7.47984666023349,50.1373019486766,"Summer",157496
+6,-108.5942316,33.4004918,"juvenile",1958,"Vireo gilvus","Vireo_gilvus",12.3,NA,"male",8.3,859,7.26841965233325,68.8240572216818,"Summer",157571
+8,-106.004446,36.615864,"imm.",1952,"Vireo gilvus swainsonii","Vireo_gilvus",12.3,NA,"male",4.6,374,8.83969610748736,76.5889731635705,"Summer",157611
+6,-115.43111,41.91708,"u ad.",1956,"Vireo gilvus leucopolius","Vireo_gilvus",12.3,NA,"male",4.6,559,8.24431852118705,109.953077771036,"Summer",157622
+6,-115.69417,36.31573,"ad.sk.",1963,"Vireo gilvus leucopolius","Vireo_gilvus",12.3,NA,"female",4.7,585,7.53659255053152,166.320927145513,"Summer",157645
+5,-119.9287611,42.1136267,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",12.3,NA,"male",9.4,318,9.43030254342914,79.396199210954,"Spring",157731
+6,-120.4257,44.4709,"unknown",1938,"Vireo gilvus leucopolius","Vireo_gilvus",12.3,NA,"female",7.3,419,7.77787752461292,61.4428384026502,"Summer",157745
+9,-108.79917,42.46833,"imm.",1939,"Vireo gilvus leucopolius","Vireo_gilvus",12.3,NA,"male",2.8,267,9.15997551935329,66.6966996623024,"Fall",157759
+6,-80.03064,43.52096,"ad",1971,"Vireo gilvus gilvus","Vireo_gilvus",12.3,NA,"male",6.9,792,10.2656938244314,41.3419210076523,"Summer",157803
+4,-105.003856,21.606673,NA,1963,"Vireo gilvus","Vireo_gilvus",12.3,NA,"female",23.6,1469,2.06769891132118,141.600623005607,"Spring",157824
+6,-97.30359,16.44913,"U-Ad.",1963,"Vireo gilvus connectens","Vireo_gilvus",12.3,NA,"undetermined",22.6,976,1.6530962684391,134.947170419869,"Summer",157843
+6,-109.905581,30.8917998,"Not recorded",1955,NA,"Vireo_gilvus",12.3,NA,"male",12.8,570,6.2647401938923,149.686485086925,"Summer",157880
+6,-97.30359,16.44913,"Ad.",1963,"Vireo gilvus connectens","Vireo_gilvus",12.3,NA,"female",22.6,976,1.6530962684391,134.947170419869,"Summer",157882
+5,-96.4669183,16.0674993,"Not recorded",1965,NA,"Vireo_gilvus",12.3,NA,"male",15.4,1058,0.946284600664381,118.293539357867,"Spring",157932
+6,-103.91,44.45,NA,2007,"Vireo gilvus","Vireo_gilvus",12.4,NA,NA,7.8,546,10.3050590694203,65.8374250132,"Summer",157251
+6,-109.03275,36.2446,NA,2013,"Vireo gilvus","Vireo_gilvus",12.4,NA,"male",7.4,520,9.02506190694792,71.9257888194671,"Summer",157307
+7,-121.47294,36.236376,"imm.",1919,"Vireo gilvus swainsonii","Vireo_gilvus",12.4,NA,"male",13.9,431,5.07381871607928,161.996694299459,"Summer",157385
+4,-116.0664242,33.5573954,"u ad.",1937,"Vireo gilvus swainsonii","Vireo_gilvus",12.4,NA,"male",22.6,48,8.80184209369972,140.46069543915,"Spring",157423
+7,-111.6943275,35.3530637,"ad",1978,"Vireo gilvus swainsonii","Vireo_gilvus",12.4,NA,"male",2.9,1330,6.72261560748944,96.428948466689,"Summer",157494
+6,-112.7422333333,47.6075666667,NA,2009,"Vireo gilvus","Vireo_gilvus",12.4,NA,NA,3.8,322,8.60638857142903,68.5116229513047,"Summer",157553
+6,-112.7422333333,47.6075666667,NA,2009,"Vireo gilvus","Vireo_gilvus",12.4,NA,NA,3.8,322,8.60638857142903,68.5116229513047,"Summer",157554
+9,-123.1358556,40.315747,"imm.",1949,"Vireo gilvus swainsonii","Vireo_gilvus",12.4,NA,"male",9.4,1281,6.87278338922096,146.948460928128,"Fall",157605
+6,-114.21871,38.856596,"ad.sk.oss.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",12.4,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",157638
+5,-122.2252066,40.1903286,"u ad.",1924,"Vireo gilvus swainsonii","Vireo_gilvus",12.4,NA,"male",17.4,446,7.60053327475159,110.786178445725,"Spring",157686
+7,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",12.4,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",157702
+8,-115.4625712,41.8318505,"immature",1972,"Vireo gilvus swainsonii","Vireo_gilvus",12.4,NA,"undetermined",2.5,837,8.02157601835087,54.2706279993887,"Summer",157833
+5,-122.5460958,49.4197957,NA,1933,"Vireo gilvus swainsonii","Vireo_gilvus",12.47,NA,"female",8.8,2995,6.15680825418397,76.4382366740135,"Spring",157592
+4,-116.5135639,34.0687473,"u ad.",1951,"Vireo gilvus leucopolius","Vireo_gilvus",12.5,NA,"male",16.7,246,7.00523613687171,139.842888524595,"Spring",157328
+8,-106.8987177777,29.3920969444,"ad.sk.",1961,"Vireo gilvus brewsteri","Vireo_gilvus",12.5,NA,"female",13.9,408,6.2050504844966,116.088641244644,"Summer",157347
+6,-119.409649,38.415251,"ad.sk.",1985,"Vireo gilvus","Vireo_gilvus",12.5,NA,"female",4.3,539,7.15736535240998,72.5870885503594,"Summer",157373
+4,-116.0664242,33.5573954,"u ad.",1937,"Vireo gilvus swainsonii","Vireo_gilvus",12.5,NA,"female",22.6,48,8.80184209369972,140.46069543915,"Spring",157422
+6,-106.785312,46.26478,"u ad.",1940,"Vireo gilvus gilvus","Vireo_gilvus",12.5,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",157448
+7,-80.03064,43.52096,"ad",1971,"Vireo gilvus gilvus","Vireo_gilvus",12.5,NA,"male",6.9,792,10.2656938244314,41.3419210076523,"Summer",157483
+5,-80.46841,45.72264,"ad",1978,"Vireo gilvus gilvus","Vireo_gilvus",12.5,NA,"male",4.4,852,11.4075832035298,46.808322366911,"Spring",157495
+5,-135.4454,59.2295,"AHY",2013,"Vireo gilvus","Vireo_gilvus",12.5,NA,"male",5.6,1013,7.76520502568407,59.0061546902625,"Spring",157504
+5,-104.983383,21.587514,NA,1963,"Vireo gilvus","Vireo_gilvus",12.5,NA,"male",23.1,1398,2.07033520928083,142.639927375294,"Spring",157506
+5,-103.84325,44.45248,NA,2008,"Vireo gilvus","Vireo_gilvus",12.5,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",157534
+5,-103.84325,44.45248,NA,2008,"Vireo gilvus","Vireo_gilvus",12.5,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",157535
+5,-103.9333,44.4833,NA,2012,"Vireo gilvus","Vireo_gilvus",12.5,NA,NA,8.7,436,9.44539329755276,84.4517033427315,"Spring",157543
+7,-103.9333,44.4833,"adult",2010,"Vireo gilvus","Vireo_gilvus",12.5,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",157558
+7,-111.172949,43.3163447,NA,1949,"Vireo gilvus","Vireo_gilvus",12.5,NA,"male",5,448,10.536976738509,46.3393767046034,"Summer",157563
+8,-118.099737,37.432159,"ad.",1917,"Vireo gilvus leucopolius","Vireo_gilvus",12.5,NA,"male",5.6,160,8.42134283541023,153.363953658046,"Summer",157677
+6,-106.785312,46.26478,"u ad.",1940,"Vireo gilvus gilvus","Vireo_gilvus",12.5,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",157761
+7,-119.269072,38.468374,"u ad.",1946,"Vireo gilvus leucopolius","Vireo_gilvus",12.5,NA,"female",3.7,550,6.85622919598512,133.948219827167,"Summer",157783
+5,-112.481717,34.555451,NA,1970,"Vireo gilvus swainsonii","Vireo_gilvus",12.5,NA,"undetermined",11.4,576,7.67559592000991,124.081219327902,"Spring",157796
+4,-83.7268066,42.3154008,NA,1942,"Vireo gilvus gilvus","Vireo_gilvus",12.5,NA,"male",9.3,918,10.5050492909867,38.9713122650859,"Spring",157825
+6,-83.2030677,42.0139735,NA,1979,"Vireo gilvus","Vireo_gilvus",12.5,NA,"male",8.8,873,10.5785768361717,42.899432551101,"Summer",157831
+5,-99.298642,19.0040046,"ad",1972,"Vireo gilvus swainsonii","Vireo_gilvus",12.5,NA,"male",15.6,1168,1.73388685800534,98.8159924248089,"Spring",157867
+6,-110.6983149,43.6557657,NA,1949,"Vireo gilvus","Vireo_gilvus",12.6,NA,"male",2.2,603,10.53120543332,42.598433664255,"Summer",157278
+9,-116.98667,39.23861,"imm.",1931,"Vireo gilvus leucopolius","Vireo_gilvus",12.6,NA,"male",9.1,185,9.60889739204812,49.4793629683915,"Fall",157410
+5,-116.257,34.03749,"u ad.",1945,"Vireo gilvus leucopolius","Vireo_gilvus",12.6,NA,"male",14,454,7.25550992297745,147.582890399501,"Spring",157466
+5,-83.6560364,42.2977486,NA,1949,"Vireo gilvus gilvus","Vireo_gilvus",12.6,NA,"male",10.5,841,9.74649898292933,23.9392394051248,"Spring",157509
+8,-100.1574477,39.1380273,NA,1966,"Vireo gilvus","Vireo_gilvus",12.6,NA,"male",11.3,376,10.8801180920507,91.8270750397748,"Summer",157573
+5,-118.289486,36.78325,"u ad.",1942,"Vireo gilvus swainsonii","Vireo_gilvus",12.6,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",157772
+7,-108.65,33.4,"adult",1964,"Vireo gilvus swainsonii","Vireo_gilvus",12.6,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Summer",157873
+6,-114.21871,38.856596,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",12.7,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",157355
+7,-117.3669,45.2558,"unknown",1938,"Vireo gilvus leucopolius","Vireo_gilvus",12.7,NA,"male",3.1,1418,6.90458784673881,79.3035636140644,"Summer",157434
+6,-101.492808,37.3220531,NA,1967,"Vireo gilvus","Vireo_gilvus",12.7,NA,"male",13.3,405,8.57199015115598,118.010326140339,"Summer",157574
+5,-99.4356439,37.0375812,NA,1968,"Vireo gilvus","Vireo_gilvus",12.7,NA,"male",14.2,725,9.90308721377512,111.926137454628,"Spring",157576
+6,-114.21871,38.856596,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",12.7,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",157637
+6,-114.22917,39.095,"u ad.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",12.7,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",157639
+6,-120.2971805,41.5590607,"unknown",1964,"Vireo gilvus leucopolius","Vireo_gilvus",12.7,NA,"undetermined",5.8,847,7.61698162600574,109.235639777376,"Summer",157650
+5,-103.84325,44.45248,NA,2008,"Vireo gilvus","Vireo_gilvus",12.8,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",157257
+7,-111.172949,43.3163447,NA,1949,"Vireo gilvus","Vireo_gilvus",12.8,NA,"female",5,448,10.536976738509,46.3393767046034,"Summer",157281
+6,-117.54611,37.41083,"ad.sk.",1969,"Vireo gilvus leucopolius","Vireo_gilvus",12.8,NA,"female",6,350,7.81540824657331,114.404613475225,"Summer",157370
+6,-103.9333,44.4833,NA,2007,"Vireo gilvus","Vireo_gilvus",12.8,NA,NA,8.1,523,10.4357304342806,67.2258486086865,"Summer",157531
+8,-114.840694,43.928887,"immature",1948,"Vireo gilvus","Vireo_gilvus",12.8,NA,"female",1,590,9.07829162276024,62.5814499600158,"Summer",157562
+9,-108.18275,35.1362833333,"AHY",2008,"Vireo gilvus","Vireo_gilvus",12.8,NA,"male",7.6,399,7.73061603253093,65.829320090856,"Fall",157594
+5,-100.34276,17.408847,"ad",1971,"Vireo gilvus connectens","Vireo_gilvus",12.8,NA,"male",24.2,1163,1.0375889885166,123.434496578967,"Spring",157800
+6,-118.168469,37.53385,"u ad.",1954,"Vireo gilvus leucopolius","Vireo_gilvus",12.9,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",157333
+5,-115.233067,37.53167,"unknown",1932,"Vireo gilvus leucopolius","Vireo_gilvus",12.9,NA,"female",12.4,163,9.40989163625494,83.4493057286671,"Spring",157412
+5,-78.786345,44.221273,"imm",2013,"Vireo gilvus","Vireo_gilvus",12.9,NA,"female",7,967,10.1257958909037,33.0122713572889,"Spring",157501
+7,-111.2702042,42.370761,"juvenile",1934,"Vireo gilvus swainsonii","Vireo_gilvus",12.9,NA,"male",6,331,7.96423825039727,55.8533595923151,"Summer",157514
+9,-117.164293,46.730767,NA,1993,"Vireo gilvus","Vireo_gilvus",12.9,NA,"male",8,450,8.12597779664178,64.9375768633916,"Fall",157524
+7,-111.172949,43.3163447,NA,1949,"Vireo gilvus","Vireo_gilvus",12.9,6,"female",5,448,10.536976738509,46.3393767046034,"Summer",157566
+5,-122.18016,40.37479,"u ad.",1926,"Vireo gilvus swainsonii","Vireo_gilvus",12.9,NA,"female",18,804,7.37236855981971,110.49542409175,"Spring",157690
+5,-121.8604466,37.9578875,"u ad.",1944,"Vireo gilvus swainsonii","Vireo_gilvus",12.9,NA,"male",14.5,568,4.94487031419859,108.929385750828,"Spring",157778
+6,-106.1985,45.3019,"unknown",1947,"Vireo gilvus gilvus","Vireo_gilvus",12.9,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",157784
+5,-76.0139751,42.8989809,"ad",1969,"Vireo gilvus gilvus","Vireo_gilvus",12.9,NA,"female",6.3,912,10.3103177213484,47.4878876258563,"Spring",157799
+6,-108.65,33.4,NA,1964,"Vireo gilvus swainsonii","Vireo_gilvus",12.9,NA,"female",6.6,739,7.73885807095751,101.789373511029,"Summer",157871
+8,-120.28173,35.59775,"imm.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",13,NA,"undetermined",14.6,104,6.07759796051836,93.2076166137476,"Summer",157314
+5,-111.571802,33.5600452,"ad",1969,"Vireo gilvus swainsonii","Vireo_gilvus",13,NA,"male",20.9,310,8.23836185540585,63.6461043926245,"Spring",157474
+7,-111.6943275,35.3530637,"juv",1978,"Vireo gilvus swainsonii","Vireo_gilvus",13,NA,"male",2.9,1330,6.72261560748944,96.428948466689,"Summer",157493
+8,-103.6958385,30.507234,"ad",1980,"Vireo gilvus gilvus","Vireo_gilvus",13,NA,"male",16.8,425,7.64559687108544,147.658502324407,"Summer",157498
+4,-98.7157861,35.3080899,NA,1959,"Vireo gilvus","Vireo_gilvus",13,NA,"male",15.5,951,9.22458424783765,79.9394458076426,"Spring",157511
+6,-103.91,44.45,NA,2007,"Vireo gilvus","Vireo_gilvus",13,NA,NA,7.8,546,10.3050590694203,65.8374250132,"Summer",157533
+7,-103.9333,44.4833,"adult",2010,"Vireo gilvus","Vireo_gilvus",13,NA,"female",6.5,592,9.70621481632289,82.6623794832287,"Summer",157559
+5,-119.37,39.84,"u ad.",1934,"Vireo gilvus leucopolius","Vireo_gilvus",13,NA,"female",12.7,155,7.11317066923724,68.4770603983254,"Spring",157723
+8,-109.83667,43.30329,"imm.",1939,"Vireo gilvus leucopolius","Vireo_gilvus",13,NA,"male",0.5,432,8.61082387921086,62.4349229099711,"Summer",157758
+8,-83.75,42.2833333,"immature",1935,"Vireo gilvus gilvus","Vireo_gilvus",13,NA,"female",8.9,645,10.2173055808923,45.4092454476673,"Summer",157878
+7,-77.27931,43.96989,"ad",1930,"Vireo gilvus gilvus","Vireo_gilvus",13,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",157909
+6,-108.65,33.4,NA,1964,"Vireo gilvus swainsonii","Vireo_gilvus",13,NA,"female",6.6,739,7.73885807095751,101.789373511029,"Summer",157923
+5,-103.9333,44.4833,"adult",2010,"Vireo gilvus","Vireo_gilvus",13.1,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Spring",157274
+10,-95.6780357,39.0483341,NA,1986,"Vireo gilvus","Vireo_gilvus",13.1,NA,"male",13.2,1086,9.77403409162473,70.40050655175,"Fall",157289
+8,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",13.1,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157404
+5,-115.4207,35.1716,"ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",13.1,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",157439
+5,-103.8293839,30.6151638,"ad",1968,"Vireo gilvus swainsonii","Vireo_gilvus",13.1,NA,"male",15.1,539,6.74947809430141,106.541621272206,"Spring",157470
+6,-101.5484635,50.0811362,"ad",1968,"Vireo gilvus gilvus","Vireo_gilvus",13.1,NA,"female",1.8,406,12.5779358281464,92.7822972480675,"Summer",157478
+6,-80.03064,43.52096,"ad",1971,"Vireo gilvus gilvus","Vireo_gilvus",13.1,NA,"male",6.9,792,10.2656938244314,41.3419210076523,"Summer",157484
+7,-94.694252,39.9365924,"ad",1967,"Vireo gilvus gilvus","Vireo_gilvus",13.1,NA,"male",11,1005,9.31591583682398,94.0361811271896,"Summer",157503
+6,-103.9333,44.4833,NA,2007,"Vireo gilvus","Vireo_gilvus",13.1,NA,NA,8.1,523,10.4357304342806,67.2258486086865,"Summer",157530
+10,-120.61175,40.801001,"imm.",1924,"Vireo gilvus swainsonii","Vireo_gilvus",13.1,NA,"female",7,231,8.00020833062073,97.8827240527366,"Fall",157688
+6,-106.7813,46.268,"u ad.",1940,"Vireo gilvus gilvus","Vireo_gilvus",13.1,NA,"male",8.3,314,12.0339765210462,84.4856629974161,"Summer",157760
+9,-117.3061,46.7311,NA,1950,"Vireo gilvus","Vireo_gilvus",13.2,135,"male",8.1,649,8.78737041371756,66.5567458092411,"Fall",157240
+9,-95.2598661,38.9549568,NA,1964,"Vireo gilvus","Vireo_gilvus",13.2,NA,"undetermined",12.7,1012,9.84077787021479,71.7879785293323,"Fall",157287
+8,-109.716873,23.387557,"ad.",1929,"Vireo gilvus victoriae","Vireo_gilvus",13.2,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",157703
+6,-106.785312,46.26478,"u ad.",1940,"Vireo gilvus gilvus","Vireo_gilvus",13.3,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",157446
+6,-80.03064,43.52096,NA,1969,"Vireo gilvus gilvus","Vireo_gilvus",13.3,145,"undetermined",6.6,802,10.0914117401427,44.1924533067902,"Summer",157477
+8,-106.004446,36.615864,"imm.",1952,"Vireo gilvus swainsonii","Vireo_gilvus",13.3,NA,"male",4.6,374,8.83969610748736,76.5889731635705,"Summer",157612
+6,-97.11693,16.20082,"U-Ad.",1965,"Vireo gilvus connectens","Vireo_gilvus",13.3,NA,"male",18.1,948,1.41635468935596,125.961998190857,"Summer",157844
+5,-103.52985,34.1118833333,NA,2012,"Vireo gilvus","Vireo_gilvus",13.38,NA,"female",16.3,222,8.21998212045538,88.864721390153,"Spring",157597
+8,-114.8514776,44.5471332,NA,1949,"Vireo gilvus","Vireo_gilvus",13.4,NA,"male",3.3,459,9.34981364260888,70.5849342332374,"Summer",157277
+6,-114.21871,38.856596,"ad.sk.oss.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",13.4,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",157634
+5,-115.4207,35.1716,"ad.",1938,"Vireo gilvus leucopolius","Vireo_gilvus",13.5,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",157442
+6,-106.785312,46.26478,"u ad.",1940,"Vireo gilvus gilvus","Vireo_gilvus",13.5,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",157447
+7,-94.694252,39.9365924,"imm",1967,"Vireo gilvus gilvus","Vireo_gilvus",13.5,NA,"male",11,1005,9.31591583682398,94.0361811271896,"Summer",157502
+5,-83.8818169,42.3524549,NA,1942,"Vireo gilvus gilvus","Vireo_gilvus",13.5,NA,"female",9,905,10.4794568156711,40.6315800385688,"Spring",157508
+6,-103.9333,44.4833,NA,2007,"Vireo gilvus","Vireo_gilvus",13.5,NA,NA,8.1,523,10.4357304342806,67.2258486086865,"Summer",157532
+7,-103.9333,44.4833,"adult",2010,"Vireo gilvus","Vireo_gilvus",13.5,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",157560
+8,-131.9167,57.1833,"ad.",1919,"Vireo gilvus swainsonii","Vireo_gilvus",13.5,NA,"female",1.9,1670,8.58598223321542,50.7372885941423,"Summer",157683
+6,-101.5484635,50.0811362,"ad",1968,"Vireo gilvus gilvus","Vireo_gilvus",13.5,NA,"male",1.8,406,12.5779358281464,92.7822972480675,"Summer",157795
+7,-94.6880722,37.102015,"imm",1975,"Vireo gilvus gilvus","Vireo_gilvus",13.5,NA,"female",14.4,1035,9.22757314035527,35.8317829788067,"Summer",157810
+5,-83.7263412,42.2708397,NA,1935,"Vireo gilvus gilvus","Vireo_gilvus",13.5,NA,"female",8.8,649,10.2459748194108,44.6617555019791,"Spring",157827
+5,-83.9940834,42.4531646,NA,1953,"Vireo gilvus","Vireo_gilvus",13.5,NA,"male",10.1,568,9.448793413431,40.4215147569241,"Spring",157830
+8,-83.9170074,42.3759197,"juvenile",1933,"Vireo gilvus","Vireo_gilvus",13.5,NA,"male",9.7,626,10.4298922101406,48.4773533968335,"Summer",157834
+5,-115.57412,35.51722,"u ad.",1939,"Vireo gilvus leucopolius","Vireo_gilvus",13.6,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",157443
+6,-104.42025,44.44875,NA,2008,"Vireo gilvus","Vireo_gilvus",13.6,NA,"male",3.8,945,9.55121363064306,111.687421274891,"Summer",157542
+6,-116.9625092,51.2520312,"ad",1973,"Vireo gilvus swainsonii","Vireo_gilvus",13.6,NA,"female",3.5,573,9.09606558303694,88.727267092819,"Summer",157806
+5,-83.75,42.3833333,NA,1935,"Vireo gilvus gilvus","Vireo_gilvus",13.6,NA,"female",8.5,644,10.2368762991274,44.4396413243119,"Spring",157921
+5,-115.19222,37.45331,"ad.sk.",1969,"Vireo gilvus leucopolius","Vireo_gilvus",13.7,NA,"male",14,208,8.97268582471775,96.660948012882,"Spring",157371
+7,-121.545358,40.3497084,"ad.",1925,"Vireo gilvus swainsonii","Vireo_gilvus",13.7,NA,"female",8.2,1291,6.08681510987628,87.0274919504159,"Summer",157393
+6,-119.7883286,49.3664832,"ad",1980,"Vireo gilvus swainsonii","Vireo_gilvus",13.7,NA,"female",4.5,514,7.47984666023349,50.1373019486766,"Summer",157497
+9,-95.2598661,38.9549568,NA,1964,"Vireo gilvus","Vireo_gilvus",13.8,NA,"male",12.7,1012,9.84077787021479,71.7879785293323,"Fall",157286
+5,-109.2169,31.93699,"ad",1969,"Vireo gilvus swainsonii","Vireo_gilvus",13.8,NA,"male",13,434,7.1179031641731,113.052209511585,"Spring",157476
+8,-80.02348,43.51594,"ad",1970,"Vireo gilvus gilvus","Vireo_gilvus",13.9,NA,"male",6.7,857,10.8137398570971,30.6621264846415,"Summer",157480
+6,-98.4091837,37.2921332,NA,1956,"Vireo gilvus","Vireo_gilvus",13.9,NA,"female",15.4,376,10.6942493751067,109.695777659688,"Summer",157570
+6,-101.5484635,50.0811362,"ad",1968,"Vireo gilvus gilvus","Vireo_gilvus",13.9,150,"male",1.8,406,12.5779358281464,92.7822972480675,"Summer",157793
+6,-83.2030677,42.0139735,NA,1979,"Vireo gilvus","Vireo_gilvus",13.9,NA,"female",8.8,873,10.5785768361717,42.899432551101,"Summer",157832
+9,-95.9166667,39.0333333,NA,1986,"Vireo gilvus","Vireo_gilvus",13.9,NA,"female",13.2,1103,9.80638320254474,68.6826424865198,"Fall",157895
+9,-80.40041,42.58631,"ad",2001,"Vireo gilvus gilvus","Vireo_gilvus",13.9,NA,"female?",9.7,815,9.05904453454049,33.9135050640797,"Fall",157912
+5,-83.6561111,42.3127778,NA,1948,"Vireo gilvus","Vireo_gilvus",13.9,NA,"male",9.4,733,10.4204744555509,42.8516163598439,"Spring",157919
+6,-121.0983817,40.5764634,"u ad.",1960,"Vireo gilvus swainsonii","Vireo_gilvus",14,NA,"female",6.4,911,7.66449409269586,96.2105215330978,"Summer",157343
+6,-115.866,48.316,"unknown",1966,"Vireo gilvus","Vireo_gilvus",14,NA,"undetermined",7,823,7.70507015286727,70.4926518675721,"Summer",157375
+6,-75.70632,45.42763,"ad",1986,"Vireo gilvus gilvus","Vireo_gilvus",14,NA,"male",6,997,10.6648495137773,50.8248558047148,"Summer",157471
+6,-79.99222,43.51903,"ad",1986,"Vireo gilvus gilvus","Vireo_gilvus",14,NA,"male",7,1038,9.552958450214,53.0390748699476,"Summer",157499
+9,-115.2335572,33.2583912,NA,1989,"Vireo gilvus swainsonii","Vireo_gilvus",14,NA,"female",22.9,64,7.78430335918885,225.346067015405,"Fall",157586
+7,-83.95,42.45,NA,1946,"Vireo gilvus gilvus","Vireo_gilvus",14,NA,"male",9.8,623,9.02076728578242,43.6993001397706,"Summer",157918
+6,-110.0527954,49.892865,"ad",1968,"Vireo gilvus swainsonii","Vireo_gilvus",14.1,NA,"male",4.3,323,10.7692322677322,82.3982150406582,"Summer",157792
+5,-104.0333333,50.75,NA,1959,"Vireo gilvus gilvus","Vireo_gilvus",14.1,NA,"male",1.9,422,13.0369056562863,107.243132057741,"Spring",157870
+8,-83.95,42.45,NA,1936,"Vireo gilvus gilvus","Vireo_gilvus",14.1,NA,"male",8.5,620,11.4649135375825,63.832744272204,"Summer",157879
+5,-102.2227777778,40.0758333333,NA,1952,"Vireo gilvus","Vireo_gilvus",14.18,130,"male",10.8,380,10.7048948022516,86.7135034452743,"Spring",157854
+6,-103.9333,44.4833,NA,2007,"Vireo gilvus","Vireo_gilvus",14.2,NA,NA,8.1,523,10.4357304342806,67.2258486086865,"Summer",157249
+5,-80.02348,43.51594,"ad",1970,"Vireo gilvus gilvus","Vireo_gilvus",14.2,55,"male",6.7,857,10.8137398570971,30.6621264846415,"Spring",157798
+8,-80.40041,42.58631,"juv",2000,"Vireo gilvus gilvus","Vireo_gilvus",14.2,NA,"female",8.6,1096,9.44548553382498,37.7909090279321,"Summer",157911
+9,-122.74009,37.93065,"unknown",2006,"Vireo gilvus","Vireo_gilvus",14.26,121,"male",13,707,2.29431114637131,108.316914534555,"Fall",157891
+10,-95.6966263,39.0483341,NA,1954,"Vireo gilvus","Vireo_gilvus",14.3,NA,"female",13.8,845,10.2905369886684,89.9334865400063,"Fall",157568
+6,-116.9625092,51.2520312,"ad",1973,"Vireo gilvus swainsonii","Vireo_gilvus",14.3,NA,"female",3.5,573,9.09606558303694,88.727267092819,"Summer",157807
+6,-103.9333,44.4833,"adult",2010,"Vireo gilvus","Vireo_gilvus",14.4,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",157556
+6,-96.8836212,50.2397397,"ad",1974,"Vireo gilvus gilvus","Vireo_gilvus",14.4,NA,"male",1.1,571,14.0081875409283,92.5538034700277,"Summer",157809
+4,-122.6160965,38.7523041,NA,1990,"Vireo gilvus swainsonii","Vireo_gilvus",14.5,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Spring",157295
+6,-114.21871,38.856596,"ad.sk.oss.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",14.5,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",157353
+6,-106.3333,39.0436,NA,1987,"Vireo gilvus","Vireo_gilvus",14.5,NA,"female",0.7,430,7.63453080457867,33.9641631671561,"Summer",157935
+6,-119.171,37.87338,"unknown",1916,"Vireo gilvus swainsonii","Vireo_gilvus",14.6,NA,"female",3.8,781,7.68825846221485,130.152737444471,"Summer",157676
+9,-119.6859402,34.0195873,"unknown",1948,"Vireo gilvus swainsonii","Vireo_gilvus",14.7,NA,"female",13,249,2.49452430638619,139.51263416374,"Fall",157311
+6,-114.21871,38.856596,"ad.sk.oss.",1962,"Vireo gilvus leucopolius","Vireo_gilvus",14.7,NA,"female",6.1,323,8.64689469571521,72.1120631003863,"Summer",157352
+6,-115.9446,48.2631,"u ad.",1966,"Vireo gilvus swainsonii","Vireo_gilvus",14.7,NA,"female",6,1261,7.35574399343599,76.037495097777,"Summer",157653
+7,-83.95,42.45,"immature",1935,"Vireo gilvus gilvus","Vireo_gilvus",14.7,NA,"female",8.4,658,10.1983473111474,44.4104509785528,"Summer",157930
+8,-101.9315911,39.7000654,NA,1957,"Vireo gilvus","Vireo_gilvus",14.8,NA,"female",10.3,570,9.79274623320133,105.483023968338,"Summer",157284
+5,-94.59337,48.94195,"ad",1976,"Vireo gilvus gilvus","Vireo_gilvus",14.8,NA,"male",2.7,430,14.0043066968917,100.768152945933,"Spring",157491
+5,-94.08507,48.66801,"ad",1976,"Vireo gilvus gilvus","Vireo_gilvus",14.8,NA,"male",2.8,507,13.9425525900845,112.204536035708,"Spring",157813
+5,-83.9166667,42.6166667,NA,1961,"Vireo gilvus","Vireo_gilvus",14.8,NA,"male",8.7,744,10.069651373701,56.6419080021558,"Spring",157920
+6,-108.65,33.4,NA,1964,"Vireo gilvus swainsonii","Vireo_gilvus",14.8,NA,"female",6.6,739,7.73885807095751,101.789373511029,"Summer",157924
+10,-95.6966263,39.0483341,NA,1954,"Vireo gilvus","Vireo_gilvus",14.9,NA,"male",13.8,845,10.2905369886684,89.9334865400063,"Fall",157283
+4,-98.7157861,35.3080899,NA,1959,"Vireo gilvus","Vireo_gilvus",14.9,NA,"male",15.5,951,9.22458424783765,79.9394458076426,"Spring",157828
+5,-101.78469,37.1521231,NA,1950,"Vireo gilvus","Vireo_gilvus",15,NA,"male",13.5,457,8.51972310689625,120.003987155499,"Spring",157288
+6,-101.135007,38.8895189,NA,1999,"Vireo gilvus gilvus","Vireo_gilvus",15,NA,"male",12.4,457,8.73180792831414,95.4883029082364,"Summer",157577
+6,-101.135007,38.8895189,NA,1999,"Vireo gilvus gilvus","Vireo_gilvus",15,NA,"male",12.4,457,8.73180792831414,95.4883029082364,"Summer",157578
+4,-98.7157861,35.3080899,NA,1959,"Vireo gilvus","Vireo_gilvus",15,NA,"female",15.5,951,9.22458424783765,79.9394458076426,"Spring",157829
+6,-77.27931,43.96989,"ad",1930,"Vireo gilvus gilvus","Vireo_gilvus",15,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",157910
+6,-106.785312,46.26478,"u ad.",1940,"Vireo gilvus gilvus","Vireo_gilvus",15.1,NA,"male",8.2,314,12.0179758039465,84.4856629974161,"Summer",157763
+6,-89.1166667,37.0666667,NA,1949,"Vireo gilvus gilvus","Vireo_gilvus",15.1,NA,"male",15.2,1436,8.30689746262378,55.423515970074,"Summer",157876
+8,-120.33745,35.575918,"imm.",1947,"Vireo gilvus swainsonii","Vireo_gilvus",15.2,NA,"female",15.1,104,5.95622287268458,94.5531093024022,"Summer",157604
+8,-80.01652,43.51078,"imm",1967,"Vireo gilvus gilvus","Vireo_gilvus",15.2,NA,"male",6.4,959,9.60979613822176,50.7902491242498,"Summer",157818
+5,-83.9114456,42.4281349,NA,1935,"Vireo gilvus","Vireo_gilvus",15.3,NA,"male",8.4,652,10.1940676450333,44.0763982295502,"Spring",157837
+5,-96.900444,32.7988189,"n/a",1959,NA,"Vireo_gilvus",15.5,NA,"female",18.4,1049,8.58204609353242,82.7030550073088,"Spring",157518
+5,-99.16507535,43.41272319,NA,2007,"Vireo gilvus","Vireo_gilvus",15.6,NA,"female",9.4,737,12.8096879767076,85.0022170892524,"Spring",157248
+3,-93.01686111,15.56094444,NA,2002,"Vireo gilvus","Vireo_gilvus",16,NA,NA,27.7,2575,0.950119609695155,108.433134982651,"Spring",157862
+8,-95.3578949,39.0338528,NA,1967,"Vireo gilvus","Vireo_gilvus",16.1,NA,"male",12,1208,8.9762776586991,90.2713529407442,"Summer",157575
+9,-95.917,39.026,NA,2005,"Vireo gilvus","Vireo_gilvus",16.1,NA,"male",13.4,1066,10.1806709310369,80.6359932605757,"Fall",157902
+6,-120.0958,42.0433,"u ad.",1937,"Vireo gilvus leucopolius","Vireo_gilvus",16.2,NA,"male",5.7,1038,9.03090233419103,92.8962877607081,"Summer",157426
+10,-95.6966263,39.0483341,NA,1954,"Vireo gilvus","Vireo_gilvus",16.8,NA,"male",13.8,845,10.2905369886684,89.9334865400063,"Fall",157569
+6,-76.5095,42.4381,NA,1938,"Vireo gilvus","Vireo_gilvus",17.5,NA,"male",9.9,785,9.4059781119469,50.7312382008264,"Summer",157525
+10,-95.6966263,39.0483341,NA,1954,"Vireo gilvus","Vireo_gilvus",17.7,NA,"male",13.8,845,10.2905369886684,89.9334865400063,"Fall",157567
+5,-108.65,33.4,NA,1964,"Vireo gilvus swainsonii","Vireo_gilvus",18,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Spring",157922
+6,-117.10315,36.95078,"unknown",1940,"Vireo gilvus swainsonii","Vireo_gilvus",19.5,NA,"female",10,173,7.54121503754032,91.8049180411786,"Summer",157765
+7,-111.172949,43.3163447,NA,1949,"Vireo gilvus","Vireo_gilvus",20.2,7,"female",5,448,10.536976738509,46.3393767046034,"Summer",157565

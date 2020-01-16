@@ -1,0 +1,421 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+2,-117.623272,47.831444,"Ad",1959,"Sitta canadensis","Sitta_canadensis",5.3,112,"female",8.8,520,7.99641491639544,71.0827015201154,"Winter",118502
+6,-121.2666667,46.9,NA,1937,"Sitta canadensis","Sitta_canadensis",5.8,NA,"male",4.3,1516,7.90271817449253,78.7239350788253,"Summer",118929
+9,-93.2636,44.98,"adult skull",1995,"Sitta canadensis","Sitta_canadensis",6.9,NA,"male",7.8,739,12.3216088825504,58.8352828949132,"Fall",118763
+9,-79.434041,43.737384,"juv",2004,"Sitta canadensis","Sitta_canadensis",7,NA,"male",7.2,800,10.0876574750203,43.194949232919,"Fall",118830
+10,-105.1123857886,40.587121398,NA,2007,"Sitta canadensis","Sitta_canadensis",7.2,100,"undetermined",9.4,341,9.92512498967172,60.2229265378238,"Fall",118719
+9,-105.28579,39.627465,NA,1995,"Sitta canadensis","Sitta_canadensis",7.5,98,"female",5.5,677,6.75822170441756,83.7929948874681,"Fall",118517
+1,-123.61833,40.91792,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",7.6,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",118630
+7,-121.537483333,40.3697933333,"juvenile skull",2006,"Sitta canadensis","Sitta_canadensis",7.6,NA,"female",8.6,2125,7.20284034884219,103.402302135009,"Summer",118764
+10,-105.0806727,40.574852,NA,1980,"Sitta canadensis","Sitta_canadensis",7.9,90,"female",9.2,343,9.41119578271572,81.1184579683031,"Fall",118716
+9,-79.853183,43.22748,"ad",1935,"Sitta canadensis","Sitta_canadensis",8,NA,"male",7.7,662,10.0443109180362,32.6451786326045,"Fall",118819
+10,-121.333424,40.418671,"imm.",1923,"Sitta canadensis","Sitta_canadensis",8.1,NA,"female",6.6,594,6.62701084405878,89.1890045699798,"Fall",118599
+9,-74.0775,39.9267,NA,1975,"Sitta canadensis","Sitta_canadensis",8.1,NA,"female",11.8,1272,8.47139124919689,30.2288540568908,"Fall",118938
+12,-105.0865473,40.573436,NA,1981,"Sitta canadensis","Sitta_canadensis",8.2,95,"undetermined",10.1,358,8.27663743755441,95.3438514643226,"Winter",118714
+9,-74.0775,39.9267,"immature",1975,"Sitta canadensis","Sitta_canadensis",8.2,NA,"male",11.8,1272,8.47139124919689,30.2288540568908,"Fall",118913
+3,-79.58286,44.38173,"ad",1988,"Sitta canadensis","Sitta_canadensis",8.2,NA,"female",6.6,851,10.556381812425,32.1359177038522,"Spring",118925
+4,-117.179457,46.728691,"Ad",1951,"Sitta canadensis","Sitta_canadensis",8.3,118,"female",8,578,7.90325978008538,70.7647257935292,"Spring",118696
+9,-74.0775,39.9267,NA,1975,"Sitta canadensis","Sitta_canadensis",8.4,NA,"female",11.8,1272,8.47139124919689,30.2288540568908,"Fall",118939
+5,-117.164293,46.730767,NA,1984,"Sitta canadensis","Sitta_canadensis",8.5,NA,"female",7.9,602,7.41503386861633,53.1034086551605,"Spring",118510
+6,-115.9446,48.2631,"unknown",1966,"Sitta canadensis","Sitta_canadensis",8.6,NA,"undetermined",6,1261,7.35574399343599,76.037495097777,"Summer",118762
+6,-115.36343,41.86105,"u ad.",1955,"Sitta canadensis","Sitta_canadensis",8.7,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",118570
+10,-83.897792,42.812301,"immature",2012,"Sitta canadensis","Sitta_canadensis",8.7,NA,"in question",10.8,671,9.13995557312988,40.7060101485929,"Fall",118685
+9,-74.0775,39.9267,NA,1975,"Sitta canadensis","Sitta_canadensis",8.7,NA,"male",11.8,1272,8.47139124919689,30.2288540568908,"Fall",118911
+10,-105.0837135,40.5756343,"adult",1980,"Sitta canadensis","Sitta_canadensis",8.8,99,"male",9.2,344,9.40378308786609,80.9371782794232,"Fall",118516
+5,-114.223289,46.750939,"u ad.",1940,"Sitta canadensis","Sitta_canadensis",8.8,NA,"male",7.4,463,9.27425158297113,57.8843735392237,"Spring",118627
+1,-123.61833,40.91792,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",8.8,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",118631
+9,-74.0775,39.9267,"immature",1975,"Sitta canadensis","Sitta_canadensis",8.8,NA,"female",11.8,1272,8.47139124919689,30.2288540568908,"Fall",118906
+9,-91.4907073,44.8098524,NA,1973,"Sitta canadensis","Sitta_canadensis",8.9,NA,"undetermined",7.5,874,11.3317300559361,65.561849245128,"Fall",118537
+9,-117.179457,46.728691,"Ad",1970,"Sitta canadensis","Sitta_canadensis",8.9,107,"male",8.4,568,7.77032037871533,80.7771623407065,"Fall",118700
+6,-77.58786,45.25445,"juv",1979,"Sitta canadensis","Sitta_canadensis",8.9,NA,"male",4.9,815,11.1231501696673,48.181788505929,"Summer",118811
+9,-74.088823,39.836494,NA,1963,"Sitta canadensis","Sitta_canadensis",8.9,NA,"female",10.9,919,9.23968302617803,57.843172607389,"Fall",118851
+5,-105.4977758,40.1313744,NA,1993,"Sitta canadensis","Sitta_canadensis",8.9,105,"female",3.4,620,7.63752696766553,39.2143246994501,"Spring",118882
+8,-116.39528,34.05639,"imm.",1950,"Sitta canadensis","Sitta_canadensis",9,NA,"undetermined",14.3,82,5.90174601796842,107.145599754757,"Summer",118560
+5,-79.425049,43.6909,"ad",1934,"Sitta canadensis","Sitta_canadensis",9,NA,"male",6.9,636,11.4500066163803,37.0433893288318,"Spring",118646
+11,-79.372722,43.73418,"imm",1946,"Sitta canadensis","Sitta_canadensis",9,NA,"female",8,689,9.46237765622842,34.9734575173,"Fall",118651
+9,-79.25011,43.77661,"juv",2003,"Sitta canadensis","Sitta_canadensis",9,NA,"male",7,824,10.5283024042412,39.1141497661034,"Fall",118655
+12,-83.6511961,42.2708702,NA,1948,"Sitta canadensis","Sitta_canadensis",9,NA,"male",9.5,729,10.4085046811235,43.4785794890221,"Winter",118670
+9,-74.088823,39.836494,NA,1963,"Sitta canadensis","Sitta_canadensis",9,NA,"female",10.9,919,9.23968302617803,57.843172607389,"Fall",118677
+9,-74.088823,39.836494,NA,1963,"Sitta canadensis","Sitta_canadensis",9,NA,"female",10.9,919,9.23968302617803,57.843172607389,"Fall",118678
+9,-117.165649,46.729529,NA,1981,"Sitta canadensis","Sitta_canadensis",9,NA,"skull not oss.",8.7,601,6.36302648592681,55.6155635509603,"Fall",118705
+12,-115.3694888,35.1274017,"ad.",1937,"Sitta canadensis","Sitta_canadensis",9,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",118794
+7,-84.068313,46.398713,NA,1931,"Sitta canadensis","Sitta_canadensis",9,NA,"male",6.6,774,10.5250746776304,65.8753037409536,"Summer",118817
+9,-79.37821,43.64791,"juv",2003,"Sitta canadensis","Sitta_canadensis",9,NA,"male",7.4,813,10.4815386043821,37.420685857084,"Fall",118827
+6,-115.40506,38.91725,"ad.sk.",1973,"Sitta canadensis","Sitta_canadensis",9.2,NA,"male",3.7,531,8.5993084640921,68.0536223222658,"Summer",118585
+1,-123.47623,40.4313,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",9.2,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",118634
+2,-84.194697,46.420551,NA,1954,"Sitta canadensis","Sitta_canadensis",9.2,NA,"male",4.6,756,9.82635602485849,68.936817102944,"Winter",118846
+1,-84.7,44.8833333,"adult",1938,"Sitta canadensis canadensis","Sitta_canadensis",9.2,NA,"male",7.1,968,10.2601612604729,35.7119533768171,"Winter",118903
+5,-108.3064333333,36.5995166667,NA,2013,"Sitta canadensis","Sitta_canadensis",9.3,NA,"female",10,284,10.1718714943205,92.1103211188107,"Spring",118553
+4,-119.97194,39.25139,"u ad.",1937,"Sitta canadensis","Sitta_canadensis",9.3,NA,"undetermined",5.6,809,7.44704029067314,130.668529777137,"Spring",118622
+9,-105.0806727,40.574852,NA,1989,"Sitta canadensis","Sitta_canadensis",9.3,109,"undetermined",8.8,323,9.45110222848813,66.3394640266328,"Fall",118715
+9,-74.088823,39.836494,NA,1963,"Sitta canadensis","Sitta_canadensis",9.3,NA,"female",10.9,919,9.23968302617803,57.843172607389,"Fall",118853
+10,-105.0837135,40.5756343,NA,1980,"Sitta canadensis","Sitta_canadensis",9.4,93,"undetermined",9.2,344,9.40378308786609,80.9371782794232,"Fall",118515
+5,-114.10722,39.01722,"u ad.",1934,"Sitta canadensis","Sitta_canadensis",9.4,NA,"female",12,145,8.45472792243631,67.979497800529,"Spring",118615
+7,-111.172949,43.3163447,NA,1949,"Sitta canadensis","Sitta_canadensis",9.4,NA,"female",5,448,10.536976738509,46.3393767046034,"Summer",118725
+6,-115.36343,41.86105,"u ad.",1955,"Sitta canadensis","Sitta_canadensis",9.4,NA,"male",0.2,1075,8.88933221747996,89.1715823564443,"Summer",118746
+9,-114.28,38.96917,"u ad.",1934,"Sitta canadensis","Sitta_canadensis",9.4,NA,"female",7.3,517,7.1378419623012,83.1565094368637,"Fall",118791
+12,-84.9760723,46.7607967,"adult",2012,"Sitta canadensis","Sitta_canadensis",9.4,NA,"male",7.2,822,8.28439112811777,46.0995413083787,"Winter",118860
+9,-103.9333,44.4833,NA,2010,"Sitta canadensis","Sitta_canadensis",9.5,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Fall",118523
+7,-115.805,48.9,"unknown",1966,"Sitta canadensis","Sitta_canadensis",9.5,NA,"undetermined",4.4,860,7.36914122705234,71.6309271486502,"Summer",118587
+6,-77.58786,45.25445,"nestl",1979,"Sitta canadensis","Sitta_canadensis",9.5,NA,"female",4.9,815,11.1231501696673,48.181788505929,"Summer",118641
+7,-83.8524198,45.9617112,"juvenile",1938,"Sitta canadensis","Sitta_canadensis",9.5,NA,"male",6.1,742,10.7301155067352,27.0515272176554,"Summer",118668
+9,-74.088823,39.836494,"adult",1961,"Sitta canadensis","Sitta_canadensis",9.5,NA,"male",11.4,1224,9.37079198489874,27.496734809821,"Fall",118675
+10,-84.9648743,46.7660217,NA,2010,"Sitta canadensis","Sitta_canadensis",9.5,NA,"male",6.8,727,8.77698004941784,89.3382487325691,"Fall",118683
+8,-117.164293,46.730767,NA,1994,"Sitta canadensis","Sitta_canadensis",9.5,NA,"male",9.4,491,8.01042880855761,84.5443613966003,"Summer",118692
+7,-117.164293,46.730767,NA,1994,"Sitta canadensis","Sitta_canadensis",9.5,NA,"female",9.4,491,8.01042880855761,84.5443613966003,"Summer",118709
+10,-95.6862445,39.0370273,NA,1995,"Sitta canadensis","Sitta_canadensis",9.5,NA,"male",12.5,958,9.86751634343105,89.0217411215536,"Fall",118728
+7,-121.43286,40.34403,"adult skull",2006,"Sitta canadensis","Sitta_canadensis",9.5,NA,"female",8.6,1620,7.34048033272697,103.40589303081,"Summer",118765
+8,-104.761668,39.947502,"immature",1996,"Sitta canadensis","Sitta_canadensis",9.6,112,"undetermined",10.2,324,9.07001386521275,88.9568015028656,"Summer",118518
+10,-117.164293,46.730767,NA,1996,"Sitta canadensis","Sitta_canadensis",9.6,NA,"male",8.2,774,7.91608929314025,71.5732167831782,"Fall",118710
+9,-123.1358556,40.315747,"imm.sk.",1949,"Sitta canadensis","Sitta_canadensis",9.6,NA,"female",9.4,1281,6.87278338922096,146.948460928128,"Fall",118741
+9,-74.088823,39.836494,NA,1963,"Sitta canadensis","Sitta_canadensis",9.6,NA,"female",10.9,919,9.23968302617803,57.843172607389,"Fall",118852
+2,-83.95,42.2,NA,1958,"Sitta canadensis","Sitta_canadensis",9.6,NA,"male",8.7,619,10.403885492129,68.4910403558355,"Winter",118890
+8,-77.7179499,43.3225697,NA,2004,"Sitta canadensis","Sitta_canadensis",9.60000038146973,NA,"male",8.8,921,9.50226049661103,40.5123527749255,"Summer",118864
+12,-95.5848119,38.6690757,NA,1996,"Sitta canadensis","Sitta_canadensis",9.7,NA,"male",12,1023,10.3057317091319,74.4257355957136,"Winter",118527
+10,-109.3389833333,31.9464833333,"ad",2007,"Sitta canadensis","Sitta_canadensis",9.7,NA,"female",13.7,547,7.19664799918979,100.977739657533,"Fall",118546
+6,-109.9855,37.60606,"u ad.",1937,"Sitta canadensis","Sitta_canadensis",9.7,NA,"male",9.5,334,10.2615013078452,89.9552606988817,"Summer",118612
+10,-119.7675,39.35528,"ad.",1934,"Sitta canadensis","Sitta_canadensis",9.7,NA,"male",11.3,183,6.61286051889984,63.3374243824665,"Fall",118793
+9,-79.372722,43.73418,"ad",1975,"Sitta canadensis","Sitta_canadensis",9.7,NA,"male",8.2,807,10.1184200467476,22.8094245601912,"Fall",118809
+7,-83.6215433,45.9522238,"juvenile",1938,"Sitta canadensis","Sitta_canadensis",9.7,NA,"male",6.2,756,10.6461118240274,24.8313674024005,"Summer",118841
+9,-94.6688889,38.9589528,NA,2010,"Sitta canadensis","Sitta_canadensis",9.7,NA,"female",13.3,1065,11.475058592311,76.5852524725669,"Fall",118924
+8,-114.8514776,44.5471332,"immature",1948,"Sitta canadensis","Sitta_canadensis",9.8,NA,"female",2.5,743,8.8947848186281,63.0290492854406,"Summer",118525
+4,-123.4977164,40.5198417,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",9.8,NA,"male",9.4,1433,7.07969246892444,99.7673759079269,"Spring",118607
+4,-123.4853,40.3329,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",9.8,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",118609
+9,-114.28,38.96917,"ad.",1934,"Sitta canadensis","Sitta_canadensis",9.8,NA,"female",7.3,517,7.1378419623012,83.1565094368637,"Fall",118618
+7,-84.3015289,44.7111221,"immature",1934,"Sitta canadensis","Sitta_canadensis",9.8,NA,"female",6,660,11.350727516398,61.3537211096775,"Summer",118687
+8,-117.165649,46.729529,NA,1981,"Sitta canadensis","Sitta_canadensis",9.8,NA,"skull not oss.",8.7,601,6.36302648592681,55.6155635509603,"Summer",118704
+8,-118.91056,36.78619,"ad.",1916,"Sitta canadensis","Sitta_canadensis",9.8,NA,"female",9.5,1484,7.31330771244925,152.529949124809,"Summer",118772
+6,-118.9492,44.2159,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",9.8,NA,"male",5.2,340,7.6333151382607,73.2723956759926,"Summer",118778
+7,-116.2435,48.82,"juv.",1932,"Sitta canadensis","Sitta_canadensis",9.8,NA,"male",5.2,814,8.62495937627675,67.0339571400314,"Summer",118779
+3,-123.4323207,40.3687961,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",9.8,NA,"male",10.9,1061,7.13722635202219,105.795560690905,"Spring",118780
+3,-123.4853,40.3329,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",9.8,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",118782
+3,-71.39019,43.76068,"Adult",1998,"Sitta canadensis","Sitta_canadensis",9.8,NA,"male",8.2,1197,8.84908829407661,43.5141159217986,"Spring",118920
+10,-84.2333333,36.9833333,"adult",1951,"Sitta canadensis","Sitta_canadensis",9.8,NA,"male",13.1,1387,8.56965665307048,40.8771481259852,"Fall",118933
+6,-108.8909166667,36.0776666667,NA,2013,"Sitta canadensis","Sitta_canadensis",9.9,NA,"female",5.1,636,8.96168189706834,71.4720639873555,"Summer",118554
+6,-120.415657,39.811828,"ad.sk.",1995,"Sitta canadensis","Sitta_canadensis",9.9,NA,"male",8.6,932,5.56685945955386,132.247907484958,"Summer",118588
+8,-118.91056,36.78619,"u ad.",1916,"Sitta canadensis","Sitta_canadensis",9.9,NA,"female",9.5,1484,7.31330771244925,152.529949124809,"Summer",118596
+6,-77.58786,45.25445,"nestl",1979,"Sitta canadensis","Sitta_canadensis",9.9,NA,"female",4.9,815,11.1231501696673,48.181788505929,"Summer",118642
+9,-74.088823,39.836494,NA,1961,"Sitta canadensis","Sitta_canadensis",9.9,NA,"male",11.4,1224,9.37079198489874,27.496734809821,"Fall",118674
+3,-117.1622,46.8663,NA,1946,"Sitta canadensis","Sitta_canadensis",9.9,118,NA,7.1,624,7.23216720107067,53.8749420586063,"Spring",118694
+7,-105.0806727,40.574852,NA,1992,"Sitta canadensis","Sitta_canadensis",9.9,99,"undetermined",9.1,456,8.49963902976848,87.7273783836662,"Summer",118713
+6,-123.39996,41.96702,"sk.oss.",1980,"Sitta canadensis","Sitta_canadensis",9.9,NA,"male",9.5,1329,5.84263327929827,90.8277523946104,"Summer",118759
+12,-121.5955981,40.3477021,"u ad.",1927,"Sitta canadensis","Sitta_canadensis",9.9,NA,"male",9,1523,6.49425737000612,100.857192490312,"Winter",118777
+1,-123.44353,40.41749,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",9.9,NA,"male",10.5,2010,6.24535585030747,99.9057049498605,"Winter",118801
+3,-84.1504669,46.3412394,NA,1963,"Sitta canadensis","Sitta_canadensis",9.9,NA,"female",4.4,611,11.9195662926996,45.04763516694,"Spring",118850
+10,-84.5575565,42.734787,NA,2007,"Sitta canadensis","Sitta_canadensis",9.9,NA,"male",9.6,882,10.7419173278697,47.0253677867642,"Fall",118859
+7,-121.62709,40.35075,"juvenile skull",2006,"Sitta canadensis","Sitta_canadensis",9.92,NA,"male",9.9,1616,7.2931890185711,100.92670880767,"Summer",118591
+9,-117.165649,46.729529,NA,1979,"Sitta canadensis","Sitta_canadensis",10,NA,"male",8.1,520,9.10265945155091,51.879997805848,"Fall",118508
+9,-103.9333,44.4833,NA,2010,"Sitta canadensis","Sitta_canadensis",10,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Fall",118524
+10,-88.8792839,45.6596851,NA,1969,"Sitta canadensis","Sitta_canadensis",10,NA,"female",4.2,757,10.9487926551771,69.9859236114224,"Fall",118534
+10,-119.56963,39.05579,"AHY",2012,"Sitta canadensis","Sitta_canadensis",10,NA,"undetermined",10,538,7.52198293488674,137.623901552949,"Fall",118541
+5,-121.12136,41.56081,"u ad.",1948,"Sitta canadensis","Sitta_canadensis",10,NA,"male",6.9,534,7.6679182114163,55.7253413422282,"Spring",118555
+11,-122.5278711,41.4228704,"imm.",1951,"Sitta canadensis","Sitta_canadensis",10,NA,"female",8.7,1398,7.43580099005052,101.594358014941,"Fall",118562
+8,-106.4342871,37.02282872,"u ad.",1952,"Sitta canadensis","Sitta_canadensis",10,NA,"male",0.8,822,8.31323789160543,89.4217443656982,"Summer",118567
+5,-118.18083,37.88056,"u ad.",1954,"Sitta canadensis","Sitta_canadensis",10,NA,"male",10.6,133,7.69538921377699,83.048599460054,"Spring",118569
+6,-114.21871,38.856596,"u ad.",1962,"Sitta canadensis","Sitta_canadensis",10,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",118573
+6,-114.72111,39.41444,"ad.sk.",1973,"Sitta canadensis","Sitta_canadensis",10,NA,"male",6.4,253,8.94455988381494,49.9916856557258,"Summer",118584
+7,-121.59867,40.35677,"skull unossified",2006,"Sitta canadensis","Sitta_canadensis",10,NA,"female",9.5,1744,7.27203026963064,101.343544623853,"Summer",118590
+7,-121.434293,40.34362,"juvenile",2006,"Sitta canadensis","Sitta_canadensis",10,NA,"female",8.5,1624,7.32529862872498,103.280247019562,"Summer",118593
+5,-123.015054,40.394887,"u ad.",1926,"Sitta canadensis","Sitta_canadensis",10,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",118601
+4,-123.43795,40.33289,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10,NA,"female",10.8,1056,7.02438932965318,106.846751937995,"Spring",118611
+9,-114.28,38.96917,"u ad.",1934,"Sitta canadensis","Sitta_canadensis",10,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",118619
+9,-114.28,38.96917,"imm.",1934,"Sitta canadensis","Sitta_canadensis",10,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",118621
+1,-123.47623,40.4313,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",10,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",118632
+1,-123.47623,40.4313,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",10,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",118633
+9,-123.8083893,40.9028547,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",10,NA,"male",12.7,1785,4.83105484434724,105.430785533876,"Fall",118636
+9,-79.031,43.82596,"ad",1969,"Sitta canadensis","Sitta_canadensis",10,115,"male",7.6,686,10.2813010614003,42.51351711788,"Fall",118638
+9,-79.381924,43.647863,"juv",2003,"Sitta canadensis","Sitta_canadensis",10,NA,"male",7.4,813,10.4743843386009,37.3511132195198,"Fall",118660
+8,-152.406,57.79,"HY",2009,"Sitta canadensis","Sitta_canadensis",10,NA,"male",5.1,1252,5.38974194018769,30.5089801754189,"Summer",118663
+4,-152.406,57.79,"AHY",2009,"Sitta canadensis","Sitta_canadensis",10,NA,"female",5.1,1252,5.38974194018769,30.5089801754189,"Spring",118665
+5,-152.406,57.79,"AD",2011,"Sitta canadensis","Sitta_canadensis",10,NA,"undetermined",4.8,1641,5.43222706715127,49.611234724522,"Spring",118666
+8,-85.5807495,45.6418879,NA,1948,"Sitta canadensis","Sitta_canadensis",10,NA,"male",6.6,690,10.542626318758,47.7922335495511,"Summer",118671
+3,-84.1504669,46.3412394,NA,1963,"Sitta canadensis","Sitta_canadensis",10,NA,"male",4.4,611,11.9195662926996,45.04763516694,"Spring",118676
+10,-83.7263412,42.2708397,NA,2007,"Sitta canadensis","Sitta_canadensis",10,NA,"female",10.1,902,10.7183643030704,44.0536255680916,"Fall",118682
+6,-118.6301375,35.9746704,"Skull not ossified",1974,NA,"Sitta_canadensis",10,1,"male",9,882,7.38362233513326,114.274670373714,"Summer",118691
+10,-117.164293,46.730767,NA,1981,"Sitta canadensis","Sitta_canadensis",10,NA,"male",8.7,601,6.36302648592681,55.6155635509603,"Fall",118702
+12,-110.7398157,32.4242425,NA,1963,"Sitta canadensis","Sitta_canadensis",10,NA,"undetermined",9.5,784,6.52846332097633,97.0688025521702,"Winter",118731
+3,-104.72685,32.1208666667,NA,2010,"Sitta canadensis","Sitta_canadensis",10,NA,"female",14,627,7.35643915013894,136.646684712699,"Spring",118739
+8,-106.4342871,37.02282872,"imm.",1952,"Sitta canadensis","Sitta_canadensis",10,NA,"female",0.8,822,8.31323789160543,89.4217443656982,"Summer",118742
+6,-118.168469,37.53385,"unknown",1954,"Sitta canadensis","Sitta_canadensis",10,NA,"female",2.4,304,6.26691650050026,89.9139197279071,"Summer",118744
+6,-115.21645,41.84056,"u ad.",1955,"Sitta canadensis","Sitta_canadensis",10,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",118748
+5,-116.9831,46.7058,"u ad.",1955,"Sitta canadensis","Sitta_canadensis",10,NA,"male",6.4,757,8.29417466257694,64.4000424844514,"Spring",118749
+6,-121.6842,44.03,"u ad.",1960,"Sitta canadensis","Sitta_canadensis",10,NA,"male",3.5,1738,6.43053204830226,90.492533227048,"Summer",118753
+6,-115.9594,48.2479,"u ad.",1966,"Sitta canadensis","Sitta_canadensis",10,NA,"male",5.3,1620,7.26387387255338,78.1791790562549,"Summer",118757
+8,-120.11166,37.75634,"juv.",1920,"Sitta canadensis","Sitta_canadensis",10,NA,"female",11.8,1003,6.41250553783209,104.637556634204,"Summer",118774
+4,-123.4786419,40.4251158,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10,NA,"male",11.1,1048,7.04373781626222,103.759245387763,"Spring",118786
+6,-123.50169,40.47882,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10,NA,"male",10.4,1225,6.96334015114916,101.521919900064,"Summer",118789
+6,-121.5833,44.0053,"u ad.",1938,"Sitta canadensis","Sitta_canadensis",10,NA,"male",4.2,1125,6.97025607111889,92.2697494668034,"Summer",118796
+7,-121.8453,43.6161,"imm.",1940,"Sitta canadensis","Sitta_canadensis",10,NA,"female",6.9,800,6.26013723346527,83.2892004349358,"Summer",118799
+1,-123.43834,40.39507,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",10,NA,"female",10.6,1921,6.22120031290854,99.6623356453026,"Winter",118803
+7,-119.5295334,49.3502892,"ad",1980,"Sitta canadensis","Sitta_canadensis",10,NA,"male",8.8,328,8.33533915254075,54.0952103933311,"Summer",118812
+11,-78.82807,45.13498,"imm",1947,"Sitta canadensis","Sitta_canadensis",10,NA,"male",4.5,914,11.5630386852403,44.0295253870879,"Fall",118813
+1,-79.42377,43.74502,NA,1938,"Sitta canadensis","Sitta_canadensis",10,NA,"[male]",8,718,10.0669124995069,49.3143278383018,"Winter",118816
+10,-79.252264,43.77702,"juv",2003,"Sitta canadensis","Sitta_canadensis",10,NA,"female",7,825,10.5434885837256,39.1141497661034,"Fall",118826
+9,-79.252264,43.77702,"ad",2004,"Sitta canadensis","Sitta_canadensis",10,NA,"male",7.3,800,10.1181317894704,43.250946000403,"Fall",118831
+10,-79.372722,43.73418,"ad",1982,"Sitta canadensis","Sitta_canadensis",10,NA,"[male]",7.1,880,10.0130218246345,44.573383591044,"Fall",118863
+9,-76.345561,42.442825,NA,1990,"Sitta canadensis","Sitta_canadensis",10,106,"undetermined",8.9,1186,8.26296501923437,40.7017724508017,"Fall",118875
+12,-94.5666667,37.5,NA,2012,"Sitta canadensis","Sitta_canadensis",10,NA,"male",16.4,763,8.76475379522489,40.9421286448365,"Winter",118884
+10,-118.34507,35.4793329,"imm.",1933,"Sitta canadensis","Sitta_canadensis",10,NA,"male",8.2,270,8.08346610325201,165.121056109658,"Fall",118886
+1,-83.75,42.2833333,NA,1994,"Sitta canadensis","Sitta_canadensis",10,NA,"male",9.9,837,10.4627912145851,39.7336137297117,"Winter",118898
+6,-86.9333333,45.7,"juvenile",2010,"Sitta canadensis","Sitta_canadensis",10,NA,"female",6.4,787,10.1702626526675,84.6253669631034,"Summer",118899
+7,-110.5666667,42.4,"adult",1934,"Sitta canadensis","Sitta_canadensis",10,NA,"male",3.8,387,7.37236342187785,77.4521992329168,"Summer",118900
+8,-119.60266,38.31189,"U-Ad",1960,"Sitta canadensis","Sitta_canadensis",10,NA,"male",2.7,859,7.18311888873468,109.158237188393,"Summer",118918
+10,-119.56963,39.05579,"AHY",2012,"Sitta canadensis","Sitta_canadensis",10.1,NA,"male",10,538,7.52198293488674,137.623901552949,"Fall",118542
+10,-107.5171833333,33.8783333333,NA,2010,"Sitta canadensis","Sitta_canadensis",10.1,NA,"male",9.8,386,7.54442901026374,104.176356138495,"Fall",118551
+3,-123.4853,40.3329,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.1,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",118604
+4,-123.4786,40.33802,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.1,NA,"male",10.7,1106,7.00966324354307,105.846342989306,"Spring",118606
+4,-123.4786419,40.4251158,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.1,NA,"female",11.1,1048,7.04373781626222,103.759245387763,"Spring",118608
+7,-112.863476,45.423143,"imm.",1947,"Sitta canadensis","Sitta_canadensis",10.1,NA,"male",3.3,484,8.29594187028522,64.1789972549058,"Summer",118637
+9,-79.24126,43.97366,"imm",1976,"Sitta canadensis","Sitta_canadensis",10.1,NA,"male",6.1,838,10.3644899302933,34.8407074794086,"Fall",118640
+6,-121.0618645,41.4301297,"u ad.",1958,"Sitta canadensis","Sitta_canadensis",10.1,NA,"male",9.8,604,7.22587941591425,68.5061719692501,"Summer",118750
+1,-115.4207,35.1716,"ad.",1938,"Sitta canadensis","Sitta_canadensis",10.1,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Winter",118795
+3,-84.194697,46.420551,NA,1963,"Sitta canadensis","Sitta_canadensis",10.1,NA,"male",4.2,623,11.94909341052,44.8161660882285,"Spring",118849
+7,-110.5666667,42.4,"juvenile",1934,"Sitta canadensis","Sitta_canadensis",10.1,NA,"female",3.8,387,7.37236342187785,77.4521992329168,"Summer",118893
+7,-110.5666667,42.4,"juvenile",1934,"Sitta canadensis","Sitta_canadensis",10.1,NA,"female",3.8,387,7.37236342187785,77.4521992329168,"Summer",118902
+11,-105.2583,39.9167,NA,1984,"Sitta canadensis","Sitta_canadensis",10.1,NA,"female",9,479,8.55797961854988,70.0277584738839,"Fall",118904
+11,-105.2583,39.9167,NA,1984,"Sitta canadensis","Sitta_canadensis",10.1,NA,"male",9,479,8.55797961854988,70.0277584738839,"Fall",118907
+10,-82.4333333,42.9666667,NA,1980,"Sitta canadensis","Sitta_canadensis",10.1,NA,"undetermined",8,858,10.5255929077941,50.4607800930577,"Fall",118930
+8,-117.164293,46.730767,NA,1981,"Sitta canadensis","Sitta_canadensis",10.2,NA,"skull not oss.",8.7,601,6.36302648592681,55.6155635509603,"Summer",118509
+10,-119.56963,39.05579,"AHY",2012,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",10,538,7.52198293488674,137.623901552949,"Fall",118543
+8,-123.8193291,41.1515112,"ad.?",1949,"Sitta canadensis","Sitta_canadensis",10.2,NA,"undetermined",11.1,1784,6.60419403015075,99.056239467751,"Summer",118558
+9,-123.6399241,40.9508294,"imm.",1949,"Sitta canadensis","Sitta_canadensis",10.2,NA,"undetermined",13.3,947,6.7011532250393,113.811747476298,"Fall",118559
+6,-120.2937973,41.5730714,"u ad.",1964,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",5.3,941,7.53844188546984,109.273012940984,"Summer",118577
+6,-120.289512,41.9885085,"u ad.",1964,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",7,710,7.4748619121734,116.183190869799,"Summer",118578
+3,-123.4853,40.3329,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.2,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",118605
+9,-114.28,38.96917,"imm.",1934,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",118620
+6,-79.38132,43.655736,"juv",1999,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",9.2,717,10.1092629291011,44.912886254401,"Summer",118647
+10,-117.164293,46.730767,NA,1981,"Sitta canadensis","Sitta_canadensis",10.2,NA,"female",8.7,601,6.36302648592681,55.6155635509603,"Fall",118703
+8,-103.9333,44.4833,"adult",2010,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",6.5,592,9.70621481632289,82.6623794832287,"Summer",118721
+3,-104.7446666667,32.1106833333,"ad",2008,"Sitta canadensis","Sitta_canadensis",10.2,NA,"female",13.7,416,6.38954520124773,127.897254922621,"Spring",118737
+9,-108.2164333333,35.1381,NA,2008,"Sitta canadensis","Sitta_canadensis",10.2,NA,"undetermined",7.7,420,7.49136877083261,64.8668398937563,"Fall",118738
+10,-107.5292666667,33.5409,NA,2010,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",12.4,318,7.81263060496892,125.439774630903,"Fall",118740
+11,-120.22386,39.43159,"ad.",1953,"Sitta canadensis","Sitta_canadensis",10.2,NA,"female",4.4,628,5.95427017638042,92.1433952612745,"Fall",118743
+6,-115.70722,36.42194,"juv.sk.",1963,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",10.7,412,7.88063891426131,156.158481061255,"Summer",118756
+7,-115.733,48.8933,"u ad.",1966,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",3.5,878,7.15496754751974,70.8026421177941,"Summer",118758
+6,-119.55632,37.80526,"ad.",1915,"Sitta canadensis","Sitta_canadensis",10.2,NA,"female",5.8,1134,6.18882179025339,117.744241262487,"Summer",118767
+3,-123.4853,40.3329,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",118781
+4,-123.502614,40.4502152,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.2,NA,"female",11.1,1056,6.83500349138702,102.658169752038,"Spring",118784
+5,-123.4853,40.3329,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",118788
+9,-79.408069,43.745921,"imm",2001,"Sitta canadensis","Sitta_canadensis",10.2,NA,"female",8.8,713,9.69670359483369,39.4147736467887,"Fall",118823
+2,-87.878952,46.8653554,NA,1941,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",6.9,826,9.98584983712938,46.837922055835,"Winter",118843
+1,-87.878952,46.8653554,NA,1941,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",6.9,826,9.98584983712938,46.837922055835,"Winter",118844
+7,-110.5666667,42.4,"juvenile",1934,"Sitta canadensis","Sitta_canadensis",10.2,NA,"male",3.8,387,7.37236342187785,77.4521992329168,"Summer",118901
+9,-72.6372,41.3597,"immature",1976,"Sitta canadensis","Sitta_canadensis",10.2,NA,NA,9.2,1167,9.38954931632165,58.1156136952743,"Fall",118910
+1,-84.7,44.8833333,NA,1938,"Sitta canadensis canadensis","Sitta_canadensis",10.2,NA,"female",7.1,968,10.2601612604729,35.7119533768171,"Winter",118936
+12,-95.5848119,38.6690757,NA,1996,"Sitta canadensis","Sitta_canadensis",10.3,NA,"female",12,1023,10.3057317091319,74.4257355957136,"Winter",118528
+9,-91.4907073,44.8098524,NA,1979,"Sitta canadensis","Sitta_canadensis",10.3,NA,"undetermined",5.5,803,12.6994154005274,68.400130323942,"Fall",118536
+10,-119.56963,39.05579,"AHY",2012,"Sitta canadensis","Sitta_canadensis",10.3,NA,"male",10,538,7.52198293488674,137.623901552949,"Fall",118544
+4,-123.43795,40.33289,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.3,NA,"male",10.8,1056,7.02438932965318,106.846751937995,"Spring",118610
+1,-115.4207,35.1716,"ad.",1938,"Sitta canadensis","Sitta_canadensis",10.3,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",118624
+8,-111.106,44.1296,"imm.",1939,"Sitta canadensis","Sitta_canadensis",10.3,NA,"female",4.3,639,9.28354686659374,67.6867962566796,"Summer",118626
+7,-121.8453,43.6161,"u ad.",1940,"Sitta canadensis","Sitta_canadensis",10.3,NA,"male",6.9,800,6.26013723346527,83.2892004349358,"Summer",118628
+2,-104.78205,39.370718,NA,2008,"Sitta canadensis","Sitta_canadensis",10.3,110,"male",8.9,335,8.66569341854663,67.6291458694265,"Winter",118718
+6,-115.21645,41.84056,"u ad.",1955,"Sitta canadensis","Sitta_canadensis",10.3,NA,"male",2,657,9.08320127788356,81.0159891196372,"Summer",118747
+9,-119.1518,37.86995,"ad.",1915,"Sitta canadensis","Sitta_canadensis",10.3,NA,"male",4.4,538,6.63093644833203,123.280947002875,"Fall",118769
+4,-123.4853,40.3329,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.3,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",118787
+6,-121.7295,44.349,"u ad.",1941,"Sitta canadensis","Sitta_canadensis",10.3,NA,"male",7.1,1062,5.63406172447121,67.9838195944789,"Summer",118800
+1,-120.72455,40.44879,"u ad.",1943,"Sitta canadensis","Sitta_canadensis",10.3,NA,"female",8.7,552,7.03303891384346,127.757676626902,"Winter",118805
+8,-87.72961,52.24829,"juv",1939,"Sitta canadensis","Sitta_canadensis",10.3,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",118818
+7,-83.6215433,45.9522238,"juvenile",1938,"Sitta canadensis","Sitta_canadensis",10.3,NA,"female",6.2,756,10.6461118240274,24.8313674024005,"Summer",118840
+11,-149.917375,61.18245,"adult",2007,"Sitta canadensis","Sitta_canadensis",10.3,NA,NA,2.4,378,9.96689596371484,84.2154235780361,"Fall",118905
+7,-72.0236,43.8856,NA,1968,"Sitta canadensis","Sitta_canadensis",10.3,NA,NA,3.2,1261,10.9228804892216,44.4845494002763,"Summer",118912
+8,-119.60266,38.31189,"U-Ad",1960,"Sitta canadensis","Sitta_canadensis",10.3,NA,"female",2.7,859,7.18311888873468,109.158237188393,"Summer",118919
+7,-121.43286,40.34403,"skull",2006,"Sitta canadensis","Sitta_canadensis",10.37,NA,"male",8.6,1620,7.34048033272697,103.40589303081,"Summer",118592
+5,-108.3064333333,36.5995166667,NA,2013,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",10,284,10.1718714943205,92.1103211188107,"Spring",118552
+11,-122.5278711,41.4228704,"ad.",1951,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",8.7,1398,7.43580099005052,101.594358014941,"Fall",118561
+6,-114.22917,39.095,"u ad.",1962,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",118575
+8,-119.39231,37.73082,"imm.",1915,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",4.7,933,6.33711410276911,122.055904220382,"Summer",118594
+4,-117.1503,46.94,NA,1954,"Sitta canadensis","Sitta_canadensis",10.4,119,"male",7.9,535,6.64550429032495,50.262420923237,"Spring",118697
+6,-122.2474566,41.3544539,"u ad.",1960,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",6.8,1782,7.5414611557467,95.0288506842471,"Summer",118751
+10,-119.7034868,37.7352363,"u ad.",1915,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",9.5,943,6.34098620567858,117.677020869619,"Fall",118770
+4,-123.42848,40.33289,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",10.8,1052,7.00283492377887,106.929749556836,"Spring",118785
+8,-111.106,44.1296,"ad.",1939,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",4.3,639,9.28354686659374,67.6867962566796,"Summer",118798
+1,-123.43834,40.39507,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",10.6,1921,6.22120031290854,99.6623356453026,"Winter",118804
+11,-119.98289,38.22536,"U-Ad.",1946,"Sitta canadensis","Sitta_canadensis",10.4,NA,"male",7.6,972,6.71558003090687,108.137333306554,"Fall",118914
+10,-96.9784855,37.2495805,"adult",1961,"Sitta canadensis","Sitta_canadensis",10.5,NA,"male",13.6,1208,9.29465470367813,71.3592190573322,"Fall",118529
+6,-114.256346,38.929166,"u ad.",1962,"Sitta canadensis","Sitta_canadensis",10.5,NA,"male",5.7,338,8.58892874401092,76.4282508032243,"Summer",118572
+6,-115.8938,48.3214,"u ad.",1966,"Sitta canadensis","Sitta_canadensis",10.5,NA,"male",4.5,1403,6.90493894384171,74.9926114876521,"Summer",118581
+8,-131.9167,57.1833,"imm.",1919,"Sitta canadensis","Sitta_canadensis",10.5,NA,"male",1.9,1670,8.58598223321542,50.7372885941423,"Summer",118597
+12,-115.3694888,35.1274017,"ad.",1937,"Sitta canadensis","Sitta_canadensis",10.5,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",118623
+5,-118.247283,36.579744,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",10.5,NA,"female",2.2,315,6.58301303401874,155.346126971604,"Spring",118635
+6,-57.5999451,49.0141175,"ad",1972,"Sitta canadensis","Sitta_canadensis",10.5,NA,"female",2.8,1076,9.71989524821969,40.2649363136396,"Summer",118639
+1,-76.4646,42.5052,NA,1991,"Sitta canadensis","Sitta_canadensis",10.5,112,"female",9.4,796,9.52067924747669,31.2181679349222,"Winter",118711
+7,-104.935225,39.731068,NA,2011,"Sitta canadensis","Sitta_canadensis",10.5,105,"undetermined",10.8,463,9.48863754309555,68.3534828490242,"Summer",118720
+9,-91.4907073,44.8098524,NA,1980,"Sitta canadensis","Sitta_canadensis",10.5,NA,"undetermined",6.5,943,12.2428086498305,101.330910275228,"Fall",118734
+8,-120.7281911,41.5911258,"adult",1992,"Sitta canadensis","Sitta_canadensis",10.5,NA,"male",9.6,312,7.75923203791341,88.4657346404214,"Summer",118735
+9,-114.28,38.96917,"imm.",1934,"Sitta canadensis","Sitta_canadensis",10.5,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",118792
+6,-80.45638,45.70165,"ad",1978,"Sitta canadensis","Sitta_canadensis",10.5,NA,"male",4.4,857,11.3947223296444,46.6763789344193,"Summer",118810
+1,-83.95,43.4166667,NA,1960,"Sitta canadensis","Sitta_canadensis",10.5,NA,"female",8.3,679,10.6224319534681,48.8076819826246,"Winter",118891
+10,-119.56963,39.05579,"AHY",2012,"Sitta canadensis","Sitta_canadensis",10.6,NA,"female",10,538,7.52198293488674,137.623901552949,"Fall",118539
+7,-121.7442,44.0158,"u ad.",1940,"Sitta canadensis","Sitta_canadensis",10.6,NA,"female",5.5,2164,6.0700643998381,70.232291330349,"Summer",118629
+10,-79.390963,43.6591,"ad",1985,"Sitta canadensis","Sitta_canadensis",10.6,NA,"female",7.6,909,10.191629809889,46.733046137775,"Fall",118644
+9,-117.164293,46.730767,NA,1976,"Sitta canadensis","Sitta_canadensis",10.6,NA,"male",8,416,7.13385016536079,51.9570595865682,"Fall",118699
+6,-122.2474566,41.3544539,"u ad.",1960,"Sitta canadensis","Sitta_canadensis",10.6,NA,"female",6.8,1782,7.5414611557467,95.0288506842471,"Summer",118752
+1,-123.47623,40.4313,"u ad.",1942,"Sitta canadensis","Sitta_canadensis",10.6,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",118802
+7,-81.57201,49.33011,"ad",1973,"Sitta canadensis","Sitta_canadensis",10.6,NA,"male",1.9,859,12.9302558037927,38.9764785073422,"Summer",118807
+7,-122.6094818,49.2960238,"ad",1973,"Sitta canadensis","Sitta_canadensis",10.6,NA,"male",9.3,1521,5.43462524146344,77.6522963192103,"Summer",118808
+8,-79.251966,43.777483,"imm",2001,"Sitta canadensis","Sitta_canadensis",10.6,NA,"female",8.7,721,9.7159974300432,37.1379310227833,"Summer",118821
+7,-83.6215433,45.9522238,"adult",1938,"Sitta canadensis","Sitta_canadensis",10.6,NA,"male",6.2,756,10.6461118240274,24.8313674024005,"Summer",118839
+2,-85.5628967,46.5564995,"adult",1957,"Sitta canadensis","Sitta_canadensis",10.6,NA,"male",4.7,902,10.0513077695784,42.2678920891963,"Winter",118847
+8,-83.662262,46.0494079,"juvenile",1989,"Sitta canadensis","Sitta_canadensis",10.6,NA,"female",4.4,613,11.5772864094338,34.4217804642075,"Summer",118857
+5,-83.7503242,42.9139435,NA,2012,"Sitta canadensis","Sitta_canadensis",10.6,NA,"female",10.7,660,9.05180377135693,40.5150907318467,"Spring",118861
+6,-74.4284333,44.4992333,NA,2008,"Sitta canadensis","Sitta_canadensis",10.6,NA,"male",5.8,1278,9.97905382045388,32.2528382659897,"Summer",118879
+2,-84.2833333,36.9333333,NA,1950,"Sitta canadensis","Sitta_canadensis",10.6,NA,"male",12.6,1449,8.17379404505087,55.7417348684253,"Winter",118934
+8,-117.164293,46.730767,NA,1993,"Sitta canadensis","Sitta_canadensis",10.7,NA,NA,8,450,8.12597779664178,64.9375768633916,"Summer",118511
+10,-119.20396,38.51328,"HY",2012,"Sitta canadensis","Sitta_canadensis",10.7,NA,"undetermined",8.5,276,7.43946784509361,117.021487556613,"Fall",118545
+10,-93.2636,44.98,"medium skull windows",1995,"Sitta canadensis","Sitta_canadensis",10.7,NA,"undetermined",7.8,739,12.3216088825504,58.8352828949132,"Fall",118589
+5,-114.10722,39.01722,"u ad.",1934,"Sitta canadensis","Sitta_canadensis",10.7,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",118614
+9,-79.408069,43.745921,"imm",2001,"Sitta canadensis","Sitta_canadensis",10.7,NA,"male",8.8,713,9.69670359483369,39.4147736467887,"Fall",118654
+9,-152.406,57.79,"HY",1997,"Sitta canadensis","Sitta_canadensis",10.7,NA,"female ?",5.4,1703,6.14084684713762,56.7566076342138,"Fall",118661
+9,-147.8043,64.857,"HY",2011,"Sitta canadensis","Sitta_canadensis",10.7,NA,"male",-1.9,257,14.5662202622119,89.8030687917233,"Fall",118667
+9,-117.164293,46.730767,NA,1993,"Sitta canadensis","Sitta_canadensis",10.7,NA,NA,8,450,8.12597779664178,64.9375768633916,"Fall",118708
+3,-105.284162,39.618714,NA,2006,"Sitta canadensis","Sitta_canadensis",10.7,105,"undetermined",6.5,555,7.47429939961944,64.7507098861872,"Spring",118717
+10,-94.5757198,39.0350862,NA,2007,"Sitta canadensis","Sitta_canadensis",10.7,NA,"female",13.5,991,10.8192694258481,64.6410889007368,"Fall",118732
+8,-119.39231,37.73082,"imm.",1915,"Sitta canadensis","Sitta_canadensis",10.7,NA,"female",4.7,933,6.33711410276911,122.055904220382,"Summer",118768
+10,-84.2333333,36.9833333,"immature",1951,"Sitta canadensis","Sitta_canadensis",10.7,NA,"undetermined",13.1,1387,8.56965665307048,40.8771481259852,"Fall",118896
+5,-117.179457,46.728691,NA,1954,"Sitta canadensis","Sitta_canadensis",10.8,121,"male",8,494,6.54385554963933,45.8375419667282,"Spring",118501
+5,-103.84325,44.45248,NA,2008,"Sitta canadensis","Sitta_canadensis",10.8,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",118520
+10,-119.56963,39.05579,"AHY",2012,"Sitta canadensis","Sitta_canadensis",10.8,NA,"undetermined",10,538,7.52198293488674,137.623901552949,"Fall",118540
+6,-114.21871,38.856596,"ad.",1962,"Sitta canadensis","Sitta_canadensis",10.8,NA,"male",6.1,323,8.64689469571521,72.1120631003863,"Summer",118574
+9,-117.179457,46.728691,NA,1969,"Sitta canadensis","Sitta_canadensis",10.8,117,"male",8.1,417,8.34151265259086,87.9219001540551,"Fall",118698
+8,-114.8514776,44.5471332,NA,1948,"Sitta canadensis","Sitta_canadensis",10.8,NA,"male",2.5,743,8.8947848186281,63.0290492854406,"Summer",118724
+7,-111.172949,43.3163447,NA,1949,"Sitta canadensis","Sitta_canadensis",10.8,NA,"male",5,448,10.536976738509,46.3393767046034,"Summer",118726
+6,-118.168469,37.53385,"u imm.",1954,"Sitta canadensis","Sitta_canadensis",10.8,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",118745
+7,-115.805,48.9,"unknown",1966,"Sitta canadensis","Sitta_canadensis",10.8,NA,"undetermined",4.4,860,7.36914122705234,71.6309271486502,"Summer",118761
+7,-120.11166,37.75634,"ad.",1923,"Sitta canadensis","Sitta_canadensis",10.8,NA,"male",12.3,564,6.37967297537478,138.732246351932,"Summer",118775
+9,-115.43306,41.87417,"imm.",1934,"Sitta canadensis","Sitta_canadensis",10.8,NA,"male",7.2,449,6.95288799817396,82.0625313070886,"Fall",118790
+9,-76.342731,42.477973,NA,1990,"Sitta canadensis","Sitta_canadensis",10.8,NA,NA,9,1167,8.19284147992328,41.1753459752887,"Fall",118876
+11,-76.106743,42.501565,NA,2003,"Sitta canadensis","Sitta_canadensis",10.8,NA,"male",6.4,1239,10.3531579137903,31.8346065474071,"Fall",118922
+12,-83.1270744,43.0247478,NA,1949,"Sitta canadensis","Sitta_canadensis",10.85,NA,"male",9.8,738,10.0154539678348,29.8094022127916,"Winter",118673
+5,-101.8459776,37.9845333,NA,1970,"Sitta canadensis","Sitta_canadensis",10.9,NA,"female",12.2,307,9.98010141443584,93.2296192728201,"Spring",118535
+11,-107.2525333333,33.9917833333,"Adult",2008,"Sitta canadensis","Sitta_canadensis",10.9,NA,"male",10.7,333,7.15647619399041,121.598453400292,"Fall",118547
+6,-115.9446,48.2631,"u ad.",1966,"Sitta canadensis","Sitta_canadensis",10.9,NA,"male",6,1261,7.35574399343599,76.037495097777,"Summer",118579
+5,-79.41742,43.702718,"ad",1997,"Sitta canadensis","Sitta_canadensis",10.9,NA,"female",7.2,705,9.55618156276899,32.0857657294775,"Spring",118645
+6,-115.8938,48.3214,"unknown",1966,"Sitta canadensis","Sitta_canadensis",10.9,NA,"undetermined",4.5,1403,6.90493894384171,74.9926114876521,"Summer",118760
+7,-120.11166,37.75634,"imm.",1920,"Sitta canadensis","Sitta_canadensis",10.9,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",118773
+4,-123.47525,40.34058,"u ad.",1932,"Sitta canadensis","Sitta_canadensis",10.9,NA,"male",10.7,1099,7.01755374799941,105.813066048577,"Spring",118783
+6,-82.02458,45.57757,"ad",1966,"Sitta canadensis","Sitta_canadensis",10.9,114,"male",5.4,813,10.049826622958,53.6193540062853,"Summer",118829
+7,-105.1083333333,37.25,"adult",1991,"Sitta canadensis","Sitta_canadensis",10.9,111,"female",2.6,725,7.76300472911375,50.1988950533996,"Summer",118881
+1,-106.72,35.96417,NA,2012,"Sitta canadensis","Sitta_canadensis",10.9,NA,"undetermined",6.8,374,7.79572532438986,68.5826118048674,"Winter",118885
+10,-79.197895,44.03558,"imm",1992,"Sitta canadensis","Sitta_canadensis",10.9,NA,"female",6,948,8.95580055809438,41.8226845026758,"Fall",118887
+7,-110.5666667,42.4,"juvenile",1934,"Sitta canadensis","Sitta_canadensis",10.9,NA,"female",3.8,387,7.37236342187785,77.4521992329168,"Summer",118892
+12,-84.0166667,42.3166667,NA,1984,"Sitta canadensis","Sitta_canadensis",10.9,NA,"male",9,726,10.3801785177619,42.4313971999783,"Winter",118897
+9,-117.165636,46.72953,NA,2010,"Sitta canadensis","Sitta_canadensis",11,NA,"male",8.6,583,6.57881701625249,53.5915099553872,"Fall",118499
+1,-76.4646,42.5052,NA,1991,"Sitta canadensis","Sitta_canadensis",11,115,"male",9.4,796,9.52067924747669,31.2181679349222,"Winter",118512
+6,-103.253161,45.391505,NA,2009,"Sitta canadensis","Sitta_canadensis",11,NA,NA,5,426,11.1143914349683,83.7481933902129,"Summer",118522
+10,-88.8793945,45.7148098,"immature",1969,"Sitta canadensis","Sitta_canadensis",11,NA,"male",4.1,749,10.9749991371574,68.7255411037265,"Fall",118532
+10,-88.8792839,45.6596851,NA,1969,"Sitta canadensis","Sitta_canadensis",11,NA,"female",4.2,757,10.9487926551771,69.9859236114224,"Fall",118533
+8,-120.7281911,41.5911258,NA,1992,"Sitta canadensis","Sitta_canadensis",11,NA,"male",9.6,312,7.75923203791341,88.4657346404214,"Summer",118538
+9,-119.8792403,35.3983222,"ad.",1947,"Sitta canadensis","Sitta_canadensis",11,NA,"female",14.6,101,6.77540113986328,104.927362943041,"Fall",118556
+4,-70.2103,44.5867,"u ad.",1952,"Sitta canadensis","Sitta_canadensis",11,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",118563
+4,-70.2103,44.5867,"u ad.",1952,"Sitta canadensis","Sitta_canadensis",11,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",118564
+5,-70.2103,44.5867,"u ad.",1952,"Sitta canadensis","Sitta_canadensis",11,NA,"male",6.9,1027,10.3192083323315,45.6049007402491,"Spring",118565
+8,-110.7682,45.033,"imm.",1967,"Sitta canadensis","Sitta_canadensis",11,NA,"male",4.2,517,9.14780980576358,44.4716076609678,"Summer",118582
+7,-123.4096993,41.9818782,"s.o.",1980,"Sitta canadensis","Sitta_canadensis",11,NA,"male",9.3,1352,5.85667192700821,89.7498868488849,"Summer",118586
+8,-116.94528,39.24556,"imm.",1931,"Sitta canadensis","Sitta_canadensis",11,NA,"male",8.9,185,9.5724470447343,48.9411099092045,"Summer",118602
+7,-123.5681168,40.623889,"ad.",1932,"Sitta canadensis","Sitta_canadensis",11,NA,"male",8.8,1569,7.10229903025432,99.1683262710205,"Summer",118603
+5,-114.10722,39.01722,"u ad.",1934,"Sitta canadensis","Sitta_canadensis",11,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",118616
+7,-117.8275,46.0561,"imm.",1939,"Sitta canadensis","Sitta_canadensis",11,NA,"undetermined",6.5,903,6.75606910096172,105.40099455772,"Summer",118625
+7,-91.92887,50.10403,"juv",1947,"Sitta canadensis","Sitta_canadensis",11,NA,"male",0.6,690,13.748377314719,41.0975349699112,"Summer",118653
+10,-79.252264,43.77702,"juv",2003,"Sitta canadensis","Sitta_canadensis",11,NA,"male",7,825,10.5434885837256,39.1141497661034,"Fall",118656
+10,-79.381924,43.647863,"juv",2003,"Sitta canadensis","Sitta_canadensis",11,NA,"male",7.4,813,10.4743843386009,37.3511132195198,"Fall",118657
+9,-79.40957,43.746884,"juv",2003,"Sitta canadensis","Sitta_canadensis",11,NA,"male",7,822,10.5256792770075,38.9287295598561,"Fall",118658
+9,-79.25011,43.77661,"ad",2003,"Sitta canadensis","Sitta_canadensis",11,NA,"male",7,824,10.5283024042412,39.1141497661034,"Fall",118659
+11,-83.7500668,42.6573812,"adult",2001,"Sitta canadensis","Sitta_canadensis",11,NA,"male",9.7,865,9.40565191141942,49.8944399602191,"Fall",118679
+10,-83.1338348,42.6806297,"immature",1999,"Sitta canadensis","Sitta_canadensis",11,NA,"male",9.8,802,10.0683234137386,47.2592056094497,"Fall",118680
+10,-117.164293,46.730767,NA,1981,"Sitta canadensis","Sitta_canadensis",11,NA,"male",8.7,601,6.36302648592681,55.6155635509603,"Fall",118701
+6,-117.164293,46.730767,"Immature",1990,"Sitta canadensis","Sitta_canadensis",11,NA,"immature",9,573,8.21836450588042,60.5834714064507,"Summer",118706
+8,-103.9333,44.4833,NA,2010,"Sitta canadensis","Sitta_canadensis",11,NA,NA,6.5,592,9.70621481632289,82.6623794832287,"Summer",118722
+12,-96.1437607,38.3726164,NA,1941,"Sitta canadensis","Sitta_canadensis",11,NA,"undetermined",13.5,1140,9.93894619741708,84.2191362309301,"Winter",118723
+10,-119.56963,39.05579,"AHY",2012,"Sitta canadensis","Sitta_canadensis",11,NA,"undetermined",10,538,7.52198293488674,137.623901552949,"Fall",118736
+7,-121.56554,40.31119,"skull fully ossified",2006,"Sitta canadensis","Sitta_canadensis",11,NA,"male",9.7,1756,7.21297232054648,102.564983161203,"Summer",118766
+10,-119.7034868,37.7352363,"u ad.",1915,"Sitta canadensis","Sitta_canadensis",11,NA,"male",9.5,943,6.34098620567858,117.677020869619,"Fall",118771
+5,-121.5957777,40.3476331,"u ad.",1927,"Sitta canadensis","Sitta_canadensis",11,NA,"male",9,1523,6.49425737000612,100.874941480814,"Spring",118776
+5,-79.425049,43.6909,NA,1934,"Sitta canadensis","Sitta_canadensis",11,NA,"male",6.9,636,11.4500066163803,37.0433893288318,"Spring",118815
+10,-79.4067,43.744143,"juv",2003,"Sitta canadensis","Sitta_canadensis",11,NA,"female",7.1,821,10.5114079442146,39.0254988756052,"Fall",118824
+10,-79.4067,43.744143,"ad",2003,"Sitta canadensis","Sitta_canadensis",11,NA,"male",7.1,821,10.5114079442146,39.0254988756052,"Fall",118825
+8,-152.406,57.79,"HY",2009,"Sitta canadensis","Sitta_canadensis",11,NA,"male",5.1,1252,5.38974194018769,30.5089801754189,"Summer",118832
+5,-152.406,57.79,"AHY",2009,"Sitta canadensis","Sitta_canadensis",11,NA,"female",5.1,1252,5.38974194018769,30.5089801754189,"Spring",118833
+11,-152.406,57.79,"AHY",2009,"Sitta canadensis","Sitta_canadensis",11,NA,"female",5.1,1252,5.38974194018769,30.5089801754189,"Fall",118835
+9,-152.406,57.79,"HY",2012,"Sitta canadensis","Sitta_canadensis",11,NA,"male ?",3.9,1439,6.13550891915004,41.921145459318,"Fall",118838
+7,-119.7497894,48.803398,NA,1940,"Sitta canadensis","Sitta_canadensis",11,NA,"female",4.7,651,8.07879754028839,66.5552434284225,"Summer",118842
+9,-83.7263412,42.2708397,"immature",1943,"Sitta canadensis","Sitta_canadensis",11,NA,"in question",8.7,801,10.592232002174,59.9867745208329,"Fall",118845
+5,-83.6422,42.30201,NA,1950,"Sitta canadensis","Sitta_canadensis",11,NA,"male",8.8,944,10.0537494890155,26.8945120881127,"Spring",118855
+6,-74.4284333,44.4992333,NA,2008,"Sitta canadensis","Sitta_canadensis",11,NA,"female",5.8,1278,9.97905382045388,32.2528382659897,"Summer",118877
+6,-74.4284333,44.4992333,NA,2008,"Sitta canadensis","Sitta_canadensis",11,NA,"male",5.8,1278,9.97905382045388,32.2528382659897,"Summer",118878
+12,-95.064,40.346,NA,1969,"Sitta canadensis","Sitta_canadensis",11,NA,"undetermined",10.5,941,11.0656991179815,74.5898169283891,"Winter",118883
+5,-77.45764,43.97391,"ad",1936,"Sitta canadensis","Sitta_canadensis",11,NA,"male",7,771,11.0757823446226,49.8855254725439,"Spring",118927
+5,-122.1555673,41.7951488,NA,1962,"Sitta canadensis","Sitta_canadensis",11.1,NA,"male",4.8,738,7.16986538904111,96.7138684429534,"Spring",118530
+5,-108.7026333333,33.3701666667,NA,2010,"Sitta canadensis","Sitta_canadensis",11.1,NA,"male",8.7,994,7.048833989112,90.9249213090113,"Spring",118550
+8,-123.8193291,41.1515112,"imm.",1949,"Sitta canadensis","Sitta_canadensis",11.1,NA,"male",11.1,1784,6.60419403015075,99.056239467751,"Summer",118557
+8,-119.401625,37.716661,"imm.",1915,"Sitta canadensis","Sitta_canadensis",11.1,NA,"male",3.7,990,6.34409173956367,120.113253263587,"Summer",118595
+5,-117.047413,46.876431,NA,1950,"Sitta canadensis","Sitta_canadensis",11.1,117,NA,6.8,840,8.82418766112711,65.1420968481076,"Spring",118695
+1,-97.3654317,37.6988983,NA,1961,"Sitta canadensis","Sitta_canadensis",11.1,NA,"male",12.5,1003,9.69723484485983,58.6905880388961,"Winter",118729
+6,-115.28361,36.63,"ad.",1963,"Sitta canadensis","Sitta_canadensis",11.1,NA,"male",10.9,263,7.94470950324234,127.021594027793,"Summer",118755
+6,-108.7,33.4,NA,1964,"Sitta canadensis","Sitta_canadensis",11.1,NA,"female",7.8,643,7.89903618976852,101.707291132455,"Summer",118931
+8,-117.179457,46.728691,NA,1969,"Sitta canadensis","Sitta_canadensis",11.2,200,"female",8.1,417,8.34151265259086,87.9219001540551,"Summer",118503
+10,-76.163106,42.349527,NA,2010,"Sitta canadensis","Sitta_canadensis",11.2,119,"male",8.7,1066,10.1141964434635,42.5657065671487,"Fall",118513
+8,-106.4342871,37.02282872,"u ad.",1952,"Sitta canadensis","Sitta_canadensis",11.2,NA,"undetermined",0.8,822,8.31323789160543,89.4217443656982,"Summer",118566
+6,-118.168469,37.53385,"u ad.",1954,"Sitta canadensis","Sitta_canadensis",11.2,NA,"male",2.4,304,6.26691650050026,89.9139197279071,"Summer",118568
+5,-114.1083,36.60278,"u ad.",1970,"Sitta canadensis","Sitta_canadensis",11.2,NA,"male",10.3,354,8.13425230774535,109.151393920592,"Spring",118583
+10,-138.7844467,61.2480287,"ad",1981,"Sitta canadensis","Sitta_canadensis",11.2,NA,"male",-1.3,310,10.4012091371701,86.1921084396904,"Fall",118643
+8,-120.7281911,41.5911258,"juvenile",1992,"Sitta canadensis","Sitta_canadensis",11.2,NA,"female",9.6,312,7.75923203791341,88.4657346404214,"Summer",118733
+2,-85.5628967,46.5564995,NA,1957,"Sitta canadensis","Sitta_canadensis",11.2,NA,"male",4.7,902,10.0513077695784,42.2678920891963,"Winter",118848
+8,-83.7400246,42.2754036,NA,2007,"Sitta canadensis","Sitta_canadensis",11.2,NA,"male",10.1,903,10.7199156204278,43.5512105827102,"Summer",118858
+10,-79.36696,43.85242,"imm",2001,"Sitta canadensis","Sitta_canadensis",11.2,NA,"male",8.5,726,9.71937692852725,38.9482748212999,"Fall",118888
+6,-79.73102,44.4458,"ad",1990,"Sitta canadensis","Sitta_canadensis",11.2,NA,"male",7.4,1009,8.81625135070387,28.4051913044523,"Summer",118926
+7,-109.4917912,46.8019059,NA,1961,"Sitta canadensis","Sitta_canadensis",11.3,NA,"male",3.9,673,8.34238447854561,57.8999986172068,"Summer",118526
+6,-114.256346,38.929166,"u ad.",1962,"Sitta canadensis","Sitta_canadensis",11.3,NA,"female",5.7,338,8.58892874401092,76.4282508032243,"Summer",118571
+10,-86.965319,46.014536,"adult",2006,"Sitta canadensis","Sitta_canadensis",11.3,NA,"male",7.7,764,9.29197682591457,53.4758862828813,"Fall",118681
+10,-117.165636,46.72953,NA,2010,"Sitta canadensis","Sitta_canadensis",11.3,NA,"male",8.6,583,6.57881701625249,53.5915099553872,"Fall",118693
+9,-83.7263412,42.2708397,NA,1985,"Sitta canadensis","Sitta_canadensis",11.3,NA,"male",9,1040,10.6588809180065,34.9603911571367,"Fall",118856
+12,-76.439261,42.45476,NA,1954,"Sitta canadensis","Sitta_canadensis",11.3999996185303,NA,"female",8.7,906,9.40816457158678,31.845723371986,"Winter",118921
+9,-117.165646,46.72955,NA,2011,"Sitta canadensis","Sitta_canadensis",11.4,NA,"male",7.9,548,7.65962951078081,76.6909875733301,"Fall",118500
+8,-105.615944,41.306796,"juvenile",2007,"Sitta canadensis","Sitta_canadensis",11.4,110.8,"undetermined",5.9,264,9.77462701760703,64.891697409099,"Summer",118519
+5,-119.7675,39.35528,"u ad.",1934,"Sitta canadensis","Sitta_canadensis",11.4,NA,"male",11.3,183,6.61286051889984,63.3374243824665,"Spring",118613
+7,-112.99,45.4694,"u ad.",1947,"Sitta canadensis","Sitta_canadensis",11.4,NA,"male",0.4,975,7.59271480972505,52.8592188429535,"Summer",118806
+5,-82.4333333,42.9666667,NA,1981,"Sitta canadensis","Sitta_canadensis",11.4,NA,"male",8.3,863,9.75018259347283,56.197279997263,"Spring",118894
+9,-83.6561111,42.3127778,NA,1938,"Sitta canadensis","Sitta_canadensis",11.4,NA,"male",10.5,696,9.64633703443013,49.7350022000717,"Fall",118928
+1,-117.177949,46.757518,NA,1973,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",8.6,525,7.4474471932985,110.490586419664,"Winter",118504
+1,-117.177949,46.757518,NA,1973,"Sitta canadensis","Sitta_canadensis",11.5,NA,"female",8.6,525,7.4474471932985,110.490586419664,"Winter",118505
+9,-117.165174,46.729502,NA,1976,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",8,416,7.13385016536079,51.7913829914669,"Fall",118507
+6,-115.18725,36.65306,"ad.sk.",1963,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",4.5,458,7.58952128485936,149.990582192049,"Summer",118576
+6,-121.7648069,40.3091119,"ad.",1924,"Sitta canadensis","Sitta_canadensis",11.5,NA,"female",12.6,605,7.04880712022835,104.248454374012,"Summer",118600
+7,-91.92887,50.10403,NA,1947,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",0.6,690,13.748377314719,41.0975349699112,"Summer",118652
+4,-152.406,57.79,"AD",2009,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",5.1,1252,5.38974194018769,30.5089801754189,"Spring",118662
+4,-152.406,57.79,"AHY",2009,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",5.1,1252,5.38974194018769,30.5089801754189,"Spring",118664
+12,-95.2864532,39.0223911,NA,1965,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",12.9,1118,9.94339662105643,103.726278995932,"Winter",118727
+10,-88.7159729,45.6582076,NA,1969,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",4.3,747,10.8392664405714,72.9212557601346,"Fall",118730
+6,-115.18725,36.65306,"ad.sk.",1963,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",4.5,458,7.58952128485936,149.990582192049,"Summer",118754
+11,-78.39246,45.81601,"imm",1989,"Sitta canadensis","Sitta_canadensis",11.5,NA,"female",2.4,952,12.6733405464408,32.5574710269024,"Fall",118814
+3,-118.5861253,35.9805066,"Skull ossifed",1984,NA,"Sitta_canadensis",11.5,NA,"male",9.6,646,6.8972765815519,147.179069549751,"Spring",118862
+10,-72.6372,41.3597,NA,1968,"Sitta canadensis","Sitta_canadensis",11.5,NA,"male",9.3,1011,9.86779272853526,57.3532884782539,"Fall",118909
+10,-117.161931,46.728615,NA,1973,"Sitta canadensis","Sitta_canadensis",11.6,NA,"male",8.6,526,7.4581407627078,109.580546192726,"Fall",118506
+8,-122.1555673,41.7951488,NA,1961,"Sitta canadensis","Sitta_canadensis",11.6,NA,"female",5.3,696,7.10509846817229,62.6971003024591,"Summer",118531
+7,-106.3655815,35.16782,NA,2008,"Sitta canadensis","Sitta_canadensis",11.6,NA,"undetermined",9.6,473,7.8415511375253,85.4134117328596,"Summer",118549
+9,-85.436554,46.6732343,"immature",1938,"Sitta canadensis","Sitta_canadensis",11.6,NA,"male",5.2,939,10.0161082383541,23.7434522788991,"Fall",118690
+7,-149.815389,61.140089,NA,2007,"Sitta canadensis","Sitta_canadensis",11.6,NA,"male",1.9,362,10.3249147035878,81.6014975279261,"Summer",118937
+12,-84.1676331,46.3710955,NA,1949,"Sitta canadensis","Sitta_canadensis",11.7,NA,"male",5.5,781,10.1809834614552,44.8317640772274,"Winter",118672
+8,-111.2702042,42.370761,"immature",1934,"Sitta canadensis","Sitta_canadensis",11.7,NA,"male",6,331,7.96423825039727,55.8533595923151,"Summer",118689
+7,-115.803525,48.891091,"s.o.",1966,"Sitta canadensis","Sitta_canadensis",11.8,NA,"female",5,844,7.4332331152369,71.9951005450523,"Summer",118580
+7,-120.11166,37.75634,"juv.",1923,"Sitta canadensis","Sitta_canadensis",11.8,NA,"male",12.3,564,6.37967297537478,138.732246351932,"Summer",118598
+10,-84.5575565,42.734787,NA,2012,"Sitta canadensis","Sitta_canadensis",11.9,NA,"male",10.9,736,9.27786548074437,43.8701723959429,"Fall",118686
+9,-79.378901,43.746156,NA,1939,"Sitta canadensis","Sitta_canadensis",12,NA,"female",7.3,681,10.452152888281,36.223068984331,"Fall",118648
+8,-152.406,57.79,"HY",2009,"Sitta canadensis","Sitta_canadensis",12,NA,"female",5.1,1252,5.38974194018769,30.5089801754189,"Summer",118834
+11,-152.406,57.79,"U",2009,"Sitta canadensis","Sitta_canadensis",12,NA,"male",5.1,1252,5.38974194018769,30.5089801754189,"Fall",118836
+10,-152.406,57.79,"HY",2010,"Sitta canadensis","Sitta_canadensis",12,NA,"undetermined",5.2,1600,4.93990399857644,44.9082397784638,"Fall",118837
+11,-116.6833333,46.7833333,NA,1940,"Sitta canadensis","Sitta_canadensis",12,NA,"male",9,838,7.93018781542271,66.9569119045097,"Fall",118889
+9,-83.4666667,41.8,NA,1965,"Sitta canadensis","Sitta_canadensis",12,NA,"male",9.6,976,9.83338084220675,40.2154498905308,"Fall",118932
+9,-108.3358333333,36.7329666667,"Adult",2008,"Sitta canadensis","Sitta_canadensis",12.1,NA,"male",11.4,215,9.50726994558279,65.1096342124544,"Fall",118548
+7,-118.81028,38.90734,"u ad.",1934,"Sitta canadensis","Sitta_canadensis",12.1,NA,"male",12.1,140,7.28248209435117,110.696898509026,"Summer",118617
+8,-84.9760723,46.7607967,NA,2012,"Sitta canadensis","Sitta_canadensis",12.1,NA,"male",7.2,822,8.28439112811777,46.0995413083787,"Summer",118684
+8,-85.5127716,46.6734699,"immature",1934,"Sitta canadensis","Sitta_canadensis",12.1,NA,"female",3.9,763,10.600114350441,60.0805301931089,"Summer",118688
+10,-85.0844765,44.4592089,NA,1942,"Sitta canadensis","Sitta_canadensis",12.2,114,"male",6.6,803,10.5068339953604,61.0150785130097,"Fall",118669
+9,-79.381924,43.647863,"imm",2001,"Sitta canadensis","Sitta_canadensis",12.5,NA,"male",9.1,697,9.65735314136175,37.8745626908572,"Fall",118822
+1,-83.75,42.2833333,NA,2008,"Sitta canadensis","Sitta_canadensis",12.5,NA,"male",9.5,1015,10.2714815549332,47.2111961452695,"Winter",118935
+7,-117.165649,46.729529,NA,1986,"Sitta canadensis","Sitta_canadensis",12.6,NA,NA,8.9,525,7.27896512791024,65.6928254060748,"Summer",118707
+5,-115.58796,35.54264,"u ad.",1939,"Sitta canadensis","Sitta_canadensis",12.6,NA,"male",11.8,316,7.86007845592735,96.1118268078937,"Spring",118797
+5,-108.65,33.4,NA,1964,"Sitta canadensis","Sitta_canadensis",13,NA,"male",6.6,739,7.73885807095751,101.789373511029,"Spring",118895
+5,-83.6422,42.30201,NA,1950,"Sitta canadensis","Sitta_canadensis",13.1,NA,"male",8.8,944,10.0537494890155,26.8945120881127,"Spring",118854
+6,-82.03507,45.57744,"ad",1966,"Sitta canadensis","Sitta_canadensis",13.5,117,"female",5.3,814,10.0752171192486,53.8210503928514,"Summer",118828
+9,-117.164293,46.730767,NA,2001,"Sitta canadensis","Sitta_canadensis",13.8,NA,"male",8.6,475,7.99401291118812,57.0874026707448,"Fall",118498

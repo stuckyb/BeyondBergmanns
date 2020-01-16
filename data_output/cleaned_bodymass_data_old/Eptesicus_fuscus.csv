@@ -1,0 +1,662 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-109.83139,32.25278,NA,1959,"Eptesicus fuscus","Eptesicus_fuscus",3.4,55,NA,15.8,314,7.38689974744398,135.069707985375,"Summer",31920
+5,-111.6531,35.2192,"unknown",1989,"Eptesicus fuscus","Eptesicus_fuscus",3.6,99,"male",8.8,244,7.68552358185652,130.197569389232,"Spring",31664
+6,-105.07613,40.175961,NA,1990,"Eptesicus fuscus pallidus","Eptesicus_fuscus",4.1,58,"male",9.7,388,9.08708707535872,75.1273086400841,"Summer",31324
+1,-104.3202188867,38.2830120544,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",4.1,100,"undetermined",11.1,299,9.41724321109791,81.4415574060766,"Winter",31589
+7,-107.21056,39.40222,"juvenile",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",4.2,64,"male",7.1,536,9.05462798124737,54.5346490614398,"Summer",31357
+7,-111.6531,35.2192,"unknown",1988,"Eptesicus fuscus","Eptesicus_fuscus",4.2,70,"female",8.4,461,7.79037381917095,76.5733664090596,"Summer",31665
+6,-109.83139,32.25278,NA,1959,"Eptesicus fuscus","Eptesicus_fuscus",4.2,58,NA,15.8,314,7.38689974744398,135.069707985375,"Summer",31922
+7,-104.781825,40.703708,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",4.3,67,NA,8.9,375,9.23765351289181,71.6388862033472,"Summer",31259
+7,-104.2940340405,40.4787817063,"juvenile",1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",4.6,59,"undetermined",9.5,390,9.46679604051589,95.6250653192389,"Summer",31253
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",4.6,61,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31393
+8,-108.0389895,44.3799574,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",4.6,NA,"undetermined",6.5,166,12.2373373019797,88.6340923265037,"Summer",31863
+5,-111.6531,35.2192,"unknown",1989,"Eptesicus fuscus","Eptesicus_fuscus",4.9,105,"in question",8.8,244,7.68552358185652,130.197569389232,"Spring",31433
+11,-104.60861,38.25444,"juvenile",2013,"Eptesicus fuscus","Eptesicus_fuscus",4.9,76,"female",11.1,274,10.1047543565423,125.811823301205,"Fall",31826
+7,-105.085633,40.580764,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",5.5,86,"male",8,553,9.37292603322156,76.1159533593354,"Summer",31581
+7,-104.51667,42.21278,"juvenile",1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",5.6,85,"male",8.8,282,10.1168139373236,104.310260131648,"Summer",31358
+9,-111.0174105078,43.1627600723,"juvenile",1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",5.8,79,"male",5.6,710,9.01624795980719,69.0472316106033,"Fall",31362
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",5.9,68,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31392
+8,-119.57061,37.31369,"adult",2007,"Eptesicus fuscus","Eptesicus_fuscus",5.94,90,"male",14.9,421,7.16284076877239,128.167864734238,"Summer",31819
+7,-112.89139,32.02417,NA,1979,"Eptesicus fuscus","Eptesicus_fuscus",6,86,"male",21.1,302,7.89884437270683,145.603630007669,"Summer",31803
+7,-104.516715,40.407411,"Juvenile",2012,"Eptesicus fuscus","Eptesicus_fuscus",6.2,71,"male",11.4,213,9.98457522502797,79.2063570912139,"Summer",31537
+8,-112.4208,33.9933,NA,1978,"Eptesicus fuscus","Eptesicus_fuscus",6.2,111,"female",19.3,829,7.9586240625938,89.1278823669324,"Summer",31945
+7,-105.106733,40.164831,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",6.3,88,"female",9.7,393,9.81873209737388,59.5932980734233,"Summer",31535
+7,-105.051059,40.549854,"immature",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",6.4,91,"male",8,537,9.4207057575161,73.4961834185662,"Summer",31559
+7,-105.1124156934,39.6909836491,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",6.5,93,"male",9.3,596,8.87330009328291,67.7384019586343,"Summer",31350
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",6.6,95,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31330
+8,-104.7700182324,38.8745288393,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",6.9,93,"male",8.1,604,8.54831190140114,89.6958243959814,"Summer",31492
+8,-109.008874,40.499855,NA,1988,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7,96,"female",8.2,184,10.9900333636133,67.7185536623962,"Summer",31382
+12,-106.095212,37.48742,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7,97,"male",5.9,190,9.38948476980629,105.402778217683,"Winter",31541
+7,-91.753539,41.907644,NA,1966,"Eptesicus fuscus fuscus","Eptesicus_fuscus",7,101,"female",7.8,685,11.2805914040108,84.7066154437334,"Summer",31757
+11,-105.6894,36.6403,NA,2007,"Eptesicus fuscus","Eptesicus_fuscus",7,92,"female",8.5,383,9.11964247039755,67.4606829448655,"Fall",31894
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7.2,72,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31619
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7.3,73,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31395
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7.3,73,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31623
+6,-109.83139,32.25278,NA,1959,"Eptesicus fuscus","Eptesicus_fuscus",7.3,72,NA,15.8,314,7.38689974744398,135.069707985375,"Summer",31787
+7,-105.084142,40.180301,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",7.4,89,"female",9.6,396,9.81467670317667,60.7243857142947,"Summer",31311
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7.5,72,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31620
+7,-104.709812,40.41477,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7.6,98,"female",9.6,366,9.45515732285825,66.3108378118821,"Summer",31260
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7.6,81,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31568
+8,-122.1239,48.1989,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",7.6,91,"female",10.3,1000,5.64985250544944,55.5435946720314,"Summer",31692
+7,-104.82,39.98528,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",7.6,105,"male",12.1,210,9.36807522030717,68.9600877703756,"Summer",31840
+5,-105.000104,39.661138,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7.9,102,"female",10.7,420,8.75058439606906,86.1633259479023,"Spring",31496
+7,-105.08917,39.99361,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",7.9,98,"male",12.2,214,9.00899802722508,66.2736172231433,"Summer",31838
+7,-105.071302,40.620044,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",7.9,90,"male",7.9,553,9.40174065121599,78.387030502206,"Summer",31860
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8,74,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31394
+12,-97.129336,41.252656,NA,1982,"Eptesicus fuscus fuscus","Eptesicus_fuscus",8,115,"male",9,1106,11.6370359654255,78.0877684754942,"Winter",31755
+8,-118.08,34.68,NA,1961,"Eptesicus (Eptesicus) fuscus bernardinus Rhoads, 1902","Eptesicus_fuscus",8,103,"female",16.7,74,8.14398365033782,109.398354649419,"Summer",31891
+11,-104.625139,38.246484,"juvenile",2013,"Eptesicus fuscus","Eptesicus_fuscus",8.1,80,"male",11.1,280,10.0717840193946,129.171758632452,"Fall",31293
+5,-108.73,42.83306,NA,1994,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.1,105,"male",8.1,273,9.95968768525795,107.41058790537,"Spring",31326
+7,-104.908553,39.728316,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.1,105,"male",10.5,468,8.82078725958108,100.262532562734,"Summer",31481
+7,-105.2518,40.03507,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",8.2,88,"female",10.3,489,9.46628787120939,65.9518172193925,"Summer",31308
+7,-104.98417,39.73917,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.2,100,"male",9.8,548,9.2056636058593,68.4303323295997,"Summer",31351
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.2,71,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31396
+7,-104.979996,39.722355,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.2,84,"male",10.7,413,8.80469485644741,90.7754010602392,"Summer",31482
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.2,75,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31618
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.2,76,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31624
+7,-104.782458,40.706245,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.3,90,"male",8.9,375,9.23765351289181,71.5625488871551,"Summer",31477
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.3,75,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31621
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.3,76,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31625
+7,-117.0914,47.6483,"unknown",1994,"Eptesicus fuscus","Eptesicus_fuscus",8.3,89,"female",9.6,420,8.26575630373454,64.4632437263857,"Summer",31693
+7,-105.024337,39.6854,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.3,100,"female",9.7,573,9.08139540072133,68.3281231404635,"Summer",31746
+7,-104.781825,40.703708,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.4,93,"female",8.9,375,9.23765351289181,71.6388862033472,"Summer",31256
+7,-105.112527,40.553798,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.4,90,"male",9,429,8.97050300944291,65.0468754576032,"Summer",31274
+8,-104.99021,39.719065,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.4,109,"female",9.8,552,9.18516590635535,69.2287372584758,"Summer",31489
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.4,76,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31622
+7,-104.70861,40.42333,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",8.4,117,"male",11.3,216,9.77012685628384,77.4524219475694,"Summer",31734
+6,-111.01389,31.51111,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",8.4,103,"male",16,452,7.38759709980796,126.243097978737,"Summer",31796
+7,-105.113033,40.386955,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.5,92,"male",9.3,406,9.05431422365085,63.3168584067439,"Summer",31284
+8,-104.969132,39.726972,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.5,92,"female",10.6,431,8.80469485644741,92.6674781351482,"Summer",31487
+7,-104.98417,39.73917,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.6,97,NA,9.8,548,9.2056636058593,68.4303323295997,"Summer",31557
+6,-104.81972,41.14,"adult",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.6,109,"female",6.6,519,9.13933805042794,83.314767095959,"Summer",31582
+7,-105.027161,39.711662,NA,1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.6,108,"undetermined",11.1,435,7.42536602505631,86.5595295535022,"Summer",31708
+7,-104.70861,40.42333,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",8.6,106,"female",11.3,216,9.77012685628384,77.4524219475694,"Summer",31737
+7,-104.781825,40.703708,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.7,105,"male",8.9,375,9.23765351289181,71.6388862033472,"Summer",31257
+7,-105.084142,40.180301,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",8.8,94,"female",9.6,396,9.81467670317667,60.7243857142947,"Summer",31307
+5,-105.1124156934,39.6909836491,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.9,90,"male",10.2,439,8.50890798819185,74.672949648151,"Spring",31272
+7,-104.98872,40.160152,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",8.9,95,"male",11.5,206,9.50290226799958,69.8514079158401,"Summer",31314
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.9,101,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31341
+7,-104.51667,38.83333,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",8.9,80,"undetermined",11.1,204,8.58731887462818,81.1214259627869,"Summer",31852
+7,-105.024337,39.6854,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",8.9,100,"male",9.7,573,9.08139540072133,68.3281231404635,"Summer",31861
+6,-96.17921,38.41062,NA,1963,"Eptesicus fuscus","Eptesicus_fuscus",8.9,91,"female",13.4,595,11.9328296829555,76.3798855966246,"Summer",31866
+7,-120.5047,46.6022,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",8.95,99,"male",9.5,187,8.91550827932922,65.9043899661889,"Summer",31468
+5,-105.222973,39.554835,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9,110,"female",7,547,7.67022973856874,74.0967869882507,"Spring",31280
+7,-104.98417,39.73917,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9,98,"male",9.8,548,9.2056636058593,68.4303323295997,"Summer",31560
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9,107,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31570
+6,-109.238266,41.601586,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9,100,"female",7.1,269,9.31698920675493,50.3429631847043,"Summer",31575
+6,-115.90111,35.78417,NA,1968,"Eptesicus (Eptesicus) fuscus pallidus Young, 1908","Eptesicus_fuscus",9,107,"male",14.3,116,7.72223766439848,106.920846262676,"Summer",31595
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9,72,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31617
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9,77,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31627
+2,-89.56,44.52,NA,2000,"Eptesicus fuscus fuscus","Eptesicus_fuscus",9,105,"male",6.4,900,11.36801400528,69.0382343931198,"Winter",31765
+6,-115.93,35.79,NA,1968,"Eptesicus (Eptesicus) fuscus pallidus Young, 1908","Eptesicus_fuscus",9,114,"male",14.5,113,7.73261490915805,105.110596405923,"Summer",31774
+3,-112.97472,32.00861,NA,1979,"Eptesicus fuscus","Eptesicus_fuscus",9,96,"male",21.6,277,8.01076926658259,144.950885600822,"Spring",31941
+8,-107.787687,37.304497,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",9.1,110,"male",8.8,351,8.41301300835723,67.1515330122836,"Summer",31303
+7,-104.936877,39.728258,NA,1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.1,105,"male",10.9,458,7.49951008500899,85.0902142457075,"Summer",31508
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.1,100,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31561
+8,-106.95556,44.79722,"adult",1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.1,101,"male",5.9,336,11.4028272676986,89.4078447482661,"Summer",31579
+10,-112.87472,32.04167,NA,1982,"Eptesicus fuscus","Eptesicus_fuscus",9.1,107,"female",20.6,290,7.17547907808252,93.594663765025,"Fall",31950
+6,-104.60861,38.25444,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",9.2,97.5,"female",12.9,148,9.48895290707712,76.5164892458981,"Summer",31714
+7,-104.9520425004,39.7303377293,NA,1995,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.3,89,"female",10.3,512,7.81145235399845,101.508438028292,"Summer",31325
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.3,99,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31346
+4,-110.805747,32.250695,NA,1957,"Eptesicus fuscus","Eptesicus_fuscus",9.3,86,"male",20,375,7.15825440038324,75.626524232823,"Spring",31786
+7,-104.908553,39.728316,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.4,114,"female",10.5,468,8.82078725958108,100.262532562734,"Summer",31263
+11,-104.599122,38.2955,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",9.4,100,"female",11.1,268,10.0918921852539,122.792791420096,"Fall",31520
+7,-105.0137067407,39.5966655149,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.4,109,"male",9.5,591,9.01140691265546,70.2455328074919,"Summer",31547
+7,-105.079428,40.571743,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.5,103,"male",8,549,9.39411082443773,75.2926072681852,"Summer",31353
+8,-108.03833,44.38,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.5,102,"female",6.5,166,12.2373373019797,88.6340923265037,"Summer",31578
+7,-104.729165,40.580162,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",9.5,102,"male",10.9,224,9.61512381930706,87.1730573600529,"Summer",31848
+7,-105.03667,39.83667,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",9.6,99,"male",12.4,232,8.81821032485239,67.4880933300479,"Summer",31526
+7,-104.9388853,39.2587106,NA,2000,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.6,97,"female",9.1,503,8.67351856183085,66.8565440054988,"Summer",31822
+7,-104.617524,38.230711,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",9.6,102,"male",12.8,149,9.38368587528699,78.1790229247791,"Summer",31842
+7,-104.9388853,39.2587106,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.7,104,"male",8.7,511,8.35320660621181,80.5993121075851,"Summer",31707
+7,-104.919172,39.72104,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.8,95,"male",10.4,476,8.80075754315123,99.5389671593086,"Summer",31262
+7,-105.098258,40.587933,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.8,100,"female",9,426,9.00589032833848,65.9365014618421,"Summer",31282
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.8,96,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31339
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.8,80,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31626
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.8,81,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31631
+8,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.9,115,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31258
+7,-105.022651,40.576891,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.9,112,"male",8.1,527,9.50275877008484,72.7950263941376,"Summer",31332
+6,-106.95556,44.79722,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",9.9,114,"undetermined",6.4,390,9.87185699886605,75.7050418533838,"Summer",31583
+7,-104.941066,39.73262,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",9.9,97,"female",12.5,250,8.86477537359196,69.6137917369827,"Summer",31837
+7,-105.037015,40.544939,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",10,86,"male",10.7,233,9.41106698617016,79.6191235070641,"Summer",31302
+7,-105.210013,40.056912,"adult",2011,"Eptesicus fuscus","Eptesicus_fuscus",10,120,"female",10.3,449,9.55143571629021,64.2268706157392,"Summer",31317
+7,-105.08389,40.58528,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10,60,NA,7.9,553,9.37292603322156,76.4193426173196,"Summer",31331
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10,99,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31558
+4,-121.8862607,37.5942623,NA,2005,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",10,97,"male",15.6,620,4.16219456973886,119.642832383884,"Spring",31655
+5,-108.4833333333,32.5333333333,NA,1995,"Eptesicus fuscus","Eptesicus_fuscus",10,105,"male",13.3,334,7.02741385251683,95.7314606825747,"Spring",31818
+7,-105.08389,40.58528,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",10,102,"male",10.6,242,9.32058653376134,83.2771258676724,"Summer",31843
+7,-106.317307,42.858114,"juvenile",1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.1,96,"female",7.7,233,9.57518889757494,100.766762592224,"Summer",31573
+8,-105.027161,39.711662,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.1,105,"undetermined",10.7,413,8.74828121646899,79.1609012635382,"Summer",31709
+7,-104.961353,39.726287,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.1,99,"female",9.6,584,9.15676186644536,67.338909399723,"Summer",31856
+6,-104.70861,40.42333,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",10.2,109,"male",11.3,216,9.77012685628384,77.4524219475694,"Summer",31290
+7,-104.671256,38.693591,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",10.2,85,"undetermined",11.1,359,9.70764693892959,93.0213503869347,"Summer",31305
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.2,102,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31554
+11,-105.10139,40.16722,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",10.2,89.5,"male",9.4,334,10.0213408647382,73.0360419753045,"Fall",31833
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",10.2,104,"male",10.3,452,7.82983319610245,139.415306118554,"Spring",31897
+5,-107.58601,33.09397,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",10.3,110,"female",14.6,318,8.04899297296176,141.966536483689,"Spring",31423
+8,-122.7169,46.5753,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",10.3,70,"male",11.4,1589,4.95237928737901,72.8271422081497,"Summer",31455
+2,-76.451,42.4799,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",10.3,103,"male",9.2,1318,10.0593202674149,50.0417496199746,"Winter",31470
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.3,86,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31628
+11,-105.27,40.015,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",10.3,102,"male",9.9,430,9.5834611322177,66.0854291853907,"Fall",31719
+7,-104.611811,38.281261,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.3,13,"male",10.2,402,9.63703399612268,84.5409239621781,"Summer",31748
+6,-122.5897,48.8467,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",10.35,115,"male",10.1,697,5.69009639370872,53.6210875176889,"Summer",31701
+8,-108.0551111111,39.1627222222,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.4,106,"male",8.3,490,8.72920472617724,57.141806206251,"Summer",31268
+8,-110.9625,41.26833,"adult",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.4,110,"female",5,361,8.80380427411751,52.8722512251693,"Summer",31584
+7,-104.753856,40.037632,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",10.4,111,"male",12,210,9.27468042412767,70.8449026158907,"Summer",31732
+9,-105.10139,40.16722,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.5,110,NA,8.7,519,9.48138127643282,71.8701293242313,"Fall",31278
+11,-104.629209,38.252519,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",10.5,116,"female",11.1,278,10.0688538663454,129.338281979878,"Fall",31291
+7,-123.2311,46.8406,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",10.5,86,"male",11.7,1752,4.83067063541687,76.9322608817554,"Summer",31450
+7,-104.709812,40.41477,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.5,117,"female",9.6,366,9.45515732285825,66.3108378118821,"Summer",31478
+5,-105.04944,40.05028,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",10.5,111,"male",12,193,9.18253860060033,64.5314611259971,"Spring",31518
+11,-104.620814,38.262579,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",10.5,98,"male",11.1,274,10.1341307501239,127.163841339702,"Fall",31521
+1,-104.3202188867,38.2830120544,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.5,110,"undetermined",11.1,299,9.41724321109791,81.4415574060766,"Winter",31592
+8,-105.031644,39.755377,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",10.5,102,"male",12.6,238,8.82290407766266,64.9203236761448,"Summer",31727
+2,-96.17921,38.41062,NA,1967,"Eptesicus fuscus","Eptesicus_fuscus",10.5,101,"male",12.5,1125,8.88578623250059,80.8637012621744,"Winter",31752
+10,-95.24,38.95,NA,1996,"Eptesicus fuscus fuscus","Eptesicus_fuscus",10.5,117,"male",12.4,1189,10.312668731402,82.8083503585179,"Fall",31763
+11,-104.60861,38.25444,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",10.5,100,"female",11.1,274,10.1047543565423,125.811823301205,"Fall",31828
+8,-112.4035,33.8475,NA,1978,"Eptesicus fuscus","Eptesicus_fuscus",10.5,92,"female",20.4,601,8.12129169454458,89.3728387893212,"Summer",31943
+5,-109.62972,43.53361,"adult",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.6,115,"male",3.5,370,8.48390186819077,58.030632311506,"Spring",31366
+11,-104.685192,38.253075,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",10.6,110,"female",11.1,273,10.0080270813286,125.575990952406,"Fall",31522
+9,-105.27,40.015,"adult",2012,"Eptesicus fuscus","Eptesicus_fuscus",10.6,109,"male",11.9,277,8.79773989571909,70.3271470758186,"Fall",31717
+8,-106.317307,42.858114,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.7,105,"female",7.7,233,9.57518889757494,100.766762592224,"Summer",31360
+7,-104.85556,39.37222,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.7,99,NA,8.1,618,8.85631088118763,72.458213579252,"Summer",31546
+7,-105.1124156934,39.6909836491,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.7,105,"male",9.3,596,8.87330009328291,67.7384019586343,"Summer",31569
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",10.7,113,"male",10.3,452,7.82983319610245,139.415306118554,"Spring",31900
+5,-110.71111,32.3875,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",10.7,104,"male",10.4,812,7.26592295332371,97.2721890658975,"Spring",31924
+7,-104.702584,40.438931,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.8,109,"female",8.6,473,9.94973351249655,73.8765867456703,"Summer",31356
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",10.8,86,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31630
+7,-105.248583,39.978058,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",10.8,92,"female",10.2,514,9.29824030272786,61.5110068871919,"Summer",31740
+12,-95.23,38.97,NA,2002,"Eptesicus fuscus fuscus","Eptesicus_fuscus",10.8,96,"male",13.5,654,9.95901829773123,87.50921495116,"Winter",31770
+7,-113.14583,36.40222,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",10.9,109,"female",8,261,8.62959583308652,93.3116164141013,"Summer",31798
+10,-109.20333,31.8825,NA,1956,"Eptesicus fuscus","Eptesicus_fuscus",10.9,119,"female",12.6,229,7.29945514778641,127.20975525993,"Fall",31914
+7,-104.961325,39.726056,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11,110,"female",9.6,584,9.15676186644536,67.338909399723,"Summer",31335
+6,-109.008874,40.499855,NA,1989,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11,104,"female",8.1,171,10.7248083969605,49.1666955461516,"Summer",31384
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11,88,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31397
+6,-122.11044,47.64753,"unknown",1991,"Eptesicus fuscus","Eptesicus_fuscus",11,114,"male",11.1,892,5.19203206554977,67.7212961524301,"Summer",31434
+7,-104.986166,39.669653,NA,1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11,112,"male",11.1,444,7.45513347643858,87.1609456723379,"Summer",31509
+8,-105.120166,40.540722,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",11,94,"male",10.4,250,9.21485543055672,82.9935183918956,"Summer",31731
+9,-110.7145,31.8682,NA,1976,"Eptesicus fuscus","Eptesicus_fuscus",11,122,"male",16.2,454,6.29752236032456,84.5808057846336,"Fall",31802
+3,-112.97472,32.00861,NA,1979,"Eptesicus fuscus","Eptesicus_fuscus",11,113,"female",21.6,277,8.01076926658259,144.950885600822,"Spring",31805
+5,-108.27167,33.22722,NA,2001,"Eptesicus fuscus","Eptesicus_fuscus",11,113,"female",12.7,391,7.93144871936261,91.2881074987125,"Spring",31812
+7,-104.961353,39.726287,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11,104,"male",9.6,584,9.15676186644536,67.338909399723,"Summer",31857
+7,-113.14583,36.40222,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",11,113,"female",8,261,8.62959583308652,93.3116164141013,"Summer",31928
+4,-112.69111,32.01583,NA,1982,"Eptesicus fuscus","Eptesicus_fuscus",11,109,"male",18.8,457,6.90329302184505,91.3302693315903,"Spring",31949
+8,-122.3414,48.9203,"unknown",1994,"Eptesicus fuscus","Eptesicus_fuscus",11.05,107,"male",10.8,1066,5.6212799146447,56.8246363749394,"Summer",31703
+7,-122.9531,46.7164,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",11.1,102,"female",11.8,1443,4.90849603578666,75.7915831815276,"Summer",31453
+7,-105.042814,39.607671,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.1,104,"male",9.6,580,8.97408727527443,70.2373269160643,"Summer",31551
+8,-108.0478179716,44.3735317595,"juvenile",1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.1,102,"male",6.5,170,12.1692110249472,87.795696382226,"Summer",31750
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.2,105,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31329
+7,-104.977843,39.689142,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.2,105,"female",9.7,571,9.15653020824731,69.5945064148045,"Summer",31352
+8,-104.700941,40.402922,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.2,110,"male",8.6,483,9.80950374057544,72.5986942739956,"Summer",31475
+7,-104.948094,39.726691,NA,1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.2,109,"female",10.9,455,7.47656439492867,85.5672295724002,"Summer",31510
+11,-105.10139,40.16722,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",11.2,106,"male",9.4,334,10.0213408647382,73.0360419753045,"Fall",31512
+11,-105.61528,40.25472,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",11.2,110,"male",-4.1,1312,8.39062879140482,61.3267653808048,"Fall",31517
+7,-105.235149,39.994107,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",11.2,85,"male",10.4,500,9.41135275112248,62.762582947022,"Summer",31741
+11,-105.273487,40.002111,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",11.3,103,"female",9.7,448,9.47511893265086,65.973643981168,"Fall",31289
+7,-105.041871,40.399088,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",11.3,91,"undetermined",11,228,9.37432017737173,77.6031932644426,"Summer",31309
+7,-105.08389,40.58528,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.3,110,"male",7.9,553,9.37292603322156,76.4193426173196,"Summer",31550
+7,-104.926566,39.73747,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.4,97,"female",10.5,449,8.82889110714467,97.9498944265986,"Summer",31265
+5,-104.693006,40.422011,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.4,108,"female",9.7,361,9.54342546976554,67.493563274526,"Spring",31476
+5,-104.637955,38.241226,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",11.4,112,"female",12.8,149,9.39443742570328,79.4679832965102,"Spring",31519
+7,-104.76083,39.51861,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",11.4,112,"male",11.7,276,8.74335678551367,64.4353640231299,"Summer",31839
+8,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.5,111,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31261
+7,-105.07444,40.39778,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",11.5,111,"male",10.9,233,9.3319709503503,75.4197835842313,"Summer",31730
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.6,106,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31348
+8,-104.506848,38.240246,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",11.6,105,"male",12.8,146,9.5576242768892,76.9038517608848,"Summer",31725
+8,-105.06861,39.92139,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",11.6,111,"male",12.2,219,8.87944084371137,71.5724630828528,"Summer",31853
+4,-108.569913,39.084146,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.7,101,"male",11.4,200,9.72189032622522,44.778241469389,"Spring",31490
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.7,111,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31549
+7,-104.20444,43.85472,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.7,100,NA,6.3,553,11.1542456925467,77.4725602091632,"Summer",31572
+11,-105.27,40.015,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",11.7,109,"female",9.9,430,9.5834611322177,66.0854291853907,"Fall",31718
+1,-104.83139,39.72944,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",11.7,105,"male",10.2,372,9.50646908928097,61.4675628349029,"Winter",31724
+11,-105.10139,40.16722,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",11.7,115,"male",9.4,334,10.0213408647382,73.0360419753045,"Fall",31823
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",11.7,114,"male",10.3,452,7.82983319610245,139.415306118554,"Spring",31898
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",11.7,113,"female",10.3,452,7.82983319610245,139.415306118554,"Spring",31901
+8,-121.6694,46.6067,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",11.75,102,"male",10.2,1895,5.51155123079673,89.8301733072833,"Summer",31683
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.8,101,NA,8.6,479,9.88065143233343,73.2814252239215,"Summer",31565
+7,-104.70861,40.42333,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",11.8,110,"female",11.3,216,9.77012685628384,77.4524219475694,"Summer",31738
+4,-110.805747,32.250695,NA,1954,"Eptesicus fuscus","Eptesicus_fuscus",11.8,115,"male",20.8,337,6.87901397973091,99.8241011167638,"Spring",31908
+7,-122.8994,47.0381,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",11.85,114,"male",11.7,1496,4.946348515457,80.8041000017187,"Summer",31464
+7,-104.69312,40.416486,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",11.9,105,"male",11.3,215,9.78276158568858,76.7610310786397,"Summer",31320
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.9,99,NA,8.6,479,9.88065143233343,73.2814252239215,"Summer",31355
+6,-108.0551111111,39.1627222222,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",11.9,113,"female",8.3,490,8.72920472617724,57.141806206251,"Summer",31503
+7,-122.9531,46.7164,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",11.95,105,"male",11.8,1443,4.90849603578666,75.7915831815276,"Summer",31452
+6,-122.6114,48.5128,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",11.95,100,"male",11.3,793,4.52771766707325,74.7415055245967,"Summer",31460
+6,-104.986369,39.73457,NA,1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12,101,"male",11.1,422,7.48830906996184,86.6489476459581,"Summer",31286
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12,110,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31344
+6,-104.81972,41.14,"adult",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12,107,"female",6.6,519,9.13933805042794,83.314767095959,"Summer",31365
+8,-117.0560126,33.1308955,NA,1989,"Eptesicus (Eptesicus) fuscus pallidus Young, 1908","Eptesicus_fuscus",12,107,"female",17.4,164,4.12538336143296,97.7381982364943,"Summer",31368
+7,-108.814723,40.491992,NA,1982,"Eptesicus fuscus","Eptesicus_fuscus",12,101,"male",6.5,304,10.3601070545539,74.7698559066701,"Summer",31376
+8,-105.021734,39.773202,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12,114,"male",9.8,573,9.18461741008829,65.8896325705847,"Summer",31488
+8,-104.638014,39.418422,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12,103,"female",7.8,679,8.80447544597564,80.9261427401453,"Summer",31498
+8,-108.0551111111,39.1627222222,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12,104,"male",8.8,534,8.56589431726457,47.5221798338724,"Summer",31543
+7,-108.6733286,40.4570998,NA,1987,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12,115,"male",7.9,319,9.56994585336634,50.6662942010777,"Summer",31607
+8,-121.5789454,39.806551,NA,2005,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",12,115,"male",14.9,2119,6.68267774310432,145.857302752287,"Summer",31656
+11,-104.60861,38.25444,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",12,113,"female",11.1,274,10.1047543565423,125.811823301205,"Fall",31715
+8,-105.00684,39.774051,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",12,99,"female",12.7,226,8.91153066469946,65.1422743035383,"Summer",31728
+8,-104.985179,39.791235,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",12,110,"male",12.6,219,8.97546740574078,67.1005166808943,"Summer",31729
+6,-108.48,32.5583333333,NA,1995,"Eptesicus fuscus","Eptesicus_fuscus",12,99,"female",13.3,334,7.03334051414254,96.0618584910756,"Summer",31779
+8,-110.7652,31.8392,NA,1975,"Eptesicus fuscus","Eptesicus_fuscus",12,116,"male",14.1,504,6.78359764208469,134.280070123129,"Summer",31801
+11,-105.10139,40.16722,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",12,123,"female",9.4,334,10.0213408647382,73.0360419753045,"Fall",31832
+9,-94.883611,40.353256,NA,1976,"Eptesicus fuscus fuscus","Eptesicus_fuscus",12,105,"male",10.8,630,10.5460318546261,78.5845299995465,"Fall",31874
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",12,115,"male",10.3,452,7.82983319610245,139.415306118554,"Spring",31899
+7,-106.778337,32.312316,NA,1962,"Eptesicus fuscus","Eptesicus_fuscus",12,101,"female",16.3,177,8.08346610325201,88.6284166812541,"Summer",31909
+6,-110.8495,31.9699,NA,1981,"Eptesicus fuscus","Eptesicus_fuscus",12,146,"female",19.6,289,6.9281321545937,92.6769396965348,"Summer",31947
+7,-111.0452,34.5434,NA,1993,"Eptesicus fuscus","Eptesicus_fuscus",12,100,"female",8.2,678,7.20290345498384,110.612067330811,"Summer",31952
+7,-105.037015,40.544939,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",12.1,110,"female",10.7,233,9.41106698617016,79.6191235070641,"Summer",31301
+7,-104.516715,40.407411,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",12.1,96,"female",11.4,213,9.98457522502797,79.2063570912139,"Summer",31313
+6,-105.084142,40.180301,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",12.1,111,"undetermined",9.6,396,9.81467670317667,60.7243857142947,"Summer",31316
+8,-105.083621,40.502831,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.1,103,"male",9.1,415,9.05331012627007,63.0756509308662,"Summer",31501
+7,-108.21139,43.64611,"adult",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.1,108,"male",7.8,341,10.5760306468176,51.7307274338251,"Summer",31586
+9,-95.46,39.34,NA,2003,"Eptesicus fuscus fuscus","Eptesicus_fuscus",12.1,105,"female",12.7,744,10.299720502239,79.6359135366272,"Fall",31769
+8,-105.17028,40.10389,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",12.2,107,"male",11.7,221,9.12437627590196,68.2763804043798,"Summer",31831
+3,-97.60671,38.83123,NA,1961,"Eptesicus fuscus","Eptesicus_fuscus",12.2,NA,"male",11.7,810,10.1788997440784,72.1736001400561,"Spring",31864
+5,-117.9044,48.5467,"unknown",1994,"Eptesicus fuscus","Eptesicus_fuscus",12.25,102,"male",9.3,412,8.87606160957492,61.2458940044237,"Spring",31463
+8,-104.88038,39.65907,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.3,109,"male",9.3,643,9.12223391035066,72.27585228304,"Summer",31484
+8,-105.017064,39.616538,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.3,96,"male",10.6,420,8.67947771086102,84.79157027447,"Summer",31493
+2,-95.24,38.95,NA,2004,"Eptesicus fuscus fuscus","Eptesicus_fuscus",12.3,96,"male",13,1061,9.51042091921309,65.8327092234223,"Winter",31768
+3,-104.82083,38.83389,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",12.3,114,"male",9.8,366,9.24800961386729,108.483715956426,"Spring",31835
+7,-104.6925,40.41,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.4,111,"female",8.6,477,9.88065143233343,72.7514227642512,"Summer",31349
+7,-111.5381,35.2411,"unknown",1988,"Eptesicus fuscus","Eptesicus_fuscus",12.4,106,"male",9.5,419,7.9537441154808,82.6404996483058,"Summer",31432
+7,-104.696775,40.410073,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",12.4,111,"male",11.4,216,9.77012685628384,76.423967983839,"Summer",31536
+7,-105.0427795,39.6678543,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.4,107,"male",9.5,584,8.94245492021067,67.3319963566926,"Summer",31745
+8,-110.64167,31.78528,NA,1989,"Eptesicus fuscus","Eptesicus_fuscus",12.4,111,"female",17,309,6.94877360010056,124.702123557357,"Summer",31809
+5,-104.22722,39.71139,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.5,109,"male",9.9,433,9.23141458019924,99.3866162604579,"Spring",31279
+7,-104.939125,39.753732,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.5,102,"female",9.6,577,9.23761660852303,69.7895465530534,"Summer",31334
+12,-121.4022536,39.6447026,NA,2006,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",12.5,104,"male",15,1784,7.22336276930418,120.287855588335,"Winter",31426
+7,-104.692383,40.397786,NA,1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.5,100,"male",10.1,393,8.18573685619003,92.7885660493847,"Summer",31511
+11,-105.141668,39.983727,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",12.5,114,"male",10.1,366,9.55503992031367,64.428702894154,"Fall",31516
+5,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.5,101,"female",8.6,479,9.88065143233343,73.2814252239215,"Spring",31563
+3,-112.97472,32.00861,NA,1979,"Eptesicus fuscus","Eptesicus_fuscus",12.5,103,"male",21.6,277,8.01076926658259,144.950885600822,"Spring",31806
+9,-123.113521,49.261096,NA,1947,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",12.5,112,"female",10.2,1369,5.53163765547918,69.015746882177,"Fall",31813
+7,-103.81667,40.26667,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",12.5,107,"male",11.3,198,10.1972478461771,81.5366395217589,"Summer",31849
+7,-104.85056,40.52417,"adult",2012,"Eptesicus fuscus","Eptesicus_fuscus",12.5,110,"male",11,217,9.61696732894838,83.9692194792651,"Summer",31851
+9,-94.883611,40.353256,NA,1968,"Eptesicus fuscus fuscus","Eptesicus_fuscus",12.5,97,"male",10.4,807,10.7504862469311,79.4714076052439,"Fall",31868
+3,-95.98,41.28,NA,1979,"Eptesicus fuscus fuscus","Eptesicus_fuscus",12.5,NA,"male",8.9,726,12.6396562093638,57.9953069344302,"Spring",31883
+9,-120.3092,47.4236,"unknown",1994,"Eptesicus fuscus","Eptesicus_fuscus",12.55,113,"male",12.3,233,9.06536448982242,76.0612944005771,"Fall",31677
+7,-105.051046,40.559282,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.6,102,"male",9.1,411,9.08519858524476,64.7981436148604,"Summer",31273
+7,-105.032568,39.764623,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.6,106,"male",10.6,423,8.7362489350147,75.3983830081545,"Summer",31483
+11,-105.27,40.015,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",12.6,107,"male",9.9,430,9.5834611322177,66.0854291853907,"Fall",31513
+11,-105.08917,39.99361,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",12.6,108,"female",10.2,323,9.72324612212995,63.505289627712,"Fall",31710
+5,-104.94358,40.650416,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.6,120,"female",7.6,553,9.37056561793364,80.824512087769,"Spring",31855
+7,-104.977155,40.482994,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.7,101,"male",9.3,378,9.22452265333107,63.6612539867515,"Summer",31500
+7,-105.10139,40.16722,NA,1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.7,101,"female",10.1,390,7.86412548837884,84.7419257626855,"Summer",31506
+6,-104.98417,39.73917,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.7,104,"male",10.7,361,8.78915912825671,79.9692202373865,"Summer",31542
+8,-85.5998,42.3544,"unknown",1986,"Eptesicus fuscus","Eptesicus_fuscus",12.7,104,"male",9.6,1130,9.87587740636013,69.8730882153328,"Summer",31661
+4,-86.9086,40.4267,"unknown",1970,"Eptesicus fuscus","Eptesicus_fuscus",12.7,116,"male",10.5,912,10.8778723131229,65.0460387486235,"Spring",31669
+3,-105.069293,40.4043599,NA,1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",12.7,111,"female",9.7,406,7.82840109066747,91.4865540475055,"Spring",31821
+7,-109.48955,36.14306,NA,1970,"Eptesicus fuscus","Eptesicus_fuscus",12.7,108,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",31938
+6,-110.7015,32.3271,"unknown",1951,"Eptesicus fuscus","Eptesicus_fuscus",12.8,111,"female",16.9,560,7.47182079955121,68.1704999882327,"Summer",31666
+7,-105.110905,40.146316,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",12.9,107,"male",11.5,213,9.28078415574107,67.9939763972892,"Summer",31300
+7,-113.14583,36.40222,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",12.9,120,"female",8,261,8.62959583308652,93.3116164141013,"Summer",31927
+6,-104.620395,38.250483,"adult",2011,"Eptesicus fuscus","Eptesicus_fuscus",13,116,"female",11.4,259,10.6113004372554,79.3558621719872,"Summer",31318
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,110,"male",9.7,292,9.36015086643502,124.695769084342,"Summer",31372
+7,-108.6733286,40.4570998,NA,1987,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,110,"male",7.9,319,9.56994585336634,50.6662942010777,"Summer",31379
+7,-108.745984,40.454647,NA,1987,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,104,"male",7.7,350,9.47038445989295,52.2190334864217,"Summer",31381
+5,-104.96653,39.71715,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,111,"female",10.6,425,8.82346647333465,93.3166350913448,"Spring",31486
+5,-105.0137067407,39.5966655149,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,122,"male",10.4,432,8.66995421329352,84.7273967619984,"Spring",31495
+6,-106.026409,26.787519,NA,1963,"Eptesicus (Eptesicus) fuscus Beauvois, 1796","Eptesicus_fuscus",13,NA,"female",15.7,469,4.87450852223415,135.493337600694,"Summer",31599
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,110,"male",9.7,292,9.36015086643502,124.695769084342,"Summer",31601
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,105,"female",9.7,292,9.36015086643502,124.695769084342,"Summer",31603
+7,-108.745984,40.454647,NA,1987,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,110,"male",7.7,350,9.47038445989295,52.2190334864217,"Summer",31608
+6,-109.008874,40.499855,NA,1989,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,108,"female",8.1,171,10.7248083969605,49.1666955461516,"Summer",31610
+7,-108.990119,40.606183,NA,1990,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13,116,"male",6.9,307,10.1247671129221,51.1868671729463,"Summer",31611
+6,-103.350226,36.88718,NA,1971,"Eptesicus fuscus","Eptesicus_fuscus",13,121,"male",10.9,433,8.24648226196902,84.4067856209992,"Summer",31654
+7,-94.883611,40.353256,NA,1977,"Eptesicus fuscus fuscus","Eptesicus_fuscus",13,102,"male",11,1201,11.9187273064728,78.0624176432321,"Summer",31884
+8,-121.6066667,39.7595,NA,2005,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",13,112,"female",15.9,1965,6.67598591061934,149.125929993884,"Summer",31904
+6,-112.7725,34.695,NA,1970,"Eptesicus fuscus","Eptesicus_fuscus",13,116,"male",12.9,571,7.40263568950378,132.959016846754,"Summer",31939
+8,-104.7700182324,38.8745288393,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.1,120,"female",9,463,8.44149204103089,91.4539247878286,"Summer",31269
+8,-105.083485,40.309052,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.1,115,"male",9.3,394,9.08796656924069,62.8310759171601,"Summer",31281
+5,-104.967792,39.704779,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.1,119,"male",9.7,576,9.14795887152711,68.4826067278577,"Spring",31340
+6,-105.054021,40.58256,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.1,99,"male",8,535,9.44894975725617,73.9628016897287,"Summer",31354
+6,-107.6579,33.1099,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",13.1,111,"female",13.6,347,7.96097964886841,145.80206566499,"Summer",31642
+8,-105.08917,39.99361,"adult",2012,"Eptesicus fuscus","Eptesicus_fuscus",13.1,118.5,"male",12.2,214,9.00899802722508,66.2736172231433,"Summer",31716
+4,-96.17921,38.41062,NA,1967,"Eptesicus fuscus","Eptesicus_fuscus",13.1,98,"female",12.5,1125,8.88578623250059,80.8637012621744,"Spring",31867
+4,-123.5,44.18,NA,1972,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.1,109,"female",10.7,1673,5.98776530379518,91.2082470715782,"Spring",31878
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",13.1,123,"female",10.3,452,7.82983319610245,139.415306118554,"Spring",31896
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",13.1,124,"male",10.3,452,7.82983319610245,139.415306118554,"Spring",31903
+7,-105.1124156934,39.6909836491,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.2,111,"female",9.3,596,8.87330009328291,67.7384019586343,"Summer",31345
+8,-122.7569,48.0319,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",13.2,114,"male",11.1,688,4.35375143010617,62.4088983973188,"Summer",31451
+8,-108.38889,44.8375,"juvenile",1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.2,110,"male",6.4,168,11.7509638547292,80.4741638413165,"Summer",31580
+8,-120.4686,47.5225,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",13.25,103,"undetermined",11.2,331,8.70037877963316,77.9543549644515,"Summer",31676
+7,-105.25311,40.036024,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",13.3,124,"female",10.3,489,9.46628787120939,66.2380421655577,"Summer",31306
+4,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",13.3,109,"male",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31447
+8,-104.7091331,40.4233131,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.3,100,"male",9.6,363,9.51500808133544,66.6115888909785,"Summer",31474
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.3,119,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31555
+7,-105.27,40.015,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",13.3,114,"male",11.9,277,8.79773989571909,70.3271470758186,"Summer",31723
+7,-113.14583,36.40222,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",13.3,120,"female",8,261,8.62959583308652,93.3116164141013,"Summer",31797
+5,-110.79833,32.55194,NA,1958,"Eptesicus fuscus","Eptesicus_fuscus",13.3,112,"male",17.5,503,7.58972091953081,89.6678073055124,"Spring",31917
+7,-109.48955,36.14306,NA,1970,"Eptesicus fuscus","Eptesicus_fuscus",13.3,111,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",31935
+7,-105.041871,40.399088,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",13.4,100.5,"female",11,228,9.37432017737173,77.6031932644426,"Summer",31310
+8,-122.2361,48.5039,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",13.4,114,"male",11.2,1204,4.98640576209382,71.1286812737288,"Summer",31461
+8,-108.659846,39.097812,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",13.4,108,"male",12.3,131,10.2108082961441,81.6803246321047,"Summer",31530
+9,-122.604,47.0901,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",13.45,106,"male",10.4,750,5.51106325329497,73.2662281835236,"Fall",31458
+8,-104.966881,40.220952,"adult",2012,"Eptesicus fuscus","Eptesicus_fuscus",13.5,113.5,"female",11.3,215,9.44067200355927,72.4002184516062,"Summer",31295
+6,-107.95472,44.01694,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.5,107,"male",6.6,183,11.9278989234179,89.813761309533,"Summer",31361
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.5,109,"male",9.7,292,9.36015086643502,124.695769084342,"Summer",31373
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.5,105,"female",9.7,292,9.36015086643502,124.695769084342,"Summer",31375
+7,-121.8373333,39.7285,NA,2005,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",13.5,104,"female",16.6,844,6.80552360330574,144.226041218488,"Summer",31425
+12,-122.43394,47.26009,"unknown",1990,"Eptesicus fuscus","Eptesicus_fuscus",13.5,112,"male",11.3,1133,5.88379258229887,81.9462927405531,"Winter",31437
+4,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",13.5,117,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31444
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.5,104,"female",9.7,292,9.36015086643502,124.695769084342,"Summer",31605
+7,-105.27633,40.007704,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",13.5,87,"male",10,535,9.20818147413516,60.5453267128047,"Summer",31739
+3,-104.87222,39.09167,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",13.5,112,"female",7.8,452,9.05308837308623,72.7303454102848,"Spring",31834
+6,-96.99,37.23,NA,1953,"Eptesicus fuscus fuscus","Eptesicus_fuscus",13.5,105,"male",15.3,589,9.38568784712321,59.766182048069,"Summer",31881
+9,-113.01694,31.94444,NA,1979,"Eptesicus fuscus","Eptesicus_fuscus",13.5,106,"male",21.9,271,8.14703887459993,146.168427457089,"Fall",31942
+6,-105.084142,40.180301,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",13.6,111,"female",9.6,396,9.81467670317667,60.7243857142947,"Summer",31288
+3,-104.82083,38.83389,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",13.6,64,"male",9.8,366,9.24800961386729,108.483715956426,"Spring",31721
+6,-112.23028,36.70722,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",13.6,121,"male",6.9,411,8.62559176713884,79.9607089443688,"Summer",31794
+8,-104.77722,40.28194,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",13.6,112,"female",11.4,213,9.69268311978711,76.1227006916138,"Summer",31830
+7,-104.960652,39.749217,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.6,110,"female",9.7,551,9.21692695122634,69.0133744270078,"Summer",31859
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",13.6,121,"female",10.3,452,7.82983319610245,139.415306118554,"Spring",31902
+7,-105.068762,40.518352,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.7,115,NA,9.1,412,9.06352580401248,63.7958242597702,"Summer",31283
+6,-104.977743,39.717844,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.7,108,"male",9.7,558,9.19044299390636,69.4375259192967,"Summer",31336
+4,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",13.7,114,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31674
+8,-105.416405,39.693224,NA,1984,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.7,106,"male",4.8,606,7.969867494431,71.5491733400763,"Summer",31742
+7,-106.778337,32.312316,NA,1962,"Eptesicus fuscus","Eptesicus_fuscus",13.7,101,"male",16.3,177,8.08346610325201,88.6284166812541,"Summer",31910
+10,-108.8679,33.2309,"adult",2009,"Eptesicus fuscus","Eptesicus_fuscus",13.8,106,"female",14.6,356,7.49767640773803,63.0179471537454,"Fall",31401
+6,-100.444778,42.876972,"juvenile",1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.8,98,"male",9.6,575,10.6897005088869,87.4142798010217,"Summer",31629
+4,-104.70861,40.42333,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",13.8,111,"female",11.3,216,9.77012685628384,77.4524219475694,"Spring",31825
+4,-123.5,44.18,NA,1972,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.8,114,"female",10.7,1673,5.98776530379518,91.2082470715782,"Spring",31879
+8,-110.939977,32.285643,NA,1962,"Eptesicus fuscus","Eptesicus_fuscus",13.8,110,"female",19.9,247,7.65298020777567,106.477262302229,"Summer",31923
+10,-110.80917,32.32222,NA,1965,"Eptesicus fuscus","Eptesicus_fuscus",13.8,106,"female",18.7,481,6.9143406092415,127.210284509209,"Fall",31930
+6,-105.10139,40.16722,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",13.9,110,"male",9.7,371,9.13309002108998,61.5025359078995,"Summer",31277
+7,-104.607867,40.320286,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",13.9,102,"female",11.3,213,9.71965752607788,75.053857058158,"Summer",31312
+5,-86.8755,40.4171,"unknown",1948,"Eptesicus fuscus","Eptesicus_fuscus",13.9,114,"male",11,938,10.1225633057437,33.366596569879,"Spring",31429
+1,-95.24,38.95,NA,2003,"Eptesicus fuscus fuscus","Eptesicus_fuscus",13.9,101,"male",13,786,10.2380159062667,77.7064479345478,"Winter",31767
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",13.9,124,"female",10.3,452,7.82983319610245,139.415306118554,"Spring",31776
+9,-94.872,40.346,NA,1977,"Eptesicus fuscus fuscus","Eptesicus_fuscus",13.9,106,"female",11,1203,11.9225118108051,77.4769087597924,"Fall",31887
+8,-104.60861,38.25444,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,104,"male",11.2,336,9.18963101445418,83.7774417975776,"Summer",31271
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,111,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31342
+8,-117.0560126,33.1308955,NA,1989,"Eptesicus (Eptesicus) fuscus pallidus Young, 1908","Eptesicus_fuscus",14,108,"female",17.4,164,4.12538336143296,97.7381982364943,"Summer",31371
+7,-108.6733286,40.4570998,NA,1987,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,118,"male",7.9,319,9.56994585336634,50.6662942010777,"Summer",31377
+7,-108.745984,40.454647,NA,1987,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,115,"male",7.7,350,9.47038445989295,52.2190334864217,"Summer",31380
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,113,"male",9.7,292,9.36015086643502,124.695769084342,"Summer",31600
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,107,"female",9.7,292,9.36015086643502,124.695769084342,"Summer",31604
+7,-109.076911,40.50316,NA,1990,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,115,"male",6.7,310,10.1918379405317,57.389186785235,"Summer",31612
+7,-110.014129,37.582337,NA,1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,115,"female",9.8,260,9.86433735813772,57.8250221780073,"Summer",31613
+7,-110.011538,37.615642,NA,1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,116,"female",9.9,256,9.83054916928332,58.5381253901617,"Summer",31615
+7,-110.011538,37.615642,NA,1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,120,"female",9.9,256,9.83054916928332,58.5381253901617,"Summer",31616
+7,-104.912219,40.33524,"adult",2012,"Eptesicus fuscus","Eptesicus_fuscus",14,113.5,"male",11.2,215,9.53714826191231,77.0528991698729,"Summer",31733
+7,-104.978604,39.563762,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14,105,"male",9.1,621,8.96128034683356,68.9321498486353,"Summer",31744
+6,-106.1,26.733333,NA,1963,"Eptesicus fuscus","Eptesicus_fuscus",14,114,"male",15.9,480,4.84194895646058,131.801331211376,"Summer",31791
+7,-112.72417,32.06833,NA,1979,"Eptesicus fuscus","Eptesicus_fuscus",14,116,"male",20.2,373,7.84730700767641,144.710916182345,"Summer",31804
+6,-104.70861,40.42333,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",14,98,"male",11.3,216,9.77012685628384,77.4524219475694,"Summer",31824
+7,-105.07444,40.39778,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",14,112,"female",10.9,233,9.3319709503503,75.4197835842313,"Summer",31844
+7,-104.729165,40.580162,"adult",2012,"Eptesicus fuscus","Eptesicus_fuscus",14,101.5,"female",10.9,224,9.61512381930706,87.1730573600529,"Summer",31847
+6,-107.53924,33.17717,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",14.1,117,"male",14.5,288,8.21379106359321,146.731459158913,"Summer",31414
+5,-107.89439,33.43887,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",14.1,122,"female",10.3,452,7.82983319610245,139.415306118554,"Spring",31775
+7,-104.98417,39.73917,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",14.2,109,"female",12.6,227,8.88260131158694,67.4386595568184,"Summer",31525
+7,-104.7700182324,38.8745288393,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.2,104,"male",8.1,604,8.54831190140114,89.6958243959814,"Summer",31567
+6,-122.4497196,38.57656,"unknown",1941,"Eptesicus fuscus","Eptesicus_fuscus",14.2,108,"male",14.2,1673,4.7809200965606,100.390208039402,"Summer",31668
+8,-120.8206,45.8208,"unknown",1994,"Eptesicus fuscus","Eptesicus_fuscus",14.2,112,"female",10,415,7.58165649126331,84.711795885881,"Summer",31681
+8,-104.77722,40.28194,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",14.2,106,"male",11.4,213,9.69268311978711,76.1227006916138,"Summer",31712
+7,-105.022416,39.764372,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.2,110,"male",9.7,568,9.13698362135829,66.2300459730596,"Summer",31747
+8,-104.83139,39.72944,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",14.2,107,"male",12.3,256,8.86024060826588,71.6532842408332,"Summer",31836
+8,-104.60861,38.290924,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",14.2,107,"male",13,145,9.51892453181683,77.5659673988596,"Summer",31841
+8,-95.1,39.53,NA,1963,"Eptesicus fuscus fuscus","Eptesicus_fuscus",14.2,118,"male",12.5,643,12.1608506231591,82.8391430105981,"Summer",31877
+7,-109.48955,36.14306,NA,1970,"Eptesicus fuscus","Eptesicus_fuscus",14.2,109,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",31936
+7,-105.099255,40.58752,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.3,105,"male",7.9,559,9.36124748874072,77.344613512074,"Summer",31556
+4,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",14.4,117,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31445
+6,-105.87167,42.86139,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.4,112,"female",7.8,221,9.8501922762344,103.270207948488,"Summer",31574
+8,-105.068937,40.57599,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",14.5,113,"male",10.6,239,9.33830089664943,82.3855194697366,"Summer",31304
+6,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.5,113,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31327
+6,-105.06861,39.92139,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",14.5,115,"female",12.2,219,8.87944084371137,71.5724630828528,"Summer",31531
+5,-94.872883,40.347881,NA,1969,"Eptesicus fuscus fuscus","Eptesicus_fuscus",14.5,111,"male",10.1,978,10.9678455661828,77.7367101800372,"Spring",31758
+9,-111.047132,32.324233,NA,1953,"Eptesicus fuscus","Eptesicus_fuscus",14.5,114,"male",20.3,153,7.98469653699368,176.320920671475,"Fall",31781
+6,-103.53,29.14,NA,1971,"Eptesicus fuscus fuscus","Eptesicus_fuscus",14.5,111,"female",21.5,313,6.71801625662237,124.286179309075,"Summer",31888
+7,-122.4431,47.2531,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",14.55,111,"undetermined",12,1117,4.79911608022927,78.3717305714875,"Summer",31459
+8,-105.409985,39.692739,NA,1985,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.6,102,"male",4.7,493,8.42637903469596,44.6103328217006,"Summer",31322
+7,-106.317307,42.858114,"juvenile",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.6,102,"female",7.5,342,9.61934209934559,58.3316331632582,"Summer",31363
+7,-104.700941,40.402922,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.7,115,"female",9.6,366,9.43637385414289,65.640800316156,"Summer",31255
+11,-105.10139,40.16722,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",14.7,109,"undetermined",9.4,334,10.0213408647382,73.0360419753045,"Fall",31524
+7,-119.8986422,47.4879807,"unknown",1984,"Eptesicus fuscus","Eptesicus_fuscus",14.7,106,"male",7.9,294,9.14459601970674,78.4651726496889,"Summer",31704
+6,-112.23028,36.70722,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",14.7,112,"male",6.9,411,8.62559176713884,79.9607089443688,"Summer",31795
+7,-104.978605,39.563849,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.7,111,"male",9.1,621,8.96128034683356,68.9321498486353,"Summer",31862
+8,-75.91,43.97,NA,1973,"Eptesicus fuscus fuscus","Eptesicus_fuscus",14.7,107,"female",8.4,1067,10.4922771021299,37.4467137755558,"Summer",31876
+7,-109.48955,36.14306,NA,1970,"Eptesicus fuscus","Eptesicus_fuscus",14.7,114,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",31937
+6,-124.0419,46.3092,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",14.75,112,"male",11,2006,3.31693313989677,73.4473623705383,"Summer",31457
+8,-104.935155,39.746554,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.8,113,"female",9.6,580,9.2264442082133,69.5076703642489,"Summer",31264
+7,-120.3092,47.4236,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",14.8,108,"male",11.3,335,8.47235701167823,81.7012423107967,"Summer",31448
+9,-103.62333,40.25889,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.8,100,"female",8.8,446,10.0510929603188,95.5511998418174,"Fall",31504
+5,-109.238808,31.344077,NA,1965,"Eptesicus fuscus","Eptesicus_fuscus",14.8,106,"female",17.2,271,6.65880597177129,118.463792078719,"Spring",31799
+11,-104.479804,38.274952,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",14.9,111,"female",11.2,256,10.2555084976541,125.418334077308,"Fall",31294
+7,-105.484586,39.837089,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",14.9,120,"male",5.6,353,7.77951369516973,70.3049924425651,"Summer",31529
+7,-105.093261,40.166929,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",14.9,105,"male",9.7,393,9.82806741383621,60.6386663081383,"Summer",31534
+7,-106.88754,36.50974,"juvenile",1998,"Eptesicus fuscus","Eptesicus_fuscus",14.9,NA,"male",7,426,8.34234815428322,99.1387776391772,"Summer",31639
+8,-104.975423,39.700935,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",14.9,110,"female",9.8,565,9.1696468984593,68.9251001139529,"Summer",31749
+7,-108.6733286,40.4570998,NA,1987,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15,115,"male",7.9,319,9.56994585336634,50.6662942010777,"Summer",31378
+7,-110.014129,37.582337,NA,1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15,117,"female",9.8,260,9.86433735813772,57.8250221780073,"Summer",31387
+5,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",15,117,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31441
+8,-104.764952,40.393338,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15,105,"male",8.4,494,9.72807168907995,74.7358416798518,"Summer",31480
+11,-105.27,40.015,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",15,115,"female",9.9,430,9.5834611322177,66.0854291853907,"Fall",31514
+10,-118.6016138,34.0886433,NA,1988,"Eptesicus (Eptesicus) fuscus bernardinus Rhoads, 1902","Eptesicus_fuscus",15,96,"male",18.6,384,3.76614705453247,126.569610872347,"Fall",31594
+7,-119.7281321,34.4258667,NA,1981,"Eptesicus (Eptesicus) fuscus bernardinus Rhoads, 1902","Eptesicus_fuscus",15,113,"female",15.7,339,2.75564159608259,151.052664408618,"Summer",31598
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15,109,"female",9.7,292,9.36015086643502,124.695769084342,"Summer",31606
+7,-107.32012,36.98967,NA,1998,"Eptesicus fuscus","Eptesicus_fuscus",15,NA,"male",8.6,471,8.22724133595217,92.9539619209639,"Summer",31640
+8,-108.1251111111,34.9877777778,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",15,113,"female",8.1,238,8.61128575906307,88.1949050854826,"Summer",31893
+7,-110.962221,32.190879,NA,1939,"Eptesicus fuscus","Eptesicus_fuscus",15,120,"female",19.4,208,7.66323375052279,86.88514242072,"Summer",31907
+4,-104.266667,20.336109,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",15,119,"female",18.8,901,2.28610758250522,121.879365318926,"Spring",31925
+7,-105.022374,39.764149,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.1,112,"male",9.7,568,9.13698362135829,66.2300459730596,"Summer",31337
+9,-106.17832,35.95652,NA,2010,"Eptesicus fuscus","Eptesicus_fuscus",15.1,104,"male",11.2,335,8.73748455584537,58.5856808760517,"Fall",31403
+11,-105.10139,40.16722,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",15.1,110,"female",9.4,334,10.0213408647382,73.0360419753045,"Fall",31720
+7,-105.08389,40.58528,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.2,75,NA,7.9,553,9.37292603322156,76.4193426173196,"Summer",31562
+9,-104.9388853,39.2587106,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.2,111,"male",8.7,511,8.35320660621181,80.5993121075851,"Fall",31820
+4,-110.991787,32.133804,NA,1958,"Eptesicus fuscus","Eptesicus_fuscus",15.2,121,"female",20.2,307,7.68071177257247,78.3614912694247,"Spring",31916
+7,-106.95556,44.79722,"adult",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.3,112,"male",6.4,390,9.87185699886605,75.7050418533838,"Summer",31585
+12,-95.24,38.95,NA,2000,"Eptesicus fuscus fuscus","Eptesicus_fuscus",15.3,111,"female",13.4,714,11.0585494144357,80.2711253099164,"Winter",31766
+11,-104.60861,38.25444,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",15.3,116,"female",11.1,274,10.1047543565423,125.811823301205,"Fall",31827
+6,-105.076127,40.176295,NA,1990,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.3,117,"female",9.7,388,9.08708707535872,75.1273086400841,"Summer",31854
+7,-121.556531,41.825367,NA,1978,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",15.3,129,"male",7.8,291,6.90732483408999,79.9816214972,"Summer",31886
+7,-76.45442,42.4566,"adult",1953,"Eptesicus fuscus","Eptesicus_fuscus",15.4,121,"male",9.7,768,8.50544834298296,31.8228433562766,"Summer",31249
+8,-105.009302,39.71281,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.4,115,"female",9.8,550,9.18022826018454,70.0028549380244,"Summer",31266
+6,-105.250993,40.033854,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",15.4,107,"undetermined",10.3,489,9.46628787120939,65.9518172193925,"Summer",31315
+7,-104.628993,38.252558,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.4,113,"male",10.2,411,9.56849312097054,87.0101083845315,"Summer",31858
+8,-122.4431,47.2531,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",15.45,110,"male",12,1117,4.79911608022927,78.3717305714875,"Summer",31686
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.5,113,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31343
+7,-107.32012,36.98967,NA,1998,"Eptesicus fuscus","Eptesicus_fuscus",15.5,NA,"undetermined",8.6,471,8.22724133595217,92.9539619209639,"Summer",31411
+6,-121.6197225,46.3439619,"unknown",1987,"Eptesicus fuscus","Eptesicus_fuscus",15.5,111,"male",7.3,1372,6.30574533599512,95.3871588082529,"Summer",31431
+6,-106.426531534,35.846999,NA,2003,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.5,120,"male",7.8,447,7.60673545237536,65.1809361529891,"Summer",31633
+6,-122.2031,47.0981,"unknown",1994,"Eptesicus fuscus","Eptesicus_fuscus",15.5,111,"male",11.2,1004,5.42700877486155,65.6175921651139,"Summer",31684
+12,-94.872,40.346,NA,1969,"Eptesicus fuscus fuscus","Eptesicus_fuscus",15.5,101,"male",10.1,979,10.9678455661828,77.7367101800372,"Winter",31760
+9,-108.1380333333,35.2272166667,NA,2006,"Eptesicus fuscus","Eptesicus_fuscus",15.5,108,"male",8.3,318,7.58123680642885,94.166349447973,"Fall",31895
+7,-109.48955,36.14306,NA,1970,"Eptesicus fuscus","Eptesicus_fuscus",15.5,111,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",31933
+9,-122.2008,47.9792,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",15.55,108,"male",10.5,766,5.45301556827768,56.9522928803126,"Fall",31688
+7,-109.48955,36.14306,NA,1970,"Eptesicus fuscus","Eptesicus_fuscus",15.6,115,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",31800
+6,-122.2917,47.1856,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",15.7,110,"male",10.9,755,5.52331147926402,71.2193171833251,"Summer",31685
+2,-122.3104,46.8438,"unknown",1988,"Eptesicus fuscus","Eptesicus_fuscus",15.8,129,"female",10.4,1012,5.35403416296364,67.5391342421578,"Winter",31436
+5,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",15.8,109,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31442
+4,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",15.8,120,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31446
+8,-104.506698,38.240195,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",15.8,123,"female",12.8,146,9.5576242768892,76.9038517608848,"Summer",31528
+9,-120.461,46.8021,"unknown",1984,"Eptesicus fuscus","Eptesicus_fuscus",15.8,109,"male",8.2,282,8.30568899592139,67.4213236658351,"Fall",31660
+8,-122.3328,48.4214,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",15.8,116,"male",10,768,5.67386352256796,51.0803038673599,"Summer",31687
+9,-122.1797,46.7172,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",15.85,117,"male",9.7,2471,4.87637315548299,82.8995671743129,"Fall",31682
+7,-117.425,47.6589,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",15.85,112,"male",8.2,382,8.6505342276788,48.5471208036615,"Summer",31695
+7,-122.3053,47.6564,"unknown",1982,"Eptesicus fuscus","Eptesicus_fuscus",15.9,110,"male",10.6,1081,5.31128016298302,70.160950125828,"Summer",31430
+9,-103.20722,40.62556,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",15.9,114,"male",8.8,456,9.79944339792271,94.9494289696571,"Fall",31502
+8,-122.9081,47.0075,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",15.9,111,"undetermined",11.6,1496,4.92688973128509,80.2221677804242,"Summer",31699
+7,-104.989007,40.599713,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16,104,"female",9.7,292,9.36015086643502,124.695769084342,"Summer",31374
+6,-109.008874,40.499855,NA,1989,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16,117,"female",8.1,171,10.7248083969605,49.1666955461516,"Summer",31383
+7,-108.971034,40.590239,NA,1990,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16,117,"male",7.2,297,10.2686194522217,50.757233248185,"Summer",31385
+7,-112.166661,37.712363,NA,1990,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16,112,"female",5.8,293,8.8738763693316,56.3286816292247,"Summer",31386
+7,-110.011538,37.615642,NA,1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16,122,"female",9.9,256,9.83054916928332,58.5381253901617,"Summer",31388
+9,-122.199955,39.523132,NA,2005,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",16,119,"male",16.4,591,6.70907910403823,109.678777461185,"Fall",31427
+8,-121.402475,37.73643,NA,2005,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",16,110,"female",16.3,354,5.80774691618223,113.799392078607,"Summer",31428
+3,-74.0203,42.6643,NA,1946,"Eptesicus fuscus","Eptesicus_fuscus",16,111,"male",7.9,822,9.16485381523052,48.6514034458024,"Spring",31473
+8,-111.171,33.6449,NA,1979,"Eptesicus fuscus","Eptesicus_fuscus",16,108,"female",18.2,452,8.27751609646715,117.872951998277,"Summer",31808
+4,-104.266667,20.336109,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",16,118,"female",18.8,901,2.28610758250522,121.879365318926,"Spring",31926
+9,-109.4751,32.1446,NA,1976,"Eptesicus fuscus","Eptesicus_fuscus",16,114,"male",13.9,330,6.83506999365638,84.79336903802,"Fall",31940
+8,-122.2008,47.9792,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",16.05,107,"male",10.5,766,5.45301556827768,56.9522928803126,"Summer",31689
+8,-76.451,42.4799,NA,2010,"Eptesicus fuscus","Eptesicus_fuscus",16.1,113,"female",9.2,1029,10.1121401685241,48.1150507039629,"Summer",31471
+8,-117.425,47.6589,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",16.1,109,"male",8.2,382,8.6505342276788,48.5471208036615,"Summer",31694
+6,-104.60861,38.25444,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",16.1,113,"female",12.9,148,9.48895290707712,76.5164892458981,"Summer",31713
+4,-91.48,37.32,NA,1973,"Eptesicus fuscus fuscus","Eptesicus_fuscus",16.1,104,"male",13.4,1417,9.12034023820417,49.9038272358681,"Spring",31764
+5,-109.238808,31.344077,NA,1965,"Eptesicus fuscus","Eptesicus_fuscus",16.1,107,"female",17.2,271,6.65880597177129,118.463792078719,"Spring",31929
+9,-104.701417,40.420972,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",16.2,113,"male",11.4,215,9.798372623074,77.0981650012553,"Fall",31296
+2,-122.3104,46.8438,"unknown",1988,"Eptesicus fuscus","Eptesicus_fuscus",16.2,122,"male",10.4,1012,5.35403416296364,67.5391342421578,"Winter",31667
+7,-104.69917,40.48194,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",16.2,111,"male",11.3,215,9.77662642440756,79.8745877379237,"Summer",31736
+11,-105.17028,40.10389,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",16.2,123,"female",9.7,342,9.8329185839601,68.1608761219856,"Fall",31829
+9,-122.1797,46.7172,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",16.25,106,"female",9.7,2471,4.87637315548299,82.8995671743129,"Fall",31454
+8,-104.89715,40.51428,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",16.3,115,"female",11,215,9.57514142628365,84.7384209536247,"Summer",31297
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16.3,111,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31347
+8,-105.412305,39.718281,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16.3,109,"male",4.9,709,8.03572987011476,71.2168929490707,"Summer",31497
+7,-104.73139,40.5825,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",16.3,111,"female",10.9,223,9.62793835510474,87.1730573600529,"Summer",31735
+10,-109.23333,31.87083,NA,1968,"Eptesicus fuscus","Eptesicus_fuscus",16.3,114,"female",10.5,567,6.39892865085929,109.392792139491,"Fall",31932
+7,-106.317307,42.858114,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16.4,110,"female",7.7,233,9.57518889757494,100.766762592224,"Summer",31359
+7,-77.99082,43.09924,"adult",1953,"Eptesicus fuscus fuscus","Eptesicus_fuscus",16.5,117,"male",10,767,8.67161863189161,45.2119770560654,"Summer",31472
+9,-94.872,40.346,NA,1969,"Eptesicus fuscus fuscus","Eptesicus_fuscus",16.5,107,"female",10.1,979,10.9678455661828,77.7367101800372,"Fall",31759
+8,-105.08389,40.58528,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16.6,119,"female",7.9,553,9.37292603322156,76.4193426173196,"Summer",31270
+8,-105.06899,40.522841,"adult",2012,"Eptesicus fuscus","Eptesicus_fuscus",16.6,113,"female",10.7,238,9.3223542026029,80.3808794534339,"Summer",31846
+7,-109.48955,36.14306,NA,1970,"Eptesicus fuscus","Eptesicus_fuscus",16.6,108,"male",10.8,215,8.90100436961351,92.8004805410343,"Summer",31934
+4,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",16.7,123,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31443
+7,-122.3139,47.8211,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",16.7,112,"male",11.2,1065,4.80829460096789,68.682322102693,"Summer",31691
+8,-109.171086,36.451686,NA,1981,"Eptesicus fuscus","Eptesicus_fuscus",16.7,NA,"male",8.9,436,7.97432907788638,91.6696953893343,"Summer",31948
+1,-73.7294,42.6763,NA,1946,"Eptesicus fuscus","Eptesicus_fuscus",16.8,110,"female",9.4,763,9.65311615568525,51.7990338880405,"Winter",31252
+6,-109.238266,41.601586,"adult",1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16.8,122,"female",6.2,270,9.53112922178816,69.9783516308415,"Summer",31364
+7,-107.32012,36.98967,NA,1998,"Eptesicus fuscus","Eptesicus_fuscus",16.8,NA,"male",8.6,471,8.22724133595217,92.9539619209639,"Summer",31413
+8,-122.9628,46.6622,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",16.8,98,"female",11.7,1380,4.93463332585169,76.8008359524281,"Summer",31456
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16.8,116,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31564
+5,-110.87944,31.725,NA,1958,"Eptesicus fuscus","Eptesicus_fuscus",16.8,105,"female",16,688,6.95725041473522,91.2322742295407,"Spring",31918
+8,-105.019801,39.612933,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",16.9,119,"female",9.7,578,9.05150247029171,71.3986745633858,"Summer",31494
+12,-95.24,38.95,NA,1999,"Eptesicus fuscus fuscus","Eptesicus_fuscus",16.9,111,"female",13.7,995,9.2852603951672,82.5678873620766,"Winter",31882
+8,-104.8389015598,39.7876963407,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",17,118,"undetermined",9.4,595,9.27101625628186,78.7351460194191,"Summer",31267
+10,-104.162667,30.659333,NA,2000,"Eptesicus fuscus","Eptesicus_fuscus",17,117,"female",14.4,471,6.41141855432851,126.84848720145,"Fall",31424
+6,-109.008874,40.499855,NA,1989,"Eptesicus fuscus pallidus","Eptesicus_fuscus",17,122,"female",8.1,171,10.7248083969605,49.1666955461516,"Summer",31609
+7,-110.014129,37.582337,NA,1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",17,115,"female",9.8,260,9.86433735813772,57.8250221780073,"Summer",31614
+7,-75.91,43.97,NA,1970,"Eptesicus fuscus fuscus","Eptesicus_fuscus",17,112,"male",6.8,1001,11.8094306177373,27.0675921621142,"Summer",31762
+7,-108.21,32.95,NA,1994,"Eptesicus fuscus","Eptesicus_fuscus",17,116,"male",11.4,705,7.39100600033376,93.0425031931686,"Summer",31777
+11,-109.20333,31.8825,NA,1956,"Eptesicus fuscus","Eptesicus_fuscus",17,120,"female",12.6,229,7.29945514778641,127.20975525993,"Fall",31783
+10,-121.88188,36.98256,NA,2009,"Eptesicus fuscus bernardinus","Eptesicus_fuscus",17,113,"male",14.3,513,3.13339780720256,131.430597450551,"Fall",31905
+6,-109.29722,33.64417,NA,1993,"Eptesicus fuscus","Eptesicus_fuscus",17,119,"male",5.9,836,6.29864704086953,106.405183811694,"Summer",31951
+7,-106.04669,36.30307,NA,1995,"Eptesicus fuscus","Eptesicus_fuscus",17.1,NA,"male",11.3,268,7.23053290294748,61.284970649695,"Summer",31404
+8,-104.745374,40.344599,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",17.2,102,"male",11.4,215,9.81107521985725,76.7668619199766,"Summer",31515
+8,-104.394695,40.089254,"adult",2012,"Eptesicus fuscus","Eptesicus_fuscus",17.2,116,"female",11.6,219,9.70408770476742,72.622709253483,"Summer",31523
+8,-104.979321,39.56674,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",17.2,111,"female",9.1,618,8.98002412765875,69.1610134842444,"Summer",31566
+11,-109.20333,31.8825,NA,1956,"Eptesicus fuscus","Eptesicus_fuscus",17.3,114,"male",12.6,229,7.29945514778641,127.20975525993,"Fall",31784
+7,-106.88754,36.50974,NA,1998,"Eptesicus fuscus","Eptesicus_fuscus",17.4,NA,"female",7,426,8.34234815428322,99.1387776391772,"Summer",31407
+9,-122.8994,47.0381,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",17.4,117,"female",11.7,1496,4.946348515457,80.8041000017187,"Fall",31465
+9,-105.1124156934,39.6909836491,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",17.4,111,"male",9.3,596,8.87330009328291,67.7384019586343,"Fall",31499
+8,-103.804407,40.249717,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",17.4,105,"male",11.3,199,10.1414391423894,81.5366395217589,"Summer",31527
+8,-122.3975129,47.9351791,"unknown",1987,"Eptesicus fuscus","Eptesicus_fuscus",17.4,116,"female",11.1,686,4.64623503495034,81.1478781685094,"Summer",31663
+11,-109.18919,31.872551,NA,1956,"Eptesicus fuscus","Eptesicus_fuscus",17.4,109,"male",12.5,238,7.32001717997653,127.351573206444,"Fall",31913
+11,-104.627847,38.26118,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",17.7,121,"female",11.1,275,10.1047543565423,128.173489535703,"Fall",31292
+7,-107.32012,36.98967,NA,1998,"Eptesicus fuscus","Eptesicus_fuscus",17.7,NA,"undetermined",8.6,471,8.22724133595217,92.9539619209639,"Summer",31410
+8,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",17.7,110,"male",8.6,479,9.88065143233343,73.2814252239215,"Summer",31479
+1,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",17.7,111,"male",8.6,479,9.88065143233343,73.2814252239215,"Winter",31571
+7,-104.3840217,36.9462905,NA,2007,"Eptesicus fuscus","Eptesicus_fuscus",17.75,105,"male",8.9,411,8.62515700340193,64.6622475294525,"Summer",31400
+7,-105.051046,40.559282,NA,1998,"Eptesicus fuscus pallidus","Eptesicus_fuscus",17.8,106,"female",9.1,411,9.08519858524476,64.7981436148604,"Summer",31275
+7,-94.783086,40.061917,NA,1974,"Eptesicus fuscus fuscus","Eptesicus_fuscus",17.8,120,"male",11.5,746,10.1389288777404,67.4094620139454,"Summer",31872
+7,-106.88754,36.50974,NA,1998,"Eptesicus fuscus","Eptesicus_fuscus",17.9,NA,"male",7,426,8.34234815428322,99.1387776391772,"Summer",31408
+7,-106.317307,42.858114,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",17.9,100,"female",7.7,233,9.57518889757494,100.766762592224,"Summer",31576
+5,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",17.9,116,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31672
+6,-106.026409,26.787519,NA,1963,"Eptesicus (Eptesicus) fuscus Beauvois, 1796","Eptesicus_fuscus",18,NA,"female",15.7,469,4.87450852223415,135.493337600694,"Summer",31597
+7,-110.50735,36.732198,NA,2004,"Eptesicus fuscus","Eptesicus_fuscus",18,128,"female",10.4,414,9.04813726016509,84.1626472107941,"Summer",31634
+9,-94.883611,40.353256,NA,1974,"Eptesicus fuscus fuscus","Eptesicus_fuscus",18,97,"male",11,700,10.2477344133257,61.3409309926176,"Fall",31756
+9,-94.57,39.09,NA,1978,"Eptesicus fuscus fuscus","Eptesicus_fuscus",18,100,"male",11.5,800,12.3679081301226,59.2096377760123,"Fall",31771
+6,-108.4633333333,32.5747222222,NA,1995,"Eptesicus fuscus","Eptesicus_fuscus",18,112,"female",12.5,364,6.88309303271209,95.1666692086341,"Summer",31778
+6,-106.2,26.7,NA,1963,"Eptesicus fuscus","Eptesicus_fuscus",18,113,"female",17.4,439,4.81313701018243,127.134224224548,"Summer",31789
+6,-106.1,26.733333,NA,1963,"Eptesicus fuscus","Eptesicus_fuscus",18,120,"male",15.9,480,4.84194895646058,131.801331211376,"Summer",31790
+7,-109.3312,33.7203,NA,1993,"Eptesicus fuscus","Eptesicus_fuscus",18,108,"female",7.1,694,6.50209173802531,104.59288177785,"Summer",31810
+11,-75.91,43.97,NA,1966,"Eptesicus fuscus fuscus","Eptesicus_fuscus",18,120,"female",7.1,869,10.3478880878558,45.8503214977153,"Fall",31875
+9,-108.1737051879,32.954227,NA,2004,"Eptesicus fuscus","Eptesicus_fuscus",18,108,"male",10.7,623,7.05212196735311,47.2836655115333,"Fall",31892
+9,-103.633333,19.55,NA,1959,"Eptesicus fuscus","Eptesicus_fuscus",18,117,"female",8.8,1233,1.89470954038455,95.5225885714916,"Fall",31911
+6,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",18.1,115,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31338
+7,-105.37053,32.83871,NA,1995,"Eptesicus fuscus","Eptesicus_fuscus",18.1,NA,"female",12.1,424,6.28882486493448,108.853015227829,"Summer",31405
+8,-74.835438,41.981478,NA,1950,"Eptesicus fuscus","Eptesicus_fuscus",18.2,104,"male",6.4,1145,9.25321811342116,25.9402680658582,"Summer",31250
+8,-108.0551111111,39.1627222222,NA,1994,"Eptesicus fuscus pallidus","Eptesicus_fuscus",18.2,114,"female",9.5,377,9.51504390983355,53.0795675773544,"Summer",31276
+8,-104.983021,39.733792,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",18.3,115,"female",9.7,558,9.1758906759491,68.0937337489761,"Summer",31485
+6,-105.107409,40.164529,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",18.3,111,"female",9.7,393,9.81873209737388,59.5932980734233,"Summer",31533
+5,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",18.4,112,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31440
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",18.4,118,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31553
+4,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",18.4,119,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31673
+8,-122.9064,46.2753,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",18.4,109,"male",11.6,1371,4.80784554534344,77.2399861728244,"Summer",31679
+7,-106.778337,32.312316,NA,1962,"Eptesicus fuscus","Eptesicus_fuscus",18.4,111,"female",16.3,177,8.08346610325201,88.6284166812541,"Summer",31782
+10,-109.20333,31.8825,NA,1968,"Eptesicus fuscus","Eptesicus_fuscus",18.4,93,"male",11.9,478,6.48074069840786,105.964206455811,"Fall",31931
+7,-103.783836,41.782747,NA,2001,"Eptesicus fuscus pallidus","Eptesicus_fuscus",18.5,112,"female",9.5,368,9.94213561595599,91.5932752075233,"Summer",31399
+7,-105.37053,32.83871,NA,1995,"Eptesicus fuscus","Eptesicus_fuscus",18.5,NA,"female",12.1,424,6.28882486493448,108.853015227829,"Summer",31406
+8,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",18.8,110.3,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31254
+8,-122.3308,47.6064,"unknown",1990,"Eptesicus fuscus","Eptesicus_fuscus",18.8,109,"male",11.1,1072,5.82431554048641,76.4621741414822,"Summer",31469
+7,-104.93639,39.626903,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",18.8,120,"female",9.4,619,9.08226293387281,70.8947576297066,"Summer",31544
+8,-104.51944,40.10833,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",18.8,112,"male",11.7,218,9.47869620877164,71.8877896116674,"Summer",31711
+7,-104.928598,39.604287,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",18.9,120,"female",9.3,627,9.06141921455012,70.7269378023697,"Summer",31552
+3,-97.60671,38.83123,NA,1961,"Eptesicus fuscus","Eptesicus_fuscus",18.9,NA,"female",11.7,810,10.1788997440784,72.1736001400561,"Spring",31865
+9,-110.68883,31.693954,NA,1957,"Eptesicus fuscus","Eptesicus_fuscus",18.9,114,"female",15.7,522,6.33013475848706,92.2798302519713,"Fall",31915
+7,-103.54333,37.985,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",19,127,"female",10.6,385,10.1108402672128,69.4856942318201,"Summer",31333
+6,-106.026409,26.787519,NA,1963,"Eptesicus (Eptesicus) fuscus Beauvois, 1796","Eptesicus_fuscus",19,NA,"female",15.7,469,4.87450852223415,135.493337600694,"Summer",31593
+7,-106.3211111111,35.7788888889,NA,1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",19,115,"female",10.3,430,8.68960978305805,87.8300949080782,"Summer",31635
+7,-106.3211111111,35.7788888889,"adult",1977,"Eptesicus fuscus pallidus","Eptesicus_fuscus",19,115,"female",10.3,430,8.68960978305805,87.8300949080782,"Summer",31636
+7,-106.04669,36.30307,NA,1995,"Eptesicus fuscus","Eptesicus_fuscus",19,NA,"female",11.3,268,7.23053290294748,61.284970649695,"Summer",31637
+5,-76.5094764,42.4381028,"adult",1940,"Eptesicus fuscus fuscus","Eptesicus_fuscus",19,130,"female",7.9,859,10.1830816315667,35.7147842586663,"Spring",31706
+12,-75.93,43.99,NA,1957,"Eptesicus fuscus fuscus","Eptesicus_fuscus",19,118,"female",7.7,870,10.1049792706668,42.7828831962547,"Winter",31761
+7,-108.21,32.95,NA,1994,"Eptesicus fuscus","Eptesicus_fuscus",19,115,"female",11.4,705,7.39100600033376,93.0425031931686,"Summer",31906
+8,-112.4208,33.9933,NA,1978,"Eptesicus fuscus","Eptesicus_fuscus",19,110,"female",19.3,829,7.9586240625938,89.1278823669324,"Summer",31944
+6,-110.8495,31.9699,NA,1981,"Eptesicus fuscus","Eptesicus_fuscus",19,110,"female",19.6,289,6.9281321545937,92.6769396965348,"Summer",31946
+7,-106.88754,36.50974,NA,1998,"Eptesicus fuscus","Eptesicus_fuscus",19.1,NA,"female",7,426,8.34234815428322,99.1387776391772,"Summer",31409
+9,-110.68883,31.693954,NA,1957,"Eptesicus fuscus","Eptesicus_fuscus",19.1,119,"male",15.7,522,6.33013475848706,92.2798302519713,"Fall",31785
+4,-122.9072,46.1469,"unknown",1994,"Eptesicus fuscus","Eptesicus_fuscus",19.25,123,"female",11.3,1064,5.40876813399065,74.0154079834832,"Spring",31449
+7,-105.06235,40.624161,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",19.3,118,"female",10.5,244,9.32534425394288,84.5957091032442,"Summer",31319
+9,-108.574885,33.40829202,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",19.3,123,"undetermined",9.2,524,7.55362646198981,115.694022414955,"Fall",31645
+8,-104.940522,39.625591,NA,1981,"Eptesicus fuscus","Eptesicus_fuscus",19.4,108,"male",12,375,7.93759752982315,83.9016193095976,"Summer",31323
+8,-122.6872,46.8883,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",19.45,104,"male",11.3,1445,4.80170424290831,77.4506703555601,"Summer",31698
+9,-106.8446,36.0208,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",19.6,105,"female",7.5,457,7.62261388397985,60.445312418842,"Fall",31641
+7,-120.5047,46.6022,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",19.6,118,"female",9.5,187,8.91550827932922,65.9043899661889,"Summer",31702
+7,-122.1622,47.7544,"unknown",1993,"Eptesicus fuscus","Eptesicus_fuscus",19.65,110,"male",11.1,738,5.51732120991096,64.1307379405657,"Summer",31462
+2,-122.3104,46.8438,"unknown",1988,"Eptesicus fuscus","Eptesicus_fuscus",19.7,137,"female",10.4,1012,5.35403416296364,67.5391342421578,"Winter",31435
+6,-105.08389,40.58528,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",19.9,115,"female",7.9,553,9.37292603322156,76.4193426173196,"Summer",31328
+6,-104.981448,39.65215,"subadult",1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",19.9,116,"female",11,453,7.43278466517011,87.4525245644002,"Summer",31505
+8,-123.4558,46.2706,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",19.9,115,"undetermined",11.4,2540,4.22663810811497,81.5962266312713,"Summer",31700
+8,-105.124398,40.553902,"adult",2012,"Eptesicus fuscus","Eptesicus_fuscus",19.9,116,"male",10.5,250,9.2498976243311,83.9798399670795,"Summer",31845
+7,-104.71083,40.53028,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",19.9,117,"male",11.1,218,9.67841631798521,82.1128720426735,"Summer",31850
+7,-122.6603,45.6389,"unknown",1994,"Eptesicus fuscus","Eptesicus_fuscus",19.95,111,"male",12.4,978,5.96237572133996,79.2000973399189,"Summer",31678
+6,-100.444778,42.876972,NA,1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",20,108,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31390
+9,-104.66694,39.85833,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",20,113,"male",10.1,316,9.64688676425842,63.9619229492216,"Fall",31540
+9,-103.668555,41.690249,NA,2000,"Eptesicus fuscus pallidus","Eptesicus_fuscus",20,115,"female",9.2,380,9.90053564513588,57.5184067746224,"Fall",31632
+8,-104.875423,39.670698,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",20,114,"female",12.3,268,8.79664192126229,70.7506873036281,"Summer",31726
+3,-97.60671,38.83123,NA,1961,"Eptesicus fuscus","Eptesicus_fuscus",20,NA,"female",11.7,810,10.1788997440784,72.1736001400561,"Spring",31751
+9,-122.2636,49.0003,"unknown",1994,"Eptesicus fuscus","Eptesicus_fuscus",20.15,125,"male",10.9,1255,5.75027667318555,57.9682040445817,"Fall",31467
+12,-94.883611,40.353256,NA,1975,"Eptesicus fuscus fuscus","Eptesicus_fuscus",20.2,105,"male",11,895,10.8049090975381,72.7298233917213,"Winter",31754
+12,-94.87505,40.347147,NA,1975,"Eptesicus fuscus fuscus","Eptesicus_fuscus",20.2,115,"male",11,897,10.7795365898033,72.9283993122866,"Winter",31889
+7,-105.084142,40.180301,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",20.3,104,"female",9.6,396,9.81467670317667,60.7243857142947,"Summer",31532
+7,-104.95222,42.05444,NA,1996,"Eptesicus fuscus pallidus","Eptesicus_fuscus",20.3,113,"female",8.9,278,9.4646831575456,90.9521802921514,"Summer",31577
+7,-107.32012,36.98967,NA,1998,"Eptesicus fuscus","Eptesicus_fuscus",20.4,NA,"undetermined",8.6,471,8.22724133595217,92.9539619209639,"Summer",31412
+5,-109.20333,31.8825,NA,1955,"Eptesicus fuscus","Eptesicus_fuscus",20.4,121,"female",12.1,419,6.8180686859301,155.433383824522,"Spring",31912
+8,-104.32278,39.73833,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",20.5,114,"male",11.8,221,9.16406023550697,72.2091243998297,"Summer",31299
+7,-104.516715,40.407411,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",20.5,115,"female",11.4,213,9.98457522502797,79.2063570912139,"Summer",31538
+7,-106.88754,36.50974,NA,1998,"Eptesicus fuscus","Eptesicus_fuscus",20.5,NA,"female",7,426,8.34234815428322,99.1387776391772,"Summer",31638
+10,-94.90395,39.953342,NA,1974,"Eptesicus fuscus fuscus","Eptesicus_fuscus",20.5,116,"male",11.7,751,10.0615793386465,69.8005306481883,"Fall",31873
+3,-86.6141,39.1038,NA,1936,"Eptesicus (Eptesicus) fuscus fuscus Beauvois, 1796","Eptesicus_fuscus",21,115,"male",12.5,909,11.5732548262244,45.7421339905907,"Spring",31367
+6,-100.444778,42.876972,NA,1991,"Eptesicus fuscus pallidus","Eptesicus_fuscus",21,110,"female",9.6,575,10.6897005088869,87.4142798010217,"Summer",31389
+5,-103.668555,41.690249,NA,2001,"Eptesicus fuscus pallidus","Eptesicus_fuscus",21,125,"female",9.5,387,9.85568594540966,92.13116858902,"Spring",31398
+6,-104.637672,38.317884,NA,2011,"Eptesicus fuscus","Eptesicus_fuscus",21,112,"female",11.5,252,10.4717368534199,73.1296186753159,"Summer",31539
+6,-106.13641,26.699994,NA,1963,"Eptesicus (Eptesicus) fuscus Beauvois, 1796","Eptesicus_fuscus",21,NA,"female",17.2,439,4.82998839323532,129.896218253941,"Summer",31596
+6,-109.0133333333,33.115,NA,1995,"Eptesicus fuscus","Eptesicus_fuscus",21,125,"female",13.8,364,7.02585592758288,96.4012720764709,"Summer",31780
+9,-109.23333,31.87083,NA,1975,"Eptesicus fuscus","Eptesicus_fuscus",21,120,"female",10.6,602,6.93416552406643,121.062653232926,"Fall",31807
+8,-112.42806,33.98278,NA,1978,"Eptesicus fuscus","Eptesicus_fuscus",21,93,NA,19.2,840,7.9523962464534,89.3597095980253,"Summer",31811
+10,-122.9064,46.2753,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",21.15,112,"female",11.6,1371,4.80784554534344,77.2399861728244,"Fall",31680
+7,-104.7091331,40.4233131,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",21.3,121,"female",8.6,479,9.88065143233343,73.2814252239215,"Summer",31548
+7,-74.839515,41.977777,NA,1950,"Eptesicus fuscus","Eptesicus_fuscus",21.4,118,"female",6.4,1148,9.25321811342116,26.044399629244,"Summer",31251
+8,-122.3975129,47.9351791,"unknown",1984,"Eptesicus fuscus","Eptesicus_fuscus",21.5,118,"female",10.3,1031,4.70393130232253,54.1780788397987,"Summer",31657
+5,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",21.6,113,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31439
+5,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",21.6,120,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31670
+9,-94.883611,40.353256,NA,1971,"Eptesicus fuscus fuscus","Eptesicus_fuscus",21.7,109,"male",10.6,707,11.3224201021556,50.7780911538621,"Fall",31753
+8,-108.0551111111,39.1627222222,NA,1997,"Eptesicus fuscus pallidus","Eptesicus_fuscus",21.8,115,"female",7.9,620,8.52207027770728,56.3166068802736,"Summer",31491
+4,-103.85,20.5,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",22,121,"female",21.1,761,2.70592783616738,117.807659387922,"Spring",31792
+8,-122.3975129,47.9351791,"unknown",1987,"Eptesicus fuscus","Eptesicus_fuscus",22.3,120,"female",11.1,686,4.64623503495034,81.1478781685094,"Summer",31662
+12,-95.235,38.9633,"unknown",1944,"Eptesicus fuscus","Eptesicus_fuscus",22.3,121,"female",12.5,1109,10.0264612023597,66.4762521619722,"Winter",31675
+9,-122.2008,47.9792,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",22.5,118,"female",11.4,993,4.78821153427558,61.6840803469991,"Fall",31690
+9,-122.8994,47.0381,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",22.6,114,"male",11.7,1496,4.946348515457,80.8041000017187,"Fall",31696
+5,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",22.8,120,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31438
+10,-122.8517,46.8569,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",22.95,115,"female",11.4,1512,4.8292354624221,77.6621767504716,"Fall",31466
+4,-103.85,20.5,NA,1964,"Eptesicus fuscus","Eptesicus_fuscus",23,123,"female",21.1,761,2.70592783616738,117.807659387922,"Spring",31793
+9,-104.98417,39.73917,NA,2012,"Eptesicus fuscus","Eptesicus_fuscus",23.4,121,"female",12.6,227,8.88260131158694,67.4386595568184,"Fall",31722
+9,-94.883611,40.353256,NA,1975,"Eptesicus fuscus fuscus","Eptesicus_fuscus",23.5,110,"female",11,895,10.8049090975381,72.7298233917213,"Fall",31869
+8,-122.3975129,47.9351791,"unknown",1984,"Eptesicus fuscus","Eptesicus_fuscus",23.8,117,"female",10.3,1031,4.70393130232253,54.1780788397987,"Summer",31658
+6,-105.10139,40.16722,NA,1999,"Eptesicus fuscus pallidus","Eptesicus_fuscus",23.9,116,"female",10.1,390,7.86412548837884,84.7419257626855,"Summer",31507
+10,-94.883611,40.353256,NA,1975,"Eptesicus fuscus fuscus","Eptesicus_fuscus",24,110,"male",11,895,10.8049090975381,72.7298233917213,"Fall",31772
+9,-122.8994,47.0381,"unknown",1995,"Eptesicus fuscus","Eptesicus_fuscus",24.05,122,"female",11.7,1496,4.946348515457,80.8041000017187,"Fall",31697
+8,-122.3975129,47.9351791,"unknown",1984,"Eptesicus fuscus","Eptesicus_fuscus",24.3,117,"female",10.3,1031,4.70393130232253,54.1780788397987,"Summer",31659
+5,-86.8657,39.5751,"unknown",1971,"Eptesicus fuscus","Eptesicus_fuscus",24.4,118,"female",11.5,1085,9.99131440984436,60.2027905524228,"Spring",31671
+3,-104.82083,38.83389,NA,2013,"Eptesicus fuscus","Eptesicus_fuscus",24.7,117,"female",9.8,366,9.24800961386729,108.483715956426,"Spring",31298
+9,-94.883611,40.353256,NA,1971,"Eptesicus fuscus fuscus","Eptesicus_fuscus",25,110,"male",10.6,707,11.3224201021556,50.7780911538621,"Fall",31773
+10,-91.8686,38.03865,NA,1971,"Eptesicus fuscus fuscus","Eptesicus_fuscus",25,115,"male",13.1,792,9.40259474181398,49.8746155987004,"Fall",31885
+6,-105.434036,23.721671,NA,1963,"Eptesicus fuscus","Eptesicus_fuscus",27,119,"female",11.3,1466,2.92806431043797,106.255418898542,"Summer",31788

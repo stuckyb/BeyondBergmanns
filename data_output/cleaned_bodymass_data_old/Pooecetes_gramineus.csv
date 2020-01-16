@@ -1,0 +1,648 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-106.603693,41.166325,"immature",1985,"Pooecetes gramineus","Pooecetes_gramineus",8.3,142,"undetermined",3.4,374,9.50774405259718,46.4685939386848,"Spring",110054
+7,-109.5254517,49.2113176,"imm",1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",12,NA,"male",2.7,253,13.000128204496,91.7147818483422,"Summer",110461
+6,-85.4794693,46.3515488,"juvenile",1942,"Pooecetes gramineus","Pooecetes_gramineus",12.5,NA,"male",5.5,751,10.3793026857503,46.1032253462665,"Summer",110270
+10,-119.721443,37.090636,"imm. sk.",1951,"Pooecetes gramineus confinis","Pooecetes_gramineus",15,NA,"male",16.1,394,7.16276144480266,125.555554046882,"Fall",110094
+6,-109.4840469,49.7141561,"ad",1968,"Pooecetes gramineus confinis","Pooecetes_gramineus",15.6,NA,"female",3,345,9.84111274196165,67.9516421767313,"Summer",110449
+11,-109.0431,32.06495,"im",2007,"Pooecetes gramineus","Pooecetes_gramineus",16.5,NA,"male",17.6,244,8.17995980578404,104.838830015439,"Fall",110370
+7,-119.307498,38.439389,"u ad.",1946,"Pooecetes gramineus confinis","Pooecetes_gramineus",17.4,NA,"female",-1.1,989,6.3471539792543,141.232309550128,"Summer",110172
+4,-102.438,31.49571,NA,2011,"Pooecetes gramineus","Pooecetes_gramineus",17.4,NA,"female",19.9,158,9.45488089439908,114.490345500527,"Spring",110620
+7,-109.5254517,49.2113176,NA,1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",17.5,NA,"undetermined",2.7,253,13.000128204496,91.7147818483422,"Summer",110191
+9,-116.234817,33.9625432,"ad.",1950,"Pooecetes gramineus confinis","Pooecetes_gramineus",18.2,NA,"female",14.4,82,5.88054702670877,100.197198889473,"Fall",110093
+3,-98.2492937,29.4791442,NA,1946,"Pooecetes gramineus gramineus","Pooecetes_gramineus",18.4,NA,"female",20.7,1088,6.49603025631109,44.0507514220736,"Spring",110281
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",18.5,NA,"female",7.9,293,9.00967493443811,80.181914255933,"Summer",110667
+3,-98.2492937,29.4791442,NA,1946,"Pooecetes gramineus gramineus","Pooecetes_gramineus",18.8,NA,"male",20.7,1088,6.49603025631109,44.0507514220736,"Spring",110537
+7,-111.0198507,42.1927915,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",19,NA,"female",6.3,249,8.6971608045733,52.6145503553048,"Summer",110549
+7,-83.7263412,42.2708397,"immature",1933,"Pooecetes gramineus","Pooecetes_gramineus",19.4,NA,"male",10,613,10.4579533312588,56.4215473330908,"Summer",110543
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Pooecetes gramineus confinis","Pooecetes_gramineus",19.5,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",110098
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",19.5,NA,"female",7.9,293,9.00967493443811,80.181914255933,"Summer",110730
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",19.5,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110743
+7,-83.95,42.45,"juvenile",1934,"Pooecetes gramineus","Pooecetes_gramineus",19.7,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",110635
+12,-78.16661,43.97027,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",20,NA,"female",6.3,874,10.9009695148476,31.7755118261049,"Winter",110235
+9,-104.967662,39.29324,NA,1987,"Pooecetes gramineus","Pooecetes_gramineus",20,151,"undetermined",8.9,604,8.37561395307288,73.0950891142966,"Fall",110337
+4,-116.865597,36.456792,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",20,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",110402
+9,-117.53528,41.68472,"imm.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",20,NA,"female ?",7,716,6.72856304169476,91.774891703395,"Fall",110428
+10,-115.682,30.9845,"imm.",1925,"Pooecetes gramineus confinis","Pooecetes_gramineus",20,NA,"female",14.4,347,4.3397737687161,110.932259762074,"Fall",110684
+10,-98.3166667,29.5166667,NA,1946,"Pooecetes gramineus confinis","Pooecetes_gramineus",20,NA,"female",20.6,1089,6.52953081984247,44.6151115958278,"Fall",110710
+7,-118.5195,47.642144,"immature",1977,"Pooecetes gramineus","Pooecetes_gramineus",20,NA,NA,7.9,293,9.00967493443811,80.181914255933,"Summer",110735
+6,-84.2864227,44.7462455,"juvenile",1949,"Pooecetes gramineus","Pooecetes_gramineus",20.36,NA,"female",7.4,647,10.0775290080997,29.3157661258265,"Summer",110538
+9,-121.0071009,41.9070188,"imm.",1922,"Pooecetes gramineus affinis","Pooecetes_gramineus",20.4,NA,"female",6.8,325,9.31864780800825,73.8202751858184,"Fall",110414
+9,-104.0833333,40.524255,"adult",1992,"Pooecetes gramineus","Pooecetes_gramineus",20.5,145,"undetermined",9.3,416,8.95143039187626,91.3962873099918,"Fall",110055
+4,-85.0389709,46.6510859,NA,1998,"Pooecetes gramineus","Pooecetes_gramineus",20.5,NA,"male",6.7,716,8.68049014116767,46.5850514978741,"Spring",110294
+10,-104.3906668,40.944116,"adult",1992,"Pooecetes gramineus","Pooecetes_gramineus",20.5,143,"undetermined",9,416,8.52379912451904,101.986131914695,"Fall",110338
+4,-116.865597,36.456792,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",20.7,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",110123
+9,-114.28,38.96917,"imm.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",20.7,NA,"female",7.3,517,7.1378419623012,83.1565094368637,"Fall",110151
+9,-114.28,38.96917,"imm.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",20.7,NA,"male",7.3,517,7.1378419623012,83.1565094368637,"Fall",110430
+5,-121.121,41.559333,"u ad.",1948,"Pooecetes gramineus confinis","Pooecetes_gramineus",20.7,NA,"male",6.9,535,7.67113341552524,55.7882228478946,"Spring",110683
+5,-104.695999,40.639856,NA,1991,"Pooecetes gramineus","Pooecetes_gramineus",20.8,144,"female",9.4,340,8.99270748322149,91.1931304551181,"Spring",110336
+4,-117.135042,36.727337,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",20.8,NA,"male",22.6,31,10.3458233411392,101.623189908961,"Spring",110403
+6,-118.868273,37.872789,"u ad.",1942,"Pooecetes gramineus confinis","Pooecetes_gramineus",20.9,NA,"female",4.2,324,7.1714659758256,76.7990048348649,"Summer",110443
+6,-119.6952863,48.557371,NA,1940,"Pooecetes gramineus confinis","Pooecetes_gramineus",20.9,NA,"female",7.7,423,8.69707369803723,64.6884954486685,"Summer",110515
+4,-116.865597,36.456792,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",21,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",110120
+4,-116.865597,36.456792,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",21,NA,"male",23.3,31,10.6578467323234,99.6636097827943,"Spring",110121
+9,-108.4582,41.2869,"imm.",1939,"Pooecetes gramineus confinis","Pooecetes_gramineus",21,NA,"female",6.6,134,9.28861717861755,58.0155434060267,"Fall",110167
+12,-103.6575929,30.4524996,"ad",1978,"Pooecetes gramineus confinis","Pooecetes_gramineus",21,NA,"[female]",16.8,594,7.19968433651466,108.783569427635,"Winter",110201
+12,-114.58,34.92,NA,1985,"Pooecetes gramineus confinis","Pooecetes_gramineus",21,NA,"male",22,112,9.10109883475616,113.787303908476,"Winter",110358
+5,-80.20138,44.07915,"ad",1943,"Pooecetes gramineus gramineus","Pooecetes_gramineus",21,NA,"female",4.4,913,10.6676621221107,33.59306598236,"Spring",110499
+8,-83.95,42.45,"juvenile",1936,"Pooecetes gramineus gramineus","Pooecetes_gramineus",21,NA,"female",8.5,620,11.4649135375825,63.832744272204,"Summer",110653
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",21,NA,"female",7.9,293,9.00967493443811,80.181914255933,"Summer",110662
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",21,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110664
+8,-106.4342871,37.02282872,"u ad.",1952,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.2,NA,"female",0.8,822,8.31323789160543,89.4217443656982,"Summer",110095
+6,-107.7541666667,39.6769444444,"adult",1995,"Pooecetes gramineus","Pooecetes_gramineus",21.2,145,"female",7.2,612,7.50383235420408,54.4774303244854,"Summer",110342
+11,-115.7230556,31.4,"ad.",1926,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.2,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",110606
+7,-118.09072,46.945513,NA,1993,"Pooecetes gramineus","Pooecetes_gramineus",21.3,NA,"male",8.8,322,8.71116924970292,56.7375704326595,"Summer",110332
+7,-109.314318,50.3767699,"juv",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.3,NA,"female",6.9,261,9.18062435983325,107.564359557497,"Summer",110477
+10,-111.002236,32.242695,"immature",1970,"Pooecetes gramineus","Pooecetes_gramineus",21.4,NA,"male",19.4,287,7.64470504019057,115.039004785733,"Fall",110077
+9,-108.1250666667,35.0832666667,"AHY",2008,"Pooecetes gramineus altus","Pooecetes_gramineus",21.4,NA,"male",7.6,332,7.67670127230716,75.1688212813685,"Fall",110087
+7,-83.6754669,46.0628663,"adult",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",21.4,NA,"female",6,758,10.8156032068153,24.5888876403631,"Summer",110243
+7,-114.07,41.95,"u ad.",1935,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.5,NA,"female",7.3,177,9.10439038280017,89.3369237831662,"Summer",110154
+8,-117.923113,47.240366,NA,1990,"Pooecetes gramineus","Pooecetes_gramineus",21.5,NA,"male",9.3,412,8.77660457573359,48.443882773913,"Summer",110331
+9,-106.2013333333,40.5582,"im",2007,"Pooecetes gramineus","Pooecetes_gramineus",21.5,NA,"female",3,392,9.42781185448863,52.8418478577902,"Fall",110369
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",21.5,NA,"female",7.9,293,9.00967493443811,80.181914255933,"Summer",110736
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.5,NA,"female",7.9,293,9.00967493443811,80.181914255933,"Summer",110739
+8,-109.83667,43.30329,"imm.",1939,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.6,NA,"female",0.5,432,8.61082387921086,62.4349229099711,"Summer",110166
+7,-118.055665,46.96557,NA,1993,"Pooecetes gramineus","Pooecetes_gramineus",21.6,NA,"male",8.9,325,8.71805423801491,57.5651618198215,"Summer",110333
+4,-100.8526807,37.1803491,NA,1966,"Pooecetes gramineus","Pooecetes_gramineus",21.6,NA,"male",13,336,10.5291046843758,99.6276062705876,"Spring",110351
+9,-117.1143,38.96403,"ad.",1931,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.7,NA,"female",9.8,177,9.48371411069173,55.5409578086907,"Fall",110144
+8,-104.5571,48.7748,"imm.",1959,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.7,NA,"female",3.7,485,12.8999177822139,128.800118127531,"Summer",110387
+7,-118.8008,37.619045,"u ad.",1922,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.7,NA,"female",6.3,379,7.94978082411806,102.365868776685,"Summer",110605
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.7,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110726
+6,-120.8904,44.259,"u ad.",1938,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.8,NA,"female",8.3,230,7.12823557580994,52.944784510839,"Summer",110163
+7,-119.284993,38.454086,"u ad.",1946,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.8,NA,"female",1.6,753,6.62041722570596,137.445632413938,"Summer",110174
+1,-115.2833333,29.9833333,"u ad.",1931,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.8,NA,"female",17.7,236,4.68000259000187,115.738901824293,"Winter",110424
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",21.8,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110720
+7,-83.95,42.45,"immature",1935,"Pooecetes gramineus gramineus","Pooecetes_gramineus",21.9,NA,"female",8.4,658,10.1983473111474,44.4104509785528,"Summer",110728
+4,-101.5363312,37.9293049,NA,1950,"Pooecetes gramineus","Pooecetes_gramineus",22,NA,"male",12.3,348,9.23230494218289,122.643527952602,"Spring",110072
+7,-84.02525,46.353393,"juv",1931,"Pooecetes gramineus gramineus","Pooecetes_gramineus",22,NA,"female",6.7,772,10.5130618611787,65.7387277263846,"Summer",110228
+9,-104.8529833333,38.2911833333,"im",2007,"Pooecetes gramineus","Pooecetes_gramineus",22,NA,"female",12,356,9.82374982407739,75.2197552361705,"Fall",110364
+4,-116.865597,36.456792,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",22,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",110404
+6,-84.02525,46.353393,"ad",1931,"Pooecetes gramineus gramineus","Pooecetes_gramineus",22,NA,"female",6.7,772,10.5130618611787,65.7387277263846,"Summer",110492
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",22,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110657
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",22,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110660
+4,-102.5166667,36.95,NA,1959,"Pooecetes gramineus","Pooecetes_gramineus",22,NA,"male",12.3,379,9.55606661189158,77.4616175333559,"Spring",110703
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus confinis","Pooecetes_gramineus",22,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110741
+8,-117.923113,47.240366,NA,1990,"Pooecetes gramineus","Pooecetes_gramineus",22.1,NA,NA,9.3,412,8.77660457573359,48.443882773913,"Summer",110046
+3,-97.1016312,27.7895801,NA,1957,"Pooecetes gramineus","Pooecetes_gramineus",22.1,NA,"female",22.1,776,5.27626905602009,70.689681870011,"Spring",110075
+7,-120.4608844,40.535017,"imm.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.1,NA,"male",10.2,261,7.68426175945867,116.728033852315,"Summer",110141
+7,-111.0198507,42.1927915,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.1,NA,"male",6.3,249,8.6971608045733,52.6145503553048,"Summer",110304
+7,-116.8233,44.7674,"juv.",1932,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.1,NA,"male",3.5,839,8.5071449471321,75.8709465848092,"Summer",110392
+7,-107.21756,42.44291,"u ad.",1935,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.1,NA,"male",7.2,267,9.65067119662952,111.839846380352,"Summer",110432
+6,-118.868273,37.872789,"u ad.",1942,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.1,NA,"female",4.2,324,7.1714659758256,76.7990048348649,"Summer",110442
+5,-119.107208,37.880822,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.2,NA,"female",6.4,544,8.17061901886969,132.434244190419,"Spring",110113
+7,-85.5568848,45.6646004,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",22.2,NA,"female",6.3,734,10.4803278921641,72.7502344657928,"Summer",110318
+5,-122.00358,41.8260554,"u ad.",1918,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.2,NA,"male",7.7,233,7.15221940548823,72.3520030316917,"Spring",110408
+8,-111.3953253,42.1675605,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.2,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",110551
+9,-104.756252,40.869961,"immature",1992,"Pooecetes gramineus","Pooecetes_gramineus",22.3,144,"undetermined",8.7,431,8.36900395941639,92.7509821746131,"Fall",110056
+6,-117.073501,45.47918,NA,1999,"Pooecetes gramineus","Pooecetes_gramineus",22.3,NA,"male",6.4,406,6.6177218454875,55.7787278813417,"Summer",110326
+8,-83.95,42.45,"juvenile",1934,"Pooecetes gramineus gramineus","Pooecetes_gramineus",22.3,NA,"female",9.1,479,11.5979622034531,51.9615242270663,"Summer",110637
+9,-108.1827333333,35.1362833333,NA,2008,"Pooecetes gramineus altus","Pooecetes_gramineus",22.4,NA,"female",7.6,399,7.73061603253093,65.829320090856,"Fall",110374
+3,-110.6553594,31.7375894,"ad",1952,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.4,NA,"female",15.4,457,7.6914897875194,83.1523457428418,"Spring",110504
+9,-117.53528,41.68472,"imm.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.5,NA,"undetermined",7,716,6.72856304169476,91.774891703395,"Fall",110149
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",22.5,NA,"male",5.5,751,10.3793026857503,46.1032253462665,"Summer",110265
+4,-116.865597,36.456792,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.5,NA,"male",23.3,31,10.6578467323234,99.6636097827943,"Spring",110400
+7,-118.16669,37.48965,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.5,NA,"female",0.6,179,8.08466561966654,159.763341981202,"Summer",110406
+1,-115.1486111,32.6275,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.5,NA,"male",22.5,24,7.26235624173162,83.0333996325903,"Winter",110687
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",22.5,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110732
+4,-118.005218,36.282226,"ad.",1918,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.6,NA,"male",14.6,180,8.49497177479393,124.946300738187,"Spring",110131
+7,-101.5400182,50.0811362,"imm",1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.6,NA,"female",1.9,511,13.6835224952783,102.852455500389,"Summer",110188
+11,-110.2233333,23.441667,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.7,NA,"female",22.4,133,3.35381962255069,121.078314185869,"Fall",110609
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.7,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110644
+7,-83.95,42.45,"juvenile",1934,"Pooecetes gramineus gramineus","Pooecetes_gramineus",22.7,NA,"female",9.1,479,11.5979622034531,51.9615242270663,"Summer",110716
+9,-118.473112,46.643219,NA,1994,"Pooecetes gramineus","Pooecetes_gramineus",22.8,NA,NA,12.1,259,8.44893753406577,73.4360655081126,"Fall",110038
+9,-111.5625,35.4603,"ad.",1922,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.8,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",110133
+5,-124.2134957,40.7351444,"ad",1972,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.8,NA,"male",10.7,1051,2.64093647302343,86.7045823536056,"Spring",110465
+6,-79.6206017,39.5803507,"ad",1980,"Pooecetes gramineus gramineus","Pooecetes_gramineus",22.8,NA,"female",9.2,1292,9.42630105158707,53.0366067535618,"Summer",110473
+5,-103.84325,44.45248,NA,2008,"Pooecetes gramineus","Pooecetes_gramineus",22.9,NA,"male",5.9,766,9.55308929883497,104.257694546455,"Spring",110061
+12,-115.9333333,30.7166667,"ad.",1925,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.9,NA,"male",18,233,3.68937869451147,127.714494956141,"Winter",110137
+7,-116.20724,41.30392,"u ad.",1935,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.9,NA,"female",5.6,271,8.60232526704263,90.7372632034375,"Summer",110155
+9,-117.1782,46.8673,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",22.9,NA,"male",7.7,537,8.02773129202577,79.064737848444,"Fall",110328
+10,-109.0262833333,32.0464166667,"ad",2007,"Pooecetes gramineus","Pooecetes_gramineus",22.9,NA,"female",17.5,246,8.12194931072957,103.152680815508,"Fall",110367
+4,-116.865597,36.456792,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.9,NA,"female",23.3,31,10.6578467323234,99.6636097827943,"Spring",110405
+5,-119.8975,42.0471,"u ad.",1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.9,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",110434
+4,-98.2666667,29.4666667,NA,1946,"Pooecetes gramineus gramineus","Pooecetes_gramineus",22.9,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Spring",110624
+1,-115.1486111,32.6275,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",22.9,NA,"male",22.5,24,7.26235624173162,83.0333996325903,"Winter",110688
+1,-110.5253565,31.6598128,"adult",1984,"Pooecetes gramineus","Pooecetes_gramineus",23,158,"undetermined",15.1,677,6.66102981391152,114.246465950415,"Winter",110051
+7,-101.8623587,37.1059226,NA,1963,"Pooecetes gramineus","Pooecetes_gramineus",23,NA,"male",14.5,255,10.7726505559217,101.663825416613,"Summer",110067
+6,-115.43111,41.87361,"u ad.",1956,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"female",4.6,594,8.26298794002325,109.66750568223,"Summer",110100
+5,-119.1053,37.90891,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"female",6.5,514,8.25665938757463,131.268195947851,"Spring",110111
+3,-116.427106,36.347616,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"female",17.2,46,9.42264760451052,121.454618398064,"Spring",110119
+7,-120.17049,40.86135,"u ad.",1925,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"male",8.1,303,6.78306156852673,39.4497535116245,"Summer",110134
+12,-115.9333333,30.7166667,"ad.",1925,"Pooecetes gramineus affinis","Pooecetes_gramineus",23,NA,"male",18,233,3.68937869451147,127.714494956141,"Winter",110135
+6,-120.8904,44.259,"u ad.",1938,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"male",8.3,230,7.12823557580994,52.944784510839,"Summer",110164
+7,-94.56915,48.72362,"juv",1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"male",1.9,355,14.4086122184132,45.1910240663824,"Summer",110221
+9,-118.1367378,34.6980419,NA,1990,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"male",16.8,76,8.0886517961146,123.140788706881,"Fall",110359
+9,-111.5625,35.4603,"ad.",1922,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"male",9.4,384,9.18201057404195,45.2659439514762,"Fall",110415
+7,-118.71194,38.54611,"u ad.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"male",10.9,127,7.13898812964075,109.004982307234,"Summer",110427
+5,-79.75334,43.70713,"ad",1943,"Pooecetes gramineus gramineus","Pooecetes_gramineus",23,NA,"female",6.4,793,10.4662335849409,34.0383522534105,"Spring",110562
+5,-119.630241,49.495707,"adult",1994,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,149,"female",10,300,8.61207749546407,40.6283945542385,"Spring",110621
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",23,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110665
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus confinis","Pooecetes_gramineus",23,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110666
+6,-85.8666667,45.4333333,NA,1939,"Pooecetes gramineus gramineus","Pooecetes_gramineus",23,NA,"female",6.2,749,10.3052355037563,45.0409106964284,"Summer",110698
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",23,NA,"female",7.9,293,9.00967493443811,80.181914255933,"Summer",110731
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",23,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110737
+7,-120.294074,55.715853,NA,1965,"Pooecetes gramineus","Pooecetes_gramineus",23,NA,NA,0.3,601,12.0335767624165,65.1300944661735,"Summer",110740
+4,-106.043861,40.106989,NA,2010,"Pooecetes gramineus","Pooecetes_gramineus",23.1,146,"male",3.4,357,9.50435306965852,45.7781650483668,"Spring",110059
+7,-111.0198507,42.1927915,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.1,NA,"female",6.3,249,8.6971608045733,52.6145503553048,"Summer",110306
+5,-104.5885833333,34.0635333333,NA,2010,"Pooecetes gramineus","Pooecetes_gramineus",23.1,NA,"female",15.5,329,8.78443440858818,83.4760733783785,"Spring",110376
+5,-117.426494,46.684337,NA,1973,"Pooecetes gramineus","Pooecetes_gramineus",23.2,NA,"female",10.8,488,7.77026188084866,114.111220505149,"Spring",110040
+4,-105.033906,40.850399,"adult",1991,"Pooecetes gramineus","Pooecetes_gramineus",23.2,150,"male",8.2,405,8.42744434462893,87.1124395785003,"Spring",110052
+10,-111.002236,32.242695,NA,1970,"Pooecetes gramineus","Pooecetes_gramineus",23.2,NA,"male",19.4,287,7.64470504019057,115.039004785733,"Fall",110078
+12,-115.9333333,30.7166667,"ad.",1925,"Pooecetes gramineus affinis","Pooecetes_gramineus",23.2,NA,"male",18,233,3.68937869451147,127.714494956141,"Winter",110138
+9,-108.4582,41.2869,"imm.",1939,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.2,NA,"female",6.6,134,9.28861717861755,58.0155434060267,"Fall",110169
+6,-118.7999992,55.0365615,"ad",1970,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.2,NA,"female",1.4,295,12.4787091406997,46.8782379644728,"Summer",110183
+8,-111.3367507,42.3221498,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.2,NA,"female",7.1,232,8.59127023451272,52.0210911552332,"Summer",110308
+4,-104.8040771,36.1856888,"ad",2007,"Pooecetes gramineus","Pooecetes_gramineus",23.2,NA,"female",10,430,8.45312834327498,76.797575251659,"Spring",110363
+6,-91.92887,50.10403,"ad",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.2,NA,"female",0.6,690,13.748377314719,41.0975349699112,"Summer",110502
+4,-117.132349,46.134944,NA,1988,"Pooecetes gramineus","Pooecetes_gramineus",23.3,NA,"male",8.2,441,7.55902029887391,61.7130390850635,"Spring",110042
+10,-119.4641,36.7166,"ad.",1916,"Pooecetes gramineus affinis","Pooecetes_gramineus",23.3,NA,"female",17.1,414,7.34171869069725,145.650371320593,"Fall",110118
+8,-118.22224,37.59175,"juv.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.3,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",110127
+7,-120.4608844,40.535017,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.3,NA,"female",10.2,261,7.68426175945867,116.728033852315,"Summer",110140
+7,-119.284993,38.454086,"u ad.",1946,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.3,NA,"male",1.6,753,6.62041722570596,137.445632413938,"Summer",110173
+6,-106.2394,45.3018,"u ad.",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.3,NA,"female",6.7,444,10.5011218736886,88.6627303491813,"Summer",110175
+9,-103.499436,39.749932,NA,1995,"Pooecetes gramineus","Pooecetes_gramineus",23.3,145,"undetermined",9.2,395,8.64337195704771,93.6991276173644,"Fall",110340
+9,-117.1143,38.96403,"u ad.",1931,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.3,NA,"female",9.8,177,9.48371411069173,55.5409578086907,"Fall",110423
+5,-119.8975,42.0471,"u ad.",1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.3,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",110435
+6,-119.6952863,48.557371,NA,1940,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.3,NA,"male",7.7,423,8.69707369803723,64.6884954486685,"Summer",110513
+7,-117.52944,41.70556,"ad sk.",1973,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.4,NA,"female",5.8,572,7.83006540473477,62.7736807068539,"Summer",110106
+4,-118.005218,36.282226,"ad.",1918,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.4,NA,"female ?",14.6,180,8.49497177479393,124.946300738187,"Spring",110130
+6,-118.868273,37.872789,"u ad.",1942,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.4,NA,"female",4.2,324,7.1714659758256,76.7990048348649,"Summer",110171
+6,-120.2653,43.9958,"u ad.",1920,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.4,NA,"male",6.3,329,7.14632242782428,63.8692492391933,"Summer",110413
+7,-111.0198507,42.1927915,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.4,NA,"female",6.3,249,8.6971608045733,52.6145503553048,"Summer",110550
+8,-111.3953253,42.1675605,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.4,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",110552
+8,-83.95,42.45,"juvenile",1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",23.4,NA,"male",8.1,811,10.6975039569561,57.0342322994254,"Summer",110699
+8,-111.2666667,42.2833333,NA,1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.4,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110709
+7,-111.2993914,43.278161,NA,1949,"Pooecetes gramineus","Pooecetes_gramineus",23.5,NA,"female",3.9,543,10.2742691253736,44.5696693177281,"Summer",110065
+9,-117.53528,41.68472,"imm.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.5,NA,"male",7,716,6.72856304169476,91.774891703395,"Fall",110148
+8,-94.56915,48.72362,"juv",1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.5,NA,"male",1.9,355,14.4086122184132,45.1910240663824,"Summer",110222
+4,-83.7263412,42.2708397,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",23.5,NA,"male",9.1,869,10.1089819047971,60.2853375909974,"Spring",110288
+7,-111.0198507,42.1927915,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.5,NA,"male",6.3,249,8.6971608045733,52.6145503553048,"Summer",110305
+8,-111.3953253,42.1675605,"juvenile",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.5,NA,"male",7.2,220,8.49891258641452,48.1357958901737,"Summer",110312
+7,-84.48194,44.80306,NA,1930,"Pooecetes gramineus","Pooecetes_gramineus",23.5,NA,"male",6.4,617,10.7027467445879,58.6321175020852,"Summer",110315
+6,-107.329617,44.05273,NA,2008,"Pooecetes gramineus","Pooecetes_gramineus",23.5,NA,"male",6.3,498,9.33242960992701,95.6058016126735,"Summer",110345
+7,-103.9762831,36.7788705,NA,1963,"Pooecetes gramineus","Pooecetes_gramineus",23.5,NA,"male",9.7,355,9.08196264331369,106.66487828597,"Summer",110348
+6,-120.8904,44.259,"u ad.",1938,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.5,NA,"male",8.3,230,7.12823557580994,52.944784510839,"Summer",110436
+8,-110.06916,43.02033,"ad.",1939,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.5,NA,"female",1.4,264,9.45778499278224,64.1404491466844,"Summer",110437
+6,-83.7391662,46.0204493,NA,1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",23.5,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",110508
+3,-105.20181,41.104186,NA,1964,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.5,NA,"male",4.6,265,9.00883404826013,73.3444883713514,"Spring",110561
+10,-72.5989,41.2794,"immature",1976,"Pooecetes gramineus","Pooecetes_gramineus",23.5,NA,"male",10,1114,9.13114882081542,58.6512675847722,"Fall",110659
+9,-104.8381666667,38.2880333333,"ad",2007,"Pooecetes gramineus","Pooecetes_gramineus",23.5,NA,"female",12.1,351,9.85780724280829,75.6380624444285,"Fall",110682
+4,-118.03545,46.97315,NA,1952,"Pooecetes gramineus","Pooecetes_gramineus",23.6,168,"male",10.1,244,8.78053977770608,94.0729008272611,"Spring",110039
+7,-118.055665,46.96557,NA,1993,"Pooecetes gramineus","Pooecetes_gramineus",23.6,NA,"male",8.9,325,8.71805423801491,57.5651618198215,"Summer",110047
+6,-118.048603,37.052647,"ad.sk.",1984,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.6,NA,"female",7.4,288,7.35951250032393,108.322079802464,"Summer",110108
+12,-115.9333333,30.7166667,"ad.",1925,"Pooecetes gramineus affinis","Pooecetes_gramineus",23.6,NA,"female",18,233,3.68937869451147,127.714494956141,"Winter",110136
+5,-119.8975,42.0471,"u ad.",1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.6,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",110161
+6,-112.0529175,35.9175835,"ad",1969,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.6,NA,"male",8.9,427,8.04914827039407,67.293259606686,"Summer",110182
+5,-84.3015289,44.7111221,NA,1934,"Pooecetes gramineus","Pooecetes_gramineus",23.6,NA,"female",6,660,11.350727516398,61.3537211096775,"Spring",110298
+6,-106.2394,45.3018,"u ad.",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.6,NA,"male",6.7,444,10.5011218736886,88.6627303491813,"Summer",110445
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.6,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110723
+6,-105.1666666667,40.5166666667,"adult",1991,"Pooecetes gramineus","Pooecetes_gramineus",23.7,147,"male",8.5,427,8.21598589594847,82.8353912774961,"Summer",110053
+8,-106.4342871,37.02282872,"u ad.",1952,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"male",0.8,822,8.31323789160543,89.4217443656982,"Summer",110096
+4,-116.865597,36.456792,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"male",23.3,31,10.6578467323234,99.6636097827943,"Spring",110122
+7,-118.182829,37.488762,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"male",1,182,8.07072431130508,162.208847686414,"Summer",110124
+3,-117.905657,35.9367219,"ad.",1918,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"male",16.1,167,8.60861091106932,114.087178941663,"Spring",110129
+7,-107.21756,42.44291,"u ad.",1935,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"male",7.2,267,9.65067119662952,111.839846380352,"Summer",110156
+7,-83.7391662,46.0204493,"adult",1938,"Pooecetes gramineus","Pooecetes_gramineus",23.7,NA,"female",6.1,746,10.7863550166613,25.6582764962601,"Summer",110253
+7,-111.1701038,42.1734455,"juvenile",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"female",6.5,241,8.47041196093075,49.0279060582833,"Summer",110307
+3,-117.905657,35.9367219,"ad.",1918,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"female",16.1,167,8.60861091106932,114.087178941663,"Spring",110409
+9,-108.4582,41.2869,"imm.",1939,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"female",6.6,134,9.28861717861755,58.0155434060267,"Fall",110439
+7,-112.6547,45.2133,"u ad.",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"female",5.9,296,8.81944734749018,90.1113815954126,"Summer",110448
+7,-94.98538,49.92533,"ad",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",110618
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.7,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110647
+6,-110.682998,43.6813712,NA,1949,"Pooecetes gramineus","Pooecetes_gramineus",23.8,NA,"male",2.4,531,10.7083760758491,40.2391363384955,"Summer",110064
+5,-119.8975,42.0471,"u ad.",1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.8,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",110162
+6,-118.868273,37.872789,"u ad.",1942,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.8,NA,"male",4.2,324,7.1714659758256,76.7990048348649,"Summer",110170
+6,-106.2394,45.3018,"u ad.",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.8,NA,"male",6.7,444,10.5011218736886,88.6627303491813,"Summer",110177
+7,-109.5254517,49.2113176,"ad",1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.8,NA,"male",2.7,253,13.000128204496,91.7147818483422,"Summer",110187
+7,-85.5568848,45.6646004,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",23.8,NA,"female",6.3,734,10.4803278921641,72.7502344657928,"Summer",110320
+9,-104.8605833333,38.2894166667,"im",2007,"Pooecetes gramineus","Pooecetes_gramineus",23.8,NA,"female",12,360,9.79082362586148,73.3765496184922,"Fall",110366
+7,-109.5254517,49.2113176,"imm",1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.8,NA,"female",2.7,253,13.000128204496,91.7147818483422,"Summer",110462
+6,-119.2655182,50.8811601,"ad",1980,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.8,NA,"male",6.7,804,8.3955751332581,52.0621163843074,"Summer",110472
+7,-111.0198507,42.1927915,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.8,NA,"male",6.3,249,8.6971608045733,52.6145503553048,"Summer",110547
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.8,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110645
+7,-94.98538,49.92533,"ad",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.8,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",110695
+7,-111.2666667,42.35,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",23.9,NA,"male",5.4,397,7.59067909286838,57.8289344380064,"Summer",110641
+8,-117.84883,47.043066,NA,1990,"Pooecetes gramineus","Pooecetes_gramineus",24,NA,"male",10,403,8.59948465686383,47.7686975383541,"Summer",110045
+3,-100.3445424,37.115447,NA,1950,"Pooecetes gramineus","Pooecetes_gramineus",24,NA,"male",13.9,417,8.98194738282733,151.057633602096,"Spring",110073
+5,-122.0375778,41.9485663,NA,1962,"Pooecetes gramineus","Pooecetes_gramineus",24,NA,"male",7.3,442,7.17512538165182,98.3303967669314,"Spring",110076
+6,-114.22917,39.095,"u ad.",1962,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",110102
+9,-118.48803,37.88755,"imm.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"male",9.6,86,9.31430961673293,162.578402961469,"Fall",110128
+5,-117.53361,41.56606,"u ad.",1935,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"male",7.7,322,8.5757012258562,85.6352238426565,"Spring",110153
+12,-110.2142399,31.896995,"ad",1973,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"female",16.3,256,7.84031925756892,129.721581251388,"Winter",110194
+12,-103.0598561,29.8169754,"ad",1981,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"male",18.7,424,7.17214730535402,78.5539035234065,"Winter",110208
+7,-109.5027924,49.4623227,"juv",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"female",6.2,246,8.53447110075938,93.9233573815922,"Summer",110211
+5,-80.24294,42.5613,NA,1928,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24,NA,"female",9.2,821,9.33141890539048,43.0734582008226,"Spring",110217
+6,-77.35176,43.95265,"ad",1930,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24,NA,"male",7.7,616,10.0967891685997,38.0773454456694,"Summer",110225
+7,-84.3015289,44.7111221,"juvenile",1934,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24,NA,"male",6,660,11.350727516398,61.3537211096775,"Summer",110301
+4,-97.4281465,28.1023602,NA,1967,"Pooecetes gramineus","Pooecetes_gramineus",24,NA,"female",21.9,1060,6.05202195113085,168.088920631327,"Spring",110353
+1,-116.736859,32.39092,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"male",16.8,212,3.95523243771635,107.166852477321,"Winter",110420
+8,-109.83667,43.30329,"imm.",1939,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"female",0.5,432,8.61082387921086,62.4349229099711,"Summer",110438
+6,-86.1218261,45.0237958,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",110517
+6,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",24,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Summer",110522
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",24,NA,"female",5.5,751,10.3793026857503,46.1032253462665,"Summer",110530
+7,-111.0198507,42.1927915,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"male",6.3,249,8.6971608045733,52.6145503553048,"Summer",110548
+7,-94.98538,49.92533,"ad",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",24,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",110619
+6,-100,50.5833,NA,1965,"Pooecetes gramineus","Pooecetes_gramineus",24,NA,NA,-0.7,602,13.8751003272376,81.6511426185151,"Summer",110733
+9,-102.330414,40.086855,NA,1987,"Pooecetes gramineus","Pooecetes_gramineus",24.1,152,"female",11.1,501,9.25846050426802,89.4991022633286,"Fall",110057
+4,-104.7052002,36.0321647,"ad",2007,"Pooecetes gramineus","Pooecetes_gramineus",24.1,NA,"male",10.5,439,8.72618837960559,74.2657522241476,"Spring",110083
+11,-108.33175,31.6688333333,NA,2013,"Pooecetes gramineus","Pooecetes_gramineus",24.1,NA,"male",17,265,8.3026830274644,127.482746525353,"Fall",110091
+9,-117.1143,38.96403,"imm.",1931,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.1,NA,"female",9.8,177,9.48371411069173,55.5409578086907,"Fall",110145
+8,-111.3953253,42.1675605,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.1,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",110311
+5,-83.7274933,42.2183477,NA,1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24.1,NA,"male",10.5,682,9.63397947922148,49.3401214851568,"Spring",110316
+10,-95.30056,39.02747,NA,1964,"Pooecetes gramineus","Pooecetes_gramineus",24.1,NA,"undetermined",12.8,997,9.86531650262523,73.9064779416986,"Fall",110349
+1,-115.1486111,32.6275,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.1,NA,"male",22.5,24,7.26235624173162,83.0333996325903,"Winter",110689
+4,-83.6561111,42.3127778,NA,1949,"Pooecetes gramineus","Pooecetes_gramineus",24.1,NA,"male",10.5,841,9.74649898292933,23.8253832581416,"Spring",110704
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.1,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110718
+4,-106.3304805555,29.4621811111,"u ad.",1964,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.2,NA,"undetermined",16.2,175,7.15102768626279,136.342973641135,"Spring",110103
+6,-114.22917,39.095,"u ad.",1962,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.2,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",110388
+12,-115.9333333,30.7166667,"ad.",1925,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.2,NA,"male",18,233,3.68937869451147,127.714494956141,"Winter",110416
+12,-115.9333333,30.7166667,"ad.",1925,"Pooecetes gramineus affinis","Pooecetes_gramineus",24.2,NA,"male",18,233,3.68937869451147,127.714494956141,"Winter",110417
+6,-106.2394,45.3018,"u ad.",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.2,NA,"male",6.7,444,10.5011218736886,88.6627303491813,"Summer",110446
+10,-84.00378,42.46969,"Ad.",1935,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24.2,NA,"female",8.3,667,10.1991495486218,43.8026874996152,"Fall",110597
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.2,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110727
+6,-118.959868,37.887635,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.3,NA,"male",5.5,516,7.89443129392773,134.832679706332,"Summer",110116
+10,-103.894455,30.4981529,"ad",1993,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.3,NA,"female",15.4,429,6.58917270753294,132.978655725407,"Fall",110216
+6,-100.5318477,48.5370519,"juv",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.3,NA,"male",6.6,403,10.7874892464569,118.43114304456,"Summer",110233
+7,-83.7391662,46.0204493,"adult",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24.3,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",110249
+6,-118.868273,37.872789,"u ad.",1942,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.3,NA,"male",4.2,324,7.1714659758256,76.7990048348649,"Summer",110444
+7,-85.5568848,45.6646004,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24.3,NA,"female",6.3,734,10.4803278921641,72.7502344657928,"Summer",110555
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.3,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110651
+5,-102.1198244,39.6316333,"adult",1991,"Pooecetes gramineus","Pooecetes_gramineus",24.4,143,"male",11.3,606,9.48686492264995,76.4576529595402,"Spring",110058
+8,-104.8160934,36.1759897,"ahy",2006,"Pooecetes gramineus","Pooecetes_gramineus",24.4,NA,"female",10.2,447,7.5235790966961,115.43978881279,"Summer",110080
+5,-119.8975,42.0471,"u ad.",1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.4,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",110157
+6,-85.3811932,45.2163895,"adult",1937,"Pooecetes gramineus","Pooecetes_gramineus",24.4,NA,"male",7.5,752,10.4691610615815,68.4234808234294,"Summer",110252
+9,-104.8401666667,38.2887,"im",2007,"Pooecetes gramineus","Pooecetes_gramineus",24.4,NA,"female",12.1,352,9.85780724280829,75.7754799779606,"Fall",110365
+5,-119.107208,37.880822,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.4,NA,"female",6.4,544,8.17061901886969,132.434244190419,"Spring",110396
+6,-85.5568848,45.6646004,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24.4,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",110556
+9,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus","Pooecetes_gramineus",24.4,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Fall",110640
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.4,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110649
+12,-115.7230556,31.4,"ad.",1926,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.4,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",110686
+6,-103.8290815,43.63048688,NA,2007,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,NA,7.9,395,10.771887513619,59.453748571927,"Summer",110060
+8,-114.8514776,44.5471332,NA,1948,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,"male",2.5,743,8.8947848186281,63.0290492854406,"Summer",110063
+8,-119.8447,49.0442,"u ad.",1969,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",-0.6,778,8.55839123936623,85.8771083507112,"Summer",110105
+6,-119.61867,38.81817,"ad. sk.",1969,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",7.6,895,7.26875317556407,137.111200659695,"Summer",110107
+9,-119.1053,37.90891,"ad.",1915,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"female",6.8,359,7.07562503931417,123.488618621715,"Fall",110109
+5,-119.1053,37.90891,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",6.5,514,8.25665938757463,131.268195947851,"Spring",110110
+5,-119.107208,37.880822,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",6.4,544,8.17061901886969,132.434244190419,"Spring",110112
+5,-119.107208,37.880822,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",6.4,544,8.17061901886969,132.434244190419,"Spring",110114
+6,-118.89284,37.88048,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",4.7,547,7.72945958360256,135.955631177119,"Summer",110115
+10,-117.2694824,33.9823184,"ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"female",15.5,479,4.99602114414333,176.464650078345,"Fall",110117
+7,-118.182829,37.488762,"ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",1,182,8.07072431130508,162.208847686414,"Summer",110125
+12,-110.2142399,31.896995,"ad",1973,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",16.3,256,7.84031925756892,129.721581251388,"Winter",110193
+10,-103.894455,30.4981529,"ad",1993,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",15.4,429,6.58917270753294,132.978655725407,"Fall",110214
+6,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Summer",110257
+6,-85.5096817,46.4359641,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,"male",5.3,757,10.304132739593,45.6415776047671,"Summer",110261
+5,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,"female",5.6,751,10.3763243039434,45.9210389492857,"Spring",110275
+4,-83.4423637,41.7970399,NA,1933,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,"female",10.6,683,10.3218949399573,51.6950776187274,"Spring",110297
+4,-103.4454536,29.6288013,NA,1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",17.9,307,7.16675827989365,81.4043182334281,"Spring",110323
+8,-117.923113,47.240366,NA,1990,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,"female",9.3,412,8.77660457573359,48.443882773913,"Summer",110330
+4,-105.1672249,35.5083733,"ad",2008,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,"male",10.6,401,7.70365910696752,104.531192013005,"Spring",110372
+9,-120.2370584,39.5011419,"ad. sk.",1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",4.7,834,7.24068366937819,102.795569261329,"Fall",110391
+6,-112.0529175,35.9175835,"ad",1969,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",8.9,427,8.04914827039407,67.293259606686,"Summer",110454
+6,-85.5096817,46.4359641,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,"female",5.3,757,10.304132739593,45.6415776047671,"Summer",110523
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",24.5,NA,"female",5.5,751,10.3793026857503,46.1032253462665,"Summer",110528
+3,-103.924117,30.5624938,NA,1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",15.6,392,7.05452251245879,72.1297852770207,"Spring",110560
+1,-115.1486111,32.6275,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.5,NA,"male",22.5,24,7.26235624173162,83.0333996325903,"Winter",110608
+4,-122.2855723,40.3221638,"u ad.",1928,"Pooecetes gramineus affinis","Pooecetes_gramineus",24.6,NA,"female",17.1,646,7.65563765331066,111.65926268567,"Spring",110139
+6,-115.3268679,40.8552468,"ad",1980,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.6,NA,"male",8.1,472,7.37725312269842,113.439728141503,"Summer",110206
+9,-83.7263412,42.2708397,NA,1936,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24.6,NA,"male",8.9,620,11.5959501812512,64.4156693647403,"Fall",110289
+6,-85.213871,41.796323,"adult",2005,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24.6,NA,"male",9.8,832,10.7377943392825,52.467762714455,"Summer",110295
+9,-101.8623587,37.1131734,NA,1967,"Pooecetes gramineus","Pooecetes_gramineus",24.6,NA,"male",13.6,409,8.56951520852206,113.931984146854,"Fall",110354
+9,-108.1827333333,35.1362833333,NA,2008,"Pooecetes gramineus altus","Pooecetes_gramineus",24.6,NA,"female",7.6,399,7.73061603253093,65.829320090856,"Fall",110375
+7,-118.90833,38.53306,"u ad.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.6,NA,"male",10.2,152,6.86497478421289,100.777050417929,"Summer",110426
+7,-84.0037823,42.4696911,NA,1934,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24.6,NA,"male",9,484,11.5789876304215,50.8407004464127,"Summer",110544
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.6,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110725
+6,-75.627724,44.113591,"larvae",1991,"Pooecetes gramineus","Pooecetes_gramineus",24.6000003814697,150,NA,7.8,939,10.1516083215987,26.2715074855058,"Summer",110048
+6,-83.7391662,46.0204493,NA,1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",24.65,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",110248
+4,-104.808197,36.1819479,"ad",2007,"Pooecetes gramineus","Pooecetes_gramineus",24.7,NA,"female",10,431,8.45506393001295,76.742758414083,"Spring",110082
+3,-118.7154194,35.3025714,"ad.",1920,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.7,NA,"male",17.6,234,6.67403380817982,125.013189147389,"Spring",110132
+10,-118.49432,35.4277106,"imm.",1933,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.7,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",110147
+9,-108.4582,41.2869,"imm.",1939,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.7,NA,"male",6.6,134,9.28861717861755,58.0155434060267,"Fall",110168
+6,-84.4551659,44.8149672,"adult",1935,"Pooecetes gramineus","Pooecetes_gramineus",24.7,NA,"female",6,681,10.5641869282281,51.1934312617546,"Summer",110314
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.7,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",110382
+5,-120.14686,39.38635,"u ad.",1959,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.7,NA,"male",6.2,473,6.86334135428616,135.696705502198,"Spring",110386
+5,-119.1053,37.90891,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.7,NA,"male",6.5,514,8.25665938757463,131.268195947851,"Spring",110394
+6,-118.868273,37.872789,"u ad.",1942,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.7,NA,"male",4.2,324,7.1714659758256,76.7990048348649,"Summer",110441
+6,-93.83787,48.63186,"ad",1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.75,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",110488
+9,-104.8771666667,38.2894166667,"im",2007,"Pooecetes gramineus","Pooecetes_gramineus",24.8,NA,"female",12,362,9.76888613730534,73.2733409653736,"Fall",110085
+7,-109.5254517,49.2113176,NA,1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.8,NA,"undetermined",2.7,253,13.000128204496,91.7147818483422,"Summer",110192
+8,-104.8160934,36.1759897,"ahy",2006,"Pooecetes gramineus","Pooecetes_gramineus",24.8,NA,"male",10.2,447,7.5235790966961,115.43978881279,"Summer",110360
+7,-118.90833,38.53306,"u ad.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.8,NA,"male",10.2,152,6.86497478421289,100.777050417929,"Summer",110425
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.8,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110721
+6,-114.82083,40.5525,"u ad.",1956,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.9,NA,"male",3,727,7.97288967043754,111.831904649184,"Summer",110101
+9,-117.1143,38.96403,"imm.",1931,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.9,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",110143
+6,-118.868273,37.872789,"u ad.",1942,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.9,NA,"male",4.2,324,7.1714659758256,76.7990048348649,"Summer",110440
+7,-109.5027924,49.4623227,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.9,NA,"male",6.2,246,8.53447110075938,93.9233573815922,"Summer",110478
+7,-109.5027924,49.4623227,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.9,NA,"male",6.2,246,8.53447110075938,93.9233573815922,"Summer",110479
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.9,NA,"female",6.7,246,8.41970992086516,54.2944556001797,"Summer",110646
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",24.9,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110648
+4,-117.6713,47.261,NA,1988,"Pooecetes gramineus","Pooecetes_gramineus",25,NA,"female",9.4,398,7.96303486382072,78.0747091188407,"Spring",110044
+9,-76.655259,42.276659,NA,1954,"Pooecetes gramineus","Pooecetes_gramineus",25,NA,"female",8.1,933,9.46667200170571,30.844038680995,"Fall",110049
+9,-76.655259,42.276659,NA,1954,"Pooecetes gramineus","Pooecetes_gramineus",25,NA,"female",8.1,933,9.46667200170571,30.844038680995,"Fall",110050
+8,-110.7682,45.033,"imm.",1967,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"female ?",4.2,517,9.14780980576358,44.4716076609678,"Summer",110104
+5,-119.8975,42.0471,"u ad.",1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",110159
+5,-119.8975,42.0471,"u ad.",1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",110160
+12,-103.6575929,30.4524996,"imm",1978,"Pooecetes gramineus ssp?","Pooecetes_gramineus",25,NA,"male",16.8,594,7.19968433651466,108.783569427635,"Winter",110202
+8,-109.1860767,53.3833332,NA,1976,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"undetermined",2.5,392,12.0688429311583,89.8938469066317,"Summer",110203
+8,-94.56915,48.72362,NA,1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",1.9,355,14.4086122184132,45.1910240663824,"Summer",110220
+4,-79.62304,43.99192,"ad",1933,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"undetermined",7.3,686,10.4707239771689,39.3335609604032,"Spring",110229
+6,-86.1218261,45.0237958,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",110256
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",25,NA,"female",5.5,751,10.3793026857503,46.1032253462665,"Summer",110268
+5,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",25,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Spring",110272
+5,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",25,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Spring",110274
+7,-110.9582432,41.958448,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",6.2,174,8.89887207697831,40.6033130186905,"Summer",110303
+8,-84.0512466,42.4569008,NA,1936,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"female",8.4,639,11.4706608617839,62.9248109963061,"Summer",110313
+2,-97.56546,30.11,"u ad.",1952,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",110381
+5,-119.1053,37.90891,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",6.5,514,8.25665938757463,131.268195947851,"Spring",110395
+6,-119.107208,37.880822,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",6.4,544,8.17061901886969,132.434244190419,"Summer",110399
+4,-116.865597,36.456792,"u ad.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",23.3,31,10.6578467323234,99.6636097827943,"Spring",110401
+10,-103.6575929,30.4524996,"ad",1975,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",16.2,365,6.38570847496758,115.926176447903,"Fall",110468
+11,-103.8819122,30.5818073,"ad",1990,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"female",15.9,656,6.1842113237639,108.645526929899,"Fall",110483
+8,-94.56915,48.72362,"imm",1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"female",1.9,355,14.4086122184132,45.1910240663824,"Summer",110489
+7,-84.02525,46.353393,"juv",1931,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",110494
+6,-100.5318477,48.5370519,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",6.6,403,10.7874892464569,118.43114304456,"Summer",110496
+4,-79.351506,43.634482,"ad",1942,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"male",8,905,10.3800033572716,40.4530759252583,"Spring",110500
+4,-81.28505,43.03071,NA,1908,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"female",7.5,921,10.2586105740052,40.4512620911164,"Spring",110501
+6,-86.1218261,45.0237958,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"female",7.2,848,9.45869809735831,42.4204910203786,"Summer",110519
+4,-84.1438895,36.2749988,NA,1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"female",14.1,1267,8.19726488013847,38.6317792113863,"Spring",110558
+4,-75.95092,44.62722,"ad",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"male",7,763,10.6670265090818,41.2223438959489,"Spring",110611
+7,-77.27931,43.96989,"juv",1930,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",110615
+4,-79.86025,43.91781,"ad",1945,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"male",6,976,10.1949593902917,35.8472936570463,"Spring",110617
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110658
+7,-94.98538,49.92533,"juv",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",25,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",110696
+11,-98.2666667,29.4666667,NA,1946,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25,NA,"female",20.8,1074,6.50879940518754,44.2576588163986,"Fall",110701
+6,-100,50.5667,NA,1965,"Pooecetes gramineus","Pooecetes_gramineus",25,NA,NA,-0.7,601,13.8709200935779,81.099011221877,"Summer",110738
+4,-104.7084666667,36.02455,NA,2007,"Pooecetes gramineus","Pooecetes_gramineus",25.1,NA,"male",10.4,438,8.68981901684118,74.3773806054697,"Spring",110081
+8,-111.3953253,42.1675605,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.1,NA,"male",7.2,220,8.49891258641452,48.1357958901737,"Summer",110310
+6,-85.5568848,45.6646004,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.1,NA,"female",6.3,734,10.4803278921641,72.7502344657928,"Summer",110321
+6,-115.43111,41.87361,"u ad.",1956,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.1,NA,"male",4.6,594,8.26298794002325,109.66750568223,"Summer",110385
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.1,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110642
+9,-83.95,42.45,"immature",1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.1,NA,"female",8.1,811,10.6975039569561,57.0342322994254,"Fall",110700
+5,-117.345626,46.668572,NA,1988,"Pooecetes gramineus","Pooecetes_gramineus",25.2,NA,"male",10,489,7.5900003992494,68.0036028116014,"Spring",110043
+8,-118.22224,37.59175,"juv.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.2,NA,"male",-1.3,209,8.10951554806096,176.75630463477,"Summer",110126
+7,-83.7391662,45.9914917,"adult",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.2,NA,"female",6.1,749,10.7486574214474,25.9279651212285,"Summer",110246
+9,-102.915243,40.679207,NA,1995,"Pooecetes gramineus","Pooecetes_gramineus",25.2,155,"undetermined",9.7,450,8.93553935900702,97.2876605170917,"Fall",110341
+8,-83.7391662,46.0204493,"adult",1938,"Pooecetes gramineus","Pooecetes_gramineus",25.2,NA,"female",6.1,746,10.7863550166613,25.6582764962601,"Summer",110511
+5,-83.6422,42.30201,NA,1942,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.2,NA,"male",9.4,905,10.457891756946,34.4116054483883,"Spring",110521
+6,-85.5568848,45.6646004,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.2,NA,"female",6.3,734,10.4803278921641,72.7502344657928,"Summer",110557
+5,-102.850391,21.2672266,"ad",1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.2,NA,"female",17.9,749,2.55941517941229,125.46855708308,"Spring",110610
+3,-98.2666667,29.4666667,NA,1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.2,NA,"female",20.2,576,7.75245806571091,84.1041752075044,"Spring",110625
+11,-98.3166667,29.5166667,NA,1946,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.2,NA,"female",20.6,1089,6.52953081984247,44.6151115958278,"Fall",110706
+8,-111.2666667,42.2833333,NA,1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.2,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110707
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.2,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110724
+6,-93.83787,48.63186,NA,1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.25,NA,"female",1.8,428,14.3487381981409,51.6416404531459,"Summer",110486
+6,-109.3720061,49.5405287,"ad",1968,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.3,NA,"female",3,328,9.97965733911043,65.3665708426285,"Summer",110179
+7,-83.7391662,46.0204493,"adult",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.3,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",110250
+8,-104.8160934,36.1759897,"ad",2006,"Pooecetes gramineus","Pooecetes_gramineus",25.3,NA,"male",10.2,447,7.5235790966961,115.43978881279,"Summer",110361
+12,-115.9333333,30.7166667,"imm.",1925,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.3,NA,"male",18,233,3.68937869451147,127.714494956141,"Winter",110418
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.3,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110722
+11,-108.32945,31.6672166667,NA,2013,"Pooecetes gramineus","Pooecetes_gramineus",25.4,NA,"male",17,266,8.3026830274644,127.482746525353,"Fall",110090
+6,-109.8530194,50.9422571,"ad",1970,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.4,NA,"female",2.8,308,13.8004254435957,126.153428164715,"Summer",110185
+6,-100.5318477,48.5370519,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.4,NA,"female",6.6,403,10.7874892464569,118.43114304456,"Summer",110234
+7,-84.4891597,44.7979481,"adult",1934,"Pooecetes gramineus","Pooecetes_gramineus",25.4,NA,"female",6,696,11.4267197498855,61.4384251636033,"Summer",110300
+4,-98.35839,39.48587,"no bursa",1996,"Pooecetes gramineus","Pooecetes_gramineus",25.4,NA,"female",11.1,739,10.9585548427895,84.0014193490241,"Spring",110357
+8,-111.2666667,42.2833333,NA,1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.4,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110708
+8,-106.4342871,37.02282872,"ad.",1952,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"female",0.8,822,8.31323789160543,89.4217443656982,"Summer",110097
+6,-106.2394,45.3018,"u ad.",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"male",6.7,444,10.5011218736886,88.6627303491813,"Summer",110176
+11,-103.6575929,30.4524996,"ad",1989,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"female",17.2,432,7.12683256603117,131.288365641181,"Fall",110213
+10,-103.894455,30.4981529,"ad",1993,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"[male]",15.4,429,6.58917270753294,132.978655725407,"Fall",110215
+7,-83.7391662,46.0204493,"adult",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.5,NA,"female",6.1,746,10.7863550166613,25.6582764962601,"Summer",110244
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",25.5,NA,"female",5.5,751,10.3793026857503,46.1032253462665,"Summer",110269
+6,-85.5096817,46.4086313,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",25.5,NA,"male",5.5,752,10.3215096088731,45.7221842032731,"Summer",110278
+6,-84.5658875,44.6603506,"adult",1934,"Pooecetes gramineus","Pooecetes_gramineus",25.5,NA,"female",6.1,685,11.5337449567464,62.3648665776183,"Summer",110299
+9,-108.1250666667,35.0832666667,"HY",2008,"Pooecetes gramineus altus","Pooecetes_gramineus",25.5,NA,"male",7.6,332,7.67670127230716,75.1688212813685,"Fall",110373
+6,-118.261045,37.712773,"u ad.",1954,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"female",1.4,303,6.17008300125892,86.7206712367888,"Summer",110383
+6,-114.22917,39.095,"u ad.",1962,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"male",8.6,183,9.17767383216994,70.0943316473903,"Summer",110389
+4,-116.865597,36.456792,"u ad.",1920,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"male",21.9,51,10.12934530775,114.471914711275,"Spring",110411
+5,-119.8975,42.0471,"u ad.",1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",110433
+7,-110.6556565,49.3421167,"ad",1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"male",4,294,11.958704196551,80.5587995959727,"Summer",110463
+5,-83.7263412,42.2708397,NA,1936,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.5,NA,"male",8.9,620,11.5959501812512,64.4156693647403,"Spring",110540
+6,-77.27931,43.96989,NA,1930,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.5,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",110690
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",25.5,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110734
+7,-118.5195,47.642144,NA,1977,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.5,NA,"male",7.9,293,9.00967493443811,80.181914255933,"Summer",110742
+6,-103.8750854,43.63477279,NA,2007,"Pooecetes gramineus","Pooecetes_gramineus",25.6,NA,NA,7.8,378,10.982920624977,59.2446556595187,"Summer",110343
+6,-119.107208,37.880822,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.6,NA,"male",6.4,544,8.17061901886969,132.434244190419,"Summer",110398
+2,-97.3880005,28.5507029,"ad",1979,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.6,NA,"female",20.5,1070,6.650968259425,68.8183769124606,"Winter",110470
+1,-115.1486111,32.6275,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.6,NA,"male",22.5,24,7.26235624173162,83.0333996325903,"Winter",110607
+8,-83.95,42.45,NA,1935,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.6,NA,"male",8.4,658,10.1983473111474,44.4104509785528,"Summer",110654
+4,-83.95,42.45,NA,1950,"Pooecetes gramineus","Pooecetes_gramineus",25.6,NA,"male",8.2,942,10.0519069500933,27.8856330911228,"Spring",110711
+4,-118.520301,46.759841,NA,1979,"Pooecetes gramineus","Pooecetes_gramineus",25.7,NA,"male",10,253,10.1942051275133,50.4361517261999,"Spring",110041
+6,-83.7250471,46.0205388,NA,1938,"Pooecetes gramineus","Pooecetes_gramineus",25.7,NA,"female",6.1,750,10.7703155464312,25.7292054667529,"Summer",110292
+9,-110.7581448,41.3813375,NA,1946,"Pooecetes gramineus","Pooecetes_gramineus",25.7,NA,"male",4.5,348,8.75960079344978,65.9530951406681,"Fall",110346
+6,-119.084172,37.902037,"u ad.",1916,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.7,NA,"female",6.7,497,8.30630921211537,132.983846514992,"Summer",110397
+6,-79.6206017,39.5803507,"ad",1980,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.7,NA,"male",9.2,1292,9.42630105158707,53.0366067535618,"Summer",110474
+6,-84.4551659,44.8149672,"adult",1935,"Pooecetes gramineus","Pooecetes_gramineus",25.7,NA,"male",6,681,10.5641869282281,51.1934312617546,"Summer",110553
+9,-106.2166666667,40.5771166667,"ad",2007,"Pooecetes gramineus","Pooecetes_gramineus",25.8,NA,"male",3,383,9.39085628780368,52.7476572077765,"Fall",110084
+5,-119.8975,42.0471,"u ad.",1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.8,NA,"female",7.8,384,9.29636618482858,83.5759812858421,"Spring",110158
+7,-109.5027924,49.4623227,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.8,NA,"male",6.2,246,8.53447110075938,93.9233573815922,"Summer",110209
+10,-83.7263412,42.2708397,NA,1939,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.8,NA,"female",10.1,662,10.2795766921453,66.7450603426487,"Fall",110287
+7,-83.7406254,46.0132223,NA,1938,"Pooecetes gramineus","Pooecetes_gramineus",25.8,NA,"male",6.1,748,10.7780465706355,25.9492114205241,"Summer",110290
+8,-111.2424846,42.3631281,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.8,NA,"male",4.9,451,7.27515489786154,58.8262292903876,"Summer",110309
+9,-118.379975,47.12737,NA,1948,"Pooecetes gramineus","Pooecetes_gramineus",25.8,162,"female",8.4,385,8.70976463516667,52.0871210743902,"Fall",110327
+1,-98.672,29.03,"u ad.",1952,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.8,NA,"male",21.4,534,6.2614743156912,61.0813709830374,"Winter",110379
+9,-117.53528,41.68472,"imm.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.8,NA,"male",7,716,6.72856304169476,91.774891703395,"Fall",110429
+7,-83.7391662,46.0204493,"juvenile",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.8,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",110506
+7,-85.5568848,45.6646004,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.8,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",110554
+10,-98.3166667,29.5166667,NA,1946,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.8,NA,"male",20.6,1089,6.52953081984247,44.6151115958278,"Fall",110632
+2,-78.6166667,35.7666667,NA,1948,"Pooecetes gramineus","Pooecetes_gramineus",25.8,NA,"undetermined",16,1370,8.00062024110783,35.9751503332072,"Winter",110633
+7,-83.95,42.45,NA,1934,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.8,NA,"female",9.1,479,11.5979622034531,51.9615242270663,"Summer",110639
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",25.8,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110643
+6,-79.6206017,39.5803507,"ad",1980,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.9,NA,"female",9.2,1292,9.42630105158707,53.0366067535618,"Summer",110205
+10,-85.31367,42.3997,"imm.",1951,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.9,NA,"male",8.9,987,9.78184388021858,25.9637848866777,"Fall",110378
+2,-97.3880005,28.5507029,"ad",1979,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.9,NA,"female",20.5,1070,6.650968259425,68.8183769124606,"Winter",110469
+5,-85.9271622,46.1147172,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",25.9,NA,"female",4.7,835,10.2274548805328,35.3054522699943,"Spring",110509
+5,-85.89656,42.06951,NA,1987,"Pooecetes gramineus","Pooecetes_gramineus",25.9,NA,"female",10.5,965,9.72302796083981,58.5467407080113,"Spring",110541
+6,-100,50.5833,NA,1965,"Pooecetes gramineus","Pooecetes_gramineus",25.9,NA,NA,-0.7,602,13.8751003272376,81.6511426185151,"Summer",110744
+9,-108.083333,30.6,"u ad.",1948,"Pooecetes gramineus confinis","Pooecetes_gramineus",26,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",110092
+12,-103.6453629,30.5054839,"ad",1980,"Pooecetes gramineus confinis","Pooecetes_gramineus",26,NA,"male",16.9,430,7.65499935672859,147.676543132939,"Winter",110207
+5,-77.35176,43.95265,"ad",1930,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26,NA,"male",7.7,616,10.0967891685997,38.0773454456694,"Spring",110224
+6,-83.95021,46.19158,"ad",1931,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26,NA,"male",6.6,789,10.3520602546136,66.0774043197882,"Summer",110226
+6,-83.7391662,46.0204493,"adult",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",110247
+6,-86.1218261,45.0237958,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",110255
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,"male",5.5,751,10.3793026857503,46.1032253462665,"Summer",110263
+6,-117.297345,46.16466,NA,1977,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,"male",7.7,543,7.7588024302411,75.8738758015597,"Summer",110329
+4,-94.7351374,37.0237526,NA,1966,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,"female",14.1,821,9.36163592929822,48.0616660831434,"Spring",110352
+3,-100.1471081,37.1318309,NA,1950,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,"male",13.9,429,8.99829529309959,153.093576267425,"Spring",110356
+9,-106.2105,40.5907333333,"ad",2007,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,"male",2.8,400,9.35243850878508,51.4608552517196,"Fall",110371
+5,-117.53361,41.56606,"u ad.",1935,"Pooecetes gramineus confinis","Pooecetes_gramineus",26,NA,"male",7.7,322,8.5757012258562,85.6352238426565,"Spring",110431
+7,-110.6556565,49.3421167,NA,1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",26,NA,"undetermined",4,294,11.958704196551,80.5587995959727,"Summer",110464
+6,-93.83787,48.63186,NA,1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",26,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",110487
+6,-86.1218261,45.0237958,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",110518
+6,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Summer",110525
+5,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Spring",110531
+5,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,"female",5.6,751,10.3763243039434,45.9210389492857,"Spring",110532
+7,-77.27931,43.96989,"ad",1930,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",110613
+4,-83.6561111,42.3127778,NA,1949,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,"male",10.5,841,9.74649898292933,23.8253832581416,"Spring",110628
+6,-100,50.5833,NA,1965,"Pooecetes gramineus","Pooecetes_gramineus",26,NA,NA,-0.7,602,13.8751003272376,81.6511426185151,"Summer",110656
+7,-120.4608844,40.535017,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.1,NA,"male",10.2,261,7.68426175945867,116.728033852315,"Summer",110142
+2,-103.8353026,30.5368872,"ad",1979,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.1,NA,"male",14.8,448,6.97586206250894,118.752126189126,"Winter",110200
+4,-74.414673,40.430132,NA,1961,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.1,NA,"male",11.1,1150,9.89733282100268,45.4119257142718,"Spring",110286
+7,-85.5568848,45.6646004,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.1,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",110319
+9,-118.48803,37.88755,"imm.",1917,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.1,NA,"undetermined",9.6,86,9.31430961673293,162.578402961469,"Fall",110407
+4,-112.9,27.3,"u ad.",1927,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.1,NA,"female",21,97,4.31916097351691,102.524941533091,"Spring",110419
+6,-100.5318477,48.5370519,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.1,NA,"male",6.6,403,10.7874892464569,118.43114304456,"Summer",110498
+7,-94.98538,49.92533,NA,1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.1,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",110694
+7,-111.2612915,49.2552575,NA,1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.2,NA,"undetermined",4.3,307,11.5953327862654,69.0174731145925,"Summer",110190
+5,-82.35552,42.66632,"ad",1975,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.2,NA,"male",9.6,923,9.46039191320926,49.6413562889064,"Spring",110195
+10,-79.37881,43.648267,"imm",2001,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.2,NA,"male",9.1,697,9.65735314136175,37.8745626908572,"Fall",110240
+9,-119.161,37.86624,"ad.",1915,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.2,NA,"male",3.6,600,6.54437070151041,123.309572192365,"Fall",110393
+4,-83.7268066,42.2727362,"ad",1935,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.2,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Spring",110484
+6,-83.7391662,46.0204493,NA,1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.2,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",110507
+6,-119.6952863,48.557371,NA,1940,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.2,NA,"male",7.7,423,8.69707369803723,64.6884954486685,"Summer",110514
+4,-83.7263412,42.2708397,NA,1935,"Pooecetes gramineus","Pooecetes_gramineus",26.2,NA,"male",8.8,649,10.2459748194108,44.6617555019791,"Spring",110542
+8,-83.95,42.45,"immature",1936,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.2,NA,"male",8.5,620,11.4649135375825,63.832744272204,"Summer",110652
+6,-93.83787,48.63186,"ad",1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.25,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",110485
+6,-108.2215833333,35.1634,NA,2013,"Pooecetes gramineus","Pooecetes_gramineus",26.3,NA,"male",7.3,442,8.39236666154537,79.4390956634869,"Summer",110089
+4,-83.7263412,42.2708397,NA,1928,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.3,168,"male",8.8,663,9.36680146565356,48.8368556283683,"Spring",110284
+4,-118.005218,36.282226,"u ad.",1918,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.3,NA,"male",14.6,180,8.49497177479393,124.946300738187,"Spring",110410
+7,-120.4608844,40.535017,"ad.",1928,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.3,NA,"male",10.2,261,7.68426175945867,116.728033852315,"Summer",110421
+5,-82.35552,42.66632,"ad",1975,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.3,NA,"male",9.6,923,9.46039191320926,49.6413562889064,"Spring",110467
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.3,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110650
+6,-91.92887,50.10403,"ad",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.4,NA,"male",0.6,690,13.748377314719,41.0975349699112,"Summer",110237
+6,-100.5318477,48.5370519,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.4,NA,"male",6.6,403,10.7874892464569,118.43114304456,"Summer",110497
+4,-83.6561111,42.3127778,NA,1948,"Pooecetes gramineus","Pooecetes_gramineus",26.4,NA,"male",9.4,733,10.4204744555509,42.8516163598439,"Spring",110702
+10,-85.6,38.3,NA,1948,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.4,NA,"undetermined",13.2,1285,9.3571031194424,54.9685772438747,"Fall",110713
+6,-112.0529175,35.9175835,"ad",1969,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.5,NA,"female",8.9,427,8.04914827039407,67.293259606686,"Summer",110181
+6,-93.83787,48.63186,"ad",1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.5,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",110218
+6,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",26.5,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Summer",110262
+6,-85.5096817,46.4086313,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",26.5,NA,"female",5.5,752,10.3215096088731,45.7221842032731,"Summer",110280
+2,-97.56546,30.11,"u ad.",1952,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.5,NA,"male",19.8,914,6.74220088155735,70.7359995857113,"Winter",110380
+6,-83.95021,46.19158,"ad",1931,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.5,NA,"male",6.6,789,10.3520602546136,66.0774043197882,"Summer",110491
+5,-84,42.3833333,NA,1949,"Pooecetes gramineus","Pooecetes_gramineus",26.5,NA,"female",10,812,9.81324090042107,25.8972629762522,"Spring",110629
+5,-84,42.3833333,NA,1949,"Pooecetes gramineus","Pooecetes_gramineus",26.5,NA,"female",10,812,9.81324090042107,25.8972629762522,"Spring",110705
+9,-106.2014,40.55095,"im",2007,"Pooecetes gramineus","Pooecetes_gramineus",26.6,NA,"male",3,392,9.42781185448863,53.4380545751261,"Fall",110086
+7,-110.6556565,49.3421167,"ad",1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.6,NA,"male",4,294,11.958704196551,80.5587995959727,"Summer",110189
+6,-79.6206017,39.5803507,"ad",1980,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.6,NA,"male",9.2,1292,9.42630105158707,53.0366067535618,"Summer",110204
+7,-109.314318,50.3767699,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.6,NA,"male",6.9,261,9.18062435983325,107.564359557497,"Summer",110482
+6,-101.5484635,50.0811362,"ad",1968,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.7,164,"male",1.8,406,12.5779358281464,92.7822972480675,"Summer",110453
+7,-109.314318,50.3767699,"juv",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.7,NA,"male",6.9,261,9.18062435983325,107.564359557497,"Summer",110476
+5,-84,42.3833333,NA,1949,"Pooecetes gramineus","Pooecetes_gramineus",26.7,NA,"male",10,812,9.81324090042107,25.8972629762522,"Spring",110630
+10,-95.2227337,38.9549568,NA,1971,"Pooecetes gramineus","Pooecetes_gramineus",26.8,NA,"female",12.4,864,10.4386519505851,51.865095424642,"Fall",110071
+2,-103.8353026,30.5368872,"ad",1979,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.8,NA,"male",14.8,448,6.97586206250894,118.752126189126,"Winter",110199
+6,-115.36343,41.86105,"u ad.",1955,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.8,NA,"female",0.2,1075,8.88933221747996,89.1715823564443,"Summer",110384
+5,-120.6846059,41.4204792,"u ad.",1920,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.8,NA,"male",8.6,350,7.06276514653797,77.0383129991747,"Spring",110412
+6,-85.5568848,45.6646004,"adult",1937,"Pooecetes gramineus","Pooecetes_gramineus",26.8,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",110510
+4,-83.6561111,42.3127778,NA,1948,"Pooecetes gramineus","Pooecetes_gramineus",26.8,NA,"male",9.4,733,10.4204744555509,42.8516163598439,"Spring",110626
+4,-83.6561111,42.3127778,NA,1948,"Pooecetes gramineus","Pooecetes_gramineus",26.8,NA,"male",9.4,733,10.4204744555509,42.8516163598439,"Spring",110627
+6,-93.63727,52.84037,"ad",1938,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.8,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",110692
+9,-84.940651,45.6896593,"fr",1991,"Pooecetes gramineus","Pooecetes_gramineus",26.9,NA,"male",7.3,787,9.90761491648385,64.2039405931804,"Fall",110293
+7,-85.5568848,45.6646004,NA,1937,"Pooecetes gramineus gramineus","Pooecetes_gramineus",26.9,NA,"male",6.3,734,10.4803278921641,72.7502344657928,"Summer",110317
+6,-105.5209649,50.7921359,"ad",1968,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.9,NA,"male",3,334,12.212028347643,105.821024283362,"Summer",110451
+5,-106.2007141,50.0540528,"ad",1970,"Pooecetes gramineus confinis","Pooecetes_gramineus",26.9,NA,"male",1.9,381,13.522066701462,78.6975926471832,"Spring",110456
+7,-105.2292,39.9417,NA,1984,"Pooecetes gramineus","Pooecetes_gramineus",26.9,NA,"male",9.4,445,8.72441280476106,70.2579614884852,"Summer",110661
+7,-117.6000023,56.3134153,NA,1951,"Pooecetes gramineus","Pooecetes_gramineus",27,NA,"female",-1.7,456,13.025743740762,46.6031315323169,"Summer",110066
+4,-101.7849276,37.9998703,NA,1968,"Pooecetes gramineus","Pooecetes_gramineus",27,NA,"male",12.1,307,9.80809807652778,109.309950444856,"Spring",110069
+12,-109.0424333333,32.0682666667,NA,2011,"Pooecetes gramineus","Pooecetes_gramineus",27,NA,"male",17.7,301,8.82106208818623,122.422959187576,"Winter",110088
+6,-109.8530194,50.9422571,"ad",1970,"Pooecetes gramineus confinis","Pooecetes_gramineus",27,NA,"male",2.8,308,13.8004254435957,126.153428164715,"Summer",110184
+6,-85.7747268,45.4763828,"immature",1939,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27,NA,"female",6,735,10.410611573454,45.7785130576713,"Summer",110251
+7,-86.1218261,45.0237958,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",110254
+5,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",27,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Spring",110271
+5,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",27,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Spring",110273
+2,-103.57687,30.4859591,NA,1935,"Pooecetes gramineus confinis","Pooecetes_gramineus",27,NA,"male",17.1,358,6.39677949274382,78.0735910126019,"Winter",110296
+4,-104.0131028,30.4895074,NA,1937,"Pooecetes gramineus confinis","Pooecetes_gramineus",27,NA,"male",15.1,416,6.94084856396383,65.9783817105789,"Spring",110324
+4,-98.920482,37.3496323,NA,1965,"Pooecetes gramineus","Pooecetes_gramineus",27,NA,"male",14.4,737,9.83005209764548,79.9608078852635,"Spring",110350
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",27,NA,"male",5.5,751,10.3793026857503,46.1032253462665,"Summer",110526
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",27,NA,"male",5.5,751,10.3793026857503,46.1032253462665,"Summer",110527
+6,-77.27931,43.96989,"ad",1930,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",110614
+6,-85.9965,45.0939,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27,NA,"male",7.4,856,9.49386963287682,40.8123683780674,"Summer",110623
+12,-82.50596,41.90342,NA,1912,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27,63,"male",9.2,899,11.292029234926,40.0965100773909,"Winter",110693
+6,-118.7999992,55.0365615,"ad",1970,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.1,NA,"male",1.4,295,12.4787091406997,46.8782379644728,"Summer",110459
+7,-83.95,42.45,NA,1934,"Pooecetes gramineus","Pooecetes_gramineus",27.1,NA,"female",9.1,479,11.5979622034531,51.9615242270663,"Summer",110636
+5,-111.5744019,49.083311,"ad",1970,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.2,NA,"male",4.3,353,11.6117495353942,105.590136184703,"Spring",110186
+7,-83.7391662,45.9914917,"adult",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27.2,NA,"male",6.1,749,10.7486574214474,25.9279651212285,"Summer",110245
+6,-101.5484635,50.0811362,"ad",1968,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.2,NA,"male",1.8,406,12.5779358281464,92.7822972480675,"Summer",110450
+7,-109.5027924,49.4623227,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.2,NA,"male",6.2,246,8.53447110075938,93.9233573815922,"Summer",110480
+11,-115.7230556,31.4,"ad.",1926,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.2,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Fall",110685
+6,-106.2394,45.3018,"u ad.",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.3,NA,"male",6.7,444,10.5011218736886,88.6627303491813,"Summer",110178
+4,-79.02983,43.84509,"ad",1967,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27.3,NA,"male",7.1,821,9.99849609903531,37.835763047223,"Spring",110212
+9,-106.21295,40.5678166667,"ad",2007,"Pooecetes gramineus","Pooecetes_gramineus",27.3,NA,"male",3.1,379,9.42425545648519,53.9435452362197,"Fall",110368
+5,-110.8060455,50.0558162,"ad",1970,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.3,NA,"male",3.8,353,13.0532359856462,114.193105517617,"Spring",110455
+7,-83.95,42.45,NA,1934,"Pooecetes gramineus","Pooecetes_gramineus",27.3,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",110714
+8,-111.2666667,42.2833333,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.3,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110717
+8,-111.2666667,42.2833333,"immature",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.3,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110719
+12,-103.6453629,30.5054839,"ad",1980,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.4,NA,"male",16.9,430,7.65499935672859,147.676543132939,"Winter",110475
+6,-85.5096817,46.4359641,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",27.5,NA,"male",5.3,757,10.304132739593,45.6415776047671,"Summer",110260
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",27.5,NA,"male",5.5,751,10.3793026857503,46.1032253462665,"Summer",110267
+4,-102.326688,39.00168,NA,1990,"Pooecetes gramineus","Pooecetes_gramineus",27.5,141,"undetermined",10.8,455,9.68047081249229,71.4041931485357,"Spring",110339
+7,-109.5405579,49.3582282,"ad",1971,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.5,NA,"male",2.8,250,12.5974835149363,82.8662178822788,"Summer",110460
+10,-103.8499258,30.3941115,"ad",1974,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27.5,NA,"male",15,593,6.34165521840244,153.657341598397,"Fall",110466
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",27.5,NA,"female",5.5,751,10.3793026857503,46.1032253462665,"Summer",110529
+7,-110.9582432,41.958448,"adult",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.5,NA,"male",6.2,174,8.89887207697831,40.6033130186905,"Summer",110546
+3,-83.6561111,42.3127778,NA,1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27.5,NA,"female",10.5,696,9.64633703443013,49.7350022000717,"Spring",110655
+10,-79.372722,43.73418,"imm",2000,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27.6,NA,"male",7.4,804,9.83750938546393,59.5255429895134,"Fall",110236
+6,-83.7406254,46.0132223,NA,1938,"Pooecetes gramineus","Pooecetes_gramineus",27.6,NA,"female",6.1,748,10.7780465706355,25.9492114205241,"Summer",110291
+7,-83.7391662,46.0204493,"adult",1938,"Pooecetes gramineus","Pooecetes_gramineus",27.6,NA,"male",6.1,746,10.7863550166613,25.6582764962601,"Summer",110512
+5,-105.20181,41.104186,NA,1964,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.7,NA,"male",4.6,265,9.00883404826013,73.3444883713514,"Spring",110325
+4,-98.920482,37.3496323,NA,1965,"Pooecetes gramineus","Pooecetes_gramineus",27.8,NA,"undetermined",14.4,737,9.83005209764548,79.9608078852635,"Spring",110068
+9,-117.1143,38.96403,"ad.",1931,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.8,NA,"male",9.8,177,9.48371411069173,55.5409578086907,"Fall",110422
+6,-101.5484635,50.0811362,"ad",1968,"Pooecetes gramineus confinis","Pooecetes_gramineus",27.8,174,"male",1.8,406,12.5779358281464,92.7822972480675,"Summer",110452
+7,-105.2292,39.9417,NA,1984,"Pooecetes gramineus","Pooecetes_gramineus",27.8,NA,"female",9.4,445,8.72441280476106,70.2579614884852,"Summer",110663
+7,-84.5833333,38.6833333,NA,1950,"Pooecetes gramineus gramineus","Pooecetes_gramineus",27.8,NA,"male",11.8,1265,9.02756720811148,35.9811910389049,"Summer",110712
+8,-105.5718822,41.3113669,NA,1946,"Pooecetes gramineus","Pooecetes_gramineus",28,NA,"undetermined",6,306,8.245917263419,73.4515333268743,"Summer",110062
+1,-114.96888,29.92155,"u ad.",1931,"Pooecetes gramineus confinis","Pooecetes_gramineus",28,NA,"female",18,187,4.7799771775796,111.795995131672,"Winter",110146
+8,-110.06916,43.02033,"ad.",1939,"Pooecetes gramineus confinis","Pooecetes_gramineus",28,NA,"male",1.4,264,9.45778499278224,64.1404491466844,"Summer",110165
+7,-77.17662,44.09533,"ad",1930,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"male",7,627,10.2036943695839,37.3361852673174,"Summer",110223
+7,-84.02525,46.353393,"ad",1931,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"male",6.7,772,10.5130618611787,65.7387277263846,"Summer",110227
+4,-80.24294,42.5613,"ad",1950,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"male",8.3,1115,9.48216827268506,40.0315038665736,"Spring",110238
+4,-80.24294,42.5613,"ad",1950,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"male",8.3,1115,9.48216827268506,40.0315038665736,"Spring",110239
+6,-85.5096817,46.4086313,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",28,NA,"male",5.5,752,10.3215096088731,45.7221842032731,"Summer",110259
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",28,NA,"male",5.5,751,10.3793026857503,46.1032253462665,"Summer",110264
+6,-85.4794693,46.3515488,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",28,NA,"male",5.5,751,10.3793026857503,46.1032253462665,"Summer",110266
+8,-83.7263412,42.2708397,"adult",1934,"Pooecetes gramineus","Pooecetes_gramineus",28,NA,"male",9.6,480,11.7842055311336,58.1051749810578,"Summer",110302
+6,-108.72642,42.56598,NA,2008,"Pooecetes gramineus","Pooecetes_gramineus",28,NA,"male",2.7,425,8.84922526997634,86.8808123716145,"Summer",110344
+8,-110.5967,46.9055,"u ad.",1967,"Pooecetes gramineus affinis","Pooecetes_gramineus",28,NA,"male",0.8,983,8.8186914098305,50.7836073636638,"Summer",110390
+6,-106.2394,45.3018,"u ad.",1947,"Pooecetes gramineus confinis","Pooecetes_gramineus",28,NA,"male",6.7,444,10.5011218736886,88.6627303491813,"Summer",110447
+11,-103.6560058,30.4522252,"ad",1989,"Pooecetes gramineus confinis","Pooecetes_gramineus",28,NA,"male",17.2,432,7.12683256603117,131.288365641181,"Fall",110481
+4,-76.4807701,42.3522987,"ad",1935,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"male",7.1,947,10.2377606156934,28.2170351915744,"Spring",110490
+6,-86.1218261,45.0237958,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"male",7.2,848,9.45869809735831,42.4204910203786,"Summer",110516
+5,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",28,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Spring",110534
+7,-84.657744,45.468596,NA,1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"male",7.1,952,10.231131931808,32.126008148747,"Summer",110559
+6,-77.27931,43.96989,NA,1930,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"[male]",7.7,613,10.1010200505001,37.744229913391,"Summer",110612
+10,-82.50596,41.90342,"imm",1913,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,57,"female",10.7,662,9.58297100764337,29.7649191704453,"Fall",110616
+7,-77.27931,43.96989,"ad",1930,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"male",7.7,613,10.1010200505001,37.744229913391,"Summer",110691
+4,-82.56642,45.88371,"ad",1951,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28,NA,"male",4.8,975,10.0963052047706,37.1911197722951,"Spring",110697
+9,-76.48088,42.35246,NA,1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28.1000003814697,NA,"male",8.5,892,9.51408843704318,51.2218201864514,"Fall",110670
+8,-104.8160934,36.1759897,"ahy",2006,"Pooecetes gramineus","Pooecetes_gramineus",28.2,NA,"male",10.2,447,7.5235790966961,115.43978881279,"Summer",110362
+7,-83.6754669,46.0628663,"adult",1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28.2,NA,"male",6,758,10.8156032068153,24.5888876403631,"Summer",110505
+5,-99.4492323,39.3916878,NA,1997,"Pooecetes gramineus","Pooecetes_gramineus",28.3,NA,"female",11.2,653,10.1454385929059,73.3570330535075,"Spring",110074
+9,-117.53528,41.68472,"ad.",1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",28.3,NA,"male",7,716,6.72856304169476,91.774891703395,"Fall",110150
+10,-84.0129662,42.4430946,NA,1952,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28.3,NA,"male",9.5,678,9.66149417517651,36.8751477495579,"Fall",110282
+8,-111.3529242,42.3631281,"immature",1934,"Pooecetes gramineus","Pooecetes_gramineus",28.3,NA,"male",7,250,8.59168026040132,52.295106671831,"Summer",110545
+5,-76.504836,42.442714,NA,1939,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28.4,NA,"male",9.5,685,10.2050306964336,30.9705707089,"Spring",110536
+5,-117.53361,41.56606,"u ad.",1935,"Pooecetes gramineus confinis","Pooecetes_gramineus",28.5,NA,"female",7.7,322,8.5757012258562,85.6352238426565,"Spring",110152
+6,-85.5096817,46.4086313,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",28.5,NA,"male",5.5,752,10.3215096088731,45.7221842032731,"Summer",110258
+6,-85.5096817,46.4359641,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",28.5,NA,"male",5.3,757,10.304132739593,45.6415776047671,"Summer",110276
+4,-95.892913,38.6344293,NA,1957,"Pooecetes gramineus","Pooecetes_gramineus",28.5,NA,"male",12.4,1181,10.0814974537065,66.313709377441,"Spring",110347
+6,-109.8530194,50.9422571,"ad",1970,"Pooecetes gramineus confinis","Pooecetes_gramineus",28.5,NA,"female",2.8,308,13.8004254435957,126.153428164715,"Summer",110458
+2,-97.3880005,28.5507029,"ad",1979,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28.6,NA,"female",20.5,1070,6.650968259425,68.8183769124606,"Winter",110197
+2,-97.3880005,28.5507029,"ad",1979,"Pooecetes gramineus gramineus","Pooecetes_gramineus",28.7,NA,"female",20.5,1070,6.650968259425,68.8183769124606,"Winter",110471
+8,-119.60472,38.31081,"U-Ad",1960,"Pooecetes gramineus","Pooecetes_gramineus",28.8,NA,"male",2.6,870,7.18817948039865,109.154235214132,"Summer",110669
+7,-109.5027924,49.4623227,"ad",1987,"Pooecetes gramineus confinis","Pooecetes_gramineus",28.9,NA,"female",6.2,246,8.53447110075938,93.9233573815922,"Summer",110210
+6,-118.261045,37.712773,"u ad.",1954,"Pooecetes gramineus confinis","Pooecetes_gramineus",29,NA,"male",1.4,303,6.17008300125892,86.7206712367888,"Summer",110099
+5,-83.9836121,42.4591805,NA,1953,"Pooecetes gramineus gramineus","Pooecetes_gramineus",29,NA,"male",10.1,567,9.45568211407428,40.3671321387636,"Spring",110283
+7,-84.657744,45.468596,NA,1938,"Pooecetes gramineus gramineus","Pooecetes_gramineus",29,NA,"male",7.1,952,10.231131931808,32.126008148747,"Summer",110322
+6,-109.8262024,50.9367963,"ad",1970,"Pooecetes gramineus confinis","Pooecetes_gramineus",29,NA,"male",2.7,311,13.7608221873814,124.12144185921,"Summer",110457
+10,-79.51376,43.85072,"imm",1947,"Pooecetes gramineus gramineus","Pooecetes_gramineus",29,NA,"male",6.9,804,10.5503518539632,46.446460297916,"Fall",110503
+4,-76.479737,42.330904,NA,1940,"Pooecetes gramineus gramineus","Pooecetes_gramineus",29,NA,"female",6.4,985,10.3164329047781,34.4694877295606,"Spring",110535
+4,-83.3666667,43.9,"adult",1933,"Pooecetes gramineus","Pooecetes_gramineus",29,NA,"male",7.9,726,10.5977234547917,51.1691859496215,"Spring",110634
+6,-84.0151977,44.5713934,NA,1942,"Pooecetes gramineus gramineus","Pooecetes_gramineus",29.1,NA,"male",6.4,736,10.3304602555215,48.914690354357,"Summer",110520
+10,-95.2227337,38.9549568,NA,1971,"Pooecetes gramineus","Pooecetes_gramineus",29.2,NA,"male",12.4,864,10.4386519505851,51.865095424642,"Fall",110070
+6,-81.82161,46.28173,"ad",1966,"Pooecetes gramineus gramineus","Pooecetes_gramineus",29.2,155,"undetermined",4.2,865,10.7459506115306,62.7757664824853,"Summer",110242
+6,-101.5484635,50.0811362,"ad",1968,"Pooecetes gramineus confinis","Pooecetes_gramineus",29.4,NA,"male",1.8,406,12.5779358281464,92.7822972480675,"Summer",110180
+6,-85.5096817,46.4359641,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",29.5,NA,"female",5.3,757,10.304132739593,45.6415776047671,"Summer",110277
+6,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",29.5,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Summer",110524
+8,-83.95,42.45,NA,1934,"Pooecetes gramineus gramineus","Pooecetes_gramineus",29.7,NA,"male",9.1,479,11.5979622034531,51.9615242270663,"Summer",110715
+6,-93.83787,48.63186,"ad",1929,"Pooecetes gramineus confinis","Pooecetes_gramineus",30,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",110219
+6,-85.5096817,46.4086313,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",30,NA,"female",5.5,752,10.3215096088731,45.7221842032731,"Summer",110279
+5,-116.2364,45.8934,"u ad.",1951,"Pooecetes gramineus confinis","Pooecetes_gramineus",30,NA,"male",7.5,514,7.97758222657831,54.1869992385098,"Spring",110377
+3,-83.9836121,42.4591805,NA,1953,"Pooecetes gramineus gramineus","Pooecetes_gramineus",30.1,NA,"male",10.1,567,9.45568211407428,40.3671321387636,"Spring",110539
+10,-90.373175,39.484124,NA,1964,"Pooecetes gramineus gramineus","Pooecetes_gramineus",30.4,NA,"undetermined",12.4,746,10.0167549030551,58.9726531444648,"Fall",110241
+8,-104.8160934,36.1759897,"ahy",2006,"Pooecetes gramineus","Pooecetes_gramineus",30.5,NA,"male",10.2,447,7.5235790966961,115.43978881279,"Summer",110079
+2,-97.3880005,28.5507029,"ad",1979,"Pooecetes gramineus confinis","Pooecetes_gramineus",30.6,NA,"male",20.5,1070,6.650968259425,68.8183769124606,"Winter",110198
+5,-85.5394222,46.3717274,NA,1942,"Pooecetes gramineus","Pooecetes_gramineus",31,NA,"male",5.6,751,10.3763243039434,45.9210389492857,"Spring",110533
+7,-84.02525,46.353393,NA,1931,"Pooecetes gramineus gramineus","Pooecetes_gramineus",32,NA,"female",6.7,772,10.5130618611787,65.7387277263846,"Summer",110493
+2,-97.3880005,28.5507029,"ad",1979,"Pooecetes gramineus gramineus","Pooecetes_gramineus",33.5,NA,"male",20.5,1070,6.650968259425,68.8183769124606,"Winter",110196
+6,-103.7572861,50.7870552,NA,1959,"Pooecetes gramineus confinis","Pooecetes_gramineus",34.3,NA,"female",1.5,446,13.070447234471,106.99059832626,"Summer",110285
+7,-84.75,44.8833333,"adult",1939,"Pooecetes gramineus gramineus","Pooecetes_gramineus",34.8,NA,"male",6.4,807,10.6743390967083,62.1441830850895,"Summer",110729
+10,-95.2317237,38.9198869,"FLEDGLING, SKULL NOT OSSIFIED",1968,"Pooecetes gramineus","Pooecetes_gramineus",36.9,NA,"female",12.2,975,10.2742801856545,79.0862943778366,"Fall",110355
+7,-111.2666667,42.2833333,NA,1934,"Pooecetes gramineus confinis","Pooecetes_gramineus",39.4,NA,"male",6.7,246,8.41970992086516,54.2944556001797,"Summer",110631
+6,-85.8666667,45.4333333,NA,1939,"Pooecetes gramineus gramineus","Pooecetes_gramineus",41,NA,"male",6.2,749,10.3052355037563,45.0409106964284,"Summer",110622

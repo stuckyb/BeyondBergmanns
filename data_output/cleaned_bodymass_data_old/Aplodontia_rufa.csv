@@ -1,0 +1,153 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-122.1544,47.5392,"unknown",1981,"Aplodontia rufa","Aplodontia_rufa",335,220,"female",10.7,1319,4.84582763359836,54.3361391759179,"Spring",5829
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",336.3,232,"female",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5858
+7,-122.92,43.49,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",345.2,243,"female",10.1,1529,5.84501859913571,82.1970580972859,"Summer",5886
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",366.7,245,"male",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5860
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",382.1,255,"male",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5861
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",386.1,247,"female",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5890
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",393.9,242,"male",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5895
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",416.7,233,"male",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5894
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",422.3,243,"male",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5896
+7,-122.36937,47.76238,"unknown",1993,"Aplodontia rufa","Aplodontia_rufa",423,240,"male",10.6,766,5.47979069496327,65.6748521589458,"Summer",5789
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",429.4,251,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5767
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",437.6,253,"male",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5859
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",447.1,259,"female",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5889
+8,-118.9833333,37.65,"juvenile",1916,"Aplodontia rufa californica","Aplodontia_rufa",453.6,NA,"male",4.3,959,7.54563389710175,149.088493985413,"Summer",5868
+6,-122.36937,47.76238,"unknown",1993,"Aplodontia rufa","Aplodontia_rufa",456,243,"female",10.6,766,5.47979069496327,65.6748521589458,"Summer",5790
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",460.5,272,"female",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5857
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",533.4,270,"male",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5892
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",540.3,270,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5766
+8,-121.363656,40.434312,NA,2001,"Aplodontia rufa californica","Aplodontia_rufa",560,260,"undetermined",8.3,1553,7.28449474132308,112.448259104851,"Summer",5758
+8,-118.9833333,37.65,"juvenile",1916,"Aplodontia rufa californica","Aplodontia_rufa",566.99,NA,"male",4.3,959,7.54563389710175,149.088493985413,"Summer",5866
+8,-118.9833333,37.65,"juvenile",1916,"Aplodontia rufa californica","Aplodontia_rufa",566.99,NA,"male",4.3,959,7.54563389710175,149.088493985413,"Summer",5905
+11,-123.6032,44.5687,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",571.8,278,"female",10.9,1646,5.01331560280553,73.8933206398015,"Fall",5876
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",581,260,"male",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5769
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",584.6,288,"male",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5888
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",590.5,290,"female",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5856
+10,-122.4169,47.6572,"unknown",1988,"Aplodontia rufa","Aplodontia_rufa",604,266,"female",11,890,4.8294237061303,73.6739889256073,"Fall",5788
+11,-123.48,44.64,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",605.5,263,"male",10.9,1335,5.26696393484036,72.596883306836,"Fall",5840
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",612,278,"female",10.7,1569,4.91777850808121,73.398748238448,"Fall",5882
+11,-123.79,44.66,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",620.5,301,"undetermined",10.8,1376,4.99845430653772,84.0220974917072,"Fall",5897
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",620.6,NA,"female",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5823
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",621,283,"female",10.7,1569,4.91777850808121,73.398748238448,"Fall",5846
+6,-123.3369,47.0611,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",623.9,265,"female",10.4,1584,5.43847126470019,59.239859770478,"Summer",5778
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",634.4,275,"female",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5824
+7,-122.92,43.49,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",641.1,293,"female",10.1,1529,5.84501859913571,82.1970580972859,"Summer",5852
+7,-122.92,43.49,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",651.4,287,"female",10.1,1529,5.84501859913571,82.1970580972859,"Summer",5853
+8,-123.75,44.6,NA,1987,"Aplodontia rufa pacifica","Aplodontia_rufa",666,290,"male",11.1,1571,4.4341307097914,105.583307744943,"Summer",5885
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",672,293,"female",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5893
+7,-123.9823303,44.2848434,NA,1973,"Aplodontia rufa pacifica","Aplodontia_rufa",677,322,"male",10.6,2399,4.21519617430539,107.57525388091,"Summer",5803
+8,-118.9833333,37.65,"juvenile",1916,"Aplodontia rufa californica","Aplodontia_rufa",680.4,NA,"male",4.3,959,7.54563389710175,149.088493985413,"Summer",5906
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",692.8,282,"male",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5809
+11,-123.6032,44.5687,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",703,290,"female",10.9,1646,5.01331560280553,73.8933206398015,"Fall",5837
+11,-123.6032,44.5687,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",705,301,"female",10.9,1646,5.01331560280553,73.8933206398015,"Fall",5838
+3,-123.75,44.6,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",708,306,"male",10.7,1343,5.06469509088517,85.6328489464391,"Spring",5851
+12,-123.48,44.64,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",714.7,289,"male",10.9,1335,5.26696393484036,72.596883306836,"Winter",5842
+5,-123.5823212,44.5023422,"adult",1977,"Aplodontia rufa pacifica","Aplodontia_rufa",718.5,329,"female",9.8,2738,5.21193269567465,97.807253124396,"Spring",5805
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",733.3,295,"female",10.7,1569,4.91777850808121,73.398748238448,"Fall",5845
+12,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",734.6,303,"male",10.7,1569,4.91777850808121,73.398748238448,"Winter",5883
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",735.3,285,"male",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5784
+9,-123.4389,47.9947,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",737.09,290,"female",3.9,1654,5.92582304729721,73.9725598081895,"Fall",5786
+11,-123.6032,44.5687,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",739,308,"male",10.9,1646,5.01331560280553,73.8933206398015,"Fall",5877
+11,-122.5,47.75,NA,1997,"Aplodontia rufa","Aplodontia_rufa",740,260,"female",11.4,1138,5.07880324724658,62.0801263309482,"Fall",5764
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",740.5,290,"female",10.7,1569,4.91777850808121,73.398748238448,"Fall",5881
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",748.5,294,"male",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5813
+10,-119.0053333333,37.6296666667,NA,2013,"Aplodontia rufa californica","Aplodontia_rufa",770,300,"female",5.9,347,7.10652175928221,95.1760482700693,"Fall",5862
+7,-123.76,44.67,NA,1984,"Aplodontia rufa pacifica","Aplodontia_rufa",775,302,"female",10.4,2229,4.25052581417519,80.5234016478843,"Summer",5873
+7,-122.92,43.49,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",778.2,296,"male",10.1,1529,5.84501859913571,82.1970580972859,"Summer",5855
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",783,293,"female",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5854
+11,-123.48,44.64,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",790.9,305,"male",10.9,1335,5.26696393484036,72.596883306836,"Fall",5878
+8,-118.9833333,37.65,"juvenile",1916,"Aplodontia rufa californica","Aplodontia_rufa",793.79,NA,"male",4.3,959,7.54563389710175,149.088493985413,"Summer",5865
+4,-123.7258224,44.6707382,NA,1985,"Aplodontia rufa","Aplodontia_rufa",794,300,"female",9.5,1223,5.47956949204788,72.9384213276154,"Spring",5761
+11,-123.48,44.64,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",797.6,283,"female",10.9,1335,5.26696393484036,72.596883306836,"Fall",5841
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",801.8,302,"male",10.7,1569,4.91777850808121,73.398748238448,"Fall",5879
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",804.1,290,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5812
+8,-122.5535,47.5193,NA,1955,"Aplodontia rufa","Aplodontia_rufa",816.5,300,"male",9.3,1362,5.2159429258822,81.0342761076823,"Summer",5752
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",823.5,315,"female",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5820
+1,-124.13973,41.062449,NA,1986,"Aplodontia rufa humboldtiana","Aplodontia_rufa",844.5,310,"female",12.3,1372,2.08755330180544,91.1708172696403,"Winter",5753
+12,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",847.4,304,"female",10.7,1569,4.91777850808121,73.398748238448,"Winter",5884
+12,-123.7566912,47.1631013,NA,2002,"Aplodontia rufa","Aplodontia_rufa",875,337,"male",9.8,2323,4.52685588929273,93.1511960018924,"Winter",5800
+1,-122.17586,47.63913,"unknown",1980,"Aplodontia rufa","Aplodontia_rufa",885,301.5,"female",10.4,1173,5.04693126082723,63.6661205063345,"Winter",5791
+12,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",885,300,"male",10.7,1569,4.91777850808121,73.398748238448,"Winter",5850
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",887,299,"female",10.7,1569,4.91777850808121,73.398748238448,"Fall",5847
+8,-120.95873,49.320419,NA,1949,"Aplodontia rufa rainieri","Aplodontia_rufa",900,337,"male",1.7,1570,8.12202393047895,97.4816977020203,"Summer",5863
+11,-123.6032,44.5687,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",901.7,289,"male",10.9,1646,5.01331560280553,73.8933206398015,"Fall",5874
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",905.5,272,"female",10.7,1569,4.91777850808121,73.398748238448,"Fall",5844
+7,-123.4294,47.9446206,"unknown",1931,"Aplodontia rufa","Aplodontia_rufa",907,302,"female",4.3,1744,5.36594198005656,74.5746060121853,"Summer",5831
+11,-123.6032,44.5687,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",912.9,307,"male",10.9,1646,5.01331560280553,73.8933206398015,"Fall",5875
+2,-123.7651,44.6709,NA,1985,"Aplodontia rufa pacifica Merriam, 1899","Aplodontia_rufa",915,307,"female",9.6,1366,5.31675453522906,72.2149279097912,"Winter",5755
+5,-122.0395,47.03333,"unknown",1985,"Aplodontia rufa","Aplodontia_rufa",917.8,330,"male",7.7,1101,6.33788512666393,69.1797656261124,"Spring",5792
+2,-123.7651,44.6709,NA,1985,"Aplodontia rufa pacifica Merriam, 1899","Aplodontia_rufa",927,331,"male",9.6,1366,5.31675453522906,72.2149279097912,"Winter",5799
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",928.7,325,"male",10.7,1569,4.91777850808121,73.398748238448,"Fall",5843
+4,-123.813864,47.161059,NA,2004,"Aplodontia rufa","Aplodontia_rufa",930,356,"female",10.8,2005,4.6120642193747,57.9071290221879,"Spring",5756
+7,-122.92,43.49,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",931.9,326,"male",10.1,1529,5.84501859913571,82.1970580972859,"Summer",5887
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",932.7,333,"female",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5783
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",932.8,328,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5816
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",937.8,308,"male",10.7,1569,4.91777850808121,73.398748238448,"Fall",5880
+1,-124.1890805556,42.0573888889,"adult",2009,"Aplodontia rufa pacifica","Aplodontia_rufa",940,305,"male",11.1,1769,5.34032685414394,77.7172493726926,"Winter",5870
+6,-123.3369,47.0611,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",951.8,315,"female",10.4,1584,5.43847126470019,59.239859770478,"Summer",5777
+5,-121.9519,48.4345,"unknown",1992,"Aplodontia rufa","Aplodontia_rufa",990.5,335,"male",7.2,3445,5.05954693144704,76.9353447161991,"Spring",5793
+1,-124.1890805556,42.0573888889,"adult",2009,"Aplodontia rufa pacifica","Aplodontia_rufa",1000,310,"female",11.1,1769,5.34032685414394,77.7172493726926,"Winter",5872
+2,-123.7651,44.6709,NA,1985,"Aplodontia rufa pacifica Merriam, 1899","Aplodontia_rufa",1012,340,"male",9.6,1366,5.31675453522906,72.2149279097912,"Winter",5798
+10,-123.7663193,44.6707382,NA,1984,"Aplodontia rufa","Aplodontia_rufa",1014,325,"male",10.4,2250,4.2284390701176,80.5691284560469,"Fall",5762
+7,-123.76,44.67,NA,1984,"Aplodontia rufa pacifica","Aplodontia_rufa",1015,325,"male",10.4,2229,4.25052581417519,80.5234016478843,"Summer",5836
+11,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",1016,322,"male",10.7,1569,4.91777850808121,73.398748238448,"Fall",5848
+1,-124.1890805556,42.0573888889,"adult",2009,"Aplodontia rufa pacifica","Aplodontia_rufa",1020,320,"male",11.1,1769,5.34032685414394,77.7172493726926,"Winter",5909
+8,-123.756218,44.6056404,NA,1987,"Aplodontia rufa","Aplodontia_rufa",1025,315,"male",11.1,1635,4.39534878127901,105.670117807014,"Summer",5763
+9,-123.4389,47.9947,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1031.7,332,"female",3.9,1654,5.92582304729721,73.9725598081895,"Fall",5826
+6,-122.29007,47.66109,"unknown",1975,"Aplodontia rufa","Aplodontia_rufa",1048.6,365,"male",10.6,1129,4.94615706351605,70.5096005498716,"Summer",5808
+7,-119.66467,37.66285,NA,2003,"Aplodontia rufa californica","Aplodontia_rufa",1050,337,"female",9.1,959,6.8858825714558,140.670569674429,"Summer",5801
+1,-124.1890805556,42.0573888889,"adult",2009,"Aplodontia rufa pacifica","Aplodontia_rufa",1050,315,"male",11.1,1769,5.34032685414394,77.7172493726926,"Winter",5871
+2,-121.88942,47.55436,"unknown",1987,"Aplodontia rufa","Aplodontia_rufa",1066.3,335,"male",11.6,1095,5.33834045260124,87.5548223997134,"Winter",5828
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1068.5,322,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5771
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1073.3,331,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5811
+6,-123.3158,47.0611,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1084,322,"female",10.3,1717,5.45584896040826,59.2109798413588,"Summer",5818
+12,-123.64,44.6,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",1087,319,"male",10.7,1569,4.91777850808121,73.398748238448,"Winter",5849
+11,-123.48,44.64,NA,1991,"Aplodontia rufa pacifica","Aplodontia_rufa",1093,315,"male",10.9,1335,5.26696393484036,72.596883306836,"Fall",5839
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1098.2,327,"female",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5780
+9,-123.4389,47.9947,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1099.3,320,"female",3.9,1654,5.92582304729721,73.9725598081895,"Fall",5825
+7,-123.76,44.67,NA,1984,"Aplodontia rufa pacifica","Aplodontia_rufa",1110,330,"male",10.4,2229,4.25052581417519,80.5234016478843,"Summer",5835
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1126.6,318,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5819
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1129.3,327,"male",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5821
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1131.9,341,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5768
+8,-120.781531,49.064645,NA,1949,"Aplodontia rufa rainieri","Aplodontia_rufa",1133,NA,"female",2.3,1181,8.46104710906506,99.3354572641765,"Summer",5901
+6,-123.4942445,48.1183,"unknown",1931,"Aplodontia rufa","Aplodontia_rufa",1134,325,"male",9.5,938,4.28291178210961,68.8260238784243,"Summer",5794
+6,-123.4942445,48.1183,"unknown",1931,"Aplodontia rufa","Aplodontia_rufa",1134,335,"male",9.5,938,4.28291178210961,68.8260238784243,"Summer",5795
+8,-123.7314,48.1622,"unknown",1931,"Aplodontia rufa","Aplodontia_rufa",1134,340,"female",9.6,1157,3.92069103371053,70.2235453298983,"Summer",5796
+6,-123.3369,47.0611,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1146.8,315,"male",10.4,1584,5.43847126470019,59.239859770478,"Summer",5776
+4,-123.73605,46.69344,"unknown",1991,"Aplodontia rufa","Aplodontia_rufa",1149.8,334,"male",10.5,1923,4.12033942408838,72.3713053991591,"Spring",5830
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1153.5,343,"female",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5779
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1163.2,350,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5770
+2,-123.7651,44.6709,NA,1985,"Aplodontia rufa pacifica Merriam, 1899","Aplodontia_rufa",1166,315,"female",9.6,1366,5.31675453522906,72.2149279097912,"Winter",5797
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1175.4,341,"male",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5785
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1181.9,340,"male",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5822
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1186,333,"male",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5781
+7,-119.66798,37.66596,NA,2003,"Aplodontia rufa californica","Aplodontia_rufa",1190,336,"female",9.1,959,6.8858825714558,140.10895336076,"Summer",5757
+6,-123.5208,46.9889,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1193.7,352,"female",10.9,1483,5.26212164838711,53.2994278369054,"Summer",5782
+6,-123.3158,47.0611,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1194.2,340,"female",10.3,1717,5.45584896040826,59.2109798413588,"Summer",5774
+1,-122.5083333333,44.4333333333,"adult",2009,"Aplodontia rufa pacifica","Aplodontia_rufa",1200,333,"female",10.7,1687,6.66237740804833,60.9576261457043,"Winter",5910
+7,-122.36937,47.76238,"unknown",1993,"Aplodontia rufa","Aplodontia_rufa",1218,315,"male",10.6,766,5.47979069496327,65.6748521589458,"Summer",5827
+3,-122.33083,47.60639,NA,1939,"Aplodontia rufa","Aplodontia_rufa",1221,352,"female",11.2,859,4.69687194424183,85.4852847583825,"Spring",5899
+6,-123.3158,47.0611,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1221.1,361,"female",10.3,1717,5.45584896040826,59.2109798413588,"Summer",5773
+10,-123.9647446,41.8447685,NA,1976,"Aplodontia rufa rufa","Aplodontia_rufa",1227,333,"male",11.7,1298,5.09993315464215,100.737999030737,"Fall",5804
+8,-120.2418191,39.4319423,NA,1985,"Aplodontia rufa californica","Aplodontia_rufa",1233,327,"male",5.1,637,7.11891952135401,116.605686432348,"Summer",5759
+7,-118.534723,36.082849,NA,2004,"Aplodontia rufa californica Peters, 1864","Aplodontia_rufa",1242,345,"male",8.3,948,6.18318835082825,134.931272131728,"Summer",5898
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1242.3,337,"male",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5772
+8,-121.7528,46.6522,"unknown",1974,"Aplodontia rufa","Aplodontia_rufa",1250,353,"male",5.3,2631,6.55417401124634,78.413508581585,"Summer",5806
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1253,340,"male",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5814
+8,-121.6333,46.7658,"unknown",1975,"Aplodontia rufa","Aplodontia_rufa",1254,348,"male",6.1,2461,6.48342291750837,89.5587218224549,"Summer",5807
+8,-121.8833,46.8833,"unknown",1975,"Aplodontia rufa","Aplodontia_rufa",1258.8,360,"male",4.8,2313,6.07309017242657,69.1697567627956,"Summer",5787
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1283.4,352,"male",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5815
+7,-122.92,43.48,NA,1989,"Aplodontia rufa pacifica","Aplodontia_rufa",1288,362,"male",10.1,1518,5.87095444204825,82.2476365481613,"Summer",5891
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1294.5,355,"female",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5765
+8,-120.95873,49.320419,NA,1949,"Aplodontia rufa rainieri","Aplodontia_rufa",1300,390,"male",1.7,1570,8.12202393047895,97.4816977020203,"Summer",5900
+6,-123.3158,47.0611,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1313.1,348,"male",10.3,1717,5.45584896040826,59.2109798413588,"Summer",5775
+6,-123.3158,47.0611,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1323.6,342,"male",10.3,1717,5.45584896040826,59.2109798413588,"Summer",5817
+6,-123.2314,47.003,"unknown",1978,"Aplodontia rufa","Aplodontia_rufa",1340.5,353,"male",9.8,2181,5.69792625753999,61.8643009384177,"Summer",5810
+8,-118.9833333,37.65,"adult",1916,"Aplodontia rufa californica","Aplodontia_rufa",1360.8,NA,"female",4.3,959,7.54563389710175,149.088493985413,"Summer",5869
+8,-118.9833333,37.65,"adult",1916,"Aplodontia rufa californica","Aplodontia_rufa",1360.8,NA,"male",4.3,959,7.54563389710175,149.088493985413,"Summer",5908
+8,-118.9833333,37.65,"adult",1916,"Aplodontia rufa californica","Aplodontia_rufa",1361,NA,"female",4.3,959,7.54563389710175,149.088493985413,"Summer",5903
+8,-118.9833333,37.65,"adult",1916,"Aplodontia rufa californica","Aplodontia_rufa",1474.18,NA,"male",4.3,959,7.54563389710175,149.088493985413,"Summer",5867
+7,-118.9833333,37.65,"adult",1916,"Aplodontia rufa californica","Aplodontia_rufa",1474.18,NA,"female",4.3,959,7.54563389710175,149.088493985413,"Summer",5902
+9,-121.4764,40.46521,NA,2006,"Aplodontia rufa californica","Aplodontia_rufa",1530,349,"male",6.7,3677,7.2802919938112,107.879243422565,"Fall",5802
+8,-118.9833333,37.65,"adult",1916,"Aplodontia rufa californica","Aplodontia_rufa",1700.97,NA,"male",4.3,959,7.54563389710175,149.088493985413,"Summer",5904

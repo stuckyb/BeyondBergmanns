@@ -1,0 +1,844 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+8,-93.5833333,45.3,"adult",1924,"Blarina brevicauda brevicauda","Blarina_brevicauda",5,NA,"male",5.3,725,12.3486810729901,89.8114480777122,"Summer",8851
+10,-93.5833333,45.3,"adult",1924,"Blarina brevicauda brevicauda","Blarina_brevicauda",5,NA,"male",5.3,725,12.3486810729901,89.8114480777122,"Fall",8853
+8,-93.5833333,45.3,"adult",1924,"Blarina brevicauda brevicauda","Blarina_brevicauda",5,NA,"male",5.3,725,12.3486810729901,89.8114480777122,"Summer",8949
+11,-93.5833333,45.3,"adult",1924,"Blarina brevicauda brevicauda","Blarina_brevicauda",5,NA,"female",5.3,725,12.3486810729901,89.8114480777122,"Fall",8951
+12,-93.5833333,48.25,"adult",1923,"Blarina brevicauda brevicauda","Blarina_brevicauda",5,NA,"female",2.5,474,13.7247040040942,72.4978262775483,"Winter",8952
+1,-93.5833333,48.25,"adult",1921,"Blarina brevicauda brevicauda","Blarina_brevicauda",5,NA,"male",3.5,560,12.8868120278999,76.5961871196053,"Winter",8953
+10,-93.5833333,48.25,"adult",1924,"Blarina brevicauda brevicauda","Blarina_brevicauda",5,NA,"female",1.1,491,13.3885523240317,72.2860798948189,"Fall",8954
+1,-93.5833333,48.25,"adult",1921,"Blarina brevicauda brevicauda","Blarina_brevicauda",5,NA,"male",3.5,560,12.8868120278999,76.5961871196053,"Winter",8955
+11,-93.5833333,45.3,"adult",1924,"Blarina brevicauda brevicauda","Blarina_brevicauda",6,NA,"female",5.3,725,12.3486810729901,89.8114480777122,"Fall",8855
+7,-93.5833333,48.25,"adult",1921,"Blarina brevicauda brevicauda","Blarina_brevicauda",6,NA,"female",3.5,560,12.8868120278999,76.5961871196053,"Summer",8856
+10,-93.5833333,45.3,"adult",1924,"Blarina brevicauda brevicauda","Blarina_brevicauda",6,NA,"female",5.3,725,12.3486810729901,89.8114480777122,"Fall",8950
+7,-93.5833333,48.25,"adult",1921,"Blarina brevicauda brevicauda","Blarina_brevicauda",6,NA,"male",3.5,560,12.8868120278999,76.5961871196053,"Summer",8956
+9,-78.4944611,42.4195061,"immature",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",6.7,NA,"male",7.2,884,9.63275268251107,30.3998198621611,"Fall",8599
+4,-93.5833333,45.3,"adult",1921,"Blarina brevicauda brevicauda","Blarina_brevicauda",7,NA,"male",8.2,595,12.0249992124992,78.866536243584,"Spring",8863
+10,-89.9844444,38.6702778,"unknown",1977,"Blarina brevicauda","Blarina_brevicauda",7.8,101,"female",12.8,1122,11.3860460852109,46.1901077953387,"Fall",8414
+7,-87.1251,39.5244,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",8.5,95,"female",11.9,1053,9.93446327720127,58.8793716254038,"Summer",8634
+9,-76.476678,42.451405,"immature",1941,"Blarina brevicauda","Blarina_brevicauda",8.6,100,"male",8.9,718,10.4921904579578,45.6975807049801,"Fall",8444
+7,-89.250398,37.712544,NA,1962,"Blarina brevicauda","Blarina_brevicauda",8.6,92,"male",13.6,998,9.83466349503663,35.3618781953968,"Summer",8941
+10,-89.351957,37.168293,NA,1954,"Blarina brevicauda","Blarina_brevicauda",8.8,90.5,"female",15.7,1101,9.29764958894386,39.6874492273543,"Fall",8630
+7,-83.8192806982,35.5964033795,NA,1978,"Blarina brevicauda","Blarina_brevicauda",9.4,111,NA,12.5,1447,8.79223141945964,45.8156611112093,"Summer",8283
+10,-89.351957,37.168293,NA,1954,"Blarina brevicauda","Blarina_brevicauda",9.9,84,"male",15.7,1101,9.29764958894386,39.6874492273543,"Fall",8282
+10,-95.194691,39.048866,NA,2001,"Blarina brevicauda","Blarina_brevicauda",10,90,"undetermined",13.5,1016,10.1991495486218,65.6149128815376,"Fall",8326
+9,-76.655259,42.276659,NA,1979,"Blarina brevicauda","Blarina_brevicauda",10,105,"female",7.4,1029,10.0309974125662,31.1855495152694,"Fall",8569
+7,-76.5094764,42.4381028,"immature",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",10,114,"male",9.5,688,10.2050306964336,30.703559881706,"Summer",8778
+2,-100.10416,39.379216,NA,1963,"Blarina brevicauda","Blarina_brevicauda",10,94,"female",13,475,11.6625533874513,101.377958627131,"Winter",8841
+10,-82.454,38.317,NA,2001,"Blarina brevicauda","Blarina_brevicauda",10.92,95,"female",12.8,881,8.17218119320328,53.4498871567131,"Fall",8675
+5,-76.3652,42.4502,"immature",1938,"Blarina brevicauda","Blarina_brevicauda",11,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8255
+1,-95.194691,39.048866,NA,2008,"Blarina brevicauda","Blarina_brevicauda",11,102,"female",11.9,1052,10.4192421058638,61.9059599548535,"Winter",8315
+7,-83.17,42.658,NA,2007,"Blarina brevicauda","Blarina_brevicauda",11,114,"female",9.6,810,10.6235016768854,47.0079976108478,"Summer",8825
+7,-83.17,42.658,NA,2007,"Blarina brevicauda","Blarina_brevicauda",11,112,"female",9.6,810,10.6235016768854,47.0079976108478,"Summer",8925
+10,-87.14935,39.9785333333,NA,2001,"Blarina brevicauda kirtlandi","Blarina_brevicauda",11.1,107,"female",11.5,1115,9.34384824363067,63.8136373213393,"Fall",8312
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",11.2,109,"female",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8806
+7,-79.27,40.17,NA,1998,"Blarina brevicauda","Blarina_brevicauda",11.35,NA,"undetermined",10.4,1072,7.73016033390503,46.5249771013576,"Summer",8395
+8,-76.279238,42.601068,NA,1971,"Blarina brevicauda","Blarina_brevicauda",11.4,110,"female",7.2,911,10.1686200309252,34.3264733819843,"Summer",8948
+5,-76.3652,42.4502,"immature",1938,"Blarina brevicauda","Blarina_brevicauda",11.5,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8611
+6,-79.27,40.17,NA,1997,"Blarina brevicauda","Blarina_brevicauda",11.5,NA,"undetermined",8.3,1142,8.17391916680453,58.6392739798719,"Summer",8744
+11,-83.7264,42.2708,"unknown",1928,"Blarina brevicauda","Blarina_brevicauda",11.5,105,"female",8.8,663,9.36680146565356,48.8368556283683,"Fall",8749
+7,-76.40055,42.46027,"juvenile",1955,"Blarina brevicauda","Blarina_brevicauda",11.7,124,"male",8.3,978,10.9141658019069,72.0764679189421,"Summer",8440
+12,-79.27,40.17,NA,1996,"Blarina brevicauda","Blarina_brevicauda",11.8,NA,"undetermined",8.6,1593,9.40196626759369,26.75308599579,"Winter",8396
+6,-79.233822,42.519466,"juv",1991,"Blarina brevicauda","Blarina_brevicauda",11.8,101,"female",11,885,9.20186081313135,34.6118065463564,"Summer",8556
+12,-85.6601,38.1598,"unknown",1957,"Blarina brevicauda","Blarina_brevicauda",11.8,117,"female",13.9,1306,8.6370063556697,50.8757073379491,"Winter",8753
+10,-95.194691,39.048866,NA,2001,"Blarina brevicauda","Blarina_brevicauda",11.9,NA,"undetermined",13.5,1016,10.1991495486218,65.6149128815376,"Fall",8321
+10,-89.9844444,38.6702778,"unknown",1977,"Blarina brevicauda","Blarina_brevicauda",11.9,109,"female",12.8,1122,11.3860460852109,46.1901077953387,"Fall",8415
+10,-82.454,38.317,NA,2001,"Blarina brevicauda","Blarina_brevicauda",11.92,97,"male",12.8,881,8.17218119320328,53.4498871567131,"Fall",8674
+7,-79.27,40.17,NA,1998,"Blarina brevicauda","Blarina_brevicauda",11.95,NA,"undetermined",10.4,1072,7.73016033390503,46.5249771013576,"Summer",8401
+12,-79.27,40.17,NA,1996,"Blarina brevicauda","Blarina_brevicauda",11.95,NA,"undetermined",8.6,1593,9.40196626759369,26.75308599579,"Winter",8743
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",12,100,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8208
+10,-93.6897,37.5454,NA,1987,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",12,96,"male",14,1189,9.33793176763301,33.4846441925771,"Fall",8285
+8,-90.963874,44.672096,NA,2009,"Blarina brevicauda brevicauda","Blarina_brevicauda",12,102,"male",6.2,725,11.5549936732081,77.1083278322468,"Summer",8306
+10,-87.14935,39.9785333333,NA,2001,"Blarina brevicauda kirtlandi","Blarina_brevicauda",12,92,"female",11.5,1115,9.34384824363067,63.8136373213393,"Fall",8311
+8,-81.4483,45.21,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",12,119,"female",5.3,819,9.66656217289395,41.0357487191797,"Summer",8353
+8,-82.745,48.21,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",12,108,"female",1,793,12.3687533974148,36.0557920146201,"Summer",8355
+8,-78.7133,42.0383,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",12,98,"female",6.7,1057,9.82912724631452,38.2797413326582,"Summer",8358
+8,-78.7133,42.0383,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",12,108,"male",6.7,1057,9.82912724631452,38.2797413326582,"Summer",8360
+11,-72.5251,44.8401,"juvenile",2009,"Blarina brevicauda","Blarina_brevicauda",12,116,"undetermined",4.7,1256,10.3011767494904,34.3329236304749,"Fall",8371
+11,-72.5251,44.8401,"juvenile",2009,"Blarina brevicauda","Blarina_brevicauda",12,114,"undetermined",4.7,1256,10.3011767494904,34.3329236304749,"Fall",8377
+7,-79.27,40.17,NA,1998,"Blarina brevicauda","Blarina_brevicauda",12,NA,"undetermined",10.4,1072,7.73016033390503,46.5249771013576,"Summer",8398
+10,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",12,101,"undetermined",9.3,1115,8.30806016085365,47.7008956309771,"Fall",8516
+6,-89.507013,46.111558,NA,2009,"Blarina brevicauda kirtlandi","Blarina_brevicauda",12,111,"male",3.7,650,11.6977950525263,63.0212808680306,"Summer",8655
+8,-78.7133,42.0383,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",12,111,"female",6.7,1057,9.82912724631452,38.2797413326582,"Summer",8707
+8,-73.2792,42.7171,"juvenile",2003,"Blarina brevicauda","Blarina_brevicauda",12,123,"undetermined",5.5,1589,10.4774505342173,31.4743167394008,"Summer",8727
+8,-77.55083,39.595912,NA,1969,"Blarina brevicauda","Blarina_brevicauda",12,109,"female",11,953,9.61845999769572,50.4187027738061,"Summer",8844
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",12.1,102,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8567
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",12.2,112,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8560
+6,-79.406653,42.439706,"juvenile",1991,"Blarina brevicauda","Blarina_brevicauda",12.4,103,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8583
+7,-87.1251,39.5244,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",12.4,103,"female",11.9,1053,9.93446327720127,58.8793716254038,"Summer",8645
+5,-92.49,39.87,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",12.4,97,"female",10.9,873,10.70559185518,82.2367819876745,"Spring",8792
+9,-72.061,43.6761,NA,1998,"Blarina brevicauda","Blarina_brevicauda",12.42,115,"female",7.9,986,8.82577149173048,38.0293838366375,"Fall",8678
+9,-76.655259,42.276659,"immature",1980,"Blarina brevicauda","Blarina_brevicauda",12.5,89,"female",7.2,860,10.5220115601879,59.1380748517893,"Fall",8230
+5,-76.451,42.4465,"immature",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",12.5,110,"male",8.5,732,10.2502180316796,31.2532522555778,"Spring",8236
+1,-95.194691,39.048866,NA,2008,"Blarina brevicauda","Blarina_brevicauda",12.5,104,"female",11.9,1052,10.4192421058638,61.9059599548535,"Winter",8314
+9,-74.28,44.07,NA,2001,"Blarina brevicauda","Blarina_brevicauda",12.5,110,"undetermined",5.8,999,9.97382559350709,44.9533091106762,"Fall",8333
+7,-75.469299,44.151524,NA,1991,"Blarina brevicauda","Blarina_brevicauda",12.5,119,"undetermined",7.4,958,10.1296556823233,27.7730995676294,"Summer",8497
+5,-76.3652,42.4502,"immature",1938,"Blarina brevicauda","Blarina_brevicauda",12.5,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8617
+1,-95.194691,39.048866,NA,2008,"Blarina brevicauda","Blarina_brevicauda",12.5,97,"female",11.9,1052,10.4192421058638,61.9059599548535,"Winter",8663
+6,-73.75,41.8333333333,NA,2005,"Blarina brevicauda talpoides","Blarina_brevicauda",12.6,101,"female",9.3,1123,10.625127450216,60.1502132771152,"Summer",8310
+10,-79.26559,40.165736,NA,1981,"Blarina brevicauda kirtlandi","Blarina_brevicauda",12.6,109,"female",8.4,1184,9.55595958741788,44.975801080638,"Fall",8737
+5,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",12.7,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8258
+7,-87.1251,39.5244,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",12.7,93,"female",11.9,1053,9.93446327720127,58.8793716254038,"Summer",8642
+7,-73.75,41.8333333333,NA,2005,"Blarina brevicauda talpoides","Blarina_brevicauda",12.7,106,"male",9.3,1123,10.625127450216,60.1502132771152,"Summer",8662
+10,-95.194691,39.048866,NA,2001,"Blarina brevicauda","Blarina_brevicauda",12.9,100,"male",13.5,1016,10.1991495486218,65.6149128815376,"Fall",8320
+11,-79.27,40.17,NA,1996,"Blarina brevicauda","Blarina_brevicauda",12.95,NA,"undetermined",8.6,1593,9.40196626759369,26.75308599579,"Fall",8392
+7,-75.469299,44.151524,NA,1991,"Blarina brevicauda","Blarina_brevicauda",13,110,NA,7.4,958,10.1296556823233,27.7730995676294,"Summer",8178
+7,-87.1251,39.5244,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",13,NA,"female",11.9,1053,9.93446327720127,58.8793716254038,"Summer",8290
+10,-79.02667,40.5683,NA,2001,"Blarina brevicauda","Blarina_brevicauda",13,106,"undetermined",9.8,948,8.45119679529043,24.1443272178391,"Fall",8327
+8,-78.7133,42.0383,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",13,113,"male",6.7,1057,9.82912724631452,38.2797413326582,"Summer",8361
+8,-73.2792,42.7171,"juvenile",2003,"Blarina brevicauda","Blarina_brevicauda",13,122,"undetermined",5.5,1589,10.4774505342173,31.4743167394008,"Summer",8368
+9,-88.9936,40.4842,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",13,102,"male",10,991,10.7994493406195,47.3292026853431,"Fall",8405
+5,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",13,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8618
+8,-80.52238,37.38278,NA,1966,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",13,NA,"female",8,1149,8.481901409186,39.2397409840836,"Summer",8646
+1,-95.194691,39.048866,NA,2008,"Blarina brevicauda","Blarina_brevicauda",13,108,"male",11.9,1052,10.4192421058638,61.9059599548535,"Winter",8665
+8,-81.4483,45.21,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",13,107,"male",5.3,819,9.66656217289395,41.0357487191797,"Summer",8702
+9,-65.2474,45.7861,"juvenile",2005,"Blarina brevicauda","Blarina_brevicauda",13,128,"male",5.4,1458,10.2299026921525,31.9815877017832,"Fall",8714
+11,-73.685,43.595,"juvenile",2009,"Blarina brevicauda","Blarina_brevicauda",13,118,"female",6,1072,9.85001153667991,35.3574676377344,"Fall",8730
+9,-88.9936,40.4842,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",13,104,"male",10,991,10.7994493406195,47.3292026853431,"Fall",8747
+8,-89.921959,43.000617,NA,2009,"Blarina brevicauda","Blarina_brevicauda",13,115,"female",7.6,1010,10.8696268509452,46.9654721247751,"Summer",8828
+8,-77.55083,39.595912,NA,1969,"Blarina brevicauda","Blarina_brevicauda",13,117,"male",11,953,9.61845999769572,50.4187027738061,"Summer",8843
+7,-83.17,42.658,NA,2007,"Blarina brevicauda","Blarina_brevicauda",13,116,"female",9.6,810,10.6235016768854,47.0079976108478,"Summer",8924
+10,-84.0610666667,35.3467666667,NA,2001,"Blarina brevicauda","Blarina_brevicauda",13.01,103,"female",10.5,1702,6.73585498836209,46.5148726325009,"Fall",8676
+10,-79.02667,40.5683,NA,2001,"Blarina brevicauda","Blarina_brevicauda",13.1,116,"undetermined",9.8,948,8.45119679529043,24.1443272178391,"Fall",8329
+12,-90.357386,38.656222,NA,1981,"Blarina brevicauda brevicauda","Blarina_brevicauda",13.1,109,"female ?",13,1164,9.42601172127942,67.3102651452984,"Winter",8388
+10,-95.194691,39.048866,NA,2001,"Blarina brevicauda","Blarina_brevicauda",13.2,110,"undetermined",13.5,1016,10.1991495486218,65.6149128815376,"Fall",8324
+12,-90.96255,39.065604,NA,1982,"Blarina brevicauda brevicauda","Blarina_brevicauda",13.2,112,"female",11.7,1264,10.1012600474126,49.3016268363852,"Winter",8384
+9,-73.75,41.8333333333,NA,2005,"Blarina brevicauda talpoides","Blarina_brevicauda",13.2,117,"female",9.3,1123,10.625127450216,60.1502132771152,"Fall",8660
+9,-73.75,41.8333333333,NA,2005,"Blarina brevicauda talpoides","Blarina_brevicauda",13.2,111,"female",9.3,1123,10.625127450216,60.1502132771152,"Fall",8661
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",13.4,104,"male",11,858,9.20281165863142,34.6128559411243,"Fall",8551
+5,-76.3652,42.4502,"immature",1938,"Blarina brevicauda","Blarina_brevicauda",13.5,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8245
+8,-87.0754,39.4897,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",13.5,NA,"female",12.1,1063,9.90091440527621,56.1395977521054,"Summer",8292
+6,-89.56838,46.089295,NA,2010,"Blarina brevicauda kirtlandi","Blarina_brevicauda",13.5,109,"female",5.6,965,11.4545313251476,89.9424417848642,"Summer",8307
+10,-83.7264,42.2708,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",13.5,112,"female",8.5,799,10.5178203756551,50.1458517794893,"Fall",8409
+10,-86.35605,41.93359,"unknown",1966,"Blarina brevicauda","Blarina_brevicauda",13.5,110,"female",8.8,1039,9.78712821965048,48.1983488764977,"Fall",8420
+7,-76.45442,42.4566,"juvenile",1954,"Blarina brevicauda","Blarina_brevicauda",13.5,115,"male ?",8.7,899,9.4170863408761,31.5282833352644,"Summer",8607
+11,-94.3531,37.7508,NA,1990,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",13.5,108,"male",14.8,1259,8.62800233208268,65.5324373870051,"Fall",8638
+5,-76.451,42.4465,NA,1941,"Blarina brevicauda","Blarina_brevicauda",13.6,NA,"male",8.6,733,10.5068664417248,45.4899571328249,"Spring",8445
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",13.6,102,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8553
+10,-83.538352,35.619456,NA,1932,"Blarina brevicauda","Blarina_brevicauda",13.61,112,"male",11.8,1876,6.73707516791833,38.4756829935244,"Fall",8120
+8,-79.27,40.17,NA,1998,"Blarina brevicauda","Blarina_brevicauda",13.7,NA,"undetermined",10.4,1072,7.73016033390503,46.5249771013576,"Summer",8397
+8,-79.27,40.17,NA,1998,"Blarina brevicauda","Blarina_brevicauda",13.7,NA,"undetermined",10.4,1072,7.73016033390503,46.5249771013576,"Summer",8742
+4,-85.47296,38.71366,NA,2008,"Blarina brevicauda","Blarina_brevicauda",13.7,97,"male",12.8,1305,9.65258640170728,56.7981852325862,"Spring",8758
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",13.8,NA,"female",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8631
+8,-80.5342,37.37015,NA,1966,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",13.8,NA,"female",7.8,1165,8.49803453211923,39.164931356672,"Summer",8633
+6,-76.40055,42.46027,NA,1959,"Blarina brevicauda","Blarina_brevicauda",13.9,107.1,"female",8.3,1049,10.7136135431289,47.9353424862113,"Summer",8127
+5,-89.366171,44.572458,NA,2009,"Blarina brevicauda kirtlandi","Blarina_brevicauda",13.9,107,"male",6,746,11.4089544842743,67.7306413990629,"Spring",8304
+5,-76.3652,42.4502,"immature",1938,"Blarina brevicauda","Blarina_brevicauda",13.9,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8612
+11,-94.3531,37.7508,NA,1990,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",14,92,"male",14.8,1259,8.62800233208268,65.5324373870051,"Fall",8296
+10,-79.02667,40.5683,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14,116,"undetermined",9.8,948,8.45119679529043,24.1443272178391,"Fall",8328
+8,-82.745,48.21,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",14,119,"female",1,793,12.3687533974148,36.0557920146201,"Summer",8351
+8,-78.7133,42.0383,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",14,117,"female",6.7,1057,9.82912724631452,38.2797413326582,"Summer",8356
+8,-73.2792,42.7171,"juvenile",2003,"Blarina brevicauda","Blarina_brevicauda",14,119,"undetermined",5.5,1589,10.4774505342173,31.4743167394008,"Summer",8367
+11,-73.685,43.595,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",14,124,"female",6,1072,9.85001153667991,35.3574676377344,"Fall",8373
+8,-80.5169,37.4142,"unknown",1962,"Blarina brevicauda","Blarina_brevicauda",14,123,"male",8.1,1255,8.37334786960715,28.1040971515821,"Summer",8421
+6,-76.451,42.4465,NA,1959,"Blarina brevicauda","Blarina_brevicauda",14,118,"male",8.8,995,10.6571465565259,47.9533739732762,"Summer",8436
+6,-75.469299,44.151524,NA,1991,"Blarina brevicauda","Blarina_brevicauda",14,123,"female",7.4,958,10.1296556823233,27.7730995676294,"Summer",8493
+7,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",14,111,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8494
+8,-87.0754,39.4897,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",14,NA,"female",12.1,1063,9.90091440527621,56.1395977521054,"Summer",8639
+6,-89.48421,46.083596,NA,2009,"Blarina brevicauda kirtlandi","Blarina_brevicauda",14,109,"male",3.7,647,11.7040364702512,62.8383832104934,"Summer",8658
+10,-95.194691,39.048866,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14,109,"undetermined",13.5,1016,10.1991495486218,65.6149128815376,"Fall",8669
+9,-74.28,44.07,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14,115,"undetermined",5.8,999,9.97382559350709,44.9533091106762,"Fall",8672
+8,-82.745,48.21,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",14,123,"female",1,793,12.3687533974148,36.0557920146201,"Summer",8695
+7,-78.62,46.0233,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",14,124,"male",3.1,877,11.725651755485,38.8088132706512,"Summer",8701
+8,-81.4483,45.21,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",14,114,"female",5.3,819,9.66656217289395,41.0357487191797,"Summer",8703
+7,-75.1119,47.1381,"juvenile",2004,"Blarina brevicauda","Blarina_brevicauda",14,122,"undetermined",2.7,986,11.9746038082116,40.1155513364115,"Summer",8705
+11,-73.685,43.595,"juvenile",2009,"Blarina brevicauda","Blarina_brevicauda",14,116,"female",6,1072,9.85001153667991,35.3574676377344,"Fall",8715
+10,-76.5789,43.3631,"juvenile",1991,"Blarina brevicauda","Blarina_brevicauda",14,111,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8717
+10,-76.5789,43.3631,"juvenile",1991,"Blarina brevicauda","Blarina_brevicauda",14,115,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8725
+3,-80.7900009,41.8650017,NA,1975,"Blarina brevicauda kirtlandi","Blarina_brevicauda",14,118,"female",9.9,1057,9.28302458547565,45.8236866297851,"Spring",8738
+11,-76.5094764,42.4381028,NA,1938,"Blarina brevicauda talpoides","Blarina_brevicauda",14,NA,"female",9.9,785,9.4059781119469,50.7312382008264,"Fall",8776
+9,-95.658529,38.749869,NA,1963,"Blarina brevicauda","Blarina_brevicauda",14,96,"male",13.1,611,12.0622627155183,73.6485828269125,"Fall",8842
+11,-76.5094764,42.4381028,NA,1933,"Blarina brevicauda talpoides","Blarina_brevicauda",14,NA,"male",9.7,795,9.78248279819442,56.8304107105367,"Fall",8871
+11,-76.5094764,42.4381028,NA,1941,"Blarina brevicauda","Blarina_brevicauda",14,115,"male",9.6,683,10.4461787996928,46.2294395870154,"Fall",8889
+9,-73.49,40.87,NA,1968,"Blarina brevicauda talpoides","Blarina_brevicauda",14,101,"female",10.7,1100,9.8209539436674,53.4764670853533,"Fall",8919
+8,-81.6493,41.1768,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.1,105,"female",10.6,833,8.84493948794759,38.0906054361163,"Summer",8318
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",14.1,NA,"female",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8644
+12,-90.357128,38.656884,NA,1981,"Blarina brevicauda brevicauda","Blarina_brevicauda",14.2,122,"male",13,1164,9.42601172127942,67.3102651452984,"Winter",8386
+10,-79.233822,42.519466,"juvenile",1991,"Blarina brevicauda","Blarina_brevicauda",14.2,105,"male",11,885,9.20186081313135,34.6118065463564,"Fall",8542
+3,-86.9919,40.482,"unknown",1968,"Blarina brevicauda","Blarina_brevicauda",14.2,110,"male",10.4,991,10.4026329709008,52.3289838156391,"Spring",8755
+6,-76.5094764,42.4381028,NA,1937,"Blarina brevicauda","Blarina_brevicauda",14.2,110,"male",9.3,987,9.7610970260271,49.7444654477362,"Summer",8769
+8,-76.279238,42.601068,NA,1971,"Blarina brevicauda","Blarina_brevicauda",14.3,110,"female",7.2,911,10.1686200309252,34.3264733819843,"Summer",8847
+8,-81.6493,41.1768,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.37,119,"female",10.6,833,8.84493948794759,38.0906054361163,"Summer",8681
+10,-95.34354,38.867127,NA,1945,"Blarina brevicauda","Blarina_brevicauda",14.4,114,"male",11.9,1124,9.71878452931604,83.116259656178,"Fall",8272
+5,-76.3652,42.4502,"immature",1938,"Blarina brevicauda","Blarina_brevicauda",14.4,NA,"male",8.1,911,9.58427926820317,52.0400820749901,"Spring",8610
+5,-76.3652,42.4502,"immature",1938,"Blarina brevicauda","Blarina_brevicauda",14.4,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8616
+7,-87.1258,39.4999,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",14.4,102,"female",12,1053,9.92494561468956,57.3802156421097,"Summer",8632
+7,-73.75,41.8333333333,NA,2005,"Blarina brevicauda talpoides","Blarina_brevicauda",14.4,119,"female",9.3,1123,10.625127450216,60.1502132771152,"Summer",8659
+8,-81.6493,41.1768,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.4,115,"female",10.6,833,8.84493948794759,38.0906054361163,"Summer",8667
+11,-76.5094764,42.4381028,NA,1950,"Blarina brevicauda","Blarina_brevicauda",14.4,119,"female",9,942,9.34026798655189,22.1277688905802,"Fall",8877
+10,-82.454,38.317,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.46,102,"male",12.8,881,8.17218119320328,53.4498871567131,"Fall",8673
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",14.5,118,"undetermined",7.8,939,10.1516083215987,26.2715074855058,"Summer",8183
+7,-75.93419,43.17458,NA,1955,"Blarina brevicauda","Blarina_brevicauda",14.5,110,"male",8.6,980,11.3612045882895,60.4677262046338,"Summer",8281
+8,-87.0754,39.4897,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",14.5,NA,"female",12.1,1063,9.90091440527621,56.1395977521054,"Summer",8289
+7,-87.1251,39.5244,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",14.5,100,"female",11.9,1053,9.93446327720127,58.8793716254038,"Summer",8297
+12,-93.2992,37.2159,NA,1987,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",14.5,108,"female",13.9,1332,9.0700639802628,42.5899325479965,"Winter",8302
+10,-95.194691,39.048866,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.5,111,"undetermined",13.5,1016,10.1991495486218,65.6149128815376,"Fall",8323
+10,-79.02667,40.5683,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.5,115,"undetermined",9.8,948,8.45119679529043,24.1443272178391,"Fall",8325
+9,-74.28,44.07,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.5,107,"undetermined",5.8,999,9.97382559350709,44.9533091106762,"Fall",8335
+12,-90.357386,38.656222,NA,1980,"Blarina brevicauda brevicauda","Blarina_brevicauda",14.5,122,"female",13.1,714,11.0158425859663,49.2122078396949,"Winter",8387
+9,-88.9936,40.4842,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",14.5,106,"female",10,991,10.7994493406195,47.3292026853431,"Fall",8407
+10,-86.3635,41.9586,"unknown",1966,"Blarina brevicauda","Blarina_brevicauda",14.5,115,"male",8.8,1040,9.72499123626621,48.5473569984331,"Fall",8418
+7,-75.469299,44.151524,NA,1991,"Blarina brevicauda","Blarina_brevicauda",14.5,120,"female",7.4,958,10.1296556823233,27.7730995676294,"Summer",8478
+7,-76.45442,42.4566,NA,1954,"Blarina brevicauda","Blarina_brevicauda",14.5,114,"undetermined",8.7,899,9.4170863408761,31.5282833352644,"Summer",8605
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",14.5,114,"female",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8636
+8,-90.121598,43.029355,NA,2009,"Blarina brevicauda brevicauda","Blarina_brevicauda",14.5,111,"female",7.6,1013,10.8283578317921,49.2829362089267,"Summer",8650
+5,-76.5094764,42.4381028,NA,1937,"Blarina brevicauda","Blarina_brevicauda",14.5,103,NA,9.3,987,9.7610970260271,49.7444654477362,"Spring",8874
+6,-92.49,39.87,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",14.5,111,"female",10.9,873,10.70559185518,82.2367819876745,"Summer",8899
+1,-85.5794,42.3684,"unknown",1987,"Blarina brevicauda","Blarina_brevicauda",14.6,114,"female",10.3,912,9.73983930550036,66.1279270550719,"Winter",8413
+6,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",14.6,111,"male",11,885,9.20186081313135,34.6118065463564,"Summer",8555
+10,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",14.6,120,"female",11,885,9.20186081313135,34.6118065463564,"Fall",8558
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",14.6,106,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8568
+9,-81.6493,41.1768,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.7,112,"undetermined",10.6,833,8.84493948794759,38.0906054361163,"Fall",8668
+7,-80.3997222222,40.8369444444,NA,2001,"Blarina brevicauda kirtlandi","Blarina_brevicauda",14.7,106,"female",10.8,869,8.55982511857608,29.9329629263705,"Summer",8920
+8,-80.52794,37.37206,NA,1966,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",14.8,NA,"female",7.8,1165,8.49803453211923,38.9500826768752,"Summer",8288
+12,-90.96255,39.065604,"adult",1981,"Blarina brevicauda brevicauda","Blarina_brevicauda",14.8,111,"male",12.5,1212,9.61655769068027,73.0050802133186,"Winter",8383
+10,-79.02667,40.5683,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.8,117,"undetermined",9.8,948,8.45119679529043,24.1443272178391,"Fall",8670
+10,-83.8455,42.2687,"unknown",1948,"Blarina brevicauda","Blarina_brevicauda",14.8,111,"female",9.1,717,10.4620635023533,42.8906009330192,"Fall",8754
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",14.9,114,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8222
+10,-95.194691,39.048866,NA,2001,"Blarina brevicauda","Blarina_brevicauda",14.9,100,"undetermined",13.5,1016,10.1991495486218,65.6149128815376,"Fall",8317
+11,-79.27,40.17,NA,1996,"Blarina brevicauda","Blarina_brevicauda",14.9,NA,"undetermined",8.6,1593,9.40196626759369,26.75308599579,"Fall",8741
+12,-76.3652,42.4502,NA,1939,"Blarina brevicauda","Blarina_brevicauda",15,150,"female",7.7,785,10.3876675131444,32.095335486546,"Winter",8126
+10,-78.78111,42.07472,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15,NA,"female",7.7,1017,8.75423274245613,34.5644083350188,"Fall",8143
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8151
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15,110,NA,7.8,939,10.1516083215987,26.2715074855058,"Summer",8176
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8249
+5,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15,NA,"male",8.1,911,9.58427926820317,52.0400820749901,"Spring",8257
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8263
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8266
+11,-94.3531,37.7508,NA,1990,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",15,107,"female",14.8,1259,8.62800233208268,65.5324373870051,"Fall",8291
+7,-87.1267,39.4851,"adult",1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",15,115,"male",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8301
+10,-95.194691,39.048866,NA,2001,"Blarina brevicauda","Blarina_brevicauda",15,110,"undetermined",13.5,1016,10.1991495486218,65.6149128815376,"Fall",8319
+10,-95.194691,39.048866,NA,2001,"Blarina brevicauda","Blarina_brevicauda",15,100,"undetermined",13.5,1016,10.1991495486218,65.6149128815376,"Fall",8322
+10,-79.02667,40.5683,NA,2001,"Blarina brevicauda","Blarina_brevicauda",15,116,"undetermined",9.8,948,8.45119679529043,24.1443272178391,"Fall",8331
+8,-82.745,48.21,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",15,118,"undetermined",1,793,12.3687533974148,36.0557920146201,"Summer",8339
+8,-82.7233,46.59,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",15,111,"female",2.8,969,11.224837179085,39.7413429490389,"Summer",8341
+8,-82.655,46.4333,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",15,120,"female",3,972,11.104745777724,40.6239134900789,"Summer",8342
+8,-82.655,46.4333,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",15,115,"male",3,972,11.104745777724,40.6239134900789,"Summer",8345
+8,-82.655,46.4333,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",15,118,"female",3,972,11.104745777724,40.6239134900789,"Summer",8346
+8,-82.745,48.21,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",15,121,"undetermined",1,793,12.3687533974148,36.0557920146201,"Summer",8350
+7,-78.62,46.0233,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",15,111,"female",3.1,877,11.725651755485,38.8088132706512,"Summer",8352
+8,-81.4483,45.21,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",15,124,"female",5.3,819,9.66656217289395,41.0357487191797,"Summer",8354
+8,-78.7133,42.0383,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",15,112,"male",6.7,1057,9.82912724631452,38.2797413326582,"Summer",8357
+8,-78.7133,42.0383,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",15,113,"female",6.7,1057,9.82912724631452,38.2797413326582,"Summer",8359
+9,-65.2474,45.7861,"juvenile",2005,"Blarina brevicauda","Blarina_brevicauda",15,130,"female",5.4,1458,10.2299026921525,31.9815877017832,"Fall",8362
+10,-76.5789,43.3631,"juvenile",1991,"Blarina brevicauda","Blarina_brevicauda",15,120,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8364
+10,-76.5789,43.3631,"juvenile",1991,"Blarina brevicauda","Blarina_brevicauda",15,122,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8366
+10,-76.5789,43.3631,"juvenile",1991,"Blarina brevicauda","Blarina_brevicauda",15,121,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8369
+8,-73.04167,42.2183,"juvenile",2003,"Blarina brevicauda","Blarina_brevicauda",15,126,"undetermined",6.2,1692,10.3566257521307,36.0403986475333,"Summer",8370
+11,-72.5251,44.8401,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",15,118,"male",4.7,1256,10.3011767494904,34.3329236304749,"Fall",8378
+8,-90.357128,38.656884,NA,1981,"Blarina brevicauda brevicauda","Blarina_brevicauda",15,117,"male ?",13,1164,9.42601172127942,67.3102651452984,"Summer",8385
+6,-79.27,40.17,NA,1998,"Blarina brevicauda","Blarina_brevicauda",15,NA,"undetermined",10.4,1072,7.73016033390503,46.5249771013576,"Summer",8399
+10,-83.7264,42.2708,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",15,109,"female",8.5,799,10.5178203756551,50.1458517794893,"Fall",8404
+7,-76.451,42.4465,"immature",1959,"Blarina brevicauda","Blarina_brevicauda",15,117,"female",8.8,995,10.6571465565259,47.9533739732762,"Summer",8438
+10,-78.78111,42.07472,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15,NA,"female",7.7,1017,8.75423274245613,34.5644083350188,"Fall",8460
+10,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Fall",8465
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8613
+1,-95.194691,39.048866,NA,2008,"Blarina brevicauda","Blarina_brevicauda",15,109,"female",11.9,1052,10.4192421058638,61.9059599548535,"Winter",8666
+9,-74.28,44.07,NA,2001,"Blarina brevicauda","Blarina_brevicauda",15,110,"undetermined",5.8,999,9.97382559350709,44.9533091106762,"Fall",8687
+8,-82.7233,46.59,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",15,128,"female",2.8,969,11.224837179085,39.7413429490389,"Summer",8688
+8,-82.655,46.4333,"juvenile",1997,"Blarina brevicauda","Blarina_brevicauda",15,123,"female",3,972,11.104745777724,40.6239134900789,"Summer",8691
+7,-75.1017,47.1016,"juvenile",2004,"Blarina brevicauda","Blarina_brevicauda",15,118,"male",2.5,996,11.9821710988629,40.1674293065607,"Summer",8693
+9,-62.5985,45.2217,"juvenile",2005,"Blarina brevicauda","Blarina_brevicauda",15,118,"male",5.9,1287,9.10527652551314,36.2567740056881,"Fall",8694
+7,-78.62,46.0233,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",15,107,"undetermined",3.1,877,11.725651755485,38.8088132706512,"Summer",8696
+8,-79.7,45.9833,"juvenile",2007,"Blarina brevicauda","Blarina_brevicauda",15,110,"male",5.3,916,11.57817958162,29.2045639662557,"Summer",8704
+8,-78.7133,42.0383,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",15,117,"male",6.7,1057,9.82912724631452,38.2797413326582,"Summer",8706
+8,-78.7133,42.0383,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",15,122,"male",6.7,1057,9.82912724631452,38.2797413326582,"Summer",8708
+9,-76.5739,43.3631,"juvenile",1993,"Blarina brevicauda","Blarina_brevicauda",15,118,"female",8.1,1017,10.1626619037385,32.2851650528251,"Fall",8711
+10,-76.5789,43.3631,"juvenile",1991,"Blarina brevicauda","Blarina_brevicauda",15,126,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8718
+11,-73.685,43.595,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",15,120,"female",6,1072,9.85001153667991,35.3574676377344,"Fall",8729
+11,-73.685,43.595,"juvenile",2009,"Blarina brevicauda","Blarina_brevicauda",15,118,"undetermined",6,1072,9.85001153667991,35.3574676377344,"Fall",8731
+11,-73.685,43.595,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",15,125,"female",6,1072,9.85001153667991,35.3574676377344,"Fall",8734
+11,-72.5251,44.8401,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",15,110,"male",4.7,1256,10.3011767494904,34.3329236304749,"Fall",8735
+10,-79.27,40.17,NA,1995,"Blarina brevicauda","Blarina_brevicauda",15,NA,"undetermined",9.3,1004,10.0586763392093,31.1063287584751,"Fall",8739
+4,-83.7264,42.2708,"unknown",1928,"Blarina brevicauda","Blarina_brevicauda",15,112,"male",8.8,663,9.36680146565356,48.8368556283683,"Spring",8745
+11,-76.5094764,42.4381028,NA,1939,"Blarina brevicauda","Blarina_brevicauda",15,115,"male",9.5,688,10.2050306964336,30.703559881706,"Fall",8893
+10,-76.4009,42.5175,NA,1993,"Blarina brevicauda","Blarina_brevicauda",15.1,112,NA,7.3,997,10.3891952906796,45.047997821301,"Fall",8499
+6,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.1,103,"male",11,885,9.20186081313135,34.6118065463564,"Summer",8580
+7,-76.40055,42.46027,"juvenile",1955,"Blarina brevicauda","Blarina_brevicauda",15.2,124,"male",8.3,978,10.9141658019069,72.0764679189421,"Summer",8134
+7,-81.3773,41.4384,NA,1938,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",15.2,NA,"male",9.8,918,8.83417949063337,43.0721760876619,"Summer",8293
+6,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.2,114,"male",11,885,9.20186081313135,34.6118065463564,"Summer",8582
+7,-80.531952,37.367002,NA,1962,"Blarina brevicauda","Blarina_brevicauda",15.2,170,"male",7.9,1285,8.27498970062529,27.862929970052,"Summer",8942
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.3,98,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8545
+10,-83.389602,35.630929,NA,1932,"Blarina brevicauda","Blarina_brevicauda",15.32,115,"female",8.8,2304,6.47996329020653,41.9350965192136,"Fall",8118
+8,-76.3652,42.4502,NA,1978,"Blarina brevicauda","Blarina_brevicauda",15.4,108,"female",6.5,910,10.6827352926736,45.01629707888,"Summer",8213
+10,-84.0610666667,35.3467666667,NA,2001,"Blarina brevicauda","Blarina_brevicauda",15.4,105,"male",10.5,1702,6.73585498836209,46.5148726325009,"Fall",8336
+4,-79.27,40.17,NA,1998,"Blarina brevicauda","Blarina_brevicauda",15.45,NA,"undetermined",10.4,1072,7.73016033390503,46.5249771013576,"Spring",8400
+7,-76.40055,42.46027,"juvenile",1956,"Blarina brevicauda","Blarina_brevicauda",15.5,122,"male",7.2,1026,9.12457554014864,35.8568083157731,"Summer",8132
+7,-75.469299,44.151524,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.5,112,"male",7.4,958,10.1296556823233,27.7730995676294,"Summer",8171
+6,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.5,106,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",8172
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",15.5,107,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8206
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",15.5,NA,"male",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8287
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",15.5,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8447
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.5,117,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",8477
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.5,112,NA,7.8,939,10.1516083215987,26.2715074855058,"Summer",8490
+6,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",15.5,107,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",8532
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.5,113,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8571
+10,-79.02667,40.5683,NA,2001,"Blarina brevicauda","Blarina_brevicauda",15.5,105,"undetermined",9.8,948,8.45119679529043,24.1443272178391,"Fall",8671
+10,-76.5094764,42.4381028,NA,1975,"Blarina brevicauda","Blarina_brevicauda",15.5,105,"male",9.7,999,9.64689854384048,51.6430743723559,"Fall",8766
+8,-76.3652,42.4502,NA,1978,"Blarina brevicauda","Blarina_brevicauda",15.6,115,"male",6.5,910,10.6827352926736,45.01629707888,"Summer",8214
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.6,138,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8219
+10,-79.26559,40.165736,NA,1981,"Blarina brevicauda kirtlandi","Blarina_brevicauda",15.6,115,"female",8.4,1184,9.55595958741788,44.975801080638,"Fall",8389
+10,-85.5794,42.3684,"unknown",1986,"Blarina brevicauda","Blarina_brevicauda",15.6,117,"female",9.5,1126,9.89705726083478,69.3765122318502,"Fall",8751
+10,-83.389602,35.630929,NA,1932,"Blarina brevicauda","Blarina_brevicauda",15.62,113,"female",8.8,2304,6.47996329020653,41.9350965192136,"Fall",8425
+10,-83.389602,35.630929,NA,1932,"Blarina brevicauda","Blarina_brevicauda",15.7,107,"male",8.8,2304,6.47996329020653,41.9350965192136,"Fall",8119
+7,-76.45442,42.4566,"juvenile",1954,"Blarina brevicauda","Blarina_brevicauda",15.7,116,"undetermined",8.7,899,9.4170863408761,31.5282833352644,"Summer",8244
+6,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.7,85,"male",11,885,9.20186081313135,34.6118065463564,"Summer",8561
+8,-76.451,42.4465,NA,1939,"Blarina brevicauda talpoides","Blarina_brevicauda",15.7,119,"female",8.5,732,10.2502180316796,31.2532522555778,"Summer",8576
+7,-82.0666656494,36.1833343506,NA,1969,"Blarina brevicauda","Blarina_brevicauda",15.7,110,"female",9.7,1298,8.40360672929225,36.5101830760243,"Summer",8879
+12,-75.3,39.844396,NA,1964,"Blarina brevicauda","Blarina_brevicauda",15.7,102,"female",12.5,874,8.88909785107919,57.2123696033658,"Winter",8943
+7,-75.469299,44.151524,NA,1991,"Blarina brevicauda","Blarina_brevicauda",15.8,113,"male",7.4,958,10.1296556823233,27.7730995676294,"Summer",8488
+5,-74.82869,43.9345,NA,2013,"Blarina brevicauda","Blarina_brevicauda",15.8,109,"female",5.6,1393,10.3760614645034,46.7128973768885,"Spring",8603
+6,-76.40055,42.46027,NA,1959,"Blarina brevicauda","Blarina_brevicauda",15.9,109.5,"female",8.3,1049,10.7136135431289,47.9353424862113,"Summer",8147
+10,-79.02667,40.5683,NA,2001,"Blarina brevicauda","Blarina_brevicauda",15.9,114,"undetermined",9.8,948,8.45119679529043,24.1443272178391,"Fall",8330
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",15.9,NA,"female",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8643
+10,-78.78111,42.07472,NA,1938,"Blarina brevicauda","Blarina_brevicauda",16,NA,"male",7.7,1017,8.75423274245613,34.5644083350188,"Fall",8153
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16,113,NA,7.8,939,10.1516083215987,26.2715074855058,"Summer",8165
+6,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16,114,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8169
+10,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",16,104,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8187
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",16,102,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",8205
+8,-76.3652,42.4502,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",16,NA,"female",7.7,785,10.3876675131444,32.095335486546,"Summer",8234
+8,-76.3652,42.4502,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",16,NA,"male",7.7,785,10.3876675131444,32.095335486546,"Summer",8237
+8,-76.3652,42.4502,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",16,NA,"male",7.7,785,10.3876675131444,32.095335486546,"Summer",8239
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",16,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8251
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",16,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8267
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",16,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8268
+6,-92.9048,37.181,NA,1991,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",16,108,"female",14,1034,9.20622319165386,47.974627257819,"Summer",8294
+9,-74.28,44.07,NA,2001,"Blarina brevicauda","Blarina_brevicauda",16,116,"undetermined",5.8,999,9.97382559350709,44.9533091106762,"Fall",8334
+9,-62.6512,45.7227,"adult",2005,"Blarina brevicauda","Blarina_brevicauda",16,125,"undetermined",6.6,1129,9.67143168869485,37.4595599514453,"Fall",8348
+10,-76.5789,43.3631,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",16,120,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8363
+8,-75.5433,43.7033,"adult",1993,"Blarina brevicauda","Blarina_brevicauda",16,123,"male",4.4,1529,10.9322153899991,37.3899419530632,"Summer",8365
+11,-73.685,43.595,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",16,123,"male",6,1072,9.85001153667991,35.3574676377344,"Fall",8372
+11,-73.685,43.595,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",16,122,"female",6,1072,9.85001153667991,35.3574676377344,"Fall",8374
+11,-72.5251,44.8401,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",16,124,"female",4.7,1256,10.3011767494904,34.3329236304749,"Fall",8375
+11,-72.5251,44.8401,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",16,123,"male",4.7,1256,10.3011767494904,34.3329236304749,"Fall",8379
+11,-73.685,43.595,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",16,117,"male",6,1072,9.85001153667991,35.3574676377344,"Fall",8380
+10,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",16,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Fall",8448
+10,-78.78111,42.07472,NA,1938,"Blarina brevicauda","Blarina_brevicauda",16,NA,"female",7.7,1017,8.75423274245613,34.5644083350188,"Fall",8449
+6,-89.48421,46.083596,NA,2009,"Blarina brevicauda kirtlandi","Blarina_brevicauda",16,117,"female",3.7,647,11.7040364702512,62.8383832104934,"Summer",8656
+6,-89.48421,46.083596,NA,2009,"Blarina brevicauda kirtlandi","Blarina_brevicauda",16,116,"female",3.7,647,11.7040364702512,62.8383832104934,"Summer",8657
+1,-95.194691,39.048866,NA,2008,"Blarina brevicauda","Blarina_brevicauda",16,109,"male",11.9,1052,10.4192421058638,61.9059599548535,"Winter",8664
+9,-76.5739,43.3631,"adult",1993,"Blarina brevicauda","Blarina_brevicauda",16,110,"female",8.1,1017,10.1626619037385,32.2851650528251,"Fall",8709
+9,-76.5739,43.3631,"adult",1993,"Blarina brevicauda","Blarina_brevicauda",16,122,"female",8.1,1017,10.1626619037385,32.2851650528251,"Fall",8710
+10,-76.5789,43.3631,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",16,121,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8719
+10,-76.5789,43.3631,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",16,123,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8720
+10,-76.5789,43.3631,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",16,112,"male",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8721
+8,-73.2792,42.7171,"adult",2003,"Blarina brevicauda","Blarina_brevicauda",16,126,"female",5.5,1589,10.4774505342173,31.4743167394008,"Summer",8723
+11,-73.685,43.595,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",16,123,"female",6,1072,9.85001153667991,35.3574676377344,"Fall",8732
+11,-76.5094764,42.4381028,NA,1941,"Blarina brevicauda","Blarina_brevicauda",16,116,"male",9.6,683,10.4461787996928,46.2294395870154,"Fall",8762
+7,-83.17,42.658,NA,2007,"Blarina brevicauda","Blarina_brevicauda",16,117,"male",9.6,810,10.6235016768854,47.0079976108478,"Summer",8827
+4,-76.5094764,42.4381028,NA,1936,"Blarina brevicauda talpoides","Blarina_brevicauda",16,NA,"male",9,811,10.6473499334839,48.3656331738992,"Spring",8870
+11,-76.5094764,42.4381028,NA,1938,"Blarina brevicauda talpoides","Blarina_brevicauda",16,NA,NA,9.9,785,9.4059781119469,50.7312382008264,"Fall",8883
+11,-92.4538889,42.5091667,NA,2002,"Blarina brevicauda","Blarina_brevicauda",16,121,"female",9,717,10.3643620160625,79.6562445434343,"Fall",8923
+8,-77.55083,39.595912,NA,1969,"Blarina brevicauda","Blarina_brevicauda",16,108,"female",11,953,9.61845999769572,50.4187027738061,"Summer",8946
+10,-83.565443,35.565648,NA,1932,"Blarina brevicauda","Blarina_brevicauda",16.1,111,"female",9.4,2210,6.50698342808197,38.7540368746453,"Fall",8429
+10,-86.3635,41.9586,"unknown",1966,"Blarina brevicauda","Blarina_brevicauda",16.2,111,"male",8.8,1040,9.72499123626621,48.5473569984331,"Fall",8419
+8,-76.451,42.4465,"immature",1959,"Blarina brevicauda","Blarina_brevicauda",16.2,119,"male",8.8,995,10.6571465565259,47.9533739732762,"Summer",8469
+11,-76.476678,42.451405,NA,1939,"Blarina brevicauda","Blarina_brevicauda",16.2,112,"female",8.7,718,10.2415486222455,31.1626210586773,"Fall",8624
+10,-76.5789,43.3631,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",16.20000076,123,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8716
+6,-76.451,42.4465,"immature",1959,"Blarina brevicauda","Blarina_brevicauda",16.3,119,"male",8.8,995,10.6571465565259,47.9533739732762,"Summer",8128
+11,-76.451,42.4465,NA,1959,"Blarina brevicauda","Blarina_brevicauda",16.3,124,"female",8.8,995,10.6571465565259,47.9533739732762,"Fall",8135
+6,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16.3,700,"male",11,885,9.20186081313135,34.6118065463564,"Summer",8225
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16.3,105,"undetermined",11,858,9.20281165863142,34.6128559411243,"Fall",8557
+7,-76.359054,42.507781,NA,2004,"Blarina brevicauda","Blarina_brevicauda",16.3,103,NA,7.6,1163,10.0241942168421,55.1162315387561,"Summer",8591
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16.4,121,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8186
+3,-80.6985016,41.8944016,NA,1976,"Blarina brevicauda kirtlandi","Blarina_brevicauda",16.4,119,"male",8.6,961,9.48250382482806,35.5643548058561,"Spring",8391
+10,-76.655259,42.276659,NA,2012,"Blarina brevicauda","Blarina_brevicauda",16.4,NA,NA,9.6,1077,8.72503798724039,33.8959977213799,"Fall",8602
+9,-72.061,43.6761,NA,1998,"Blarina brevicauda","Blarina_brevicauda",16.43,121,"female",7.9,986,8.82577149173048,38.0293838366375,"Fall",8680
+10,-78.78111,42.07472,NA,1938,"Blarina brevicauda","Blarina_brevicauda",16.5,NA,"female",7.7,1017,8.75423274245613,34.5644083350188,"Fall",8148
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",16.5,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8150
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16.5,125,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8166
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16.5,114,"female ?",11,858,9.20281165863142,34.6128559411243,"Summer",8221
+5,-76.3652,42.4502,"adult",1938,"Blarina brevicauda","Blarina_brevicauda",16.5,NA,"male",8.1,911,9.58427926820317,52.0400820749901,"Spring",8246
+10,-95.431378,38.866373,NA,1945,"Blarina brevicauda","Blarina_brevicauda",16.5,120,"female",11.8,1120,9.69501590165449,82.6972371090206,"Fall",8273
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",16.5,119,"female",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8295
+10,-76.491298,42.466761,NA,1958,"Blarina brevicauda","Blarina_brevicauda",16.5,123,NA,7.4,1019,10.2814779034333,30.9062198713174,"Fall",8442
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",16.5,124,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8453
+6,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16.5,117,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",8476
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",16.5,122,"undetermined",9.3,1093,8.2849626469047,46.504542706523,"Fall",8518
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",16.5,95,NA,9.3,1093,8.2849626469047,46.504542706523,"Fall",8534
+10,-76.366879,42.587849,NA,1994,"Blarina brevicauda","Blarina_brevicauda",16.5,119,"female",7.3,1070,10.846057795207,50.243248573194,"Fall",8588
+11,-76.3652,42.4502,NA,1939,"Blarina brevicauda","Blarina_brevicauda",16.5,110,"female",7.7,785,10.3876675131444,32.095335486546,"Fall",8627
+7,-77.99082,43.09924,"adult",1953,"Blarina brevicauda","Blarina_brevicauda",16.5,125,"female",10,767,8.67161863189161,45.2119770560654,"Summer",8628
+7,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",16.6,110,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8559
+10,-95.91,40.81,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",16.6,123,"male",9.6,904,11.0085779226378,84.2604949548597,"Fall",8795
+7,-89.55,45.5,NA,1993,"Blarina brevicauda kirtlandi","Blarina_brevicauda",16.6,125,"male",4.4,793,10.9523624129337,73.1393285614466,"Summer",8817
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16.7,114,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8227
+9,-76.657518,42.28363,NA,1976,"Blarina brevicauda","Blarina_brevicauda",16.7,118,"female",6.7,1122,9.84858088531264,43.8876889328477,"Fall",8578
+8,-81.6494444444,41.1766666667,NA,2001,"Blarina brevicauda","Blarina_brevicauda",16.73,110,"female",10.6,833,8.84493948794759,38.0906054361163,"Summer",8337
+10,-83.538352,35.619456,NA,1932,"Blarina brevicauda","Blarina_brevicauda",16.79,117,"male",11.8,1876,6.73707516791833,38.4756829935244,"Fall",8427
+8,-76.451,42.4465,"immature",1959,"Blarina brevicauda","Blarina_brevicauda",16.8,118,"male",8.8,995,10.6571465565259,47.9533739732762,"Summer",8156
+3,-76.40055,42.46027,NA,1955,"Blarina brevicauda","Blarina_brevicauda",16.8,108,"female",8.3,978,10.9141658019069,72.0764679189421,"Spring",8160
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",16.8,113,"undetermined",11,858,9.20281165863142,34.6128559411243,"Fall",8185
+5,-76.40055,42.46027,NA,1959,"Blarina brevicauda","Blarina_brevicauda",16.8,85,"male",8.3,1049,10.7136135431289,47.9353424862113,"Spring",8435
+12,-72.59444,42.27778,NA,1968,"Blarina brevicauda","Blarina_brevicauda",16.8,101,"male",8.3,1010,10.6196323339884,61.0883284388798,"Winter",8945
+9,-80.3997222222,40.8369444444,NA,2001,"Blarina brevicauda kirtlandi","Blarina_brevicauda",16.9,110,"male",10.8,869,8.55982511857608,29.9329629263705,"Fall",8821
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17,120,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",8174
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17,115,NA,7.8,939,10.1516083215987,26.2715074855058,"Summer",8175
+6,-83.8286,39.4453,NA,1953,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",17,NA,"female",12.3,751,9.15233038712827,61.4025410283962,"Summer",8303
+10,-79.02667,40.5683,NA,2001,"Blarina brevicauda","Blarina_brevicauda",17,118,"undetermined",9.8,948,8.45119679529043,24.1443272178391,"Fall",8332
+9,-62.5985,45.2217,"adult",2005,"Blarina brevicauda","Blarina_brevicauda",17,124,"male",5.9,1287,9.10527652551314,36.2567740056881,"Fall",8349
+11,-73.685,43.595,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",17,127,"male",6,1072,9.85001153667991,35.3574676377344,"Fall",8381
+10,-83.7264,42.2708,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",17,120,"female",8.5,799,10.5178203756551,50.1458517794893,"Fall",8403
+10,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17,NA,"male",8.1,911,9.58427926820317,52.0400820749901,"Fall",8455
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8459
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8461
+10,-78.78111,42.07472,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17,NA,"male",7.7,1017,8.75423274245613,34.5644083350188,"Fall",8464
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17,111,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8505
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17,110,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8506
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17,105,"male",11,858,9.20281165863142,34.6128559411243,"Fall",8507
+7,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",17,107,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",8513
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17,120,"undetermined",11,858,9.20281165863142,34.6128559411243,"Summer",8547
+6,-75.92111,44.34806,NA,1953,"Blarina brevicauda talpoides Gapper, 1830","Blarina_brevicauda",17,NA,"male",9.2,908,8.85066338893545,42.6546220275433,"Summer",8635
+7,-90.699811,43.985946,NA,2009,"Blarina brevicauda brevicauda","Blarina_brevicauda",17,111,"male",7,772,11.3373978896875,66.4501419433269,"Summer",8648
+7,-73.88,46.5733,"adult",2000,"Blarina brevicauda","Blarina_brevicauda",17,122,"female",2,1093,11.0351058266815,34.2432701859984,"Summer",8689
+7,-78.62,46.0233,"adult",1993,"Blarina brevicauda","Blarina_brevicauda",17,112,"female",3.1,877,11.725651755485,38.8088132706512,"Summer",8700
+10,-76.5789,43.3631,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",17,127,"female",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8728
+11,-73.685,43.595,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",17,125,"male",6,1072,9.85001153667991,35.3574676377344,"Fall",8733
+5,-76.5094764,42.4381028,NA,1941,"Blarina brevicauda","Blarina_brevicauda",17,NA,"male",9.6,683,10.4461787996928,46.2294395870154,"Spring",8763
+9,-89.55,44.53,NA,1999,"Blarina brevicauda kirtlandi","Blarina_brevicauda",17,120,"female",7.6,800,10.6256550600208,77.2922435247607,"Fall",8818
+12,-71.5833333,43.3333333,NA,1986,"Blarina brevicauda","Blarina_brevicauda",17,125,"female",7.2,1175,9.2334372601087,39.6483493299883,"Winter",8824
+7,-83.17,42.658,NA,2007,"Blarina brevicauda","Blarina_brevicauda",17,117,"female",9.6,810,10.6235016768854,47.0079976108478,"Summer",8826
+11,-76.5094764,42.4381028,NA,1938,"Blarina brevicauda talpoides","Blarina_brevicauda",17,NA,"female",9.9,785,9.4059781119469,50.7312382008264,"Fall",8882
+6,-79.58111,42.34556,NA,1960,"Blarina brevicauda","Blarina_brevicauda",17,105,"female",9.2,721,10.2939044923182,32.9866022674943,"Summer",8940
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",17.1,NA,"male",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8298
+8,-86.9497,41.1568,"unknown",1969,"Blarina brevicauda","Blarina_brevicauda",17.1,120,"female",9.5,897,10.3986450166268,60.6198037249711,"Summer",8417
+11,-79.955897,39.629526,NA,1947,"Blarina brevicauda kirtlandi","Blarina_brevicauda",17.1,118,"male",11.4,911,10.0216583639454,42.2545201419337,"Fall",8441
+8,-80.5342,37.3745,NA,1966,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",17.2,NA,"female",7.8,1162,8.50746552722782,39.2815916614469,"Summer",8300
+10,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17.2,133,"female ?",11,885,9.20186081313135,34.6118065463564,"Fall",8549
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17.2,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8619
+10,-95.91,40.81,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",17.2,131,"female",9.6,904,11.0085779226378,84.2604949548597,"Fall",8796
+9,-76.451,42.4465,NA,1959,"Blarina brevicauda","Blarina_brevicauda",17.3,121,"male",8.8,995,10.6571465565259,47.9533739732762,"Fall",8146
+10,-83.565443,35.565648,NA,1932,"Blarina brevicauda","Blarina_brevicauda",17.3,113,"male",9.4,2210,6.50698342808197,38.7540368746453,"Fall",8428
+10,-76.601131,42.949226,NA,1975,"Blarina brevicauda","Blarina_brevicauda",17.3,110,"male",9.2,1075,9.88445366433695,46.4277253052717,"Fall",8474
+7,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",17.3,102,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8573
+5,-78.371672,38.5979,NA,1934,"Blarina brevicauda","Blarina_brevicauda",17.37,107,"female",8.8,1332,9.74169420894569,55.0883840909959,"Spring",8433
+6,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17.4,106,"female",11,885,9.20186081313135,34.6118065463564,"Summer",8228
+7,-77.99082,43.09924,"adult",1953,"Blarina brevicauda","Blarina_brevicauda",17.4,126,"female",10,767,8.67161863189161,45.2119770560654,"Summer",8277
+10,-71.2930166667,42.5071833333,NA,2001,"Blarina brevicauda talpoides","Blarina_brevicauda",17.4,120,"female",10,999,9.30175936437442,81.3434469618565,"Fall",8313
+9,-75.82,44.03,NA,1971,"Blarina brevicauda talpoides","Blarina_brevicauda",17.4,110,"female",7.1,928,11.0355486194993,28.5620409782789,"Fall",8789
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17.5,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8139
+7,-75.469299,44.151524,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17.5,118,"male",7.4,958,10.1296556823233,27.7730995676294,"Summer",8163
+6,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17.5,121,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8168
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17.5,124,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8170
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17.5,121,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8180
+10,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",17.5,117,"female",9.3,1115,8.30806016085365,47.7008956309771,"Fall",8192
+7,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",17.5,112,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8202
+5,-74.83658,43.93401,NA,2013,"Blarina brevicauda","Blarina_brevicauda",17.5,124,"male",5.6,1395,10.3760614645034,46.5747255264345,"Spring",8242
+5,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17.5,NA,"male",8.1,911,9.58427926820317,52.0400820749901,"Spring",8247
+5,-76.3652,42.4502,"adult",1938,"Blarina brevicauda","Blarina_brevicauda",17.5,NA,"male",8.1,911,9.58427926820317,52.0400820749901,"Spring",8256
+5,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17.5,NA,"male",8.1,911,9.58427926820317,52.0400820749901,"Spring",8260
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17.5,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8265
+9,-88.9936,40.4842,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",17.5,108,"male",10,991,10.7994493406195,47.3292026853431,"Fall",8408
+9,-88.9936,40.4842,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",17.5,108,"male",10,991,10.7994493406195,47.3292026853431,"Fall",8412
+10,-78.78111,42.07472,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17.5,NA,"male",7.7,1017,8.75423274245613,34.5644083350188,"Fall",8463
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",17.5,120,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8466
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17.5,121,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",8483
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17.5,125,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8489
+7,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",17.5,119,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8495
+7,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",17.5,125,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8520
+7,-76.45442,42.4566,NA,1954,"Blarina brevicauda","Blarina_brevicauda",17.5,121,"male ?",8.7,899,9.4170863408761,31.5282833352644,"Summer",8604
+9,-89.57129,41.35353,NA,2004,"Blarina brevicauda","Blarina_brevicauda",17.5,114,"female",10.8,883,9.84738082389978,63.6660160869361,"Fall",8736
+10,-79.27,40.17,NA,1995,"Blarina brevicauda","Blarina_brevicauda",17.5,NA,"undetermined",9.3,1004,10.0586763392093,31.1063287584751,"Fall",8740
+9,-89.5713,41.3535,NA,2004,"Blarina brevicauda","Blarina_brevicauda",17.5,114,"female",10.8,883,9.84738082389978,63.6660160869361,"Fall",8779
+1,-76.5094764,42.4381028,NA,1948,"Blarina brevicauda","Blarina_brevicauda",17.5,NA,"male",9.3,887,10.1178510114999,37.9049236006954,"Winter",8784
+9,-72.061,43.6761,NA,1998,"Blarina brevicauda","Blarina_brevicauda",17.57,123,"undetermined",7.9,986,8.82577149173048,38.0293838366375,"Fall",8679
+10,-76.655259,42.276659,NA,1976,"Blarina brevicauda","Blarina_brevicauda",17.6,113,"female",6.7,1119,9.84834626942129,44.1637601944213,"Fall",8577
+11,-76.5094764,42.4381028,"adult",1946,"Blarina brevicauda talpoides","Blarina_brevicauda",17.6,121,"female",10,854,8.7870902206279,55.5429434270567,"Fall",8887
+7,-76.40055,42.46027,"adult",1955,"Blarina brevicauda","Blarina_brevicauda",17.7,128,"male",8.3,978,10.9141658019069,72.0764679189421,"Summer",8133
+7,-76.451,42.4465,"adult",1959,"Blarina brevicauda","Blarina_brevicauda",17.7,115,"female",8.8,995,10.6571465565259,47.9533739732762,"Summer",8470
+12,-73.10917,41.27306,NA,1964,"Blarina brevicauda","Blarina_brevicauda",17.7,115,"female",10.1,918,8.78716350276029,46.1337072532432,"Winter",8944
+9,-76.3652,42.4502,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",17.8,NA,"female",7.7,785,10.3876675131444,32.095335486546,"Fall",8233
+8,-76.451,42.4465,"immature",1959,"Blarina brevicauda","Blarina_brevicauda",17.8,117,"male",8.8,995,10.6571465565259,47.9533739732762,"Summer",8439
+6,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",17.8,108,"female",11,885,9.20186081313135,34.6118065463564,"Summer",8581
+10,-76.3652,42.4502,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",17.8,NA,"female",7.7,785,10.3876675131444,32.095335486546,"Fall",8600
+7,-77.62,42.97,NA,1975,"Blarina brevicauda talpoides","Blarina_brevicauda",17.8,118,"undetermined",9.3,852,9.5785113033226,43.968069559014,"Summer",8791
+8,-85.3076,46.0815,"unknown",1961,"Blarina brevicauda","Blarina_brevicauda",17.9,127,"female",5.6,714,9.87581987390506,67.2655322745494,"Summer",8752
+4,-89.55,44.53,NA,2000,"Blarina brevicauda kirtlandi","Blarina_brevicauda",17.9,120,"female",6.4,903,11.373453940886,69.2559236619657,"Spring",8916
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8154
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8155
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",18,108,"undetermined",9.3,1093,8.2849626469047,46.504542706523,"Fall",8203
+7,-76.45442,42.4566,"juvenile",1954,"Blarina brevicauda","Blarina_brevicauda",18,117,"male",8.7,899,9.4170863408761,31.5282833352644,"Summer",8243
+5,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8253
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8261
+9,-89.4,43.19,NA,2000,"Blarina brevicauda","Blarina_brevicauda",18,105,"undetermined",8.1,930,11.0130913833574,74.0120637618597,"Fall",8338
+10,-83.7264,42.2708,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",18,120,"male",8.5,799,10.5178203756551,50.1458517794893,"Fall",8411
+11,-86.025,40.4168,"unknown",1968,"Blarina brevicauda","Blarina_brevicauda",18,114,"female",10.2,981,10.2326090455361,45.7338283168597,"Fall",8416
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8450
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",18,110,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8538
+9,-76.657518,42.28363,NA,1976,"Blarina brevicauda","Blarina_brevicauda",18,102,"female",6.7,1122,9.84858088531264,43.8876889328477,"Fall",8579
+8,-82.655,46.4333,"adult",1997,"Blarina brevicauda","Blarina_brevicauda",18,134,"female",3,972,11.104745777724,40.6239134900789,"Summer",8692
+7,-78.62,46.0233,"adult",1993,"Blarina brevicauda","Blarina_brevicauda",18,106,"male",3.1,877,11.725651755485,38.8088132706512,"Summer",8697
+9,-76.5739,43.3631,"adult",1993,"Blarina brevicauda","Blarina_brevicauda",18,115,"male",8.1,1017,10.1626619037385,32.2851650528251,"Fall",8712
+5,-76.5094764,42.4381028,NA,1941,"Blarina brevicauda","Blarina_brevicauda",18,NA,"male",9.6,683,10.4461787996928,46.2294395870154,"Spring",8760
+5,-76.5094764,42.4381028,NA,1941,"Blarina brevicauda","Blarina_brevicauda",18,NA,"female",9.6,683,10.4461787996928,46.2294395870154,"Spring",8768
+11,-76.5094764,42.4381028,"adult",1941,"Blarina brevicauda","Blarina_brevicauda",18,123,"male",9.6,683,10.4461787996928,46.2294395870154,"Fall",8785
+11,-76.5094764,42.4381028,NA,1939,"Blarina brevicauda","Blarina_brevicauda",18,118,"female",9.5,688,10.2050306964336,30.703559881706,"Fall",8786
+10,-96.66,40.8,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",18,125,"female",9.6,904,11.2062854386872,95.9929708751909,"Fall",8812
+11,-76.5094764,42.4381028,NA,1938,"Blarina brevicauda talpoides","Blarina_brevicauda",18,NA,"female",9.9,785,9.4059781119469,50.7312382008264,"Fall",8880
+11,-76.5094764,42.4381028,NA,1938,"Blarina brevicauda talpoides","Blarina_brevicauda",18,NA,"female",9.9,785,9.4059781119469,50.7312382008264,"Fall",8881
+5,-78.371672,38.5979,NA,1934,"Blarina brevicauda","Blarina_brevicauda",18.03,119,"male",8.8,1332,9.74169420894569,55.0883840909959,"Spring",8123
+10,-83.538352,35.619456,NA,1932,"Blarina brevicauda","Blarina_brevicauda",18.04,115,"male",11.8,1876,6.73707516791833,38.4756829935244,"Fall",8426
+8,-76.451,42.4465,NA,1959,"Blarina brevicauda","Blarina_brevicauda",18.1,112.5,"male",8.8,995,10.6571465565259,47.9533739732762,"Summer",8136
+7,-76.359054,42.507781,NA,2004,"Blarina brevicauda","Blarina_brevicauda",18.1,104,NA,7.6,1163,10.0241942168421,55.1162315387561,"Summer",8590
+10,-76.655259,42.276659,NA,2012,"Blarina brevicauda","Blarina_brevicauda",18.1,118,"male",9.6,1077,8.72503798724039,33.8959977213799,"Fall",8601
+12,-92.6,40.28,NA,1995,"Blarina brevicauda brevicauda","Blarina_brevicauda",18.1,113,"female",10.9,1012,10.7483473007235,77.9171800076096,"Winter",8793
+2,-76.45442,42.4566,NA,1937,"Blarina brevicauda talpoides","Blarina_brevicauda",18.2,118,"male",8.4,1036,9.80449417668276,48.3148891330063,"Winter",8161
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",18.2,120,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8224
+8,-75.93419,43.17458,NA,1955,"Blarina brevicauda","Blarina_brevicauda",18.2,130,"female",8.6,980,11.3612045882895,60.4677262046338,"Summer",8280
+10,-83.498496,35.562872,NA,1932,"Blarina brevicauda","Blarina_brevicauda",18.2,116,"undetermined",8,2529,6.32898574860622,42.1627892606784,"Fall",8431
+10,-76.601131,42.949226,NA,1975,"Blarina brevicauda","Blarina_brevicauda",18.2,120,"male",9.2,1075,9.88445366433695,46.4277253052717,"Fall",8475
+6,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",18.2,121,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8541
+7,-80.3997222222,40.8369444444,NA,2001,"Blarina brevicauda kirtlandi","Blarina_brevicauda",18.2,120,"female",10.8,869,8.55982511857608,29.9329629263705,"Summer",8822
+5,-78.371672,38.5979,NA,1934,"Blarina brevicauda","Blarina_brevicauda",18.24,115,"male",8.8,1332,9.74169420894569,55.0883840909959,"Spring",8125
+6,-75.469299,44.151524,NA,1991,"Blarina brevicauda","Blarina_brevicauda",18.3,126,"female",7.4,958,10.1296556823233,27.7730995676294,"Summer",8177
+12,-76.451,42.4465,NA,1959,"Blarina brevicauda","Blarina_brevicauda",18.3,117,"male",8.8,995,10.6571465565259,47.9533739732762,"Winter",8471
+6,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",18.3,106,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",8512
+7,-87.1251,39.5244,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",18.4,104,"female",11.9,1053,9.93446327720127,58.8793716254038,"Summer",8641
+7,-76.451,42.4465,NA,1959,"Blarina brevicauda","Blarina_brevicauda",18.5,111,"female",8.8,995,10.6571465565259,47.9533739732762,"Summer",8129
+10,-78.78111,42.07472,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,NA,"female",7.7,1017,8.75423274245613,34.5644083350188,"Fall",8140
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,125,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8141
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8149
+10,-76.655259,42.276659,NA,1988,"Blarina brevicauda","Blarina_brevicauda",18.5,140,"male",7.5,833,10.165255739155,51.1463366642119,"Fall",8159
+6,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",18.5,115,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8173
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8248
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8250
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8262
+7,-87.1251,39.5244,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",18.5,115,"male",11.9,1053,9.93446327720127,58.8793716254038,"Summer",8286
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,123,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8451
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8472
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",18.5,110,"female ?",9.3,1093,8.2849626469047,46.504542706523,"Fall",8531
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",18.5,110,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8535
+9,-76.657518,42.28363,NA,1976,"Blarina brevicauda","Blarina_brevicauda",18.5,101,"male",6.7,1122,9.84858088531264,43.8876889328477,"Fall",8586
+5,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8609
+5,-76.3652,42.4502,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,NA,"female",8.1,911,9.58427926820317,52.0400820749901,"Spring",8615
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",18.5,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8621
+7,-87.1251,39.5244,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",18.5,116,"male",11.9,1053,9.93446327720127,58.8793716254038,"Summer",8640
+3,-76.5094764,42.4381028,NA,1954,"Blarina brevicauda","Blarina_brevicauda",18.5,125,"male",9.7,835,9.39066267387693,31.6517032910352,"Spring",8787
+10,-76.655259,42.276659,NA,1976,"Blarina brevicauda","Blarina_brevicauda",18.6,103,"female",6.7,1119,9.84834626942129,44.1637601944213,"Fall",8232
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",18.6,116,"male",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8284
+5,-73.75,41.8333333333,NA,2005,"Blarina brevicauda talpoides","Blarina_brevicauda",18.7,116,"male",9.3,1123,10.625127450216,60.1502132771152,"Spring",8309
+9,-72.061,43.6791,NA,1998,"Blarina brevicauda","Blarina_brevicauda",18.71,125,"female",7.9,986,8.81583887962542,38.0293838366375,"Fall",8677
+10,-83.498496,35.562872,NA,1932,"Blarina brevicauda","Blarina_brevicauda",18.72,115,"undetermined",8,2529,6.32898574860622,42.1627892606784,"Fall",8121
+7,-76.451,42.4465,"immature",1959,"Blarina brevicauda","Blarina_brevicauda",18.8,134,"male",8.8,995,10.6571465565259,47.9533739732762,"Summer",8437
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",18.8,116,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8565
+7,-86.87528,40.431163,NA,1969,"Blarina brevicauda","Blarina_brevicauda",18.8,120,"female",10.1,963,10.4217829859415,54.5360623925937,"Summer",8846
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",18.9,113,"male",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8756
+6,-76.5094764,42.4381028,NA,1937,"Blarina brevicauda","Blarina_brevicauda",18.9,117,"female",9.3,987,9.7610970260271,49.7444654477362,"Summer",8770
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",19,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8145
+6,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19,114,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8179
+6,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19,116,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8182
+6,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",19,110,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",8191
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",19,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8252
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda talpoides","Blarina_brevicauda",19,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8275
+6,-91.339457,46.354618,NA,2009,"Blarina brevicauda kirtlandi","Blarina_brevicauda",19,126,"female",4.8,642,11.869476386807,73.6840265358648,"Summer",8305
+11,-72.5251,44.8401,"adult",2009,"Blarina brevicauda","Blarina_brevicauda",19,123,"undetermined",4.7,1256,10.3011767494904,34.3329236304749,"Fall",8376
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",19,124,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8467
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19,115,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8479
+6,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19,126,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8492
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19,112,"male",11,858,9.20281165863142,34.6128559411243,"Fall",8508
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19,56,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8554
+5,-76.451,42.4465,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",19,123,"female",8.5,732,10.2502180316796,31.2532522555778,"Spring",8595
+9,-89.4,43.19,NA,2000,"Blarina brevicauda","Blarina_brevicauda",19,113,"undetermined",8.1,930,11.0130913833574,74.0120637618597,"Fall",8684
+8,-82.655,46.4333,"adult",1997,"Blarina brevicauda","Blarina_brevicauda",19,125,"male",3,972,11.104745777724,40.6239134900789,"Summer",8690
+7,-78.62,46.0233,"adult",1993,"Blarina brevicauda","Blarina_brevicauda",19,111,"female",3.1,877,11.725651755485,38.8088132706512,"Summer",8698
+10,-76.5789,43.3631,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",19,114,"male",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8722
+10,-76.5789,43.3631,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",19,124,"male",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8726
+11,-83.7264,42.2708,"unknown",1928,"Blarina brevicauda","Blarina_brevicauda",19,127,"female",8.8,663,9.36680146565356,48.8368556283683,"Fall",8750
+10,-76.5094764,42.4381028,NA,1947,"Blarina brevicauda","Blarina_brevicauda",19,176,"male",9.6,936,10.3193074409384,58.3812157686076,"Fall",8782
+5,-76.5094764,42.4381028,NA,1941,"Blarina brevicauda","Blarina_brevicauda",19,NA,"male",9.6,683,10.4461787996928,46.2294395870154,"Spring",8872
+9,-76.5094764,42.4381028,"adult",1938,"Blarina brevicauda","Blarina_brevicauda",19,NA,"male",9.9,785,9.4059781119469,50.7312382008264,"Fall",8876
+9,-96.5,40.69,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",19.1,137,"male",9.5,935,11.2027154446292,93.5810264416617,"Fall",8910
+9,-92.47417,48.28972,NA,1950,"Blarina brevicauda","Blarina_brevicauda",19.1,111,"male",0.4,898,13.8236512301683,56.8325742821474,"Fall",8938
+10,-83.498496,35.562872,NA,1932,"Blarina brevicauda","Blarina_brevicauda",19.2,112,"female",8,2529,6.32898574860622,42.1627892606784,"Fall",8122
+7,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",19.2,103,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",8523
+11,-93.5833333,45.3,"adult",1926,"Blarina brevicauda brevicauda","Blarina_brevicauda",19.2,NA,"male",5.8,761,11.9824745762174,94.1031773336835,"Fall",8857
+6,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19.3,119,"male",11,885,9.20186081313135,34.6118065463564,"Summer",8570
+10,-95.91,40.81,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",19.3,127,"male",9.6,904,11.0085779226378,84.2604949548597,"Fall",8794
+10,-96.66,40.8,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",19.3,135,"male",9.6,904,11.2062854386872,95.9929708751909,"Fall",8909
+5,-78.439729,38.526513,NA,1934,"Blarina brevicauda","Blarina_brevicauda",19.39,114,"male",8.7,1359,9.65333982085836,50.6576716069888,"Spring",8432
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19.4,117,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8218
+5,-76.3652,42.4502,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",19.4,NA,"male",7.7,785,10.3876675131444,32.095335486546,"Spring",8238
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19.4,118,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8587
+7,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",19.5,121,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",8198
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",19.5,110,"female ?",9.3,1093,8.2849626469047,46.504542706523,"Fall",8209
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",19.5,103,"undetermined",9.3,1093,8.2849626469047,46.504542706523,"Fall",8210
+7,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",19.5,125,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8216
+9,-76.657518,42.28363,NA,1976,"Blarina brevicauda","Blarina_brevicauda",19.5,114,"female",6.7,1122,9.84858088531264,43.8876889328477,"Fall",8229
+9,-88.9936,40.4842,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",19.5,105,"male",10,991,10.7994493406195,47.3292026853431,"Fall",8406
+10,-76.491298,42.466761,"adult",1958,"Blarina brevicauda","Blarina_brevicauda",19.5,125,"male",7.4,1019,10.2814779034333,30.9062198713174,"Fall",8443
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",19.5,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8452
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",19.5,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8473
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19.5,134,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8484
+7,-76.6344295,42.2826759,NA,1992,"Blarina brevicauda","Blarina_brevicauda",19.5,114,"male",7,1149,8.87708575576194,40.9074916034487,"Summer",8498
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19.5,124,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8563
+10,-76.5094764,42.4381028,NA,1939,"Blarina brevicauda","Blarina_brevicauda",19.5,125,"male",9.5,688,10.2050306964336,30.703559881706,"Fall",8892
+8,-76.5094764,42.4381028,NA,1945,"Blarina brevicauda","Blarina_brevicauda",19.5,110.8,"female",9.2,1057,10.2334419103903,40.6619408873647,"Summer",8895
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19.6,124,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8480
+9,-96.73,40.71,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",19.6,122,"female",9.3,995,11.0023000350202,86.7510769371994,"Fall",8804
+9,-93.5833333,45.3,"adult",1927,"Blarina brevicauda brevicauda","Blarina_brevicauda",19.6,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Fall",8861
+11,-76.451,42.4465,NA,1959,"Blarina brevicauda","Blarina_brevicauda",19.7,124,"male",8.8,995,10.6571465565259,47.9533739732762,"Fall",8446
+10,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19.7,127,"male",11,885,9.20186081313135,34.6118065463564,"Fall",8564
+5,-78.371672,38.5979,NA,1934,"Blarina brevicauda","Blarina_brevicauda",19.79,108,"male",8.8,1332,9.74169420894569,55.0883840909959,"Spring",8124
+7,-87.1267,39.4851,NA,1986,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",19.9,NA,"male",12.1,1055,9.91682072709461,56.8060019663459,"Summer",8299
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",19.9,121,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8562
+10,-76.655259,42.276659,NA,1976,"Blarina brevicauda","Blarina_brevicauda",19.9,100,"female",6.7,1119,9.84834626942129,44.1637601944213,"Fall",8589
+6,-76.40055,42.46027,NA,1959,"Blarina brevicauda","Blarina_brevicauda",20,1225,"male",8.3,1049,10.7136135431289,47.9353424862113,"Summer",8138
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8142
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8144
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,128,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8152
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8158
+10,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",20,97,NA,9.3,1115,8.30806016085365,47.7008956309771,"Fall",8193
+8,-76.655259,42.276659,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20,96,"female",9,790,9.41661973707802,33.1013373319037,"Summer",8231
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8264
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8269
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8276
+8,-82.745,48.21,"adult",1997,"Blarina brevicauda","Blarina_brevicauda",20,128,"male",1,793,12.3687533974148,36.0557920146201,"Summer",8340
+7,-73.88,46.5733,"adult",2000,"Blarina brevicauda","Blarina_brevicauda",20,118,"female",2,1093,11.0351058266815,34.2432701859984,"Summer",8343
+7,-80.6355972,41.9011002,NA,1976,"Blarina brevicauda kirtlandi","Blarina_brevicauda",20,127,"male",8.6,969,9.44941877321114,34.1813816786157,"Summer",8390
+9,-88.9936,40.4842,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",20,123,"male",10,991,10.7994493406195,47.3292026853431,"Fall",8410
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,NA,"female",8.9,841,9.45140682169014,50.2071592853632,"Fall",8457
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20,116,"male",11,858,9.20281165863142,34.6128559411243,"Fall",8503
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20,115,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8504
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20,105,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8509
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20,120,"male",11,858,9.20281165863142,34.6128559411243,"Fall",8510
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",20,95,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",8524
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",20,112,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",8525
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",20,94,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8536
+6,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",20,105,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8572
+10,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20,126,"male",11,885,9.20186081313135,34.6118065463564,"Fall",8575
+5,-76.451,42.4465,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",20,NA,"male",8.5,732,10.2502180316796,31.2532522555778,"Spring",8598
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8614
+4,-76.45442,42.4566,NA,1942,"Blarina brevicauda","Blarina_brevicauda",20,118,"male",8.4,998,10.3227316093555,35.1976277214422,"Spring",8623
+8,-68.215863,44.390188,"adult",1948,"Blarina brevicauda","Blarina_brevicauda",20,133,"male",7,1225,9.36714115049695,58.5641968983916,"Summer",8626
+7,-77.99082,43.09924,"adult",1953,"Blarina brevicauda","Blarina_brevicauda",20,121,"male",10,767,8.67161863189161,45.2119770560654,"Summer",8629
+10,-93.4136,37.2888,NA,1989,"Blarina brevicauda kirtlandi Bole and Moulthrop, 1942","Blarina_brevicauda",20,104,"male",12.1,811,9.54118663606589,72.3254894969708,"Fall",8637
+10,-89.4,43.19,NA,2000,"Blarina brevicauda","Blarina_brevicauda",20,128,"undetermined",8.1,930,11.0130913833574,74.0120637618597,"Fall",8685
+10,-76.5789,43.3631,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",20,131,"male",9.9,1033,9.48691283566552,28.1708765337389,"Fall",8724
+10,-83.7264,42.2708,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",20,114,"male",8.5,799,10.5178203756551,50.1458517794893,"Fall",8746
+9,-88.9936,40.4842,"unknown",1929,"Blarina brevicauda","Blarina_brevicauda",20,123,"male",10,991,10.7994493406195,47.3292026853431,"Fall",8748
+9,-76.5094764,42.4381028,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20,NA,"male",9.9,785,9.4059781119469,50.7312382008264,"Fall",8764
+5,-76.5094764,42.4381028,"adult",1941,"Blarina brevicauda","Blarina_brevicauda",20,NA,"male",9.6,683,10.4461787996928,46.2294395870154,"Spring",8767
+5,-76.5094764,42.4381028,NA,1937,"Blarina brevicauda","Blarina_brevicauda",20,116,"male",9.3,987,9.7610970260271,49.7444654477362,"Spring",8771
+5,-76.5094764,42.4381028,"adult",1937,"Blarina brevicauda","Blarina_brevicauda",20,NA,"female",9.3,987,9.7610970260271,49.7444654477362,"Spring",8772
+10,-76.5094764,42.4381028,NA,1933,"Blarina brevicauda talpoides","Blarina_brevicauda",20,NA,"male",9.7,795,9.78248279819442,56.8304107105367,"Fall",8864
+11,-76.5094764,42.4381028,"adult",1941,"Blarina brevicauda","Blarina_brevicauda",20,121,"male",9.6,683,10.4461787996928,46.2294395870154,"Fall",8866
+4,-76.5094764,42.4381028,NA,1942,"Blarina brevicauda","Blarina_brevicauda",20,105,"male",9.3,944,10.2691358699333,35.5945960552978,"Spring",8885
+10,-96.74,40.62,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",20,131,"male",9.7,909,11.1725583733566,97.7418548959707,"Fall",8908
+6,-98.38985,45.72668,NA,2005,"Blarina brevicauda brevicauda","Blarina_brevicauda",20,124,"male",7.2,508,12.4267398635508,105.467969436404,"Summer",8921
+11,-92.4538889,42.5091667,NA,2002,"Blarina brevicauda","Blarina_brevicauda",20,128,"female",9,717,10.3643620160625,79.6562445434343,"Fall",8922
+1,-92.6461111111,44.2013888889,NA,1998,"Blarina brevicauda","Blarina_brevicauda",20,117,"male",9,1084,10.456910141001,83.7297676937636,"Winter",8936
+6,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",20.1,116,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8215
+9,-95.268405,39.007325,NA,1950,"Blarina brevicauda","Blarina_brevicauda",20.2,121,"female",11.4,881,9.41096636264246,111.637757529151,"Fall",8840
+5,-76.40055,42.46027,NA,1959,"Blarina brevicauda","Blarina_brevicauda",20.3,122,"male",8.3,1049,10.7136135431289,47.9353424862113,"Spring",8137
+7,-90.144304,44.358504,NA,2009,"Blarina brevicauda brevicauda","Blarina_brevicauda",20.3,117,"female",6.4,768,11.3713722153752,73.1629937252232,"Summer",8651
+9,-96.5,40.66,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",20.3,127,"female",9.6,930,11.1522385305563,93.5210288924252,"Fall",8814
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20.4,129,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8548
+5,-76.5094764,42.4381028,NA,1937,"Blarina brevicauda","Blarina_brevicauda",20.4,97,"female",9.3,987,9.7610970260271,49.7444654477362,"Spring",8774
+10,-74.195923,42.180206,NA,1963,"Blarina brevicauda","Blarina_brevicauda",20.5,120,"male",4.8,1018,10.326356393406,47.9734163147981,"Fall",8131
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20.5,119,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8162
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20.5,110,"undetermined",11,858,9.20281165863142,34.6128559411243,"Fall",8188
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20.5,125,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8217
+10,-83.498496,35.562872,NA,1932,"Blarina brevicauda","Blarina_brevicauda",20.5,112,"female",8,2529,6.32898574860622,42.1627892606784,"Fall",8430
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20.5,115,"male",11,858,9.20281165863142,34.6128559411243,"Fall",8501
+7,-76.45442,42.4566,"adult",1954,"Blarina brevicauda","Blarina_brevicauda",20.5,119,"male",8.7,899,9.4170863408761,31.5282833352644,"Summer",8606
+5,-76.5094764,42.4381028,NA,1937,"Blarina brevicauda","Blarina_brevicauda",20.5,119,"male",9.3,987,9.7610970260271,49.7444654477362,"Spring",8873
+7,-76.6344295,42.2826759,NA,1992,"Blarina brevicauda","Blarina_brevicauda",20.6,111,"male",7,1149,8.87708575576194,40.9074916034487,"Summer",8211
+9,-76.655259,42.276659,NA,1980,"Blarina brevicauda","Blarina_brevicauda",20.6,121,"male",7.2,860,10.5220115601879,59.1380748517893,"Fall",8212
+8,-76.451,42.4465,NA,1959,"Blarina brevicauda","Blarina_brevicauda",20.7,112.5,"male",8.8,995,10.6571465565259,47.9533739732762,"Summer",8130
+7,-75.93419,43.17458,NA,1955,"Blarina brevicauda","Blarina_brevicauda",20.7,124,"male",8.6,980,11.3612045882895,60.4677262046338,"Summer",8279
+8,-76.09,43.88,NA,1972,"Blarina brevicauda talpoides","Blarina_brevicauda",20.7,120,"male",6.3,1155,10.2265993044283,28.2623711872165,"Summer",8790
+9,-96.73,40.62,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",20.7,124,"female",9.4,1009,10.9745573528461,87.0388279778489,"Fall",8903
+9,-96.73,40.62,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",20.7,131,"female",9.4,1009,10.9745573528461,87.0388279778489,"Fall",8906
+6,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",20.9,117,"male",11,885,9.20186081313135,34.6118065463564,"Summer",8223
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",20.9,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8462
+9,-96.74,40.63,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",20.9,118,"female",9.4,1005,10.9625360646931,87.0465919244135,"Fall",8798
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",20.9,120,"female",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8808
+7,-75.469299,44.151524,NA,1991,"Blarina brevicauda","Blarina_brevicauda",21,121,"male",7.4,958,10.1296556823233,27.7730995676294,"Summer",8167
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",21,100,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8194
+10,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",21,110,"male",9.3,1115,8.30806016085365,47.7008956309771,"Fall",8197
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",21,116,NA,9.3,1093,8.2849626469047,46.504542706523,"Fall",8207
+4,-76.451,42.4465,NA,1947,"Blarina brevicauda","Blarina_brevicauda",21,119,"male",8.5,996,10.3708361487511,56.4800059314294,"Spring",8274
+9,-89.4,43.19,NA,2000,"Blarina brevicauda","Blarina_brevicauda",21,125,"undetermined",8.1,930,11.0130913833574,74.0120637618597,"Fall",8316
+7,-73.88,46.5733,"adult",2000,"Blarina brevicauda","Blarina_brevicauda",21,135,"male",2,1093,11.0351058266815,34.2432701859984,"Summer",8344
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",21,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8454
+9,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",21,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8456
+7,-76.451,42.4465,NA,1959,"Blarina brevicauda","Blarina_brevicauda",21,110,"female",8.8,995,10.6571465565259,47.9533739732762,"Summer",8458
+7,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",21,121,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8487
+6,-75.627724,44.113591,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",21,128,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",8491
+6,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",21,112,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8511
+10,-76.655259,42.276659,NA,1976,"Blarina brevicauda","Blarina_brevicauda",21,118,"female",6.7,1119,9.84834626942129,44.1637601944213,"Fall",8585
+9,-76.3652,42.4502,NA,1939,"Blarina brevicauda talpoides","Blarina_brevicauda",21,NA,"male",7.7,785,10.3876675131444,32.095335486546,"Fall",8592
+5,-76.451,42.4465,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",21,NA,"male",8.5,732,10.2502180316796,31.2532522555778,"Spring",8593
+11,-76.451,42.4465,NA,1938,"Blarina brevicauda","Blarina_brevicauda",21,NA,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8620
+7,-78.62,46.0233,"adult",1993,"Blarina brevicauda","Blarina_brevicauda",21,120,"male",3.1,877,11.725651755485,38.8088132706512,"Summer",8699
+10,-76.5094764,42.4381028,"adult",1940,"Blarina brevicauda","Blarina_brevicauda",21,127,"male",7.9,859,10.1830816315667,35.7147842586663,"Fall",8761
+9,-89.55,44.53,NA,1999,"Blarina brevicauda kirtlandi","Blarina_brevicauda",21,110,"male",7.6,800,10.6256550600208,77.2922435247607,"Fall",8820
+9,-93.5833333,45.3,"adult",1927,"Blarina brevicauda brevicauda","Blarina_brevicauda",21,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Fall",8860
+1,-76.5094764,42.4381028,"adult",1946,"Blarina brevicauda","Blarina_brevicauda",21,NA,"male",10,854,8.7870902206279,55.5429434270567,"Winter",8865
+6,-76.5094764,42.4381028,NA,1938,"Blarina brevicauda","Blarina_brevicauda",21,NA,"male",9.9,785,9.4059781119469,50.7312382008264,"Summer",8867
+4,-89.55,44.53,NA,2000,"Blarina brevicauda kirtlandi","Blarina_brevicauda",21,120,"female",6.4,903,11.373453940886,69.2559236619657,"Spring",8915
+9,-73.72,43.17,NA,1968,"Blarina brevicauda talpoides","Blarina_brevicauda",21,132,"female",7.6,970,11.3565726530605,51.1232351351925,"Fall",8918
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",21.1,122,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8220
+6,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",21.1,105,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8540
+12,-76.5094764,42.4381028,NA,1939,"Blarina brevicauda","Blarina_brevicauda",21.1,130,"male",9.5,688,10.2050306964336,30.703559881706,"Winter",8759
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",21.1,122,"female",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8907
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",21.2,118,"male",11,858,9.20281165863142,34.6128559411243,"Fall",8189
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",21.2,125,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8550
+9,-89.55,44.53,NA,1999,"Blarina brevicauda kirtlandi","Blarina_brevicauda",21.2,119,"female",7.6,800,10.6256550600208,77.2922435247607,"Fall",8819
+11,-76.45219,42.477118,NA,2009,"Blarina brevicauda","Blarina_brevicauda",21.3,115,"female ?",7.8,931,9.47479911036736,46.2075105631006,"Fall",8241
+8,-75.57,43.72,NA,1972,"Blarina brevicauda talpoides","Blarina_brevicauda",21.3,122,"female",4.4,1667,10.4610496894939,37.1843157207791,"Summer",8898
+6,-74.3647138889,43.0010194444,NA,2000,"Blarina brevicauda","Blarina_brevicauda",21.4,113,"male",7.5,1380,9.93190070002472,36.3810692778902,"Summer",8402
+7,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",21.4,120,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8574
+7,-75.627724,44.113591,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",21.5,125,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8164
+6,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",21.5,126,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",8190
+10,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",21.5,99,"female",9.3,1115,8.30806016085365,47.7008956309771,"Fall",8204
+9,-76.451,42.4465,"adult",1938,"Blarina brevicauda","Blarina_brevicauda",21.5,124,"male",8.9,841,9.45140682169014,50.2071592853632,"Fall",8468
+6,-75.627724,44.113591,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",21.5,119,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8485
+7,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",21.5,125,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",8522
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",21.5,113,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8526
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",21.5,119,"male",11,858,9.20281165863142,34.6128559411243,"Fall",8566
+5,-76.451,42.4465,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",21.5,NA,"male",8.5,732,10.2502180316796,31.2532522555778,"Spring",8594
+10,-76.5094764,42.4381028,NA,1947,"Blarina brevicauda","Blarina_brevicauda",21.5,124,"male",9.6,936,10.3193074409384,58.3812157686076,"Fall",8783
+4,-76.5094764,42.4381028,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",21.5,130,"male",9.5,688,10.2050306964336,30.703559881706,"Spring",8878
+8,-76.451,42.4465,"adult",1959,"Blarina brevicauda","Blarina_brevicauda",21.6,118.5,"male",8.8,995,10.6571465565259,47.9533739732762,"Summer",8157
+4,-76.45442,42.4566,NA,1942,"Blarina brevicauda","Blarina_brevicauda",21.6,121,"male",8.4,998,10.3227316093555,35.1976277214422,"Spring",8622
+8,-90.287762,43.196114,NA,2009,"Blarina brevicauda brevicauda","Blarina_brevicauda",21.7,127,"male",7.6,878,11.0628336279087,49.8306820879791,"Summer",8308
+10,-95.91,40.81,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",21.8,132,"male",9.6,904,11.0085779226378,84.2604949548597,"Fall",8797
+9,-96.73,40.62,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",21.8,128,"female",9.4,1009,10.9745573528461,87.0388279778489,"Fall",8905
+6,-91.10229,44.49406,NA,2011,"Blarina brevicauda","Blarina_brevicauda",21.8,120,"male",7.3,779,11.5465165939579,50.6100492437422,"Summer",8928
+7,-79.233822,42.519466,"adult",1992,"Blarina brevicauda","Blarina_brevicauda",21.9,122,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8181
+10,-79.233822,42.519466,NA,1991,"Blarina brevicauda","Blarina_brevicauda",21.9,123,"male",11,885,9.20186081313135,34.6118065463564,"Fall",8552
+7,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",22,122,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8199
+5,-76.451,42.4465,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",22,NA,"male",8.5,732,10.2502180316796,31.2532522555778,"Spring",8235
+5,-76.3652,42.4502,"adult",1938,"Blarina brevicauda","Blarina_brevicauda",22,NA,"male",8.1,911,9.58427926820317,52.0400820749901,"Spring",8259
+4,-76.3652,42.4502,NA,1942,"Blarina brevicauda","Blarina_brevicauda",22,107,"male",7.6,1080,10.4474732337392,35.7664201810881,"Spring",8270
+8,-82.655,46.4333,"adult",1997,"Blarina brevicauda","Blarina_brevicauda",22,133,"male",3,972,11.104745777724,40.6239134900789,"Summer",8347
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",22,113,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8500
+10,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",22,109,"female",11,858,9.20281165863142,34.6128559411243,"Fall",8502
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",22,108,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",8519
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",22,116,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8533
+5,-76.451,42.4465,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",22,NA,"male",8.5,732,10.2502180316796,31.2532522555778,"Spring",8596
+5,-76.451,42.4465,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",22,128,"male",8.5,732,10.2502180316796,31.2532522555778,"Spring",8597
+7,-68.24083,44.30306,"adult",1948,"Blarina brevicauda","Blarina_brevicauda",22,136,"male",6.9,1234,9.40236511187317,58.7621814570661,"Summer",8625
+6,-91.339457,46.354618,NA,2009,"Blarina brevicauda brevicauda","Blarina_brevicauda",22,126,"male",4.8,642,11.869476386807,73.6840265358648,"Summer",8647
+9,-89.4,43.19,NA,2000,"Blarina brevicauda","Blarina_brevicauda",22,129,"undetermined",8.1,930,11.0130913833574,74.0120637618597,"Fall",8683
+7,-75.7641,43.5905,"adult",1998,"Blarina brevicauda","Blarina_brevicauda",22,126,"male",7.4,1315,9.05118023444256,46.6664148380003,"Summer",8713
+10,-96.66,40.8,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",22,136,"male",9.6,904,11.2062854386872,95.9929708751909,"Fall",8809
+10,-96.74,40.62,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",22,135,"male",9.7,909,11.1725583733566,97.7418548959707,"Fall",8810
+10,-96.74,40.62,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",22,137,"male",9.7,909,11.1725583733566,97.7418548959707,"Fall",8811
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",22,131,"female",10,748,10.9514182006743,74.7809619355705,"Fall",8837
+4,-76.5094764,42.4381028,"adult",1953,"Blarina brevicauda","Blarina_brevicauda",22,NA,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8868
+9,-92.6461111111,44.2013888889,NA,1998,"Blarina brevicauda","Blarina_brevicauda",22,125,"female",9,1084,10.456910141001,83.7297676937636,"Fall",8934
+4,-76.373878,42.449843,NA,1942,"Blarina brevicauda","Blarina_brevicauda",22,107,"male",7.7,1071,10.4520079265646,35.6792420331378,"Spring",8947
+1,-73.8328,42.6219,NA,1946,"Blarina brevicauda","Blarina_brevicauda",22.1,120,"male",9.2,775,9.49616748850277,49.8449271101486,"Winter",8278
+9,-96.74,40.63,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",22.1,118,"male",9.4,1005,10.9625360646931,87.0465919244135,"Fall",8900
+3,-87.800893,41.925309,NA,1929,"Blarina brevicauda","Blarina_brevicauda",22.15,111,"male",9,906,11.0244631560357,47.5809391909048,"Spring",8423
+9,-96.5,40.69,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",22.2,138,"female",9.5,935,11.2027154446292,93.5810264416617,"Fall",8911
+4,-76.5094764,42.4381028,NA,1947,"Blarina brevicauda","Blarina_brevicauda",22.3,118,"female",9.6,936,10.3193074409384,58.3812157686076,"Spring",8888
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",22.4,132,"male",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8901
+7,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",22.5,124,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",8201
+5,-76.3652,42.4502,"adult",1938,"Blarina brevicauda","Blarina_brevicauda",22.5,NA,"male",8.1,911,9.58427926820317,52.0400820749901,"Spring",8254
+6,-75.627724,44.113591,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",22.5,129,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8481
+6,-75.627724,44.113591,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",22.5,134,"female",7.8,939,10.1516083215987,26.2715074855058,"Summer",8482
+6,-75.627724,44.113591,NA,1991,"Blarina brevicauda","Blarina_brevicauda",22.5,118,"male",7.8,939,10.1516083215987,26.2715074855058,"Summer",8486
+7,-79.233822,42.519466,"adult",1992,"Blarina brevicauda","Blarina_brevicauda",22.5,104,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8496
+7,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",22.5,108,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8515
+6,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",22.5,104,"female",9.3,1093,8.2849626469047,46.504542706523,"Summer",8537
+4,-76.49694,42.44056,NA,1940,"Blarina brevicauda","Blarina_brevicauda",22.5,125,"male",7.7,863,10.2155704093251,35.1520128605922,"Spring",8845
+9,-93.5833333,45.3,"adult",1927,"Blarina brevicauda brevicauda","Blarina_brevicauda",22.5,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Fall",8862
+4,-76.5094764,42.4381028,NA,1942,"Blarina brevicauda","Blarina_brevicauda",22.5,108,"male",9.3,944,10.2691358699333,35.5945960552978,"Spring",8886
+6,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",22.6,122,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8543
+9,-89.55,44.53,NA,1999,"Blarina brevicauda kirtlandi","Blarina_brevicauda",22.6,118,"male",7.6,800,10.6256550600208,77.2922435247607,"Fall",8914
+10,-93.61,42.03,NA,1969,"Blarina brevicauda brevicauda","Blarina_brevicauda",22.8,NA,"undetermined",8.5,926,11.7331568512898,80.5150562389468,"Fall",8788
+6,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",23,115,"male",9.3,1093,8.2849626469047,46.504542706523,"Summer",8514
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",23,113,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8517
+6,-88.23167,42.884378,NA,2010,"Blarina brevicauda kirtlandi","Blarina_brevicauda",23,120,"male",9.9,937,11.1762837375318,84.9154267936162,"Summer",8653
+9,-89.4,43.19,NA,2000,"Blarina brevicauda","Blarina_brevicauda",23,126,"undetermined",8.1,930,11.0130913833574,74.0120637618597,"Fall",8682
+5,-76.5094764,42.4381028,"adult",1936,"Blarina brevicauda talpoides","Blarina_brevicauda",23,NA,"male",9,811,10.6473499334839,48.3656331738992,"Spring",8765
+4,-76.5094764,42.4381028,NA,1942,"Blarina brevicauda","Blarina_brevicauda",23,125,"male",9.3,944,10.2691358699333,35.5945960552978,"Spring",8781
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",23,136,"undetermined",10,748,10.9514182006743,74.7809619355705,"Fall",8836
+5,-93.5833333,45.3,"adult",1927,"Blarina brevicauda brevicauda","Blarina_brevicauda",23,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",8859
+8,-76.5094764,42.4381028,NA,1945,"Blarina brevicauda","Blarina_brevicauda",23,115,"female",9.2,1057,10.2334419103903,40.6619408873647,"Summer",8894
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",23,129,"male",10,748,10.9514182006743,74.7809619355705,"Fall",8932
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",23,134,"male",10,748,10.9514182006743,74.7809619355705,"Fall",8933
+1,-93.5833333,45.3,"adult",1926,"Blarina brevicauda brevicauda","Blarina_brevicauda",23,NA,"male",5.8,761,11.9824745762174,94.1031773336835,"Winter",8957
+9,-93.5833333,45.3,"adult",1927,"Blarina brevicauda brevicauda","Blarina_brevicauda",23,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Fall",8959
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",23,NA,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8977
+6,-74.1476,42.5212,NA,1937,"Blarina brevicauda","Blarina_brevicauda",23.1,124,NA,7,1034,9.59562716064253,23.3410771351764,"Summer",8539
+7,-79.406653,42.439706,"adult",1991,"Blarina brevicauda","Blarina_brevicauda",23.2,136,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8584
+9,-96.5,40.66,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",23.2,128,"male",9.6,930,11.1522385305563,93.5210288924252,"Fall",8813
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",23.2,126,"male",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8902
+6,-98.05,43.1,NA,1998,"Blarina brevicauda brevicauda","Blarina_brevicauda",23.2,130,"female",10.7,777,10.4460808947952,79.5282120846015,"Summer",8913
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",23.4,120,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8226
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",23.4,125,"female",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8803
+7,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",23.5,135,"male",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8200
+8,-90.287762,43.196114,NA,2009,"Blarina brevicauda brevicauda","Blarina_brevicauda",23.5,130,"female",7.6,878,11.0628336279087,49.8306820879791,"Summer",8649
+7,-79.58111,42.34556,NA,1960,"Blarina brevicauda","Blarina_brevicauda",23.5,129,"female",9.2,721,10.2939044923182,32.9866022674943,"Summer",8939
+3,-93.5833333,45.3,"adult",1927,"Blarina brevicauda brevicauda","Blarina_brevicauda",23.7,NA,"male",5.7,767,12.0207018400455,56.9537566177129,"Spring",8858
+2,-76.46917,42.43917,NA,1949,"Blarina brevicauda","Blarina_brevicauda",23.7,131.5,"male",9.9,774,9.46844840253751,37.8956182662544,"Winter",8937
+6,-76.359054,42.507781,NA,2009,"Blarina brevicauda","Blarina_brevicauda",23.8,105,NA,7.8,962,9.47334378264836,46.0833335421325,"Summer",8240
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",23.8,133,"female",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8807
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",24,113,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8195
+6,-73.083,42.335,NA,2010,"Blarina brevicauda","Blarina_brevicauda",24,120,"female",8.3,1338,9.8373553664621,45.505559486425,"Summer",8382
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",24,105,"undetermined",9.3,1093,8.2849626469047,46.504542706523,"Fall",8528
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",24,125,"male",9.3,1093,8.2849626469047,46.504542706523,"Fall",8530
+4,-76.5094764,42.4381028,NA,1942,"Blarina brevicauda","Blarina_brevicauda",24,140,NA,9.3,944,10.2691358699333,35.5945960552978,"Spring",8780
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",24,136,"male",10,748,10.9514182006743,74.7809619355705,"Fall",8829
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",24,135,"female",10,748,10.9514182006743,74.7809619355705,"Fall",8833
+5,-76.5094764,42.4381028,"adult",1941,"Blarina brevicauda","Blarina_brevicauda",24,NA,"male",9.6,683,10.4461787996928,46.2294395870154,"Spring",8891
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",24,131,"male",10,748,10.9514182006743,74.7809619355705,"Fall",8931
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",24.3,127,"male",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8801
+9,-96.73,40.62,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",24.4,123,"male",9.4,1009,10.9745573528461,87.0388279778489,"Fall",8805
+9,-96.73,40.62,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",24.4,126,"female",9.4,1009,10.9745573528461,87.0388279778489,"Fall",8904
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",24.5,113,"undetermined",9.3,1093,8.2849626469047,46.504542706523,"Fall",8529
+10,-76.5094764,42.4381028,"adult",1939,"Blarina brevicauda talpoides","Blarina_brevicauda",24.5,130,"male",9.5,688,10.2050306964336,30.703559881706,"Fall",8775
+7,-99.85,43.34,NA,1998,"Blarina brevicauda brevicauda","Blarina_brevicauda",24.5,129,"female",10.4,774,10.5369587642735,78.1909932511305,"Summer",8816
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",24.5,136,"female",10,748,10.9514182006743,74.7809619355705,"Fall",8830
+7,-79.233822,42.519466,NA,1992,"Blarina brevicauda","Blarina_brevicauda",24.6,113,"female",9.3,1115,8.30806016085365,47.7008956309771,"Summer",8521
+9,-96.74,40.63,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",24.9,116,"male",9.4,1005,10.9625360646931,87.0465919244135,"Fall",8799
+4,-76.45442,42.4566,NA,1942,"Blarina brevicauda","Blarina_brevicauda",25,117,"male",8.4,998,10.3227316093555,35.1976277214422,"Spring",8271
+5,-90.41497,43.07946,NA,2011,"Blarina brevicauda","Blarina_brevicauda",25,126,"male",8.6,772,11.0574635427841,35.5963382919952,"Spring",8929
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",25,134,"female",10,748,10.9514182006743,74.7809619355705,"Fall",8930
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8960
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8961
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8962
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8963
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8964
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8965
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8966
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8967
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8968
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8969
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8970
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8971
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8972
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8973
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8974
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8975
+4,-76.5094764,42.4381028,NA,1953,"Blarina brevicauda","Blarina_brevicauda",25,18.5,"male",10.6,726,8.46257357516917,34.1007897176414,"Spring",8976
+5,-76.5094764,42.4381028,NA,1937,"Blarina brevicauda","Blarina_brevicauda",25.1,120,"male",9.3,987,9.7610970260271,49.7444654477362,"Spring",8773
+4,-79.27,40.17,NA,1997,"Blarina brevicauda","Blarina_brevicauda",25.3,NA,"undetermined",8.3,1142,8.17391916680453,58.6392739798719,"Spring",8393
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",25.5,139,"female",10,748,10.9514182006743,74.7809619355705,"Fall",8835
+6,-93.5833333,45.3,"adult",1927,"Blarina brevicauda brevicauda","Blarina_brevicauda",25.5,NA,"female",5.7,767,12.0207018400455,56.9537566177129,"Summer",8958
+6,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",25.6,130,"male",11,858,9.20281165863142,34.6128559411243,"Summer",8544
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",25.9,128,"male",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8800
+9,-96.5,40.66,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",25.9,136,"male",9.6,930,11.1522385305563,93.5210288924252,"Fall",8912
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",26,112,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",8527
+6,-88.23167,42.884378,NA,2010,"Blarina brevicauda kirtlandi","Blarina_brevicauda",26,120,"male",9.9,937,11.1762837375318,84.9154267936162,"Summer",8652
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",26,140,"female",10,748,10.9514182006743,74.7809619355705,"Fall",8834
+6,-90.18283,44.7222,NA,2011,"Blarina brevicauda","Blarina_brevicauda",26,131,"male",6.5,807,11.3638848457681,51.3664421182747,"Summer",8926
+9,-96.66,40.8,NA,1993,"Blarina brevicauda brevicauda","Blarina_brevicauda",26.2,130,"female",9.3,1006,11.0353255090599,84.7473236449028,"Fall",8802
+7,-79.406653,42.439706,NA,1991,"Blarina brevicauda","Blarina_brevicauda",26.3,128,"female",11,858,9.20281165863142,34.6128559411243,"Summer",8546
+9,-89.4,43.19,NA,2000,"Blarina brevicauda","Blarina_brevicauda",27,127,"undetermined",8.1,930,11.0130913833574,74.0120637618597,"Fall",8686
+9,-92.6461111111,44.2013888889,NA,1998,"Blarina brevicauda","Blarina_brevicauda",27,137,"female",9,1084,10.456910141001,83.7297676937636,"Fall",8831
+9,-92.6461111111,44.2013888889,NA,1998,"Blarina brevicauda","Blarina_brevicauda",27,136,"male",9,1084,10.456910141001,83.7297676937636,"Fall",8935
+10,-93.61,42.03,NA,1969,"Blarina brevicauda brevicauda","Blarina_brevicauda",27.8,132,"female",8.5,926,11.7331568512898,80.5150562389468,"Fall",8897
+9,-92.6461111111,44.2013888889,NA,1998,"Blarina brevicauda","Blarina_brevicauda",28,138,"female",9,1084,10.456910141001,83.7297676937636,"Fall",8832
+9,-98.9580555556,43.7466666667,NA,1998,"Blarina brevicauda","Blarina_brevicauda",28,142,"male",10,748,10.9514182006743,74.7809619355705,"Fall",8839
+5,-89.99265,43.02098,NA,2011,"Blarina brevicauda","Blarina_brevicauda",28,118,"male",8.5,799,10.9714091247122,34.6577173300286,"Spring",8927
+10,-79.406653,42.439706,NA,1992,"Blarina brevicauda","Blarina_brevicauda",28.5,125,"female",9.3,1093,8.2849626469047,46.504542706523,"Fall",8196
+8,-76.279238,42.601068,NA,1971,"Blarina brevicauda","Blarina_brevicauda",28.6,122,"female",7.2,911,10.1686200309252,34.3264733819843,"Summer",8848
+9,-96.5,40.6,NA,1996,"Blarina brevicauda brevicauda","Blarina_brevicauda",28.9,138,"male",9.6,908,11.1888743442274,93.3991321345613,"Fall",8815
+9,-92.6461111111,44.2013888889,NA,1998,"Blarina brevicauda","Blarina_brevicauda",29,132,"male",9,1084,10.456910141001,83.7297676937636,"Fall",8838
+8,-89.265571,44.573553,NA,2010,"Blarina brevicauda kirtlandi","Blarina_brevicauda",30,111,"male",7.7,1024,11.4992061649595,86.8036991935416,"Summer",8654
+12,-93.37,44.86,NA,2005,"Blarina brevicauda","Blarina_brevicauda",30,130,"male",8.9,789,12.1338088901144,62.0993200271529,"Winter",8917
+9,-93.63,42.03,NA,1969,"Blarina brevicauda brevicauda","Blarina_brevicauda",30.2,116,"female",8.5,926,11.7332343315383,80.2714565717814,"Fall",8896

@@ -288,7 +288,10 @@ GetModelSummary = function(model, resDir, SpName, modelName) {
 # model_specs: A list of model formulas to fit.
 # res_models: Model names for which to generate fit diagnostics.
 #------
-Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
+
+Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models, lifestage) {
+#print (output_dir)
+#readline()
   collin_dir = paste0(output_dir, 'collin_results/')
   if (!dir.exists(collin_dir)) { dir.create(collin_dir) }
   diags_dir = paste0(output_dir, 'diagnostics/')
@@ -307,15 +310,47 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
   
   for (i in 1:nrow(sp_table)) {
     SpName = trimws(as.character(sp_table[i,1]), which= "both")
-    InpFileName = paste(DataDir, SpName, ".csv", sep = "")
+	
+	## For linux
+    ## InpFileName = paste(DataDir, SpName, ".csv", sep = "")
+	
+	## For windows
+	InpFileName = paste(DataDir, "/", SpName, ".csv", sep = "")
     
     print(paste0('Analyzing data for ', SpName, ' (', InpFileName, ')...'))
     
     Tbl3 = read.csv(InpFileName, header=TRUE, stringsAsFactors=FALSE, fileEncoding="UTF-8" )
-    
+	Sex_NS = which(Tbl3$sex_cor == "NS")
+	if (length(Sex_NS) > 0)
+	{
+		Tbl3 = Tbl3[-Sex_NS, ]
+	}
+    print(dim(Tbl3))
+	
+	if (lifestage == "Adult")
+	{
+		Tbl3 = Tbl3[which(Tbl3$lifestage_cor == "Adult"), ]
+		print(dim(Tbl3))
+		print(SpName)
+		seasonalitytable = table(Tbl3[which(Tbl3$lifestage_cor == "Adult"), "seasonality"] )
+		n1 = c(as.numeric(seasonalitytable["Fall"]), as.numeric(seasonalitytable["Spring"]), as.numeric(seasonalitytable["Summer"]), as.numeric(seasonalitytable["Winter"]))
+		if ((length(which(is.na(n1) == TRUE)) >= 3) | (nrow(Tbl3) <= 30))
+		{
+			print("##############################")
+			print(i)
+			Sprow = c( SpName, i)
+			NotDonSp <<- rbind(NotDonSp, Sprow)
+			next
+		}
+		
+	}
+	
     # Initialize the output results row.
     CurRow = SpName
     
+	### Here if lifestage is Adult and if there is only single season then we have to modify the model specification. 
+	
+
     # Do each model fit and get the fit statistics. 
     for (mod_name in names(model_specs)) {
       model_spec = model_specs[[mod_name]]
@@ -338,7 +373,12 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
       }
       
       # Standardardize the continuous variables before model fitting.
-      Tbl3_stdzd = standardize_cols(Tbl3, c('bio1', 'bio12', 'bio4', 'bio15'))
+      # Tbl3_stdzd = standardize_cols(Tbl3, c('bio1', 'bio12', 'bio4', 'bio15'))
+	  
+	  ## AFter adding _2yr and 5yr for bio variables. 
+	  Tbl3_stdzd = standardize_cols(Tbl3, c('bio1', 'bio12', 'bio4', 'bio15', 'bio1_2yr', 'bio12_2yr', 'bio4_2yr', 'bio15_2yr', 
+											'bio1_5yr', 'bio12_5yr', 'bio4_5yr', 'bio15_5yr'))
+	  
       Tbl3_stdzd$massing = scale(Tbl3_stdzd$massing)
       mod = lm(model_spec, data=Tbl3_stdzd)
       
@@ -366,6 +406,11 @@ Model_All = function(DataDir, sp_table, output_dir, model_specs, res_models) {
     colnames = c(colnames, paste(mod_name, mod_colname_suffixes, sep=''))
   }
   names(res_df) = colnames
+  #print("Now printing output dir ")
+  #print(output_dir)
+  #print(paste0(output_dir, 'model_summaries.csv'))
+  #readline()
+  
   write.csv(res_df, paste0(output_dir, 'model_summaries.csv'), row.names=FALSE)
   CollinTbl = as.data.frame(CollinTbl)
   names(CollinTbl) = c('SpeciesName', 'mod', 'ci_1', 'ci_2', 'ci_3', preds_list)
@@ -397,19 +442,21 @@ lm_1_sp = function(x = "Accipiter_cooperii",
   if(verbose) cat(x, "\n")
   
   mass_transf = match.arg(mass_transf)
-  df = read.csv(paste0(data_path, x, '.csv'), stringsAsFactors = F) %>% as.tibble()
+  df = read.csv(paste0(data_path, "/", x, '.csv'), stringsAsFactors = F) %>% as.tibble()
+  df = df[which(df$sex_cor == "M" | df$sex_cor == "F"),]
   # rename ...
   df = rename(df, season = seasonality, mass_in_g = massing)
   df = mutate(df, season = factor(season, levels = c('Spring', 'Summer', 'Fall', 'Winter')))
+  df = mutate(df, sex = factor(sex_cor, levels = c('M', 'F')))
   # scale predictors to have mean 0 and sd 1
-  df[, c("bio1", "bio12", "bio4", "bio15")] = scale(df[, c("bio1", "bio12", "bio4", "bio15")]) 
+  df[, c("bio1_2yr", "bio12_2yr", "bio4_2yr", "bio15_2yr")] = scale(df[, c("bio1_2yr", "bio12_2yr", "bio4_2yr", "bio15_2yr")]) 
   if(mass_transf == 'log10') df$Y = log10(df$mass_in_g)
   if(mass_transf == 'scale_') df$Y = scale(df$mass_in_g, center = FALSE)
   if(mass_transf == 'scale_log10') df$Y = scale(log10(df$mass_in_g), center = FALSE)
   # log_10 body mass
   
-  if(mod_type == 'm8') fm = 'Y ~ bio1 + bio12 + bio4 + bio15 + season'
-  if(mod_type == 'm10') fm = 'Y ~ bio1 + bio12 + bio15 + season'
+  if(mod_type == 'm8') fm = 'Y ~ bio1_2yr + bio12_2yr + bio4_2yr + bio15_2yr + season + sex'
+  if(mod_type == 'm10') fm = 'Y ~ bio1_2yr + bio12_2yr + bio15_2yr + season + sex'
   
   # fit the model
   mod = lm(as.formula(fm), data = df)
@@ -421,14 +468,16 @@ lm_1_sp = function(x = "Accipiter_cooperii",
     n_row = nrow(df),
     final_mod = list(mod), 
     coef = list(mod_coef),
-    partial_r2_bio1 = NA,
-    partial_r2_bio4 = NA,
-    partial_r2_bio12 = NA,
-    partial_r2_bio15 = NA,
+    partial_r2_bio1_2yr = NA,
+    partial_r2_bio4_2yr = NA,
+    partial_r2_bio12_2yr = NA,
+    partial_r2_bio15_2yr = NA,
     partial_r2_bio1_bio4 = NA,
     partial_r2_bio12_bio15 = NA
   ) %>% 
     bind_cols(mod_r2)
+  
+
   
   # partial R2 of predictors
   bio_vars = grep("^bio", x = all.vars(formula(mod)), value = T)
@@ -437,12 +486,12 @@ lm_1_sp = function(x = "Accipiter_cooperii",
     mod.r = update(mod, new_fm)
     out[, paste0("partial_r2_", i)] = rr2::partialR2adj(mod = mod, mod.r = mod.r)$R2.adj
   }
-  if(all(c('bio1', 'bio4') %in% bio_vars)){
-    mod.r = update(mod, ". ~ . - bio1 - bio4")
+  if(all(c('bio1_2yr', 'bio4_2yr') %in% bio_vars)){
+    mod.r = update(mod, ". ~ . - bio1_2yr - bio4_2yr")
     out[, "partial_r2_bio1_bio4"] = rr2::partialR2adj(mod = mod, mod.r = mod.r)$R2.adj
   }
-  if(all(c('bio12', 'bio15') %in% bio_vars)){
-    mod.r = update(mod, ". ~ . - bio12 - bio15")
+  if(all(c('bio12_2yr', 'bio15_2yr') %in% bio_vars)){
+    mod.r = update(mod, ". ~ . - bio12_2yr - bio15_2yr")
     out[, "partial_r2_bio12_bio15"] = rr2::partialR2adj(mod = mod, mod.r = mod.r)$R2.adj
   }
   
@@ -452,11 +501,11 @@ lm_1_sp = function(x = "Accipiter_cooperii",
     gather('var', 'value', estimate, p.value) %>% 
     unite('coefs', term, var) %>% 
     spread('coefs', 'value')
-  
+   
   out = bind_cols(out, mod_coef2)
-  
+
   # temp only model
-  mod2 = broom::glance(lm(Y ~ bio1 + season, data = df))
+  mod2 = broom::glance(lm(Y ~ bio1_2yr + season +sex, data = df))
   out$r.squared.bio1 = mod2$r.squared
   out$adj.r.squared.bio1 = mod2$adj.r.squared
   

@@ -1,0 +1,501 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-87.72961,52.24829,"juvenile",1939,"Bonasa umbellus obscura","Bonasa_umbellus",136,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",10286
+8,-80.07952,45.6414,"juvenile",1997,"Bonasa umbellus togata","Bonasa_umbellus",141.6,NA,"female",4.6,992,10.8856417803314,38.2127655100173,"Summer",10715
+7,-87.72961,52.24829,"juvenile",1939,"Bonasa umbellus obscura","Bonasa_umbellus",144,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",10287
+7,-78.91746,45.94546,"juvenile",1933,"Bonasa umbellus togata","Bonasa_umbellus",170,NA,"male",3.7,815,11.8289673977474,29.5577981025506,"Summer",10519
+12,-85.6847958,43.9678697,"juvenile",1931,"Bonasa umbellus","Bonasa_umbellus",173,1388,"female",8.4,831,9.85157655434198,60.6689609877219,"Winter",10415
+11,-83.9612961,42.4193381,"adult",1930,"Bonasa umbellus monticola","Bonasa_umbellus",175,NA,"male",9.2,522,10.23767181748,54.8799283110504,"Fall",10616
+7,-87.72961,52.24829,"juvenile",1939,"Bonasa umbellus obscura","Bonasa_umbellus",178,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",10509
+7,-93.63727,52.84037,"juvenile",1938,"Bonasa umbellus umbelloides","Bonasa_umbellus",179,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",10721
+10,-84.1386223,42.3530892,NA,1917,"Bonasa umbellus monticola","Bonasa_umbellus",187,NA,"male",6.5,783,10.6121249978361,59.5025064221904,"Fall",10614
+7,-94.98538,49.92533,"juvenile",1947,"Bonasa umbellus obscura","Bonasa_umbellus",189,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",10675
+7,-87.72961,52.24829,"juvenile",1939,"Bonasa umbellus obscura","Bonasa_umbellus",197,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",10508
+7,-93.67195,48.52224,"juvenile",1929,"Bonasa umbellus obscura","Bonasa_umbellus",199,NA,"female",1.8,430,14.3428870556422,51.5092607773849,"Summer",10716
+7,-119.75,48.6333333,"juvenile",1940,"Bonasa umbellus","Bonasa_umbellus",199.5,NA,"female",5.5,583,8.37175536424637,66.3027542928984,"Summer",10748
+7,-77.06844,44.99636,"juvenile",1932,"Bonasa umbellus togata","Bonasa_umbellus",208,NA,"female",6,810,10.10611501053,29.7972444921794,"Summer",10284
+8,-111.106,44.1296,"imm.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",269.5,NA,"female",4.3,639,9.28354686659374,67.6867962566796,"Summer",10242
+8,-111.106,44.1296,"imm.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",277.3,NA,"female",4.3,639,9.28354686659374,67.6867962566796,"Summer",10467
+8,-87.72961,52.24829,"juvenile",1939,"Bonasa umbellus obscura","Bonasa_umbellus",281,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",10510
+8,-87.72961,52.24829,"juvenile",1939,"Bonasa umbellus obscura","Bonasa_umbellus",286,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",10290
+8,-111.106,44.1296,"imm.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",294.4,NA,"female",4.3,639,9.28354686659374,67.6867962566796,"Summer",10243
+7,-78.68041,45.51635,"juvenile",1946,"Bonasa umbellus togata","Bonasa_umbellus",320,NA,"male",4.2,773,10.9007367001529,32.3291386073988,"Summer",10311
+8,-87.72961,52.24829,"juvenile",1939,"Bonasa umbellus obscura","Bonasa_umbellus",325,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",10288
+10,-84.7250214,44.3500137,NA,1934,"Bonasa umbellus","Bonasa_umbellus",331,NA,"male",6.5,603,11.4904967321485,61.6035841761612,"Fall",10623
+6,-131.1667,57.9578,"u ad.",1919,"Bonasa umbellus umbelloides","Bonasa_umbellus",343.5,NA,"male",-0.3,493,10.4450365187867,49.2878273494409,"Summer",10235
+8,-76.400551,42.438907,NA,1991,"Bonasa umbellus","Bonasa_umbellus",346,NA,"female ?",9.5,798,9.50726596139006,30.6989290887289,"Summer",10434
+3,-85.7595348,41.9834201,"Hatched",1952,"Bonasa umbellus umbellus","Bonasa_umbellus",354.4,NA,"female",9.6,857,9.46760025272796,56.3998647435427,"Spring",10386
+9,-86.80778,38.83489,"U-Ad.",1988,"Bonasa umbellus","Bonasa_umbellus",383.4,NA,"female",12.3,937,10.1698715763174,48.9581887389171,"Fall",10648
+8,-123.691986,41.5870224,"u ad.",1957,"Bonasa umbellus sabini","Bonasa_umbellus",389,NA,"male",9.7,4809,6.46798057567219,84.1766585747438,"Summer",10458
+6,-118.9833336,54.0666676,"adult",1970,"Bonasa umbellus umbelloides","Bonasa_umbellus",390,NA,"female",2,407,9.88837701546619,48.0019135615216,"Summer",10250
+8,-111.106,44.1296,"ad.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",392,NA,"male",4.3,639,9.28354686659374,67.6867962566796,"Summer",10239
+8,-111.106,44.1296,"ad.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",394,NA,"female",4.3,639,9.28354686659374,67.6867962566796,"Summer",10241
+7,-91.92887,50.10403,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",395,NA,"female",0.6,690,13.748377314719,41.0975349699112,"Summer",10539
+9,-109.0383873755,40.7105627291,"immature",1990,"Bonasa umbellus","Bonasa_umbellus",396.8,NA,"male",6.3,338,9.94478697000534,57.3834160542437,"Fall",10222
+8,-85.0389709,46.6510859,NA,1998,"Bonasa umbellus togata","Bonasa_umbellus",396.9,NA,"female",6.7,716,8.68049014116767,46.5850514978741,"Summer",10406
+1,-83.731534,46.457979,"not applicable",1933,"Bonasa umbellus obscura","Bonasa_umbellus",397,NA,"male",4.1,812,11.8158182368408,32.750262337978,"Winter",10295
+7,-78.91746,45.94546,"immature",1933,"Bonasa umbellus togata","Bonasa_umbellus",397,NA,"female",3.7,815,11.8289673977474,29.5577981025506,"Summer",10518
+9,-89.28001,48.38345,"immature",1941,"Bonasa umbellus obscura X togata","Bonasa_umbellus",403,NA,"female",3.5,852,11.337227494971,70.9989216384061,"Fall",10305
+7,-109.4624066,47.2844226,NA,1961,"Bonasa umbellus incanus","Bonasa_umbellus",410,NA,"male",6.6,375,8.97472460960122,71.153874596561,"Summer",10445
+11,-117.977924,46.321167,NA,1949,"Bonasa umbellus","Bonasa_umbellus",415,450,"male",9.6,325,9.17450353705939,75.2090128920955,"Fall",10427
+6,-79.75435,51.14935,"adult",1982,"Bonasa umbellus umbelloides","Bonasa_umbellus",420,NA,"female",-0.8,732,13.6119265886408,45.4362182397203,"Summer",10492
+6,-81.59189,52.25485,"not applicable",1942,"Bonasa umbellus obscura","Bonasa_umbellus",430,NA,"female",-1.5,703,13.437904327955,49.7651862110958,"Summer",10529
+7,-94.98538,49.92533,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",430,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",10733
+10,-52.7189255,47.5651757,"adult",1989,"Bonasa umbellus obscura","Bonasa_umbellus",431.9,NA,"female",5,1170,8.40003607495861,39.6900863629443,"Fall",10272
+9,-79.83131,43.94852,"immature",1947,"Bonasa umbellus togata","Bonasa_umbellus",432,NA,"male",6.4,848,10.4824962328983,43.2023598644886,"Fall",10541
+10,-85.4166667,44.7833333,NA,1956,"Bonasa umbellus togata","Bonasa_umbellus",433.7,NA,"female",7.5,760,9.92012035606362,59.0876946476425,"Fall",10747
+7,-93.63727,52.84037,"not applicable",1938,"Bonasa umbellus umbelloides","Bonasa_umbellus",435.3,NA,"female",0,617,13.8670636598183,60.9325865622278,"Summer",10720
+7,-75.971843,46.8817037,"not applicable",1953,"Bonasa umbellus togata","Bonasa_umbellus",437,NA,"female",4.7,836,10.9702455705781,49.4408412220549,"Summer",10333
+9,-79.75334,43.70713,"not applicable",1971,"Bonasa umbellus togata","Bonasa_umbellus",437.2,409,"female",7.3,727,10.3650161893776,46.0739169083185,"Fall",10477
+7,-117.8217,46.0881,"u ad.",1939,"Bonasa umbellus phaia","Bonasa_umbellus",441,NA,"female",6.8,933,6.75283890917985,106.694109308622,"Summer",10466
+7,-74.6167374,45.9671404,"adult",1998,"Bonasa umbellus togata","Bonasa_umbellus",441,NA,"female",6.9,890,10.2243137133546,41.3147742972314,"Summer",10629
+11,-76.5095,42.4381,NA,1926,"Bonasa umbellus umbellus","Bonasa_umbellus",442,465,"male",7.4,843,10.099246146484,35.1038756458292,"Fall",10206
+9,-79.9888,43.50633,"not applicable",1968,"Bonasa umbellus monticola","Bonasa_umbellus",445.2,NA,"female",6.7,973,10.3553236198936,41.6759699043663,"Fall",10475
+11,-78.48,45.57872,"immature",1947,"Bonasa umbellus togata","Bonasa_umbellus",447,NA,"male",3.7,955,11.9957157756299,42.2030739681212,"Fall",10498
+12,-93.63727,52.84037,"not applicable",1938,"Bonasa umbellus umbelloides","Bonasa_umbellus",447,NA,"female",0,617,13.8670636598183,60.9325865622278,"Winter",10722
+6,-78.27476,45.55854,"not applicable",1945,"Bonasa umbellus togata","Bonasa_umbellus",451,NA,"female",3.5,840,11.4943035957606,35.5084718987215,"Summer",10309
+7,-91.92887,50.10403,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",451,NA,"female",0.6,690,13.748377314719,41.0975349699112,"Summer",10321
+9,-116.807108,47.563934,NA,1940,"Bonasa umbellus umbelloides","Bonasa_umbellus",451.5,NA,"female",9.8,774,8.32371566214527,64.9724480135709,"Fall",10353
+10,-76.2954,42.3784,NA,1927,"Bonasa umbellus umbellus","Bonasa_umbellus",453,402,"female",7.2,1038,8.87410260080967,55.2337618745322,"Fall",10207
+10,-80.7498,44.33338,"not applicable",1932,"Bonasa umbellus togata","Bonasa_umbellus",454,NA,"female",6.1,924,8.90037026808946,33.7816647984114,"Fall",10282
+8,-78.91746,45.94546,"immature",1932,"Bonasa umbellus togata","Bonasa_umbellus",454,NA,"undetermined",4.4,863,10.3229077416406,46.7519662946172,"Summer",10285
+7,-78.48,45.57872,"juvenile",1946,"Bonasa umbellus togata","Bonasa_umbellus",454,NA,"male",4.2,753,10.9999552340687,32.8682916545026,"Summer",10310
+12,-80.426985,37.229846,NA,1939,"Bonasa umbellus monticola","Bonasa_umbellus",454,NA,"female",12.5,860,7.8025005704271,56.664762632997,"Winter",10444
+10,-73.4179153,44.4858799,"adult?",1951,"Bonasa umbellus togata","Bonasa_umbellus",454,NA,"female",7.4,889,10.0938737796144,29.6597773120864,"Fall",10547
+10,-84.2170715,42.3098154,"adult",1930,"Bonasa umbellus","Bonasa_umbellus",454,NA,"male",9.4,508,10.1691266273774,57.917459918489,"Fall",10615
+10,-82.01202,45.56271,"immature",1959,"Bonasa umbellus obscura","Bonasa_umbellus",454,NA,"female",5.1,873,11.0262084474797,40.3874775362931,"Fall",10739
+6,-123.1907459,40.6355616,"u ad.",1946,"Bonasa umbellus sabini","Bonasa_umbellus",455.7,NA,"female",9.4,921,6.48300225064115,105.317627751688,"Summer",10470
+10,-78.788684,44.223041,"adult",2012,"Bonasa umbellus togata","Bonasa_umbellus",459,NA,"female",8.8,773,9.12776317648856,47.413115086648,"Fall",10274
+10,-76.47523,42.433394,NA,1979,"Bonasa umbellus","Bonasa_umbellus",459.3,NA,"female",8.4,907,10.0513077695784,33.6386489090228,"Fall",10390
+9,-77.23035,43.98602,"immature",1941,"Bonasa umbellus togata","Bonasa_umbellus",460,NA,"female",7.7,750,10.7334933170836,50.9881982779973,"Fall",10528
+10,-79.303638,43.156664,"immature",1948,"Bonasa umbellus monticola","Bonasa_umbellus",460,NA,"female",8.6,742,10.1148405820359,34.5132146952265,"Fall",10544
+1,-84.2732906,46.220346,NA,1935,"Bonasa umbellus togata","Bonasa_umbellus",460,NA,"male",4.3,628,11.5407939173362,63.6380759664521,"Winter",10622
+6,-93.63727,52.84037,"not applicable",1938,"Bonasa umbellus umbelloides","Bonasa_umbellus",460,NA,"female",0,617,13.8670636598183,60.9325865622278,"Summer",10664
+11,-72.261389,41.885278,"adult",2005,"Bonasa umbellus umbellus","Bonasa_umbellus",460,NA,"male",8.8,1189,10.212036124994,62.2701664690783,"Fall",10759
+11,-85.9347153,43.1185278,NA,1982,"Bonasa umbellus umbellus","Bonasa_umbellus",461,NA,"male",8.2,968,10.3480454895862,45.8763977506425,"Fall",10596
+7,-119.75,48.6333333,NA,1940,"Bonasa umbellus","Bonasa_umbellus",461.7,NA,"female",5.5,583,8.37175536424637,66.3027542928984,"Summer",10690
+9,-110.76167,43.48,NA,2012,"Bonasa umbellus","Bonasa_umbellus",461.8,NA,"female",5.1,329,8.91071452428667,64.0583284713742,"Fall",10424
+7,-112.8635,45.4231,"u ad.",1947,"Bonasa umbellus umbelloides","Bonasa_umbellus",462.7,NA,"female",3.3,484,8.29594187028522,64.1789972549058,"Summer",10248
+7,-131.3833,57.8333,"u ad.",1919,"Bonasa umbellus umbelloides","Bonasa_umbellus",463.8,NA,"female",1.2,379,10.9927352043396,49.0966307949911,"Summer",10462
+10,-79.62676,44.29727,"not applicable",1942,"Bonasa umbellus togata","Bonasa_umbellus",465,NA,"female",6.2,907,10.3340676669671,47.6156501524408,"Fall",10306
+7,-108.4843,45.2077,"u ad.",1947,"Bonasa umbellus umbelloides","Bonasa_umbellus",465.7,NA,"female",4.7,423,9.06660539194981,47.8632843818864,"Summer",10471
+10,-84.7286224,44.2697882,NA,1949,"Bonasa umbellus togata","Bonasa_umbellus",467,NA,"female",7.4,650,10.1549920549631,27.4076023715695,"Fall",10588
+10,-78.20292,44.82347,"not applicable",1932,"Bonasa umbellus togata","Bonasa_umbellus",467.8,NA,"female",6,701,9.57852316699219,35.9616369496228,"Fall",10283
+10,-84.7479034,44.2463154,NA,1942,"Bonasa umbellus togata","Bonasa_umbellus",471,NA,"female",6.9,744,10.3848957917767,54.974109877827,"Fall",10361
+9,-79.392952,43.15536,"immature",1960,"Bonasa umbellus monticola","Bonasa_umbellus",475,NA,"female",8.2,739,10.2193073358346,36.8564819438964,"Fall",10559
+10,-78.10873,44.82875,"not applicable",1933,"Bonasa umbellus togata","Bonasa_umbellus",475,NA,"female",5.2,734,11.0613851946419,29.8201352402423,"Fall",10727
+7,-87.72961,52.24829,"adult",1939,"Bonasa umbellus obscura","Bonasa_umbellus",477,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",10292
+10,-84.9034595,44.2836765,NA,1942,"Bonasa umbellus togata","Bonasa_umbellus",477,NA,"female",7,740,10.4426681543472,58.0635793044961,"Fall",10359
+6,-87.72961,52.24829,"not applicable",1939,"Bonasa umbellus obscura","Bonasa_umbellus",477,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",10511
+10,-123.250567,49.263456,NA,1982,"Bonasa umbellus","Bonasa_umbellus",477,426,"female",9.8,1345,5.79348510803037,71.8991853806993,"Fall",10682
+12,-84.7843424,43.7089693,NA,1936,"Bonasa umbellus","Bonasa_umbellus",477.3,NA,"female",7.2,670,11.7709548800375,52.57831137486,"Winter",10419
+11,-83.7263412,42.2708397,NA,1985,"Bonasa umbellus","Bonasa_umbellus",478.39,NA,"female",9,1040,10.6588809180065,34.9603911571367,"Fall",10394
+10,-84.6627045,45.4947964,NA,1939,"Bonasa umbellus togata","Bonasa_umbellus",478.5,NA,"female",6.4,768,10.592146175637,64.0746246841064,"Fall",10590
+7,-84.473455,46.476072,"not applicable",1931,"Bonasa umbellus obscura","Bonasa_umbellus",479,NA,"female",6.6,822,10.3515004036159,63.041665161319,"Summer",10503
+10,-78.72537,44.92476,"not applicable",1933,"Bonasa umbellus togata","Bonasa_umbellus",479,NA,"male",5.5,782,11.1983054724608,40.0824952599706,"Fall",10516
+7,-112.8635,45.4231,"u ad.",1947,"Bonasa umbellus umbelloides","Bonasa_umbellus",479.4,NA,"male",3.3,484,8.29594187028522,64.1789972549058,"Summer",10472
+5,-79.530656,44.254597,"not applicable",1933,"Bonasa umbellus togata","Bonasa_umbellus",480,NA,"female",7,697,10.5886266886464,42.2709575926471,"Spring",10300
+6,-115.9265,48.278,"u ad.",1966,"Bonasa umbellus umbelloides","Bonasa_umbellus",480,NA,"undetermined",6.1,1147,7.48359822707248,73.9611031891531,"Summer",10459
+10,-120,49.4167,"u ad.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",481.93,NA,"female",3,389,6.8270129676606,56.0799244141677,"Fall",10225
+10,-120,49.4167,"u ad.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",481.93,NA,"male",3,389,6.8270129676606,56.0799244141677,"Fall",10226
+9,-76.4809,42.4466,NA,1938,"Bonasa umbellus","Bonasa_umbellus",482.399993896484,NA,"female",9.1,822,9.45038078437567,50.8603179611321,"Fall",10202
+10,-117.399085,46.14722,NA,1950,"Bonasa umbellus","Bonasa_umbellus",483,407,"female",5.1,1090,8.28552498290991,61.9701635337915,"Fall",10429
+8,-123.6339428,40.9809127,"u ad.",1949,"Bonasa umbellus sabini","Bonasa_umbellus",483.8,NA,"female",13.2,908,6.64780665583268,111.965086138355,"Summer",10230
+11,-85.5295561,42.2448504,NA,1980,"Bonasa umbellus","Bonasa_umbellus",484,NA,"female",8.5,975,10.6804834756076,60.457356747861,"Fall",10597
+9,-109.0383873755,40.7105627291,"adult",1990,"Bonasa umbellus","Bonasa_umbellus",485.3,365,"female",6.3,338,9.94478697000534,57.3834160542437,"Fall",10221
+9,-116.807108,47.563934,NA,1940,"Bonasa umbellus umbelloides","Bonasa_umbellus",485.7,NA,"male",9.8,774,8.32371566214527,64.9724480135709,"Fall",10352
+10,-81.883333,47.048481,"not applicable",1975,"Bonasa umbellus obscura","Bonasa_umbellus",488,NA,"male",2.9,779,11.8491369075788,34.9655944011189,"Fall",10481
+3,-78.12878,44.61206,"immature",1947,"Bonasa umbellus togata","Bonasa_umbellus",490,NA,"female",5.3,917,11.464794597005,41.1170406074652,"Spring",10315
+10,-79.06156,43.98865,"juvenile",1974,"Bonasa umbellus togata","Bonasa_umbellus",490,NA,"male",6.7,863,9.81367320722378,32.2150375131756,"Fall",10714
+10,-86.49535,38.54236,"U-Ad.",1987,"Bonasa umbellus","Bonasa_umbellus",490.5,NA,"male",13.4,872,9.24185144772508,50.6192622522048,"Fall",10698
+2,-78.64921,43.96188,"adult",1976,"Bonasa umbellus togata","Bonasa_umbellus",490.6,NA,"female",6.5,788,10.5192320263526,38.4064509948076,"Winter",10262
+10,-84.7286224,44.2697882,NA,1949,"Bonasa umbellus togata","Bonasa_umbellus",491,NA,"female",7.4,650,10.1549920549631,27.4076023715695,"Fall",10381
+9,-76.4091,42.3687,NA,2004,"Bonasa umbellus","Bonasa_umbellus",491.299987792969,329,"female",7.5,1207,10.0389091523779,56.0491510560492,"Fall",10656
+8,-87.72961,52.24829,"not applicable",1939,"Bonasa umbellus obscura","Bonasa_umbellus",492,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",10289
+10,-79.78266,44.76447,"adult",1976,"Bonasa umbellus togata","Bonasa_umbellus",492.7,NA,"female",5.4,929,10.792547934065,26.6802223294939,"Fall",10484
+9,-80.06437,44.01319,"adult",1986,"Bonasa umbellus togata","Bonasa_umbellus",494.5,NA,"female",5.9,1070,9.65084389464403,59.2394969860503,"Fall",10631
+3,-73.1862831,46.0800182,"not applicable",1947,"Bonasa umbellus togata","Bonasa_umbellus",495,NA,"female",5.2,991,11.91292905997,43.9901026011135,"Spring",10318
+4,-79.208522,43.742088,"not applicable",1953,"Bonasa umbellus monticola","Bonasa_umbellus",495,NA,"female",8.8,775,9.09126703840759,40.4670982296784,"Spring",10332
+10,-94.4592450251,47.6319567211,NA,2012,"Bonasa umbellus","Bonasa_umbellus",495.5,NA,"female",5.8,560,10.862986223731,58.8994957391161,"Fall",10627
+8,-111.106,44.1296,"ad.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",496,NA,"male",4.3,639,9.28354686659374,67.6867962566796,"Summer",10240
+10,-84.6403027,44.1969129,"immature",1947,"Bonasa umbellus togata","Bonasa_umbellus",496,NA,"female",6.3,791,11.0601215128401,62.0682804500835,"Fall",10371
+10,-89.08079,48.72554,"not applicable",1959,"Bonasa umbellus obscura","Bonasa_umbellus",496.1,NA,"female",0.8,814,13.0005681694022,66.7260941143221,"Fall",10552
+7,-93.63727,52.84037,"not applicable",1938,"Bonasa umbellus umbelloides","Bonasa_umbellus",497,NA,"female",0,617,13.8670636598183,60.9325865622278,"Summer",10719
+7,-112.8635,45.4231,"u ad.",1947,"Bonasa umbellus umbelloides","Bonasa_umbellus",497.3,NA,"male",3.3,484,8.29594187028522,64.1789972549058,"Summer",10473
+6,-84.2,37,NA,1952,"Bonasa umbellus monticola","Bonasa_umbellus",497.5,NA,"female",13.8,1124,8.1607105676955,45.7986265389302,"Summer",10746
+10,-77.57663,45.1503,"not applicable",1933,"Bonasa umbellus togata","Bonasa_umbellus",499,NA,"male",5.2,722,11.2835224459332,22.7697363954992,"Fall",10726
+6,-89.66084,51.75619,"adult",1979,"Bonasa umbellus umbelloides","Bonasa_umbellus",500,NA,"male",-2.1,748,14.1049529233421,48.3433860501171,"Summer",10488
+2,-81.02147,49.06605,"not applicable",1948,"Bonasa umbellus obscura","Bonasa_umbellus",500,NA,"female",1,788,13.0923294683983,41.5545240035774,"Winter",10634
+5,-118.624838,44.184547,NA,2012,"Bonasa umbellus affinis","Bonasa_umbellus",500.7,NA,"male",5.1,636,7.54772191198153,76.3956764594023,"Spring",10425
+1,-83.8166667,42.2833333,NA,1987,"Bonasa umbellus monticola","Bonasa_umbellus",501,NA,"female",10.4,825,9.86915534748173,65.3028678864924,"Winter",10755
+5,-85.83532,38.55715,"U-Ad.",1986,"Bonasa umbellus monticola","Bonasa_umbellus",501.5,NA,"female",12.9,1010,9.17778939515492,38.6124672607668,"Spring",10697
+11,-85.587204,42.2917404,NA,1984,"Bonasa umbellus","Bonasa_umbellus",502,NA,"male",9.4,887,10.2901099914609,47.1559861341422,"Fall",10393
+9,-82.43954,48.2433,"immature",1947,"Bonasa umbellus obscura","Bonasa_umbellus",502,NA,"female",1.5,701,12.5613735738018,44.5434477606354,"Fall",10679
+10,-84.8073292,44.1789416,"immature",1947,"Bonasa umbellus togata","Bonasa_umbellus",502.5,NA,"female",6.5,789,11.0921313906696,64.065959222832,"Fall",10580
+10,-84.9534559,44.2777774,NA,1947,"Bonasa umbellus togata","Bonasa_umbellus",503,NA,"female",6.5,750,11.0696520708511,66.1576861370183,"Fall",10376
+7,-94.98538,49.92533,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",503.2,NA,"female",1.5,627,13.7663181407199,61.9181824825118,"Summer",10734
+5,-121.2667,53.2667,"u ad.",1934,"Bonasa umbellus umbelloides","Bonasa_umbellus",504,NA,"male",3.5,795,7.41474268541459,47.699967462015,"Spring",10238
+7,-66.3915825,48.109609,"not applicable",1952,"Bonasa umbellus togata","Bonasa_umbellus",504,NA,"female",4.3,904,10.4561820194678,36.2842925914855,"Summer",10551
+3,-79.853183,43.22748,"not applicable",1936,"Bonasa umbellus monticola","Bonasa_umbellus",505,NA,"female",7.7,728,10.8211353238452,46.3532157477674,"Spring",10524
+9,-82.43954,48.2433,"immature",1947,"Bonasa umbellus obscura","Bonasa_umbellus",505,NA,"female",1.5,701,12.5613735738018,44.5434477606354,"Fall",10678
+10,-79.17742,44.54871,"immature",1951,"Bonasa umbellus togata","Bonasa_umbellus",505,NA,"female",6.4,999,9.72554820453777,31.6595526299295,"Fall",10737
+2,-84.5403099,45.1496004,NA,1934,"Bonasa umbellus togata","Bonasa_umbellus",506,NA,"female",5.6,701,11.3666544476963,58.5196228251227,"Winter",10416
+10,-84.7542297,44.2568047,NA,1946,"Bonasa umbellus togata","Bonasa_umbellus",507.7,NA,"male",7.2,661,9.45145090673513,34.8589869522541,"Fall",10573
+6,-84.2611027,44.615828,NA,1986,"Bonasa umbellus togata","Bonasa_umbellus",508,NA,"male",6.2,820,9.91381038570117,79.8418947311387,"Summer",10395
+7,-93.82525,48.90185,"adult",1929,"Bonasa umbellus obscura","Bonasa_umbellus",508,NA,"female",1.5,422,14.4096558535651,41.9524409763164,"Summer",10502
+4,-93.72873,49.67132,"adult",1989,"Bonasa umbellus togata","Bonasa_umbellus",509.2,NA,"female",1.5,636,15.0089342080178,104.03678428166,"Spring",10271
+10,-84.8296452,44.1794956,NA,1947,"Bonasa umbellus togata","Bonasa_umbellus",509.2,NA,"male",6.6,786,11.0921313906696,64.4303751023181,"Fall",10375
+10,-85.4533768,43.6630908,NA,2004,"Bonasa umbellus togata","Bonasa_umbellus",509.4,NA,"female",7.7,1018,9.87149247258811,56.9314975377883,"Fall",10609
+9,-86.3542557,46.4403411,NA,1941,"Bonasa umbellus togata","Bonasa_umbellus",510,NA,"female",6.2,951,10.0496796270359,48.3946106668964,"Fall",10357
+10,-84.36127,45.1433,NA,1938,"Bonasa umbellus togata","Bonasa_umbellus",510,NA,"female",6.7,918,10.2334085970976,35.9349597060863,"Fall",10420
+12,-83.10541,45.8881,"not applicable",1959,"Bonasa umbellus obscura","Bonasa_umbellus",510,NA,"female",5,849,11.2928342793386,45.8602249693502,"Winter",10554
+10,-80.2639,43.70308,"adult",1974,"Bonasa umbellus monticola","Bonasa_umbellus",510,NA,"undetermined",6,906,9.53206311732813,40.23230753631,"Fall",10632
+10,-120,49.4167,"u ad.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",510.28,NA,"female",3,389,6.8270129676606,56.0799244141677,"Fall",10227
+11,-84.104206,49.061943,"not applicable",1934,"Bonasa umbellus obscura","Bonasa_umbellus",511,NA,"female",-0.8,805,13.3564647835852,47.623276598441,"Fall",10520
+10,-84.7542297,44.2568047,NA,1946,"Bonasa umbellus togata","Bonasa_umbellus",511.3,NA,"female",7.2,661,9.45145090673513,34.8589869522541,"Fall",10576
+3,-73.1862831,46.0800182,"not applicable",1947,"Bonasa umbellus togata","Bonasa_umbellus",512,NA,"female",5.2,991,11.91292905997,43.9901026011135,"Spring",10316
+9,-104.895666,44.318504,"adult",1968,"Bonasa umbellus incana","Bonasa_umbellus",512,NA,"male",6.8,382,9.81302087982487,95.2806353133961,"Fall",10630
+4,-85.2158833,43.690839,NA,1998,"Bonasa umbellus togata","Bonasa_umbellus",512.5,NA,"female",9,736,9.27856359703604,48.3728655173515,"Spring",10403
+9,-123.6339428,40.9809127,"imm.",1949,"Bonasa umbellus sabini","Bonasa_umbellus",513,NA,"female",13.2,908,6.64780665583268,111.965086138355,"Fall",10231
+9,-123.8083893,40.9028547,"u ad.",1942,"Bonasa umbellus sabini","Bonasa_umbellus",513,NA,"female",12.7,1785,4.83105484434724,105.430785533876,"Fall",10469
+10,-76.5095,42.4381,NA,1940,"Bonasa umbellus","Bonasa_umbellus",513.900024414062,NA,"female",7.9,859,10.1830816315667,35.7147842586663,"Fall",10442
+10,-81.91566,46.85774,"not applicable",1975,"Bonasa umbellus obscura","Bonasa_umbellus",514,NA,"female",3.1,783,11.7009194147945,37.5294063776395,"Fall",10479
+11,-83.95,42.45,NA,1933,"Bonasa umbellus","Bonasa_umbellus",514.5,NA,"female",9.6,631,10.4312576597281,46.8346654990974,"Fall",10693
+10,-76.5095,42.4381,NA,1994,"Bonasa umbellus","Bonasa_umbellus",514.700012207031,360,"female",8.8,988,10.7238441490602,52.6406379338935,"Fall",10210
+9,-115.36616,46.01118,"U-Ad.",1941,"Bonasa umbellus phaia","Bonasa_umbellus",515.5,NA,"female",5.6,1147,6.97701855227488,49.4249031611815,"Fall",10646
+4,-76.89003,45.60436,"adult",1982,"Bonasa umbellus togata","Bonasa_umbellus",515.6,NA,"male",5.2,784,11.6842129958904,37.4997633554307,"Spring",10270
+10,-79.99343,43.80176,"not applicable",1937,"Bonasa umbellus togata","Bonasa_umbellus",516,NA,"male",6.6,740,9.970395572834,32.2270590472597,"Fall",10275
+10,-79.65074,44.81779,"adult",1971,"Bonasa umbellus togata","Bonasa_umbellus",516.1,437,"female",5.9,898,10.779396030756,41.7131195909768,"Fall",10478
+9,-84.464142,46.0099252,"adult",1930,"Bonasa umbellus","Bonasa_umbellus",516.5,NA,"male",5.8,609,10.7604037042663,59.9029214712787,"Fall",10413
+10,-78.72537,44.92476,"not applicable",1933,"Bonasa umbellus togata","Bonasa_umbellus",517,NA,"male",5.5,782,11.1983054724608,40.0824952599706,"Fall",10514
+9,-122.65414,49.097048,NA,1994,"Bonasa umbellus","Bonasa_umbellus",517,408,NA,10.7,1349,5.46964072832665,60.0409829934158,"Fall",10683
+10,-119.594211,49.49871,NA,2007,"Bonasa umbellus","Bonasa_umbellus",517,343,"female",9.7,280,8.34409154050719,33.5989391932572,"Fall",10742
+11,-79.71593,43.46917,"not applicable",1970,"Bonasa umbellus togata","Bonasa_umbellus",518.2,NA,"female",7.7,811,10.873915828925,31.4528346230628,"Fall",10251
+4,-76.485675,42.458406,NA,2008,"Bonasa umbellus","Bonasa_umbellus",518.4,340,"female",8.8,1017,9.42801675857654,38.153331779568,"Spring",10214
+11,-75.3773689,42.115097,"not applicable",1923,"Bonasa umbellus monticola","Bonasa_umbellus",518.5,NA,"female",6.9,981,10.2106747469439,25.4897877485649,"Fall",10500
+10,-77.45954,46.03204,"not applicable",1933,"Bonasa umbellus togata","Bonasa_umbellus",519,NA,"male",4.8,734,12.167642136072,30.0934750574687,"Fall",10728
+10,-84.6519241,44.2221224,NA,1948,"Bonasa umbellus togata","Bonasa_umbellus",519.6,NA,"female",6.4,635,10.7920425229973,53.7078611647018,"Fall",10584
+11,-83.9959717,42.4603203,NA,1958,"Bonasa umbellus monticola","Bonasa_umbellus",520,NA,"female",8.5,590,10.4494453963313,67.4223878347754,"Fall",10388
+3,-76.351662,42.485766,NA,2008,"Bonasa umbellus","Bonasa_umbellus",520,347,"undetermined",8.1,1077,9.43844491556964,38.1955150755842,"Spring",10440
+1,-85.0375,45.64222,NA,1986,"Bonasa umbellus","Bonasa_umbellus",520,NA,"female",6.7,640,9.37262293096552,62.2243923232682,"Winter",10603
+10,-76.5095,42.4381,NA,1931,"Bonasa umbellus umbellus","Bonasa_umbellus",520,400,"female",10.6,734,9.79039031010728,45.7361463765925,"Fall",10628
+6,-83.8166667,42.25,NA,1978,"Bonasa umbellus","Bonasa_umbellus",520,NA,"female",7.9,743,11.4768112718515,37.4600485906161,"Summer",10692
+11,-79.44822,44.05233,"not applicable",1960,"Bonasa umbellus togata","Bonasa_umbellus",521,NA,"female",6.6,766,10.4679887217549,50.515522755663,"Fall",10336
+5,-114.2158,46.7589,"u ad.",1940,"Bonasa umbellus umbelloides","Bonasa_umbellus",523.4,NA,"male",6.7,657,9.12951839149284,63.8455749630087,"Spring",10244
+10,-84.6627045,45.4947964,NA,1939,"Bonasa umbellus togata","Bonasa_umbellus",523.5,NA,"female",6.4,768,10.592146175637,64.0746246841064,"Fall",10591
+7,-139.7625732,61.67945,NA,1970,"Bonasa umbellus umbelloides","Bonasa_umbellus",523.8,NA,"female",-3.7,278,11.6350827893553,74.3866754148025,"Summer",10446
+2,-84.158535,44.8731459,NA,1941,"Bonasa umbellus togata","Bonasa_umbellus",524,420,"female",7.3,753,10.5769331638011,57.4233126632548,"Winter",10351
+10,-84.7327423,44.2476584,NA,1948,"Bonasa umbellus togata","Bonasa_umbellus",524,NA,"female",6.6,625,10.7852031070632,55.038054933919,"Fall",10379
+10,-119.7333,49.75,"u ad.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",524.46,NA,"female",9.7,215,7.73890212243352,50.9667411119506,"Fall",10229
+12,-83.10541,45.8881,"immature",1959,"Bonasa umbellus obscura","Bonasa_umbellus",524.5,NA,"female",5,849,11.2928342793386,45.8602249693502,"Winter",10555
+9,-82.4666667,39.6,"immature",1944,"Bonasa umbellus togata","Bonasa_umbellus",524.5,NA,"female",11.5,1006,9.91150234767055,54.8090554112748,"Fall",10744
+10,-81.883333,47.048481,"immature",1975,"Bonasa umbellus obscura","Bonasa_umbellus",525,NA,"female",2.9,779,11.8491369075788,34.9655944011189,"Fall",10260
+10,-80.343714,43.273285,"not applicable",1934,"Bonasa umbellus monticola","Bonasa_umbellus",525,NA,"female",6.8,717,11.2955609409049,40.1174090275016,"Fall",10302
+1,-80.03506,45.34996,"immature",1948,"Bonasa umbellus togata","Bonasa_umbellus",525,NA,"female",5.5,944,11.1575494213967,39.3138390219869,"Winter",10324
+9,-147.8043,64.857,"U",1996,"Bonasa umbellus","Bonasa_umbellus",525,NA,"male",-3.7,295,15.2504619900215,87.5889499783543,"Fall",10350
+10,-76.39509,42.38263,NA,1927,"Bonasa umbellus umbellus","Bonasa_umbellus",525,15,"female",7.7,981,8.82517061385424,54.9385789060625,"Fall",10430
+11,-76.350161,42.383205,NA,2007,"Bonasa umbellus","Bonasa_umbellus",526,NA,"female",8.3,1023,10.3491765153298,30.8381367176074,"Fall",10213
+3,-79.64642,44.35919,"adult",1973,"Bonasa umbellus togata","Bonasa_umbellus",526.2,NA,"male",7.3,899,10.152425445392,24.0336464485971,"Spring",10711
+7,-93.67195,48.52224,"adult",1929,"Bonasa umbellus obscura","Bonasa_umbellus",528,NA,"female",1.8,430,14.3428870556422,51.5092607773849,"Summer",10661
+10,-80.30891,42.83407,"not applicable",1933,"Bonasa umbellus monticola","Bonasa_umbellus",529,NA,"male",9.2,726,9.92343415630625,34.5673399916025,"Fall",10294
+10,-84.6800422,45.6109153,"fr",1988,"Bonasa umbellus togata","Bonasa_umbellus",529.6,NA,"female",6.3,873,10.9630370709116,58.2595166495381,"Fall",10607
+3,-73.1862831,46.0800182,"not applicable",1947,"Bonasa umbellus togata","Bonasa_umbellus",530,NA,"female",5.2,991,11.91292905997,43.9901026011135,"Spring",10534
+11,-91.2073574,46.335735,"immature",1947,"Bonasa umbellus obscura X togata","Bonasa_umbellus",530,NA,"female",4.5,627,11.8347299645295,72.7682456991081,"Fall",10542
+10,-76.5095,42.4381,NA,1939,"Bonasa umbellus","Bonasa_umbellus",530.299987792969,NA,"male",9.5,688,10.2050306964336,30.703559881706,"Fall",10209
+9,-83.7263412,42.2708397,"juvenile",1985,"Bonasa umbellus","Bonasa_umbellus",531,NA,"male",9,1040,10.6588809180065,34.9603911571367,"Fall",10602
+10,-84.8073292,44.1789416,NA,1947,"Bonasa umbellus togata","Bonasa_umbellus",532.5,NA,"female",6.5,789,11.0921313906696,64.065959222832,"Fall",10374
+3,-84.194697,46.420551,NA,1963,"Bonasa umbellus umbellus","Bonasa_umbellus",532.5,NA,"male",4.2,623,11.94909341052,44.8161660882285,"Spring",10595
+12,-84.382077,44.73349,NA,1977,"Bonasa umbellus togata","Bonasa_umbellus",533,NA,"female",5.9,813,10.9679146383965,54.5104295059876,"Winter",10601
+10,-84.7542297,44.2568047,NA,1946,"Bonasa umbellus togata","Bonasa_umbellus",534.5,NA,"female",7.2,661,9.45145090673513,34.8589869522541,"Fall",10574
+7,-79.75435,51.14935,"adult",1982,"Bonasa umbellus umbelloides","Bonasa_umbellus",535,NA,"female",-0.8,732,13.6119265886408,45.4362182397203,"Summer",10495
+2,-84.72278,46.37556,NA,2005,"Bonasa umbellus togata","Bonasa_umbellus",535.1,NA,"female",6.4,677,11.0996689822333,47.7276222530091,"Winter",10410
+9,-115.39557,45.9907,"U-Ad.",1941,"Bonasa umbellus phaia","Bonasa_umbellus",535.4,NA,"female",5.9,1154,7.04407660034409,48.203405329039,"Fall",10695
+10,-117.399085,46.14722,NA,1950,"Bonasa umbellus","Bonasa_umbellus",536,447,"male",5.1,1090,8.28552498290991,61.9701635337915,"Fall",10428
+8,-123.1006,47.978386323,"u ad.",1956,"Bonasa umbellus castanea","Bonasa_umbellus",536.4,NA,"undetermined",8.4,1010,5.80336240049811,82.4442366341942,"Summer",10457
+10,-120,49.4167,"u ad.",1939,"Bonasa umbellus umbelloides","Bonasa_umbellus",538.63,NA,"male",3,389,6.8270129676606,56.0799244141677,"Fall",10450
+10,-73.4137344,44.5001786,"not applicable",1951,"Bonasa umbellus togata","Bonasa_umbellus",539,NA,"[male]",7.1,918,10.0402372300839,29.4389914827671,"Fall",10329
+5,-79.941,43.72098,"not applicable",1959,"Bonasa umbellus togata","Bonasa_umbellus",539,412,"female",7.1,853,11.1623962888392,28.5325879749265,"Spring",10334
+12,-84.0833333,42.3833333,NA,1967,"Bonasa umbellus monticola","Bonasa_umbellus",539.5,NA,"female",8.2,812,9.79651685162856,53.5454405207463,"Winter",10688
+10,-84.7542297,44.2568047,NA,1946,"Bonasa umbellus togata","Bonasa_umbellus",540.3,NA,"female",7.2,661,9.45145090673513,34.8589869522541,"Fall",10577
+10,-76.5095,42.4381,NA,1931,"Bonasa umbellus umbellus","Bonasa_umbellus",541.299987792969,410,"female",10.6,734,9.79039031010728,45.7361463765925,"Fall",10204
+4,-80.30981,43.43227,"not applicable",1968,"Bonasa umbellus togata","Bonasa_umbellus",542.2,418,"male",6.7,985,10.3223903445008,38.7746703512199,"Spring",10474
+3,-85.5031586,43.6838877,NA,1999,"Bonasa umbellus togata","Bonasa_umbellus",542.25,NA,NA,8,864,9.81792964042025,49.2952835253894,"Spring",10404
+12,-84.0833333,42.3833333,"adult",1967,"Bonasa umbellus monticola","Bonasa_umbellus",543,NA,"female",8.2,812,9.79651685162856,53.5454405207463,"Winter",10689
+10,-84.7542297,44.2568047,NA,1946,"Bonasa umbellus togata","Bonasa_umbellus",544,NA,"female",7.2,661,9.45145090673513,34.8589869522541,"Fall",10368
+10,-76.5095,42.4381,"imm.",1923,"Bonasa umbellus umbellus","Bonasa_umbellus",544.299987792969,16,"female",8.4,662,9.83041045414532,30.3824939274546,"Fall",10431
+9,-115.36616,46.01118,"U-Ad.",1941,"Bonasa umbellus phaia","Bonasa_umbellus",546,NA,"female",5.6,1147,6.97701855227488,49.4249031611815,"Fall",10645
+1,-77.45764,43.97391,"not applicable",1937,"Bonasa umbellus togata","Bonasa_umbellus",546,NA,"female",7.9,805,10.100686295315,35.7982741778381,"Winter",10660
+9,-123.8083893,40.9028547,"u ad.",1942,"Bonasa umbellus sabini","Bonasa_umbellus",546.6,NA,"female",12.7,1785,4.83105484434724,105.430785533876,"Fall",10468
+11,-76.5095,42.4381,"imm.",1929,"Bonasa umbellus umbellus","Bonasa_umbellus",547,420,"female",8.8,918,9.39623957665077,44.1432442829202,"Fall",10205
+6,-86.71792,50.18312,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",547,NA,"female",-0.7,756,13.5037003907234,45.2918593959555,"Summer",10320
+11,-78.94191,43.88012,"not applicable",1964,"Bonasa umbellus monticola","Bonasa_umbellus",547,NA,"female",7.9,706,9.55920546336928,54.2806067379835,"Fall",10339
+9,-83.7460327,42.740961,NA,1998,"Bonasa umbellus monticola","Bonasa_umbellus",547.3,NA,"male",10.5,704,8.92091091285814,44.9533316735252,"Fall",10405
+9,-115.36616,46.01118,"Juv.",1941,"Bonasa umbellus phaia","Bonasa_umbellus",547.8,NA,"male",5.6,1147,6.97701855227488,49.4249031611815,"Fall",10643
+7,-87.72961,52.24829,"adult",1939,"Bonasa umbellus obscura","Bonasa_umbellus",548,NA,"female",-2,684,14.3413578664834,57.1658407777492,"Summer",10291
+4,-85.0389709,46.6510859,NA,1984,"Bonasa umbellus umbellus","Bonasa_umbellus",548,NA,"male",4.9,858,9.34718803932093,48.1701086579822,"Spring",10391
+11,-85.5295561,42.2448504,NA,1978,"Bonasa umbellus","Bonasa_umbellus",548,NA,"male",8.4,982,11.5232571153062,61.282317320509,"Fall",10392
+2,-98.6166649,51.7666683,"not applicable",1933,"Bonasa umbellus umbelloides","Bonasa_umbellus",549,NA,"female",-0.6,469,16.1817424240651,43.9923814726746,"Winter",10296
+10,-84.7979092,44.100715,NA,2009,"Bonasa umbellus togata","Bonasa_umbellus",549.8,NA,"male",6.4,878,10.0194772439696,53.1870003857671,"Fall",10412
+3,-75.507515,42.558374,NA,2012,"Bonasa umbellus","Bonasa_umbellus",549.9,395,"female",9.6,1044,8.81094360853179,40.9856302086821,"Spring",10657
+10,-81.91566,46.85774,"not applicable",1975,"Bonasa umbellus obscura","Bonasa_umbellus",550,NA,"male",3.1,783,11.7009194147945,37.5294063776395,"Fall",10258
+10,-81.91566,46.85774,"not applicable",1975,"Bonasa umbellus obscura","Bonasa_umbellus",550,NA,"female",3.1,783,11.7009194147945,37.5294063776395,"Fall",10259
+10,-81.883333,47.048481,"not applicable",1975,"Bonasa umbellus obscura","Bonasa_umbellus",550,NA,"male",2.9,779,11.8491369075788,34.9655944011189,"Fall",10261
+9,-147.8043,64.857,"AD",2012,"Bonasa umbellus","Bonasa_umbellus",550,NA,"female",-2.5,295,15.6269653309446,58.5024616331023,"Fall",10346
+10,-116.8518,46.7325,"u ad.",1951,"Bonasa umbellus phaia","Bonasa_umbellus",550,NA,"undetermined",7.7,675,8.03801573584532,77.1742495897616,"Fall",10456
+10,-81.91566,46.85774,"not applicable",1975,"Bonasa umbellus obscura","Bonasa_umbellus",550,NA,"female",3.1,783,11.7009194147945,37.5294063776395,"Fall",10480
+10,-81.91566,46.85774,"not applicable",1975,"Bonasa umbellus obscura","Bonasa_umbellus",550,NA,"male",3.1,783,11.7009194147945,37.5294063776395,"Fall",10482
+10,-79.62304,43.99192,"immature",1951,"Bonasa umbellus togata","Bonasa_umbellus",550,NA,"male",7,898,9.63882615762779,28.5005179008954,"Fall",10546
+12,-85.3477191,43.6993099,NA,2008,"Bonasa umbellus","Bonasa_umbellus",550,NA,"female",7.3,1028,10.3439778996225,43.2790040979624,"Winter",10611
+11,-83.8,42.4,NA,1976,"Bonasa umbellus monticola","Bonasa_umbellus",550,NA,"male",8.3,713,10.6481325720864,47.4594682660867,"Fall",10753
+11,-83.5833333,42.4,NA,1985,"Bonasa umbellus","Bonasa_umbellus",550,NA,"male",8.9,1018,10.6322087844607,36.4121472845362,"Fall",10754
+2,-79.25919,44.85363,"adult",1978,"Bonasa umbellus togata","Bonasa_umbellus",550.1,NA,"female",4.4,859,11.2195007451177,37.9220090187948,"Winter",10264
+10,-80.016047,43.326717,"immature",1996,"Bonasa umbellus togata","Bonasa_umbellus",550.2,NA,"male",6.9,1062,10.1798374696795,48.2641184259186,"Fall",10273
+1,-78.34439,44.30694,"adult",1969,"Bonasa umbellus togata","Bonasa_umbellus",550.6,NA,"female",6.2,718,10.1209353981405,44.1598129330998,"Winter",10497
+10,-76.38849,42.42766,NA,1927,"Bonasa umbellus umbellus","Bonasa_umbellus",552,10,"female",7.8,973,8.82758675283273,55.6664313219182,"Fall",10433
+10,-79.40853,44.60738,"not applicable",1933,"Bonasa umbellus togata","Bonasa_umbellus",552,NA,"male",6.3,762,10.7620087963787,45.7482101426057,"Fall",10515
+3,-73.1862831,46.0800182,"not applicable",1947,"Bonasa umbellus togata X obscura","Bonasa_umbellus",552,NA,"male",5.2,991,11.91292905997,43.9901026011135,"Spring",10535
+12,-78.593242,45.552427,"not applicable",1934,"Bonasa umbellus togata","Bonasa_umbellus",552.8,NA,"female",2.6,783,12.3839675191415,39.2698642689847,"Winter",10303
+8,-147.8043,64.857,"U",2005,"Bonasa umbellus","Bonasa_umbellus",553.8,NA,"undetermined",-1.1,312,14.3955380292476,110.675682190574,"Summer",10343
+3,-86.2885856,43.6428299,NA,1927,"Bonasa umbellus mediana","Bonasa_umbellus",555,447,NA,7.9,872,9.28620270110774,52.6891957904637,"Spring",10618
+10,-81.66233,50.24012,"immature",1952,"Bonasa umbellus obscura","Bonasa_umbellus",555,NA,"male",2.1,945,12.461869114149,35.8189583633566,"Fall",10738
+6,-93.63727,52.84037,"not applicable",1938,"Bonasa umbellus umbelloides","Bonasa_umbellus",555.6,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",10662
+7,-68.2808499,44.5589655,NA,2002,"Bonasa umbellus","Bonasa_umbellus",556,NA,"undetermined",7.7,1258,8.80428184395972,34.9155290611864,"Summer",10447
+10,-76.590549,42.362595,"imm.",1923,"Bonasa umbellus umbellus","Bonasa_umbellus",556,18,"male",7.5,726,9.87290445736423,31.0414203322014,"Fall",10700
+4,-81.142002,44.762297,"adult",1987,"Bonasa umbellus togata","Bonasa_umbellus",557.4,NA,"male",7.8,875,9.17068782325051,35.9928381661715,"Spring",10527
+10,-91.6534424,44.8157587,"immature",1954,"Bonasa umbellus togata","Bonasa_umbellus",558,NA,"female",7.1,956,10.9620108473848,77.8156782459668,"Fall",10308
+1,-77.080954,42.124571,NA,2002,"Bonasa umbellus","Bonasa_umbellus",558.4,NA,"male",8.6,963,9.02672798869104,42.3780119483055,"Winter",10211
+10,-84.7479034,44.2463154,NA,1942,"Bonasa umbellus togata","Bonasa_umbellus",559,NA,"male",6.9,744,10.3848957917767,54.974109877827,"Fall",10360
+5,-72.839444,41.962222,NA,2008,"Bonasa umbellus umbellus","Bonasa_umbellus",559.9,NA,"male",9.2,1511,9.34800254146048,49.1745175469687,"Spring",10760
+11,-76.459673,42.406765,NA,2011,"Bonasa umbellus","Bonasa_umbellus",560,346,"undetermined",9.3,1330,10.0466035267767,50.1009829308644,"Fall",10216
+3,-116.7269,47.3625,"u ad.",1952,"Bonasa umbellus phaia","Bonasa_umbellus",560,NA,"female",9.2,433,8.51570296391889,81.1946838065135,"Spring",10232
+5,-84.118395,46.188029,"adult",1933,"Bonasa umbellus togata","Bonasa_umbellus",560,NA,"female",5.1,733,11.5972828583669,35.752604941577,"Spring",10384
+2,-85.5138016,43.8466606,NA,1940,"Bonasa umbellus togata","Bonasa_umbellus",560,NA,"female",6.2,840,10.6930840010983,62.6479973663052,"Winter",10421
+11,-88.2442474,46.5494166,NA,1938,"Bonasa umbellus togata","Bonasa_umbellus",560,NA,"female",4.4,1029,10.7246070776368,34.5985321994168,"Fall",10422
+5,-109.3720061,49.6562803,"not applicable",1970,"Bonasa umbellus incana","Bonasa_umbellus",560,NA,"female",1.7,406,11.515638247289,84.4158713548994,"Spring",10476
+6,-89.66084,51.75619,"adult",1979,"Bonasa umbellus togata","Bonasa_umbellus",560,NA,"male",-2.1,748,14.1049529233421,48.3433860501171,"Summer",10486
+6,-87.72961,52.24829,"not applicable",1939,"Bonasa umbellus obscura","Bonasa_umbellus",560,NA,"male",-2,684,14.3413578664834,57.1658407777492,"Summer",10512
+10,-84.7479034,44.2463154,NA,1942,"Bonasa umbellus togata","Bonasa_umbellus",561,NA,"male",6.9,744,10.3848957917767,54.974109877827,"Fall",10572
+3,-76.4091,42.3687,NA,2011,"Bonasa umbellus","Bonasa_umbellus",561,341,"female",8.9,1377,10.0593805158984,49.6060367986356,"Spring",10707
+10,-86.3479042,43.506729,NA,1959,"Bonasa umbellus","Bonasa_umbellus",561.8,NA,"male",8.1,967,11.0878687462169,49.5325020210601,"Fall",10389
+10,-82.64691,45.88393,"adult",1950,"Bonasa umbellus togata","Bonasa_umbellus",562,NA,"male",4.3,854,9.81551029871817,33.5413067484489,"Fall",10545
+10,-83.95,42.45,"immature",1968,"Bonasa umbellus monticola","Bonasa_umbellus",563,NA,"male",8.8,910,10.1598138851958,57.6429766170434,"Fall",10752
+5,-76.34281,42.35007,NA,2013,"Bonasa umbellus","Bonasa_umbellus",563.3,420,"male",7.8,1158,9.8201208102178,45.2942486152109,"Spring",10709
+10,-84.8347091,44.4840146,NA,1947,"Bonasa umbellus togata","Bonasa_umbellus",563.5,NA,"male",6.4,770,11.0701174338848,66.5678082504122,"Fall",10579
+12,-84.0833333,42.3833333,"adult",1967,"Bonasa umbellus monticola","Bonasa_umbellus",564,NA,"female",8.2,812,9.79651685162856,53.5454405207463,"Winter",10750
+9,-147.8043,64.857,"HY",1998,"Bonasa umbellus","Bonasa_umbellus",564.4,NA,"female",-1.4,307,13.7805858168129,134.590902831847,"Fall",10341
+10,-76.5095,42.4381,NA,1940,"Bonasa umbellus","Bonasa_umbellus",565,NA,"female",7.9,859,10.1830816315667,35.7147842586663,"Fall",10443
+3,-89.55261,44.2139,"u ad.",1951,"Bonasa umbellus umbellus","Bonasa_umbellus",566,NA,"female",4.6,873,11.9102705869575,49.4919116999802,"Spring",10234
+10,-84.30551,44.98558,NA,1942,"Bonasa umbellus togata","Bonasa_umbellus",566,NA,"female",6.7,796,10.3392859198947,56.0443352587435,"Fall",10364
+2,-81.18305,44.33136,"not applicable",1964,"Bonasa umbellus togata","Bonasa_umbellus",566,NA,"male",7.2,783,8.95889603588624,37.882127029177,"Winter",10489
+10,-119.35,50.2333,"u ad.",1943,"Bonasa umbellus umbelloides","Bonasa_umbellus",566.98,NA,"male",7.6,290,9.3916791024628,49.2084391627269,"Fall",10452
+11,-85.587204,42.2917404,NA,1981,"Bonasa umbellus","Bonasa_umbellus",566.99,NA,"male",9,914,10.1230609815591,61.1790491925524,"Fall",10598
+10,-75.90311,45.09638,"adult",1951,"Bonasa umbellus togata","Bonasa_umbellus",567,NA,"male",6.1,951,10.6563965710172,31.0304924349727,"Fall",10268
+11,-93.82525,48.90185,"not applicable",1933,"Bonasa umbellus incana","Bonasa_umbellus",567,NA,"male",1.6,598,14.9664979406026,47.0238123345331,"Fall",10293
+11,-80.9666634,46.4999962,"not applicable",1911,"Bonasa umbellus obscura","Bonasa_umbellus",567,NA,"[male]",4.2,680,11.8037840619785,34.1531751792844,"Fall",10307
+9,-80.4191,42.66867,"not applicable",1948,"Bonasa umbellus monticola","Bonasa_umbellus",567,NA,"male",8.5,920,10.0961138638347,36.982585658457,"Fall",10325
+10,-84.7286224,44.2697882,NA,1949,"Bonasa umbellus togata","Bonasa_umbellus",567,NA,"male",7.4,650,10.1549920549631,27.4076023715695,"Fall",10587
+10,-82.01202,45.56271,"immature",1959,"Bonasa umbellus obscura","Bonasa_umbellus",567,NA,"female",5.1,873,11.0262084474797,40.3874775362931,"Fall",10740
+2,-83.6957359,42.450948,NA,1988,"Bonasa umbellus monticola","Bonasa_umbellus",568,NA,"female",9,802,10.9876893923071,57.6522501091085,"Winter",10400
+10,-89.4657898,48.2008797,"adult",1946,"Bonasa umbellus obscura","Bonasa_umbellus",570,NA,"female",2.5,799,10.9871688249466,59.3746978117282,"Fall",10312
+10,-79.99343,43.80176,"not applicable",1961,"Bonasa umbellus togata","Bonasa_umbellus",570,NA,"male",6.5,786,10.1742209887181,35.6331197273872,"Fall",10338
+10,-84.6627045,45.4947964,NA,1939,"Bonasa umbellus togata","Bonasa_umbellus",570.8,NA,"male",6.4,768,10.592146175637,64.0746246841064,"Fall",10385
+5,-121.2667,53.2667,"u ad.",1934,"Bonasa umbellus umbelloides","Bonasa_umbellus",571.5,NA,"male",3.5,795,7.41474268541459,47.699967462015,"Spring",10245
+10,-84.8148268,44.2334834,NA,1949,"Bonasa umbellus togata","Bonasa_umbellus",572,NA,"male",7.6,662,10.1836284240337,26.2664613074149,"Fall",10382
+3,-89.55261,44.2139,"u ad.",1951,"Bonasa umbellus umbellus","Bonasa_umbellus",572,NA,"female",4.6,873,11.9102705869575,49.4919116999802,"Spring",10460
+10,-84.7286224,44.2697882,NA,1949,"Bonasa umbellus togata","Bonasa_umbellus",572,NA,"male",7.4,650,10.1549920549631,27.4076023715695,"Fall",10585
+2,-84.7544708,44.7496616,NA,1935,"Bonasa umbellus togata","Bonasa_umbellus",572.2,398,"female",6,671,10.5977270290293,50.2947789198631,"Winter",10418
+10,-84.6590137,44.2249667,"immature",1947,"Bonasa umbellus togata","Bonasa_umbellus",574,NA,"male",6.4,779,11.0434129551045,62.4313537795063,"Fall",10370
+10,-84.7479034,44.2463154,NA,1942,"Bonasa umbellus togata","Bonasa_umbellus",574,NA,"male",6.9,744,10.3848957917767,54.974109877827,"Fall",10571
+10,-85.5513041,43.0307064,NA,1986,"Bonasa umbellus umbellus","Bonasa_umbellus",574.8,NA,"male",8.6,1079,9.94129358694422,73.7803942580948,"Fall",10397
+10,-84.8423481,44.2119258,"immature",1947,"Bonasa umbellus togata","Bonasa_umbellus",575.5,NA,"male",6.6,772,11.0870795673763,64.5469107074484,"Fall",10372
+11,-76.3659658,42.343991,NA,1924,"Bonasa umbellus umbellus","Bonasa_umbellus",578,427,"male",5.8,862,9.66999420262431,65.9637899482204,"Fall",10432
+1,-83.9161671,42.3588263,NA,1993,"Bonasa umbellus","Bonasa_umbellus",579.9,NA,"male",8.4,828,10.0388450078139,50.3467240247145,"Winter",10402
+4,-79.71593,43.46917,"adult",1972,"Bonasa umbellus togata","Bonasa_umbellus",580,NA,"female",7,910,10.0805242768901,25.8640419412959,"Spring",10256
+10,-75.3602886,48.1094084,"immature",1946,"Bonasa umbellus togata X obscura","Bonasa_umbellus",580,NA,"male",0.8,955,12.5877616129415,27.4535090593971,"Fall",10313
+4,-76.4809,42.4466,NA,2002,"Bonasa umbellus","Bonasa_umbellus",580,NA,"female",9.3,948,9.28577847130664,43.0612516298835,"Spring",10437
+10,-76.401346,42.679195,NA,2011,"Bonasa umbellus","Bonasa_umbellus",580,336,"undetermined",8.9,1409,10.1909459221349,47.1421204634563,"Fall",10439
+10,-91.938519,44.872359,"immature",1954,"Bonasa umbellus togata","Bonasa_umbellus",580,NA,"male",7.3,932,11.0107488804845,77.1171906836179,"Fall",10530
+10,-84.7542297,44.2568047,NA,1946,"Bonasa umbellus togata","Bonasa_umbellus",581,NA,"male",7.2,661,9.45145090673513,34.8589869522541,"Fall",10367
+4,-82.46778,45.91631,"not applicable",1952,"Bonasa umbellus obscura","Bonasa_umbellus",581,NA,"male",5.7,710,9.72645174955202,43.0087705529656,"Spring",10549
+7,-94.98538,49.92533,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",581,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",10677
+12,-82.75594,45.72636,"not applicable",1959,"Bonasa umbellus obscura","Bonasa_umbellus",581.2,NA,"male",5.2,822,11.2825253728001,48.0705062136159,"Winter",10335
+10,-84.7286224,44.2697882,NA,1949,"Bonasa umbellus togata","Bonasa_umbellus",582,NA,"female",7.4,650,10.1549920549631,27.4076023715695,"Fall",10383
+5,-83.8291473,42.4761353,NA,1938,"Bonasa umbellus umbellus","Bonasa_umbellus",582,NA,"male",9.9,670,9.59530740739578,48.9892987941507,"Spring",10624
+3,-78.06467,46.22509,"not applicable",1948,"Bonasa umbellus togata X obscura","Bonasa_umbellus",582,NA,"male",4.2,689,12.7044104725306,36.5819707740625,"Spring",10680
+9,-147.8043,64.857,"U",1996,"Bonasa umbellus","Bonasa_umbellus",582.2,NA,"female",-3.7,295,15.2504619900215,87.5889499783543,"Fall",10349
+9,-123.6339428,40.9809127,"imm.",1949,"Bonasa umbellus sabini","Bonasa_umbellus",583,NA,"male",13.2,908,6.64780665583268,111.965086138355,"Fall",10455
+9,-84.497911,45.23572,NA,1968,"Bonasa umbellus togata","Bonasa_umbellus",583,NA,"male",6.1,675,10.7506025201127,54.8635691816032,"Fall",10599
+2,-84.4382572,45.1634608,NA,1934,"Bonasa umbellus","Bonasa_umbellus",583,NA,"male",5.5,678,11.3530499172796,56.4556291947179,"Winter",10620
+10,-83.9142609,42.4194648,NA,1954,"Bonasa umbellus monticola","Bonasa_umbellus",584,NA,"male",9.2,784,9.61921608977666,57.8702223247006,"Fall",10387
+9,-147.8043,64.857,"U",2005,"Bonasa umbellus","Bonasa_umbellus",584,NA,"female",-1.1,312,14.3955380292476,110.675682190574,"Fall",10563
+9,-115.29143,46.02538,"U-Ad.",1941,"Bonasa umbellus phaia","Bonasa_umbellus",584.4,NA,"male",9.3,846,7.67500370150932,47.8519191345838,"Fall",10640
+9,-76.5095,42.4381,NA,1938,"Bonasa umbellus","Bonasa_umbellus",587,NA,"male",9.9,785,9.4059781119469,50.7312382008264,"Fall",10203
+6,-110.7175,43.65583,NA,1978,"Bonasa umbellus incana","Bonasa_umbellus",587.3,NA,"female",2.8,559,9.29422678414679,70.8050492112095,"Summer",10423
+10,-84.8278427,44.2210917,NA,1947,"Bonasa umbellus togata","Bonasa_umbellus",588.2,NA,"male",6.6,770,11.0870795673763,64.3064180941627,"Fall",10582
+4,-84.055624,42.139573,NA,2000,"Bonasa umbellus monticola","Bonasa_umbellus",589.59,NA,"male",9.1,1018,10.2162489409882,55.4217475876004,"Spring",10407
+10,-84.6627045,45.4947964,NA,1939,"Bonasa umbellus togata","Bonasa_umbellus",590,NA,"male",6.4,768,10.592146175637,64.0746246841064,"Fall",10592
+6,-83.8093758,45.9946958,NA,1988,"Bonasa umbellus togata","Bonasa_umbellus",591,NA,"male",5.6,787,11.1060862375164,50.6958505892688,"Summer",10398
+3,-83.1338348,42.6806297,NA,1993,"Bonasa umbellus monticola","Bonasa_umbellus",591.2,NA,"female",8.9,814,10.2591274955377,53.0162953926629,"Spring",10605
+10,-84.7327423,44.2476584,NA,1948,"Bonasa umbellus togata","Bonasa_umbellus",592.5,NA,"male",6.6,625,10.7852031070632,55.038054933919,"Fall",10378
+9,-123.8083893,40.9028547,"u ad.",1942,"Bonasa umbellus sabini","Bonasa_umbellus",594.3,NA,"male",12.7,1785,4.83105484434724,105.430785533876,"Fall",10247
+6,-91.92887,50.10403,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",595,NA,"male",0.6,690,13.748377314719,41.0975349699112,"Summer",10322
+10,-73.4137344,44.5001786,"adult",1951,"Bonasa umbellus togata","Bonasa_umbellus",595,NA,"male",7.1,918,10.0402372300839,29.4389914827671,"Fall",10330
+10,-77.26753,44.61821,"not applicable",1932,"Bonasa umbellus togata","Bonasa_umbellus",595,NA,"male",6.7,818,9.77793976564624,33.6091441419346,"Fall",10504
+2,-147.3,65,NA,1953,"Bonasa umbellus yukonensis","Bonasa_umbellus",595,NA,"male",-2.1,416,14.0238433326311,104.378974962399,"Winter",10652
+2,-84.4666667,45.1666667,"adult",1934,"Bonasa umbellus","Bonasa_umbellus",596,NA,"female",5.5,680,11.3709458309724,56.7615258919753,"Winter",10694
+5,-84.539329,45.505801,NA,1934,"Bonasa umbellus","Bonasa_umbellus",597,NA,"female",6,700,11.2052341665524,59.6106103043194,"Spring",10621
+12,-147.8043,64.857,"U",2007,"Bonasa umbellus yukonensis","Bonasa_umbellus",597.1,NA,"female",-1.8,315,15.2271960649359,118.659453756455,"Winter",10345
+2,-85.3360833,43.7110833,NA,2006,"Bonasa umbellus togata","Bonasa_umbellus",597.1,NA,"male",8.5,1053,9.11167665773712,34.668556074004,"Winter",10758
+9,-147.8043,64.857,"U",2000,"Bonasa umbellus","Bonasa_umbellus",597.6,NA,"female",-1.6,285,12.314745411313,108.166813357895,"Fall",10561
+11,-76.39509,42.38263,"ad.",1926,"Bonasa umbellus umbellus","Bonasa_umbellus",598,410,"female",6.1,952,10.1580353325917,33.1215373262086,"Fall",10201
+6,-86.71792,50.18312,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",598,NA,"male",-0.7,756,13.5037003907234,45.2918593959555,"Summer",10538
+3,-84.3887446,43.9876043,NA,1927,"Bonasa umbellus togata","Bonasa_umbellus",598,NA,"male",7,682,9.38091227714635,73.7953899718732,"Spring",10619
+7,-131.3833,57.8333,"u ad.",1919,"Bonasa umbellus umbelloides","Bonasa_umbellus",599.5,NA,"male",1.2,379,10.9927352043396,49.0966307949911,"Summer",10464
+3,-83.3500023,48.6000023,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",600,NA,"male",1.2,705,12.7993607794935,40.016959684103,"Spring",10319
+10,-88.9,46.2,NA,1944,"Bonasa umbellus togata","Bonasa_umbellus",600,NA,"male",5.4,777,10.9331716543848,56.1654525311865,"Fall",10684
+2,-78.08407,44.75662,"not applicable",1947,"Bonasa umbellus togata","Bonasa_umbellus",600,NA,"male",5.1,920,11.369576629201,40.2058261728376,"Winter",10731
+12,-84.0833333,42.3833333,"adult",1967,"Bonasa umbellus monticola","Bonasa_umbellus",601,NA,"female",8.2,812,9.79651685162856,53.5454405207463,"Winter",10751
+7,-66.3915825,48.109609,"not applicable",1952,"Bonasa umbellus togata","Bonasa_umbellus",604,NA,"male",4.3,904,10.4561820194678,36.2842925914855,"Summer",10331
+10,-84.8073292,44.1789416,NA,1947,"Bonasa umbellus togata","Bonasa_umbellus",604.4,NA,"male",6.5,789,11.0921313906696,64.065959222832,"Fall",10581
+11,-78.98094,44.07722,"immature",1946,"Bonasa umbellus togata","Bonasa_umbellus",605,NA,"male",7.2,759,9.58269826617775,33.9636712757325,"Fall",10673
+10,-83.95,42.45,NA,1980,"Bonasa umbellus","Bonasa_umbellus",605,NA,"male",8,840,10.7038509071467,52.3224074004051,"Fall",10685
+11,-90.4732,49.04857,"immature",1948,"Bonasa umbellus obscura","Bonasa_umbellus",605,NA,"male",0.7,656,13.3956799911107,38.1072792564605,"Fall",10736
+7,-91.92887,50.10403,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",605.3,NA,"male",0.6,690,13.748377314719,41.0975349699112,"Summer",10540
+6,-131.1667,57.9578,"u ad.",1919,"Bonasa umbellus umbelloides","Bonasa_umbellus",605.5,NA,"male",-0.3,493,10.4450365187867,49.2878273494409,"Summer",10461
+10,-84.7479034,44.2463154,NA,1942,"Bonasa umbellus togata","Bonasa_umbellus",606,NA,"male",6.9,744,10.3848957917767,54.974109877827,"Fall",10362
+1,-84.1180229,42.1142693,NA,1989,"Bonasa umbellus monticola","Bonasa_umbellus",607,NA,"male",8.3,846,10.5425113447672,54.6270916787453,"Winter",10399
+3,-89.12322,48.43968,"not applicable",1934,"Bonasa umbellus obscura","Bonasa_umbellus",607,NA,"[male]",2,794,11.7475045706041,32.8841022599212,"Spring",10521
+11,-84.9453094,44.3007724,NA,1941,"Bonasa umbellus togata","Bonasa_umbellus",607,NA,"female",7.6,688,10.6610022838835,73.3996000686075,"Fall",10570
+10,-79.97972,43.63902,"adult",1976,"Bonasa umbellus togata","Bonasa_umbellus",607.1,NA,"male",6.1,932,10.1320673052832,33.4958975574402,"Fall",10713
+10,-84.7542297,44.2568047,NA,1946,"Bonasa umbellus togata","Bonasa_umbellus",607.7,NA,"male",7.2,661,9.45145090673513,34.8589869522541,"Fall",10369
+2,-85.6964188,42.4606361,NA,1934,"Bonasa umbellus togata","Bonasa_umbellus",608,NA,"male",9.3,715,11.3207070932389,58.649460556869,"Winter",10409
+10,-84.7542297,44.2568047,NA,1946,"Bonasa umbellus togata","Bonasa_umbellus",608,NA,"male",7.2,661,9.45145090673513,34.8589869522541,"Fall",10578
+9,-147.8043,64.857,"U",2008,"Bonasa umbellus","Bonasa_umbellus",608.5,NA,"male",-2.8,379,14.4723456246314,112.814485663953,"Fall",10564
+9,-147.8043,64.857,"U",2008,"Bonasa umbellus","Bonasa_umbellus",608.5,NA,"male",-2.8,379,14.4723456246314,112.814485663953,"Fall",10565
+2,-147.8043,64.857,"AHY",1994,"Bonasa umbellus","Bonasa_umbellus",610,NA,"male",-2.1,257,14.5716074070173,88.8043422436411,"Winter",10348
+6,-79.75435,51.14935,"adult",1982,"Bonasa umbellus umbelloides","Bonasa_umbellus",610,NA,"male",-0.8,732,13.6119265886408,45.4362182397203,"Summer",10491
+1,-81.1910248,44.1547456,"adult",1999,"Bonasa umbellus togata","Bonasa_umbellus",610,NA,"male",8.2,929,9.54910752612277,40.6668501859203,"Winter",10526
+6,-93.63727,52.84037,"not applicable",1938,"Bonasa umbellus umbelloides","Bonasa_umbellus",610,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",10717
+1,-84.194697,46.420551,NA,1955,"Bonasa umbellus togata","Bonasa_umbellus",610.4,NA,"male",5.6,675,11.5549379448395,32.5706690881303,"Winter",10594
+3,-85.8016356,43.9899044,NA,1927,"Bonasa umbellus","Bonasa_umbellus",611,445,"male",7.3,856,9.67002162261379,63.4267872046168,"Spring",10617
+3,-73.1862831,46.0800182,"not applicable",1947,"Bonasa umbellus togata","Bonasa_umbellus",612,NA,"male",5.2,991,11.91292905997,43.9901026011135,"Spring",10317
+5,-84.118395,46.188029,"adult",1933,"Bonasa umbellus togata","Bonasa_umbellus",612,NA,"male",5.1,733,11.5972828583669,35.752604941577,"Spring",10589
+6,-93.63727,52.84037,"not applicable",1938,"Bonasa umbellus obscura","Bonasa_umbellus",612,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",10663
+9,-115.36616,46.01118,"Juv.",1941,"Bonasa umbellus phaia","Bonasa_umbellus",612.9,NA,"male",5.6,1147,6.97701855227488,49.4249031611815,"Fall",10642
+6,-93.83787,48.63186,"not applicable",1929,"Bonasa umbellus togata X obscura","Bonasa_umbellus",615,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",10501
+2,-98.6166649,51.7666683,"not applicable",1933,"Bonasa umbellus umbelloides","Bonasa_umbellus",616,NA,"male",-0.6,469,16.1817424240651,43.9923814726746,"Winter",10298
+10,-84.7542297,44.2568047,NA,1941,"Bonasa umbellus togata","Bonasa_umbellus",616,NA,"male",7.7,679,10.6250240641439,69.1625617082475,"Fall",10356
+10,-85.0389709,46.6510859,NA,2006,"Bonasa umbellus togata","Bonasa_umbellus",617.5,NA,"male",6.7,694,8.6596722941705,47.9708471633,"Fall",10610
+9,-115.36616,46.01118,"U-Ad.",1941,"Bonasa umbellus phaia","Bonasa_umbellus",617.5,NA,"male",5.6,1147,6.97701855227488,49.4249031611815,"Fall",10641
+4,-83.7666667,42.3166667,NA,1982,"Bonasa umbellus","Bonasa_umbellus",618,NA,"female",8.8,883,10.6314142848903,51.3632627346454,"Spring",10686
+12,-83.95,42.45,NA,1949,"Bonasa umbellus","Bonasa_umbellus",618,NA,"male",10,807,9.8279749139429,23.946603124971,"Winter",10749
+3,-79.44822,44.05233,"not applicable",1970,"Bonasa umbellus togata","Bonasa_umbellus",618.5,445,"undetermined",6.6,744,11.1015252842285,35.300349590198,"Spring",10249
+6,-89.66084,51.75619,"adult",1979,"Bonasa umbellus togata","Bonasa_umbellus",620,NA,"male",-2.1,748,14.1049529233421,48.3433860501171,"Summer",10267
+10,-75.3602886,48.1094084,"immature",1946,"Bonasa umbellus togata X umbelloides","Bonasa_umbellus",620,NA,"male",0.8,955,12.5877616129415,27.4535090593971,"Fall",10314
+10,-84.7542297,44.2568047,NA,1941,"Bonasa umbellus togata","Bonasa_umbellus",620,NA,"male",7.7,679,10.6250240641439,69.1625617082475,"Fall",10355
+9,-123.6339428,40.9809127,"ad.",1949,"Bonasa umbellus sabini","Bonasa_umbellus",620,NA,"male",13.2,908,6.64780665583268,111.965086138355,"Fall",10454
+1,-76.170331,43.018832,NA,2001,"Bonasa umbellus","Bonasa_umbellus",620,365,"undetermined",9.4,895,9.52087021742076,42.3172131238488,"Winter",10710
+11,-78.06467,46.22509,"immature",1947,"Bonasa umbellus togata","Bonasa_umbellus",620,NA,"female",3.9,873,12.7948468556918,36.1123632176086,"Fall",10735
+6,-91.92887,50.10403,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",621,NA,"male",0.6,690,13.748377314719,41.0975349699112,"Summer",10323
+1,-77.8673,45.13934,"immature",1951,"Bonasa umbellus togata","Bonasa_umbellus",622,NA,"male",4.6,951,10.2305358430712,20.5666269284545,"Winter",10659
+12,-83.9166667,42.6166667,NA,1991,"Bonasa umbellus monticola","Bonasa_umbellus",622.5,NA,"male",9.7,785,10.0628441970118,40.5319267778371,"Winter",10757
+12,-76.548123,42.408308,NA,1997,"Bonasa umbellus","Bonasa_umbellus",622.900024414062,402,"male",8.3,727,8.95674792172546,39.568763693001,"Winter",10435
+1,-76.5095,42.4381,NA,1940,"Bonasa umbellus umbellus","Bonasa_umbellus",623,NA,"female",7.9,859,10.1830816315667,35.7147842586663,"Winter",10441
+10,-119.35,50.2333,"u ad.",1942,"Bonasa umbellus umbelloides","Bonasa_umbellus",623.68,NA,"male",8.7,345,8.36924383825937,63.3053841340288,"Fall",10228
+6,-131.1667,57.9578,"u ad.",1919,"Bonasa umbellus umbelloides","Bonasa_umbellus",624,NA,"male",-0.3,493,10.4450365187867,49.2878273494409,"Summer",10236
+12,-79.372484,43.808488,"not applicable",1957,"Bonasa umbellus togata","Bonasa_umbellus",624,NA,"female",7.7,794,9.56084185465365,36.7972312826561,"Winter",10327
+4,-83.7661023,42.3977211,NA,1946,"Bonasa umbellus umbellus","Bonasa_umbellus",624,NA,"female",9.8,621,8.94418297503518,46.5712048012488,"Spring",10366
+10,-84.8148268,44.2334834,NA,1949,"Bonasa umbellus togata","Bonasa_umbellus",624,NA,"female",7.6,662,10.1836284240337,26.2664613074149,"Fall",10586
+10,-76.590549,42.362595,NA,1925,"Bonasa umbellus umbellus","Bonasa_umbellus",624,NA,"male",7.7,881,9.59218431849597,33.2465687716252,"Fall",10699
+11,-76.65966,42.54401,NA,1996,"Bonasa umbellus","Bonasa_umbellus",624,NA,NA,7.9,1158,10.2120249972987,34.8948877198549,"Fall",10701
+10,-144.4369444444,61.5158333333,"u ad.",1955,"Bonasa umbellus umbelloides x Bonasa umbellus yukonensis","Bonasa_umbellus",624.5,NA,"male",-1.8,267,13.1361056910818,77.896531409694,"Fall",10233
+10,-76.655259,42.276659,NA,1953,"Bonasa umbellus","Bonasa_umbellus",625,NA,"male",9,867,8.52914788454062,36.6418370422818,"Fall",10208
+10,-84.30551,44.98558,NA,1942,"Bonasa umbellus togata","Bonasa_umbellus",625,NA,"male",6.7,796,10.3392859198947,56.0443352587435,"Fall",10363
+12,-147.8043,64.857,"U",1990,"Bonasa umbellus","Bonasa_umbellus",625,NA,"female",-2.5,501,16.6588292178379,105.82936249707,"Winter",10569
+10,-79.95808,43.26948,"immature",1991,"Bonasa umbellus togata","Bonasa_umbellus",625.4,NA,"male",9.9,791,9.86648366947415,41.1440732059042,"Fall",10301
+10,-148,65,NA,1951,"Bonasa umbellus yukonensis","Bonasa_umbellus",625.9,NA,"undetermined",-3.2,337,14.6593955805783,72.6183867168431,"Fall",10651
+4,-76.52639,42.466149,NA,2012,"Bonasa umbellus","Bonasa_umbellus",627,NA,"male",10.8,962,8.71226930045418,35.9004548494108,"Spring",10215
+10,-80.03594,44.1686,"adult",1976,"Bonasa umbellus togata","Bonasa_umbellus",627,NA,"male",5.5,920,10.3601033983374,22.0494511405165,"Fall",10265
+12,-87.33602,50.23314,"not applicable",1937,"Bonasa umbellus togata X umbelloides","Bonasa_umbellus",628,NA,"male",-0.6,757,14.0150568383371,37.7038775740357,"Winter",10761
+2,-98.6166649,51.7666683,"not applicable",1933,"Bonasa umbellus umbelloides","Bonasa_umbellus",629,NA,"male",-0.6,469,16.1817424240651,43.9923814726746,"Winter",10297
+1,-77.40565,43.97466,"not applicable",1939,"Bonasa umbellus togata","Bonasa_umbellus",630,NA,"male",7.2,693,10.7949342777344,43.9811035733252,"Winter",10507
+2,-84.70721,44.938521,NA,2009,"Bonasa umbellus togata","Bonasa_umbellus",630.6,NA,"male",6.3,964,10.1223724611587,60.5318031855124,"Winter",10411
+10,-84.7542297,44.2568047,NA,1941,"Bonasa umbellus togata","Bonasa_umbellus",631,NA,"male",7.7,679,10.6250240641439,69.1625617082475,"Fall",10354
+7,-93.63727,52.84037,"not applicable",1938,"Bonasa umbellus obscura","Bonasa_umbellus",633,NA,"male",0,617,13.8670636598183,60.9325865622278,"Summer",10665
+6,-127.6667,55.25,"u ad.",1921,"Bonasa umbellus umbelloides","Bonasa_umbellus",635.4,NA,"male",4.1,528,9.01276871998833,42.8930178884019,"Summer",10465
+11,-76.9324493,44.7372228,"not applicable",1932,"Bonasa umbellus togata","Bonasa_umbellus",637.9,NA,"male",6.6,812,9.90798193683285,31.2421363292421,"Fall",10506
+12,-83.10541,45.8881,"immature",1959,"Bonasa umbellus obscura","Bonasa_umbellus",637.9,NA,"female",5,849,11.2928342793386,45.8602249693502,"Winter",10556
+11,-75.804489,41.8210808,NA,1992,"Bonasa umbellus umbellus","Bonasa_umbellus",638,NA,"female",7.1,1092,8.85264469985203,40.9753628452396,"Fall",10449
+10,-81.72329,47.67823,"adult",1963,"Bonasa umbellus umbelloides","Bonasa_umbellus",639,NA,"male",1.3,657,13.2613901871927,43.9056103706207,"Fall",10269
+10,-84.9034595,44.2836765,NA,1942,"Bonasa umbellus togata","Bonasa_umbellus",639,NA,"male",7,740,10.4426681543472,58.0635793044961,"Fall",10358
+12,-84.0692609,42.4769786,NA,1938,"Bonasa umbellus umbellus","Bonasa_umbellus",640,NA,"male",9.9,705,9.59221590982011,51.3908305660733,"Winter",10626
+10,-85.11306,45.56722,NA,1989,"Bonasa umbellus togata","Bonasa_umbellus",640.7,NA,"male",5.8,623,10.726983817373,50.2013160739512,"Fall",10606
+7,-94.98538,49.92533,"not applicable",1947,"Bonasa umbellus obscura","Bonasa_umbellus",641.3,NA,"male",1.5,627,13.7663181407199,61.9181824825118,"Summer",10676
+10,-84.6627045,45.4947964,NA,1939,"Bonasa umbellus togata","Bonasa_umbellus",641.4,NA,"male",6.4,768,10.592146175637,64.0746246841064,"Fall",10593
+4,-76.4506,42.4801,"ad.",2006,"Bonasa umbellus","Bonasa_umbellus",643.1,350,"male",9.4,1142,8.56615521406863,50.8288018785992,"Spring",10212
+2,-77.41055,43.93656,"not applicable",1938,"Bonasa umbellus togata","Bonasa_umbellus",644,NA,"male",8.1,732,10.0114933950935,41.4783844647613,"Winter",10276
+3,-76.655259,42.276659,NA,1937,"Bonasa umbellus umbellus","Bonasa_umbellus",646,NA,"male",7.6,1194,9.74481991375496,46.9260740090129,"Spring",10200
+4,-84.0266507,42.3401998,NA,2011,"Bonasa umbellus","Bonasa_umbellus",646.9,NA,"male",9.8,1049,10.5296119241275,44.8424923936099,"Spring",10612
+10,-93.39527,48.61135,"not applicable",1933,"Bonasa umbellus togata","Bonasa_umbellus",647,NA,"female",1.6,654,14.8608903032779,58.1737854083707,"Fall",10517
+10,-94.4592450251,47.6319567211,NA,2012,"Bonasa umbellus","Bonasa_umbellus",647.8,NA,"male",5.8,560,10.862986223731,58.8994957391161,"Fall",10426
+10,-79.22591,43.84546,"not applicable",1957,"Bonasa umbellus togata","Bonasa_umbellus",650,NA,"male",7.7,812,9.57716270377326,36.6073572836483,"Fall",10326
+1,-147.8043,64.857,"HY",2001,"Bonasa umbellus","Bonasa_umbellus",650,NA,"female",-1.4,226,13.1652060946706,120.843969687023,"Winter",10560
+9,-86.37416,38.45493,"U-Ad.",1988,"Bonasa umbellus","Bonasa_umbellus",650,NA,"male",12.2,1015,9.80625959643774,51.0652711102733,"Fall",10649
+11,-94.9333333,46.5833333,NA,1970,"Bonasa umbellus incana x togata","Bonasa_umbellus",650.8,463,NA,4,599,13.8845455835114,81.7805774230514,"Fall",10691
+10,-93.39527,48.61135,"not applicable",1932,"Bonasa umbellus togata X obscura","Bonasa_umbellus",652,NA,"male",2.4,601,13.7096156257592,57.3624175380345,"Fall",10505
+10,-73.4179153,44.4858799,"adult",1951,"Bonasa umbellus togata","Bonasa_umbellus",652,NA,"male",7.4,889,10.0938737796144,29.6597773120864,"Fall",10548
+10,-81.930542,45.5409842,"not applicable",1959,"Bonasa umbellus obscura","Bonasa_umbellus",652,NA,"male",5.1,876,10.987885891455,39.4827472664083,"Fall",10557
+11,-80.9666634,46.4999962,"not applicable",1911,"Bonasa umbellus togata X obscura","Bonasa_umbellus",652,NA,"male",4.2,680,11.8037840619785,34.1531751792844,"Fall",10633
+10,-82.01202,45.56271,"not applicable",1959,"Bonasa umbellus obscura","Bonasa_umbellus",652,NA,"male",5.1,873,11.0262084474797,40.3874775362931,"Fall",10681
+10,-71.07423,43.03341,"Ad.",1934,"Bonasa umbellus togata","Bonasa_umbellus",652,NA,"male",8,995,10.553367263867,46.2630304276162,"Fall",10696
+10,-119.35,50.2333,"u ad.",1942,"Bonasa umbellus umbelloides","Bonasa_umbellus",652.03,NA,"male",8.7,345,8.36924383825937,63.3053841340288,"Fall",10451
+4,-85.5166667,46.35,NA,1991,"Bonasa umbellus","Bonasa_umbellus",652.2,NA,"male",5.8,805,10.5335071427931,51.6435491053847,"Spring",10756
+11,-71.54859,43.46083,"adult",1998,"Bonasa umbellus","Bonasa_umbellus",652.5,NA,"male",8.7,1106,8.77552985536624,49.321951758004,"Fall",10650
+10,-88.73658,45.7257403,"adult",1967,"Bonasa umbellus umbellus","Bonasa_umbellus",653,NA,"male",3.6,803,10.8323589305377,62.7369974688385,"Fall",10448
+9,-79.7439194,40.5028358,"adult",1981,"Bonasa umbellus monticola","Bonasa_umbellus",654,NA,"male",9.6,1016,9.57225710376639,48.4780397705635,"Fall",10396
+5,-76.4091,42.3687,NA,2008,"Bonasa umbellus","Bonasa_umbellus",654.3,435,"male",8,1099,9.46451106486593,38.6152494567699,"Spring",10706
+6,-93.83787,48.63186,"not applicable",1929,"Bonasa umbellus togata X obscura","Bonasa_umbellus",655,NA,"male",1.8,428,14.3487381981409,51.6416404531459,"Summer",10278
+10,-82.65233,45.92524,"adult",1950,"Bonasa umbellus togata","Bonasa_umbellus",656,NA,"male",4.2,855,9.83630797329234,33.5410300902631,"Fall",10328
+1,-77.38661,44.00254,"not applicable",1937,"Bonasa umbellus togata","Bonasa_umbellus",656,NA,"male",7.7,845,10.0668184315271,37.1481121858402,"Winter",10499
+10,-93.83787,48.63186,"not applicable",1933,"Bonasa umbellus togata","Bonasa_umbellus",658,NA,"male",1.9,610,14.7738610287551,51.3135824031888,"Fall",10513
+4,-147.8043,64.857,"AHY",2012,"Bonasa umbellus","Bonasa_umbellus",660,NA,"male",-2.5,295,15.6269653309446,58.5024616331023,"Spring",10567
+1,-147.8043,64.857,"U",1997,"Bonasa umbellus yukonensis","Bonasa_umbellus",660,NA,"male",-1.3,187,14.6991960200673,97.0828472046794,"Winter",10568
+12,-76.38483,44.26586,"not applicable",1938,"Bonasa umbellus togata","Bonasa_umbellus",660,NA,"female",7.6,776,10.1819916787166,37.2614977125158,"Winter",10666
+3,-83.8335264,42.4634704,NA,1989,"Bonasa umbellus monticola","Bonasa_umbellus",661,NA,"male",8.1,823,10.5507288273313,48.0575837766745,"Spring",10401
+9,-115.36616,46.01118,"U-Ad.",1941,"Bonasa umbellus phaia","Bonasa_umbellus",666,NA,"male",5.6,1147,6.97701855227488,49.4249031611815,"Fall",10644
+10,-124.9333,49.6833,"u ad.",1923,"Bonasa umbellus brunnescens","Bonasa_umbellus",666.2,NA,"male",9.1,1112,6.08308011096054,75.3505998539736,"Fall",10453
+10,-87.7096,46.2684,"immature",1944,"Bonasa umbellus togata X obscura","Bonasa_umbellus",666.2,NA,"male",5.5,815,10.6650093409441,57.1952636419263,"Fall",10533
+12,-82.75594,45.72636,"immature",1959,"Bonasa umbellus obscura","Bonasa_umbellus",666.2,NA,"female",5.2,822,11.2825253728001,48.0705062136159,"Winter",10553
+2,-80.2639,43.70308,"adult",1975,"Bonasa umbellus togata","Bonasa_umbellus",666.2,NA,"male",6.6,955,9.95128665352406,26.81437943603,"Winter",10712
+12,-84.0833333,42.3833333,"adult",1967,"Bonasa umbellus monticola","Bonasa_umbellus",667,NA,"male",8.2,812,9.79651685162856,53.5454405207463,"Winter",10687
+12,-76.38849,42.42766,NA,2011,"Bonasa umbellus","Bonasa_umbellus",668.2,369,"male",9.1,1345,10.0679960992516,49.8708326942494,"Winter",10438
+11,-123.250567,49.263456,NA,1974,"Bonasa umbellus","Bonasa_umbellus",668.5,NA,"male",10.1,1329,5.07998896443564,69.5308896208058,"Fall",10741
+7,-76.305864,42.463231,NA,1996,"Bonasa umbellus","Bonasa_umbellus",669.400024414062,NA,"male",6.6,1280,10.2609106749249,31.4798366202298,"Summer",10655
+1,-84.29993,48.60005,"immature",1948,"Bonasa umbellus obscura","Bonasa_umbellus",670,NA,"[male]",1.5,738,12.56940429147,49.613483910219,"Winter",10543
+10,-84.7090053,44.2573829,NA,1948,"Bonasa umbellus togata","Bonasa_umbellus",670.1,NA,"male",6.5,623,10.793779774397,54.0104397297183,"Fall",10380
+10,-84.4073581,45.199881,NA,1938,"Bonasa umbellus togata","Bonasa_umbellus",672,NA,"male",6.6,923,10.2560255755366,36.2893646384025,"Fall",10625
+3,-89.12322,48.43968,"not applicable",1933,"Bonasa umbellus togata X obscura","Bonasa_umbellus",674,NA,"male",2,675,12.5315934075972,39.7319864300379,"Spring",10299
+9,-115.3661642,46.011183,"adult",1941,"Bonasa umbellus phaia","Bonasa_umbellus",675,NA,"male",5.6,1147,6.97701855227488,49.4249031611815,"Fall",10532
+11,-99.5985317,49.6357309,"not applicable",1935,"Bonasa umbellus umbelloides","Bonasa_umbellus",677,NA,"male",1.6,598,13.9043785342691,100.399203184089,"Fall",10522
+10,-119.35,50.05,"adult",1921,"Bonasa umbellus umbelloides","Bonasa_umbellus",680,NA,"male",4.3,466,8.10280067556143,52.6091953690669,"Fall",10743
+11,-124.9333,49.6833,"u ad.",1939,"Bonasa umbellus brunnescens","Bonasa_umbellus",680.39,NA,"male",9.5,1340,4.90080389200372,99.1301465720063,"Fall",10246
+3,-85.0139542,45.2167091,NA,2003,"Bonasa umbellus togata","Bonasa_umbellus",680.4,NA,"male",7.5,845,10.3747070057205,47.3524073440059,"Spring",10608
+10,-84.8416615,44.1684148,NA,1947,"Bonasa umbellus togata","Bonasa_umbellus",681.2,NA,"male",6.6,789,11.0921313906696,64.2498951229127,"Fall",10373
+10,-88.7060165,46.4421155,"adult",1934,"Bonasa umbellus togata","Bonasa_umbellus",685,NA,"male",3.9,758,12.1788440512325,62.6547693506923,"Fall",10408
+12,-80.41397,37.22953,"U-Ad.",1938,"Bonasa umbellus monticola","Bonasa_umbellus",690.9,NA,"m?",12.3,914,7.48009479764917,53.6646116869095,"Winter",10647
+1,-68.4900419,46.4186546,NA,1989,"Bonasa umbellus","Bonasa_umbellus",694,173,"male",3.3,896,12.5033086530217,49.7435153939454,"Winter",10224
+10,-76.439261,42.45476,"ad.",1938,"Bonasa umbellus","Bonasa_umbellus",694.900024414062,NA,"male",8.9,840,9.46556758451228,50.778722553772,"Fall",10654
+12,-80.08686,44.41744,"immature",1945,"Bonasa umbellus togata","Bonasa_umbellus",697,NA,"male",5.9,892,10.2233244904172,25.4285643252617,"Winter",10531
+2,-147.8043,64.857,"AHY",2012,"Bonasa umbellus yukonensis","Bonasa_umbellus",700,NA,"male",-2.5,295,15.6269653309446,58.5024616331023,"Winter",10344
+10,-84.757263,45.572948,NA,1989,"Bonasa umbellus","Bonasa_umbellus",707.5,NA,"male",4.9,729,11.0935143487562,52.4317480108842,"Fall",10604
+4,-76.410842,42.407817,NA,2000,"Bonasa umbellus","Bonasa_umbellus",708,NA,"male",7.6,1026,9.49348660286556,40.308764700876,"Spring",10702
+11,-99.5985317,49.6357309,"not applicable",1935,"Bonasa umbellus umbelloides","Bonasa_umbellus",714,NA,"male",1.6,598,13.9043785342691,100.399203184089,"Fall",10523
+1,-148.0094,64.847,"AHY",2002,"Bonasa umbellus","Bonasa_umbellus",720,NA,"female",-0.4,336,11.6241487143504,119.777026081099,"Winter",10562
+12,-75.62881,44.98365,"immature",1950,"Bonasa umbellus togata","Bonasa_umbellus",722.9,NA,"male",5.9,894,10.6183802907976,36.3496004984286,"Winter",10487
+10,-147.8043,64.857,"AD",2005,"Bonasa umbellus","Bonasa_umbellus",725,NA,"male",-1.1,312,14.3955380292476,110.675682190574,"Fall",10342
+12,-123.9230347,48.3945616,"not applicable",1970,"Bonasa umbellus brunnescens","Bonasa_umbellus",738,NA,"male",8.7,1632,4.06659525521006,79.502839603662,"Winter",10252
+5,-81.79982,51.56674,"adult",1968,"Bonasa umbellus umbelloides","Bonasa_umbellus",747,NA,"female",-0.1,805,13.2338638165561,73.7561140334677,"Spring",10490
+11,-147.8043,64.857,"U",2012,"Bonasa umbellus","Bonasa_umbellus",750,NA,"undetermined",-2.5,295,15.6269653309446,58.5024616331023,"Fall",10566
+12,-83.10541,45.8881,"not applicable",1959,"Bonasa umbellus obscura","Bonasa_umbellus",751.2,NA,"male",5,849,11.2928342793386,45.8602249693502,"Winter",10558
+2,-84.2666667,36.95,NA,1950,"Bonasa umbellus monticola","Bonasa_umbellus",811,NA,"male",12.6,1444,8.20060973342836,56.3630252880207,"Winter",10745
+10,-76.655259,42.276659,NA,1998,"Bonasa umbellus","Bonasa_umbellus",906.5,NA,"male",9.1,1035,8.29192743613092,44.3926680901337,"Fall",10436
+10,-84.741127,44.182465,NA,1948,"Bonasa umbellus togata","Bonasa_umbellus",942.3,NA,"female",6.6,639,10.8345407252579,56.8342809907738,"Fall",10377

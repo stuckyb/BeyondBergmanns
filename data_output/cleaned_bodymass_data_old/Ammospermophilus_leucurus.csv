@@ -1,0 +1,319 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+5,-117.7950916,36.769601,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",23,141,NA,20.9,66,8.78050526605803,107.565086965448,"Spring",3920
+5,-116.31306,36.63278,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",28.2,160,"male",16.5,55,8.9997811421201,112.972274412244,"Spring",4170
+6,-116.232092,36.730781,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",37.5,157,"female",16,189,8.93903170812073,133.539629424591,"Summer",4131
+5,-116.31306,36.63278,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",43,190,"male",16.5,55,8.9997811421201,112.972274412244,"Spring",4171
+6,-111.59516,36.86749,NA,1982,"Ammospermophilus leucurus cinnamomeus","Ammospermophilus_leucurus",47,176,"male",14.6,234,9.65255108374167,66.336186470402,"Summer",3947
+5,-117.08,35.99,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",49,190,"female",12.5,335,8.27773117063687,122.41707260441,"Spring",4038
+7,-118.4725,40.17944,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",51.7,123,"undetermined",9.7,126,8.39849824238076,78.6900341539641,"Summer",3899
+6,-112.7411,36.8597,NA,2002,"Ammospermophilus leucurus","Ammospermophilus_leucurus",53,190,"male",13.3,161,8.8996765348097,111.978354679027,"Summer",4134
+6,-116.232092,36.730781,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",55.5,185,"female",16,189,8.93903170812073,133.539629424591,"Summer",4120
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",56,181,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",3955
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",57,186,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",3854
+7,-114.79306,36.03556,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",57.1,198,"female",20.5,102,9.0602863022527,93.6527871452596,"Summer",3997
+8,-117.68,35.43,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",60,206,"male",17.5,68,8.12687274454698,151.294059580699,"Summer",4106
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",60,182,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4139
+7,-113.07667,36.21889,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",61.4,186,"female",13.9,202,9.41809991774381,93.1755704134789,"Summer",4159
+9,-116.095869,36.798842,"adult",2009,"Ammospermophilus leucurus","Ammospermophilus_leucurus",62,183,"female",16.3,106,8.75343655458538,165.265850931855,"Fall",3846
+9,-117.24976,38.50262,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",63,183,"female",9.8,193,8.96796909545131,70.467013933588,"Fall",4063
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",64,200,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",3883
+7,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",64,207,"male",17.7,175,7.5312832420994,144.413753141711,"Summer",4096
+4,-118.00818,37.41428,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",65,191,"female",11,109,8.6451072166792,76.2824200900682,"Spring",3860
+7,-115.98306,36.20833,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",66.05,138,"undetermined",16.2,47,9.08443557393467,119.65860528262,"Summer",3895
+8,-114.83167,35.97861,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",66.4,199,"male",18.5,46,9.45843779144027,73.8548945875996,"Summer",3911
+5,-108.170351,38.728318,NA,1980,"Ammospermophilus leucurus pennipes","Ammospermophilus_leucurus",66.5,172,"male",11.5,254,8.73617956164669,56.8656400021715,"Spring",3841
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",67,188,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",3853
+12,-118.15,34.76,NA,1975,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",67,190,"female",16,85,8.02644775952374,121.910162065871,"Winter",4100
+6,-115.8987345,35.7688924,NA,1975,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",68,185,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",3825
+8,-116.31306,36.63278,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",68,197,"female",17,87,8.44548920304726,168.057360635993,"Summer",3939
+5,-114.7167,33.1667,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",68,197,"male",22.5,125,8.00205939402193,124.528375736763,"Spring",4010
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",69,190,"female",17,179,8.37229829783189,151.542848342356,"Fall",4122
+8,-116.26361,37.1609,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",69.1,195,"male",11,235,8.07778472482438,130.541550249004,"Summer",3919
+5,-114.7167,33.1667,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",69.7,189,"male",22.5,125,8.00205939402193,124.528375736763,"Spring",4044
+6,-111.59516,36.86749,NA,1982,"Ammospermophilus leucurus cinnamomeus","Ammospermophilus_leucurus",70,197,"male",14.6,234,9.65255108374167,66.336186470402,"Summer",3945
+7,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",70,210,"male",17.7,175,7.5312832420994,144.413753141711,"Summer",4097
+4,-118.12305,36.59187,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",71,201,"female",15.4,125,7.86354746840628,161.131273416203,"Spring",3858
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",71,204,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4011
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",71,203,"male",9.8,191,8.97312485686952,71.0113627271272,"Fall",4061
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",71,190,"male",17.7,175,7.5312832420994,144.413753141711,"Winter",4117
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",71,193,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4128
+6,-115.9311,35.7836,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",71.5,203,"female",14.4,186,8.42469314250997,110.012124593151,"Summer",4169
+8,-116.26361,37.1609,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",72,197,"female",11,235,8.07778472482438,130.541550249004,"Summer",3827
+9,-116.191694,37.117293,"adult",2009,"Ammospermophilus leucurus","Ammospermophilus_leucurus",72,194,"male",12,140,8.33475290939126,130.795748566217,"Fall",3847
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",72,187,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",3953
+9,-117.95,37.39,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",72,202,"female",10.8,212,8.10437124848889,128.382579810991,"Fall",4024
+8,-117.68,35.43,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",72,200,"male",17.5,68,8.12687274454698,151.294059580699,"Summer",4114
+12,-118.15,34.76,NA,1975,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",72,198,"female",16,85,8.02644775952374,121.910162065871,"Winter",4118
+7,-116.38511,36.77658,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",72.4,187,"male",16.2,101,8.42436491626664,166.834153723491,"Summer",3807
+6,-116.9959362,36.0834642,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",72.6,182,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",3820
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",73,197,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",3851
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",73,NA,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",3852
+9,-118.22488,37.40205,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",73,190,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",3956
+8,-117.68,35.43,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",73,192,"male",17.5,68,8.12687274454698,151.294059580699,"Summer",4026
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",73,200,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4039
+12,-109.866667,23.433333,NA,1973,"Ammospermophilus leucurus","Ammospermophilus_leucurus",73,218,"male",18.5,358,4.15702217137861,180.395082910629,"Winter",4081
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",73,199,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4103
+9,-117.24976,38.50262,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",73,202,"male",9.8,193,8.96796909545131,70.467013933588,"Fall",4142
+10,-117.9925457,36.555903,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",73.7,188,"female",15.1,78,7.8837529518663,151.601032612349,"Fall",3805
+7,-116.20961,36.81646,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",73.7,190,"female",15.2,137,8.30426597197689,143.2206681987,"Summer",3808
+6,-106.712233,35.13656,NA,2002,"Ammospermophilus leucurus","Ammospermophilus_leucurus",74,195,"female",13.7,193,8.96600904426368,97.9315732338384,"Summer",3844
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",74,197,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",3849
+4,-118.12305,36.59187,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",74,201,"female",15.4,125,7.86354746840628,161.131273416203,"Spring",3857
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",74,200,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3892
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",74,200,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4022
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",74,196,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4054
+9,-117.24976,38.50262,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",74,NA,"male",9.8,193,8.96796909545131,70.467013933588,"Fall",4062
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",74,182,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4119
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",74,198,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4132
+6,-116.9959362,36.0834642,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",74.2,184,"female",16.2,122,8.50883230959027,128.166568467282,"Summer",3934
+8,-117.79,34.52,NA,1988,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",74.5,210,"male",15.9,154,6.99850092173425,114.658081792194,"Summer",4113
+7,-116.38961,36.80196,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",74.6,192,"male",16.1,106,8.44037913840368,160.214285712895,"Summer",3830
+7,-114.79306,36.03556,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",75,214,"female",20.5,102,9.0602863022527,93.6527871452596,"Summer",3905
+11,-118.2040587,34.8311313,NA,1975,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",75,190,"female",16,88,7.96604536692321,123.801542552555,"Fall",3932
+9,-116.095869,36.798842,"adult",2009,"Ammospermophilus leucurus","Ammospermophilus_leucurus",75,194,"male",16.3,106,8.75343655458538,165.265850931855,"Fall",3948
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",75,190,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4043
+7,-116.17361,36.82734,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",75.9,210,"female",14.3,148,8.16256699819364,139.846354131954,"Summer",3809
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",76,204,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",3850
+9,-118.22488,37.40205,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",76,201,"male",7.8,250,7.82069903099035,131.991404678831,"Fall",3855
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",76,200,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",3885
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",76,178,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",3887
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",76,193,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3893
+8,-119.97,41.4,NA,1977,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",76,215,"female",8.6,324,8.30158801894937,94.5921423814811,"Summer",4003
+8,-117.78,34.52,NA,1988,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",76,217,"female",15.9,154,6.98504896839736,114.301815849214,"Summer",4023
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",76,199,"female",17,179,8.37229829783189,151.542848342356,"Fall",4034
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",76,195,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4064
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",77,185,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3992
+8,-118.05,37.3,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",77,186,"male",12.3,173,7.95412509711823,130.229120937805,"Summer",4032
+12,-117.65,35.48,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",77.5,195,"female",17.8,107,7.59012017312139,133.97008687172,"Winter",4040
+10,-117.9925457,36.555903,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",77.8,181,"female",15.1,78,7.8837529518663,151.601032612349,"Fall",3914
+8,-118.09311,36.95677,NA,2005,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",78,196,"female",7,440,6.61025374289479,101.031495552924,"Summer",4050
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",78,200,"male",9.8,191,8.97312485686952,71.0113627271272,"Fall",4057
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",78,192,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4059
+1,-109.883333,22.968392,NA,1974,"Ammospermophilus leucurus","Ammospermophilus_leucurus",78,198,"male",22.4,248,4.12508953070884,112.406239933408,"Winter",4083
+7,-116.20961,37.04488,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",78.5,202,"female",12.5,316,8.61012441398162,131.740693259879,"Summer",3817
+4,-115.89834,35.77614,NA,2010,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",79,199,"male",15.6,251,8.14640188281695,133.093318322844,"Spring",3862
+4,-118.00818,37.41428,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",79,211,"female",11,109,8.6451072166792,76.2824200900682,"Spring",3960
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",79,211,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3991
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",79,203,"male",9.8,191,8.97312485686952,71.0113627271272,"Fall",4053
+12,-109.866667,23.433333,NA,1973,"Ammospermophilus leucurus","Ammospermophilus_leucurus",79,226,"female",18.5,358,4.15702217137861,180.395082910629,"Winter",4080
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",79,208,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4121
+9,-117.24976,38.50262,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",79,201,"male",9.8,193,8.96796909545131,70.467013933588,"Fall",4143
+7,-116.11511,36.82372,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",80,208,"male",15.1,143,8.32526275861609,135.7102051816,"Summer",3838
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",80,210,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",3891
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",80,205,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",3983
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",80,210,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3986
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",80,209,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3987
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",80,178,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3988
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",80,194,"male",9.8,191,8.97312485686952,71.0113627271272,"Fall",4060
+9,-120.26,40.23,NA,1977,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",80,208,"female",10.4,221,7.82414193184767,112.392546215044,"Fall",4092
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",80,192,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4141
+7,-116.22761,36.75845,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",80.1,212,"male",15.4,129,8.26485806217377,149.857887225319,"Summer",3929
+9,-116.53361,37.32043,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",80.5,198,"male",11.1,352,8.93116351984342,125.332078287025,"Fall",3835
+11,-114.81383,36.05113,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",80.6,207,"female",20.6,105,9.03739705084077,99.2609996099237,"Fall",3909
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",81,205,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3888
+7,-116.06561,36.84547,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",81,203,"male",15.3,124,8.37885144367362,128.632075739649,"Summer",3933
+1,-117.88,35.37,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",81,218,"male",18.1,165,8.87739724345947,180.481033507812,"Winter",4013
+8,-117.79,34.52,NA,1988,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",81,210,"female",15.9,154,6.99850092173425,114.658081792194,"Summer",4014
+1,-109.883333,22.968392,NA,1974,"Ammospermophilus leucurus","Ammospermophilus_leucurus",81,206,"male",22.4,248,4.12508953070884,112.406239933408,"Winter",4082
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",81,205,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4108
+10,-117.9925457,36.555903,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",81.7,211,"male",15.1,78,7.8837529518663,151.601032612349,"Fall",3803
+7,-114.79598,36.06564,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",81.8,209,"female",20.6,109,9.07141698196076,100.289588206501,"Summer",3998
+7,-117.9376234,36.970074,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",82,191,"male",12.3,189,7.89592817964942,115.611340876156,"Summer",3801
+6,-115.8987345,35.7688924,NA,1975,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",82,207,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",3812
+4,-116.1930488,35.8025181,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",82,191,"female",19.6,67,9.56988648170537,137.775754062245,"Spring",3935
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",82,184,"male",17,179,8.37229829783189,151.542848342356,"Fall",4035
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",82,198,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4123
+8,-118.09311,36.95677,NA,2005,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",82,194,"male",7,440,6.61025374289479,101.031495552924,"Summer",4136
+8,-116.27261,37.1319,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",82.5,206,"female",11.7,324,8.6973480806717,130.286933814689,"Summer",3816
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",83,205,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3890
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",83,215,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3981
+9,-120.26,40.23,NA,1977,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",83,206,"female",10.4,221,7.82414193184767,112.392546215044,"Fall",4005
+8,-117.89,35.37,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",83.5,172,"male",18,50,8.81845516602265,148.659593984849,"Summer",4045
+5,-118.0091398,36.3994307,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",83.8,164,"female",14.9,286,8.65279776089266,206.148745969066,"Spring",3815
+11,-117.53,35.51,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",83.8,191,"female",18,91,7.90655175193716,144.320203081055,"Fall",4029
+5,-117.8698666,36.7687692,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",84,188,"male",20.1,72,8.68712038629951,105.71289527215,"Spring",3826
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",84,193,"male",13.6,100,8.57718520615045,163.770091634393,"Fall",3954
+4,-118.11463,36.58771,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",84,209,"male",15.4,125,7.88125893650516,160.558298672872,"Spring",3958
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",84,200,"female",17,179,8.37229829783189,151.542848342356,"Fall",4028
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",84,206,"male",17,179,8.37229829783189,151.542848342356,"Fall",4041
+7,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",84,203,"male",17.7,175,7.5312832420994,144.413753141711,"Summer",4095
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",84,197,"male",17.7,175,7.5312832420994,144.413753141711,"Winter",4116
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",84,197,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4144
+8,-118.92,42.04,"ADULT",1998,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",84.3,187,"male",9.1,319,8.13974536121705,64.4529265969931,"Summer",4006
+8,-118.4725,40.17944,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",84.35,146,"undetermined",9.7,126,8.39849824238076,78.6900341539641,"Summer",4001
+1,-117.68,35.43,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",84.9,210,"female",17.6,207,8.25573721539736,172.206435657845,"Winter",4025
+6,-115.8987345,35.7688924,NA,1975,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",85,103,"female",13.7,162,8.11355020750454,106.572636259317,"Summer",3924
+9,-116.095869,36.798842,"adult",2009,"Ammospermophilus leucurus","Ammospermophilus_leucurus",85,212,"male",16.3,106,8.75343655458538,165.265850931855,"Fall",3949
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",85,211,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4030
+7,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",85,214,"male",17.7,175,7.5312832420994,144.413753141711,"Summer",4046
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",85,205,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4099
+7,-116.02061,36.80196,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",85.2,216,"female",15.7,112,8.37497625505453,131.448483312628,"Summer",3928
+8,-116.17361,36.92886,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",85.3,210,"male",13.8,153,8.25555827453495,132.03271039959,"Summer",3824
+7,-115.89011,36.80559,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",85.3,200,"female",15.8,101,8.37302215451506,124.537723080042,"Summer",3923
+8,-117.98,35.34,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",85.4,184,"female",17.5,60,8.51189897980611,151.573709227838,"Summer",4098
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",86,220,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3889
+4,-118.11463,36.58771,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",86,210,"female",15.4,125,7.88125893650516,160.558298672872,"Spring",3957
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",86,206,"male",17,179,8.37229829783189,151.542848342356,"Fall",4007
+7,-110.6653876888,37.718631,NA,2011,"Ammospermophilus leucurus escalante","Ammospermophilus_leucurus",86,197,"female",12.8,195,10.1550256254992,57.7152204949395,"Summer",4049
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",86,195,"female",17.7,175,7.5312832420994,144.413753141711,"Winter",4112
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",86,NA,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4145
+5,-118.0091398,36.3994307,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",86.1,185,"male",14.9,286,8.65279776089266,206.148745969066,"Spring",3938
+7,-116.17361,36.82734,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",86.3,210,"male",14.3,148,8.16256699819364,139.846354131954,"Summer",3916
+7,-116.20961,37.04488,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",86.5,218,"male",12.5,316,8.61012441398162,131.740693259879,"Summer",3806
+4,-118.12305,36.59187,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",87,215,"female",15.4,125,7.86354746840628,161.131273416203,"Spring",3856
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",87,210,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4058
+10,-117.9925457,36.555903,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",87.7,201,"male",15.1,78,7.8837529518663,151.601032612349,"Fall",3829
+7,-116.17361,36.82734,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",87.7,209,"male",14.3,148,8.16256699819364,139.846354131954,"Summer",3943
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",88,213,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",3894
+6,-115.9048434,35.7584141,NA,1975,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",88,195,"female",13.2,169,8.1195611166659,105.382242876161,"Summer",3930
+9,-118.31084,37.40482,NA,2006,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",88,221,"female",13.6,100,8.57718520615045,163.770091634393,"Fall",3952
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",88,205,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3985
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",88,215,"male",17.7,175,7.5312832420994,144.413753141711,"Winter",4031
+7,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",88,190,"female",17.7,175,7.5312832420994,144.413753141711,"Summer",4037
+8,-111.10384,38.2502,NA,2010,"Ammospermophilus leucurus","Ammospermophilus_leucurus",88,215,"female",11.9,238,9.69396485167212,76.0365962052707,"Summer",4047
+3,-112.0333333,36.9833333,NA,1999,"Ammospermophilus leucurus","Ammospermophilus_leucurus",88,205,"female",12.1,233,8.01707930645947,100.453394161347,"Spring",4066
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",88,213,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4138
+5,-112.9833333,27.6,NA,1998,"Ammospermophilus leucurus","Ammospermophilus_leucurus",88,201,"female",18.7,142,4.42063857995035,184.867228063865,"Spring",4148
+1,-117.88,35.37,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",88.4,214,"female",18.1,165,8.87739724345947,180.481033507812,"Winter",4016
+8,-115.97561,36.7222,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",88.5,214,"male",16.2,255,8.99543655349082,149.644465013214,"Summer",3821
+2,-115.263437,36.277487,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",88.8,209,"female",17,52,9.40298147430168,118.027742137906,"Winter",4070
+8,-117.8157474,35.6304786,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",89,198,"female",17.4,41,8.54597193791533,160.754006037906,"Summer",3922
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",89,209,"male",17.7,175,7.5312832420994,144.413753141711,"Winter",4027
+5,-112.9833333,27.6,NA,1998,"Ammospermophilus leucurus","Ammospermophilus_leucurus",89,201,"female",18.7,142,4.42063857995035,184.867228063865,"Spring",4147
+7,-116.20961,36.68957,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",89.5,NA,"male",16.2,111,8.39117050382379,151.791703535499,"Summer",3831
+7,-117.564297,35.477986,NA,2003,"Ammospermophilus leucurus","Ammospermophilus_leucurus",89.5,NA,"female",18.1,179,7.65890252443442,130.008054334402,"Summer",3839
+8,-118.4725,40.17944,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",89.5,152,"undetermined",9.7,126,8.39849824238076,78.6900341539641,"Summer",4000
+8,-117.79,35.45,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",89.6,207,"female",17.5,85,8.10861868444293,158.0472119264,"Summer",4042
+7,-113.07667,36.21889,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",89.8,195,"female",13.9,202,9.41809991774381,93.1755704134789,"Summer",4160
+9,-115.07103,33.25854,NA,1989,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",90,195,"female",23.3,62,7.96069891860804,179.836901480856,"Fall",3921
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",90,200,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3982
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",90,208,"male",17.7,175,7.5312832420994,144.413753141711,"Winter",4008
+3,-112.0333333,36.9833333,NA,1999,"Ammospermophilus leucurus","Ammospermophilus_leucurus",90,193,"male",12.1,233,8.01707930645947,100.453394161347,"Spring",4067
+8,-117.65,35.49,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",90,213,"female",17.6,73,8.00694300989063,148.221783047219,"Summer",4133
+7,-116.23661,36.79834,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",90.2,217,"male",15.3,128,8.32744185682421,149.109573041865,"Summer",3937
+10,-117.9925457,36.555903,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",90.2,206,"female",15.1,78,7.8837529518663,151.601032612349,"Fall",3944
+7,-114.79306,36.03556,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",90.5,224,"female",20.5,102,9.0602863022527,93.6527871452596,"Summer",3906
+11,-117.53,35.51,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",90.7,200,"female",18,91,7.90655175193716,144.320203081055,"Fall",4015
+3,-117.8503202,34.6564753,"unknown",1967,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",90.8,202,"female",16.1,155,8.41644764191466,114.946570572531,"Spring",3901
+4,-118.00818,37.41428,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",91,205,"male",11,109,8.6451072166792,76.2824200900682,"Spring",3959
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",91,211,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3990
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",91,NA,"male",9.8,191,8.97312485686952,71.0113627271272,"Fall",4056
+6,-111.59444,36.8675,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",91,212,"female",14.8,107,10.3250027514854,70.6427434096416,"Summer",4156
+11,-111.490916,36.908609,NA,1970,"Ammospermophilus leucurus","Ammospermophilus_leucurus",91.3,195,"female",14.6,149,9.60559732655913,88.8536778404765,"Fall",4162
+7,-116.33561,36.80196,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",91.4,177,"male",15.9,108,8.38671387952216,159.707784974315,"Summer",3819
+7,-117.564297,35.477986,NA,2003,"Ammospermophilus leucurus","Ammospermophilus_leucurus",92,NA,"male",18.1,179,7.65890252443442,130.008054334402,"Summer",3840
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",92,203,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3984
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",92,220,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3989
+6,-118.1194,34.7953,NA,1994,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",92,199,"female",16.9,110,8.80623057668245,114.91492822624,"Summer",4020
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",92,208,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4055
+10,-115.14083,36.10778,NA,1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",92.1,211,"female",18.6,103,8.95228090116331,124.339401319684,"Fall",4076
+1,-117.68,35.43,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",92.1,197,"male",17.6,207,8.25573721539736,172.206435657845,"Winter",4125
+12,-117.65,35.48,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",92.8,205,"male",17.8,107,7.59012017312139,133.97008687172,"Winter",4105
+6,-116.05661,36.60255,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",93,220,"female",17,209,9.09973359583408,144.541623057606,"Summer",3822
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",93,175,"male",17,179,8.37229829783189,151.542848342356,"Fall",4102
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",93,207,"male",17.7,175,7.5312832420994,144.413753141711,"Winter",4111
+1,-117.68,35.43,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",93.2,200,"male",17.6,207,8.25573721539736,172.206435657845,"Winter",4021
+4,-117.847089,36.9935567,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",94,170,"male",12.7,178,7.94930909900446,121.444746612064,"Spring",3804
+4,-118.12305,36.59187,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",94,200,"male",15.4,125,7.86354746840628,161.131273416203,"Spring",3859
+4,-115.89834,35.77614,NA,2010,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",94,212,"male",15.6,251,8.14640188281695,133.093318322844,"Spring",3861
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",94,183,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3886
+1,-117.68,35.43,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",94,185,"male",17.6,207,8.25573721539736,172.206435657845,"Winter",4109
+7,-110.6669277633,37.729451,NA,2011,"Ammospermophilus leucurus escalante","Ammospermophilus_leucurus",94,210,"female",12.8,191,10.1788067110347,57.0959121287871,"Summer",4135
+7,-113.055,36.2475,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",94,215,"male",12.6,220,9.2614016545046,90.955360126204,"Summer",4158
+8,-118.92,42.04,"ADULT",1998,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",94.1,202,"male",9.1,319,8.13974536121705,64.4529265969931,"Summer",4094
+1,-117.68,35.43,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",94.1,201,"male",17.6,207,8.25573721539736,172.206435657845,"Winter",4127
+7,-118.4725,40.17944,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",95,146,"undetermined",9.7,126,8.39849824238076,78.6900341539641,"Summer",3898
+10,-120.45715,40.531,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",95,192,"male",10.6,218,8.64611929063431,103.362991190924,"Fall",4051
+7,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",95,206,"female",17.7,175,7.5312832420994,144.413753141711,"Summer",4129
+7,-115.91261,36.78383,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",95.1,209,"female",16,98,8.37642796510216,128.811373646894,"Summer",3832
+1,-117.88,35.37,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",95.6,214,"male",18.1,165,8.87739724345947,180.481033507812,"Winter",4009
+3,-115.42693,35.03788,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",96,180,"female",15,213,8.15311801296494,154.666247336946,"Spring",3925
+7,-117.3648059,34.3757004,"unknown",1965,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",96,195,"female",14.2,418,6.11408582328916,143.325393620045,"Summer",3996
+11,-111.490916,36.908609,NA,1970,"Ammospermophilus leucurus","Ammospermophilus_leucurus",96.6,193,"female",14.6,149,9.60559732655913,88.8536778404765,"Fall",4164
+3,-115.42693,35.03788,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",97,210,"male",15,213,8.15311801296494,154.666247336946,"Spring",3940
+7,-118.4725,40.17944,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",97,145,"undetermined",9.7,126,8.39849824238076,78.6900341539641,"Summer",3993
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",97,211,"male",17,179,8.37229829783189,151.542848342356,"Fall",4126
+5,-109.8763889,24.2233333,NA,2005,"Ammospermophilus leucurus","Ammospermophilus_leucurus",97,205,"female",23,244,4.26621683234761,199.956731028754,"Spring",4151
+5,-117.2333333,37.0666667,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",97.5,154,"undetermined",13.7,110,8.49827076884504,171.786039234079,"Spring",4172
+10,-120.45715,40.531,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",98,194,"female",10.6,218,8.64611929063431,103.362991190924,"Fall",4137
+9,-109.828641,34.866662,NA,1986,"Ammospermophilus leucurus","Ammospermophilus_leucurus",98,225,"female",12.8,330,7.81573296743062,64.2131752502983,"Fall",4168
+12,-117.65,35.48,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",98.1,215,"male",17.8,107,7.59012017312139,133.97008687172,"Winter",4033
+9,-118.2977,36.7881,NA,2005,"Ammospermophilus leucurus","Ammospermophilus_leucurus",98.63,211,"male",11.2,484,6.85021565685742,131.963038824818,"Fall",3913
+7,-118.4725,40.17944,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",98.65,157,"undetermined",9.7,126,8.39849824238076,78.6900341539641,"Summer",3994
+7,-114.79306,36.03556,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",98.9,218,"male",20.5,102,9.0602863022527,93.6527871452596,"Summer",3903
+9,-120.26,40.23,NA,1977,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",99,212,"male",10.4,221,7.82414193184767,112.392546215044,"Fall",4004
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",99,209,"female",9.8,191,8.97312485686952,71.0113627271272,"Fall",4140
+11,-114.42944,36.30556,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",99.1,214,"female",20.1,116,9.22606239263139,77.5113481042109,"Fall",3910
+10,-117.9925457,36.555903,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",99.2,212,"male",15.1,78,7.8837529518663,151.601032612349,"Fall",3818
+9,-118.2977,36.7881,NA,2005,"Ammospermophilus leucurus","Ammospermophilus_leucurus",99.29,208,"male",11.2,484,6.85021565685742,131.963038824818,"Fall",3800
+7,-118.4725,40.17944,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",99.65,142,"undetermined",9.7,126,8.39849824238076,78.6900341539641,"Summer",3896
+9,-120.124871,39.820834,NA,1983,"Ammospermophilus leucurus ssp.","Ammospermophilus_leucurus",100,210,"female",8.4,675,6.63630967184369,80.118632232708,"Fall",3951
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",100,203,"male",20.4,76,8.85518167087737,111.088143377839,"Spring",3980
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",100,210,"male",17.7,175,7.5312832420994,144.413753141711,"Winter",4012
+12,-117.66,35.37,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",100,206,"male",17.7,175,7.5312832420994,144.413753141711,"Winter",4107
+1,-117.88,35.37,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",100.6,214,"female",18.1,165,8.87739724345947,180.481033507812,"Winter",4124
+1,-117.68,35.43,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",100.7,187,"male",17.6,207,8.25573721539736,172.206435657845,"Winter",4101
+9,-120.26,40.23,NA,1977,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",101,204,"female",10.4,221,7.82414193184767,112.392546215044,"Fall",4093
+11,-111.490916,36.908609,NA,1970,"Ammospermophilus leucurus","Ammospermophilus_leucurus",101,195,"male",14.6,149,9.60559732655913,88.8536778404765,"Fall",4163
+7,-114.79306,36.03556,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",101.2,218,"female",20.5,102,9.0602863022527,93.6527871452596,"Summer",3904
+7,-118.4725,40.17944,"unknown",1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",101.3,151,"undetermined",9.7,126,8.39849824238076,78.6900341539641,"Summer",3897
+10,-116.6394023,33.9021762,NA,1971,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",102,220,"female",18.9,96,7.39225639067359,186.474468152418,"Fall",3918
+9,-117.25175,38.5076,NA,2011,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",102,218,"male",9.8,191,8.97312485686952,71.0113627271272,"Fall",4052
+11,-114.81383,36.05113,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",102.1,219,"female",20.6,105,9.03739705084077,99.2609996099237,"Fall",3908
+2,-115.14083,36.111406,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",102.8,206,"female",17.8,39,9.50452842628505,101.51211327361,"Winter",4155
+9,-120.089321,40.092131,NA,2005,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",103.4,195,"male",11.5,468,8.45537304519046,127.948092501374,"Fall",3962
+9,-116.14661,36.70769,NA,1974,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",103.5,223,"male",16.2,226,8.99125416808754,141.967525380616,"Fall",3941
+11,-114.81383,36.05113,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",103.7,219,"male",20.6,105,9.03739705084077,99.2609996099237,"Fall",3907
+3,-115.42693,35.03788,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",104,200,"female",15,213,8.15311801296494,154.666247336946,"Spring",3931
+8,-109.653551,36.072353,NA,1970,"Ammospermophilus leucurus","Ammospermophilus_leucurus",104,210,"male",10.9,176,8.98211606977493,92.7136953936343,"Summer",4079
+6,-115.8987345,35.7688924,NA,1975,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",105,207,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",3917
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",105,212,"male",17,179,8.37229829783189,151.542848342356,"Fall",4104
+2,-115.069296,36.15898,NA,1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",105.2,182,"male",19.1,95,9.0256033123285,113.167352447759,"Winter",4075
+9,-120.088171,40.091947,NA,2005,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",105.7,210,"female",11.5,468,8.44990586284303,127.948092501374,"Fall",3863
+3,-116.3983333,35.485,NA,1999,"Ammospermophilus leucurus","Ammospermophilus_leucurus",106,200,"male",16.5,87,7.20106789218646,124.618124422716,"Spring",4068
+3,-115.65278,35.0125,NA,1971,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",106.3,202,"male",18.1,57,8.89989359827442,147.812045877772,"Spring",3802
+2,-115.263437,36.277487,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",106.7,207,"male",17,52,9.40298147430168,118.027742137906,"Winter",4154
+9,-109.36992,38.63789,"adult",2007,"Ammospermophilus leucurus","Ammospermophilus_leucurus",107,224,"male",12,281,10.6072730908675,55.3281590511915,"Fall",3845
+11,-117.53,35.51,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",107.2,200,"male",18,91,7.90655175193716,144.320203081055,"Fall",4018
+11,-114.42944,36.30556,"unknown",1963,"Ammospermophilus leucurus","Ammospermophilus_leucurus",107.4,208,"male",20.1,116,9.22606239263139,77.5113481042109,"Fall",3999
+5,-115.8850174,34.6448479,NA,1994,"Ammospermophilus leucurus","Ammospermophilus_leucurus",108,211,"female",20.4,76,8.85518167087737,111.088143377839,"Spring",3884
+6,-115.8987345,35.7688924,NA,1975,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",108,195,"male",13.7,162,8.11355020750454,106.572636259317,"Summer",3936
+4,-116.1930488,35.8025181,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",108,205,"female",19.6,67,9.56988648170537,137.775754062245,"Spring",3942
+12,-110.72083,37.52222,NA,1970,"Ammospermophilus leucurus","Ammospermophilus_leucurus",108,210,"male",15.1,153,9.73324512205773,83.6833375418293,"Winter",4161
+11,-111.490916,36.908609,NA,1970,"Ammospermophilus leucurus","Ammospermophilus_leucurus",108,223,"female",14.6,149,9.60559732655913,88.8536778404765,"Fall",4166
+8,-117.65,35.49,NA,1972,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",108.8,215,"male",17.6,73,8.00694300989063,148.221783047219,"Summer",4036
+6,-114.860037,32.835408,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",109,215,"male",21.1,52,8.23710654553067,136.494512578658,"Summer",4077
+5,-117.79475,34.51734,NA,1989,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",109.5,220,"male",16,66,7.17142372069997,125.847987679602,"Spring",3836
+6,-111.59516,36.86749,NA,1982,"Ammospermophilus leucurus cinnamomeus","Ammospermophilus_leucurus",110,225,"male",14.6,234,9.65255108374167,66.336186470402,"Summer",3843
+2,-115.263437,36.277487,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",110,207,"male",17,52,9.40298147430168,118.027742137906,"Winter",4152
+7,-113.055,36.2475,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",110.3,213,"male",12.6,220,9.2614016545046,90.955360126204,"Summer",4078
+5,-115.88722,35.77278,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",110.4,208,"female",14.4,249,8.52765110293176,95.4932077546499,"Spring",3823
+5,-118.30978,36.79992,NA,2007,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",112,209,"female",9.6,237,7.25159856984526,174.693550521437,"Spring",3961
+1,-117.68,35.43,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",112.5,213,"male",17.6,207,8.25573721539736,172.206435657845,"Winter",4019
+2,-115.14083,36.111406,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",112.5,206,"male",17.8,39,9.50452842628505,101.51211327361,"Winter",4074
+7,-113.06361,36.28583,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",112.7,210,"female",12.9,220,9.29996334303626,87.4454411123066,"Summer",4157
+4,-117.5832,35.16722,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",113.3,187,"female",16.8,102,8.27930973553772,137.950062898386,"Spring",3811
+6,-116.9959362,36.0834642,NA,1967,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",115.2,186,"male",16.2,122,8.50883230959027,128.166568467282,"Summer",3813
+3,-117.8503202,34.6564753,"unknown",1967,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",116,216,"male",16.1,155,8.41644764191466,114.946570572531,"Spring",3902
+2,-115.263437,36.277487,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",116.4,220,"male",17,52,9.40298147430168,118.027742137906,"Winter",4153
+1,-117.88,35.37,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",117.6,189,"male",18.1,165,8.87739724345947,180.481033507812,"Winter",4130
+4,-113.54326,27.76262,NA,1949,"Ammospermophilus leucurus peninsulae J. A. Allen, 1893","Ammospermophilus_leucurus",118,222,"female",20.5,166,4.77591019406963,141.157194043802,"Spring",3810
+3,-117.8503202,34.6564753,"unknown",1967,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",118,200,"male",16.1,155,8.41644764191466,114.946570572531,"Spring",3995
+2,-118.2,34.45,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",118,210,"male",16.1,295,6.186366976153,145.71225891545,"Winter",4110
+11,-111.490916,36.908609,NA,1970,"Ammospermophilus leucurus","Ammospermophilus_leucurus",118,195,"male",14.6,149,9.60559732655913,88.8536778404765,"Fall",4165
+2,-118.2242839,34.4788613,NA,1977,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",119,224,"male",16,299,6.13941562711177,144.87612263272,"Winter",3915
+10,-117.66,35.37,NA,1973,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",119,197,"female",17,179,8.37229829783189,151.542848342356,"Fall",4017
+10,-117.9421201,36.5433222,NA,1968,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",119.2,216,"male",15.2,81,7.95682954220061,151.757382127866,"Fall",3834
+5,-114.4932,32.8231,NA,1951,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",120,225,"female",22.7,106,8.03508876834298,145.684549048008,"Spring",3828
+10,-108.49833,36.36944,NA,1973,"Ammospermophilus leucurus","Ammospermophilus_leucurus",120,229,"male",10.3,203,9.38533268973294,62.9316138296043,"Fall",4167
+2,-115.14083,36.10778,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",121.4,216,"male",17.8,39,9.51214136424251,101.51211327361,"Winter",4071
+3,-117.88,35.59,NA,1969,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",122.9,195,"male",17,182,8.36529627796779,180.476657162678,"Spring",4115
+1,-117.57139,34.42611,"unknown",1967,"Ammospermophilus leucurus","Ammospermophilus_leucurus",124,219,"male",13.8,303,7.549608659334,99.5359562281007,"Winter",3912
+8,-110.5729589711,37.907878,NA,2010,"Ammospermophilus leucurus","Ammospermophilus_leucurus",125,211,"female",13.1,262,9.87001504404613,75.5588488887334,"Summer",4048
+2,-115.14083,36.10778,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",126.6,206,"male",17.8,39,9.51214136424251,101.51211327361,"Winter",4072
+4,-117.17516,34.92274,"unknown",1964,"Ammospermophilus leucurus leucurus","Ammospermophilus_leucurus",128,205,"female",17.1,72,8.30339014371768,85.4112952610606,"Spring",3900
+5,-114.4932,32.8231,NA,1951,"Ammospermophilus leucurus leucurus Merriam, 1889","Ammospermophilus_leucurus",130,229,NA,22.7,106,8.03508876834298,145.684549048008,"Spring",3833
+6,-111.59516,36.86749,NA,1982,"Ammospermophilus leucurus cinnamomeus","Ammospermophilus_leucurus",130,226,"female",14.6,234,9.65255108374167,66.336186470402,"Summer",3946
+2,-115.14083,36.111406,NA,1964,"Ammospermophilus leucurus","Ammospermophilus_leucurus",134.1,219,"female",17.8,39,9.50452842628505,101.51211327361,"Winter",4073
+10,-109.77,23.6766667,NA,1997,"Ammospermophilus leucurus","Ammospermophilus_leucurus",140,248,"male",24.5,389,5.14725581492142,148.636583448261,"Fall",4065
+6,-111.59516,36.86749,NA,1982,"Ammospermophilus leucurus cinnamomeus","Ammospermophilus_leucurus",145,185,"female",14.6,234,9.65255108374167,66.336186470402,"Summer",3842

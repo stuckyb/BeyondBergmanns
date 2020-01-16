@@ -1,0 +1,472 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",22,165,"male",3.9,1035,6.44386012676667,111.490977701682,"Summer",190800
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",22,167,"female",3.9,1035,6.44386012676667,111.490977701682,"Summer",190801
+7,-120.355,39.332556,NA,1968,"Tamias speciosus","Tamias_speciosus",22.3,157,"female",5.2,1482,6.42666674525336,96.1452793323697,"Summer",190596
+7,-119.48155,38.12206,NA,2006,"Tamias speciosus frater","Tamias_speciosus",23,166,"male",2.9,1321,7.00452234869255,123.435665981772,"Summer",190867
+6,-119.62314,37.84309,NA,2004,"Tamias speciosus frater","Tamias_speciosus",24,181,"male",7.3,1053,6.25873329230783,122.053525477838,"Summer",190685
+7,-119.48155,38.12206,NA,2006,"Tamias speciosus frater","Tamias_speciosus",24,172,"male",2.9,1321,7.00452234869255,123.435665981772,"Summer",190805
+8,-119.43205,37.9007,NA,2003,"Tamias speciosus frater","Tamias_speciosus",25,169,"male",5.7,832,6.93412182288035,113.483395648658,"Summer",190480
+7,-120.203517,39.432825,NA,1970,"Tamias speciosus","Tamias_speciosus",26,169,"male",5.6,1054,6.76889051380496,127.527938591505,"Summer",190426
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",26,180,"male",3.9,1035,6.44386012676667,111.490977701682,"Summer",190797
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",27,187,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190469
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",27,183,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190646
+6,-119.63327,37.84631,NA,2004,"Tamias speciosus frater","Tamias_speciosus",28,177,"male",7.2,1059,6.23195577064478,122.739738699128,"Summer",190490
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",28,188,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190654
+8,-119.43205,37.9007,NA,2003,"Tamias speciosus frater","Tamias_speciosus",29,172,"male",5.7,832,6.93412182288035,113.483395648658,"Summer",190481
+8,-119.43205,37.9007,NA,2003,"Tamias speciosus frater","Tamias_speciosus",30,180,"male",5.7,832,6.93412182288035,113.483395648658,"Summer",190479
+6,-119.63327,37.84631,NA,2004,"Tamias speciosus frater","Tamias_speciosus",30,185,"female",7.2,1059,6.23195577064478,122.739738699128,"Summer",190684
+8,-119.5946,38.17061,NA,2005,"Tamias speciosus frater","Tamias_speciosus",31,183,"male",3,1740,6.59460293564274,98.6033700292559,"Summer",190516
+8,-119.5946,38.17061,NA,2005,"Tamias speciosus frater","Tamias_speciosus",31,185,"female",3,1740,6.59460293564274,98.6033700292559,"Summer",190517
+8,-119.59468,38.17609,NA,2005,"Tamias speciosus frater","Tamias_speciosus",31,182,"male",3.1,1721,6.6212925589733,98.7177947817405,"Summer",190705
+6,-119.3203743,37.4652691,"unknown",1965,"Tamias speciosus","Tamias_speciosus",32,192,"male",8,1183,5.51732120991096,121.9278495316,"Summer",190565
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",32,187,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190655
+7,-119.3203743,37.4652691,"unknown",1965,"Tamias speciosus","Tamias_speciosus",32,196,"male",8,1183,5.51732120991096,121.9278495316,"Summer",190757
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",33,189,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190470
+7,-119.33617,37.79778,NA,2004,"Tamias speciosus frater","Tamias_speciosus",33,197,"female",3,1043,6.53714329231373,119.717640025433,"Summer",190496
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",33,190,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190658
+7,-119.41206,37.84117,NA,2007,"Tamias speciosus frater","Tamias_speciosus",33,187,"male",4.4,407,6.77930786670108,139.460207434389,"Summer",190870
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",34,195,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190466
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",34,200,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190468
+7,-119.5028717,37.4326603,"unknown",1965,"Tamias speciosus","Tamias_speciosus",34,192,"female",6.7,1305,5.51633249926292,121.179026899427,"Summer",190570
+7,-119.5028717,37.4326603,"unknown",1965,"Tamias speciosus","Tamias_speciosus",34,185,"male",6.7,1305,5.51633249926292,121.179026899427,"Summer",190571
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",34,195,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190653
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",34,199,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190657
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",35,202,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190458
+7,-119.33617,37.79778,NA,2004,"Tamias speciosus frater","Tamias_speciosus",35,195,"female",3,1043,6.53714329231373,119.717640025433,"Summer",190497
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",35,199,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190659
+8,-119.42421,37.9136,NA,2003,"Tamias speciosus frater","Tamias_speciosus",35,187,"female",5.7,796,6.95478906287537,112.415525602352,"Summer",190661
+9,-118.22762,36.48025,NA,2012,"Tamias speciosus sequoiensis","Tamias_speciosus",35,210,"male",1.3,435,6.08835824016672,98.3240821040729,"Fall",190739
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",36,198,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190471
+9,-121.51794,40.46886,NA,2006,"Tamias speciosus frater","Tamias_speciosus",37,177,"male",6.5,3526,7.37407415862966,107.555691189371,"Fall",190530
+7,-120.328502,39.338557,NA,1968,"Tamias speciosus","Tamias_speciosus",37.4,191,"male",5,1367,6.43574299353135,96.5084462000755,"Summer",190597
+8,-119.41607,37.91042,NA,2003,"Tamias speciosus frater","Tamias_speciosus",38,223,"female",5.6,776,6.93608810366608,110.352930948972,"Summer",190664
+10,-117.04618,34.26628,"unknown",1964,"Tamias speciosus","Tamias_speciosus",39,188,"female",8.6,360,6.94805401140885,101.563534377017,"Fall",190575
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",39,198,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190656
+8,-119.42421,37.9136,NA,2003,"Tamias speciosus frater","Tamias_speciosus",40,190,"male",5.7,796,6.95478906287537,112.415525602352,"Summer",190662
+8,-119.41978,37.64537,NA,2007,"Tamias speciosus frater","Tamias_speciosus",40,194,"male",4.6,541,6.90434645712395,158.129406376887,"Summer",190872
+8,-120.29313,39.63724,NA,2009,"Tamias speciosus frater","Tamias_speciosus",40.2,195,"male",8.6,608,8.10351588490883,87.8408746806909,"Summer",190750
+7,-119.59743,37.66792,NA,2003,"Tamias speciosus frater","Tamias_speciosus",41,202,"male",9.3,932,6.86922760423527,141.278602735694,"Summer",190439
+7,-119.39641,37.74036,NA,2004,"Tamias speciosus frater","Tamias_speciosus",41,205,"male",5.2,932,6.40985864733286,117.730166265641,"Summer",190502
+7,-119.39339,37.73393,NA,2004,"Tamias speciosus frater","Tamias_speciosus",41,201,"female",5.1,931,6.43199860545741,117.842683767348,"Summer",190503
+10,-121.148229,40.7308689,NA,2004,"Tamias speciosus frater","Tamias_speciosus",41,203,"female",9,600,7.32596048103571,96.199939961984,"Fall",190726
+5,-119.79149,37.75139,NA,2005,"Tamias speciosus frater","Tamias_speciosus",41,207,"female",10.8,1175,6.4174241977084,114.520882605663,"Spring",190853
+8,-119.41607,37.91042,NA,2003,"Tamias speciosus frater","Tamias_speciosus",41.5,222,"female",5.6,776,6.93608810366608,110.352930948972,"Summer",190663
+6,-119.57801,37.8497,NA,2004,"Tamias speciosus frater","Tamias_speciosus",42,195,"male",6.9,1040,6.29089650112596,119.207717678316,"Summer",190493
+6,-119.62314,37.84309,NA,2004,"Tamias speciosus frater","Tamias_speciosus",42,217,"male",7.3,1053,6.25873329230783,122.053525477838,"Summer",190686
+8,-119.41385,37.91586,NA,2003,"Tamias speciosus frater","Tamias_speciosus",43,199,"male",5.5,775,6.9455675859435,110.154225898406,"Summer",190473
+7,-119.39641,37.74036,NA,2004,"Tamias speciosus frater","Tamias_speciosus",43,203,"male",5.2,932,6.40985864733286,117.730166265641,"Summer",190499
+10,-117.04618,34.26628,"unknown",1964,"Tamias speciosus","Tamias_speciosus",43,199,"female",8.6,360,6.94805401140885,101.563534377017,"Fall",190564
+10,-117.04618,34.26628,"unknown",1964,"Tamias speciosus","Tamias_speciosus",43,196,"male",8.6,360,6.94805401140885,101.563534377017,"Fall",190767
+7,-119.27189,37.96321,NA,2005,"Tamias speciosus frater","Tamias_speciosus",43,205,"male",3.2,1107,6.68246801622565,113.415962253229,"Summer",190860
+7,-119.48155,38.12206,NA,2006,"Tamias speciosus frater","Tamias_speciosus",43,209,"female",2.9,1321,7.00452234869255,123.435665981772,"Summer",190866
+10,-117.04618,34.26628,"unknown",1964,"Tamias speciosus","Tamias_speciosus",44,195,"female",8.6,360,6.94805401140885,101.563534377017,"Fall",190576
+10,-117.04618,34.26628,"unknown",1964,"Tamias speciosus","Tamias_speciosus",44,204,"male",8.6,360,6.94805401140885,101.563534377017,"Fall",190577
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",44,205,"male",10.4,785,6.31971422445571,118.431904537028,"Summer",190669
+8,-116.9372,34.2228,NA,1989,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",44,220,"male",9,216,5.79255007433137,111.207453410665,"Summer",190784
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",44,202,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190826
+9,-119.2285,37.95386,NA,2004,"Tamias speciosus frater","Tamias_speciosus",44,209,"female",3.9,698,6.69183129349553,110.717040759896,"Fall",190852
+10,-121.1283,40.75233175,NA,2004,"Tamias speciosus frater","Tamias_speciosus",44.1,200,"male",9.4,632,7.32670499342003,92.9308891320993,"Fall",190525
+9,-121.51053,40.4705,NA,2007,"Tamias speciosus frater","Tamias_speciosus",44.5,200,"male",6.4,1741,7.122366605322,129.446465122382,"Fall",190884
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",44.9,197,"male",1.4,815,7.02313816587497,110.399029088002,"Summer",190836
+7,-119.265487,38.469445,NA,1987,"Tamias (Neotamias) speciosus frater J. A. Allen, 1890","Tamias_speciosus",45,212,"female",4.4,522,7.12719928842808,81.560940660599,"Summer",190425
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",45,206,"female",10.4,785,6.31971422445571,118.431904537028,"Summer",190511
+7,-117.07706,34.25514,"unknown",1965,"Tamias speciosus","Tamias_speciosus",45,222,"male",8.8,912,6.05346757627145,143.082953785349,"Summer",190566
+8,-119.2285,37.95386,NA,2004,"Tamias speciosus frater","Tamias_speciosus",45,212,"female",3.9,698,6.69183129349553,110.717040759896,"Summer",190793
+10,-121.23,40.3,NA,1962,"Tamias speciosus frater","Tamias_speciosus",45.4,225,"female",8.1,1014,7.35985733557384,119.03898534364,"Fall",190845
+8,-116.9372,34.2228,NA,1989,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",45.5,205,"male",9,216,5.79255007433137,111.207453410665,"Summer",190787
+6,-119.57801,37.8497,NA,2004,"Tamias speciosus frater","Tamias_speciosus",46,191,"male",6.9,1040,6.29089650112596,119.207717678316,"Summer",190492
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",46,202,"female",3.9,1035,6.44386012676667,111.490977701682,"Summer",190795
+7,-119.41206,37.84117,NA,2007,"Tamias speciosus frater","Tamias_speciosus",46,216,"female",4.4,407,6.77930786670108,139.460207434389,"Summer",190810
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",46,221,"female",1.1,579,5.91947863183298,141.073274275398,"Summer",190819
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",46,221,"female",1.1,579,5.91947863183298,141.073274275398,"Summer",190825
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",46,219,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190893
+5,-118.71669,37.50122,NA,2011,"Tamias speciosus frater","Tamias_speciosus",46,215,"male",3.3,422,6.89823758783226,119.284715855091,"Spring",190895
+8,-116.9372,34.2228,NA,1989,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",46.5,213,"male",9,216,5.79255007433137,111.207453410665,"Summer",190790
+9,-121.51053,40.4705,NA,2007,"Tamias speciosus frater","Tamias_speciosus",46.5,203,"male",6.4,1741,7.122366605322,129.446465122382,"Fall",190885
+7,-119.59743,37.66792,NA,2003,"Tamias speciosus frater","Tamias_speciosus",47,205,"male",9.3,932,6.86922760423527,141.278602735694,"Summer",190620
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",47,200,"male",10.4,785,6.31971422445571,118.431904537028,"Summer",190668
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",47,190,"female",10.4,785,6.31971422445571,118.431904537028,"Summer",190671
+7,-119.40804,37.7409,NA,2004,"Tamias speciosus frater","Tamias_speciosus",47,212,"male",5.6,956,6.37796276963962,117.914350618546,"Summer",190695
+8,-121.29406,40.5895,NA,2007,"Tamias speciosus frater","Tamias_speciosus",47,198,"male",8.2,530,7.5594762925868,114.127344897098,"Summer",190732
+8,-119.2285,37.95386,NA,2004,"Tamias speciosus frater","Tamias_speciosus",47,201,"female",3.9,698,6.69183129349553,110.717040759896,"Summer",190851
+7,-119.33899,38.06129,NA,2005,"Tamias speciosus frater","Tamias_speciosus",47,202,"male",3,1212,6.62700512823832,110.617510025956,"Summer",190864
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",47,217,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190888
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",47,220,"female",1.1,579,5.91947863183298,141.073274275398,"Summer",190892
+9,-121.148229,40.7308689,"adult",2004,"Tamias speciosus frater","Tamias_speciosus",47.5,195,"female",9,600,7.32596048103571,96.199939961984,"Fall",190723
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",48,190,"male",7.2,493,7.17370514131613,122.253415305122,"Fall",190404
+8,-121.29406,40.5895,NA,2007,"Tamias speciosus frater","Tamias_speciosus",48,202,"male",8.2,530,7.5594762925868,114.127344897098,"Summer",190538
+9,-118.22762,36.48025,NA,2012,"Tamias speciosus sequoiensis","Tamias_speciosus",48,207,"female",1.3,435,6.08835824016672,98.3240821040729,"Fall",190544
+9,-118.22762,36.48025,NA,2012,"Tamias speciosus sequoiensis","Tamias_speciosus",48,NA,"male",1.3,435,6.08835824016672,98.3240821040729,"Fall",190545
+6,-119.63327,37.84631,NA,2004,"Tamias speciosus frater","Tamias_speciosus",48,196,"male",7.2,1059,6.23195577064478,122.739738699128,"Summer",190682
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",48,213,"male",10.4,785,6.31971422445571,118.431904537028,"Summer",190699
+6,-121.52137,40.59368,NA,2004,"Tamias speciosus frater","Tamias_speciosus",48,200,"undetermined",9.3,1123,6.84748903325928,113.460185037557,"Summer",190721
+8,-119.5622882,38.3218564,"unknown",1965,"Tamias speciosus","Tamias_speciosus",48,198,"male",3,1100,5.66463644558113,107.797010208889,"Summer",190762
+7,-119.346,37.88357,NA,2006,"Tamias speciosus frater","Tamias_speciosus",48,212,"male",3.6,737,7.04851155574815,127.036458286082,"Summer",190803
+9,-121.51827,40.46888,NA,2007,"Tamias speciosus frater","Tamias_speciosus",48,202,"male",6.5,1695,7.13422714592807,129.244001202661,"Fall",190811
+7,-119.41206,37.84117,NA,2007,"Tamias speciosus frater","Tamias_speciosus",48,210,"male",4.4,407,6.77930786670108,139.460207434389,"Summer",190871
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",48,219,"female",1.1,579,5.91947863183298,141.073274275398,"Summer",190891
+10,-116.906977,34.232788,NA,2004,"Tamias speciosus","Tamias_speciosus",48.07,195,"male",8.4,670,6.08591891918625,122.409237999513,"Fall",190413
+7,-119.90981,38.66816,NA,2009,"Tamias speciosus frater","Tamias_speciosus",48.1,200,"male",5.6,848,7.43319744406297,91.7278412171393,"Summer",190558
+9,-119.12037,34.81579,NA,2004,"Tamias speciosus","Tamias_speciosus",48.2,208,"male",7.9,507,6.10422109294176,166.294838519191,"Fall",190408
+9,-121.51827,40.46888,NA,2007,"Tamias speciosus frater","Tamias_speciosus",48.2,210,"male",6.5,1695,7.13422714592807,129.244001202661,"Fall",190880
+9,-121.51053,40.4705,NA,2007,"Tamias speciosus frater","Tamias_speciosus",48.5,201,"female",6.4,1741,7.122366605322,129.446465122382,"Fall",190817
+7,-119.25723,37.7672,NA,2003,"Tamias speciosus frater","Tamias_speciosus",49,245,"female",3,966,7.03451986257553,105.351994224777,"Summer",190454
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",49,256,"male",5.5,784,6.7517618351648,110.288353327975,"Summer",190523
+10,-121.1797292,40.7345811,NA,2004,"Tamias speciosus frater","Tamias_speciosus",49,206,"female",9.1,578,7.25585970095894,97.6663126947716,"Fall",190526
+10,-121.0988806,40.71353872,NA,2004,"Tamias speciosus frater","Tamias_speciosus",49,212,"male",8.6,596,7.41065980786318,94.7119717913183,"Fall",190528
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",49,200,"male",7.2,493,7.17370514131613,122.253415305122,"Fall",190579
+6,-119.59254,37.83979,NA,2004,"Tamias speciosus frater","Tamias_speciosus",49,197,"female",7.4,1036,6.30821374131066,120.335001992151,"Summer",190679
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",49,200,"male",5.5,784,6.7517618351648,110.288353327975,"Summer",190712
+9,-121.1283,40.75233175,NA,2004,"Tamias speciosus frater","Tamias_speciosus",49,193,"female",9.4,632,7.32670499342003,92.9308891320993,"Fall",190722
+10,-121.1823575,40.73068605,NA,2004,"Tamias speciosus frater","Tamias_speciosus",49,221,"male",9,575,7.2587877775838,97.6927646380542,"Fall",190724
+8,-118.22762,36.48025,NA,2013,"Tamias speciosus sequoiensis","Tamias_speciosus",49,212,"female",1.2,212,6.27445518581397,116.025715273916,"Summer",190742
+8,-116.9372,34.2228,NA,1989,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",49,221,"female",9,216,5.79255007433137,111.207453410665,"Summer",190791
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",49,210,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190820
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",49,210,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190824
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",49,217,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190894
+9,-121.51827,40.46888,NA,2007,"Tamias speciosus frater","Tamias_speciosus",49.3,213,"male",6.5,1695,7.13422714592807,129.244001202661,"Fall",190814
+10,-116.906977,34.232788,NA,2004,"Tamias speciosus","Tamias_speciosus",49.4,190,"male",8.4,670,6.08591891918625,122.409237999513,"Fall",190588
+8,-119.41607,37.91042,NA,2003,"Tamias speciosus frater","Tamias_speciosus",49.5,233,"female",5.6,776,6.93608810366608,110.352930948972,"Summer",190665
+9,-121.51053,40.4705,NA,2007,"Tamias speciosus frater","Tamias_speciosus",49.5,504,"male",6.4,1741,7.122366605322,129.446465122382,"Fall",190816
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",49.6,189,"female",1.4,815,7.02313816587497,110.399029088002,"Summer",190846
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",49.8,196,"male",1.4,815,7.02313816587497,110.399029088002,"Summer",190835
+6,-119.7699,37.75775,NA,2003,"Tamias speciosus frater","Tamias_speciosus",50,211,"male",11,892,6.81564043545832,141.900378458005,"Summer",190437
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",50,212,"female",10.4,785,6.31971422445571,118.431904537028,"Summer",190483
+6,-119.64744,37.85723,NA,2004,"Tamias speciosus frater","Tamias_speciosus",50,259,"male",7.3,1060,6.24807243003065,122.760924882212,"Summer",190484
+6,-119.56455,37.80759,NA,2004,"Tamias speciosus frater","Tamias_speciosus",50,206,"male",7.3,1041,6.32792632030048,120.388619794735,"Summer",190487
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",50,200,"female",7.2,493,7.17370514131613,122.253415305122,"Fall",190580
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",50,200,"female",7.2,493,7.17370514131613,122.253415305122,"Fall",190583
+7,-119.58647,37.69924,NA,2003,"Tamias speciosus frater","Tamias_speciosus",50,211,"male",9,975,6.81328359407807,132.470740321854,"Summer",190627
+7,-119.39541,37.72604,NA,2004,"Tamias speciosus frater","Tamias_speciosus",50,210,"male",5,943,6.45635111320394,117.39589423566,"Summer",190698
+7,-119.47916,38.13027,NA,2006,"Tamias speciosus frater","Tamias_speciosus",50,NA,"male",3,1311,7.05295983429953,123.590900264629,"Summer",190807
+7,-119.41206,37.84117,NA,2007,"Tamias speciosus frater","Tamias_speciosus",50,227,"female",4.4,407,6.77930786670108,139.460207434389,"Summer",190809
+9,-119.12037,34.81579,NA,2004,"Tamias speciosus","Tamias_speciosus",50.2,196,"male",7.9,507,6.10422109294176,166.294838519191,"Fall",190409
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",50.2,188,"male",1.4,815,7.02313816587497,110.399029088002,"Summer",190839
+6,-120.4939833333,39.6146166667,"adult",2012,"Tamias speciosus","Tamias_speciosus",50.5,200,"male",8.3,1414,6.86759518582478,128.284119449821,"Summer",190430
+9,-121.57018,40.53759,NA,2006,"Tamias speciosus frater","Tamias_speciosus",50.5,198,"male",8.2,1390,7.23074244899072,99.3231076424111,"Fall",190728
+6,-120.4939833,39.61461667,NA,2012,"Tamias speciosus","Tamias_speciosus",50.5,200,"male",8.3,1414,6.86759518582478,128.284119449821,"Summer",190831
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",50.6,177,"male",1.4,815,7.02313816587497,110.399029088002,"Summer",190775
+7,-119.58647,37.69924,NA,2003,"Tamias speciosus frater","Tamias_speciosus",51,202,"male",9,975,6.81328359407807,132.470740321854,"Summer",190442
+7,-119.26395,37.77719,NA,2003,"Tamias speciosus frater","Tamias_speciosus",51,210,"male",2.9,965,6.99018250943075,109.415325639386,"Summer",190452
+6,-119.57728,37.81435,NA,2004,"Tamias speciosus frater","Tamias_speciosus",51,200,"male",7.6,1035,6.31770000342952,120.820541171738,"Summer",190488
+6,-119.62314,37.84309,NA,2004,"Tamias speciosus frater","Tamias_speciosus",51,209,"male",7.3,1053,6.25873329230783,122.053525477838,"Summer",190491
+7,-119.33617,37.79778,NA,2004,"Tamias speciosus frater","Tamias_speciosus",51,207,"female",3,1043,6.53714329231373,119.717640025433,"Summer",190495
+10,-121.0988806,40.71353872,NA,2004,"Tamias speciosus frater","Tamias_speciosus",51,207,"female",8.6,596,7.41065980786318,94.7119717913183,"Fall",190529
+9,-121.57018,40.53759,NA,2006,"Tamias speciosus frater","Tamias_speciosus",51,210,"male",8.2,1390,7.23074244899072,99.3231076424111,"Fall",190535
+8,-121.27663,40.58491,NA,2007,"Tamias speciosus frater","Tamias_speciosus",51,211,"male",8,536,7.50690591146821,115.09388999595,"Summer",190540
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",51,214,"male",7.2,493,7.17370514131613,122.253415305122,"Fall",190581
+6,-119.79149,37.75139,"embryo",2003,"Tamias speciosus frater","Tamias_speciosus",51,204,"female",11.2,886,6.79946521961303,139.977484444154,"Summer",190605
+7,-119.26115,37.77819,NA,2003,"Tamias speciosus frater","Tamias_speciosus",51,211,"male",3,951,6.99460831316132,107.961206872249,"Summer",190633
+6,-119.64744,37.85723,NA,2004,"Tamias speciosus frater","Tamias_speciosus",51,205,"male",7.3,1060,6.24807243003065,122.760924882212,"Summer",190675
+7,-119.39641,37.74036,NA,2004,"Tamias speciosus frater","Tamias_speciosus",51,212,"male",5.2,932,6.40985864733286,117.730166265641,"Summer",190691
+9,-121.51827,40.46888,NA,2007,"Tamias speciosus frater","Tamias_speciosus",51,207,"male",6.5,1695,7.13422714592807,129.244001202661,"Fall",190813
+9,-121.51053,40.4705,NA,2007,"Tamias speciosus frater","Tamias_speciosus",51,204,"male",6.4,1741,7.122366605322,129.446465122382,"Fall",190818
+9,-121.51827,40.46888,NA,2007,"Tamias speciosus frater","Tamias_speciosus",51,208,"female",6.5,1695,7.13422714592807,129.244001202661,"Fall",190876
+9,-119.12037,34.81579,NA,2004,"Tamias speciosus","Tamias_speciosus",51.3,205,"male",7.9,507,6.10422109294176,166.294838519191,"Fall",190410
+6,-119.55255,37.79383,NA,2004,"Tamias speciosus frater","Tamias_speciosus",51.5,203,"female",7.7,1021,6.30186961195331,120.653562583964,"Summer",190689
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",51.8,202,"female",1.4,815,7.02313816587497,110.399029088002,"Summer",190838
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",52,210,"female",7.2,493,7.17370514131613,122.253415305122,"Fall",190403
+7,-119.26115,37.77819,NA,2003,"Tamias speciosus frater","Tamias_speciosus",52,214,"female",3,951,6.99460831316132,107.961206872249,"Summer",190447
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",52,206,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190464
+7,-119.40804,37.7409,NA,2004,"Tamias speciosus frater","Tamias_speciosus",52,202,"male",5.6,956,6.37796276963962,117.914350618546,"Summer",190507
+10,-121.148229,40.7308689,NA,2004,"Tamias speciosus frater","Tamias_speciosus",52,215,"male",9,600,7.32596048103571,96.199939961984,"Fall",190527
+9,-121.57018,40.53759,NA,2006,"Tamias speciosus frater","Tamias_speciosus",52,197,"male",8.2,1390,7.23074244899072,99.3231076424111,"Fall",190534
+6,-119.7699,37.75775,NA,2003,"Tamias speciosus frater","Tamias_speciosus",52,203,"male",11,892,6.81564043545832,141.900378458005,"Summer",190617
+7,-119.25828,37.77211,NA,2003,"Tamias speciosus frater","Tamias_speciosus",52,206,"male",3,956,7.00642021594653,105.988147347613,"Summer",190639
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",52,217,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190649
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",52,210,"female",10.4,785,6.31971422445571,118.431904537028,"Summer",190670
+6,-119.64744,37.85723,NA,2004,"Tamias speciosus frater","Tamias_speciosus",52,210,"male",7.3,1060,6.24807243003065,122.760924882212,"Summer",190674
+9,-118.22762,36.48025,NA,2012,"Tamias speciosus sequoiensis","Tamias_speciosus",52,208,"male",1.3,435,6.08835824016672,98.3240821040729,"Fall",190738
+8,-116.9372,34.2228,NA,1991,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",52,171,"male",8.8,777,5.90351718482424,157.337747271869,"Summer",190783
+5,-118.71669,37.50122,NA,2011,"Tamias speciosus frater","Tamias_speciosus",52,219,"male",3.3,422,6.89823758783226,119.284715855091,"Spring",190827
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",52,209,"male",3.9,1035,6.44386012676667,111.490977701682,"Summer",190854
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",52,216,"male",3.9,1035,6.44386012676667,111.490977701682,"Summer",190857
+7,-119.27189,37.96321,NA,2005,"Tamias speciosus frater","Tamias_speciosus",52,206,"male",3.2,1107,6.68246801622565,113.415962253229,"Summer",190861
+8,-116.9372,34.2228,NA,1991,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",52.5,211,"male",8.8,777,5.90351718482424,157.337747271869,"Summer",190849
+7,-120.186294,39.445511,NA,1970,"Tamias speciosus","Tamias_speciosus",52.7,202,"female",5.8,1034,6.81488455626003,128.257940451314,"Summer",190598
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",53,210,"female",7.2,493,7.17370514131613,122.253415305122,"Fall",190405
+8,-119.43205,37.9007,NA,2003,"Tamias speciosus frater","Tamias_speciosus",53,205,"male",5.7,832,6.93412182288035,113.483395648658,"Summer",190477
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",53,195,"female",10.4,785,6.31971422445571,118.431904537028,"Summer",190482
+7,-119.39641,37.74036,NA,2004,"Tamias speciosus frater","Tamias_speciosus",53,206,"male",5.2,932,6.40985864733286,117.730166265641,"Summer",190500
+9,-118.22762,36.48025,NA,2012,"Tamias speciosus sequoiensis","Tamias_speciosus",53,201,"male",1.3,435,6.08835824016672,98.3240821040729,"Fall",190546
+8,-118.22762,36.48025,NA,2013,"Tamias speciosus sequoiensis","Tamias_speciosus",53,214,"male",1.2,212,6.27445518581397,116.025715273916,"Summer",190551
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",53,207,"male",7.2,493,7.17370514131613,122.253415305122,"Fall",190582
+6,-119.80015,37.75515,NA,2003,"Tamias speciosus frater","Tamias_speciosus",53,207,"male",11.3,889,6.8244380388025,137.400332651051,"Summer",190603
+7,-119.59743,37.66792,NA,2003,"Tamias speciosus frater","Tamias_speciosus",53,213,"female",9.3,932,6.86922760423527,141.278602735694,"Summer",190619
+7,-119.58647,37.69924,NA,2003,"Tamias speciosus frater","Tamias_speciosus",53,208,"male",9,975,6.81328359407807,132.470740321854,"Summer",190624
+6,-119.57801,37.8497,NA,2004,"Tamias speciosus frater","Tamias_speciosus",53,200,"male",6.9,1040,6.29089650112596,119.207717678316,"Summer",190688
+7,-119.41023,37.74069,NA,2004,"Tamias speciosus frater","Tamias_speciosus",53,222,"female",5.6,961,6.38537035303784,117.898261225516,"Summer",190694
+5,-119.80033,37.75817,NA,2005,"Tamias speciosus frater","Tamias_speciosus",53,205,"female",10.9,1186,6.43900872288067,112.983083953568,"Spring",190703
+7,-119.1706,37.87123,NA,2005,"Tamias speciosus frater","Tamias_speciosus",53,208,"female",5,833,6.71391025476889,110.568260396102,"Summer",190706
+10,-117.04618,34.26628,"unknown",1964,"Tamias speciosus","Tamias_speciosus",53,208,"male",8.6,360,6.94805401140885,101.563534377017,"Fall",190768
+9,-121.51827,40.46888,NA,2007,"Tamias speciosus frater","Tamias_speciosus",53,200,"male",6.5,1695,7.13422714592807,129.244001202661,"Fall",190879
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",53,220,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190889
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",53.3,208,"male",1.4,815,7.02313816587497,110.399029088002,"Summer",190847
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",53.5,202,"male",1.4,815,7.02313816587497,110.399029088002,"Summer",190774
+6,-118.78,37.47,NA,1973,"Tamias speciosus frater","Tamias_speciosus",53.8,215,"male",0.9,1092,6.98172940284465,114.626026346332,"Summer",190834
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",54,214,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190467
+6,-119.64744,37.85723,NA,2004,"Tamias speciosus frater","Tamias_speciosus",54,178,"male",7.3,1060,6.24807243003065,122.760924882212,"Summer",190485
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",54,215,"male",5.5,784,6.7517618351648,110.288353327975,"Summer",190518
+9,-121.51794,40.46886,NA,2006,"Tamias speciosus frater","Tamias_speciosus",54,210,"female",6.5,3526,7.37407415862966,107.555691189371,"Fall",190532
+9,-121.51794,40.46886,NA,2006,"Tamias speciosus frater","Tamias_speciosus",54,222,"female",6.5,3526,7.37407415862966,107.555691189371,"Fall",190533
+9,-119.2338889,37.23027778,NA,2006,"Tamias speciosus frater","Tamias_speciosus",54,197,"female",8.4,1085,6.79817265999853,137.556944755723,"Fall",190547
+7,-117.07706,34.25514,"unknown",1965,"Tamias speciosus","Tamias_speciosus",54,207,"female",8.8,912,6.05346757627145,143.082953785349,"Summer",190568
+7,-119.59743,37.66792,NA,2003,"Tamias speciosus frater","Tamias_speciosus",54,210,"female",9.3,932,6.86922760423527,141.278602735694,"Summer",190618
+7,-119.65707,37.67152,NA,2003,"Tamias speciosus frater","Tamias_speciosus",54,210,"male",9.7,931,6.92091143936369,139.12100043145,"Summer",190628
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",54,214,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190643
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",54,211,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190647
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",54,205,"male",10.4,785,6.31971422445571,118.431904537028,"Summer",190672
+7,-119.41345,37.74051,NA,2004,"Tamias speciosus frater","Tamias_speciosus",54,218,"female",5.7,968,6.37136111237171,117.95444146101,"Summer",190697
+9,-121.1797292,40.7345811,NA,2004,"Tamias speciosus frater","Tamias_speciosus",54,210,"male",9.1,578,7.25585970095894,97.6663126947716,"Fall",190725
+5,-118.34076,36.77276,NA,2007,"Tamias speciosus sequoiensis","Tamias_speciosus",54,223,"female",3.6,453,6.51269157224196,180.020336933187,"Spring",190730
+7,-119.41206,37.84117,NA,2007,"Tamias speciosus frater","Tamias_speciosus",54,230,"male",4.4,407,6.77930786670108,139.460207434389,"Summer",190869
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",54,217,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190886
+6,-121.33,40.41,NA,1958,"Tamias speciosus frater","Tamias_speciosus",54.5,212,"male",7.6,1599,6.63987038938855,96.0099887741301,"Summer",190778
+8,-121.32,40.92,NA,1958,"Tamias speciosus frater","Tamias_speciosus",54.5,215,"male",11,689,7.14059563766259,77.0080032083649,"Summer",190843
+7,-119.12037,34.81579,NA,2005,"Tamias speciosus","Tamias_speciosus",54.94,210,"male",7.9,853,5.52210434197294,142.814195541985,"Summer",190422
+8,-118.7835007,36.6181024,NA,1990,"Tamias (Neotamias) speciosus sequoiensis A. H. Howell, 1922","Tamias_speciosus",55,225,"female",6.2,551,6.5764674592386,109.450646535538,"Summer",190424
+6,-119.7699,37.75775,NA,2003,"Tamias speciosus frater","Tamias_speciosus",55,192,"male",11,892,6.81564043545832,141.900378458005,"Summer",190438
+7,-119.40804,37.7409,NA,2004,"Tamias speciosus frater","Tamias_speciosus",55,216,"male",5.6,956,6.37796276963962,117.914350618546,"Summer",190505
+7,-119.40804,37.7409,NA,2004,"Tamias speciosus frater","Tamias_speciosus",55,226,"female",5.6,956,6.37796276963962,117.914350618546,"Summer",190506
+7,-119.41345,37.74051,NA,2004,"Tamias speciosus frater","Tamias_speciosus",55,220,"female",5.7,968,6.37136111237171,117.95444146101,"Summer",190509
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",55,214,"male",5.5,784,6.7517618351648,110.288353327975,"Summer",190519
+7,-120.203517,39.432825,NA,1970,"Tamias speciosus","Tamias_speciosus",55,192,"female",5.6,1054,6.76889051380496,127.527938591505,"Summer",190595
+6,-119.80015,37.75515,NA,2003,"Tamias speciosus frater","Tamias_speciosus",55,181,"male",11.3,889,6.8244380388025,137.400332651051,"Summer",190606
+7,-119.26115,37.77819,NA,2003,"Tamias speciosus frater","Tamias_speciosus",55,203,"male",3,951,6.99460831316132,107.961206872249,"Summer",190635
+7,-119.25506,37.76807,NA,2003,"Tamias speciosus frater","Tamias_speciosus",55,210,"male",3,955,7.04212433513604,104.136122064979,"Summer",190638
+7,-119.1706,37.87123,NA,2005,"Tamias speciosus frater","Tamias_speciosus",55,207,"female",5,833,6.71391025476889,110.568260396102,"Summer",190707
+7,-119.26138,37.95217,NA,2005,"Tamias speciosus frater","Tamias_speciosus",55,206,"male",3.4,1036,6.70325000324921,113.272158143756,"Summer",190794
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",55,216,"male",3.9,1035,6.44386012676667,111.490977701682,"Summer",190799
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",55,206,"male",3.9,1035,6.44386012676667,111.490977701682,"Summer",190856
+6,-118.78,37.47,NA,1973,"Tamias speciosus frater","Tamias_speciosus",55.4,212,"female",0.9,1092,6.98172940284465,114.626026346332,"Summer",190773
+8,-121.29406,40.5895,NA,2007,"Tamias speciosus frater","Tamias_speciosus",55.5,221,"female",8.2,530,7.5594762925868,114.127344897098,"Summer",190733
+6,-119.57728,37.81435,NA,2004,"Tamias speciosus frater","Tamias_speciosus",56,225,"male",7.6,1035,6.31770000342952,120.820541171738,"Summer",190486
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",56,NA,"male",7.2,493,7.17370514131613,122.253415305122,"Fall",190578
+5,-119.04701,34.827853,NA,1976,"Tamias (Neotamias) speciosus callipeplus Merriam, 1893","Tamias_speciosus",56,210,"male",10.6,315,6.29980158417708,138.22309788974,"Spring",190594
+6,-119.79149,37.75139,NA,2003,"Tamias speciosus frater","Tamias_speciosus",56,213,"male",11.2,886,6.79946521961303,139.977484444154,"Summer",190608
+7,-119.58647,37.69924,NA,2003,"Tamias speciosus frater","Tamias_speciosus",56,199,"male",9,975,6.81328359407807,132.470740321854,"Summer",190623
+7,-119.25506,37.76807,NA,2003,"Tamias speciosus frater","Tamias_speciosus",56,205,"male",3,955,7.04212433513604,104.136122064979,"Summer",190636
+6,-119.64773,37.86644,NA,2004,"Tamias speciosus frater","Tamias_speciosus",56,223,"male",7.4,1053,6.23787915590198,122.166793806959,"Summer",190677
+7,-119.39641,37.74036,NA,2004,"Tamias speciosus frater","Tamias_speciosus",56,213,"male",5.2,932,6.40985864733286,117.730166265641,"Summer",190692
+7,-119.39641,37.74036,NA,2004,"Tamias speciosus frater","Tamias_speciosus",56,211,"female",5.2,932,6.40985864733286,117.730166265641,"Summer",190693
+7,-119.1706,37.87123,NA,2005,"Tamias speciosus frater","Tamias_speciosus",56,213,"female",5,833,6.71391025476889,110.568260396102,"Summer",190708
+8,-116.9372,34.2228,NA,1991,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",56,210,"female",8.8,777,5.90351718482424,157.337747271869,"Summer",190786
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",56,199,"female",3.9,1035,6.44386012676667,111.490977701682,"Summer",190798
+9,-121.51053,40.4705,NA,2007,"Tamias speciosus frater","Tamias_speciosus",56,201,"female",6.4,1741,7.122366605322,129.446465122382,"Fall",190815
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",56,218,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190822
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",56,226,"female",1.1,579,5.91947863183298,141.073274275398,"Summer",190823
+9,-121.51827,40.46888,NA,2007,"Tamias speciosus frater","Tamias_speciosus",56,206,"female",6.5,1695,7.13422714592807,129.244001202661,"Fall",190877
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",56,230,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190887
+7,-119.113,34.816,NA,2005,"Tamias speciosus","Tamias_speciosus",56.5,215,"male",8.2,843,5.54312979090224,143.018124205872,"Summer",190417
+5,-121.33,40.41,NA,1958,"Tamias speciosus frater","Tamias_speciosus",56.5,220,"male",7.6,1599,6.63987038938855,96.0099887741301,"Spring",190777
+6,-121.32,40.92,NA,1958,"Tamias speciosus frater","Tamias_speciosus",56.6,210,"male",11,689,7.14059563766259,77.0080032083649,"Summer",190840
+9,-119.12037,34.81579,NA,2004,"Tamias speciosus","Tamias_speciosus",56.7,200,"female",7.9,507,6.10422109294176,166.294838519191,"Fall",190584
+6,-120.4884833333,39.6221,"adult",2012,"Tamias speciosus","Tamias_speciosus",56.7,204,"male",8.5,1310,6.87804478031366,129.109357449129,"Summer",190600
+6,-120.4884833,39.6221,NA,2012,"Tamias speciosus","Tamias_speciosus",56.7,204,"male",8.5,1310,6.87804478031366,129.109357449129,"Summer",190771
+5,-121.32,40.92,NA,1958,"Tamias speciosus frater","Tamias_speciosus",56.7,204,"male",11,689,7.14059563766259,77.0080032083649,"Spring",190779
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",57,209,"female",7.2,493,7.17370514131613,122.253415305122,"Fall",190402
+9,-119.12037,34.81579,NA,2004,"Tamias speciosus","Tamias_speciosus",57,204,"female",7.9,507,6.10422109294176,166.294838519191,"Fall",190411
+7,-119.58647,37.69924,NA,2003,"Tamias speciosus frater","Tamias_speciosus",57,180,"male",9,975,6.81328359407807,132.470740321854,"Summer",190443
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",57,208,"female",5.5,784,6.7517618351648,110.288353327975,"Summer",190520
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",57,205,"male",5.5,784,6.7517618351648,110.288353327975,"Summer",190521
+8,-121.27663,40.58491,NA,2007,"Tamias speciosus frater","Tamias_speciosus",57,204,"female",8,536,7.50690591146821,115.09388999595,"Summer",190537
+11,-117.07706,34.25514,"unknown",1964,"Tamias speciosus","Tamias_speciosus",57,209,"male",8.8,403,6.8376132199368,102.765581288404,"Fall",190563
+6,-119.79149,37.75139,NA,2003,"Tamias speciosus frater","Tamias_speciosus",57,210,"male",11.2,886,6.79946521961303,139.977484444154,"Summer",190607
+6,-119.79149,37.75139,NA,2003,"Tamias speciosus frater","Tamias_speciosus",57,207,"male",11.2,886,6.79946521961303,139.977484444154,"Summer",190609
+6,-119.79149,37.75139,NA,2003,"Tamias speciosus frater","Tamias_speciosus",57,206,"male",11.2,886,6.79946521961303,139.977484444154,"Summer",190610
+8,-119.41385,37.91586,NA,2003,"Tamias speciosus frater","Tamias_speciosus",57,212,"male",5.5,775,6.9455675859435,110.154225898406,"Summer",190660
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",57,205,"male",5.5,784,6.7517618351648,110.288353327975,"Summer",190713
+9,-119.2338889,37.23027778,NA,2006,"Tamias speciosus frater","Tamias_speciosus",57,208,"female",8.4,1085,6.79817265999853,137.556944755723,"Fall",190740
+7,-117.07706,34.25514,"unknown",1965,"Tamias speciosus","Tamias_speciosus",57,218,"female",8.8,912,6.05346757627145,143.082953785349,"Summer",190766
+9,-121.51827,40.46888,NA,2007,"Tamias speciosus frater","Tamias_speciosus",57,209,"male",6.5,1695,7.13422714592807,129.244001202661,"Fall",190812
+7,-119.33899,38.06129,NA,2005,"Tamias speciosus frater","Tamias_speciosus",57,210,"male",3,1212,6.62700512823832,110.617510025956,"Summer",190863
+8,-119.41609,37.87649,NA,2005,"Tamias speciosus frater","Tamias_speciosus",57,205,"female",4.7,1152,6.53667392950008,111.194032517257,"Summer",190865
+10,-116.906977,34.232788,NA,2004,"Tamias speciosus","Tamias_speciosus",57.07,205,"male",8.4,670,6.08591891918625,122.409237999513,"Fall",190590
+9,-119.14733,34.811645,NA,2004,"Tamias speciosus","Tamias_speciosus",57.1,215,"male",8,577,6.18994174349636,168.034430240061,"Fall",190587
+10,-116.906977,34.232788,NA,2004,"Tamias speciosus","Tamias_speciosus",57.34,200,"female",8.4,670,6.08591891918625,122.409237999513,"Fall",190589
+9,-121.51053,40.4705,NA,2007,"Tamias speciosus frater","Tamias_speciosus",57.5,206,"female",6.4,1741,7.122366605322,129.446465122382,"Fall",190882
+7,-120.355,39.332556,NA,1968,"Tamias speciosus","Tamias_speciosus",57.9,205,"female",5.2,1482,6.42666674525336,96.1452793323697,"Summer",190427
+9,-118.98678,37.890149,NA,2004,"Tamias speciosus","Tamias_speciosus",58,211,"male",7.2,493,7.17370514131613,122.253415305122,"Fall",190401
+7,-119.26115,37.77819,NA,2003,"Tamias speciosus frater","Tamias_speciosus",58,207,"male",3,951,6.99460831316132,107.961206872249,"Summer",190449
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",58,220,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190455
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",58,218,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190459
+7,-119.39641,37.74036,NA,2004,"Tamias speciosus frater","Tamias_speciosus",58,227,"female",5.2,932,6.40985864733286,117.730166265641,"Summer",190498
+7,-119.41023,37.74069,NA,2004,"Tamias speciosus frater","Tamias_speciosus",58,212,"male",5.6,961,6.38537035303784,117.898261225516,"Summer",190508
+8,-121.29406,40.5895,NA,2007,"Tamias speciosus frater","Tamias_speciosus",58,219,"male",8.2,530,7.5594762925868,114.127344897098,"Summer",190539
+8,-118.678,36.602501,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",58,215,"female",4.6,1466,5.88456506979115,116.056993653606,"Summer",190542
+8,-118.22762,36.48025,NA,2013,"Tamias speciosus sequoiensis","Tamias_speciosus",58,214,"female",1.2,212,6.27445518581397,116.025715273916,"Summer",190549
+6,-117.07706,34.25514,"unknown",1965,"Tamias speciosus","Tamias_speciosus",58,201,"female",8.8,912,6.05346757627145,143.082953785349,"Summer",190567
+6,-119.79423,37.75048,NA,2003,"Tamias speciosus frater","Tamias_speciosus",58,208,"male",11.3,887,6.8054568123119,139.423653336621,"Summer",190614
+7,-119.58527,37.67037,NA,2003,"Tamias speciosus frater","Tamias_speciosus",58,213,"male",9.2,944,6.81248853210044,139.60702623708,"Summer",190622
+7,-119.1706,37.87123,NA,2005,"Tamias speciosus frater","Tamias_speciosus",58,193,"female",5,833,6.71391025476889,110.568260396102,"Summer",190709
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",58,214,"female",5.5,784,6.7517618351648,110.288353327975,"Summer",190717
+9,-121.57018,40.53759,NA,2006,"Tamias speciosus frater","Tamias_speciosus",58,203,"female",8.2,1390,7.23074244899072,99.3231076424111,"Fall",190727
+8,-119.65513,38.32825,"unknown",1965,"Tamias speciosus","Tamias_speciosus",58,218,"female",0.9,1629,5.38125252965133,107.344554842891,"Summer",190760
+8,-119.41978,37.64537,NA,2007,"Tamias speciosus frater","Tamias_speciosus",58,236,"female",4.6,541,6.90434645712395,158.129406376887,"Summer",190873
+8,-119.41978,37.64537,NA,2007,"Tamias speciosus frater","Tamias_speciosus",58,217,"female",4.6,541,6.90434645712395,158.129406376887,"Summer",190875
+6,-120.4872333333,39.6216666667,"adult",2012,"Tamias speciosus","Tamias_speciosus",58.5,209,"male",8.5,1298,6.87804478031366,129.249087779844,"Summer",190601
+7,-119.25723,37.7672,NA,2003,"Tamias speciosus frater","Tamias_speciosus",58.5,201,"male",3,966,7.03451986257553,105.351994224777,"Summer",190642
+6,-120.4872333,39.62166667,NA,2012,"Tamias speciosus","Tamias_speciosus",58.5,209,"male",8.5,1298,6.87804478031366,129.249087779844,"Summer",190829
+7,-119.12037,34.81579,NA,2005,"Tamias speciosus","Tamias_speciosus",58.53,201,"female",7.9,853,5.52210434197294,142.814195541985,"Summer",190423
+6,-120.4939,39.6159166667,"adult",2012,"Tamias speciosus","Tamias_speciosus",58.7,207,"male",8.4,1407,6.88826406420237,128.333864449427,"Summer",190428
+6,-120.4939,39.61591667,NA,2012,"Tamias speciosus","Tamias_speciosus",58.7,207,"male",8.4,1407,6.88826406420237,128.333864449427,"Summer",190828
+8,-121.32,40.92,NA,1958,"Tamias speciosus frater","Tamias_speciosus",58.7,213,"female",11,689,7.14059563766259,77.0080032083649,"Summer",190842
+9,-119.12037,34.81579,NA,2004,"Tamias speciosus","Tamias_speciosus",59,225,"female",7.9,507,6.10422109294176,166.294838519191,"Fall",190406
+9,-119.14733,34.811645,NA,2004,"Tamias speciosus","Tamias_speciosus",59,212,"male",8,577,6.18994174349636,168.034430240061,"Fall",190412
+7,-119.26115,37.77819,NA,2003,"Tamias speciosus frater","Tamias_speciosus",59,207,"male",3,951,6.99460831316132,107.961206872249,"Summer",190448
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",59,204,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190461
+8,-118.678,36.602501,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",59,228,"female",4.6,1466,5.88456506979115,116.056993653606,"Summer",190543
+6,-119.80015,37.75515,"embryo",2003,"Tamias speciosus frater","Tamias_speciosus",59,203,"female",11.3,889,6.8244380388025,137.400332651051,"Summer",190604
+7,-119.58647,37.69924,NA,2003,"Tamias speciosus frater","Tamias_speciosus",59,216,"male",9,975,6.81328359407807,132.470740321854,"Summer",190626
+7,-119.65707,37.67152,NA,2003,"Tamias speciosus frater","Tamias_speciosus",59,216,"female",9.7,931,6.92091143936369,139.12100043145,"Summer",190629
+6,-119.64744,37.85723,NA,2004,"Tamias speciosus frater","Tamias_speciosus",59,206,"male",7.3,1060,6.24807243003065,122.760924882212,"Summer",190673
+6,-119.63327,37.84631,NA,2004,"Tamias speciosus frater","Tamias_speciosus",59,212,"female",7.2,1059,6.23195577064478,122.739738699128,"Summer",190683
+5,-119.80033,37.75817,NA,2005,"Tamias speciosus frater","Tamias_speciosus",59,215,"male",10.9,1186,6.43900872288067,112.983083953568,"Spring",190702
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",59,210,"male",5.5,784,6.7517618351648,110.288353327975,"Summer",190715
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",59,217,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190821
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",59,190,"male",1.4,815,7.02313816587497,110.399029088002,"Summer",190837
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",59,212,"female",3.9,1035,6.44386012676667,111.490977701682,"Summer",190859
+8,-119.41978,37.64537,NA,2007,"Tamias speciosus frater","Tamias_speciosus",59,218,"male",4.6,541,6.90434645712395,158.129406376887,"Summer",190874
+9,-121.51827,40.46888,NA,2007,"Tamias speciosus frater","Tamias_speciosus",59,215,"female",6.5,1695,7.13422714592807,129.244001202661,"Fall",190878
+9,-119.12037,34.81579,NA,2004,"Tamias speciosus","Tamias_speciosus",59.6,NA,"male",7.9,507,6.10422109294176,166.294838519191,"Fall",190586
+5,-121.62814,40.59166,NA,2006,"Tamias speciosus frater","Tamias_speciosus",59.6,213,"female",9,1470,7.26003485257516,97.9693872236948,"Spring",190741
+9,-119.12037,34.81579,NA,2004,"Tamias speciosus","Tamias_speciosus",59.9,201,"male",7.9,507,6.10422109294176,166.294838519191,"Fall",190407
+7,-119.58527,37.67037,NA,2003,"Tamias speciosus frater","Tamias_speciosus",60,213,"male",9.2,944,6.81248853210044,139.60702623708,"Summer",190440
+7,-119.25723,37.7672,NA,2003,"Tamias speciosus frater","Tamias_speciosus",60,232,"female",3,966,7.03451986257553,105.351994224777,"Summer",190453
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",60,214,"male",5.7,791,6.95300240358382,112.015868532943,"Summer",190465
+8,-119.41385,37.91586,NA,2003,"Tamias speciosus frater","Tamias_speciosus",60,218,"male",5.5,775,6.9455675859435,110.154225898406,"Summer",190472
+8,-119.41385,37.91586,NA,2003,"Tamias speciosus frater","Tamias_speciosus",60,223,"female",5.5,775,6.9455675859435,110.154225898406,"Summer",190475
+7,-119.40804,37.7409,NA,2004,"Tamias speciosus frater","Tamias_speciosus",60,227,"female",5.6,956,6.37796276963962,117.914350618546,"Summer",190504
+9,-119.989889,38.480918,NA,2007,"Tamias speciosus frater","Tamias_speciosus",60,210,"female",6.8,582,7.17142372069997,100.732109784431,"Fall",190513
+9,-119.2338889,37.23027778,NA,2006,"Tamias speciosus frater","Tamias_speciosus",60,200,"female",8.4,1085,6.79817265999853,137.556944755723,"Fall",190548
+6,-119.7699,37.75775,NA,2003,"Tamias speciosus frater","Tamias_speciosus",60,208,"male",11,892,6.81564043545832,141.900378458005,"Summer",190616
+7,-119.25723,37.7672,NA,2003,"Tamias speciosus frater","Tamias_speciosus",60,218,"female",3,966,7.03451986257553,105.351994224777,"Summer",190641
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",60,223,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190652
+10,-121.32,40.92,NA,1958,"Tamias speciosus frater","Tamias_speciosus",60,212,"female",11,689,7.14059563766259,77.0080032083649,"Fall",190782
+7,-119.41206,37.84117,NA,2007,"Tamias speciosus frater","Tamias_speciosus",60,217,"female",4.4,407,6.77930786670108,139.460207434389,"Summer",190868
+9,-121.51053,40.4705,NA,2007,"Tamias speciosus frater","Tamias_speciosus",60,189,"female",6.4,1741,7.122366605322,129.446465122382,"Fall",190883
+7,-119.113,34.816,NA,2005,"Tamias speciosus","Tamias_speciosus",60.1,215,"male",8.2,843,5.54312979090224,143.018124205872,"Summer",190416
+6,-120.4929,39.6155666667,"adult",2012,"Tamias speciosus","Tamias_speciosus",60.1,209,"male",8.4,1397,6.89010599381901,128.408679771612,"Summer",190599
+6,-120.4929,39.61556667,NA,2012,"Tamias speciosus","Tamias_speciosus",60.1,209,"male",8.4,1397,6.89010599381901,128.408679771612,"Summer",190770
+7,-119.12037,34.81579,NA,2005,"Tamias speciosus","Tamias_speciosus",60.2,224,"female",7.9,853,5.52210434197294,142.814195541985,"Summer",190419
+6,-119.79336,37.74995,"embryo",2003,"Tamias speciosus frater","Tamias_speciosus",60.3,230,"female",11.3,887,6.81141532927473,139.77050136521,"Summer",190434
+6,-118.78,37.47,NA,1973,"Tamias speciosus frater","Tamias_speciosus",60.4,212,"female",0.9,1092,6.98172940284465,114.626026346332,"Summer",190833
+6,-119.14582,34.8214123,"unknown",1966,"Tamias speciosus","Tamias_speciosus",60.7,222,"female",8.9,417,6.6256846415821,150.029754633428,"Summer",190763
+6,-119.79149,37.75139,NA,2003,"Tamias speciosus frater","Tamias_speciosus",61,218,"male",11.2,886,6.79946521961303,139.977484444154,"Summer",190431
+8,-118.22762,36.48025,NA,2013,"Tamias speciosus sequoiensis","Tamias_speciosus",61,208,"male",1.2,212,6.27445518581397,116.025715273916,"Summer",190550
+10,-117.04618,34.26628,"unknown",1964,"Tamias speciosus","Tamias_speciosus",61,217,"female",8.6,360,6.94805401140885,101.563534377017,"Fall",190574
+9,-119.26396,37.90811,NA,2003,"Tamias speciosus frater","Tamias_speciosus",61,221,"female",3.6,799,6.96268735126856,98.7548390653363,"Fall",190667
+8,-118.677,36.601398,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",61,220,"female",4.6,1464,5.88137790493062,115.918136390453,"Summer",190736
+8,-119.25506,37.76807,NA,2005,"Tamias speciosus frater","Tamias_speciosus",61,220,"female",2.6,1372,6.57351780735676,112.030560774262,"Summer",190802
+8,-116.9372,34.2228,NA,1991,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",61,206,"female",8.8,777,5.90351718482424,157.337747271869,"Summer",190848
+9,-121.51053,40.4705,NA,2007,"Tamias speciosus frater","Tamias_speciosus",61,205,"female",6.4,1741,7.122366605322,129.446465122382,"Fall",190881
+6,-119.14582,34.8214123,"unknown",1966,"Tamias speciosus","Tamias_speciosus",61.3,230,"male",8.9,417,6.6256846415821,150.029754633428,"Summer",190765
+8,-121.32,40.92,NA,1958,"Tamias speciosus frater","Tamias_speciosus",61.4,203,"male",11,689,7.14059563766259,77.0080032083649,"Summer",190841
+6,-119.14582,34.8214123,"unknown",1966,"Tamias speciosus","Tamias_speciosus",61.6,222,"female",8.9,417,6.6256846415821,150.029754633428,"Summer",190573
+6,-119.14582,34.8214123,"unknown",1966,"Tamias speciosus","Tamias_speciosus",61.6,217,"male",8.9,417,6.6256846415821,150.029754633428,"Summer",190764
+7,-119.273385,37.972866,"unknown",1973,"Tamias speciosus","Tamias_speciosus",61.7,214,"female",1.4,1154,6.86825702383469,95.2564827872344,"Summer",190572
+7,-119.65707,37.67152,NA,2003,"Tamias speciosus frater","Tamias_speciosus",62,219,"male",9.7,931,6.92091143936369,139.12100043145,"Summer",190446
+7,-119.26395,37.77719,NA,2003,"Tamias speciosus frater","Tamias_speciosus",62,203,"female",2.9,965,6.99018250943075,109.415325639386,"Summer",190450
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",62,222,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190463
+8,-119.41607,37.91042,NA,2003,"Tamias speciosus frater","Tamias_speciosus",62,246,"female",5.6,776,6.93608810366608,110.352930948972,"Summer",190476
+8,-121.27663,40.58491,NA,2007,"Tamias speciosus frater","Tamias_speciosus",62,227,"female",8,536,7.50690591146821,115.09388999595,"Summer",190541
+6,-119.63327,37.84631,NA,2004,"Tamias speciosus frater","Tamias_speciosus",62,210,"male",7.2,1059,6.23195577064478,122.739738699128,"Summer",190681
+9,-119.989889,38.480918,NA,2007,"Tamias speciosus frater","Tamias_speciosus",62,215,"female",6.8,582,7.17142372069997,100.732109784431,"Fall",190700
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",62,201,"female",5.5,784,6.7517618351648,110.288353327975,"Summer",190719
+7,-117.07706,34.25514,"unknown",1965,"Tamias speciosus","Tamias_speciosus",62,231,"female",8.8,912,6.05346757627145,143.082953785349,"Summer",190758
+7,-117.08941,34.25089,"unknown",1965,"Tamias speciosus","Tamias_speciosus",62,187,"female",9,967,6.05346757627145,143.725003759468,"Summer",190759
+7,-121.28095,40.5858,NA,2007,"Tamias speciosus frater","Tamias_speciosus",62.1,217,"female",8,533,7.51984747588713,115.066141737081,"Summer",190734
+8,-119.4952298,37.8437905,NA,2011,"Tamias speciosus frater","Tamias_speciosus",62.5,222,"female",4.3,1032,6.85262060024551,130.513208992038,"Summer",190552
+10,-116.9372,34.2228,NA,1989,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",62.5,202,"female",9,216,5.79255007433137,111.207453410665,"Fall",190788
+6,-119.80131,37.75731,"embryo",2003,"Tamias speciosus frater","Tamias_speciosus",62.8,224,"female",11.3,889,6.83167755253555,137.069274114511,"Summer",190615
+7,-119.41025,37.74069,NA,2004,"Tamias speciosus frater","Tamias_speciosus",63,215,"female",5.6,961,6.38537035303784,117.898261225516,"Summer",190510
+8,-121.27663,40.58491,NA,2007,"Tamias speciosus frater","Tamias_speciosus",63,200,"female",8,536,7.50690591146821,115.09388999595,"Summer",190536
+6,-119.79149,37.75139,NA,2003,"Tamias speciosus frater","Tamias_speciosus",63,212,"male",11.2,886,6.79946521961303,139.977484444154,"Summer",190611
+8,-119.43205,37.9007,NA,2003,"Tamias speciosus frater","Tamias_speciosus",63,214,"female",5.7,832,6.93412182288035,113.483395648658,"Summer",190666
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",63,214,"female",5.5,784,6.7517618351648,110.288353327975,"Summer",190710
+8,-121.27663,40.58491,NA,2007,"Tamias speciosus frater","Tamias_speciosus",63,215,"female",8,536,7.50690591146821,115.09388999595,"Summer",190731
+9,-118.22762,36.48025,NA,2012,"Tamias speciosus sequoiensis","Tamias_speciosus",63,220,"female",1.3,435,6.08835824016672,98.3240821040729,"Fall",190737
+8,-116.9372,34.2228,NA,1991,"Tamias (Neotamias) speciosus speciosus Merriam, 1890","Tamias_speciosus",63,240,"male",8.8,777,5.90351718482424,157.337747271869,"Summer",190789
+7,-119.48155,38.12206,NA,2006,"Tamias speciosus frater","Tamias_speciosus",63,218,"female",2.9,1321,7.00452234869255,123.435665981772,"Summer",190804
+7,-119.12037,34.81579,NA,2005,"Tamias speciosus","Tamias_speciosus",63.32,215,"female",7.9,853,5.52210434197294,142.814195541985,"Summer",190591
+7,-119.113,34.816,NA,2005,"Tamias speciosus","Tamias_speciosus",63.4,205,"female",8.2,843,5.54312979090224,143.018124205872,"Summer",190415
+10,-116.906977,34.232788,NA,2004,"Tamias speciosus","Tamias_speciosus",63.62,200,"male",8.4,670,6.08591891918625,122.409237999513,"Fall",190414
+7,-119.12037,34.81579,NA,2005,"Tamias speciosus","Tamias_speciosus",63.9,211,"male",7.9,853,5.52210434197294,142.814195541985,"Summer",190592
+6,-119.7993,37.74597,"embryo",2003,"Tamias speciosus frater","Tamias_speciosus",64,203,"female",11.4,888,6.81560153195771,137.581043513513,"Summer",190435
+6,-119.63327,37.84631,NA,2004,"Tamias speciosus frater","Tamias_speciosus",64,215,"female",7.2,1059,6.23195577064478,122.739738699128,"Summer",190489
+7,-119.39641,37.74036,NA,2004,"Tamias speciosus frater","Tamias_speciosus",64,209,"male",5.2,932,6.40985864733286,117.730166265641,"Summer",190501
+7,-119.41345,37.74051,NA,2004,"Tamias speciosus frater","Tamias_speciosus",64,215,"female",5.7,968,6.37136111237171,117.95444146101,"Summer",190696
+9,-119.12037,34.81579,NA,2004,"Tamias speciosus","Tamias_speciosus",64.4,218,"female",7.9,507,6.10422109294176,166.294838519191,"Fall",190585
+6,-118.78,37.47,NA,1973,"Tamias speciosus frater","Tamias_speciosus",64.6,218,"female",0.9,1092,6.98172940284465,114.626026346332,"Summer",190832
+7,-119.12037,34.81579,NA,2005,"Tamias speciosus","Tamias_speciosus",64.75,215,"female",7.9,853,5.52210434197294,142.814195541985,"Summer",190421
+7,-119.65707,37.67152,NA,2003,"Tamias speciosus frater","Tamias_speciosus",65,217,"female",9.7,931,6.92091143936369,139.12100043145,"Summer",190445
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",65,226,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190457
+8,-119.59468,38.17609,NA,2005,"Tamias speciosus frater","Tamias_speciosus",65,210,"female",3.1,1721,6.6212925589733,98.7177947817405,"Summer",190514
+6,-123.00645,41.88429,NA,1969,"Tamias (Neotamias) speciosus frater J. A. Allen, 1890","Tamias_speciosus",65,205,"female",10,887,7.10868014003537,128.442373807616,"Summer",190593
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",65,224,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190651
+6,-119.57801,37.8497,NA,2004,"Tamias speciosus frater","Tamias_speciosus",65,210,"female",6.9,1040,6.29089650112596,119.207717678316,"Summer",190687
+9,-119.989889,38.480918,NA,2007,"Tamias speciosus frater","Tamias_speciosus",65,205,"female",6.8,582,7.17142372069997,100.732109784431,"Fall",190701
+9,-121.57018,40.53759,NA,2006,"Tamias speciosus frater","Tamias_speciosus",65,221,"female",8.2,1390,7.23074244899072,99.3231076424111,"Fall",190729
+7,-119.58527,37.67037,NA,2003,"Tamias speciosus frater","Tamias_speciosus",66,225,"female",9.2,944,6.81248853210044,139.60702623708,"Summer",190441
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",66,230,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190460
+8,-119.43205,37.9007,NA,2003,"Tamias speciosus frater","Tamias_speciosus",66,214,"female",5.7,832,6.93412182288035,113.483395648658,"Summer",190478
+7,-119.25506,37.76807,NA,2003,"Tamias speciosus frater","Tamias_speciosus",66,208,"female",3,955,7.04212433513604,104.136122064979,"Summer",190637
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",66,218,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190650
+6,-119.64744,37.85723,NA,2004,"Tamias speciosus frater","Tamias_speciosus",66,212,"female",7.3,1060,6.24807243003065,122.760924882212,"Summer",190676
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",66,208,"male",5.5,784,6.7517618351648,110.288353327975,"Summer",190711
+7,-119.47916,38.13027,NA,2006,"Tamias speciosus frater","Tamias_speciosus",66,219,"female",3,1311,7.05295983429953,123.590900264629,"Summer",190806
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",66,217,"female",3.9,1035,6.44386012676667,111.490977701682,"Summer",190858
+8,-119.25506,37.76807,NA,2005,"Tamias speciosus frater","Tamias_speciosus",66,225,"female",2.6,1372,6.57351780735676,112.030560774262,"Summer",190862
+10,-121.32,40.92,NA,1958,"Tamias speciosus frater","Tamias_speciosus",66.5,214,"male",11,689,7.14059563766259,77.0080032083649,"Fall",190781
+7,-119.12037,34.81579,NA,2005,"Tamias speciosus","Tamias_speciosus",66.58,220,"female",7.9,853,5.52210434197294,142.814195541985,"Summer",190420
+8,-121.32,40.92,NA,1958,"Tamias speciosus frater","Tamias_speciosus",66.7,217,"female",11,689,7.14059563766259,77.0080032083649,"Summer",190780
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",67,221,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190456
+6,-119.79423,37.75048,"embryo",2003,"Tamias speciosus frater","Tamias_speciosus",67.5,213,"female",11.3,887,6.8054568123119,139.423653336621,"Summer",190433
+7,-119.26115,37.77819,NA,2003,"Tamias speciosus frater","Tamias_speciosus",68,210,"female",3,951,6.99460831316132,107.961206872249,"Summer",190634
+8,-118.678,36.602501,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",68,230,"female",4.6,1466,5.88456506979115,116.056993653606,"Summer",190735
+8,-119.5622882,38.3218564,"unknown",1965,"Tamias speciosus","Tamias_speciosus",68,210,"female",3,1100,5.66463644558113,107.797010208889,"Summer",190761
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",68,210,"female",3.9,1035,6.44386012676667,111.490977701682,"Summer",190796
+8,-118.2188,36.4775,NA,2010,"Tamias speciosus sequoiensis","Tamias_speciosus",68,228,"male",1.1,579,5.91947863183298,141.073274275398,"Summer",190890
+6,-120.494,39.6148166667,"adult",2012,"Tamias speciosus","Tamias_speciosus",68.8,218,"female",8.3,1413,6.89221673448764,128.405763281102,"Summer",190602
+6,-120.494,39.61481667,NA,2012,"Tamias speciosus","Tamias_speciosus",68.8,218,"female",8.3,1413,6.89221673448764,128.405763281102,"Summer",190830
+7,-119.26395,37.77719,NA,2003,"Tamias speciosus frater","Tamias_speciosus",69,218,"female",2.9,965,6.99018250943075,109.415325639386,"Summer",190451
+7,-119.58647,37.69924,NA,2003,"Tamias speciosus frater","Tamias_speciosus",69,218,"female",9,975,6.81328359407807,132.470740321854,"Summer",190625
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",69,217,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190644
+6,-119.61269,37.84469,NA,2004,"Tamias speciosus frater","Tamias_speciosus",69,215,"female",7.3,1046,6.26894703835476,121.482904627697,"Summer",190680
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",69,198,"female",5.5,784,6.7517618351648,110.288353327975,"Summer",190720
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",70,222,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190645
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",70,225,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190648
+6,-119.57728,37.81435,NA,2004,"Tamias speciosus frater","Tamias_speciosus",70,223,"female",7.6,1035,6.31770000342952,120.820541171738,"Summer",190678
+7,-119.33617,37.79778,NA,2004,"Tamias speciosus frater","Tamias_speciosus",70,226,"female",3,1043,6.53714329231373,119.717640025433,"Summer",190690
+8,-119.47916,38.13027,NA,2006,"Tamias speciosus frater","Tamias_speciosus",70,215,"female",3,1311,7.05295983429953,123.590900264629,"Summer",190808
+6,-118.73,37.45,NA,1973,"Tamias speciosus frater","Tamias_speciosus",70.4,214,"female",1.4,815,7.02313816587497,110.399029088002,"Summer",190776
+7,-121.52141,40.57337,NA,2004,"Tamias speciosus frater","Tamias_speciosus",70.5,198,"male",9,1193,6.78301689381784,114.216061800407,"Summer",190524
+7,-119.65707,37.67152,NA,2003,"Tamias speciosus frater","Tamias_speciosus",71,192,"female",9.7,931,6.92091143936369,139.12100043145,"Summer",190444
+8,-119.42421,37.9136,NA,2003,"Tamias speciosus frater","Tamias_speciosus",71,222,"female",5.7,796,6.95478906287537,112.415525602352,"Summer",190474
+8,-119.74298,37.75456,NA,2004,"Tamias speciosus frater","Tamias_speciosus",71,222,"female",10.4,785,6.31971422445571,118.431904537028,"Summer",190512
+7,-119.58527,37.67037,NA,2003,"Tamias speciosus frater","Tamias_speciosus",71,211,"female",9.2,944,6.81248853210044,139.60702623708,"Summer",190621
+6,-120.4871,39.6217833333,"adult",2012,"Tamias speciosus","Tamias_speciosus",71.6,215,"female",8.5,1296,6.87804478031366,129.298274906733,"Summer",190429
+6,-120.4871,39.62178333,NA,2012,"Tamias speciosus","Tamias_speciosus",71.6,215,"female",8.5,1296,6.87804478031366,129.298274906733,"Summer",190772
+6,-119.56924,37.77441,NA,2004,"Tamias speciosus frater","Tamias_speciosus",72,218,"female",8.9,962,6.46830852321649,122.106349969069,"Summer",190494
+6,-119.79149,37.75139,NA,2003,"Tamias speciosus frater","Tamias_speciosus",72,215,"female",11.2,886,6.79946521961303,139.977484444154,"Summer",190612
+7,-119.25996,37.76358,NA,2003,"Tamias speciosus frater","Tamias_speciosus",72,226,"female",2.9,986,7.06675957629032,106.902867317468,"Summer",190640
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",73,234,"female",5.5,784,6.7517618351648,110.288353327975,"Summer",190716
+11,-121.32,40.92,NA,1958,"Tamias speciosus frater","Tamias_speciosus",73,225,"female",11,689,7.14059563766259,77.0080032083649,"Fall",190844
+8,-119.5946,38.17061,NA,2005,"Tamias speciosus frater","Tamias_speciosus",74,211,"female",3,1740,6.59460293564274,98.6033700292559,"Summer",190515
+6,-119.80131,37.75731,"embryo",2003,"Tamias speciosus frater","Tamias_speciosus",74,220,"female",11.3,889,6.83167755253555,137.069274114511,"Summer",190613
+7,-119.62117,37.66436,NA,2003,"Tamias speciosus frater","Tamias_speciosus",74,220,"female",9.3,919,6.88663065788937,143.517809149776,"Summer",190631
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",74,204,"female",5.5,784,6.7517618351648,110.288353327975,"Summer",190718
+7,-119.12037,34.81579,NA,2005,"Tamias speciosus","Tamias_speciosus",74.9,220,"female",7.9,853,5.52210434197294,142.814195541985,"Summer",190418
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",75,232,"female",5.5,784,6.7517618351648,110.288353327975,"Summer",190522
+7,-119.62117,37.66436,NA,2003,"Tamias speciosus frater","Tamias_speciosus",75,218,"female",9.3,919,6.88663065788937,143.517809149776,"Summer",190630
+8,-119.59468,38.17609,NA,2005,"Tamias speciosus frater","Tamias_speciosus",75,220,"female",3.1,1721,6.6212925589733,98.7177947817405,"Summer",190704
+8,-119.3605,37.88325,NA,2005,"Tamias speciosus frater","Tamias_speciosus",76,233,"female",3.9,1035,6.44386012676667,111.490977701682,"Summer",190855
+6,-119.79149,37.75139,"embryo",2003,"Tamias speciosus frater","Tamias_speciosus",77,215,"female",11.2,886,6.79946521961303,139.977484444154,"Summer",190432
+9,-121.51794,40.46886,NA,2006,"Tamias speciosus frater","Tamias_speciosus",77,212,"female",6.5,3526,7.37407415862966,107.555691189371,"Fall",190531
+7,-119.62117,37.66436,NA,2003,"Tamias speciosus frater","Tamias_speciosus",78,228,"female",9.3,919,6.88663065788937,143.517809149776,"Summer",190632
+7,-119.6481,37.8714,NA,1989,"Tamias (Neotamias) speciosus frater J. A. Allen, 1890","Tamias_speciosus",79,220,"female",6.3,810,6.07069463351051,111.585480190591,"Summer",190785
+8,-119.42225,37.91355,NA,2003,"Tamias speciosus frater","Tamias_speciosus",82,215,"female",5.7,791,6.95300240358382,112.015868532943,"Summer",190462
+7,-119.16125,37.87078,NA,2005,"Tamias speciosus frater","Tamias_speciosus",83,209,"female",5.5,784,6.7517618351648,110.288353327975,"Summer",190714
+6,-119.7699,37.75775,NA,2003,"Tamias speciosus frater","Tamias_speciosus",85,225,"female",11,892,6.81564043545832,141.900378458005,"Summer",190436
+1,-117.57139,34.42611,"unknown",1967,"Tamias speciosus","Tamias_speciosus",86,201,"female",13.8,300,7.54616097459797,99.8950549120917,"Winter",190569
+10,-119.14733,34.811645,NA,1973,"Tamias speciosus","Tamias_speciosus",94.2,225,"female",8.4,709,6.70781430327888,143.051259799685,"Fall",190896

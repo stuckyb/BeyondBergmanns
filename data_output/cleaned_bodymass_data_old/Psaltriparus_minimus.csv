@@ -1,0 +1,1120 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+4,-122.254,37.8614,"nestling",2003,"Psaltriparus minimus minimus","Psaltriparus_minimus",1.7,NA,"undetermined",14.6,570,3.24021838021994,113.651082229349,"Spring",111163
+5,-118.7747383,34.2447654,"chick",2005,NA,"Psaltriparus_minimus",2.15,NA,"undetermined",16.3,707,3.59869504968205,170.145931789021,"Spring",111877
+5,-118.7747383,34.2447654,"chick",2005,NA,"Psaltriparus_minimus",2.65,NA,"undetermined",16.3,707,3.59869504968205,170.145931789021,"Spring",111876
+5,-118.301651,34.0320587,NA,1993,"Psaltriparus minimus minimus","Psaltriparus_minimus",3,NA,"male",17.3,581,3.17159504847563,190.287760970558,"Spring",111080
+1,-117.9692001,34.0022125,NA,1982,"Psaltriparus minimus minimus","Psaltriparus_minimus",3,NA,"female",17.7,434,4.67037731264019,107.233263441069,"Winter",111470
+5,-118.7747383,34.2447654,"chick",2005,NA,"Psaltriparus_minimus",3.05,NA,"undetermined",16.3,707,3.59869504968205,170.145931789021,"Spring",111875
+5,-118.7747383,34.2447654,"chick",2005,NA,"Psaltriparus_minimus",3.1,NA,"undetermined",16.3,707,3.59869504968205,170.145931789021,"Spring",111874
+1,-123.61833,40.91792,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",3.3,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",111790
+2,-121.93957,37.46675,"U",1990,"Psaltriparus minimus minimus","Psaltriparus_minimus",3.3,NA,"undetermined",14.9,219,4.73974171397045,102.265839988483,"Winter",111883
+5,-118.7747383,34.2447654,"chick",2005,NA,"Psaltriparus_minimus",3.35,NA,"undetermined",16.3,707,3.59869504968205,170.145931789021,"Spring",111447
+11,-115.589072,35.522215,NA,1987,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",3.4,NA,"undetermined",10.7,319,7.80583988841921,94.3301428523494,"Fall",111060
+6,-115.28361,36.63,"ad.",1964,"Psaltriparus minimus providentialis","Psaltriparus_minimus",3.4,NA,"male",10.1,115,8.49008334184743,79.8062728407785,"Summer",111630
+5,-103.6944103,30.4447763,NA,1967,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",3.5,NA,"undetermined",16.5,401,6.585676606366,128.704842610807,"Spring",111431
+6,-117.8671646,33.8427601,NA,1980,"Psaltriparus minimus minimus","Psaltriparus_minimus",3.6,NA,"undetermined",18.1,432,3.12172252372813,162.258522741595,"Summer",110966
+5,-103.0598561,29.8169754,"natal",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",3.6,NA,"undetermined",18.8,271,8.2043595211031,74.5671402793839,"Spring",111043
+11,-115.864167,32.288333,"u ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",3.6,NA,"male",16.9,304,5.85312659260766,129.574444396434,"Fall",111221
+6,-117.8671646,33.8427601,NA,1980,"Psaltriparus minimus minimus","Psaltriparus_minimus",3.6,NA,"undetermined",18.1,432,3.12172252372813,162.258522741595,"Summer",111536
+6,-103.259468,29.338189,"juvenile",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",3.6,NA,"female",18.4,359,7.44914068666292,78.7400787401181,"Summer",111563
+6,-103.259468,29.338189,"juvenile",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",3.7,NA,"female",18.4,359,7.44914068666292,78.7400787401181,"Summer",110989
+2,-121.93957,37.46675,"U",1987,"Psaltriparus minimus minimus","Psaltriparus_minimus",3.7,NA,"undetermined",15.2,335,4.00677456618692,114.172692506262,"Winter",111884
+5,-103.259468,29.338189,"juvenile",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",3.8,NA,"female",18.4,359,7.44914068666292,78.7400787401181,"Spring",110985
+6,-117.8671646,33.8427601,NA,1980,"Psaltriparus minimus minimus","Psaltriparus_minimus",3.8,NA,"undetermined",18.1,432,3.12172252372813,162.258522741595,"Summer",111572
+1,-123.61833,40.91792,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",3.9,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",111350
+6,-118.3697505,34.0870635,NA,2000,"Psaltriparus minimus minimus","Psaltriparus_minimus",3.9,NA,"undetermined",16.2,316,2.79799711915289,176.315288038777,"Summer",111506
+5,-121.94669,37.74771,"FLEDGLING",2002,"Psaltriparus minimus","Psaltriparus_minimus",3.9,NA,"undetermined",15.1,540,4.83104700365409,176.853658742334,"Spring",111892
+6,-122.25148,37.80098,"U-Fledgling",2001,"Psaltriparus minimus","Psaltriparus_minimus",3.9,NA,"undetermined",14.6,663,3.06222092111215,132.694244034351,"Summer",111991
+5,-103.0598561,29.8169754,"natal",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4,NA,"female",18.8,271,8.2043595211031,74.5671402793839,"Spring",111071
+6,-118.6182556,34.5731062,"juvenile",1980,NA,"Psaltriparus_minimus",4,96,"male",16.9,630,4.96814092417116,169.828314768569,"Summer",111441
+12,-118.886371,34.188228,NA,2002,"Psaltriparus minimus minimus","Psaltriparus_minimus",4,NA,"female",15.5,245,3.43797861681788,179.738840841021,"Winter",111561
+3,-122.24209,37.86841,"adult skull",2000,"Psaltriparus minimus minimus","Psaltriparus_minimus",4,NA,"undetermined",14.2,704,3.09216997455107,131.191290400448,"Spring",111641
+1,-123.61833,40.91792,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",4,NA,"male",13.6,1528,5.93951839696442,106.452584296409,"Winter",111788
+11,-115.7230556,31.4,"ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Fall",111941
+6,-122.52374,38.08096,"nestling",2003,"Psaltriparus minimus","Psaltriparus_minimus",4,NA,"undetermined",14.9,697,3.93246009823907,118.716517391049,"Summer",111993
+5,-103.0598561,29.8169754,"natal",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.1,NA,"undetermined",18.8,271,8.2043595211031,74.5671402793839,"Spring",111004
+1,-123.61833,40.91792,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.1,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",111351
+6,-122.55927,38.09214,"Ad",2002,"Psaltriparus minimus","Psaltriparus_minimus",4.1,NA,"female",14.7,718,3.92832565150121,174.773112244844,"Summer",111891
+6,-122.7228,38.43761,"U-Ad.",1990,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.1,NA,"undetermined",14.4,414,4.96407548840118,123.566806258883,"Summer",111980
+6,-122.7228,38.43761,"Juv",1987,"Psaltriparus minimus","Psaltriparus_minimus",4.1,NA,"undetermined",14.7,779,4.14429143704343,116.132772598592,"Summer",111982
+8,-99.3955167,30.0416667,NA,2010,"Psaltriparus minimus","Psaltriparus_minimus",4.1,NA,"female",18.3,835,7.77963055132771,84.6145044430334,"Summer",112067
+1,-121.9267,37.43492,"unknown",2006,"Psaltriparus minimus","Psaltriparus_minimus",4.16,97,"female",15.1,438,4.15965470594943,116.720046050087,"Winter",111994
+6,-118.4559631,34.0563572,"juvenile",1988,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.2,NA,"male",17.5,290,2.84449228574035,125.696352145692,"Summer",111050
+1,-124.1530252,41.104244,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.2,NA,"female",11.2,1645,2.83114443076979,99.0694154330484,"Winter",111787
+5,-118.7747383,34.2447654,"chick",2005,NA,"Psaltriparus_minimus",4.2,NA,"undetermined",16.3,707,3.59869504968205,170.145931789021,"Spring",111873
+6,-121.93957,37.46675,"U",1990,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.2,NA,"undetermined",14.9,219,4.73974171397045,102.265839988483,"Summer",111886
+8,-116.39528,34.05639,"ad.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.3,NA,"female",14.3,82,5.90174601796842,107.145599754757,"Summer",111112
+11,-116.35,32.6,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4.3,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",111226
+1,-123.61833,40.91792,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.3,NA,"female",13.6,1528,5.93951839696442,106.452584296409,"Winter",111789
+5,-121.74847,37.69194,"Nestling",2012,"Psaltriparus minimus","Psaltriparus_minimus",4.3,49,"undetermined",14.9,409,4.60910659850297,118.864026561099,"Spring",111894
+5,-121.121,41.559333,"u ad.",1948,"Psaltriparus minimus californicus","Psaltriparus_minimus",4.3,NA,"male",6.9,535,7.67113341552524,55.7882228478946,"Spring",111938
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.3,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",111965
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.3,NA,"female",19.5,421,6.71651063808546,131.924530064174,"Summer",112043
+8,-121.9267,37.43492,"unknown",2005,"Psaltriparus minimus","Psaltriparus_minimus",4.35,90,"female",15.6,514,3.54947712752003,118.144444968243,"Summer",111996
+5,-103.0598561,29.8169754,"natal",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.4,NA,"undetermined",18.8,271,8.2043595211031,74.5671402793839,"Spring",111512
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.4,NA,"undetermined",14.6,331,4.62963936025913,134.017344879458,"Spring",111644
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.4,NA,"undetermined",14.6,331,4.62963936025913,134.017344879458,"Spring",111646
+8,-121.0361,36.4814,"ad.",1936,"Psaltriparus minimus californicus","Psaltriparus_minimus",4.4,NA,"female",14.4,614,5.96130832701153,160.513533885601,"Summer",111737
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.4,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",111764
+7,-97.08359,16.38414,"U-Ad.",1965,"Psaltriparus minimus melonotis","Psaltriparus_minimus",4.4,NA,"male",21.2,1094,1.65389805849054,122.122213747472,"Summer",111979
+12,-121.93957,37.46675,"U",1989,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.4,NA,"undetermined",14.7,225,4.03111947756752,110.058203150915,"Winter",111988
+10,-118.301651,34.0320587,NA,1991,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.5,NA,"undetermined",17.5,385,3.06330926227889,164.544504672442,"Fall",111064
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.5,NA,"undetermined",14.6,331,4.62963936025913,134.017344879458,"Spring",111167
+11,-115.864167,32.288333,"u ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4.5,NA,"female",16.9,304,5.85312659260766,129.574444396434,"Fall",111222
+8,-108.9055824,31.5168008,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.5,NA,"female",15.2,354,6.9359406519428,113.955564641136,"Summer",111515
+11,-115.864167,32.288333,"ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4.5,NA,"female",16.9,304,5.85312659260766,129.574444396434,"Fall",111689
+11,-116.35,32.6,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4.5,NA,"female",13.6,713,5.21695226248917,130.774518605179,"Fall",111693
+11,-117.15271,33.4128156,"not indicated",1992,NA,"Psaltriparus_minimus",4.5,NA,"undetermined",18,616,4.41384701304264,134.884884932391,"Fall",111872
+6,-121.93957,37.46675,"U",1988,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.5,NA,"undetermined",15.3,249,3.81071058354149,117.700752047076,"Summer",111985
+7,-121.93957,37.46675,"U",1990,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.5,NA,"undetermined",14.9,219,4.73974171397045,102.265839988483,"Summer",111987
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.5,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",112078
+12,-122.1419,37.4419,NA,1966,"Psaltriparus minimus","Psaltriparus_minimus",4.5,NA,"male",14.4,298,4.01712244364952,130.435718124671,"Winter",112083
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.6,NA,"undetermined",14.7,423,7.09589616780308,113.198405215574,"Summer",110991
+9,-120.856655,35.386783,"u ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.6,NA,"male",12.5,468,2.36622381686838,149.516755918256,"Fall",111196
+7,-120.11166,37.75634,"imm.",1920,"Psaltriparus minimus californicus","Psaltriparus_minimus",4.6,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",111204
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.6,NA,"male",7.5,166,7.01738101884431,137.190879217044,"Spring",111364
+12,-121.2137,37.2959,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.6,NA,"female",15.7,266,5.2213068722826,128.644213868355,"Winter",111397
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.6,NA,"female",20,207,7.96549376429929,181.168085159431,"Fall",111406
+3,-110.7423064,31.4092647,"adult",1955,NA,"Psaltriparus_minimus",4.6,NA,"female",13.6,697,6.80218325022907,173.57684317585,"Spring",111440
+6,-106.5426636,32.3080274,"juvenile",1960,"Psaltriparus minimus","Psaltriparus_minimus",4.6,NA,"undetermined",13.7,459,8.25199241322232,145.772585863068,"Summer",111570
+6,-117.051808,36.100502,"u ad.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.6,NA,"female",11.6,158,8.68855045970898,114.027508642751,"Summer",111664
+6,-115.50028,35.96583,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.6,NA,"male",8.4,568,7.43201000586468,145.832625928857,"Summer",111780
+5,-122.89255,38.16315,"AHY",2003,"Psaltriparus minimus","Psaltriparus_minimus",4.6,96,"female",13.4,848,2.80632402716695,119.406874214063,"Spring",111893
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.6,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",111966
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.6,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",111967
+6,-122.02123,37.97695,"nestling",2011,"Psaltriparus minimus","Psaltriparus_minimus",4.6,48,"undetermined",14.6,356,5.06834352235581,143.771107537158,"Summer",111995
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.6,NA,"male",19.5,421,6.71651063808546,131.924530064174,"Summer",112003
+9,-115.682,30.9845,"imm.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4.6,NA,"male",14.4,347,4.3397737687161,110.932259762074,"Fall",112054
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.6,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",112075
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",110982
+8,-108.4167461155,30.0146438844,"imm.sk.",1948,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.7,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",111108
+1,-124.13246,41.17489,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.7,NA,"female",11.3,1572,2.58894795528058,101.147460460958,"Winter",111349
+5,-116.15809,34.09216,"u ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.7,NA,"female",15.9,354,7.56276264257175,146.297465537398,"Spring",111399
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.7,NA,"female",20,207,7.96549376429929,181.168085159431,"Fall",111410
+10,-115.4814771,33.8569026,"u ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.7,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",111411
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"male",14.7,423,7.09589616780308,113.198405215574,"Summer",111452
+8,-122.6160965,38.7523041,NA,1990,"Psaltriparus minimus californicus","Psaltriparus_minimus",4.7,NA,"undetermined",14.8,485,6.84308985677368,136.518873548435,"Summer",111532
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",111564
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.7,NA,"undetermined",14.6,331,4.62963936025913,134.017344879458,"Spring",111648
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.7,NA,"male",14.6,331,4.62963936025913,134.017344879458,"Spring",111649
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.7,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111751
+8,-118.4984131,34.0085106,"immature",1988,NA,"Psaltriparus_minimus",4.7,NA,"male",17.1,252,2.38001464217548,130.49879199014,"Summer",111871
+6,-122.46592,37.76947,"Juv.",1977,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.7,NA,"undetermined",13,412,2.32709664343336,107.15494810387,"Summer",111879
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",111962
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",111968
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",111970
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",111972
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.7,NA,"undetermined",19.5,421,6.71651063808546,131.924530064174,"Summer",112022
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.7,NA,"undetermined",19.5,421,6.71651063808546,131.924530064174,"Summer",112027
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.7,NA,"male",19.4,422,6.64009857539096,133.223207458633,"Summer",112037
+5,-121.121,41.559333,"u ad.",1948,"Psaltriparus minimus californicus","Psaltriparus_minimus",4.7,NA,"male",6.9,535,7.67113341552524,55.7882228478946,"Spring",112049
+9,-115.682,30.9845,"imm.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4.7,NA,"undetermined",14.4,347,4.3397737687161,110.932259762074,"Fall",112053
+8,-99.3964833,30.0431167,NA,2010,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"female",18.3,835,7.77963055132771,84.6001079798064,"Summer",112066
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",112077
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",112079
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.7,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",112082
+6,-106.45,29.3226,"sk.not oss.",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.77,NA,"female",15.5,364,6.86843901810699,154.08074023091,"Summer",111620
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",110977
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"male",14.7,423,7.09589616780308,113.198405215574,"Summer",110981
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",111045
+2,-111.08668,31.403783,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"female",16.3,428,6.77982747612803,111.117464191106,"Winter",111047
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"male",14.7,423,7.09589616780308,113.198405215574,"Summer",111051
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",111079
+11,-110,23.566667,"ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.8,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",111100
+6,-106.45,29.3226,"u ad.",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.8,NA,"male ?",15.5,364,6.86843901810699,154.08074023091,"Summer",111139
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.8,NA,"undetermined",14.6,331,4.62963936025913,134.017344879458,"Spring",111165
+11,-110,23.566667,"ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.8,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Fall",111236
+11,-110,23.566667,"ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.8,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",111237
+12,-110,23.566667,"ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.8,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",111238
+12,-110,23.566667,"ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.8,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",111239
+1,-115.3694888,35.1274017,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.8,NA,"male",12.8,252,7.68106684509306,131.775361938917,"Winter",111311
+5,-115.4818436,33.853667,"u ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.8,NA,"male",20,207,7.96549376429929,181.168085159431,"Spring",111400
+10,-116.0935866,33.895784,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.8,NA,"female",14.1,382,6.98413787222029,142.241342203377,"Fall",111402
+5,-118.5194778,34.0956716,"adult",1985,NA,"Psaltriparus_minimus",4.8,NA,"male",18.1,258,4.17728344378221,138.016319520229,"Spring",111442
+10,-118.8187695,34.1590483,"adult",1996,NA,"Psaltriparus_minimus",4.8,NA,"undetermined",17.8,528,4.05324411783794,124.071726930849,"Fall",111445
+6,-118.7354278,34.0347371,NA,2004,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.8,NA,"male",15.8,384,2.50575096104698,174.677906070918,"Summer",111454
+1,-99.1403198,30.0472126,NA,1964,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"female",18.6,653,7.97676550230655,79.6228214659599,"Winter",111489
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",111577
+8,-108.4167461155,30.0146438844,"imm.sk.",1948,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.8,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",111595
+6,-120.3778808,41.4513243,"u ad.",1926,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",4.8,NA,"male",10.6,338,7.56150538162631,101.08410502856,"Summer",111685
+11,-116.35,32.6,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4.8,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",111691
+11,-110,23.566667,"u ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.8,NA,"undetermined",16.7,461,3.40884544570845,138.309335975346,"Fall",111700
+11,-110,23.566667,"ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.8,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",111701
+12,-110,23.566667,"unknown",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.8,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Winter",111704
+12,-110,23.566667,"ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.8,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Winter",111705
+1,-115.3694888,35.1274017,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.8,NA,"female",12.8,252,7.68106684509306,131.775361938917,"Winter",111753
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.8,NA,"female",20,207,7.96549376429929,181.168085159431,"Fall",111846
+5,-118.9712476,34.2028938,"immature",1982,NA,"Psaltriparus_minimus",4.8,NA,"male",15.7,432,3.7046551387369,115.91910639375,"Spring",111868
+1,-121.93957,37.46675,"U",1988,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.8,NA,"undetermined",15.3,249,3.81071058354149,117.700752047076,"Winter",111882
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.8,NA,"male",19.5,421,6.71651063808546,131.924530064174,"Summer",111910
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",111963
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",111971
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",111976
+12,-109.098889,30.0518333,NA,1962,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"male",17.3,437,6.26045791722405,89.8731305220502,"Winter",112006
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.8,NA,"female",19.4,422,6.64009857539096,133.223207458633,"Summer",112014
+12,-109.098889,30.0518333,NA,1962,"Psaltriparus minimus","Psaltriparus_minimus",4.8,NA,"female",17.3,437,6.26045791722405,89.8731305220502,"Winter",112021
+9,-115.682,30.9845,"imm.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4.8,NA,"male",14.4,347,4.3397737687161,110.932259762074,"Fall",112055
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.85,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",111844
+2,-111.08668,31.403783,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.9,NA,"female",16.3,428,6.77982747612803,111.117464191106,"Winter",111012
+8,-108.4167461155,30.0146438844,"imm.",1948,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.9,NA,"undetermined",13.1,351,6.92931300980687,121.571115249925,"Summer",111107
+9,-116.257,34.03749,"imm.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.9,NA,"male",15,75,6.33367024622207,105.057559980664,"Fall",111117
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.9,NA,"undetermined",14.6,331,4.62963936025913,134.017344879458,"Spring",111168
+2,-117.333,34.599,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.9,NA,"male",15.3,141,7.79928124116498,114.135877053123,"Winter",111189
+5,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.9,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",111316
+9,-123.8083893,40.9028547,"juv.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.9,NA,"male",12.7,1785,4.83105484434724,105.430785533876,"Fall",111383
+4,-103.6944103,30.4447763,"ad",1966,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",4.9,106,"male",16.1,460,7.50395350344191,120.644428765398,"Spring",111429
+7,-118.817954,34.0567838,"juvenile",2006,NA,"Psaltriparus_minimus",4.9,NA,"male",16.5,389,3.45677858443641,117.76290217908,"Summer",111448
+5,-117.284176,33.121126,NA,2004,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.9,NA,"undetermined",16.3,326,3.35893200919939,147.056678355024,"Spring",111477
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",4.9,NA,"male",14.7,423,7.09589616780308,113.198405215574,"Summer",111534
+6,-121.422759,35.969875,"ad.",1919,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.9,NA,"female ?",12,830,4.81955455001871,153.244125473405,"Summer",111675
+11,-110,23.566667,"ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.9,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",111702
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",4.9,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",111713
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.9,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111748
+1,-115.3694888,35.1274017,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",4.9,NA,"female",12.8,252,7.68106684509306,131.775361938917,"Winter",111754
+10,-116.0935866,33.895784,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",4.9,NA,"female",14.1,382,6.98413787222029,142.241342203377,"Fall",111839
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.9,NA,"undetermined",19.4,422,6.64009857539096,133.223207458633,"Summer",111896
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.9,NA,"female",19.5,421,6.71651063808546,131.924530064174,"Summer",111906
+12,-109.098889,30.0518333,NA,1962,"Psaltriparus minimus","Psaltriparus_minimus",4.9,NA,"female",17.3,437,6.26045791722405,89.8731305220502,"Winter",111925
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",4.9,NA,"undetermined",19.5,421,6.71651063808546,131.924530064174,"Summer",111937
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.9,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",111964
+12,-109.098889,30.0518333,NA,1962,"Psaltriparus minimus","Psaltriparus_minimus",4.9,NA,"male",17.3,437,6.26045791722405,89.8731305220502,"Winter",112038
+9,-119.765,35.349667,"u ad.",1947,"Psaltriparus minimus minimus","Psaltriparus_minimus",4.9,NA,"female",16.2,64,7.02132574030825,95.0478348469386,"Fall",112050
+12,-115.7077778,30.056111,"u ad.",1930,"Psaltriparus minimus melanurus","Psaltriparus_minimus",4.9,NA,"female",19.4,141,3.86596453917801,109.17807278476,"Winter",112065
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",4.9,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",112074
+4,-118.25,34,NA,1980,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"female",18.3,594,3.07201444125393,179.477876655829,"Spring",110968
+8,-108.9055824,31.5168008,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"female",15.2,354,6.9359406519428,113.955564641136,"Summer",110978
+8,-108.9055824,31.5168008,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"female",15.2,354,6.9359406519428,113.955564641136,"Summer",111011
+10,-122.6160965,38.7523041,NA,1990,"Psaltriparus minimus californicus","Psaltriparus_minimus",5,NA,"undetermined",14.8,485,6.84308985677368,136.518873548435,"Fall",111082
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",111084
+5,-103.0598561,29.8169754,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5,NA,"male",18.8,271,8.2043595211031,74.5671402793839,"Spring",111087
+10,-122.6160965,38.7523041,NA,1990,"Psaltriparus minimus californicus","Psaltriparus_minimus",5,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Fall",111094
+11,-110.88361,31.00056,"u ad.",1946,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5,NA,"male",17.6,467,6.99213302522372,138.697810308703,"Fall",111102
+11,-110.88361,31.00056,"u ad.",1946,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5,NA,"male",17.6,467,6.99213302522372,138.697810308703,"Fall",111103
+11,-110.88361,31.00056,"u ad.",1946,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5,NA,"male",17.6,467,6.99213302522372,138.697810308703,"Fall",111104
+4,-92.5733333333,16.6744444444,"u ad.",1950,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5,NA,"male",13.5,1057,0.98761267097926,77.8117725986951,"Spring",111111
+8,-122.7340259,37.9286764,"not recorded",2004,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"undetermined",13.8,658,2.4000473480178,130.697488633875,"Summer",111170
+10,-115.458333,30.883333,"imm.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",111211
+4,-115.7666666667,30.8666666667,"u ad.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5,NA,"female",16,266,4.03021730371348,124.899293379329,"Spring",111216
+4,-115.7666666667,30.8666666667,"u ad.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5,NA,"male",16,266,4.03021730371348,124.899293379329,"Spring",111217
+7,-109.716873,23.387557,"imm.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",111245
+4,-123.5151,40.46008,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"female",11,1081,6.76884014951579,102.306728354819,"Spring",111271
+11,-118.21,35.37,"ad.",1933,"Psaltriparus minimus californicus","Psaltriparus_minimus",5,NA,"female",13.3,200,8.08130558758917,160.922341519132,"Fall",111285
+7,-116.7863,42.0975,"juv.",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5,NA,"female",7.4,217,10.0723255717953,59.0326052690247,"Summer",111296
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111305
+1,-115.3694888,35.1274017,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5,NA,"female",12.8,252,7.68106684509306,131.775361938917,"Winter",111309
+5,-115.57412,35.51722,"u ad.",1939,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5,NA,"female",10.8,350,7.72694518022367,101.422951309955,"Spring",111331
+6,-117.9725246,37.0202014,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",111375
+12,-120.3862721,40.3822922,"u ad.",1942,"Psaltriparus minimus californicus","Psaltriparus_minimus",5,NA,"female",9.5,288,8.2825254163647,90.5300835072853,"Winter",111386
+12,-121.2137,37.2959,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"male",15.7,266,5.2213068722826,128.644213868355,"Winter",111398
+2,-120.361576,35.2426749,"adult",1993,NA,"Psaltriparus_minimus",5,NA,"female",16,732,4.82650510360774,143.62705371989,"Winter",111444
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",111485
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"male",14.7,423,7.09589616780308,113.198405215574,"Summer",111498
+8,-122.6160965,38.7523041,NA,1990,"Psaltriparus minimus californicus","Psaltriparus_minimus",5,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Summer",111518
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",111562
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",111566
+5,-120.742395,41.8959486,"u ad.",1948,"Psaltriparus minimus californicus","Psaltriparus_minimus",5,NA,"male",5.9,556,7.59079885603138,55.1023653639579,"Spring",111590
+4,-92.5733333333,16.6744444444,"u ad.",1950,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5,NA,"male",13.5,1057,0.98761267097926,77.8117725986951,"Spring",111596
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",111607
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",111608
+6,-106.770421,29.485097,"ad.",1959,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",111618
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"female",14.6,331,4.62963936025913,134.017344879458,"Spring",111645
+12,-110,23.566667,"unknown",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",5,NA,"male",16.7,461,3.40884544570845,138.309335975346,"Winter",111703
+7,-109.716873,23.387557,"u ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",111707
+12,-120.6097,36.1576,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"undetermined",13.5,295,6.56013557694342,142.166365940969,"Winter",111731
+1,-123.47623,40.4313,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",111795
+5,-118.31418,36.765218,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5,NA,"male",5,318,6.90754966860481,156.154735889681,"Spring",111807
+9,-123.88759,40.77914,"imm.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",111825
+10,-116.0935866,33.895784,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5,NA,"male",14.1,382,6.98413787222029,142.241342203377,"Fall",111837
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",111841
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",111842
+5,-118.9712476,34.2028938,"immature",1982,NA,"Psaltriparus_minimus",5,NA,"male",15.7,432,3.7046551387369,115.91910639375,"Spring",111869
+9,-118.817954,34.0567838,"juvenile",2004,NA,"Psaltriparus_minimus",5,NA,"undetermined",16.2,434,3.00649549334689,176.444962395002,"Fall",111878
+6,-122.09159,37.99225,"U-Fledgling",2001,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"undetermined",15.2,591,4.88487926714115,131.508425823296,"Summer",111889
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5,NA,"male",19.4,422,6.64009857539096,133.223207458633,"Summer",111900
+12,-109.098889,30.0518333,NA,1962,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"male",17.3,437,6.26045791722405,89.8731305220502,"Winter",111917
+12,-109.098889,30.0518333,NA,1962,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"male",17.3,437,6.26045791722405,89.8731305220502,"Winter",111930
+12,-115.7230556,31.4,"ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",111942
+8,-103.182062,18.889003,NA,1950,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5,NA,"male",17.2,1293,1.79392915639995,122.734921665555,"Summer",111952
+8,-103.182062,18.889003,NA,1950,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5,NA,"male",17.2,1293,1.79392915639995,122.734921665555,"Summer",111953
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",111969
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",111974
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",111975
+12,-121.93957,37.46675,"U",1987,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"undetermined",15.2,335,4.00677456618692,114.172692506262,"Winter",111989
+9,-119.765,35.349667,"ad.",1947,"Psaltriparus minimus minimus","Psaltriparus_minimus",5,NA,"female",16.2,64,7.02132574030825,95.0478348469386,"Fall",112051
+10,-115.682,30.9845,"ad.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5,NA,"female",14.4,347,4.3397737687161,110.932259762074,"Fall",112056
+12,-115.7230556,31.4,"ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",112060
+8,-103.182062,18.889003,NA,1950,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5,NA,"male",17.2,1293,1.79392915639995,122.734921665555,"Summer",112068
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",112072
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",5,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",112080
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",5.01,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",112081
+2,-110.7562408,31.5394936,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.1,NA,"female",16,450,6.81003604315652,113.094221913867,"Winter",110983
+8,-108.9055824,31.5168008,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.1,NA,"male",15.2,354,6.9359406519428,113.955564641136,"Summer",110992
+4,-118.7354278,34.0347371,NA,2002,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.1,NA,"female",15.2,208,2.1537845479035,166.143162049655,"Spring",110996
+5,-103.259468,29.338189,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.1,NA,"male",18.4,359,7.44914068666292,78.7400787401181,"Spring",111034
+1,-99.1403198,30.0472126,NA,1964,"Psaltriparus minimus","Psaltriparus_minimus",5.1,NA,"female",18.6,653,7.97676550230655,79.6228214659599,"Winter",111073
+8,-108.9055824,31.5168008,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.1,NA,"male",15.2,354,6.9359406519428,113.955564641136,"Summer",111095
+3,-92.5733333333,16.6744444444,"u ad.",1950,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.1,NA,"female",13.5,1057,0.98761267097926,77.8117725986951,"Spring",111110
+9,-116.39528,34.05639,"ad.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.1,NA,"female",14.3,82,5.90174601796842,107.145599754757,"Fall",111115
+9,-116.39528,34.05639,"imm.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.1,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Fall",111116
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.1,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",111123
+1,-116.736859,32.39092,"ad.",1928,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.1,NA,"male",16.8,212,3.95523243771635,107.166852477321,"Winter",111229
+12,-120.6097,36.1576,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.1,NA,"undetermined",13.5,295,6.56013557694342,142.166365940969,"Winter",111277
+6,-115.50028,35.96583,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.1,NA,"female",8.4,568,7.43201000586468,145.832625928857,"Summer",111341
+1,-123.47623,40.4313,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.1,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",111354
+9,-123.88759,40.77914,"imm.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.1,NA,"male",12,1606,3.98157689181743,97.2485971118486,"Fall",111382
+10,-116.0935866,33.895784,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.1,NA,"male",14.1,382,6.98413787222029,142.241342203377,"Fall",111404
+5,-103.0598561,29.8169754,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.1,NA,"male",18.8,271,8.2043595211031,74.5671402793839,"Spring",111453
+12,-122.6160965,38.7523041,NA,1989,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.1,NA,"undetermined",14.5,612,6.51136535512167,149.544062583856,"Winter",111553
+8,-108.9055824,31.5168008,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.1,NA,"male",15.2,354,6.9359406519428,113.955564641136,"Summer",111567
+11,-110,23.566667,"ad.",1928,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.1,NA,"female",16.7,461,3.40884544570845,138.309335975346,"Fall",111589
+7,-108.4167461155,30.0146438844,"imm.sk.",1948,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.1,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",111592
+9,-116.39528,34.05639,"ad.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.1,NA,"female",14.3,82,5.90174601796842,107.145599754757,"Fall",111599
+9,-116.39528,34.05639,"imm.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.1,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Fall",111601
+1,-116.262586,33.4757948,"u ad.",1950,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.1,NA,"female",16.9,118,6.44408937545002,101.156875229606,"Winter",111611
+10,-119.881282,37.588966,"u ad.",1915,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.1,NA,"female",12.9,966,6.24009518186925,121.651065720146,"Fall",111655
+1,-116.736859,32.39092,"ad.",1928,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.1,NA,"male",16.8,212,3.95523243771635,107.166852477321,"Winter",111694
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.1,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",111706
+7,-109.716873,23.387557,"imm.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.1,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",111708
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.1,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111749
+6,-115.50028,35.96583,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.1,NA,"undetermined",8.4,568,7.43201000586468,145.832625928857,"Summer",111781
+12,-121.2137,37.2959,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.1,NA,"female",15.7,266,5.2213068722826,128.644213868355,"Winter",111831
+2,-121.8604466,37.9578875,"u ad.",1944,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.1,NA,"male",14.5,568,4.94487031419859,108.929385750828,"Winter",111832
+9,-106.52551,31.5234525,"adult",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.1,NA,"female",17.1,234,8.82954750204726,123.294822418107,"Fall",111912
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.1,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",111933
+9,-115.682,30.9845,"imm.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.1,NA,"female",14.4,347,4.3397737687161,110.932259762074,"Fall",111940
+6,-121.93957,37.46675,"Nestling",1988,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.1,NA,"undetermined",15.3,249,3.81071058354149,117.700752047076,"Summer",111986
+12,-109.098889,30.0518333,NA,1962,"Psaltriparus minimus","Psaltriparus_minimus",5.1,NA,"male",17.3,437,6.26045791722405,89.8731305220502,"Winter",112011
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.1,NA,"female",19.4,422,6.64009857539096,133.223207458633,"Summer",112018
+12,-109.098889,30.0518333,NA,1962,"Psaltriparus minimus","Psaltriparus_minimus",5.1,NA,"male",17.3,437,6.26045791722405,89.8731305220502,"Winter",112019
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.1,NA,"female",19.5,421,6.71651063808546,131.924530064174,"Summer",112026
+9,-106.52551,31.5234525,"adult",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.1,NA,"female",17.1,234,8.82954750204726,123.294822418107,"Fall",112028
+10,-115.682,30.9845,"imm.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.1,NA,"female",14.4,347,4.3397737687161,110.932259762074,"Fall",112058
+12,-115.7230556,31.4,"ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.1,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Winter",112064
+8,-108.9055824,31.5168008,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,"male",15.2,354,6.9359406519428,113.955564641136,"Summer",110969
+8,-108.9055824,31.5168008,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,"male",15.2,354,6.9359406519428,113.955564641136,"Summer",110973
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,"male",14.7,423,7.09589616780308,113.198405215574,"Summer",110994
+7,-103.0598561,29.8169754,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",19.2,198,8.10769836188253,73.8520399795737,"Summer",111010
+12,-122.6160965,38.7523041,NA,1989,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.2,NA,"male",14.5,612,6.51136535512167,149.544062583856,"Winter",111027
+2,-118.7354278,34.0347371,NA,2005,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"female",15.7,657,1.99400617001568,172.902500731559,"Winter",111049
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",111088
+10,-119.56963,39.05579,"AHY",2012,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.2,NA,"male",10,538,7.52198293488674,137.623901552949,"Fall",111098
+8,-116.39528,34.05639,"ad.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.2,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Summer",111113
+1,-120.51596,40.4198,"imm.",1951,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.2,NA,"male",8.7,394,7.71967184103919,100.574229983644,"Winter",111119
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",111120
+9,-119.11036,36.723617,"imm.",1916,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.2,NA,"male",15.9,1010,7.65119816325086,149.165087520743,"Fall",111176
+10,-121.17385,35.970848,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"male",14.1,479,5.62835758378136,134.003052882456,"Fall",111193
+12,-122.1157799,40.2964682,"u ad.",1924,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.2,NA,"male",16.7,506,7.43690123640216,108.744099433392,"Winter",111209
+5,-123.015054,40.394887,"u ad.",1926,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.2,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",111219
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.2,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",111244
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.2,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",111246
+7,-109.716873,23.387557,"imm.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.2,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",111247
+4,-123.502614,40.4502152,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"female",11.1,1056,6.83500349138702,102.658169752038,"Spring",111272
+7,-116.7863,42.0975,"u ad.",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.2,NA,"male",7.4,217,10.0723255717953,59.0326052690247,"Summer",111297
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.2,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",111306
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.2,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",111307
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.2,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",111322
+6,-117.09412,36.96528,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.2,NA,"female",10.4,153,7.75533052262452,91.8888008721634,"Summer",111336
+6,-122.8741356,46.0084949,"u ad.",1941,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"male",12.1,959,4.73545620342385,69.8215869796105,"Summer",111347
+12,-121.2137,37.2959,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"female",15.7,266,5.2213068722826,128.644213868355,"Winter",111396
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.2,NA,"female",20,207,7.96549376429929,181.168085159431,"Fall",111409
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.2,NA,"female",20,207,7.96549376429929,181.168085159431,"Fall",111412
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,"male",14.7,423,7.09589616780308,113.198405215574,"Summer",111475
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,"male",14.8,488,6.66525932115036,106.808709145592,"Fall",111497
+6,-103.199894,29.3651991,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",19.2,220,7.81681850340351,82.5695526771296,"Summer",111523
+7,-103.0598561,29.8169754,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"female",19.2,198,8.10769836188253,73.8520399795737,"Summer",111531
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,"undetermined",14.7,423,7.09589616780308,113.198405215574,"Summer",111548
+10,-118.7354278,34.0347371,NA,2003,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"female",15.7,292,2.41917842302387,139.265115618096,"Fall",111571
+6,-118.7354278,34.0347371,NA,2002,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"undetermined",15.2,208,2.1537845479035,166.143162049655,"Summer",111575
+7,-108.4167461155,30.0146438844,"imm.sk.",1948,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",111593
+8,-108.4167461155,30.0146438844,"ad.sk.",1948,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",111594
+3,-116.5135639,34.0687473,"u ad.",1951,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.2,NA,"male",16.7,246,7.00523613687171,139.842888524595,"Spring",111602
+4,-102.5421973639,29.06028,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",19.2,213,6.60240429118381,106.416775602656,"Spring",111605
+4,-102.5421973639,29.06028,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",19.2,213,6.60240429118381,106.416775602656,"Spring",111606
+8,-106.8987177777,29.3920969444,"sk.imm.",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male ?",13.9,408,6.2050504844966,116.088641244644,"Summer",111621
+1,-122.269117,37.890694,"skull",2004,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"male",14.9,575,3.42993727303718,126.334417721419,"Winter",111650
+12,-122.1157799,40.2964682,"u ad.",1924,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.2,NA,"male",16.7,506,7.43690123640216,108.744099433392,"Winter",111682
+11,-116.35,32.6,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.2,NA,"female",13.6,713,5.21695226248917,130.774518605179,"Fall",111690
+7,-120.47343,40.71625,"imm.",1928,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.2,NA,"female",8.8,292,7.44254762507538,111.963742319049,"Summer",111696
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.2,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",111710
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.2,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",111711
+9,-116.98667,39.23861,"u ad.",1931,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.2,NA,"male",9.1,185,9.60889739204812,49.4793629683915,"Fall",111726
+7,-120.80128,36.5844,"imm.",1936,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.2,NA,"female",16.2,329,6.65156623159789,162.789359779441,"Summer",111738
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.2,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",111752
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.2,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",111763
+1,-124.13246,41.17489,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"undetermined",11.3,1572,2.58894795528058,101.147460460958,"Winter",111785
+1,-123.47623,40.4313,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",111796
+6,-117.9725246,37.0202014,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.2,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",111814
+1,-121.93957,37.46675,"U",1988,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.2,NA,"female",15.3,249,3.81071058354149,117.700752047076,"Winter",111881
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",19.4,422,6.64009857539096,133.223207458633,"Summer",111901
+12,-104.847111,23.9304277,NA,1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",5.2,NA,"female",16.2,722,3.55527776692624,99.1386240634238,"Winter",111905
+12,-104.847111,23.9304277,NA,1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",5.2,NA,"male",16.2,722,3.55527776692624,99.1386240634238,"Winter",111914
+9,-106.52551,31.5234525,"adult",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",111916
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",19.4,422,6.64009857539096,133.223207458633,"Summer",111920
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"undetermined",17.1,234,8.82954750204726,123.294822418107,"Fall",111923
+12,-115.7230556,31.4,"ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.2,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",111945
+12,-115.7077778,30.056111,"u ad.",1930,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.2,NA,"male",19.4,141,3.86596453917801,109.17807278476,"Winter",111948
+8,-99.3964833,30.0431167,NA,2010,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,NA,18.3,835,7.77963055132771,84.6001079798064,"Summer",111951
+8,-122.51448,37.92596,"immature",2002,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,"undetermined",14.3,829,3.11403226857028,172.887767633703,"Summer",111992
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"male",16.5,156,9.10966852339099,130.954208948443,"Winter",112015
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"female",16.5,156,9.10966852339099,130.954208948443,"Winter",112023
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.2,NA,"female",17.1,234,8.82954750204726,123.294822418107,"Fall",112047
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",5.2,NA,"female",14.3,407,6.90090024869395,146.57856722674,"Winter",112073
+10,-118.7354278,34.0347371,NA,2003,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"female",15.7,292,2.41917842302387,139.265115618096,"Fall",110967
+8,-108.9055824,31.5168008,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.3,NA,"male",15.2,354,6.9359406519428,113.955564641136,"Summer",111003
+1,-122.6160965,38.7523041,NA,1990,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.3,NA,"female",14.8,485,6.84308985677368,136.518873548435,"Winter",111009
+2,-110.7562408,31.5394936,"ADULT",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.3,NA,"female",16,450,6.81003604315652,113.094221913867,"Winter",111023
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",111122
+4,-92.5411111111,16.6436111111,"ad.",1965,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.3,NA,"male",13.2,1169,0.982691110258874,96.3620693787896,"Spring",111149
+8,-118.08956,37.434018,"juv.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.3,NA,"female ?",6.1,154,8.4879013717744,151.978321108734,"Summer",111180
+10,-115.458333,30.883333,"ad.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.3,NA,"male",10.6,544,4.245452112127,120.503426548805,"Fall",111212
+10,-115.458333,30.883333,"imm.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.3,NA,"female",10.6,544,4.245452112127,120.503426548805,"Fall",111213
+12,-121.9420806,40.3303351,"u ad.",1927,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.3,NA,"female ?",15.7,875,6.90142716904967,93.3690449976571,"Winter",111223
+5,-123.3148591,40.2454766,"u ad.",1933,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"female",10.6,1446,6.86428503858261,127.79145067454,"Spring",111278
+7,-120.80128,36.5844,"ad.",1936,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.3,NA,"female",16.2,329,6.65156623159789,162.789359779441,"Summer",111292
+5,-115.4207,35.20061,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.3,NA,"male",12.4,269,7.6190500879325,131.645887632845,"Spring",111320
+1,-123.47623,40.4313,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",111352
+9,-123.88759,40.77914,"imm.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"female",12,1606,3.98157689181743,97.2485971118486,"Fall",111381
+6,-122.82817,40.32421,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"male",14.4,687,6.28728273918266,121.916631216622,"Summer",111390
+12,-121.2137,37.2959,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"male",15.7,266,5.2213068722826,128.644213868355,"Winter",111394
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.3,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",111408
+4,-112.4870212,34.4294184,"ad",1970,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.3,NA,"female",10.7,683,7.34390594611985,123.283260201867,"Spring",111422
+11,-118.8163661,34.0545083,"not indicated",1997,NA,"Psaltriparus_minimus",5.3,NA,"male",17,396,3.32451864822928,187.283435256474,"Fall",111446
+2,-111.08668,31.403783,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.3,NA,"male",16.3,428,6.77982747612803,111.117464191106,"Winter",111455
+1,-99.1403198,30.0472126,NA,1964,"Psaltriparus minimus","Psaltriparus_minimus",5.3,NA,"undetermined",18.6,653,7.97676550230655,79.6228214659599,"Winter",111457
+10,-108.9153671,31.5141666,NA,1961,"Psaltriparus minimus","Psaltriparus_minimus",5.3,NA,"male",14.7,364,6.96877777206044,85.6604764627603,"Fall",111462
+10,-118.7354278,34.0347371,NA,1994,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"female",16.3,237,3.00770475259589,145.780540632324,"Fall",111469
+2,-110.7562408,31.5394936,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.3,NA,"female",16,450,6.81003604315652,113.094221913867,"Winter",111486
+4,-116.5135639,34.0687473,"u ad.",1951,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.3,NA,"male",16.7,246,7.00523613687171,139.842888524595,"Spring",111603
+8,-106.8987177777,29.3920969444,"imm.sk.",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",111624
+5,-118.4302,37.414399,"ad.sk.",1992,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.3,NA,"male",14.2,113,8.29360377859731,106.830437527287,"Spring",111636
+9,-119.1161,37.91072,"imm.",1915,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.3,NA,"female",6.1,397,6.92951526574419,120.397261356711,"Fall",111653
+12,-121.835607,36.60922,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"undetermined",12.2,366,2.45373864405591,117.372719699687,"Winter",111674
+6,-119.9028,42.4117,"u ad.",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.3,NA,"male",8.7,267,9.18273660273186,56.7770867404079,"Summer",111742
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.3,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",111770
+5,-122.8741356,46.0084949,"juv.",1941,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"undetermined",12.1,959,4.73545620342385,69.8215869796105,"Spring",111783
+1,-123.47623,40.4313,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",111792
+1,-123.47623,40.4313,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"female ?",11.1,1820,6.24254100361529,98.8500323964413,"Winter",111794
+5,-122.2574231,37.871928,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"female",13.5,686,2.65688071834532,87.4715838298922,"Spring",111797
+5,-118.31418,36.765218,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.3,NA,"male",5,318,6.90754966860481,156.154735889681,"Spring",111809
+7,-121.93957,37.46675,"U",1990,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"undetermined",14.9,219,4.73974171397045,102.265839988483,"Summer",111887
+8,-95.0502192,16.5841339,NA,1963,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.3,NA,"male",26.4,825,1.87202288900796,132.707214930626,"Summer",111904
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"female",19.5,421,6.71651063808546,131.924530064174,"Summer",111907
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"male",19.5,421,6.71651063808546,131.924530064174,"Summer",111908
+7,-108.960556,30.15849,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"undetermined",19.5,421,6.71651063808546,131.924530064174,"Summer",111913
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"male",16.5,156,9.10966852339099,130.954208948443,"Winter",111915
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"undetermined",19.4,422,6.64009857539096,133.223207458633,"Summer",111926
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"female",16.5,156,9.10966852339099,130.954208948443,"Winter",111927
+8,-95.0502192,16.5841339,NA,1963,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.3,NA,"female",26.4,825,1.87202288900796,132.707214930626,"Summer",111928
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"male",19.4,422,6.64009857539096,133.223207458633,"Summer",111934
+9,-119.765,35.349667,"u ad.",1947,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"female",16.2,64,7.02132574030825,95.0478348469386,"Fall",111939
+1,-116.5897222,32.572222,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.3,NA,"female",15.7,535,5.07459507266493,136.349978083591,"Winter",111947
+12,-115.7077778,30.056111,"u ad.",1930,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.3,NA,"male",19.4,141,3.86596453917801,109.17807278476,"Winter",111949
+4,-121.93957,37.46675,"Nestling",1988,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.3,NA,"undetermined",15.3,249,3.81071058354149,117.700752047076,"Spring",111983
+8,-95.0502192,16.5841339,NA,1963,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.3,NA,"male",26.4,825,1.87202288900796,132.707214930626,"Summer",112002
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"male",19.4,422,6.64009857539096,133.223207458633,"Summer",112012
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"female",16.5,156,9.10966852339099,130.954208948443,"Winter",112013
+12,-104.847111,23.9304277,"adult",1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",5.3,NA,"male",16.2,722,3.55527776692624,99.1386240634238,"Winter",112024
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",112029
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"male",16.5,156,9.10966852339099,130.954208948443,"Winter",112033
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.3,NA,"male",16.5,156,9.10966852339099,130.954208948443,"Winter",112034
+8,-95.0502192,16.5841339,NA,1963,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.3,NA,"female",26.4,825,1.87202288900796,132.707214930626,"Summer",112045
+12,-115.7230556,31.4,"ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.3,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",112061
+12,-110.7833,31.3833,NA,1975,"Psaltriparus minimus","Psaltriparus_minimus",5.3,NA,"male",14.3,407,6.90090024869395,146.57856722674,"Winter",112076
+8,-108.7488556,31.3565688,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.4,NA,"female",14.7,423,7.09589616780308,113.198405215574,"Summer",110988
+2,-110.7562408,31.5394936,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.4,NA,"male",16,450,6.81003604315652,113.094221913867,"Winter",111029
+5,-103.28545,29.2743673,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"male",16.6,478,6.49601276308643,82.2913350587059,"Spring",111090
+3,-92.5733333333,16.6744444444,"u ad.",1950,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.4,NA,"male",13.5,1057,0.98761267097926,77.8117725986951,"Spring",111109
+9,-116.39528,34.05639,"ad.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.4,NA,"male",14.3,82,5.90174601796842,107.145599754757,"Fall",111114
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",111126
+7,-108.14806,28.56806,"u ad.",1957,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",111138
+6,-115.63817,36.40167,"ad.sk.",1963,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.4,NA,"male",10,441,7.73533314007088,157.815192110921,"Summer",111147
+6,-121.731819,36.479311,"unknown",1976,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"male",14.3,216,3.75849542753319,88.6676539779466,"Summer",111154
+9,-122.2973784,41.5774751,"juv.sk.",1990,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.4,NA,"female",9.9,476,7.58772433645692,83.7803670674203,"Fall",111155
+5,-118.394496,37.411488,"juv.sk.",1992,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.4,NA,"male",14.3,108,8.35095258583768,111.111111111111,"Spring",111157
+5,-120.2288714,40.7164876,"ad.sk.",1992,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.4,NA,"female",7.9,295,7.58492823721071,117.014872384441,"Spring",111159
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"undetermined",14.6,331,4.62963936025913,134.017344879458,"Spring",111166
+7,-122.24625,37.81419,"skull unossified",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"male",14.2,342,3.12917599764577,126.577260647319,"Summer",111169
+2,-117.333,34.599,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"male",15.3,141,7.79928124116498,114.135877053123,"Winter",111190
+9,-120.84938,35.366994,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"male",12.4,469,2.33958038195664,149.267532058884,"Fall",111194
+7,-121.481404,36.206072,"imm.",1919,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"undetermined",13.6,542,5.33350615250305,160.375408367308,"Summer",111201
+12,-122.1157799,40.2964682,"u ad.",1924,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.4,NA,"male",16.7,506,7.43690123640216,108.744099433392,"Winter",111210
+7,-120.47343,40.71625,"imm.",1928,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.4,NA,"male",8.8,292,7.44254762507538,111.963742319049,"Summer",111234
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.4,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",111243
+6,-117.1625,39.25556,"juv.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.4,NA,"male",6,598,8.3549114570141,84.8288639681795,"Summer",111258
+4,-123.5151,40.46008,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"male",11,1081,6.76884014951579,102.306728354819,"Spring",111270
+4,-123.4853,40.3329,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",111275
+4,-123.4853,40.3329,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"female",10.2,1304,6.99569131463767,103.789746822994,"Spring",111276
+11,-118.4962702,35.4091256,"imm.",1933,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.4,NA,"male",13.3,189,7.53667799176236,175.82619959228,"Fall",111284
+6,-119.0960193,38.6594616,"u ad.",1934,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.4,NA,"male",7.7,261,6.23787915590198,105.891223157822,"Summer",111291
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.4,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111301
+1,-123.47623,40.4313,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",111353
+5,-118.245112,36.581746,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.4,NA,"male",2.3,312,6.59896686128697,155.633303164937,"Spring",111361
+6,-118.480402,37.81843,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.4,NA,"male",10.1,77,8.15765117710194,65.9379462369891,"Summer",111376
+5,-99.8848152,32.2993653,"ad",1967,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.4,107,"male",17.8,664,7.74537985452677,83.7653009181947,"Spring",111419
+8,-109.3822849,31.9298117,NA,1977,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.4,NA,"undetermined",12.6,717,6.67151338971083,108.825585062648,"Summer",111427
+4,-103.6013,30.1139,"ad",1966,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.4,99,"undetermined",15.5,475,7.55879479731252,119.94813229906,"Spring",111430
+7,-103.199894,29.3651991,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"male",19.2,220,7.81681850340351,82.5695526771296,"Summer",111456
+2,-110.7562408,31.5394936,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.4,NA,"female",16,450,6.81003604315652,113.094221913867,"Winter",111467
+10,-108.9153671,31.5141666,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.4,NA,"undetermined",14.7,364,6.96877777206044,85.6604764627603,"Fall",111502
+7,-103.3037834,29.2457561,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"female",16.3,388,6.19434615132414,98.5783558944368,"Summer",111521
+10,-108.7450447,31.3945513,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.4,NA,"female",14.5,367,7.2624136149872,83.7402973860717,"Fall",111529
+1,-99.1403198,30.0472126,NA,1964,"Psaltriparus minimus","Psaltriparus_minimus",5.4,NA,"female",18.6,653,7.97676550230655,79.6228214659599,"Winter",111539
+2,-110.7562408,31.5394936,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.4,NA,"male",16,450,6.81003604315652,113.094221913867,"Winter",111543
+9,-116.39528,34.05639,"ad.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.4,NA,"female",14.3,82,5.90174601796842,107.145599754757,"Fall",111600
+9,-119.73517,33.99555,"sk.oss.",1967,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"undetermined",13.8,500,3.40983426239014,139.623843432938,"Fall",111632
+10,-122.259266,37.872044,"adult skull",2001,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"undetermined",14.3,718,3.26843257772767,130.010408789883,"Fall",111642
+5,-121.56076,36.37662,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"male",14.6,331,4.62963936025913,134.017344879458,"Spring",111647
+8,-118.08956,37.434018,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.4,NA,"female",6.1,154,8.4879013717744,151.978321108734,"Summer",111668
+10,-120.858963,35.393236,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"male",12.5,455,2.34525633411942,149.577597143969,"Fall",111672
+5,-122.2297661,40.2121782,"u ad.",1924,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.4,NA,"male",17.4,462,7.5992174637002,110.123926819142,"Spring",111680
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.4,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",111712
+9,-117.0343964,39.3959732,"imm.",1931,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.4,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Fall",111725
+10,-118.49432,35.4277106,"imm.",1933,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.4,NA,"female",13.1,192,7.6035677431218,174.984785049846,"Fall",111732
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.4,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111745
+12,-119.7675,39.35528,"u ad.",1939,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.4,NA,"undetermined",10.5,198,7.4037255159245,78.9572242358902,"Winter",111775
+1,-123.47623,40.4313,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",111793
+5,-118.289486,36.78325,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.4,NA,"female",10.1,122,7.43901977087809,136.149129141004,"Spring",111806
+6,-117.9725246,37.0202014,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.4,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",111817
+10,-115.4814771,33.8569026,"u ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.4,NA,"female",20,207,7.96549376429929,181.168085159431,"Fall",111845
+3,-121.93957,37.46675,"U",1988,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"undetermined",15.3,249,3.81071058354149,117.700752047076,"Spring",111885
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",111897
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"male",19.4,422,6.64009857539096,133.223207458633,"Summer",111898
+8,-95.0502192,16.5841339,NA,1963,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.4,NA,"female",26.4,825,1.87202288900796,132.707214930626,"Summer",111921
+8,-95.0502192,16.5841339,NA,1963,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.4,NA,"undetermined",26.4,825,1.87202288900796,132.707214930626,"Summer",111922
+5,-96.46691,16.06749,"U-Ad.",1965,"Psaltriparus minimus melonotis","Psaltriparus_minimus",5.4,NA,"female",15.4,1058,0.946284600664381,118.293539357867,"Spring",111978
+5,-121.93957,37.46675,"Ad",1990,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"female",14.9,219,4.73974171397045,102.265839988483,"Spring",111984
+7,-117.33333,33.88333,"U-Ad",2000,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.4,NA,"undetermined",16.4,207,4.90330747989806,147.303320144148,"Summer",111990
+3,-122.46533,37.77029,"Adult",2010,"Psaltriparus minimus","Psaltriparus_minimus",5.4,96,"female",13.8,724,2.54986630665574,101.614243965887,"Spring",111997
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",112001
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"female",16.5,156,9.10966852339099,130.954208948443,"Winter",112007
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"female",16.5,156,9.10966852339099,130.954208948443,"Winter",112009
+9,-106.52551,31.5234525,"adult",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",112010
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"female",19.4,422,6.64009857539096,133.223207458633,"Summer",112025
+12,-104.847111,23.9304277,NA,1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",5.4,NA,"male",16.2,722,3.55527776692624,99.1386240634238,"Winter",112040
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.4,NA,"female",16.5,156,9.10966852339099,130.954208948443,"Winter",112044
+9,-115.682,30.9845,"u ad.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.4,NA,"male",14.4,347,4.3397737687161,110.932259762074,"Fall",112052
+10,-115.682,30.9845,"imm.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.4,NA,"male",14.4,347,4.3397737687161,110.932259762074,"Fall",112059
+5,-103.259468,29.338189,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",18.4,359,7.44914068666292,78.7400787401181,"Spring",110963
+6,-103.199894,29.3651991,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",19.2,220,7.81681850340351,82.5695526771296,"Summer",110972
+2,-110.7562408,31.5394936,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.5,NA,"male",16,450,6.81003604315652,113.094221913867,"Winter",110984
+11,-118.6669349,34.713678,NA,1988,"Psaltriparus minimus","Psaltriparus_minimus",5.5,NA,"female",13.8,357,6.43715540413386,104.728945218927,"Fall",110998
+5,-103.2858181,29.2744954,"immature",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",16.6,477,6.49601276308643,82.2913350587059,"Spring",111031
+7,-103.0598561,29.8169754,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",19.2,198,8.10769836188253,73.8520399795737,"Summer",111033
+6,-103.199894,29.3651991,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"undetermined",19.2,220,7.81681850340351,82.5695526771296,"Summer",111038
+5,-103.259468,29.338189,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",18.4,359,7.44914068666292,78.7400787401181,"Spring",111059
+7,-108.4167461155,30.0146438844,"juv.sk.",1948,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",13.1,351,6.92931300980687,121.571115249925,"Summer",111105
+7,-108.4167461155,30.0146438844,"imm.sk.",1948,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"undetermined",13.1,351,6.92931300980687,121.571115249925,"Summer",111106
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",111121
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",111124
+6,-114.82083,40.5525,"imm.",1956,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"undetermined",3,727,7.97288967043754,111.831904649184,"Summer",111136
+7,-108.14806,28.56806,"ad.",1957,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",12.2,668,4.62590695448094,114.900395304386,"Summer",111137
+6,-110.6958,32.3356,"unknown",1964,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"female",15.5,572,7.6994096585978,98.1131791585934,"Summer",111148
+5,-119.714089,33.9955568,"ad.sk.",1967,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"male",13.9,464,3.39237112034957,138.692099084374,"Spring",111151
+2,-117.333,34.599,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"female",15.3,141,7.79928124116498,114.135877053123,"Winter",111191
+12,-122.1254,40.1707,"u ad.",1927,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.5,NA,"female",17.2,656,7.31032375024071,100.573161578608,"Winter",111225
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.5,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",111242
+4,-123.4786419,40.4251158,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"female",11.1,1048,7.04373781626222,103.759245387763,"Spring",111267
+10,-118.49432,35.4277106,"imm.",1933,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.5,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",111280
+11,-118.5536,35.3819,"imm.",1933,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.5,NA,"male",13.8,233,7.52721828775512,171.823440714423,"Fall",111282
+5,-114.10722,39.01722,"u ad.",1934,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"female",12,145,8.45472792243631,67.979497800529,"Spring",111288
+5,-119.8975,42.0471,"u ad.",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"female",7.8,384,9.29636618482858,83.5759812858421,"Spring",111294
+1,-115.3694888,35.1274017,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"female",12.8,252,7.68106684509306,131.775361938917,"Winter",111310
+1,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",111313
+5,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",111315
+5,-117.493415,35.942796,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"male",12.8,257,7.39979524696256,149.528499645752,"Spring",111332
+6,-117.10315,36.95078,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"undetermined",10,173,7.54121503754032,91.8049180411786,"Summer",111334
+3,-119.19139,38.82583,"u ad.",1941,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"female ?",9.8,198,6.59602152816378,85.2969744430905,"Spring",111343
+5,-123.9603,45.7833,"u ad.",1941,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",111344
+5,-123.9603,45.7833,"u ad.",1941,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",111345
+1,-124.13246,41.14591,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"male",11.3,1722,2.89025268896348,100.054445276711,"Winter",111348
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"male",7.5,166,7.01738101884431,137.190879217044,"Spring",111358
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"female",7.5,166,7.01738101884431,137.190879217044,"Spring",111363
+5,-118.196981,36.593373,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"female",9.4,131,7.17026688992309,132.476717533845,"Spring",111365
+9,-123.34811,40.69934,"imm.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"male",10.7,1528,6.55894023220954,102.554334440198,"Fall",111384
+5,-123.0218589,40.2528009,"u ad.",1946,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"female",9.1,900,6.53199584330622,100.72331767489,"Spring",111413
+5,-103.7793843,30.4611433,"ad",1976,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"male",14.6,376,6.53818620015359,106.001440813535,"Spring",111424
+8,-109.3822849,31.9298117,NA,1977,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"undetermined",12.6,717,6.67151338971083,108.825585062648,"Summer",111426
+4,-104.0834725,30.6332045,NA,1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"female",14,464,6.62358046541432,64.5299909134053,"Spring",111437
+3,-110.799285,31.710051,"adult",1957,NA,"Psaltriparus_minimus",5.5,NA,"female",14.7,663,6.20856568611365,89.7526038404757,"Spring",111443
+10,-104.030524,30.673863,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.5,NA,"undetermined",13.7,483,6.1535097154536,91.5500445103204,"Fall",111460
+10,-108.9153671,31.5141666,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.5,NA,"female",14.7,364,6.96877777206044,85.6604764627603,"Fall",111476
+2,-111.08668,31.403783,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.5,NA,"male",16.3,428,6.77982747612803,111.117464191106,"Winter",111488
+7,-103.0598561,29.8169754,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",19.2,198,8.10769836188253,73.8520399795737,"Summer",111503
+2,-110.7562408,31.5394936,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.5,NA,"female",16,450,6.81003604315652,113.094221913867,"Winter",111505
+5,-103.199894,29.3651991,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",18.9,318,7.88339259379354,78.2059120653794,"Spring",111528
+7,-103.3037834,29.2457561,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",16.3,388,6.19434615132414,98.5783558944368,"Summer",111530
+11,-103.2439499,30.2078686,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",17.1,237,7.57031683416863,79.4476276323516,"Fall",111547
+5,-103.0598561,29.8169754,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",18.8,271,8.2043595211031,74.5671402793839,"Spring",111557
+7,-108.4167461155,30.0146438844,"imm.sk.",1948,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",13.1,351,6.92931300980687,121.571115249925,"Summer",111591
+2,-122.694834,38.9992745,"u ad.",1951,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.5,NA,"female",13.7,634,6.23025365503369,125.468222433722,"Winter",111598
+4,-116.5135639,34.0687473,"u ad.",1951,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.5,NA,"female",16.7,246,7.00523613687171,139.842888524595,"Spring",111604
+6,-106.6953533524,29.5152066475,"juv.",1957,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",14.3,459,5.82868429459519,151.355595038893,"Summer",111615
+7,-108.14806,28.56806,"u ad.",1957,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",12.2,668,4.62590695448094,114.900395304386,"Summer",111617
+8,-106.8987177777,29.3920969444,"imm.sk.",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",111623
+8,-106.8987177777,29.3920969444,"imm.sk.",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",111625
+10,-122.7340259,37.9286764,"juvenile skull",2001,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"undetermined",13.1,842,2.33212089712088,131.653076248915,"Fall",111651
+10,-119.4641,36.7166,"u ad.",1916,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.5,NA,"male",17.1,414,7.34171869069725,145.650371320593,"Fall",111661
+8,-118.08956,37.434018,"juv.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"female ?",6.1,154,8.4879013717744,151.978321108734,"Summer",111666
+9,-122.2554267,37.8713748,"imm.",1921,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"male",13.9,544,2.97060089829814,138.724995379044,"Fall",111677
+12,-122.8392777,39.1616975,"ad.",1928,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.5,NA,"female",14,1003,6.38805703851122,108.632825983945,"Winter",111699
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",111747
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",111750
+1,-115.3694888,35.1274017,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"female",12.8,252,7.68106684509306,131.775361938917,"Winter",111756
+1,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",111758
+5,-123.9603,45.7833,"u ad.",1941,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"male",11,2675,3.59405021802659,79.2686014511964,"Spring",111782
+1,-124.13246,41.17489,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"female",11.3,1572,2.58894795528058,101.147460460958,"Winter",111786
+1,-123.47623,40.4313,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.5,NA,"undetermined",11.1,1820,6.24254100361529,98.8500323964413,"Winter",111791
+12,-120.3862721,40.3822922,"u ad.",1942,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.5,NA,"male",9.5,288,8.2825254163647,90.5300835072853,"Winter",111826
+10,-116.0935866,33.895784,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.5,NA,"male",14.1,382,6.98413787222029,142.241342203377,"Fall",111838
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.5,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",111843
+10,-103.8499258,30.3941115,"imm",1974,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"male",15,593,6.34165521840244,153.657341598397,"Fall",111857
+5,-103.6575929,30.4524996,"ad",1976,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"female",15.5,367,6.70040139005708,107.811418208614,"Spring",111861
+8,-109.3822849,31.9298117,"imm",1977,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,53,"male",12.6,717,6.67151338971083,108.825585062648,"Summer",111862
+4,-104.0834725,30.6332045,NA,1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.5,NA,"male",14,464,6.62358046541432,64.5299909134053,"Spring",111866
+10,-118.738089,34.215791,"not indicated",1983,NA,"Psaltriparus_minimus",5.5,NA,"female",18.5,970,5.07945207018762,96.0914838642808,"Fall",111870
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"undetermined",17.1,234,8.82954750204726,123.294822418107,"Fall",111899
+9,-106.52551,31.5234525,"adult",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",17.1,234,8.82954750204726,123.294822418107,"Fall",111909
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",16.5,156,9.10966852339099,130.954208948443,"Winter",111911
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",16.5,156,9.10966852339099,130.954208948443,"Winter",111919
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",16.5,156,9.10966852339099,130.954208948443,"Winter",111931
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",19.4,422,6.64009857539096,133.223207458633,"Summer",111932
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",16.5,156,9.10966852339099,130.954208948443,"Winter",111935
+9,-106.52551,31.5234525,"adult",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",111936
+8,-95.0502192,16.5841339,NA,1963,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.5,NA,"female",26.4,825,1.87202288900796,132.707214930626,"Summer",112004
+12,-104.847111,23.9304277,"adult",1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",5.5,NA,"female",16.2,722,3.55527776692624,99.1386240634238,"Winter",112020
+12,-104.847111,23.9304277,"adult",1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",5.5,NA,"male",16.2,722,3.55527776692624,99.1386240634238,"Winter",112031
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",16.5,156,9.10966852339099,130.954208948443,"Winter",112035
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",17.1,234,8.82954750204726,123.294822418107,"Fall",112036
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",17.1,234,8.82954750204726,123.294822418107,"Fall",112041
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"male",16.5,156,9.10966852339099,130.954208948443,"Winter",112042
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.5,NA,"female",19.4,422,6.64009857539096,133.223207458633,"Summer",112046
+5,-122.4296936,40.5865402,NA,1962,"Psaltriparus minimus","Psaltriparus_minimus",5.6,NA,"undetermined",16.6,1101,7.18590265517819,103.808295834182,"Spring",110960
+10,-108.9090157,31.5150447,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.6,NA,"male",14.7,363,6.97591093215311,85.1972433037685,"Fall",110964
+12,-103.0598561,29.8169754,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"undetermined",18.1,384,7.49561487966414,89.0055731051348,"Winter",111018
+6,-103.199894,29.3651991,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"male",19.2,220,7.81681850340351,82.5695526771296,"Summer",111044
+10,-118.7354278,34.0347371,NA,1994,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"undetermined",16.3,237,3.00770475259589,145.780540632324,"Fall",111053
+10,-104.0690231,30.7005158,NA,1961,"Psaltriparus minimus","Psaltriparus_minimus",5.6,NA,"undetermined",14,458,6.3937943398741,91.9102558135172,"Fall",111061
+10,-108.9153671,31.5141666,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.6,NA,"female",14.7,364,6.96877777206044,85.6604764627603,"Fall",111063
+4,-103.0598561,29.8169754,NA,1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"male",18.1,384,7.49561487966414,89.0055731051348,"Spring",111067
+6,-114.02278,38.94167,"u ad.",1962,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.6,NA,"female",9.8,140,9.36729885712994,66.135032660162,"Summer",111142
+2,-122.25547,37.86731,"adult skull",2001,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"male",14.2,739,3.28439838132842,129.99542815828,"Winter",111162
+1,-121.835607,36.60922,"ad.",1919,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"male",11.7,339,1.95393929994736,149.535305151252,"Winter",111200
+1,-122.28391,37.87512,"unknown",1920,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"female",13.5,455,2.51070435607946,124.118650636842,"Winter",111202
+6,-117.09639,39.16222,"u ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.6,NA,"female",8.3,253,8.91877063820848,91.7816550905034,"Summer",111260
+3,-123.4853,40.3329,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",111266
+11,-118.55,35.38,"ad.",1933,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.6,NA,"male",14,229,7.53832129049883,171.198684778172,"Fall",111281
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.6,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111302
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.6,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111303
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.6,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111304
+5,-115.57412,35.51722,"u ad.",1939,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.6,NA,"female",10.8,350,7.72694518022367,101.422951309955,"Spring",111330
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.6,NA,"male",7.5,166,7.01738101884431,137.190879217044,"Spring",111359
+9,-123.34811,40.69934,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"undetermined",10.7,1528,6.55894023220954,102.554334440198,"Fall",111385
+8,-109.3822849,31.9298117,"ad",1977,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.6,48,"female",12.6,717,6.67151338971083,108.825585062648,"Summer",111425
+4,-104.0834725,30.6332045,NA,1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.6,NA,"male",14,464,6.62358046541432,64.5299909134053,"Spring",111436
+3,-118.817954,34.0567838,"adult",2007,NA,"Psaltriparus_minimus",5.6,NA,"male",16,170,3.0004040131996,113.877957450842,"Spring",111449
+8,-103.0598561,29.8169754,"immature",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"female",18.1,384,7.49561487966414,89.0055731051348,"Summer",111484
+11,-117.3961601,33.9533482,NA,2004,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"undetermined",17.4,241,4.87301630192101,137.711306670804,"Fall",111487
+5,-103.28545,29.2743673,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"male",16.6,478,6.49601276308643,82.2913350587059,"Spring",111513
+11,-118.2647324,33.8313533,NA,1993,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"male",17,528,2.90750074910749,196.076384834315,"Fall",111517
+5,-103.259468,29.338189,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"male",18.4,359,7.44914068666292,78.7400787401181,"Spring",111525
+10,-109.572591,31.894898,"immature",1960,"Psaltriparus minimus","Psaltriparus_minimus",5.6,NA,"female",15.6,276,7.92055247537389,104.840733062869,"Fall",111527
+6,-103.199894,29.3651991,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"female",19.2,220,7.81681850340351,82.5695526771296,"Summer",111556
+8,-120.341905,39.817253,"imm.sk.",1963,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.6,NA,"undetermined",8,580,6.47168073340701,78.7953842024638,"Summer",111628
+5,-117.080084,36.171153,"u ad.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.6,NA,"female",6.7,220,8.29693262049843,124.559120235707,"Spring",111663
+12,-121.835607,36.60922,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"undetermined",12.2,366,2.45373864405591,117.372719699687,"Winter",111673
+5,-122.2297661,40.2121782,"juv.",1924,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.6,NA,"male",17.4,462,7.5992174637002,110.123926819142,"Spring",111679
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.6,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",111709
+11,-118.5536,35.3819,"imm.",1933,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.6,NA,"male ?",13.8,233,7.52721828775512,171.823440714423,"Fall",111733
+5,-115.39825,35.17621,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.6,NA,"female",12.7,259,7.64460594144656,131.243074050721,"Spring",111760
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.6,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",111767
+6,-123.47471,40.61736,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"female",13.1,998,6.018676739697,124.778735426946,"Summer",111830
+6,-120.5881808,35.1185856,"ad",1968,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"male",13.8,306,2.06280186037135,93.8126370854985,"Summer",111855
+8,-122.39765,38.2902,"U-Ad.",1985,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.6,NA,"female",14.4,606,5.43960643629833,114.424852190766,"Summer",111880
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"female",17.1,234,8.82954750204726,123.294822418107,"Fall",111903
+8,-95.0502192,16.5841339,NA,1963,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.6,NA,"male",26.4,825,1.87202288900796,132.707214930626,"Summer",111918
+12,-106.52551,31.5234525,NA,1964,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"male",16.5,156,9.10966852339099,130.954208948443,"Winter",111929
+7,-108.35,32.8333333,"young",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.6,NA,"female",11.1,437,7.29800200968274,105.171026251189,"Summer",111958
+8,-95.0502192,16.5841339,NA,1963,"Psaltriparus minimus melanotis","Psaltriparus_minimus",5.6,NA,"male",26.4,825,1.87202288900796,132.707214930626,"Summer",112016
+12,-105.153777,23.8787591,"adult",1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",5.6,NA,"female",13.2,858,3.44577035412015,88.7705358340683,"Winter",112032
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.6,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",112039
+1,-116.3833333,31.916667,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.6,NA,"male",14.6,497,4.44815249357085,121.762320320808,"Winter",112063
+7,-103.235399,20.9972387,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.6,NA,"male",17.7,900,2.67270150472015,104.92369698257,"Summer",112070
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.7,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",110976
+10,-104.030524,30.673863,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.7,NA,"undetermined",13.7,483,6.1535097154536,91.5500445103204,"Fall",111074
+12,-103.0598561,29.8169754,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.7,NA,"male",18.1,384,7.49561487966414,89.0055731051348,"Winter",111081
+2,-110.7562408,31.5394936,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.7,NA,"male",16,450,6.81003604315652,113.094221913867,"Winter",111086
+1,-116.262586,33.4757948,"u ad.",1956,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"male",16.4,99,7.25540028760187,147.752375247635,"Winter",111129
+8,-106.8987177777,29.3920969444,"ad.sk.",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.7,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",111140
+5,-119.714089,33.9955568,"ad.sk.",1967,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"female",13.9,464,3.39237112034957,138.692099084374,"Spring",111152
+5,-118.477114,37.410792,"juv.sk.",1992,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.7,NA,"male ?",13.7,122,8.19476921116406,97.2666432171352,"Spring",111158
+8,-118.08956,37.434018,"ad.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.7,NA,"female",6.1,154,8.4879013717744,151.978321108734,"Summer",111179
+10,-120.858963,35.393236,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"male",12.5,455,2.34525633411942,149.577597143969,"Fall",111197
+10,-120.858963,35.393236,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"male",12.5,455,2.34525633411942,149.577597143969,"Fall",111198
+10,-122.460921,37.698803,"ad.",1923,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"female",12.9,323,2.39139872852435,125.132193865607,"Fall",111207
+3,-116.0175,30.7197222222,"u ad.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.7,NA,"male",18.7,187,3.44524265759278,129.978629666692,"Spring",111215
+12,-122.1254,40.1707,"u ad.",1927,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.7,NA,"female",17.2,656,7.31032375024071,100.573161578608,"Winter",111224
+7,-120.47343,40.71625,"juv.",1928,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.7,NA,"female",8.8,292,7.44254762507538,111.963742319049,"Summer",111235
+6,-117.972801,37.036501,"u ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.7,NA,"male",8.1,202,8.34814441367153,170.26039419219,"Summer",111293
+6,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.7,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",111328
+6,-115.50028,35.96583,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.7,NA,"female",8.4,568,7.43201000586468,145.832625928857,"Summer",111339
+5,-118.196981,36.593373,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.7,NA,"male",9.4,131,7.17026688992309,132.476717533845,"Spring",111366
+6,-123.47471,40.61736,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"male",13.1,998,6.018676739697,124.778735426946,"Summer",111392
+6,-123.47471,40.61736,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"female",13.1,998,6.018676739697,124.778735426946,"Summer",111393
+5,-104.2654037,30.6128,"ad",1968,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.7,NA,"male",13.7,533,6.69918018503124,114.379291461444,"Spring",111417
+5,-104.0461493,30.6298252,NA,1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.7,NA,"male",14.7,432,6.82421601668824,64.3002398762827,"Spring",111438
+11,-103.2439499,30.2078686,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.7,NA,"male",17.1,237,7.57031683416863,79.4476276323516,"Fall",111464
+11,-122.6160965,38.7523041,NA,1993,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.7,NA,"female",15.1,1123,6.98055198824606,133.204224597191,"Fall",111472
+11,-103.2439499,30.2078686,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.7,NA,"male",17.1,237,7.57031683416863,79.4476276323516,"Fall",111500
+5,-103.2858181,29.2744954,"immature",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.7,NA,"male",16.6,477,6.49601276308643,82.2913350587059,"Spring",111526
+4,-104.030524,30.666247,NA,1960,"Psaltriparus minimus","Psaltriparus_minimus",5.7,NA,"male",14.3,565,7.07175345792661,109.117655884053,"Spring",111550
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.7,NA,"female",11.8,408,7.50888362763289,122.191219368848,"Winter",111585
+10,-109.572591,31.894898,"adult",1960,"Psaltriparus minimus","Psaltriparus_minimus",5.7,NA,"female",15.6,276,7.92055247537389,104.840733062869,"Fall",111586
+2,-122.694834,38.9992745,"u ad.",1951,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.7,NA,"male",13.7,634,6.23025365503369,125.468222433722,"Winter",111597
+1,-116.262586,33.4757948,"u ad.",1956,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"female",16.4,99,7.25540028760187,147.752375247635,"Winter",111612
+8,-106.8987177777,29.3920969444,"imm.sk.",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.7,NA,"male",13.9,408,6.2050504844966,116.088641244644,"Summer",111622
+6,-114.005,38.87472,"ad.",1962,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.7,NA,"male",9.7,148,9.27954332079032,64.1545878549474,"Summer",111627
+6,-123.08681,40.30771,"sk.oss.",1980,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"male",9.7,1009,5.97715347271288,112.581786222115,"Summer",111634
+9,-119.1161,37.91072,"imm.",1915,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.7,NA,"male",6.1,397,6.92951526574419,120.397261356711,"Fall",111657
+9,-119.11036,36.723617,"imm.",1916,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.7,NA,"female",15.9,1010,7.65119816325086,149.165087520743,"Fall",111659
+2,-122.4306,39.30893,"u ad.",1923,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.7,NA,"male",15.5,242,6.8200684258542,116.249645348228,"Winter",111678
+7,-120.47343,40.71625,"u ad.",1928,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.7,NA,"undetermined",8.8,292,7.44254762507538,111.963742319049,"Summer",111695
+7,-120.16266,40.92432,"u ad.",1928,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.7,NA,"male",8.8,272,7.37450563314812,123.392274747699,"Summer",111698
+5,-118.31418,36.765218,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.7,NA,"female",5,318,6.90754966860481,156.154735889681,"Spring",111808
+6,-118.315237,37.149547,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.7,NA,"male",13.3,81,8.11860937487561,108.623419341519,"Summer",111811
+2,-121.8604466,37.9578875,"u ad.",1944,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"male",14.5,568,4.94487031419859,108.929385750828,"Winter",111833
+6,-123.49373,40.61736,"u ad.",1946,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.7,NA,"male",11.8,868,6.50782745482839,107.408417197194,"Summer",111847
+10,-119.42944,40.45639,"u ad.",1947,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.7,NA,"female",10.6,125,8.40485069180382,80.7611696446165,"Fall",111849
+12,-115.7230556,31.4,"ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.7,NA,"male",16.2,268,4.77762303014604,130.711659266751,"Winter",111943
+12,-115.7230556,31.4,"ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.7,NA,"female",16.2,268,4.77762303014604,130.711659266751,"Winter",111944
+1,-116.3833333,31.916667,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.7,NA,"female",14.6,497,4.44815249357085,121.762320320808,"Winter",111946
+7,-108.987227,30.1168314,NA,1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.7,NA,"undetermined",19.4,422,6.64009857539096,133.223207458633,"Summer",112005
+9,-106.52551,31.5234525,"immature",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.7,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",112017
+12,-105.153777,23.8787591,"adult",1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",5.7,NA,"male",13.2,858,3.44577035412015,88.7705358340683,"Winter",112048
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.77,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",111127
+6,-117.10315,36.95078,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.77,NA,"male",10,173,7.54121503754032,91.8049180411786,"Summer",111776
+4,-108.9121056,31.5150447,NA,1961,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"male",14.7,364,6.96877777206044,85.4882680395752,"Spring",110965
+10,-104.030524,30.673863,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"undetermined",13.7,483,6.1535097154536,91.5500445103204,"Fall",111008
+10,-104.0690231,30.7005158,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"female",14,458,6.3937943398741,91.9102558135172,"Fall",111014
+8,-103.0598561,29.8169754,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",18.1,384,7.49561487966414,89.0055731051348,"Summer",111015
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"female",11.8,408,7.50888362763289,122.191219368848,"Winter",111016
+10,-109.572591,31.894898,"immature",1960,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"undetermined",15.6,276,7.92055247537389,104.840733062869,"Fall",111017
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"male",14.8,488,6.66525932115036,106.808709145592,"Fall",111028
+10,-108.9059258,31.5165081,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"female",14.7,362,6.97591093215311,84.9013437865846,"Fall",111030
+7,-103.0598561,29.8169754,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",19.2,198,8.10769836188253,73.8520399795737,"Summer",111040
+11,-103.2439499,30.2078686,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",17.1,237,7.57031683416863,79.4476276323516,"Fall",111046
+10,-108.9059258,31.5165081,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"female",14.7,362,6.97591093215311,84.9013437865846,"Fall",111070
+8,-103.0598561,29.8169754,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",18.1,384,7.49561487966414,89.0055731051348,"Summer",111076
+10,-104.030524,30.673863,"?",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"female",13.7,483,6.1535097154536,91.5500445103204,"Fall",111096
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",16.1,279,5.92657088241104,110.285245750577,"Spring",111128
+6,-114.005,38.87472,"juv.",1962,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.8,NA,"male",9.7,148,9.27954332079032,64.1545878549474,"Summer",111143
+5,-118.394496,37.411488,"ad.sk.",1992,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"female",14.3,108,8.35095258583768,111.111111111111,"Spring",111156
+6,-118.03306,40.79472,"ad.sk.",1992,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.8,NA,"male",11.2,127,8.97313752093976,78.7756992698544,"Summer",111160
+12,-119.781173,37.674352,"u ad.",1914,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.8,NA,"female",12.7,950,6.65197623859165,181.949619577693,"Winter",111172
+9,-119.11036,36.723617,"ad.",1916,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.8,NA,"male",15.9,1010,7.65119816325086,149.165087520743,"Fall",111174
+11,-121.01185,36.125721,"imm.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.8,NA,"undetermined",14.4,355,4.79737143936893,144.148441128706,"Fall",111192
+6,-119.822832,38.760829,"u ad.",1921,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.8,NA,"undetermined",7.1,609,6.26038531101914,150.294697934117,"Summer",111205
+5,-121.8688123,40.4352952,"imm.",1926,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.8,NA,"female",16.6,936,7.0718980779026,118.443020177421,"Spring",111220
+8,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.8,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",111248
+4,-123.502614,40.4502152,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.8,NA,"female",11.1,1056,6.83500349138702,102.658169752038,"Spring",111269
+4,-123.4853,40.3329,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.8,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",111273
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111299
+6,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",111323
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",111327
+5,-122.8741356,46.0084949,"u ad.",1941,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.8,NA,"male",12.1,959,4.73545620342385,69.8215869796105,"Spring",111346
+6,-118.430503,37.126417,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",5.3,186,6.9939096882411,106.598139624892,"Summer",111372
+6,-118.62246,37.84152,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",6.1,173,7.5787182093656,69.4963893690652,"Summer",111378
+10,-116.0935866,33.895784,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.8,NA,"male",14.1,382,6.98413787222029,142.241342203377,"Fall",111403
+10,-116.0935866,33.895784,"imm.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.8,NA,"male",14.1,382,6.98413787222029,142.241342203377,"Fall",111405
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"female",11.8,408,7.50888362763289,122.191219368848,"Winter",111461
+5,-103.259468,29.338189,"juvenile",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",18.4,359,7.44914068666292,78.7400787401181,"Spring",111465
+5,-103.0598561,29.8169754,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"female",18.8,271,8.2043595211031,74.5671402793839,"Spring",111480
+7,-103.3037834,29.2457561,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",16.3,388,6.19434615132414,98.5783558944368,"Summer",111481
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",111491
+5,-103.2858181,29.2744954,"juvenile",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"female",16.6,477,6.49601276308643,82.2913350587059,"Spring",111493
+4,-108.9121056,31.5150447,NA,1961,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"male",14.7,364,6.96877777206044,85.4882680395752,"Spring",111499
+5,-103.259468,29.338189,"juvenile",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",18.4,359,7.44914068666292,78.7400787401181,"Spring",111509
+5,-103.259468,29.338189,"juvenile",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",18.4,359,7.44914068666292,78.7400787401181,"Spring",111514
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",111533
+5,-103.28545,29.2743673,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"female",16.6,478,6.49601276308643,82.2913350587059,"Spring",111538
+10,-108.9090157,31.5150447,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"undetermined",14.7,363,6.97591093215311,85.1972433037685,"Fall",111541
+5,-103.2858181,29.2744954,"juvenile",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",16.6,477,6.49601276308643,82.2913350587059,"Spring",111544
+12,-103.0598561,29.8169754,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",18.1,384,7.49561487966414,89.0055731051348,"Winter",111554
+7,-103.0598561,29.8169754,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",19.2,198,8.10769836188253,73.8520399795737,"Summer",111565
+7,-103.23833,21.0024089914,"sk.ad.",1963,"Psaltriparus minimus iulus","Psaltriparus_minimus",5.8,NA,"male",17.7,898,2.66132514269706,105.046366016947,"Summer",111629
+4,-114.51111,37.4265,"ad.sk.",1968,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.8,NA,"male",12.2,269,7.81922165389416,66.9354849614598,"Spring",111633
+10,-119.881282,37.588966,"imm.",1915,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.8,NA,"male",12.9,966,6.24009518186925,121.651065720146,"Fall",111656
+10,-119.4641,36.7166,"u ad.",1916,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.8,NA,"male",17.1,414,7.34171869069725,145.650371320593,"Fall",111660
+5,-117.080084,36.171153,"u ad.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",6.7,220,8.29693262049843,124.559120235707,"Spring",111662
+10,-115.905556,32.048889,"u ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.8,NA,"male",13,410,5.31745980594859,121.536857020886,"Fall",111686
+10,-115.864167,32.288333,"u ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.8,NA,"male",16.9,304,5.85312659260766,129.574444396434,"Fall",111688
+6,-116.94528,39.24556,"u ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.8,NA,"male",8,222,9.01587824929222,87.4454411123066,"Summer",111721
+4,-123.4853,40.3329,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.8,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",111730
+1,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Winter",111757
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",111766
+6,-117.09412,36.96528,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",10.4,153,7.75533052262452,91.8888008721634,"Summer",111778
+5,-122.8741356,46.0084949,"ad.",1941,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.8,NA,"male",12.1,959,4.73545620342385,69.8215869796105,"Spring",111784
+5,-118.196981,36.593373,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",9.4,131,7.17026688992309,132.476717533845,"Spring",111805
+6,-117.9725246,37.0202014,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",111813
+6,-118.566964,37.876794,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.8,NA,"male",7.9,115,7.86052662280835,66.7743217428091,"Summer",111824
+12,-120.3862721,40.3822922,"u ad.",1942,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.8,NA,"female",9.5,288,8.2825254163647,90.5300835072853,"Winter",111827
+5,-116.15809,34.09216,"u ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.8,NA,"male",15.9,354,7.56276264257175,146.297465537398,"Spring",111834
+10,-116.0935866,33.895784,"imm.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.8,NA,"undetermined",14.1,382,6.98413787222029,142.241342203377,"Fall",111835
+10,-115.4814771,33.8569026,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.8,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",111840
+5,-104.2117576,30.7585058,"ad",1968,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.8,116,"male",13.5,562,6.53231477836428,129.763259686967,"Spring",111853
+5,-105.6496811,32.9504872,"ad",1968,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.8,118,"male",7.8,701,6.56969050514051,113.873281784039,"Spring",111854
+12,-120.113554,34.754543,"ad",1969,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.8,110,"[female]",15.7,851,4.36753692461538,180.384800263554,"Winter",111856
+9,-106.52551,31.5234525,"adult",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.8,NA,"male",17.1,234,8.82954750204726,123.294822418107,"Fall",111924
+7,-103.235399,20.9972387,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"female",17.7,900,2.67270150472015,104.92369698257,"Summer",111959
+7,-108.35,32.8333333,NA,1963,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.8,NA,"undetermined",11.1,437,7.29800200968274,105.171026251189,"Summer",111960
+2,-122.30168,38.30421,"U-Ad.",1981,"Psaltriparus minimus","Psaltriparus_minimus",5.8,NA,"male",15,790,4.55381957561701,120.185723927011,"Winter",111977
+10,-115.682,30.9845,"imm.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.8,NA,"male",14.4,347,4.3397737687161,110.932259762074,"Fall",112057
+1,-116.3833333,31.916667,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.8,NA,"male",14.6,497,4.44815249357085,121.762320320808,"Winter",112062
+7,-108.35,32.8333333,NA,1963,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.8,NA,"female",11.1,437,7.29800200968274,105.171026251189,"Summer",112071
+9,-122.47884,37.75271,"U",2009,"Psaltriparus minimus","Psaltriparus_minimus",5.82,80,"male",13.5,522,2.50726217942273,122.452665273024,"Fall",111998
+10,-104.0690231,30.7005158,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"female",14,458,6.3937943398741,91.9102558135172,"Fall",111002
+10,-104.0690231,30.7005158,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",14,458,6.3937943398741,91.9102558135172,"Fall",111041
+5,-103.0598561,29.8169754,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"male",18.8,271,8.2043595211031,74.5671402793839,"Spring",111048
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",111052
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",111055
+10,-104.030524,30.673863,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"female",13.7,483,6.1535097154536,91.5500445103204,"Fall",111056
+10,-108.9090157,31.5150447,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",14.7,363,6.97591093215311,85.1972433037685,"Fall",111069
+10,-104.0690231,30.7005158,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"undetermined",14,458,6.3937943398741,91.9102558135172,"Fall",111078
+1,-116.262586,33.4757948,"u ad.",1956,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.9,NA,"male",16.4,99,7.25540028760187,147.752375247635,"Winter",111130
+5,-121.56101,36.38063,"adult",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.9,NA,"female",14.6,332,4.6328863965822,134.017344879458,"Spring",111164
+12,-119.781173,37.674352,"imm.",1914,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.9,NA,"male",12.7,950,6.65197623859165,181.949619577693,"Winter",111171
+10,-117.465934,36.58766,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",111184
+1,-121.835607,36.60922,"ad.",1919,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.9,NA,"male",11.7,339,1.95393929994736,149.535305151252,"Winter",111199
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",5.9,NA,"male",22.2,342,4.69806536585201,128.498769417651,"Summer",111241
+5,-117.22,38.95,"u ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",111253
+4,-123.4718973,40.4133903,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.9,NA,"female",11.2,1026,7.06422913935649,104.018414633831,"Spring",111274
+7,-115.78011,38.05188,"u ad.",1933,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"male",5.7,314,9.17646446078227,90.3463082784513,"Summer",111279
+11,-118.4962702,35.4091256,"ad.",1933,"Psaltriparus minimus californicus","Psaltriparus_minimus",5.9,NA,"female",13.3,189,7.53667799176236,175.82619959228,"Fall",111283
+4,-119.70503,39.70395,"u ad.",1934,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"male",11.7,196,6.74783916030408,61.6013664505464,"Spring",111287
+5,-114.10722,39.01722,"u ad.",1934,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",111289
+5,-114.10722,39.01722,"u ad.",1934,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"male",12,145,8.45472792243631,67.979497800529,"Spring",111290
+7,-116.7863,42.0975,"u ad.",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"male",7.4,217,10.0723255717953,59.0326052690247,"Summer",111298
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",111325
+6,-117.14833,36.96528,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"female",8.2,203,7.26696552068247,91.3703303916152,"Summer",111338
+6,-118.430503,37.126417,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"male",5.3,186,6.9939096882411,106.598139624892,"Summer",111370
+5,-116.257,34.03749,"u ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.9,NA,"male",14,454,7.25550992297745,147.582890399501,"Spring",111401
+5,-104.2654037,30.6128,"ad",1968,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"male",13.7,533,6.69918018503124,114.379291461444,"Spring",111416
+7,-103.6182248,30.1407354,NA,1978,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"undetermined",15.6,617,6.98927208244351,104.196886049809,"Summer",111428
+3,-103.259468,29.338189,NA,1935,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"male",18.2,377,6.17435433994126,86.0268937457852,"Spring",111433
+2,-110.7562408,31.5394936,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",16,450,6.81003604315652,113.094221913867,"Winter",111478
+10,-108.9059258,31.5165081,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"undetermined",14.7,362,6.97591093215311,84.9013437865846,"Fall",111508
+10,-108.9059258,31.5165081,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",14.7,362,6.97591093215311,84.9013437865846,"Fall",111511
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",111516
+7,-103.0598561,29.8169754,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"undetermined",19.2,198,8.10769836188253,73.8520399795737,"Summer",111520
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",111542
+12,-103.0598561,29.8169754,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"female",18.1,384,7.49561487966414,89.0055731051348,"Winter",111555
+12,-103.199894,29.3651991,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"female",18.2,402,7.2565748661389,84.7801325325287,"Winter",111559
+4,-103.2165642,29.2549238,NA,1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"male",17.8,462,6.73408336656733,85.8993351736159,"Spring",111560
+10,-108.9090157,31.5150447,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",14.7,363,6.97591093215311,85.1972433037685,"Fall",111573
+6,-103.199894,29.3651991,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"male",19.2,220,7.81681850340351,82.5695526771296,"Summer",111580
+10,-104.0690231,30.7005158,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",5.9,NA,"male",14,458,6.3937943398741,91.9102558135172,"Fall",111581
+10,-119.56963,39.05579,"AHY",2012,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"male",10,538,7.52198293488674,137.623901552949,"Fall",111587
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",111609
+6,-106.770421,29.485097,"ad.",1959,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"male",12.5,463,6.20212573529138,151.806493038029,"Summer",111619
+2,-118.981459,37.900911,"u ad.",1962,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"undetermined",6.3,392,7.37425907937177,165.735030734926,"Winter",111626
+5,-118.15194,39.2105,"ad.sk.",1990,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",5.9,NA,"male",7.7,318,8.82387858786222,78.0624347466214,"Spring",111635
+5,-118.394496,37.411488,"juv.sk.",1992,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"female",14.3,108,8.35095258583768,111.111111111111,"Spring",111638
+10,-117.465934,36.58766,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"female",11.3,120,8.64527809462098,94.2916172886492,"Fall",111671
+4,-123.502614,40.4502152,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.9,NA,"male",11.1,1056,6.83500349138702,102.658169752038,"Spring",111729
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",111762
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",111769
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",5.9,NA,"male",7.5,166,7.01738101884431,137.190879217044,"Spring",111800
+10,-116.0935866,33.895784,"ad.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",5.9,NA,"male",14.1,382,6.98413787222029,142.241342203377,"Fall",111836
+3,-103.259468,29.338189,NA,1935,"Psaltriparus minimus lloydi","Psaltriparus_minimus",5.9,NA,"male",18.2,377,6.17435433994126,86.0268937457852,"Spring",111864
+12,-115.7077778,30.056111,"u ad.",1930,"Psaltriparus minimus melanurus","Psaltriparus_minimus",5.9,NA,"male",19.4,141,3.86596453917801,109.17807278476,"Winter",111950
+9,-122.47801,37.84594,"Imm",1982,"Psaltriparus minimus minimus","Psaltriparus_minimus",5.93,NA,"male",13,1107,2.87512845562831,101.388045356022,"Fall",111888
+4,-121.765404,38.7498899,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"male",15.5,400,6.4652157853791,126.110771825762,"Spring",110961
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",110971
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"female",14.8,488,6.66525932115036,106.808709145592,"Fall",110979
+10,-104.030524,30.673863,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"female",13.7,483,6.1535097154536,91.5500445103204,"Fall",110995
+12,-103.199894,29.3651991,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"male",18.2,402,7.2565748661389,84.7801325325287,"Winter",111007
+7,-103.0598561,29.8169754,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"male",19.2,198,8.10769836188253,73.8520399795737,"Summer",111021
+12,-103.199894,29.3651991,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"male",18.2,402,7.2565748661389,84.7801325325287,"Winter",111022
+4,-103.2439499,30.2078686,NA,1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"male",16.2,387,7.66338697965854,107.241256159719,"Spring",111032
+10,-109.572591,31.894898,"immature",1960,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"male",15.6,276,7.92055247537389,104.840733062869,"Fall",111036
+6,-103.199894,29.3651991,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"male",19.2,220,7.81681850340351,82.5695526771296,"Summer",111093
+10,-108.9059258,31.5165081,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"male",14.7,362,6.97591093215311,84.9013437865846,"Fall",111097
+9,-116.2346518,33.9625431,"ad.",1950,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",6,NA,"female",14.4,82,5.88054702670877,100.197198889473,"Fall",111118
+4,-102.5517555606,28.9779644393,"u ad.",1953,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"female",16.1,279,5.92657088241104,110.285245750577,"Spring",111125
+1,-116.262586,33.4757948,"u ad.",1956,"Psaltriparus minimus minimus","Psaltriparus_minimus",6,NA,"male",16.4,99,7.25540028760187,147.752375247635,"Winter",111131
+6,-115.43111,41.87361,"u ad.",1956,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"male",4.6,594,8.26298794002325,109.66750568223,"Summer",111134
+6,-114.82083,40.5525,"u ad.",1956,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"male",3,727,7.97288967043754,111.831904649184,"Summer",111135
+12,-115.5,40.21,"u ad.",1927,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"undetermined",7.5,450,8.29955730838408,55.667632194084,"Winter",111141
+5,-114.09284,36.57377,"ad.sk.",1970,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"female",13.2,345,8.26520178858693,107.270018403353,"Spring",111150
+6,-122.98844,41.32843,"sk.oss.",1980,"Psaltriparus minimus minimus","Psaltriparus_minimus",6,NA,"male",7.6,1132,6.31470146130872,99.5255835066147,"Summer",111153
+9,-119.11036,36.723617,"imm.",1916,"Psaltriparus minimus californicus","Psaltriparus_minimus",6,NA,"male",15.9,1010,7.65119816325086,149.165087520743,"Fall",111175
+10,-119.4641,36.7166,"u ad.",1916,"Psaltriparus minimus californicus","Psaltriparus_minimus",6,NA,"female",17.1,414,7.34171869069725,145.650371320593,"Fall",111177
+9,-117.54591,36.526174,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"female",12,120,8.66062143476804,98.0070931136764,"Fall",111183
+10,-117.465934,36.58766,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",111186
+10,-117.465934,36.58766,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",111188
+9,-120.856655,35.386783,"ad.",1918,"Psaltriparus minimus minimus","Psaltriparus_minimus",6,NA,"male",12.5,468,2.36622381686838,149.516755918256,"Fall",111195
+7,-120.11166,37.75634,"juv.",1920,"Psaltriparus minimus californicus","Psaltriparus_minimus",6,NA,"male",11.8,1003,6.41250553783209,104.637556634204,"Summer",111203
+3,-116.0175,30.7197222222,"u ad.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",6,NA,"female",18.7,187,3.44524265759278,129.978629666692,"Spring",111214
+11,-116.35,32.6,"imm.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",6,NA,"female",13.6,713,5.21695226248917,130.774518605179,"Fall",111227
+11,-116.35,32.6,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",6,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",111228
+7,-120.47343,40.71625,"ad.",1928,"Psaltriparus minimus californicus","Psaltriparus_minimus",6,NA,"female",8.8,292,7.44254762507538,111.963742319049,"Summer",111231
+9,-117.0343964,39.3959732,"u ad.",1931,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"male",8.1,344,9.16536216613199,46.429631740672,"Fall",111263
+9,-117.0343964,39.3959732,"u ad.",1931,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"undetermined",8.1,344,9.16536216613199,46.429631740672,"Fall",111264
+3,-123.4853,40.3329,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",6,NA,"male",10.2,1304,6.99569131463767,103.789746822994,"Spring",111265
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",111308
+1,-115.3694888,35.1274017,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",12.8,252,7.68106684509306,131.775361938917,"Winter",111312
+6,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",111324
+5,-117.590816,35.921418,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"female",16.2,171,7.79037381917095,158.820606353138,"Spring",111333
+6,-117.10315,36.95078,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",10,173,7.54121503754032,91.8049180411786,"Summer",111335
+5,-118.06827,36.236369,"u ad.",1942,"Psaltriparus minimus californicus","Psaltriparus_minimus",6,NA,"undetermined",10.1,159,7.11093907620186,131.780492070492,"Spring",111355
+5,-118.090929,36.227607,"u ad.",1942,"Psaltriparus minimus californicus","Psaltriparus_minimus",6,NA,"female",7.7,201,6.79378057825351,140.417559119545,"Spring",111356
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",7.5,166,7.01738101884431,137.190879217044,"Spring",111362
+5,-118.196981,36.593373,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"female",9.4,131,7.17026688992309,132.476717533845,"Spring",111368
+6,-118.622466,37.848788,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",6.6,157,7.6385981579202,69.017829637892,"Summer",111380
+12,-120.3862721,40.3822922,"u ad.",1942,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"male",9.5,288,8.2825254163647,90.5300835072853,"Winter",111387
+6,-123.14392,40.55443,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",6,NA,"female",11.5,837,5.90030173856055,120.785766804994,"Summer",111391
+12,-121.2137,37.2959,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",6,NA,"female",15.7,266,5.2213068722826,128.644213868355,"Winter",111395
+10,-115.4814771,33.8569026,"imm.",1945,"Psaltriparus minimus sociabilis","Psaltriparus_minimus",6,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",111407
+6,-112.0529175,35.9175835,"imm",1969,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"female",8.9,427,8.04914827039407,67.293259606686,"Summer",111420
+5,-103.6575929,30.4524996,"ad",1976,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"male",15.5,367,6.70040139005708,107.811418208614,"Spring",111423
+12,-119.638045,38.843501,NA,1999,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"male",9.6,402,7.21171185494733,114.453986415045,"Winter",111432
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"male",13.8,408,6.81715194242145,92.2178788015368,"Winter",111463
+10,-104.030524,30.673863,NA,1961,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"undetermined",13.7,483,6.1535097154536,91.5500445103204,"Fall",111466
+12,-103.0598561,29.8169754,NA,1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"undetermined",18.1,384,7.49561487966414,89.0055731051348,"Winter",111479
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"female",11.8,408,7.50888362763289,122.191219368848,"Winter",111482
+8,-103.0598561,29.8169754,"immature",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"male",18.1,384,7.49561487966414,89.0055731051348,"Summer",111496
+8,-103.0598561,29.8169754,"adult",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"female",18.1,384,7.49561487966414,89.0055731051348,"Summer",111501
+10,-104.030524,30.673863,NA,1961,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"undetermined",13.7,483,6.1535097154536,91.5500445103204,"Fall",111510
+10,-104.030524,30.673863,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"male",13.7,483,6.1535097154536,91.5500445103204,"Fall",111524
+7,-103.0598561,29.8169754,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"undetermined",19.2,198,8.10769836188253,73.8520399795737,"Summer",111535
+10,-109.572591,31.894898,"immature",1960,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"female",15.6,276,7.92055247537389,104.840733062869,"Fall",111545
+6,-118.23351,37.581591,NA,1996,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"female",-0.8,573,6.3467183121148,73.6056579417476,"Summer",111578
+4,-103.0598561,29.8169754,NA,1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"male",18.1,384,7.49561487966414,89.0055731051348,"Spring",111582
+6,-115.43111,41.87361,"u ad.",1956,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"female",4.6,594,8.26298794002325,109.66750568223,"Summer",111613
+6,-106.6953533524,29.5152066475,"u imm.",1957,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6,NA,"male",14.3,459,5.82868429459519,151.355595038893,"Summer",111616
+8,-118.08956,37.434018,"juv.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",6.1,154,8.4879013717744,151.978321108734,"Summer",111669
+9,-116.67194,37.7175,"u ad.",1931,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"male",10.2,180,9.12628571265939,97.6077493197785,"Fall",111727
+11,-118.4962702,35.4091256,"imm.",1933,"Psaltriparus minimus californicus","Psaltriparus_minimus",6,NA,"male",13.3,189,7.53667799176236,175.82619959228,"Fall",111734
+5,-119.8975,42.0471,"u ad.",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",111739
+12,-115.3694888,35.1274017,"unknown",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"female",13.3,133,8.66869585801624,112.414923169322,"Winter",111744
+6,-117.10315,36.95078,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",10,173,7.54121503754032,91.8049180411786,"Summer",111777
+6,-115.50028,35.96583,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"female",8.4,568,7.43201000586468,145.832625928857,"Summer",111779
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",7.5,166,7.01738101884431,137.190879217044,"Spring",111801
+6,-117.9725246,37.0202014,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"female",8.4,103,7.59514897015114,127.551037099331,"Summer",111816
+6,-118.480402,37.81843,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",10.1,77,8.15765117710194,65.9379462369891,"Summer",111818
+6,-118.480402,37.81843,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",10.1,77,8.15765117710194,65.9379462369891,"Summer",111819
+6,-118.480402,37.81843,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"male",10.1,77,8.15765117710194,65.9379462369891,"Summer",111820
+6,-118.585422,37.863392,"juv.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6,NA,"undetermined",7.8,125,7.86262254806457,64.6574150692592,"Summer",111823
+10,-119.42944,40.45639,"u ad.",1947,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"male",10.6,125,8.40485069180382,80.7611696446165,"Fall",111848
+10,-103.6575929,30.4524996,"imm",1975,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"male",16.2,365,6.38570847496758,115.926176447903,"Fall",111858
+5,-103.7793843,30.4611433,"ad",1976,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6,NA,"female",14.6,376,6.53818620015359,106.001440813535,"Spring",111860
+12,-104.847111,23.9304277,"adult",1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",6,NA,"female",16.2,722,3.55527776692624,99.1386240634238,"Winter",111902
+5,-122.41958,38.28687,"U-Ad.",1987,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"female",15,712,4.45348858829352,120.749572704824,"Spring",111981
+12,-104.847111,23.9304277,NA,1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",6,NA,"female",16.2,722,3.55527776692624,99.1386240634238,"Winter",112008
+7,-108.35,32.8333333,NA,1963,"Psaltriparus minimus","Psaltriparus_minimus",6,NA,"male",11.1,437,7.29800200968274,105.171026251189,"Summer",112069
+11,-99.3439557,38.8740807,"adult",1968,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"male",12,506,10.5826151032834,79.9535468353917,"Fall",110962
+7,-103.259468,29.338189,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.1,NA,"male",18.8,253,7.3953455878435,87.9352363056459,"Summer",110970
+4,-103.2439499,30.2078686,"adult",1960,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.1,NA,"female",16.2,387,7.66338697965854,107.241256159719,"Spring",110975
+7,-103.3037834,29.2457561,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.1,NA,"female",16.3,388,6.19434615132414,98.5783558944368,"Summer",110993
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"female",14.8,488,6.66525932115036,106.808709145592,"Fall",110997
+7,-103.3037834,29.2457561,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.1,NA,"male",16.3,388,6.19434615132414,98.5783558944368,"Summer",111005
+7,-103.3037834,29.2457561,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.1,NA,"male",16.3,388,6.19434615132414,98.5783558944368,"Summer",111058
+10,-103.7938499,30.7694216,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"male",14.8,488,6.66525932115036,106.808709145592,"Fall",111062
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"female",14.8,488,6.66525932115036,106.808709145592,"Fall",111083
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"female",13.8,408,6.81715194242145,92.2178788015368,"Winter",111085
+1,-116.262586,33.4757948,"u ad.",1956,"Psaltriparus minimus minimus","Psaltriparus_minimus",6.1,NA,"male",16.4,99,7.25540028760187,147.752375247635,"Winter",111132
+6,-115.43111,41.91708,"u ad.",1956,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.1,NA,"male",4.6,559,8.24431852118705,109.953077771036,"Summer",111133
+10,-117.465934,36.58766,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"female",11.3,120,8.64527809462098,94.2916172886492,"Fall",111187
+5,-123.015054,40.394887,"u ad.",1926,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.1,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",111218
+7,-120.47343,40.71625,"ad.",1928,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.1,NA,"male",8.8,292,7.44254762507538,111.963742319049,"Summer",111230
+7,-120.47343,40.71625,"juv.",1928,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.1,NA,"undetermined",8.8,292,7.44254762507538,111.963742319049,"Summer",111233
+4,-123.4786419,40.4251158,"u ad.",1932,"Psaltriparus minimus minimus","Psaltriparus_minimus",6.1,NA,"male",11.1,1048,7.04373781626222,103.759245387763,"Spring",111268
+5,-119.8975,42.0471,"u ad.",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.1,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",111295
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",111300
+5,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",111319
+5,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",111321
+6,-117.10315,36.95078,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"male",10,173,7.54121503754032,91.8049180411786,"Summer",111337
+5,-118.196981,36.593373,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"male",9.4,131,7.17026688992309,132.476717533845,"Spring",111367
+10,-113.5272152,40.6529889,NA,1999,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"male",10.4,133,9.07797868303826,69.3427337633158,"Fall",111451
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"female",13.8,408,6.81715194242145,92.2178788015368,"Winter",111471
+10,-104.030524,30.673863,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"male",13.7,483,6.1535097154536,91.5500445103204,"Fall",111490
+5,-103.0598561,29.8169754,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.1,NA,"female",18.8,271,8.2043595211031,74.5671402793839,"Spring",111504
+8,-103.0598561,29.8169754,"immature",1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.1,NA,"female",18.1,384,7.49561487966414,89.0055731051348,"Summer",111574
+7,-103.0598561,29.8169754,NA,1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.1,NA,"female",19.2,198,8.10769836188253,73.8520399795737,"Summer",111576
+10,-109.572591,31.894898,"immature",1960,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"female",15.6,276,7.92055247537389,104.840733062869,"Fall",111579
+10,-104.030524,30.673863,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"female",13.7,483,6.1535097154536,91.5500445103204,"Fall",111583
+10,-117.465934,36.58766,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",111670
+5,-122.0695,40.3146,"juv.",1924,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.1,NA,"female",16.7,494,7.4583032841785,107.492321804429,"Spring",111681
+3,-116.0175,30.7197222222,"u ad.",1925,"Psaltriparus minimus melanurus","Psaltriparus_minimus",6.1,NA,"female",18.7,187,3.44524265759278,129.978629666692,"Spring",111683
+5,-123.015054,40.394887,"u ad.",1926,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.1,NA,"female",11.7,1312,6.52795851888187,123.826324692807,"Spring",111684
+7,-120.47343,40.71625,"ad.?",1928,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.1,NA,"female",8.8,292,7.44254762507538,111.963742319049,"Summer",111697
+9,-114.885,39.90056,"imm.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.1,NA,"female",6.8,370,9.40889327855687,68.1408602658598,"Fall",111724
+4,-119.70503,39.70395,"u ad.",1934,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.1,NA,"female",11.7,196,6.74783916030408,61.6013664505464,"Spring",111735
+5,-115.4207,35.21512,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"female",12.5,266,7.6317518541706,132.48996210482,"Spring",111761
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"female",7.5,166,7.01738101884431,137.190879217044,"Spring",111804
+6,-118.480402,37.81843,"juv.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.1,NA,"male",10.1,77,8.15765117710194,65.9379462369891,"Summer",111821
+6,-120.25,34.5166667,"immature",2002,"Psaltriparus minimus","Psaltriparus_minimus",6.1,NA,"female",14.2,379,2.65495534402895,160.673903930468,"Summer",111961
+10,-109.572591,31.894898,"adult",1960,"Psaltriparus minimus","Psaltriparus_minimus",6.2,NA,"male",15.6,276,7.92055247537389,104.840733062869,"Fall",111006
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",6.2,NA,"female",11.8,408,7.50888362763289,122.191219368848,"Winter",111039
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.2,NA,"female",14.8,488,6.66525932115036,106.808709145592,"Fall",111054
+7,-103.0598561,29.8169754,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.2,NA,"male",19.2,198,8.10769836188253,73.8520399795737,"Summer",111065
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.2,NA,"male",13.8,408,6.81715194242145,92.2178788015368,"Winter",111066
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",6.2,NA,"female",11.8,408,7.50888362763289,122.191219368848,"Winter",111075
+8,-118.103836,37.428194,"ad.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"male",5.4,158,8.41468773615336,154.867422852754,"Summer",111181
+7,-120.47343,40.71625,"ad.",1928,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.2,NA,"male",8.8,292,7.44254762507538,111.963742319049,"Summer",111232
+6,-116.98667,39.23861,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.2,NA,"male",8.2,223,9.05938321534221,90.698323731634,"Summer",111259
+5,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",111318
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"female",7.5,166,7.01738101884431,137.190879217044,"Spring",111360
+7,-119.17389,38.4625,"u ad.",1946,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"undetermined",7,298,7.48337551449271,130.828043406153,"Summer",111415
+5,-104.2654037,30.6128,"ad",1968,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.2,NA,"female",13.7,533,6.69918018503124,114.379291461444,"Spring",111418
+4,-104.1670847,30.6342934,NA,1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.2,NA,"male",12.7,552,6.42685535055595,64.4684780139461,"Spring",111439
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.2,NA,"male",13.8,408,6.81715194242145,92.2178788015368,"Winter",111458
+11,-103.2439499,30.2078686,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.2,NA,"male",17.1,237,7.57031683416863,79.4476276323516,"Fall",111495
+10,-104.030524,30.673863,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.2,NA,"male",13.7,483,6.1535097154536,91.5500445103204,"Fall",111507
+4,-108.9121056,31.5150447,NA,1961,"Psaltriparus minimus","Psaltriparus_minimus",6.2,NA,"female",14.7,364,6.96877777206044,85.4882680395752,"Spring",111519
+6,-122.6160965,38.7523041,NA,1990,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.2,NA,"undetermined",14.8,485,6.84308985677368,136.518873548435,"Summer",111552
+7,-103.3037834,29.2457561,"juvenile",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.2,NA,"female",16.3,388,6.19434615132414,98.5783558944368,"Summer",111558
+10,-119.56963,39.05579,"AHY",2012,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.2,NA,"male",10,538,7.52198293488674,137.623901552949,"Fall",111588
+6,-119.2497,38.4798,"u ad.",1957,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"male",4.6,371,7.28358469852627,65.3112781153842,"Summer",111614
+5,-118.4302,37.414399,"juv.sk.",1992,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"male",14.2,113,8.29360377859731,106.830437527287,"Spring",111637
+5,-120.2288714,40.7164876,"ad.sk.",1992,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.2,NA,"male",7.9,295,7.58492823721071,117.014872384441,"Spring",111639
+6,-118.03306,40.79472,"ad.sk.",1992,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.2,NA,"male",11.2,127,8.97313752093976,78.7756992698544,"Summer",111640
+5,-121.56101,36.38063,"skull",2007,"Psaltriparus minimus minimus","Psaltriparus_minimus",6.2,NA,"female",14.6,332,4.6328863965822,134.017344879458,"Spring",111643
+5,-115.57412,35.51722,"u ad.",1939,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",111773
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"male",7.5,166,7.01738101884431,137.190879217044,"Spring",111799
+6,-118.430503,37.126417,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"female",5.3,186,6.9939096882411,106.598139624892,"Summer",111810
+6,-122.82817,40.32421,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",6.2,NA,"male",14.4,687,6.28728273918266,121.916631216622,"Summer",111829
+7,-119.17389,38.4625,"u ad.",1946,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"male",7,298,7.48337551449271,130.828043406153,"Summer",111851
+7,-119.17389,38.4625,"u ad.",1946,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.2,NA,"male",7,298,7.48337551449271,130.828043406153,"Summer",111852
+12,-105.153777,23.8787591,NA,1962,"Psaltriparus minimus iulus","Psaltriparus_minimus",6.2,NA,"male",13.2,858,3.44577035412015,88.7705358340683,"Winter",112030
+6,-105.37,32.83861,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"male",10.9,382,7.08071966039406,86.0972844070675,"Summer",110986
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",110990
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"female",13.8,408,6.81715194242145,92.2178788015368,"Winter",110999
+11,-103.2439499,30.2078686,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.3,NA,"male",17.1,237,7.57031683416863,79.4476276323516,"Fall",111001
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"female",13.8,408,6.81715194242145,92.2178788015368,"Winter",111020
+4,-122.6160965,38.7523041,NA,1990,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.3,NA,"male",14.8,485,6.84308985677368,136.518873548435,"Spring",111025
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"male",11.8,408,7.50888362763289,122.191219368848,"Winter",111026
+11,-103.2439499,30.2078686,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.3,NA,"male",17.1,237,7.57031683416863,79.4476276323516,"Fall",111042
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"female",14.8,488,6.66525932115036,106.808709145592,"Fall",111068
+10,-104.030524,30.673863,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"male",13.7,483,6.1535097154536,91.5500445103204,"Fall",111077
+10,-104.0690231,30.7005158,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"male",14,458,6.3937943398741,91.9102558135172,"Fall",111092
+10,-119.4641,36.7166,"u ad.",1916,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.3,NA,"undetermined",17.1,414,7.34171869069725,145.650371320593,"Fall",111178
+9,-117.54591,36.526174,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.3,NA,"female",12,120,8.66062143476804,98.0070931136764,"Fall",111182
+5,-117.22,38.95,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",111254
+6,-117.09639,39.16222,"u ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"male",8.3,253,8.91877063820848,91.7816550905034,"Summer",111261
+8,-115.51852,39.22743,"u ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"male",4.4,608,8.43928404259005,80.6366791776383,"Summer",111262
+4,-119.9652082,39.7348637,"u ad.",1934,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"male",9.2,320,6.26597352710848,57.8031872248235,"Spring",111286
+6,-115.50028,35.96583,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.3,NA,"male",8.4,568,7.43201000586468,145.832625928857,"Summer",111340
+12,-120.3862721,40.3822922,"u ad.",1942,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"male",9.5,288,8.2825254163647,90.5300835072853,"Winter",111388
+10,-104.030524,30.673863,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"male",13.7,483,6.1535097154536,91.5500445103204,"Fall",111473
+4,-103.0598561,29.8169754,NA,1961,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.3,NA,"female",18.1,384,7.49561487966414,89.0055731051348,"Spring",111494
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"male",13.8,408,6.81715194242145,92.2178788015368,"Winter",111522
+6,-118.099737,37.432159,"u ad.",1954,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.3,NA,"male",6.2,289,6.69886353997995,93.1612499083614,"Summer",111610
+7,-108.876663,31.533611,"u ad.",1963,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"male",15.3,341,7.00001623374741,112.17382547968,"Summer",111631
+8,-118.08956,37.434018,"ad.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.3,NA,"female",6.1,154,8.4879013717744,151.978321108734,"Summer",111665
+5,-117.26,38.95,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"male",7,308,8.582911139955,95.1852503205914,"Spring",111714
+5,-117.22,38.95,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"female",8.5,193,8.91510040052916,90.4141355601596,"Spring",111715
+4,-119.70503,39.70395,"u ad.",1934,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"male",11.7,196,6.74783916030408,61.6013664505464,"Spring",111736
+5,-119.8975,42.0471,"u ad.",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.3,NA,"male",7.8,384,9.29636618482858,83.5759812858421,"Spring",111740
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.3,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",111746
+4,-102.9833333,36.9,NA,1959,"Psaltriparus minimus","Psaltriparus_minimus",6.3,NA,"male",12.1,371,9.41225828696844,80.1057455697153,"Spring",111954
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.4,NA,"female",13.8,408,6.81715194242145,92.2178788015368,"Winter",110980
+7,-103.0598561,29.8169754,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.4,NA,"male",19.2,198,8.10769836188253,73.8520399795737,"Summer",111019
+10,-104.030524,30.673863,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.4,NA,"undetermined",13.7,483,6.1535097154536,91.5500445103204,"Fall",111035
+6,-115.64714,36.40167,"ad.",1963,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"male",9.9,443,7.75036656024615,157.805418806367,"Summer",111145
+10,-117.465934,36.58766,"imm.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"female",11.3,120,8.64527809462098,94.2916172886492,"Fall",111185
+5,-117.23,38.89,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.4,NA,"female",8.2,204,8.83386647905078,88.3383599642939,"Spring",111249
+5,-117.22056,38.94861,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.4,NA,"male",8.5,190,8.92793963132626,90.6090010271271,"Spring",111256
+5,-117.22,38.95,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.4,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",111257
+5,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Spring",111317
+5,-115.57412,35.51722,"u ad.",1939,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",111329
+6,-115.50028,35.96583,"u ad.",1940,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"male",8.4,568,7.43201000586468,145.832625928857,"Summer",111342
+6,-117.9725246,37.0202014,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"female",8.4,103,7.59514897015114,127.551037099331,"Summer",111373
+6,-118.480402,37.81843,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"male",10.1,77,8.15765117710194,65.9379462369891,"Summer",111377
+6,-123.49373,40.61736,"u ad.",1946,"Psaltriparus minimus minimus","Psaltriparus_minimus",6.4,NA,"male",11.8,868,6.50782745482839,107.408417197194,"Summer",111414
+5,-104.0271378,30.6704002,NA,1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.4,NA,"male",14.1,448,6.57287239455868,68.6365863319441,"Spring",111434
+3,-103.944793,30.5881557,NA,1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.4,NA,"male",15.2,411,6.95419537641367,68.3220778599768,"Spring",111435
+5,-103.0598561,29.8169754,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.4,NA,"male",18.8,271,8.2043595211031,74.5671402793839,"Spring",111468
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.4,NA,"female",14.8,488,6.66525932115036,106.808709145592,"Fall",111483
+11,-103.2439499,30.2078686,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.4,NA,"male",17.1,237,7.57031683416863,79.4476276323516,"Fall",111537
+5,-103.199894,29.3651991,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.4,NA,"female",18.9,318,7.88339259379354,78.2059120653794,"Spring",111540
+5,-103.2858181,29.2744954,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.4,NA,"male",16.6,477,6.49601276308643,82.2913350587059,"Spring",111549
+8,-118.08956,37.434018,"juv.",1917,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"male",6.1,154,8.4879013717744,151.978321108734,"Summer",111667
+5,-115.57412,35.51722,"u ad.",1939,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"male",10.8,350,7.72694518022367,101.422951309955,"Spring",111774
+5,-118.201155,36.590266,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"male",7.5,166,7.01738101884431,137.190879217044,"Spring",111803
+6,-117.9725246,37.0202014,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.4,NA,"female",8.4,103,7.59514897015114,127.551037099331,"Summer",111815
+4,-122.50966,37.97559,"Ad",2002,"Psaltriparus minimus","Psaltriparus_minimus",6.4,NA,"undetermined",14.5,862,3.49215571175621,173.120534154938,"Spring",111890
+6,-103.6176667,37.1746667,NA,2010,"Psaltriparus minimus","Psaltriparus_minimus",6.4,NA,"male",10.9,425,8.90775964079531,84.8807464243672,"Summer",111895
+4,-102.9833333,36.9,NA,1959,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.4,NA,"female",12.1,371,9.41225828696844,80.1057455697153,"Spring",111957
+6,-103.0837667,37.1427167,NA,2010,"Psaltriparus minimus","Psaltriparus_minimus",6.4,NA,"male",12.7,377,9.55768372472212,95.923605967552,"Summer",111999
+10,-103.7935066,30.7747314,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.5,NA,"female",14.8,487,6.664213563823,106.250273954236,"Fall",111057
+10,-111.5625,35.4603,"u ad.",1922,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.5,NA,"female",9.4,384,9.18201057404195,45.2659439514762,"Fall",111206
+5,-117.22,38.95,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.5,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",111251
+5,-118.0475,36.265,"u ad.",1942,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.5,NA,"female",13.1,110,7.64452666152639,122.003611142581,"Spring",111357
+6,-119.6842003,34.0191231,"ad",1969,"Psaltriparus minimus minimus","Psaltriparus_minimus",6.5,110,"male",14.7,620,2.42917868649243,198.766186748099,"Summer",111421
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.5,NA,"male",13.8,408,6.81715194242145,92.2178788015368,"Winter",111474
+1,-107.7061424,32.9170189,"adult",1963,"Psaltriparus minimus","Psaltriparus_minimus",6.5,NA,"undetermined",11.8,408,7.50888362763289,122.191219368848,"Winter",111546
+5,-103.3037834,29.2457561,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.5,NA,"male",15.9,523,6.24060506002034,83.507724891597,"Spring",111551
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.5,NA,"male",14.8,488,6.66525932115036,106.808709145592,"Fall",111568
+6,-120.14187,37.73845,"juv.",1915,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.5,NA,"undetermined",13.6,972,6.59859948409624,126.927396722398,"Summer",111652
+9,-119.1161,37.91072,"imm.",1915,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.5,NA,"male",6.1,397,6.92951526574419,120.397261356711,"Fall",111658
+6,-116.98667,39.23861,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.5,NA,"female",8.2,223,9.05938321534221,90.698323731634,"Summer",111720
+5,-119.8975,42.0471,"u ad.",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.5,NA,"female",7.8,384,9.29636618482858,83.5759812858421,"Spring",111741
+5,-118.090504,36.22778,"u ad.",1942,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.5,NA,"female",7.7,201,6.79378057825351,139.808219935452,"Spring",111798
+5,-118.245112,36.581746,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.5,NA,"female",2.3,312,6.59896686128697,155.633303164937,"Spring",111802
+10,-119.62993,39.94006,"u ad.",1947,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.5,NA,"male",10.4,100,7.61773747528912,68.806214920597,"Fall",111850
+4,-104.0834725,30.6332045,NA,1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.5,NA,"male",14,464,6.62358046541432,64.5299909134053,"Spring",111867
+4,-102.9833333,36.9,NA,1959,"Psaltriparus minimus","Psaltriparus_minimus",6.5,NA,"female",12.1,371,9.41225828696844,80.1057455697153,"Spring",111955
+10,-103.7938499,30.7694216,"immature",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.6,NA,"male",14.8,488,6.66525932115036,106.808709145592,"Fall",111013
+11,-103.2439499,30.2078686,NA,1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.6,NA,"male",17.1,237,7.57031683416863,79.4476276323516,"Fall",111089
+5,-122.0695,40.3146,"juv.",1924,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.6,NA,"male",16.7,494,7.4583032841785,107.492321804429,"Spring",111208
+6,-117.9725246,37.0202014,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.6,NA,"male",8.4,103,7.59514897015114,127.551037099331,"Summer",111374
+5,-103.0598561,29.8169754,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.6,NA,"female",18.8,271,8.2043595211031,74.5671402793839,"Spring",111459
+7,-103.259468,29.338189,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.6,NA,"male",18.8,253,7.3953455878435,87.9352363056459,"Summer",111569
+10,-115.864167,32.288333,"u ad.",1926,"Psaltriparus minimus melanurus","Psaltriparus_minimus",6.6,NA,"female",16.9,304,5.85312659260766,129.574444396434,"Fall",111687
+6,-117.14386,39.25556,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.6,NA,"female",5.1,622,8.24041684000086,85.6752551249091,"Summer",111718
+6,-116.94528,39.24556,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.6,NA,"female",8,222,9.01587824929222,87.4454411123066,"Summer",111722
+6,-122.82817,40.32421,"u ad.",1943,"Psaltriparus minimus minimus","Psaltriparus_minimus",6.6,NA,"female",14.4,687,6.28728273918266,121.916631216622,"Summer",111828
+1,-104.7457848,32.1909447,NA,1965,"Psaltriparus minimus","Psaltriparus_minimus",6.7,NA,"female",13.8,408,6.81715194242145,92.2178788015368,"Winter",111000
+10,-103.7938499,30.7694216,"adult",1961,"Psaltriparus minimus","Psaltriparus_minimus",6.7,NA,"female",14.8,488,6.66525932115036,106.808709145592,"Fall",111024
+5,-103.3037834,29.2457561,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.7,NA,"male",15.9,523,6.24060506002034,83.507724891597,"Spring",111091
+6,-115.65611,36.40167,"ad.sk.",1963,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.7,NA,"male",9.9,447,7.74891488004493,157.395981687623,"Summer",111146
+9,-119.1161,37.91072,"ad.",1915,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.7,NA,"female",6.1,397,6.92951526574419,120.397261356711,"Fall",111173
+7,-109.716873,23.387557,"ad.",1929,"Psaltriparus minimus grindae","Psaltriparus_minimus",6.7,NA,"female",22.2,342,4.69806536585201,128.498769417651,"Summer",111240
+6,-115.4207,35.1716,"juv.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.7,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",111326
+10,-119.7034868,37.7352363,"imm.",1915,"Psaltriparus minimus californicus","Psaltriparus_minimus",6.7,NA,"female",9.5,943,6.34098620567858,117.677020869619,"Fall",111654
+6,-117.14386,39.25556,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.7,NA,"female",5.1,622,8.24041684000086,85.6752551249091,"Summer",111717
+6,-117.14386,39.25556,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.7,NA,"female",5.1,622,8.24041684000086,85.6752551249091,"Summer",111719
+6,-116.94528,39.24556,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.7,NA,"male",8,222,9.01587824929222,87.4454411123066,"Summer",111723
+12,-115.3694888,35.1274017,"ad.",1937,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.7,NA,"male",13.3,133,8.66869585801624,112.414923169322,"Winter",111743
+1,-115.3694888,35.1274017,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.7,NA,"male",12.8,252,7.68106684509306,131.775361938917,"Winter",111755
+7,-103.0598561,29.8169754,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.8,NA,"undetermined",19.2,198,8.10769836188253,73.8520399795737,"Summer",111072
+6,-114.005,38.87472,"ad.",1962,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.8,NA,"male",9.7,148,9.27954332079032,64.1545878549474,"Summer",111144
+6,-119.64917,39.14194,"ad.sk.",1996,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.8,NA,"male",9.7,658,6.83792343988268,98.5382318605003,"Summer",111161
+6,-118.396805,37.125883,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.8,NA,"male",6.6,172,7.12644987906236,108.20721667188,"Summer",111371
+11,-116.35,32.6,"ad.",1927,"Psaltriparus minimus melanurus","Psaltriparus_minimus",6.8,NA,"male",13.6,713,5.21695226248917,130.774518605179,"Fall",111692
+5,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.8,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Spring",111759
+6,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.8,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",111765
+6,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.8,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",111772
+6,-118.62246,37.84152,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.8,NA,"male",6.1,173,7.5787182093656,69.4963893690652,"Summer",111822
+7,-103.0598561,29.8169754,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",6.9,NA,"male",19.2,198,8.10769836188253,73.8520399795737,"Summer",110987
+6,-118.622466,37.848788,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.9,NA,"female",6.6,157,7.6385981579202,69.017829637892,"Summer",111379
+5,-117.22,38.95,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.9,NA,"male",8.5,193,8.91510040052916,90.4141355601596,"Spring",111716
+9,-116.67194,37.7175,"unknown",1931,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",6.9,NA,"female",10.2,180,9.12628571265939,97.6077493197785,"Fall",111728
+6,-117.9725246,37.0202014,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",6.9,NA,"female",8.4,103,7.59514897015114,127.551037099331,"Summer",111812
+7,-103.0598561,29.8169754,"adult",1962,"Psaltriparus minimus lloydi","Psaltriparus_minimus",7,NA,"female",19.2,198,8.10769836188253,73.8520399795737,"Summer",110974
+5,-117.22,38.95,"u ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",7,NA,"female",8.5,193,8.91510040052916,90.4141355601596,"Spring",111252
+6,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",7,NA,"female",12.9,254,7.69030775283625,132.158136765635,"Summer",111768
+6,-103.6575929,30.4524996,"ad",1976,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",7,NA,"female",15.5,367,6.70040139005708,107.811418208614,"Summer",111859
+4,-102.9833333,36.9,NA,1959,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",7,NA,"male",12.1,371,9.41225828696844,80.1057455697153,"Spring",111956
+5,-115.54932,35.44097,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",7.2,NA,"female",11.6,265,7.66835291073881,130.265470677771,"Spring",111314
+5,-103.3037834,29.2457561,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",7.3,NA,"female",15.9,523,6.24060506002034,83.507724891597,"Spring",111584
+4,-104.0212154,30.6700311,"adult",1937,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",7.3,NA,"female",14,453,6.50941043739172,68.6191885913047,"Spring",111865
+5,-117.22056,38.94861,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",7.4,NA,"female",8.5,190,8.92793963132626,90.6090010271271,"Spring",111255
+11,-102.96361,36.82997,NA,1957,"Psaltriparus minimus","Psaltriparus_minimus",7.4,NA,"female",12,431,8.68827143947866,85.9972431945455,"Fall",111450
+5,-120.742395,41.8959486,"u ad.",1948,"Psaltriparus minimus californicus","Psaltriparus_minimus",7.5,NA,"female",5.9,556,7.59079885603138,55.1023653639579,"Spring",111101
+6,-115.4207,35.1716,"ad.",1938,"Psaltriparus minimus providentialis","Psaltriparus_minimus",7.5,NA,"male",12.9,254,7.69030775283625,132.158136765635,"Summer",111771
+6,-118.430503,37.126417,"u ad.",1942,"Psaltriparus minimus providentialis","Psaltriparus_minimus",7.6,NA,"female",5.3,186,6.9939096882411,106.598139624892,"Summer",111369
+5,-117.26,38.95,"ad.",1930,"Psaltriparus minimus plumbeus","Psaltriparus_minimus",7.7,NA,"female",7,308,8.582911139955,95.1852503205914,"Spring",111250
+6,-103.0837667,37.1427167,NA,2010,"Psaltriparus minimus","Psaltriparus_minimus",8,NA,"female",12.7,377,9.55768372472212,95.923605967552,"Summer",112000
+5,-103.0598561,29.8169754,"adult",1963,"Psaltriparus minimus lloydi","Psaltriparus_minimus",8.1,NA,"female",18.8,271,8.2043595211031,74.5671402793839,"Spring",111492
+12,-122.2715302,37.8697904,"u ad.",1942,"Psaltriparus minimus minimus","Psaltriparus_minimus",8.8,NA,"male",13.5,650,2.44589947512653,87.8668854818576,"Winter",111389

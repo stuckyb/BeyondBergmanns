@@ -1,0 +1,236 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-136.14081,60.72255,NA,2009,"Sorex palustris","Sorex_palustris",5.6,139,"male",-1.2,283,12.4671538148217,64.8277879002236,"Summer",168304
+1,-106.98,38.95,NA,1994,"Sorex palustris navigator","Sorex_palustris",5.9,143,"male",2.8,703,9.03744315544384,40.4497134698246,"Winter",168385
+7,-74.9707,50.7353,"adult",2004,"Sorex palustris","Sorex_palustris",6,151,"undetermined",-1.4,848,13.2415639239296,41.1610202341732,"Summer",168223
+8,-119.25506,37.76807,NA,2005,"Sorex palustris navigator","Sorex_palustris",6.1,131,"female",2.7,1361,6.59453400839504,111.830556501056,"Summer",168361
+8,-104.3608333333,37.0005555556,NA,1996,"Sorex palustris navigator","Sorex_palustris",6.5,149,"female",8.1,594,7.39907344731676,76.3259729404991,"Summer",168201
+5,-120.91395,48.95837,"unknown",1977,"Sorex palustris","Sorex_palustris",6.5,138,"female",3.5,1339,7.25037094139871,85.8140935536913,"Spring",168241
+7,-132.3383,56.3491,NA,2009,"Sorex palustris","Sorex_palustris",6.5,135,"female",6.3,2112,6.61286051889984,54.5128950422951,"Summer",168292
+6,-150.5833333333,63.5,NA,1993,"Sorex palustris","Sorex_palustris",7,140,"undetermined",-0.7,955,9.95652671579925,95.7346284372665,"Summer",168235
+8,-130.0705555556,56.0269444444,NA,1995,"Sorex palustris","Sorex_palustris",7,151,"male",5.7,1383,7.34159486429993,72.8071674672298,"Summer",168430
+8,-119.25506,37.76807,NA,2006,"Sorex palustris navigator","Sorex_palustris",7.1,152,"female",2.6,912,7.22711120459872,130.440047120209,"Summer",168364
+8,-119.25506,37.76807,NA,2006,"Sorex palustris navigator","Sorex_palustris",7.1,142,"female",2.6,912,7.22711120459872,130.440047120209,"Summer",168421
+5,-118.21383,37.77415,NA,2010,"Sorex palustris navigator","Sorex_palustris",7.2,151,"female",7.6,187,7.18101453117661,130.582059794329,"Spring",168310
+7,-136.14081,60.72255,NA,2009,"Sorex palustris","Sorex_palustris",7.4,141,"male",-1.2,283,12.4671538148217,64.8277879002236,"Summer",168303
+8,-123.66,44.3,NA,1998,"Sorex palustris navigator","Sorex_palustris",7.4,133,"female",11.2,2359,4.91703131672933,90.0694876619042,"Summer",168399
+7,-110.9255,43.121,NA,2007,"Sorex palustris","Sorex_palustris",7.5,150,"female",4.4,518,9.3063476219517,32.7688740295942,"Summer",168217
+7,-70.184875,44.25571,NA,1991,"Sorex palustris","Sorex_palustris",7.8,137,NA,7.5,1111,10.2178208849228,45.2213421462734,"Summer",168257
+7,-119.33899,38.06129,NA,2005,"Sorex palustris navigator","Sorex_palustris",7.8,148,"female",3.1,1212,6.62421521938465,110.617510025956,"Summer",168363
+8,-119.60461,38.16254,NA,2005,"Sorex palustris navigator","Sorex_palustris",8,136,"female",3.6,1579,6.63767940464044,99.0832106339514,"Summer",168227
+8,-104.3608333333,37.0005555556,NA,1996,"Sorex palustris navigator","Sorex_palustris",8,148,"undetermined",8.1,594,7.39907344731676,76.3259729404991,"Summer",168268
+7,-118.7835007,36.6181024,NA,1990,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",8,NA,"female",6.5,547,6.60855162236436,108.739228139194,"Summer",168277
+6,-119.4,43.8,NA,1992,"Sorex palustris palustris","Sorex_palustris",8,135,"male",6.7,366,7.30520777295626,68.2823605355287,"Summer",168332
+7,-118.16508,37.53101,NA,2007,"Sorex palustris navigator","Sorex_palustris",8,148,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",168365
+7,-144.5002777778,65.2275,NA,1996,"Sorex palustris","Sorex_palustris",8,139,"female",-4.7,356,13.2285818887694,52.2967990001244,"Summer",168370
+7,-144.5002777778,65.2275,NA,1996,"Sorex palustris","Sorex_palustris",8,142,"female",-4.7,356,13.2285818887694,52.2967990001244,"Summer",168371
+7,-144.5002777778,65.2275,NA,1996,"Sorex palustris","Sorex_palustris",8,139,"female",-4.7,356,13.2285818887694,52.2967990001244,"Summer",168372
+7,-144.5002777778,65.2275,NA,1996,"Sorex palustris","Sorex_palustris",8,151,"male",-4.7,356,13.2285818887694,52.2967990001244,"Summer",168375
+11,-122.31,43.19,NA,1996,"Sorex palustris navigator","Sorex_palustris",8,149,"female",6.4,2363,6.31035704699869,85.5160451697123,"Fall",168384
+7,-144.5002777778,65.2275,NA,1996,"Sorex palustris","Sorex_palustris",8,139,"female",-4.7,356,13.2285818887694,52.2967990001244,"Summer",168428
+7,-114.0336,47.8772,"immature",1964,"Sorex palustris navigator","Sorex_palustris",8.1,140,"male",6,705,8.09763807688652,68.7924617865042,"Summer",168184
+8,-118.7983046,36.6109454,NA,1990,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",8.3,NA,"female",6.7,551,6.6267307630581,108.971980771339,"Summer",168205
+9,-128.61829,60.06508,NA,2004,"Sorex palustris","Sorex_palustris",8.4,NA,"female",-1.1,369,12.9235748877309,41.6722996570893,"Fall",168224
+10,-121.4731,46.7076384,"unknown",1984,"Sorex palustris","Sorex_palustris",8.4,149,"male",4.9,2143,6.23171263973576,71.3417526635545,"Fall",168246
+11,-121.442,47.8881,"unknown",1991,"Sorex palustris","Sorex_palustris",8.4,149,"female",8.6,3114,5.72551440060325,75.5971295636496,"Fall",168250
+8,-107.4886971,44.8274632,NA,2001,"Sorex palustris navigator","Sorex_palustris",8.4,143,"male",3.2,501,9.09160451885544,54.2317144974613,"Summer",168260
+10,-111.243,43.553,NA,2004,"Sorex palustris","Sorex_palustris",8.5,142,"female",4.5,743,8.47042537660335,35.787373665019,"Fall",168212
+7,-149.6916666667,61.21955,NA,2001,"Sorex palustris","Sorex_palustris",8.5,141,"male",2.1,330,9.44795552679857,127.659389037063,"Summer",168232
+11,-121.8499,46.7327192,"unknown",1984,"Sorex palustris","Sorex_palustris",8.5,147,"undetermined",6.8,2070,5.83365367085801,64.7476108140256,"Fall",168248
+7,-119.269072,38.468374,NA,1987,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",8.5,NA,"male",5,470,7.22677575954781,81.7560053018293,"Summer",168272
+9,-121.72019,44.51035,"adult",2012,"Sorex palustris","Sorex_palustris",8.5,144,"female",7.7,913,6.27348315603787,74.2706673396028,"Fall",168297
+7,-132.0705555556,56.2697222222,NA,1998,"Sorex palustris","Sorex_palustris",8.5,153,"male",6.8,2145,5.70668799557045,50.3473098284151,"Summer",168376
+10,-121.9369,46.4267194,"unknown",1985,"Sorex palustris","Sorex_palustris",8.6,145,"male",7.3,1351,6.68650268689232,66.4800080494741,"Fall",168245
+7,-107.8545418,44.8316269,NA,2001,"Sorex palustris navigator","Sorex_palustris",8.6,139,"male",1.3,677,9.25156825362679,56.9524706059927,"Summer",168262
+8,-107.831768,44.8210735,NA,2001,"Sorex palustris navigator","Sorex_palustris",8.7,145,"male",1,683,9.2490130513608,56.638077653082,"Summer",168193
+7,-114.0726,48.0633,NA,1964,"Sorex palustris navigator","Sorex_palustris",8.7,138,NA,5.9,644,8.12491491796944,66.188098244924,"Summer",168254
+8,-107.85,44.81,NA,1999,"Sorex palustris navigator","Sorex_palustris",8.7,134,"female",1.5,744,6.81715194242145,74.6067798631694,"Summer",168344
+7,-118.16508,37.53101,NA,2007,"Sorex palustris navigator","Sorex_palustris",8.7,148,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",168368
+7,-118.16508,37.53101,NA,2007,"Sorex palustris navigator","Sorex_palustris",8.7,149,"undetermined",3.4,218,7.03266728140249,97.947285750455,"Summer",168424
+7,-107.8545418,44.8316269,NA,2001,"Sorex palustris navigator","Sorex_palustris",8.8,143,"female",1.3,677,9.25156825362679,56.9524706059927,"Summer",168187
+8,-107.4886971,44.8274632,NA,2001,"Sorex palustris navigator","Sorex_palustris",8.8,141,"male",3.2,501,9.09160451885544,54.2317144974613,"Summer",168189
+8,-107.4886971,44.8274632,NA,2001,"Sorex palustris navigator","Sorex_palustris",8.8,142,"female",3.2,501,9.09160451885544,54.2317144974613,"Summer",168191
+8,-107.4886971,44.8274632,NA,2001,"Sorex palustris navigator","Sorex_palustris",8.8,142,"female",3.2,501,9.09160451885544,54.2317144974613,"Summer",168192
+8,-118.7983046,36.6109454,NA,1990,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",8.8,NA,"male",6.7,551,6.6267307630581,108.971980771339,"Summer",168273
+8,-118.7835007,36.6181024,NA,1990,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",8.8,NA,"female",6.5,547,6.60855162236436,108.739228139194,"Summer",168275
+8,-127.1708,54.7806,"unknown",1971,"Sorex palustris","Sorex_palustris",8.8,153,"female",2.6,560,9.62346800086312,55.0080108856478,"Summer",168319
+7,-105.3505,39.4626,NA,2006,"Sorex palustris","Sorex_palustris",8.8,132,"male",7.4,649,7.4680328836659,69.1627813689346,"Summer",168380
+8,-121.575,48.8375,"unknown",1977,"Sorex palustris","Sorex_palustris",8.9,129,"female",3.3,2943,6.09463251185381,70.4931320308303,"Summer",168239
+10,-121.8027352,46.7470192,"unknown",1985,"Sorex palustris","Sorex_palustris",8.9,144,"male",5.7,1527,6.93713655886661,71.2639042338011,"Fall",168320
+5,-118.65,44.22,NA,1992,"Sorex palustris palustris","Sorex_palustris",8.9,149,"female",5.8,520,7.50948894682083,79.3172840246286,"Spring",168331
+7,-119.269072,38.468374,NA,1987,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",9,NA,"male",5,470,7.22677575954781,81.7560053018293,"Summer",168204
+8,-60.08,53.5683,"adult",2000,"Sorex palustris","Sorex_palustris",9,148,"female",0.8,921,10.7721723421832,38.0821373311496,"Summer",168222
+7,-138.5789,64.0259,NA,2005,"Sorex palustris","Sorex_palustris",9,149,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",168283
+7,-117.5625,41.685,"larvae",2010,"Sorex palustris","Sorex_palustris",9,140,"female",4.4,864,7.26729389842331,86.5741866075359,"Summer",168295
+8,-119.5946,38.17061,NA,2005,"Sorex palustris navigator","Sorex_palustris",9,149,"female",3.2,1672,6.59990817199663,98.8927568265218,"Summer",168309
+7,-121.9023,46.9339191,"unknown",1984,"Sorex palustris","Sorex_palustris",9,155,"male",4.6,2198,5.47614662131885,57.4798293970554,"Summer",168317
+8,-107.433291,39.309318,NA,2009,"Sorex palustris","Sorex_palustris",9,140,"female",2.3,816,8.33306666239986,37.5051001147847,"Summer",168330
+7,-144.4991666667,65.2275,NA,1996,"Sorex palustris","Sorex_palustris",9,149,"male",-4.8,333,13.5173597699963,53.5741384508022,"Summer",168374
+9,-130.0252777778,55.9069444444,NA,1996,"Sorex palustris","Sorex_palustris",9,153,"male",4.3,1559,8.14893560627101,49.8411154703572,"Fall",168377
+8,-107.85,44.81,NA,1999,"Sorex palustris navigator","Sorex_palustris",9,136,"female",1.5,744,6.81715194242145,74.6067798631694,"Summer",168394
+7,-118.16508,37.53101,NA,2007,"Sorex palustris navigator","Sorex_palustris",9,152,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",168422
+7,-144.5002777778,65.2275,NA,1996,"Sorex palustris","Sorex_palustris",9,144,"undetermined",-4.7,356,13.2285818887694,52.2967990001244,"Summer",168429
+7,-106.28,40.61,NA,1980,"Sorex palustris navigator","Sorex_palustris",9.1,138,"undetermined",3.2,321,8.27388644892453,57.509318385853,"Summer",168382
+7,-107.83,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",9.1,137,"female",0.6,983,8.47868986448861,48.1890547386258,"Summer",168389
+5,-113.6134,44.9508,"adult",2010,"Sorex palustris","Sorex_palustris",9.11,145,"female",6,388,8.56796358535679,52.7898128843345,"Spring",168348
+8,-149.7426166667,61.2899666667,NA,2001,"Sorex palustris","Sorex_palustris",9.2,128,"female",1.9,283,9.83698571101879,108.451535657055,"Summer",168314
+7,-118.16508,37.53101,NA,2007,"Sorex palustris navigator","Sorex_palustris",9.2,151,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",168423
+8,-105.6464,40.4025,NA,2011,"Sorex palustris","Sorex_palustris",9.25,144,"undetermined",2.6,828,8.44192280265939,44.2274460517092,"Summer",168431
+6,-114.0336,47.8772,"juvenile",1964,"Sorex palustris","Sorex_palustris",9.3,145,"male",6,705,8.09763807688652,68.7924617865042,"Summer",168252
+10,-121.9023,46.9339191,"unknown",1985,"Sorex palustris","Sorex_palustris",9.3,155,"female",4.3,1525,6.68722776279641,68.5084621548227,"Fall",168321
+8,-107.53,44.82,NA,1999,"Sorex palustris navigator","Sorex_palustris",9.3,138,"female",3.1,569,6.63165046415957,81.5321444417256,"Summer",168395
+7,-113.51665,44.97732,"adult",2010,"Sorex palustris","Sorex_palustris",9.31,128,"female",5.1,547,8.34836220555574,61.1293558419862,"Summer",168356
+8,-107.53,44.82,NA,1999,"Sorex palustris navigator","Sorex_palustris",9.4,141,"female",3.1,569,6.63165046415957,81.5321444417256,"Summer",168345
+7,-118.16508,37.53101,NA,2007,"Sorex palustris navigator","Sorex_palustris",9.4,146,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",168366
+8,-132.9833333333,57.0083333333,NA,1993,"Sorex palustris","Sorex_palustris",9.4,148,"female",7.8,2175,5.59006152728106,62.2438219720586,"Summer",168369
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",9.4,135,"female",1.8,797,8.21050694186566,56.3678120269682,"Summer",168390
+8,-107.53,44.82,NA,1999,"Sorex palustris navigator","Sorex_palustris",9.4,148,"female",3.1,569,6.63165046415957,81.5321444417256,"Summer",168398
+7,-113.51654,44.97591,"adult",2010,"Sorex palustris","Sorex_palustris",9.49,134,"undetermined",5.1,548,8.34836220555574,61.522065710089,"Summer",168409
+7,-108.2106345803,37.592154,NA,2005,"Sorex palustris","Sorex_palustris",9.5,137,"female",4.6,716,7.06430956972935,52.5701265462033,"Summer",168210
+8,-119.60461,38.16254,NA,2005,"Sorex palustris navigator","Sorex_palustris",9.5,150,"male",3.6,1579,6.63767940464044,99.0832106339514,"Summer",168229
+4,-121.86558,40.43911,"immature",2007,"Sorex palustris navigator","Sorex_palustris",9.5,140,"undetermined",15.4,536,7.32034835236685,117.638990911074,"Spring",168230
+8,-107.4886971,44.8274632,NA,2001,"Sorex palustris navigator","Sorex_palustris",9.5,145,"male",3.2,501,9.09160451885544,54.2317144974613,"Summer",168261
+7,-132.4166666667,56.6333333333,"adult",1992,"Sorex palustris","Sorex_palustris",9.5,142,"female",4.5,3459,5.62647960338192,52.2086874176851,"Summer",168313
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",9.5,136,"male",1.8,797,8.21050694186566,56.3678120269682,"Summer",168339
+8,-119.25506,37.76807,NA,2005,"Sorex palustris navigator","Sorex_palustris",9.5,156,"female",2.7,1361,6.59453400839504,111.830556501056,"Summer",168362
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",9.5,139,"male",1.8,797,8.21050694186566,56.3678120269682,"Summer",168393
+7,-113.51654,44.97591,"adult",2010,"Sorex palustris","Sorex_palustris",9.58,130,"undetermined",5.1,548,8.34836220555574,61.522065710089,"Summer",168353
+8,-118.7835007,36.6181024,NA,1990,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",9.6,NA,"female",6.5,547,6.60855162236436,108.739228139194,"Summer",168203
+8,-118.7983046,36.6109454,NA,1990,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",9.6,NA,"female",6.7,551,6.6267307630581,108.971980771339,"Summer",168276
+8,-134.06745,62.44872,NA,2006,"Sorex palustris","Sorex_palustris",9.6,139,"female",-2.4,283,12.7947669226938,47.6814027458166,"Summer",168305
+8,-107.53,44.82,NA,1999,"Sorex palustris navigator","Sorex_palustris",9.6,127,"female",3.1,569,6.63165046415957,81.5321444417256,"Summer",168346
+7,-135.2934,61.1,NA,2005,"Sorex palustris","Sorex_palustris",9.7,143,"female",0.4,353,11.3709758116483,76.0337947556633,"Summer",168282
+7,-119.66798,37.66596,NA,2003,"Sorex palustris navigator","Sorex_palustris",9.7,135,"female",9.1,959,6.8858825714558,140.10895336076,"Summer",168307
+8,-107.53,44.82,NA,1999,"Sorex palustris navigator","Sorex_palustris",9.7,147,"female",3.1,569,6.63165046415957,81.5321444417256,"Summer",168397
+8,-113.51651,44.97678,"adult",2010,"Sorex palustris","Sorex_palustris",9.82,152,"undetermined",5.1,547,8.34836220555574,61.1293558419862,"Summer",168349
+9,-149.4333333333,61.4166666667,NA,1959,"Sorex palustris","Sorex_palustris",9.9,150,"undetermined",1.5,418,9.88998575235668,102.115539714065,"Fall",168231
+7,-113.8156,48.6002,NA,1964,"Sorex palustris","Sorex_palustris",9.9,138,"male",1.6,1837,7.94589182972541,74.5087614983736,"Summer",168255
+7,-106.381119,37.336739,NA,2003,"Sorex palustris navigator","Sorex_palustris",10,146,"female",3.2,682,7.76941848765811,69.1164122496726,"Summer",168185
+8,-104.3608333333,37.0005555556,NA,1996,"Sorex palustris navigator","Sorex_palustris",10,141,"female",8.1,594,7.39907344731676,76.3259729404991,"Summer",168200
+7,-108.2106345803,37.592154,NA,2005,"Sorex palustris","Sorex_palustris",10,143,"male",4.6,716,7.06430956972935,52.5701265462033,"Summer",168209
+7,-119.56425,37.77991,NA,2004,"Sorex palustris navigator","Sorex_palustris",10,155,"female",8.1,1002,6.33209118600473,121.613533042938,"Summer",168226
+8,-121.575,48.8375,"unknown",1977,"Sorex palustris","Sorex_palustris",10,140,"male",3.3,2943,6.09463251185381,70.4931320308303,"Summer",168238
+10,-111.243,43.553,NA,2004,"Sorex palustris","Sorex_palustris",10,144,"male",4.5,743,8.47042537660335,35.787373665019,"Fall",168281
+7,-110.9255,43.121,"adult",2007,"Sorex palustris","Sorex_palustris",10,144,"female",4.4,518,9.3063476219517,32.7688740295942,"Summer",168287
+7,-115.9872,41.7773,"larvae",2010,"Sorex palustris","Sorex_palustris",10,152,"female",6.5,535,7.87713895915377,72.7092538362361,"Summer",168294
+7,-114.2823,42.2,NA,2010,"Sorex palustris","Sorex_palustris",10,136,"female",5.6,934,8.10985184634695,76.2906590613834,"Summer",168296
+9,-122.0892,44.39946,"class.",2012,"Sorex palustris","Sorex_palustris",10,160,"female",7.4,3201,5.94389806797057,71.0291037938104,"Fall",168298
+8,-107.33,44.57,NA,1998,"Sorex palustris navigator","Sorex_palustris",10,148,"female",-0.5,954,7.9997537840899,53.8268525460728,"Summer",168387
+8,-105.894528,39.908365,"ad",1978,"Sorex palustris navigator","Sorex_palustris",10.1,145,"undetermined",1.9,600,8.23203277668181,49.6753093964835,"Summer",168279
+7,-108.1835,38.3225,NA,2008,"Sorex palustris","Sorex_palustris",10.1,147,"male",3.6,790,8.03844455781658,76.2227456893437,"Summer",168327
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.1,144,"female",1.8,797,8.21050694186566,56.3678120269682,"Summer",168334
+10,-121.2868378,48.663882,"unknown",1993,"Sorex palustris","Sorex_palustris",10.2,145,"female",9.5,1439,6.79778818752278,61.2065072368058,"Fall",168249
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.2,177,"female",1.8,797,8.21050694186566,56.3678120269682,"Summer",168337
+6,-118.31,44.55,NA,1992,"Sorex palustris palustris","Sorex_palustris",10.2,161,"male",7.3,389,7.99307939293851,67.3346999597863,"Summer",168383
+8,-113.47995,44.97297,"adult",2010,"Sorex palustris","Sorex_palustris",10.2,148,"male",4.2,657,8.16860212068507,61.8073565675861,"Summer",168407
+8,-113.46894,44.97924,"adult",2010,"Sorex palustris","Sorex_palustris",10.23,NA,"undetermined",4,625,8.07620898164179,55.6857677263475,"Summer",168352
+7,-134.25011,58.24533,"adult",2013,"Sorex palustris","Sorex_palustris",10.25,138,"female",2.2,3141,6.89124939193309,45.5872816726403,"Summer",168299
+7,-106.7206833333,38.8308833333,NA,2009,"Sorex palustris","Sorex_palustris",10.25,155,"female",1.5,550,8.50586250592478,55.2324068792143,"Summer",168379
+7,-113.51654,44.97591,"adult",2010,"Sorex palustris","Sorex_palustris",10.32,137,"undetermined",5.1,548,8.34836220555574,61.522065710089,"Summer",168408
+8,-104.8759681,39.0820863,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.4,134,"female",7.9,549,8.3553421488436,84.5108433553239,"Summer",168326
+9,-113.61339,44.95087,"adult",2010,"Sorex palustris","Sorex_palustris",10.4,142,"undetermined",6,388,8.56796358535679,52.7898128843345,"Fall",168350
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.4,136,"female",1.8,797,8.21050694186566,56.3678120269682,"Summer",168391
+7,-113.51654,44.97591,"adult",2010,"Sorex palustris","Sorex_palustris",10.44,136,"undetermined",5.1,548,8.34836220555574,61.522065710089,"Summer",168351
+8,-104.3608333333,37.0005555556,NA,1996,"Sorex palustris navigator","Sorex_palustris",10.5,145,"male",8.1,594,7.39907344731676,76.3259729404991,"Summer",168198
+7,-110.9255,43.121,"adult",2007,"Sorex palustris","Sorex_palustris",10.5,150,"female",4.4,518,9.3063476219517,32.7688740295942,"Summer",168218
+8,-119.60461,38.16254,NA,2005,"Sorex palustris navigator","Sorex_palustris",10.5,148,"female",3.6,1579,6.63767940464044,99.0832106339514,"Summer",168228
+7,-121.5531,46.9028,"unknown",1976,"Sorex palustris","Sorex_palustris",10.5,151,"female",4.9,1228,5.70738490240867,76.8837387494762,"Summer",168240
+8,-109.5061397,33.9603048,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.5,142,"male",4.3,750,6.80362537047846,78.5402100829164,"Summer",168280
+7,-110.9255,43.121,"adult",2007,"Sorex palustris","Sorex_palustris",10.5,151,"female",4.4,518,9.3063476219517,32.7688740295942,"Summer",168284
+7,-107.83,44.82,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.5,139,"female",0.7,966,8.43924364699428,48.5725953177844,"Summer",168333
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.5,146,"male",1.8,797,8.21050694186566,56.3678120269682,"Summer",168343
+10,-106.7480333333,36.087,NA,2007,"Sorex palustris","Sorex_palustris",10.5,144,"female",6.8,841,7.97717862329024,79.6391143859941,"Fall",168347
+9,-113.61376,44.95039,"adult",2010,"Sorex palustris","Sorex_palustris",10.5,144,"undetermined",6,387,8.56923231242113,52.7726675846909,"Fall",168358
+7,-105.087523,39.099939,NA,1997,"Sorex palustris navigator","Sorex_palustris",10.5,145,"female",5.4,763,8.30328065868965,76.1454956934406,"Summer",168381
+8,-107.53,44.82,NA,1999,"Sorex palustris navigator","Sorex_palustris",10.5,153,"female",3.1,569,6.63165046415957,81.5321444417256,"Summer",168396
+7,-113.51665,44.97732,"adult",2010,"Sorex palustris","Sorex_palustris",10.5,140,"undetermined",5.1,547,8.34836220555574,61.1293558419862,"Summer",168410
+8,-143.2591666667,62.5305555556,NA,2002,"Sorex palustris","Sorex_palustris",10.6,142,"female",-2.8,412,10.2177615706744,104.13263538503,"Summer",168234
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.6,133,"female",1.8,797,8.21050694186566,56.3678120269682,"Summer",168338
+8,-113.46894,44.97924,"adult",2010,"Sorex palustris","Sorex_palustris",10.6,143,"undetermined",4,625,8.07620898164179,55.6857677263475,"Summer",168355
+8,-113.47995,44.97297,"adult",2010,"Sorex palustris","Sorex_palustris",10.64,146,"male",4.2,657,8.16860212068507,61.8073565675861,"Summer",168411
+6,-113.5528,44.935,"adult",2010,"Sorex palustris","Sorex_palustris",10.7,146,"female",5.3,531,8.41252673461464,57.342418886475,"Summer",168405
+7,-138.5789,64.0259,NA,2005,"Sorex palustris","Sorex_palustris",10.8,151,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",168213
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.8,138,"female",1.8,797,8.21050694186566,56.3678120269682,"Summer",168335
+5,-120.91395,48.95837,"unknown",1977,"Sorex palustris","Sorex_palustris",10.9,147,"male",3.5,1339,7.25037094139871,85.8140935536913,"Spring",168316
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.9,141,"male",1.8,797,8.21050694186566,56.3678120269682,"Summer",168342
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",10.9,143,"male",1.8,797,8.21050694186566,56.3678120269682,"Summer",168392
+7,-113.51654,44.97591,"adult",2010,"Sorex palustris","Sorex_palustris",10.92,153,"undetermined",5.1,548,8.34836220555574,61.522065710089,"Summer",168354
+10,-111.243,43.553,NA,2004,"Sorex palustris","Sorex_palustris",11,156,"female",4.5,743,8.47042537660335,35.787373665019,"Fall",168211
+7,-138.5789,64.0259,NA,2005,"Sorex palustris","Sorex_palustris",11,153,"female",-2.2,365,14.5537535510343,49.2979315839269,"Summer",168214
+7,-110.4044,41.0365,"adult",2007,"Sorex palustris","Sorex_palustris",11,150,"female",2.7,488,9.44442676766023,59.956289957976,"Summer",168215
+7,-110.9255,43.121,"adult",2007,"Sorex palustris","Sorex_palustris",11,158,"female",4.4,518,9.3063476219517,32.7688740295942,"Summer",168219
+7,-117.5625,41.685,NA,2010,"Sorex palustris","Sorex_palustris",11,143,"female",4.4,864,7.26729389842331,86.5741866075359,"Summer",168221
+7,-119.269072,38.468374,NA,1987,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",11,NA,"male",5,470,7.22677575954781,81.7560053018293,"Summer",168270
+7,-110.4044,41.0365,NA,2007,"Sorex palustris","Sorex_palustris",11,150,"undetermined",2.7,488,9.44442676766023,59.956289957976,"Summer",168286
+9,-106.7418833333,36.0972333333,NA,2007,"Sorex palustris","Sorex_palustris",11,153,"undetermined",7,807,8.01034842052341,79.184361079407,"Fall",168289
+9,-121.9142,47.0384284,"unknown",1975,"Sorex palustris","Sorex_palustris",11,162,"undetermined",5.3,2404,5.69839823320926,66.4257920625833,"Fall",168315
+7,-144.5002777778,65.2275,NA,1996,"Sorex palustris","Sorex_palustris",11,147,"female",-4.7,356,13.2285818887694,52.2967990001244,"Summer",168373
+8,-130.2323833333,57.44515,NA,2006,"Sorex palustris","Sorex_palustris",11,149,"female",-0.2,625,9.69643405244079,44.6125037609133,"Summer",168402
+9,-105.65818,35.81365,NA,2009,"Sorex palustris","Sorex_palustris",11,140,"undetermined",6,602,7.06004549732099,73.9074541207051,"Fall",168404
+9,-113.21584,44.65886,"adult",2010,"Sorex palustris","Sorex_palustris",11.06,156,"undetermined",3.5,430,8.3288108940647,54.722952264098,"Fall",168359
+7,-121.0661,48.7753152,"unknown",1971,"Sorex palustris","Sorex_palustris",11.1,159,"male",6.5,1680,7.67646442449948,83.4750848257008,"Summer",168237
+8,-107.29,44.67,NA,1998,"Sorex palustris navigator","Sorex_palustris",11.1,144,"female",2.2,801,8.05098808165241,60.3090356128841,"Summer",168386
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",11.2,147,"female",1.8,797,8.21050694186566,56.3678120269682,"Summer",168341
+7,-118.16508,37.53101,NA,2007,"Sorex palustris navigator","Sorex_palustris",11.4,150,"male",3.4,218,7.03266728140249,97.947285750455,"Summer",168425
+6,-113.6134,44.9508,"adult",2010,"Sorex palustris","Sorex_palustris",11.47,148,"undetermined",6,388,8.56796358535679,52.7898128843345,"Summer",168406
+9,-112.97966,44.25307,"adult",2010,"Sorex palustris","Sorex_palustris",11.49,136,"undetermined",3.2,452,8.77528813305762,55.3143237886342,"Fall",168417
+8,-146.0594333333,65.0544333333,NA,2006,"Sorex palustris","Sorex_palustris",11.5,146,"female",-4.5,312,14.609552188603,102.000795736628,"Summer",168236
+7,-110.802672,43.285882,NA,1999,"Sorex palustris navigator","Sorex_palustris",11.5,149,"female",4.4,554,7.58652613439635,61.7372742315688,"Summer",168259
+7,-110.4044,41.0365,NA,2007,"Sorex palustris","Sorex_palustris",11.5,150,"undetermined",2.7,488,9.44442676766023,59.956289957976,"Summer",168288
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",11.5,141,"female",1.8,797,8.21050694186566,56.3678120269682,"Summer",168336
+8,-130.2323833333,57.44515,NA,2006,"Sorex palustris","Sorex_palustris",11.5,150,"female",-0.2,625,9.69643405244079,44.6125037609133,"Summer",168403
+9,-113.21584,44.65886,"adult",2010,"Sorex palustris","Sorex_palustris",11.58,154,"female",3.5,430,8.3288108940647,54.722952264098,"Fall",168415
+8,-107.4886971,44.8274632,NA,2001,"Sorex palustris navigator","Sorex_palustris",11.6,143,"female",3.2,501,9.09160451885544,54.2317144974613,"Summer",168190
+9,-113.21584,44.65886,"adult",2010,"Sorex palustris","Sorex_palustris",11.62,149,"female",3.5,430,8.3288108940647,54.722952264098,"Fall",168416
+10,-121.6039592,46.6897192,"unknown",1984,"Sorex palustris","Sorex_palustris",11.7,153,"female",7.1,1929,5.94227280260727,71.7995023249857,"Fall",168247
+7,-107.2304684,43.4658929,NA,1990,"Sorex palustris navigator","Sorex_palustris",11.7,151,"female",2.7,521,9.00696700035337,85.6780066157231,"Summer",168266
+7,-133.825318,60.144573,NA,2008,"Sorex palustris","Sorex_palustris",11.7,151,"female ?",-1.5,349,11.5854009491047,45.0080764800942,"Summer",168293
+6,-107.64323,39.986106,NA,1976,"Sorex palustris navigator","Sorex_palustris",11.8,145,"undetermined",5.2,398,9.20221893530758,56.1989541560995,"Summer",168208
+7,-105.45,36.59,NA,1970,"Sorex palustris navigator","Sorex_palustris",11.8,141,"female",3.8,539,7.22916546589807,56.6082091027677,"Summer",168400
+7,-122.9333,49.3667,"unknown",1998,"Sorex palustris","Sorex_palustris",11.85,140,"male",6.8,3410,5.82390580176901,83.3108384071734,"Summer",168251
+7,-107.95307,39.07567,NA,2012,"Sorex palustris","Sorex_palustris",12,162,"female",2.4,558,8.03959896482104,94.5102848784337,"Summer",168196
+1,-108.9855424,44.5116702,NA,1991,"Sorex palustris navigator","Sorex_palustris",12,146,"undetermined",7.2,333,8.858701423408,84.1172543749461,"Winter",168197
+8,-104.3608333333,37.0005555556,NA,1996,"Sorex palustris navigator","Sorex_palustris",12,147,"female",8.1,594,7.39907344731676,76.3259729404991,"Summer",168199
+7,-110.4044,41.0365,"adult",2007,"Sorex palustris","Sorex_palustris",12,159,"female",2.7,488,9.44442676766023,59.956289957976,"Summer",168285
+8,-113.61339,44.95087,"adult",2010,"Sorex palustris","Sorex_palustris",12.11,141,"undetermined",6,388,8.56796358535679,52.7898128843345,"Summer",168412
+8,-104.373589,37.008806,NA,1996,"Sorex palustris navigator","Sorex_palustris",12.2,160,"undetermined",8,594,7.3997542956752,76.3747313326321,"Summer",168202
+10,-121.8004646,46.4287418,"unknown",1984,"Sorex palustris","Sorex_palustris",12.2,144,"male",7.2,2101,5.87418595262872,70.0247631002331,"Fall",168244
+7,-118.7835007,36.6181024,NA,1990,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",12.5,NA,"male",6.5,547,6.60855162236436,108.739228139194,"Summer",168207
+5,-130.0652,55.97115,NA,2008,"Sorex palustris","Sorex_palustris",12.6,151,"female",5.2,1533,7.49304222717194,44.7715076733596,"Spring",168291
+8,-105.086608,37.192029,NA,2003,"Sorex palustris navigator","Sorex_palustris",13,149,"female",5.6,570,7.34054741580193,45.5039771507933,"Summer",168186
+7,-107.95307,39.07567,NA,2012,"Sorex palustris","Sorex_palustris",13,158,"female",2.4,558,8.03959896482104,94.5102848784337,"Summer",168195
+7,-119.269072,38.468374,NA,1987,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",13,NA,"female",5,470,7.22677575954781,81.7560053018293,"Summer",168274
+8,-107.4886971,44.8274632,NA,2001,"Sorex palustris navigator","Sorex_palustris",13.2,154,"female",3.2,501,9.09160451885544,54.2317144974613,"Summer",168188
+3,-93.5833333,45.3,"adult",1928,"Sorex palustris hydrobadistes","Sorex_palustris",13.25,NA,"female",6.7,735,10.9958669921517,76.9534500149813,"Spring",168378
+7,-118.16508,37.53101,NA,2007,"Sorex palustris navigator","Sorex_palustris",13.3,165,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",168367
+7,-110.4044,41.0365,"adult",2007,"Sorex palustris","Sorex_palustris",13.5,152,"female",2.7,488,9.44442676766023,59.956289957976,"Summer",168216
+7,-106.4874,39.7203,NA,2009,"Sorex palustris","Sorex_palustris",13.5,153,"female",1.3,670,8.27826654376971,40.9040481165164,"Summer",168263
+7,-134.9,60.15,NA,2006,"Sorex palustris","Sorex_palustris",13.6,159,"undetermined",-1.1,277,10.6894595492263,42.7048360364907,"Summer",168225
+9,-113.21584,44.65886,"adult",2010,"Sorex palustris","Sorex_palustris",13.73,162,"male",3.5,430,8.3288108940647,54.722952264098,"Fall",168357
+8,-124.3638,47.8453,"unknown",1961,"Sorex palustris","Sorex_palustris",14.1,156,"female",9.7,3452,4.74656973428435,83.4249675056908,"Summer",168318
+6,-114.0336,47.8772,NA,1964,"Sorex palustris","Sorex_palustris",14.4,148,"male",6,705,8.09763807688652,68.7924617865042,"Summer",168253
+5,-106.311763,37.487643,NA,2007,"Sorex palustris","Sorex_palustris",14.5,132,NA,3.9,587,8.76821048740934,54.9749216975447,"Spring",168194
+7,-119.3512,37.79036,NA,2004,"Sorex palustris navigator","Sorex_palustris",14.5,160,"male",3.4,976,6.53074314765219,118.394215234902,"Summer",168308
+8,-104.373589,37.008806,NA,1996,"Sorex palustris navigator","Sorex_palustris",14.7,159,"male",8,594,7.3997542956752,76.3747313326321,"Summer",168269
+7,-107.2304684,43.4658929,NA,1990,"Sorex palustris navigator","Sorex_palustris",14.8,148,"female",2.7,521,9.00696700035337,85.6780066157231,"Summer",168267
+7,-118.7835007,36.6181024,NA,1990,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",15,NA,"male",6.5,547,6.60855162236436,108.739228139194,"Summer",168206
+7,-114.2085,47.9996,NA,1956,"Sorex palustris","Sorex_palustris",15,146,"male",6.5,476,8.75748597521347,41.3173250733186,"Summer",168256
+7,-119.269072,38.468374,NA,1987,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",15,NA,"male",5,470,7.22677575954781,81.7560053018293,"Summer",168271
+6,-91.13387,44.58765,NA,2011,"Sorex palustris","Sorex_palustris",15,145,"male",7.1,774,11.549849139773,51.1144557725949,"Summer",168427
+8,-113.47995,44.97297,"adult",2010,"Sorex palustris","Sorex_palustris",15.12,154,"undetermined",4.2,657,8.16860212068507,61.8073565675861,"Summer",168414
+4,-121.2705,48.6675,"unknown",1994,"Sorex palustris","Sorex_palustris",15.35,154,"male",10,1996,6.59152348233561,78.4895568017706,"Spring",168322
+6,-105.1543129,39.2091569,NA,1999,"Sorex palustris navigator","Sorex_palustris",15.5,166,NA,8.6,523,6.67057650500247,91.2003645470044,"Summer",168258
+7,-105.6264,40.6596,NA,2009,"Sorex palustris","Sorex_palustris",15.5,151,"female",1.3,544,7.89469998662317,64.428361932797,"Summer",168329
+5,-120.8667,49.1167,"unknown",1962,"Sorex palustris","Sorex_palustris",15.6,158,"female",2.3,1051,6.23448377003164,73.2926249664132,"Spring",168242
+6,-130.0333333333,55.9333333333,"adult",1990,"Sorex palustris","Sorex_palustris",15.6,153,"male",5.2,1850,7.94642572595892,77.0206902863557,"Summer",168312
+7,-136.0749722222,59.6232222222,NA,2002,"Sorex palustris","Sorex_palustris",15.65,146,"male",0.6,849,7.48470662974397,46.6827782118075,"Summer",168233
+9,-106.7418833333,36.0972333333,NA,2007,"Sorex palustris","Sorex_palustris",15.7,168,"female",7,807,8.01034842052341,79.184361079407,"Fall",168220
+7,-107.86,44.81,NA,1998,"Sorex palustris navigator","Sorex_palustris",15.8,153,"male",0.9,966,8.51638349763489,47.6095578435928,"Summer",168388
+7,-113.51665,44.97732,"adult",2010,"Sorex palustris","Sorex_palustris",15.97,165,"female",5.1,547,8.34836220555574,61.1293558419862,"Summer",168413
+7,-119.269072,38.468374,NA,1987,"Sorex (Otisorex) palustris navigator Baird, 1858","Sorex_palustris",16.5,NA,"female",5,470,7.22677575954781,81.7560053018293,"Summer",168278
+8,-124.3638,47.8453,"unknown",1961,"Sorex palustris","Sorex_palustris",16.6,173,"female",9.7,3452,4.74656973428435,83.4249675056908,"Summer",168243
+7,-107.57,44.8,NA,1998,"Sorex palustris navigator","Sorex_palustris",16.8,145,"female",1.8,797,8.21050694186566,56.3678120269682,"Summer",168340
+7,-138.2333333333,64.5,NA,1984,"Sorex palustris","Sorex_palustris",17,159,"male",-5.6,414,11.5870617500728,42.8368050177605,"Summer",168311
+7,-105.45,36.17,NA,1979,"Sorex palustris navigator","Sorex_palustris",18,155,"male",3.7,755,8.29459024139995,66.9049059421741,"Summer",168401
+9,-106.7418833333,36.0972333333,NA,2007,"Sorex palustris","Sorex_palustris",18.5,164,"undetermined",7,807,8.01034842052341,79.184361079407,"Fall",168290
+7,-106.4874,39.7203,NA,2009,"Sorex palustris","Sorex_palustris",18.7,145,"male",1.3,670,8.27826654376971,40.9040481165164,"Summer",168264
+7,-105.6264,40.6596,NA,2009,"Sorex palustris","Sorex_palustris",19.5,168,"male",1.3,544,7.89469998662317,64.428361932797,"Summer",168328

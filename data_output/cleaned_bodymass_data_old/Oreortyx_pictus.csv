@@ -1,0 +1,307 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-121.5568207,36.37851365,"juv.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",58,NA,"male",13.2,511,4.84870335681863,145.801458543813,"Summer",81213
+7,-121.577927,36.321187,"juv.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",62.1,NA,"female",12.5,1259,6.64371997840932,142.547427615405,"Summer",81202
+6,-121.42276,35.96988,"juv.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",62.5,NA,"undetermined",12,830,4.81955455001871,153.244125473405,"Summer",81252
+7,-121.577927,36.321187,"u ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",69.7,NA,"female",12.5,1259,6.64371997840932,142.547427615405,"Summer",81362
+7,-119.3041871,37.1480651,"u juv.",1926,"Oreortyx pictus eremophila","Oreortyx_pictus",79.5,NA,"male",11.6,802,6.16360284249399,128.143847662305,"Summer",81269
+7,-121.42052,36.14456,"juv.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",94.3,NA,"male ?",11,761,6.20299903028341,156.606197540788,"Summer",81257
+8,-123.5434292,41.9318434,"u juv.",1959,"Oreortyx pictus pictus","Oreortyx_pictus",99.5,NA,"male ?",8.6,1664,6.32297398381489,129.197490727216,"Summer",81335
+7,-121.42052,36.14456,"juv.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",100,NA,"female",11,761,6.20299903028341,156.606197540788,"Summer",81256
+7,-121.42052,36.14456,"juv.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",101.2,NA,"female ?",11,761,6.20299903028341,156.606197540788,"Summer",81404
+7,-121.42052,36.14456,"juv.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",105.2,NA,"male",11,761,6.20299903028341,156.606197540788,"Summer",81403
+7,-121.42052,36.14456,"juv.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",105.4,NA,"male",11,761,6.20299903028341,156.606197540788,"Summer",81405
+7,-121.42052,36.14456,"juv.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",107.5,NA,"male",11,761,6.20299903028341,156.606197540788,"Summer",81255
+8,-123.4568,40.45807,"juv.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",137.5,NA,"female",10.2,2118,6.39962120091115,99.0391196236951,"Summer",81458
+8,-121.592469,36.481433,"juv.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",138.4,NA,"female",14.2,329,5.14381063792087,91.7931970391035,"Summer",81210
+12,-116.3833333,31.916667,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",138.8,NA,"male",15.3,451,4.3793160528682,137.348042754474,"Winter",81491
+8,-121.587333,36.369718,"juv.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",139.6,NA,"male",13.3,862,5.23521728297881,141.236978828341,"Summer",81186
+8,-121.557843,36.371031,"juv.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",139.8,NA,"female",13.1,520,4.87077711427753,146.326728813835,"Summer",81216
+8,-123.8193291,41.1515112,"juv.",1949,"Oreortyx pictus palmeri","Oreortyx_pictus",142.7,NA,"female",11.1,1784,6.60419403015075,99.056239467751,"Summer",81324
+12,-116.3833333,31.916667,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",145.8,NA,"undetermined",15.3,451,4.3793160528682,137.348042754474,"Winter",81492
+7,-121.5568207,36.37851365,"u juv.",1951,"Oreortyx pictus palmeri","Oreortyx_pictus",148,NA,"male",13.4,621,4.83850559198151,154.664324996773,"Summer",81339
+8,-121.587333,36.369718,"juv.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",150.3,NA,"male",13.3,862,5.23521728297881,141.236978828341,"Summer",81185
+3,-123.4853,40.36188,"u ad.",1932,"Oreortyx pictus palmeri","Oreortyx_pictus",151.2,NA,"male",10.9,990,6.93080519175518,107.209353556785,"Spring",81433
+12,-116.3833333,31.916667,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",153.2,NA,"male",15.3,451,4.3793160528682,137.348042754474,"Winter",81485
+8,-121.565113,36.334512,"juv.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",155.4,NA,"female",14,368,5.8217460673519,91.3290480423717,"Summer",81377
+9,-118.67287,36.79291,"juv.",1916,"Oreortyx pictus eremophila","Oreortyx_pictus",165,NA,"female",10.1,1563,7.33203845317166,157.642952108709,"Fall",81393
+8,-121.565113,36.334512,"juv.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",165.8,NA,"male",14,368,5.8217460673519,91.3290480423717,"Summer",81231
+9,-119.1053,37.90891,"imm.",1915,"Oreortyx pictus pictus","Oreortyx_pictus",169.5,NA,"male",6.8,359,7.07562503931417,123.488618621715,"Fall",81389
+8,-116.3038572,34.0304563,"ad.",1950,"Oreortyx pictus russelli","Oreortyx_pictus",172.4,NA,"male",13.9,82,5.9258805764258,102.312243370886,"Summer",81173
+9,-121.4270138,40.4592417,"imm.",1923,"Oreortyx pictus pictus","Oreortyx_pictus",175.5,NA,"male",5.7,1147,6.41000047274617,102.179774782288,"Fall",81413
+9,-119.1053,37.90891,"imm.",1915,"Oreortyx pictus pictus","Oreortyx_pictus",177.3,NA,"male",6.8,359,7.07562503931417,123.488618621715,"Fall",81242
+6,-117.09412,36.96528,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",178.2,NA,"female",10.4,153,7.75533052262452,91.8888008721634,"Summer",81443
+9,-118.67287,36.79291,"juv.",1916,"Oreortyx pictus eremophila","Oreortyx_pictus",185,NA,"male",10.1,1563,7.33203845317166,157.642952108709,"Fall",81391
+8,-116.396122,34.0564003,NA,1950,"Oreortyx pictus russelli","Oreortyx_pictus",185.8,NA,"female",14.3,83,5.90174601796842,107.145599754757,"Summer",81315
+9,-118.67287,36.79291,"imm.",1916,"Oreortyx pictus eremophila","Oreortyx_pictus",188.7,NA,"female",10.1,1563,7.33203845317166,157.642952108709,"Fall",81244
+6,-117.14833,36.96528,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",188.8,NA,"female",8.2,203,7.26696552068247,91.3703303916152,"Summer",81282
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",189.5,NA,"female",14.1,383,6.98413787222029,141.93188433344,"Fall",81466
+5,-117.510504,35.943643,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",190,NA,"female",12.9,257,7.39600629332541,151.451365416565,"Spring",81440
+6,-121.564102,36.341968,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",190.7,NA,"male",13.2,944,5.68892464674684,141.006749105148,"Summer",81196
+7,-119.284993,38.454086,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",192.8,NA,"female",1.6,753,6.62041722570596,137.445632413938,"Summer",81312
+8,-116.3038572,34.0304563,"u ad.",1950,"Oreortyx pictus russelli","Oreortyx_pictus",193.2,NA,"female",13.9,82,5.9258805764258,102.312243370886,"Summer",81171
+7,-119.269072,38.468374,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",195.2,NA,"female",3.7,550,6.85622919598512,133.948219827167,"Summer",81476
+5,-117.510504,35.943643,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",196.5,NA,"female",12.9,257,7.39600629332541,151.451365416565,"Spring",81280
+5,-117.510504,35.943643,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",197.4,NA,"female",12.9,257,7.39600629332541,151.451365416565,"Spring",81279
+6,-119.04701,34.827853,"ad.",1929,"Oreortyx pictus eremophila","Oreortyx_pictus",198,NA,"female",10.6,204,7.04665727759473,138.340499276856,"Summer",81272
+9,-118.67287,36.79291,"juv.",1916,"Oreortyx pictus eremophila","Oreortyx_pictus",198,NA,"male",10.1,1563,7.33203845317166,157.642952108709,"Fall",81392
+10,-115.9072222,32.053333,"imm.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",198,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",81484
+7,-115.458333,30.883333,"u ad.",1949,"Oreortyx pictus confinis","Oreortyx_pictus",198.2,NA,"female",9.4,630,5.42240022890456,217.689749519746,"Summer",81169
+1,-119.991394,37.747308,"u ad.",1922,"Oreortyx pictus pictus","Oreortyx_pictus",198.44,NA,"female",11.1,1097,7.43620850768031,106.652711207492,"Winter",81409
+1,-119.991394,37.747308,"u ad.",1922,"Oreortyx pictus pictus","Oreortyx_pictus",198.44,NA,"male",11.1,1097,7.43620850768031,106.652711207492,"Winter",81411
+1,-119.991394,37.747308,"u ad.",1922,"Oreortyx pictus pictus","Oreortyx_pictus",198.44,NA,"female",11.1,1097,7.43620850768031,106.652711207492,"Winter",81412
+5,-115.442739,31.008554,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",199,NA,"male",8,674,4.13110888334604,118.374400142833,"Spring",81422
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",199.1,NA,"female",14.1,383,6.98413787222029,141.93188433344,"Fall",81467
+9,-123.8083893,40.9028547,"u imm.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",199.5,NA,"male",12.7,1785,4.83105484434724,105.430785533876,"Fall",81459
+10,-117.465934,36.58766,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",200,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",81248
+7,-119.279393,38.461747,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",200.8,NA,"male",2.7,649,6.71801625662237,135.119478282975,"Summer",81477
+5,-117.510504,35.943643,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",201.1,NA,"female",12.9,257,7.39600629332541,151.451365416565,"Spring",81278
+8,-116.396122,34.0564003,NA,1950,"Oreortyx pictus russelli","Oreortyx_pictus",202.3,NA,"male",14.3,83,5.90174601796842,107.145599754757,"Summer",81316
+10,-117.465934,36.58766,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",203,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",81249
+8,-119.1166667,37.8,NA,2000,"Oreortyx pictus","Oreortyx_pictus",203,NA,"male",6.2,586,6.64257959202324,121.482549943379,"Summer",81494
+8,-116.39528,34.05639,"u ad.",1950,"Oreortyx pictus russelli","Oreortyx_pictus",204.4,NA,"female",14.3,82,5.90174601796842,107.145599754757,"Summer",81174
+9,-117.465934,36.58766,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",204.6,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",81246
+6,-117.12122,36.95078,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",206,NA,"female",9.5,197,7.38429947847992,92.4699282652184,"Summer",81446
+10,-117.465934,36.58766,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",206.6,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",81397
+8,-116.3038572,34.0304563,"u ad.",1950,"Oreortyx pictus russelli","Oreortyx_pictus",207.5,NA,"female",13.9,82,5.9258805764258,102.312243370886,"Summer",81327
+7,-118.76139,38.5175,"u ad.",1934,"Oreortyx pictus pictus","Oreortyx_pictus",208,NA,"female",7.9,187,6.61913548323756,101.133487112307,"Summer",81276
+6,-117.14833,36.96528,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",208.1,NA,"male",8.2,203,7.26696552068247,91.3703303916152,"Summer",81283
+12,-122.8392777,39.1616975,"u ad.",1928,"Oreortyx pictus pictus","Oreortyx_pictus",208.5,NA,"female",14,1003,6.38805703851122,108.632825983945,"Winter",81270
+6,-121.565624,36.335341,"unknown",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",209,NA,"female",14,368,5.8217460673519,91.6852968708843,"Summer",81235
+6,-121.560366,36.344108,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",209,NA,"female",14.1,347,5.55443448284723,91.2801851904887,"Summer",81373
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",210,NA,"male",14.1,383,6.98413787222029,141.93188433344,"Fall",81301
+5,-117.493415,35.942796,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",210,NA,"male",12.8,257,7.39979524696256,149.528499645752,"Spring",81441
+9,-121.587333,36.369718,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",210.4,NA,"male",13.3,862,5.23521728297881,141.236978828341,"Fall",81348
+4,-121.6000713,39.6180661,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",211,NA,"female",15.6,486,6.95191275183247,115.31635626459,"Spring",81304
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",211,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",81421
+7,-121.567691,36.321534,"imm.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",211.6,NA,"male",12.5,701,6.13852711580841,145.454462441618,"Summer",81380
+8,-121.565113,36.334512,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",212.1,NA,"female",14,368,5.8217460673519,91.3290480423717,"Summer",81230
+7,-121.567691,36.321534,"imm.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",213,NA,"male",12.5,701,6.13852711580841,145.454462441618,"Summer",81379
+9,-121.587333,36.369718,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",213.5,NA,"male",13.3,862,5.23521728297881,141.236978828341,"Fall",81188
+9,-121.587333,36.369718,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",213.7,NA,"male",13.3,862,5.23521728297881,141.236978828341,"Fall",81189
+6,-121.503052,36.347081,"imm.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",213.9,NA,"male",13.8,491,5.33493347207959,144.668296395503,"Summer",81236
+7,-119.279393,38.461747,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",214,NA,"female",2.7,649,6.71801625662237,135.119478282975,"Summer",81310
+5,-117.493415,35.942796,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",214,NA,"male",12.8,257,7.39979524696256,149.528499645752,"Spring",81442
+6,-119.1286297,34.8000759,"ad. yearling",1929,"Oreortyx pictus eremophila","Oreortyx_pictus",215,NA,"female",7.9,235,6.93473907660599,136.957347797949,"Summer",81431
+6,-119.82283,38.760829,"ad.",1921,"Oreortyx pictus pictus","Oreortyx_pictus",215.2,NA,"male",7.1,609,6.26038531101914,150.294697934117,"Summer",81408
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",215.4,NA,"female",14.1,383,6.98413787222029,141.93188433344,"Fall",81297
+5,-117.590816,35.921418,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",216,NA,"male",16.2,171,7.79037381917095,158.820606353138,"Spring",81281
+7,-121.5568207,36.37851365,"imm.",1951,"Oreortyx pictus palmeri","Oreortyx_pictus",216,NA,"female",13.4,621,4.83850559198151,154.664324996773,"Summer",81344
+6,-117.12122,36.95078,"u ad.",1940,"Oreortyx pictus eremophila","Oreortyx_pictus",216,NA,"male",9.5,197,7.38429947847992,92.4699282652184,"Summer",81447
+10,-118.681281,38.412435,NA,2012,"Oreortyx pictus","Oreortyx_pictus",216,NA,"male",8.8,186,7.70778826901725,81.0534576697119,"Fall",81478
+10,-121.565028,36.334029,"imm.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",216.9,NA,"male",12.9,602,5.64991284459461,145.672401812146,"Fall",81232
+6,-117.54591,36.526174,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",217.3,NA,"female",12,120,8.66062143476804,98.0070931136764,"Summer",81245
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",218.3,NA,"female",14.1,383,6.98413787222029,141.93188433344,"Fall",81464
+5,-122.82817,40.32421,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",219.3,NA,"male",13.5,472,6.95093191920728,97.4720294844736,"Spring",81306
+6,-115.526687,31.029931,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",219.5,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",81425
+6,-121.565624,36.335341,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",220,NA,"male",14,368,5.8217460673519,91.6852968708843,"Summer",81376
+5,-115.4654626,33.8662335,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",220,NA,"female",20.4,199,7.96463299768915,180.166974154091,"Spring",81462
+12,-116.3833333,31.916667,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",220,NA,"female",15.3,451,4.3793160528682,137.348042754474,"Winter",81493
+10,-117.518434,36.542687,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",221.4,NA,"male",10,144,8.60543785092081,96.3998407308295,"Fall",81247
+10,-117.517639,36.600745,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",221.5,NA,"female",11.6,115,8.61207749546408,95.5802820021629,"Fall",81398
+9,-118.67287,36.79291,"u ad.",1916,"Oreortyx pictus eremophila","Oreortyx_pictus",221.8,NA,"female",10.1,1563,7.33203845317166,157.642952108709,"Fall",81243
+6,-117.54591,36.526174,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",222.5,NA,"male",12,120,8.66062143476804,98.0070931136764,"Summer",81395
+5,-117.07489,36.20642,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",222.5,NA,"male",10.2,190,8.59395488736476,119.130569846161,"Spring",81396
+10,-115.9072222,32.053333,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",222.7,NA,"female",13,411,5.31745980594859,122.322450490065,"Fall",81483
+11,-121.7523,36.3711,"u ad.",1940,"Oreortyx pictus palmeri","Oreortyx_pictus",222.8,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",81449
+8,-116.3038572,34.0304563,"u ad.",1950,"Oreortyx pictus russelli","Oreortyx_pictus",223,NA,"male",13.9,82,5.9258805764258,102.312243370886,"Summer",81172
+9,-118.67287,36.79291,"u ad.",1916,"Oreortyx pictus eremophila","Oreortyx_pictus",223,NA,"male",10.1,1563,7.33203845317166,157.642952108709,"Fall",81394
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",223.2,NA,"female",14.1,383,6.98413787222029,141.93188433344,"Fall",81298
+2,-121.568335,36.328506,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",223.6,NA,"male",12.9,1069,6.27382127043267,141.575047492583,"Winter",81201
+6,-121.499191,36.358784,"ad.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",223.8,NA,"male",13.4,536,5.54280177483838,144.667670497939,"Summer",81237
+11,-121.7523,36.3711,"u ad.",1940,"Oreortyx pictus palmeri","Oreortyx_pictus",223.8,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",81450
+10,-121.566724,36.330853,"imm.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",224.1,NA,"male",12.8,625,5.84426032855132,145.645195782578,"Fall",81233
+5,-122.82817,40.32421,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",224.2,NA,"female",13.5,472,6.95093191920728,97.4720294844736,"Spring",81471
+7,-119.17389,38.4625,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",225,NA,"female",7,298,7.48337551449271,130.828043406153,"Summer",81313
+6,-121.42225,35.9667,"ad.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",225.2,NA,"male",12,833,4.82659927962335,153.090226562865,"Summer",81253
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",225.3,NA,"female",14.1,383,6.98413787222029,141.93188433344,"Fall",81468
+2,-121.473808,36.369238,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",225.5,NA,"male",13.2,983,6.08731293658202,141.871877613822,"Winter",81191
+10,-115.4818436,33.853667,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",225.8,NA,"female",20,207,7.96549376429929,181.168085159431,"Fall",81303
+5,-115.458333,30.883333,"unknown",1925,"Oreortyx pictus confinis","Oreortyx_pictus",226,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",81267
+7,-124.0201467,41.9806425,"u ad.",1935,"Oreortyx pictus palmeri","Oreortyx_pictus",226,NA,"female ?",11,2610,5.20060456858507,83.6620564531317,"Summer",81277
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",226.2,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",81417
+6,-123.4808944,40.4808574,"u ad.",1932,"Oreortyx pictus palmeri","Oreortyx_pictus",226.2,NA,"male",9.6,1341,7.15579866579927,101.519217222941,"Summer",81438
+7,-121.564102,36.341968,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",226.4,NA,"female",13.2,944,5.68892464674684,141.006749105148,"Summer",81197
+1,-119.991394,37.747308,"u ad.",1922,"Oreortyx pictus pictus","Oreortyx_pictus",226.79,NA,"male",11.1,1097,7.43620850768031,106.652711207492,"Winter",81410
+5,-121.566115,36.317461,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",226.9,NA,"male",12.7,1204,6.52572996033022,142.63375171388,"Spring",81200
+7,-121.592472,36.409504,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",227.5,NA,"female",14.2,289,4.63859794648026,89.3450190434895,"Summer",81365
+6,-123.45806,40.45389,"u ad.",1932,"Oreortyx pictus palmeri","Oreortyx_pictus",228.2,NA,"male",10.3,1224,7.2326438017945,102.630462235569,"Summer",81435
+8,-123.4568,40.45807,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",228.5,NA,"undetermined",10.2,2118,6.39962120091115,99.0391196236951,"Summer",81291
+7,-121.592472,36.409504,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",228.7,NA,"female",14.2,289,4.63859794648026,89.3450190434895,"Summer",81364
+4,-116.10388,34.10666,"u ad.",1951,"Oreortyx pictus russelli","Oreortyx_pictus",229.2,NA,"male",15.8,239,7.56816998816074,112.556721382912,"Spring",81328
+10,-116.0935866,33.895784,"m",1945,"Oreortyx pictus russelli","Oreortyx_pictus",229.5,NA,"male",14.1,382,6.98413787222029,142.241342203377,"Fall",81300
+10,-115.9072222,32.053333,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",229.5,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",81482
+1,-121.5568207,36.37851365,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",229.9,NA,"female",13.4,837,5.12551549513891,140.00008950895,"Winter",81342
+6,-121.436451,35.958512,"ad.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",230,NA,"female",11.9,800,4.4756834588968,153.388745902012,"Summer",81399
+10,-115.9072222,32.053333,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",230,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",81490
+9,-121.587333,36.369718,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",230.4,NA,"male",13.3,862,5.23521728297881,141.236978828341,"Fall",81350
+10,-117.465934,36.58766,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",230.5,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",81251
+9,-123.8083893,40.9028547,"u imm.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",230.5,NA,"female",12.7,1785,4.83105484434724,105.430785533876,"Fall",81461
+9,-122.76273,38.70714,"Imm",1987,"Oreortyx pictus","Oreortyx_pictus",231,NA,"m?",14.8,1070,4.89306094940023,118.218429446255,"Fall",81487
+7,-121.42052,36.14456,"ad.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",231.2,NA,"female",11,761,6.20299903028341,156.606197540788,"Summer",81401
+4,-122.7096386,38.9666364,"u ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",231.6,NA,"male",13.7,767,6.98899567935627,153.767324209229,"Spring",81178
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",231.8,NA,"female",14.1,383,6.98413787222029,141.93188433344,"Fall",81465
+11,-121.517036,36.217753,"imm.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",231.9,NA,"female",14,558,5.32372477261414,147.99333907299,"Fall",81384
+6,-119.04701,34.827853,"ad. yearling",1929,"Oreortyx pictus eremophila","Oreortyx_pictus",232,NA,"female",10.6,204,7.04665727759473,138.340499276856,"Summer",81271
+11,-121.467235,35.982212,"u ad.",1979,"Oreortyx pictus palmeri","Oreortyx_pictus",232,NA,"female",13.4,935,4.33250574847929,111.759954770425,"Fall",81385
+11,-121.10005,39.91918,"adult",2011,"Oreortyx pictus pictus","Oreortyx_pictus",232,NA,"female",10.2,929,7.25005747103658,126.474393627378,"Fall",81481
+5,-116.257,34.03749,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",232.7,NA,"male",14,454,7.25550992297745,147.582890399501,"Spring",81463
+6,-123.0218589,40.2528009,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",233,NA,"female",9.1,900,6.53199584330622,100.72331767489,"Summer",81308
+12,-117.295924,46.039203,NA,1956,"Oreortyx pictus","Oreortyx_pictus",233,277,"female",9.3,501,8.22329930837687,56.6491531327769,"Winter",81317
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",233.5,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",81266
+7,-121.592472,36.409504,"imm.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",233.7,NA,"female",14.2,289,4.63859794648026,89.3450190434895,"Summer",81363
+7,-119.17389,38.4625,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",234,NA,"female",7,298,7.48337551449271,130.828043406153,"Summer",81314
+5,-120.00718,38.23613,"U-Ad",1944,"Oreortyx pictus pictus","Oreortyx_pictus",234.5,NA,"male",9.4,1005,6.84359355362902,99.8183528464542,"Spring",81479
+9,-121.595104,36.477878,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",235,NA,"female",14.2,328,5.10017082304529,91.5510917776214,"Fall",81366
+12,-119.3988946,34.7477934,"u ad.",1958,"Oreortyx pictus eremophila","Oreortyx_pictus",235.2,NA,"female",14.8,386,6.3901676366307,124.579360942773,"Winter",81180
+9,-121.587333,36.369718,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",235.2,NA,"female",13.3,862,5.23521728297881,141.236978828341,"Fall",81346
+3,-121.560366,36.344108,"imm.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",235.4,NA,"male",13,567,5.37516736878251,145.483141812335,"Spring",81226
+10,-121.563168,36.342451,"imm.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",235.6,NA,"female",13,568,5.40389169530122,145.601504181356,"Fall",81227
+9,-119.3833333,38.35,NA,2000,"Oreortyx pictus","Oreortyx_pictus",236.1,NA,"male",6.2,614,6.77890556108142,119.950951597065,"Fall",81495
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",236.3,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",81418
+8,-121.566901,36.338205,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",236.4,NA,"female",14,364,5.78233333420677,91.8954751994555,"Summer",81229
+9,-121.587333,36.369718,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",236.5,NA,"male",13.3,862,5.23521728297881,141.236978828341,"Fall",81187
+8,-123.8193291,41.1515112,"u ad.",1949,"Oreortyx pictus palmeri","Oreortyx_pictus",237.2,NA,"female",11.1,1784,6.60419403015075,99.056239467751,"Summer",81170
+11,-121.817336,36.38225,"u ad.",1940,"Oreortyx pictus palmeri","Oreortyx_pictus",237.3,NA,"female",12.4,1796,3.35690152950424,146.183322966742,"Fall",81448
+12,-122.7084995,38.9671122,"u ad.",1951,"Oreortyx pictus palmeri","Oreortyx_pictus",238,NA,"female",13.7,578,6.3746419982663,128.376124310283,"Winter",81177
+12,-122.7084995,38.9671122,"u ad.",1951,"Oreortyx pictus palmeri","Oreortyx_pictus",238.1,NA,"female",13.7,578,6.3746419982663,128.376124310283,"Winter",81331
+10,-115.9072222,32.053333,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",238.2,NA,"male",13,411,5.31745980594859,122.322450490065,"Fall",81489
+8,-123.4568,40.45807,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",238.3,NA,"female",10.2,2118,6.39962120091115,99.0391196236951,"Summer",81292
+3,-121.527456,36.367788,"imm.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",238.5,NA,"female",14.4,317,5.13038335149853,91.8990159050106,"Spring",81369
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",238.5,NA,"male",14.1,383,6.98413787222029,141.93188433344,"Fall",81469
+8,-121.557843,36.371031,"ad.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",238.6,NA,"male",13.1,520,4.87077711427753,146.326728813835,"Summer",81215
+4,-121.555865,36.346249,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",238.7,NA,"male",14.2,338,5.46373720473672,91.807724503189,"Spring",81223
+11,-122.1128861,40.8288238,"u ad.",1951,"Oreortyx pictus pictus","Oreortyx_pictus",239.2,NA,"female",14.4,2172,7.88097056013388,110.521781153293,"Fall",81329
+10,-117.465934,36.58766,"u ad.",1917,"Oreortyx pictus eremophila","Oreortyx_pictus",240,NA,"male",11.3,120,8.64527809462098,94.2916172886492,"Fall",81250
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",240,NA,"female",14.1,383,6.98413787222029,141.93188433344,"Fall",81299
+4,-121.9872107,40.422775,"skull fully ossified",2007,"Oreortyx pictus pictus","Oreortyx_pictus",240,NA,"male",16.5,486,7.53890917276177,120.100275405476,"Spring",81387
+7,-121.42052,36.14456,"ad.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",240,NA,"female",11,761,6.20299903028341,156.606197540788,"Summer",81406
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",240,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",81419
+9,-121.567487,36.32968,"ad.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",240.9,NA,"male",12.7,636,5.91751381045872,145.460006693813,"Fall",81382
+8,-121.589925,36.369546,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",241.1,NA,"male",13.3,863,5.23458053079073,141.236978828341,"Summer",81353
+1,-123.64222,40.88169,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",241.1,NA,"male",12.6,1782,6.16015421884875,105.358303675249,"Winter",81452
+12,-119.3988946,34.7477934,"u ad.",1958,"Oreortyx pictus eremophila","Oreortyx_pictus",241.2,NA,"male",14.8,386,6.3901676366307,124.579360942773,"Winter",81181
+4,-121.555865,36.346249,"imm.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",241.2,NA,"male",14.2,338,5.46373720473672,91.807724503189,"Spring",81222
+7,-121.50785,36.34618,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",241.3,NA,"female",14.8,311,5.49481160236223,93.3979982393154,"Summer",81219
+1,-123.64222,40.88169,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",241.5,NA,"female",12.6,1782,6.16015421884875,105.358303675249,"Winter",81451
+11,-122.1521759,41.7969119,"immature",1961,"Oreortyx pictus","Oreortyx_pictus",242,NA,"undetermined",5.4,694,7.10720931466242,63.0712862430137,"Fall",81322
+11,-122.1128861,40.8288238,"u ad.",1951,"Oreortyx pictus pictus","Oreortyx_pictus",242,NA,"female",14.4,2172,7.88097056013388,110.521781153293,"Fall",81330
+9,-121.587333,36.369718,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",242,NA,"male",13.3,862,5.23521728297881,141.236978828341,"Fall",81349
+2,-122.3386667,39.308667,"u ad.",1923,"Oreortyx pictus","Oreortyx_pictus",242,NA,"male",16.1,219,6.83939125414483,115.529031741188,"Winter",81488
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",242.2,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",81415
+9,-121.567487,36.32968,"ad.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",242.3,NA,"male",12.7,636,5.91751381045872,145.460006693813,"Fall",81234
+9,-121.595104,36.477878,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",242.9,NA,"female",14.2,328,5.10017082304529,91.5510917776214,"Fall",81205
+7,-121.42052,36.14456,"ad.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",242.9,NA,"female",11,761,6.20299903028341,156.606197540788,"Summer",81407
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",243,NA,"female",10.6,544,4.245452112127,120.503426548805,"Spring",81416
+9,-121.587333,36.369718,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",243.2,NA,"female",13.3,862,5.23521728297881,141.236978828341,"Fall",81347
+9,-121.595104,36.477878,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",243.3,NA,"female",14.2,328,5.10017082304529,91.5510917776214,"Fall",81206
+1,-123.64222,40.88169,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",243.3,NA,"male",12.6,1782,6.16015421884875,105.358303675249,"Winter",81288
+5,-121.545504,36.350185,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",243.5,NA,"female",14.3,324,5.24878052214959,91.7094927168558,"Spring",81221
+11,-121.8130016,41.82621,"immature",1963,"Oreortyx pictus","Oreortyx_pictus",243.5,NA,"undetermined",8.2,400,6.63021092950269,68.595467719709,"Fall",81321
+5,-122.94619,40.2528,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",243.5,NA,"male",10.2,634,6.69180299117714,97.6481178040245,"Spring",81473
+10,-116.0941527,33.8957522,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",243.7,NA,"male",14.1,383,6.98413787222029,141.93188433344,"Fall",81470
+10,-121.566305,36.33679,"ad.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",243.9,NA,"male",12.9,602,5.63065204254733,145.3940905521,"Fall",81374
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",244.4,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",81263
+1,-123.47623,40.4313,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",244.5,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",81289
+4,-116.26444,34.04611,"u ad.",1951,"Oreortyx pictus russelli","Oreortyx_pictus",244.8,NA,"female",14.6,281,7.41458431781989,112.224926541706,"Spring",81175
+10,-117.16893,46.02146,NA,1977,"Oreortyx pictus pictus","Oreortyx_pictus",245,NA,"male",10.7,460,8.33027974356567,75.0761771582506,"Fall",81240
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",245,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",81265
+4,-121.525255,36.401208,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",245.7,NA,"male",13.1,962,5.77578539851482,141.119048283084,"Spring",81183
+2,-116.25667,34.0375,"u ad.",1947,"Oreortyx pictus russelli","Oreortyx_pictus",246,NA,"male",14.9,118,7.01809349920877,169.273145785642,"Winter",81475
+4,-121.555865,36.346249,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",246.4,NA,"female",14.2,338,5.46373720473672,91.807724503189,"Spring",81224
+9,-123.47575,40.48705,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",246.7,NA,"female",9.4,2382,6.26715222167908,98.2621376079615,"Fall",81293
+5,-121.56579,36.33182,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",246.7,NA,"male",13,1047,6.17185081027097,141.728743288246,"Spring",81361
+6,-119.822422,38.753747,"ad.",1921,"Oreortyx pictus pictus","Oreortyx_pictus",247,NA,"male",6.9,633,6.21983021301931,150.382664412942,"Summer",81261
+12,-123.1007066,47.2874724,NA,2000,"Oreortyx pictus","Oreortyx_pictus",247,NA,"undetermined",10.3,1409,5.29859901437649,62.7817475162172,"Winter",81323
+10,-117.16893,46.02146,NA,1977,"Oreortyx pictus pictus","Oreortyx_pictus",247,NA,"male",10.7,460,8.33027974356567,75.0761771582506,"Fall",81388
+6,-115.442739,31.008554,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",247,NA,"male",8,674,4.13110888334604,118.374400142833,"Summer",81423
+10,-119.62993,39.94006,"u ad.",1947,"Oreortyx pictus pictus","Oreortyx_pictus",247,NA,"male",10.4,100,7.61773747528912,68.806214920597,"Fall",81474
+1,-121.526403,36.399655,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",247.2,NA,"male",13.2,926,5.61262105896302,140.582445811666,"Winter",81340
+5,-122.82817,40.32421,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",247.5,NA,"male",13.5,472,6.95093191920728,97.4720294844736,"Spring",81305
+3,-123.4853,40.36188,"u ad.",1932,"Oreortyx pictus palmeri","Oreortyx_pictus",247.5,NA,"female",10.9,990,6.93080519175518,107.209353556785,"Spring",81432
+3,-123.29315,38.95946,"1 Yr.",1940,"Oreortyx pictus palmeri","Oreortyx_pictus",248.05,NA,"male",14.5,1942,4.54242626397351,115.617417046539,"Spring",81486
+2,-121.509129,36.346321,"imm.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",248.2,NA,"male",14.7,317,5.52539591341652,92.7062721444223,"Winter",81372
+4,-123.4719,40.34314,"u ad.",1932,"Oreortyx pictus palmeri","Oreortyx_pictus",248.3,NA,"male",10.7,1098,7.01755374799941,105.939256464697,"Spring",81273
+6,-115.526687,31.029931,"u ad.",1926,"Oreortyx pictus confinis","Oreortyx_pictus",248.5,NA,"male",9.8,674,4.46145104809472,133.157864337848,"Summer",81424
+5,-121.566135,36.336376,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",248.6,NA,"female",13.1,1005,5.96474490805615,141.564655375245,"Spring",81199
+11,-121.517036,36.217753,"imm.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",248.7,NA,"male",14,558,5.32372477261414,147.99333907299,"Fall",81383
+4,-117.132349,46.134944,NA,1927,"Oreortyx pictus","Oreortyx_pictus",249,364,"male",7.2,639,7.65886295857171,57.9660729071295,"Spring",81318
+5,-121.566135,36.336376,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",249.6,NA,"male",13.1,1005,5.96474490805615,141.564655375245,"Spring",81198
+10,-121.553997,36.34687,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",249.6,NA,"male",13.3,909,5.5588313574533,140.795045902535,"Fall",81354
+11,-122.7084995,38.9671122,"u ad.",1951,"Oreortyx pictus palmeri","Oreortyx_pictus",250,NA,"female",13.7,578,6.3746419982663,128.376124310283,"Fall",81176
+1,-121.418014,36.145626,"imm.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",251,NA,"male",12.6,475,6.48443357494537,102.231165902542,"Winter",81238
+4,-121.525255,36.401208,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",251.4,NA,"male",13.1,962,5.77578539851482,141.119048283084,"Spring",81341
+9,-121.5568207,36.37851365,"ad.",1948,"Oreortyx pictus palmeri","Oreortyx_pictus",251.7,NA,"male",13.1,570,5.02119749088046,122.614020140557,"Fall",81345
+8,-123.8193291,41.1515112,"u ad.",1949,"Oreortyx pictus palmeri","Oreortyx_pictus",252.4,NA,"male",11.1,1784,6.60419403015075,99.056239467751,"Summer",81325
+9,-123.8083893,40.9028547,"u imm.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",252.5,NA,"male",12.7,1785,4.83105484434724,105.430785533876,"Fall",81460
+11,-123.00255,39.04709,"adult",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",253,NA,"female",13.8,1263,6.59055798437845,138.599634144347,"Fall",81239
+11,-117.2064,46.4518,NA,1948,"Oreortyx pictus","Oreortyx_pictus",253,280,"male",9.8,499,8.22326245808472,61.9035920508509,"Fall",81320
+1,-123.6833869,41.1298546,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",253,NA,"male",13.7,1767,5.70716588371518,111.270474036512,"Winter",81453
+1,-123.47623,40.4313,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",253.8,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",81456
+7,-121.50785,36.34618,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",254,NA,"male",14.8,311,5.49481160236223,93.3979982393154,"Summer",81217
+11,-121.7523,36.3711,"u ad.",1940,"Oreortyx pictus palmeri","Oreortyx_pictus",254,NA,"female",12.7,2060,4.3761751668448,147.037758936133,"Fall",81286
+6,-121.566135,36.336376,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",254.6,NA,"female",13.1,1005,5.96474490805615,141.564655375245,"Summer",81358
+1,-121.526403,36.399655,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",254.7,NA,"female",13.2,926,5.61262105896302,140.582445811666,"Winter",81182
+7,-121.50785,36.34618,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",254.8,NA,"female",14.8,311,5.49481160236223,93.3979982393154,"Summer",81218
+12,-122.1555673,41.7951488,"adult",1961,"Oreortyx pictus","Oreortyx_pictus",255,NA,"female",5.3,696,7.10509846817229,62.6971003024591,"Winter",81168
+10,-118.49432,35.4277106,"imm.",1933,"Oreortyx pictus eremophila","Oreortyx_pictus",255,NA,"male",13.1,192,7.6035677431218,174.984785049846,"Fall",81439
+7,-121.592472,36.409504,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",255.1,NA,"male",14.2,289,4.63859794648026,89.3450190434895,"Summer",81203
+12,-119.3988946,34.7477934,"u ad.",1958,"Oreortyx pictus eremophila","Oreortyx_pictus",255.2,NA,"female",14.8,386,6.3901676366307,124.579360942773,"Winter",81333
+1,-121.5568207,36.37851365,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",255.2,NA,"female",13.4,837,5.12551549513891,140.00008950895,"Winter",81343
+8,-121.589925,36.369546,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",255.2,NA,"male",13.3,863,5.23458053079073,141.236978828341,"Summer",81352
+6,-121.42225,35.9667,"ad.",1919,"Oreortyx pictus palmeri","Oreortyx_pictus",255.2,NA,"female ?",12,833,4.82659927962335,153.090226562865,"Summer",81400
+2,-121.584528,36.369718,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",255.3,NA,"female",13.3,860,5.23707644559154,140.696358994552,"Winter",81190
+9,-122.76273,38.70714,"U-Ad",1987,"Oreortyx pictus","Oreortyx_pictus",255.4,NA,"male",14.8,1070,4.89306094940023,118.218429446255,"Fall",81480
+9,-121.595104,36.477878,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",255.7,NA,"male",14.2,328,5.10017082304529,91.5510917776214,"Fall",81204
+11,-117.2602,46.5518,NA,1948,"Oreortyx pictus","Oreortyx_pictus",256,283,"male",10,559,8.16175486180775,65.1419629431536,"Fall",81319
+6,-121.58112,36.488991,"u ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",256,NA,"male",14.2,346,5.31564300965185,91.9486517955578,"Summer",81367
+4,-121.560281,36.344177,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",256.2,NA,"female",13.2,941,5.69965442865272,141.055211115544,"Spring",81193
+9,-121.595104,36.477878,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",256.5,NA,"male",14.2,328,5.10017082304529,91.5510917776214,"Fall",81207
+11,-121.7523,36.3711,"u ad.",1940,"Oreortyx pictus palmeri","Oreortyx_pictus",257.2,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",81285
+5,-121.566135,36.336376,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",257.5,NA,"male",13.1,1005,5.96474490805615,141.564655375245,"Spring",81357
+6,-123.45806,40.45389,"u ad.",1932,"Oreortyx pictus palmeri","Oreortyx_pictus",257.8,NA,"male",10.3,1224,7.2326438017945,102.630462235569,"Summer",81434
+7,-121.50785,36.34618,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",258.7,NA,"male",14.8,311,5.49481160236223,93.3979982393154,"Summer",81370
+11,-121.7523,36.3711,"u ad.",1940,"Oreortyx pictus palmeri","Oreortyx_pictus",259.3,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",81287
+5,-121.56579,36.33182,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",259.4,NA,"female",13,1047,6.17185081027097,141.728743288246,"Spring",81360
+12,-119.3988946,34.7477934,"unknown",1958,"Oreortyx pictus eremophila","Oreortyx_pictus",259.5,NA,"male",14.8,386,6.3901676366307,124.579360942773,"Winter",81334
+10,-119.881282,37.588966,"ad.",1915,"Oreortyx pictus pictus","Oreortyx_pictus",259.5,NA,"male ?",12.9,966,6.24009518186925,121.651065720146,"Fall",81390
+8,-121.555865,36.346249,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",260,NA,"male",14.2,338,5.46373720473672,91.807724503189,"Summer",81225
+5,-115.458333,30.883333,"u ad.",1925,"Oreortyx pictus confinis","Oreortyx_pictus",260,NA,"male",10.6,544,4.245452112127,120.503426548805,"Spring",81264
+9,-123.8083893,40.9028547,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",260,NA,"male",12.7,1785,4.83105484434724,105.430785533876,"Fall",81294
+5,-122.94619,40.2528,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",260,NA,"male",10.2,634,6.69180299117714,97.6481178040245,"Spring",81472
+8,-121.573639,36.494202,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",260.5,NA,"male",14.1,354,5.38439805588725,92.2416760898569,"Summer",81368
+6,-123.4808944,40.4808574,"u ad.",1932,"Oreortyx pictus palmeri","Oreortyx_pictus",261.1,NA,"male",9.6,1341,7.15579866579927,101.519217222941,"Summer",81437
+9,-121.595104,36.477878,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",261.7,NA,"male",14.2,328,5.10017082304529,91.5510917776214,"Fall",81209
+7,-121.566585,36.320257,"ad.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",262,NA,"male",12.5,706,6.1675286047905,145.419646638833,"Summer",81381
+10,-115.4818436,33.853667,"u ad.",1945,"Oreortyx pictus russelli","Oreortyx_pictus",262.4,NA,"male",20,207,7.96549376429929,181.168085159431,"Fall",81302
+3,-121.545504,36.350185,"ad.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",263.6,NA,"male",13.2,523,5.04711138507298,145.731015040268,"Spring",81220
+8,-121.589925,36.369546,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",263.8,NA,"male",13.3,863,5.23458053079073,141.236978828341,"Summer",81351
+5,-123.015054,40.394887,"u ad.",1926,"Oreortyx pictus pictus","Oreortyx_pictus",265.5,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",81268
+5,-121.566648,36.339897,"ad.",1975,"Oreortyx pictus palmeri","Oreortyx_pictus",266.2,NA,"male",12.8,602,5.61693192431814,145.3940905521,"Spring",81228
+1,-121.5568207,36.37851365,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",266.4,NA,"male",13.4,837,5.12551549513891,140.00008950895,"Winter",81184
+5,-123.015054,40.394887,"u ad.",1926,"Oreortyx pictus pictus","Oreortyx_pictus",266.8,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",81427
+8,-123.4568,40.45807,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",267.2,NA,"male",10.2,2118,6.39962120091115,99.0391196236951,"Summer",81457
+2,-121.509129,36.346321,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",267.5,NA,"male",14.7,317,5.52539591341652,92.7062721444223,"Winter",81371
+9,-123.1507796,40.3763001,"u ad.",1949,"Oreortyx pictus pictus","Oreortyx_pictus",268,NA,"male",9.3,1247,6.85849948250455,145.352478782216,"Fall",81326
+9,-121.595104,36.477878,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",272.5,NA,"male",14.2,328,5.10017082304529,91.5510917776214,"Fall",81208
+5,-123.015054,40.394887,"u ad.",1926,"Oreortyx pictus pictus","Oreortyx_pictus",272.8,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",81428
+4,-121.560281,36.344177,"ad.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",273.2,NA,"male",13.2,941,5.69965442865272,141.055211115544,"Spring",81192
+4,-121.560281,36.344177,"imm.",1952,"Oreortyx pictus palmeri","Oreortyx_pictus",273.4,NA,"female",13.2,941,5.69965442865272,141.055211115544,"Spring",81355
+5,-116.768,46.5934,"u ad.",1955,"Oreortyx pictus pictus","Oreortyx_pictus",275,NA,"male",7.9,597,8.51410594249332,57.143595017925,"Spring",81179
+11,-121.7523,36.3711,"u ad.",1940,"Oreortyx pictus palmeri","Oreortyx_pictus",275.1,NA,"male",12.7,2060,4.3761751668448,147.037758936133,"Fall",81284
+5,-122.94619,40.2528,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",275.3,NA,"male",10.2,634,6.69180299117714,97.6481178040245,"Spring",81307
+7,-121.507854,36.346183,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",275.8,NA,"male",14.8,311,5.49481160236223,93.3979982393154,"Summer",81214
+3,-121.527456,36.367788,"ad.",1976,"Oreortyx pictus palmeri","Oreortyx_pictus",276.5,NA,"male",14.4,317,5.13038335149853,91.8990159050106,"Spring",81212
+8,-123.4568,40.45807,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",277.5,NA,"male",10.2,2118,6.39962120091115,99.0391196236951,"Summer",81290
+4,-123.5016914,40.4498344,"u ad.",1932,"Oreortyx pictus palmeri","Oreortyx_pictus",279.3,NA,"female",11.1,1067,6.86022241003537,102.88222244743,"Spring",81274
+6,-123.45806,40.45389,"u ad.",1932,"Oreortyx pictus palmeri","Oreortyx_pictus",280.6,NA,"female",10.3,1224,7.2326438017945,102.630462235569,"Summer",81436
+5,-123.015054,40.394887,"u ad.",1926,"Oreortyx pictus pictus","Oreortyx_pictus",283,NA,"male",11.7,1312,6.52795851888187,123.826324692807,"Spring",81426
+5,-123.015054,40.394887,"u ad.",1926,"Oreortyx pictus pictus","Oreortyx_pictus",283,NA,"female",11.7,1312,6.52795851888187,123.826324692807,"Spring",81429
+4,-116.3038572,34.0304563,"u ad.",1960,"Oreortyx pictus eremophila","Oreortyx_pictus",284,NA,"female",14.3,134,7.33143398268199,113.677678439996,"Spring",81336
+12,-122.7084995,38.9671122,"u ad.",1951,"Oreortyx pictus palmeri","Oreortyx_pictus",288.1,NA,"male",13.7,578,6.3746419982663,128.376124310283,"Winter",81332
+6,-123.8584651,41.1335554,"u ad.",1933,"Oreortyx pictus palmeri","Oreortyx_pictus",290.7,NA,"female",11,2683,5.93992016067148,103.924145409553,"Summer",81275
+6,-120.1058,37.753536,"ad.",1915,"Oreortyx pictus pictus","Oreortyx_pictus",291,NA,"male",13.5,935,6.50151497496522,126.266688055257,"Summer",81241
+6,-123.0218589,40.2528009,"u ad.",1946,"Oreortyx pictus pictus","Oreortyx_pictus",295.4,NA,"female",9.1,900,6.53199584330622,100.72331767489,"Summer",81309
+1,-123.47623,40.4313,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",297.3,NA,"female",11.1,1820,6.24254100361529,98.8500323964413,"Winter",81455
+1,-121.9003666,36.5374502,NA,1999,"Oreortyx pictus palmeri","Oreortyx_pictus",299,NA,"undetermined",12.6,416,2.42079062967603,124.718618208392,"Winter",81386
+1,-119.93852,39.62707,"u ad.",1929,"Oreortyx pictus pictus","Oreortyx_pictus",299.37,NA,"female",8.2,322,7.58675081169718,125.413583812365,"Winter",81430
+1,-123.47623,40.4313,"u ad.",1942,"Oreortyx pictus palmeri","Oreortyx_pictus",300,NA,"male",11.1,1820,6.24254100361529,98.8500323964413,"Winter",81454

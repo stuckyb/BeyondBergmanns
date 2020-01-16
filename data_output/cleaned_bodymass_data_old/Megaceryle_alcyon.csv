@@ -1,0 +1,231 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+6,-85.0480843,46.7569159,NA,1999,"Megaceryle alcyon","Megaceryle_alcyon",52.3,NA,"female",5.8,709,9.34265227412171,61.0321843948726,"Summer",44521
+7,-88.4056091,42.7893542,NA,1965,"Megaceryle alcyon alcyon","Megaceryle_alcyon",81.8,NA,"female",8,1081,10.8610612517908,58.7749638746362,"Summer",44436
+9,-117.28459,46.84832,NA,1992,"Megaceryle alcyon","Megaceryle_alcyon",91.5,NA,"male",10,415,7.40298874943373,54.4946516472576,"Fall",44537
+3,-83.7263412,42.2708397,NA,1984,"Megaceryle alcyon","Megaceryle_alcyon",95.8,NA,"female",9.3,755,10.3758752825382,45.5845019134467,"Spring",44633
+9,-83.733367,42.200207,NA,2013,"Megaceryle alcyon alcyon","Megaceryle_alcyon",96.5,NA,"male",9.7,944,10.2796209103549,54.0911069188723,"Fall",44643
+7,-76.848846,42.420073,NA,2009,"Megaceryle alcyon","Megaceryle_alcyon",100,255,"undetermined",8,870,9.45244877684021,49.7487690482966,"Summer",44433
+2,-83.9869702,42.4298937,NA,1987,"Megaceryle alcyon","Megaceryle_alcyon",105.9,NA,"male",10.2,797,9.82271254889309,60.1104785986598,"Winter",44636
+7,-149.809,61.16,"immature",2006,"Megaceryle alcyon","Megaceryle_alcyon",106.3,NA,"female",1.6,501,10.3186356861865,111.85631869261,"Summer",44683
+7,-94.6651983,39.2172263,NA,2003,"Megaceryle alcyon","Megaceryle_alcyon",107.5,NA,"female",12.7,763,10.30175036613,76.6211588700425,"Summer",44543
+7,-94.7090149,39.2960482,NA,2004,"Megaceryle alcyon","Megaceryle_alcyon",111,NA,"male",12.6,1007,9.38953317973441,56.3983658262932,"Summer",44442
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",112.3,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Summer",44608
+7,-85.7154178,44.3048099,NA,1941,"Megaceryle alcyon alcyon","Megaceryle_alcyon",112.6,NA,"male",7.2,805,10.6329212896323,66.802128622158,"Summer",44517
+7,-122.06338,37.8974,"Adult",2008,"Megaceryle alcyon","Megaceryle_alcyon",114,300,"female",14.9,417,5.05325427698615,173.727364269286,"Summer",44671
+8,-122.342113,37.911623,"adult",2003,"Megaceryle alcyon caurina","Megaceryle_alcyon",115,NA,"female",14.6,541,2.91952673624277,111.11830142336,"Summer",44450
+2,-122.894436,47.060577,NA,1989,"Megaceryle alcyon caurina","Megaceryle_alcyon",115,NA,"male",10.7,1060,5.52390809174633,78.2759350072313,"Winter",44551
+8,-94.0827942,38.8787395,NA,2002,"Megaceryle alcyon","Megaceryle_alcyon",120,NA,"female",13.2,874,9.8712008418736,99.6050819783462,"Summer",44544
+12,-123.286883,48.633197,NA,1981,"Megaceryle alcyon","Megaceryle_alcyon",120,340,"female",10.6,888,4.3014708548532,67.3386786520626,"Winter",44678
+8,-76.788543,35.305447,"HY",2012,"Megaceryle alcyon","Megaceryle_alcyon",123.6,NA,"female",18,1265,6.8581018223748,34.2343444154062,"Summer",44443
+7,-84.1018867,42.3259197,NA,1999,"Megaceryle alcyon","Megaceryle_alcyon",123.7,NA,"male",9.6,781,9.96133053666055,50.9278919183747,"Summer",44522
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",124.5,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44515
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",125,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44585
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",125.5,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Summer",44497
+9,-89.0903663,46.2978778,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",126,NA,"male",5.3,916,11.2380407814735,76.5029881652952,"Fall",44598
+9,-84.2366409,42.337103,NA,1938,"Megaceryle alcyon alcyon","Megaceryle_alcyon",126,NA,"male",10.2,739,9.58655545305745,54.1951228383305,"Fall",44650
+9,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",126.5,NA,"female",9.6,915,10.2968956781188,55.3751214265524,"Fall",44512
+9,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",126.5,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Fall",44607
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",127.2,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Summer",44496
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",128,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44514
+5,-84.8676682,43.8345268,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",129.2,NA,"female",8,753,10.6741936037768,71.4098197661562,"Spring",44574
+7,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",129.8,NA,"female",7.4,692,10.3221738372919,62.6908910089507,"Summer",44624
+8,-122.394916,37.791846,"adult",2004,"Megaceryle alcyon caurina","Megaceryle_alcyon",130,NA,"undetermined",14.9,506,2.70704748030138,126.670464735343,"Summer",44451
+9,-108.083333,30.6,"u ad.",1948,"Megaceryle alcyon caurina","Megaceryle_alcyon",130,NA,"female",16.9,273,7.46488750448026,117.153040309365,"Fall",44547
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",130,NA,"female",6.8,821,9.67700726965572,52.4508314454872,"Fall",44594
+6,-85.6978416,44.3100033,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",130.5,NA,"female",7.3,806,10.6111862073603,67.0334266624575,"Summer",44571
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",130.5,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44578
+6,-84.8676682,43.8345268,NA,1941,"Megaceryle alcyon alcyon","Megaceryle_alcyon",130.7,NA,"male",8,753,10.6741936037768,71.4098197661562,"Summer",44568
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",130.8,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Summer",44498
+9,-76.859106,34.78655,"AHY",2012,"Megaceryle alcyon","Megaceryle_alcyon",131.2,NA,"male",18.2,1359,6.82253396451565,41.4293229670714,"Fall",44546
+7,-85.6978416,44.3100033,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",131.2,NA,"female",7.3,806,10.6111862073603,67.0334266624575,"Summer",44630
+6,-82.4333333,42.9666667,NA,1981,"Megaceryle alcyon alcyon","Megaceryle_alcyon",131.2,NA,"female",8.3,863,9.75018259347283,56.197279997263,"Summer",44666
+7,-122.13619,38.01666,"adult",2007,"Megaceryle alcyon","Megaceryle_alcyon",131.3,309,"female",14.8,294,4.8700304896065,129.917707790469,"Summer",44658
+7,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",131.5,NA,"male",7.4,692,10.3221738372919,62.6908910089507,"Summer",44509
+7,-85.7154178,44.3048099,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",131.9,NA,"male",7.2,805,10.6329212896323,66.802128622158,"Summer",44490
+9,-83.815239,42.3256378,NA,1940,"Megaceryle alcyon alcyon","Megaceryle_alcyon",132.2,NA,"female",8.3,808,10.7654610451737,50.0015595375752,"Fall",44462
+7,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",132.2,NA,"male",6.8,821,9.67700726965572,52.4508314454872,"Summer",44591
+8,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",132.7,NA,"male",7.4,692,10.3221738372919,62.6908910089507,"Summer",44507
+9,-82.4333333,42.9666667,NA,1981,"Megaceryle alcyon alcyon","Megaceryle_alcyon",132.8,NA,"female",8.3,863,9.75018259347283,56.197279997263,"Fall",44680
+8,-122.65414,49.097048,"immature",1991,"Megaceryle alcyon","Megaceryle_alcyon",133,318,"female",10.2,1339,5.27982868179365,60.5882828741969,"Summer",44679
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",133.3,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44510
+7,-83.7263412,42.2708397,NA,1934,"Megaceryle alcyon alcyon","Megaceryle_alcyon",133.3,NA,"male",9.6,480,11.7842055311336,58.1051749810578,"Summer",44527
+6,-85.6978416,44.3100033,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",133.6,NA,"female",7.3,806,10.6111862073603,67.0334266624575,"Summer",44467
+8,-82.4333333,42.9666667,NA,1994,"Megaceryle alcyon","Megaceryle_alcyon",134,NA,"male",8.8,804,10.6539649753962,46.0897658089497,"Summer",44668
+7,-72.9286,41.3081,NA,1975,"Megaceryle alcyon","Megaceryle_alcyon",134,NA,"male",11.2,1413,8.79350224985368,26.4531225657727,"Summer",44681
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",134.7,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Summer",44609
+4,-95.6780357,39.0483341,NA,1989,"Megaceryle alcyon","Megaceryle_alcyon",134.9,NA,"female",11.8,853,10.515601684539,78.3949191763714,"Spring",44440
+1,-83.3412981,44.4379779,NA,1938,"Megaceryle alcyon alcyon","Megaceryle_alcyon",135,NA,"female",7.6,723,9.87903734115216,54.3656208949902,"Winter",44534
+9,-89.0903663,46.2978778,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",135,NA,"female",5.3,916,11.2380407814735,76.5029881652952,"Fall",44599
+7,-85.7154178,44.3048099,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",135.5,NA,"female",7.2,805,10.6329212896323,66.802128622158,"Summer",44606
+5,-84.8676682,43.8345268,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",135.8,NA,"male",8,753,10.6741936037768,71.4098197661562,"Spring",44575
+9,-89.0903663,46.2978778,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",136,NA,"male",5.3,916,11.2380407814735,76.5029881652952,"Fall",44500
+8,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",136.5,NA,"male",7.4,692,10.3221738372919,62.6908910089507,"Summer",44581
+8,-85.5011844,43.7880891,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",136.8,NA,"male",8,854,10.5915453704043,66.2553792356213,"Summer",44611
+8,-121.987732,37.82794,"adult",2003,"Megaceryle alcyon caurina","Megaceryle_alcyon",137.1,NA,"female",15.2,481,4.91351722446879,115.448182814798,"Summer",44550
+8,-111.106,44.1296,"u ad.",1939,"Megaceryle alcyon caurina","Megaceryle_alcyon",137.3,NA,"male",4.3,639,9.28354686659374,67.6867962566796,"Summer",44562
+6,-85.6978416,44.3100033,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",137.4,NA,"female",7.3,806,10.6111862073603,67.0334266624575,"Summer",44468
+9,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",137.5,NA,"male",7.4,692,10.3221738372919,62.6908910089507,"Fall",44516
+6,-83.3954887,42.1153183,NA,2010,"Megaceryle alcyon alcyon","Megaceryle_alcyon",137.5,NA,"female",10.7,794,10.8602974455611,63.7095093575165,"Summer",44642
+3,-106.416667,23.216667,NA,1960,"Megaceryle alcyon","Megaceryle_alcyon",137.5,NA,"male",24.5,645,3.49649174823201,120.955892019499,"Spring",44664
+8,-121.950336,37.77257,"adult",2004,"Megaceryle alcyon caurina","Megaceryle_alcyon",137.8,NA,"female",15.5,540,4.94055572877089,121.841463845478,"Summer",44452
+6,-106.1985,45.3019,"u ad.",1947,"Megaceryle alcyon caurina","Megaceryle_alcyon",137.8,NA,"female",6.8,423,10.6045551961924,93.2076166137476,"Summer",44565
+7,-95.2598661,38.9549568,NA,1993,"Megaceryle alcyon","Megaceryle_alcyon",138,NA,"male",11.8,1331,10.2879857851356,77.435966617949,"Summer",44441
+7,-104.9800301,36.5198456,NA,1963,"Megaceryle alcyon caurina","Megaceryle_alcyon",138,NA,"female",9.5,367,8.7688843836222,102.434274210795,"Summer",44542
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",138,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44629
+7,-86.3245582,42.1291662,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",138.2,NA,"female",10.6,949,10.1145372428186,60.2928940936985,"Summer",44503
+6,-84.180759,42.066189,NA,2012,"Megaceryle alcyon alcyon","Megaceryle_alcyon",138.2,NA,"female",11.2,781,9.23817425882212,37.2248738324937,"Summer",44524
+5,-84.879262,45.53576,NA,1988,"Megaceryle alcyon","Megaceryle_alcyon",138.5,NA,"male",5.9,894,11.0464172170588,56.7046036179185,"Spring",44519
+7,-89.0903663,46.2978778,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",138.6,NA,"male",5.3,916,11.2380407814735,76.5029881652952,"Summer",44485
+6,-122.26868,38.032774,"adult",2004,"Megaceryle alcyon caurina","Megaceryle_alcyon",138.8,NA,"female",15,516,4.01182909995836,129.633297477307,"Summer",44553
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",139.2,NA,"male",7.3,763,10.313990939055,48.4957540933368,"Summer",44474
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",139.5,NA,"male",7.3,763,10.313990939055,48.4957540933368,"Summer",44576
+9,-108.083333,30.6,"u ad.",1948,"Megaceryle alcyon caurina","Megaceryle_alcyon",139.6,NA,"male",16.9,273,7.46488750448026,117.153040309365,"Fall",44445
+7,-119.28444,39.65563,"u ad.",1934,"Megaceryle alcyon caurina","Megaceryle_alcyon",140,NA,"male",12.8,140,7.33366562608028,69.2970238168537,"Summer",44560
+7,-104.1118851,43.8137779,"adult",1935,"Megaceryle alcyon caurina","Megaceryle_alcyon",140,NA,"female",7.6,292,9.57566359754421,123.739313880793,"Summer",44647
+8,-121.0361,36.4814,"juv.",1936,"Megaceryle alcyon caurina","Megaceryle_alcyon",140.6,NA,"male",14.4,614,5.96130832701153,160.513533885601,"Summer",44561
+7,-86.3242149,42.1283706,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",140.8,NA,"male",10.6,949,10.1145372428186,60.2928940936985,"Summer",44487
+5,-87.3935394,46.5456314,NA,1941,"Megaceryle alcyon alcyon","Megaceryle_alcyon",141,NA,"male",6.9,821,9.68470756430263,50.6148652401928,"Spring",44463
+7,-83.7263412,42.2708397,NA,1971,"Megaceryle alcyon alcyon","Megaceryle_alcyon",141,NA,"male",9.6,595,10.4881318208206,62.6802652779522,"Summer",44634
+7,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",141.4,NA,"female",6.8,821,9.67700726965572,52.4508314454872,"Summer",44590
+8,-124.1323646,41.1604001,"u ad.",1949,"Megaceryle alcyon caurina","Megaceryle_alcyon",141.5,NA,"male",10.5,1001,3.39250510818936,97.8424523869778,"Summer",44444
+7,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",141.6,NA,"male",6.8,821,9.67700726965572,52.4508314454872,"Summer",44587
+7,-84.8669701,43.8929614,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",141.6,NA,"male",7.9,749,10.6391323125355,71.2815180872629,"Summer",44597
+5,-122.9024658,38.1614977,"u ad.",1921,"Megaceryle alcyon caurina","Megaceryle_alcyon",141.75,NA,"female",11.7,640,2.26640484227574,127.238919569404,"Spring",44447
+8,-111.3953253,42.1675605,"immature",1934,"Megaceryle alcyon caurina","Megaceryle_alcyon",141.8,NA,"male",7.2,220,8.49891258641452,48.1357958901737,"Summer",44528
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",141.8,NA,"male",7.3,763,10.313990939055,48.4957540933368,"Summer",44610
+7,-86.3354588,45.9112123,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",142,NA,"male",6.4,901,9.68417953847064,52.2805176452235,"Summer",44471
+7,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",142,NA,"male",7.4,692,10.3221738372919,62.6908910089507,"Summer",44476
+5,-87.3935394,46.5456314,NA,1941,"Megaceryle alcyon alcyon","Megaceryle_alcyon",142,NA,"male",6.9,821,9.68470756430263,50.6148652401928,"Spring",44569
+7,-88.6564064,46.8738052,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",142,NA,"female",5.6,992,10.7039606093853,52.0633905509413,"Summer",44579
+6,-105.091055,39.703238,"immature",1988,"Megaceryle alcyon","Megaceryle_alcyon",142.2,267,"male",10.7,386,9.22452265333107,76.7913233572141,"Summer",44435
+9,-119.901919,39.1752855,"u ad.",1935,"Megaceryle alcyon caurina","Megaceryle_alcyon",142.2,NA,"female",3.8,845,7.18143123238359,104.49295360805,"Fall",44460
+7,-117.729067,46.431007,NA,2002,"Megaceryle alcyon","Megaceryle_alcyon",142.5,NA,"male",10.3,322,7.54089858804317,59.3894299670298,"Summer",44535
+8,-100.1574477,39.1380273,"adult",1966,"Megaceryle alcyon","Megaceryle_alcyon",142.9,NA,"female",11.3,376,10.8801180920507,91.8270750397748,"Summer",44438
+8,-122.1331,38.0194,"adult",1999,"Megaceryle alcyon caurina","Megaceryle_alcyon",143,NA,"male",14.3,410,4.63533856760902,131.207575088009,"Summer",44449
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",143,NA,"female",6.8,821,9.67700726965572,52.4508314454872,"Fall",44479
+4,-85.3522034,42.336441,NA,1945,"Megaceryle alcyon alcyon","Megaceryle_alcyon",143.1,NA,"female",8.8,958,9.82006295110354,57.2022281538148,"Spring",44631
+7,-84.8669701,43.8929614,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",143.2,NA,"male",7.9,749,10.6391323125355,71.2815180872629,"Summer",44484
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",143.5,NA,"male",6.8,821,9.67700726965572,52.4508314454872,"Fall",44481
+8,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",143.5,NA,"male",5.4,917,11.1982141433355,77.0042824044337,"Summer",44583
+4,-83.4257278,41.7401466,NA,1969,"Megaceryle alcyon","Megaceryle_alcyon",144,NA,"female",9.4,858,10.1937146409843,58.999975416682,"Spring",44518
+10,-105.0970993018,40.3619160113,NA,1986,"Megaceryle alcyon","Megaceryle_alcyon",144,307,"male",9.9,340,8.11670088972936,65.6910898280226,"Fall",44540
+7,-86.3242149,42.1283706,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",144.1,NA,"female",10.6,949,10.1145372428186,60.2928940936985,"Summer",44605
+9,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",144.5,NA,"male",7.4,692,10.3221738372919,62.6908910089507,"Fall",44627
+7,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",144.6,NA,"male",6.8,821,9.67700726965572,52.4508314454872,"Summer",44577
+6,-85.668129,42.9633255,NA,2007,"Megaceryle alcyon alcyon","Megaceryle_alcyon",144.8,NA,"male",9.6,922,10.6531365419682,47.9599131269751,"Summer",44640
+9,-89.0903663,46.2978778,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",145,NA,"male",5.3,916,11.2380407814735,76.5029881652952,"Fall",44613
+4,-88.8854027,46.1602154,NA,1941,"Megaceryle alcyon alcyon","Megaceryle_alcyon",145.3,NA,"male",5.4,918,11.1971147528227,77.0042824044337,"Spring",44566
+8,-84.1296958,42.1397321,NA,1987,"Megaceryle alcyon alcyon","Megaceryle_alcyon",145.3,NA,"female",10.4,820,9.74603260384201,58.297738882131,"Summer",44637
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",145.8,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44628
+8,-84.6044731,45.2733479,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",146,NA,"female",7,694,10.583302314438,58.790189462581,"Summer",44486
+9,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",146,NA,"female",7.4,692,10.3221738372919,62.6908910089507,"Fall",44580
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",146.2,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Summer",44495
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",146.3,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Summer",44493
+6,-85.7719498,43.5503197,NA,1941,"Megaceryle alcyon alcyon","Megaceryle_alcyon",146.5,NA,"male",8.4,931,10.4211178368588,56.6957943671318,"Summer",44567
+7,-83.6619186,42.2993415,NA,1976,"Megaceryle alcyon","Megaceryle_alcyon",146.5,NA,"female",8.7,712,10.6042872976409,49.0706225402536,"Summer",44635
+8,-111.106,44.1296,"u ad.",1939,"Megaceryle alcyon caurina","Megaceryle_alcyon",146.7,NA,"female",4.3,639,9.28354686659374,67.6867962566796,"Summer",44563
+6,-117.1625,46.730636,NA,1982,"Megaceryle alcyon","Megaceryle_alcyon",146.9,NA,"male",7.6,636,7.92790908274322,45.8176798771481,"Summer",44536
+7,-86.3245582,42.1291662,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",147.4,NA,"female",10.6,949,10.1145372428186,60.2928940936985,"Summer",44472
+8,-122.0691039,41.5779164,"u ad.",1920,"Megaceryle alcyon caurina","Megaceryle_alcyon",147.4,NA,"male",8.1,632,6.74534631947812,105.603309441085,"Summer",44557
+8,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",147.7,NA,"male",5.4,917,11.1982141433355,77.0042824044337,"Summer",44601
+1,-117.501,46.922,NA,1989,"Megaceryle alcyon","Megaceryle_alcyon",148.5,NA,"female",9,449,8.05881786954795,67.3856991830201,"Winter",44538
+10,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",149,NA,"male",5.4,917,11.1982141433355,77.0042824044337,"Fall",44614
+8,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",149.4,NA,"female",7.4,692,10.3221738372919,62.6908910089507,"Summer",44506
+7,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",149.5,NA,"female",7.4,692,10.3221738372919,62.6908910089507,"Summer",44626
+5,-83.7263412,42.2708397,NA,1999,"Megaceryle alcyon","Megaceryle_alcyon",149.5,NA,"female",10.2,871,9.96574435785208,44.628272107928,"Spring",44639
+4,-116.865597,36.456792,"u ad.",1917,"Megaceryle alcyon caurina","Megaceryle_alcyon",150,NA,"male",23.3,31,10.6578467323234,99.6636097827943,"Spring",44454
+7,-86.3242149,42.1283706,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",150,NA,"female",10.6,949,10.1145372428186,60.2928940936985,"Summer",44470
+5,-83.4853363,42.4378357,NA,1936,"Megaceryle alcyon alcyon","Megaceryle_alcyon",150.5,NA,"male",8.6,626,11.4367032757776,62.3349397764054,"Spring",44531
+10,-94.5730556,39.0380556,NA,2013,"Megaceryle alcyon","Megaceryle_alcyon",151,NA,"male",12.1,970,10.2599397481839,66.0839715727051,"Fall",44439
+9,-117.165649,46.729529,NA,1976,"Megaceryle alcyon","Megaceryle_alcyon",151.6,NA,"male",8,416,7.13385016536079,51.7913829914669,"Fall",44432
+7,-85.7857131,42.2187291,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",151.7,NA,"male",10.2,902,10.3641427308511,54.3129048951337,"Summer",44632
+8,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",151.8,NA,"female",5.4,917,11.1982141433355,77.0042824044337,"Summer",44623
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",152.3,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44511
+11,-83.3771362,42.6842308,NA,1937,"Megaceryle alcyon alcyon","Megaceryle_alcyon",152.5,NA,"male",8.8,665,10.225676979886,53.5521332529255,"Fall",44649
+9,-122.1152344,41.9273505,"juvenile",1964,"Megaceryle alcyon","Megaceryle_alcyon",152.6,NA,"male",7.2,542,7.14912052230372,145.507188590203,"Fall",44545
+7,-89.0903663,46.2978778,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",153,NA,"female",5.3,916,11.2380407814735,76.5029881652952,"Summer",44582
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",153,NA,"female",6.8,821,9.67700726965572,52.4508314454872,"Fall",44593
+12,-70.5667,41.9186,NA,1984,"Megaceryle alcyon","Megaceryle_alcyon",153,NA,"male",9.9,1302,8.47986920996909,48.0685429662244,"Winter",44670
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",153.3,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44586
+9,-83.4919738,44.2846595,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",153.6,NA,"female",7.5,850,10.2805936628488,54.7621311353253,"Fall",44596
+2,-110.33,24.12,"u ad.",1929,"Megaceryle alcyon caurina","Megaceryle_alcyon",153.6,NA,"female",22.9,146,4.4716192579287,109.533853749809,"Winter",44663
+9,-83.4919738,44.2846595,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",154,NA,"female",7.5,850,10.2805936628488,54.7621311353253,"Fall",44584
+6,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",154,NA,"female",7.4,692,10.3221738372919,62.6908910089507,"Summer",44652
+5,-83.6561111,42.3127778,NA,1956,"Megaceryle alcyon alcyon","Megaceryle_alcyon",154,NA,"female",9.5,725,9.64972915305257,61.2600946669499,"Spring",44665
+8,-85.7154178,44.3048099,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",154.2,NA,"male",7.2,805,10.6329212896323,66.802128622158,"Summer",44489
+8,-84.8447514,45.433515,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",154.5,NA,"male",7.4,692,10.3221738372919,62.6908910089507,"Summer",44508
+6,-122.665,37.8933,"u ad.",1923,"Megaceryle alcyon caurina","Megaceryle_alcyon",154.79,NA,"female",12.3,351,2.13179395217865,131.095404559693,"Summer",44548
+7,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",155,NA,"female",6.8,821,9.67700726965572,52.4508314454872,"Summer",44588
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",155,NA,"female",6.8,821,9.67700726965572,52.4508314454872,"Fall",44592
+11,-104.9841666667,39.7391666667,NA,1983,"Megaceryle alcyon","Megaceryle_alcyon",155.2,328,"male",9.9,496,9.64554772468059,88.4773007083141,"Fall",44659
+10,-123.778839,46.833963,NA,1976,"Megaceryle alcyon caurina","Megaceryle_alcyon",155.7,NA,"male",9.8,1732,4.33829843755975,77.1202354664311,"Fall",44552
+8,-84.6044731,45.2733479,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",155.8,NA,"female",7,694,10.583302314438,58.790189462581,"Summer",44482
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",156.2,NA,"male",7.3,763,10.313990939055,48.4957540933368,"Summer",44504
+6,-86.3291073,45.9049415,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",156.2,NA,"female",6.4,899,9.68417953847064,52.3967922302087,"Summer",44570
+8,-119.3943016,37.7381955,"u ad.",1915,"Megaceryle alcyon caurina","Megaceryle_alcyon",156.3,NA,"female",4.9,931,6.30057116218022,121.969417428831,"Summer",44554
+9,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",156.5,NA,"male",7.3,763,10.313990939055,48.4957540933368,"Fall",44499
+12,-83.40881,42.36679,NA,1936,"Megaceryle alcyon alcyon","Megaceryle_alcyon",156.8,NA,"female",8.8,649,11.400036549649,62.9728651353861,"Winter",44648
+10,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",158,NA,"male",5.4,917,11.1982141433355,77.0042824044337,"Fall",44616
+10,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",158,NA,"male",5.4,917,11.1982141433355,77.0042824044337,"Fall",44618
+9,-83.4919738,44.2846595,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",158.4,NA,"male",7.5,850,10.2805936628488,54.7621311353253,"Fall",44483
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",158.5,NA,"male",6.8,821,9.67700726965572,52.4508314454872,"Fall",44469
+8,-117.4596,47.766283,"Ad",1948,"Megaceryle alcyon","Megaceryle_alcyon",158.5,337,"female",8.4,629,8.73055848815822,51.5357540868807,"Summer",44651
+6,-84.8676682,43.8345268,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",158.8,NA,"female",8,753,10.6741936037768,71.4098197661562,"Summer",44573
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",158.9,NA,"male",9.6,915,10.2968956781188,55.3751214265524,"Summer",44475
+8,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",160,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Summer",44625
+8,-85.78897,42.2928,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",161.7,NA,"male",10.1,912,10.3498023696547,52.7026976413422,"Summer",44505
+10,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",162,NA,"male",5.4,917,11.1982141433355,77.0042824044337,"Fall",44615
+8,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",162.2,NA,"female",5.4,917,11.1982141433355,77.0042824044337,"Summer",44473
+9,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",163,NA,"female",5.4,917,11.1982141433355,77.0042824044337,"Fall",44621
+10,-74.8782234,41.0359287,NA,1934,"Megaceryle alcyon alcyon","Megaceryle_alcyon",163.7,315,"male",8.8,1147,10.6570043832328,45.7121321062282,"Fall",44530
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",164,NA,"female",6.8,821,9.67700726965572,52.4508314454872,"Fall",44477
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",164,NA,"male",6.8,821,9.67700726965572,52.4508314454872,"Fall",44478
+9,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",164,NA,"male",5.4,917,11.1982141433355,77.0042824044337,"Fall",44501
+8,-84.6044731,45.2733479,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",164,NA,"female",7,694,10.583302314438,58.790189462581,"Summer",44602
+9,-89.0903663,46.2978778,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",165,NA,"male",5.3,916,11.2380407814735,76.5029881652952,"Fall",44600
+8,-85.661602,43.0445545,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",165.1,NA,"female",9.6,915,10.2968956781188,55.3751214265524,"Summer",44513
+8,-122.912077,49.14836,NA,2006,"Megaceryle alcyon","Megaceryle_alcyon",165.5,345,"female",10.7,1341,5.43592845628216,106.733163757149,"Summer",44676
+5,-89.1340539,46.2409773,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",165.9,NA,"female",5.3,935,11.3349285864802,77.4553289325063,"Spring",44464
+7,-120.385789,40.056912,"u ad.",1941,"Megaceryle alcyon caurina","Megaceryle_alcyon",166,NA,"male",6.4,1142,5.78154718728368,119.112812071147,"Summer",44461
+10,-122.2195953,38.1376803,"unknown",1951,"Megaceryle alcyon caurina","Megaceryle_alcyon",166.1,NA,"female",14.3,514,4.11567587144419,126.517534994539,"Fall",44446
+7,-85.5011844,43.7880891,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",166.2,NA,"male",8,854,10.5915453704043,66.2553792356213,"Summer",44612
+7,-121.47294,36.236376,"unknown",1919,"Megaceryle alcyon caurina","Megaceryle_alcyon",166.3,NA,"female",13.9,431,5.07381871607928,161.996694299459,"Summer",44556
+6,-84.8676682,43.8345268,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",167,NA,"female",8,753,10.6741936037768,71.4098197661562,"Summer",44572
+8,-117.4596,47.766283,NA,1948,"Megaceryle alcyon","Megaceryle_alcyon",167.5,349,"female",8.4,629,8.73055848815822,51.5357540868807,"Summer",44654
+12,-119.781173,37.674352,"u ad.",1914,"Megaceryle alcyon caurina","Megaceryle_alcyon",167.8,NA,"female",12.7,950,6.65197623859165,181.949619577693,"Winter",44453
+5,-88.8854027,46.1602154,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",167.9,NA,"male",5.4,918,11.1971147528227,77.0042824044337,"Spring",44465
+6,-86.3291073,45.9049415,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",168.5,NA,"female",6.4,899,9.68417953847064,52.3967922302087,"Summer",44466
+1,-116.8,31.816667,"u ad.",1927,"Megaceryle alcyon caurina","Megaceryle_alcyon",170,NA,"male",16,452,2.56318634563003,133.484233464158,"Winter",44457
+6,-122.665,37.8933,"u ad.",1923,"Megaceryle alcyon caurina","Megaceryle_alcyon",170.94,NA,"male",12.3,351,2.13179395217865,131.095404559693,"Summer",44448
+4,-84.9689,45.0528,NA,1934,"Megaceryle alcyon","Megaceryle_alcyon",171.3,NA,"female",6.4,737,11.3909054632513,65.8811558203726,"Spring",44526
+8,-117.4596,47.766283,NA,1948,"Megaceryle alcyon","Megaceryle_alcyon",171.5,342,"female",8.4,629,8.73055848815822,51.5357540868807,"Summer",44655
+7,-123.6254621,41.9955479,"u ad.",1955,"Megaceryle alcyon caurina","Megaceryle_alcyon",172,NA,"male",10,1863,6.07335836405047,128.253786431114,"Summer",44459
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",172,NA,"female",6.8,821,9.67700726965572,52.4508314454872,"Fall",44589
+6,-120.43822,37.52078,"unknown",1915,"Megaceryle alcyon caurina","Megaceryle_alcyon",174.6,NA,"female",16.6,353,6.44614049433669,121.944960269831,"Summer",44555
+4,-100.7684041,37.1694221,NA,1966,"Megaceryle alcyon alcyon","Megaceryle_alcyon",174.9,NA,"female",12.9,341,10.5337121144016,98.8532134287945,"Spring",44437
+9,-87.3586035,46.4682217,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",175,NA,"female",6.8,821,9.67700726965572,52.4508314454872,"Fall",44480
+9,-84.0221481,42.4342346,NA,1937,"Megaceryle alcyon alcyon","Megaceryle_alcyon",176.6,NA,"male",8.7,830,10.1278606134791,58.691845341493,"Fall",44533
+9,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",177,NA,"male",7.3,763,10.313990939055,48.4957540933368,"Fall",44492
+8,-84.6044731,45.2733479,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",177.7,NA,"female",7,694,10.583302314438,58.790189462581,"Summer",44604
+4,-114.8667,31,"u ad.",1926,"Megaceryle alcyon caurina","Megaceryle_alcyon",177.8,NA,"female",21.3,85,5.24377697558706,168.172831604019,"Spring",44455
+11,-122.296663,37.8372262,"u ad.",1975,"Megaceryle alcyon caurina","Megaceryle_alcyon",178,NA,"female",13.6,459,2.79592506510761,124.855420680502,"Fall",44549
+9,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",180,NA,"female",5.4,917,11.1982141433355,77.0042824044337,"Fall",44502
+9,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",183,NA,"female",5.4,917,11.1982141433355,77.0042824044337,"Fall",44617
+3,-106.416667,23.216667,NA,1960,"Megaceryle alcyon","Megaceryle_alcyon",183,NA,"male",24.5,645,3.49649174823201,120.955892019499,"Spring",44677
+8,-84.6044731,45.2733479,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",183.3,NA,"female",7,694,10.583302314438,58.790189462581,"Summer",44595
+8,-111.3953253,42.1675605,"immature",1934,"Megaceryle alcyon caurina","Megaceryle_alcyon",183.9,NA,"female",7.2,220,8.49891258641452,48.1357958901737,"Summer",44645
+10,-120.61175,40.801001,"u ad.",1924,"Megaceryle alcyon caurina","Megaceryle_alcyon",184,NA,"female",7,231,8.00020833062073,97.8827240527366,"Fall",44558
+8,-82.6833333,27.7666667,NA,1976,"Megaceryle alcyon","Megaceryle_alcyon",184.3,NA,"male",21.9,1022,4.91567529810133,84.9420544658415,"Summer",44667
+9,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",185,NA,"male",5.4,917,11.1982141433355,77.0042824044337,"Fall",44619
+9,-89.0903663,46.2978778,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",187,NA,"female",5.3,916,11.2380407814735,76.5029881652952,"Fall",44622
+4,-114.8667,31,"unknown",1920,"Megaceryle alcyon caurina","Megaceryle_alcyon",188.5,NA,"female",19.8,45,5.19699796794148,106.135038816813,"Spring",44456
+9,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",189,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Fall",44494
+8,-84.6044731,45.2733479,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",189.4,NA,"female",7,694,10.583302314438,58.790189462581,"Summer",44603
+4,-114.8667,31,"u ad.",1926,"Megaceryle alcyon caurina","Megaceryle_alcyon",189.8,NA,"female",21.3,85,5.24377697558706,168.172831604019,"Spring",44559
+10,-83.9114456,42.4281349,NA,1935,"Megaceryle alcyon alcyon","Megaceryle_alcyon",190,NA,"male",8.4,652,10.1940676450333,44.0763982295502,"Fall",44529
+6,-83.7263412,42.2708397,"juvenile",1936,"Megaceryle alcyon alcyon","Megaceryle_alcyon",191,NA,"female",8.9,620,11.5959501812512,64.4156693647403,"Summer",44532
+10,-88.890295,46.1561726,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",199,NA,"female",5.4,917,11.1982141433355,77.0042824044337,"Fall",44620
+9,-86.3245582,42.1291662,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",201,NA,"male",10.6,949,10.1145372428186,60.2928940936985,"Fall",44488
+10,-83.9114456,42.4281349,NA,1935,"Megaceryle alcyon alcyon","Megaceryle_alcyon",206.1,NA,"male",8.4,652,10.1940676450333,44.0763982295502,"Fall",44646
+9,-149.9,61.218,NA,2007,"Megaceryle alcyon","Megaceryle_alcyon",207,NA,"female",2.2,371,10.1392875250262,81.6462875266799,"Fall",44682
+9,-83.3234882,44.7821397,NA,1941,"Megaceryle alcyon","Megaceryle_alcyon",208,NA,"female",7.3,763,10.313990939055,48.4957540933368,"Fall",44491

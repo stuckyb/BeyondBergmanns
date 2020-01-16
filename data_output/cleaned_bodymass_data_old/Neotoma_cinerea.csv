@@ -1,0 +1,233 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+7,-105.814317,38.210439,NA,1982,"Neotoma cinerea orolestes","Neotoma_cinerea",77,314,"female",3.2,463,7.71791991917433,75.7387956707733,"Summer",75060
+10,-106.83915,36.0036333333,NA,2006,"Neotoma cinerea","Neotoma_cinerea",80,329,"female",6.7,617,7.25475810427303,105.145947739818,"Fall",75079
+8,-123.5741,43.4113,"unknown",1985,"Neotoma cinerea","Neotoma_cinerea",87.4,279,"male",10.4,769,6.09417879221763,73.9239810318066,"Summer",75044
+6,-105.856738,38.7139,NA,1990,"Neotoma cinerea orolestes","Neotoma_cinerea",89.5,239,"female",3.5,395,8.14108082318908,64.8930902892067,"Summer",75064
+6,-113.6134,44.9508,"young of year",2010,"Neotoma cinerea","Neotoma_cinerea",89.5,245,"male",6,388,8.56796358535679,52.7898128843345,"Summer",75208
+7,-119.530515,49.289881,NA,1977,"Neotoma cinerea occidentalis","Neotoma_cinerea",90,253,"male",9.5,297,9.1007617063828,82.4106472520117,"Summer",75190
+8,-106.05341,41.14354,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",93,249,"female",2.9,293,8.65900739639995,59.613727870403,"Summer",75230
+7,-105.814317,38.210439,NA,1982,"Neotoma cinerea orolestes","Neotoma_cinerea",97,272,"female",3.2,463,7.71791991917433,75.7387956707733,"Summer",75061
+7,-104.67522,47.06244,"larva",2008,"Neotoma cinerea orolestes","Neotoma_cinerea",101,259,"male",6.1,316,11.9781208370879,89.7703154969605,"Summer",75098
+7,-106.71,42.49,NA,1973,"Neotoma cinerea orolestes","Neotoma_cinerea",104.6,307,"female",5.7,374,10.3116108432106,69.9743861674803,"Summer",75200
+8,-106.05341,41.14354,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",105,257,"male",2.9,293,8.65900739639995,59.613727870403,"Summer",75180
+7,-121.7413,47.8881,"unknown",1979,"Neotoma cinerea","Neotoma_cinerea",106.5,251,"male",10.4,1545,6.22718867450463,93.4642582556193,"Summer",75111
+7,-119.41206,37.84117,NA,2007,"Neotoma cinerea acraia","Neotoma_cinerea",111,275,"female",4.3,407,6.77930786670108,139.460207434389,"Summer",75156
+7,-122.2653,46.8675,"unknown",1986,"Neotoma cinerea","Neotoma_cinerea",114,305,"female",10.7,1034,5.11332187585141,62.5388631146068,"Summer",75050
+8,-124.917,52.833,NA,1988,"Neotoma cinerea","Neotoma_cinerea",115,257,"male",1.3,522,6.76111878853842,32.2525356027562,"Summer",75188
+9,-108.975466,40.24783,NA,1994,"Neotoma cinerea","Neotoma_cinerea",126,291,"female",10,266,10.2480559871203,91.4442642214719,"Fall",75067
+8,-113.5113,48.6967,"unknown",1966,"Neotoma cinerea","Neotoma_cinerea",128.7,269,"male",3.7,727,8.40661265692885,57.0732271802491,"Summer",75049
+8,-115.0342,51.02791,NA,2004,"Neotoma cinerea","Neotoma_cinerea",130,295,"undetermined",1.9,559,8.14960493558188,79.7914658263193,"Summer",75072
+8,-119.43205,37.9007,NA,2003,"Neotoma cinerea acraia","Neotoma_cinerea",132,295,"female",5.7,832,6.92247109496356,113.483395648658,"Summer",75021
+8,-122.2021,44.2072,"unknown",1983,"Neotoma cinerea","Neotoma_cinerea",134.9,299,"male",9.3,2698,5.20698831117636,74.2441451352169,"Summer",75116
+7,-106.8697166667,38.8234333333,"subadult",2010,"Neotoma cinerea","Neotoma_cinerea",135,307,"female",2.8,609,9.30224801764703,68.5735791816121,"Summer",75139
+8,-108.79652,42.53757,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",135,290,"female",1.5,497,8.89079793262606,78.3767780758289,"Summer",75217
+9,-120.6971,48.3441,"unknown",1991,"Neotoma cinerea","Neotoma_cinerea",135.2,363,"female",8.2,1084,7.73893638451928,88.6411555328442,"Fall",75112
+8,-108.79765,42.5374,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",136,294,"female",1.5,498,8.89079793262606,78.185927330339,"Summer",75167
+6,-119.29,46.9101192,"unknown",1958,"Neotoma cinerea","Neotoma_cinerea",138,291,"female",13,234,8.71936194496322,69.0968228518293,"Summer",75108
+9,-105.59309,35.77128,NA,2008,"Neotoma cinerea","Neotoma_cinerea",139,315,"male",3.7,927,7.03954199612102,58.3951049270292,"Fall",75011
+2,-114.30418,39.11702,NA,2008,"Neotoma cinerea acraia","Neotoma_cinerea",139,313,"female",8.4,205,9.45698395126826,51.4648583518058,"Winter",75160
+9,-121.72019,44.51035,NA,2012,"Neotoma cinerea","Neotoma_cinerea",140,301,"female",7.7,913,6.27348315603787,74.2706673396028,"Fall",75012
+8,-108.197092,40.009588,NA,1977,"Neotoma cinerea","Neotoma_cinerea",140.8,291,"female",7.5,291,9.19184009012473,69.3741595642861,"Summer",75069
+8,-108.197092,40.009588,NA,1977,"Neotoma cinerea","Neotoma_cinerea",140.8,219,"female",7.5,291,9.19184009012473,69.3741595642861,"Summer",75084
+8,-108.63316,40.63738,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",141,300,"female",7,245,9.99448332680069,44.7972311432981,"Summer",75166
+7,-114.15044,46.57505,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",142,296,"male",5.7,510,8.22882498331691,49.6252074476098,"Summer",75032
+7,-105.45,36.59,NA,1970,"Neotoma cinerea acraia","Neotoma_cinerea",142,275,"female",3.8,539,7.22916546589807,56.6082091027677,"Summer",75147
+7,-108.7349,40.8295,NA,2007,"Neotoma cinerea cinerea","Neotoma_cinerea",143.5,302,"male",7.4,227,10.3083667107076,57.797381247736,"Summer",75057
+8,-107.7981206,39.803304,NA,1980,"Neotoma cinerea orolestes","Neotoma_cinerea",144,319,"female",3.7,807,7.48871878834485,60.1520783099308,"Summer",75006
+8,-108.79631,42.53891,"adult",2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",144,309,"female",1.5,498,8.89079793262606,78.185927330339,"Summer",75218
+9,-123.067,47.7716,"unknown",1990,"Neotoma cinerea","Neotoma_cinerea",144.2,300,"female",5.1,2683,5.94107428302017,83.2139302104103,"Fall",75119
+9,-105.4618069,38.7198075,"unknown",1987,"Neotoma cinerea","Neotoma_cinerea",144.7,285,"male",4.2,427,7.74402995861974,68.1423424822991,"Fall",75130
+9,-113.993998,46.872146,NA,1962,"Neotoma cinerea","Neotoma_cinerea",148.3,325,"female",6.4,355,8.51554727862781,43.2706958975446,"Fall",75070
+7,-108.780508,42.85315,NA,1994,"Neotoma cinerea orolestes","Neotoma_cinerea",148.5,300,"female",8,275,9.84187097265679,101.494882232845,"Summer",75003
+7,-103.88467,44.04304,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",149,285,"undetermined",2,725,9.08149550492982,86.9516325211752,"Summer",75177
+9,-106.84388,36.02418,NA,2012,"Neotoma cinerea","Neotoma_cinerea",152,324,"female",7.6,457,7.62476030423053,60.8071759250202,"Fall",75083
+9,-112.3421666667,36.6005,"Juvenile",2005,"Neotoma cinerea","Neotoma_cinerea",155,315,"male",9.4,576,7.45525541704195,85.9439563690411,"Fall",75204
+8,-106.9648,44.28702,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",155,311,"male",2.2,541,8.17606910811094,91.5391528326009,"Summer",75231
+8,-106.94853,44.27757,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",155,325,"female",2.4,524,8.21100517967234,92.770029067234,"Summer",75237
+11,-123.5741,43.4113,"unknown",1986,"Neotoma cinerea","Neotoma_cinerea",159.4,345,"male",11.8,1244,4.77671117998249,90.6500538894159,"Fall",75114
+9,-106.83915,36.0036333333,NA,2006,"Neotoma cinerea","Neotoma_cinerea",160,312,"female",6.7,617,7.25475810427303,105.145947739818,"Fall",75077
+10,-118.21202,36.17218,NA,2013,"Neotoma cinerea acraia","Neotoma_cinerea",160,315,"female",5.7,209,6.38150737393889,123.842136059573,"Fall",75102
+9,-109.25688,41.27931,"immature",2011,"Neotoma cinerea","Neotoma_cinerea",162.7,330,"female",5.7,288,10.0136724713582,76.6518846352169,"Fall",75058
+7,-106.8697166667,38.8234333333,"subadult",2010,"Neotoma cinerea","Neotoma_cinerea",165,324,"male",2.8,609,9.30224801764703,68.5735791816121,"Summer",75194
+9,-123.067,47.7716,"unknown",1989,"Neotoma cinerea","Neotoma_cinerea",165.3,346,"female",4.9,1936,5.56729492009115,77.5693691803575,"Fall",75125
+8,-106.95128,44.30178,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",167,326,"female",2.5,494,8.25162518427844,94.1563066618089,"Summer",75234
+8,-106.94785,44.3018,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",168,320,"male",2.7,483,8.26430807017671,96.0091419085779,"Summer",75235
+12,-106.7418833333,36.0972333333,NA,2007,"Neotoma cinerea","Neotoma_cinerea",169,327,"male",7,807,8.01034842052341,79.184361079407,"Winter",75076
+8,-119.42225,37.91355,NA,2003,"Neotoma cinerea acraia","Neotoma_cinerea",169,319,"female",6,786,6.92680345185325,112.869954099475,"Summer",75085
+9,-120.9666666667,47.1333333333,"subadult",1995,"Neotoma cinerea","Neotoma_cinerea",173,331,"female",5.9,1844,6.46812112665579,87.7394297701956,"Fall",75106
+7,-106.8697166667,38.8234333333,"is",2010,"Neotoma cinerea","Neotoma_cinerea",173,333,"female",2.8,609,9.30224801764703,68.5735791816121,"Summer",75140
+8,-108.79765,42.5374,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",175,321,"male",1.5,498,8.89079793262606,78.185927330339,"Summer",75168
+8,-106.688,38.2074,NA,2009,"Neotoma cinerea","Neotoma_cinerea",176.8,305,"male",2.1,349,9.14544099041106,52.3163588684599,"Summer",75196
+8,-108.79301,42.51403,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",177,305,"male",1.6,447,9.22494970011745,77.828169874243,"Summer",75219
+7,-119.90981,38.66816,NA,2009,"Neotoma cinerea acraia","Neotoma_cinerea",178,350,"female",5.7,848,7.43596399978245,91.8878635490836,"Summer",75105
+5,-123.5741,43.4113,"unknown",1986,"Neotoma cinerea","Neotoma_cinerea",180,365,"female",11.8,1244,4.77671117998249,90.6500538894159,"Spring",75045
+7,-106.8697166667,38.8234333333,"adult",2010,"Neotoma cinerea","Neotoma_cinerea",183,335,"male",2.8,609,9.30224801764703,68.5735791816121,"Summer",75141
+9,-105.261001,40.216141,NA,2011,"Neotoma cinerea","Neotoma_cinerea",184.1,379,"male",9.4,490,9.34367392540228,65.9152212858774,"Fall",74999
+8,-113.61376,44.95039,"young of year",2010,"Neotoma cinerea","Neotoma_cinerea",185,305,"male",6,387,8.56923231242113,52.7726675846909,"Summer",75150
+8,-106.89883,44.16916,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",185,340,"male",2.5,480,8.29545330012444,95.4534631973279,"Summer",75232
+8,-121.575,48.8375,"unknown",1977,"Neotoma cinerea","Neotoma_cinerea",187,324,"female",3.3,2943,6.09463251185381,70.4931320308303,"Summer",75110
+9,-121.5526815,46.9179191,"unknown",1976,"Neotoma cinerea","Neotoma_cinerea",187.3,385,"male",4.6,1261,5.64867241039875,77.3050091138741,"Fall",75039
+9,-120.5361,47.9586,"unknown",1977,"Neotoma cinerea","Neotoma_cinerea",188,335,"female",6.3,807,8.40009018710604,125.822815067504,"Fall",75038
+7,-113.52457,44.9742,NA,2010,"Neotoma cinerea","Neotoma_cinerea",188,298,"female",5.2,529,8.40843732103761,58.4490428867582,"Summer",75207
+7,-118.16508,37.53101,NA,2007,"Neotoma cinerea acraia","Neotoma_cinerea",189,322,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",75155
+9,-120.5361,47.9586,"unknown",1977,"Neotoma cinerea","Neotoma_cinerea",189.9,328,"female",6.3,807,8.40009018710604,125.822815067504,"Fall",75037
+9,-106.83915,36.0036333333,NA,2006,"Neotoma cinerea","Neotoma_cinerea",190,340,"female",6.7,617,7.25475810427303,105.145947739818,"Fall",75009
+7,-119.16125,37.87078,NA,2005,"Neotoma cinerea acraia","Neotoma_cinerea",190,310,"male",5.5,787,6.73523075575985,110.195097308404,"Summer",75087
+8,-106.94404,44.28463,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",190,319,"female",2.3,536,8.17951524828762,92.864397659267,"Summer",75186
+9,-120.61235,40.80434,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",191,320,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",75026
+11,-120.9513899,46.905123,"unknown",1946,"Neotoma cinerea","Neotoma_cinerea",191,378,"female",6.5,656,7.01433056915151,79.0128923227702,"Fall",75118
+10,-122.15,44.22,NA,1990,"Neotoma cinerea occidentalis","Neotoma_cinerea",191,351,"female",8.2,2314,6.519777603569,73.6450250344955,"Fall",75198
+9,-106.84286,36.0198,"subadult",2012,"Neotoma cinerea","Neotoma_cinerea",192,336,"male",7.5,458,7.61264896356217,60.4825348613309,"Fall",75013
+7,-120.203517,39.432825,NA,1970,"Neotoma cinerea","Neotoma_cinerea",193.9,NA,"female",5.6,1054,6.76521293534846,127.527938591505,"Summer",75005
+6,-120.0151,47.8525,"unknown",1989,"Neotoma cinerea","Neotoma_cinerea",194,328,"male",9,243,9.06715684949441,55.9347688171719,"Summer",75115
+7,-110.2806,46.83244,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",195,330,"male",4,400,8.48293742006431,89.0617763128493,"Summer",75165
+7,-119.530515,49.289881,NA,1977,"Neotoma cinerea occidentalis","Neotoma_cinerea",195,173,"male",9.5,297,9.1007617063828,82.4106472520117,"Summer",75191
+7,-106.8697166667,38.8234333333,"is",2010,"Neotoma cinerea","Neotoma_cinerea",195,338,"male",2.8,609,9.30224801764703,68.5735791816121,"Summer",75195
+8,-113.61376,44.95039,"young of year",2010,"Neotoma cinerea","Neotoma_cinerea",195,323,"male",6,387,8.56923231242113,52.7726675846909,"Summer",75206
+8,-109.3164,41.43783,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",196,344,"male",5.7,191,9.93958644953998,52.1853477071087,"Summer",75221
+8,-109.30716,41.45303,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",196,317,"female",5.8,191,9.91770302707907,53.33642538965,"Summer",75222
+10,-123.067,47.7716,"unknown",1990,"Neotoma cinerea","Neotoma_cinerea",196.6,354,"male",5.1,2683,5.94107428302017,83.2139302104103,"Fall",75121
+10,-122.2317,47.1308,"unknown",1988,"Neotoma cinerea","Neotoma_cinerea",197.2,360,"female",11.2,1011,5.00614773568611,73.3233783928637,"Fall",75123
+9,-120.61235,40.80434,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",198,330,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",75024
+7,-118.16508,37.53101,NA,2007,"Neotoma cinerea acraia","Neotoma_cinerea",198,333,"male",3.4,218,7.03266728140249,97.947285750455,"Summer",75154
+6,-106.5088,35.8072,NA,2005,"Neotoma cinerea","Neotoma_cinerea",198,268,"female",7.2,649,7.14899335994978,66.6283842029463,"Summer",75205
+8,-119.42421,37.9136,NA,2003,"Neotoma cinerea acraia","Neotoma_cinerea",199,321,"male",6,792,6.93421468757157,113.472676970335,"Summer",75020
+7,-119.530515,49.289881,NA,1977,"Neotoma cinerea occidentalis","Neotoma_cinerea",200,168,"male",9.5,297,9.1007617063828,82.4106472520117,"Summer",75192
+8,-109.30716,41.45303,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",202,366,"female",5.8,191,9.91770302707907,53.33642538965,"Summer",75173
+2,-114.29949,39.1144,NA,2008,"Neotoma cinerea acraia","Neotoma_cinerea",203,365,"female",8.4,206,9.45616281329352,51.4648583518058,"Winter",75159
+8,-106.85651,38.65583,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",204,333,"female",3.4,505,9.69343342243354,63.4986242901104,"Summer",75176
+8,-111.31812,44.18491,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",204,325,"female",3.8,613,9.50353602453829,56.798168507049,"Summer",75214
+10,-122.2317,47.1308,"unknown",1988,"Neotoma cinerea","Neotoma_cinerea",206.6,392,"male",11.2,1011,5.00614773568611,73.3233783928637,"Fall",75122
+4,-119.1742,46.9274359,"unknown",1980,"Neotoma cinerea","Neotoma_cinerea",210.1,329,"female",10.3,271,8.4772914127668,62.6276613789931,"Spring",75042
+6,-121.0661,48.948976,"unknown",1971,"Neotoma cinerea","Neotoma_cinerea",211,355,"female",6.4,1133,7.91638117507557,77.3945832606567,"Summer",75035
+6,-121.0661,48.9127967,"unknown",1971,"Neotoma cinerea","Neotoma_cinerea",211,330,"female",7.6,871,8.05791536316931,76.6340535198759,"Summer",75109
+7,-113.6765,41.9529,"adult",2007,"Neotoma cinerea","Neotoma_cinerea",212,350,"male",8.2,229,9.78612189880046,56.6680987388501,"Summer",75071
+6,-105.873904,38.715216,NA,1988,"Neotoma cinerea orolestes","Neotoma_cinerea",213,315,"female",3.1,269,9.12233356641653,59.6824016561071,"Summer",75001
+7,-114.16418,46.59677,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",214,343,"female",4.3,714,8.05823501240511,50.2134801041676,"Summer",75033
+7,-114.2725,42.2033,NA,2010,"Neotoma cinerea","Neotoma_cinerea",214,333,"female",5.2,1010,8.10470776023342,76.8785292428818,"Summer",75080
+8,-108.79631,42.53891,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",215,351,"female",1.5,498,8.89079793262606,78.185927330339,"Summer",75184
+8,-106.94785,44.3018,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",216,355,"male",2.7,483,8.26430807017671,96.0091419085779,"Summer",75236
+8,-106.05341,41.14354,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",219,354,"female",2.9,293,8.65900739639995,59.613727870403,"Summer",75183
+7,-114.15044,46.57505,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",220,365,"female",5.7,510,8.22882498331691,49.6252074476098,"Summer",75031
+9,-113.61376,44.95039,"adult",2010,"Neotoma cinerea","Neotoma_cinerea",220,331,"female",6,387,8.56923231242113,52.7726675846909,"Fall",75151
+9,-122.52979,51.968386,NA,1985,"Neotoma cinerea occidentalis","Neotoma_cinerea",220,360,"male",3.3,357,9.57111737880107,47.6990023123176,"Fall",75193
+8,-119.42225,37.91355,NA,2003,"Neotoma cinerea acraia","Neotoma_cinerea",221,361,"female",6,786,6.92680345185325,112.869954099475,"Summer",75019
+11,-117.54524,41.61967,NA,2008,"Neotoma cinerea alticola","Neotoma_cinerea",225,333,"female",8.5,372,8.76006780103829,78.8492320956037,"Fall",75030
+8,-106.85651,38.65583,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",225,343,"female",3.4,505,9.69343342243354,63.4986242901104,"Summer",75225
+8,-109.3164,41.43783,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",227,335,"female",5.7,191,9.93958644953998,52.1853477071087,"Summer",75171
+6,-120.9567171,48.9127967,"unknown",1971,"Neotoma cinerea","Neotoma_cinerea",228,346,"undetermined",2,1519,7.66876288865579,83.7005147914967,"Summer",75036
+9,-106.84,36.02205,NA,2012,"Neotoma cinerea","Neotoma_cinerea",228,372,"female",7.6,445,7.66859000907421,60.9793707948117,"Fall",75082
+7,-105.6413,40.8005,NA,2009,"Neotoma cinerea","Neotoma_cinerea",228.1,335,"male",2.5,588,7.80517990396976,72.1106837838127,"Summer",74998
+9,-107.7981206,39.803304,NA,1980,"Neotoma cinerea orolestes","Neotoma_cinerea",230,343,"male",3.7,807,7.48871878834485,60.1520783099308,"Fall",75065
+8,-107.8169106,39.8032197,NA,1981,"Neotoma cinerea","Neotoma_cinerea",230,352,"male",4.1,774,7.57039689124085,68.0229797472257,"Summer",75068
+7,-119.12619,37.93989,NA,2007,"Neotoma (Teonoma) cinerea Ord, 1815","Neotoma_cinerea",230,360,"male",7.8,203,7.69964088103917,148.495654553262,"Summer",75203
+7,-118.14757,37.50348,NA,2006,"Neotoma cinerea acraia","Neotoma_cinerea",231,338,"male",2.5,256,7.21981175780794,105.505833127196,"Summer",75088
+6,-113.7734,44.9338,NA,2010,"Neotoma cinerea","Neotoma_cinerea",231,270,"female",4.2,653,8.14562068621148,64.798629798832,"Summer",75149
+9,-120.61235,40.80434,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",232,360,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",75091
+9,-120.088171,40.091947,NA,2005,"Neotoma cinerea alticola","Neotoma_cinerea",232,325,"female",11.5,468,8.44990586284303,127.948092501374,"Fall",75100
+8,-106.85651,38.65583,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",232,335,"male",3.4,505,9.69343342243354,63.4986242901104,"Summer",75226
+7,-107.9076,39.0382,NA,2008,"Neotoma cinerea","Neotoma_cinerea",232.5,329,"female",0.3,1157,8.53667222793945,69.4978041561858,"Summer",75136
+9,-119.9133,47.5060503,"unknown",1990,"Neotoma cinerea","Neotoma_cinerea",233.5,358,"female",9,266,9.26856449935954,61.2493589606505,"Fall",75046
+9,-106.7418833333,36.0972333333,"adult",2007,"Neotoma cinerea","Neotoma_cinerea",235,338,"male",7,807,8.01034842052341,79.184361079407,"Fall",75075
+9,-108.2353772,40.0868866,"unknown",1987,"Neotoma cinerea","Neotoma_cinerea",235.3,356,"female",7.1,278,9.5220756267961,41.5711456187286,"Fall",75128
+8,-105.856738,38.698849,NA,1989,"Neotoma cinerea orolestes","Neotoma_cinerea",236,333,"male",3.3,284,8.02486193594065,45.6140311049092,"Summer",75002
+8,-108.79351,42.51878,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",236,344,"male",1.6,461,9.15464363042057,77.7389680927842,"Summer",75170
+7,-103.88467,44.04304,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",237,347,"male",2,725,9.08149550492982,86.9516325211752,"Summer",75178
+10,-123.067,47.7716,"unknown",1990,"Neotoma cinerea","Neotoma_cinerea",237.1,304,"male",5.1,2683,5.94107428302017,83.2139302104103,"Fall",75120
+10,-108.1453401,36.00273,NA,2004,"Neotoma cinerea arizonae","Neotoma_cinerea",239,386,"male",10.5,184,9.00751790383337,98.0787618302058,"Fall",75066
+8,-117.1255,45.9379,"unknown",1999,"Neotoma cinerea","Neotoma_cinerea",240,348,"male",8.8,427,6.81621840416908,53.7169726511353,"Summer",75055
+8,-105.856738,38.698849,NA,1989,"Neotoma cinerea orolestes","Neotoma_cinerea",242,349,"female",3.3,284,8.02486193594065,45.6140311049092,"Summer",75063
+10,-118.21202,36.17218,NA,2013,"Neotoma cinerea acraia","Neotoma_cinerea",242,351,"male",5.7,209,6.38150737393889,123.842136059573,"Fall",75103
+9,-120.61235,40.80434,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",245,398,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",75092
+8,-109.31689,41.43596,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",247,363,"male",5.7,192,9.88391331529382,52.1853477071087,"Summer",75224
+8,-118.67,42.09,"JUVENILE",1998,"Neotoma cinerea alticola","Neotoma_cinerea",248.5,335,"male",6.3,828,7.79026198649197,67.4044074699772,"Summer",75202
+7,-110.2806,46.83244,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",249,356,"female",4,400,8.48293742006431,89.0617763128493,"Summer",75216
+7,-121.12742,41.59954,NA,2006,"Neotoma cinerea alticola","Neotoma_cinerea",250,359,"male",9.3,453,7.9795192381952,76.8180779538638,"Summer",75101
+5,-123.5741,43.4113,"unknown",1986,"Neotoma cinerea","Neotoma_cinerea",251.3,383,"male",11.8,1244,4.77671117998249,90.6500538894159,"Spring",75113
+8,-120.13745,40.96636,NA,2006,"Neotoma cinerea alticola","Neotoma_cinerea",256,361,"female",8.1,386,8.13235215144742,82.834994476632,"Summer",75089
+8,-109.30972,41.45118,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",256,357,"female",5.8,191,9.9196888697543,53.33642538965,"Summer",75174
+8,-109.3164,41.43783,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",256,363,"female",5.7,191,9.93958644953998,52.1853477071087,"Summer",75220
+8,-106.85651,38.65583,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",256,350,"female",3.4,505,9.69343342243354,63.4986242901104,"Summer",75227
+8,-109.3164,41.43783,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",257,308,"female",5.7,191,9.93958644953998,52.1853477071087,"Summer",75172
+8,-112.99182,44.06242,NA,2013,"Neotoma cinerea","Neotoma_cinerea",258,384,"male",3.2,425,10.5142615988807,56.9671015179903,"Summer",75015
+8,-112.99182,44.06242,NA,2013,"Neotoma cinerea","Neotoma_cinerea",258,384,"male",3.2,425,10.5142615988807,56.9671015179903,"Summer",75059
+8,-106.95128,44.30178,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",259,355,"male",2.5,494,8.25162518427844,94.1563066618089,"Summer",75233
+7,-123.380582,61.003963,NA,2007,"Neotoma cinerea","Neotoma_cinerea",260,354,"male",-1.6,470,14.8781388335879,58.5546522403375,"Summer",75010
+8,-121.0666667,47.1166667,"unknown",1999,"Neotoma cinerea","Neotoma_cinerea",260,380,"female",4.8,1654,5.96334764637407,78.371885529428,"Summer",75241
+7,-107.9076,39.0382,NA,2008,"Neotoma cinerea","Neotoma_cinerea",261.2,333,"male",0.3,1157,8.53667222793945,69.4978041561858,"Summer",75137
+7,-105.873904,38.715216,NA,1988,"Neotoma cinerea orolestes","Neotoma_cinerea",263,395,"female",3.1,269,9.12233356641653,59.6824016561071,"Summer",75062
+2,-114.30383,39.1174,NA,2008,"Neotoma cinerea acraia","Neotoma_cinerea",263,369,"female",8.4,205,9.45698395126826,51.4648583518058,"Winter",75210
+6,-118.6,43.06,NA,1992,"Neotoma cinerea alticola","Neotoma_cinerea",265,356,"female",9.3,249,7.97953347918627,81.3230700274034,"Summer",75143
+11,-117.54611,41.62096,NA,2008,"Neotoma cinerea alticola","Neotoma_cinerea",266,362,"female",8.5,372,8.76910468461273,78.8492320956037,"Fall",75029
+8,-106.05341,41.14354,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",268,347,"female",2.9,293,8.65900739639995,59.613727870403,"Summer",75181
+7,-105.04389,38.84056,NA,2002,"Neotoma cinerea orolestes","Neotoma_cinerea",268.5,400,"female",-1.4,438,7.12573228560129,76.5613889232672,"Summer",74997
+1,-105.814317,38.210439,NA,1990,"Neotoma cinerea orolestes","Neotoma_cinerea",268.5,355,"female",3.9,674,7.6163848499021,81.1668984572664,"Winter",75004
+8,-106.94853,44.27757,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",270,369,"female",2.4,524,8.21100517967234,92.770029067234,"Summer",75238
+7,-106.8697166667,38.8234333333,"adult",2010,"Neotoma cinerea","Neotoma_cinerea",271,352,"male",2.8,609,9.30224801764703,68.5735791816121,"Summer",75138
+7,-103.48643,45.87466,NA,2008,"Neotoma cinerea rupicola","Neotoma_cinerea",271,365,"female",5.5,448,11.0913425151277,103.480824087197,"Summer",75239
+2,-114.30383,39.1174,NA,2008,"Neotoma cinerea acraia","Neotoma_cinerea",273,355,"female",8.4,205,9.45698395126826,51.4648583518058,"Winter",75211
+7,-112.97845,42.68404,NA,2008,"Neotoma cinerea alticola","Neotoma_cinerea",273,359,"female",8.1,239,9.57026249600418,70.2075758912588,"Summer",75212
+7,-106.4986,38.187,NA,2011,"Neotoma cinerea","Neotoma_cinerea",274,391,"undetermined",3.2,382,9.36379229055227,58.8644021385301,"Summer",75153
+7,-108.51588,45.21292,"larva",2008,"Neotoma cinerea orolestes","Neotoma_cinerea",276,362,"female",5.5,450,8.99331401484998,112.592876026868,"Summer",75228
+9,-120.077708,40.092013,NA,2005,"Neotoma cinerea alticola","Neotoma_cinerea",278,374,"female",11.4,529,8.38831709202529,128.228210103971,"Fall",75099
+10,-106.83915,36.0036333333,NA,2006,"Neotoma cinerea","Neotoma_cinerea",280,338,"male",6.7,617,7.25475810427303,105.145947739818,"Fall",75078
+11,-117.54596,41.62117,NA,2008,"Neotoma cinerea alticola","Neotoma_cinerea",281,372,"female",8.5,372,8.74730694487617,78.8492320956037,"Fall",75097
+9,-105.4617603,38.7125621,"unknown",1987,"Neotoma cinerea","Neotoma_cinerea",282,375,"female",4.4,426,7.75606800570308,69.0511703292859,"Fall",75043
+9,-108.2353772,40.0868866,"unknown",1987,"Neotoma cinerea","Neotoma_cinerea",284.2,387,"female",7.1,278,9.5220756267961,41.5711456187286,"Fall",75129
+12,-109.4304166667,46.2441111111,NA,2006,"Neotoma cinerea","Neotoma_cinerea",285.95,355,"female",8.4,324,8.74459140199694,72.2248595629779,"Winter",75034
+5,-119.59,44.55,NA,2002,"Neotoma cinerea alticola","Neotoma_cinerea",287,NA,"female",8.9,241,7.43144424969761,66.7289189999117,"Spring",75146
+6,-119.59254,37.83979,NA,2004,"Neotoma cinerea acraia","Neotoma_cinerea",289,362,"male",7.9,1017,6.32500449155428,120.717432698633,"Summer",75086
+8,-121.36086,40.40637,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",290,NA,"female",8.3,855,7.36778409185845,136.890222323681,"Summer",75095
+8,-111.31496,44.1753,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",291,358,"male",3.8,632,9.47492704057622,56.9186940606696,"Summer",75213
+7,-113.49101,48.24106,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",293,382,"female",2.8,1126,8.24211285062418,63.3297654291124,"Summer",75215
+8,-121.33,40.41,NA,1959,"Neotoma cinerea alticola","Neotoma_cinerea",294.5,382,"female",7.8,776,6.73315518816244,136.292119334444,"Summer",75197
+10,-121.23,44.33,NA,1995,"Neotoma cinerea alticola","Neotoma_cinerea",297.5,357,"male",9.5,250,6.24092067800023,58.1441849017517,"Fall",75199
+4,-135.05,60.7166666667,NA,1999,"Neotoma cinerea","Neotoma_cinerea",298,386,"male",-0.3,257,11.8699391129632,44.272253474558,"Spring",75107
+4,-121.15,44.48,"ADULT",1997,"Neotoma cinerea alticola","Neotoma_cinerea",299.4,367,"female",8.8,259,6.67457296330067,48.6809136980179,"Spring",75201
+8,-112.676,45.731,"adult",2007,"Neotoma cinerea","Neotoma_cinerea",300,385,"male",6.1,387,8.36967831828172,55.8315687494982,"Summer",75074
+10,-107.8896168,36.031488,NA,2004,"Neotoma cinerea arizonae","Neotoma_cinerea",301,407,"male",10,197,8.92057122100883,72.7043122617511,"Fall",75007
+11,-117.13041,39.2191,NA,2008,"Neotoma cinerea acraia","Neotoma_cinerea",302,391,"female",8.2,262,8.99275802908635,92.1263532331063,"Fall",75157
+8,-108.79351,42.51878,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",307,375,"male",1.6,461,9.15464363042057,77.7389680927842,"Summer",75169
+7,-120.5105327,48.6586,"unknown",1996,"Neotoma cinerea","Neotoma_cinerea",308,373,"female",4.4,717,9.0969358810669,89.022798246543,"Summer",75117
+8,-121.36086,40.40637,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",310,365,"male",8.3,855,7.36778409185845,136.890222323681,"Summer",75096
+9,-105.4618069,38.7198075,"unknown",1987,"Neotoma cinerea","Neotoma_cinerea",312.8,368,"female",4.2,427,7.74402995861974,68.1423424822991,"Fall",75131
+11,-123.5741,43.4113,"unknown",1988,"Neotoma cinerea","Neotoma_cinerea",313.3,407,"male",11.5,1070,5.18061655392366,110.383031531853,"Fall",75124
+8,-112.676,45.731,"adult",2007,"Neotoma cinerea","Neotoma_cinerea",315,380,"male",6.1,387,8.36967831828172,55.8315687494982,"Summer",75008
+7,-103.48643,45.87466,NA,2008,"Neotoma cinerea rupicola","Neotoma_cinerea",315,369,"male",5.5,448,11.0913425151277,103.480824087197,"Summer",75187
+8,-113.184,47.152,NA,1987,"Neotoma cinerea","Neotoma_cinerea",320,239,"male",5.9,420,7.89101426057551,81.7796102690416,"Summer",75240
+10,-105.40623,40.005596,NA,1980,"Neotoma cinerea orolestes","Neotoma_cinerea",321,395,"male",7.7,429,8.06184428858145,67.4934689011217,"Fall",75000
+9,-106.5078666667,35.8074333333,NA,1996,"Neotoma cinerea","Neotoma_cinerea",322,369,"male",7.4,506,7.0296072996917,77.4355154228248,"Fall",75148
+11,-117.14085,39.22617,NA,2008,"Neotoma cinerea acraia","Neotoma_cinerea",322,375,"male",7.6,305,8.93465757937069,94.1250739791001,"Fall",75209
+8,-109.30716,41.45303,NA,2008,"Neotoma cinerea cinnamomea","Neotoma_cinerea",323,398,"male",5.8,191,9.91770302707907,53.33642538965,"Summer",75223
+8,-116.5725,45.19094,NA,2004,"Neotoma cinerea","Neotoma_cinerea",324,405,"male",2.7,982,7.09807378907486,63.1985408266323,"Summer",75081
+8,-116.5725021362,45.1908988953,NA,2004,"Neotoma cinerea","Neotoma_cinerea",324,405,"male",2.7,982,7.09807378907486,63.1985408266323,"Summer",75135
+7,-108.51588,45.21292,"larva",2008,"Neotoma cinerea orolestes","Neotoma_cinerea",324,371,"male",5.5,450,8.99331401484998,112.592876026868,"Summer",75229
+12,-119.7794,48.1250467,"unknown",1979,"Neotoma cinerea","Neotoma_cinerea",326.1,386,"female",9.3,254,10.5303313712285,76.3315805709454,"Winter",75040
+9,-106.84631,36.02008,NA,2012,"Neotoma cinerea","Neotoma_cinerea",330,376,"female",7.6,456,7.61819989872737,60.3022689155527,"Fall",75014
+7,-113.49101,48.24106,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",330,408,"female",2.8,1126,8.24211285062418,63.3297654291124,"Summer",75163
+7,-113.49101,48.24106,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",331,411,"female",2.8,1126,8.24211285062418,63.3297654291124,"Summer",75161
+9,-120.61235,40.80434,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",332,376,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",75025
+8,-106.85651,38.65583,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",335,374,"male",3.4,505,9.69343342243354,63.4986242901104,"Summer",75175
+8,-106.91302,44.3238,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",335,395,"male",3.2,467,8.4309449845989,98.980111751262,"Summer",75185
+9,-120.76834,40.84853,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",340,374,"female",8.7,270,8.14085748592005,90.0962313739278,"Fall",75027
+9,-120.76834,40.84853,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",350,380,"female",8.7,270,8.14085748592005,90.0962313739278,"Fall",75093
+2,-114.30054,39.11444,NA,2008,"Neotoma cinerea acraia","Neotoma_cinerea",354,386,"male",8.3,210,9.43988957305726,51.0302482532366,"Winter",75158
+9,-113.61376,44.95039,NA,2010,"Neotoma cinerea","Neotoma_cinerea",358,386,"male",6,387,8.56923231242113,52.7726675846909,"Fall",75152
+10,-117.0682,45.9708,"unknown",1998,"Neotoma cinerea","Neotoma_cinerea",360,396,"male",11.2,519,7.93088993439672,60.4163273268209,"Fall",75126
+6,-118.6,43.06,NA,1992,"Neotoma cinerea alticola","Neotoma_cinerea",362,404,"female",9.3,249,7.97953347918627,81.3230700274034,"Summer",75144
+8,-112.676,45.731,"adult",2007,"Neotoma cinerea","Neotoma_cinerea",370,378,"male",6.1,387,8.36967831828172,55.8315687494982,"Summer",75073
+8,-105.85797,40.64672,NA,2013,"Neotoma cinerea","Neotoma_cinerea",375,425,"male",1.4,598,9.19055427484044,62.7170937887421,"Summer",75142
+12,-119.9022,48.1089938,"unknown",1979,"Neotoma cinerea","Neotoma_cinerea",379.8,391,"male",8.5,294,10.0209288567236,79.524368013263,"Winter",75041
+7,-110.2774,46.83469,NA,2008,"Neotoma cinerea cinerea","Neotoma_cinerea",380,400,"female",4.3,384,8.50042334061645,91.3314420486841,"Summer",75164
+8,-117.1281,45.9543,"unknown",1999,"Neotoma cinerea","Neotoma_cinerea",390,400,"male",9.6,412,6.90302415063445,54.1972199319438,"Summer",75052
+8,-117.1281,45.9543,"unknown",1999,"Neotoma cinerea","Neotoma_cinerea",390,397,"male",9.6,412,6.90302415063445,54.1972199319438,"Summer",75127
+7,-120.56647,48.6739498,"unknown",1996,"Neotoma cinerea","Neotoma_cinerea",393,363,"female",2.2,1200,7.9978974509782,84.0411154787292,"Summer",75047
+8,-105.04389,38.84056,NA,2002,"Neotoma cinerea","Neotoma_cinerea",397.9,404,"male",-1.4,438,7.12573228560129,76.5613889232672,"Summer",75056
+8,-106.05341,41.14354,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",406,390,"male",2.9,293,8.65900739639995,59.613727870403,"Summer",75182
+8,-117.1281,45.9543,"unknown",1999,"Neotoma cinerea","Neotoma_cinerea",410,378,"male",9.6,412,6.90302415063445,54.1972199319438,"Summer",75051
+6,-119.59254,37.83979,NA,2004,"Neotoma cinerea acraia","Neotoma_cinerea",423,403,"male",7.9,1017,6.32500449155428,120.717432698633,"Summer",75022
+8,-117.1229,45.9543,"unknown",1999,"Neotoma cinerea","Neotoma_cinerea",430,394,"male",9,416,6.82839437181024,53.0092301684849,"Summer",75053
+7,-118.3346,44.5399,"unknown",1961,"Neotoma cinerea","Neotoma_cinerea",438,421,"male",6.3,601,8.22328548953666,76.1332323166569,"Summer",75048
+8,-106.05341,41.14354,NA,2008,"Neotoma cinerea orolestes","Neotoma_cinerea",445,390,"male",2.9,293,8.65900739639995,59.613727870403,"Summer",75179
+8,-121.409,40.44631,NA,2007,"Neotoma cinerea alticola","Neotoma_cinerea",450,420,"male",7.7,1184,7.25005747103658,135.109685169327,"Summer",75028
+4,-121.15,44.48,"ADULT",1997,"Neotoma cinerea alticola","Neotoma_cinerea",455.4,420,"male",8.8,259,6.67457296330067,48.6809136980179,"Spring",75145

@@ -1,0 +1,185 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+8,-84.9517822,44.5394676,"juvenile",1947,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",369,NA,"female",6.3,783,11.0669963897577,66.8577634843804,"Summer",156297
+10,-114.0542221,50.9149394,"adult",1929,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",510,NA,"female",2.9,400,10.9094204495681,52.4525759831939,"Fall",156275
+3,-99.5985317,49.6357309,"adult",1933,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",539,NA,"male",2.2,421,14.924727803213,78.1939601177908,"Spring",156273
+3,-105.5497742,50.3925422,"adult",1940,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",550,NA,"female",4,333,13.5988190218077,70.8849821919733,"Spring",156355
+1,-89.55261,44.2139,"u ad.",1949,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",572,NA,"female",6.9,659,11.6956965667641,72.0949514202781,"Winter",156231
+6,-126.8086624,65.2842823,"adult",1975,"Tympanuchus phasianellus kennicotti","Tympanuchus_phasianellus",590,NA,"female",-6.5,251,17.8533992179743,63.7346061758158,"Summer",156319
+3,-86.64797,50.16585,"immature",1963,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",592,NA,"female",-0.7,741,14.4432011896969,45.7843138176161,"Spring",156256
+6,-93.83787,48.63186,"adult",1929,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",602,NA,"female",1.8,428,14.3487381981409,51.6416404531459,"Summer",156351
+8,-84.9517822,44.5394676,"immature",1949,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",605.3,NA,"female",7.4,671,10.1989749930614,23.6234458654192,"Summer",156381
+10,-80.80834,48.45145,"not applicable",1969,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",611.1,432,"female",1.1,848,11.5334657988539,46.1129457648522,"Fall",156389
+10,-119.2777,48.00592,NA,1953,"Tympanuchus phasianellus","Tympanuchus_phasianellus",612,447,"male",9,284,6.78279910039827,62.5770701169664,"Fall",156311
+2,-80.74979,48.93339,"juvenile",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",614,NA,"female",-0.6,833,12.3121121689419,52.4771772640193,"Winter",156346
+7,-100.3369074,41.8888463,"adult",1957,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",619.2,NA,"female",8.9,764,10.6036443135024,83.7479148427961,"Summer",156228
+3,-86.54352,49.25671,"immature",1963,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",624,NA,"female",0,751,13.4463130014638,38.5723405375595,"Spring",156259
+4,-81.79982,51.56674,"not applicable",1968,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",637,NA,"female",-0.1,805,13.2338638165561,73.7561140334677,"Spring",156261
+10,-120.1157795,50.1499977,"juvenile",1966,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",647,NA,"male",4.9,357,7.36747561717696,65.9303951478341,"Fall",156247
+10,-120.1157795,50.1499977,"immature",1966,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",651,NA,"female",4.9,357,7.36747561717696,65.9303951478341,"Fall",156327
+4,-88.4534302,46.7565308,NA,1934,"Tympanuchus phasianellus","Tympanuchus_phasianellus",651.1,NA,"male",4.1,885,11.221040166769,55.833402413154,"Spring",156309
+10,-80.68323,48.76231,"not applicable",1932,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",652,NA,"female",0.6,1032,12.154469810059,45.8247376796767,"Fall",156269
+3,-86.54352,49.25671,"immature",1963,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",652,NA,"female",0,751,13.4463130014638,38.5723405375595,"Spring",156339
+10,-86.4175987,46.3395211,"adult",1967,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",658,459,"male",4.7,763,10.0896286383893,55.2579859046849,"Fall",156383
+3,-80.671233,51.2944016,"not applicable",1967,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",665,NA,"female",-1.1,566,14.0489053817101,41.5543114104347,"Spring",156263
+9,-81.98929,45.87672,"juvenile",1964,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",669,NA,"female",5.1,797,9.56551175586101,43.5027692506603,"Fall",156254
+2,-91.66067,49.40957,"not applicable",1951,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",670,NA,"female",-0.3,800,13.163272481577,43.8828026863093,"Winter",156279
+9,-147.8043,64.857,"U",2008,"Tympanuchus phasianellus","Tympanuchus_phasianellus",670,NA,"undetermined",-2.8,379,14.4723456246314,112.814485663953,"Fall",156280
+11,-93.63727,52.84037,"immature",1938,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",670,NA,"female",0,617,13.8670636598183,60.9325865622278,"Fall",156406
+6,-103.9166667,50.5333333,NA,1960,"Tympanuchus phasianellus","Tympanuchus_phasianellus",670,NA,"female",1.8,278,13.5918062438256,87.1736419815801,"Summer",156419
+4,-81.79982,51.56674,"not applicable",1968,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",673,NA,"female",-0.1,805,13.2338638165561,73.7561140334677,"Spring",156260
+1,-81.14168,49.01467,"immature",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",673,NA,"female",-0.3,884,12.3063053560015,45.8549546858156,"Winter",156329
+9,-110.7748865,47.8183031,"juvenile",1963,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",674,NA,"female",7.9,274,10.6000964832659,75.590895424478,"Fall",156347
+9,-110.7748865,47.8183031,"juvenile",1963,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",674,NA,"female",7.9,274,10.6000964832659,75.590895424478,"Fall",156348
+3,-82.16057,50.05877,"not applicable",1933,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",674,NA,"female",-0.1,762,14.4568611162082,30.0190542900515,"Spring",156409
+9,-92.74646,49.83621,"juvenile",1963,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",679,NA,"male",2.1,661,14.9806617768618,71.7915004313521,"Fall",156242
+10,-120,49.4167,"u ad.",1924,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",680.39,NA,"male",2.1,431,8.14882404604084,84.2977124340636,"Fall",156230
+12,-73.16361,45.4325,"u ad.",1932,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",680.39,NA,"female",6.3,996,10.4566167249897,33.5663130233836,"Winter",156313
+4,-110.4732631,47.8622153,"adult",1963,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",681,NA,"male",8,285,10.7742503078854,74.475300627333,"Spring",156398
+9,-91.4642181,46.6626778,"juvenile",1939,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",685.6,NA,"female",4.7,700,11.0964367745195,94.3570885600341,"Fall",156283
+3,-86.41495,49.28486,"adult",1963,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",689,NA,"female",0,752,13.5579200827301,38.9759785037276,"Spring",156258
+12,-86.95379,49.71564,"immature",1948,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",690,NA,"female",0.5,718,13.48779470709,57.0856574807936,"Winter",156363
+2,-92.2833366,56.9999962,"not applicable",1941,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",690,NA,"female",-4.8,364,14.3186120666478,67.9317741076093,"Winter",156394
+4,-81.79982,51.56674,"not applicable",1968,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",691,NA,"female",-0.1,805,13.2338638165561,73.7561140334677,"Spring",156342
+4,-81.79982,51.56674,"not applicable",1968,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",692,NA,"female",-0.1,805,13.2338638165561,73.7561140334677,"Spring",156341
+2,-92.2833366,56.9999962,"not applicable",1941,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",692,NA,"female",-4.8,364,14.3186120666478,67.9317741076093,"Winter",156393
+11,-93.63727,52.84037,"immature",1938,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",692,NA,"female",0,617,13.8670636598183,60.9325865622278,"Fall",156414
+6,-90.08608,51.55117,"adult",1979,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",695,NA,"female",-2,752,14.1867068594213,48.093441954813,"Summer",156240
+11,-115.9477969,62.1836282,"immature",1963,"Tympanuchus phasianellus caurus","Tympanuchus_phasianellus",695,NA,"male",-4.8,300,16.87334952647,68.5899289097139,"Fall",156337
+11,-115.9477969,62.1836282,"immature",1963,"Tympanuchus phasianellus caurus","Tympanuchus_phasianellus",697,NA,"female",-4.8,300,16.87334952647,68.5899289097139,"Fall",156336
+4,-81.79982,51.56674,"not applicable",1968,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",697,NA,"undetermined",-0.1,805,13.2338638165561,73.7561140334677,"Spring",156343
+12,-86.95379,49.71564,"immature",1948,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",697,NA,"female",0.5,718,13.48779470709,57.0856574807936,"Winter",156362
+10,-120.1157795,50.1499977,"adult",1966,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",698,NA,"female",4.9,357,7.36747561717696,65.9303951478341,"Fall",156245
+9,-110.4540959,47.6357156,"juvenile",1963,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",698,NA,"male",7.9,359,10.1868750970268,72.4726637666096,"Fall",156350
+2,-84.412161,48.464248,"not applicable",1954,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",700,NA,"female",0.8,819,11.5942645172934,49.866839068012,"Winter",156360
+5,-147.8043,64.857,"U",2006,"Tympanuchus phasianellus","Tympanuchus_phasianellus",700,NA,"undetermined",-2.8,235,15.3693319189991,110.006991689027,"Spring",156366
+3,-80.671233,51.2944016,"not applicable",1967,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",706,NA,"female",-1.1,566,14.0489053817101,41.5543114104347,"Spring",156262
+3,-80.62832,51.2809,"not applicable",1961,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",707,NA,"female",-0.3,761,12.5641234063383,48.0461622585666,"Spring",156264
+10,-86.1391044,46.314497,NA,1946,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",707.7,420,"female",6.3,752,9.90550428557351,41.1834551033199,"Fall",156291
+1,-80.74979,48.93339,"adult",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",708,NA,"female",-0.6,833,12.3121121689419,52.4771772640193,"Winter",156250
+9,-122.5167,51.9667,"u ad.",1939,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",708.73,NA,"female",4.8,444,8.25309400201286,47.1795569020008,"Fall",156314
+10,-120.1157795,50.1499977,"immature",1966,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",709,NA,"female",4.9,357,7.36747561717696,65.9303951478341,"Fall",156248
+10,-119.3666667,50.2333333,NA,1943,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",709,NA,"male",7.7,284,9.39723927867148,49.8758625623261,"Fall",156418
+3,-81.14168,49.01467,"not applicable",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",710,NA,"female",-0.3,884,12.3063053560015,45.8549546858156,"Spring",156267
+3,-105.050101,39.558572,"adult",1989,"Tympanuchus phasianellus","Tympanuchus_phasianellus",712,385,"undetermined",10.4,376,9.1298171178869,65.5804412257892,"Spring",156227
+12,-93.63727,52.84037,"immature",1938,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",714,NA,"female",0,617,13.8670636598183,60.9325865622278,"Winter",156408
+2,-86.64797,50.16585,"immature",1963,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",716,NA,"female",-0.7,741,14.4432011896969,45.7843138176161,"Winter",156257
+10,-120.1157795,50.1499977,"immature",1966,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",717,NA,"male",4.9,357,7.36747561717696,65.9303951478341,"Fall",156249
+3,-86.41495,49.28486,"adult",1963,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",719,NA,"female",0,752,13.5579200827301,38.9759785037276,"Spring",156265
+3,-80.87779,48.9288,"adult",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",720,NA,"female",-0.4,852,12.2814068634442,50.1708715846883,"Spring",156255
+11,-93.63727,52.84037,"immature",1938,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",722,NA,"female",0,617,13.8670636598183,60.9325865622278,"Fall",156405
+3,-80.671233,51.2944016,"adult",1967,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",724,NA,"female",-1.1,566,14.0489053817101,41.5543114104347,"Spring",156324
+10,-120.1157795,50.1499977,"adult",1966,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",725,NA,"male",4.9,357,7.36747561717696,65.9303951478341,"Fall",156326
+3,-86.71792,50.18312,"not applicable",1963,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",726,NA,"female",-0.8,741,14.4711285187459,45.8716597834597,"Spring",156266
+12,-88.7079048,46.5013464,NA,1932,"Tympanuchus phasianellus","Tympanuchus_phasianellus",728,NA,"female",3.9,716,11.2156546438854,59.9150724412942,"Winter",156303
+12,-88.7079048,46.5013464,NA,1932,"Tympanuchus phasianellus","Tympanuchus_phasianellus",728.5,NA,"female",3.9,716,11.2156546438854,59.9150724412942,"Winter",156305
+5,-87.08323,48.81639,"adult",1961,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",730,NA,"female",1.8,739,10.8431237811497,40.8247916692778,"Spring",156335
+9,-86.4387563,46.1954947,"immature",1941,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",737,NA,"female",6.6,953,10.184792585026,49.6886649102201,"Fall",156382
+3,-81.14168,49.01467,"immature",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",738,NA,"female",-0.3,884,12.3063053560015,45.8549546858156,"Spring",156328
+1,-87.05886,50.29599,"immature",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",739,NA,"female",-1.6,747,12.7681777727428,43.5902178803274,"Winter",156332
+6,-106.1985,45.3019,"u ad.",1947,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",740,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",156236
+1,-87.05886,50.29599,"immature",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",740,NA,"female",-1.6,747,12.7681777727428,43.5902178803274,"Winter",156331
+9,-145.6,63.8,"HY",2005,"Tympanuchus phasianellus","Tympanuchus_phasianellus",740,NA,"female",-2,663,12.9250871868579,112.538235187787,"Fall",156367
+4,-85.4098,49.4187,"not applicable",1941,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",740,NA,"female",0.8,818,12.7837580428045,51.5788211510428,"Spring",156411
+10,-120.1157795,50.1499977,"immature",1966,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",743,NA,"male",4.9,357,7.36747561717696,65.9303951478341,"Fall",156246
+1,-88.7079048,46.5013464,NA,1933,"Tympanuchus phasianellus","Tympanuchus_phasianellus",746,NA,"female",3.7,685,12.386233805269,37.1307651357132,"Winter",156307
+6,-106.2394,45.3018,"u ad.",1947,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",746.2,NA,"female",6.7,444,10.5011218736886,88.6627303491813,"Summer",156317
+9,-147.8043,64.857,"U",2010,"Tympanuchus phasianellus","Tympanuchus_phasianellus",750,NA,"male",-1.3,281,15.1132367229004,109.958601863594,"Fall",156281
+12,-88.7079048,46.5013464,NA,1932,"Tympanuchus phasianellus","Tympanuchus_phasianellus",750,NA,"female",3.9,716,11.2156546438854,59.9150724412942,"Winter",156304
+2,-81.00813,49.01672,"immature",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",750,NA,"female",-0.4,877,12.3085951737603,47.289539962245,"Winter",156334
+10,-86.1437988,46.1627122,"immature",1946,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",752.1,NA,"female",6,765,9.68908711339252,39.2946119116811,"Fall",156293
+3,-105.5497742,50.3925422,"adult",1940,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",755,NA,"male",4,333,13.5988190218077,70.8849821919733,"Spring",156358
+10,-93.39527,48.61135,"adult",1933,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",760,NA,"female",1.6,654,14.8608903032779,58.1737854083707,"Fall",156272
+3,-105.5497742,50.3925422,"adult",1940,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",760,NA,"male",4,333,13.5988190218077,70.8849821919733,"Spring",156357
+9,-149.191767,63.87975,"immature",2007,"Tympanuchus phasianellus caurus","Tympanuchus_phasianellus",760,NA,"male",-1.3,449,12.4030665807316,114.067999810223,"Fall",156413
+10,-86.1391044,46.314497,"adult",1946,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",763.7,431,"female",6.3,752,9.90550428557351,41.1834551033199,"Fall",156292
+9,-94.46697,48.71671,"juvenile",1965,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",764,NA,"male",2.1,757,13.3443098757712,68.8837616982033,"Fall",156320
+3,-80.87779,48.9288,"immature",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",764,NA,"male",-0.4,852,12.2814068634442,50.1708715846883,"Spring",156338
+10,-109.5466948,50.8893906,"not applicable",1967,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",764.6,NA,"[female]",3.1,336,12.8438760316017,37.6735316996371,"Fall",156239
+9,-122.5167007,51.9667015,NA,1939,"Tympanuchus phasianellus columbianus","Tympanuchus_phasianellus",766,NA,"female",4.8,444,8.25309400201286,47.1795569020008,"Fall",156379
+6,-106.1985,45.3019,"u ad.",1947,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",771,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",156235
+3,-82.16057,50.05877,"not applicable",1933,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",771,NA,"male",-0.1,762,14.4568611162082,30.0190542900515,"Spring",156410
+10,-81.42391,49.18877,"immature",1948,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",775,NA,"female",1.2,768,13.1974831163393,53.2421749107324,"Fall",156361
+11,-88.5113525,46.5078448,NA,1938,"Tympanuchus phasianellus","Tympanuchus_phasianellus",778,NA,"female",4.6,988,10.7110676263839,39.6674913295566,"Fall",156388
+3,-82.16057,50.05877,"not applicable",1933,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",778,NA,"male",-0.1,762,14.4568611162082,30.0190542900515,"Spring",156415
+12,-86.95379,49.71564,"immature",1948,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",780,NA,"female",0.5,718,13.48779470709,57.0856574807936,"Winter",156277
+9,-145.6,63.8,"AD",2005,"Tympanuchus phasianellus","Tympanuchus_phasianellus",780,NA,"female",-2,663,12.9250871868579,112.538235187787,"Fall",156365
+9,-92.3674088,45.8774452,"juvenile",1939,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",783.3,428,"female",5.5,653,12.0848389866532,76.7092699455466,"Fall",156284
+10,-86.1535835,46.3250014,"adult",1946,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",783.6,439,"female",6.2,754,9.89718356019744,41.3066041107081,"Fall",156373
+9,-110.7748865,47.8183031,"juvenile",1963,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",785,NA,"female",7.9,274,10.6000964832659,75.590895424478,"Fall",156349
+9,-110.4732631,47.8622153,"juvenile",1963,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",786,NA,"male",8,285,10.7742503078854,74.475300627333,"Fall",156268
+4,-81.79982,51.56674,"not applicable",1968,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",787,NA,"male",-0.1,805,13.2338638165561,73.7561140334677,"Spring",156340
+6,-106.1985,45.3019,"u ad.",1947,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",788.5,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",156316
+5,-89.46959,48.32616,"adult",1997,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",789.2,NA,"male",2.7,663,11.0876227744219,34.6103431532532,"Spring",156404
+12,-86.95379,49.71564,"immature",1948,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",790,NA,"female",0.5,718,13.48779470709,57.0856574807936,"Winter",156278
+3,-86.64797,50.16585,"adult",1961,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",792,NA,"male",-0.2,711,12.9512957114746,35.1202922044786,"Spring",156345
+2,-81.00813,49.01672,"immature",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",793,NA,"female",-0.4,877,12.3085951737603,47.289539962245,"Winter",156333
+3,-82.16057,50.05877,"not applicable",1933,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",793,NA,"male",-0.1,762,14.4568611162082,30.0190542900515,"Spring",156417
+3,-82.16057,50.05877,"not applicable",1933,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",795,NA,"male",-0.1,762,14.4568611162082,30.0190542900515,"Spring",156416
+2,-92.2833366,56.9999962,"not applicable",1941,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",797,NA,"female",-4.8,364,14.3186120666478,67.9317741076093,"Winter",156392
+4,-81.79982,51.56674,"adult",1968,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",800,NA,"male",-0.1,805,13.2338638165561,73.7561140334677,"Spring",156252
+9,-91.1668682,46.7079409,"adult",1939,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",800,437,"male",4.6,728,11.103834991351,90.882096036761,"Fall",156369
+2,-103.3607483,43.4848121,"adult",1935,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",804,NA,"female",8.7,500,9.30096117548497,131.09855569444,"Winter",156359
+11,-93.63727,52.84037,"immature",1938,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",806,NA,"male",0,617,13.8670636598183,60.9325865622278,"Fall",156407
+12,-90.3816032,46.5642897,NA,1932,"Tympanuchus phasianellus","Tympanuchus_phasianellus",810,NA,"female",4.8,797,10.751053507222,54.2733979661333,"Winter",156399
+10,-83.6313629,46.0798992,"adult",1947,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",812.5,434,"female",5.4,677,10.850174555222,56.6751480494612,"Fall",156376
+11,-87.25931,50.29642,"juvenile",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",815,NA,"male",-1.5,739,12.7686019974662,43.4815302056154,"Fall",156344
+12,-90.3816032,46.5642897,NA,1932,"Tympanuchus phasianellus","Tympanuchus_phasianellus",815,NA,"female",4.8,797,10.751053507222,54.2733979661333,"Winter",156397
+10,-86.1391044,46.314497,"adult",1946,"Tympanuchus phasianellus","Tympanuchus_phasianellus",818.8,NA,"female",6.3,752,9.90550428557351,41.1834551033199,"Fall",156377
+10,-85.0194168,46.7167391,"immature",1941,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",822,NA,"female",5.5,850,9.52220689979084,57.8923187137187,"Fall",156286
+10,-89.2833333,46.5333333,NA,1935,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",822,NA,"male",4,883,10.9887924999092,51.8180823840181,"Fall",156421
+9,-92.86692,49.93339,"juvenile",1965,"Tympanuchus phasianellus ssp?","Tympanuchus_phasianellus",823,NA,"male",0.6,751,13.1920775123143,54.0545179341275,"Fall",156321
+9,-145.6,63.8,"AD",2005,"Tympanuchus phasianellus","Tympanuchus_phasianellus",825,NA,"male",-2,663,12.9250871868579,112.538235187787,"Fall",156364
+9,-94.18606,48.69119,"juvenile",1965,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",826,NA,"male",1.7,808,13.2425021667494,64.4640103481776,"Fall",156243
+10,-84.9012279,44.5468696,"immature",1942,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",832.1,457,"male",6.7,795,10.4866437419079,59.6585180246375,"Fall",156371
+4,-110.5727116,47.6288591,"immature",1966,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",833,NA,"male",6.4,336,10.8254015252007,67.369442803046,"Spring",156244
+4,-81.79982,51.56674,"adult",1968,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",835,NA,"male",-0.1,805,13.2338638165561,73.7561140334677,"Spring",156251
+10,-85.9165192,46.3236974,"immature",1941,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",836.3,NA,"male",6.7,854,10.4552147348352,56.5190939913907,"Fall",156370
+10,-82.33414,45.75264,"not applicable",1971,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",838,NA,"female",4.9,905,10.6763225708276,33.4561377370308,"Fall",156390
+10,-83.6313629,46.0798992,NA,1947,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",839.9,456,"male",5.4,677,10.850174555222,56.6751480494612,"Fall",156374
+10,-100.5735169,41.9794006,NA,1998,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",840,NA,NA,10,586,9.92818149908572,87.2934145716117,"Fall",156229
+9,-92.74646,49.83621,"adult",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",847,NA,"male",0.7,741,13.2310814052184,54.4298000462043,"Fall",156323
+9,-82.39982,45.73158,"adult",1964,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",852,NA,"male",5.6,786,9.55495667021557,43.1000569926846,"Fall",156253
+6,-106.1985,45.3019,"u ad.",1947,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",853,NA,"male",6.8,423,10.6045551961924,93.2076166137476,"Summer",156315
+9,-94.46697,48.71671,"adult",1965,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",855,NA,"male",2.1,757,13.3443098757712,68.8837616982033,"Fall",156241
+10,-84.9215698,44.5179905,"immature",1942,"Tympanuchus phasianellus","Tympanuchus_phasianellus",855.8,442,"male",6.7,790,10.4581706494651,59.6439597235851,"Fall",156282
+10,-89.2833333,46.5333333,"adult",1934,"Tympanuchus phasianellus","Tympanuchus_phasianellus",857,NA,"male",4.1,821,11.8424090249894,51.9780067091981,"Fall",156420
+3,-105.5497742,50.3925422,"immature",1940,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",860,NA,"male",4,333,13.5988190218077,70.8849821919733,"Spring",156356
+4,-110.5727116,47.6288591,"adult",1966,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",863,NA,"male",6.4,336,10.8254015252007,67.369442803046,"Spring",156325
+10,-87.2949,46.0068,"adult",1944,"Tympanuchus phasianellus","Tympanuchus_phasianellus",864.6,NA,"male",5.9,773,10.4019338237045,55.9075514084858,"Fall",156290
+12,-88.7079048,46.5013464,"adult",1932,"Tympanuchus phasianellus","Tympanuchus_phasianellus",865.5,NA,"female",3.9,716,11.2156546438854,59.9150724412942,"Winter",156384
+10,-88.7060165,46.4421155,NA,1934,"Tympanuchus phasianellus","Tympanuchus_phasianellus",867,NA,"male",3.9,758,12.1788440512325,62.6547693506923,"Fall",156308
+10,-105.5499992,50.110643,"juvenile",1968,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",869.7,NA,"male",3.5,329,11.6229657718387,116.698897197284,"Fall",156237
+4,-90.30972,48.19464,"adult",1933,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",876,NA,"male",1.4,674,13.1618911554487,40.1988324201851,"Spring",156354
+10,-86.4384556,46.2087053,"immature",1941,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",879,NA,"male",6.6,952,10.1881690150286,50.0267166093948,"Fall",156285
+10,-88.7052383,46.5043411,"adult",1941,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",879,NA,"male",5.3,894,11.1762837375318,71.1234242075914,"Fall",156302
+11,-84.9517822,44.5394676,"adult",1944,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",879,NA,"male",6.9,695,10.5014284742601,49.1980758126564,"Fall",156380
+10,-86.0462952,46.3491197,"immature",1946,"Tympanuchus phasianellus","Tympanuchus_phasianellus",880.6,NA,"male",6.3,750,9.9217239459988,40.3491930514225,"Fall",156378
+1,-87.05886,50.29599,"adult",1965,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",881,NA,"male",-1.6,747,12.7681777727428,43.5902178803274,"Winter",156330
+4,-90.30972,48.19464,"adult",1933,"Tympanuchus phasianellus campestris X phasianellus","Tympanuchus_phasianellus",882,NA,"male",1.4,674,13.1618911554487,40.1988324201851,"Spring",156274
+9,-93.13863,49.84381,"adult",1963,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",882,NA,"male",2.4,639,14.839410569851,67.4490651591857,"Fall",156322
+10,-83.6313629,46.0798992,NA,1947,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",885.1,471,"male",5.4,677,10.850174555222,56.6751480494612,"Fall",156375
+2,-92.2833366,56.9999962,"not applicable",1941,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",887,NA,"male",-4.8,364,14.3186120666478,67.9317741076093,"Winter",156391
+10,-83.6313629,46.0798992,NA,1947,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",888.6,460,"male",5.4,677,10.850174555222,56.6751480494612,"Fall",156295
+12,-90.3816032,46.5642897,NA,1932,"Tympanuchus phasianellus","Tympanuchus_phasianellus",889,NA,"male",4.8,797,10.751053507222,54.2733979661333,"Winter",156396
+2,-107.165724,44.787429,NA,2012,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",892.5,NA,"male",8.2,304,9.02556554091395,78.7950535884544,"Winter",156310
+10,-105.5499992,50.3710622,"not applicable",1968,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",892.7,NA,"male",3.8,306,11.95410415132,108.508930983923,"Fall",156238
+10,-88.3986139,46.0002112,NA,1935,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",907,NA,"male",3.9,704,11.1361409996298,58.7692750237242,"Fall",156386
+10,-88.3986139,46.0002112,NA,1935,"Tympanuchus phasianellus phasianellus","Tympanuchus_phasianellus",907,NA,"male",3.9,704,11.1361409996298,58.7692750237242,"Fall",156387
+1,-88.7079048,46.5013464,NA,1933,"Tympanuchus phasianellus","Tympanuchus_phasianellus",908,NA,"male",3.7,685,12.386233805269,37.1307651357132,"Winter",156306
+10,-86.1437988,46.1627122,"adult",1946,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",909.1,462,"male",6,765,9.68908711339252,39.2946119116811,"Fall",156294
+10,-84.9222564,44.5320035,"immature",1942,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",910.1,453,"male",6.7,793,10.4679995773555,59.7704097215922,"Fall",156288
+10,-93.83787,48.63186,"adult",1933,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",920,NA,"male",1.9,610,14.7738610287551,51.3135824031888,"Fall",156271
+10,-86.0462952,46.3491197,"immature",1946,"Tympanuchus phasianellus","Tympanuchus_phasianellus",922.9,NA,"male",6.3,750,9.9217239459988,40.3491930514225,"Fall",156296
+3,-94.30116,48.7126,"not applicable",1947,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",930,NA,"male",2.8,627,13.2241858316152,91.550585728989,"Spring",156412
+10,-84.9222564,44.5320035,"immature",1942,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",941.9,456,"male",6.7,793,10.4679995773555,59.7704097215922,"Fall",156287
+10,-84.9222564,44.5320035,"immature",1942,"Tympanuchus phasianellus","Tympanuchus_phasianellus",951.3,462,"male",6.7,793,10.4679995773555,59.7704097215922,"Fall",156368
+2,-103.3607483,43.4848121,"adult",1935,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",953,NA,"male",8.7,500,9.30096117548497,131.09855569444,"Winter",156276
+10,-100.5171355,43.3955334,NA,2008,"Tympanuchus phasianellus","Tympanuchus_phasianellus",954,NA,"male",7.8,565,11.0841683440296,93.8365633943163,"Fall",156402
+10,-88.2421875,46.7426839,NA,1934,"Tympanuchus phasianellus","Tympanuchus_phasianellus",960,NA,"male",3.5,969,11.2842978863498,57.8815526464532,"Fall",156385
+10,-100.5171355,43.3955334,NA,2008,"Tympanuchus phasianellus","Tympanuchus_phasianellus",961,NA,"male",7.8,565,11.0841683440296,93.8365633943163,"Fall",156403
+10,-84.9222564,44.5320035,"immature",1942,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",962.7,468,"male",6.7,793,10.4679995773555,59.7704097215922,"Fall",156372
+2,-112,52,"u ad.",1926,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",963.87,NA,"male",3.6,404,9.0900378370383,70.1506971761767,"Winter",156234
+10,-93.83787,48.63186,"adult",1933,"Tympanuchus phasianellus campestris","Tympanuchus_phasianellus",965,NA,"male",1.9,610,14.7738610287551,51.3135824031888,"Fall",156270
+2,-112,52,"u ad.",1926,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",978.04,NA,"male",3.6,404,9.0900378370383,70.1506971761767,"Winter",156232
+2,-112,52,"u ad.",1926,"Tympanuchus phasianellus jamesi","Tympanuchus_phasianellus",985.13,NA,"male",3.6,404,9.0900378370383,70.1506971761767,"Winter",156233
+12,-90.3816032,46.5642897,NA,1932,"Tympanuchus phasianellus","Tympanuchus_phasianellus",1004,NA,"male",4.8,797,10.751053507222,54.2733979661333,"Winter",156395

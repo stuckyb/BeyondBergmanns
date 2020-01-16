@@ -1,0 +1,946 @@
+"month","decimallongitude","decimallatitude","lifestage","year","scientificname","sciname_cor","massing","lengthinmm","sex","bio1","bio12","bio4","bio15","seasonality","Ids"
+4,-119.6994,45.8472,"unknown",1956,"Microtus montanus","Microtus_montanus",7.5,97,"female",11.5,180,8.67790646446829,103.521764724626,"Spring",61519
+9,-119.07,43.98,NA,1992,"Microtus montanus nanus","Microtus_montanus",7.6,93,"female",6.2,432,7.37875738902294,72.0763873378257,"Fall",61764
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",8,95,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61560
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",8,93,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61571
+7,-107.8117,37.1987,"juvenile",2007,"Microtus montanus","Microtus_montanus",8.2,94,"male",8.5,476,9.09818496717723,60.130283484626,"Summer",61316
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",8.6,97,"female",4.8,680,8.39810133664783,64.9623936848212,"Summer",61295
+8,-118.98,42.11,"JUVENILE",1998,"Microtus montanus montanus","Microtus_montanus",8.7,87,"female",7,431,7.9485990761094,61.5115439057583,"Summer",61770
+7,-119.973147,38.916033,"ad",2001,"Microtus montanus montanus","Microtus_montanus",8.8,114,"female",8.2,580,7.55865949314648,130.55088123126,"Summer",61833
+6,-113.5533,44.9355,"juvenile",2010,"Microtus montanus","Microtus_montanus",8.84,103,"female",5.3,530,8.41589405394773,57.342418886475,"Summer",61607
+8,-106.541175,35.821944,NA,1984,"Microtus montanus","Microtus_montanus",8.9,104,"male",6.4,654,8.29704218929307,64.8462276956781,"Summer",60938
+7,-107.8117,37.1987,"juvenile",2007,"Microtus montanus","Microtus_montanus",9,104,"male",8.5,476,9.09818496717723,60.130283484626,"Summer",60966
+6,-113.5533,44.9355,"juvenile",2010,"Microtus montanus","Microtus_montanus",9,103,"male",5.3,530,8.41589405394773,57.342418886475,"Summer",61784
+7,-106.654488,35.945305,NA,1984,"Microtus montanus","Microtus_montanus",9.1,111,"male",5,657,8.36230720663752,65.1209558429651,"Summer",61290
+7,-107.1546,41.424953,NA,2009,"Microtus montanus","Microtus_montanus",9.2,84,"female",3.2,547,8.65393587107081,65.9692910513423,"Summer",60949
+8,-106.655849,35.960091,"juvenile",1984,"Microtus montanus","Microtus_montanus",9.2,94,"male",4.9,663,8.38281069519735,65.3870706483196,"Summer",61292
+7,-106.654488,35.945305,NA,1984,"Microtus montanus","Microtus_montanus",9.4,115,"undetermined",5,657,8.36230720663752,65.1209558429651,"Summer",61291
+7,-106.541175,35.821944,"juvenile",1984,"Microtus montanus","Microtus_montanus",9.5,112,"undetermined",6.4,654,8.29704218929307,64.8462276956781,"Summer",61286
+7,-117.9589,45.8375,"juvenile",2007,"Microtus montanus","Microtus_montanus",9.5,105,"female",6,1031,7.51729319434176,74.0122042509477,"Summer",61333
+6,-113.6134,44.9508,"juvenile",2010,"Microtus montanus","Microtus_montanus",9.5,102,"male",6,388,8.56796358535679,52.7898128843345,"Summer",61609
+7,-106.540599,35.820178,"juvenile",1984,"Microtus montanus","Microtus_montanus",9.6,106,"undetermined",6.4,654,8.2997763752277,64.7092068421342,"Summer",61284
+5,-118.57446,37.44568,NA,2010,"Microtus montanus yosemite","Microtus_montanus",9.6,97,"female",13.5,103,7.65488059800393,117.121183981267,"Spring",61485
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",9.8,101,"female",4.8,680,8.39810133664783,64.9623936848212,"Summer",60943
+5,-112.43,42.727,NA,2005,"Microtus montanus","Microtus_montanus",10,140,"undetermined",6.8,760,8.85574629403092,65.981156166177,"Spring",60957
+8,-121,47.1,NA,1995,"Microtus montanus","Microtus_montanus",10,93,"male",5.6,2052,6.50480009242592,86.7891778582201,"Summer",61151
+5,-119.608,37.7323,NA,2003,"Microtus montanus yosemite","Microtus_montanus",10,115,"female",12.3,811,7.31499083451858,121.000625538512,"Spring",61366
+5,-119.608,37.7323,NA,2003,"Microtus montanus yosemite","Microtus_montanus",10,114,"male",12.3,811,7.31499083451858,121.000625538512,"Spring",61367
+6,-120.82179,40.55524,NA,2006,"Microtus montanus montanus","Microtus_montanus",10,96,"female",9.1,778,8.16130931266361,91.5973063513965,"Summer",61472
+6,-118.59,43.01,NA,1992,"Microtus montanus montanus","Microtus_montanus",10,123,"female",9.4,303,7.94189123343026,80.1763480402703,"Summer",61592
+9,-106.5078666667,35.8074333333,NA,2000,"Microtus montanus","Microtus_montanus",10,96,"female",7.2,640,7.46373048329538,89.5669030034888,"Fall",61815
+8,-106.648252,35.916685,NA,1984,"Microtus montanus","Microtus_montanus",10.2,115,"male",5.9,629,8.3572867860474,64.8000906010855,"Summer",60934
+7,-106.655849,35.960091,"juvenile",1984,"Microtus montanus","Microtus_montanus",10.2,102,"undetermined",4.9,663,8.38281069519735,65.3870706483196,"Summer",60941
+7,-106.655849,35.960091,"juvenile",1984,"Microtus montanus","Microtus_montanus",10.3,101,"undetermined",4.9,663,8.38281069519735,65.3870706483196,"Summer",60942
+6,-120.3024084,41.6455753,NA,1969,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",10.5,110,"male",5.4,1015,7.7771372391365,98.0834643507095,"Summer",60896
+8,-106.540599,35.820178,NA,1984,"Microtus montanus","Microtus_montanus",10.5,114,"male",6.4,654,8.2997763752277,64.7092068421342,"Summer",61276
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",10.5,110,"female",9.1,756,8.18655586737774,91.8460634681172,"Summer",61469
+8,-106.3856,38.8039,NA,2009,"Microtus montanus","Microtus_montanus",10.6,82,"male",-1,534,7.66667325427912,53.2214076713735,"Summer",60876
+8,-106.654365,35.919128,NA,1984,"Microtus montanus","Microtus_montanus",10.6,126,"male",6.1,611,8.40589619904332,65.0335421806374,"Summer",61280
+8,-106.654488,35.945305,NA,1984,"Microtus montanus","Microtus_montanus",10.7,105,"male",5,657,8.36230720663752,65.1209558429651,"Summer",61283
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",10.8,101,"male",9.1,756,8.18655586737774,91.8460634681172,"Summer",61110
+8,-113.46894,44.97924,"young of year",2010,"Microtus montanus","Microtus_montanus",10.8,113,"male",4,625,8.07620898164179,55.6857677263475,"Summer",61785
+7,-106.304365,39.853127,NA,2009,"Microtus montanus","Microtus_montanus",11,94,"male",2.2,461,8.69381528688206,40.9093083558298,"Summer",60882
+9,-105.663267,40.938825,NA,1985,"Microtus montanus nanus","Microtus_montanus",11,99,"male",2.2,513,9.13925930292278,60.1949363648298,"Fall",60924
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",11,108,"female",4.8,680,8.39810133664783,64.9623936848212,"Summer",60945
+7,-116.026,41.6959,"subadult",2010,"Microtus montanus","Microtus_montanus",11,109,"male",6.4,617,7.93787907708503,73.4661613749528,"Summer",61346
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",11,100,"male",7.5,1052,6.23923922129983,121.943507637929,"Summer",61428
+9,-106.5078666667,35.8074333333,NA,2000,"Microtus montanus","Microtus_montanus",11,104,"female",7.2,640,7.46373048329538,89.5669030034888,"Fall",61648
+8,-106.3856,38.8039,NA,2009,"Microtus montanus","Microtus_montanus",11.1,96,"male",-1,534,7.66667325427912,53.2214076713735,"Summer",60877
+5,-113.6134,44.9508,"young of year",2010,"Microtus montanus","Microtus_montanus",11.3,105,"male",6,388,8.56796358535679,52.7898128843345,"Spring",61610
+8,-106.541175,35.821944,NA,1984,"Microtus montanus","Microtus_montanus",11.4,120,"female",6.4,654,8.29704218929307,64.8462276956781,"Summer",60933
+7,-106.304365,39.853127,NA,2009,"Microtus montanus","Microtus_montanus",11.5,95,"male",2.2,461,8.69381528688206,40.9093083558298,"Summer",60884
+8,-106.654488,35.945305,NA,1984,"Microtus montanus","Microtus_montanus",11.5,126,"undetermined",5,657,8.36230720663752,65.1209558429651,"Summer",60939
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",11.5,103,"male",4.8,680,8.39810133664783,64.9623936848212,"Summer",61294
+7,-107.8117,37.1987,NA,2007,"Microtus montanus","Microtus_montanus",11.5,116,"female",8.5,476,9.09818496717723,60.130283484626,"Summer",61321
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",11.5,NA,"undetermined",9.1,756,8.18655586737774,91.8460634681172,"Summer",61475
+4,-105.34,39.72,"juvenile",2010,"Microtus montanus","Microtus_montanus",11.5,102,"female",7.8,485,8.1334699442079,63.6556601127405,"Spring",61706
+8,-113.46894,44.97924,"young of year",2010,"Microtus montanus","Microtus_montanus",11.6,110,"female",4,625,8.07620898164179,55.6857677263475,"Summer",61615
+7,-119.66798,37.66596,NA,2003,"Microtus montanus yosemite","Microtus_montanus",11.9,102,"female",9.1,959,6.8858825714558,140.10895336076,"Summer",61399
+7,-109.9072,43.0654,"juvenile",2007,"Microtus montanus","Microtus_montanus",12,110,"female",2.1,402,9.95387848879506,34.0592643993446,"Summer",60973
+7,-119.66798,37.66596,NA,2003,"Microtus montanus yosemite","Microtus_montanus",12,112,"female",9.1,959,6.8858825714558,140.10895336076,"Summer",61065
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",12,108,"male",9.1,756,8.18655586737774,91.8460634681172,"Summer",61113
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",12,110,"male",4.8,680,8.39810133664783,64.9623936848212,"Summer",61297
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",12,103,"male",7.5,1052,6.23923922129983,121.943507637929,"Summer",61427
+4,-119.6994,45.8472,"unknown",1956,"Microtus montanus","Microtus_montanus",12,96,"male",11.5,180,8.67790646446829,103.521764724626,"Spring",61520
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",12,119,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61735
+7,-119.970511,38.904878,NA,2001,"Microtus montanus montanus","Microtus_montanus",12,125,"undetermined",8.2,607,7.53904483138925,129.099307904357,"Summer",61834
+8,-107.4886971,44.8274632,NA,2001,"Microtus montanus zygomaticus","Microtus_montanus",12.4,102,"male",3.2,501,9.09160451885544,54.2317144974613,"Summer",60875
+9,-106.7333333333,41.05,NA,1985,"Microtus montanus nanus","Microtus_montanus",12.4,102,"male",-0.8,1156,9.47262403247411,65.2552156051005,"Fall",61717
+7,-106.304365,39.853127,NA,2009,"Microtus montanus","Microtus_montanus",12.5,97,"male",2.2,461,8.69381528688206,40.9093083558298,"Summer",60885
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",12.5,117,"female",4.8,680,8.39810133664783,64.9623936848212,"Summer",60946
+7,-107.8117,37.1987,"subadult",2007,"Microtus montanus","Microtus_montanus",12.5,110,"male",8.5,476,9.09818496717723,60.130283484626,"Summer",60970
+6,-107.3033,44.0506,"young adult",2010,"Microtus montanus","Microtus_montanus",12.5,114,"male",6,446,8.93978170704951,95.7324278439025,"Summer",61014
+6,-107.2892,44.0511,"young adult",2010,"Microtus montanus","Microtus_montanus",12.5,113,"male",5.6,467,8.85808567457901,94.2121630792873,"Summer",61016
+7,-119.66798,37.66596,NA,2003,"Microtus montanus yosemite","Microtus_montanus",12.5,101,"female",9.1,959,6.8858825714558,140.10895336076,"Summer",61062
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",12.5,106,"male",9.1,756,8.18655586737774,91.8460634681172,"Summer",61468
+5,-105.34,39.72,"juvenile",2010,"Microtus montanus","Microtus_montanus",12.5,109,"male",7.8,485,8.1334699442079,63.6556601127405,"Spring",61539
+8,-106.540599,35.820178,NA,1984,"Microtus montanus","Microtus_montanus",12.6,133,"female",6.4,654,8.2997763752277,64.7092068421342,"Summer",60932
+6,-113.5532,44.9438,NA,2010,"Microtus montanus","Microtus_montanus",12.7,112,"female",5.2,544,8.38335291280321,57.5277043088961,"Summer",61611
+8,-113.46894,44.97924,"young of year",2010,"Microtus montanus","Microtus_montanus",12.9,120,"male",4,625,8.07620898164179,55.6857677263475,"Summer",61616
+9,-112.97966,44.25307,NA,2010,"Microtus montanus","Microtus_montanus",12.9,139,"female",3.2,452,8.77528813305762,55.3143237886342,"Fall",61808
+7,-107.1153616,40.4196457,NA,1975,"Microtus montanus nanus","Microtus_montanus",13,111,"female",3.9,459,8.81752731091817,42.1426968419697,"Summer",60904
+7,-108.6733286,40.4570998,NA,1987,"Microtus montanus nanus","Microtus_montanus",13,115,"male",7.9,319,9.56994585336634,50.6662942010777,"Summer",60921
+5,-119.59162,37.74048,NA,2003,"Microtus montanus yosemite","Microtus_montanus",13,110,"male",11.3,852,7.16999218122223,121.379600922696,"Spring",61034
+5,-119.59162,37.74048,NA,2003,"Microtus montanus yosemite","Microtus_montanus",13,114,"male",11.3,852,7.16999218122223,121.379600922696,"Spring",61035
+6,-123.00645,41.88429,NA,1969,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",13,110,"male",9.4,948,7.01078714294168,128.507573430639,"Summer",61230
+7,-106.654488,35.945305,NA,1984,"Microtus montanus","Microtus_montanus",13,130,"male",5,657,8.36230720663752,65.1209558429651,"Summer",61289
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",13,112,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61551
+8,-106.541175,35.821944,NA,1984,"Microtus montanus","Microtus_montanus",13.2,124,"female",6.4,654,8.29704218929307,64.8462276956781,"Summer",61277
+9,-113.21584,44.65886,"juvenile",2010,"Microtus montanus","Microtus_montanus",13.4,113,"male",3.5,430,8.3288108940647,54.722952264098,"Fall",61793
+7,-106.654365,35.919128,NA,1984,"Microtus montanus","Microtus_montanus",13.5,133,"female",6.1,611,8.40589619904332,65.0335421806374,"Summer",61279
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",13.5,118,"male",4.8,680,8.39810133664783,64.9623936848212,"Summer",61299
+7,-119.33929,37.79652,NA,2004,"Microtus montanus yosemite","Microtus_montanus",13.5,114,"female",3,1046,6.53790810766276,119.855143989261,"Summer",61452
+7,-113.51604,44.97594,NA,2010,"Microtus montanus","Microtus_montanus",13.5,122,"female",5.1,548,8.34836220555574,61.522065710089,"Summer",61624
+8,-119.01,42.1,"JUVENILE",1998,"Microtus montanus montanus","Microtus_montanus",13.5,109,"female",7.5,387,7.87702354953951,62.4417314943701,"Summer",61769
+8,-107.4886971,44.8274632,NA,2001,"Microtus montanus zygomaticus","Microtus_montanus",13.6,106,"female",3.2,501,9.09160451885544,54.2317144974613,"Summer",61200
+7,-108.6733286,40.4570998,NA,1987,"Microtus montanus nanus","Microtus_montanus",14,115,"male",7.9,319,9.56994585336634,50.6662942010777,"Summer",60922
+8,-106.540599,35.820178,NA,1984,"Microtus montanus","Microtus_montanus",14,129,"undetermined",6.4,654,8.2997763752277,64.7092068421342,"Summer",60931
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",14,128,"male",4.8,680,8.39810133664783,64.9623936848212,"Summer",60947
+7,-107.8117,37.1987,NA,2007,"Microtus montanus","Microtus_montanus",14,113,"male",8.5,476,9.09818496717723,60.130283484626,"Summer",60965
+7,-117.5625,41.685,NA,2010,"Microtus montanus","Microtus_montanus",14,116,"male",4.4,864,7.26729389842331,86.5741866075359,"Summer",61001
+7,-119.66798,37.66596,NA,2003,"Microtus montanus yosemite","Microtus_montanus",14,104,"female",9.1,959,6.8858825714558,140.10895336076,"Summer",61063
+6,-119.64773,37.86644,NA,2004,"Microtus montanus yosemite","Microtus_montanus",14,NA,"undetermined",7.3,1058,6.22533314187062,122.230158542543,"Summer",61069
+6,-119.64837,37.86806,"juv",2004,"Microtus montanus yosemite","Microtus_montanus",14,NA,"female",7.5,1052,6.23923922129983,121.943507637929,"Summer",61072
+5,-118.00818,37.41428,NA,2007,"Microtus montanus yosemite","Microtus_montanus",14,122,"female",11,109,8.6451072166792,76.2824200900682,"Spring",61117
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",14,115,"female",9.2,477,8.66266807524207,71.7676624687169,"Summer",61155
+7,-107.1153616,40.4196457,NA,1975,"Microtus montanus nanus","Microtus_montanus",14,113,"male",3.9,459,8.81752731091817,42.1426968419697,"Summer",61238
+7,-108.6733286,40.4570998,NA,1987,"Microtus montanus nanus","Microtus_montanus",14,108,"female",7.9,319,9.56994585336634,50.6662942010777,"Summer",61271
+8,-106.654488,35.945305,NA,1984,"Microtus montanus","Microtus_montanus",14,121,"male",5,657,8.36230720663752,65.1209558429651,"Summer",61282
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",14,125,"male",4.8,680,8.39810133664783,64.9623936848212,"Summer",61296
+5,-112.48,42.834,NA,2005,"Microtus montanus","Microtus_montanus",14,110.5,"male",7.1,678,8.90561195215827,67.3452034939509,"Spring",61313
+7,-122.3964,42.9888,"juvenile",2007,"Microtus montanus","Microtus_montanus",14,123,"male",8.3,1366,6.50237718768368,70.8189959479134,"Summer",61326
+6,-107.3033,44.0506,"young adult",2010,"Microtus montanus","Microtus_montanus",14,118,"male",6,446,8.93978170704951,95.7324278439025,"Summer",61353
+5,-119.60513,37.73797,NA,2003,"Microtus montanus yosemite","Microtus_montanus",14,110,"male",12.5,804,7.36566049621177,117.717066572393,"Spring",61369
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",14,101,"female",11.9,832,7.28934465192485,118.961909919824,"Fall",61412
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",14,111,"undetermined",6.7,296,7.88917555319255,86.9555003881039,"Summer",61550
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",14,114,"female",4.8,645,6.81368386988917,111.133860911309,"Summer",61823
+8,-107.4886971,44.8274632,NA,2001,"Microtus montanus zygomaticus","Microtus_montanus",14.2,100,"female",3.2,501,9.09160451885544,54.2317144974613,"Summer",61199
+5,-113.0403333333,43.5021666667,NA,2002,"Microtus montanus","Microtus_montanus",14.3,103,"female",5.4,172,10.6512910015641,38.525839733183,"Spring",61776
+5,-119.60513,37.73797,NA,2003,"Microtus montanus yosemite","Microtus_montanus",14.5,113,"female",12.5,804,7.36566049621177,117.717066572393,"Spring",61027
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",14.5,120,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61041
+7,-119.33929,37.79652,NA,2004,"Microtus montanus yosemite","Microtus_montanus",14.5,110,"female",3,1046,6.53790810766276,119.855143989261,"Summer",61087
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",14.5,115,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61376
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",14.5,115,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61378
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",14.5,116,"male",7.5,1052,6.23923922129983,121.943507637929,"Summer",61423
+7,-119.33929,37.79652,NA,2004,"Microtus montanus yosemite","Microtus_montanus",14.5,117,"male",3,1046,6.53790810766276,119.855143989261,"Summer",61456
+9,-107.185377,40.502693,NA,1997,"Microtus montanus","Microtus_montanus",14.7,111,"male",5.1,555,9.55400518900399,57.2031574147706,"Fall",60866
+5,-113.0403333333,43.5021666667,NA,2002,"Microtus montanus","Microtus_montanus",14.7,106,"male",5.4,172,10.6512910015641,38.525839733183,"Spring",61778
+8,-105.9116797,39.8472087,NA,1983,"Microtus montanus","Microtus_montanus",14.9,110,"male",1.3,991,8.01899260657113,54.3531484152559,"Summer",61305
+5,-113.0403333333,43.5021666667,NA,2002,"Microtus montanus","Microtus_montanus",14.9,106,"male",5.4,172,10.6512910015641,38.525839733183,"Spring",61603
+7,-108.6733286,40.4570998,NA,1987,"Microtus montanus nanus","Microtus_montanus",15,115,"male",7.9,319,9.56994585336634,50.6662942010777,"Summer",60923
+9,-109.03558,33.82554,"juvenile",2008,"Microtus montanus","Microtus_montanus",15,111,"male",8.5,477,6.9073687048139,77.5861179802409,"Fall",60988
+7,-116.062,41.6959,"subadult",2010,"Microtus montanus","Microtus_montanus",15,120,"female",5,966,7.8011022919647,78.0059724050294,"Summer",61000
+5,-119.60513,37.73797,NA,2003,"Microtus montanus yosemite","Microtus_montanus",15,107,"male",12.5,804,7.36566049621177,117.717066572393,"Spring",61028
+7,-106.648252,35.916685,NA,1984,"Microtus montanus","Microtus_montanus",15,120,"male",5.9,629,8.3572867860474,64.8000906010855,"Summer",61288
+6,-107.2892,44.0511,NA,2010,"Microtus montanus","Microtus_montanus",15,112,"male",5.6,467,8.85808567457901,94.2121630792873,"Summer",61352
+5,-119.59162,37.74048,NA,2003,"Microtus montanus yosemite","Microtus_montanus",15,119,"female",11.3,852,7.16999218122223,121.379600922696,"Spring",61373
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",15,116,"male",11.9,832,7.28934465192485,118.961909919824,"Fall",61404
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",15,111,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61437
+7,-119.33929,37.79652,NA,2004,"Microtus montanus yosemite","Microtus_montanus",15,115,"male",3,1046,6.53790810766276,119.855143989261,"Summer",61453
+7,-106.7205333333,38.8308833333,"subadult",2009,"Microtus montanus","Microtus_montanus",15,143,"female",1.5,550,8.50586250592478,55.2324068792143,"Summer",61700
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",15,118,"female",4.8,645,6.81368386988917,111.133860911309,"Summer",61825
+2,-107.728472,37.950212,NA,1997,"Microtus montanus fusus","Microtus_montanus",15.1,127,"female",0,1050,6.89340374209397,42.893491079585,"Winter",61225
+5,-113.0403333333,43.5021666667,NA,2002,"Microtus montanus","Microtus_montanus",15.1,107,"female",5.4,172,10.6512910015641,38.525839733183,"Spring",61604
+5,-113.0403333333,43.5021666667,NA,2002,"Microtus montanus","Microtus_montanus",15.1,102,"male",5.4,172,10.6512910015641,38.525839733183,"Spring",61775
+7,-119.62232,37.66565,NA,2003,"Microtus montanus yosemite","Microtus_montanus",15.3,119,"female",9.3,919,6.88874246341614,143.689905545826,"Summer",61056
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",15.3,124,"female",9.2,477,8.66266807524207,71.7676624687169,"Summer",61513
+8,-106.655849,35.960091,NA,1984,"Microtus montanus","Microtus_montanus",15.4,114,"male",4.9,663,8.38281069519735,65.3870706483196,"Summer",61293
+8,-105.9116797,39.8472087,NA,1983,"Microtus montanus","Microtus_montanus",15.4,106,"male",1.3,991,8.01899260657113,54.3531484152559,"Summer",61304
+8,-105.9116797,39.8472087,NA,1983,"Microtus montanus","Microtus_montanus",15.4,104,"female",1.3,991,8.01899260657113,54.3531484152559,"Summer",61306
+8,-106.654488,35.945305,NA,1984,"Microtus montanus","Microtus_montanus",15.5,126,"male",5,657,8.36230720663752,65.1209558429651,"Summer",61281
+6,-119.64837,37.86806,"juv",2004,"Microtus montanus yosemite","Microtus_montanus",15.5,115,"male",7.5,1052,6.23923922129983,121.943507637929,"Summer",61424
+8,-114.4608,42.6165,NA,2013,"Microtus montanus","Microtus_montanus",15.5,109,"female",9.9,190,10.7500105708193,51.227196252186,"Summer",61544
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",16,119,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",60997
+6,-107.3033,44.0506,"juvenile",2010,"Microtus montanus","Microtus_montanus",16,114,"female",6,446,8.93978170704951,95.7324278439025,"Summer",61011
+6,-119.608,37.7323,NA,2003,"Microtus montanus yosemite","Microtus_montanus",16,122,"male",12.3,811,7.31499083451858,121.000625538512,"Summer",61025
+5,-119.59162,37.74048,NA,2003,"Microtus montanus yosemite","Microtus_montanus",16,125,"female",11.3,852,7.16999218122223,121.379600922696,"Spring",61036
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",16,114,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61079
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",16,108,"male",4.8,680,8.39810133664783,64.9623936848212,"Summer",61298
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",16,123,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61349
+5,-119.59162,37.74048,NA,2003,"Microtus montanus yosemite","Microtus_montanus",16,121,"female",11.3,852,7.16999218122223,121.379600922696,"Spring",61374
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",16,106,"male",11.9,832,7.28934465192485,118.961909919824,"Fall",61410
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",16,124,"male",7.5,1052,6.23923922129983,121.943507637929,"Summer",61422
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",16,108,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61575
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",16,127,"female",4.8,645,6.81368386988917,111.133860911309,"Summer",61654
+8,-114.4608,42.6165,NA,2013,"Microtus montanus","Microtus_montanus",16,107,"female",9.9,190,10.7500105708193,51.227196252186,"Summer",61714
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",16,120,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61755
+5,-112.48,42.834,NA,2005,"Microtus montanus","Microtus_montanus",16.3,124.5,"female",7.1,678,8.90561195215827,67.3452034939509,"Spring",61312
+6,-113.6134,44.9508,"young of year",2010,"Microtus montanus","Microtus_montanus",16.4,110,"male",6,388,8.56796358535679,52.7898128843345,"Summer",61612
+7,-119.62232,37.66565,NA,2003,"Microtus montanus yosemite","Microtus_montanus",16.5,117,"male",9.3,919,6.88874246341614,143.689905545826,"Summer",61054
+7,-106.541175,35.821944,NA,1984,"Microtus montanus","Microtus_montanus",16.5,138,"undetermined",6.4,654,8.29704218929307,64.8462276956781,"Summer",61287
+5,-119.63632,37.72193,NA,2003,"Microtus montanus yosemite","Microtus_montanus",16.5,125,"female",12,844,7.26124519749759,126.236788079241,"Spring",61368
+5,-119.57859,37.74618,NA,2003,"Microtus montanus yosemite","Microtus_montanus",16.5,113,"female",12.4,791,7.33602051317313,117.60131041881,"Spring",61380
+8,-118.67,42.09,NA,1997,"Microtus montanus montanus","Microtus_montanus",16.9,132,"male",6.4,514,7.46638933467641,99.8782100633714,"Summer",61596
+5,-113.0403333333,43.5021666667,NA,2002,"Microtus montanus","Microtus_montanus",16.9,117,"male",5.4,172,10.6512910015641,38.525839733183,"Spring",61779
+7,-114.3732,43.7883,"juvenile",2010,"Microtus montanus","Microtus_montanus",17,125,"male",4.3,704,8.0598283687268,54.4550616066542,"Summer",60998
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",17,126,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61002
+6,-107.3033,44.0506,"young adult",2010,"Microtus montanus","Microtus_montanus",17,122,"female",6,446,8.93978170704951,95.7324278439025,"Summer",61009
+7,-119.33623,37.7965,NA,2004,"Microtus montanus yosemite","Microtus_montanus",17,115,"male",3,1051,6.54862349635171,120.187855433451,"Summer",61088
+6,-120.80754,40.54937,NA,2006,"Microtus montanus montanus","Microtus_montanus",17,111,"female",9.1,786,8.19365978095629,92.1804771805304,"Summer",61108
+12,-119.2469368,48.7846855,"unknown",1983,"Microtus montanus","Microtus_montanus",17,127,"female",4.4,892,7.64584953759327,56.6999586291667,"Winter",61153
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",17,120,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61342
+6,-107.2892,44.0511,"young adult",2010,"Microtus montanus","Microtus_montanus",17,113,"male",5.6,467,8.85808567457901,94.2121630792873,"Summer",61359
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",17,107,"male",11.9,832,7.28934465192485,118.961909919824,"Fall",61409
+7,-119.49919,37.82637,NA,2004,"Microtus montanus yosemite","Microtus_montanus",17,119,"female",5.9,1124,6.24055043221106,118.834376093719,"Summer",61447
+10,-121.1797292,40.7345811,NA,2004,"Microtus montanus montanus","Microtus_montanus",17,143,"male",9.1,575,7.26967549607146,97.3287883701239,"Fall",61463
+8,-117.1905,45.9433,"unknown",1999,"Microtus montanus","Microtus_montanus",17,117,"female",8,464,6.77063624421776,55.2180507105893,"Summer",61524
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",17,124,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61559
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",17,136,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61578
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",17,131,"female",4.8,645,6.81368386988917,111.133860911309,"Summer",61655
+8,-114.4608,42.6165,NA,2013,"Microtus montanus","Microtus_montanus",17,114,"female",9.9,190,10.7500105708193,51.227196252186,"Summer",61712
+8,-109.3272,33.9879,NA,1980,"Microtus montanus","Microtus_montanus",17.1,120,"male",4.7,842,6.46639330881152,86.8511818405302,"Summer",61687
+8,-106.655849,35.960091,NA,1984,"Microtus montanus","Microtus_montanus",17.2,123,"male",4.9,663,8.38281069519735,65.3870706483196,"Summer",60940
+8,-105.9116797,39.8472087,NA,1983,"Microtus montanus","Microtus_montanus",17.3,107,"female",1.3,991,8.01899260657113,54.3531484152559,"Summer",60952
+6,-120.80754,40.54937,NA,2006,"Microtus montanus montanus","Microtus_montanus",17.5,111,"male",9.1,786,8.19365978095629,92.1804771805304,"Summer",61109
+8,-106.648252,35.916685,NA,1984,"Microtus montanus","Microtus_montanus",17.5,145,"female",5.9,629,8.3572867860474,64.8000906010855,"Summer",61278
+8,-105.9116797,39.8472087,NA,1983,"Microtus montanus","Microtus_montanus",17.5,102,"male",1.3,991,8.01899260657113,54.3531484152559,"Summer",61307
+7,-107.8117,37.1987,NA,2007,"Microtus montanus","Microtus_montanus",17.5,115,"male",8.5,476,9.09818496717723,60.130283484626,"Summer",61315
+8,-113.9348,43.7866,NA,2013,"Microtus montanus","Microtus_montanus",17.5,110,"male",0.8,479,10.6048016568825,51.3912369810415,"Summer",61542
+9,-106.304365,39.853127,NA,2008,"Microtus montanus","Microtus_montanus",17.8,114,"female",2.2,520,9.08489839172012,29.079475967407,"Fall",60878
+7,-105.395396,39.364793,"juvenile",2008,"Microtus montanus","Microtus_montanus",17.8,133,"undetermined",6.6,529,7.82030670560285,60.1775484740414,"Summer",61533
+8,-107.4886971,44.8274632,NA,2001,"Microtus montanus zygomaticus","Microtus_montanus",17.9,114,"female",3.2,501,9.09160451885544,54.2317144974613,"Summer",60874
+7,-106.8555,38.8237,NA,2009,"Microtus montanus","Microtus_montanus",17.9,126,"female",2,586,8.80868631212705,52.4911811109207,"Summer",61534
+7,-119.265487,38.469445,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",18,123,"male",5.2,458,7.24177694584232,81.4631026122876,"Summer",60899
+5,-112.48,42.834,NA,2005,"Microtus montanus","Microtus_montanus",18,120,"female",7.1,678,8.90561195215827,67.3452034939509,"Spring",60960
+6,-107.3033,44.0506,"young adult",2010,"Microtus montanus","Microtus_montanus",18,117,"female",6,446,8.93978170704951,95.7324278439025,"Summer",61015
+11,-105.49137,39.990854,NA,1988,"Microtus montanus nanus","Microtus_montanus",18,126,"male",5.4,429,8.43863768985291,57.6464502874112,"Fall",61218
+5,-119.60513,37.73797,NA,2003,"Microtus montanus yosemite","Microtus_montanus",18,112,"male",12.5,804,7.36566049621177,117.717066572393,"Spring",61371
+6,-119.64773,37.86644,NA,2004,"Microtus montanus yosemite","Microtus_montanus",18,116,"male",7.3,1058,6.22533314187062,122.230158542543,"Summer",61417
+7,-119.32802,37.79125,NA,2004,"Microtus montanus yosemite","Microtus_montanus",18,116,"male",2.7,1106,6.55374054655165,121.595862865,"Summer",61458
+8,-117.1125,45.9286,"unknown",1999,"Microtus montanus","Microtus_montanus",18,109,"female",8.5,434,6.81099823591939,53.1437010588686,"Summer",61521
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",18,121,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61746
+8,-119.25506,37.76807,NA,2005,"Microtus montanus yosemite","Microtus_montanus",18,121,"female",2.7,1361,6.59453400839504,111.830556501056,"Summer",61826
+7,-119.41473,37.83206,NA,2007,"Microtus montanus yosemite","Microtus_montanus",18,128,"male",4.4,428,6.76548728339786,140.707614120106,"Summer",61831
+8,-118.68,42.09,NA,1997,"Microtus montanus montanus","Microtus_montanus",18.3,127,"male",6.6,498,7.48250484716708,98.7471661156456,"Summer",61768
+9,-121.1148134,40.73790614,NA,2004,"Microtus montanus montanus","Microtus_montanus",18.4,138,"female",9.1,628,7.33738352341603,93.438347754951,"Fall",61102
+8,-113.61541,44.95164,"young of year",2010,"Microtus montanus","Microtus_montanus",18.4,120,"female",6,388,8.57870866880572,52.7726675846909,"Summer",61787
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",18.5,120,"male",11.9,832,7.28934465192485,118.961909919824,"Fall",61067
+10,-107.2703629,38.5427017,NA,1984,"Microtus montanus fuscus","Microtus_montanus",18.5,129,"female",3.2,488,10.3642304454925,51.2954947421138,"Fall",61143
+7,-107.8117,37.1987,"adult",2007,"Microtus montanus","Microtus_montanus",18.5,123,"male",8.5,476,9.09818496717723,60.130283484626,"Summer",61320
+6,-107.2892,44.0511,"adult",2010,"Microtus montanus","Microtus_montanus",18.5,132,"male",5.6,467,8.85808567457901,94.2121630792873,"Summer",61358
+8,-106.540599,35.820178,NA,1984,"Microtus montanus","Microtus_montanus",18.7,130,"female",6.4,654,8.2997763752277,64.7092068421342,"Summer",61275
+7,-106.1548,39.0995,NA,2008,"Microtus montanus","Microtus_montanus",18.8,135,"female",0.4,748,8.23521632252534,47.8520671901861,"Summer",61201
+7,-106.304365,39.853127,NA,2012,"Microtus montanus","Microtus_montanus",19,119,"female",4.2,309,8.85672146742321,77.0553926785097,"Summer",60883
+7,-119.60063,37.66186,NA,2003,"Microtus montanus yosemite","Microtus_montanus",19,118,"male",9.3,926,6.83586797042562,143.007134273736,"Summer",61050
+6,-119.64773,37.86644,NA,2004,"Microtus montanus yosemite","Microtus_montanus",19,123,"female",7.3,1058,6.22533314187062,122.230158542543,"Summer",61070
+7,-119.49919,37.82637,NA,2004,"Microtus montanus yosemite","Microtus_montanus",19,122,"female",5.9,1124,6.24055043221106,118.834376093719,"Summer",61085
+11,-105.499084,39.988378,NA,1988,"Microtus montanus nanus","Microtus_montanus",19,130,"female",5.4,414,8.45129988208735,59.2158828727866,"Fall",61220
+8,-109.00663,33.84005,NA,2008,"Microtus montanus","Microtus_montanus",19,115,"male",8.4,467,6.91533210929296,79.2263861598771,"Summer",61336
+7,-119.60102,37.66312,NA,2003,"Microtus montanus yosemite","Microtus_montanus",19,129,"female",9.3,926,6.84023302810569,142.669388159364,"Summer",61383
+7,-119.49919,37.82637,NA,2004,"Microtus montanus yosemite","Microtus_montanus",19,127,"male",5.9,1124,6.24055043221106,118.834376093719,"Summer",61450
+6,-119.64773,37.86644,"Juv",2004,"Microtus montanus yosemite","Microtus_montanus",19,NA,"male",7.3,1058,6.22533314187062,122.230158542543,"Summer",61462
+8,-107.64,39.57,"juvenile",2012,"Microtus montanus","Microtus_montanus",19,115,"male",10.1,210,9.45225642453438,80.6649702601899,"Summer",61538
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",19,132,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61579
+1,-107.64,39.57,NA,2012,"Microtus montanus","Microtus_montanus",19,114,"male",10.1,210,9.45225642453438,80.6649702601899,"Winter",61709
+8,-114.4608,42.6165,NA,2013,"Microtus montanus","Microtus_montanus",19,111,"female",9.9,190,10.7500105708193,51.227196252186,"Summer",61713
+6,-119.593776,49.49882,NA,1981,"Microtus montanus canescens","Microtus_montanus",19,130,"male",9.7,349,7.34543766874749,41.1683866904983,"Summer",61860
+9,-112.97966,44.25307,"young of year",2010,"Microtus montanus","Microtus_montanus",19.4,113,"male",3.2,452,8.77528813305762,55.3143237886342,"Fall",61799
+5,-112.48,42.834,NA,2005,"Microtus montanus","Microtus_montanus",19.5,127,"female",7.1,678,8.90561195215827,67.3452034939509,"Spring",60963
+7,-119.60102,37.66312,NA,2003,"Microtus montanus yosemite","Microtus_montanus",19.5,120,"female",9.3,926,6.84023302810569,142.669388159364,"Summer",61051
+6,-120.7906,40.67886,NA,2006,"Microtus montanus montanus","Microtus_montanus",19.5,116,"male",9.2,542,8.14709466712837,90.545524730146,"Summer",61105
+7,-117.0552,45.914,"unknown",1999,"Microtus montanus","Microtus_montanus",19.5,114,"male",8.8,426,6.88363782436073,53.1851774614345,"Summer",61167
+7,-119.26395,37.77719,NA,2003,"Microtus montanus yosemite","Microtus_montanus",19.5,120,"male",3.3,944,7.03437447413942,109.831917328178,"Summer",61401
+7,-119.60102,37.66312,NA,2003,"Microtus montanus yosemite","Microtus_montanus",19.6,120,"female",9.3,926,6.84023302810569,142.669388159364,"Summer",61384
+7,-106.3945,39.1602,NA,2007,"Microtus montanus fusus","Microtus_montanus",19.8,114,"male",1.8,449,8.87789218773069,61.4800558581532,"Summer",60873
+7,-120.475556,50.841944,NA,1949,"Microtus montanus canescens","Microtus_montanus",19.8,127,"male",3.9,363,10.3086422995759,62.6547771206405,"Summer",61858
+8,-105.5851,40.0566,NA,2006,"Microtus montanus nanus","Microtus_montanus",20,121,"female",-0.6,973,7.66734022074187,49.4708879435828,"Summer",60869
+7,-106.654488,35.945305,NA,1984,"Microtus montanus","Microtus_montanus",20,122,"female",5,657,8.36230720663752,65.1209558429651,"Summer",60935
+5,-112.48,42.834,NA,2005,"Microtus montanus","Microtus_montanus",20,122,"male",7.1,678,8.90561195215827,67.3452034939509,"Spring",60962
+7,-107.8117,37.1987,NA,2007,"Microtus montanus","Microtus_montanus",20,126,"male",8.5,476,9.09818496717723,60.130283484626,"Summer",60964
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",20,132,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61003
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",20,123,"male",4.3,704,8.0598283687268,54.4550616066542,"Summer",61007
+5,-119.59162,37.74048,NA,2003,"Microtus montanus yosemite","Microtus_montanus",20,121,"male",11.3,852,7.16999218122223,121.379600922696,"Spring",61033
+7,-119.265487,38.469445,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",20,120,"male",5.2,458,7.24177694584232,81.4631026122876,"Summer",61226
+7,-107.8117,37.1987,NA,2007,"Microtus montanus","Microtus_montanus",20,125,"male",8.5,476,9.09818496717723,60.130283484626,"Summer",61319
+5,-119.59162,37.74048,NA,2003,"Microtus montanus yosemite","Microtus_montanus",20,127,"male",11.3,852,7.16999218122223,121.379600922696,"Spring",61372
+7,-119.60063,37.66186,NA,2003,"Microtus montanus yosemite","Microtus_montanus",20,123,"male",9.3,926,6.83586797042562,143.007134273736,"Summer",61382
+6,-119.51022,37.81763,NA,2004,"Microtus montanus yosemite","Microtus_montanus",20,130,"female",6.3,1095,6.28632474406778,119.30053469049,"Summer",61444
+4,-118.16474,36.59771,NA,2007,"Microtus montanus dutcheri","Microtus_montanus",20,129,"female",13.4,148,7.46950872588423,163.5294708906,"Spring",61477
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",20,120,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61558
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",20,134,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61572
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",20,139,"male",4.8,645,6.81368386988917,111.133860911309,"Summer",61653
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",20,122,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61722
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",20,133,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61738
+10,-109.50583,33.95972,NA,1965,"Microtus montanus","Microtus_montanus",20.2,114,"male",3.7,1045,6.43086779572249,82.7148805137504,"Fall",61677
+7,-119.60102,37.66312,NA,2003,"Microtus montanus yosemite","Microtus_montanus",20.3,122,"female",9.3,926,6.84023302810569,142.669388159364,"Summer",61052
+5,-119.60513,37.73797,NA,2003,"Microtus montanus yosemite","Microtus_montanus",20.5,125,"female",12.5,804,7.36566049621177,117.717066572393,"Spring",61029
+9,-106.304365,39.853127,NA,2007,"Microtus montanus","Microtus_montanus",20.5,121,"female",3.1,505,9.45959109245022,55.2369148187368,"Fall",61204
+9,-106.304365,39.853127,NA,2009,"Microtus montanus","Microtus_montanus",20.5,130,"female",2.2,461,8.69381528688206,40.9093083558298,"Fall",61210
+6,-120.7906,40.67886,NA,2006,"Microtus montanus montanus","Microtus_montanus",20.5,123,"female",9.2,542,8.14709466712837,90.545524730146,"Summer",61466
+7,-106.7036833333,38.8284166667,"subadult",2009,"Microtus montanus","Microtus_montanus",20.8,131,"male",0.7,534,8.3311527450051,55.1533472191706,"Summer",61701
+7,-119.49919,37.82637,NA,2004,"Microtus montanus yosemite","Microtus_montanus",21,128,"male",5.9,1124,6.24055043221106,118.834376093719,"Summer",61086
+7,-115.36746,40.62915,NA,2013,"Microtus montanus micropus","Microtus_montanus",21,127,"male",4.2,637,9.54010275657766,55.5117289427551,"Summer",61138
+10,-107.2703629,38.5427017,NA,1984,"Microtus montanus fuscus","Microtus_montanus",21,118,"female",3.2,488,10.3642304454925,51.2954947421138,"Fall",61144
+8,-117.1125,45.9214,"unknown",1999,"Microtus montanus","Microtus_montanus",21,124,"male",7.9,447,6.74785600069093,52.7905754048674,"Summer",61170
+7,-107.081633,41.43289,NA,2009,"Microtus montanus","Microtus_montanus",21,99,"male",3.5,467,8.68926540815352,61.2547649211073,"Summer",61300
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",21,128,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61557
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",21,117,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61566
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",21,125,"female",4.8,645,6.81368386988917,111.133860911309,"Summer",61652
+8,-120.2265,47.2636667,"unknown",1999,"Microtus montanus","Microtus_montanus",21,129,"female",7.4,382,6.81793534908057,99.6526408626399,"Summer",61698
+9,-112.97966,44.25307,"juvenile",2010,"Microtus montanus","Microtus_montanus",21,120,"female",3.2,452,8.77528813305762,55.3143237886342,"Fall",61807
+7,-120.457778,50.799167,NA,1949,"Microtus montanus canescens","Microtus_montanus",21,134,"male",4.4,340,10.4020212196739,64.0324705299132,"Summer",61857
+6,-119.593776,49.49882,NA,1981,"Microtus montanus canescens","Microtus_montanus",21,134,"male",9.7,349,7.34543766874749,41.1683866904983,"Summer",61862
+7,-119.34946,37.79834,NA,2004,"Microtus montanus yosemite","Microtus_montanus",21.5,139,"female",3.3,988,6.51513389708682,117.890535631513,"Summer",61094
+10,-107.5299683,38.4225578,NA,1984,"Microtus montanus fusus","Microtus_montanus",21.5,149,"female",5.1,423,10.0711220824693,53.0166723193268,"Fall",61501
+9,-113.60055,44.96759,"young of year",2010,"Microtus montanus","Microtus_montanus",21.5,130,"female",6,404,8.60332476253785,51.8172082440598,"Fall",61801
+6,-108.247378,39.838825,NA,1980,"Microtus montanus nanus","Microtus_montanus",21.6,123,"male",7.5,410,8.57027986530761,51.9068711239828,"Summer",61260
+6,-113.5251,43.4728,"unknown",1962,"Microtus montanus","Microtus_montanus",21.7,138,"female",5.6,307,9.96844643073454,102.654781970637,"Summer",61165
+8,-113.51604,44.97594,NA,2010,"Microtus montanus","Microtus_montanus",21.7,121,"undetermined",5.1,548,8.34836220555574,61.522065710089,"Summer",61786
+7,-109.1182,33.9443,NA,1980,"Microtus montanus","Microtus_montanus",21.8,130,"male",5.1,711,6.28029023648951,79.0399725323964,"Summer",61692
+3,-112.314517,39.913333,NA,1970,"Microtus montanus nanus cf.","Microtus_montanus",22,121,"female",7.3,464,8.06208390986455,48.1609694176303,"Spring",60902
+8,-106.655849,35.960091,NA,1984,"Microtus montanus","Microtus_montanus",22,130,"female",4.9,663,8.38281069519735,65.3870706483196,"Summer",60936
+10,-111.243,43.553,NA,2004,"Microtus montanus","Microtus_montanus",22,124,"female",4.5,743,8.47042537660335,35.787373665019,"Fall",60959
+7,-118.6644,41.6747,NA,2010,"Microtus montanus","Microtus_montanus",22,135,"female",8,418,7.7139140322517,66.9452435168707,"Summer",60995
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",22,139,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61006
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",22,128,"male",9.1,756,8.18655586737774,91.8460634681172,"Summer",61112
+6,-105.463,36.058,NA,2007,"Microtus montanus","Microtus_montanus",22,134,"male",5.3,870,7.876023262043,55.3094760564926,"Summer",61198
+9,-107.546454,40.492061,"young",1979,"Microtus montanus nanus","Microtus_montanus",22,115,"male",5.1,301,10.7065683606189,57.7343607045215,"Fall",61244
+5,-119.57217,37.74053,NA,2003,"Microtus montanus yosemite","Microtus_montanus",22,128,"male",12.1,820,7.31177443952871,119.61763174742,"Spring",61379
+9,-120.61235,40.80434,NA,2007,"Microtus montanus yosemite","Microtus_montanus",22,132,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",61481
+7,-106,37,NA,1996,"Microtus montanus","Microtus_montanus",22,126,"male",7,259,8.09550941740375,86.1250155619678,"Summer",61503
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",22,127,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61569
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",22,133,"male",4.8,645,6.81368386988917,111.133860911309,"Summer",61650
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",22,133,"female",4.8,645,6.81368386988917,111.133860911309,"Summer",61651
+7,-105.6151388889,40.3840277778,NA,2012,"Microtus montanus","Microtus_montanus",22,NA,"undetermined",5.1,398,8.00556624537521,74.5593486775761,"Summer",61711
+8,-114.4608,42.6165,NA,2013,"Microtus montanus","Microtus_montanus",22,132,"female",9.9,190,10.7500105708193,51.227196252186,"Summer",61715
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",22,123,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61728
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",22,124,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61732
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",22,134,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61752
+11,-120.370608,39.583737,NA,2003,"Microtus montanus yosemite","Microtus_montanus",22,138,"female",9.8,520,7.61069323486051,114.454051771803,"Fall",61827
+8,-113.47995,44.97297,"young of year",2010,"Microtus montanus","Microtus_montanus",22.1,140,"male",4.2,657,8.16860212068507,61.8073565675861,"Summer",61620
+4,-106.304365,39.853127,NA,2010,"Microtus montanus","Microtus_montanus",22.4,152,"male",2.8,510,9.08239639315661,44.1321267715703,"Spring",61212
+7,-105.6264,40.6596,NA,2009,"Microtus montanus","Microtus_montanus",22.4,143,"male",1.3,544,7.89469998662317,64.428361932797,"Summer",61531
+7,-113.51604,44.97594,NA,2010,"Microtus montanus","Microtus_montanus",22.4,132,"female",5.1,548,8.34836220555574,61.522065710089,"Summer",61614
+7,-109.5014,33.9443,NA,1980,"Microtus montanus","Microtus_montanus",22.4,138,"female",4.1,1028,6.40844022056897,89.6793250352624,"Summer",61686
+7,-106.7039,38.82865,"subadult",2009,"Microtus montanus","Microtus_montanus",22.4,128,"female",0.7,534,8.3311527450051,55.1533472191706,"Summer",61702
+7,-106.7056,38.8286666667,NA,2009,"Microtus montanus","Microtus_montanus",22.5,136,"male",0.7,533,8.33733388821848,55.2229637974432,"Summer",61535
+7,-106.7056,38.8286666667,NA,2009,"Microtus montanus","Microtus_montanus",22.5,136,"male",0.7,533,8.33733388821848,55.2229637974432,"Summer",61536
+7,-105.28696,40.037523,"immature",1989,"Microtus montanus nanus","Microtus_montanus",22.8,127,"male",10,407,8.98295945699749,59.3820277113716,"Summer",60893
+7,-111.6446,42.6557,NA,2010,"Microtus montanus","Microtus_montanus",22.8,127.5,"male",5.1,423,9.06911174695669,50.73331947075,"Summer",61716
+7,-105.1466563889,39.8340866667,NA,2010,"Microtus montanus","Microtus_montanus",22.9,143,"undetermined",10.9,391,8.92575436078604,69.0746509929031,"Summer",61206
+7,-115.68,44.6042,"adult",2007,"Microtus montanus","Microtus_montanus",23,138,"female",5.3,548,8.43381990451647,84.9143031325345,"Summer",60983
+9,-106.177,36.9576,NA,2010,"Microtus montanus","Microtus_montanus",23,120,"male",4.9,407,8.59349207601927,61.4559193949768,"Fall",60992
+5,-119.59162,37.74048,NA,2003,"Microtus montanus yosemite","Microtus_montanus",23,126,"female",11.3,852,7.16999218122223,121.379600922696,"Spring",61032
+7,-119.60063,37.66186,NA,2003,"Microtus montanus yosemite","Microtus_montanus",23,135,"female",9.3,926,6.83586797042562,143.007134273736,"Summer",61049
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",23,137,"male",9.3,917,6.90236564629486,143.167356166435,"Summer",61058
+10,-107.5299683,38.4225578,NA,1984,"Microtus montanus fusus","Microtus_montanus",23,160,"male",5.1,423,10.0711220824693,53.0166723193268,"Fall",61146
+8,-117.1125,45.9214,"unknown",1999,"Microtus montanus","Microtus_montanus",23,128,"male",7.9,447,6.74785600069093,52.7905754048674,"Summer",61173
+7,-108.762955,40.493957,NA,1995,"Microtus montanus","Microtus_montanus",23,138,"female",8.9,348,8.40751377511734,79.529753286809,"Summer",61301
+8,-118.716,37.1717,NA,2010,"Microtus montanus dutcheri","Microtus_montanus",23,146,"male",1.4,989,6.34949294086233,140.432614104843,"Summer",61496
+1,-107.64,39.57,NA,2012,"Microtus montanus","Microtus_montanus",23,113,"male",10.1,210,9.45225642453438,80.6649702601899,"Winter",61541
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",23,127,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61567
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",23,124,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61573
+12,-107.55815,35.2258,NA,1998,"Microtus montanus","Microtus_montanus",23,136,"male",7.4,683,7.30746815997791,92.4376781371868,"Winter",61647
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",23,129,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61730
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",23,127,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61740
+12,-106.7418833333,36.0972333333,NA,2007,"Microtus montanus","Microtus_montanus",23,126,"male",7,807,8.01034842052341,79.184361079407,"Winter",61812
+6,-119.593776,49.49882,NA,1981,"Microtus montanus canescens","Microtus_montanus",23,126,"female",9.7,349,7.34543766874749,41.1683866904983,"Summer",61861
+6,-114.1388,45.1269,NA,2012,"Microtus montanus","Microtus_montanus",23.1,128,"male",4.9,517,8.17795910674021,57.5231597640325,"Summer",61642
+7,-106.7205,38.8308833333,"subadult",2009,"Microtus montanus","Microtus_montanus",23.1,135,"male",1.5,550,8.50586250592478,55.2324068792143,"Summer",61703
+9,-113.60138,44.97016,NA,2010,"Microtus montanus","Microtus_montanus",23.2,125,"female",6,405,8.5827655004878,52.2961145574114,"Fall",61806
+8,-106.72,40.52,NA,1973,"Microtus montanus nanus","Microtus_montanus",23.3,119,"male",0,1384,8.83670033028577,71.8206638674515,"Summer",61601
+9,-113.60055,44.96759,"juvenile",2010,"Microtus montanus","Microtus_montanus",23.3,124,"male",6,404,8.60332476253785,51.8172082440598,"Fall",61630
+9,-120.61235,40.80434,"larvae",2007,"Microtus montanus yosemite","Microtus_montanus",23.5,137,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",61480
+8,-105.5896,40.0559,NA,2006,"Microtus montanus nanus","Microtus_montanus",23.6,122,"female",-0.6,969,7.64619136722607,49.0740365881931,"Summer",60868
+7,-113.9348,43.7866,NA,2013,"Microtus montanus","Microtus_montanus",23.6,115,"female",0.8,479,10.6048016568825,51.3912369810415,"Summer",61543
+9,-113.60138,44.97016,"young of year",2010,"Microtus montanus","Microtus_montanus",23.7,131,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61796
+10,-105.873904,38.715216,NA,1989,"Microtus montanus nanus","Microtus_montanus",23.8,125,"female",3.4,264,8.26762121810504,46.3050265890885,"Fall",60891
+7,-109.5363,34.046,NA,1980,"Microtus montanus","Microtus_montanus",23.8,139,"female",4.9,896,6.50349556357614,84.9179218744377,"Summer",61689
+9,-113.60055,44.96759,"young of year",2010,"Microtus montanus","Microtus_montanus",23.8,125,"male",6,404,8.60332476253785,51.8172082440598,"Fall",61791
+7,-119.1920814,37.1749311,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",24,160,"male",6.8,818,6.1126545342057,86.5347905132623,"Summer",60895
+5,-112.48,42.834,NA,2005,"Microtus montanus","Microtus_montanus",24,131,"male",7.1,678,8.90561195215827,67.3452034939509,"Spring",60958
+7,-110.9255,43.121,"adult",2007,"Microtus montanus","Microtus_montanus",24,134,"male",4.4,518,9.3063476219517,32.7688740295942,"Summer",60975
+7,-115.68,44.6042,"adult",2007,"Microtus montanus","Microtus_montanus",24,127,"male",5.3,548,8.43381990451647,84.9143031325345,"Summer",60984
+9,-120.61235,40.80434,NA,2007,"Microtus montanus yosemite","Microtus_montanus",24,143,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",61123
+8,-117.1281,45.9433,"unknown",1999,"Microtus montanus","Microtus_montanus",24,126,"female",9.2,421,6.84514869130398,53.814857110424,"Summer",61168
+8,-117.1125,45.9214,"unknown",1999,"Microtus montanus","Microtus_montanus",24,126,"female",7.9,447,6.74785600069093,52.7905754048674,"Summer",61174
+9,-117.1853,45.9397,"unknown",1999,"Microtus montanus","Microtus_montanus",24,126,"male",8.5,453,6.78565778058041,55.1200376404448,"Fall",61180
+9,-107.546454,40.492061,NA,1979,"Microtus montanus nanus","Microtus_montanus",24,125,"female",5.1,301,10.7065683606189,57.7343607045215,"Fall",61245
+7,-107.7586,37.2388,"subadult",2007,"Microtus montanus","Microtus_montanus",24,134,"female",8.3,475,9.10578820245007,60.4596219775759,"Summer",61317
+7,-114.2823,42.2009,NA,2010,"Microtus montanus","Microtus_montanus",24,138,"male",5.6,934,8.12382858688506,76.2906590613834,"Summer",61341
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",24,144,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61351
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",24,130,"undetermined",7,1060,6.22735899077611,122.034598049638,"Summer",61440
+8,-117.1281,45.9433,"unknown",1999,"Microtus montanus","Microtus_montanus",24,125,"female",9.2,421,6.84514869130398,53.814857110424,"Summer",61522
+9,-113.60834,44.96506,NA,2010,"Microtus montanus","Microtus_montanus",24,129,"female",5.8,429,8.5118633789446,51.3730065372711,"Fall",61638
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",24,143,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61753
+4,-105.798903,39.945421,NA,2013,"Microtus montanus","Microtus_montanus",24.1,176,"female",1.7,572,9.46768027010681,48.922125844456,"Spring",60887
+10,-120.27764,39.42984,NA,1962,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",24.2,139,"male",4.8,1060,6.95796905234087,125.105476712931,"Fall",61229
+7,-109.5014,33.9443,NA,1980,"Microtus montanus","Microtus_montanus",24.2,136,"female",4.1,1028,6.40844022056897,89.6793250352624,"Summer",61852
+10,-106.304365,39.853127,NA,2013,"Microtus montanus","Microtus_montanus",24.4,141,"female",1.9,540,9.83898784520958,51.0822238566577,"Fall",61215
+11,-105.49137,39.990854,NA,1988,"Microtus montanus nanus","Microtus_montanus",24.5,143,"male",5.4,429,8.43863768985291,57.6464502874112,"Fall",60888
+5,-105.8993730212,40.7976159829,NA,2009,"Microtus montanus","Microtus_montanus",24.5,138,"male",2.2,529,8.09290748218164,63.2663386154372,"Spring",61211
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",24.5,128,"female",9.3,917,6.90236564629486,143.167356166435,"Summer",61395
+6,-120.7906,40.67886,NA,2006,"Microtus montanus montanus","Microtus_montanus",24.5,133,"male",9.2,542,8.14709466712837,90.545524730146,"Summer",61464
+7,-112.2121,42.6692,NA,2010,"Microtus montanus","Microtus_montanus",24.5,126,"female",7.4,479,8.74304918726351,60.2623066463231,"Summer",61540
+4,-118.58,44.5,NA,1992,"Microtus montanus nanus","Microtus_montanus",24.6,137,"male",6.9,527,7.29636688338585,62.6742510665396,"Spring",61593
+5,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",24.7,146,"male",9.2,477,8.66266807524207,71.7676624687169,"Spring",61517
+7,-107.8583135973,40.4104294844,NA,2005,"Microtus montanus","Microtus_montanus",25,126,"male",6.4,420,8.91866870755672,41.1882866069689,"Summer",60928
+9,-109.00663,33.84005,NA,2008,"Microtus montanus","Microtus_montanus",25,139,"female",8.4,467,6.91533210929296,79.2263861598771,"Fall",60989
+9,-120.61235,40.80434,NA,2007,"Microtus montanus yosemite","Microtus_montanus",25,144,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",61122
+7,-114.2823,42.2009,NA,2010,"Microtus montanus","Microtus_montanus",25,138,"male",5.6,934,8.12382858688506,76.2906590613834,"Summer",61340
+7,-114.6892,39.2375,NA,2010,"Microtus montanus","Microtus_montanus",25,140,"male",4.8,610,8.65582655402321,67.6037733843793,"Summer",61344
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",25,140,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61350
+9,-120.61235,40.80434,NA,2007,"Microtus montanus yosemite","Microtus_montanus",25,140,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",61482
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",25,135,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61556
+9,-118.97,41.5,NA,1977,"Microtus montanus micropus","Microtus_montanus",25,127,"female",6,510,8.22888482447928,101.835297966529,"Fall",61576
+8,-120.2265,47.2636667,"unknown",1999,"Microtus montanus","Microtus_montanus",25,132,"male",7.4,382,6.81793534908057,99.6526408626399,"Summer",61699
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",25,131,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61733
+5,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",25.1,144,"male",9.2,477,8.66266807524207,71.7676624687169,"Spring",61163
+5,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",25.2,141,"male",9.2,477,8.66266807524207,71.7676624687169,"Spring",61516
+8,-118.67,42.09,"JUVENILE",1998,"Microtus montanus montanus","Microtus_montanus",25.2,145,"male",6.3,828,7.79026198649197,67.4044074699772,"Summer",61598
+9,-113.60138,44.97016,NA,2010,"Microtus montanus","Microtus_montanus",25.2,133,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61800
+9,-113.60138,44.97016,"young of year",2010,"Microtus montanus","Microtus_montanus",25.2,130,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61802
+6,-113.6134,44.9508,NA,2010,"Microtus montanus","Microtus_montanus",25.3,137,"undetermined",6,388,8.56796358535679,52.7898128843345,"Summer",61613
+6,-108.247378,39.838825,NA,1980,"Microtus montanus nanus","Microtus_montanus",25.4,141,"female",7.5,410,8.57027986530761,51.9068711239828,"Summer",61259
+7,-109.1182,33.9443,NA,1980,"Microtus montanus","Microtus_montanus",25.4,156,"male",5.1,711,6.28029023648951,79.0399725323964,"Summer",61691
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",25.5,137,"male",9.3,917,6.90236564629486,143.167356166435,"Summer",61059
+11,-105.7938888889,39.9455555556,NA,2009,"Microtus montanus","Microtus_montanus",25.5,148,"female",1.9,569,8.33715215529896,47.1233401457173,"Fall",61705
+9,-113.60138,44.97016,"young of year",2010,"Microtus montanus","Microtus_montanus",25.5,125,"undetermined",6,405,8.5827655004878,52.2961145574114,"Fall",61788
+7,-106.540599,35.820178,NA,1984,"Microtus montanus","Microtus_montanus",25.6,154,"female",6.4,654,8.2997763752277,64.7092068421342,"Summer",60930
+7,-119.90981,38.66816,NA,2009,"Microtus montanus montanus","Microtus_montanus",25.6,137,"male",5.7,848,7.43596399978245,91.8878635490836,"Summer",61142
+8,-107.181084,40.499062,NA,1997,"Microtus montanus","Microtus_montanus",25.8,140,"female",5,557,9.53266712018428,57.0700015643438,"Summer",61194
+6,-113.6134,44.9508,NA,2010,"Microtus montanus","Microtus_montanus",25.8,134,"male",6,388,8.56796358535679,52.7898128843345,"Summer",61783
+9,-107.546454,40.492061,NA,1979,"Microtus montanus nanus","Microtus_montanus",26,135,"female",5.1,301,10.7065683606189,57.7343607045215,"Fall",60907
+9,-107.482403,40.91266,NA,1979,"Microtus montanus nanus","Microtus_montanus",26,142,"male",3.6,548,9.96081717470403,66.2208326042369,"Fall",60908
+7,-113.032563,37.380583,NA,1995,"Microtus montanus","Microtus_montanus",26,139,"male",7.7,638,6.73342521689483,88.8300086116689,"Summer",60926
+7,-108.3281822,38.4941833,"adult",1981,"Microtus montanus","Microtus_montanus",26,143,"male",8.2,472,8.09209771657173,63.0856855151208,"Summer",60953
+5,-112.43,42.727,NA,2005,"Microtus montanus","Microtus_montanus",26,155,"male",6.8,760,8.85574629403092,65.981156166177,"Spring",60956
+7,-107.7586,37.2388,"adult",2007,"Microtus montanus","Microtus_montanus",26,144,"female",8.3,475,9.10578820245007,60.4596219775759,"Summer",60981
+5,-119.60513,37.73797,NA,2003,"Microtus montanus yosemite","Microtus_montanus",26,135,"female",12.5,804,7.36566049621177,117.717066572393,"Spring",61030
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",26,121,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61037
+10,-107.5299683,38.4225578,NA,1984,"Microtus montanus fusus","Microtus_montanus",26,163,"male",5.1,423,10.0711220824693,53.0166723193268,"Fall",61145
+5,-120.2072,47.6761,"unknown",2000,"Microtus montanus","Microtus_montanus",26,136,"male",9.7,214,9.12039007671904,89.8416756939312,"Spring",61154
+7,-114.6892,39.2375,NA,2010,"Microtus montanus","Microtus_montanus",26,135,"male",4.8,610,8.65582655402321,67.6037733843793,"Summer",61348
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",26,127,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61375
+7,-119.49919,37.82637,NA,2004,"Microtus montanus yosemite","Microtus_montanus",26,139,"male",5.9,1124,6.24055043221106,118.834376093719,"Summer",61451
+9,-117.1957,45.9433,"unknown",1999,"Microtus montanus","Microtus_montanus",26,143,"female",7.9,466,6.74305478835727,55.4047038011397,"Fall",61527
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",26,139,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61756
+7,-118.16508,37.53101,NA,2007,"Microtus montanus yosemite","Microtus_montanus",26,140,"male",3.4,218,7.03266728140249,97.947285750455,"Summer",61828
+7,-109.5363,34.1187,NA,1980,"Microtus montanus","Microtus_montanus",26.1,152,"female",4.7,882,6.55888825575761,84.7506711108744,"Summer",61681
+9,-113.60138,44.97016,"young of year",2010,"Microtus montanus","Microtus_montanus",26.2,132,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61634
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",26.3,134,"male",9.3,917,6.90236564629486,143.167356166435,"Summer",61396
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",26.5,137,"male",11.9,832,7.28934465192485,118.961909919824,"Fall",61066
+9,-117.2764,46.0036197,"unknown",1999,"Microtus montanus","Microtus_montanus",26.5,129,"male",10.1,446,6.76449621855974,64.6130470284846,"Fall",61182
+6,-107.2892,44.0511,"adult",2010,"Microtus montanus","Microtus_montanus",26.5,138,"female",5.6,467,8.85808567457901,94.2121630792873,"Summer",61354
+6,-107.3666541445,40.573697,NA,2004,"Microtus montanus","Microtus_montanus",26.5,136,"female",5.5,445,9.12980467114896,39.6880056358846,"Summer",61774
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",26.8,134,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61845
+11,-105.490859,39.991077,NA,1988,"Microtus montanus nanus","Microtus_montanus",27,158,"female",5.4,429,8.42835671822788,57.6464502874112,"Fall",60892
+8,-106.3211111111,35.7788888889,NA,1977,"Microtus montanus","Microtus_montanus",27,135,"female",10.3,430,8.68960978305805,87.8300949080782,"Summer",60929
+6,-107.3033,44.0506,"adult",2010,"Microtus montanus","Microtus_montanus",27,135,"female",6,446,8.93978170704951,95.7324278439025,"Summer",61008
+3,-117.1786,46.7314,"unknown",1931,"Microtus montanus","Microtus_montanus",27,127,"female",8.2,496,7.95685334485405,78.5881350893593,"Spring",61191
+9,-107.546454,40.492061,NA,1979,"Microtus montanus nanus","Microtus_montanus",27,136,"male",5.1,301,10.7065683606189,57.7343607045215,"Fall",61242
+9,-107.546454,40.492061,NA,1979,"Microtus montanus nanus","Microtus_montanus",27,141,"female",5.1,301,10.7065683606189,57.7343607045215,"Fall",61243
+7,-110.4044,41.0365,"adult",2007,"Microtus montanus","Microtus_montanus",27,140,"male",2.7,488,9.44442676766023,59.956289957976,"Summer",61323
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",27,136,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61436
+8,-121.36491,40.40535,NA,2007,"Microtus montanus yosemite","Microtus_montanus",27,139,"female",8.3,853,7.37285664796998,136.776097015676,"Summer",61483
+7,-119.726345,49.000588,NA,1981,"Microtus montanus canescens","Microtus_montanus",27,142,"female",9.7,366,7.83814971208709,46.6693435922466,"Summer",61697
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",27,132,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61731
+7,-119.41473,37.83206,NA,2007,"Microtus montanus yosemite","Microtus_montanus",27,136,"male",4.4,428,6.76548728339786,140.707614120106,"Summer",61830
+7,-109.5014,33.9443,NA,1980,"Microtus montanus","Microtus_montanus",27,145,"male",4.1,1028,6.40844022056897,89.6793250352624,"Summer",61853
+9,-113.60138,44.97016,"young of year",2010,"Microtus montanus","Microtus_montanus",27.2,131,"undetermined",6,405,8.5827655004878,52.2961145574114,"Fall",61629
+8,-105.873904,38.715216,"immature",1989,"Microtus montanus nanus","Microtus_montanus",27.5,134,"female",3.4,264,8.26762121810504,46.3050265890885,"Summer",60890
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",27.5,135,"female",7,1060,6.22735899077611,122.034598049638,"Summer",61078
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",27.5,NA,"undetermined",7,1060,6.22735899077611,122.034598049638,"Summer",61434
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",27.5,139,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61675
+3,-113.6134,44.9503,NA,2012,"Microtus montanus","Microtus_montanus",27.7,154,"female",7.3,258,8.69957766303351,57.9065097580871,"Spring",61820
+8,-105.9116797,39.8472087,NA,1983,"Microtus montanus","Microtus_montanus",27.9,130,"male",1.3,991,8.01899260657113,54.3531484152559,"Summer",61303
+6,-107.2892,44.0511,"adult",2010,"Microtus montanus","Microtus_montanus",28,139,"female",5.6,467,8.85808567457901,94.2121630792873,"Summer",61012
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",28,133,"male",12.2,810,7.32049840992381,118.482892852925,"Spring",61043
+7,-118.14757,37.50348,NA,2006,"Microtus montanus yosemite","Microtus_montanus",28,140,"female",2.5,256,7.21981175780794,105.505833127196,"Summer",61098
+5,-118.20827,37.77818,NA,2010,"Microtus montanus yosemite","Microtus_montanus",28,151,"female",8.4,164,7.37358101397801,125.742871456053,"Spring",61130
+7,-119.4807252,37.4374882,"unknown",1965,"Microtus montanus","Microtus_montanus",28,162,"female",7.3,1310,5.5028091999368,121.342276491157,"Summer",61187
+7,-119.269072,38.468374,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",28,130,"female",5,470,7.22677575954781,81.7560053018293,"Summer",61231
+6,-108.247378,39.838825,NA,1980,"Microtus montanus nanus","Microtus_montanus",28,144,"female",7.5,410,8.57027986530761,51.9068711239828,"Summer",61252
+7,-106.535852,39.9900236,NA,1980,"Microtus montanus nanus","Microtus_montanus",28,145,"male",4.7,332,8.42983068955394,56.4811372565615,"Summer",61264
+7,-120.4941,44.4129,"adult",2007,"Microtus montanus","Microtus_montanus",28,159,"male",7.3,350,7.10741716714861,63.4025920822314,"Summer",61331
+6,-107.2347,44.2263,"young adult",2010,"Microtus montanus","Microtus_montanus",28,133,"male",0.8,584,8.10190306862118,81.5886965176174,"Summer",61355
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",28,135,"male",9.3,917,6.90236564629486,143.167356166435,"Summer",61390
+9,-120.60123,40.8135,NA,2007,"Microtus montanus yosemite","Microtus_montanus",28,145,"male",8.5,225,8.20710612268971,88.4908258670144,"Fall",61479
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",28,110,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61570
+9,-118.98,41.5,NA,1977,"Microtus montanus micropus","Microtus_montanus",28,139,"female",6.3,437,8.29955730838408,99.0084051975412,"Fall",61742
+2,-121.33,40.41,NA,1958,"Microtus montanus montanus","Microtus_montanus",28.3,145,"female",7.8,1424,6.69619973634978,95.7943567390517,"Winter",61588
+6,-113.5532,44.9436,NA,2010,"Microtus montanus","Microtus_montanus",28.4,132,"male",5.2,544,8.38335291280321,57.5277043088961,"Summer",61608
+9,-113.60834,44.96506,NA,2010,"Microtus montanus","Microtus_montanus",28.4,145,"male",5.8,429,8.5118633789446,51.3730065372711,"Fall",61792
+9,-107.482403,40.91266,NA,1979,"Microtus montanus nanus","Microtus_montanus",28.5,123,"male",3.6,548,9.96081717470403,66.2208326042369,"Fall",60909
+7,-119.3422,37.7882,NA,2004,"Microtus montanus yosemite","Microtus_montanus",28.5,140,"male",3.2,1022,6.59253480472535,120.503566702304,"Summer",61091
+6,-120.82179,40.55524,NA,2006,"Microtus montanus montanus","Microtus_montanus",28.5,140,"female",9.1,778,8.16130931266361,91.5973063513965,"Summer",61115
+9,-120.61235,40.80434,NA,2007,"Microtus montanus yosemite","Microtus_montanus",28.5,164,"female",8.5,238,8.22208316153221,89.2912731708255,"Fall",61120
+8,-117.1281,45.9433,"unknown",1999,"Microtus montanus","Microtus_montanus",28.5,127,"male",9.2,421,6.84514869130398,53.814857110424,"Summer",61185
+3,-117.1786,46.7314,"unknown",1932,"Microtus montanus","Microtus_montanus",28.5,142,"female",8,578,8.16136500763682,79.4535155730866,"Spring",61189
+9,-107.482403,40.91266,NA,1979,"Microtus montanus nanus","Microtus_montanus",28.5,137,"female",3.6,548,9.96081717470403,66.2208326042369,"Fall",61249
+1,-107.64,39.57,NA,2012,"Microtus montanus","Microtus_montanus",28.5,122,"male",10.1,210,9.45225642453438,80.6649702601899,"Winter",61710
+6,-113.5532,44.9438,NA,2010,"Microtus montanus","Microtus_montanus",28.7,156,"male",5.2,544,8.38335291280321,57.5277043088961,"Summer",61781
+9,-113.60834,44.96506,"adult",2010,"Microtus montanus","Microtus_montanus",28.8,140,"female",5.8,429,8.5118633789446,51.3730065372711,"Fall",61789
+7,-120.4941,44.4129,"adult",2007,"Microtus montanus","Microtus_montanus",29,155,"female",7.3,350,7.10741716714861,63.4025920822314,"Summer",60986
+7,-108.9375052,40.5624842,NA,1996,"Microtus montanus","Microtus_montanus",29,110,"female",7.6,371,9.39762623154799,47.1493740395338,"Summer",61019
+7,-106.9333333333,40.2166666667,NA,1996,"Microtus montanus","Microtus_montanus",29,160,"female",4.7,547,9.0672236905541,37.5277428377153,"Summer",61148
+8,-117.1125,45.9214,"unknown",1999,"Microtus montanus","Microtus_montanus",29,136,"female",7.9,447,6.74785600069093,52.7905754048674,"Summer",61177
+9,-108.9060726,40.7974869,NA,1981,"Microtus montanus nanus","Microtus_montanus",29,139,"male",7.6,265,8.99599237371168,90.2221462100475,"Fall",61267
+8,-109.02069,33.50071,NA,2008,"Microtus montanus","Microtus_montanus",29,152,"male",11.3,519,6.96738614524627,78.1296972767544,"Summer",61334
+7,-116.026,41.6959,NA,2010,"Microtus montanus","Microtus_montanus",29,141,"female",6.4,617,7.93787907708503,73.4661613749528,"Summer",61361
+8,-107.64,39.57,NA,2011,"Microtus montanus","Microtus_montanus",29,147,"male",8.3,409,9.824840965634,44.1799915997503,"Summer",61537
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",29,146,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61577
+10,-109.44889,40.79333,NA,1990,"Microtus montanus","Microtus_montanus",29,135,"male",3.8,456,9.06164076386464,52.2105563050084,"Fall",61693
+9,-113.61723,44.6762,"young of year",2010,"Microtus montanus","Microtus_montanus",29,137,"male",1.9,811,7.73486302791498,52.3040242776794,"Fall",61803
+5,-119.593776,49.49882,NA,1980,"Microtus montanus canescens","Microtus_montanus",29,123,"female",9.2,307,8.16894989727826,49.9029914337144,"Spring",61859
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",29.1,157,"female",9.2,477,8.66266807524207,71.7676624687169,"Summer",61161
+12,-120.98,40.67,NA,1958,"Microtus montanus montanus","Microtus_montanus",29.1,151,"female",7.1,776,6.77134671713363,73.9328737006826,"Winter",61591
+9,-113.60138,44.97016,NA,2010,"Microtus montanus","Microtus_montanus",29.1,138,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61623
+6,-113.55099,44.81591,NA,2012,"Microtus montanus","Microtus_montanus",29.1,143,"male",6.8,207,8.69975182509144,52.2104980792084,"Summer",61813
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",29.2,141,"female",9.2,477,8.66266807524207,71.7676624687169,"Summer",61156
+9,-113.60138,44.97016,"young of year",2010,"Microtus montanus","Microtus_montanus",29.2,131,"female",6,405,8.5827655004878,52.2961145574114,"Fall",61639
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",29.3,148,"female",9.2,477,8.66266807524207,71.7676624687169,"Summer",61159
+9,-113.60055,44.96759,"adult",2010,"Microtus montanus","Microtus_montanus",29.3,142,"female",6,404,8.60332476253785,51.8172082440598,"Fall",61619
+9,-113.60138,44.97016,"young of year",2010,"Microtus montanus","Microtus_montanus",29.3,135,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61635
+4,-113.6574,44.9435,NA,2011,"Microtus montanus","Microtus_montanus",29.4,133,"female",5.7,294,9.64039795481871,79.3994328246896,"Spring",61817
+6,-107.3033,44.0506,"adult",2010,"Microtus montanus","Microtus_montanus",29.5,140,"male",6,446,8.93978170704951,95.7324278439025,"Summer",61010
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",29.5,145,"female",7,1060,6.22735899077611,122.034598049638,"Summer",61075
+3,-117.1786,46.7314,"unknown",1931,"Microtus montanus","Microtus_montanus",29.5,144,"female",8.2,496,7.95685334485405,78.5881350893593,"Spring",61190
+9,-107.482403,40.91266,NA,1979,"Microtus montanus nanus","Microtus_montanus",29.5,127,"female",3.6,548,9.96081717470403,66.2208326042369,"Fall",61250
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",29.5,146,"female",7,1060,6.22735899077611,122.034598049638,"Summer",61430
+8,-117.1125,45.9286,"unknown",1999,"Microtus montanus","Microtus_montanus",29.5,148,"male",8.5,434,6.81099823591939,53.1437010588686,"Summer",61525
+6,-106.79,37.54,NA,1973,"Microtus montanus fusus","Microtus_montanus",29.5,169,"male",0.5,660,8.08033058879663,78.2014307355686,"Summer",61757
+8,-118.68,42.09,NA,1997,"Microtus montanus montanus","Microtus_montanus",29.5,142,"male",6.6,498,7.48250484716708,98.7471661156456,"Summer",61767
+9,-120.10583,39.475,NA,1970,"Microtus montanus","Microtus_montanus",29.6,NA,"female",6.4,927,6.97864708604147,128.421316941165,"Fall",61235
+8,-105.9116797,39.8472087,NA,1983,"Microtus montanus","Microtus_montanus",29.7,125,"male",1.3,991,8.01899260657113,54.3531484152559,"Summer",61309
+6,-107.02,37.25,NA,1973,"Microtus montanus fusus","Microtus_montanus",29.7,151,"female",5.2,410,8.96994983263563,46.5261810455867,"Summer",61580
+9,-113.60138,44.97016,"young of year",2010,"Microtus montanus","Microtus_montanus",29.7,145,"female",6,405,8.5827655004878,52.2961145574114,"Fall",61809
+7,-105.395396,39.364793,NA,2008,"Microtus montanus","Microtus_montanus",29.8,146,"female",6.6,529,7.82030670560285,60.1775484740414,"Summer",61704
+5,-112.43,42.727,NA,2005,"Microtus montanus","Microtus_montanus",30,120,"undetermined",6.8,760,8.85574629403092,65.981156166177,"Spring",60955
+7,-121.416238,44.303758,"adult",2011,"Microtus montanus","Microtus_montanus",30,146,"female",7.6,309,6.61931860449992,64.0085605853565,"Summer",61017
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",30,139,"female",7,1060,6.22735899077611,122.034598049638,"Summer",61082
+6,-123.5831088,40.890626,NA,2004,"Microtus montanus yosemite","Microtus_montanus",30,151,"male",13.6,1371,6.39358106133635,117.482640807367,"Summer",61101
+6,-120.7906,40.67886,NA,2006,"Microtus montanus montanus","Microtus_montanus",30,134,"male",9.2,542,8.14709466712837,90.545524730146,"Summer",61103
+7,-120.4941,44.4129,"adult",2007,"Microtus montanus","Microtus_montanus",30,158,"male",7.3,350,7.10741716714861,63.4025920822314,"Summer",61329
+8,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",30,145,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61553
+9,-118.98,41.5,NA,1977,"Microtus montanus micropus","Microtus_montanus",30,142,"female",6.3,437,8.29955730838408,99.0084051975412,"Fall",61564
+8,-118.66,42.11,NA,1997,"Microtus montanus montanus","Microtus_montanus",30,139,"male",6.2,535,7.41134981367133,99.6070539781248,"Summer",61595
+8,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",30,140,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61724
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",30,139,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61727
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",30,134,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61751
+5,-113.5988,44.9611,NA,2011,"Microtus montanus","Microtus_montanus",30.1,150,"male",5,374,9.44104513988432,72.4959861457721,"Spring",61646
+9,-113.60055,44.96759,"adult",2010,"Microtus montanus","Microtus_montanus",30.2,143,"female",6,404,8.60332476253785,51.8172082440598,"Fall",61811
+8,-106.356417,39.606097,NA,2001,"Microtus montanus","Microtus_montanus",30.4,133,"male",1.5,725,8.33580720855406,43.3062439397354,"Summer",60951
+9,-106.304365,39.853127,NA,2008,"Microtus montanus","Microtus_montanus",30.4,142,"female",2.2,520,9.08489839172012,29.079475967407,"Fall",61208
+6,-105.463,36.058,NA,2007,"Microtus montanus fusus","Microtus_montanus",30.5,161,"female",5.3,870,7.876023262043,55.3094760564926,"Summer",60871
+7,-107.2939801599,40.114841,NA,2005,"Microtus montanus","Microtus_montanus",30.5,139,"female",1.7,1353,7.47911739242653,41.3497427667161,"Summer",60927
+5,-112.48,42.834,NA,2005,"Microtus montanus","Microtus_montanus",30.5,148,"male",7.1,678,8.90561195215827,67.3452034939509,"Spring",60954
+10,-107.5299683,38.4225578,NA,1984,"Microtus montanus fusus","Microtus_montanus",30.7,136,"male",5.1,423,10.0711220824693,53.0166723193268,"Fall",61147
+7,-107.182753,40.502636,NA,1997,"Microtus montanus","Microtus_montanus",30.8,150,"female",5.1,555,9.55400518900399,57.3399312896358,"Summer",61192
+7,-107.95307,39.07567,NA,2012,"Microtus montanus","Microtus_montanus",31,130,"female",2.4,558,8.03959896482104,94.5102848784337,"Summer",60886
+7,-106.535852,39.9900236,NA,1980,"Microtus montanus nanus","Microtus_montanus",31,145,"male",4.7,332,8.42983068955394,56.4811372565615,"Summer",60915
+7,-109.9072,43.0654,"adult",2007,"Microtus montanus","Microtus_montanus",31,154,"female",2.1,402,9.95387848879506,34.0592643993446,"Summer",60976
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",31,145,"female",7,1060,6.22735899077611,122.034598049638,"Summer",61081
+7,-119.34946,37.79834,NA,2004,"Microtus montanus yosemite","Microtus_montanus",31,136,"male",3.3,988,6.51513389708682,117.890535631513,"Summer",61093
+8,-117.1281,45.9543,"unknown",1999,"Microtus montanus","Microtus_montanus",31,155,"female",9.6,412,6.90302415063445,54.1972199319438,"Summer",61171
+8,-117.1125,45.9214,"unknown",1999,"Microtus montanus","Microtus_montanus",31,129,"male",7.9,447,6.74785600069093,52.7905754048674,"Summer",61175
+11,-105.49137,39.990854,NA,1988,"Microtus montanus nanus","Microtus_montanus",31,152,"male",5.4,429,8.43863768985291,57.6464502874112,"Fall",61219
+7,-110.4044,41.0365,"adult",2007,"Microtus montanus","Microtus_montanus",31,146,"undetermined",2.7,488,9.44442676766023,59.956289957976,"Summer",61322
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",31,134,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61441
+7,-119.41473,37.83206,NA,2007,"Microtus montanus yosemite","Microtus_montanus",31,154,"male",4.4,428,6.76548728339786,140.707614120106,"Summer",61657
+10,-109.3858,40.7928,NA,1986,"Microtus montanus","Microtus_montanus",31,145,"female",4.2,652,7.77074934961523,78.3426432942545,"Fall",61694
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",31.1,150,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61673
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",31.2,149,"male",9.2,477,8.66266807524207,71.7676624687169,"Summer",61158
+5,-113.5988,44.9611,NA,2011,"Microtus montanus","Microtus_montanus",31.3,132,"male",5,374,9.44104513988432,72.4959861457721,"Spring",61644
+6,-107.2347,44.2263,"adult",2010,"Microtus montanus","Microtus_montanus",31.5,153,"female",0.8,584,8.10190306862118,81.5886965176174,"Summer",61013
+9,-117.1125,45.9214,"unknown",1999,"Microtus montanus","Microtus_montanus",31.5,144,"male",7.9,447,6.74785600069093,52.7905754048674,"Fall",61179
+9,-107.482403,40.91266,NA,1979,"Microtus montanus nanus","Microtus_montanus",31.5,115,"female",3.6,548,9.96081717470403,66.2208326042369,"Fall",61251
+7,-108.9060726,40.7974869,NA,1981,"Microtus montanus nanus","Microtus_montanus",31.5,154,"female",7.6,265,8.99599237371168,90.2221462100475,"Summer",61265
+7,-119.265487,38.469445,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",32,153,"female",5.2,458,7.24177694584232,81.4631026122876,"Summer",60900
+7,-109.9072,43.0654,"adult",2007,"Microtus montanus","Microtus_montanus",32,155,"female",2.1,402,9.95387848879506,34.0592643993446,"Summer",60971
+5,-119.60513,37.73797,NA,2003,"Microtus montanus yosemite","Microtus_montanus",32,155,"female",12.5,804,7.36566049621177,117.717066572393,"Spring",61026
+7,-119.3465,37.78949,NA,2004,"Microtus montanus yosemite","Microtus_montanus",32,148,"female",3.2,1015,6.56226586883931,119.691618611982,"Summer",61095
+5,-118.20827,37.77818,NA,2010,"Microtus montanus yosemite","Microtus_montanus",32,166,"female",8.4,164,7.37358101397801,125.742871456053,"Spring",61137
+8,-117.1281,45.9433,"unknown",1999,"Microtus montanus","Microtus_montanus",32,134,"male",9.2,421,6.84514869130398,53.814857110424,"Summer",61169
+9,-117.1853,45.9397,"unknown",1999,"Microtus montanus","Microtus_montanus",32,134,"female",8.5,453,6.78565778058041,55.1200376404448,"Fall",61181
+7,-115.68,44.6042,"adult",2007,"Microtus montanus","Microtus_montanus",32,139,"female",5.3,548,8.43381990451647,84.9143031325345,"Summer",61325
+5,-119.608,37.7323,NA,2003,"Microtus montanus yosemite","Microtus_montanus",32,149,"female",12.3,811,7.31499083451858,121.000625538512,"Spring",61365
+6,-119.61269,37.84469,NA,2004,"Microtus montanus yosemite","Microtus_montanus",32,141,"female",7.3,1046,6.26894703835476,121.482904627697,"Summer",61442
+5,-118.57446,37.44568,NA,2010,"Microtus montanus yosemite","Microtus_montanus",32,157,"male",13.5,103,7.65488059800393,117.121183981267,"Spring",61486
+8,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",32,143,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61554
+7,-109.484,33.9588,NA,1980,"Microtus montanus","Microtus_montanus",32,129,"female",4.3,980,6.42331807958435,89.384451104211,"Summer",61685
+3,-112.65538,43.03242,NA,2011,"Microtus montanus","Microtus_montanus",32,152,"male",7,293,9.84036215150272,80.1958009289309,"Spring",61814
+7,-119.41473,37.83206,NA,2007,"Microtus montanus yosemite","Microtus_montanus",32,144,"male",4.4,428,6.76548728339786,140.707614120106,"Summer",61829
+6,-120.76608,40.52491,NA,2006,"Microtus montanus montanus","Microtus_montanus",32.5,129,"male",9.2,808,8.29495556822265,95.6341149844027,"Summer",61107
+7,-107.8264046,38.4143809,NA,1978,"Microtus montanus fusus","Microtus_montanus",32.6,143,"male",8.8,274,9.68433208222373,57.754213795354,"Summer",61239
+9,-113.60834,44.96506,"adult",2010,"Microtus montanus","Microtus_montanus",32.9,143,"female",5.8,429,8.5118633789446,51.3730065372711,"Fall",61790
+6,-113.364,45.2788,"Adult",2010,"Microtus montanus","Microtus_montanus",33,146,"female",2.4,607,7.8119178570989,50.5295796060131,"Summer",60991
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",33,145,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61038
+8,-121.30013,40.56289,NA,2007,"Microtus montanus montanus","Microtus_montanus",33,145,"female",7.9,602,7.52788754625698,118.633454113999,"Summer",61119
+10,-117.0552,45.9176,"unknown",1998,"Microtus montanus","Microtus_montanus",33,133,"male",10.2,577,7.8272639284785,60.1157825028147,"Fall",61166
+9,-117.2764,46.0036197,"unknown",1999,"Microtus montanus","Microtus_montanus",33,144,"female",10.1,446,6.76449621855974,64.6130470284846,"Fall",61183
+7,-105.6413,40.8005,NA,2009,"Microtus montanus","Microtus_montanus",33,144,"male",2.5,588,7.80517990396976,72.1106837838127,"Summer",61202
+6,-108.247378,39.838825,NA,1980,"Microtus montanus nanus","Microtus_montanus",33,154,"female",7.5,410,8.57027986530761,51.9068711239828,"Summer",61255
+8,-108.840622,40.603948,NA,1988,"Microtus montanus nanus","Microtus_montanus",33,145,"female",5.8,281,10.359927898427,66.8918675525316,"Summer",61272
+7,-112.544269,41.618844,NA,2001,"Microtus montanus","Microtus_montanus",33,154,"male",9,309,10.7249072892793,60.0122833738962,"Summer",61273
+7,-120.4941,44.4129,"adult",2007,"Microtus montanus","Microtus_montanus",33,143,"female",7.3,350,7.10741716714861,63.4025920822314,"Summer",61327
+6,-119.659,37.85053,NA,2003,"Microtus montanus yosemite","Microtus_montanus",33,165,"female",7.8,1194,6.76129806436246,139.101276718543,"Summer",61381
+5,-118.76654,37.70205,NA,2010,"Microtus montanus yosemite","Microtus_montanus",33,NA,"female",8.3,349,7.13231548954645,149.254291479156,"Spring",61490
+3,-117.1786,46.7314,"unknown",1931,"Microtus montanus","Microtus_montanus",33,138,"female",8.2,496,7.95685334485405,78.5881350893593,"Spring",61529
+9,-118.98,41.5,NA,1977,"Microtus montanus micropus","Microtus_montanus",33,130,"male",6.3,437,8.29955730838408,99.0084051975412,"Fall",61565
+9,-113.60138,44.97016,NA,2010,"Microtus montanus","Microtus_montanus",33,145,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61625
+7,-109.30111,33.73167,NA,1964,"Microtus montanus","Microtus_montanus",33,155,"male",6.2,634,7.88602042742841,101.520271419183,"Summer",61666
+9,-109.29667,38.56085,NA,2007,"Microtus montanus","Microtus_montanus",33,164,"male",8.3,533,9.28923701077889,59.7663750867864,"Fall",61780
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",33,158,"female",4.8,645,6.81368386988917,111.133860911309,"Summer",61824
+10,-118.57583,35.87278,NA,1965,"Microtus montanus","Microtus_montanus",33,173,"female",6.8,1055,6.38155485945568,132.54298413962,"Fall",61847
+6,-105.463,36.058,NA,2007,"Microtus montanus","Microtus_montanus",33.5,159,"male",5.3,870,7.876023262043,55.3094760564926,"Summer",60870
+7,-106.535852,39.9900236,NA,1980,"Microtus montanus nanus","Microtus_montanus",33.5,147,"male",4.7,332,8.42983068955394,56.4811372565615,"Summer",60914
+6,-107.2892,44.0511,"adult",2010,"Microtus montanus","Microtus_montanus",33.5,142,"female",5.6,467,8.85808567457901,94.2121630792873,"Summer",61357
+7,-109.30111,33.73167,NA,1964,"Microtus montanus","Microtus_montanus",33.6,147,"male",6.2,634,7.88602042742841,101.520271419183,"Summer",61667
+5,-106.304365,39.853127,NA,2009,"Microtus montanus","Microtus_montanus",33.65,136,"male",2.2,461,8.69381528688206,40.9093083558298,"Spring",60880
+9,-113.60138,44.97016,"adult",2010,"Microtus montanus","Microtus_montanus",33.9,139,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61636
+9,-112.97966,44.25307,NA,2010,"Microtus montanus","Microtus_montanus",33.9,143,"male",3.2,452,8.77528813305762,55.3143237886342,"Fall",61640
+8,-119.77221,37.82534,NA,2004,"Microtus montanus yosemite","Microtus_montanus",34,152,"female",9.6,884,6.37870510275234,121.888239537941,"Summer",61096
+6,-108.924977,40.7975011,NA,1982,"Microtus montanus nanus","Microtus_montanus",34,149,"male",5.9,243,10.4029133448571,77.0555964866318,"Summer",61268
+7,-120.4941,44.4129,"adult",2007,"Microtus montanus","Microtus_montanus",34,142,"female",7.3,350,7.10741716714861,63.4025920822314,"Summer",61330
+8,-119.42969,37.90236,NA,2003,"Microtus montanus yosemite","Microtus_montanus",34,157,"male",5.7,823,6.93412182288035,113.228606421754,"Summer",61403
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",34,141,"male",11.9,832,7.28934465192485,118.961909919824,"Fall",61413
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",34,NA,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61431
+7,-119.49919,37.82637,NA,2004,"Microtus montanus yosemite","Microtus_montanus",34,150,"male",5.9,1124,6.24055043221106,118.834376093719,"Summer",61449
+7,-119.40217,37.73946,NA,2004,"Microtus montanus yosemite","Microtus_montanus",34,150,"female",6.5,945,6.38328783906567,117.897241272896,"Summer",61459
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",34,149,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61545
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",34,146,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61548
+9,-119.12977,37.90028,NA,2004,"Microtus montanus yosemite","Microtus_montanus",34,165,"female",7.7,471,7.29183852611323,121.430219304826,"Fall",61822
+9,-113.60055,44.96759,NA,2010,"Microtus montanus","Microtus_montanus",34.1,144,"female",6,404,8.60332476253785,51.8172082440598,"Fall",61637
+9,-113.60138,44.97016,"young of year",2010,"Microtus montanus","Microtus_montanus",34.2,152,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61626
+5,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",34.3,156,"female",9.2,477,8.66266807524207,71.7676624687169,"Spring",61515
+7,-105.395396,39.364793,NA,2008,"Microtus montanus","Microtus_montanus",34.3,158,"female",6.6,529,7.82030670560285,60.1775484740414,"Summer",61532
+9,-113.60138,44.97016,"adult",2010,"Microtus montanus","Microtus_montanus",34.3,150,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61797
+6,-106.304365,39.853127,NA,2013,"Microtus montanus","Microtus_montanus",34.4,181,"male",1.9,540,9.83898784520958,51.0822238566577,"Summer",61214
+7,-120.74,40.41,NA,1958,"Microtus montanus montanus","Microtus_montanus",34.4,164,"male",8.9,597,6.9933897360293,82.8796066503087,"Summer",61587
+8,-107.85,44.81,NA,1999,"Microtus montanus zygomaticus","Microtus_montanus",34.4,144,"female",1.5,744,6.81715194242145,74.6067798631694,"Summer",61599
+8,-109.5363,34.0751,NA,1980,"Microtus montanus","Microtus_montanus",34.4,153,"female",4.7,892,6.53707375920858,84.7223395093817,"Summer",61690
+7,-119.269072,38.468374,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",34.5,156,"female",5,470,7.22677575954781,81.7560053018293,"Summer",60897
+3,-112.65538,43.03242,NA,2011,"Microtus montanus","Microtus_montanus",34.5,134,"male",7,293,9.84036215150272,80.1958009289309,"Spring",61819
+4,-117.1786,46.7314,"unknown",1932,"Microtus montanus","Microtus_montanus",34.6,153,"male",8,578,8.16136500763682,79.4535155730866,"Spring",61152
+8,-109.33194,33.99056,NA,1980,"Microtus montanus","Microtus_montanus",34.7,145,"female",4.7,841,6.46639330881152,86.3362291706489,"Summer",61688
+7,-109.30111,33.73167,NA,1964,"Microtus montanus","Microtus_montanus",34.8,142,"female",6.2,634,7.88602042742841,101.520271419183,"Summer",61664
+7,-107.182753,40.502636,NA,1997,"Microtus montanus","Microtus_montanus",34.9,165,"male",5.1,555,9.55400518900399,57.3399312896358,"Summer",61193
+9,-113.60055,44.96759,"adult",2010,"Microtus montanus","Microtus_montanus",34.9,154,"male",6,404,8.60332476253785,51.8172082440598,"Fall",61804
+7,-106.304365,39.853127,NA,2009,"Microtus montanus","Microtus_montanus",35,119,"male",2.2,461,8.69381528688206,40.9093083558298,"Summer",60881
+7,-108.924977,40.7975011,NA,1981,"Microtus montanus","Microtus_montanus",35,150,"female",7.7,270,8.95417204266799,92.0430154353506,"Summer",60920
+7,-107.7586,37.2388,"adult",2007,"Microtus montanus","Microtus_montanus",35,148,"male",8.3,475,9.10578820245007,60.4596219775759,"Summer",60979
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",35,145,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",60996
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",35,146,"female",9.1,756,8.18655586737774,91.8460634681172,"Summer",61111
+9,-120.61235,40.80434,NA,2007,"Microtus montanus yosemite","Microtus_montanus",35,160,"male",8.5,238,8.22208316153221,89.2912731708255,"Fall",61121
+5,-118.77307,37.68773,NA,2010,"Microtus montanus yosemite","Microtus_montanus",35,151,"male",8.3,357,7.08876618746916,149.759703226683,"Spring",61134
+7,-106,37,NA,1996,"Microtus montanus","Microtus_montanus",35,167,"male",7,259,8.09550941740375,86.1250155619678,"Summer",61149
+8,-117.1853,45.9433,"unknown",1999,"Microtus montanus","Microtus_montanus",35,150,"male",8,458,6.72226062264681,54.9915794246813,"Summer",61172
+8,-117.1125,45.9214,"unknown",1999,"Microtus montanus","Microtus_montanus",35,137,"female",7.9,447,6.74785600069093,52.7905754048674,"Summer",61176
+5,-112.48,42.843,NA,2005,"Microtus montanus","Microtus_montanus",35,150,"male",7.2,638,8.95040205631551,67.4193050130606,"Spring",61314
+7,-114.2823,42.2009,NA,2010,"Microtus montanus","Microtus_montanus",35,157,"male",5.6,934,8.12382858688506,76.2906590613834,"Summer",61339
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",35,NA,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61435
+5,-118.77307,37.68773,NA,2010,"Microtus montanus yosemite","Microtus_montanus",35,164,"female",8.3,357,7.08876618746916,149.759703226683,"Spring",61494
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",35,150,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61547
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",35,152,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61561
+3,-120.93,40.41,NA,1958,"Microtus montanus montanus","Microtus_montanus",35,168,"male",7.4,1189,6.67571355850081,95.9396751393256,"Spring",61589
+7,-120.457778,50.799167,NA,1949,"Microtus montanus canescens","Microtus_montanus",35,155,"female",4.4,340,10.4020212196739,64.0324705299132,"Summer",61695
+7,-114.725,42.549,NA,2001,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",35,143,"female",9.9,206,9.66878764610406,70.2642247025594,"Summer",61773
+7,-115.68,44.6042,"adult",2007,"Microtus montanus","Microtus_montanus",35.5,154,"male",5.3,548,8.43381990451647,84.9143031325345,"Summer",60982
+10,-107.5299683,38.4225578,NA,1984,"Microtus montanus fusus","Microtus_montanus",35.5,141,"female",5.1,423,10.0711220824693,53.0166723193268,"Fall",61502
+9,-113.60138,44.97016,NA,2010,"Microtus montanus","Microtus_montanus",35.6,148,"undetermined",6,405,8.5827655004878,52.2961145574114,"Fall",61627
+9,-112.97966,44.25307,NA,2010,"Microtus montanus","Microtus_montanus",35.8,143,"female",3.2,452,8.77528813305762,55.3143237886342,"Fall",61633
+7,-107.628645,40.007787,NA,1976,"Microtus montanus nanus","Microtus_montanus",36,159,"male",5,427,8.95412550930372,55.6098912940704,"Summer",60903
+5,-112.137,43.767,NA,2005,"Microtus montanus","Microtus_montanus",36,147,"male",6.1,322,9.7902665020835,59.0484465695297,"Spring",60961
+7,-107.7586,37.2388,"adult",2007,"Microtus montanus","Microtus_montanus",36,152,"male",8.3,475,9.10578820245007,60.4596219775759,"Summer",60967
+7,-110.4044,41.0365,NA,2007,"Microtus montanus","Microtus_montanus",36,150,"undetermined",2.7,488,9.44442676766023,59.956289957976,"Summer",60977
+9,-106.177,36.9576,NA,2010,"Microtus montanus","Microtus_montanus",36,161,"male",4.9,407,8.59349207601927,61.4559193949768,"Fall",60990
+9,-117.1905,45.9433,"unknown",1999,"Microtus montanus","Microtus_montanus",36,153,"male",8,464,6.77063624421776,55.2180507105893,"Fall",61178
+9,-117.0552,45.9214,"unknown",1999,"Microtus montanus","Microtus_montanus",36,155,"male",9.3,415,6.9079006151718,53.2673331489084,"Fall",61184
+7,-106.304365,39.853127,NA,2009,"Microtus montanus","Microtus_montanus",36,141,"male",2.2,461,8.69381528688206,40.9093083558298,"Summer",61209
+7,-119.265487,38.469445,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",36,157,"female",5.2,458,7.24177694584232,81.4631026122876,"Summer",61232
+7,-119.269072,38.468374,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",36,154,"female",5,470,7.22677575954781,81.7560053018293,"Summer",61233
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",36,151,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61347
+7,-119.40217,37.73946,NA,2004,"Microtus montanus yosemite","Microtus_montanus",36,147,"female",6.5,945,6.38328783906567,117.897241272896,"Summer",61460
+5,-118.76654,37.70205,NA,2010,"Microtus montanus yosemite","Microtus_montanus",36,159,"male",8.3,349,7.13231548954645,149.254291479156,"Spring",61491
+8,-114.81,39.19,NA,1930,"Microtus montanus micropus","Microtus_montanus",36,154,"male",6.7,367,9.05471583142612,78.1088934925328,"Summer",61594
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",36,144,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61747
+9,-113.60138,44.97016,NA,2010,"Microtus montanus","Microtus_montanus",36.1,147,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61795
+7,-107.182753,40.502636,NA,1997,"Microtus montanus","Microtus_montanus",36.3,154,"female",5.1,555,9.55400518900399,57.3399312896358,"Summer",60865
+8,-107.53,44.82,NA,1999,"Microtus montanus zygomaticus","Microtus_montanus",36.3,155,"female",3.1,569,6.63165046415957,81.5321444417256,"Summer",61600
+6,-105.463,36.058,NA,2007,"Microtus montanus fusus","Microtus_montanus",36.5,156,"female",5.3,870,7.876023262043,55.3094760564926,"Summer",60872
+7,-110.4044,41.0365,NA,2007,"Microtus montanus","Microtus_montanus",36.5,159,"undetermined",2.7,488,9.44442676766023,59.956289957976,"Summer",60978
+7,-107.182753,40.502636,NA,1997,"Microtus montanus","Microtus_montanus",36.5,165,"female",5.1,555,9.55400518900399,57.3399312896358,"Summer",61195
+9,-113.60055,44.96759,"adult",2010,"Microtus montanus","Microtus_montanus",36.5,148,"male",6,404,8.60332476253785,51.8172082440598,"Fall",61622
+5,-106.304365,39.853127,NA,2009,"Microtus montanus","Microtus_montanus",36.6,160,"male",2.2,461,8.69381528688206,40.9093083558298,"Spring",61207
+8,-107.096435,41.454598,NA,1979,"Microtus montanus nanus","Microtus_montanus",36.7,157,"female",3.5,457,9.90220361150165,53.0792709034949,"Summer",61241
+7,-110.9255,43.121,NA,2007,"Microtus montanus","Microtus_montanus",37,155,"female",4.4,518,9.3063476219517,32.7688740295942,"Summer",60985
+6,-107.2892,44.0511,NA,2010,"Microtus montanus","Microtus_montanus",37,155,"female",5.6,467,8.85808567457901,94.2121630792873,"Summer",60993
+7,-114.2823,42.2,NA,2010,"Microtus montanus","Microtus_montanus",37,145,"female",5.6,934,8.10985184634695,76.2906590613834,"Summer",60999
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",37,139,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61005
+7,-120.4941,44.4129,"adult",2007,"Microtus montanus","Microtus_montanus",37,172,"male",7.3,350,7.10741716714861,63.4025920822314,"Summer",61332
+7,-114.2823,42.2009,NA,2010,"Microtus montanus","Microtus_montanus",37,150,"male",5.6,934,8.12382858688506,76.2906590613834,"Summer",61343
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",37,155,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61345
+8,-117.1125,45.9214,"unknown",1999,"Microtus montanus","Microtus_montanus",37,136,"male",7.9,447,6.74785600069093,52.7905754048674,"Summer",61523
+7,-118.16508,37.53101,NA,2007,"Microtus montanus yosemite","Microtus_montanus",37,157,"female",3.4,218,7.03266728140249,97.947285750455,"Summer",61656
+6,-119.593776,49.49882,NA,1981,"Microtus montanus canescens","Microtus_montanus",37,159,"female",9.7,349,7.34543766874749,41.1683866904983,"Summer",61696
+7,-119.41473,37.83206,NA,2007,"Microtus montanus yosemite","Microtus_montanus",37,160,"male",4.4,428,6.76548728339786,140.707614120106,"Summer",61832
+5,-106.304365,39.853127,NA,2009,"Microtus montanus","Microtus_montanus",37.1,138,"male",2.2,461,8.69381528688206,40.9093083558298,"Spring",60879
+7,-106.8121367,40.4852874,"unknown",1976,"Microtus montanus","Microtus_montanus",37.1,163,"male",4.2,474,9.47598239889894,43.3988907658145,"Summer",61510
+7,-107.2304684,43.4658929,NA,1990,"Microtus montanus nanus","Microtus_montanus",37.4,138,"male",2.7,521,9.00696700035337,85.6780066157231,"Summer",61221
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",37.5,147,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61042
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",37.5,146,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61377
+12,-121.32,40.92,NA,1958,"Microtus montanus montanus","Microtus_montanus",37.5,145,"female",11,691,7.10993223340675,76.6958135030972,"Winter",61581
+5,-112.8181666667,43.5185,NA,2002,"Microtus montanus","Microtus_montanus",37.5,146,"female",5.2,171,10.6544449395403,39.485201226128,"Spring",61777
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",37.6,154,"male",9.2,477,8.66266807524207,71.7676624687169,"Summer",61162
+8,-109.33194,33.99056,NA,1980,"Microtus montanus","Microtus_montanus",37.6,159,"male",4.7,841,6.46639330881152,86.3362291706489,"Summer",61855
+8,-107.181084,40.499062,NA,1997,"Microtus montanus","Microtus_montanus",37.7,164,"male",5,557,9.53266712018428,57.0700015643438,"Summer",60867
+9,-113.60138,44.97016,"adult",2010,"Microtus montanus","Microtus_montanus",37.8,131,"female",6,405,8.5827655004878,52.2961145574114,"Fall",61810
+4,-119.74,43.88,NA,1992,"Microtus montanus montanus","Microtus_montanus",37.9,151,"female",6,464,7.08525998753109,70.7849614204988,"Spring",61763
+7,-107.053341,38.550472,NA,1968,"Microtus montanus fusus","Microtus_montanus",38,153,"male",2.3,289,9.69573476984972,81.4771025905629,"Summer",60910
+6,-108.167052,39.822043,NA,1980,"Microtus montanus nanus","Microtus_montanus",38,158,"male",7.3,403,8.45479960517317,50.7945411168231,"Summer",60911
+6,-108.247378,39.838825,NA,1980,"Microtus montanus nanus","Microtus_montanus",38,160,"female",7.5,410,8.57027986530761,51.9068711239828,"Summer",61254
+6,-108.167052,39.822043,NA,1980,"Microtus montanus nanus","Microtus_montanus",38,158,"male",7.3,403,8.45479960517317,50.7945411168231,"Summer",61256
+7,-107.7586,37.2388,"adult",2007,"Microtus montanus","Microtus_montanus",38,150,"male",8.3,475,9.10578820245007,60.4596219775759,"Summer",61324
+6,-107.2892,44.0511,"adult",2010,"Microtus montanus","Microtus_montanus",38,117,"male",5.6,467,8.85808567457901,94.2121630792873,"Summer",61360
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",38,160,"female",9.3,917,6.90236564629486,143.167356166435,"Summer",61398
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",38,146,"female",11.9,832,7.28934465192485,118.961909919824,"Fall",61405
+7,-106.9333333333,40.2166666667,NA,1996,"Microtus montanus","Microtus_montanus",38,162,"female",4.7,547,9.0672236905541,37.5277428377153,"Summer",61504
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",38,157,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61729
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",38,159,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61744
+5,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",38.4,161,"male",9.2,477,8.66266807524207,71.7676624687169,"Spring",61514
+9,-113.60055,44.96759,"adult",2010,"Microtus montanus","Microtus_montanus",38.4,153,"female",6,404,8.60332476253785,51.8172082440598,"Fall",61621
+9,-113.60055,44.96759,"adult",2010,"Microtus montanus","Microtus_montanus",38.4,149,"male",6,404,8.60332476253785,51.8172082440598,"Fall",61641
+8,-108.436672,41.5657854,NA,1979,"Microtus montanus","Microtus_montanus",38.5,155,"male",4.4,135,10.9241288398248,63.8864004390366,"Summer",61302
+6,-113.55106,44.81615,NA,2011,"Microtus montanus","Microtus_montanus",38.6,149,"undetermined",5,276,9.62041705137694,83.1168063977256,"Summer",61643
+7,-107.2304684,43.4658929,NA,1990,"Microtus montanus nanus","Microtus_montanus",38.9,150,"female",2.7,521,9.00696700035337,85.6780066157231,"Summer",60894
+9,-107.546454,40.492061,NA,1979,"Microtus montanus nanus","Microtus_montanus",39,147,"male",5.1,301,10.7065683606189,57.7343607045215,"Fall",60905
+7,-109.9072,43.0654,"adult",2007,"Microtus montanus","Microtus_montanus",39,155,"male",2.1,402,9.95387848879506,34.0592643993446,"Summer",60972
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",39,NA,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61076
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",39,161,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61429
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",39,154,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61568
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",39,151,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61721
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",39,145,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61748
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",39.2,157,"male",9.2,477,8.66266807524207,71.7676624687169,"Summer",61512
+9,-113.60055,44.96759,"adult",2010,"Microtus montanus","Microtus_montanus",39.2,151,"male",6,404,8.60332476253785,51.8172082440598,"Fall",61631
+9,-120.186294,39.445511,NA,1970,"Microtus montanus","Microtus_montanus",39.3,NA,"female",5.8,1030,6.80291826863273,128.287713902149,"Fall",61236
+8,-107.33,44.57,NA,1998,"Microtus montanus zygomaticus","Microtus_montanus",39.3,158,"male",-0.5,954,7.9997537840899,53.8268525460728,"Summer",61771
+7,-107.7586,37.2388,"adult",2007,"Microtus montanus","Microtus_montanus",39.5,156,"male",8.3,475,9.10578820245007,60.4596219775759,"Summer",60974
+3,-117.1786,46.7314,"unknown",1931,"Microtus montanus","Microtus_montanus",39.5,58,"female",8.2,496,7.95685334485405,78.5881350893593,"Spring",61509
+7,-113.51604,44.97594,NA,2010,"Microtus montanus","Microtus_montanus",39.5,165,"male",5.1,548,8.34836220555574,61.522065710089,"Summer",61794
+7,-107.182753,40.502636,NA,1997,"Microtus montanus","Microtus_montanus",39.6,160,"female",5.1,555,9.55400518900399,57.3399312896358,"Summer",61196
+9,-113.60138,44.97016,NA,2010,"Microtus montanus","Microtus_montanus",39.6,144,"male",6,405,8.5827655004878,52.2961145574114,"Fall",61798
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",39.8,179,"male",9.2,477,8.66266807524207,71.7676624687169,"Summer",61160
+9,-113.60138,44.97016,"adult",2010,"Microtus montanus","Microtus_montanus",39.8,152,"female",6,405,8.5827655004878,52.2961145574114,"Fall",61632
+7,-109.5014,33.9443,NA,1980,"Microtus montanus","Microtus_montanus",39.8,159,"female",4.1,1028,6.40844022056897,89.6793250352624,"Summer",61683
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",40,146,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61040
+7,-119.34946,37.79834,NA,2004,"Microtus montanus yosemite","Microtus_montanus",40,162,"female",3.3,988,6.51513389708682,117.890535631513,"Summer",61092
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",40,148,"female",9.1,756,8.18655586737774,91.8460634681172,"Summer",61106
+5,-118.76654,37.70205,NA,2010,"Microtus montanus yosemite","Microtus_montanus",40,165,"male",8.3,349,7.13231548954645,149.254291479156,"Spring",61133
+6,-108.167052,39.822043,NA,1980,"Microtus montanus nanus","Microtus_montanus",40,150,"male",7.3,403,8.45479960517317,50.7945411168231,"Summer",61257
+7,-108.9060726,40.7974869,NA,1981,"Microtus montanus nanus","Microtus_montanus",40,166,"female",7.6,265,8.99599237371168,90.2221462100475,"Summer",61266
+8,-106.3211111111,35.7788888889,NA,1977,"Microtus montanus","Microtus_montanus",40,155,"male",10.3,430,8.68960978305805,87.8300949080782,"Summer",61274
+9,-117.1957,45.9433,"unknown",1999,"Microtus montanus","Microtus_montanus",40,145,"female",7.9,466,6.74305478835727,55.4047038011397,"Fall",61528
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",40,151,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61546
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",40,150,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61549
+8,-109.00663,33.84005,"Adult",2008,"Microtus montanus","Microtus_montanus",40,140,"female",8.4,467,6.91533210929296,79.2263861598771,"Summer",61606
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",40,162,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61749
+7,-109.5363,34.046,NA,1980,"Microtus montanus","Microtus_montanus",40.2,160,"male",4.9,896,6.50349556357614,84.9179218744377,"Summer",61856
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",40.3,144,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61672
+7,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",40.5,150,"female",4.8,680,8.39810133664783,64.9623936848212,"Summer",60944
+8,-121.30013,40.56289,NA,2007,"Microtus montanus yosemite","Microtus_montanus",40.5,156,"female",7.9,602,7.52788754625698,118.633454113999,"Summer",61118
+12,-121.32,40.92,NA,1958,"Microtus montanus montanus","Microtus_montanus",40.7,152,"female",11,691,7.10993223340675,76.6958135030972,"Winter",61758
+7,-107.2304684,43.4658929,NA,1990,"Microtus montanus nanus","Microtus_montanus",40.9,155,NA,2.7,521,9.00696700035337,85.6780066157231,"Summer",61223
+8,-105.2463117999,39.3272066555,NA,2002,"Microtus montanus","Microtus_montanus",40.9,147,"female",8.1,308,8.03017038198047,67.6657857258549,"Summer",61530
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",41,163,"male",12.2,810,7.32049840992381,118.482892852925,"Spring",61046
+6,-119.49919,37.82637,NA,2004,"Microtus montanus yosemite","Microtus_montanus",41,172,"female",5.9,1124,6.24055043221106,118.834376093719,"Summer",61084
+8,-120.13745,40.96636,NA,2006,"Microtus montanus montanus","Microtus_montanus",41,163,"male",8.1,386,8.13235215144742,82.834994476632,"Summer",61116
+5,-118.57446,37.44568,NA,2010,"Microtus montanus yosemite","Microtus_montanus",41,172,"female",13.5,103,7.65488059800393,117.121183981267,"Spring",61127
+7,-108.924977,40.7975011,NA,1981,"Microtus montanus","Microtus_montanus",41,144,"female",7.7,270,8.95417204266799,92.0430154353506,"Summer",61270
+5,-118.57446,37.44568,NA,2010,"Microtus montanus yosemite","Microtus_montanus",41,168,"male",13.5,103,7.65488059800393,117.121183981267,"Spring",61484
+5,-117.9317,37.46574,NA,2010,"Microtus montanus yosemite","Microtus_montanus",41,173,"female",11.3,130,8.00822966854987,96.1574824487248,"Spring",61487
+7,-114.725,42.549,NA,2001,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",41,128,"male",9.9,206,9.66878764610406,70.2642247025594,"Summer",61602
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",41,153,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61720
+9,-112.97966,44.25307,NA,2010,"Microtus montanus","Microtus_montanus",41.1,140,"female",3.2,452,8.77528813305762,55.3143237886342,"Fall",61628
+5,-119.57859,37.74618,NA,2003,"Microtus montanus yosemite","Microtus_montanus",41.2,173,"male",12.4,791,7.33602051317313,117.60131041881,"Spring",61047
+7,-109.5014,33.9443,NA,1980,"Microtus montanus","Microtus_montanus",41.4,162,"female",4.1,1028,6.40844022056897,89.6793250352624,"Summer",61682
+8,-113.61541,44.95164,"adult",2010,"Microtus montanus","Microtus_montanus",41.6,147,"female",6,388,8.57870866880572,52.7726675846909,"Summer",61618
+7,-107.7586,37.2388,"adult",2007,"Microtus montanus","Microtus_montanus",42,175,"female",8.3,475,9.10578820245007,60.4596219775759,"Summer",60980
+7,-119.32805,37.79125,NA,2004,"Microtus montanus yosemite","Microtus_montanus",42,157,"female",2.7,1106,6.55374054655165,121.595862865,"Summer",61457
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",42,156,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61555
+7,-109.30111,33.73167,NA,1964,"Microtus montanus","Microtus_montanus",42,154,"male",6.2,634,7.88602042742841,101.520271419183,"Summer",61665
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",42,160,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61719
+8,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",42,158,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61723
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",42,156,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61737
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",42,145,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61739
+7,-112.2121,42.6692,NA,2010,"Microtus montanus","Microtus_montanus",42.2,146,"female",7.4,479,8.74304918726351,60.2623066463231,"Summer",61707
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",42.7,148,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61841
+8,-105.873904,38.715216,NA,1989,"Microtus montanus nanus","Microtus_montanus",42.9,145,"female",3.4,264,8.26762121810504,46.3050265890885,"Summer",61217
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",43,145,"male",12.2,810,7.32049840992381,118.482892852925,"Spring",61045
+5,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",43,174,"male",9.2,477,8.66266807524207,71.7676624687169,"Spring",61164
+5,-119.60513,37.73797,NA,2003,"Microtus montanus yosemite","Microtus_montanus",43,155,"female",12.5,804,7.36566049621177,117.717066572393,"Spring",61370
+7,-119.49919,37.82637,NA,2004,"Microtus montanus yosemite","Microtus_montanus",43,174,"female",5.9,1124,6.24055043221106,118.834376093719,"Summer",61446
+8,-119.2285,37.95386,NA,2004,"Microtus montanus yosemite","Microtus_montanus",43,156,"female",4.8,645,6.81368386988917,111.133860911309,"Summer",61649
+8,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",43,152,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61726
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",43,140,"male",3.3,771,7.70896762337097,81.5169979621519,"Fall",61840
+6,-119.593776,49.49882,NA,1981,"Microtus montanus canescens","Microtus_montanus",43,158,"male",9.7,349,7.34543766874749,41.1683866904983,"Summer",61863
+7,-119.66431,37.66215,NA,2003,"Microtus montanus yosemite","Microtus_montanus",43.2,163,"male",9.1,959,6.8858825714558,140.670569674429,"Summer",61061
+5,-113.0403333333,43.5021666667,NA,2002,"Microtus montanus","Microtus_montanus",43.5,150,"female",5.4,172,10.6512910015641,38.525839733183,"Spring",61605
+8,-118.67,42.09,"ADULT",1998,"Microtus montanus montanus","Microtus_montanus",43.6,171,"male",6.3,828,7.79026198649197,67.4044074699772,"Summer",61597
+7,-109.153,33.8862,NA,1980,"Microtus montanus","Microtus_montanus",43.7,158,"male",6.5,594,6.58460095199168,78.2076217625116,"Summer",61849
+12,-121.32,40.92,NA,1958,"Microtus montanus montanus","Microtus_montanus",43.9,160,"female",11,691,7.10993223340675,76.6958135030972,"Winter",61582
+8,-105.662988,40.945953,NA,1986,"Microtus montanus nanus","Microtus_montanus",44,162,"male",3.7,463,7.03942899716025,53.6040650470701,"Summer",60925
+7,-107,41,NA,1996,"Microtus montanus","Microtus_montanus",44,156,"female",3.8,975,8.64240339047168,64.1772553127386,"Summer",61150
+7,-119.269072,38.468374,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",44,160,"female",5,470,7.22677575954781,81.7560053018293,"Summer",61234
+7,-107.628645,40.007787,NA,1976,"Microtus montanus nanus","Microtus_montanus",44,171,"male",5,427,8.95412550930372,55.6098912940704,"Summer",61237
+7,-114.2823,42.2009,NA,2010,"Microtus montanus","Microtus_montanus",44,166,"male",5.6,934,8.12382858688506,76.2906590613834,"Summer",61338
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",44,164,"female",9.3,917,6.90236564629486,143.167356166435,"Summer",61392
+6,-119.64773,37.86644,NA,2004,"Microtus montanus yosemite","Microtus_montanus",44,160,"female",7.3,1058,6.22533314187062,122.230158542543,"Summer",61414
+6,-119.64837,37.86806,"adult",2004,"Microtus montanus yosemite","Microtus_montanus",44,NA,"female",7.5,1052,6.23923922129983,121.943507637929,"Summer",61425
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",44,151,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61574
+7,-109.32333,33.64222,NA,1964,"Microtus montanus","Microtus_montanus",44,161,"male",4.6,751,7.59323363065413,91.2408202107328,"Summer",61668
+8,-109.33333,33.65222,NA,1973,"Microtus montanus","Microtus_montanus",44,158,"male",5.3,710,6.9286132680488,88.4023534650614,"Summer",61679
+8,-109.3312,33.6481,NA,1973,"Microtus montanus","Microtus_montanus",44,155,"male",5.4,703,6.94189630017794,88.3177515334413,"Summer",61680
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",44,164,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61736
+8,-109.3312,33.6481,NA,1973,"Microtus montanus","Microtus_montanus",44,151,"male",5.4,703,6.94189630017794,88.3177515334413,"Summer",61848
+6,-113.6134,44.9508,"adult",2010,"Microtus montanus","Microtus_montanus",44.2,171,"female",6,388,8.56796358535679,52.7898128843345,"Summer",61782
+5,-108.1666685,38.7334734,NA,1980,"Microtus montanus fusus","Microtus_montanus",44.5,154,"male",11.6,251,8.72885757390133,57.387115792927,"Spring",60916
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",44.5,157,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61842
+7,-107.64,39.57,NA,2011,"Microtus montanus","Microtus_montanus",44.6,148,"female",8.3,409,9.824840965634,44.1799915997503,"Summer",61708
+7,-119.66798,37.66596,NA,2003,"Microtus montanus yosemite","Microtus_montanus",44.7,177,"male",9.1,959,6.8858825714558,140.10895336076,"Summer",61064
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",44.9,147,"female",9.2,477,8.66266807524207,71.7676624687169,"Summer",61157
+9,-113.60834,44.96506,"adult",2010,"Microtus montanus","Microtus_montanus",44.9,161,"undetermined",5.8,429,8.5118633789446,51.3730065372711,"Fall",61805
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",45,160,"female",12.2,810,7.32049840992381,118.482892852925,"Spring",61039
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",45,160,"female",7.5,1052,6.23923922129983,121.943507637929,"Summer",61071
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",45,155,"female",7.5,1052,6.23923922129983,121.943507637929,"Summer",61074
+8,-121.42123,40.484839,NA,2002,"Microtus montanus montanus","Microtus_montanus",45,152,"male",7.1,2127,6.93914565521163,149.067775605721,"Summer",61100
+8,-121.36491,40.40535,NA,2007,"Microtus montanus yosemite","Microtus_montanus",45,167,"female",8.3,853,7.37285664796998,136.776097015676,"Summer",61124
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",45,163,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61754
+8,-109.3272,33.9879,NA,1980,"Microtus montanus","Microtus_montanus",45,165,"female",4.7,842,6.46639330881152,86.8511818405302,"Summer",61854
+7,-106.4874,39.7203,NA,2009,"Microtus montanus","Microtus_montanus",45.2,143,"female",1.3,670,8.27826654376971,40.9040481165164,"Summer",61213
+8,-113.61541,44.95164,"adult",2010,"Microtus montanus","Microtus_montanus",45.4,152,"female",6,388,8.57870866880572,52.7726675846909,"Summer",61617
+7,-106.6743,40.5439,NA,2009,"Microtus montanus","Microtus_montanus",45.5,154,"male",-0.2,1311,8.24692780263161,71.1098845997589,"Summer",61203
+8,-109.362895,33.750954,NA,1953,"Microtus montanus","Microtus_montanus",45.6,168,"female",6.9,415,7.47594120962016,92.55852521302,"Summer",61660
+7,-108.9060726,40.7974869,NA,1981,"Microtus montanus nanus","Microtus_montanus",46,173,"male",7.6,265,8.99599237371168,90.2221462100475,"Summer",60918
+8,-106.643507,35.96253,NA,1984,"Microtus montanus","Microtus_montanus",46,157,"female",4.8,680,8.39810133664783,64.9623936848212,"Summer",60948
+5,-119.59365,37.74133,NA,2003,"Microtus montanus yosemite","Microtus_montanus",46,155,"male",12.2,810,7.32049840992381,118.482892852925,"Spring",61044
+7,-119.4807252,37.4374882,"unknown",1965,"Microtus montanus","Microtus_montanus",46,182,"female",7.3,1310,5.5028091999368,121.342276491157,"Summer",61186
+8,-107.096435,41.454598,NA,1979,"Microtus montanus nanus","Microtus_montanus",46,162,"female",3.5,457,9.90220361150165,53.0792709034949,"Summer",61240
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",46,160,"female",11.9,832,7.28934465192485,118.961909919824,"Fall",61406
+7,-119.33929,37.79652,NA,2004,"Microtus montanus yosemite","Microtus_montanus",46,169,"female",3,1046,6.53790810766276,119.855143989261,"Summer",61455
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",46,159,"female",9.1,756,8.18655586737774,91.8460634681172,"Summer",61471
+5,-118.59148,37.75886,NA,2010,"Microtus montanus yosemite","Microtus_montanus",46,170,"male",8.6,326,7.29981319810807,143.534608290129,"Spring",61489
+5,-118.76654,37.70205,NA,2010,"Microtus montanus yosemite","Microtus_montanus",46,177,"male",8.3,349,7.13231548954645,149.254291479156,"Spring",61492
+5,-118.76654,37.70205,NA,2010,"Microtus montanus yosemite","Microtus_montanus",46,173,"male",8.3,349,7.13231548954645,149.254291479156,"Spring",61493
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",46,156,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61734
+6,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",46.3,174,"male",9.2,477,8.66266807524207,71.7676624687169,"Summer",61511
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",46.5,157,"male",11.9,832,7.28934465192485,118.961909919824,"Fall",61411
+4,-120.52,41.09,NA,1958,"Microtus montanus montanus","Microtus_montanus",46.7,173,"female",7,561,6.86830665911448,64.1690961442256,"Spring",61761
+8,-105.873904,38.715216,NA,1989,"Microtus montanus nanus","Microtus_montanus",46.8,165,"female",3.4,264,8.26762121810504,46.3050265890885,"Summer",60889
+7,-119.265487,38.469445,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",47,164,"male",5.2,458,7.24177694584232,81.4631026122876,"Summer",60901
+6,-119.61269,37.84469,NA,2004,"Microtus montanus yosemite","Microtus_montanus",47,166,"female",7.3,1046,6.26894703835476,121.482904627697,"Summer",61083
+5,-118.76654,37.70205,NA,2010,"Microtus montanus yosemite","Microtus_montanus",47,168,"female",8.3,349,7.13231548954645,149.254291479156,"Spring",61132
+5,-118.77307,37.68773,NA,2010,"Microtus montanus yosemite","Microtus_montanus",47,174,"male",8.3,357,7.08876618746916,149.759703226683,"Spring",61135
+7,-119.265487,38.469445,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",47,162,"male",5.2,458,7.24177694584232,81.4631026122876,"Summer",61227
+6,-108.247378,39.838825,NA,1980,"Microtus montanus nanus","Microtus_montanus",47,160,"male",7.5,410,8.57027986530761,51.9068711239828,"Summer",61258
+6,-108.3497819,38.3356712,"adult",1982,"Microtus montanus","Microtus_montanus",47,166,"female",6.5,576,8.28065928424894,58.8116214551326,"Summer",61311
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",47,157,"female",9.3,917,6.90236564629486,143.167356166435,"Summer",61397
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",47,160,"female",7.5,1052,6.23923922129983,121.943507637929,"Summer",61421
+7,-121.61018,40.3397,NA,2007,"Microtus montanus montanus","Microtus_montanus",47,147,"female",9.6,932,7.06811020133259,133.853233828265,"Summer",61478
+8,-117.1125,45.9286,"unknown",1999,"Microtus montanus","Microtus_montanus",47,169,"female",8.5,434,6.81099823591939,53.1437010588686,"Summer",61526
+3,-112.65538,43.03242,NA,2011,"Microtus montanus","Microtus_montanus",47,160,"female",7,293,9.84036215150272,80.1958009289309,"Spring",61645
+7,-109.5014,33.9443,NA,1980,"Microtus montanus","Microtus_montanus",47,181,"female",4.1,1028,6.40844022056897,89.6793250352624,"Summer",61684
+7,-109.5363,34.1187,NA,1980,"Microtus montanus","Microtus_montanus",47.1,169,"male",4.7,882,6.55888825575761,84.7506711108744,"Summer",61850
+12,-120.46,40.41,NA,1958,"Microtus montanus montanus","Microtus_montanus",47.2,165,"female",10.4,380,7.26896683084184,82.483486591634,"Winter",61586
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",47.4,158,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61669
+12,-120.98,40.67,NA,1958,"Microtus montanus montanus","Microtus_montanus",47.4,156,"female",7.1,776,6.77134671713363,73.9328737006826,"Winter",61762
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",47.5,165,"female",11.9,832,7.28934465192485,118.961909919824,"Fall",61408
+9,-119.989889,38.480918,NA,2007,"Microtus montanus yosemite","Microtus_montanus",48,167,"male",7.2,581,7.19223065663093,100.732109784431,"Fall",61097
+8,-121.42123,40.484839,NA,2002,"Microtus montanus montanus","Microtus_montanus",48,154,"female",7.1,2127,6.93914565521163,149.067775605721,"Summer",61099
+5,-118.20827,37.77818,NA,2010,"Microtus montanus yosemite","Microtus_montanus",48,174,"female",8.4,164,7.37358101397801,125.742871456053,"Spring",61131
+7,-108.924977,40.7975011,NA,1981,"Microtus montanus","Microtus_montanus",48,157,"male",7.7,270,8.95417204266799,92.0430154353506,"Summer",61269
+9,-119.561,37.7316,NA,2003,"Microtus montanus yosemite","Microtus_montanus",48,155,"male",11.9,832,7.28934465192485,118.961909919824,"Fall",61407
+6,-120.80754,40.54937,NA,2006,"Microtus montanus montanus","Microtus_montanus",48,170,"male",9.1,786,8.19365978095629,92.1804771805304,"Summer",61473
+6,-120.82179,40.55524,NA,2006,"Microtus montanus montanus","Microtus_montanus",48,160,"female",9.1,778,8.16130931266361,91.5973063513965,"Summer",61474
+5,-118.21383,37.77415,NA,2010,"Microtus montanus yosemite","Microtus_montanus",48,173,"female",7.6,187,7.18101453117661,130.582059794329,"Spring",61488
+5,-118.77307,37.68773,NA,2010,"Microtus montanus yosemite","Microtus_montanus",48,182,"female",8.3,357,7.08876618746916,149.759703226683,"Spring",61495
+10,-109.50583,33.95972,NA,1965,"Microtus montanus","Microtus_montanus",48,154,"female",3.7,1045,6.43086779572249,82.7148805137504,"Fall",61846
+12,-121.32,40.92,NA,1958,"Microtus montanus montanus","Microtus_montanus",48.2,163,"male",11,691,7.10993223340675,76.6958135030972,"Winter",61583
+10,-109.50583,33.95972,NA,1965,"Microtus montanus","Microtus_montanus",48.4,150,"male",3.7,1045,6.43086779572249,82.7148805137504,"Fall",61678
+12,-120.46,40.41,NA,1958,"Microtus montanus montanus","Microtus_montanus",48.5,170,"male",10.4,380,7.26896683084184,82.483486591634,"Winter",61759
+7,-109.5014,33.9443,NA,1980,"Microtus montanus","Microtus_montanus",48.8,NA,"male",4.1,1028,6.40844022056897,89.6793250352624,"Summer",61851
+6,-120.3024084,41.6455753,NA,1969,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",49,164,"female",5.4,1015,7.7771372391365,98.0834643507095,"Summer",60898
+7,-108.9060726,40.7974869,NA,1981,"Microtus montanus nanus","Microtus_montanus",49,164,"female",7.6,265,8.99599237371168,90.2221462100475,"Summer",60919
+7,-107.8117,37.1987,"adult",2007,"Microtus montanus","Microtus_montanus",49,160,"male",8.5,476,9.09818496717723,60.130283484626,"Summer",60968
+7,-119.32805,37.79125,NA,2004,"Microtus montanus yosemite","Microtus_montanus",49,166,"female",2.7,1106,6.55374054655165,121.595862865,"Summer",61089
+5,-118.21383,37.77415,NA,2010,"Microtus montanus yosemite","Microtus_montanus",49,175,"female",7.6,187,7.18101453117661,130.582059794329,"Spring",61128
+5,-118.21383,37.77415,NA,2010,"Microtus montanus yosemite","Microtus_montanus",49,183,"male",7.6,187,7.18101453117661,130.582059794329,"Spring",61129
+5,-118.77307,37.68773,NA,2010,"Microtus montanus yosemite","Microtus_montanus",49,173,"male",8.3,357,7.08876618746916,149.759703226683,"Spring",61136
+7,-119.33929,37.79652,NA,2004,"Microtus montanus yosemite","Microtus_montanus",49,170,"male",3,1046,6.53790810766276,119.855143989261,"Summer",61454
+8,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",49,157,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61725
+6,-108.247378,39.838825,NA,1980,"Microtus montanus nanus","Microtus_montanus",49.3,167,"male",7.5,410,8.57027986530761,51.9068711239828,"Summer",60912
+11,-123.25,44.5833333333,NA,1996,"Microtus montanus canicaudus","Microtus_montanus",49.4,135,"female",11.7,1799,5.21055891842941,90.3647856767574,"Fall",61505
+10,-109.50583,33.95972,NA,1965,"Microtus montanus","Microtus_montanus",49.5,145,"male",3.7,1045,6.43086779572249,82.7148805137504,"Fall",61676
+7,-120.4941,44.4129,"adult",2007,"Microtus montanus","Microtus_montanus",50,155,"male",7.3,350,7.10741716714861,63.4025920822314,"Summer",60987
+9,-107.482403,40.91266,NA,1979,"Microtus montanus nanus","Microtus_montanus",50,158,"female",3.6,548,9.96081717470403,66.2208326042369,"Fall",61246
+7,-119.66798,37.66596,NA,2003,"Microtus montanus yosemite","Microtus_montanus",50,159,"female",9.1,959,6.8858825714558,140.10895336076,"Summer",61400
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",50,144,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61745
+8,-109.362895,33.750954,NA,1953,"Microtus montanus","Microtus_montanus",50.3,137,"male",6.9,415,7.47594120962016,92.55852521302,"Summer",61839
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",50.3,175,"male",3.3,771,7.70896762337097,81.5169979621519,"Fall",61843
+11,-123.25,44.5833333333,NA,1996,"Microtus montanus canicaudus","Microtus_montanus",50.8,134,"male",11.7,1799,5.21055891842941,90.3647856767574,"Fall",61506
+9,-107.546454,40.492061,NA,1979,"Microtus montanus nanus","Microtus_montanus",51,179,"female",5.1,301,10.7065683606189,57.7343607045215,"Fall",60906
+9,-107.482403,40.91266,NA,1979,"Microtus montanus nanus","Microtus_montanus",51,157,"female",3.6,548,9.96081717470403,66.2208326042369,"Fall",61247
+6,-107.2347,44.2263,"adult",2010,"Microtus montanus","Microtus_montanus",51,178,"male",0.8,584,8.10190306862118,81.5886965176174,"Summer",61356
+7,-119.62232,37.66565,NA,2003,"Microtus montanus yosemite","Microtus_montanus",51,160,"male",9.3,919,6.88874246341614,143.689905545826,"Summer",61388
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",51,172,"female",7.5,1052,6.23923922129983,121.943507637929,"Summer",61420
+6,-120.7906,40.67886,NA,2006,"Microtus montanus montanus","Microtus_montanus",51,177,"male",9.2,542,8.14709466712837,90.545524730146,"Summer",61470
+8,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",51,165,"male",6.7,296,7.88917555319255,86.9555003881039,"Summer",61552
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",51,169,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61674
+12,-120.46,40.41,NA,1958,"Microtus montanus montanus","Microtus_montanus",51.4,168,"male",10.4,380,7.26896683084184,82.483486591634,"Winter",61585
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",51.5,184,"male",9.3,917,6.90236564629486,143.167356166435,"Summer",61391
+4,-105.7936217779,39.9452288437,NA,2003,"Microtus montanus","Microtus_montanus",51.6,174,"female",3.2,581,8.55319805509594,60.1935571339825,"Spring",61205
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",51.7,158,"male",9.1,756,8.18655586737774,91.8460634681172,"Summer",61465
+7,-114.3732,43.7883,NA,2010,"Microtus montanus","Microtus_montanus",52,161,"female",4.3,704,8.0598283687268,54.4550616066542,"Summer",61004
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",52,167,"male",9.3,917,6.90236564629486,143.167356166435,"Summer",61057
+7,-119.4807252,37.4374882,"unknown",1965,"Microtus montanus","Microtus_montanus",52,197,"male",7.3,1310,5.5028091999368,121.342276491157,"Summer",61188
+8,-109.00663,33.84005,NA,2008,"Microtus montanus","Microtus_montanus",52,168,"male",8.4,467,6.91533210929296,79.2263861598771,"Summer",61335
+7,-119.60102,37.66312,NA,2003,"Microtus montanus yosemite","Microtus_montanus",52,173,"male",9.3,926,6.84023302810569,142.669388159364,"Summer",61385
+6,-119.64837,37.86806,"embryo",2004,"Microtus montanus yosemite","Microtus_montanus",52,162,"female",7.5,1052,6.23923922129983,121.943507637929,"Summer",61415
+6,-119.64837,37.86806,"adult",2004,"Microtus montanus yosemite","Microtus_montanus",52,NA,"male",7.5,1052,6.23923922129983,121.943507637929,"Summer",61426
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",52,172,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61439
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",52,145,"female",9.1,756,8.18655586737774,91.8460634681172,"Summer",61467
+5,-117.5653,47.4231,"unknown",1961,"Microtus montanus","Microtus_montanus",52,175,"female",9.2,477,8.66266807524207,71.7676624687169,"Spring",61518
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",52,170,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61718
+7,-119.67,42.54,NA,1977,"Microtus montanus montanus","Microtus_montanus",52,156,"female",6.7,296,7.88917555319255,86.9555003881039,"Summer",61743
+7,-119.969203,38.909975,NA,2001,"Microtus montanus montanus","Microtus_montanus",52.4,153,"undetermined",8.3,593,7.56384442094379,130.014328203862,"Summer",61835
+12,-120.98,40.67,NA,1958,"Microtus montanus montanus","Microtus_montanus",52.5,165,"female",7.1,776,6.77134671713363,73.9328737006826,"Winter",61590
+7,-107.8117,37.1987,NA,2007,"Microtus montanus","Microtus_montanus",53,161,"female",8.5,476,9.09818496717723,60.130283484626,"Summer",60969
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",53,NA,"female",7,1060,6.22735899077611,122.034598049638,"Summer",61077
+6,-118.33768,35.895787,NA,2009,"Microtus montanus dutcheri","Microtus_montanus",53,169,"male",7.4,444,6.5532550320548,181.938999635279,"Summer",61125
+7,-106.9455953,40.8122788,NA,1980,"Microtus montanus nanus","Microtus_montanus",53,175,"female",3.6,711,8.06937251137117,80.5569930888734,"Summer",61262
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",53,163,"female",7,1060,6.22735899077611,122.034598049638,"Summer",61438
+6,-119.49919,37.82637,NA,2004,"Microtus montanus yosemite","Microtus_montanus",53,170,"male",5.9,1124,6.24055043221106,118.834376093719,"Summer",61445
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",53.2,157,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61844
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",53.5,181,"female",9.3,917,6.90236564629486,143.167356166435,"Summer",61394
+7,-119.26395,37.77719,NA,2003,"Microtus montanus yosemite","Microtus_montanus",53.5,184,"male",3.3,944,7.03437447413942,109.831917328178,"Summer",61402
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",53.5,165,"male",3.3,771,7.70896762337097,81.5169979621519,"Fall",61671
+7,-106.535852,39.9900236,NA,1980,"Microtus montanus nanus","Microtus_montanus",54,165,"female",4.7,332,8.42983068955394,56.4811372565615,"Summer",60913
+6,-108.247378,39.838825,NA,1980,"Microtus montanus nanus","Microtus_montanus",54,182,"male",7.5,410,8.57027986530761,51.9068711239828,"Summer",61253
+4,-120.52,41.09,NA,1958,"Microtus montanus montanus","Microtus_montanus",54,180,"male",7,561,6.86830665911448,64.1690961442256,"Spring",61760
+8,-109.362895,33.750954,NA,1953,"Microtus montanus","Microtus_montanus",54.5,155,"female",6.9,415,7.47594120962016,92.55852521302,"Summer",61663
+6,-119.7993,37.74597,NA,2003,"Microtus montanus yosemite","Microtus_montanus",55,163,"male",11.3,896,6.80073525436772,138.46625123767,"Summer",61048
+6,-119.62811,37.85193,NA,2004,"Microtus montanus yosemite","Microtus_montanus",55,165,"male",7,1060,6.22735899077611,122.034598049638,"Summer",61080
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",55,NA,"female",7.5,1052,6.23923922129983,121.943507637929,"Summer",61419
+6,-109.362895,33.750954,NA,1943,"Microtus montanus","Microtus_montanus",55,167,"male",8.2,540,7.05795811317074,57.215602245295,"Summer",61659
+8,-118.68,42.09,NA,1997,"Microtus montanus montanus","Microtus_montanus",55.4,174,"male",6.6,498,7.48250484716708,98.7471661156456,"Summer",61766
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",55.5,176,"male",9.3,917,6.90236564629486,143.167356166435,"Summer",61060
+7,-107.2304684,43.4658929,NA,1990,"Microtus montanus nanus","Microtus_montanus",55.5,160,"male",2.7,521,9.00696700035337,85.6780066157231,"Summer",61222
+8,-106.3025,37.0838888889,NA,2003,"Microtus montanus","Microtus_montanus",56,170,"female",5.4,434,8.43779376592979,59.1555901871882,"Summer",61197
+7,-120.9381,47.42721,"unknown",1958,"Microtus montanus","Microtus_montanus",56,152,"male",6.5,2115,7.44916102658548,92.2943112601624,"Summer",61508
+10,-109.50583,33.95972,NA,1964,"Microtus montanus","Microtus_montanus",56.4,177,"female",3.3,771,7.70896762337097,81.5169979621519,"Fall",61670
+7,-119.62232,37.66565,NA,2003,"Microtus montanus yosemite","Microtus_montanus",56.5,184,"male",9.3,919,6.88874246341614,143.689905545826,"Summer",61387
+7,-105.856738,38.727965,NA,1988,"Microtus montanus nanus","Microtus_montanus",57.3,150,"female",2.8,281,9.05703727730124,59.3259985592574,"Summer",61216
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",57.5,171,"male",7.5,1052,6.23923922129983,121.943507637929,"Summer",61068
+6,-108.167052,39.822043,NA,1980,"Microtus montanus nanus","Microtus_montanus",58,160,"female",7.3,403,8.45479960517317,50.7945411168231,"Summer",61261
+7,-107.8117,37.1987,NA,2007,"Microtus montanus","Microtus_montanus",58,164,"female",8.5,476,9.09818496717723,60.130283484626,"Summer",61318
+7,-107,41,NA,1996,"Microtus montanus","Microtus_montanus",58,174,"male",3.8,975,8.64240339047168,64.1772553127386,"Summer",61507
+7,-119.89,39.16,NA,1977,"Microtus montanus yosemite","Microtus_montanus",58,173,"male",3.2,883,6.69985865974843,140.806081811535,"Summer",61563
+7,-119.62465,37.66994,NA,2003,"Microtus montanus yosemite","Microtus_montanus",58.5,157,"female",9.3,917,6.90236564629486,143.167356166435,"Summer",61393
+6,-119.64837,37.86806,"adult",2004,"Microtus montanus yosemite","Microtus_montanus",59,NA,"male",7.5,1052,6.23923922129983,121.943507637929,"Summer",61073
+7,-119.32805,37.79125,NA,2004,"Microtus montanus yosemite","Microtus_montanus",59,176,"male",2.7,1106,6.55374054655165,121.595862865,"Summer",61090
+5,-118.57446,37.44568,NA,2010,"Microtus montanus yosemite","Microtus_montanus",59,NA,"male",13.5,103,7.65488059800393,117.121183981267,"Spring",61126
+7,-119.265487,38.469445,NA,1987,"Microtus (Mynomes) montanus Peale, 1848","Microtus_montanus",59,172,"male",5.2,458,7.24177694584232,81.4631026122876,"Summer",61228
+9,-107.482403,40.91266,NA,1979,"Microtus montanus nanus","Microtus_montanus",59,166,"female",3.6,548,9.96081717470403,66.2208326042369,"Fall",61248
+7,-119.62232,37.66565,NA,2003,"Microtus montanus yosemite","Microtus_montanus",59,170,"male",9.3,919,6.88874246341614,143.689905545826,"Summer",61389
+6,-119.64837,37.86806,NA,2004,"Microtus montanus yosemite","Microtus_montanus",59,171,"female",7.5,1052,6.23923922129983,121.943507637929,"Summer",61416
+6,-120.84955,40.59898,NA,2006,"Microtus montanus montanus","Microtus_montanus",59,167,"male",9.1,756,8.18655586737774,91.8460634681172,"Summer",61476

@@ -12,19 +12,30 @@ confintval = 0.95
 TypeOfPVal = "FDR"
 
 
-MultiMod <- function(MetaFileName, confintval, TypeOfPVal)
+MultiMod <- function(MetaFileName, confintval, TypeOfPVal, VarNameList, years)
 {
   #dt1 = read.csv("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data.csv", header = TRUE)
   dt1 = read.csv(MetaFileName, header = TRUE) 
   print(names(dt1))
   if (TypeOfPVal == "FDR")
   {
+    #VarList = list(
+    #  'b1' = c("SpName", "Mean_used", "es_bio1", "pval_bio1", "adjPval_bio1", "sig_bio1_f", "sig_bio1_nf", "bio1_mean", "bio1_breadth"),
+    #  'b2' = c("SpName", "Mean_used", "es_bio12", "pval_bio12", "adjPval_bio12", "sig_bio12_f", "sig_bio12_nf", "bio12_mean", "bio12_breadth"),
+    #  'b3' = c("SpName", "Mean_used", "es_bio4", "pval_bio4", "adjPval_bio4", "sig_bio4_f", "sig_bio4_nf", "bio4_mean", "bio4_breadth"),
+    #  'b4' = c("SpName", "Mean_used", "es_bio15", "pval_bio15", "adjPval_bio15", "sig_bio15_f", "sig_bio15_nf", "bio15_mean", "bio15_breadth")
+    #)
     VarList = list(
-      'b1' = c("SpName", "Mean_used", "es_bio1", "pval_bio1", "adjPval_bio1", "sig_bio1_f", "sig_bio1_nf", "bio1_mean", "bio1_breadth"),
-      'b2' = c("SpName", "Mean_used", "es_bio12", "pval_bio12", "adjPval_bio12", "sig_bio12_f", "sig_bio12_nf", "bio12_mean", "bio12_breadth"),
-      'b3' = c("SpName", "Mean_used", "es_bio4", "pval_bio4", "adjPval_bio4", "sig_bio4_f", "sig_bio4_nf", "bio4_mean", "bio4_breadth"),
-      'b4' = c("SpName", "Mean_used", "es_bio15", "pval_bio15", "adjPval_bio15", "sig_bio15_f", "sig_bio15_nf", "bio15_mean", "bio15_breadth")
+      'b1' = c("SpName", "Mean_used", paste("es_bio1", years, sep = ""), paste("pval_bio1", years, sep = ""), paste("adjPval_bio1", years, sep = ""), paste("sig_bio1", years, "_f", sep = ""), 
+	         paste("sig_bio1", years, "_nf", sep =""), paste("bio1", years, "_mean", sep =""), paste("bio1", years, "_breadth", sep = "")),
+      'b2' = c("SpName", "Mean_used", paste("es_bio12", years, sep=""), paste("pval_bio12", years, sep=""), paste("adjPval_bio12", years, sep=""), paste("sig_bio12", years, "_f", sep =""), 
+	         paste("sig_bio12", years, "_nf", sep = ""), paste("bio12", years, "_mean", sep =""), paste("bio12", years, "_breadth", sep = "")),
+      'b3' = c("SpName", "Mean_used", paste("es_bio4", years,  sep = "" ), paste("pval_bio4", years, sep = ""), paste("adjPval_bio4", years, sep = ""), paste("sig_bio4", years, "_f", sep = ""), 
+	         paste("sig_bio4", years, "_nf", sep = ""), paste("bio4", years, "_mean", sep = ""), paste("bio4", years, "_breadth", sep = "")),
+      'b4' = c("SpName", "Mean_used", paste("es_bio15", years, sep = ""), paste("pval_bio15", years, sep = ""), paste("adjPval_bio15", years, sep = ""), paste("sig_bio15", years, "_f", sep = ""), 
+	         paste("sig_bio15", years, "_nf", sep = ""), paste("bio15", years, "_mean", sep = ""), paste("bio15", years, "_breadth", sep = ""))
     )
+
   } else
   {
     VarList = list(
@@ -34,14 +45,49 @@ MultiMod <- function(MetaFileName, confintval, TypeOfPVal)
       'b4' = c("SpName", "Mean_used", "es_bio15", "pval_bio15", "adjPval_bio15", "sig_bio15_nf", "sig_bio15_f", "bio15_mean", "bio15_breadth")
     )
   }
-  ModelList = list(
+  
+  
+  #ModelList = list(
+  #  'm1' = levelDtNS ~ Mean_used + bio1_mean + bio1_breadth,
+  #  'm2' = levelDtNS ~ Mean_used + bio12_mean + bio12_breadth,
+  #  'm3' = levelDtNS ~ Mean_used + bio4_mean + bio4_breadth,
+  #  'm4' = levelDtNS ~ Mean_used + bio15_mean + bio15_breadth
+  #)
+  
+  
+  print("Going in switch")
+  
+  switch(years,
+
+  "_2yr" = {
+	print("Going in 1yr")
+    ModelList = list(
+    'm1' = levelDtNS ~ Mean_used + bio1_2yr_mean + bio1_2yr_breadth,
+    'm2' = levelDtNS ~ Mean_used + bio12_2yr_mean + bio12_2yr_breadth,
+    'm3' = levelDtNS ~ Mean_used + bio4_2yr_mean + bio4_2yr_breadth,
+    'm4' = levelDtNS ~ Mean_used + bio15_2yr_mean + bio15_2yr_breadth)
+    },
+  "_5yr" = {
+    ModelList = list(
+    'm1' = levelDtNS ~ Mean_used + bio1_5yr_mean + bio1_5yr_breadth,
+    'm2' = levelDtNS ~ Mean_used + bio12_5yr_mean + bio12_5yr_breadth,
+    'm3' = levelDtNS ~ Mean_used + bio4_5yr_mean + bio4_5yr_breadth,
+    'm4' = levelDtNS ~ Mean_used + bio15_5yr_mean + bio15_5yr_breadth)
+	},
+	{
+	ModelList = list(
     'm1' = levelDtNS ~ Mean_used + bio1_mean + bio1_breadth,
     'm2' = levelDtNS ~ Mean_used + bio12_mean + bio12_breadth,
     'm3' = levelDtNS ~ Mean_used + bio4_mean + bio4_breadth,
-    'm4' = levelDtNS ~ Mean_used + bio15_mean + bio15_breadth
-  )
+    'm4' = levelDtNS ~ Mean_used + bio15_mean + bio15_breadth)
+	}
+	
+  )  ## switch
+  
+	print(ModelList)
 
-  VarNameList = c("bio1", "bio12", "bio4", "bio15")
+
+  #VarNameList = c("bio1", "bio12", "bio4", "bio15")
   # raw_dt = dt1[, c("Species", "Mean_used", "es_bio1", "pval_bio1", "adjPval_bio1", "sig_bio1", "sig_bio1_nf", "bio1_mean", "bio1_breadth")]
   
   Op = matrix(0, nrow=0, ncol = 23)
@@ -131,12 +177,35 @@ MultiMod <- function(MetaFileName, confintval, TypeOfPVal)
 }
 
 
+## MultiMod (MetaFileName, confintval, TypeOfPVal, VarNameList, years)
+
+
+## For 1 year
+## VarNameList = c("bio1", "bio12", "bio4", "bio15")
+## tt2 = MultiMod("meta_model_data_1yr_sex.csv", 0.95, "FDR", VarNameList, "")
+## write.csv(tt2[[1]], "Multinomial_Summary-Neg_ref_1yr.csv", row.names=FALSE)
+## write.csv(tt2[[2]], "Multinomial_MC-Neg_ref_1yr.csv", row.names=FALSE)
+
+## For 2 year
+## VarNameList = c("bio1_2yr", "bio12_2yr", "bio4_2yr", "bio15_2yr")
+## tt2 = MultiMod("meta_model_data_2yr_sex.csv", 0.95, "FDR", VarNameList, "_2yr")
+## write.csv(tt2[[1]], "Multinomial_Summary-Neg_ref_2yr.csv", row.names=FALSE)
+## write.csv(tt2[[2]], "Multinomial_MC-Neg_ref_2yr.csv", row.names=FALSE)
+
+
+## For 5 year
+## VarNameList = c("bio1_5yr", "bio12_5yr", "bio4_5yr", "bio15_5yr")
+## tt2 = MultiMod("meta_model_data_5yr_sex.csv", 0.95, "FDR", VarNameList, "_5yr")
+## write.csv(tt2[[1]], "Multinomial_Summary-Neg_ref_2yr.csv", row.names=FALSE)
+## write.csv(tt2[[2]], "Multinomial_MC-Neg_ref_2yr.csv", row.names=FALSE)
+
+
 
 
 # # This is in March after changing the strategy of not including the some predictors int he model.
- tt2 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.95, "FDR")
- write.csv(tt1[[1]], "Multinomial_Summary-NS_ref.csv", row.names=FALSE)
- write.csv(tt1[[2]], "Multinomial_MC-NS_ref.csv", row.names=FALSE)
+# tt2 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.95, "FDR")
+# write.csv(tt1[[1]], "Multinomial_Summary-NS_ref.csv", row.names=FALSE)
+# write.csv(tt1[[2]], "Multinomial_MC-NS_ref.csv", row.names=FALSE)
  
 # tt2 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.90, "FDR")
 # tt3 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.85, "FDR")
@@ -144,11 +213,11 @@ MultiMod <- function(MetaFileName, confintval, TypeOfPVal)
 # write.csv(multinom_FDR, "./species_data/ClimateNAData/Multinomial_summ_FDR_20180322.csv", row.names = FALSE)
 
 
-ss1 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.95, "non-FDR")
-ss2 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.90, "non-FDR")
-ss3 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.85, "non-FDR")
-multinom_NFDR = rbind(ss1, ss2, ss3)
-write.csv(multinom_NFDR, "./species_data/ClimateNAData/Multinomial_summ_NFDR_20180322.csv", row.names = FALSE)
+#ss1 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.95, "non-FDR")
+#ss2 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.90, "non-FDR")
+#ss3 = MultiMod("/srv/gspeedq32/body_size/species_data/ClimateNAData/meta_model_data_SPSR_2.csv", 0.85, "non-FDR")
+#multinom_NFDR = rbind(ss1, ss2, ss3)
+#write.csv(multinom_NFDR, "./species_data/ClimateNAData/Multinomial_summ_NFDR_20180322.csv", row.names = FALSE)
 
 
 ### This is before March 2018
