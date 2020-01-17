@@ -1,16 +1,29 @@
 # Fig 1 ----
 # mod_ceof2 from 03_lm.R
+sp_order = arrange(model_results, r.squared)$sp
 sp_taxa = data.frame(sp = factor(sp_order, levels = sp_order)) %>% 
   left_join(select(model_results, sp, taxa) %>% 
               mutate(sp = factor(sp, levels = sp_order))) %>% 
   mutate(co = ifelse(taxa == "birds", "olivedrab", "black"))
+mod_coefs = gather(model_results, 'var', 'value', starts_with('bio')) %>%
+  filter(grepl("_2yr_", var)) %>% 
+  separate('var', c('bio_variable', 'yr_ahead', 'var'), sep = "_") %>%
+  select(sp, n_row, r.squared, r.squared.bio1, bio_variable, var, value) %>%
+  spread('var', 'value') %>%
+  mutate(bio_variable = recode(bio_variable,
+                               'bio1' = 'Temp', 'bio4' = 'Temp S.',
+                               'bio12' = 'Precip', 'bio15' = 'Precip S.'),
+         bio_variable = factor(bio_variable, levels = c('Temp', 'Temp S.', 'Precip', 'Precip S.')),
+         sp = factor(sp, levels = sp_order),
+         sig = ifelse(p.value < 0.05, "*", ""))
+
 p_a_birds = ggplot(filter(mod_coefs, sp %in% filter(sp_taxa, taxa == "birds")$sp), 
              aes(x = bio_variable, y = sp)) +
   geom_tile(aes(fill = estimate, width = 0.5)) +
   scale_fill_gradient2() +
   geom_text(aes(label = sig), nudge_y = -0.3) +
   labs(x = 'Climatic predictors', y = '', fill = 'Coefs') +
-  theme(legend.position = c(0.44, 0.5),
+  theme(legend.position = c(0.5, 0.5),
         legend.text = element_text(size = 7),
         legend.title = element_text(size = 8),
         axis.text.y = element_text(size = 8),
@@ -47,7 +60,7 @@ p_a_mammals = ggplot(filter(mod_coefs, sp %in% filter(sp_taxa, taxa == "mammals"
   scale_fill_gradient2() +
   geom_text(aes(label = sig), nudge_y = -0.3) +
   labs(x = 'Climatic predictors', y = '', fill = 'Coefs') +
-  theme(legend.position = c(0.44, 0.5),
+  theme(legend.position = c(0.5, 0.5),
         legend.text = element_text(size = 7),
         legend.title = element_text(size = 8),
         axis.text.y = element_text(size = 8),
@@ -105,6 +118,21 @@ ggsave(here('figures/fig2_strongest_est.pdf'), width = 6, height = 6)
 
 
 # Fig partial R2
+
+par_r2 = select(model_results, sp, starts_with("partial")) %>%
+  gather('var', 'partial_r2', -sp) %>%
+  mutate(var = recode(var,
+                      'partial_r2_bio1_2yr' = 'Temp', 'partial_r2_bio4_2yr' = 'Temp S.',
+                      'partial_r2_bio12_2yr' = 'Precip', 'partial_r2_bio15_2yr' = 'Precip S.')) %>%
+  filter(!grepl("partial", var))
+
+var_order = group_by(par_r2, var) %>% summarise(median_r2 = median(partial_r2, na.rm = T)) %>%
+  arrange(desc(median_r2)) %>%
+  pull(var)
+
+par_r2 = mutate(par_r2, var = factor(var, levels = var_order))
+
+
 ggplot(par_r2, aes(x = var, y = partial_r2)) +
   ggparl::geom_boxjitter(outlier.color = NA, width = 0.5,
                          jitter.alpha = 0.6, jitter.shape = 21,
